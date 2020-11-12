@@ -21,6 +21,6 @@ A github organisation to collect and disseminate localised open data
 | [food-bank](https://github.com/cheltenham-open-data/food-bank/) | ![Scheduled Build](https://github.com/cheltenham-open-data/food-bank/workflows/Scheduled%20Build/badge.svg) | ![CodeQL](https://github.com/cheltenham-open-data/food-bank/workflows/CodeQL/badge.svg) | ![Linter](https://github.com/cheltenham-open-data/food-bank/workflows/Linter/badge.svg) |
 | [lunches](https://github.com/cheltenham-open-data/lunches) | ![Daily Build](https://github.com/cheltenham-open-data/lunches/workflows/Daily%20Build/badge.svg) |  |![Linter](https://github.com/cheltenham-open-data/lunches/workflows/Linter/badge.svg)|
 | [street-crime](https://github.com/cheltenham-open-data/street-crime) | ![Daily Build](https://github.com/cheltenham-open-data/street-crime/workflows/Daily%20Build/badge.svg) | |![Linter](https://github.com/cheltenham-open-data/street-crime/workflows/Linter/badge.svg)|
-| [Terrorism](https://github.com/cheltenham-open-data/terrorism) | ![Daily Build](https://github.com/cheltenham-open-data/terrorism/workflows/Daily%20Build/badge.svg) | |![Linter](https://github.com/cheltenham-open-data/terrorism/workflows/Linter/badge.svg)|
+| [Terrorism](https://github.com/cheltenham-open-data/terrorism) | ![Scheduled Build](https://github.com/Cheltenham-Open-Data/terrorism/workflows/Scheduled%20Build/badge.svg) | |![Linter](https://github.com/cheltenham-open-data/terrorism/workflows/Linter/badge.svg)|
 
 
