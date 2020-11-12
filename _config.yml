@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 markdown: kramdown
 show_downloads: false
+logo: logo.png
