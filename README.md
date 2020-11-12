@@ -1,6 +1,3 @@
-# cheltenham-open-data.github.io
-
-A github organisation to collect and disseminate localised open data
 
 ## Sites
 
@@ -10,7 +7,6 @@ A github organisation to collect and disseminate localised open data
 - [Lunches](/lunches)
 - [Street crime](/street-crime)
 - [Terrorism](/terrorism)
-
 
 ## Status Badges
 
