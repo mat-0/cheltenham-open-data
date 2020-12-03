@@ -2,6 +2,8 @@
 ## Sites
 
 - [Covid](/covid)
+- [Farmers market](/farmers-market)
+- [Fix my street](/fix-my-street)
 - [Flood warnings](/flood-warnings)
 - [Food bank](/food-bank)
 - [Lunches](/lunches)
