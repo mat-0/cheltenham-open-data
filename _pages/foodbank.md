@@ -3,7 +3,7 @@
 layout: page
 title: Food Bank
 seo: food bank needs in Cheltenham
-permalink: /food-bank
+permalink: /foodbank
 
 ---
 

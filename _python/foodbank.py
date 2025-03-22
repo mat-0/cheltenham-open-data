@@ -23,7 +23,7 @@ if __name__ == "__main__":
                         f"- Network: {data['network']}\n"
                         f"- Charity number: [{data['charity']['registration_id']}]({data['charity']['register_url']})")
 
-    md = root / "_pages/food-bank.md"
+    md = root / "_pages/foodbank.md"
     md_contents = md.open().read()
     md_contents = helper.replace_chunk(md_contents,"summary_marker",output)
     md_contents = helper.replace_chunk(md_contents,"contact_marker",contact_string)
