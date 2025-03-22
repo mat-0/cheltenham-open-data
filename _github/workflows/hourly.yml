@@ -11,6 +11,19 @@ jobs:
             - name: Check out Repo
               uses: actions/checkout@v4
 
+            - name: Fetch latest FMS Data
+              run: |-
+                  curl "https://www.fixmystreet.com/rss/l/51.897991,-2.071308/10" > _data/fix-my-street.xml
+
+            - name: Fetch latest FB Data
+              run: |-
+                curl "https://www.givefood.org.uk/api/2/foodbank/cheltenham/" | jq . > _data/foodbank.json
+
+            - name: Fetch latest Crime Data
+              run: |-
+                curl "https://data.police.uk/api/crimes-street/all-crime?lat=51.9042&lng=-2.10141" | jq . > __data/AA3_all_crime.json
+                curl "https://data.police.uk/api/crimes-street/stops-street?lat=51.9042&lng=-2.10141" | jq . > "_data/AA3_stops_street.json
+
             - name: Set up Python
               uses: actions/setup-python@v5
               with:
@@ -28,10 +41,9 @@ jobs:
             - name: Processing Python Scripts
               run: |-
                   python '_python/fix-my-street.py'
-                  python '_python/flood.py'
                   python '_python/foodbank.py'
+                  python '_python/flood.py'
                   python '_python/street-crime.py'
-
             - name: Commit and push
               run: |-
                   git diff
