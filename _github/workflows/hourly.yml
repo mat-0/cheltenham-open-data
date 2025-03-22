@@ -3,7 +3,8 @@ name: Hourly
 on:
     workflow_dispatch:
     schedule:
-        - cron: "0 * * * *"
+        schedule:
+          - cron: "*/30 * * * *"
 jobs:
     build:
         runs-on: ubuntu-latest
