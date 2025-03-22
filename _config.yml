@@ -48,7 +48,7 @@ navigation_header:
   - name: Flood Warnings
     link: /flood-warnings
   - name: Food Bank
-    link: /food-bank
+    link: /foodbank
   - name: Terrorism
     link: /terrorism
   - name: Street Crime
