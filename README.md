@@ -1,22 +1,12 @@
 
 ## Sites
 
-- [Farmers market](/farmers-market)
 - [Fix my street](/fix-my-street)
 - [Flood warnings](/flood-warnings)
 - [Food bank](/food-bank)
-- [Lunches](/lunches)
 - [Street crime](/street-crime)
 - [Terrorism](/terrorism)
 
-## Status Badges
 
-| Repo | Build | CodeQL | Linter |
-| --- | --- | --- | --- |
-| [flood-warnings](https://github.com/cheltenham-open-data/flood-warnings/) | ![Scheduled Build](https://github.com/Cheltenham-Open-Data/flood-warnings/workflows/Scheduled%20Build/badge.svg) | ![CodeQL](https://github.com/cheltenham-open-data/flood-warnings/workflows/CodeQL/badge.svg) | ![Linter](https://github.com/cheltenham-open-data/flood-warnings/workflows/Linter/badge.svg) |
-| [food-bank](https://github.com/cheltenham-open-data/food-bank/) | ![Scheduled Build](https://github.com/cheltenham-open-data/food-bank/workflows/Scheduled%20Build/badge.svg) | ![CodeQL](https://github.com/cheltenham-open-data/food-bank/workflows/CodeQL/badge.svg) | ![Linter](https://github.com/cheltenham-open-data/food-bank/workflows/Linter/badge.svg) |
-| [lunches](https://github.com/cheltenham-open-data/lunches) | ![Scheduled Build](https://github.com/Cheltenham-Open-Data/lunches/workflows/Scheduled%20Build/badge.svg) | ![CodeQL](https://github.com/cheltenham-open-data/lunches/workflows/CodeQL/badge.svg)  |![Linter](https://github.com/cheltenham-open-data/lunches/workflows/Linter/badge.svg)|
-| [street-crime](https://github.com/cheltenham-open-data/street-crime) | ![Scheduled Build](https://github.com/Cheltenham-Open-Data/street-crime/workflows/Scheduled%20Build/badge.svg) | ![CodeQL](https://github.com/cheltenham-open-data/street-crime/workflows/CodeQL/badge.svg) |![Linter](https://github.com/cheltenham-open-data/street-crime/workflows/Linter/badge.svg)|
-| [terrorism](https://github.com/cheltenham-open-data/terrorism) | ![Scheduled Build](https://github.com/Cheltenham-Open-Data/terrorism/workflows/Scheduled%20Build/badge.svg) | ![CodeQL](https://github.com/cheltenham-open-data/terrorism/workflows/CodeQL/badge.svg) |![Linter](https://github.com/cheltenham-open-data/terrorism/workflows/Linter/badge.svg)|
 
 
