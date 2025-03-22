@@ -29,6 +29,14 @@ jobs:
               run: |-
                 curl "http://environment.data.gov.uk/flood-monitoring/id/floodAreas?lat=51.9&long=-2.08333&dist=10" | jq . > _data/flood.json
 
+            - name: Commit and push
+              run: |-
+                  git diff
+                  git config user.name "GitHub Action"
+                  git config user.email "action@github.com"
+                  git diff --quiet || (git add -A && git commit -m "Updated `date +'%Y-%m-%d %H:%M:%S'`")
+                  git push
+
             - name: Set up Python
               uses: actions/setup-python@v5
               with:
@@ -49,6 +57,7 @@ jobs:
                   python '_python/foodbank.py'
                   python '_python/street-crime.py'
                   python '_python/flood.py'
+
             - name: Commit and push
               run: |-
                   git diff
