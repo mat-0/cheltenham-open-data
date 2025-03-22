@@ -49,5 +49,5 @@ jobs:
                   git diff
                   git config user.name "GitHub Action"
                   git config user.email "action@github.com"
-                  git diff --quiet || (git add -A && git commit -m "New Daily Rundown")
+                  git diff --quiet || (git add -A && git commit -m "Updated `date +'%Y-%m-%d %H:%M:%S'`")
                   git push
