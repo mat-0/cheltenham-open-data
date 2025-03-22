@@ -31,8 +31,8 @@ if __name__ == "__main__":
         string += f'<li>{level}</li>\n'
         string += f'<li>It has been {days_since_update} days since the last change ({update})</li>\n\n'
         string += f'<li>Details: {desc}</li>\n'
-        string += "</ul>\n"
-        string += "</div>\n"
+        string += f'</ul>\n'
+        string += f'</div>\n'
         f = root / "_pages/terrorism.md"
         m = f.open().read()
         c = helper.replace_chunk(m, "threat_marker", string)
