@@ -1,67 +1,72 @@
 ---
 name: Hourly
 on:
-    workflow_dispatch:
+  workflow_dispatch:
+  schedule:
     schedule:
-        schedule:
-          - cron: "*/30 * * * *"
+      - cron: "*/30 * * * *"
 jobs:
-    build:
-        runs-on: ubuntu-latest
-        steps:
-            - name: Check out Repo
-              uses: actions/checkout@v4
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out Repo
+        uses: actions/checkout@v4
 
-            - name: Fetch latest FMS Data
-              run: |-
-                  curl "https://www.fixmystreet.com/rss/l/51.897991,-2.071308/10" > _data/fix-my-street.xml
+      - name: Fetch latest FMS Data
+        run: |-
+          curl "https://www.fixmystreet.com/rss/l/51.897991,-2.071308/10" > _data/fix-my-street.xml
 
-            - name: Fetch latest FB Data
-              run: |-
-                curl "https://www.givefood.org.uk/api/2/foodbank/cheltenham/" | jq . > _data/foodbank.json
+      - name: Fetch latest FB Data
+        run: |-
+          curl "https://www.givefood.org.uk/api/2/foodbank/cheltenham/" | jq . > _data/foodbank.json
 
-            - name: Fetch latest Crime Data
-              run: |-
-                curl "https://data.police.uk/api/crimes-street/all-crime?lat=51.9042&lng=-2.10141" | jq . > __data/AA3_all_crime.json
-                curl "https://data.police.uk/api/crimes-street/stops-street?lat=51.9042&lng=-2.10141" | jq . > "_data/AA3_stops_street.json
+      - name: Fetch latest Crime Data
+        run: |-
+          curl "https://data.police.uk/api/crimes-street/all-crime?lat=51.9042&lng=-2.10141" | jq . > __data/AA3_all_crime.json
+          curl "https://data.police.uk/api/crimes-street/stops-street?lat=51.9042&lng=-2.10141" | jq . > "_data/AA3_stops_street.json
 
-            - name: Fetch Flood data
-              run: |-
-                curl "http://environment.data.gov.uk/flood-monitoring/id/floodAreas?lat=51.9&long=-2.08333&dist=10" | jq . > _data/flood.json
+      - name: Fetch Flood data
+        run: |-
+          curl "http://environment.data.gov.uk/flood-monitoring/id/floodAreas?lat=51.9&long=-2.08333&dist=10" | jq . > _data/flood.json
 
-            - name: Commit and push
-              run: |-
-                  git diff
-                  git config user.name "GitHub Action"
-                  git config user.email "action@github.com"
-                  git diff --quiet || (git add -A && git commit -m "Updated `date +'%Y-%m-%d %H:%M:%S'`")
-                  git push
+      - name: Fetch latest terrorism data
+        run: |-
+          curl "https://www.mi5.gov.uk/UKThreatLevel/UKThreatLevel.xml" > _data/terrorism.xml
 
-            - name: Set up Python
-              uses: actions/setup-python@v5
-              with:
-                  python-version: 3.13.1
-            - uses: actions/cache@v4
-              name: Configure pip Caching
-              with:
-                  path: ~/.cache/pip
-                  key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
-                  restore-keys: |
-                      ${{ runner.os }}-pip-
-            - name: Install Python Dependencies
-              run: |
-                  python -m pip install -r requirements.txt
-            - name: Processing Python Scripts
-              run: |-
-                  python '_python/fix-my-street.py'
-                  python '_python/foodbank.py'
-                  python '_python/street-crime.py'
-                  python '_python/flood.py'
+      - name: Commit and push
+        run: |-
+          git diff
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git diff --quiet || (git add -A && git commit -m "Updated `date +'%Y-%m-%d %H:%M:%S'`")
+          git push
 
-            - name: Commit and push
-              run: |-
-                  git diff
-                  git config user.name "GitHub Action"
-                  git config user.email "action@github.com"
-                  git diff --quiet || (git add -A && git commit -m "Updated `date +'%Y-%m-%d %H:%M:%S'`")
-                  git push
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: 3.13.1
+      - uses: actions/cache@v4
+        name: Configure pip Caching
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+      - name: Install Python Dependencies
+        run: |
+          python -m pip install -r requirements.txt
+      - name: Processing Python Scripts
+        run: |-
+          python '_python/fix-my-street.py'
+          python '_python/foodbank.py'
+          python '_python/street-crime.py'
+          python '_python/flood.py'
+          python '_python/terrorism.py'
+
+      - name: Commit and push
+        run: |-
+          git diff
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git diff --quiet || (git add -A && git commit -m "Updated `date +'%Y-%m-%d %H:%M:%S'`")
+          git push
