@@ -7,10 +7,10 @@ url: https://cheltenham-open-data.github.io
 copyright: "MB"
 encoding: UTF-8
 future: false
-repository: Cheltenham-Open-Data/cod
+repository: Cheltenham-Open-Data/Cheltenham-Open-Data.github.io
 defaultImagePath: "/images/splashscreens/apple-touch-icon-180x180.png"
 github:
-  repository_url: https://github.com/Cheltenham-Open-Data/cod
+  repository_url: https://github.com/Cheltenham-Open-Data/Cheltenham-Open-Data.github.io
   branch: main
 sass:
   style: compressed
