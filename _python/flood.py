@@ -10,6 +10,6 @@ if __name__ == "__main__":
 
         with open("_data/flood.json", "r") as f:
             data = json.load(f)
-        helper.convert_to_rss(data, "flood.xml")
+        helper.convert_to_rss(data, "/flood.xml")
 
         print("RSS feed saved to flood.xml")
