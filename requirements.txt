@@ -1,0 +1,7 @@
+requests
+python-dateutil
+pathlib
+json
+os
+re
+feedgenerator
