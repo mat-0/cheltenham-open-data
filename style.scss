@@ -8,11 +8,11 @@ html {
 }
 // 16px = 1em
 
-$background: #f5f4f4;
-$primary: #04100d;
-$secondary: #005ca3;
-$links: #295147;
-$accent: #cec452;
+$background: #e1efe6;
+$primary: #aeb7b3;
+$secondary: #586ba5;
+$links: #324376;
+$accent: #efcb68;
 $font-stack: -system-ui, "Gill Sans", sans-serif;
 $font-mono: ui-monospace, monospace, "Courier New";
 
@@ -457,32 +457,32 @@ img {
 
 .LOW {
     color: #155724;
-    background-color: #d4edda;
-    border-color: #c3e6cb;
+    background-color: #b3bbbb;
+    border-color: #1d1a05;
 }
 
 .MODERATE {
     color: #856404;
-    background-color: #fff3cd;
-    border-color: #ffeeba;
+    background-color: #cd8388;
+    border-color: #1d1a05;
 }
 
 .SUBSTANTIAL {
     color: #0c5460;
-    background-color: #d1ecf1;
-    border-color: #bee5eb;
+    background-color: #efcb68;
+    border-color: #1d1a05;
 }
 
 .SEVERE {
     color: #721c24;
-    background-color: #f8d7da;
-    border-color: #f5c6cb;
+    background-color: #81523f;
+    border-color: #1d1a05;
 }
 
 .CRITICAL {
     color: #721c24;
-    background-color: #f8d7da;
-    border-color: #f5c6cb;
+    background-color: #ff4a1c;
+    border-color: #1d1a05;
 }
 
 @media only screen and (min-width: 320px) and (max-width: 480px) {
