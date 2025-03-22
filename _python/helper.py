@@ -1,14 +1,14 @@
+from ast import parse
 import re
 import json
 from datetime import datetime
-from dateutil.parser import parse
 import pathlib
 import os
+import requests
 from requests import get
 import random
 import feedparser
 import json
-import requests
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
 import helper
