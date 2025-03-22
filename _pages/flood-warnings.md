@@ -1,15 +1,13 @@
 ---
 
 layout: page
-title: Flood Warnings
+title: Flood Warnings Feed
 seo: flood warnings in Cheltenham
 permalink: /flood-warnings
 
 ---
 
-# Flood Warnings RSS Feed
-
-This project fetches flood warning data for the Gloucestershire area and publishes it as an RSS feed.
+This project fetches flood warning data for the Gloucestershire area and publishes it as an [RSS feed](/flood.xml).
 
 ## Setup
 
@@ -21,4 +19,3 @@ This project fetches flood warning data for the Gloucestershire area and publish
 
 ## Spec
 
-see https://environment.data.gov.uk/flood-monitoring/doc/reference
