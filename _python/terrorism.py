@@ -25,11 +25,13 @@ if __name__ == "__main__":
             level_class = level.split()[-1]
 
 
-        string = f"<h1>{level_class}</h1>\n"
+        string = f"<h3>{level_class}</h3>\n"
         string += f'<div class="{level_class}">\n\n'
-        string += f"- {level}\n"
-        string += f"- It has been {days_since_update} days since the last change ({update})\n"
-        string += f"- Details: {desc}\n"
+        string += f"<ul>/n"
+        string += f"<li>{level}</li>\n"
+        string += f"<li>It has been {days_since_update} days since the last change ({update})</li>\n"
+        string += f"<li>Details: {desc}</li>\n"
+        string += "</ul>\n"
         string += "</div>\n"
         f = root / "_pages/terrorism.md"
         m = f.open().read()
