@@ -43,8 +43,6 @@ include:
 # Site Navigation
 ## Header
 navigation_header:
-  - name: Home
-    link: /
   - name: Fix My Street
     link: /fix-my-street
   - name: Flood Warnings
