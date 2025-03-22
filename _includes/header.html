@@ -39,7 +39,11 @@
                     </div>
                     <div class="blog-image"></div>
                     <p class="blog-slogan">
-                        // Hopefully Helpful Tools
+                        {% if site.description %}
+                        {{ site.description }}
+                        {% else %}
+                        {{ page.description }}
+                        {% endif %}
                     </p>
                     <nav class="blog-menu">
                         {% if page.id %}
@@ -47,6 +51,10 @@
                         {% else %}
                         <a href="{{ site.url }}" title="Back to all home">&larr; Home</a>
                         {% endif %}
+
+                        {% for item in site.data.navigation %}
+                        <a href="{{ item.link }}">{{ item.name }}</a>|
+                        {% endfor %}
                     </nav>
                 </header>
                 <main id="main" class="content">
