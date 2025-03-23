@@ -17,7 +17,8 @@ jobs:
 
             - name: Fetch latest FB Data
               run: |-
-                  curl "https://www.givefood.org.uk/api/2/foodbank/cheltenham/" | jq . > _data/foodbank.json
+                  curl "https://www.givefood.org.uk/api/2/foodbank/cheltenham/" | jq . > _data/foodbank-cheltenham.json
+                  curl "https://www.givefood.org.uk/api/2/foodbank/cheltenham-open-door/" | jq . > _data/foodbank-open-door.json
 
             - name: Fetch latest Crime Data
               run: |-
