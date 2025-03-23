@@ -5,9 +5,8 @@ json
 os
 re
 feedgenerator
-datetime import datetime
-dateutil.parser import parse
-from requests import get
+datetime
+dateutil.parser
 random
 feedparser
 
