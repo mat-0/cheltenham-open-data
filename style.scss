@@ -8,11 +8,11 @@ html {
 }
 // 16px = 1em
 
-$background: #e1efe6;
-$primary: #08070d;
-$secondary: #586ba5;
-$links: #324376;
-$accent: #efcb68;
+$background: #FCFFFC;
+$primary: #040F0F;
+$secondary: #7B435B;
+$links: #3E92CC;
+$accent: #8B687F;
 $font-stack: -system-ui, "Gill Sans", sans-serif;
 $font-mono: ui-monospace, monospace, "Courier New";
 
@@ -36,7 +36,7 @@ $font-mono: ui-monospace, monospace, "Courier New";
 }
 
 .highlight > pre {
-    background: #a2a2a2;
+    background: #c8c7c7;
     color: $primary;
     padding: 0.525em;
     border-radius: 0.5em;
