@@ -3,14 +3,14 @@ permalink: ./:title
 title: "Cheltenham Open Data"
 description: "// collecting and disseminating localised open data"
 author: "Mat"
-url: https://cheltenham-open-data.github.io
+url: https://cod.thechels.uk
 copyright: "MB"
 encoding: UTF-8
 future: false
-repository: Cheltenham-Open-Data/Cheltenham-Open-Data.github.io
+repository: Mat-0/cheltenham-open-data
 defaultImagePath: "/images/splashscreens/apple-touch-icon-180x180.png"
 github:
-  repository_url: https://github.com/Cheltenham-Open-Data/Cheltenham-Open-Data.github.io
+  repository_url: https://github.com/Mat-0/cheltenham-open-data
   branch: main
 sass:
   style: compressed
