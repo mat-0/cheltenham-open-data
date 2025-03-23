@@ -54,6 +54,8 @@ jobs:
             - name: Install Python Dependencies
               run: |
                   python -m pip install -r requirements.txt
+              env:
+                  OPEN_WEATHER_KEY: ${{ secrets.OPEN_WEATHER_KEY }}
             - name: Processing Python Scripts
               run: |-
                   python '_python/fix-my-street.py'
@@ -61,6 +63,7 @@ jobs:
                   python '_python/street-crime.py'
                   python '_python/flood.py'
                   python '_python/terrorism.py'
+                  python '_python/weather.py'
 
             - name: Commit and push
               run: |-
