@@ -1,8 +1,6 @@
 requests
 python-dateutil
 pathlib
-os
-re
 feedgenerator
 datetime
 dateutil.parser
