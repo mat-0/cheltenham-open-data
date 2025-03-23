@@ -9,15 +9,7 @@ seo: Menu
 
 
 <!-- weather_marker starts -->
-### On Sunday, 23 March 2025
-
-- The average temperature today is 9.67˚C,
-- With highs of 11.03˚C and lows of 9.26˚C,
-- It may feel like 7.79˚C with drizzle
-- The wind speed is 3.6m/s and visibility is 1800m
-- The pressure is 1005hPa and humidity is 94%
-- The sun will rise at 06:03 and set at 18:25
-
+- Weather data not available
 <!-- weather_marker ends -->
 
 
