@@ -3,7 +3,6 @@ import re
 import json
 import requests
 from requests import get
-import json
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
 
