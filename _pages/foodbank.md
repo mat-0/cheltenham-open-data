@@ -34,17 +34,26 @@ Last updated: 2025-02-12
 <!-- contact1_marker ends -->
 
 <!-- summary2_marker starts -->
-## List of needed items in Cheltenham
+## List of needed items in Cheltenham Open Door
 
-Last updated: 2025-02-12
+Last updated: 2024-09-05
 
-- Tinned Cold Meat (Or Fish)
-- Pasta Sauce
-- Washing Up Liquid, Washing Powder (Powder Or Capsules Please, Not Liquid)
-- Soup - Packets Or Tins
-- Desserts - Hot Or Cold, Packets Or Cans
-- Deodorants - Ladies And Men's
-- Nappies - Size 4
+- Instant Coffee
+- Squeezy Cheese Tubes (Great For Our Guests Who Are Street Homeless)
+- Tinned Meat And Fish
+- Tinned Fruit And Puddings
+- Tinned Potatoes And Instant Mash
+- Tinned ‘Ready Meals’ (Chilli, Curry, Pies Etc)
+- Tinned Soup
+- Tinned Carrots And Peas
+- Instant And Pot Noodles
+- Dry Sachets Of Pasta N Sauce
+- Jars Of Pasta Sauce
+- Biscuits And Chewy Bars
+- Chocolate, Sweets And Treats
+- Jam, Marmalade, Peanut Butter, Choc Spread, Marmite
+- Crisps And Nuts
+- Zip Loc Bags (For Keeping Food Dry On The Go)
 <!-- summary2_marker ends -->
 
 [shopping list](https://cheltenham.foodbank.org.uk/give-help/donate-food/)
@@ -52,9 +61,9 @@ Last updated: 2025-02-12
 ### Contact Details
 
 <!-- contact2_marker starts -->
-- Email: foodbank@cheltenhamelim.org
-- Tel: 01242570080
-- Address: Cheltenham Elim Church 115-117 St George's Road Cheltenham GL50 3ED
-- Network: Trussell
-- Charity number: [251549](https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=251549&subid=0)
+- Email: treasurer@cheltenhamopendoor.org.uk
+- Tel: 01242577418
+- Address: Unit 3 St George’s Business Park Alstone Lane Cheltenham GL51 8HF
+- Network: Independent
+- Charity number: [1063434](https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1063434&subid=0)
 <!-- contact2_marker ends -->
