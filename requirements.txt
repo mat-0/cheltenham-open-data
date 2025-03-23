@@ -3,7 +3,7 @@ python-dateutil
 pathlib
 feedgenerator
 datetime
-dateutil.parser
+dateutil
 random
 feedparser
 
