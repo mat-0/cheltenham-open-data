@@ -26,7 +26,7 @@ jobs:
 
             - name: Fetch Flood data
               run: |-
-                  curl "http://environment.data.gov.uk/flood-monitoring/id/floodAreas?lat=51.9&long=-2.08333&dist=10" | jq . > _data/flood.json
+                  curl "https://environment.data.gov.uk/flood-monitoring/id/floods" | jq . > _data/flood.json
 
             - name: Fetch latest terrorism data
               run: |-
