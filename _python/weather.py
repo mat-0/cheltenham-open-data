@@ -34,7 +34,7 @@ if __name__ == "__main__":
             sunrise = datetime.datetime.fromtimestamp(response_dict["sys"]["sunrise"]).strftime("%H:%M")
             sunset = datetime.datetime.fromtimestamp(response_dict["sys"]["sunset"]).strftime("%H:%M")
 
-            string_today = f"### On {output_date}\n\n"
+            string_today = f"## On {output_date}\n\n"
             string_today += f"- The average temperature today is {day_temp}˚C,\n"
             string_today += f"- With highs of {high_temp}˚C and lows of {low_temp}˚C,\n"
             string_today += f"- It may feel like {feels_like}˚C with {day_desc}\n"
