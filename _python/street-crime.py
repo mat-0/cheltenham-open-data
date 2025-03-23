@@ -17,7 +17,7 @@ if __name__ == "__main__":
             crimes = json.load(filehandler)
             for crime in crimes:
                 rows += f"\n<tr><td>{crime['id']}</td><td>{crime['category']}</td><td>{crime['month']}</td><td>{crime['location']['street']['name']}</td></tr>"
-    md_page = root / "index.html"
+    md_page = root / "_pages/street-crime.md"
     md_contents = md_page.open().read()
     final_output = helper.replace_chunk(md_contents, "table_marker", f"{rows}")
     md_page.open("w").write(final_output)

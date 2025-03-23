@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Yet more rubbish dumped here., 22nd March :- [https://www.fixmystreet.com/report/7320741](https://www.fixmystreet.com/report/7320741)
+- Street light not working, 22nd March :- [https://www.fixmystreet.com/report/7320692](https://www.fixmystreet.com/report/7320692)
 - Numerous potholes in road and uneven pavement, 22nd March :- [https://www.fixmystreet.com/report/7320519](https://www.fixmystreet.com/report/7320519)
 - Drain hole covered in mud on Albert Road., 22nd March :- [https://www.fixmystreet.com/report/7320418](https://www.fixmystreet.com/report/7320418)
 - Footpath to 1 Limber broken up and dangerous. Caused by Council grass cutters going over path with their vehicles. Have been reporting this for over 3 years. Dangerous, 22nd March :- [https://www.fixmystreet.com/report/7320322](https://www.fixmystreet.com/report/7320322)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Poor parking on corner, 22nd March :- [https://www.fixmystreet.com/report/7319223](https://www.fixmystreet.com/report/7319223)
 - Road Closed Signs when road is open., 22nd March :- [https://www.fixmystreet.com/report/7319021](https://www.fixmystreet.com/report/7319021)
 - Utility trench has sunk, 22nd March :- [https://www.fixmystreet.com/report/7318926](https://www.fixmystreet.com/report/7318926)
-- Multiple deep potholes, 22nd March :- [https://www.fixmystreet.com/report/7318896](https://www.fixmystreet.com/report/7318896)
-- Abandoned/flytipped caravan, 22nd March :- [https://www.fixmystreet.com/report/7318767](https://www.fixmystreet.com/report/7318767)
 
 <!-- fix_marker ends -->
