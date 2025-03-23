@@ -1,4 +1,4 @@
-from ast import parse
+from dateutil.parser import parse
 import re
 import json
 import requests
@@ -56,7 +56,7 @@ def replace_chunk(content, marker, chunk):
         r"<!\-\- {} starts \-\->.*<!\-\- {} ends \-\->".format(marker, marker),
         re.DOTALL,
     )
-    chunk = "<!-- {} starts -->\n{}\n<!-- {} ends -->".format(marker, chunk, marker)
+    chunk = "<!-- {} starts -->\n{}\\n<!-- {} ends -->".format(marker, chunk, marker)
     return replacer.sub(chunk, content)
 
 def fetch_flood_data():
