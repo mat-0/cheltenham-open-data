@@ -3,7 +3,6 @@ import helper
 import pathlib
 import json
 
-
 if __name__ == "__main__":
     root = pathlib.Path(__file__).parent.parent.resolve()
     with open(root / "_data/foodbank-cheltenham.json", 'r') as filehandler:

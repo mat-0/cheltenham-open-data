@@ -1,6 +1,5 @@
 # importing modules
 import pathlib
-
 import feedparser
 import helper
 from datetime import datetime

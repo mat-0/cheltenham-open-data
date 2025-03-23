@@ -3,7 +3,6 @@ import helper
 import feedparser
 import pathlib
 
-
 root = pathlib.Path(__file__).parent.parent.resolve()
 url = root / "_data/fix-my-street.xml"
 string_output = ""
