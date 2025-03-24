@@ -4,8 +4,9 @@ import feedparser
 import helper
 from datetime import datetime, timedelta
 
-URL_1 ="https://www.gloucestershirelive.co.uk/?service=rss"
-URL_2 ="http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/england/gloucestershire/rss.xml"
+URL_1 ="http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/england/gloucestershire/rss.xml"
+URL_2 ="https://www.gloucestershire.police.uk/news/gloucestershire/news/GetNewsRss/"
+URL_3 ="https://gloucesternewscentre.co.uk/category/gloucestershire-news/cheltenham-news/feed/"
 
 
 def time_ago(published_parsed):
@@ -28,7 +29,7 @@ if __name__ == "__main__":
     try:
         root = pathlib.Path(__file__).parent.parent.resolve()
 
-        urls = [URL_1, URL_2]
+        urls = [URL_1, URL_2, URL_3]
         all_items = []
 
         for URL in urls:
