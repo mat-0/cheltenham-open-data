@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Overflowing dog poo bin, 24th March :- [https://www.fixmystreet.com/report/7326189](https://www.fixmystreet.com/report/7326189)
+- Deep pothole in road caused my car to swerve when hit it and burst my passenger side front tyre, 24th March :- [https://www.fixmystreet.com/report/7325926](https://www.fixmystreet.com/report/7325926)
+- Just passed bus stop and entrance to crematorium and near to manhole cover, 24th March :- [https://www.fixmystreet.com/report/7325754](https://www.fixmystreet.com/report/7325754)
+- Just passed bus stop and entrance to crematorium and near to manhole cover, 24th March :- [https://www.fixmystreet.com/report/7325752](https://www.fixmystreet.com/report/7325752)
+- Many pot holes along the whole road, 24th March :- [https://www.fixmystreet.com/report/7325605](https://www.fixmystreet.com/report/7325605)
+- As you go round the corner there are 2 pot holes in the brick paver, sticking up, 24th March :- [https://www.fixmystreet.com/report/7325591](https://www.fixmystreet.com/report/7325591)
 - 'Diversion' signs left in situ on grass verge and no longer in use. Been there for weeks., 24th March :- [https://www.fixmystreet.com/report/7325373](https://www.fixmystreet.com/report/7325373)
 - TMC - Defects -CW6 Potholes  problem, 24th March :- [https://www.fixmystreet.com/report/7325418](https://www.fixmystreet.com/report/7325418)
 - TMC - Defects -CW6 Potholes  problem, 24th March :- [https://www.fixmystreet.com/report/7325417](https://www.fixmystreet.com/report/7325417)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Flytipped fridge and rubbish, 24th March :- [https://www.fixmystreet.com/report/7324650](https://www.fixmystreet.com/report/7324650)
 - Corner of Alma rd and chapman way Hatherley, 24th March :- [https://www.fixmystreet.com/report/7324615](https://www.fixmystreet.com/report/7324615)
 - Graffiti on road signs at junction Cirencester Rd/London Rd, 23rd March :- [https://www.fixmystreet.com/report/7324428](https://www.fixmystreet.com/report/7324428)
-- Multiple potholes King Alfred Way, near Hales Rd, 23rd March :- [https://www.fixmystreet.com/report/7324406](https://www.fixmystreet.com/report/7324406)
-- Pothole around ironwork outside 224 London Rd, 23rd March :- [https://www.fixmystreet.com/report/7324392](https://www.fixmystreet.com/report/7324392)
-- Blocked drain, Cirencester Rd opp entrance to Spirax, 23rd March :- [https://www.fixmystreet.com/report/7324389](https://www.fixmystreet.com/report/7324389)
-- Pothole around ironwork, Cirencester Rd between Chancel Way & Spirax, 23rd March :- [https://www.fixmystreet.com/report/7324382](https://www.fixmystreet.com/report/7324382)
-- Blocked drain outside 53 Cirencester Rd, 23rd March :- [https://www.fixmystreet.com/report/7324369](https://www.fixmystreet.com/report/7324369)
-- Pothole Cudnall St, opp number 19, 23rd March :- [https://www.fixmystreet.com/report/7324344](https://www.fixmystreet.com/report/7324344)
 
 <!-- fix_marker ends -->
