@@ -43,6 +43,8 @@ include:
 # Site Navigation
 ## Header
 navigation_header:
+  - name: Farmers Market
+    link: /farmers-market
   - name: Fix My Street
     link: /fix-my-street
   - name: Flood Warnings
