@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Inconsiderate parking, 24th March :- [https://www.fixmystreet.com/report/7331545](https://www.fixmystreet.com/report/7331545)
 - Large area of significant potholes in carriageway causing a danger to life for cyclists, 24th March :- [https://www.fixmystreet.com/report/7331352](https://www.fixmystreet.com/report/7331352)
 - Large area of deep delamination on driving line, 24th March :- [https://www.fixmystreet.com/report/7330598](https://www.fixmystreet.com/report/7330598)
 - Damaged kerbs. Sharp edges causing punctures, 24th March :- [https://www.fixmystreet.com/report/7330042](https://www.fixmystreet.com/report/7330042)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Not fixed, 24th March :- [https://www.fixmystreet.com/report/7326993](https://www.fixmystreet.com/report/7326993)
 - TMC - Defects - Other problem, 24th March :- [https://www.fixmystreet.com/report/7326935](https://www.fixmystreet.com/report/7326935)
 - Pot hole, 24th March :- [https://www.fixmystreet.com/report/7326314](https://www.fixmystreet.com/report/7326314)
-- Pot hole developing, 24th March :- [https://www.fixmystreet.com/report/7326276](https://www.fixmystreet.com/report/7326276)
 
 <!-- fix_marker ends -->
