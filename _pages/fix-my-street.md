@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- A pothole in road problem, 24th March :- [https://www.fixmystreet.com/report/7328143](https://www.fixmystreet.com/report/7328143)
+- Abandoned vehicle, 24th March :- [https://www.fixmystreet.com/report/7327902](https://www.fixmystreet.com/report/7327902)
 - Not fixed, 24th March :- [https://www.fixmystreet.com/report/7326993](https://www.fixmystreet.com/report/7326993)
 - TMC - Defects - Other problem, 24th March :- [https://www.fixmystreet.com/report/7326935](https://www.fixmystreet.com/report/7326935)
 - Pot hole, 24th March :- [https://www.fixmystreet.com/report/7326314](https://www.fixmystreet.com/report/7326314)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - 8 inch pothole on edge of road, 24th March :- [https://www.fixmystreet.com/report/7325064](https://www.fixmystreet.com/report/7325064)
 - 20 inch pothole outside Cotswold Hills Golf Club, 24th March :- [https://www.fixmystreet.com/report/7324977](https://www.fixmystreet.com/report/7324977)
 - Deep potholes in road, 24th March :- [https://www.fixmystreet.com/report/7324956](https://www.fixmystreet.com/report/7324956)
-- Two potholes adjacent to Barbara Cottage, 24th March :- [https://www.fixmystreet.com/report/7324858](https://www.fixmystreet.com/report/7324858)
-- Pothole increasing in depth and length on the left heading towards Staverton, 24th March :- [https://www.fixmystreet.com/report/7324779](https://www.fixmystreet.com/report/7324779)
 
 <!-- fix_marker ends -->
