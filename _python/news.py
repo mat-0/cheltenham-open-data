@@ -48,7 +48,7 @@ if __name__ == "__main__":
 
         string = ""
         for item in all_items:
-            string += f"- {item['title']} ({item['published']})\n"
+            string += f"- {item['title']} ([{item['published']}]({item['link']}))\n"
 
         f = root / "_pages/news.md"
         m = f.open().read()

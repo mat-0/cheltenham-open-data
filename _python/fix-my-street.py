@@ -8,7 +8,9 @@ url = root / "_data/fix-my-street.xml"
 string_output = ""
 entries = feedparser.parse(url)["entries"]
 for entry in entries:
-    string_output += f"\n- {entry['title']} :- [{entry['link']}]({entry['link']})"
+    link_suffix = entry['link'].split('//')[-1].split('/report/')[1:]
+    link_suffix = '/'.join(link_suffix)
+    string_output += f"\n- {entry['title']} :- [{link_suffix}]({entry['link']})"
 
 if __name__ == "__main__":
     readme = root / "_pages/fix-my-street.md"
