@@ -7,6 +7,7 @@ from datetime import datetime, timedelta
 URL_1 ="http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/england/gloucestershire/rss.xml"
 URL_2 ="https://www.gloucestershire.police.uk/news/gloucestershire/news/GetNewsRss/"
 URL_3 ="https://gloucesternewscentre.co.uk/category/gloucestershire-news/cheltenham-news/feed/"
+URL_4 ="https://www.cheltenham.gov.uk/rss/news"
 
 
 def time_ago(published_parsed):
@@ -29,7 +30,7 @@ if __name__ == "__main__":
     try:
         root = pathlib.Path(__file__).parent.parent.resolve()
 
-        urls = [URL_1, URL_2, URL_3]
+        urls = [URL_1, URL_2, URL_3, URL_4]
         all_items = []
 
         for URL in urls:
