@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Corner of Alma rd and chapman way Hatherley, 24th March :- [https://www.fixmystreet.com/report/7324615](https://www.fixmystreet.com/report/7324615)
 - Graffiti on road signs at junction Cirencester Rd/London Rd, 23rd March :- [https://www.fixmystreet.com/report/7324428](https://www.fixmystreet.com/report/7324428)
 - Multiple potholes King Alfred Way, near Hales Rd, 23rd March :- [https://www.fixmystreet.com/report/7324406](https://www.fixmystreet.com/report/7324406)
 - Pothole around ironwork outside 224 London Rd, 23rd March :- [https://www.fixmystreet.com/report/7324392](https://www.fixmystreet.com/report/7324392)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Raised kerbstone, London Rd opposite Badhams at Sixways, 23rd March :- [https://www.fixmystreet.com/report/7324205](https://www.fixmystreet.com/report/7324205)
 - Blocked drain London Rd near the Langton, 23rd March :- [https://www.fixmystreet.com/report/7324197](https://www.fixmystreet.com/report/7324197)
 - Two blocked drains on Hales Rd/London Rd outside 102 London Rd, 23rd March :- [https://www.fixmystreet.com/report/7324192](https://www.fixmystreet.com/report/7324192)
-- Flickering Give Way sign outside 6a Sydenham Rd South, 23rd March :- [https://www.fixmystreet.com/report/7324182](https://www.fixmystreet.com/report/7324182)
 
 <!-- fix_marker ends -->
