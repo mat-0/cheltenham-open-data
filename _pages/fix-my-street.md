@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Public bin removed from London Rd at end of Cudnall St, 24th March :- [7331841](https://www.fixmystreet.com/report/7331841)
 - Diversion signs left on grass verge from previous works, no longer in use. Located on grass verge next to comms cab and Raleigh Lodge house., 24th March :- [7331764](https://www.fixmystreet.com/report/7331764)
 - Inconsiderate parking, 24th March :- [7331545](https://www.fixmystreet.com/report/7331545)
 - Large area of significant potholes in carriageway causing a danger to life for cyclists, 24th March :- [7331352](https://www.fixmystreet.com/report/7331352)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Dead trees, 24th March :- [7328271](https://www.fixmystreet.com/report/7328271)
 - A pothole in road problem, 24th March :- [7328143](https://www.fixmystreet.com/report/7328143)
 - Abandoned vehicle, 24th March :- [7327902](https://www.fixmystreet.com/report/7327902)
-- Not fixed, 24th March :- [7326993](https://www.fixmystreet.com/report/7326993)
 
 <!-- fix_marker ends -->
