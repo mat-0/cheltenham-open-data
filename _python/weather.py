@@ -1,18 +1,20 @@
-import requests
+# importing modules
 import json
 import os
-import helper
-import datetime
 import pathlib
-
-API_KEY = os.getenv("OPEN_WEATHER_KEY") or ''
-CITY = 'Cheltenham'
-BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
-url = f"{BASE_URL}?q={CITY}&appid={API_KEY}&units=metric"
+import datetime
+import helper
+import requests
 
 if __name__ == "__main__":
     try:
         root = pathlib.Path(__file__).parent.parent.resolve()
+
+        APIKEY = os.getenv("OPEN_WEATHER_KEY") or ''
+        CITY = 'Cheltenham'
+        BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
+        url = f"{BASE_URL}?q={CITY}&appid={APIKEY}&units=metric"
+
         response = requests.get(url)
         response_dict = json.loads(response.text)
 

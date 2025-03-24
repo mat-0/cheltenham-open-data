@@ -55,9 +55,9 @@ jobs:
             - name: Install Python Dependencies
               run: |
                   python -m pip install -r requirements.txt
+            - name: Processing Python Scripts
               env:
                   OPEN_WEATHER_KEY: ${{ secrets.OPEN_WEATHER_KEY }}
-            - name: Processing Python Scripts
               run: |-
                   python '_python/fix-my-street.py'
                   python '_python/foodbank.py'
