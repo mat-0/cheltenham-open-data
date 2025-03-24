@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Road works with traffic lights Swindon lane, 24th March :- [https://www.fixmystreet.com/report/7329640](https://www.fixmystreet.com/report/7329640)
+- Filthy street from decomposing leaves ect on both sides of Road, 24th March :- [https://www.fixmystreet.com/report/7329306](https://www.fixmystreet.com/report/7329306)
+- Poor Road Markings, 24th March :- [https://www.fixmystreet.com/report/7329277](https://www.fixmystreet.com/report/7329277)
+- A pothole in road problem, 24th March :- [https://www.fixmystreet.com/report/7329236](https://www.fixmystreet.com/report/7329236)
 - Abandoned Waitrose Trolley, 24th March :- [https://www.fixmystreet.com/report/7328417](https://www.fixmystreet.com/report/7328417)
 - The whole road is a pothole., 24th March :- [https://www.fixmystreet.com/report/7328360](https://www.fixmystreet.com/report/7328360)
 - Car left on double yellows., 24th March :- [https://www.fixmystreet.com/report/7328316](https://www.fixmystreet.com/report/7328316)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Just passed bus stop and entrance to crematorium and near to manhole cover, 24th March :- [https://www.fixmystreet.com/report/7325752](https://www.fixmystreet.com/report/7325752)
 - Many pot holes along the whole road, 24th March :- [https://www.fixmystreet.com/report/7325605](https://www.fixmystreet.com/report/7325605)
 - As you go round the corner there are 2 pot holes in the brick paver, sticking up, 24th March :- [https://www.fixmystreet.com/report/7325591](https://www.fixmystreet.com/report/7325591)
-- 'Diversion' signs left in situ on grass verge and no longer in use. Been there for weeks., 24th March :- [https://www.fixmystreet.com/report/7325373](https://www.fixmystreet.com/report/7325373)
-- TMC - Defects -CW6 Potholes  problem, 24th March :- [https://www.fixmystreet.com/report/7325418](https://www.fixmystreet.com/report/7325418)
-- TMC - Defects -CW6 Potholes  problem, 24th March :- [https://www.fixmystreet.com/report/7325417](https://www.fixmystreet.com/report/7325417)
-- Large pothole opposite no 83, 24th March :- [https://www.fixmystreet.com/report/7325259](https://www.fixmystreet.com/report/7325259)
 
 <!-- fix_marker ends -->
