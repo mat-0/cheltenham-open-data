@@ -9,7 +9,15 @@ seo: Menu
 
 
 <!-- weather_marker starts -->
-- Weather data not available
+## On Monday, 24 March 2025
+
+- The average temperature today is 11.08˚C,
+- With highs of 12.21˚C and lows of 10.29˚C,
+- It may feel like 10.02˚C with clear sky
+- The wind speed is 0.45m/s and visibility is 9000m
+- The pressure is 1020hPa and humidity is 68%
+- The sun will rise at 06:01 and set at 18:27
+
 <!-- weather_marker ends -->
 
 
