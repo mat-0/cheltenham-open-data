@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large area of deep delamination on driving line, 24th March :- [https://www.fixmystreet.com/report/7330598](https://www.fixmystreet.com/report/7330598)
+- Damaged kerbs. Sharp edges causing punctures, 24th March :- [https://www.fixmystreet.com/report/7330042](https://www.fixmystreet.com/report/7330042)
 - Green traffic light no working, 24th March :- [https://www.fixmystreet.com/report/7329784](https://www.fixmystreet.com/report/7329784)
 - Road illigally blocked (assume stolen sign), 24th March :- [https://www.fixmystreet.com/report/7329724](https://www.fixmystreet.com/report/7329724)
 - Road works with traffic lights Swindon lane, 24th March :- [https://www.fixmystreet.com/report/7329640](https://www.fixmystreet.com/report/7329640)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Pot hole, 24th March :- [https://www.fixmystreet.com/report/7326314](https://www.fixmystreet.com/report/7326314)
 - Pot hole developing, 24th March :- [https://www.fixmystreet.com/report/7326276](https://www.fixmystreet.com/report/7326276)
 - Overflowing dog poo bin, 24th March :- [https://www.fixmystreet.com/report/7326189](https://www.fixmystreet.com/report/7326189)
-- Deep pothole in road caused my car to swerve when hit it and burst my passenger side front tyre, 24th March :- [https://www.fixmystreet.com/report/7325926](https://www.fixmystreet.com/report/7325926)
-- Just passed bus stop and entrance to crematorium and near to manhole cover, 24th March :- [https://www.fixmystreet.com/report/7325754](https://www.fixmystreet.com/report/7325754)
 
 <!-- fix_marker ends -->
