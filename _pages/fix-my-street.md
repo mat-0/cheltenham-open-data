@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 'Diversion' signs left in situ on grass verge and no longer in use. Been there for weeks., 24th March :- [https://www.fixmystreet.com/report/7325373](https://www.fixmystreet.com/report/7325373)
+- TMC - Defects -CW6 Potholes  problem, 24th March :- [https://www.fixmystreet.com/report/7325418](https://www.fixmystreet.com/report/7325418)
+- TMC - Defects -CW6 Potholes  problem, 24th March :- [https://www.fixmystreet.com/report/7325417](https://www.fixmystreet.com/report/7325417)
+- Large pothole opposite no 83, 24th March :- [https://www.fixmystreet.com/report/7325259](https://www.fixmystreet.com/report/7325259)
 - Shocking surface - is it on your list to fix?, 24th March :- [https://www.fixmystreet.com/report/7325090](https://www.fixmystreet.com/report/7325090)
 - 8 inch pothole on edge of road, 24th March :- [https://www.fixmystreet.com/report/7325064](https://www.fixmystreet.com/report/7325064)
 - 20 inch pothole outside Cotswold Hills Golf Club, 24th March :- [https://www.fixmystreet.com/report/7324977](https://www.fixmystreet.com/report/7324977)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Pothole around ironwork, Cirencester Rd between Chancel Way & Spirax, 23rd March :- [https://www.fixmystreet.com/report/7324382](https://www.fixmystreet.com/report/7324382)
 - Blocked drain outside 53 Cirencester Rd, 23rd March :- [https://www.fixmystreet.com/report/7324369](https://www.fixmystreet.com/report/7324369)
 - Pothole Cudnall St, opp number 19, 23rd March :- [https://www.fixmystreet.com/report/7324344](https://www.fixmystreet.com/report/7324344)
-- Pothole Cudnall St near Hamilton St, 23rd March :- [https://www.fixmystreet.com/report/7324335](https://www.fixmystreet.com/report/7324335)
-- Pothole around ironwork on Horsefair St at Church Piece junction, 23rd March :- [https://www.fixmystreet.com/report/7324304](https://www.fixmystreet.com/report/7324304)
-- Leaning Crossroad sign outside 36 Hales Rd, 23rd March :- [https://www.fixmystreet.com/report/7324298](https://www.fixmystreet.com/report/7324298)
-- Graffiti on green utility cabinet London Rd, opp Sanford Mill Rd, near alleyway to Upper Park Street, 23rd March :- [https://www.fixmystreet.com/report/7324252](https://www.fixmystreet.com/report/7324252)
 
 <!-- fix_marker ends -->
