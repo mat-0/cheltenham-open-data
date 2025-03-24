@@ -2,9 +2,24 @@
 import pathlib
 import feedparser
 import helper
+from datetime import datetime, timedelta
 
 URL_1 ="https://www.gloucestershirelive.co.uk/?service=rss"
 URL_2 ="http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/england/gloucestershire/rss.xml"
+
+
+def time_ago(published_parsed):
+            published_date = datetime(*published_parsed[:6])
+            now = datetime.now()
+            diff = now - published_date
+            if diff.days > 0:
+                return f"{diff.days} days ago"
+            elif diff.seconds > 3600:
+                return f"{diff.seconds // 3600} hours ago"
+            elif diff.seconds > 60:
+                return f"{diff.seconds // 60} minutes ago"
+            else:
+                return "just now"
 
 
 
@@ -21,6 +36,13 @@ if __name__ == "__main__":
             all_items.extend(feed["items"][:25])
 
         all_items.sort(key=lambda x: x["published_parsed"], reverse=True)
+
+
+        for item in all_items:
+            item["published"] = time_ago(item["published_parsed"])
+
+            cutoff_date = datetime.now() - timedelta(days=30)
+            all_items = [item for item in all_items if datetime(*item["published_parsed"][:6]) > cutoff_date]
 
         string = ""
         for item in all_items:
