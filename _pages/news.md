@@ -1,5 +1,4 @@
 ---
-
 layout: page
 title: News Feed
 seo: local news feed
@@ -8,6 +7,55 @@ permalink: /news
 ---
 
 <!-- news_marker starts -->
+- Helen Skelton declares 'love' for Gethin Jones in touching update to fans (Mon, 24 Mar 2025 19:42:11 +0000)
+- Boxer who fled UK after supplying drugs jailed (Mon, 24 Mar 2025 18:36:15 GMT)
+- Police trial forensic spray to protect domestic abuse victims in Gloucestershire (Mon, 24 Mar 2025 18:35:00 +0000)
+- Princess Diana's cousin catches cyclist tearing down campaign signs (Mon, 24 Mar 2025 18:03:31 +0000)
+- Burglars steal £1,000 bag of clothes from Cheltenham home (Mon, 24 Mar 2025 17:49:42 +0000)
+- Man 'heard baby screaming' before she collapsed (Mon, 24 Mar 2025 16:20:55 GMT)
+- 'Classic' Boden shirt dress that's 'a joy to wear' is up to 70% off (Mon, 24 Mar 2025 15:45:06 +0000)
+- The worrying new TikTok beauty trend that 'destroys' your skin, experts warn (Mon, 24 Mar 2025 15:29:38 +0000)
+- Longevity expert claims one drink before 12pm every day 'helps you live longer' (Mon, 24 Mar 2025 15:28:23 +0000)
+- Man denies harming newborn baby after fatal collapse (Mon, 24 Mar 2025 15:04:47 +0000)
+- One food could be stopping you from getting a good night's sleep (Mon, 24 Mar 2025 14:44:54 +0000)
+- Man accused of paedophilia died of multiple injuries on M4 (Mon, 24 Mar 2025 14:43:53 GMT)
+- Amazon slashes £50 off GHD's 'high-speed salon quality hair dryer' (Mon, 24 Mar 2025 14:32:55 +0000)
+- Bake Off's Prue Leith opens up on husband 'quarrels' as she shares marriage update (Mon, 24 Mar 2025 14:32:38 +0000)
+- Four foods could help lower blood pressure and keep your heart healthy (Mon, 24 Mar 2025 14:10:04 +0000)
+- Mark Wright reveals 'biggest struggle' since welcoming baby Palma with Michelle Keegan (Mon, 24 Mar 2025 14:02:54 +0000)
+- TOWIE's Amy Childs followed 'one rule' to aid weight loss after having twins (Mon, 24 Mar 2025 14:01:59 +0000)
+- Men charged with attempted murder over shooting (Mon, 24 Mar 2025 13:50:43 GMT)
+- Full list as Morrisons to close number of cafes, including in Gloucestershire (Mon, 24 Mar 2025 13:47:57 +0000)
+- Mary Berry 'honoured' to recieve unexpected birthday message from Prince William (Mon, 24 Mar 2025 13:16:24 +0000)
+- Five easy ways to burn fat without going to the gym - including what to drink (Mon, 24 Mar 2025 13:11:10 +0000)
+- 'Vulnerable' Sam Thompson 'needs support' as ex-Zara McDermott moves on (Mon, 24 Mar 2025 12:54:03 +0000)
+- Everyday ingredient 'in almost every meal' that is 'one of the worst things for gut' (Mon, 24 Mar 2025 12:46:41 +0000)
+- NHS asks women to go to 'life-saving' appointment for crucial reason (Mon, 24 Mar 2025 12:34:33 +0000)
+- Horrifying on-set injury led to George Clooney's agonising life-long health problem (Mon, 24 Mar 2025 11:57:18 +0000)
+- 'We went from software to selling pizzas in Covid' (Mon, 24 Mar 2025 11:46:51 GMT)
+- Man fell from M4 bridge and hit by cars after paedophile sting (Mon, 24 Mar 2025 11:46:28 +0000)
+- Amazon knocks 70% off Elizabeth Arden face cream that 'makes a difference straight away' (Mon, 24 Mar 2025 11:46:27 +0000)
+- NHS warns 'little known' gum symptom can be start of 'silent' disease (Mon, 24 Mar 2025 11:46:03 +0000)
+- Dr Martens summer sandals are 'comfortable from day one' and have £40 off (Mon, 24 Mar 2025 11:39:39 +0000)
+- Mystery sign swap, M4 bridge demolition and a smelly town (Mon, 24 Mar 2025 11:05:50 GMT)
+- Teachers in divorce 'limbo' take pension legal action (Mon, 24 Mar 2025 06:30:15 GMT)
+- Coach restrictions introduced for tourist village (Mon, 24 Mar 2025 06:27:25 GMT)
+- Litter pickers scheme aims to tackle rubbish (Mon, 24 Mar 2025 06:26:46 GMT)
+- Forest of Dean closer to Unesco 'biosphere' status (Sun, 23 Mar 2025 21:23:32 GMT)
+- Boy, 12, injured in collision with e-bike (Sun, 23 Mar 2025 08:16:43 GMT)
+- Mum-of-three on her long Covid 'rollercoaster' (Sun, 23 Mar 2025 07:16:17 GMT)
+- Future farmers told about the value of horse power (Sat, 22 Mar 2025 10:09:35 GMT)
+- Man missing after getting on train to go home (Sat, 22 Mar 2025 08:28:03 GMT)
+- Gloucestershire in pics: EMF, penguins and rugby (Sat, 22 Mar 2025 07:19:58 GMT)
+- Teen woodworker appears on TV for a second time (Sat, 22 Mar 2025 07:18:09 GMT)
+- Firefighters protest over shift pattern change (Fri, 21 Mar 2025 15:52:06 GMT)
+- Celeb hunting in the Cotswolds (Wed, 12 Feb 2025 09:49:00 GMT)
+- Over 70 tractors protest tax changes in Gloucestershire (Tue, 11 Feb 2025 14:28:00 GMT)
+- The knit and knatter revolution in Gloucester (Tue, 11 Feb 2025 11:44:00 GMT)
+- The Big Cases (Fri, 20 Dec 2024 12:00:00 GMT)
+- The Big Cases (Fri, 03 May 2024 20:30:00 GMT)
+- The Big Cases (Thu, 21 Dec 2023 18:00:00 GMT)
+- The Big Cases (Fri, 17 Nov 2023 14:00:00 GMT)
+- The Big Cases (Tue, 26 Sep 2023 16:00:00 GMT)
 
-
-<!-- mews_marker ends -->
+<!-- news_marker ends -->
