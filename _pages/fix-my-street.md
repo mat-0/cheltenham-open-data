@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole increasing in depth and length on the left heading towards Staverton, 24th March :- [https://www.fixmystreet.com/report/7324779](https://www.fixmystreet.com/report/7324779)
+- Road surface on roundabout so bad cars are driving on wrong side of the road. High risk of road traffic accident. Lots of young people in the location due to schools and skate parkon wrong side of road to avoid. This is causing a danger to oncoming traffic includin, 24th March :- [https://www.fixmystreet.com/report/7324694](https://www.fixmystreet.com/report/7324694)
+- Flytipped fridge and rubbish, 24th March :- [https://www.fixmystreet.com/report/7324650](https://www.fixmystreet.com/report/7324650)
 - Corner of Alma rd and chapman way Hatherley, 24th March :- [https://www.fixmystreet.com/report/7324615](https://www.fixmystreet.com/report/7324615)
 - Graffiti on road signs at junction Cirencester Rd/London Rd, 23rd March :- [https://www.fixmystreet.com/report/7324428](https://www.fixmystreet.com/report/7324428)
 - Multiple potholes King Alfred Way, near Hales Rd, 23rd March :- [https://www.fixmystreet.com/report/7324406](https://www.fixmystreet.com/report/7324406)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Blocked drain London Rd near Sandhurst Place, 23rd March :- [https://www.fixmystreet.com/report/7324231](https://www.fixmystreet.com/report/7324231)
 - Pothole London Rd, Sixways opp Mercy in Action charity shop, 23rd March :- [https://www.fixmystreet.com/report/7324228](https://www.fixmystreet.com/report/7324228)
 - Bins at Sixways, London Rd vandalised & missing, 23rd March :- [https://www.fixmystreet.com/report/7324220](https://www.fixmystreet.com/report/7324220)
-- Raised kerbstone, London Rd opposite Badhams at Sixways, 23rd March :- [https://www.fixmystreet.com/report/7324205](https://www.fixmystreet.com/report/7324205)
-- Blocked drain London Rd near the Langton, 23rd March :- [https://www.fixmystreet.com/report/7324197](https://www.fixmystreet.com/report/7324197)
-- Two blocked drains on Hales Rd/London Rd outside 102 London Rd, 23rd March :- [https://www.fixmystreet.com/report/7324192](https://www.fixmystreet.com/report/7324192)
 
 <!-- fix_marker ends -->
