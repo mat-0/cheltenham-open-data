@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Abandoned Waitrose Trolley, 24th March :- [https://www.fixmystreet.com/report/7328417](https://www.fixmystreet.com/report/7328417)
+- The whole road is a pothole., 24th March :- [https://www.fixmystreet.com/report/7328360](https://www.fixmystreet.com/report/7328360)
+- Car left on double yellows., 24th March :- [https://www.fixmystreet.com/report/7328316](https://www.fixmystreet.com/report/7328316)
+- Dead trees, 24th March :- [https://www.fixmystreet.com/report/7328271](https://www.fixmystreet.com/report/7328271)
 - A pothole in road problem, 24th March :- [https://www.fixmystreet.com/report/7328143](https://www.fixmystreet.com/report/7328143)
 - Abandoned vehicle, 24th March :- [https://www.fixmystreet.com/report/7327902](https://www.fixmystreet.com/report/7327902)
 - Not fixed, 24th March :- [https://www.fixmystreet.com/report/7326993](https://www.fixmystreet.com/report/7326993)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 24th March :- [https://www.fixmystreet.com/report/7325418](https://www.fixmystreet.com/report/7325418)
 - TMC - Defects -CW6 Potholes  problem, 24th March :- [https://www.fixmystreet.com/report/7325417](https://www.fixmystreet.com/report/7325417)
 - Large pothole opposite no 83, 24th March :- [https://www.fixmystreet.com/report/7325259](https://www.fixmystreet.com/report/7325259)
-- Shocking surface - is it on your list to fix?, 24th March :- [https://www.fixmystreet.com/report/7325090](https://www.fixmystreet.com/report/7325090)
-- 8 inch pothole on edge of road, 24th March :- [https://www.fixmystreet.com/report/7325064](https://www.fixmystreet.com/report/7325064)
-- 20 inch pothole outside Cotswold Hills Golf Club, 24th March :- [https://www.fixmystreet.com/report/7324977](https://www.fixmystreet.com/report/7324977)
-- Deep potholes in road, 24th March :- [https://www.fixmystreet.com/report/7324956](https://www.fixmystreet.com/report/7324956)
 
 <!-- fix_marker ends -->
