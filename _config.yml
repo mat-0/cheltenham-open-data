@@ -53,3 +53,5 @@ navigation_header:
     link: /terrorism
   - name: Street Crime
     link: /street-crime
+  - name: News
+    link: /news
