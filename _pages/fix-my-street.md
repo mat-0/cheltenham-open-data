@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Not fixed, 24th March :- [https://www.fixmystreet.com/report/7326993](https://www.fixmystreet.com/report/7326993)
+- TMC - Defects - Other problem, 24th March :- [https://www.fixmystreet.com/report/7326935](https://www.fixmystreet.com/report/7326935)
+- Pot hole, 24th March :- [https://www.fixmystreet.com/report/7326314](https://www.fixmystreet.com/report/7326314)
+- Pot hole developing, 24th March :- [https://www.fixmystreet.com/report/7326276](https://www.fixmystreet.com/report/7326276)
 - Overflowing dog poo bin, 24th March :- [https://www.fixmystreet.com/report/7326189](https://www.fixmystreet.com/report/7326189)
 - Deep pothole in road caused my car to swerve when hit it and burst my passenger side front tyre, 24th March :- [https://www.fixmystreet.com/report/7325926](https://www.fixmystreet.com/report/7325926)
 - Just passed bus stop and entrance to crematorium and near to manhole cover, 24th March :- [https://www.fixmystreet.com/report/7325754](https://www.fixmystreet.com/report/7325754)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Deep potholes in road, 24th March :- [https://www.fixmystreet.com/report/7324956](https://www.fixmystreet.com/report/7324956)
 - Two potholes adjacent to Barbara Cottage, 24th March :- [https://www.fixmystreet.com/report/7324858](https://www.fixmystreet.com/report/7324858)
 - Pothole increasing in depth and length on the left heading towards Staverton, 24th March :- [https://www.fixmystreet.com/report/7324779](https://www.fixmystreet.com/report/7324779)
-- Road surface on roundabout so bad cars are driving on wrong side of the road. High risk of road traffic accident. Lots of young people in the location due to schools and skate parkon wrong side of road to avoid. This is causing a danger to oncoming traffic includin, 24th March :- [https://www.fixmystreet.com/report/7324694](https://www.fixmystreet.com/report/7324694)
-- Flytipped fridge and rubbish, 24th March :- [https://www.fixmystreet.com/report/7324650](https://www.fixmystreet.com/report/7324650)
-- Corner of Alma rd and chapman way Hatherley, 24th March :- [https://www.fixmystreet.com/report/7324615](https://www.fixmystreet.com/report/7324615)
-- Graffiti on road signs at junction Cirencester Rd/London Rd, 23rd March :- [https://www.fixmystreet.com/report/7324428](https://www.fixmystreet.com/report/7324428)
 
 <!-- fix_marker ends -->
