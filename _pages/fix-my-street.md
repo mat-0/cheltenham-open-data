@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large pothole on the turning in to Libertus Court, 25th March :- [7338078](https://www.fixmystreet.com/report/7338078)
+- Bollard needs reinstating., 25th March :- [7338026](https://www.fixmystreet.com/report/7338026)
 - Several potholes outside 6 Charlton Court Road & Coronation Flats, 25th March :- [7337929](https://www.fixmystreet.com/report/7337929)
 - Traffic sign outside 144 Hales Rd missing bottom section, 25th March :- [7337918](https://www.fixmystreet.com/report/7337918)
 - Graffiti on green utility cabinets, The Grove / Hales Rd junction, 25th March :- [7337904](https://www.fixmystreet.com/report/7337904)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 25th March :- [7336665](https://www.fixmystreet.com/report/7336665)
 - Exhaust pipe dumped on pavement, 25th March :- [7336449](https://www.fixmystreet.com/report/7336449)
 - TMC - Defects -CW6 Potholes  problem, 25th March :- [7336663](https://www.fixmystreet.com/report/7336663)
-- TMC - Defects -CW6 Potholes  problem, 25th March :- [7336660](https://www.fixmystreet.com/report/7336660)
-- TMC - Defects -CW6 Potholes  problem, 25th March :- [7336661](https://www.fixmystreet.com/report/7336661)
 
 <!-- fix_marker ends -->
