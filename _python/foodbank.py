@@ -26,7 +26,7 @@ if __name__ == "__main__":
     md_contents = helper.replace_chunk(md_contents,"contact1_marker",contact_string)
     md.open("w").write(md_contents)
 
-    with open(root / "_data/foodbank-cheltenham-open-door.json", 'r') as filehandler:
+    with open(root / "_data/foodbank-open-door.json", 'r') as filehandler:
         data = json.load(filehandler)
         needs = data['need']['needs']
         date = helper.date_to_iso(data['need']['created'])
