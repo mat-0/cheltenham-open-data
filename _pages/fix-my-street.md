@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Several potholes outside 6 Charlton Court Road & Coronation Flats, 25th March :- [7337929](https://www.fixmystreet.com/report/7337929)
+- Traffic sign outside 144 Hales Rd missing bottom section, 25th March :- [7337918](https://www.fixmystreet.com/report/7337918)
+- Graffiti on green utility cabinets, The Grove / Hales Rd junction, 25th March :- [7337904](https://www.fixmystreet.com/report/7337904)
+- Graffiti on green utility cabinets, Battledown Approach / Hales Rd junction, 25th March :- [7337898](https://www.fixmystreet.com/report/7337898)
 - Slightly sunken inspection cover, 25th March :- [7337822](https://www.fixmystreet.com/report/7337822)
 - Pothole in middle of road near Post Office, 25th March :- [7337815](https://www.fixmystreet.com/report/7337815)
 - Huge pothole - burst tyre yesterday on this, 25th March :- [7337658](https://www.fixmystreet.com/report/7337658)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 25th March :- [7336663](https://www.fixmystreet.com/report/7336663)
 - TMC - Defects -CW6 Potholes  problem, 25th March :- [7336660](https://www.fixmystreet.com/report/7336660)
 - TMC - Defects -CW6 Potholes  problem, 25th March :- [7336661](https://www.fixmystreet.com/report/7336661)
-- TMC - Defects -CW6 Potholes  problem, 25th March :- [7336662](https://www.fixmystreet.com/report/7336662)
-- TMC - Defects - Other FW6  Surface problem, 25th March :- [7336427](https://www.fixmystreet.com/report/7336427)
-- TMC - Defects -CW6 Potholes  problem, 25th March :- [7336426](https://www.fixmystreet.com/report/7336426)
-- TMC - Defects -CW6 Potholes  problem, 25th March :- [7336423](https://www.fixmystreet.com/report/7336423)
 
 <!-- fix_marker ends -->
