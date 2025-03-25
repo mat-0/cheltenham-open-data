@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:georss="http://www.georss.org/georss"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
+ xmlns:georss="http://www.georss.org/georss"
 >
 
 <channel>
@@ -104,15 +104,6 @@
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 25th March</title>
-<link>https://www.fixmystreet.com/report/7336660</link>
-<description>28 day  with give an take plus 15  minutes delay boards needed carriageway pothole 600x400x40mm tarmac patch required  number 1 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7336660&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7336660</guid>
-<pubDate>Tue, 25 Mar 2025 15:35:11 +0000</pubDate>
-<georss:point>51.8992760334104 -2.1142765271207</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 25th March</title>
 <link>https://www.fixmystreet.com/report/7336662</link>
 <description>28 day  with give an take plus 15  minutes delay boards needed carriageway pothole 600x500x50mm tarmac patch required  number 3 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7336662&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
@@ -137,6 +128,15 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/7336661</guid>
 <pubDate>Tue, 25 Mar 2025 15:35:11 +0000</pubDate>
 <georss:point>51.8992758523319 -2.11428061867702</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 25th March</title>
+<link>https://www.fixmystreet.com/report/7336660</link>
+<description>28 day  with give an take plus 15  minutes delay boards needed carriageway pothole 600x400x40mm tarmac patch required  number 1 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7336660&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7336660</guid>
+<pubDate>Tue, 25 Mar 2025 15:35:11 +0000</pubDate>
+<georss:point>51.8992760334104 -2.1142765271207</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 25th March</title>
