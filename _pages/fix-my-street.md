@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Cherry tree has crown dying back and needs the dead branches pruning, 25th March :- [7338211](https://www.fixmystreet.com/report/7338211)
 - Large pothole on the turning in to Libertus Court, 25th March :- [7338078](https://www.fixmystreet.com/report/7338078)
 - Bollard needs reinstating., 25th March :- [7338026](https://www.fixmystreet.com/report/7338026)
 - Several potholes outside 6 Charlton Court Road & Coronation Flats, 25th March :- [7337929](https://www.fixmystreet.com/report/7337929)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - A pothole in road problem, 25th March :- [7336656](https://www.fixmystreet.com/report/7336656)
 - TMC - Defects - Other FW6  Surface problem, 25th March :- [7336665](https://www.fixmystreet.com/report/7336665)
 - Exhaust pipe dumped on pavement, 25th March :- [7336449](https://www.fixmystreet.com/report/7336449)
-- TMC - Defects -CW6 Potholes  problem, 25th March :- [7336663](https://www.fixmystreet.com/report/7336663)
 
 <!-- fix_marker ends -->
