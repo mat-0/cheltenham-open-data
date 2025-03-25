@@ -19,7 +19,5 @@ This project fetches flood warning data for the Gloucestershire area and publish
 ## Latest
 
 <!-- flood_marker starts -->
-- Warning no longer in force: River Windrush from Bourton to Newbridge
--  
 
 <!-- flood_marker ends -->
