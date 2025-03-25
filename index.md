@@ -11,11 +11,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Tuesday, 25 March 2025
 
-- The average temperature today is 5.77˚C,
-- With highs of 5.77˚C and lows of 5.77˚C,
-- It may feel like 5.77˚C with broken clouds
+- The average temperature today is 5.91˚C,
+- With highs of 5.91˚C and lows of 5.91˚C,
+- It may feel like 5.91˚C with broken clouds
 - The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1021hPa and humidity is 93%
+- The pressure is 1021hPa and humidity is 92%
 - The sun will rise at 05:59 and set at 18:29
 
 <!-- weather_marker ends -->
