@@ -9,14 +9,14 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Man denies shaking baby who died after brain bleed ([20 minutes ago](https://www.bbc.com/news/articles/c2lj4rxqq7lo))
-- Man killed in crash 'lit up the room', say family ([2 hours ago](https://www.bbc.com/news/articles/ce98ly113jdo))
-- 'How will I live after benefit reforms?' ([4 hours ago](https://www.bbc.com/news/articles/cn7vnmpg6d1o))
-- Strange sky swirl, masked man and jailed boxer ([7 hours ago](https://www.bbc.com/news/articles/c1w0vg20lrjo))
-- County to lose its mounted police unit in cost savings plan ([11 hours ago](https://gloucesternewscentre.co.uk/county-to-lose-its-mounted-police-unit-in-cost-savings-plan/))
-- Police force to cut 60 jobs in bid to save £12.3m ([11 hours ago](https://www.bbc.com/news/articles/c3vw4q9v39yo))
-- Happiness as two sites become community assets ([11 hours ago](https://www.bbc.com/news/articles/c3e4k19l8ndo))
-- Boxer who fled UK after supplying drugs jailed ([23 hours ago](https://www.bbc.com/news/articles/c981z4p3kzgo))
+- Man denies shaking baby who died after brain bleed ([1 hours ago](https://www.bbc.com/news/articles/c2lj4rxqq7lo))
+- Man killed in crash 'lit up the room', say family ([3 hours ago](https://www.bbc.com/news/articles/ce98ly113jdo))
+- 'How will I live after benefit reforms?' ([5 hours ago](https://www.bbc.com/news/articles/cn7vnmpg6d1o))
+- Strange sky swirl, masked man and jailed boxer ([8 hours ago](https://www.bbc.com/news/articles/c1w0vg20lrjo))
+- County to lose its mounted police unit in cost savings plan ([12 hours ago](https://gloucesternewscentre.co.uk/county-to-lose-its-mounted-police-unit-in-cost-savings-plan/))
+- Police force to cut 60 jobs in bid to save £12.3m ([12 hours ago](https://www.bbc.com/news/articles/c3vw4q9v39yo))
+- Happiness as two sites become community assets ([12 hours ago](https://www.bbc.com/news/articles/c3e4k19l8ndo))
+- Boxer who fled UK after supplying drugs jailed ([1 days ago](https://www.bbc.com/news/articles/c981z4p3kzgo))
 - Traffic fears over ‘chicanes’ installed in Cheltenham ([1 days ago](https://gloucesternewscentre.co.uk/traffic-fears-over-chicanes-installed-in-cheltenham/))
 - Bag of clothing worth over £1,000 is stolen during Cheltenham burglary ([1 days ago](https://gloucesternewscentre.co.uk/bag-of-clothing-worth-over-1000-is-stolen-during-cheltenham-burglary/))
 - Man 'heard baby screaming' before she collapsed ([1 days ago](https://www.bbc.com/news/articles/clynmyed783o))
