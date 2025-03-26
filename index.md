@@ -11,11 +11,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Wednesday, 26 March 2025
 
-- The average temperature today is 14.22˚C,
-- With highs of 14.22˚C and lows of 14.22˚C,
-- It may feel like 13.55˚C with broken clouds
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1025hPa and humidity is 71%
+- The average temperature today is 13.91˚C,
+- With highs of 13.91˚C and lows of 13.91˚C,
+- It may feel like 13.08˚C with scattered clouds
+- The wind speed is 3.6m/s and visibility is 10000m
+- The pressure is 1025hPa and humidity is 66%
 - The sun will rise at 05:56 and set at 18:30
 
 <!-- weather_marker ends -->
