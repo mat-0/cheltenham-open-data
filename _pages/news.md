@@ -9,13 +9,13 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Headlines: Police horse cuts, CPR and Glastonbury Festival ([6 minutes ago](https://www.bbc.com/news/articles/c80y8e220l2o))
-- Concern for police horses as unit set to close ([1 hours ago](https://www.bbc.com/news/articles/cr52ye7v208o))
-- Worry over plans to cut police force jobs ([4 hours ago](https://www.bbc.com/news/articles/cgkmv28je72o))
-- Allegations prompt calls to end eel export scheme ([4 hours ago](https://www.bbc.com/news/articles/cg5d4l40gy2o))
-- Man denies shaking baby who died after brain bleed ([17 hours ago](https://www.bbc.com/news/articles/c2lj4rxqq7lo))
-- Man killed in crash 'lit up the room', say family ([19 hours ago](https://www.bbc.com/news/articles/ce98ly113jdo))
-- 'How will I live after benefit reforms?' ([21 hours ago](https://www.bbc.com/news/articles/cn7vnmpg6d1o))
+- Headlines: Police horse cuts, CPR and Glastonbury Festival ([1 hours ago](https://www.bbc.com/news/articles/c80y8e220l2o))
+- Concern for police horses as unit set to close ([2 hours ago](https://www.bbc.com/news/articles/cr52ye7v208o))
+- Worry over plans to cut police force jobs ([5 hours ago](https://www.bbc.com/news/articles/cgkmv28je72o))
+- Allegations prompt calls to end eel export scheme ([5 hours ago](https://www.bbc.com/news/articles/cg5d4l40gy2o))
+- Man denies shaking baby who died after brain bleed ([18 hours ago](https://www.bbc.com/news/articles/c2lj4rxqq7lo))
+- Man killed in crash 'lit up the room', say family ([20 hours ago](https://www.bbc.com/news/articles/ce98ly113jdo))
+- 'How will I live after benefit reforms?' ([22 hours ago](https://www.bbc.com/news/articles/cn7vnmpg6d1o))
 - Strange sky swirl, masked man and jailed boxer ([1 days ago](https://www.bbc.com/news/articles/c1w0vg20lrjo))
 - County to lose its mounted police unit in cost savings plan ([1 days ago](https://gloucesternewscentre.co.uk/county-to-lose-its-mounted-police-unit-in-cost-savings-plan/))
 - Police force to cut 60 jobs in bid to save £12.3m ([1 days ago](https://www.bbc.com/news/articles/c3vw4q9v39yo))
@@ -26,7 +26,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Man 'heard baby screaming' before she collapsed ([1 days ago](https://www.bbc.com/news/articles/clynmyed783o))
 - Man accused of paedophilia died of multiple injuries on M4 ([1 days ago](https://www.bbc.com/news/articles/crmj9mj080wo))
 - Two men from Birmingham charged with attempted murder ([1 days ago](https://gloucesternewscentre.co.uk/two-men-from-birmingham-charged-with-attempted-murder/))
-- 'We went from software to selling pizzas in Covid' ([1 days ago](https://www.bbc.com/news/articles/c04zkepn45eo))
+- 'We went from software to selling pizzas in Covid' ([2 days ago](https://www.bbc.com/news/articles/c04zkepn45eo))
 - Teachers in divorce 'limbo' take pension legal action ([2 days ago](https://www.bbc.com/news/articles/c5y08v0n2jyo))
 - Coach restrictions introduced for tourist village ([2 days ago](https://www.bbc.com/news/articles/cvg5lnq371zo))
 - Litter pickers scheme aims to tackle rubbish ([2 days ago](https://www.bbc.com/news/articles/cjd343r8xx4o))
@@ -63,7 +63,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Free parking and business incentives for shoppers during Cheltenham Festival ([18 days ago](https://www.cheltenham.gov.uk/news/article/2990/free_parking_and_business_incentives_for_shoppers_during_cheltenham_festival))
 - Initiatives to safeguard women and girls following International Women’s Day ([18 days ago](https://www.cheltenham.gov.uk/news/article/2989/initiatives_to_safeguard_women_and_girls_following_international_womens_day))
 - Wavensmere Homes starts work at £50m Arkle Court scheme in Cheltenham ([19 days ago](https://www.cheltenham.gov.uk/news/article/2988/wavensmere_homes_starts_work_at_50m_arkle_court_scheme_in_cheltenham))
-- Beat the queue by booking your journey in advance ([21 days ago](https://www.cheltenham.gov.uk/news/article/2987/beat_the_queue_by_booking_your_journey_in_advance))
+- Beat the queue by booking your journey in advance ([22 days ago](https://www.cheltenham.gov.uk/news/article/2987/beat_the_queue_by_booking_your_journey_in_advance))
 - Preparations underway for an enjoyable Cheltenham Festival 2025 ([22 days ago](https://www.cheltenham.gov.uk/news/article/2986/preparations_underway_for_an_enjoyable_cheltenham_festival_2025))
 
 <!-- news_marker ends -->
