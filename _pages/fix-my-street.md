@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Sofa dumped on pavement on Suffolk Place, 26th March :- [7343603](https://www.fixmystreet.com/report/7343603)
 - Recycling/refuse, 26th March :- [7343414](https://www.fixmystreet.com/report/7343414)
 - Large area of damaged road including pot holds, 26th March :- [7343410](https://www.fixmystreet.com/report/7343410)
 - Road clearing on or around 149 Hewlett Road, 26th March :- [7343351](https://www.fixmystreet.com/report/7343351)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 26th March :- [7342022](https://www.fixmystreet.com/report/7342022)
 - TMC - Defects -CW6 Potholes  problem, 26th March :- [7342019](https://www.fixmystreet.com/report/7342019)
 - On approch to temporary lights adjacent to Greyhound pub, large pot holes, 26th March :- [7341927](https://www.fixmystreet.com/report/7341927)
-- TMC - Defects -CW6 Potholes  problem, 26th March :- [7341999](https://www.fixmystreet.com/report/7341999)
 
 <!-- fix_marker ends -->
