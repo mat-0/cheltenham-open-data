@@ -9,7 +9,18 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole in middle of road requires filling in., 26th March :- [7339174](https://www.fixmystreet.com/report/7339174)
+- Litter on side of slip road and fly tipping, 26th March :- [7338973](https://www.fixmystreet.com/report/7338973)
+- TMC - Defects - Footways Slabs problem, 26th March :- [7339001](https://www.fixmystreet.com/report/7339001)
+- TMC - Defects - Footways Slabs problem, 26th March :- [7338996](https://www.fixmystreet.com/report/7338996)
+- TMC - Defects - Footways Slabs problem, 26th March :- [7338995](https://www.fixmystreet.com/report/7338995)
+- TMC - Defects - Footways Slabs problem, 26th March :- [7338998](https://www.fixmystreet.com/report/7338998)
+- TMC - Defects - Footways Slabs problem, 26th March :- [7339000](https://www.fixmystreet.com/report/7339000)
+- TMC - Defects - Footways Slabs problem, 26th March :- [7338997](https://www.fixmystreet.com/report/7338997)
+- TMC - Defects - Footways Slabs problem, 26th March :- [7338988](https://www.fixmystreet.com/report/7338988)
 - One deep pothole in cluster of patch fixed ones, 26th March :- [7338762](https://www.fixmystreet.com/report/7338762)
+- TMC - Defects - Footways Slabs problem, 26th March :- [7338803](https://www.fixmystreet.com/report/7338803)
+- TMC - Defects - Footways Slabs problem, 26th March :- [7338802](https://www.fixmystreet.com/report/7338802)
 - Cherry tree has crown dying back and needs the dead branches pruning, 25th March :- [7338211](https://www.fixmystreet.com/report/7338211)
 - Large pothole on the turning in to Libertus Court, 25th March :- [7338078](https://www.fixmystreet.com/report/7338078)
 - Bollard needs reinstating., 25th March :- [7338026](https://www.fixmystreet.com/report/7338026)
@@ -18,16 +29,5 @@ permalink: /fix-my-street
 - Graffiti on green utility cabinets, The Grove / Hales Rd junction, 25th March :- [7337904](https://www.fixmystreet.com/report/7337904)
 - Graffiti on green utility cabinets, Battledown Approach / Hales Rd junction, 25th March :- [7337898](https://www.fixmystreet.com/report/7337898)
 - Slightly sunken inspection cover, 25th March :- [7337822](https://www.fixmystreet.com/report/7337822)
-- Pothole in middle of road near Post Office, 25th March :- [7337815](https://www.fixmystreet.com/report/7337815)
-- Huge pothole - burst tyre yesterday on this, 25th March :- [7337658](https://www.fixmystreet.com/report/7337658)
-- Various potholes near to 40/41 Whittington Road., 25th March :- [7337326](https://www.fixmystreet.com/report/7337326)
-- Light blocked by overgrown vegetation, 25th March :- [7337272](https://www.fixmystreet.com/report/7337272)
-- Tree on pavement is getting too large, overhanging my property and blocking out almost all light when leaves are out, 25th March :- [7337156](https://www.fixmystreet.com/report/7337156)
-- Bridge is currently in ditch, 25th March :- [7336874](https://www.fixmystreet.com/report/7336874)
-- Drain is still not functioning despite being cleared, 25th March :- [7336832](https://www.fixmystreet.com/report/7336832)
-- Approx 40cm pot hole, 25th March :- [7336830](https://www.fixmystreet.com/report/7336830)
-- Large pot hole in the road., 25th March :- [7336625](https://www.fixmystreet.com/report/7336625)
-- A pothole in road problem, 25th March :- [7336656](https://www.fixmystreet.com/report/7336656)
-- TMC - Defects - Other FW6  Surface problem, 25th March :- [7336665](https://www.fixmystreet.com/report/7336665)
 
 <!-- fix_marker ends -->

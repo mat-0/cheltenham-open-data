@@ -9,12 +9,12 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Concerns raised over plan to cut police force jobs ([1 hours ago](https://www.bbc.com/news/articles/cgkmv28je72o))
-- Allegations prompt calls to end eel export scheme ([1 hours ago](https://www.bbc.com/news/articles/cg5d4l40gy2o))
-- Man denies shaking baby who died after brain bleed ([14 hours ago](https://www.bbc.com/news/articles/c2lj4rxqq7lo))
-- Man killed in crash 'lit up the room', say family ([16 hours ago](https://www.bbc.com/news/articles/ce98ly113jdo))
-- 'How will I live after benefit reforms?' ([18 hours ago](https://www.bbc.com/news/articles/cn7vnmpg6d1o))
-- Strange sky swirl, masked man and jailed boxer ([21 hours ago](https://www.bbc.com/news/articles/c1w0vg20lrjo))
+- Concerns raised over plan to cut police force jobs ([2 hours ago](https://www.bbc.com/news/articles/cgkmv28je72o))
+- Allegations prompt calls to end eel export scheme ([2 hours ago](https://www.bbc.com/news/articles/cg5d4l40gy2o))
+- Man denies shaking baby who died after brain bleed ([15 hours ago](https://www.bbc.com/news/articles/c2lj4rxqq7lo))
+- Man killed in crash 'lit up the room', say family ([17 hours ago](https://www.bbc.com/news/articles/ce98ly113jdo))
+- 'How will I live after benefit reforms?' ([19 hours ago](https://www.bbc.com/news/articles/cn7vnmpg6d1o))
+- Strange sky swirl, masked man and jailed boxer ([22 hours ago](https://www.bbc.com/news/articles/c1w0vg20lrjo))
 - County to lose its mounted police unit in cost savings plan ([1 days ago](https://gloucesternewscentre.co.uk/county-to-lose-its-mounted-police-unit-in-cost-savings-plan/))
 - Police force to cut 60 jobs in bid to save £12.3m ([1 days ago](https://www.bbc.com/news/articles/c3vw4q9v39yo))
 - Happiness as two sites become community assets ([1 days ago](https://www.bbc.com/news/articles/c3e4k19l8ndo))
