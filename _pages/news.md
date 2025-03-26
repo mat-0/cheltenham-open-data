@@ -9,11 +9,11 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Man denies shaking baby who died after brain bleed ([8 hours ago](https://www.bbc.com/news/articles/c2lj4rxqq7lo))
-- Man killed in crash 'lit up the room', say family ([10 hours ago](https://www.bbc.com/news/articles/ce98ly113jdo))
-- 'How will I live after benefit reforms?' ([12 hours ago](https://www.bbc.com/news/articles/cn7vnmpg6d1o))
+- Man denies shaking baby who died after brain bleed ([9 hours ago](https://www.bbc.com/news/articles/c2lj4rxqq7lo))
+- Man killed in crash 'lit up the room', say family ([11 hours ago](https://www.bbc.com/news/articles/ce98ly113jdo))
+- 'How will I live after benefit reforms?' ([13 hours ago](https://www.bbc.com/news/articles/cn7vnmpg6d1o))
 - Strange sky swirl, masked man and jailed boxer ([16 hours ago](https://www.bbc.com/news/articles/c1w0vg20lrjo))
-- County to lose its mounted police unit in cost savings plan ([19 hours ago](https://gloucesternewscentre.co.uk/county-to-lose-its-mounted-police-unit-in-cost-savings-plan/))
+- County to lose its mounted police unit in cost savings plan ([20 hours ago](https://gloucesternewscentre.co.uk/county-to-lose-its-mounted-police-unit-in-cost-savings-plan/))
 - Police force to cut 60 jobs in bid to save £12.3m ([20 hours ago](https://www.bbc.com/news/articles/c3vw4q9v39yo))
 - Happiness as two sites become community assets ([20 hours ago](https://www.bbc.com/news/articles/c3e4k19l8ndo))
 - Boxer who fled UK after supplying drugs jailed ([1 days ago](https://www.bbc.com/news/articles/c981z4p3kzgo))
