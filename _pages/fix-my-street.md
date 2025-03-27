@@ -27,7 +27,7 @@ permalink: /fix-my-street
 - A pothole in road problem, 26th March :- [7342226](https://www.fixmystreet.com/report/7342226)
 - TMC - Defects - Kerbs and Channels problem, 26th March :- [7342233](https://www.fixmystreet.com/report/7342233)
 - TMC - Defects -CW6 Potholes  problem, 26th March :- [7342019](https://www.fixmystreet.com/report/7342019)
-- TMC - Defects -CW6 Potholes  problem, 26th March :- [7342021](https://www.fixmystreet.com/report/7342021)
 - TMC - Defects -CW6 Potholes  problem, 26th March :- [7342022](https://www.fixmystreet.com/report/7342022)
+- TMC - Defects -CW6 Potholes  problem, 26th March :- [7342021](https://www.fixmystreet.com/report/7342021)
 
 <!-- fix_marker ends -->
