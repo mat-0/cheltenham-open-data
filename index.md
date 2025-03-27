@@ -11,11 +11,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Thursday, 27 March 2025
 
-- The average temperature today is 7.9˚C,
-- With highs of 7.9˚C and lows of 7.9˚C,
-- It may feel like 7.9˚C with broken clouds
+- The average temperature today is 8.95˚C,
+- With highs of 8.95˚C and lows of 8.95˚C,
+- It may feel like 8.95˚C with overcast clouds
 - The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1022hPa and humidity is 91%
+- The pressure is 1022hPa and humidity is 88%
 - The sun will rise at 05:54 and set at 18:32
 
 <!-- weather_marker ends -->

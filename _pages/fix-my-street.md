@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole, 27th March :- [7344721](https://www.fixmystreet.com/report/7344721)
 - Two Large deep pot holes near to each other. Danger to cyclists especially, motorists too., 26th March :- [7344245](https://www.fixmystreet.com/report/7344245)
 - Sign for ADE28 missing, 26th March :- [7343927](https://www.fixmystreet.com/report/7343927)
 - Sofa dumped on pavement on Suffolk Place, 26th March :- [7343603](https://www.fixmystreet.com/report/7343603)
@@ -26,8 +27,7 @@ permalink: /fix-my-street
 - TMC - Defects - Other problem, 26th March :- [7342236](https://www.fixmystreet.com/report/7342236)
 - A pothole in road problem, 26th March :- [7342226](https://www.fixmystreet.com/report/7342226)
 - TMC - Defects - Kerbs and Channels problem, 26th March :- [7342233](https://www.fixmystreet.com/report/7342233)
+- TMC - Defects -CW6 Potholes  problem, 26th March :- [7342020](https://www.fixmystreet.com/report/7342020)
 - TMC - Defects -CW6 Potholes  problem, 26th March :- [7342019](https://www.fixmystreet.com/report/7342019)
-- TMC - Defects -CW6 Potholes  problem, 26th March :- [7342022](https://www.fixmystreet.com/report/7342022)
-- TMC - Defects -CW6 Potholes  problem, 26th March :- [7342021](https://www.fixmystreet.com/report/7342021)
 
 <!-- fix_marker ends -->
