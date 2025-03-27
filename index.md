@@ -30,3 +30,8 @@ seo: Menu
 ## Severn Trent Water Incidents
 
 [Link](https://www.stwater.co.uk/in-my-area/incidents/)
+
+## Cheltenham Spa Train Station
+
+[Departures](https://www.nationalrail.co.uk/live-trains/departures/cheltenham-spa/)
+[Arrivals](https://www.nationalrail.co.uk/live-trains/arrivals/cheltenham-spa/)
