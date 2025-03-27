@@ -27,11 +27,12 @@ seo: Menu
 - [Get £75 when taking a 1000mb YouFibre broadband plan](https://aklam.io/91zWhU?)
 
 
-## Severn Trent Water Incidents
+## Water Incidents
 
-[Link](https://www.stwater.co.uk/in-my-area/incidents/)
+- [Severn Trent](https://www.stwater.co.uk/in-my-area/incidents/)
 
 ## Cheltenham Spa Train Station
 
-[Departures](https://www.nationalrail.co.uk/live-trains/departures/cheltenham-spa/)
-[Arrivals](https://www.nationalrail.co.uk/live-trains/arrivals/cheltenham-spa/)
+- [Departures](https://www.nationalrail.co.uk/live-trains/departures/cheltenham-spa/)
+- [Arrivals](https://www.nationalrail.co.uk/live-trains/arrivals/cheltenham-spa/)
+
