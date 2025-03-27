@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:georss="http://www.georss.org/georss"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
+ xmlns:georss="http://www.georss.org/georss"
 >
 
 <channel>
@@ -113,15 +113,6 @@
 </item>
 <item>
 <title>TMC - Defects -CW10 Potholes problem, 27th March</title>
-<link>https://www.fixmystreet.com/report/7347954</link>
-<description>Pothole CW 400mm x 300mm x 45mm &amp;#10;4 way Stop and Go &amp;#10;Opposite Glenfall Way &amp;#10;4 NSD (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7347954&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW10 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7347954</guid>
-<pubDate>Thu, 27 Mar 2025 14:36:32 +0000</pubDate>
-<georss:point>51.8865591999996 -2.04907749999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW10 Potholes problem, 27th March</title>
 <link>https://www.fixmystreet.com/report/7347953</link>
 <description>Pothole CW 600mm x 600mm x 45mm &amp;#10;4 way Stop and Go &amp;#10;Junction of Acomb Crescent &amp;#10;1 NSD (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7347953&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW10 Potholes</category>
@@ -130,13 +121,13 @@
 <georss:point>51.8865714999996 -2.04897569999999</georss:point>
 </item>
 <item>
-<title>TMC - Defects -CW6 Potholes  problem, 27th March</title>
-<link>https://www.fixmystreet.com/report/7347934</link>
-<description>28 day with give an take  plus  15  minutes delay boards carriageway pothole 400x500x40mm tarmac patch required  number 5 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7347934&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7347934</guid>
-<pubDate>Thu, 27 Mar 2025 14:32:28 +0000</pubDate>
-<georss:point>51.8968160839683 -2.10543939647505</georss:point>
+<title>TMC - Defects -CW10 Potholes problem, 27th March</title>
+<link>https://www.fixmystreet.com/report/7347954</link>
+<description>Pothole CW 400mm x 300mm x 45mm &amp;#10;4 way Stop and Go &amp;#10;Opposite Glenfall Way &amp;#10;4 NSD (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7347954&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7347954</guid>
+<pubDate>Thu, 27 Mar 2025 14:36:32 +0000</pubDate>
+<georss:point>51.8865591999996 -2.04907749999999</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 27th March</title>
@@ -146,6 +137,15 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/7347935</guid>
 <pubDate>Thu, 27 Mar 2025 14:32:28 +0000</pubDate>
 <georss:point>51.8968135851282 -2.10549922959994</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 27th March</title>
+<link>https://www.fixmystreet.com/report/7347934</link>
+<description>28 day with give an take  plus  15  minutes delay boards carriageway pothole 400x500x40mm tarmac patch required  number 5 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7347934&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7347934</guid>
+<pubDate>Thu, 27 Mar 2025 14:32:28 +0000</pubDate>
+<georss:point>51.8968160839683 -2.10543939647505</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 27th March</title>
