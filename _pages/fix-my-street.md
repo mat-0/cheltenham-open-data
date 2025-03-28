@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- There is alot of flytipping on the Restricted Byway,which runs along the side of the Sainsburys store, 28th March :- [7354505](https://www.fixmystreet.com/report/7354505)
 - Parking by vehicle that is obstructing residents using the footpath, 28th March :- [7354258](https://www.fixmystreet.com/report/7354258)
 - General road markings, lines and stud issues problem, 28th March :- [7353771](https://www.fixmystreet.com/report/7353771)
 - A pothole in road problem, 28th March :- [7353770](https://www.fixmystreet.com/report/7353770)
@@ -17,8 +18,8 @@ permalink: /fix-my-street
 - A pothole in road problem, 28th March :- [7353766](https://www.fixmystreet.com/report/7353766)
 - TMC - Defects - Other FW6  Surface problem, 28th March :- [7353773](https://www.fixmystreet.com/report/7353773)
 - Discoloured (?polluted) water still after a year pouring into lane, 28th March :- [7353546](https://www.fixmystreet.com/report/7353546)
-- TMC - Defects -CW6 Potholes  problem, 28th March :- [7353591](https://www.fixmystreet.com/report/7353591)
 - TMC - Defects -CW6 Potholes  problem, 28th March :- [7353590](https://www.fixmystreet.com/report/7353590)
+- TMC - Defects -CW6 Potholes  problem, 28th March :- [7353591](https://www.fixmystreet.com/report/7353591)
 - TMC - Defects -CW6 Potholes  problem, 28th March :- [7353399](https://www.fixmystreet.com/report/7353399)
 - TMC - Defects -other CW6 problem, 28th March :- [7353395](https://www.fixmystreet.com/report/7353395)
 - Pothole and cracks in the road, 28th March :- [7353264](https://www.fixmystreet.com/report/7353264)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Road Markings problem, 28th March :- [7353196](https://www.fixmystreet.com/report/7353196)
 - TMC - Defects -CW6 Potholes  problem, 28th March :- [7353187](https://www.fixmystreet.com/report/7353187)
 - TMC - Defects -CW6 Potholes  problem, 28th March :- [7353186](https://www.fixmystreet.com/report/7353186)
-- TMC - Defects -CW6 Potholes  problem, 28th March :- [7353188](https://www.fixmystreet.com/report/7353188)
 
 <!-- fix_marker ends -->
