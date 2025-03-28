@@ -9,15 +9,15 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Historic Cheltenham property restored ([10 hours ago](https://gloucesternewscentre.co.uk/historic-cheltenham-property-restored/))
+- Historic Cheltenham property restored ([11 hours ago](https://gloucesternewscentre.co.uk/historic-cheltenham-property-restored/))
 - Town centre street reopens after WW2 bomb found ([11 hours ago](https://www.bbc.com/news/articles/cp9ydv80592o))
-- Properties evacauated after suspect ammunition found in Cheltenham ([14 hours ago](https://gloucesternewscentre.co.uk/propeties-evacauated-after-suspect-ammuintion-found-in-cheltenham/))
-- Five men arrested last month on suspicion of raping their partner or ex-partner ([15 hours ago](https://gloucesternewscentre.co.uk/five-men-arrested-last-month-on-suspicion-of-raping-their-partner-or-ex-partner/))
-- Headlines: Award-winning dogs and station plans ([15 hours ago](https://www.bbc.com/news/articles/c7982jw2ynyo))
-- Plans for climbing wall leisure site in city ([15 hours ago](https://www.bbc.com/news/articles/c5y01g5r697o))
+- Properties evacauated after suspect ammunition found in Cheltenham ([15 hours ago](https://gloucesternewscentre.co.uk/propeties-evacauated-after-suspect-ammuintion-found-in-cheltenham/))
+- Five men arrested last month on suspicion of raping their partner or ex-partner ([16 hours ago](https://gloucesternewscentre.co.uk/five-men-arrested-last-month-on-suspicion-of-raping-their-partner-or-ex-partner/))
+- Headlines: Award-winning dogs and station plans ([16 hours ago](https://www.bbc.com/news/articles/c7982jw2ynyo))
+- Plans for climbing wall leisure site in city ([16 hours ago](https://www.bbc.com/news/articles/c5y01g5r697o))
 - Animal shelter given £115k to replace leaking roofs ([16 hours ago](https://www.bbc.com/news/articles/cevx3nvjlxko))
-- Pubs encouraged to join Ask for Angela scheme ([20 hours ago](https://www.bbc.com/news/articles/cz7v4w8zxjeo))
-- Film tells story of man's cancer diagnosis at 21 ([20 hours ago](https://www.bbc.com/news/articles/cn046e47gpro))
+- Pubs encouraged to join Ask for Angela scheme ([21 hours ago](https://www.bbc.com/news/articles/cz7v4w8zxjeo))
+- Film tells story of man's cancer diagnosis at 21 ([21 hours ago](https://www.bbc.com/news/articles/cn046e47gpro))
 - Evacuation cordon lifted after grenade scare ([1 days ago](https://gloucesternewscentre.co.uk/evacuation-cordon-lifted-after-grenade-scare/))
 - Fears ‘lives will be put on the line’ by police staff cuts ([1 days ago](https://gloucesternewscentre.co.uk/fears-lives-will-be-put-on-the-line-by-police-staff-cuts/))
 - Beatrix Potter clock to return to shopping centre ([1 days ago](https://www.bbc.com/news/articles/clyne4wd2veo))
