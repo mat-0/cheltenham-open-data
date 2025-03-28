@@ -11,11 +11,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Friday, 28 March 2025
 
-- The average temperature today is 9.73˚C,
-- With highs of 9.73˚C and lows of 9.73˚C,
-- It may feel like 7.62˚C with few clouds
-- The wind speed is 4.12m/s and visibility is 10000m
-- The pressure is 1012hPa and humidity is 78%
+- The average temperature today is 10.49˚C,
+- With highs of 10.49˚C and lows of 10.49˚C,
+- It may feel like 9.5˚C with scattered clouds
+- The wind speed is 5.14m/s and visibility is 10000m
+- The pressure is 1012hPa and humidity is 73%
 - The sun will rise at 05:52 and set at 18:34
 
 <!-- weather_marker ends -->
