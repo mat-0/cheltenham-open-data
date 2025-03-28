@@ -9,7 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- General road markings, lines and stud issues problem, 28th March :- [7353771](https://www.fixmystreet.com/report/7353771)
+- A pothole in road problem, 28th March :- [7353770](https://www.fixmystreet.com/report/7353770)
+- General road markings, lines and stud issues problem, 28th March :- [7353769](https://www.fixmystreet.com/report/7353769)
 - End of bus lane sign has been rotated so does not face approaching traffic., 28th March :- [7353687](https://www.fixmystreet.com/report/7353687)
+- A pothole in road problem, 28th March :- [7353766](https://www.fixmystreet.com/report/7353766)
+- TMC - Defects - Other FW6  Surface problem, 28th March :- [7353773](https://www.fixmystreet.com/report/7353773)
 - Discoloured (?polluted) water still after a year pouring into lane, 28th March :- [7353546](https://www.fixmystreet.com/report/7353546)
 - TMC - Defects -CW6 Potholes  problem, 28th March :- [7353590](https://www.fixmystreet.com/report/7353590)
 - TMC - Defects -CW6 Potholes  problem, 28th March :- [7353591](https://www.fixmystreet.com/report/7353591)
@@ -21,13 +26,8 @@ permalink: /fix-my-street
 - Cycle path tyre popping surface debris all along route, 28th March :- [7353170](https://www.fixmystreet.com/report/7353170)
 - TMC - Defects - Road Markings problem, 28th March :- [7353196](https://www.fixmystreet.com/report/7353196)
 - TMC - Defects -CW6 Potholes  problem, 28th March :- [7353189](https://www.fixmystreet.com/report/7353189)
-- TMC - Defects -CW6 Potholes  problem, 28th March :- [7353187](https://www.fixmystreet.com/report/7353187)
 - TMC - Defects -CW6 Potholes  problem, 28th March :- [7353186](https://www.fixmystreet.com/report/7353186)
 - TMC - Defects -CW6 Potholes  problem, 28th March :- [7353188](https://www.fixmystreet.com/report/7353188)
-- Three deep pot holes between 46 + 47 Cromwell Rd Lynworth Cheltenham, 28th March :- [7352922](https://www.fixmystreet.com/report/7352922)
-- TMC - Defects - Other FW6  Surface problem, 28th March :- [7352969](https://www.fixmystreet.com/report/7352969)
-- TMC - Defects - Other FW6  Surface problem, 28th March :- [7352968](https://www.fixmystreet.com/report/7352968)
-- TMC - Defects -CW6 Potholes  problem, 28th March :- [7352967](https://www.fixmystreet.com/report/7352967)
-- TMC - Defects -CW6 Potholes  problem, 28th March :- [7352966](https://www.fixmystreet.com/report/7352966)
+- TMC - Defects -CW6 Potholes  problem, 28th March :- [7353187](https://www.fixmystreet.com/report/7353187)
 
 <!-- fix_marker ends -->
