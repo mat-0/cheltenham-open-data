@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Hayden Lane - Pothole repair contractor ran out of tarmac, 29th March :- [7357153](https://www.fixmystreet.com/report/7357153)
+- Previously repaired pothole has sunk again, 29th March :- [7357135](https://www.fixmystreet.com/report/7357135)
+- Snapped spring on see-saw, 29th March :- [7357119](https://www.fixmystreet.com/report/7357119)
+- Dog waste bin full, 29th March :- [7357100](https://www.fixmystreet.com/report/7357100)
+- 2 sofas dumped on the pavement, 29th March :- [7357068](https://www.fixmystreet.com/report/7357068)
 - The manhole cover outside no 42 Warden Hill Road is loose and rattles every time a car goes over, 29th March :- [7356713](https://www.fixmystreet.com/report/7356713)
 - Drain pipe from property sticking out across pavement, 29th March :- [7356321](https://www.fixmystreet.com/report/7356321)
 - Raised up area on the pavement where i caught the tip of my shoe and then fell over landing on the pavement., 29th March :- [7356289](https://www.fixmystreet.com/report/7356289)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - A pothole in road problem, 28th March :- [7353766](https://www.fixmystreet.com/report/7353766)
 - TMC - Defects - Other FW6  Surface problem, 28th March :- [7353773](https://www.fixmystreet.com/report/7353773)
 - Discoloured (?polluted) water still after a year pouring into lane, 28th March :- [7353546](https://www.fixmystreet.com/report/7353546)
-- TMC - Defects -CW6 Potholes  problem, 28th March :- [7353590](https://www.fixmystreet.com/report/7353590)
-- TMC - Defects -CW6 Potholes  problem, 28th March :- [7353591](https://www.fixmystreet.com/report/7353591)
-- TMC - Defects -CW6 Potholes  problem, 28th March :- [7353399](https://www.fixmystreet.com/report/7353399)
-- TMC - Defects -other CW6 problem, 28th March :- [7353395](https://www.fixmystreet.com/report/7353395)
-- Pothole and cracks in the road, 28th March :- [7353264](https://www.fixmystreet.com/report/7353264)
 
 <!-- fix_marker ends -->

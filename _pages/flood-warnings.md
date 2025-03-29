@@ -27,6 +27,14 @@ We have closed flood gates at Pill.
 Be careful along beaches, promenades, coastal footpaths and roads.
 The detailed tidal forecast for those who use it is for a peak level at Avonmouth. The first forecast high water is at 7:15 AM on 29/03/2025 with a level of 7.45 mAODN with westerly force 3 winds. This Flood Alert is likely to be in force until Tuesday 1st April.
 This message will be updated in the afternoon of 29/03/2025, or as the situation changes.
+- Flood alert: Severn estuary from Gloucester to Sharpness
+-  A flood alert has been issued as a series of high spring tides are expected over the next 3 days. Commencing with the high tide on Sunday morning 30/03/2025, flooding may affect low lying land and roads adjacent the Severn Estuary from Sandhurst to Chepstow and Sharpness.  Locations that may be affected include areas river side of defences where defences are present including Lydney Harbour. Low lying land at Purton on the east bank may also be impacted. High tides may also affect watercourses draining into the Severn Estuary. 
+Predicted peaks. Sharpness 9.7m to 10.1m at 20:00 on 29/03/2025 and 10.0m to 10.2m at 09:15 on 30/03/2025.
+Flooding is not forecast at other gauge sites.
+ We are closely monitoring the situation. 
+Please avoid contact with flood water.
+This message will be updated by 17:00 on 30/03/2025, or as the situation changes.
+
 - Flood alert: Wye Estuary in Gloucestershire
 -  A flood alert has been issued as a series of high spring tides are expected over the next 3 days. Commencing with the high tide on Saturday morning, flooding may affect low lying land and roads adjacent the Wye Estuary from Redbrook to Chepstow. 
 

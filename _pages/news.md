@@ -9,12 +9,12 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Plain-clothes officers to target predators and dealers ([1 hours ago](https://www.bbc.com/news/articles/cly6y56ne5no))
-- Arron Banks put forward as Reform UK's mayor candidate ([6 hours ago](https://www.bbc.com/news/articles/cgj5jddgy3lo))
-- Women who switched lives on TV now 'best friends' ([7 hours ago](https://www.bbc.com/news/articles/cgj5xwlyn48o))
-- Costumes from TV drama go on display in castle ([7 hours ago](https://www.bbc.com/news/articles/cge13yzyl5do))
-- Cheltenham shop stripped of premises licence ([21 hours ago](https://gloucesternewscentre.co.uk/cheltenham-shop-stripped-of-premises-licence/))
-- Father of murdered girl made OBE for campaign work ([21 hours ago](https://www.bbc.com/news/articles/c7989q1xgrdo))
+- Plain-clothes officers to target predators and dealers ([2 hours ago](https://www.bbc.com/news/articles/cly6y56ne5no))
+- Arron Banks put forward as Reform UK's mayor candidate ([7 hours ago](https://www.bbc.com/news/articles/cgj5jddgy3lo))
+- Women who switched lives on TV now 'best friends' ([8 hours ago](https://www.bbc.com/news/articles/cgj5xwlyn48o))
+- Costumes from TV drama go on display in castle ([8 hours ago](https://www.bbc.com/news/articles/cge13yzyl5do))
+- Cheltenham shop stripped of premises licence ([22 hours ago](https://gloucesternewscentre.co.uk/cheltenham-shop-stripped-of-premises-licence/))
+- Father of murdered girl made OBE for campaign work ([22 hours ago](https://www.bbc.com/news/articles/c7989q1xgrdo))
 - Town centre street reopens after WW2 shell found ([1 days ago](https://www.bbc.com/news/articles/cp9ydv80592o))
 - Person taken to hospital after M5 multi-vehicle crash ([1 days ago](https://www.bbc.com/news/articles/c1kjk43wv9no))
 - Headlines: Spring scenes and bridge closure ([1 days ago](https://www.bbc.com/news/articles/cq6y62vd529o))
@@ -31,7 +31,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Film tells story of man's cancer diagnosis at 21 ([2 days ago](https://www.bbc.com/news/articles/cn046e47gpro))
 - Evacuation cordon lifted after grenade scare ([2 days ago](https://gloucesternewscentre.co.uk/evacuation-cordon-lifted-after-grenade-scare/))
 - Fears ‘lives will be put on the line’ by police staff cuts ([2 days ago](https://gloucesternewscentre.co.uk/fears-lives-will-be-put-on-the-line-by-police-staff-cuts/))
-- Beatrix Potter clock to return to shopping centre ([2 days ago](https://www.bbc.com/news/articles/clyne4wd2veo))
+- Beatrix Potter clock to return to shopping centre ([3 days ago](https://www.bbc.com/news/articles/clyne4wd2veo))
 - Wychwood Festival 2025 to go ahead but stage will be moved after complaints ([3 days ago](https://gloucesternewscentre.co.uk/wychwood-festival-2025-to-go-ahead-but-stage-will-be-moved-after-complaints/))
 - County to lose its mounted police unit in cost savings plan ([4 days ago](https://gloucesternewscentre.co.uk/county-to-lose-its-mounted-police-unit-in-cost-savings-plan/))
 - Traffic fears over ‘chicanes’ installed in Cheltenham ([4 days ago](https://gloucesternewscentre.co.uk/traffic-fears-over-chicanes-installed-in-cheltenham/))
