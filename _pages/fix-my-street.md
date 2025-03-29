@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Hayden lane beyond grain barn, 29th March :- [7357358](https://www.fixmystreet.com/report/7357358)
 - Hayden Lane - Pothole repair contractor ran out of tarmac, 29th March :- [7357153](https://www.fixmystreet.com/report/7357153)
 - Previously repaired pothole has sunk again, 29th March :- [7357135](https://www.fixmystreet.com/report/7357135)
 - Snapped spring on see-saw, 29th March :- [7357119](https://www.fixmystreet.com/report/7357119)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - End of bus lane sign has been rotated so does not face approaching traffic., 28th March :- [7353687](https://www.fixmystreet.com/report/7353687)
 - A pothole in road problem, 28th March :- [7353766](https://www.fixmystreet.com/report/7353766)
 - TMC - Defects - Other FW6  Surface problem, 28th March :- [7353773](https://www.fixmystreet.com/report/7353773)
-- Discoloured (?polluted) water still after a year pouring into lane, 28th March :- [7353546](https://www.fixmystreet.com/report/7353546)
 
 <!-- fix_marker ends -->
