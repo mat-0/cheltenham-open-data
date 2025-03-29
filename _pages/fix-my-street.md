@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Repeat request for broken tarmac levelling, 29th March :- [7355319](https://www.fixmystreet.com/report/7355319)
 - Multiple potholes and uneven road entrance of Birdlip road and near the entrance to reservoir. Have been fixed multiple times, but all it has done is create more dips and pot holes, 28th March :- [7355019](https://www.fixmystreet.com/report/7355019)
 - Dog excrement on pavement, 28th March :- [7354839](https://www.fixmystreet.com/report/7354839)
 - There is alot of flytipping on the Restricted Byway,which runs along the side of the Sainsburys store, 28th March :- [7354505](https://www.fixmystreet.com/report/7354505)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other problem, 28th March :- [7353394](https://www.fixmystreet.com/report/7353394)
 - TMC - Defects -CW6 Potholes  problem, 28th March :- [7353203](https://www.fixmystreet.com/report/7353203)
 - Cycle path tyre popping surface debris all along route, 28th March :- [7353170](https://www.fixmystreet.com/report/7353170)
-- TMC - Defects - Road Markings problem, 28th March :- [7353196](https://www.fixmystreet.com/report/7353196)
 
 <!-- fix_marker ends -->
