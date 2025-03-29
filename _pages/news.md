@@ -9,15 +9,15 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Cheltenham shop stripped of premises licence ([9 hours ago](https://gloucesternewscentre.co.uk/cheltenham-shop-stripped-of-premises-licence/))
-- Father of murdered girl made OBE for campaign work ([9 hours ago](https://www.bbc.com/news/articles/c7989q1xgrdo))
-- Town centre street reopens after WW2 shell found ([12 hours ago](https://www.bbc.com/news/articles/cp9ydv80592o))
-- Person taken to hospital after M5 multi-vehicle crash ([14 hours ago](https://www.bbc.com/news/articles/c1kjk43wv9no))
-- Headlines: Spring scenes and bridge closure ([14 hours ago](https://www.bbc.com/news/articles/cq6y62vd529o))
-- Appeal after girl is sexually assaulted on bus ([16 hours ago](https://www.bbc.com/news/articles/c0egegzq8xro))
-- Robber armed with meat cleavers jailed for attacks ([18 hours ago](https://www.bbc.com/news/articles/c5yx1v5d40vo))
+- Cheltenham shop stripped of premises licence ([10 hours ago](https://gloucesternewscentre.co.uk/cheltenham-shop-stripped-of-premises-licence/))
+- Father of murdered girl made OBE for campaign work ([10 hours ago](https://www.bbc.com/news/articles/c7989q1xgrdo))
+- Town centre street reopens after WW2 shell found ([13 hours ago](https://www.bbc.com/news/articles/cp9ydv80592o))
+- Person taken to hospital after M5 multi-vehicle crash ([15 hours ago](https://www.bbc.com/news/articles/c1kjk43wv9no))
+- Headlines: Spring scenes and bridge closure ([15 hours ago](https://www.bbc.com/news/articles/cq6y62vd529o))
+- Appeal after girl is sexually assaulted on bus ([17 hours ago](https://www.bbc.com/news/articles/c0egegzq8xro))
+- Robber armed with meat cleavers jailed for attacks ([19 hours ago](https://www.bbc.com/news/articles/c5yx1v5d40vo))
 - Retiree 'full of emotion' after 45 years in shop ([20 hours ago](https://www.bbc.com/news/articles/ckg858r0gwwo))
-- Village parking trial 'won't work' - coach firms ([20 hours ago](https://www.bbc.com/news/articles/cjw2zlp61weo))
+- Village parking trial 'won't work' - coach firms ([21 hours ago](https://www.bbc.com/news/articles/cjw2zlp61weo))
 - Historic Cheltenham property restored ([1 days ago](https://gloucesternewscentre.co.uk/historic-cheltenham-property-restored/))
 - Properties evacauated after suspect ammunition found in Cheltenham ([1 days ago](https://gloucesternewscentre.co.uk/propeties-evacauated-after-suspect-ammuintion-found-in-cheltenham/))
 - Five men arrested last month on suspicion of raping their partner or ex-partner ([1 days ago](https://gloucesternewscentre.co.uk/five-men-arrested-last-month-on-suspicion-of-raping-their-partner-or-ex-partner/))
