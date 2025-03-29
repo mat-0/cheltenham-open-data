@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street lamp is out- it is not safe, 29th March :- [7357946](https://www.fixmystreet.com/report/7357946)
 - The damaged pavement is a hazard to elderly residents, especially the elderly, including me., 29th March :- [7357608](https://www.fixmystreet.com/report/7357608)
 - Way marker sign snapped off, 29th March :- [7357551](https://www.fixmystreet.com/report/7357551)
 - Missing street sign for Inkerman Lane, 29th March :- [7357484](https://www.fixmystreet.com/report/7357484)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Parking by vehicle that is obstructing residents using the footpath, 28th March :- [7354258](https://www.fixmystreet.com/report/7354258)
 - General road markings, lines and stud issues problem, 28th March :- [7353771](https://www.fixmystreet.com/report/7353771)
 - A pothole in road problem, 28th March :- [7353770](https://www.fixmystreet.com/report/7353770)
-- General road markings, lines and stud issues problem, 28th March :- [7353769](https://www.fixmystreet.com/report/7353769)
 
 <!-- fix_marker ends -->
