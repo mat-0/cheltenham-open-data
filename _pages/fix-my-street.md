@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Drain pipe from property sticking out across pavement, 29th March :- [7356321](https://www.fixmystreet.com/report/7356321)
+- Raised up area on the pavement where i caught the tip of my shoe and then fell over landing on the pavement., 29th March :- [7356289](https://www.fixmystreet.com/report/7356289)
 - Repeat request for broken tarmac levelling, 29th March :- [7355319](https://www.fixmystreet.com/report/7355319)
 - Multiple potholes and uneven road entrance of Birdlip road and near the entrance to reservoir. Have been fixed multiple times, but all it has done is create more dips and pot holes, 28th March :- [7355019](https://www.fixmystreet.com/report/7355019)
 - Dog excrement on pavement, 28th March :- [7354839](https://www.fixmystreet.com/report/7354839)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -other CW6 problem, 28th March :- [7353395](https://www.fixmystreet.com/report/7353395)
 - Pothole and cracks in the road, 28th March :- [7353264](https://www.fixmystreet.com/report/7353264)
 - TMC - Defects - Other problem, 28th March :- [7353394](https://www.fixmystreet.com/report/7353394)
-- TMC - Defects -CW6 Potholes  problem, 28th March :- [7353203](https://www.fixmystreet.com/report/7353203)
-- Cycle path tyre popping surface debris all along route, 28th March :- [7353170](https://www.fixmystreet.com/report/7353170)
 
 <!-- fix_marker ends -->
