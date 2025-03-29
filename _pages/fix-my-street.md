@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The damaged pavement is a hazard to elderly residents, especially the elderly, including me., 29th March :- [7357608](https://www.fixmystreet.com/report/7357608)
 - Way marker sign snapped off, 29th March :- [7357551](https://www.fixmystreet.com/report/7357551)
 - Missing street sign for Inkerman Lane, 29th March :- [7357484](https://www.fixmystreet.com/report/7357484)
 - Hayden lane beyond grain barn, 29th March :- [7357358](https://www.fixmystreet.com/report/7357358)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - General road markings, lines and stud issues problem, 28th March :- [7353771](https://www.fixmystreet.com/report/7353771)
 - A pothole in road problem, 28th March :- [7353770](https://www.fixmystreet.com/report/7353770)
 - General road markings, lines and stud issues problem, 28th March :- [7353769](https://www.fixmystreet.com/report/7353769)
-- End of bus lane sign has been rotated so does not face approaching traffic., 28th March :- [7353687](https://www.fixmystreet.com/report/7353687)
 
 <!-- fix_marker ends -->

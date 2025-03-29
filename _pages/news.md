@@ -9,10 +9,10 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Plain-clothes officers to target predators and dealers ([4 hours ago](https://www.bbc.com/news/articles/cly6y56ne5no))
-- Arron Banks put forward as Reform UK's mayor candidate ([9 hours ago](https://www.bbc.com/news/articles/cgj5jddgy3lo))
-- Women who switched lives on TV now 'best friends' ([10 hours ago](https://www.bbc.com/news/articles/cgj5xwlyn48o))
-- Costumes from TV drama go on display in castle ([10 hours ago](https://www.bbc.com/news/articles/cge13yzyl5do))
+- Plain-clothes officers to target predators and dealers ([5 hours ago](https://www.bbc.com/news/articles/cly6y56ne5no))
+- Arron Banks put forward as Reform UK's mayor candidate ([10 hours ago](https://www.bbc.com/news/articles/cgj5jddgy3lo))
+- Women who switched lives on TV now 'best friends' ([11 hours ago](https://www.bbc.com/news/articles/cgj5xwlyn48o))
+- Costumes from TV drama go on display in castle ([11 hours ago](https://www.bbc.com/news/articles/cge13yzyl5do))
 - Cheltenham shop stripped of premises licence ([1 days ago](https://gloucesternewscentre.co.uk/cheltenham-shop-stripped-of-premises-licence/))
 - Father of murdered girl made OBE for campaign work ([1 days ago](https://www.bbc.com/news/articles/c7989q1xgrdo))
 - Town centre street reopens after WW2 shell found ([1 days ago](https://www.bbc.com/news/articles/cp9ydv80592o))
