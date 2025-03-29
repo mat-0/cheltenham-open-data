@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Way marker sign snapped off, 29th March :- [7357551](https://www.fixmystreet.com/report/7357551)
+- Missing street sign for Inkerman Lane, 29th March :- [7357484](https://www.fixmystreet.com/report/7357484)
 - Hayden lane beyond grain barn, 29th March :- [7357358](https://www.fixmystreet.com/report/7357358)
 - Hayden Lane - Pothole repair contractor ran out of tarmac, 29th March :- [7357153](https://www.fixmystreet.com/report/7357153)
 - Previously repaired pothole has sunk again, 29th March :- [7357135](https://www.fixmystreet.com/report/7357135)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - A pothole in road problem, 28th March :- [7353770](https://www.fixmystreet.com/report/7353770)
 - General road markings, lines and stud issues problem, 28th March :- [7353769](https://www.fixmystreet.com/report/7353769)
 - End of bus lane sign has been rotated so does not face approaching traffic., 28th March :- [7353687](https://www.fixmystreet.com/report/7353687)
-- A pothole in road problem, 28th March :- [7353766](https://www.fixmystreet.com/report/7353766)
-- TMC - Defects - Other FW6  Surface problem, 28th March :- [7353773](https://www.fixmystreet.com/report/7353773)
 
 <!-- fix_marker ends -->
