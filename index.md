@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Saturday, 29 March 2025
 
-- The average temperature today is 3.71˚C,
-- With highs of 4.42˚C and lows of 1.58˚C,
-- It may feel like 3.71˚C with clear sky
+- The average temperature today is 3.33˚C,
+- With highs of 4.42˚C and lows of 2.6˚C,
+- It may feel like 3.33˚C with few clouds
 - The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1019hPa and humidity is 82%
+- The pressure is 1019hPa and humidity is 83%
 - The sun will rise at 05:49 and set at 18:36
 
 <!-- weather_marker ends -->
