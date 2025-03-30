@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- No footpath sign or indication of footpath off road., 30th March :- [7358503](https://www.fixmystreet.com/report/7358503)
 - Cycle route sign pointing the wrong way, 30th March :- [7358453](https://www.fixmystreet.com/report/7358453)
 - Potholes, 30th March :- [7358271](https://www.fixmystreet.com/report/7358271)
 - Street lamp is out- it is not safe, 29th March :- [7357946](https://www.fixmystreet.com/report/7357946)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Multiple potholes and uneven road entrance of Birdlip road and near the entrance to reservoir. Have been fixed multiple times, but all it has done is create more dips and pot holes, 28th March :- [7355019](https://www.fixmystreet.com/report/7355019)
 - Dog excrement on pavement, 28th March :- [7354839](https://www.fixmystreet.com/report/7354839)
 - There is alot of flytipping on the Restricted Byway,which runs along the side of the Sainsburys store, 28th March :- [7354505](https://www.fixmystreet.com/report/7354505)
-- Parking by vehicle that is obstructing residents using the footpath, 28th March :- [7354258](https://www.fixmystreet.com/report/7354258)
 
 <!-- fix_marker ends -->
