@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 2 very large potholes on Badgerworth Lane near junction for the Readings, 30th March :- [7359607](https://www.fixmystreet.com/report/7359607)
 - There is a loose manhole cover that rattles noisily when cars go over it., 30th March :- [7359494](https://www.fixmystreet.com/report/7359494)
 - Broken slab with large loose overhang, 30th March :- [7359319](https://www.fixmystreet.com/report/7359319)
 - Overgrown, 30th March :- [7359203](https://www.fixmystreet.com/report/7359203)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - 2 sofas dumped on the pavement, 29th March :- [7357068](https://www.fixmystreet.com/report/7357068)
 - The manhole cover outside no 42 Warden Hill Road is loose and rattles every time a car goes over, 29th March :- [7356713](https://www.fixmystreet.com/report/7356713)
 - Drain pipe from property sticking out across pavement, 29th March :- [7356321](https://www.fixmystreet.com/report/7356321)
-- Raised up area on the pavement where i caught the tip of my shoe and then fell over landing on the pavement., 29th March :- [7356289](https://www.fixmystreet.com/report/7356289)
 
 <!-- fix_marker ends -->
