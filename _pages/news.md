@@ -9,9 +9,10 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- UK's oldest anti-slavery memorial restored ([4 hours ago](https://www.bbc.com/news/articles/cx2g954nyrpo))
-- Gloucestershire in pics: Derby delight and sunsets ([11 hours ago](https://www.bbc.com/news/articles/czjer7m1kwpo))
-- Weekend Headlines: Lottery win and banned phones ([11 hours ago](https://www.bbc.com/news/articles/czed796jyj4o))
+- Man walking 3,000 miles around the UK for charity ([30 minutes ago](https://www.bbc.com/news/articles/cz6dxnxqgw6o))
+- UK's oldest anti-slavery memorial restored ([5 hours ago](https://www.bbc.com/news/articles/cx2g954nyrpo))
+- Gloucestershire in pics: Derby delight and sunsets ([12 hours ago](https://www.bbc.com/news/articles/czjer7m1kwpo))
+- Weekend Headlines: Lottery win and banned phones ([12 hours ago](https://www.bbc.com/news/articles/czed796jyj4o))
 - Plain-clothes officers to target predators and dealers ([1 days ago](https://www.bbc.com/news/articles/cly6y56ne5no))
 - Arron Banks put forward as Reform UK's mayor candidate ([1 days ago](https://www.bbc.com/news/articles/cgj5jddgy3lo))
 - Women who switched lives on TV now 'best friends' ([1 days ago](https://www.bbc.com/news/articles/cgj5xwlyn48o))
@@ -28,7 +29,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Historic Cheltenham property restored ([3 days ago](https://gloucesternewscentre.co.uk/historic-cheltenham-property-restored/))
 - Properties evacauated after suspect ammunition found in Cheltenham ([3 days ago](https://gloucesternewscentre.co.uk/propeties-evacauated-after-suspect-ammuintion-found-in-cheltenham/))
 - Five men arrested last month on suspicion of raping their partner or ex-partner ([3 days ago](https://gloucesternewscentre.co.uk/five-men-arrested-last-month-on-suspicion-of-raping-their-partner-or-ex-partner/))
-- Animal shelter given £115k to replace leaking roofs ([3 days ago](https://www.bbc.com/news/articles/cevx3nvjlxko))
 - Film tells story of man's cancer diagnosis at 21 ([3 days ago](https://www.bbc.com/news/articles/cn046e47gpro))
 - Evacuation cordon lifted after grenade scare ([4 days ago](https://gloucesternewscentre.co.uk/evacuation-cordon-lifted-after-grenade-scare/))
 - Fears ‘lives will be put on the line’ by police staff cuts ([4 days ago](https://gloucesternewscentre.co.uk/fears-lives-will-be-put-on-the-line-by-police-staff-cuts/))
