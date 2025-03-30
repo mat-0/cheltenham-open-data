@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- There is a loose manhole cover that rattles noisily when cars go over it., 30th March :- [7359494](https://www.fixmystreet.com/report/7359494)
 - Broken slab with large loose overhang, 30th March :- [7359319](https://www.fixmystreet.com/report/7359319)
 - Overgrown, 30th March :- [7359203](https://www.fixmystreet.com/report/7359203)
 - Pot outside my driveway and rubble being thrown around onto my drive and potentially damaging my car, 30th March :- [7359037](https://www.fixmystreet.com/report/7359037)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - The manhole cover outside no 42 Warden Hill Road is loose and rattles every time a car goes over, 29th March :- [7356713](https://www.fixmystreet.com/report/7356713)
 - Drain pipe from property sticking out across pavement, 29th March :- [7356321](https://www.fixmystreet.com/report/7356321)
 - Raised up area on the pavement where i caught the tip of my shoe and then fell over landing on the pavement., 29th March :- [7356289](https://www.fixmystreet.com/report/7356289)
-- Repeat request for broken tarmac levelling, 29th March :- [7355319](https://www.fixmystreet.com/report/7355319)
 
 <!-- fix_marker ends -->
