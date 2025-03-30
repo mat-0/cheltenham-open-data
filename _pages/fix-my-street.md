@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Broken slab with large loose overhang, 30th March :- [7359319](https://www.fixmystreet.com/report/7359319)
+- Overgrown, 30th March :- [7359203](https://www.fixmystreet.com/report/7359203)
 - Pot outside my driveway and rubble being thrown around onto my drive and potentially damaging my car, 30th March :- [7359037](https://www.fixmystreet.com/report/7359037)
 - No footpath sign or indication of footpath off road., 30th March :- [7358503](https://www.fixmystreet.com/report/7358503)
 - Cycle route sign pointing the wrong way, 30th March :- [7358453](https://www.fixmystreet.com/report/7358453)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Drain pipe from property sticking out across pavement, 29th March :- [7356321](https://www.fixmystreet.com/report/7356321)
 - Raised up area on the pavement where i caught the tip of my shoe and then fell over landing on the pavement., 29th March :- [7356289](https://www.fixmystreet.com/report/7356289)
 - Repeat request for broken tarmac levelling, 29th March :- [7355319](https://www.fixmystreet.com/report/7355319)
-- Multiple potholes and uneven road entrance of Birdlip road and near the entrance to reservoir. Have been fixed multiple times, but all it has done is create more dips and pot holes, 28th March :- [7355019](https://www.fixmystreet.com/report/7355019)
-- Dog excrement on pavement, 28th March :- [7354839](https://www.fixmystreet.com/report/7354839)
 
 <!-- fix_marker ends -->
