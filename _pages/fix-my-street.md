@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Smell, 30th March :- [7360180](https://www.fixmystreet.com/report/7360180)
 - Pothole in dangerous brow of hill blind spot causing cars to swere at the top of a bilnd spot hill., 30th March :- [7359954](https://www.fixmystreet.com/report/7359954)
 - 2 very large potholes on Badgerworth Lane near junction for the Readings, 30th March :- [7359607](https://www.fixmystreet.com/report/7359607)
 - There is a loose manhole cover that rattles noisily when cars go over it., 30th March :- [7359494](https://www.fixmystreet.com/report/7359494)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Snapped spring on see-saw, 29th March :- [7357119](https://www.fixmystreet.com/report/7357119)
 - Dog waste bin full, 29th March :- [7357100](https://www.fixmystreet.com/report/7357100)
 - 2 sofas dumped on the pavement, 29th March :- [7357068](https://www.fixmystreet.com/report/7357068)
-- The manhole cover outside no 42 Warden Hill Road is loose and rattles every time a car goes over, 29th March :- [7356713](https://www.fixmystreet.com/report/7356713)
 
 <!-- fix_marker ends -->
