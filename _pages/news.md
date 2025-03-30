@@ -9,10 +9,10 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Man walking 3,000 miles around the UK for charity ([30 minutes ago](https://www.bbc.com/news/articles/cz6dxnxqgw6o))
-- UK's oldest anti-slavery memorial restored ([5 hours ago](https://www.bbc.com/news/articles/cx2g954nyrpo))
-- Gloucestershire in pics: Derby delight and sunsets ([12 hours ago](https://www.bbc.com/news/articles/czjer7m1kwpo))
-- Weekend Headlines: Lottery win and banned phones ([12 hours ago](https://www.bbc.com/news/articles/czed796jyj4o))
+- Man walking 3,000 miles around the UK for charity ([1 hours ago](https://www.bbc.com/news/articles/cz6dxnxqgw6o))
+- UK's oldest anti-slavery memorial restored ([6 hours ago](https://www.bbc.com/news/articles/cx2g954nyrpo))
+- Gloucestershire in pics: Derby delight and sunsets ([13 hours ago](https://www.bbc.com/news/articles/czjer7m1kwpo))
+- Weekend Headlines: Lottery win and banned phones ([13 hours ago](https://www.bbc.com/news/articles/czed796jyj4o))
 - Plain-clothes officers to target predators and dealers ([1 days ago](https://www.bbc.com/news/articles/cly6y56ne5no))
 - Arron Banks put forward as Reform UK's mayor candidate ([1 days ago](https://www.bbc.com/news/articles/cgj5jddgy3lo))
 - Women who switched lives on TV now 'best friends' ([1 days ago](https://www.bbc.com/news/articles/cgj5xwlyn48o))
@@ -56,7 +56,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Montpellier Gardens toilet facilities unveiled with new accessible amenities ([13 days ago](https://www.cheltenham.gov.uk/news/article/2995/montpellier_gardens_toilet_facilities_unveiled_with_new_accessible_amenities))
 - Proposal for a two-council Gloucestershire to be submitted to government ([13 days ago](https://www.cheltenham.gov.uk/news/article/2994/proposal_for_a_two-council_gloucestershire_to_be_submitted_to_government))
 - New measures announced to reduce fatalities on county roads ([15 days ago](https://gloucesternewscentre.co.uk/new-measures-announced-to-reduce-fatalities-on-county-roads/))
-- Second Cheltenham Festival horse death in just two days triggers calls for tighter safety measures ([15 days ago](https://gloucesternewscentre.co.uk/second-cheltenham-festival-horse-death-in-just-two-days-triggers-calls-for-tighter-safety-measures/))
+- Second Cheltenham Festival horse death in just two days triggers calls for tighter safety measures ([16 days ago](https://gloucesternewscentre.co.uk/second-cheltenham-festival-horse-death-in-just-two-days-triggers-calls-for-tighter-safety-measures/))
 - HBD invites feedback on Golden Valley plans ([17 days ago](https://www.cheltenham.gov.uk/news/article/2993/hbd_invites_feedback_on_golden_valley_plans))
 - Air source heat pump demonstration - understanding the basics ([20 days ago](https://www.cheltenham.gov.uk/news/article/2992/air_source_heat_pump_demonstration_-_understanding_the_basics))
 - Statement about Cheltenham town centre ([20 days ago](https://www.cheltenham.gov.uk/news/article/2991/statement_about_cheltenham_town_centre))
