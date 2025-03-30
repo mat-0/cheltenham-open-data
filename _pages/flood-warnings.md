@@ -21,12 +21,12 @@ This project fetches flood warning data for the Gloucestershire area and publish
 <!-- flood_marker starts -->
 - Flood alert: Tidal River Avon at Bristol, Pill and Shirehampton
 - Flooding of roads and low lying land is possible, property flooding is not expected.
-Flooding is possible for a few hours either side of high water at 7:30 PM on 29/03/2025 and 8:45 AM om 30/03/2025
+Flooding is possible for a few hours either side of high water at 9:15 PM on 30/03/2025 and 9:30 AM om 31/03/2025
 Areas most at risk include the tidal River Avon from Sea Mills to Conham in Bristol and between the Avonmouth Bridge and Shirehampton Park including Pill and Shirehampton.
 We have closed flood gates at Pill.
 Be careful along beaches, promenades, coastal footpaths and roads.
-The detailed tidal forecast for those who use it is for a peak level at Avonmouth. The first forecast high water is at 7:30 PM on 29/03/2025 with a level of 7.53 mAODN with south-westerly force 4 winds.  The second forecast tide is at 8:45 AM on 30/03/2025 with a level of 7.68mAOD with westerly force 4 winds.  This Flood Alert is likely to be in force until Tuesday 1st April.
-This message will be updated in the afternoon of 30/03/2025, or as the situation changes.
+The detailed tidal forecast for those who use it is for a peak level at Avonmouth. The first forecast high water is at 9:15 PM on 30/03/2025 with a level of 7.67 mAODN with north-westerly force 4 winds.  The second forecast tide is at 9:30 AM on 31/03/2025 with a level of 7.94 mAOD with north-easterly force 2 winds.  This Flood Alert is likely to be in force until Tuesday 1st April.
+This message will be updated in the afternoon of 31/03/2025, or as the situation changes.
 - Flood alert: Severn estuary from Gloucester to Sharpness
 -  A flood alert has been issued as a series of high spring tides are expected for 3 days. Commencing with the high tide on Sunday morning 30/03/2025, flooding may affect low lying land and roads adjacent the Severn Estuary from Sandhurst to Chepstow and Sharpness. Locations that may be affected include areas river side of defences where defences are present including Lydney Harbour. Low lying land at Purton on the east bank may also be impacted. High tides may also affect watercourses draining into the Severn Estuary.
 Predicted peaks. Sharpness 10.0m to 10.2m at 21:45 on 30/03/2025 and 10.2m to 10.4m at 10:00 on 31/03/2025.
