@@ -9,9 +9,9 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- UK's oldest anti-slavery memorial restored ([1 hours ago](https://www.bbc.com/news/articles/cx2g954nyrpo))
-- Gloucestershire in pics: Derby delight and sunsets ([8 hours ago](https://www.bbc.com/news/articles/czjer7m1kwpo))
-- Weekend Headlines: Lottery win and banned phones ([8 hours ago](https://www.bbc.com/news/articles/czed796jyj4o))
+- UK's oldest anti-slavery memorial restored ([2 hours ago](https://www.bbc.com/news/articles/cx2g954nyrpo))
+- Gloucestershire in pics: Derby delight and sunsets ([9 hours ago](https://www.bbc.com/news/articles/czjer7m1kwpo))
+- Weekend Headlines: Lottery win and banned phones ([9 hours ago](https://www.bbc.com/news/articles/czed796jyj4o))
 - Plain-clothes officers to target predators and dealers ([1 days ago](https://www.bbc.com/news/articles/cly6y56ne5no))
 - Arron Banks put forward as Reform UK's mayor candidate ([1 days ago](https://www.bbc.com/news/articles/cgj5jddgy3lo))
 - Women who switched lives on TV now 'best friends' ([1 days ago](https://www.bbc.com/news/articles/cgj5xwlyn48o))
