@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Speed bumps totally messed up with holes and infills., 30th March :- [7361210](https://www.fixmystreet.com/report/7361210)
 - Damage approx 12 ins across right at gateway to house of elderly person high trip risk with walking aid causes when work done on path to lay cables a week ago, 30th March :- [7360416](https://www.fixmystreet.com/report/7360416)
 - Smell, 30th March :- [7360180](https://www.fixmystreet.com/report/7360180)
 - Pothole in dangerous brow of hill blind spot causing cars to swere at the top of a bilnd spot hill., 30th March :- [7359954](https://www.fixmystreet.com/report/7359954)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Hayden Lane - Pothole repair contractor ran out of tarmac, 29th March :- [7357153](https://www.fixmystreet.com/report/7357153)
 - Previously repaired pothole has sunk again, 29th March :- [7357135](https://www.fixmystreet.com/report/7357135)
 - Snapped spring on see-saw, 29th March :- [7357119](https://www.fixmystreet.com/report/7357119)
-- Dog waste bin full, 29th March :- [7357100](https://www.fixmystreet.com/report/7357100)
 
 <!-- fix_marker ends -->
