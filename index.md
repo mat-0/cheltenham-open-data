@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Sunday, 30 March 2025
 
-- The average temperature today is 9.27˚C,
-- With highs of 9.27˚C and lows of 9.27˚C,
-- It may feel like 8.13˚C with clear sky
-- The wind speed is 2.27m/s and visibility is 10000m
-- The pressure is 1026hPa and humidity is 72%
+- The average temperature today is 8.53˚C,
+- With highs of 8.53˚C and lows of 8.53˚C,
+- It may feel like 7.66˚C with clear sky
+- The wind speed is 1.8m/s and visibility is 10000m
+- The pressure is 1027hPa and humidity is 76%
 - The sun will rise at 05:47 and set at 18:37
 
 <!-- weather_marker ends -->
