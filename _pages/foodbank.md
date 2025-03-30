@@ -36,24 +36,56 @@ Last updated: 2025-02-12
 <!-- summary2_marker starts -->
 ## List of needed items in Cheltenham Open Door
 
-Last updated: 2024-09-05
+Last updated: 2025-03-30
 
+- Men’s And Women’s Trainers
+- Men’s And Women’s Jeans
+- Men’s And Women’s Jogging Bottoms
+- Waterproof Coats
+- Men’s Boxers, New (Or Washed And As New Condition)
+- Women’s Knickers, New (Or Washed And As New Condition)
+- Men’s Spray Anti-Perspirants
+- Razors
+- Shaving Foam
+- Dog And Cat Food
+- Dog And Cat Treats
+- Dog And Cat Leads
+- Dog And Cat Collars/Harnesses
+- Tents (Up To 4 Man)
+- Large Rucksacks
+- Usb Charging Cables (C Type, Micro Usb, Apple)
+- Usb Charging Plugs
+- Flasks
+- Strong Carrier Bags
 - Instant Coffee
-- Squeezy Cheese Tubes (Great For Our Guests Who Are Street Homeless)
-- Tinned Meat And Fish
-- Tinned Fruit And Puddings
-- Tinned Potatoes And Instant Mash
+- Squeezy Cheese Tubes
+- Tinned Meat
+- Tinned Fish
+- Tinned Fruit
+- Tinned Puddings
+- Tinned Potatoes
+- Instant Mash
 - Tinned ‘Ready Meals’ (Chilli, Curry, Pies Etc)
 - Tinned Soup
-- Tinned Carrots And Peas
-- Instant And Pot Noodles
+- Tinned Carrots
+- Tinned Peas
+- Instant Noodles
+- Pot Noodles
 - Dry Sachets Of Pasta N Sauce
 - Jars Of Pasta Sauce
-- Biscuits And Chewy Bars
-- Chocolate, Sweets And Treats
-- Jam, Marmalade, Peanut Butter, Choc Spread, Marmite
-- Crisps And Nuts
-- Zip Loc Bags (For Keeping Food Dry On The Go)
+- Biscuits
+- Chewy Bars
+- Chocolate
+- Sweets
+- Treats
+- Jam
+- Marmalade
+- Peanut Butter
+- Choc Spread
+- Marmite
+- Crisps
+- Nuts
+- Zip Loc Bags
 <!-- summary2_marker ends -->
 
 [shopping list](https://cheltenham.foodbank.org.uk/give-help/donate-food/)
