@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dog poo in Marle Hill Road, 31st March :- [7367146](https://www.fixmystreet.com/report/7367146)
 - Potholes between speed bumps near 10 Horsefair Street, 31st March :- [7366990](https://www.fixmystreet.com/report/7366990)
 - Obscured zig zag and other yellow lines, 31st March :- [7366934](https://www.fixmystreet.com/report/7366934)
 - Fly tipped goods, 31st March :- [7366921](https://www.fixmystreet.com/report/7366921)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -other CW6 problem, 31st March :- [7364884](https://www.fixmystreet.com/report/7364884)
 - TMC - Defects -other CW6 problem, 31st March :- [7364883](https://www.fixmystreet.com/report/7364883)
 - Bollard shell is damaged/vandalised (Non illuminating bollard or post) problem, 31st March :- [7364866](https://www.fixmystreet.com/report/7364866)
-- TMC - Defects -other CW6 problem, 31st March :- [7364878](https://www.fixmystreet.com/report/7364878)
 
 <!-- fix_marker ends -->
