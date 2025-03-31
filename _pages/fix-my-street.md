@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fly tipping/rubbish, 31st March :- [7361600](https://www.fixmystreet.com/report/7361600)
 - Ongoing issue with pot hole. Patching up small areas of it is not working!!!!, 31st March :- [7361567](https://www.fixmystreet.com/report/7361567)
 - Speed bumps totally messed up with holes and infills., 30th March :- [7361210](https://www.fixmystreet.com/report/7361210)
 - Damage approx 12 ins across right at gateway to house of elderly person high trip risk with walking aid causes when work done on path to lay cables a week ago, 30th March :- [7360416](https://www.fixmystreet.com/report/7360416)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Missing street sign for Inkerman Lane, 29th March :- [7357484](https://www.fixmystreet.com/report/7357484)
 - Hayden lane beyond grain barn, 29th March :- [7357358](https://www.fixmystreet.com/report/7357358)
 - Hayden Lane - Pothole repair contractor ran out of tarmac, 29th March :- [7357153](https://www.fixmystreet.com/report/7357153)
-- Previously repaired pothole has sunk again, 29th March :- [7357135](https://www.fixmystreet.com/report/7357135)
 
 <!-- fix_marker ends -->
