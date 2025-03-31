@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Monday, 31 March 2025
 
-- The average temperature today is 16.46˚C,
-- With highs of 17.19˚C and lows of 15.75˚C,
-- It may feel like 15.55˚C with few clouds
-- The wind speed is 1.03m/s and visibility is 10000m
-- The pressure is 1028hPa and humidity is 53%
+- The average temperature today is 17.22˚C,
+- With highs of 17.62˚C and lows of 16.75˚C,
+- It may feel like 16.2˚C with clear sky
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 1028hPa and humidity is 46%
 - The sun will rise at 05:45 and set at 18:39
 
 <!-- weather_marker ends -->
