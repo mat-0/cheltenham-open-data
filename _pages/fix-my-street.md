@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Other FW6  Surface problem, 31st March :- [7361767](https://www.fixmystreet.com/report/7361767)
 - Fly tipping/rubbish, 31st March :- [7361600](https://www.fixmystreet.com/report/7361600)
 - Ongoing issue with pot hole. Patching up small areas of it is not working!!!!, 31st March :- [7361567](https://www.fixmystreet.com/report/7361567)
 - Speed bumps totally messed up with holes and infills., 30th March :- [7361210](https://www.fixmystreet.com/report/7361210)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Way marker sign snapped off, 29th March :- [7357551](https://www.fixmystreet.com/report/7357551)
 - Missing street sign for Inkerman Lane, 29th March :- [7357484](https://www.fixmystreet.com/report/7357484)
 - Hayden lane beyond grain barn, 29th March :- [7357358](https://www.fixmystreet.com/report/7357358)
-- Hayden Lane - Pothole repair contractor ran out of tarmac, 29th March :- [7357153](https://www.fixmystreet.com/report/7357153)
 
 <!-- fix_marker ends -->
