@@ -9,12 +9,12 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Former PCC candidate's injunction order extended ([12 minutes ago](https://www.bbc.com/news/articles/cde2yezdzn0o))
-- Kelsey Grammer's extension and tributes to sisters ([1 hours ago](https://www.bbc.com/news/articles/c5y6317vn99o))
-- SmartWater trial to protect domestic abuse victims ([5 hours ago](https://www.bbc.com/news/articles/cvg573zv3p8o))
-- Severn Bore's history: Dog cruelty and surfing firsts ([5 hours ago](https://www.bbc.com/news/articles/cx2e2501nk0o))
-- Man walking 3,000 miles around the UK for charity ([16 hours ago](https://www.bbc.com/news/articles/cz6dxnxqgw6o))
-- UK's oldest anti-slavery memorial restored ([21 hours ago](https://www.bbc.com/news/articles/cx2g954nyrpo))
+- Former PCC candidate's injunction order extended ([1 hours ago](https://www.bbc.com/news/articles/cde2yezdzn0o))
+- Kelsey Grammer's extension and tributes to sisters ([2 hours ago](https://www.bbc.com/news/articles/c5y6317vn99o))
+- SmartWater trial to protect domestic abuse victims ([6 hours ago](https://www.bbc.com/news/articles/cvg573zv3p8o))
+- Severn Bore's history: Dog cruelty and surfing firsts ([6 hours ago](https://www.bbc.com/news/articles/cx2e2501nk0o))
+- Man walking 3,000 miles around the UK for charity ([17 hours ago](https://www.bbc.com/news/articles/cz6dxnxqgw6o))
+- UK's oldest anti-slavery memorial restored ([22 hours ago](https://www.bbc.com/news/articles/cx2g954nyrpo))
 - Gloucestershire in pics: Derby delight and sunsets ([1 days ago](https://www.bbc.com/news/articles/czjer7m1kwpo))
 - Plain-clothes officers to target predators and dealers ([1 days ago](https://www.bbc.com/news/articles/cly6y56ne5no))
 - Arron Banks put forward as Reform UK's mayor candidate ([2 days ago](https://www.bbc.com/news/articles/cgj5jddgy3lo))
@@ -29,7 +29,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Village parking trial 'won't work' - coach firms ([3 days ago](https://www.bbc.com/news/articles/cjw2zlp61weo))
 - Historic Cheltenham property restored ([3 days ago](https://gloucesternewscentre.co.uk/historic-cheltenham-property-restored/))
 - Properties evacauated after suspect ammunition found in Cheltenham ([3 days ago](https://gloucesternewscentre.co.uk/propeties-evacauated-after-suspect-ammuintion-found-in-cheltenham/))
-- Five men arrested last month on suspicion of raping their partner or ex-partner ([3 days ago](https://gloucesternewscentre.co.uk/five-men-arrested-last-month-on-suspicion-of-raping-their-partner-or-ex-partner/))
+- Five men arrested last month on suspicion of raping their partner or ex-partner ([4 days ago](https://gloucesternewscentre.co.uk/five-men-arrested-last-month-on-suspicion-of-raping-their-partner-or-ex-partner/))
 - Evacuation cordon lifted after grenade scare ([4 days ago](https://gloucesternewscentre.co.uk/evacuation-cordon-lifted-after-grenade-scare/))
 - Fears ‘lives will be put on the line’ by police staff cuts ([4 days ago](https://gloucesternewscentre.co.uk/fears-lives-will-be-put-on-the-line-by-police-staff-cuts/))
 - Wychwood Festival 2025 to go ahead but stage will be moved after complaints ([4 days ago](https://gloucesternewscentre.co.uk/wychwood-festival-2025-to-go-ahead-but-stage-will-be-moved-after-complaints/))
@@ -63,7 +63,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Free parking and business incentives for shoppers during Cheltenham Festival ([23 days ago](https://www.cheltenham.gov.uk/news/article/2990/free_parking_and_business_incentives_for_shoppers_during_cheltenham_festival))
 - Initiatives to safeguard women and girls following International Women’s Day ([23 days ago](https://www.cheltenham.gov.uk/news/article/2989/initiatives_to_safeguard_women_and_girls_following_international_womens_day))
 - Wavensmere Homes starts work at £50m Arkle Court scheme in Cheltenham ([24 days ago](https://www.cheltenham.gov.uk/news/article/2988/wavensmere_homes_starts_work_at_50m_arkle_court_scheme_in_cheltenham))
-- Beat the queue by booking your journey in advance ([26 days ago](https://www.cheltenham.gov.uk/news/article/2987/beat_the_queue_by_booking_your_journey_in_advance))
+- Beat the queue by booking your journey in advance ([27 days ago](https://www.cheltenham.gov.uk/news/article/2987/beat_the_queue_by_booking_your_journey_in_advance))
 - Preparations underway for an enjoyable Cheltenham Festival 2025 ([27 days ago](https://www.cheltenham.gov.uk/news/article/2986/preparations_underway_for_an_enjoyable_cheltenham_festival_2025))
 
 <!-- news_marker ends -->
