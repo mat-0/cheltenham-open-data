@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Potholes, 31st March :- [7366291](https://www.fixmystreet.com/report/7366291)
 - Pothole about 5-6m long, 31st March :- [7366010](https://www.fixmystreet.com/report/7366010)
 - Parking Enforcement, 31st March :- [7365710](https://www.fixmystreet.com/report/7365710)
 - Pothole in Foxcote Lane 2x1 feet across and 2 inches deep, 31st March :- [7365593](https://www.fixmystreet.com/report/7365593)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -other CW6 problem, 31st March :- [7364877](https://www.fixmystreet.com/report/7364877)
 - TMC - Defects -other CW6 problem, 31st March :- [7364876](https://www.fixmystreet.com/report/7364876)
 - TMC - Defects -other CW6 problem, 31st March :- [7364875](https://www.fixmystreet.com/report/7364875)
-- TMC - Defects -other CW6 problem, 31st March :- [7364874](https://www.fixmystreet.com/report/7364874)
 
 <!-- fix_marker ends -->
