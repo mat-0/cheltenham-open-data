@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Parking Enforcement, 31st March :- [7365710](https://www.fixmystreet.com/report/7365710)
+- Pothole in Foxcote Lane 2x1 feet across and 2 inches deep, 31st March :- [7365593](https://www.fixmystreet.com/report/7365593)
+- Pothole in road in Foxcote Lane 2x1 feet x 2 inches, 31st March :- [7365534](https://www.fixmystreet.com/report/7365534)
 - Pothole in Foxcote Lane 2x1 ft across and 2 inches deep, 31st March :- [7365379](https://www.fixmystreet.com/report/7365379)
 - The road at the top of Harp Hill close to junction with Birdlip Rd is badly degraded, 31st March :- [7365237](https://www.fixmystreet.com/report/7365237)
 - Yet more flytipping, 31st March :- [7365204](https://www.fixmystreet.com/report/7365204)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -other CW6 problem, 31st March :- [7364875](https://www.fixmystreet.com/report/7364875)
 - TMC - Defects -other CW6 problem, 31st March :- [7364874](https://www.fixmystreet.com/report/7364874)
 - TMC - Defects -other CW6 problem, 31st March :- [7364873](https://www.fixmystreet.com/report/7364873)
-- TMC - Defects -CW6 Potholes  problem, 31st March :- [7364872](https://www.fixmystreet.com/report/7364872)
-- TMC - Defects -CW6 Potholes  problem, 31st March :- [7364871](https://www.fixmystreet.com/report/7364871)
-- TMC - Defects - Covers, Gratings & Frames problem, 31st March :- [7364659](https://www.fixmystreet.com/report/7364659)
 
 <!-- fix_marker ends -->
