@@ -9,14 +9,14 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- SmartWater trial to protect domestic abuse victims ([2 hours ago](https://www.bbc.com/news/articles/cvg573zv3p8o))
-- Severn Bore's history: Dog cruelty and surfing firsts ([2 hours ago](https://www.bbc.com/news/articles/cx2e2501nk0o))
-- Man walking 3,000 miles around the UK for charity ([13 hours ago](https://www.bbc.com/news/articles/cz6dxnxqgw6o))
-- UK's oldest anti-slavery memorial restored ([18 hours ago](https://www.bbc.com/news/articles/cx2g954nyrpo))
+- SmartWater trial to protect domestic abuse victims ([3 hours ago](https://www.bbc.com/news/articles/cvg573zv3p8o))
+- Severn Bore's history: Dog cruelty and surfing firsts ([3 hours ago](https://www.bbc.com/news/articles/cx2e2501nk0o))
+- Man walking 3,000 miles around the UK for charity ([14 hours ago](https://www.bbc.com/news/articles/cz6dxnxqgw6o))
+- UK's oldest anti-slavery memorial restored ([19 hours ago](https://www.bbc.com/news/articles/cx2g954nyrpo))
 - Gloucestershire in pics: Derby delight and sunsets ([1 days ago](https://www.bbc.com/news/articles/czjer7m1kwpo))
 - Weekend Headlines: Lottery win and banned phones ([1 days ago](https://www.bbc.com/news/articles/czed796jyj4o))
 - Plain-clothes officers to target predators and dealers ([1 days ago](https://www.bbc.com/news/articles/cly6y56ne5no))
-- Arron Banks put forward as Reform UK's mayor candidate ([1 days ago](https://www.bbc.com/news/articles/cgj5jddgy3lo))
+- Arron Banks put forward as Reform UK's mayor candidate ([2 days ago](https://www.bbc.com/news/articles/cgj5jddgy3lo))
 - Women who switched lives on TV now 'best friends' ([2 days ago](https://www.bbc.com/news/articles/cgj5xwlyn48o))
 - Costumes from TV drama go on display in castle ([2 days ago](https://www.bbc.com/news/articles/cge13yzyl5do))
 - Cheltenham shop stripped of premises licence ([2 days ago](https://gloucesternewscentre.co.uk/cheltenham-shop-stripped-of-premises-licence/))
@@ -24,7 +24,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Person taken to hospital after M5 multi-vehicle crash ([2 days ago](https://www.bbc.com/news/articles/c1kjk43wv9no))
 - Headlines: Spring scenes and bridge closure ([2 days ago](https://www.bbc.com/news/articles/cq6y62vd529o))
 - Appeal after girl is sexually assaulted on bus ([2 days ago](https://www.bbc.com/news/articles/c0egegzq8xro))
-- Robber armed with meat cleavers jailed for attacks ([2 days ago](https://www.bbc.com/news/articles/c5yx1v5d40vo))
+- Robber armed with meat cleavers jailed for attacks ([3 days ago](https://www.bbc.com/news/articles/c5yx1v5d40vo))
 - Retiree 'full of emotion' after 45 years in shop ([3 days ago](https://www.bbc.com/news/articles/ckg858r0gwwo))
 - Village parking trial 'won't work' - coach firms ([3 days ago](https://www.bbc.com/news/articles/cjw2zlp61weo))
 - Historic Cheltenham property restored ([3 days ago](https://gloucesternewscentre.co.uk/historic-cheltenham-property-restored/))

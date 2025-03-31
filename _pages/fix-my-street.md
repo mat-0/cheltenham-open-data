@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Larger crater/pothole, 31st March :- [7362262](https://www.fixmystreet.com/report/7362262)
+- TMC - Defects -FW6 Potholes problem, 31st March :- [7362041](https://www.fixmystreet.com/report/7362041)
+- TMC - Defects -FW6 Potholes problem, 31st March :- [7362040](https://www.fixmystreet.com/report/7362040)
+- A pothole in road problem, 31st March :- [7362038](https://www.fixmystreet.com/report/7362038)
+- A pothole in road problem, 31st March :- [7362037](https://www.fixmystreet.com/report/7362037)
 - TMC - Defects - Other FW6  Surface problem, 31st March :- [7361767](https://www.fixmystreet.com/report/7361767)
 - Fly tipping/rubbish, 31st March :- [7361600](https://www.fixmystreet.com/report/7361600)
 - Ongoing issue with pot hole. Patching up small areas of it is not working!!!!, 31st March :- [7361567](https://www.fixmystreet.com/report/7361567)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - No footpath sign or indication of footpath off road., 30th March :- [7358503](https://www.fixmystreet.com/report/7358503)
 - Cycle route sign pointing the wrong way, 30th March :- [7358453](https://www.fixmystreet.com/report/7358453)
 - Potholes, 30th March :- [7358271](https://www.fixmystreet.com/report/7358271)
-- Street lamp is out- it is not safe, 29th March :- [7357946](https://www.fixmystreet.com/report/7357946)
-- The damaged pavement is a hazard to elderly residents, especially the elderly, including me., 29th March :- [7357608](https://www.fixmystreet.com/report/7357608)
-- Way marker sign snapped off, 29th March :- [7357551](https://www.fixmystreet.com/report/7357551)
-- Missing street sign for Inkerman Lane, 29th March :- [7357484](https://www.fixmystreet.com/report/7357484)
-- Hayden lane beyond grain barn, 29th March :- [7357358](https://www.fixmystreet.com/report/7357358)
 
 <!-- fix_marker ends -->
