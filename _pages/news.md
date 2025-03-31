@@ -9,7 +9,7 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Man walking 3,000 miles around the UK for charity ([7 hours ago](https://www.bbc.com/news/articles/cz6dxnxqgw6o))
+- Man walking 3,000 miles around the UK for charity ([8 hours ago](https://www.bbc.com/news/articles/cz6dxnxqgw6o))
 - UK's oldest anti-slavery memorial restored ([13 hours ago](https://www.bbc.com/news/articles/cx2g954nyrpo))
 - Gloucestershire in pics: Derby delight and sunsets ([20 hours ago](https://www.bbc.com/news/articles/czjer7m1kwpo))
 - Weekend Headlines: Lottery win and banned phones ([20 hours ago](https://www.bbc.com/news/articles/czed796jyj4o))
