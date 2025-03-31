@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Potholes between speed bumps near 10 Horsefair Street, 31st March :- [7366990](https://www.fixmystreet.com/report/7366990)
+- Obscured zig zag and other yellow lines, 31st March :- [7366934](https://www.fixmystreet.com/report/7366934)
+- Fly tipped goods, 31st March :- [7366921](https://www.fixmystreet.com/report/7366921)
 - Potholes, 31st March :- [7366291](https://www.fixmystreet.com/report/7366291)
 - Pothole about 5-6m long, 31st March :- [7366010](https://www.fixmystreet.com/report/7366010)
 - Parking Enforcement, 31st March :- [7365710](https://www.fixmystreet.com/report/7365710)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -other CW6 problem, 31st March :- [7364883](https://www.fixmystreet.com/report/7364883)
 - Bollard shell is damaged/vandalised (Non illuminating bollard or post) problem, 31st March :- [7364866](https://www.fixmystreet.com/report/7364866)
 - TMC - Defects -other CW6 problem, 31st March :- [7364878](https://www.fixmystreet.com/report/7364878)
-- TMC - Defects -other CW6 problem, 31st March :- [7364877](https://www.fixmystreet.com/report/7364877)
-- TMC - Defects -other CW6 problem, 31st March :- [7364876](https://www.fixmystreet.com/report/7364876)
-- TMC - Defects -other CW6 problem, 31st March :- [7364875](https://www.fixmystreet.com/report/7364875)
 
 <!-- fix_marker ends -->
