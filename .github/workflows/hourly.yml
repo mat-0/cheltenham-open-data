@@ -6,6 +6,9 @@ on:
         - cron: "55 * * * *"
 jobs:
     build:
+        permissions:
+          contents: write
+          pull-requests: read
         runs-on: ubuntu-latest
         steps:
             - name: Check out Repo
