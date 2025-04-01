@@ -10,10 +10,10 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Tuesday, 01 April 2025
 
-- The average temperature today is 6.79˚C,
-- With highs of 7.75˚C and lows of 5.4˚C,
-- It may feel like 4.88˚C with overcast clouds
-- The wind speed is 2.68m/s and visibility is 10000m
+- The average temperature today is 6.1˚C,
+- With highs of 6.4˚C and lows of 4.91˚C,
+- It may feel like 4.42˚C with overcast clouds
+- The wind speed is 2.24m/s and visibility is 10000m
 - The pressure is 1025hPa and humidity is 74%
 - The sun will rise at 05:42 and set at 18:41
 
