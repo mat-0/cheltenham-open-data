@@ -8,13 +8,13 @@ seo: Menu
 ![Logo](/images/logo.jpg){:width="832px"}
 
 <!-- weather_marker starts -->
-## On Monday, 31 March 2025
+## On Tuesday, 01 April 2025
 
-- The average temperature today is 8.62˚C,
-- With highs of 8.62˚C and lows of 7.62˚C,
-- It may feel like 8.62˚C with scattered clouds
-- The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1027hPa and humidity is 75%
+- The average temperature today is 7.94˚C,
+- With highs of 8.3˚C and lows of 6.51˚C,
+- It may feel like 7.94˚C with broken clouds
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 1026hPa and humidity is 75%
 - The sun will rise at 05:42 and set at 18:41
 
 <!-- weather_marker ends -->
