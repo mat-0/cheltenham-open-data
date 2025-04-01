@@ -9,13 +9,13 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Police appeal after fire started in block of flats ([4 hours ago](https://www.bbc.com/news/articles/cdde4qnddqvo))
-- Eyecare scheme reducing waiting times and saving money ([9 hours ago](https://www.bbc.com/news/articles/c75dn5p29q5o))
-- Council sorry after burying people in wrong plots ([10 hours ago](https://www.bbc.com/news/articles/c0r5895gpn7o))
-- Arena parking concerns and famous spring tides ([10 hours ago](https://www.bbc.com/news/articles/c0jzwe1j2pgo))
-- Jury sent out in trial over baby death ([10 hours ago](https://www.bbc.com/news/articles/cy5ryyd491wo))
-- Deaf woman models cochlear implant in British Vogue ([15 hours ago](https://www.bbc.com/news/articles/c3e4ydx8vvjo))
-- Charities given months to leave amid nuclear takeover ([15 hours ago](https://www.bbc.com/news/articles/ckgdg2x461ko))
+- Police appeal after fire started in block of flats ([5 hours ago](https://www.bbc.com/news/articles/cdde4qnddqvo))
+- Eyecare scheme reducing waiting times and saving money ([10 hours ago](https://www.bbc.com/news/articles/c75dn5p29q5o))
+- Council sorry after burying people in wrong plots ([11 hours ago](https://www.bbc.com/news/articles/c0r5895gpn7o))
+- Arena parking concerns and famous spring tides ([11 hours ago](https://www.bbc.com/news/articles/c0jzwe1j2pgo))
+- Jury sent out in trial over baby death ([11 hours ago](https://www.bbc.com/news/articles/cy5ryyd491wo))
+- Deaf woman models cochlear implant in British Vogue ([16 hours ago](https://www.bbc.com/news/articles/c3e4ydx8vvjo))
+- Charities given months to leave amid nuclear takeover ([16 hours ago](https://www.bbc.com/news/articles/ckgdg2x461ko))
 - Thousands of arboretum trees planted after disease ([1 days ago](https://www.bbc.com/news/articles/czx4gr4v8p4o))
 - Restaurants frustrated by marathon road closures ([1 days ago](https://www.bbc.com/news/articles/c4grqg74j9zo))
 - Cheltenham garden annexe plans approved ([1 days ago](https://gloucesternewscentre.co.uk/cheltenham-garden-annexe-plans-approved/))
