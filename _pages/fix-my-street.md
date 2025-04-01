@@ -9,11 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Daisy Bank Road is a disgrace, chunks of tarmac damage and height drops all the way up tot he car park. I have now lived here for nearly 3 years and nothing has been done about it despite the reporting of the issue. I pay over £300 a month for my CT and am not seeing any value for that let alone a pride in the area covered!! To put it into perspective moving from London where my CT was £85 a month there was far better upkeep and modernising of the area near me., 1st April :- [7368699](https://www.fixmystreet.com/report/7368699)
 - Area like a magnet for filth, 1st April :- [7368452](https://www.fixmystreet.com/report/7368452)
 - Multiple large potholes and surface damage on main road, 1st April :- [7368268](https://www.fixmystreet.com/report/7368268)
 - TMC - Defects - Other FW6  Surface problem, 1st April :- [7368341](https://www.fixmystreet.com/report/7368341)
-- TMC - Defects -CW6 Potholes  problem, 1st April :- [7368337](https://www.fixmystreet.com/report/7368337)
 - TMC - Defects -CW6 Potholes  problem, 1st April :- [7368338](https://www.fixmystreet.com/report/7368338)
+- TMC - Defects -CW6 Potholes  problem, 1st April :- [7368337](https://www.fixmystreet.com/report/7368337)
 - TMC - Defects - Other FW6  Surface problem, 1st April :- [7368164](https://www.fixmystreet.com/report/7368164)
 - Dog poo in Marle Hill Road, 31st March :- [7367146](https://www.fixmystreet.com/report/7367146)
 - Potholes between speed bumps near 10 Horsefair Street, 31st March :- [7366990](https://www.fixmystreet.com/report/7366990)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - The road at the top of Harp Hill close to junction with Birdlip Rd is badly degraded, 31st March :- [7365237](https://www.fixmystreet.com/report/7365237)
 - Yet more flytipping, 31st March :- [7365204](https://www.fixmystreet.com/report/7365204)
 - TMC - Defects -other CW6 problem, 31st March :- [7365346](https://www.fixmystreet.com/report/7365346)
-- Post or sign leaning slightly (less than 20 degrees) problem, 31st March :- [7365085](https://www.fixmystreet.com/report/7365085)
 
 <!-- fix_marker ends -->
