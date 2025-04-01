@@ -29,10 +29,5 @@ We continue to monitor the situation.
 -  The Flood Alert for the area has now been removed.  Peak tides are now forecast to fall below the flood risk threshold.  
 We continue to monitor the situation.
 
-- Warning no longer in force: Wye Estuary at Brockweir
--  This Flood Warning has been removed.  
-The Flood Warning for the area has now been removed.  However, a Flood Alert remains in force for the wider area, so flooding may still affect roads and low lying land.  
-We continue to monitor the situation.
-
 
 <!-- flood_marker ends -->
