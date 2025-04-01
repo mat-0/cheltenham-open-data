@@ -10,12 +10,12 @@ permalink: /fix-my-street
 <!-- fix_marker starts -->
 
 - Long quite shallow pothole close to kerb, 1st April :- [7372118](https://www.fixmystreet.com/report/7372118)
-- TMC - Defects - Other FW6  Surface problem, 1st April :- [7371595](https://www.fixmystreet.com/report/7371595)
 - TMC - Defects - Other FW6  Surface problem, 1st April :- [7371596](https://www.fixmystreet.com/report/7371596)
+- TMC - Defects - Other FW6  Surface problem, 1st April :- [7371595](https://www.fixmystreet.com/report/7371595)
 - TMC - Defects -CW6 Potholes  problem, 1st April :- [7371398](https://www.fixmystreet.com/report/7371398)
 - TMC - Defects -CW6 Potholes  problem, 1st April :- [7371397](https://www.fixmystreet.com/report/7371397)
-- TMC - Defects -CW6 Potholes  problem, 1st April :- [7371391](https://www.fixmystreet.com/report/7371391)
 - TMC - Defects -CW6 Potholes  problem, 1st April :- [7371392](https://www.fixmystreet.com/report/7371392)
+- TMC - Defects -CW6 Potholes  problem, 1st April :- [7371391](https://www.fixmystreet.com/report/7371391)
 - Overgrown hanging over on narrow lane, 1st April :- [7371233](https://www.fixmystreet.com/report/7371233)
 - TMC - Defects -CW6 Potholes  problem, 1st April :- [7371179](https://www.fixmystreet.com/report/7371179)
 - TMC - Defects -CW6 Potholes  problem, 1st April :- [7371180](https://www.fixmystreet.com/report/7371180)
