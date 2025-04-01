@@ -9,9 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 2 long potholes close to edge of road, 1st April :- [7372266](https://www.fixmystreet.com/report/7372266)
 - Long quite shallow pothole close to kerb, 1st April :- [7372118](https://www.fixmystreet.com/report/7372118)
-- TMC - Defects - Other FW6  Surface problem, 1st April :- [7371596](https://www.fixmystreet.com/report/7371596)
 - TMC - Defects - Other FW6  Surface problem, 1st April :- [7371595](https://www.fixmystreet.com/report/7371595)
+- TMC - Defects - Other FW6  Surface problem, 1st April :- [7371596](https://www.fixmystreet.com/report/7371596)
 - TMC - Defects -CW6 Potholes  problem, 1st April :- [7371398](https://www.fixmystreet.com/report/7371398)
 - TMC - Defects -CW6 Potholes  problem, 1st April :- [7371397](https://www.fixmystreet.com/report/7371397)
 - TMC - Defects -CW6 Potholes  problem, 1st April :- [7371392](https://www.fixmystreet.com/report/7371392)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 1st April :- [7370955](https://www.fixmystreet.com/report/7370955)
 - TMC - Defects -CW6 Potholes  problem, 1st April :- [7370957](https://www.fixmystreet.com/report/7370957)
 - TMC - Defects -CW6 Potholes  problem, 1st April :- [7370948](https://www.fixmystreet.com/report/7370948)
-- TMC - Defects -CW6 Potholes  problem, 1st April :- [7370750](https://www.fixmystreet.com/report/7370750)
 
 <!-- fix_marker ends -->
