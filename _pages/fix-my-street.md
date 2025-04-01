@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree is too big, taller than our house, undermining pathway, impacting garden wall and garden, 1st April :- [7370097](https://www.fixmystreet.com/report/7370097)
+- TMC - Defects -CW6 Potholes  problem, 1st April :- [7370249](https://www.fixmystreet.com/report/7370249)
+- TMC - Defects -CW6 Potholes  problem, 1st April :- [7370000](https://www.fixmystreet.com/report/7370000)
 - General poor condition of pavements, 1st April :- [7369607](https://www.fixmystreet.com/report/7369607)
 - TMC - Defects -CW6 Potholes  problem, 1st April :- [7369719](https://www.fixmystreet.com/report/7369719)
 - TMC - Defects -CW6 Potholes  problem, 1st April :- [7369464](https://www.fixmystreet.com/report/7369464)
@@ -25,9 +28,6 @@ permalink: /fix-my-street
 - Area like a magnet for filth, 1st April :- [7368452](https://www.fixmystreet.com/report/7368452)
 - Multiple large potholes and surface damage on main road, 1st April :- [7368268](https://www.fixmystreet.com/report/7368268)
 - TMC - Defects - Other FW6  Surface problem, 1st April :- [7368341](https://www.fixmystreet.com/report/7368341)
-- TMC - Defects -CW6 Potholes  problem, 1st April :- [7368338](https://www.fixmystreet.com/report/7368338)
 - TMC - Defects -CW6 Potholes  problem, 1st April :- [7368337](https://www.fixmystreet.com/report/7368337)
-- TMC - Defects - Other FW6  Surface problem, 1st April :- [7368164](https://www.fixmystreet.com/report/7368164)
-- Dog poo in Marle Hill Road, 31st March :- [7367146](https://www.fixmystreet.com/report/7367146)
 
 <!-- fix_marker ends -->
