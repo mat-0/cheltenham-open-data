@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large pot hole, 2nd April :- [7373954](https://www.fixmystreet.com/report/7373954)
 - Uneven and broken pavement slabs, 1st April :- [7373113](https://www.fixmystreet.com/report/7373113)
 - Gap in the cycle path, 1st April :- [7372884](https://www.fixmystreet.com/report/7372884)
 - 2 long potholes close to edge of road, 1st April :- [7372266](https://www.fixmystreet.com/report/7372266)
@@ -17,8 +18,8 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 1st April :- [7371596](https://www.fixmystreet.com/report/7371596)
 - TMC - Defects -CW6 Potholes  problem, 1st April :- [7371398](https://www.fixmystreet.com/report/7371398)
 - TMC - Defects -CW6 Potholes  problem, 1st April :- [7371397](https://www.fixmystreet.com/report/7371397)
-- TMC - Defects -CW6 Potholes  problem, 1st April :- [7371391](https://www.fixmystreet.com/report/7371391)
 - TMC - Defects -CW6 Potholes  problem, 1st April :- [7371392](https://www.fixmystreet.com/report/7371392)
+- TMC - Defects -CW6 Potholes  problem, 1st April :- [7371391](https://www.fixmystreet.com/report/7371391)
 - Overgrown hanging over on narrow lane, 1st April :- [7371233](https://www.fixmystreet.com/report/7371233)
 - TMC - Defects -CW6 Potholes  problem, 1st April :- [7371179](https://www.fixmystreet.com/report/7371179)
 - TMC - Defects -CW6 Potholes  problem, 1st April :- [7371180](https://www.fixmystreet.com/report/7371180)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other problem, 1st April :- [7371174](https://www.fixmystreet.com/report/7371174)
 - TMC - Defects - Vegetation problem, 1st April :- [7370961](https://www.fixmystreet.com/report/7370961)
 - TMC - Defects -CW6 Potholes  problem, 1st April :- [7370955](https://www.fixmystreet.com/report/7370955)
-- TMC - Defects -CW6 Potholes  problem, 1st April :- [7370956](https://www.fixmystreet.com/report/7370956)
 
 <!-- fix_marker ends -->
