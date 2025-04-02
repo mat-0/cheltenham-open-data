@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Other problem, 2nd April :- [7377328](https://www.fixmystreet.com/report/7377328)
 - A pothole in road problem, 2nd April :- [7377024](https://www.fixmystreet.com/report/7377024)
 - TMC - Defects -CW6 Potholes  problem, 2nd April :- [7377026](https://www.fixmystreet.com/report/7377026)
 - TMC - Defects -CW6 Potholes  problem, 2nd April :- [7376806](https://www.fixmystreet.com/report/7376806)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -other CW6 problem, 2nd April :- [7374704](https://www.fixmystreet.com/report/7374704)
 - TMC - Defects - Other FW6  Surface problem, 2nd April :- [7374181](https://www.fixmystreet.com/report/7374181)
 - TMC - Defects - Other FW6  Surface problem, 2nd April :- [7374180](https://www.fixmystreet.com/report/7374180)
-- TMC - Defects - Other FW6  Surface problem, 2nd April :- [7374179](https://www.fixmystreet.com/report/7374179)
 
 <!-- fix_marker ends -->
