@@ -10,15 +10,15 @@ permalink: /foodbank
 <!-- summary1_marker starts -->
 ## List of needed items in Cheltenham
 
-Last updated: 2025-02-12
+Last updated: 2025-04-02
 
-- Tinned Cold Meat (Or Fish)
+- Long Life Milk
+- Instant Noodles / Microwave Rice
 - Pasta Sauce
+- Deodorants - Ladies
 - Washing Up Liquid, Washing Powder (Powder Or Capsules Please, Not Liquid)
 - Soup - Packets Or Tins
-- Desserts - Hot Or Cold, Packets Or Cans
-- Deodorants - Ladies And Men's
-- Nappies - Size 4
+- Tinned Cold Meat (Or Fish)
 <!-- summary1_marker ends -->
 
 [shopping list](https://cheltenham.foodbank.org.uk/give-help/donate-food/)
