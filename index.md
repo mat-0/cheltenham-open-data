@@ -10,12 +10,12 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Wednesday, 02 April 2025
 
-- The average temperature today is 7.96˚C,
-- With highs of 8.62˚C and lows of 7.6˚C,
-- It may feel like 7.51˚C with scattered clouds
+- The average temperature today is 7.58˚C,
+- With highs of 8.16˚C and lows of 6.49˚C,
+- It may feel like 7.08˚C with broken clouds
 - The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 1021hPa and humidity is 79%
-- The sun will rise at 05:40 and set at 18:42
+- The pressure is 1020hPa and humidity is 80%
+- The sun will rise at 05:38 and set at 18:44
 
 <!-- weather_marker ends -->
 
