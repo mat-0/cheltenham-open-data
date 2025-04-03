@@ -9,13 +9,13 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Mum found guilty of killing baby by shaking her ([10 hours ago](https://www.bbc.com/news/articles/c5ypx3g2p29o))
-- Wanted woman is arrested after handing herself into police ([10 hours ago](https://gloucesternewscentre.co.uk/wanted-woman-is-arrested-after-handing-herself-into-police/))
+- Mum found guilty of killing baby by shaking her ([11 hours ago](https://www.bbc.com/news/articles/c5ypx3g2p29o))
+- Wanted woman is arrested after handing herself into police ([11 hours ago](https://gloucesternewscentre.co.uk/wanted-woman-is-arrested-after-handing-herself-into-police/))
 - CCTV appeal following theft of cigarettes and vapes from Cheltenham shop ([11 hours ago](https://gloucesternewscentre.co.uk/cctv-appeal-following-theft-of-cigarettes-and-vapes-from-cheltenham-shop/))
-- £40k grant to repair cathedral's famous cloisters ([12 hours ago](https://www.bbc.com/news/articles/c0kx461kezeo))
+- £40k grant to repair cathedral's famous cloisters ([13 hours ago](https://www.bbc.com/news/articles/c0kx461kezeo))
 - Your Voice, Your Vote: Tell us the election issues that matter to you ([15 hours ago](https://www.bbc.com/news/articles/cz440j1x4xno))
-- Cheltenham Science Festival announces 2025 line-up ([16 hours ago](https://www.bbc.com/news/articles/clyq20y0lm1o))
-- Headlines: Red super yacht and running at 73 ([16 hours ago](https://www.bbc.com/news/articles/ckg5lv8pk0ro))
+- Cheltenham Science Festival announces 2025 line-up ([17 hours ago](https://www.bbc.com/news/articles/clyq20y0lm1o))
+- Headlines: Red super yacht and running at 73 ([17 hours ago](https://www.bbc.com/news/articles/ckg5lv8pk0ro))
 - Eel exports stopped over illegal trading concerns ([21 hours ago](https://www.bbc.com/news/articles/cvg7wl7jywzo))
 - Road scheme to protect 'look' of the Cotswolds ([21 hours ago](https://www.bbc.com/news/articles/ckg1nmkdp8lo))
 - Police appeal after fire started in block of flats ([1 days ago](https://www.bbc.com/news/articles/cdde4qnddqvo))
