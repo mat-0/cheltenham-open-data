@@ -9,9 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Very deep pothole, on side of speed bump, 3rd April :- [7384008](https://www.fixmystreet.com/report/7384008)
 - TMC - Defects -CW6 Potholes  problem, 3rd April :- [7383528](https://www.fixmystreet.com/report/7383528)
-- TMC - Defects -CW6 Potholes  problem, 3rd April :- [7383522](https://www.fixmystreet.com/report/7383522)
 - TMC - Defects -CW6 Potholes  problem, 3rd April :- [7383521](https://www.fixmystreet.com/report/7383521)
+- TMC - Defects -CW6 Potholes  problem, 3rd April :- [7383522](https://www.fixmystreet.com/report/7383522)
 - TMC - Defects - Signs & Street Furniture problem, 3rd April :- [7383273](https://www.fixmystreet.com/report/7383273)
 - TMC - Defects -FW6 Potholes problem, 3rd April :- [7383271](https://www.fixmystreet.com/report/7383271)
 - TMC - Defects - Other FW6  Surface problem, 3rd April :- [7383061](https://www.fixmystreet.com/report/7383061)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 3rd April :- [7382856](https://www.fixmystreet.com/report/7382856)
 - TMC - Defects -CW6 Potholes  problem, 3rd April :- [7382854](https://www.fixmystreet.com/report/7382854)
 - TMC - Defects -other CW6 problem, 3rd April :- [7382855](https://www.fixmystreet.com/report/7382855)
-- Water leak, 3rd April :- [7382604](https://www.fixmystreet.com/report/7382604)
 
 <!-- fix_marker ends -->
