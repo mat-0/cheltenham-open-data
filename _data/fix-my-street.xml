@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -12,6 +12,87 @@
 <description>The latest local problems reported by users</description>
 <language>en-gb</language>
 
+<item>
+<title>TMC - Defects - Footways Slabs problem, 3rd April</title>
+<link>https://www.fixmystreet.com/report/7380789</link>
+<description>28 day with give an take plus temporary footway closure needed please lift an relay x1 rocking 450x450x20mm slab number 5 (FW Rocking/Unstable Slab)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7380789&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7380789</guid>
+<pubDate>Thu, 03 Apr 2025 09:00:54 +0100</pubDate>
+<georss:point>51.9032027741687 -2.07697533530421</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Footways Slabs problem, 3rd April</title>
+<link>https://www.fixmystreet.com/report/7380787</link>
+<description>28 day with give an take plus temporary footway closure needed please lift an relay x1 rocking 450x450x20mm slab number 3 (FW Rocking/Unstable Slab)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7380787&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7380787</guid>
+<pubDate>Thu, 03 Apr 2025 09:00:53 +0100</pubDate>
+<georss:point>51.9031687897402 -2.07702023837433</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Footways Slabs problem, 3rd April</title>
+<link>https://www.fixmystreet.com/report/7380778</link>
+<description>28 day with give an take plus temporary footway closure needed please lift an relay x1 rocking 200x450x20mm slab (FW Rocking/Unstable Slab)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7380778&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7380778</guid>
+<pubDate>Thu, 03 Apr 2025 09:00:53 +0100</pubDate>
+<georss:point>51.9028008999995 -2.0772627</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Footways Slabs problem, 3rd April</title>
+<link>https://www.fixmystreet.com/report/7380786</link>
+<description>28 day with give an take plus temporary footway closure needed please lift an relay x1 rocking 450x450x20mm slab number 2 (FW Rocking/Unstable Slab)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7380786&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7380786</guid>
+<pubDate>Thu, 03 Apr 2025 09:00:53 +0100</pubDate>
+<georss:point>51.9032002528772 -2.07699206123441</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Footways Slabs problem, 3rd April</title>
+<link>https://www.fixmystreet.com/report/7380780</link>
+<description>28 day with give an take plus temporary footway closure needed please lift an relay x1 rocking 450x450x20mm slab number 2 (FW Rocking/Unstable Slab)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7380780&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7380780</guid>
+<pubDate>Thu, 03 Apr 2025 09:00:53 +0100</pubDate>
+<georss:point>51.9030410272527 -2.07715229161793</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Footways Slabs problem, 3rd April</title>
+<link>https://www.fixmystreet.com/report/7380779</link>
+<description>28 day with give an take plus temporary footway closure needed please lift an relay x1 rocking 450x450x20mm slab number 1 (FW Rocking/Unstable Slab)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7380779&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7380779</guid>
+<pubDate>Thu, 03 Apr 2025 09:00:53 +0100</pubDate>
+<georss:point>51.9030237774629 -2.07709976046736</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Footways Slabs problem, 3rd April</title>
+<link>https://www.fixmystreet.com/report/7380784</link>
+<description>28 day with give an take plus temporary footway closure needed please lift an relay x1 rocking 450x450x20mm slab number 1 (FW Rocking/Unstable Slab)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7380784&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7380784</guid>
+<pubDate>Thu, 03 Apr 2025 09:00:53 +0100</pubDate>
+<georss:point>51.9032229115454 -2.0770268089698</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Footways Slabs problem, 3rd April</title>
+<link>https://www.fixmystreet.com/report/7380788</link>
+<description>28 day with give an take plus temporary footway closure needed please lift an relay x1 rocking 450x450x20mm slab number 4 (FW Rocking/Unstable Slab)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7380788&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7380788</guid>
+<pubDate>Thu, 03 Apr 2025 09:00:53 +0100</pubDate>
+<georss:point>51.9031843132642 -2.07701638128236</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Footways Slabs problem, 3rd April</title>
+<link>https://www.fixmystreet.com/report/7380782</link>
+<description>28 day with give an take plus temporary footway closure needed please lift an relay x1 rocking 450x450x20mm slab number 3 (FW Rocking/Unstable Slab)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7380782&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7380782</guid>
+<pubDate>Thu, 03 Apr 2025 09:00:53 +0100</pubDate>
+<georss:point>51.9030429219443 -2.07715593286799</georss:point>
+</item>
 <item>
 <title>Trench across road getting deeper by the day, Cheltenham Road, Bishops Cleeve, 3rd April</title>
 <link>https://www.fixmystreet.com/report/7380549</link>
@@ -68,21 +149,21 @@
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 2nd April</title>
-<link>https://www.fixmystreet.com/report/7377768</link>
-<description>28 day with give snd take plus 15 minutes delay boards needed carriageway pothole 400 x 400 x 50 tarmac patch required best out of hours (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7377768&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7377768</guid>
-<pubDate>Wed, 02 Apr 2025 15:29:13 +0100</pubDate>
-<georss:point>51.9086374160377 -2.10763148357634</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 2nd April</title>
 <link>https://www.fixmystreet.com/report/7377769</link>
 <description>NWD WITH GIVE AND TAKE PLUS 15 MINUTES DELAY BOARDS CARRIAGEWAY POTHOLE 500 X 600 X 70MM TARMAC PATCH REQUIRED unable to mark up or measure size is approximately (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7377769&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
 <guid isPermaLink="false">https://www.fixmystreet.com/report/7377769</guid>
 <pubDate>Wed, 02 Apr 2025 15:29:13 +0100</pubDate>
 <georss:point>51.9086551192784 -2.10773030264135</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 2nd April</title>
+<link>https://www.fixmystreet.com/report/7377768</link>
+<description>28 day with give snd take plus 15 minutes delay boards needed carriageway pothole 400 x 400 x 50 tarmac patch required best out of hours (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7377768&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7377768</guid>
+<pubDate>Wed, 02 Apr 2025 15:29:13 +0100</pubDate>
+<georss:point>51.9086374160377 -2.10763148357634</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 2nd April</title>
@@ -110,87 +191,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/7377633</guid>
 <pubDate>Wed, 02 Apr 2025 15:12:24 +0100</pubDate>
 <georss:point>51.936014 -2.06553</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other problem, 2nd April</title>
-<link>https://www.fixmystreet.com/report/7377328</link>
-<description>fooptath closed signage x2 signs and sandbags  to warn pedetirans footway closed&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7377328&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7377328</guid>
-<pubDate>Wed, 02 Apr 2025 13:56:16 +0100</pubDate>
-<georss:point>51.88227219 -2.08336032</georss:point>
-</item>
-<item>
-<title>A pothole in road problem, 2nd April</title>
-<link>https://www.fixmystreet.com/report/7377024</link>
-<description>Please find attached Object on the Highway application for an A-Board for Suffolk Coffee, First Floor, 100 Promenade, Cheltenham,GL50 1NB&amp;#10;&amp;#10;I have attached the scale drawing, notice and photos for your information.&amp;#10;&amp;#10;Reference: 25/00891/OBJA&amp;#10;&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7377024&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7377024</guid>
-<pubDate>Wed, 02 Apr 2025 13:38:04 +0100</pubDate>
-<georss:point>51.898076 -2.078693</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 2nd April</title>
-<link>https://www.fixmystreet.com/report/7377026</link>
-<description>28 day with give snd take plus 15 minutes delay boards needed carriageway pothole 600 x 500 x 40 tarmac patch required (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7377026&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7377026</guid>
-<pubDate>Wed, 02 Apr 2025 13:32:48 +0100</pubDate>
-<georss:point>51.8944650236873 -2.11663878965661</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 2nd April</title>
-<link>https://www.fixmystreet.com/report/7376805</link>
-<description>28 day with road closure needed carriageway pothole 700 x 800 x 50mm tarmac patch required number 1 plus x2 NSD (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7376805&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7376805</guid>
-<pubDate>Wed, 02 Apr 2025 13:04:39 +0100</pubDate>
-<georss:point>51.9004115999996 -2.06670500000001</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 2nd April</title>
-<link>https://www.fixmystreet.com/report/7376806</link>
-<description>28 day with road closure needed carriageway pothole 800 x 700 x 40 mm tarmac patch required number 2 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7376806&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7376806</guid>
-<pubDate>Wed, 02 Apr 2025 13:04:39 +0100</pubDate>
-<georss:point>51.9004115999991 -2.06670500000001</georss:point>
-</item>
-<item>
-<title>Tree is damaged problem, 2nd April</title>
-<link>https://www.fixmystreet.com/report/7376603</link>
-<description>(From 11483493) 28/03/25 FMS passed from CBC ::: Lopping of large aged Plane tree with TPO - The tree is located on Parabola Road near Cheltenham Ladies College St Austin’s House. The beautiful mature Plane tree was severely lopped last week. As the tree is located well away from any buildings I cannot believe there was any justification for the desecration of such a beautiful tree. Surely TPO’s are placed on such trees for good reason. Could you please explain why such action was taken? Many thanks&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7376603&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Tree is damaged</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7376603</guid>
-<pubDate>Wed, 02 Apr 2025 12:59:26 +0100</pubDate>
-<georss:point>51.896305 -2.084908</georss:point>
-</item>
-<item>
-<title>Pothole outside 41 Horsefair St, 2nd April</title>
-<link>https://www.fixmystreet.com/report/7375961</link>
-<description>Pothole outside 41 Horsefair St&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 51, Horsefair Street, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7375961&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7375961</guid>
-<pubDate>Wed, 02 Apr 2025 11:46:55 +0100</pubDate>
-<georss:point>51.880844 -2.052044</georss:point>
-</item>
-<item>
-<title>Light is dayburning at 10am and has been for at least 6 weeks., 2nd April</title>
-<link>https://www.fixmystreet.com/report/7375938</link>
-<description>On the A46 Ashchurch at junction with Fitzhamon Park, close to bus stop.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Cheltenham Road, Longlevens, Gloucester&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7375938&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Light is dull</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7375938</guid>
-<pubDate>Wed, 02 Apr 2025 12:15:00 +0100</pubDate>
-<georss:point>51.876623 -2.204514</georss:point>
-</item>
-<item>
-<title>A pothole in road problem, 2nd April</title>
-<link>https://www.fixmystreet.com/report/7376112</link>
-<description>Customer reporting large pothole in c/way&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7376112&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7376112</guid>
-<pubDate>Wed, 02 Apr 2025 11:43:15 +0100</pubDate>
-<georss:point>51.900752 -2.192281</georss:point>
 </item>
 </channel>
 </rss>
