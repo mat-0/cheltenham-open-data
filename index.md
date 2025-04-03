@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Thursday, 03 April 2025
 
-- The average temperature today is 16.89˚C,
-- With highs of 17.69˚C and lows of 16.65˚C,
-- It may feel like 15.99˚C with clear sky
-- The wind speed is 6.17m/s and visibility is 10000m
-- The pressure is 1018hPa and humidity is 52%
+- The average temperature today is 18.6˚C,
+- With highs of 18.75˚C and lows of 18.17˚C,
+- It may feel like 17.74˚C with few clouds
+- The wind speed is 6.69m/s and visibility is 10000m
+- The pressure is 1018hPa and humidity is 47%
 - The sun will rise at 05:38 and set at 18:44
 
 <!-- weather_marker ends -->
