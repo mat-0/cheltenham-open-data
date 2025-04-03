@@ -9,6 +9,18 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Huge stretch of road has no proper surface at all, 3rd April :- [7385616](https://www.fixmystreet.com/report/7385616)
+- Large area of road has no surface and is subsiding, 3rd April :- [7385613](https://www.fixmystreet.com/report/7385613)
+- Huge area of road has no surface, 3rd April :- [7385607](https://www.fixmystreet.com/report/7385607)
+- Large pothole in middle of road, 3rd April :- [7385600](https://www.fixmystreet.com/report/7385600)
+- Fallen tree outside 2 Morlands Drive still not properly removed, pavement closed, 3rd April :- [7385599](https://www.fixmystreet.com/report/7385599)
+- 3 unrepaired potholes, 3rd April :- [7385595](https://www.fixmystreet.com/report/7385595)
+- Loose kerbstones outside 272 London Rd, 3rd April :- [7385580](https://www.fixmystreet.com/report/7385580)
+- Pothole again on Greenway Lane near Sixways, 3rd April :- [7385575](https://www.fixmystreet.com/report/7385575)
+- Sign for racecourse damaged outside 108 London Rd, 3rd April :- [7385568](https://www.fixmystreet.com/report/7385568)
+- Graffiti on green utility cabinets, Hales Rd opposite Kings Rd, 3rd April :- [7385559](https://www.fixmystreet.com/report/7385559)
+- Graffiti on back of road traffic sign, opposite 8 Hales Rd, 3rd April :- [7385551](https://www.fixmystreet.com/report/7385551)
+- Potholes at entrance to Barn Field off Hales Close, 3rd April :- [7385548](https://www.fixmystreet.com/report/7385548)
 - 1 meter wide pothole in pavement with raised tarmac due to roots, 3rd April :- [7385265](https://www.fixmystreet.com/report/7385265)
 - Deteriorated crossover to 34 and 36 Albert Road (already reported, but only very partial fix completed), 3rd April :- [7384912](https://www.fixmystreet.com/report/7384912)
 - Drain cover is standing upright, 3rd April :- [7384515](https://www.fixmystreet.com/report/7384515)
@@ -17,17 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 3rd April :- [7383528](https://www.fixmystreet.com/report/7383528)
 - TMC - Defects -CW6 Potholes  problem, 3rd April :- [7383521](https://www.fixmystreet.com/report/7383521)
 - TMC - Defects -CW6 Potholes  problem, 3rd April :- [7383522](https://www.fixmystreet.com/report/7383522)
-- TMC - Defects - Signs & Street Furniture problem, 3rd April :- [7383273](https://www.fixmystreet.com/report/7383273)
-- TMC - Defects -FW6 Potholes problem, 3rd April :- [7383271](https://www.fixmystreet.com/report/7383271)
-- TMC - Defects - Other FW6  Surface problem, 3rd April :- [7383061](https://www.fixmystreet.com/report/7383061)
-- TMC - Defects - Footways Slabs problem, 3rd April :- [7383062](https://www.fixmystreet.com/report/7383062)
-- TMC - Defects -CW6 Potholes  problem, 3rd April :- [7383063](https://www.fixmystreet.com/report/7383063)
-- TMC - Defects - Signs & Street Furniture problem, 3rd April :- [7383060](https://www.fixmystreet.com/report/7383060)
-- Post or sign leaning slightly (less than 20 degrees) problem, 3rd April :- [7383057](https://www.fixmystreet.com/report/7383057)
-- TMC - Defects - Other problem, 3rd April :- [7382866](https://www.fixmystreet.com/report/7382866)
-- TMC - Defects -CW6 Potholes  problem, 3rd April :- [7382864](https://www.fixmystreet.com/report/7382864)
-- TMC - Defects -CW6 Potholes  problem, 3rd April :- [7382863](https://www.fixmystreet.com/report/7382863)
-- TMC - Defects -other CW6 problem, 3rd April :- [7382859](https://www.fixmystreet.com/report/7382859)
-- TMC - Defects -FW6 Potholes problem, 3rd April :- [7382858](https://www.fixmystreet.com/report/7382858)
 
 <!-- fix_marker ends -->
