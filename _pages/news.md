@@ -9,12 +9,13 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Woman finds another body buried in her plot ([1 hours ago](https://www.bbc.com/news/articles/cq80q7kj3k3o))
-- Food bank for pets set up by animal charity ([6 hours ago](https://www.bbc.com/news/articles/c15v338xdqqo))
-- Headlines: Dawn raids and medieval clocks ([6 hours ago](https://www.bbc.com/news/articles/c4g9l7dvkzdo))
-- Grandfather's stained glass to hang in Nasa office ([7 hours ago](https://www.bbc.com/news/articles/cly5v53e144o))
-- Gothic mansion could soon undergo major revamp ([12 hours ago](https://www.bbc.com/news/articles/crldnw9rerzo))
-- Gloucestershire elections: What's at stake? ([12 hours ago](https://www.bbc.com/news/articles/c74323j87xqo))
+- Soil containing broken glass used for football pitches ([55 minutes ago](https://www.bbc.com/news/articles/cly52n7l3ryo))
+- Woman finds another body buried in her plot ([2 hours ago](https://www.bbc.com/news/articles/cq80q7kj3k3o))
+- Food bank for pets set up by animal charity ([7 hours ago](https://www.bbc.com/news/articles/c15v338xdqqo))
+- Headlines: Dawn raids and medieval clocks ([7 hours ago](https://www.bbc.com/news/articles/c4g9l7dvkzdo))
+- Grandfather's stained glass to hang in Nasa office ([8 hours ago](https://www.bbc.com/news/articles/cly5v53e144o))
+- Gothic mansion could soon undergo major revamp ([13 hours ago](https://www.bbc.com/news/articles/crldnw9rerzo))
+- Gloucestershire elections: What's at stake? ([13 hours ago](https://www.bbc.com/news/articles/c74323j87xqo))
 - 'Stuck' clock honours town's old time zone ([1 days ago](https://www.bbc.com/news/articles/cvgqljz57l0o))
 - Crack Easter recycling – waste and recycling collections for 2025 ([1 days ago](https://www.cheltenham.gov.uk/news/article/3002/crack_easter_recycling_%E2%80%93_waste_and_recycling_collections_for_2025))
 - Cheltenham Licensing Sub-Committee revokes private hire driver’s licence due to safety concerns ([1 days ago](https://www.cheltenham.gov.uk/news/article/3001/cheltenham_licensing_sub-committee_revokes_private_hire_drivers_licence_due_to_safety_concerns))
@@ -29,7 +30,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Plans for 5,000 homes on farmland near Sharpness & Berkeley ([2 days ago](https://www.bbc.co.uk/sounds/play/p0l1v3k3))
 - Cheltenham Science Festival announces 2025 line-up ([2 days ago](https://www.bbc.com/news/articles/clyq20y0lm1o))
 - Headlines: Red super yacht and running at 73 ([2 days ago](https://www.bbc.com/news/articles/ckg5lv8pk0ro))
-- Eel exports stopped over illegal trading concerns ([2 days ago](https://www.bbc.com/news/articles/cvg7wl7jywzo))
 - Road scheme to protect 'look' of the Cotswolds ([2 days ago](https://www.bbc.com/news/articles/ckg1nmkdp8lo))
 - Cut those costs as seven bills soar ([3 days ago](https://www.bbc.co.uk/sounds/play/p0l1mstk))
 - Cheltenham garden annexe plans approved ([4 days ago](https://gloucesternewscentre.co.uk/cheltenham-garden-annexe-plans-approved/))
