@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole ///prompting.fault.digits, 4th April :- [7389564](https://www.fixmystreet.com/report/7389564)
+- Potholes ///until.class.facing, 4th April :- [7389540](https://www.fixmystreet.com/report/7389540)
+- Pothole ///last.firms.took, 4th April :- [7389476](https://www.fixmystreet.com/report/7389476)
 - Abandoned car, 4th April :- [7389350](https://www.fixmystreet.com/report/7389350)
 - An abandoned car causing havoc for delivery drivers it’s parked in a loading bay, 4th April :- [7389308](https://www.fixmystreet.com/report/7389308)
 - TMC - Defects - Signs & Street Furniture problem, 4th April :- [7389249](https://www.fixmystreet.com/report/7389249)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 4th April :- [7389011](https://www.fixmystreet.com/report/7389011)
 - TMC - Defects -other CW6 problem, 4th April :- [7389009](https://www.fixmystreet.com/report/7389009)
 - TMC - Defects - Covers, Gratings & Frames problem, 4th April :- [7388807](https://www.fixmystreet.com/report/7388807)
-- TMC - Defects - Other FW6  Surface problem, 4th April :- [7388806](https://www.fixmystreet.com/report/7388806)
-- TMC - Defects -CW6 Potholes  problem, 4th April :- [7388805](https://www.fixmystreet.com/report/7388805)
-- TMC - Defects -CW6 Potholes  problem, 4th April :- [7388803](https://www.fixmystreet.com/report/7388803)
 
 <!-- fix_marker ends -->
