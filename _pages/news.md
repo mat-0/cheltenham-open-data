@@ -9,13 +9,13 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Soil containing broken glass used for football pitches ([4 hours ago](https://www.bbc.com/news/articles/cly52n7l3ryo))
-- Woman finds another body buried in her plot ([6 hours ago](https://www.bbc.com/news/articles/cq80q7kj3k3o))
-- Food bank for pets set up by animal charity ([11 hours ago](https://www.bbc.com/news/articles/c15v338xdqqo))
-- Headlines: Dawn raids and medieval clocks ([11 hours ago](https://www.bbc.com/news/articles/c4g9l7dvkzdo))
-- Grandfather's stained glass to hang in Nasa office ([12 hours ago](https://www.bbc.com/news/articles/cly5v53e144o))
-- Gothic mansion could soon undergo major revamp ([17 hours ago](https://www.bbc.com/news/articles/crldnw9rerzo))
-- Gloucestershire elections: What's at stake? ([17 hours ago](https://www.bbc.com/news/articles/c74323j87xqo))
+- Soil containing broken glass used for football pitches ([5 hours ago](https://www.bbc.com/news/articles/cly52n7l3ryo))
+- Woman finds another body buried in her plot ([7 hours ago](https://www.bbc.com/news/articles/cq80q7kj3k3o))
+- Food bank for pets set up by animal charity ([12 hours ago](https://www.bbc.com/news/articles/c15v338xdqqo))
+- Headlines: Dawn raids and medieval clocks ([12 hours ago](https://www.bbc.com/news/articles/c4g9l7dvkzdo))
+- Grandfather's stained glass to hang in Nasa office ([13 hours ago](https://www.bbc.com/news/articles/cly5v53e144o))
+- Gothic mansion could soon undergo major revamp ([18 hours ago](https://www.bbc.com/news/articles/crldnw9rerzo))
+- Gloucestershire elections: What's at stake? ([18 hours ago](https://www.bbc.com/news/articles/c74323j87xqo))
 - 'Stuck' clock honours town's old time zone ([1 days ago](https://www.bbc.com/news/articles/cvgqljz57l0o))
 - Crack Easter recycling – waste and recycling collections for 2025 ([1 days ago](https://www.cheltenham.gov.uk/news/article/3002/crack_easter_recycling_%E2%80%93_waste_and_recycling_collections_for_2025))
 - Cheltenham Licensing Sub-Committee revokes private hire driver’s licence due to safety concerns ([1 days ago](https://www.cheltenham.gov.uk/news/article/3001/cheltenham_licensing_sub-committee_revokes_private_hire_drivers_licence_due_to_safety_concerns))
