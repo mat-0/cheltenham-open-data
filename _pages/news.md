@@ -10,10 +10,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
 - 'Stuck' clock honours town's old time zone ([10 hours ago](https://www.bbc.com/news/articles/cvgqljz57l0o))
-- Crack Easter recycling – waste and recycling collections for 2025 ([11 hours ago](https://www.cheltenham.gov.uk/news/article/3002/crack_easter_recycling_%E2%80%93_waste_and_recycling_collections_for_2025))
-- Cheltenham Licensing Sub-Committee revokes private hire driver’s licence due to safety concerns ([13 hours ago](https://www.cheltenham.gov.uk/news/article/3001/cheltenham_licensing_sub-committee_revokes_private_hire_drivers_licence_due_to_safety_concerns))
+- Crack Easter recycling – waste and recycling collections for 2025 ([12 hours ago](https://www.cheltenham.gov.uk/news/article/3002/crack_easter_recycling_%E2%80%93_waste_and_recycling_collections_for_2025))
+- Cheltenham Licensing Sub-Committee revokes private hire driver’s licence due to safety concerns ([14 hours ago](https://www.cheltenham.gov.uk/news/article/3001/cheltenham_licensing_sub-committee_revokes_private_hire_drivers_licence_due_to_safety_concerns))
 - Nasa commissions glass rocket from grandfather ([14 hours ago](https://www.bbc.com/news/articles/cly5v53e144o))
-- Dog found with stab wounds seeking new home ([15 hours ago](https://www.bbc.com/news/articles/c1drp3g362zo))
+- Dog found with stab wounds seeking new home ([16 hours ago](https://www.bbc.com/news/articles/c1drp3g362zo))
 - Jellycat toys theft and giant ice cream factory ([16 hours ago](https://www.bbc.com/news/articles/cwy6g3dzn5no))
 - Plan to tarmac part of Georgian promenade paused ([21 hours ago](https://www.bbc.com/news/articles/czx4gp8455ro))
 - 'I'm able to live a normal life after anxiety' ([21 hours ago](https://www.bbc.com/news/articles/cq8yjng9vkeo))
