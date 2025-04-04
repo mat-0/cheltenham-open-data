@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Friday, 04 April 2025
 
-- The average temperature today is 10.24˚C,
-- With highs of 11.66˚C and lows of 9.26˚C,
-- It may feel like 9.33˚C with overcast clouds
-- The wind speed is 4.63m/s and visibility is 8000m
-- The pressure is 1020hPa and humidity is 77%
+- The average temperature today is 12.14˚C,
+- With highs of 13.62˚C and lows of 10.75˚C,
+- It may feel like 11.29˚C with overcast clouds
+- The wind speed is 5.14m/s and visibility is 9000m
+- The pressure is 1020hPa and humidity is 72%
 - The sun will rise at 05:36 and set at 18:46
 
 <!-- weather_marker ends -->

@@ -9,14 +9,14 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Gothic mansion could soon undergo major revamp ([2 hours ago](https://www.bbc.com/news/articles/crldnw9rerzo))
-- Gloucestershire elections: What's at stake? ([2 hours ago](https://www.bbc.com/news/articles/c74323j87xqo))
-- 'Stuck' clock honours town's old time zone ([15 hours ago](https://www.bbc.com/news/articles/cvgqljz57l0o))
-- Crack Easter recycling – waste and recycling collections for 2025 ([17 hours ago](https://www.cheltenham.gov.uk/news/article/3002/crack_easter_recycling_%E2%80%93_waste_and_recycling_collections_for_2025))
-- Cheltenham Licensing Sub-Committee revokes private hire driver’s licence due to safety concerns ([19 hours ago](https://www.cheltenham.gov.uk/news/article/3001/cheltenham_licensing_sub-committee_revokes_private_hire_drivers_licence_due_to_safety_concerns))
-- Nasa commissions glass rocket from grandfather ([19 hours ago](https://www.bbc.com/news/articles/cly5v53e144o))
-- Dog found with stab wounds seeking new home ([21 hours ago](https://www.bbc.com/news/articles/c1drp3g362zo))
-- Jellycat toys theft and giant ice cream factory ([21 hours ago](https://www.bbc.com/news/articles/cwy6g3dzn5no))
+- Gothic mansion could soon undergo major revamp ([3 hours ago](https://www.bbc.com/news/articles/crldnw9rerzo))
+- Gloucestershire elections: What's at stake? ([3 hours ago](https://www.bbc.com/news/articles/c74323j87xqo))
+- 'Stuck' clock honours town's old time zone ([16 hours ago](https://www.bbc.com/news/articles/cvgqljz57l0o))
+- Crack Easter recycling – waste and recycling collections for 2025 ([18 hours ago](https://www.cheltenham.gov.uk/news/article/3002/crack_easter_recycling_%E2%80%93_waste_and_recycling_collections_for_2025))
+- Cheltenham Licensing Sub-Committee revokes private hire driver’s licence due to safety concerns ([20 hours ago](https://www.cheltenham.gov.uk/news/article/3001/cheltenham_licensing_sub-committee_revokes_private_hire_drivers_licence_due_to_safety_concerns))
+- Nasa commissions glass rocket from grandfather ([20 hours ago](https://www.bbc.com/news/articles/cly5v53e144o))
+- Dog found with stab wounds seeking new home ([22 hours ago](https://www.bbc.com/news/articles/c1drp3g362zo))
+- Jellycat toys theft and giant ice cream factory ([22 hours ago](https://www.bbc.com/news/articles/cwy6g3dzn5no))
 - Plan to tarmac part of Georgian promenade paused ([1 days ago](https://www.bbc.com/news/articles/czx4gp8455ro))
 - 'I'm able to live a normal life after anxiety' ([1 days ago](https://www.bbc.com/news/articles/cq8yjng9vkeo))
 - Mum found guilty of killing baby by shaking her ([1 days ago](https://www.bbc.com/news/articles/c5ypx3g2p29o))
