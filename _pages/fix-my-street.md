@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- More dog fouling, 5th April :- [7393190](https://www.fixmystreet.com/report/7393190)
+- PROW blocked by locked gate and overgrow bushes, 5th April :- [7393150](https://www.fixmystreet.com/report/7393150)
+- Number of potholes near no. 2 Hambrook St, 5th April :- [7393028](https://www.fixmystreet.com/report/7393028)
 - "pothole" on pavement outside 118 Ryeworth Rd, between kerb and BT cover, 5th April :- [7392954](https://www.fixmystreet.com/report/7392954)
 - Broken bench, 5th April :- [7392913](https://www.fixmystreet.com/report/7392913)
 - Pothole on pavement outside 45 Ryeworth Rd, 5th April :- [7392852](https://www.fixmystreet.com/report/7392852)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Majority of Manhole covers have sunken, 5th April :- [7391057](https://www.fixmystreet.com/report/7391057)
 - Debris either side of the road crossing, 5th April :- [7391048](https://www.fixmystreet.com/report/7391048)
 - Trench has been filled and has sunken, 5th April :- [7391046](https://www.fixmystreet.com/report/7391046)
-- Sunken metal cover, 4th April :- [7390603](https://www.fixmystreet.com/report/7390603)
-- Pothole around inspection cover outside stables, 4th April :- [7390344](https://www.fixmystreet.com/report/7390344)
-- Pothole ///prompting.fault.digits, 4th April :- [7389564](https://www.fixmystreet.com/report/7389564)
 
 <!-- fix_marker ends -->
