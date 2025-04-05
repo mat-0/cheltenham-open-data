@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- "pothole" on pavement outside 118 Ryeworth Rd, between kerb and BT cover, 5th April :- [7392954](https://www.fixmystreet.com/report/7392954)
+- Broken bench, 5th April :- [7392913](https://www.fixmystreet.com/report/7392913)
+- Pothole on pavement outside 45 Ryeworth Rd, 5th April :- [7392852](https://www.fixmystreet.com/report/7392852)
 - Drain blocked outside Little Ashley Court, Ryeworth Rd, 5th April :- [7392809](https://www.fixmystreet.com/report/7392809)
 - The waste bins in Benhall Open Space situated along Bibury Road are overflowing, mostly with dog poo bags, very smelly on a sunny day!, 5th April :- [7392710](https://www.fixmystreet.com/report/7392710)
 - Dog poo bin, 5th April :- [7392524](https://www.fixmystreet.com/report/7392524)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Sunken metal cover, 4th April :- [7390603](https://www.fixmystreet.com/report/7390603)
 - Pothole around inspection cover outside stables, 4th April :- [7390344](https://www.fixmystreet.com/report/7390344)
 - Pothole ///prompting.fault.digits, 4th April :- [7389564](https://www.fixmystreet.com/report/7389564)
-- Potholes ///until.class.facing, 4th April :- [7389540](https://www.fixmystreet.com/report/7389540)
-- Pothole ///last.firms.took, 4th April :- [7389476](https://www.fixmystreet.com/report/7389476)
-- Abandoned car, 4th April :- [7389350](https://www.fixmystreet.com/report/7389350)
 
 <!-- fix_marker ends -->
