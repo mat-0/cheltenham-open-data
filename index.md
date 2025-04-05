@@ -10,10 +10,10 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Saturday, 05 April 2025
 
-- The average temperature today is 16.75˚C,
-- With highs of 16.75˚C and lows of 15.71˚C,
-- It may feel like 15.73˚C with clear sky
-- The wind speed is 5.66m/s and visibility is 10000m
+- The average temperature today is 15.75˚C,
+- With highs of 15.75˚C and lows of 15.75˚C,
+- It may feel like 14.63˚C with clear sky
+- The wind speed is 5.14m/s and visibility is 10000m
 - The pressure is 1020hPa and humidity is 48%
 - The sun will rise at 05:33 and set at 18:47
 

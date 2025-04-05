@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Drains blocked London Rd, between Langton Grove Rd and Okland St, 5th April :- [7393329](https://www.fixmystreet.com/report/7393329)
+- Recurring sinkhole outside no. 50 Ryeworth Rd sinking again, 5th April :- [7393277](https://www.fixmystreet.com/report/7393277)
 - More dog fouling, 5th April :- [7393190](https://www.fixmystreet.com/report/7393190)
 - PROW blocked by locked gate and overgrow bushes, 5th April :- [7393150](https://www.fixmystreet.com/report/7393150)
 - Number of potholes near no. 2 Hambrook St, 5th April :- [7393028](https://www.fixmystreet.com/report/7393028)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - 2 large potholes, 5th April :- [7391484](https://www.fixmystreet.com/report/7391484)
 - Pothole just before speed bump. Did have white outline it’s gotten bigger so line is not there anymore, 5th April :- [7391300](https://www.fixmystreet.com/report/7391300)
 - Majority of Manhole covers have sunken, 5th April :- [7391057](https://www.fixmystreet.com/report/7391057)
-- Debris either side of the road crossing, 5th April :- [7391048](https://www.fixmystreet.com/report/7391048)
-- Trench has been filled and has sunken, 5th April :- [7391046](https://www.fixmystreet.com/report/7391046)
 
 <!-- fix_marker ends -->
