@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Wall based street light not working for months, mulberry court, 5th April :- [7391714](https://www.fixmystreet.com/report/7391714)
+- Car abandoned no MOT, 5th April :- [7391695](https://www.fixmystreet.com/report/7391695)
 - Street light outside 21 Hedgerow Close not working, 5th April :- [7391522](https://www.fixmystreet.com/report/7391522)
 - 2 large potholes, 5th April :- [7391484](https://www.fixmystreet.com/report/7391484)
 - Pothole just before speed bump. Did have white outline it’s gotten bigger so line is not there anymore, 5th April :- [7391300](https://www.fixmystreet.com/report/7391300)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Signs & Street Furniture problem, 4th April :- [7389025](https://www.fixmystreet.com/report/7389025)
 - Tree in front of stile on footpath, 4th April :- [7388946](https://www.fixmystreet.com/report/7388946)
 - TMC - Defects -CW6 Potholes  problem, 4th April :- [7389019](https://www.fixmystreet.com/report/7389019)
-- TMC - Defects -other CW6 problem, 4th April :- [7389016](https://www.fixmystreet.com/report/7389016)
-- TMC - Defects -other CW6 problem, 4th April :- [7389015](https://www.fixmystreet.com/report/7389015)
 
 <!-- fix_marker ends -->
