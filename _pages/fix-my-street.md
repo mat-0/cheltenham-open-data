@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole just before speed bump. Did have white outline it’s gotten bigger so line is not there anymore, 5th April :- [7391300](https://www.fixmystreet.com/report/7391300)
 - Majority of Manhole covers have sunken, 5th April :- [7391057](https://www.fixmystreet.com/report/7391057)
 - Debris either side of the road crossing, 5th April :- [7391048](https://www.fixmystreet.com/report/7391048)
 - Trench has been filled and has sunken, 5th April :- [7391046](https://www.fixmystreet.com/report/7391046)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -other CW6 problem, 4th April :- [7389015](https://www.fixmystreet.com/report/7389015)
 - TMC - Defects -CW6 Potholes  problem, 4th April :- [7389014](https://www.fixmystreet.com/report/7389014)
 - Football goal with net, 4th April :- [7388888](https://www.fixmystreet.com/report/7388888)
-- TMC - Defects -CW6 Potholes  problem, 4th April :- [7389011](https://www.fixmystreet.com/report/7389011)
 
 <!-- fix_marker ends -->
