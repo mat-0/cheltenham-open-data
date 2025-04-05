@@ -9,13 +9,13 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Restored play park to 'bring generations together' ([1 hours ago](https://www.bbc.com/news/articles/ckgemkgryl9o))
-- Goalkeeper hopes to fly mum out for Wembley dream ([1 hours ago](https://www.bbc.com/news/articles/cd02e2pymjyo))
-- Soil containing broken glass used for football pitches ([13 hours ago](https://www.bbc.com/news/articles/cly52n7l3ryo))
-- Woman finds another body buried in her plot ([15 hours ago](https://www.bbc.com/news/articles/cq80q7kj3k3o))
-- Food bank for pets set up by animal charity ([20 hours ago](https://www.bbc.com/news/articles/c15v338xdqqo))
-- Headlines: Dawn raids and medieval clocks ([20 hours ago](https://www.bbc.com/news/articles/c4g9l7dvkzdo))
-- Grandfather's stained glass to hang in Nasa office ([21 hours ago](https://www.bbc.com/news/articles/cly5v53e144o))
+- Restored play park to 'bring generations together' ([2 hours ago](https://www.bbc.com/news/articles/ckgemkgryl9o))
+- Goalkeeper hopes to fly mum out for Wembley dream ([2 hours ago](https://www.bbc.com/news/articles/cd02e2pymjyo))
+- Soil containing broken glass used for football pitches ([14 hours ago](https://www.bbc.com/news/articles/cly52n7l3ryo))
+- Woman finds another body buried in her plot ([16 hours ago](https://www.bbc.com/news/articles/cq80q7kj3k3o))
+- Food bank for pets set up by animal charity ([21 hours ago](https://www.bbc.com/news/articles/c15v338xdqqo))
+- Headlines: Dawn raids and medieval clocks ([21 hours ago](https://www.bbc.com/news/articles/c4g9l7dvkzdo))
+- Grandfather's stained glass to hang in Nasa office ([22 hours ago](https://www.bbc.com/news/articles/cly5v53e144o))
 - Gothic mansion could soon undergo major revamp ([1 days ago](https://www.bbc.com/news/articles/crldnw9rerzo))
 - Gloucestershire elections: What's at stake? ([1 days ago](https://www.bbc.com/news/articles/c74323j87xqo))
 - 'Stuck' clock honours town's old time zone ([1 days ago](https://www.bbc.com/news/articles/cvgqljz57l0o))

@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 2 large potholes, 5th April :- [7391484](https://www.fixmystreet.com/report/7391484)
 - Pothole just before speed bump. Did have white outline it’s gotten bigger so line is not there anymore, 5th April :- [7391300](https://www.fixmystreet.com/report/7391300)
 - Majority of Manhole covers have sunken, 5th April :- [7391057](https://www.fixmystreet.com/report/7391057)
 - Debris either side of the road crossing, 5th April :- [7391048](https://www.fixmystreet.com/report/7391048)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -other CW6 problem, 4th April :- [7389016](https://www.fixmystreet.com/report/7389016)
 - TMC - Defects -other CW6 problem, 4th April :- [7389015](https://www.fixmystreet.com/report/7389015)
 - TMC - Defects -CW6 Potholes  problem, 4th April :- [7389014](https://www.fixmystreet.com/report/7389014)
-- Football goal with net, 4th April :- [7388888](https://www.fixmystreet.com/report/7388888)
 
 <!-- fix_marker ends -->
