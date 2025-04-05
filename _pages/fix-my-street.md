@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dog poo bin, 5th April :- [7392524](https://www.fixmystreet.com/report/7392524)
+- Dog poo bin, 5th April :- [7392521](https://www.fixmystreet.com/report/7392521)
+- Dog poo bin, 5th April :- [7392515](https://www.fixmystreet.com/report/7392515)
 - Various potholes on and around the mini roundabout next to Churchdown Community centre, 5th April :- [7392052](https://www.fixmystreet.com/report/7392052)
 - Wall based street light not working for months, mulberry court, 5th April :- [7391714](https://www.fixmystreet.com/report/7391714)
 - Car abandoned no MOT, 5th April :- [7391695](https://www.fixmystreet.com/report/7391695)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Abandoned car, 4th April :- [7389350](https://www.fixmystreet.com/report/7389350)
 - An abandoned car causing havoc for delivery drivers it’s parked in a loading bay, 4th April :- [7389308](https://www.fixmystreet.com/report/7389308)
 - TMC - Defects - Signs & Street Furniture problem, 4th April :- [7389249](https://www.fixmystreet.com/report/7389249)
-- TMC - Defects -CW6 Potholes  problem, 4th April :- [7389031](https://www.fixmystreet.com/report/7389031)
-- TMC - Defects - Signs & Street Furniture problem, 4th April :- [7389025](https://www.fixmystreet.com/report/7389025)
-- Tree in front of stile on footpath, 4th April :- [7388946](https://www.fixmystreet.com/report/7388946)
 
 <!-- fix_marker ends -->
