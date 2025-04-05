@@ -9,11 +9,11 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Soil containing broken glass used for football pitches ([8 hours ago](https://www.bbc.com/news/articles/cly52n7l3ryo))
-- Woman finds another body buried in her plot ([9 hours ago](https://www.bbc.com/news/articles/cq80q7kj3k3o))
-- Food bank for pets set up by animal charity ([14 hours ago](https://www.bbc.com/news/articles/c15v338xdqqo))
+- Soil containing broken glass used for football pitches ([9 hours ago](https://www.bbc.com/news/articles/cly52n7l3ryo))
+- Woman finds another body buried in her plot ([10 hours ago](https://www.bbc.com/news/articles/cq80q7kj3k3o))
+- Food bank for pets set up by animal charity ([15 hours ago](https://www.bbc.com/news/articles/c15v338xdqqo))
 - Headlines: Dawn raids and medieval clocks ([15 hours ago](https://www.bbc.com/news/articles/c4g9l7dvkzdo))
-- Grandfather's stained glass to hang in Nasa office ([15 hours ago](https://www.bbc.com/news/articles/cly5v53e144o))
+- Grandfather's stained glass to hang in Nasa office ([16 hours ago](https://www.bbc.com/news/articles/cly5v53e144o))
 - Gothic mansion could soon undergo major revamp ([21 hours ago](https://www.bbc.com/news/articles/crldnw9rerzo))
 - Gloucestershire elections: What's at stake? ([21 hours ago](https://www.bbc.com/news/articles/c74323j87xqo))
 - 'Stuck' clock honours town's old time zone ([1 days ago](https://www.bbc.com/news/articles/cvgqljz57l0o))
