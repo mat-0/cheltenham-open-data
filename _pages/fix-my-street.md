@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Drain opposite Little Ashley Court, Ryeworth Rd also blocked, 5th April :- [7393520](https://www.fixmystreet.com/report/7393520)
+- How come non disabled people are discriminated against, 5th April :- [7393415](https://www.fixmystreet.com/report/7393415)
 - Drains blocked London Rd, between Langton Grove Rd and Okland St, 5th April :- [7393329](https://www.fixmystreet.com/report/7393329)
 - Recurring sinkhole outside no. 50 Ryeworth Rd sinking again, 5th April :- [7393277](https://www.fixmystreet.com/report/7393277)
 - More dog fouling, 5th April :- [7393190](https://www.fixmystreet.com/report/7393190)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Car abandoned no MOT, 5th April :- [7391695](https://www.fixmystreet.com/report/7391695)
 - Street light outside 21 Hedgerow Close not working, 5th April :- [7391522](https://www.fixmystreet.com/report/7391522)
 - 2 large potholes, 5th April :- [7391484](https://www.fixmystreet.com/report/7391484)
-- Pothole just before speed bump. Did have white outline it’s gotten bigger so line is not there anymore, 5th April :- [7391300](https://www.fixmystreet.com/report/7391300)
-- Majority of Manhole covers have sunken, 5th April :- [7391057](https://www.fixmystreet.com/report/7391057)
 
 <!-- fix_marker ends -->
