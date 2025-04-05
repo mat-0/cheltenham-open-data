@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Various potholes on and around the mini roundabout next to Churchdown Community centre, 5th April :- [7392052](https://www.fixmystreet.com/report/7392052)
 - Wall based street light not working for months, mulberry court, 5th April :- [7391714](https://www.fixmystreet.com/report/7391714)
 - Car abandoned no MOT, 5th April :- [7391695](https://www.fixmystreet.com/report/7391695)
 - Street light outside 21 Hedgerow Close not working, 5th April :- [7391522](https://www.fixmystreet.com/report/7391522)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 4th April :- [7389031](https://www.fixmystreet.com/report/7389031)
 - TMC - Defects - Signs & Street Furniture problem, 4th April :- [7389025](https://www.fixmystreet.com/report/7389025)
 - Tree in front of stile on footpath, 4th April :- [7388946](https://www.fixmystreet.com/report/7388946)
-- TMC - Defects -CW6 Potholes  problem, 4th April :- [7389019](https://www.fixmystreet.com/report/7389019)
 
 <!-- fix_marker ends -->
