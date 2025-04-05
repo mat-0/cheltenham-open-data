@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Trench has been filled and has sunken, 5th April :- [7391046](https://www.fixmystreet.com/report/7391046)
 - Sunken metal cover, 4th April :- [7390603](https://www.fixmystreet.com/report/7390603)
 - Pothole around inspection cover outside stables, 4th April :- [7390344](https://www.fixmystreet.com/report/7390344)
 - Pothole ///prompting.fault.digits, 4th April :- [7389564](https://www.fixmystreet.com/report/7389564)
@@ -25,9 +26,8 @@ permalink: /fix-my-street
 - TMC - Defects -other CW6 problem, 4th April :- [7389015](https://www.fixmystreet.com/report/7389015)
 - TMC - Defects -CW6 Potholes  problem, 4th April :- [7389014](https://www.fixmystreet.com/report/7389014)
 - Football goal with net, 4th April :- [7388888](https://www.fixmystreet.com/report/7388888)
-- TMC - Defects - Road Markings problem, 4th April :- [7389012](https://www.fixmystreet.com/report/7389012)
+- TMC - Defects -CW6 Potholes  problem, 4th April :- [7389011](https://www.fixmystreet.com/report/7389011)
 - TMC - Defects -CW6 Potholes  problem, 4th April :- [7389010](https://www.fixmystreet.com/report/7389010)
-- TMC - Defects -other CW6 problem, 4th April :- [7389009](https://www.fixmystreet.com/report/7389009)
 - TMC - Defects -other CW6 problem, 4th April :- [7389008](https://www.fixmystreet.com/report/7389008)
 
 <!-- fix_marker ends -->
