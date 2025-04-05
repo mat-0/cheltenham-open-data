@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Drain blocked outside Little Ashley Court, Ryeworth Rd, 5th April :- [7392809](https://www.fixmystreet.com/report/7392809)
+- The waste bins in Benhall Open Space situated along Bibury Road are overflowing, mostly with dog poo bags, very smelly on a sunny day!, 5th April :- [7392710](https://www.fixmystreet.com/report/7392710)
 - Dog poo bin, 5th April :- [7392524](https://www.fixmystreet.com/report/7392524)
 - Dog poo bin, 5th April :- [7392521](https://www.fixmystreet.com/report/7392521)
 - Dog poo bin, 5th April :- [7392515](https://www.fixmystreet.com/report/7392515)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Potholes ///until.class.facing, 4th April :- [7389540](https://www.fixmystreet.com/report/7389540)
 - Pothole ///last.firms.took, 4th April :- [7389476](https://www.fixmystreet.com/report/7389476)
 - Abandoned car, 4th April :- [7389350](https://www.fixmystreet.com/report/7389350)
-- An abandoned car causing havoc for delivery drivers it’s parked in a loading bay, 4th April :- [7389308](https://www.fixmystreet.com/report/7389308)
-- TMC - Defects - Signs & Street Furniture problem, 4th April :- [7389249](https://www.fixmystreet.com/report/7389249)
 
 <!-- fix_marker ends -->
