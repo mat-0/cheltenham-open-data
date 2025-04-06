@@ -9,11 +9,11 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Man attacked by gang armed with metal poles ([9 hours ago](https://www.bbc.com/news/articles/cj3xe562vk1o))
-- City gridlocked as works cause traffic 'carnage' ([10 hours ago](https://www.bbc.com/news/articles/cvgpm33k2zzo))
-- 'Teachers must respond to issues in Adolescence' ([15 hours ago](https://www.bbc.com/news/articles/cyvq7qqrvy0o))
-- Restored play park to 'bring generations together' ([19 hours ago](https://www.bbc.com/news/articles/ckgemkgryl9o))
-- Goalkeeper hopes to fly mum out for Wembley dream ([19 hours ago](https://www.bbc.com/news/articles/cd02e2pymjyo))
+- Man attacked by gang armed with metal poles ([10 hours ago](https://www.bbc.com/news/articles/cj3xe562vk1o))
+- City gridlocked as works cause traffic 'carnage' ([11 hours ago](https://www.bbc.com/news/articles/cvgpm33k2zzo))
+- 'Teachers must respond to issues in Adolescence' ([17 hours ago](https://www.bbc.com/news/articles/cyvq7qqrvy0o))
+- Restored play park to 'bring generations together' ([20 hours ago](https://www.bbc.com/news/articles/ckgemkgryl9o))
+- Goalkeeper hopes to fly mum out for Wembley dream ([20 hours ago](https://www.bbc.com/news/articles/cd02e2pymjyo))
 - Soil containing broken glass used for football pitches ([1 days ago](https://www.bbc.com/news/articles/cly52n7l3ryo))
 - Woman finds another body buried in her plot ([1 days ago](https://www.bbc.com/news/articles/cq80q7kj3k3o))
 - Food bank for pets set up by animal charity ([1 days ago](https://www.bbc.com/news/articles/c15v338xdqqo))
