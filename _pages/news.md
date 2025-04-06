@@ -9,11 +9,11 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Gloucestershire in pics: Blossom and community ([32 minutes ago](https://www.bbc.com/news/articles/cy9vj3jqjw0o))
-- Headlines: Jellycat, super yacht and arena plans ([43 minutes ago](https://www.bbc.com/news/articles/ce92ge1xemro))
-- Man attacked by gang armed with metal poles ([14 hours ago](https://www.bbc.com/news/articles/cj3xe562vk1o))
-- City gridlocked as works cause traffic 'carnage' ([16 hours ago](https://www.bbc.com/news/articles/cvgpm33k2zzo))
-- 'Teachers must respond to issues in Adolescence' ([21 hours ago](https://www.bbc.com/news/articles/cyvq7qqrvy0o))
+- Gloucestershire in pics: Blossom and community ([1 hours ago](https://www.bbc.com/news/articles/cy9vj3jqjw0o))
+- Headlines: Jellycat, super yacht and arena plans ([1 hours ago](https://www.bbc.com/news/articles/ce92ge1xemro))
+- Man attacked by gang armed with metal poles ([15 hours ago](https://www.bbc.com/news/articles/cj3xe562vk1o))
+- City gridlocked as works cause traffic 'carnage' ([17 hours ago](https://www.bbc.com/news/articles/cvgpm33k2zzo))
+- 'Teachers must respond to issues in Adolescence' ([22 hours ago](https://www.bbc.com/news/articles/cyvq7qqrvy0o))
 - Restored play park to 'bring generations together' ([1 days ago](https://www.bbc.com/news/articles/ckgemkgryl9o))
 - Goalkeeper hopes to fly mum out for Wembley dream ([1 days ago](https://www.bbc.com/news/articles/cd02e2pymjyo))
 - Soil containing broken glass used for football pitches ([1 days ago](https://www.bbc.com/news/articles/cly52n7l3ryo))
@@ -57,8 +57,8 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Tewkesbury ‘insulted’ as Cheltenham and Cotswold exclude name from council plan ([16 days ago](https://gloucesternewscentre.co.uk/tewkesbury-insulted-as-cheltenham-and-cotswold-exclude-name-from-council-plan/))
 - NCLB’s Party in the Park for families returns for another summer of fun ([16 days ago](https://www.cheltenham.gov.uk/news/article/2997/nclbs_party_in_the_park_for_families_returns_for_another_summer_of_fun))
 - The Bell Inn pub and Daisybank Field approved as Assets of Community Value ([16 days ago](https://www.cheltenham.gov.uk/news/article/2996/the_bell_inn_pub_and_daisybank_field_approved_as_assets_of_community_value))
-- Row as Cheltenham council ‘kept devolution report secret from partners’ ([17 days ago](https://gloucesternewscentre.co.uk/row-as-cheltenham-council-kept-devolution-report-secret-from-partners/))
-- Man takes council to court after’losing two tyres to pothole damage’ ([17 days ago](https://gloucesternewscentre.co.uk/man-takes-council-to-court-afterlosing-two-tyres-to-pothole-damage/))
+- Row as Cheltenham council ‘kept devolution report secret from partners’ ([18 days ago](https://gloucesternewscentre.co.uk/row-as-cheltenham-council-kept-devolution-report-secret-from-partners/))
+- Man takes council to court after’losing two tyres to pothole damage’ ([18 days ago](https://gloucesternewscentre.co.uk/man-takes-council-to-court-afterlosing-two-tyres-to-pothole-damage/))
 - Councils in disagreement over local authority shake-up plans ([18 days ago](https://gloucesternewscentre.co.uk/councils-in-disagreement-over-local-authority-shake-up-plans/))
 - Plane makes emergency landing at Gloucestershire Airport ([18 days ago](https://gloucesternewscentre.co.uk/plane-makes-emergency-landing-at-gloucestershire-airport/))
 - Montpellier Gardens toilet facilities unveiled with new accessible amenities ([19 days ago](https://www.cheltenham.gov.uk/news/article/2995/montpellier_gardens_toilet_facilities_unveiled_with_new_accessible_amenities))
