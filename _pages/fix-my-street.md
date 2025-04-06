@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipped Machine, 6th April :- [7395090](https://www.fixmystreet.com/report/7395090)
+- Flytipped Item, 6th April :- [7394983](https://www.fixmystreet.com/report/7394983)
+- Flytipped Items, 6th April :- [7394976](https://www.fixmystreet.com/report/7394976)
+- Flytipped Items, 6th April :- [7394965](https://www.fixmystreet.com/report/7394965)
+- Every time a car drives over it knocks, 6th April :- [7394959](https://www.fixmystreet.com/report/7394959)
 - Overflowing bins, 6th April :- [7394851](https://www.fixmystreet.com/report/7394851)
 - Loose damaged kerbstone outside 11 Church St, 6th April :- [7394830](https://www.fixmystreet.com/report/7394830)
 - 12" pothole 2" deep on A40 just east of Coxhorne Farm outside Charlton Kings, 6th April :- [7394764](https://www.fixmystreet.com/report/7394764)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - PROW blocked by locked gate and overgrow bushes, 5th April :- [7393150](https://www.fixmystreet.com/report/7393150)
 - Number of potholes near no. 2 Hambrook St, 5th April :- [7393028](https://www.fixmystreet.com/report/7393028)
 - "pothole" on pavement outside 118 Ryeworth Rd, between kerb and BT cover, 5th April :- [7392954](https://www.fixmystreet.com/report/7392954)
-- Broken bench, 5th April :- [7392913](https://www.fixmystreet.com/report/7392913)
-- Pothole on pavement outside 45 Ryeworth Rd, 5th April :- [7392852](https://www.fixmystreet.com/report/7392852)
-- Drain blocked outside Little Ashley Court, Ryeworth Rd, 5th April :- [7392809](https://www.fixmystreet.com/report/7392809)
-- The waste bins in Benhall Open Space situated along Bibury Road are overflowing, mostly with dog poo bags, very smelly on a sunny day!, 5th April :- [7392710](https://www.fixmystreet.com/report/7392710)
-- Dog poo bin, 5th April :- [7392524](https://www.fixmystreet.com/report/7392524)
 
 <!-- fix_marker ends -->
