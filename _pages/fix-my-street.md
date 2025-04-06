@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Drain blocked outside Exeleigh, Church Walk, 6th April :- [7394666](https://www.fixmystreet.com/report/7394666)
+- Pothole around drain on corner London Rd & Court Mews outside Cotswold Flooring at Sixways, 6th April :- [7394529](https://www.fixmystreet.com/report/7394529)
+- Graffiti on green utility cabinet, corner King Alfred Way and London Rd, 6th April :- [7394485](https://www.fixmystreet.com/report/7394485)
 - Obstruction caused by fence, 6th April :- [7394036](https://www.fixmystreet.com/report/7394036)
 - Drain opposite Little Ashley Court, Ryeworth Rd also blocked, 5th April :- [7393520](https://www.fixmystreet.com/report/7393520)
 - How come non disabled people are discriminated against, 5th April :- [7393415](https://www.fixmystreet.com/report/7393415)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Dog poo bin, 5th April :- [7392521](https://www.fixmystreet.com/report/7392521)
 - Dog poo bin, 5th April :- [7392515](https://www.fixmystreet.com/report/7392515)
 - Various potholes on and around the mini roundabout next to Churchdown Community centre, 5th April :- [7392052](https://www.fixmystreet.com/report/7392052)
-- Wall based street light not working for months, mulberry court, 5th April :- [7391714](https://www.fixmystreet.com/report/7391714)
-- Car abandoned no MOT, 5th April :- [7391695](https://www.fixmystreet.com/report/7391695)
-- Street light outside 21 Hedgerow Close not working, 5th April :- [7391522](https://www.fixmystreet.com/report/7391522)
 
 <!-- fix_marker ends -->
