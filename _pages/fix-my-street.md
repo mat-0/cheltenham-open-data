@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- All traffic lights are off at six ways junctions, 7th April :- [7397162](https://www.fixmystreet.com/report/7397162)
 - Flytipping by youths, 6th April :- [7397115](https://www.fixmystreet.com/report/7397115)
 - Large Amount of the Road top surface surface is missing, result in a large bump when going driving over.., 6th April :- [7396888](https://www.fixmystreet.com/report/7396888)
 - Street lamp out, 6th April :- [7396686](https://www.fixmystreet.com/report/7396686)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Every time a car drives over it knocks, 6th April :- [7394959](https://www.fixmystreet.com/report/7394959)
 - Overflowing bins, 6th April :- [7394851](https://www.fixmystreet.com/report/7394851)
 - Large pot hole on wymans road close to car park entrance, 6th April :- [7394835](https://www.fixmystreet.com/report/7394835)
-- Loose damaged kerbstone outside 11 Church St, 6th April :- [7394830](https://www.fixmystreet.com/report/7394830)
 
 <!-- fix_marker ends -->
