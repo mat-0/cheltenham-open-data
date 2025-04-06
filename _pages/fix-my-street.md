@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large Amount of the Road top surface surface is missing, result in a large bump when going driving over.., 6th April :- [7396888](https://www.fixmystreet.com/report/7396888)
 - Street lamp out, 6th April :- [7396686](https://www.fixmystreet.com/report/7396686)
 - Sunken and uneven drain causing a lot of noise from passing vehicles, 6th April :- [7396669](https://www.fixmystreet.com/report/7396669)
 - Multiple potholes in dip in road, 6th April :- [7396554](https://www.fixmystreet.com/report/7396554)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Loose damaged kerbstone outside 11 Church St, 6th April :- [7394830](https://www.fixmystreet.com/report/7394830)
 - 12" pothole 2" deep on A40 just east of Coxhorne Farm outside Charlton Kings, 6th April :- [7394764](https://www.fixmystreet.com/report/7394764)
 - Drain blocked outside Exeleigh, Church Walk, 6th April :- [7394666](https://www.fixmystreet.com/report/7394666)
-- Pothole around drain on corner London Rd & Court Mews outside Cotswold Flooring at Sixways, 6th April :- [7394529](https://www.fixmystreet.com/report/7394529)
 
 <!-- fix_marker ends -->

@@ -9,10 +9,10 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Key route remains closed amid ongoing repair works ([47 minutes ago](https://www.bbc.com/news/articles/cqx493jqx0jo))
-- Chippy apologises for prices as fish costs surge ([6 hours ago](https://www.bbc.com/news/articles/cx2w4lqz73no))
-- Gloucestershire in pics: Blossom and community ([13 hours ago](https://www.bbc.com/news/articles/cy9vj3jqjw0o))
-- Headlines: Jellycat, super yacht and arena plans ([13 hours ago](https://www.bbc.com/news/articles/ce92ge1xemro))
+- Key route remains closed amid ongoing repair works ([1 hours ago](https://www.bbc.com/news/articles/cqx493jqx0jo))
+- Chippy apologises for prices as fish costs surge ([7 hours ago](https://www.bbc.com/news/articles/cx2w4lqz73no))
+- Gloucestershire in pics: Blossom and community ([14 hours ago](https://www.bbc.com/news/articles/cy9vj3jqjw0o))
+- Headlines: Jellycat, super yacht and arena plans ([14 hours ago](https://www.bbc.com/news/articles/ce92ge1xemro))
 - Man attacked by gang armed with metal poles ([1 days ago](https://www.bbc.com/news/articles/cj3xe562vk1o))
 - City gridlocked as works cause traffic 'carnage' ([1 days ago](https://www.bbc.com/news/articles/cvgpm33k2zzo))
 - 'Teachers must respond to issues in Adolescence' ([1 days ago](https://www.bbc.com/news/articles/cyvq7qqrvy0o))
