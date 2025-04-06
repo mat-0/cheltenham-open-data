@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Drain blocked opposite Bank Cottage, Cudnall St, 6th April :- [7396280](https://www.fixmystreet.com/report/7396280)
 - Flytipping of broken kitchen cupboard units, 6th April :- [7396150](https://www.fixmystreet.com/report/7396150)
 - Work signs and bollards left in Brookway Road alleyway, near alleyway to Brookway Dr, 6th April :- [7396047](https://www.fixmystreet.com/report/7396047)
 - Footpath Closed sign left halfway along Brookway Road footpath, 6th April :- [7395998](https://www.fixmystreet.com/report/7395998)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Graffiti on green utility cabinet, corner King Alfred Way and London Rd, 6th April :- [7394485](https://www.fixmystreet.com/report/7394485)
 - Obstruction caused by fence, 6th April :- [7394036](https://www.fixmystreet.com/report/7394036)
 - Drain opposite Little Ashley Court, Ryeworth Rd also blocked, 5th April :- [7393520](https://www.fixmystreet.com/report/7393520)
-- How come non disabled people are discriminated against, 5th April :- [7393415](https://www.fixmystreet.com/report/7393415)
 
 <!-- fix_marker ends -->
