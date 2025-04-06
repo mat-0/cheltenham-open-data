@@ -9,11 +9,11 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Gloucestershire in pics: Blossom and community ([1 hours ago](https://www.bbc.com/news/articles/cy9vj3jqjw0o))
-- Headlines: Jellycat, super yacht and arena plans ([1 hours ago](https://www.bbc.com/news/articles/ce92ge1xemro))
-- Man attacked by gang armed with metal poles ([15 hours ago](https://www.bbc.com/news/articles/cj3xe562vk1o))
-- City gridlocked as works cause traffic 'carnage' ([17 hours ago](https://www.bbc.com/news/articles/cvgpm33k2zzo))
-- 'Teachers must respond to issues in Adolescence' ([22 hours ago](https://www.bbc.com/news/articles/cyvq7qqrvy0o))
+- Gloucestershire in pics: Blossom and community ([2 hours ago](https://www.bbc.com/news/articles/cy9vj3jqjw0o))
+- Headlines: Jellycat, super yacht and arena plans ([2 hours ago](https://www.bbc.com/news/articles/ce92ge1xemro))
+- Man attacked by gang armed with metal poles ([16 hours ago](https://www.bbc.com/news/articles/cj3xe562vk1o))
+- City gridlocked as works cause traffic 'carnage' ([18 hours ago](https://www.bbc.com/news/articles/cvgpm33k2zzo))
+- 'Teachers must respond to issues in Adolescence' ([23 hours ago](https://www.bbc.com/news/articles/cyvq7qqrvy0o))
 - Restored play park to 'bring generations together' ([1 days ago](https://www.bbc.com/news/articles/ckgemkgryl9o))
 - Goalkeeper hopes to fly mum out for Wembley dream ([1 days ago](https://www.bbc.com/news/articles/cd02e2pymjyo))
 - Soil containing broken glass used for football pitches ([1 days ago](https://www.bbc.com/news/articles/cly52n7l3ryo))
