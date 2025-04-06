@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street lamp out, 6th April :- [7396686](https://www.fixmystreet.com/report/7396686)
+- Sunken and uneven drain causing a lot of noise from passing vehicles, 6th April :- [7396669](https://www.fixmystreet.com/report/7396669)
 - Multiple potholes in dip in road, 6th April :- [7396554](https://www.fixmystreet.com/report/7396554)
 - Drain blocked opposite Bank Cottage, Cudnall St, 6th April :- [7396280](https://www.fixmystreet.com/report/7396280)
 - Flytipping of broken kitchen cupboard units, 6th April :- [7396150](https://www.fixmystreet.com/report/7396150)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - 12" pothole 2" deep on A40 just east of Coxhorne Farm outside Charlton Kings, 6th April :- [7394764](https://www.fixmystreet.com/report/7394764)
 - Drain blocked outside Exeleigh, Church Walk, 6th April :- [7394666](https://www.fixmystreet.com/report/7394666)
 - Pothole around drain on corner London Rd & Court Mews outside Cotswold Flooring at Sixways, 6th April :- [7394529](https://www.fixmystreet.com/report/7394529)
-- Graffiti on green utility cabinet, corner King Alfred Way and London Rd, 6th April :- [7394485](https://www.fixmystreet.com/report/7394485)
-- Obstruction caused by fence, 6th April :- [7394036](https://www.fixmystreet.com/report/7394036)
 
 <!-- fix_marker ends -->
