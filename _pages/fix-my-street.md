@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tractor tyre, 6th April :- [7395681](https://www.fixmystreet.com/report/7395681)
 - Yet more rubbish fly tipped here., 6th April :- [7395334](https://www.fixmystreet.com/report/7395334)
 - Flytipped Machine, 6th April :- [7395090](https://www.fixmystreet.com/report/7395090)
 - Flytipped Item, 6th April :- [7394983](https://www.fixmystreet.com/report/7394983)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Recurring sinkhole outside no. 50 Ryeworth Rd sinking again, 5th April :- [7393277](https://www.fixmystreet.com/report/7393277)
 - More dog fouling, 5th April :- [7393190](https://www.fixmystreet.com/report/7393190)
 - PROW blocked by locked gate and overgrow bushes, 5th April :- [7393150](https://www.fixmystreet.com/report/7393150)
-- Number of potholes near no. 2 Hambrook St, 5th April :- [7393028](https://www.fixmystreet.com/report/7393028)
 
 <!-- fix_marker ends -->

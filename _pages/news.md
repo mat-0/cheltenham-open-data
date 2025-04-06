@@ -9,12 +9,12 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Chippy apologises for prices as fish costs surge ([27 minutes ago](https://www.bbc.com/news/articles/cx2w4lqz73no))
-- Key route remains closed amid ongoing repair works ([3 hours ago](https://www.bbc.com/news/articles/cqx493jqx0jo))
-- Gloucestershire in pics: Blossom and community ([7 hours ago](https://www.bbc.com/news/articles/cy9vj3jqjw0o))
-- Headlines: Jellycat, super yacht and arena plans ([7 hours ago](https://www.bbc.com/news/articles/ce92ge1xemro))
-- Man attacked by gang armed with metal poles ([21 hours ago](https://www.bbc.com/news/articles/cj3xe562vk1o))
-- City gridlocked as works cause traffic 'carnage' ([23 hours ago](https://www.bbc.com/news/articles/cvgpm33k2zzo))
+- Chippy apologises for prices as fish costs surge ([1 hours ago](https://www.bbc.com/news/articles/cx2w4lqz73no))
+- Key route remains closed amid ongoing repair works ([4 hours ago](https://www.bbc.com/news/articles/cqx493jqx0jo))
+- Gloucestershire in pics: Blossom and community ([8 hours ago](https://www.bbc.com/news/articles/cy9vj3jqjw0o))
+- Headlines: Jellycat, super yacht and arena plans ([8 hours ago](https://www.bbc.com/news/articles/ce92ge1xemro))
+- Man attacked by gang armed with metal poles ([22 hours ago](https://www.bbc.com/news/articles/cj3xe562vk1o))
+- City gridlocked as works cause traffic 'carnage' ([1 days ago](https://www.bbc.com/news/articles/cvgpm33k2zzo))
 - 'Teachers must respond to issues in Adolescence' ([1 days ago](https://www.bbc.com/news/articles/cyvq7qqrvy0o))
 - Restored play park to 'bring generations together' ([1 days ago](https://www.bbc.com/news/articles/ckgemkgryl9o))
 - Goalkeeper hopes to fly mum out for Wembley dream ([1 days ago](https://www.bbc.com/news/articles/cd02e2pymjyo))
@@ -25,7 +25,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Gothic mansion could soon undergo major revamp ([2 days ago](https://www.bbc.com/news/articles/crldnw9rerzo))
 - Gloucestershire elections: What's at stake? ([2 days ago](https://www.bbc.com/news/articles/c74323j87xqo))
 - 'Stuck' clock honours town's old time zone ([2 days ago](https://www.bbc.com/news/articles/cvgqljz57l0o))
-- Crack Easter recycling – waste and recycling collections for 2025 ([2 days ago](https://www.cheltenham.gov.uk/news/article/3002/crack_easter_recycling_%E2%80%93_waste_and_recycling_collections_for_2025))
+- Crack Easter recycling – waste and recycling collections for 2025 ([3 days ago](https://www.cheltenham.gov.uk/news/article/3002/crack_easter_recycling_%E2%80%93_waste_and_recycling_collections_for_2025))
 - Cheltenham Licensing Sub-Committee revokes private hire driver’s licence due to safety concerns ([3 days ago](https://www.cheltenham.gov.uk/news/article/3001/cheltenham_licensing_sub-committee_revokes_private_hire_drivers_licence_due_to_safety_concerns))
 - 'I'm able to live a normal life after anxiety' ([3 days ago](https://www.bbc.com/news/articles/cq8yjng9vkeo))
 - Wanted woman is arrested after handing herself into police ([3 days ago](https://gloucesternewscentre.co.uk/wanted-woman-is-arrested-after-handing-herself-into-police/))
@@ -47,7 +47,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - County to lose its mounted police unit in cost savings plan ([12 days ago](https://gloucesternewscentre.co.uk/county-to-lose-its-mounted-police-unit-in-cost-savings-plan/))
 - Traffic fears over ‘chicanes’ installed in Cheltenham ([12 days ago](https://gloucesternewscentre.co.uk/traffic-fears-over-chicanes-installed-in-cheltenham/))
 - Bag of clothing worth over £1,000 is stolen during Cheltenham burglary ([12 days ago](https://gloucesternewscentre.co.uk/bag-of-clothing-worth-over-1000-is-stolen-during-cheltenham-burglary/))
-- Two men from Birmingham charged with attempted murder ([12 days ago](https://gloucesternewscentre.co.uk/two-men-from-birmingham-charged-with-attempted-murder/))
+- Two men from Birmingham charged with attempted murder ([13 days ago](https://gloucesternewscentre.co.uk/two-men-from-birmingham-charged-with-attempted-murder/))
 - Pressure mounts on fire bosses to drop ‘disastrous’ shift pattern changes ([15 days ago](https://gloucesternewscentre.co.uk/pressure-mounts-on-fire-bosses-to-drop-disastrous-shift-pattern-changes/))
 - Officers freeze £400,000 of suspected criminal assets and make 16 arrests during fraud operation ([15 days ago](https://gloucesternewscentre.co.uk/officers-freeze-400000-of-suspected-criminal-assets-and-make-16-arrests-during-fraud-operation/))
 - Don’t miss your right to vote, register by Friday 11 April 2025 ([16 days ago](https://www.cheltenham.gov.uk/news/article/2999/dont_miss_your_right_to_vote_register_by_friday_11_april_2025))
@@ -55,7 +55,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Cheltenham chiefs apologise for short notice of councils shake-up plan ([16 days ago](https://gloucesternewscentre.co.uk/cheltenham-chiefs-apologise-for-short-notice-of-councils-shake-up-plan/))
 - Conservation group backs campaign to save Promenade York stone paving ([16 days ago](https://gloucesternewscentre.co.uk/conservation-group-backs-campaign-to-save-promenade-york-stone-paving/))
 - Tewkesbury ‘insulted’ as Cheltenham and Cotswold exclude name from council plan ([16 days ago](https://gloucesternewscentre.co.uk/tewkesbury-insulted-as-cheltenham-and-cotswold-exclude-name-from-council-plan/))
-- NCLB’s Party in the Park for families returns for another summer of fun ([16 days ago](https://www.cheltenham.gov.uk/news/article/2997/nclbs_party_in_the_park_for_families_returns_for_another_summer_of_fun))
+- NCLB’s Party in the Park for families returns for another summer of fun ([17 days ago](https://www.cheltenham.gov.uk/news/article/2997/nclbs_party_in_the_park_for_families_returns_for_another_summer_of_fun))
 - The Bell Inn pub and Daisybank Field approved as Assets of Community Value ([17 days ago](https://www.cheltenham.gov.uk/news/article/2996/the_bell_inn_pub_and_daisybank_field_approved_as_assets_of_community_value))
 - Row as Cheltenham council ‘kept devolution report secret from partners’ ([18 days ago](https://gloucesternewscentre.co.uk/row-as-cheltenham-council-kept-devolution-report-secret-from-partners/))
 - Man takes council to court after’losing two tyres to pothole damage’ ([18 days ago](https://gloucesternewscentre.co.uk/man-takes-council-to-court-afterlosing-two-tyres-to-pothole-damage/))
@@ -66,6 +66,5 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - HBD invites feedback on Golden Valley plans ([24 days ago](https://www.cheltenham.gov.uk/news/article/2993/hbd_invites_feedback_on_golden_valley_plans))
 - Air source heat pump demonstration - understanding the basics ([27 days ago](https://www.cheltenham.gov.uk/news/article/2992/air_source_heat_pump_demonstration_-_understanding_the_basics))
 - Statement about Cheltenham town centre ([27 days ago](https://www.cheltenham.gov.uk/news/article/2991/statement_about_cheltenham_town_centre))
-- Free parking and business incentives for shoppers during Cheltenham Festival ([29 days ago](https://www.cheltenham.gov.uk/news/article/2990/free_parking_and_business_incentives_for_shoppers_during_cheltenham_festival))
 
 <!-- news_marker ends -->
