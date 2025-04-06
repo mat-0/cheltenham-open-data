@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Overflowing bins, 6th April :- [7394851](https://www.fixmystreet.com/report/7394851)
+- Loose damaged kerbstone outside 11 Church St, 6th April :- [7394830](https://www.fixmystreet.com/report/7394830)
+- 12" pothole 2" deep on A40 just east of Coxhorne Farm outside Charlton Kings, 6th April :- [7394764](https://www.fixmystreet.com/report/7394764)
 - Drain blocked outside Exeleigh, Church Walk, 6th April :- [7394666](https://www.fixmystreet.com/report/7394666)
 - Pothole around drain on corner London Rd & Court Mews outside Cotswold Flooring at Sixways, 6th April :- [7394529](https://www.fixmystreet.com/report/7394529)
 - Graffiti on green utility cabinet, corner King Alfred Way and London Rd, 6th April :- [7394485](https://www.fixmystreet.com/report/7394485)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Drain blocked outside Little Ashley Court, Ryeworth Rd, 5th April :- [7392809](https://www.fixmystreet.com/report/7392809)
 - The waste bins in Benhall Open Space situated along Bibury Road are overflowing, mostly with dog poo bags, very smelly on a sunny day!, 5th April :- [7392710](https://www.fixmystreet.com/report/7392710)
 - Dog poo bin, 5th April :- [7392524](https://www.fixmystreet.com/report/7392524)
-- Dog poo bin, 5th April :- [7392521](https://www.fixmystreet.com/report/7392521)
-- Dog poo bin, 5th April :- [7392515](https://www.fixmystreet.com/report/7392515)
-- Various potholes on and around the mini roundabout next to Churchdown Community centre, 5th April :- [7392052](https://www.fixmystreet.com/report/7392052)
 
 <!-- fix_marker ends -->
