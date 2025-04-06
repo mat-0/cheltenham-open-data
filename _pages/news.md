@@ -9,16 +9,16 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Chippy apologises for prices as fish costs surge ([4 hours ago](https://www.bbc.com/news/articles/cx2w4lqz73no))
-- Key route remains closed amid ongoing repair works ([7 hours ago](https://www.bbc.com/news/articles/cqx493jqx0jo))
-- Gloucestershire in pics: Blossom and community ([11 hours ago](https://www.bbc.com/news/articles/cy9vj3jqjw0o))
-- Headlines: Jellycat, super yacht and arena plans ([11 hours ago](https://www.bbc.com/news/articles/ce92ge1xemro))
+- Chippy apologises for prices as fish costs surge ([5 hours ago](https://www.bbc.com/news/articles/cx2w4lqz73no))
+- Key route remains closed amid ongoing repair works ([8 hours ago](https://www.bbc.com/news/articles/cqx493jqx0jo))
+- Gloucestershire in pics: Blossom and community ([12 hours ago](https://www.bbc.com/news/articles/cy9vj3jqjw0o))
+- Headlines: Jellycat, super yacht and arena plans ([12 hours ago](https://www.bbc.com/news/articles/ce92ge1xemro))
 - Man attacked by gang armed with metal poles ([1 days ago](https://www.bbc.com/news/articles/cj3xe562vk1o))
 - City gridlocked as works cause traffic 'carnage' ([1 days ago](https://www.bbc.com/news/articles/cvgpm33k2zzo))
 - 'Teachers must respond to issues in Adolescence' ([1 days ago](https://www.bbc.com/news/articles/cyvq7qqrvy0o))
 - Restored play park to 'bring generations together' ([1 days ago](https://www.bbc.com/news/articles/ckgemkgryl9o))
 - Goalkeeper hopes to fly mum out for Wembley dream ([1 days ago](https://www.bbc.com/news/articles/cd02e2pymjyo))
-- Soil containing broken glass used for football pitches ([1 days ago](https://www.bbc.com/news/articles/cly52n7l3ryo))
+- Soil containing broken glass used for football pitches ([2 days ago](https://www.bbc.com/news/articles/cly52n7l3ryo))
 - Woman finds another body buried in her plot ([2 days ago](https://www.bbc.com/news/articles/cq80q7kj3k3o))
 - Food bank for pets set up by animal charity ([2 days ago](https://www.bbc.com/news/articles/c15v338xdqqo))
 - Grandfather's stained glass to hang in Nasa office ([2 days ago](https://www.bbc.com/news/articles/cly5v53e144o))
