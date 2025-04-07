@@ -26,3 +26,8 @@ The market will run on:
 ## Hospitals
 
 - [Live waiting times](https://www.gloshospitals.nhs.uk/)
+
+## Governance
+
+- [Write to them](https://www.writetothem.com/who?pc=GL50+1HZ)
+- [Local Intelligence Hub](https://www.localintelligencehub.com/area/WMC23/Cheltenham#movement)
