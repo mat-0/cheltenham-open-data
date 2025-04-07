@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Commercial bins & Delivery Scooter, 7th April :- [7399879](https://www.fixmystreet.com/report/7399879)
+- Flytipped sofa, 7th April :- [7399673](https://www.fixmystreet.com/report/7399673)
 - Bin is overflowing, 7th April :- [7398301](https://www.fixmystreet.com/report/7398301)
 - Incorrectly placed speed bump, 7th April :- [7398231](https://www.fixmystreet.com/report/7398231)
 - Bins overflowing, 7th April :- [7398016](https://www.fixmystreet.com/report/7398016)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Footpath Closed sign left halfway along Brookway Road footpath, 6th April :- [7395998](https://www.fixmystreet.com/report/7395998)
 - Complaint received about flooding, 6th April :- [7395972](https://www.fixmystreet.com/report/7395972)
 - Tractor tyre, 6th April :- [7395681](https://www.fixmystreet.com/report/7395681)
-- Yet more rubbish fly tipped here., 6th April :- [7395334](https://www.fixmystreet.com/report/7395334)
-- Flytipped Machine, 6th April :- [7395090](https://www.fixmystreet.com/report/7395090)
 
 <!-- fix_marker ends -->
