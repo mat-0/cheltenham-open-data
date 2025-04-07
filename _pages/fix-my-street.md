@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Bin is overflowing, 7th April :- [7398301](https://www.fixmystreet.com/report/7398301)
+- Incorrectly placed speed bump, 7th April :- [7398231](https://www.fixmystreet.com/report/7398231)
+- Bins overflowing, 7th April :- [7398016](https://www.fixmystreet.com/report/7398016)
+- Moderate size branch broken and hanging above parking bay, 7th April :- [7397855](https://www.fixmystreet.com/report/7397855)
 - Cracks all along the Reddings Road, 7th April :- [7397727](https://www.fixmystreet.com/report/7397727)
 - Footpath blocked by electric fence, 7th April :- [7397541](https://www.fixmystreet.com/report/7397541)
 - All traffic lights are off at six ways junctions, 7th April :- [7397162](https://www.fixmystreet.com/report/7397162)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Tractor tyre, 6th April :- [7395681](https://www.fixmystreet.com/report/7395681)
 - Yet more rubbish fly tipped here., 6th April :- [7395334](https://www.fixmystreet.com/report/7395334)
 - Flytipped Machine, 6th April :- [7395090](https://www.fixmystreet.com/report/7395090)
-- Flytipped Item, 6th April :- [7394983](https://www.fixmystreet.com/report/7394983)
-- Flytipped Items, 6th April :- [7394976](https://www.fixmystreet.com/report/7394976)
-- Flytipped Items, 6th April :- [7394965](https://www.fixmystreet.com/report/7394965)
-- Every time a car drives over it knocks, 6th April :- [7394959](https://www.fixmystreet.com/report/7394959)
 
 <!-- fix_marker ends -->

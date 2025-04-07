@@ -9,10 +9,10 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Key route closed amid ongoing repair works ([1 hours ago](https://www.bbc.com/news/articles/cqx493jqx0jo))
-- Council to sell vacant offices to highest bidder ([2 hours ago](https://www.bbc.com/news/articles/c0kxvgmx3d2o))
-- Wall only two bricks high at the centre of row ([2 hours ago](https://www.bbc.com/news/articles/cx28mpndr5do))
-- Chippy apologises for prices as fish costs surge ([18 hours ago](https://www.bbc.com/news/articles/cx2w4lqz73no))
+- Key route closed amid ongoing repair works ([2 hours ago](https://www.bbc.com/news/articles/cqx493jqx0jo))
+- Council to sell vacant offices to highest bidder ([3 hours ago](https://www.bbc.com/news/articles/c0kxvgmx3d2o))
+- Wall only two bricks high at the centre of row ([3 hours ago](https://www.bbc.com/news/articles/cx28mpndr5do))
+- Chippy apologises for prices as fish costs surge ([19 hours ago](https://www.bbc.com/news/articles/cx2w4lqz73no))
 - Gloucestershire in pics: Blossom and community ([1 days ago](https://www.bbc.com/news/articles/cy9vj3jqjw0o))
 - Headlines: Jellycat, super yacht and arena plans ([1 days ago](https://www.bbc.com/news/articles/ce92ge1xemro))
 - Man attacked by gang armed with metal poles ([1 days ago](https://www.bbc.com/news/articles/cj3xe562vk1o))
