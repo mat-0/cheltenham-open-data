@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large enough to cause someone to go over near the road, 7th April :- [7401500](https://www.fixmystreet.com/report/7401500)
 - Princess Elizabeth way, 7th April :- [7401051](https://www.fixmystreet.com/report/7401051)
 - Very smelly drains all along Nightjar Road, especially near the bottom of the road towards the bridge., 7th April :- [7400980](https://www.fixmystreet.com/report/7400980)
 - The entrance to Imperial gardens from the Promenade is damaged, 7th April :- [7400819](https://www.fixmystreet.com/report/7400819)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Moderate size branch broken and hanging above parking bay, 7th April :- [7397855](https://www.fixmystreet.com/report/7397855)
 - Cracks all along the Reddings Road, 7th April :- [7397727](https://www.fixmystreet.com/report/7397727)
 - Footpath blocked by electric fence, 7th April :- [7397541](https://www.fixmystreet.com/report/7397541)
-- All traffic lights are off at six ways junctions, 7th April :- [7397162](https://www.fixmystreet.com/report/7397162)
 
 <!-- fix_marker ends -->
