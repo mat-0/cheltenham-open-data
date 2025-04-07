@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Cyclist pushbutton demand being constantly registered at Hare & Hound junction., 7th April :- [7400301](https://www.fixmystreet.com/report/7400301)
+- Unpermitted roadworks problem, 7th April :- [7400331](https://www.fixmystreet.com/report/7400331)
+- Ringway barriers down causing an obstruction, 7th April :- [7400134](https://www.fixmystreet.com/report/7400134)
+- Drain blocked in manhole in driveway, 7th April :- [7399896](https://www.fixmystreet.com/report/7399896)
 - Commercial bins & Delivery Scooter, 7th April :- [7399879](https://www.fixmystreet.com/report/7399879)
 - Flytipped sofa, 7th April :- [7399673](https://www.fixmystreet.com/report/7399673)
 - Bin is overflowing, 7th April :- [7398301](https://www.fixmystreet.com/report/7398301)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Multiple potholes in dip in road, 6th April :- [7396554](https://www.fixmystreet.com/report/7396554)
 - Drain blocked opposite Bank Cottage, Cudnall St, 6th April :- [7396280](https://www.fixmystreet.com/report/7396280)
 - Flytipping of broken kitchen cupboard units, 6th April :- [7396150](https://www.fixmystreet.com/report/7396150)
-- Work signs and bollards left in Brookway Road alleyway, near alleyway to Brookway Dr, 6th April :- [7396047](https://www.fixmystreet.com/report/7396047)
-- Footpath Closed sign left halfway along Brookway Road footpath, 6th April :- [7395998](https://www.fixmystreet.com/report/7395998)
-- Complaint received about flooding, 6th April :- [7395972](https://www.fixmystreet.com/report/7395972)
-- Tractor tyre, 6th April :- [7395681](https://www.fixmystreet.com/report/7395681)
 
 <!-- fix_marker ends -->
