@@ -9,11 +9,11 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Key road at centre of gridlock to remain closed ([1 hours ago](https://www.bbc.com/news/articles/cqx493jqx0jo))
-- Headlines: Mayor candidate controversy and dementia misdiagnosis ([6 hours ago](https://www.bbc.com/news/articles/c9851440re5o))
-- Arrests after man seriously injured with metal poles ([7 hours ago](https://www.bbc.com/news/articles/c8ep7l8xr8do))
-- Council to sell vacant offices to highest bidder ([12 hours ago](https://www.bbc.com/news/articles/c0kxvgmx3d2o))
-- Wall only two bricks high at the centre of row ([12 hours ago](https://www.bbc.com/news/articles/cx28mpndr5do))
+- Key road at centre of gridlock to remain closed ([2 hours ago](https://www.bbc.com/news/articles/cqx493jqx0jo))
+- Headlines: Mayor candidate controversy and dementia misdiagnosis ([7 hours ago](https://www.bbc.com/news/articles/c9851440re5o))
+- Arrests after man seriously injured with metal poles ([8 hours ago](https://www.bbc.com/news/articles/c8ep7l8xr8do))
+- Council to sell vacant offices to highest bidder ([13 hours ago](https://www.bbc.com/news/articles/c0kxvgmx3d2o))
+- Wall only two bricks high at the centre of row ([13 hours ago](https://www.bbc.com/news/articles/cx28mpndr5do))
 - Chippy apologises for prices as fish costs surge ([1 days ago](https://www.bbc.com/news/articles/cx2w4lqz73no))
 - Gloucestershire in pics: Blossom and community ([1 days ago](https://www.bbc.com/news/articles/cy9vj3jqjw0o))
 - Headlines: Jellycat, super yacht and arena plans ([1 days ago](https://www.bbc.com/news/articles/ce92ge1xemro))
@@ -22,7 +22,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - 'Teachers must respond to issues in Adolescence' ([2 days ago](https://www.bbc.com/news/articles/cyvq7qqrvy0o))
 - Restored play park to 'bring generations together' ([2 days ago](https://www.bbc.com/news/articles/ckgemkgryl9o))
 - Goalkeeper hopes to fly mum out for Wembley dream ([2 days ago](https://www.bbc.com/news/articles/cd02e2pymjyo))
-- Soil containing broken glass used for football pitches ([2 days ago](https://www.bbc.com/news/articles/cly52n7l3ryo))
+- Soil containing broken glass used for football pitches ([3 days ago](https://www.bbc.com/news/articles/cly52n7l3ryo))
 - Woman finds another body buried in her plot ([3 days ago](https://www.bbc.com/news/articles/cq80q7kj3k3o))
 - Food bank for pets set up by animal charity ([3 days ago](https://www.bbc.com/news/articles/c15v338xdqqo))
 - Gloucestershire elections: What's at stake? ([3 days ago](https://www.bbc.com/news/articles/c74323j87xqo))
