@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- This hole + depression in the gate entrance, 7th April :- [7400622](https://www.fixmystreet.com/report/7400622)
+- May be small but are sharp edged, 7th April :- [7400588](https://www.fixmystreet.com/report/7400588)
+- Potholes in the vehicle track on narrow section of Aggs Hill, 7th April :- [7400521](https://www.fixmystreet.com/report/7400521)
+- Potholes - now long standing, 7th April :- [7400485](https://www.fixmystreet.com/report/7400485)
 - Cyclist pushbutton demand being constantly registered at Hare & Hound junction., 7th April :- [7400301](https://www.fixmystreet.com/report/7400301)
 - Unpermitted roadworks problem, 7th April :- [7400331](https://www.fixmystreet.com/report/7400331)
 - Ringway barriers down causing an obstruction, 7th April :- [7400134](https://www.fixmystreet.com/report/7400134)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Flytipping by youths, 6th April :- [7397115](https://www.fixmystreet.com/report/7397115)
 - Large Amount of the Road top surface surface is missing, result in a large bump when going driving over.., 6th April :- [7396888](https://www.fixmystreet.com/report/7396888)
 - Street lamp out, 6th April :- [7396686](https://www.fixmystreet.com/report/7396686)
-- Sunken and uneven drain causing a lot of noise from passing vehicles, 6th April :- [7396669](https://www.fixmystreet.com/report/7396669)
-- Multiple potholes in dip in road, 6th April :- [7396554](https://www.fixmystreet.com/report/7396554)
-- Drain blocked opposite Bank Cottage, Cudnall St, 6th April :- [7396280](https://www.fixmystreet.com/report/7396280)
-- Flytipping of broken kitchen cupboard units, 6th April :- [7396150](https://www.fixmystreet.com/report/7396150)
 
 <!-- fix_marker ends -->

@@ -9,12 +9,12 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Key route closed amid ongoing repair works ([58 minutes ago](https://www.bbc.com/news/articles/cqx493jqx0jo))
+- Key route closed amid ongoing repair works ([1 hours ago](https://www.bbc.com/news/articles/cqx493jqx0jo))
 - Headlines: Mayor candidate controversy and dementia misdiagnosis ([2 hours ago](https://www.bbc.com/news/articles/c9851440re5o))
-- Arrests after man seriously injured with metal poles ([2 hours ago](https://www.bbc.com/news/articles/c8ep7l8xr8do))
-- Council to sell vacant offices to highest bidder ([7 hours ago](https://www.bbc.com/news/articles/c0kxvgmx3d2o))
-- Wall only two bricks high at the centre of row ([7 hours ago](https://www.bbc.com/news/articles/cx28mpndr5do))
-- Chippy apologises for prices as fish costs surge ([23 hours ago](https://www.bbc.com/news/articles/cx2w4lqz73no))
+- Arrests after man seriously injured with metal poles ([3 hours ago](https://www.bbc.com/news/articles/c8ep7l8xr8do))
+- Council to sell vacant offices to highest bidder ([8 hours ago](https://www.bbc.com/news/articles/c0kxvgmx3d2o))
+- Wall only two bricks high at the centre of row ([8 hours ago](https://www.bbc.com/news/articles/cx28mpndr5do))
+- Chippy apologises for prices as fish costs surge ([1 days ago](https://www.bbc.com/news/articles/cx2w4lqz73no))
 - Gloucestershire in pics: Blossom and community ([1 days ago](https://www.bbc.com/news/articles/cy9vj3jqjw0o))
 - Headlines: Jellycat, super yacht and arena plans ([1 days ago](https://www.bbc.com/news/articles/ce92ge1xemro))
 - Man attacked by gang armed with metal poles ([1 days ago](https://www.bbc.com/news/articles/cj3xe562vk1o))
@@ -50,7 +50,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Two men from Birmingham charged with attempted murder ([13 days ago](https://gloucesternewscentre.co.uk/two-men-from-birmingham-charged-with-attempted-murder/))
 - Pressure mounts on fire bosses to drop ‘disastrous’ shift pattern changes ([16 days ago](https://gloucesternewscentre.co.uk/pressure-mounts-on-fire-bosses-to-drop-disastrous-shift-pattern-changes/))
 - Officers freeze £400,000 of suspected criminal assets and make 16 arrests during fraud operation ([16 days ago](https://gloucesternewscentre.co.uk/officers-freeze-400000-of-suspected-criminal-assets-and-make-16-arrests-during-fraud-operation/))
-- Don’t miss your right to vote, register by Friday 11 April 2025 ([16 days ago](https://www.cheltenham.gov.uk/news/article/2999/dont_miss_your_right_to_vote_register_by_friday_11_april_2025))
+- Don’t miss your right to vote, register by Friday 11 April 2025 ([17 days ago](https://www.cheltenham.gov.uk/news/article/2999/dont_miss_your_right_to_vote_register_by_friday_11_april_2025))
 - £96k funding available for new neighbourhood projects in Cheltenham ([17 days ago](https://www.cheltenham.gov.uk/news/article/2998/96k_funding_available_for_new_neighbourhood_projects_in_cheltenham))
 - Cheltenham chiefs apologise for short notice of councils shake-up plan ([17 days ago](https://gloucesternewscentre.co.uk/cheltenham-chiefs-apologise-for-short-notice-of-councils-shake-up-plan/))
 - Conservation group backs campaign to save Promenade York stone paving ([17 days ago](https://gloucesternewscentre.co.uk/conservation-group-backs-campaign-to-save-promenade-york-stone-paving/))
