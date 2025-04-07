@@ -9,11 +9,11 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Key road at centre of gridlock to remain closed ([4 hours ago](https://www.bbc.com/news/articles/cqx493jqx0jo))
-- Headlines: Mayor candidate controversy and dementia misdiagnosis ([9 hours ago](https://www.bbc.com/news/articles/c9851440re5o))
-- Arrests after man seriously injured with metal poles ([10 hours ago](https://www.bbc.com/news/articles/c8ep7l8xr8do))
-- Council to sell vacant offices to highest bidder ([15 hours ago](https://www.bbc.com/news/articles/c0kxvgmx3d2o))
-- Wall only two bricks high at the centre of row ([15 hours ago](https://www.bbc.com/news/articles/cx28mpndr5do))
+- Key road at centre of gridlock to remain closed ([5 hours ago](https://www.bbc.com/news/articles/cqx493jqx0jo))
+- Headlines: Mayor candidate controversy and dementia misdiagnosis ([10 hours ago](https://www.bbc.com/news/articles/c9851440re5o))
+- Arrests after man seriously injured with metal poles ([11 hours ago](https://www.bbc.com/news/articles/c8ep7l8xr8do))
+- Council to sell vacant offices to highest bidder ([16 hours ago](https://www.bbc.com/news/articles/c0kxvgmx3d2o))
+- Wall only two bricks high at the centre of row ([16 hours ago](https://www.bbc.com/news/articles/cx28mpndr5do))
 - Chippy apologises for prices as fish costs surge ([1 days ago](https://www.bbc.com/news/articles/cx2w4lqz73no))
 - Gloucestershire in pics: Blossom and community ([1 days ago](https://www.bbc.com/news/articles/cy9vj3jqjw0o))
 - Headlines: Jellycat, super yacht and arena plans ([1 days ago](https://www.bbc.com/news/articles/ce92ge1xemro))
