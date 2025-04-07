@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Monday, 07 April 2025
 
-- The average temperature today is 8.22˚C,
-- With highs of 9.05˚C and lows of 7.61˚C,
-- It may feel like 8.22˚C with clear sky
+- The average temperature today is 10.67˚C,
+- With highs of 11.83˚C and lows of 10.38˚C,
+- It may feel like 9.52˚C with clear sky
 - The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1027hPa and humidity is 70%
+- The pressure is 1026hPa and humidity is 66%
 - The sun will rise at 05:29 and set at 18:51
 
 <!-- weather_marker ends -->
