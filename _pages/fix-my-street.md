@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Princess Elizabeth way, 7th April :- [7401051](https://www.fixmystreet.com/report/7401051)
+- Very smelly drains all along Nightjar Road, especially near the bottom of the road towards the bridge., 7th April :- [7400980](https://www.fixmystreet.com/report/7400980)
+- The entrance to Imperial gardens from the Promenade is damaged, 7th April :- [7400819](https://www.fixmystreet.com/report/7400819)
 - This hole + depression in the gate entrance, 7th April :- [7400622](https://www.fixmystreet.com/report/7400622)
 - May be small but are sharp edged, 7th April :- [7400588](https://www.fixmystreet.com/report/7400588)
 - Potholes in the vehicle track on narrow section of Aggs Hill, 7th April :- [7400521](https://www.fixmystreet.com/report/7400521)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Cracks all along the Reddings Road, 7th April :- [7397727](https://www.fixmystreet.com/report/7397727)
 - Footpath blocked by electric fence, 7th April :- [7397541](https://www.fixmystreet.com/report/7397541)
 - All traffic lights are off at six ways junctions, 7th April :- [7397162](https://www.fixmystreet.com/report/7397162)
-- Flytipping by youths, 6th April :- [7397115](https://www.fixmystreet.com/report/7397115)
-- Large Amount of the Road top surface surface is missing, result in a large bump when going driving over.., 6th April :- [7396888](https://www.fixmystreet.com/report/7396888)
-- Street lamp out, 6th April :- [7396686](https://www.fixmystreet.com/report/7396686)
 
 <!-- fix_marker ends -->
