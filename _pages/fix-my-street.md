@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Drain blocked London Rd, opposite Hearne Rd, 8th April :- [7404927](https://www.fixmystreet.com/report/7404927)
+- A pothole in road problem, 8th April :- [7404912](https://www.fixmystreet.com/report/7404912)
+- Bags of builders sand on pavement, 8th April :- [7404868](https://www.fixmystreet.com/report/7404868)
+- TMC - Defects - Kerbs and Channels problem, 8th April :- [7404916](https://www.fixmystreet.com/report/7404916)
+- White goods, 8th April :- [7404850](https://www.fixmystreet.com/report/7404850)
 - Abandoned Roadworks sign, Churchill Gardens near Haywards Rd, 8th April :- [7404252](https://www.fixmystreet.com/report/7404252)
 - Pothole Churchill Gardens, near Haywards Rd, 8th April :- [7404241](https://www.fixmystreet.com/report/7404241)
 - TMC - Defects - Road Markings problem, 8th April :- [7404439](https://www.fixmystreet.com/report/7404439)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - 18 inch potholeS as you turn left onto Folland Avenue from near Hucclecote Road, 7th April :- [7401748](https://www.fixmystreet.com/report/7401748)
 - Large enough to cause someone to go over near the road, 7th April :- [7401500](https://www.fixmystreet.com/report/7401500)
 - Princess Elizabeth way, 7th April :- [7401051](https://www.fixmystreet.com/report/7401051)
-- Very smelly drains all along Nightjar Road, especially near the bottom of the road towards the bridge., 7th April :- [7400980](https://www.fixmystreet.com/report/7400980)
-- The entrance to Imperial gardens from the Promenade is damaged, 7th April :- [7400819](https://www.fixmystreet.com/report/7400819)
-- This hole + depression in the gate entrance, 7th April :- [7400622](https://www.fixmystreet.com/report/7400622)
-- May be small but are sharp edged, 7th April :- [7400588](https://www.fixmystreet.com/report/7400588)
-- Potholes in the vehicle track on narrow section of Aggs Hill, 7th April :- [7400521](https://www.fixmystreet.com/report/7400521)
 
 <!-- fix_marker ends -->
