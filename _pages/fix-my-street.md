@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large sinkhole, previously repaired, worsening rapidly, 8th April :- [7408049](https://www.fixmystreet.com/report/7408049)
 - Street sign moved, 8th April :- [7408011](https://www.fixmystreet.com/report/7408011)
 - Exposed pipe on pavement outside of 26 Lichfield Drive, 8th April :- [7407979](https://www.fixmystreet.com/report/7407979)
 - 3 large pot holes around a previously repaired pot hole. Large and dangerous for cyclist and damaging to vehicles of all sizes, 8th April :- [7407893](https://www.fixmystreet.com/report/7407893)
@@ -27,7 +28,6 @@ permalink: /fix-my-street
 - TMC - Defects - Footways Slabs problem, 8th April :- [7406446](https://www.fixmystreet.com/report/7406446)
 - TMC - Defects - Other FW6  Surface problem, 8th April :- [7406445](https://www.fixmystreet.com/report/7406445)
 - TMC - Defects - Kerbs and Channels problem, 8th April :- [7406425](https://www.fixmystreet.com/report/7406425)
-- TMC - Defects - Kerbs and Channels problem, 8th April :- [7406424](https://www.fixmystreet.com/report/7406424)
 - TMC - Defects - Other FW6  Surface problem, 8th April :- [7406423](https://www.fixmystreet.com/report/7406423)
 
 <!-- fix_marker ends -->
