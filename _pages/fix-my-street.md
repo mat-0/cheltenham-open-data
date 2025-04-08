@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Bollard in middle of Copt Elm Rd outside Smith & Mann damaged and lifted out of ground, 8th April :- [7407575](https://www.fixmystreet.com/report/7407575)
+- Drain blocked Lyefield Rd West near Cirencester Rd, 8th April :- [7407549](https://www.fixmystreet.com/report/7407549)
+- Right along the right hand side of the lane & narrow so can’t avoid, 8th April :- [7407513](https://www.fixmystreet.com/report/7407513)
 - Padlock on gate on pathway, 8th April :- [7406797](https://www.fixmystreet.com/report/7406797)
 - Bollard shell is damaged/vandalised problem, 8th April :- [7406803](https://www.fixmystreet.com/report/7406803)
 - New sign stating No Private Land No Public Access causing confusion., 8th April :- [7406662](https://www.fixmystreet.com/report/7406662)
@@ -17,8 +20,8 @@ permalink: /fix-my-street
 - TMC - Defects - Footways Slabs problem, 8th April :- [7406447](https://www.fixmystreet.com/report/7406447)
 - TMC - Defects - Footways Slabs problem, 8th April :- [7406446](https://www.fixmystreet.com/report/7406446)
 - TMC - Defects - Other FW6  Surface problem, 8th April :- [7406445](https://www.fixmystreet.com/report/7406445)
-- TMC - Defects - Kerbs and Channels problem, 8th April :- [7406424](https://www.fixmystreet.com/report/7406424)
 - TMC - Defects - Other FW6  Surface problem, 8th April :- [7406423](https://www.fixmystreet.com/report/7406423)
+- TMC - Defects - Kerbs and Channels problem, 8th April :- [7406424](https://www.fixmystreet.com/report/7406424)
 - TMC - Defects - Kerbs and Channels problem, 8th April :- [7406425](https://www.fixmystreet.com/report/7406425)
 - TMC - Defects - Signs & Street Furniture problem, 8th April :- [7406444](https://www.fixmystreet.com/report/7406444)
 - TMC - Defects -CW6 Potholes  problem, 8th April :- [7406422](https://www.fixmystreet.com/report/7406422)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 8th April :- [7406004](https://www.fixmystreet.com/report/7406004)
 - TMC - Defects - Other FW6  Surface problem, 8th April :- [7406003](https://www.fixmystreet.com/report/7406003)
 - TMC - Defects -CW6 Potholes  problem, 8th April :- [7406011](https://www.fixmystreet.com/report/7406011)
-- TMC - Defects - Other FW6  Surface problem, 8th April :- [7406002](https://www.fixmystreet.com/report/7406002)
-- TMC - Defects -CW6 Potholes  problem, 8th April :- [7406010](https://www.fixmystreet.com/report/7406010)
-- TMC - Defects - Other FW6  Surface problem, 8th April :- [7406001](https://www.fixmystreet.com/report/7406001)
 
 <!-- fix_marker ends -->
