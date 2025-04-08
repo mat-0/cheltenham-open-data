@@ -9,11 +9,11 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Cinema sells old movie posters to stay afloat ([2 hours ago](https://www.bbc.com/news/articles/c1merg7mdjdo))
-- Flood wardens warn residents of upcoming risks ([2 hours ago](https://www.bbc.com/news/articles/ce3v175vnzpo))
-- Key road at centre of gridlock to remain closed ([15 hours ago](https://www.bbc.com/news/articles/cqx493jqx0jo))
-- Headlines: Mayor candidate controversy and dementia misdiagnosis ([20 hours ago](https://www.bbc.com/news/articles/c9851440re5o))
-- Arrests after man seriously injured with metal poles ([21 hours ago](https://www.bbc.com/news/articles/c8ep7l8xr8do))
+- Cinema sells old movie posters to stay afloat ([3 hours ago](https://www.bbc.com/news/articles/c1merg7mdjdo))
+- Flood wardens warn residents of upcoming risks ([3 hours ago](https://www.bbc.com/news/articles/ce3v175vnzpo))
+- Key road at centre of gridlock to remain closed ([16 hours ago](https://www.bbc.com/news/articles/cqx493jqx0jo))
+- Headlines: Mayor candidate controversy and dementia misdiagnosis ([21 hours ago](https://www.bbc.com/news/articles/c9851440re5o))
+- Arrests after man seriously injured with metal poles ([22 hours ago](https://www.bbc.com/news/articles/c8ep7l8xr8do))
 - Council to sell vacant offices to highest bidder ([1 days ago](https://www.bbc.com/news/articles/c0kxvgmx3d2o))
 - Wall only two bricks high at the centre of row ([1 days ago](https://www.bbc.com/news/articles/cx28mpndr5do))
 - Chippy apologises for prices as fish costs surge ([1 days ago](https://www.bbc.com/news/articles/cx2w4lqz73no))

@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Post or sign leaning slightly (less than 20 degrees) problem, 8th April :- [7403730](https://www.fixmystreet.com/report/7403730)
 - TMC - Defects - Other FW6  Surface problem, 8th April :- [7403534](https://www.fixmystreet.com/report/7403534)
 - Two Street Lights are not working, 8th April :- [7403237](https://www.fixmystreet.com/report/7403237)
 - Trees obstructing Streetlight, 7th April :- [7402419](https://www.fixmystreet.com/report/7402419)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Drain blocked in manhole in driveway, 7th April :- [7399896](https://www.fixmystreet.com/report/7399896)
 - Commercial bins & Delivery Scooter, 7th April :- [7399879](https://www.fixmystreet.com/report/7399879)
 - Flytipped sofa, 7th April :- [7399673](https://www.fixmystreet.com/report/7399673)
-- Bin is overflowing, 7th April :- [7398301](https://www.fixmystreet.com/report/7398301)
 
 <!-- fix_marker ends -->
