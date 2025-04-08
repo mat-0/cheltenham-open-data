@@ -9,6 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Abandoned Roadworks sign, Churchill Gardens near Haywards Rd, 8th April :- [7404252](https://www.fixmystreet.com/report/7404252)
+- Pothole Churchill Gardens, near Haywards Rd, 8th April :- [7404241](https://www.fixmystreet.com/report/7404241)
+- TMC - Defects - Road Markings problem, 8th April :- [7404439](https://www.fixmystreet.com/report/7404439)
+- TMC - Defects - Other FW6  Surface problem, 8th April :- [7404440](https://www.fixmystreet.com/report/7404440)
+- TMC - Defects - Other FW6  Surface problem, 8th April :- [7404438](https://www.fixmystreet.com/report/7404438)
+- TMC - Defects - Other FW6  Surface problem, 8th April :- [7404437](https://www.fixmystreet.com/report/7404437)
+- TMC - Defects -CW6 Potholes  problem, 8th April :- [7404153](https://www.fixmystreet.com/report/7404153)
 - Post or sign leaning slightly (less than 20 degrees) problem, 8th April :- [7403730](https://www.fixmystreet.com/report/7403730)
 - TMC - Defects - Other FW6  Surface problem, 8th April :- [7403534](https://www.fixmystreet.com/report/7403534)
 - Two Street Lights are not working, 8th April :- [7403237](https://www.fixmystreet.com/report/7403237)
@@ -22,12 +29,5 @@ permalink: /fix-my-street
 - This hole + depression in the gate entrance, 7th April :- [7400622](https://www.fixmystreet.com/report/7400622)
 - May be small but are sharp edged, 7th April :- [7400588](https://www.fixmystreet.com/report/7400588)
 - Potholes in the vehicle track on narrow section of Aggs Hill, 7th April :- [7400521](https://www.fixmystreet.com/report/7400521)
-- Potholes - now long standing, 7th April :- [7400485](https://www.fixmystreet.com/report/7400485)
-- Cyclist pushbutton demand being constantly registered at Hare & Hound junction., 7th April :- [7400301](https://www.fixmystreet.com/report/7400301)
-- Unpermitted roadworks problem, 7th April :- [7400331](https://www.fixmystreet.com/report/7400331)
-- Ringway barriers down causing an obstruction, 7th April :- [7400134](https://www.fixmystreet.com/report/7400134)
-- Drain blocked in manhole in driveway, 7th April :- [7399896](https://www.fixmystreet.com/report/7399896)
-- Commercial bins & Delivery Scooter, 7th April :- [7399879](https://www.fixmystreet.com/report/7399879)
-- Flytipped sofa, 7th April :- [7399673](https://www.fixmystreet.com/report/7399673)
 
 <!-- fix_marker ends -->
