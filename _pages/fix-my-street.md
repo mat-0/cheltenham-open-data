@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- King Alfred Way drain blocked, third and fourth drains up from Hales Rd junction, 8th April :- [7407775](https://www.fixmystreet.com/report/7407775)
+- Loose banging manhole cover Lyefield Rd West, to side of 73 Cirencester Rd, 8th April :- [7407762](https://www.fixmystreet.com/report/7407762)
+- Manhole cover is loose as it rattles when vehicles go over it., 8th April :- [7407735](https://www.fixmystreet.com/report/7407735)
 - Bollard in middle of Copt Elm Rd outside Smith & Mann damaged and lifted out of ground, 8th April :- [7407575](https://www.fixmystreet.com/report/7407575)
 - Drain blocked Lyefield Rd West near Cirencester Rd, 8th April :- [7407549](https://www.fixmystreet.com/report/7407549)
 - Right along the right hand side of the lane & narrow so can’t avoid, 8th April :- [7407513](https://www.fixmystreet.com/report/7407513)
@@ -20,14 +23,11 @@ permalink: /fix-my-street
 - TMC - Defects - Footways Slabs problem, 8th April :- [7406447](https://www.fixmystreet.com/report/7406447)
 - TMC - Defects - Footways Slabs problem, 8th April :- [7406446](https://www.fixmystreet.com/report/7406446)
 - TMC - Defects - Other FW6  Surface problem, 8th April :- [7406445](https://www.fixmystreet.com/report/7406445)
-- TMC - Defects - Other FW6  Surface problem, 8th April :- [7406423](https://www.fixmystreet.com/report/7406423)
-- TMC - Defects - Kerbs and Channels problem, 8th April :- [7406424](https://www.fixmystreet.com/report/7406424)
 - TMC - Defects - Kerbs and Channels problem, 8th April :- [7406425](https://www.fixmystreet.com/report/7406425)
+- TMC - Defects - Kerbs and Channels problem, 8th April :- [7406424](https://www.fixmystreet.com/report/7406424)
+- TMC - Defects - Other FW6  Surface problem, 8th April :- [7406423](https://www.fixmystreet.com/report/7406423)
 - TMC - Defects - Signs & Street Furniture problem, 8th April :- [7406444](https://www.fixmystreet.com/report/7406444)
 - TMC - Defects -CW6 Potholes  problem, 8th April :- [7406422](https://www.fixmystreet.com/report/7406422)
 - Raised pavement causing road safety issue, 8th April :- [7405994](https://www.fixmystreet.com/report/7405994)
-- TMC - Defects - Other FW6  Surface problem, 8th April :- [7406004](https://www.fixmystreet.com/report/7406004)
-- TMC - Defects - Other FW6  Surface problem, 8th April :- [7406003](https://www.fixmystreet.com/report/7406003)
-- TMC - Defects -CW6 Potholes  problem, 8th April :- [7406011](https://www.fixmystreet.com/report/7406011)
 
 <!-- fix_marker ends -->

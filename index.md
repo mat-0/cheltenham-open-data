@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Tuesday, 08 April 2025
 
-- The average temperature today is 14.75˚C,
-- With highs of 14.75˚C and lows of 14.75˚C,
-- It may feel like 13.35˚C with clear sky
-- The wind speed is 2.06m/s and visibility is 10000m
-- The pressure is 1026hPa and humidity is 41%
+- The average temperature today is 12.75˚C,
+- With highs of 12.75˚C and lows of 12.75˚C,
+- It may feel like 11.39˚C with clear sky
+- The wind speed is 2.57m/s and visibility is 10000m
+- The pressure is 1026hPa and humidity is 50%
 - The sun will rise at 05:26 and set at 18:52
 
 <!-- weather_marker ends -->
