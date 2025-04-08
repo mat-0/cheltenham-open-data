@@ -9,11 +9,11 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Cinema sells old movie posters to stay afloat ([1 hours ago](https://www.bbc.com/news/articles/c1merg7mdjdo))
-- Flood wardens warn residents of upcoming risks ([1 hours ago](https://www.bbc.com/news/articles/ce3v175vnzpo))
-- Key road at centre of gridlock to remain closed ([14 hours ago](https://www.bbc.com/news/articles/cqx493jqx0jo))
-- Headlines: Mayor candidate controversy and dementia misdiagnosis ([19 hours ago](https://www.bbc.com/news/articles/c9851440re5o))
-- Arrests after man seriously injured with metal poles ([20 hours ago](https://www.bbc.com/news/articles/c8ep7l8xr8do))
+- Cinema sells old movie posters to stay afloat ([2 hours ago](https://www.bbc.com/news/articles/c1merg7mdjdo))
+- Flood wardens warn residents of upcoming risks ([2 hours ago](https://www.bbc.com/news/articles/ce3v175vnzpo))
+- Key road at centre of gridlock to remain closed ([15 hours ago](https://www.bbc.com/news/articles/cqx493jqx0jo))
+- Headlines: Mayor candidate controversy and dementia misdiagnosis ([20 hours ago](https://www.bbc.com/news/articles/c9851440re5o))
+- Arrests after man seriously injured with metal poles ([21 hours ago](https://www.bbc.com/news/articles/c8ep7l8xr8do))
 - Council to sell vacant offices to highest bidder ([1 days ago](https://www.bbc.com/news/articles/c0kxvgmx3d2o))
 - Wall only two bricks high at the centre of row ([1 days ago](https://www.bbc.com/news/articles/cx28mpndr5do))
 - Chippy apologises for prices as fish costs surge ([1 days ago](https://www.bbc.com/news/articles/cx2w4lqz73no))
@@ -57,8 +57,8 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Tewkesbury ‘insulted’ as Cheltenham and Cotswold exclude name from council plan ([18 days ago](https://gloucesternewscentre.co.uk/tewkesbury-insulted-as-cheltenham-and-cotswold-exclude-name-from-council-plan/))
 - NCLB’s Party in the Park for families returns for another summer of fun ([18 days ago](https://www.cheltenham.gov.uk/news/article/2997/nclbs_party_in_the_park_for_families_returns_for_another_summer_of_fun))
 - The Bell Inn pub and Daisybank Field approved as Assets of Community Value ([18 days ago](https://www.cheltenham.gov.uk/news/article/2996/the_bell_inn_pub_and_daisybank_field_approved_as_assets_of_community_value))
-- Row as Cheltenham council ‘kept devolution report secret from partners’ ([19 days ago](https://gloucesternewscentre.co.uk/row-as-cheltenham-council-kept-devolution-report-secret-from-partners/))
-- Man takes council to court after’losing two tyres to pothole damage’ ([19 days ago](https://gloucesternewscentre.co.uk/man-takes-council-to-court-afterlosing-two-tyres-to-pothole-damage/))
+- Row as Cheltenham council ‘kept devolution report secret from partners’ ([20 days ago](https://gloucesternewscentre.co.uk/row-as-cheltenham-council-kept-devolution-report-secret-from-partners/))
+- Man takes council to court after’losing two tyres to pothole damage’ ([20 days ago](https://gloucesternewscentre.co.uk/man-takes-council-to-court-afterlosing-two-tyres-to-pothole-damage/))
 - Councils in disagreement over local authority shake-up plans ([20 days ago](https://gloucesternewscentre.co.uk/councils-in-disagreement-over-local-authority-shake-up-plans/))
 - Plane makes emergency landing at Gloucestershire Airport ([20 days ago](https://gloucesternewscentre.co.uk/plane-makes-emergency-landing-at-gloucestershire-airport/))
 - Montpellier Gardens toilet facilities unveiled with new accessible amenities ([21 days ago](https://www.cheltenham.gov.uk/news/article/2995/montpellier_gardens_toilet_facilities_unveiled_with_new_accessible_amenities))
