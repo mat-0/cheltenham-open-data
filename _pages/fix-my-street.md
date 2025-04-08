@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street sign moved, 8th April :- [7408011](https://www.fixmystreet.com/report/7408011)
+- Exposed pipe on pavement outside of 26 Lichfield Drive, 8th April :- [7407979](https://www.fixmystreet.com/report/7407979)
+- 3 large pot holes around a previously repaired pot hole. Large and dangerous for cyclist and damaging to vehicles of all sizes, 8th April :- [7407893](https://www.fixmystreet.com/report/7407893)
 - King Alfred Way drain blocked, third and fourth drains up from Hales Rd junction, 8th April :- [7407775](https://www.fixmystreet.com/report/7407775)
 - Loose banging manhole cover Lyefield Rd West, to side of 73 Cirencester Rd, 8th April :- [7407762](https://www.fixmystreet.com/report/7407762)
 - Manhole cover is loose as it rattles when vehicles go over it., 8th April :- [7407735](https://www.fixmystreet.com/report/7407735)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Kerbs and Channels problem, 8th April :- [7406425](https://www.fixmystreet.com/report/7406425)
 - TMC - Defects - Kerbs and Channels problem, 8th April :- [7406424](https://www.fixmystreet.com/report/7406424)
 - TMC - Defects - Other FW6  Surface problem, 8th April :- [7406423](https://www.fixmystreet.com/report/7406423)
-- TMC - Defects - Signs & Street Furniture problem, 8th April :- [7406444](https://www.fixmystreet.com/report/7406444)
-- TMC - Defects -CW6 Potholes  problem, 8th April :- [7406422](https://www.fixmystreet.com/report/7406422)
-- Raised pavement causing road safety issue, 8th April :- [7405994](https://www.fixmystreet.com/report/7405994)
 
 <!-- fix_marker ends -->
