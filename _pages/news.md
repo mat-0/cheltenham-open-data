@@ -9,11 +9,13 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Key road at centre of gridlock to remain closed ([12 hours ago](https://www.bbc.com/news/articles/cqx493jqx0jo))
-- Headlines: Mayor candidate controversy and dementia misdiagnosis ([17 hours ago](https://www.bbc.com/news/articles/c9851440re5o))
-- Arrests after man seriously injured with metal poles ([18 hours ago](https://www.bbc.com/news/articles/c8ep7l8xr8do))
-- Council to sell vacant offices to highest bidder ([23 hours ago](https://www.bbc.com/news/articles/c0kxvgmx3d2o))
-- Wall only two bricks high at the centre of row ([23 hours ago](https://www.bbc.com/news/articles/cx28mpndr5do))
+- Cinema sells old movie posters to stay afloat ([36 minutes ago](https://www.bbc.com/news/articles/c1merg7mdjdo))
+- Flood wardens warn residents of upcoming risks ([38 minutes ago](https://www.bbc.com/news/articles/ce3v175vnzpo))
+- Key road at centre of gridlock to remain closed ([13 hours ago](https://www.bbc.com/news/articles/cqx493jqx0jo))
+- Headlines: Mayor candidate controversy and dementia misdiagnosis ([18 hours ago](https://www.bbc.com/news/articles/c9851440re5o))
+- Arrests after man seriously injured with metal poles ([19 hours ago](https://www.bbc.com/news/articles/c8ep7l8xr8do))
+- Council to sell vacant offices to highest bidder ([1 days ago](https://www.bbc.com/news/articles/c0kxvgmx3d2o))
+- Wall only two bricks high at the centre of row ([1 days ago](https://www.bbc.com/news/articles/cx28mpndr5do))
 - Chippy apologises for prices as fish costs surge ([1 days ago](https://www.bbc.com/news/articles/cx2w4lqz73no))
 - Gloucestershire in pics: Blossom and community ([1 days ago](https://www.bbc.com/news/articles/cy9vj3jqjw0o))
 - Headlines: Jellycat, super yacht and arena plans ([1 days ago](https://www.bbc.com/news/articles/ce92ge1xemro))
@@ -24,8 +26,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Goalkeeper hopes to fly mum out for Wembley dream ([2 days ago](https://www.bbc.com/news/articles/cd02e2pymjyo))
 - Soil containing broken glass used for football pitches ([3 days ago](https://www.bbc.com/news/articles/cly52n7l3ryo))
 - Woman finds another body buried in her plot ([3 days ago](https://www.bbc.com/news/articles/cq80q7kj3k3o))
-- Food bank for pets set up by animal charity ([3 days ago](https://www.bbc.com/news/articles/c15v338xdqqo))
-- Gloucestershire elections: What's at stake? ([3 days ago](https://www.bbc.com/news/articles/c74323j87xqo))
 - Crack Easter recycling – waste and recycling collections for 2025 ([4 days ago](https://www.cheltenham.gov.uk/news/article/3002/crack_easter_recycling_%E2%80%93_waste_and_recycling_collections_for_2025))
 - Cheltenham Licensing Sub-Committee revokes private hire driver’s licence due to safety concerns ([4 days ago](https://www.cheltenham.gov.uk/news/article/3001/cheltenham_licensing_sub-committee_revokes_private_hire_drivers_licence_due_to_safety_concerns))
 - Wanted woman is arrested after handing herself into police ([5 days ago](https://gloucesternewscentre.co.uk/wanted-woman-is-arrested-after-handing-herself-into-police/))
