@@ -9,6 +9,16 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Other FW6  Surface problem, 8th April :- [7406004](https://www.fixmystreet.com/report/7406004)
+- TMC - Defects - Other FW6  Surface problem, 8th April :- [7406003](https://www.fixmystreet.com/report/7406003)
+- TMC - Defects -CW6 Potholes  problem, 8th April :- [7406011](https://www.fixmystreet.com/report/7406011)
+- TMC - Defects - Other FW6  Surface problem, 8th April :- [7406002](https://www.fixmystreet.com/report/7406002)
+- TMC - Defects -CW6 Potholes  problem, 8th April :- [7406010](https://www.fixmystreet.com/report/7406010)
+- TMC - Defects - Other FW6  Surface problem, 8th April :- [7406001](https://www.fixmystreet.com/report/7406001)
+- Sign ditched, 8th April :- [7405856](https://www.fixmystreet.com/report/7405856)
+- In Ash Lane, near the house callled the Nook and Brookfield, 8th April :- [7405816](https://www.fixmystreet.com/report/7405816)
+- Blocked drain opposite 324 London Rd, 8th April :- [7405762](https://www.fixmystreet.com/report/7405762)
+- TMC - Defects - Kerbs and Channels problem, 8th April :- [7405614](https://www.fixmystreet.com/report/7405614)
 - TMC - Defects -CW6 Potholes  problem, 8th April :- [7405364](https://www.fixmystreet.com/report/7405364)
 - TMC - Defects -CW6 Potholes  problem, 8th April :- [7405362](https://www.fixmystreet.com/report/7405362)
 - Speed Bumps - Non Compliant -No Planning- No Permission, 8th April :- [7405287](https://www.fixmystreet.com/report/7405287)
@@ -19,15 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 8th April :- [7405367](https://www.fixmystreet.com/report/7405367)
 - TMC - Defects - Signs & Street Furniture problem, 8th April :- [7405375](https://www.fixmystreet.com/report/7405375)
 - Bollard knocked out of the ground on the floor, 8th April :- [7405094](https://www.fixmystreet.com/report/7405094)
-- TMC - Defects -CW6 Potholes  problem, 8th April :- [7405153](https://www.fixmystreet.com/report/7405153)
-- Drain blocked London Rd, opposite Hearne Rd, 8th April :- [7404927](https://www.fixmystreet.com/report/7404927)
-- A pothole in road problem, 8th April :- [7404912](https://www.fixmystreet.com/report/7404912)
-- Bags of builders sand on pavement, 8th April :- [7404868](https://www.fixmystreet.com/report/7404868)
-- TMC - Defects - Kerbs and Channels problem, 8th April :- [7404916](https://www.fixmystreet.com/report/7404916)
-- White goods, 8th April :- [7404850](https://www.fixmystreet.com/report/7404850)
-- Abandoned Roadworks sign, Churchill Gardens near Haywards Rd, 8th April :- [7404252](https://www.fixmystreet.com/report/7404252)
-- Pothole Churchill Gardens, near Haywards Rd, 8th April :- [7404241](https://www.fixmystreet.com/report/7404241)
-- TMC - Defects - Road Markings problem, 8th April :- [7404439](https://www.fixmystreet.com/report/7404439)
-- TMC - Defects - Other FW6  Surface problem, 8th April :- [7404440](https://www.fixmystreet.com/report/7404440)
 
 <!-- fix_marker ends -->
