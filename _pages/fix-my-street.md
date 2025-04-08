@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- I have now suffered damage to my front tyre resulting in a bulge meaning it is an MOT failure so I will seeking full compensation as I have reported the issue twice before., 8th April :- [7406342](https://www.fixmystreet.com/report/7406342)
+- Raised pavement causing road safety issue, 8th April :- [7405994](https://www.fixmystreet.com/report/7405994)
 - TMC - Defects - Other FW6  Surface problem, 8th April :- [7406004](https://www.fixmystreet.com/report/7406004)
 - TMC - Defects - Other FW6  Surface problem, 8th April :- [7406003](https://www.fixmystreet.com/report/7406003)
 - TMC - Defects -CW6 Potholes  problem, 8th April :- [7406011](https://www.fixmystreet.com/report/7406011)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Drain blocked outside 6/7 Chase Avenue, 8th April :- [7405239](https://www.fixmystreet.com/report/7405239)
 - TMC - Defects - Kerbs and Channels problem, 8th April :- [7405361](https://www.fixmystreet.com/report/7405361)
 - TMC - Defects -CW6 Potholes  problem, 8th April :- [7405367](https://www.fixmystreet.com/report/7405367)
-- TMC - Defects - Signs & Street Furniture problem, 8th April :- [7405375](https://www.fixmystreet.com/report/7405375)
-- Bollard knocked out of the ground on the floor, 8th April :- [7405094](https://www.fixmystreet.com/report/7405094)
 
 <!-- fix_marker ends -->
