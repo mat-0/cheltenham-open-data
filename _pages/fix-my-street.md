@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Faded white line markings, 8th April :- [7408272](https://www.fixmystreet.com/report/7408272)
+- Disabled access non-existent, 8th April :- [7408247](https://www.fixmystreet.com/report/7408247)
+- Pothole making roundabout impassable, 8th April :- [7408208](https://www.fixmystreet.com/report/7408208)
 - Large sinkhole, previously repaired, worsening rapidly, 8th April :- [7408049](https://www.fixmystreet.com/report/7408049)
 - Street sign moved, 8th April :- [7408011](https://www.fixmystreet.com/report/7408011)
 - Exposed pipe on pavement outside of 26 Lichfield Drive, 8th April :- [7407979](https://www.fixmystreet.com/report/7407979)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - I have now suffered damage to my front tyre resulting in a bulge meaning it is an MOT failure so I will seeking full compensation as I have reported the issue twice before., 8th April :- [7406342](https://www.fixmystreet.com/report/7406342)
 - TMC - Defects - Footways Slabs problem, 8th April :- [7406447](https://www.fixmystreet.com/report/7406447)
 - TMC - Defects - Footways Slabs problem, 8th April :- [7406446](https://www.fixmystreet.com/report/7406446)
-- TMC - Defects - Other FW6  Surface problem, 8th April :- [7406445](https://www.fixmystreet.com/report/7406445)
-- TMC - Defects - Kerbs and Channels problem, 8th April :- [7406425](https://www.fixmystreet.com/report/7406425)
-- TMC - Defects - Other FW6  Surface problem, 8th April :- [7406423](https://www.fixmystreet.com/report/7406423)
 
 <!-- fix_marker ends -->
