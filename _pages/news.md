@@ -9,9 +9,9 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Key road at centre of gridlock to remain closed ([9 hours ago](https://www.bbc.com/news/articles/cqx493jqx0jo))
-- Headlines: Mayor candidate controversy and dementia misdiagnosis ([15 hours ago](https://www.bbc.com/news/articles/c9851440re5o))
-- Arrests after man seriously injured with metal poles ([15 hours ago](https://www.bbc.com/news/articles/c8ep7l8xr8do))
+- Key road at centre of gridlock to remain closed ([10 hours ago](https://www.bbc.com/news/articles/cqx493jqx0jo))
+- Headlines: Mayor candidate controversy and dementia misdiagnosis ([16 hours ago](https://www.bbc.com/news/articles/c9851440re5o))
+- Arrests after man seriously injured with metal poles ([16 hours ago](https://www.bbc.com/news/articles/c8ep7l8xr8do))
 - Council to sell vacant offices to highest bidder ([21 hours ago](https://www.bbc.com/news/articles/c0kxvgmx3d2o))
 - Wall only two bricks high at the centre of row ([21 hours ago](https://www.bbc.com/news/articles/cx28mpndr5do))
 - Chippy apologises for prices as fish costs surge ([1 days ago](https://www.bbc.com/news/articles/cx2w4lqz73no))
