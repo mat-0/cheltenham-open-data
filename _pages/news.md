@@ -9,11 +9,11 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Woman 'happy' body will be moved from her future grave ([6 hours ago](https://www.bbc.com/news/articles/cqj4dxwl2j1o))
-- Road at centre of city traffic 'chaos' reopens ([7 hours ago](https://www.bbc.com/news/articles/cvgn135259jo))
+- Woman 'happy' body will be moved from her future grave ([7 hours ago](https://www.bbc.com/news/articles/cqj4dxwl2j1o))
+- Road at centre of city traffic 'chaos' reopens ([8 hours ago](https://www.bbc.com/news/articles/cvgn135259jo))
 - Blondie's Clem Burke played crucial role in drumming study ([8 hours ago](https://www.bbc.com/news/videos/cm2eygx1jpyo))
-- Appeal for information about assault at Cheltenham night club ([11 hours ago](https://gloucesternewscentre.co.uk/appeal-for-information-about-assault-at-cheltenham-night-club/))
-- Gloucestershire hotel recognised in national hospitality awards ([11 hours ago](https://gloucesternewscentre.co.uk/gloucestershire-hotel-recognised-in-national-hospitality-awards/))
+- Appeal for information about assault at Cheltenham night club ([12 hours ago](https://gloucesternewscentre.co.uk/appeal-for-information-about-assault-at-cheltenham-night-club/))
+- Gloucestershire hotel recognised in national hospitality awards ([12 hours ago](https://gloucesternewscentre.co.uk/gloucestershire-hotel-recognised-in-national-hospitality-awards/))
 - Headlines: Nursing pressures and canal restoration ([15 hours ago](https://www.bbc.com/news/articles/cvgpd0pz6dno))
 - Cinema sells old movie posters to stay afloat ([21 hours ago](https://www.bbc.com/news/articles/c1merg7mdjdo))
 - Flood wardens warn residents of upcoming risks ([21 hours ago](https://www.bbc.com/news/articles/ce3v175vnzpo))

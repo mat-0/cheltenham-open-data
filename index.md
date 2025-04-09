@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Wednesday, 09 April 2025
 
-- The average temperature today is 4.52˚C,
-- With highs of 5.55˚C and lows of 3.07˚C,
-- It may feel like 2.7˚C with clear sky
-- The wind speed is 2.11m/s and visibility is 10000m
-- The pressure is 1026hPa and humidity is 81%
+- The average temperature today is 3.28˚C,
+- With highs of 4.42˚C and lows of 2.51˚C,
+- It may feel like 1.16˚C with clear sky
+- The wind speed is 2.19m/s and visibility is 10000m
+- The pressure is 1027hPa and humidity is 83%
 - The sun will rise at 05:24 and set at 18:54
 
 <!-- weather_marker ends -->
