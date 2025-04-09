@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole on Oakland Street, 9th April :- [7408532](https://www.fixmystreet.com/report/7408532)
 - Several potholes across a small area, 8th April :- [7408394](https://www.fixmystreet.com/report/7408394)
 - Faded white line markings, 8th April :- [7408272](https://www.fixmystreet.com/report/7408272)
 - Disabled access non-existent, 8th April :- [7408247](https://www.fixmystreet.com/report/7408247)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - New sign stating No Private Land No Public Access causing confusion., 8th April :- [7406662](https://www.fixmystreet.com/report/7406662)
 - TMC - Defects - Vegetation problem, 8th April :- [7406434](https://www.fixmystreet.com/report/7406434)
 - I have now suffered damage to my front tyre resulting in a bulge meaning it is an MOT failure so I will seeking full compensation as I have reported the issue twice before., 8th April :- [7406342](https://www.fixmystreet.com/report/7406342)
-- TMC - Defects - Footways Slabs problem, 8th April :- [7406447](https://www.fixmystreet.com/report/7406447)
 
 <!-- fix_marker ends -->
