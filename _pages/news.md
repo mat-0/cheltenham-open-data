@@ -9,14 +9,14 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Woman 'happy' body will be moved from her future grave ([4 hours ago](https://www.bbc.com/news/articles/cqj4dxwl2j1o))
-- Road at centre of city traffic 'chaos' reopens ([5 hours ago](https://www.bbc.com/news/articles/cvgn135259jo))
-- Blondie's Clem Burke played crucial role in drumming study ([5 hours ago](https://www.bbc.com/news/videos/cm2eygx1jpyo))
-- Appeal for information about assault at Cheltenham night club ([8 hours ago](https://gloucesternewscentre.co.uk/appeal-for-information-about-assault-at-cheltenham-night-club/))
-- Gloucestershire hotel recognised in national hospitality awards ([9 hours ago](https://gloucesternewscentre.co.uk/gloucestershire-hotel-recognised-in-national-hospitality-awards/))
-- Headlines: Nursing pressures and canal restoration ([12 hours ago](https://www.bbc.com/news/articles/cvgpd0pz6dno))
-- Cinema sells old movie posters to stay afloat ([18 hours ago](https://www.bbc.com/news/articles/c1merg7mdjdo))
-- Flood wardens warn residents of upcoming risks ([18 hours ago](https://www.bbc.com/news/articles/ce3v175vnzpo))
+- Woman 'happy' body will be moved from her future grave ([5 hours ago](https://www.bbc.com/news/articles/cqj4dxwl2j1o))
+- Road at centre of city traffic 'chaos' reopens ([6 hours ago](https://www.bbc.com/news/articles/cvgn135259jo))
+- Blondie's Clem Burke played crucial role in drumming study ([7 hours ago](https://www.bbc.com/news/videos/cm2eygx1jpyo))
+- Appeal for information about assault at Cheltenham night club ([10 hours ago](https://gloucesternewscentre.co.uk/appeal-for-information-about-assault-at-cheltenham-night-club/))
+- Gloucestershire hotel recognised in national hospitality awards ([10 hours ago](https://gloucesternewscentre.co.uk/gloucestershire-hotel-recognised-in-national-hospitality-awards/))
+- Headlines: Nursing pressures and canal restoration ([14 hours ago](https://www.bbc.com/news/articles/cvgpd0pz6dno))
+- Cinema sells old movie posters to stay afloat ([20 hours ago](https://www.bbc.com/news/articles/c1merg7mdjdo))
+- Flood wardens warn residents of upcoming risks ([20 hours ago](https://www.bbc.com/news/articles/ce3v175vnzpo))
 - Key road at centre of gridlock to remain closed ([1 days ago](https://www.bbc.com/news/articles/cqx493jqx0jo))
 - Headlines: Mayor candidate controversy and dementia misdiagnosis ([1 days ago](https://www.bbc.com/news/articles/c9851440re5o))
 - Arrests after man seriously injured with metal poles ([1 days ago](https://www.bbc.com/news/articles/c8ep7l8xr8do))
