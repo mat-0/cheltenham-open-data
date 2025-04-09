@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Drain has dropped, 9th April :- [7413658](https://www.fixmystreet.com/report/7413658)
 - Surface is damaged causing a large lip at the end of the bridge, 9th April :- [7413584](https://www.fixmystreet.com/report/7413584)
 - Completely overgrown and inaccessible gate to footpath, 9th April :- [7413490](https://www.fixmystreet.com/report/7413490)
 - Road closed signs left on Croft Rd even though work is complete, 9th April :- [7413319](https://www.fixmystreet.com/report/7413319)
@@ -16,11 +17,11 @@ permalink: /fix-my-street
 - Tree stump and highways left dumped, 9th April :- [7412663](https://www.fixmystreet.com/report/7412663)
 - TMC - Defects -CW6 Potholes  problem, 9th April :- [7411885](https://www.fixmystreet.com/report/7411885)
 - TMC - Defects -FW6 Potholes problem, 9th April :- [7411884](https://www.fixmystreet.com/report/7411884)
-- TMC - Defects -CW6 Potholes  problem, 9th April :- [7411674](https://www.fixmystreet.com/report/7411674)
-- TMC - Defects -CW6 Potholes  problem, 9th April :- [7411677](https://www.fixmystreet.com/report/7411677)
 - TMC - Defects -CW6 Potholes  problem, 9th April :- [7411678](https://www.fixmystreet.com/report/7411678)
-- TMC - Defects -CW6 Potholes  problem, 9th April :- [7411676](https://www.fixmystreet.com/report/7411676)
 - TMC - Defects -CW6 Potholes  problem, 9th April :- [7411673](https://www.fixmystreet.com/report/7411673)
+- TMC - Defects -CW6 Potholes  problem, 9th April :- [7411676](https://www.fixmystreet.com/report/7411676)
+- TMC - Defects -CW6 Potholes  problem, 9th April :- [7411677](https://www.fixmystreet.com/report/7411677)
+- TMC - Defects -CW6 Potholes  problem, 9th April :- [7411674](https://www.fixmystreet.com/report/7411674)
 - TMC - Defects -CW6 Potholes  problem, 9th April :- [7411672](https://www.fixmystreet.com/report/7411672)
 - TMC - Defects -CW6 Potholes  problem, 9th April :- [7411665](https://www.fixmystreet.com/report/7411665)
 - TMC - Defects -CW6 Potholes  problem, 9th April :- [7411666](https://www.fixmystreet.com/report/7411666)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 9th April :- [7411482](https://www.fixmystreet.com/report/7411482)
 - TMC - Defects -FW6 Potholes problem, 9th April :- [7411485](https://www.fixmystreet.com/report/7411485)
 - TMC - Defects -CW6 Potholes  problem, 9th April :- [7411475](https://www.fixmystreet.com/report/7411475)
-- TMC - Defects - Covers, Gratings & Frames problem, 9th April :- [7411273](https://www.fixmystreet.com/report/7411273)
 
 <!-- fix_marker ends -->
