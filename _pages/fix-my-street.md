@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 3 large potholes, 9th April :- [7408559](https://www.fixmystreet.com/report/7408559)
 - Pothole on Oakland Street, 9th April :- [7408532](https://www.fixmystreet.com/report/7408532)
 - Several potholes across a small area, 8th April :- [7408394](https://www.fixmystreet.com/report/7408394)
 - Faded white line markings, 8th April :- [7408272](https://www.fixmystreet.com/report/7408272)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Bollard shell is damaged/vandalised problem, 8th April :- [7406803](https://www.fixmystreet.com/report/7406803)
 - New sign stating No Private Land No Public Access causing confusion., 8th April :- [7406662](https://www.fixmystreet.com/report/7406662)
 - TMC - Defects - Vegetation problem, 8th April :- [7406434](https://www.fixmystreet.com/report/7406434)
-- I have now suffered damage to my front tyre resulting in a bulge meaning it is an MOT failure so I will seeking full compensation as I have reported the issue twice before., 8th April :- [7406342](https://www.fixmystreet.com/report/7406342)
 
 <!-- fix_marker ends -->
