@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- A sunken repair in road - VERY dangerous to cyclists, 9th April :- [7409164](https://www.fixmystreet.com/report/7409164)
+- In park opposite 51 Pittville Lawn, 9th April :- [7409035](https://www.fixmystreet.com/report/7409035)
+- TMC - Defects - Other FW6  Surface problem, 9th April :- [7408865](https://www.fixmystreet.com/report/7408865)
 - Loose rattling manhole cover, 9th April :- [7408626](https://www.fixmystreet.com/report/7408626)
 - 3 large potholes, 9th April :- [7408559](https://www.fixmystreet.com/report/7408559)
 - Pothole on Oakland Street, 9th April :- [7408532](https://www.fixmystreet.com/report/7408532)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Bollard in middle of Copt Elm Rd outside Smith & Mann damaged and lifted out of ground, 8th April :- [7407575](https://www.fixmystreet.com/report/7407575)
 - Drain blocked Lyefield Rd West near Cirencester Rd, 8th April :- [7407549](https://www.fixmystreet.com/report/7407549)
 - Right along the right hand side of the lane & narrow so can’t avoid, 8th April :- [7407513](https://www.fixmystreet.com/report/7407513)
-- Padlock on gate on pathway, 8th April :- [7406797](https://www.fixmystreet.com/report/7406797)
-- Bollard shell is damaged/vandalised problem, 8th April :- [7406803](https://www.fixmystreet.com/report/7406803)
-- New sign stating No Private Land No Public Access causing confusion., 8th April :- [7406662](https://www.fixmystreet.com/report/7406662)
 
 <!-- fix_marker ends -->
