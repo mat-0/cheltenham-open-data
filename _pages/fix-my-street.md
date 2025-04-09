@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Loose rattling manhole cover, 9th April :- [7408626](https://www.fixmystreet.com/report/7408626)
 - 3 large potholes, 9th April :- [7408559](https://www.fixmystreet.com/report/7408559)
 - Pothole on Oakland Street, 9th April :- [7408532](https://www.fixmystreet.com/report/7408532)
 - Several potholes across a small area, 8th April :- [7408394](https://www.fixmystreet.com/report/7408394)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Padlock on gate on pathway, 8th April :- [7406797](https://www.fixmystreet.com/report/7406797)
 - Bollard shell is damaged/vandalised problem, 8th April :- [7406803](https://www.fixmystreet.com/report/7406803)
 - New sign stating No Private Land No Public Access causing confusion., 8th April :- [7406662](https://www.fixmystreet.com/report/7406662)
-- TMC - Defects - Vegetation problem, 8th April :- [7406434](https://www.fixmystreet.com/report/7406434)
 
 <!-- fix_marker ends -->
