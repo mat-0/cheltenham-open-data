@@ -9,12 +9,12 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Popular car boot sale to return with music events ([1 hours ago](https://www.bbc.com/news/articles/c78jey62x80o))
-- Headlines: Fire engine gets stuck and a cider taproom ([3 hours ago](https://www.bbc.com/news/articles/cx2wwvx2ezno))
-- Students pick more than 12kg of litter from park ([6 hours ago](https://www.bbc.com/news/articles/crkx43mze2zo))
-- Rare 17th Century baby memorial to be rehomed ([7 hours ago](https://www.bbc.com/news/articles/crrzz7v1gk0o))
-- Syrian man excited to return home after regime ends ([7 hours ago](https://www.bbc.com/news/articles/cwyngj813dqo))
-- Video game coaching 'like being a football manager' ([23 hours ago](https://www.bbc.com/news/articles/cn5x2pkl93do))
+- Popular car boot sale to return with music events ([2 hours ago](https://www.bbc.com/news/articles/c78jey62x80o))
+- Headlines: Fire engine gets stuck and a cider taproom ([4 hours ago](https://www.bbc.com/news/articles/cx2wwvx2ezno))
+- Students pick more than 12kg of litter from park ([7 hours ago](https://www.bbc.com/news/articles/crkx43mze2zo))
+- Rare 17th Century baby memorial to be rehomed ([8 hours ago](https://www.bbc.com/news/articles/crrzz7v1gk0o))
+- Syrian man excited to return home after regime ends ([8 hours ago](https://www.bbc.com/news/articles/cwyngj813dqo))
+- Video game coaching 'like being a football manager' ([1 days ago](https://www.bbc.com/news/articles/cn5x2pkl93do))
 - Council's misleading X post causes road confusion ([1 days ago](https://www.bbc.com/news/articles/c5y55xxdgw9o))
 - Headlines: Dog attack and greedy seagull ([1 days ago](https://www.bbc.com/news/articles/crkxxelg687o))
 - Man wanted in relation to stalking allegation ([1 days ago](https://gloucesternewscentre.co.uk/man-wanted-in-relation-to-stalking-allegation/))
@@ -53,7 +53,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Two men from Birmingham charged with attempted murder ([16 days ago](https://gloucesternewscentre.co.uk/two-men-from-birmingham-charged-with-attempted-murder/))
 - Pressure mounts on fire bosses to drop ‘disastrous’ shift pattern changes ([19 days ago](https://gloucesternewscentre.co.uk/pressure-mounts-on-fire-bosses-to-drop-disastrous-shift-pattern-changes/))
 - Officers freeze £400,000 of suspected criminal assets and make 16 arrests during fraud operation ([19 days ago](https://gloucesternewscentre.co.uk/officers-freeze-400000-of-suspected-criminal-assets-and-make-16-arrests-during-fraud-operation/))
-- Don’t miss your right to vote, register by Friday 11 April 2025 ([19 days ago](https://www.cheltenham.gov.uk/news/article/2999/dont_miss_your_right_to_vote_register_by_friday_11_april_2025))
+- Don’t miss your right to vote, register by Friday 11 April 2025 ([20 days ago](https://www.cheltenham.gov.uk/news/article/2999/dont_miss_your_right_to_vote_register_by_friday_11_april_2025))
 - £96k funding available for new neighbourhood projects in Cheltenham ([20 days ago](https://www.cheltenham.gov.uk/news/article/2998/96k_funding_available_for_new_neighbourhood_projects_in_cheltenham))
 - Cheltenham chiefs apologise for short notice of councils shake-up plan ([20 days ago](https://gloucesternewscentre.co.uk/cheltenham-chiefs-apologise-for-short-notice-of-councils-shake-up-plan/))
 - Conservation group backs campaign to save Promenade York stone paving ([20 days ago](https://gloucesternewscentre.co.uk/conservation-group-backs-campaign-to-save-promenade-york-stone-paving/))
