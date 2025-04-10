@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Rubbish dumped by bin, 10th April :- [7415792](https://www.fixmystreet.com/report/7415792)
+- Dog faeces beside play area, 10th April :- [7415778](https://www.fixmystreet.com/report/7415778)
 - Seriously degraded road surface, damaging vehicles, 10th April :- [7415624](https://www.fixmystreet.com/report/7415624)
 - Fallen tree on footpath, 10th April :- [7415324](https://www.fixmystreet.com/report/7415324)
 - Flytipped wood/ furniture St Paul’s St North, 10th April :- [7415089](https://www.fixmystreet.com/report/7415089)
@@ -25,9 +27,7 @@ permalink: /fix-my-street
 - Tree stump and highways left dumped, 9th April :- [7412663](https://www.fixmystreet.com/report/7412663)
 - TMC - Defects -CW6 Potholes  problem, 9th April :- [7411885](https://www.fixmystreet.com/report/7411885)
 - TMC - Defects -FW6 Potholes problem, 9th April :- [7411884](https://www.fixmystreet.com/report/7411884)
-- TMC - Defects -CW6 Potholes  problem, 9th April :- [7411674](https://www.fixmystreet.com/report/7411674)
-- TMC - Defects -CW6 Potholes  problem, 9th April :- [7411676](https://www.fixmystreet.com/report/7411676)
 - TMC - Defects -CW6 Potholes  problem, 9th April :- [7411677](https://www.fixmystreet.com/report/7411677)
-- TMC - Defects -CW6 Potholes  problem, 9th April :- [7411673](https://www.fixmystreet.com/report/7411673)
+- TMC - Defects -CW6 Potholes  problem, 9th April :- [7411676](https://www.fixmystreet.com/report/7411676)
 
 <!-- fix_marker ends -->
