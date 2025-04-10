@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:georss="http://www.georss.org/georss"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
+ xmlns:georss="http://www.georss.org/georss"
 >
 
 <channel>
@@ -12,6 +12,78 @@
 <description>The latest local problems reported by users</description>
 <language>en-gb</language>
 
+<item>
+<title>TMC - Defects - Footways Slabs problem, 10th April</title>
+<link>https://www.fixmystreet.com/report/7416866</link>
+<description>28 day with give an take plus temporary footway closure needed please lift an replace x1 broken rocking 900x600x20mm slab (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7416866&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7416866</guid>
+<pubDate>Thu, 10 Apr 2025 13:32:58 +0100</pubDate>
+<georss:point>51.9007783999995 -2.11100020000021</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Footways Slabs problem, 10th April</title>
+<link>https://www.fixmystreet.com/report/7416865</link>
+<description>28 day with give an take plus temporary footway closure needed please lift an relay x1  rocking 750x600x20mm slab (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7416865&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7416865</guid>
+<pubDate>Thu, 10 Apr 2025 13:32:38 +0100</pubDate>
+<georss:point>51.9007800661375 -2.110961165348</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 10th April</title>
+<link>https://www.fixmystreet.com/report/7416864</link>
+<description>28 day with give an take footway abrupt level difference 2400x1200x30mm tarmac patch required stats required 1 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7416864&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7416864</guid>
+<pubDate>Thu, 10 Apr 2025 13:32:31 +0100</pubDate>
+<georss:point>51.9007887999996 -2.11097650000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 10th April</title>
+<link>https://www.fixmystreet.com/report/7416863</link>
+<description>28 day with give an take footway abrupt level difference 2500x1300x30mm tarmac patch required stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7416863&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7416863</guid>
+<pubDate>Thu, 10 Apr 2025 13:32:22 +0100</pubDate>
+<georss:point>51.9008038999995 -2.11084599999999</georss:point>
+</item>
+<item>
+<title>Tree is damaged problem, 10th April</title>
+<link>https://www.fixmystreet.com/report/7416660</link>
+<description>Enquiry regarding tree ownership and maintenance - please see attached &#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7416660&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Tree is damaged</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7416660</guid>
+<pubDate>Thu, 10 Apr 2025 13:22:26 +0100</pubDate>
+<georss:point>51.846733 -2.187565</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 10th April</title>
+<link>https://www.fixmystreet.com/report/7416677</link>
+<description>28 day with give an take footway abrupt level difference 900x500x30mm tarmac patch required stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7416677&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7416677</guid>
+<pubDate>Thu, 10 Apr 2025 13:14:48 +0100</pubDate>
+<georss:point>51.9007783999995 -2.11083280000187</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 10th April</title>
+<link>https://www.fixmystreet.com/report/7416466</link>
+<description>28day with 2 way stop and go carriageway pothole 300 x 300|x40mm  tarmac patch required number  1 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7416466&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7416466</guid>
+<pubDate>Thu, 10 Apr 2025 12:39:11 +0100</pubDate>
+<georss:point>51.8565215999995 -2.1987922</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 10th April</title>
+<link>https://www.fixmystreet.com/report/7416467</link>
+<description>28day with 2 way stop and go carriageway pothole 300 x 300|x40mm  tarmac patch required number  2 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7416467&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7416467</guid>
+<pubDate>Thu, 10 Apr 2025 12:39:11 +0100</pubDate>
+<georss:point>51.8562967793986 -2.19887076240303</georss:point>
+</item>
 <item>
 <title>Sunken Pavement, 10th April</title>
 <link>https://www.fixmystreet.com/report/7416198</link>
@@ -119,78 +191,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/7415089</guid>
 <pubDate>Thu, 10 Apr 2025 09:44:02 +0100</pubDate>
 <georss:point>51.906062 -2.077809</georss:point>
-</item>
-<item>
-<title>Fallen tree trunk across footpath, 10th April</title>
-<link>https://www.fixmystreet.com/report/7414945</link>
-<description>Turning area at end of Criftycraft Lane&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Churchdown, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7414945&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Trees</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7414945</guid>
-<pubDate>Thu, 10 Apr 2025 09:30:44 +0100</pubDate>
-<georss:point>51.86983 -2.169864</georss:point>
-</item>
-<item>
-<title>Two way cycle path, 10th April</title>
-<link>https://www.fixmystreet.com/report/7414786</link>
-<description>The slope from CHeltenham Road to the underpass is on a blind corner plus overgrown at the exit - making things worse. As the cycle path gets busier there have been a couple of accidents and near misses as cyclists from Longlevens side descend (gather speed) and cut corner. While those exiting the underpass from Churchdown have a sharp blind bend.&amp;#10;&amp;#10;Simply needs a Keep Left warning both sides and a centre line please.&amp;#10;&amp;#10;Also can the undergrowth be maintained. Thanks&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Milliner Crescent, Churchdown, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7414786&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>General road markings, lines and stud issues</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7414786</guid>
-<pubDate>Thu, 10 Apr 2025 09:24:56 +0100</pubDate>
-<georss:point>51.881284 -2.197406</georss:point>
-</item>
-<item>
-<title>Car parts on pavement, 10th April</title>
-<link>https://www.fixmystreet.com/report/7414639</link>
-<description>Large plastic items, which appear to be car parts on pavement, opposite side of road to barnwood square, these have been there for a long time now.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Barnett Way, Barnwood, Gloucester&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7414639&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Rubbish (refuse and recycling)</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7414639</guid>
-<pubDate>Thu, 10 Apr 2025 08:46:08 +0100</pubDate>
-<georss:point>51.863916 -2.19858</georss:point>
-</item>
-<item>
-<title>Tree down across path, 10th April</title>
-<link>https://www.fixmystreet.com/report/7414614</link>
-<description>A tree has come down and is blocking the path to Crifty Craft lane&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Barrow Hill, Churchdown, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7414614&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Trees</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7414614</guid>
-<pubDate>Thu, 10 Apr 2025 08:41:38 +0100</pubDate>
-<georss:point>51.872751 -2.167661</georss:point>
-</item>
-<item>
-<title>Entire rd, 10th April</title>
-<link>https://www.fixmystreet.com/report/7414294</link>
-<description>This entire rd has been a state for at least 5 years. Learner drivers have to drive down it before they start their test. Hardly surprising no one passes.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 61, All Saints&#39; Road, Fairview, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7414294&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7414294</guid>
-<pubDate>Thu, 10 Apr 2025 07:29:57 +0100</pubDate>
-<georss:point>51.902491 -2.064482</georss:point>
-</item>
-<item>
-<title>Drain has dropped, 9th April</title>
-<link>https://www.fixmystreet.com/report/7413658</link>
-<description>The drain on the corner of this road where pointed out has dropped so pothole is the only reason I can give Car tyre drops down into it&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 20, Everest Road, Naunton, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7413658&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7413658</guid>
-<pubDate>Wed, 09 Apr 2025 21:14:05 +0100</pubDate>
-<georss:point>51.8772 -2.069735</georss:point>
-</item>
-<item>
-<title>Surface is damaged causing a large lip at the end of the bridge, 9th April</title>
-<link>https://www.fixmystreet.com/report/7413584</link>
-<description>It’s right at the end by Hollis Road and it has been like that as long as i have lived in The Reddings (9 years)&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/7413584.0.jpeg?e6e8f180&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 30, Hollis Road, Hatherley, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7413584&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Surface is damaged</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7413584</guid>
-<pubDate>Wed, 09 Apr 2025 20:51:36 +0100</pubDate>
-<georss:point>51.887639 -2.124225</georss:point>
-</item>
-<item>
-<title>Completely overgrown and inaccessible gate to footpath, 9th April</title>
-<link>https://www.fixmystreet.com/report/7413490</link>
-<description>Gate to footpath that runs to the East of Bentham Lane as marked on the map. I note this was previously reported in December 2024 and remains the same.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/7413490.0.jpeg?f0b6e662&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Bentham Lane, Badgeworth, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7413490&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Crops are blocking/growing on route</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7413490</guid>
-<pubDate>Wed, 09 Apr 2025 20:19:54 +0100</pubDate>
-<georss:point>51.847521 -2.12755</georss:point>
 </item>
 </channel>
 </rss>
