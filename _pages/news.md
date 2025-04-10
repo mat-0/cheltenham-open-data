@@ -9,12 +9,12 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- 'Being my husband's carer makes me feel invisible' ([4 hours ago](https://www.bbc.com/news/articles/czd3n22qz21o))
-- Popular car boot sale to return with music events ([7 hours ago](https://www.bbc.com/news/articles/c78jey62x80o))
-- Headlines: Fire engine gets stuck and a cider taproom ([9 hours ago](https://www.bbc.com/news/articles/cx2wwvx2ezno))
-- Students pick more than 12kg of litter from park ([12 hours ago](https://www.bbc.com/news/articles/crkx43mze2zo))
-- Rare 17th Century baby memorial to be rehomed ([13 hours ago](https://www.bbc.com/news/articles/crrzz7v1gk0o))
-- Syrian man excited to return home after regime ends ([13 hours ago](https://www.bbc.com/news/articles/cwyngj813dqo))
+- 'Being my husband's carer makes me feel invisible' ([5 hours ago](https://www.bbc.com/news/articles/czd3n22qz21o))
+- Popular car boot sale to return with music events ([8 hours ago](https://www.bbc.com/news/articles/c78jey62x80o))
+- Headlines: Fire engine gets stuck and a cider taproom ([10 hours ago](https://www.bbc.com/news/articles/cx2wwvx2ezno))
+- Students pick more than 12kg of litter from park ([13 hours ago](https://www.bbc.com/news/articles/crkx43mze2zo))
+- Rare 17th Century baby memorial to be rehomed ([14 hours ago](https://www.bbc.com/news/articles/crrzz7v1gk0o))
+- Syrian man excited to return home after regime ends ([14 hours ago](https://www.bbc.com/news/articles/cwyngj813dqo))
 - Video game coaching 'like being a football manager' ([1 days ago](https://www.bbc.com/news/articles/cn5x2pkl93do))
 - Council's misleading X post causes road confusion ([1 days ago](https://www.bbc.com/news/articles/c5y55xxdgw9o))
 - Headlines: Dog attack and greedy seagull ([1 days ago](https://www.bbc.com/news/articles/crkxxelg687o))
@@ -22,7 +22,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Search for dog owners after man is bitten by pet ([1 days ago](https://www.bbc.com/news/articles/c8077vj8dd9o))
 - Work on new village homes gets under way ([1 days ago](https://www.bbc.com/news/articles/c0jzg6d97yqo))
 - Venue needs 'essential' work after 120 years ([1 days ago](https://www.bbc.com/news/articles/cnv5z83vjvjo))
-- Woman 'happy' body will be moved from her future grave ([1 days ago](https://www.bbc.com/news/articles/cqj4dxwl2j1o))
+- Woman 'happy' body will be moved from her future grave ([2 days ago](https://www.bbc.com/news/articles/cqj4dxwl2j1o))
 - Blondie's Clem Burke played crucial role in drumming study ([2 days ago](https://www.bbc.com/news/videos/cm2eygx1jpyo))
 - Appeal for information about assault at Cheltenham night club ([2 days ago](https://gloucesternewscentre.co.uk/appeal-for-information-about-assault-at-cheltenham-night-club/))
 - Gloucestershire hotel recognised in national hospitality awards ([2 days ago](https://gloucesternewscentre.co.uk/gloucestershire-hotel-recognised-in-national-hospitality-awards/))
