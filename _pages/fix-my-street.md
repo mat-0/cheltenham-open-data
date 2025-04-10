@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Sage close street sign has been vandalised, 10th April :- [7418380](https://www.fixmystreet.com/report/7418380)
+- Pot hole on the road. By tall trees house on Moorend rd, 10th April :- [7418258](https://www.fixmystreet.com/report/7418258)
+- Uneven broken paving slabs, 10th April :- [7418248](https://www.fixmystreet.com/report/7418248)
+- Large wide potholes need repairing bottom of hall rd, 10th April :- [7418227](https://www.fixmystreet.com/report/7418227)
+- Temporary lights on Stoke Road, next to Mill Lane, only go green for 4 seconds, 10th April :- [7418222](https://www.fixmystreet.com/report/7418222)
 - Some planks on this wooden footbridge are missing., 10th April :- [7417884](https://www.fixmystreet.com/report/7417884)
 - Traffic during 7:30am to 8:30am, 10th April :- [7417544](https://www.fixmystreet.com/report/7417544)
 - New crossing on corner, 10th April :- [7417470](https://www.fixmystreet.com/report/7417470)
@@ -16,18 +21,13 @@ permalink: /fix-my-street
 - Fly tipping, 10th April :- [7417414](https://www.fixmystreet.com/report/7417414)
 - Commercial waste storage, 10th April :- [7417411](https://www.fixmystreet.com/report/7417411)
 - Pathway blocked with soil piles, 10th April :- [7417403](https://www.fixmystreet.com/report/7417403)
-- TMC - Defects - Footways Slabs problem, 10th April :- [7417443](https://www.fixmystreet.com/report/7417443)
 - TMC - Defects - Footways Slabs problem, 10th April :- [7417441](https://www.fixmystreet.com/report/7417441)
+- TMC - Defects - Footways Slabs problem, 10th April :- [7417443](https://www.fixmystreet.com/report/7417443)
 - TMC - Defects - Footways Slabs problem, 10th April :- [7417440](https://www.fixmystreet.com/report/7417440)
 - TMC - Defects - Footways Slabs problem, 10th April :- [7417439](https://www.fixmystreet.com/report/7417439)
 - TMC - Defects - Footways Slabs problem, 10th April :- [7417442](https://www.fixmystreet.com/report/7417442)
-- TMC - Defects - Other FW6  Surface problem, 10th April :- [7417435](https://www.fixmystreet.com/report/7417435)
 - TMC - Defects - Other FW6  Surface problem, 10th April :- [7417438](https://www.fixmystreet.com/report/7417438)
+- TMC - Defects - Other FW6  Surface problem, 10th April :- [7417435](https://www.fixmystreet.com/report/7417435)
 - TMC - Defects - Other FW6  Surface problem, 10th April :- [7417436](https://www.fixmystreet.com/report/7417436)
-- TMC - Defects -CW6 Potholes  problem, 10th April :- [7417434](https://www.fixmystreet.com/report/7417434)
-- TMC - Defects - Footways Slabs problem, 10th April :- [7417043](https://www.fixmystreet.com/report/7417043)
-- TMC - Defects - Footways Slabs problem, 10th April :- [7417042](https://www.fixmystreet.com/report/7417042)
-- TMC - Defects - Footways Slabs problem, 10th April :- [7417041](https://www.fixmystreet.com/report/7417041)
-- TMC - Defects - Footways Slabs problem, 10th April :- [7417040](https://www.fixmystreet.com/report/7417040)
 
 <!-- fix_marker ends -->
