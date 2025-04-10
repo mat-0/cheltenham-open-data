@@ -9,14 +9,14 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Students pick more than 12kg of litter from park ([1 hours ago](https://www.bbc.com/news/articles/crkx43mze2zo))
-- Rare 17th Century baby memorial to be rehomed ([2 hours ago](https://www.bbc.com/news/articles/crrzz7v1gk0o))
-- Syrian man excited to return home after regime ends ([2 hours ago](https://www.bbc.com/news/articles/cwyngj813dqo))
-- Video game coaching 'like being a football manager' ([18 hours ago](https://www.bbc.com/news/articles/cn5x2pkl93do))
-- Council's misleading X post causes road confusion ([20 hours ago](https://www.bbc.com/news/articles/c5y55xxdgw9o))
-- Headlines: Dog attack and greedy seagull ([21 hours ago](https://www.bbc.com/news/articles/crkxxelg687o))
-- Man wanted in relation to stalking allegation ([22 hours ago](https://gloucesternewscentre.co.uk/man-wanted-in-relation-to-stalking-allegation/))
-- Search for dog owners after man is bitten by pet ([23 hours ago](https://www.bbc.com/news/articles/c8077vj8dd9o))
+- Students pick more than 12kg of litter from park ([2 hours ago](https://www.bbc.com/news/articles/crkx43mze2zo))
+- Rare 17th Century baby memorial to be rehomed ([3 hours ago](https://www.bbc.com/news/articles/crrzz7v1gk0o))
+- Syrian man excited to return home after regime ends ([3 hours ago](https://www.bbc.com/news/articles/cwyngj813dqo))
+- Video game coaching 'like being a football manager' ([19 hours ago](https://www.bbc.com/news/articles/cn5x2pkl93do))
+- Council's misleading X post causes road confusion ([21 hours ago](https://www.bbc.com/news/articles/c5y55xxdgw9o))
+- Headlines: Dog attack and greedy seagull ([22 hours ago](https://www.bbc.com/news/articles/crkxxelg687o))
+- Man wanted in relation to stalking allegation ([23 hours ago](https://gloucesternewscentre.co.uk/man-wanted-in-relation-to-stalking-allegation/))
+- Search for dog owners after man is bitten by pet ([1 days ago](https://www.bbc.com/news/articles/c8077vj8dd9o))
 - Work on new village homes gets under way ([1 days ago](https://www.bbc.com/news/articles/c0jzg6d97yqo))
 - Venue needs 'essential' work after 120 years ([1 days ago](https://www.bbc.com/news/articles/cnv5z83vjvjo))
 - Woman 'happy' body will be moved from her future grave ([1 days ago](https://www.bbc.com/news/articles/cqj4dxwl2j1o))
