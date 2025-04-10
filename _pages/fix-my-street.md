@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- More fly tipping, 10th April :- [7418494](https://www.fixmystreet.com/report/7418494)
 - Sage close street sign has been vandalised, 10th April :- [7418380](https://www.fixmystreet.com/report/7418380)
 - Pot hole on the road. By tall trees house on Moorend rd, 10th April :- [7418258](https://www.fixmystreet.com/report/7418258)
 - Uneven broken paving slabs, 10th April :- [7418248](https://www.fixmystreet.com/report/7418248)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Footways Slabs problem, 10th April :- [7417442](https://www.fixmystreet.com/report/7417442)
 - TMC - Defects - Other FW6  Surface problem, 10th April :- [7417438](https://www.fixmystreet.com/report/7417438)
 - TMC - Defects - Other FW6  Surface problem, 10th April :- [7417435](https://www.fixmystreet.com/report/7417435)
-- TMC - Defects - Other FW6  Surface problem, 10th April :- [7417436](https://www.fixmystreet.com/report/7417436)
 
 <!-- fix_marker ends -->
