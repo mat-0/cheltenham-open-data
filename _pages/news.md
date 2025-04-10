@@ -9,13 +9,13 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Video game coaching 'like being a football manager' ([10 hours ago](https://www.bbc.com/news/articles/cn5x2pkl93do))
-- Council's misleading X post causes road confusion ([12 hours ago](https://www.bbc.com/news/articles/c5y55xxdgw9o))
-- Headlines: Dog attack and greedy seagull ([13 hours ago](https://www.bbc.com/news/articles/crkxxelg687o))
-- Man wanted in relation to stalking allegation ([14 hours ago](https://gloucesternewscentre.co.uk/man-wanted-in-relation-to-stalking-allegation/))
-- Search for dog owners after man is bitten by pet ([15 hours ago](https://www.bbc.com/news/articles/c8077vj8dd9o))
-- Work on new village homes gets under way ([18 hours ago](https://www.bbc.com/news/articles/c0jzg6d97yqo))
-- Venue needs 'essential' work after 120 years ([18 hours ago](https://www.bbc.com/news/articles/cnv5z83vjvjo))
+- Video game coaching 'like being a football manager' ([12 hours ago](https://www.bbc.com/news/articles/cn5x2pkl93do))
+- Council's misleading X post causes road confusion ([13 hours ago](https://www.bbc.com/news/articles/c5y55xxdgw9o))
+- Headlines: Dog attack and greedy seagull ([15 hours ago](https://www.bbc.com/news/articles/crkxxelg687o))
+- Man wanted in relation to stalking allegation ([15 hours ago](https://gloucesternewscentre.co.uk/man-wanted-in-relation-to-stalking-allegation/))
+- Search for dog owners after man is bitten by pet ([16 hours ago](https://www.bbc.com/news/articles/c8077vj8dd9o))
+- Work on new village homes gets under way ([19 hours ago](https://www.bbc.com/news/articles/c0jzg6d97yqo))
+- Venue needs 'essential' work after 120 years ([20 hours ago](https://www.bbc.com/news/articles/cnv5z83vjvjo))
 - Woman 'happy' body will be moved from her future grave ([1 days ago](https://www.bbc.com/news/articles/cqj4dxwl2j1o))
 - Road at centre of city traffic 'chaos' reopens ([1 days ago](https://www.bbc.com/news/articles/cvgn135259jo))
 - Blondie's Clem Burke played crucial role in drumming study ([1 days ago](https://www.bbc.com/news/videos/cm2eygx1jpyo))
