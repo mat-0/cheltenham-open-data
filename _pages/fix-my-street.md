@@ -24,9 +24,9 @@ permalink: /fix-my-street
 - Fly tipping, 10th April :- [7417414](https://www.fixmystreet.com/report/7417414)
 - Commercial waste storage, 10th April :- [7417411](https://www.fixmystreet.com/report/7417411)
 - Pathway blocked with soil piles, 10th April :- [7417403](https://www.fixmystreet.com/report/7417403)
+- TMC - Defects - Footways Slabs problem, 10th April :- [7417441](https://www.fixmystreet.com/report/7417441)
 - TMC - Defects - Footways Slabs problem, 10th April :- [7417440](https://www.fixmystreet.com/report/7417440)
 - TMC - Defects - Footways Slabs problem, 10th April :- [7417443](https://www.fixmystreet.com/report/7417443)
-- TMC - Defects - Footways Slabs problem, 10th April :- [7417441](https://www.fixmystreet.com/report/7417441)
 - TMC - Defects - Footways Slabs problem, 10th April :- [7417442](https://www.fixmystreet.com/report/7417442)
 - TMC - Defects - Footways Slabs problem, 10th April :- [7417439](https://www.fixmystreet.com/report/7417439)
 

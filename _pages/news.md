@@ -9,12 +9,12 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- 'Being my husband's carer makes me feel invisible' ([9 hours ago](https://www.bbc.com/news/articles/czd3n22qz21o))
-- Popular car boot sale to return with music events ([12 hours ago](https://www.bbc.com/news/articles/c78jey62x80o))
-- Headlines: Fire engine gets stuck and a cider taproom ([14 hours ago](https://www.bbc.com/news/articles/cx2wwvx2ezno))
-- Students pick more than 12kg of litter from park ([17 hours ago](https://www.bbc.com/news/articles/crkx43mze2zo))
-- Rare 17th Century baby memorial to be rehomed ([18 hours ago](https://www.bbc.com/news/articles/crrzz7v1gk0o))
-- Syrian man excited to return home after regime ends ([18 hours ago](https://www.bbc.com/news/articles/cwyngj813dqo))
+- 'Being my husband's carer makes me feel invisible' ([10 hours ago](https://www.bbc.com/news/articles/czd3n22qz21o))
+- Popular car boot sale to return with music events ([13 hours ago](https://www.bbc.com/news/articles/c78jey62x80o))
+- Headlines: Fire engine gets stuck and a cider taproom ([16 hours ago](https://www.bbc.com/news/articles/cx2wwvx2ezno))
+- Students pick more than 12kg of litter from park ([18 hours ago](https://www.bbc.com/news/articles/crkx43mze2zo))
+- Rare 17th Century baby memorial to be rehomed ([20 hours ago](https://www.bbc.com/news/articles/crrzz7v1gk0o))
+- Syrian man excited to return home after regime ends ([20 hours ago](https://www.bbc.com/news/articles/cwyngj813dqo))
 - Video game coaching 'like being a football manager' ([1 days ago](https://www.bbc.com/news/articles/cn5x2pkl93do))
 - Council's misleading X post causes road confusion ([1 days ago](https://www.bbc.com/news/articles/c5y55xxdgw9o))
 - Headlines: Dog attack and greedy seagull ([1 days ago](https://www.bbc.com/news/articles/crkxxelg687o))
