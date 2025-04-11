@@ -9,11 +9,11 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Coachloads of tourists creating 'tipping point' ([2 hours ago](https://www.bbc.com/news/articles/cn89w353840o))
-- High street car park to close for maintenance work ([2 hours ago](https://www.bbc.com/news/articles/c209wp43y4xo))
-- 'Being my husband's carer makes me feel invisible' ([17 hours ago](https://www.bbc.com/news/articles/czd3n22qz21o))
-- Popular car boot sale to return with music events ([20 hours ago](https://www.bbc.com/news/articles/c78jey62x80o))
-- Headlines: Fire engine gets stuck and a cider taproom ([22 hours ago](https://www.bbc.com/news/articles/cx2wwvx2ezno))
+- Coachloads of tourists creating 'tipping point' ([3 hours ago](https://www.bbc.com/news/articles/cn89w353840o))
+- High street car park to close for maintenance work ([3 hours ago](https://www.bbc.com/news/articles/c209wp43y4xo))
+- 'Being my husband's carer makes me feel invisible' ([18 hours ago](https://www.bbc.com/news/articles/czd3n22qz21o))
+- Popular car boot sale to return with music events ([21 hours ago](https://www.bbc.com/news/articles/c78jey62x80o))
+- Headlines: Fire engine gets stuck and a cider taproom ([23 hours ago](https://www.bbc.com/news/articles/cx2wwvx2ezno))
 - Students pick more than 12kg of litter from park ([1 days ago](https://www.bbc.com/news/articles/crkx43mze2zo))
 - Rare 17th Century baby memorial to be rehomed ([1 days ago](https://www.bbc.com/news/articles/crrzz7v1gk0o))
 - Syrian man excited to return home after regime ends ([1 days ago](https://www.bbc.com/news/articles/cwyngj813dqo))
@@ -21,7 +21,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Council's misleading X post causes road confusion ([1 days ago](https://www.bbc.com/news/articles/c5y55xxdgw9o))
 - Headlines: Dog attack and greedy seagull ([1 days ago](https://www.bbc.com/news/articles/crkxxelg687o))
 - Man wanted in relation to stalking allegation ([1 days ago](https://gloucesternewscentre.co.uk/man-wanted-in-relation-to-stalking-allegation/))
-- Search for dog owners after man is bitten by pet ([1 days ago](https://www.bbc.com/news/articles/c8077vj8dd9o))
+- Search for dog owners after man is bitten by pet ([2 days ago](https://www.bbc.com/news/articles/c8077vj8dd9o))
 - Work on new village homes gets under way ([2 days ago](https://www.bbc.com/news/articles/c0jzg6d97yqo))
 - Venue needs 'essential' work after 120 years ([2 days ago](https://www.bbc.com/news/articles/cnv5z83vjvjo))
 - Woman 'happy' body will be moved from her future grave ([2 days ago](https://www.bbc.com/news/articles/cqj4dxwl2j1o))
