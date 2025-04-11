@@ -9,12 +9,12 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Arrests and fake goods seized in barbershop raids ([4 hours ago](https://www.bbc.com/news/articles/c4gr2z749m0o))
-- Men jailed for violent home invasion as baby slept ([5 hours ago](https://www.bbc.com/news/articles/ckg17k99jl5o))
-- Headlines: Bus stop thefts and 'nuclear rats' ([7 hours ago](https://www.bbc.com/news/articles/c77n167z7lgo))
-- 'Violent' woman handed order after prison release ([9 hours ago](https://www.bbc.com/news/articles/ckg5rjln0y5o))
-- Coachloads of tourists creating 'tipping point' ([14 hours ago](https://www.bbc.com/news/articles/cn89w353840o))
-- High street car park to close for maintenance work ([14 hours ago](https://www.bbc.com/news/articles/c209wp43y4xo))
+- Arrests and fake goods seized in barbershop raids ([5 hours ago](https://www.bbc.com/news/articles/c4gr2z749m0o))
+- Men jailed for violent home invasion as baby slept ([6 hours ago](https://www.bbc.com/news/articles/ckg17k99jl5o))
+- Headlines: Bus stop thefts and 'nuclear rats' ([8 hours ago](https://www.bbc.com/news/articles/c77n167z7lgo))
+- 'Violent' woman handed order after prison release ([10 hours ago](https://www.bbc.com/news/articles/ckg5rjln0y5o))
+- Coachloads of tourists creating 'tipping point' ([15 hours ago](https://www.bbc.com/news/articles/cn89w353840o))
+- High street car park to close for maintenance work ([15 hours ago](https://www.bbc.com/news/articles/c209wp43y4xo))
 - 'Being my husband's carer makes me feel invisible' ([1 days ago](https://www.bbc.com/news/articles/czd3n22qz21o))
 - Popular car boot sale to return with music events ([1 days ago](https://www.bbc.com/news/articles/c78jey62x80o))
 - Headlines: Fire engine gets stuck and a cider taproom ([1 days ago](https://www.bbc.com/news/articles/cx2wwvx2ezno))

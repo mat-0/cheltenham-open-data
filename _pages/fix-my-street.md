@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Sunken slab causing a trip hazard, 11th April :- [7423612](https://www.fixmystreet.com/report/7423612)
 - Overgrown bush blocking road ///firm.rang.decay, 11th April :- [7423157](https://www.fixmystreet.com/report/7423157)
 - Pothole ///scouts.canny.silent, 11th April :- [7422655](https://www.fixmystreet.com/report/7422655)
 - MASSIVE pothole trench ///fonts.things.teams, 11th April :- [7422648](https://www.fixmystreet.com/report/7422648)
@@ -25,9 +26,8 @@ permalink: /fix-my-street
 - TMC - Defects - Footways Slabs problem, 11th April :- [7422383](https://www.fixmystreet.com/report/7422383)
 - TMC - Defects - Footways Slabs problem, 11th April :- [7422379](https://www.fixmystreet.com/report/7422379)
 - TMC - Defects - Footways Slabs problem, 11th April :- [7422381](https://www.fixmystreet.com/report/7422381)
-- TMC - Defects - Footways Slabs problem, 11th April :- [7422382](https://www.fixmystreet.com/report/7422382)
 - TMC - Defects - Footways Slabs problem, 11th April :- [7422380](https://www.fixmystreet.com/report/7422380)
+- TMC - Defects - Footways Slabs problem, 11th April :- [7422382](https://www.fixmystreet.com/report/7422382)
 - TMC - Defects -CW6 Potholes  problem, 11th April :- [7422378](https://www.fixmystreet.com/report/7422378)
-- TMC - Defects - Other problem, 11th April :- [7422213](https://www.fixmystreet.com/report/7422213)
 
 <!-- fix_marker ends -->
