@@ -22,12 +22,12 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 11th April :- [7420020](https://www.fixmystreet.com/report/7420020)
 - Fly tipping, 11th April :- [7419844](https://www.fixmystreet.com/report/7419844)
 - TMC - Defects - Other FW6  Surface problem, 11th April :- [7420019](https://www.fixmystreet.com/report/7420019)
-- TMC - Defects -CW6 Potholes  problem, 11th April :- [7420007](https://www.fixmystreet.com/report/7420007)
 - TMC - Defects -CW6 Potholes  problem, 11th April :- [7420005](https://www.fixmystreet.com/report/7420005)
 - TMC - Defects -CW6 Potholes  problem, 11th April :- [7420008](https://www.fixmystreet.com/report/7420008)
+- TMC - Defects -CW6 Potholes  problem, 11th April :- [7420007](https://www.fixmystreet.com/report/7420007)
 - TMC - Defects -FW6 Potholes problem, 11th April :- [7419772](https://www.fixmystreet.com/report/7419772)
 - TMC - Defects -CW6 Potholes  problem, 11th April :- [7419764](https://www.fixmystreet.com/report/7419764)
 - TMC - Defects -CW6 Potholes  problem, 11th April :- [7419771](https://www.fixmystreet.com/report/7419771)
-- TMC - Defects -CW6 Potholes  problem, 11th April :- [7419763](https://www.fixmystreet.com/report/7419763)
+- TMC - Defects -CW6 Potholes  problem, 11th April :- [7419761](https://www.fixmystreet.com/report/7419761)
 
 <!-- fix_marker ends -->
