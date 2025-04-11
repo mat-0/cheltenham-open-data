@@ -9,12 +9,12 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Coachloads of tourists creating 'tipping point' ([38 minutes ago](https://www.bbc.com/news/articles/cn89w353840o))
-- High street car park to close for maintenance work ([40 minutes ago](https://www.bbc.com/news/articles/c209wp43y4xo))
-- 'Being my husband's carer makes me feel invisible' ([15 hours ago](https://www.bbc.com/news/articles/czd3n22qz21o))
-- Popular car boot sale to return with music events ([18 hours ago](https://www.bbc.com/news/articles/c78jey62x80o))
-- Headlines: Fire engine gets stuck and a cider taproom ([20 hours ago](https://www.bbc.com/news/articles/cx2wwvx2ezno))
-- Students pick more than 12kg of litter from park ([23 hours ago](https://www.bbc.com/news/articles/crkx43mze2zo))
+- Coachloads of tourists creating 'tipping point' ([1 hours ago](https://www.bbc.com/news/articles/cn89w353840o))
+- High street car park to close for maintenance work ([1 hours ago](https://www.bbc.com/news/articles/c209wp43y4xo))
+- 'Being my husband's carer makes me feel invisible' ([16 hours ago](https://www.bbc.com/news/articles/czd3n22qz21o))
+- Popular car boot sale to return with music events ([19 hours ago](https://www.bbc.com/news/articles/c78jey62x80o))
+- Headlines: Fire engine gets stuck and a cider taproom ([21 hours ago](https://www.bbc.com/news/articles/cx2wwvx2ezno))
+- Students pick more than 12kg of litter from park ([1 days ago](https://www.bbc.com/news/articles/crkx43mze2zo))
 - Rare 17th Century baby memorial to be rehomed ([1 days ago](https://www.bbc.com/news/articles/crrzz7v1gk0o))
 - Syrian man excited to return home after regime ends ([1 days ago](https://www.bbc.com/news/articles/cwyngj813dqo))
 - Video game coaching 'like being a football manager' ([1 days ago](https://www.bbc.com/news/articles/cn5x2pkl93do))
@@ -47,7 +47,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Evacuation cordon lifted after grenade scare ([15 days ago](https://gloucesternewscentre.co.uk/evacuation-cordon-lifted-after-grenade-scare/))
 - Fears ‘lives will be put on the line’ by police staff cuts ([15 days ago](https://gloucesternewscentre.co.uk/fears-lives-will-be-put-on-the-line-by-police-staff-cuts/))
 - Wychwood Festival 2025 to go ahead but stage will be moved after complaints ([15 days ago](https://gloucesternewscentre.co.uk/wychwood-festival-2025-to-go-ahead-but-stage-will-be-moved-after-complaints/))
-- County to lose its mounted police unit in cost savings plan ([16 days ago](https://gloucesternewscentre.co.uk/county-to-lose-its-mounted-police-unit-in-cost-savings-plan/))
+- County to lose its mounted police unit in cost savings plan ([17 days ago](https://gloucesternewscentre.co.uk/county-to-lose-its-mounted-police-unit-in-cost-savings-plan/))
 - Traffic fears over ‘chicanes’ installed in Cheltenham ([17 days ago](https://gloucesternewscentre.co.uk/traffic-fears-over-chicanes-installed-in-cheltenham/))
 - Bag of clothing worth over £1,000 is stolen during Cheltenham burglary ([17 days ago](https://gloucesternewscentre.co.uk/bag-of-clothing-worth-over-1000-is-stolen-during-cheltenham-burglary/))
 - Two men from Birmingham charged with attempted murder ([17 days ago](https://gloucesternewscentre.co.uk/two-men-from-birmingham-charged-with-attempted-murder/))
