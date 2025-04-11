@@ -9,11 +9,11 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Coachloads of tourists creating 'tipping point' ([1 hours ago](https://www.bbc.com/news/articles/cn89w353840o))
-- High street car park to close for maintenance work ([1 hours ago](https://www.bbc.com/news/articles/c209wp43y4xo))
-- 'Being my husband's carer makes me feel invisible' ([16 hours ago](https://www.bbc.com/news/articles/czd3n22qz21o))
-- Popular car boot sale to return with music events ([19 hours ago](https://www.bbc.com/news/articles/c78jey62x80o))
-- Headlines: Fire engine gets stuck and a cider taproom ([21 hours ago](https://www.bbc.com/news/articles/cx2wwvx2ezno))
+- Coachloads of tourists creating 'tipping point' ([2 hours ago](https://www.bbc.com/news/articles/cn89w353840o))
+- High street car park to close for maintenance work ([2 hours ago](https://www.bbc.com/news/articles/c209wp43y4xo))
+- 'Being my husband's carer makes me feel invisible' ([17 hours ago](https://www.bbc.com/news/articles/czd3n22qz21o))
+- Popular car boot sale to return with music events ([20 hours ago](https://www.bbc.com/news/articles/c78jey62x80o))
+- Headlines: Fire engine gets stuck and a cider taproom ([22 hours ago](https://www.bbc.com/news/articles/cx2wwvx2ezno))
 - Students pick more than 12kg of litter from park ([1 days ago](https://www.bbc.com/news/articles/crkx43mze2zo))
 - Rare 17th Century baby memorial to be rehomed ([1 days ago](https://www.bbc.com/news/articles/crrzz7v1gk0o))
 - Syrian man excited to return home after regime ends ([1 days ago](https://www.bbc.com/news/articles/cwyngj813dqo))
@@ -60,7 +60,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Tewkesbury ‘insulted’ as Cheltenham and Cotswold exclude name from council plan ([21 days ago](https://gloucesternewscentre.co.uk/tewkesbury-insulted-as-cheltenham-and-cotswold-exclude-name-from-council-plan/))
 - NCLB’s Party in the Park for families returns for another summer of fun ([21 days ago](https://www.cheltenham.gov.uk/news/article/2997/nclbs_party_in_the_park_for_families_returns_for_another_summer_of_fun))
 - The Bell Inn pub and Daisybank Field approved as Assets of Community Value ([21 days ago](https://www.cheltenham.gov.uk/news/article/2996/the_bell_inn_pub_and_daisybank_field_approved_as_assets_of_community_value))
-- Row as Cheltenham council ‘kept devolution report secret from partners’ ([22 days ago](https://gloucesternewscentre.co.uk/row-as-cheltenham-council-kept-devolution-report-secret-from-partners/))
+- Row as Cheltenham council ‘kept devolution report secret from partners’ ([23 days ago](https://gloucesternewscentre.co.uk/row-as-cheltenham-council-kept-devolution-report-secret-from-partners/))
 - Montpellier Gardens toilet facilities unveiled with new accessible amenities ([24 days ago](https://www.cheltenham.gov.uk/news/article/2995/montpellier_gardens_toilet_facilities_unveiled_with_new_accessible_amenities))
 - Proposal for a two-council Gloucestershire to be submitted to government ([24 days ago](https://www.cheltenham.gov.uk/news/article/2994/proposal_for_a_two-council_gloucestershire_to_be_submitted_to_government))
 - HBD invites feedback on Golden Valley plans ([28 days ago](https://www.cheltenham.gov.uk/news/article/2993/hbd_invites_feedback_on_golden_valley_plans))

@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Winchcombe Way deep mud, 11th April :- [7419564](https://www.fixmystreet.com/report/7419564)
+- Multiple potholes, blind bend, 11th April :- [7419520](https://www.fixmystreet.com/report/7419520)
+- Tree has fallen across the path, 11th April :- [7419500](https://www.fixmystreet.com/report/7419500)
 - Drain cover and footings broken, partly missing and unstable at bottom of slope on turn so I the gap going fast downhill on a bike it going, 10th April :- [7418768](https://www.fixmystreet.com/report/7418768)
 - Overflowing bin, 10th April :- [7418741](https://www.fixmystreet.com/report/7418741)
 - More fly tipping, 10th April :- [7418494](https://www.fixmystreet.com/report/7418494)
@@ -25,9 +28,6 @@ permalink: /fix-my-street
 - Fly tipping, 10th April :- [7417414](https://www.fixmystreet.com/report/7417414)
 - Commercial waste storage, 10th April :- [7417411](https://www.fixmystreet.com/report/7417411)
 - Pathway blocked with soil piles, 10th April :- [7417403](https://www.fixmystreet.com/report/7417403)
-- TMC - Defects - Footways Slabs problem, 10th April :- [7417440](https://www.fixmystreet.com/report/7417440)
-- TMC - Defects - Footways Slabs problem, 10th April :- [7417443](https://www.fixmystreet.com/report/7417443)
-- TMC - Defects - Footways Slabs problem, 10th April :- [7417441](https://www.fixmystreet.com/report/7417441)
-- TMC - Defects - Footways Slabs problem, 10th April :- [7417442](https://www.fixmystreet.com/report/7417442)
+- TMC - Defects - Footways Slabs problem, 10th April :- [7417439](https://www.fixmystreet.com/report/7417439)
 
 <!-- fix_marker ends -->
