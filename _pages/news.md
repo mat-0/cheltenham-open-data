@@ -9,10 +9,10 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Tributes paid to 'loyal, hard-working' councillor ([10 hours ago](https://www.bbc.com/news/articles/c17552qngqzo))
-- 'Sexual predator' found guilty of abusing boy ([13 hours ago](https://www.bbc.com/news/articles/c0m9re8wkxko))
-- Vintage bicycles roll into town for 70th celebration ([14 hours ago](https://www.bbc.com/news/articles/cq67yj24436o))
-- Walking football club 'one big happy family' ([15 hours ago](https://www.bbc.com/news/articles/ce8447vrm21o))
+- Tributes paid to 'loyal, hard-working' councillor ([11 hours ago](https://www.bbc.com/news/articles/c17552qngqzo))
+- 'Sexual predator' found guilty of abusing boy ([14 hours ago](https://www.bbc.com/news/articles/c0m9re8wkxko))
+- Vintage bicycles roll into town for 70th celebration ([15 hours ago](https://www.bbc.com/news/articles/cq67yj24436o))
+- Walking football club 'one big happy family' ([16 hours ago](https://www.bbc.com/news/articles/ce8447vrm21o))
 - Arrests and fake goods seized in barbershop raids ([1 days ago](https://www.bbc.com/news/articles/c4gr2z749m0o))
 - Men jailed for violent home invasion as baby slept ([1 days ago](https://www.bbc.com/news/articles/ckg17k99jl5o))
 - Headlines: Bus stop thefts and 'nuclear rats' ([1 days ago](https://www.bbc.com/news/articles/c77n167z7lgo))
