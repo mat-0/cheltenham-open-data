@@ -21,13 +21,13 @@ permalink: /fix-my-street
 - Trees are damaged, 11th April :- [7422504](https://www.fixmystreet.com/report/7422504)
 - TMC - Defects - Footways Slabs problem, 11th April :- [7422373](https://www.fixmystreet.com/report/7422373)
 - TMC - Defects - Footways Slabs problem, 11th April :- [7422374](https://www.fixmystreet.com/report/7422374)
-- TMC - Defects - Footways Slabs problem, 11th April :- [7422377](https://www.fixmystreet.com/report/7422377)
 - TMC - Defects - Footways Slabs problem, 11th April :- [7422376](https://www.fixmystreet.com/report/7422376)
+- TMC - Defects - Footways Slabs problem, 11th April :- [7422377](https://www.fixmystreet.com/report/7422377)
 - TMC - Defects - Footways Slabs problem, 11th April :- [7422383](https://www.fixmystreet.com/report/7422383)
-- TMC - Defects - Footways Slabs problem, 11th April :- [7422382](https://www.fixmystreet.com/report/7422382)
-- TMC - Defects - Footways Slabs problem, 11th April :- [7422379](https://www.fixmystreet.com/report/7422379)
 - TMC - Defects - Footways Slabs problem, 11th April :- [7422381](https://www.fixmystreet.com/report/7422381)
 - TMC - Defects - Footways Slabs problem, 11th April :- [7422380](https://www.fixmystreet.com/report/7422380)
+- TMC - Defects - Footways Slabs problem, 11th April :- [7422379](https://www.fixmystreet.com/report/7422379)
+- TMC - Defects - Footways Slabs problem, 11th April :- [7422382](https://www.fixmystreet.com/report/7422382)
 - TMC - Defects -CW6 Potholes  problem, 11th April :- [7422378](https://www.fixmystreet.com/report/7422378)
 
 <!-- fix_marker ends -->
