@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Saturday, 12 April 2025
 
-- The average temperature today is 10.32˚C,
-- With highs of 10.54˚C and lows of 9.18˚C,
-- It may feel like 9.13˚C with overcast clouds
-- The wind speed is 3.58m/s and visibility is 10000m
-- The pressure is 1009hPa and humidity is 66%
+- The average temperature today is 12.72˚C,
+- With highs of 13.15˚C and lows of 10.47˚C,
+- It may feel like 11.64˚C with overcast clouds
+- The wind speed is 3.13m/s and visibility is 10000m
+- The pressure is 1009hPa and humidity is 61%
 - The sun will rise at 05:18 and set at 18:59
 
 <!-- weather_marker ends -->
