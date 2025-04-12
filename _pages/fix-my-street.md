@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole outside 41 Horsefair St, 12th April :- [7425922](https://www.fixmystreet.com/report/7425922)
 - Leaves pile of, 12th April :- [7425763](https://www.fixmystreet.com/report/7425763)
 - Poor road surface opposite 42 Maple Dr, 12th April :- [7425625](https://www.fixmystreet.com/report/7425625)
 - Potholes outside 8 Cherry Avenue, 12th April :- [7425441](https://www.fixmystreet.com/report/7425441)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Potholes at entrance to Morlands Dr, 12th April :- [7424941](https://www.fixmystreet.com/report/7424941)
 - Abandoned plastic barriers, 12th April :- [7424856](https://www.fixmystreet.com/report/7424856)
 - Household items, 12th April :- [7424803](https://www.fixmystreet.com/report/7424803)
-- Dumped Christmas Tree next to Lidl sign, opposite 251 Cirencester Rd, 12th April :- [7424753](https://www.fixmystreet.com/report/7424753)
 
 <!-- fix_marker ends -->
