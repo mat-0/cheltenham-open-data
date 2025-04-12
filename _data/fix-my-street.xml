@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:georss="http://www.georss.org/georss"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
+ xmlns:georss="http://www.georss.org/georss"
 >
 
 <channel>
@@ -122,15 +122,6 @@
 </item>
 <item>
 <title>TMC - Defects - Footways Slabs problem, 11th April</title>
-<link>https://www.fixmystreet.com/report/7422377</link>
-<description>Broken Slab FW  900mm  x 600mm&amp;#10;Give and take TM &amp;#10;Outside 18&amp;#10;Limited Parking &amp;#10;Stats required (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7422377&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Footways Slabs</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7422377</guid>
-<pubDate>Fri, 11 Apr 2025 15:28:06 +0100</pubDate>
-<georss:point>51.8796041998109 -2.08096889750319</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Footways Slabs problem, 11th April</title>
 <link>https://www.fixmystreet.com/report/7422376</link>
 <description>Broken Slab FW  900mm  x 600mm&amp;#10;Give and take TM &amp;#10;Outside 18&amp;#10;Limited Parking &amp;#10;Stats required (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7422376&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Footways Slabs</category>
@@ -140,30 +131,21 @@
 </item>
 <item>
 <title>TMC - Defects - Footways Slabs problem, 11th April</title>
+<link>https://www.fixmystreet.com/report/7422377</link>
+<description>Broken Slab FW  900mm  x 600mm&amp;#10;Give and take TM &amp;#10;Outside 18&amp;#10;Limited Parking &amp;#10;Stats required (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7422377&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7422377</guid>
+<pubDate>Fri, 11 Apr 2025 15:28:06 +0100</pubDate>
+<georss:point>51.8796041998109 -2.08096889750319</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Footways Slabs problem, 11th April</title>
 <link>https://www.fixmystreet.com/report/7422383</link>
 <description>Broken Slab FW ENWD 900mm  x 600mm&amp;#10;Give and take TM &amp;#10;Outside 16&amp;#10;Limited Parking &amp;#10;Stats required (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7422383&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Footways Slabs</category>
 <guid isPermaLink="false">https://www.fixmystreet.com/report/7422383</guid>
 <pubDate>Fri, 11 Apr 2025 15:28:05 +0100</pubDate>
 <georss:point>51.8796116999996 -2.08089260000001</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Footways Slabs problem, 11th April</title>
-<link>https://www.fixmystreet.com/report/7422382</link>
-<description>Broken Slab FW ENWD 900mm  x 600mm&amp;#10;Give and take TM &amp;#10;Outside 16&amp;#10;Limited Parking &amp;#10;Stats required (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7422382&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Footways Slabs</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7422382</guid>
-<pubDate>Fri, 11 Apr 2025 15:28:05 +0100</pubDate>
-<georss:point>51.8795955999996 -2.0809026</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Footways Slabs problem, 11th April</title>
-<link>https://www.fixmystreet.com/report/7422379</link>
-<description>Broken Slab FW ENWD 700mm  x 600mm&amp;#10;Give and take TM &amp;#10;Outside 16&amp;#10;Limited Parking &amp;#10;Stats required (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7422379&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Footways Slabs</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7422379</guid>
-<pubDate>Fri, 11 Apr 2025 15:28:05 +0100</pubDate>
-<georss:point>51.8796298591954 -2.08087162226897</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Footways Slabs problem, 11th April</title>
@@ -182,6 +164,24 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/7422380</guid>
 <pubDate>Fri, 11 Apr 2025 15:28:05 +0100</pubDate>
 <georss:point>51.8796161999996 -2.0808954</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Footways Slabs problem, 11th April</title>
+<link>https://www.fixmystreet.com/report/7422379</link>
+<description>Broken Slab FW ENWD 700mm  x 600mm&amp;#10;Give and take TM &amp;#10;Outside 16&amp;#10;Limited Parking &amp;#10;Stats required (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7422379&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7422379</guid>
+<pubDate>Fri, 11 Apr 2025 15:28:05 +0100</pubDate>
+<georss:point>51.8796298591954 -2.08087162226897</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Footways Slabs problem, 11th April</title>
+<link>https://www.fixmystreet.com/report/7422382</link>
+<description>Broken Slab FW ENWD 900mm  x 600mm&amp;#10;Give and take TM &amp;#10;Outside 16&amp;#10;Limited Parking &amp;#10;Stats required (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7422382&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7422382</guid>
+<pubDate>Fri, 11 Apr 2025 15:28:05 +0100</pubDate>
+<georss:point>51.8795955999996 -2.0809026</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 11th April</title>
