@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Poor road surface opposite 42 Maple Dr, 12th April :- [7425625](https://www.fixmystreet.com/report/7425625)
 - Potholes outside 8 Cherry Avenue, 12th April :- [7425441](https://www.fixmystreet.com/report/7425441)
 - Multiple potholes Birch Close, 12th April :- [7425420](https://www.fixmystreet.com/report/7425420)
 - Pothole next to drain outside 48 Willow Rd, 12th April :- [7425324](https://www.fixmystreet.com/report/7425324)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Household items, 12th April :- [7424803](https://www.fixmystreet.com/report/7424803)
 - Dumped Christmas Tree next to Lidl sign, opposite 251 Cirencester Rd, 12th April :- [7424753](https://www.fixmystreet.com/report/7424753)
 - The entire pavement is in disrepair The tenants have tried to get this fixed for years, 12th April :- [7424581](https://www.fixmystreet.com/report/7424581)
-- Sunken slab causing a trip hazard, 11th April :- [7423612](https://www.fixmystreet.com/report/7423612)
 
 <!-- fix_marker ends -->
