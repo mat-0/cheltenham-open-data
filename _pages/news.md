@@ -9,12 +9,12 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Tributes paid to 'loyal, hard-working' councillor ([2 hours ago](https://www.bbc.com/news/articles/c17552qngqzo))
-- 'Sexual predator' found guilty of abusing boy ([5 hours ago](https://www.bbc.com/news/articles/c0m9re8wkxko))
+- Tributes paid to 'loyal, hard-working' councillor ([3 hours ago](https://www.bbc.com/news/articles/c17552qngqzo))
+- 'Sexual predator' found guilty of abusing boy ([6 hours ago](https://www.bbc.com/news/articles/c0m9re8wkxko))
 - Vintage bicycles roll into town for 70th celebration ([7 hours ago](https://www.bbc.com/news/articles/cq67yj24436o))
-- Walking football club 'one big happy family' ([7 hours ago](https://www.bbc.com/news/articles/ce8447vrm21o))
-- Arrests and fake goods seized in barbershop raids ([21 hours ago](https://www.bbc.com/news/articles/c4gr2z749m0o))
-- Men jailed for violent home invasion as baby slept ([22 hours ago](https://www.bbc.com/news/articles/ckg17k99jl5o))
+- Walking football club 'one big happy family' ([8 hours ago](https://www.bbc.com/news/articles/ce8447vrm21o))
+- Arrests and fake goods seized in barbershop raids ([22 hours ago](https://www.bbc.com/news/articles/c4gr2z749m0o))
+- Men jailed for violent home invasion as baby slept ([23 hours ago](https://www.bbc.com/news/articles/ckg17k99jl5o))
 - Headlines: Bus stop thefts and 'nuclear rats' ([1 days ago](https://www.bbc.com/news/articles/c77n167z7lgo))
 - 'Violent' woman handed order after prison release ([1 days ago](https://www.bbc.com/news/articles/ckg5rjln0y5o))
 - Coachloads of tourists creating 'tipping point' ([1 days ago](https://www.bbc.com/news/articles/cn89w353840o))
@@ -25,7 +25,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Students pick more than 12kg of litter from park ([2 days ago](https://www.bbc.com/news/articles/crkx43mze2zo))
 - Rare 17th Century baby memorial to be rehomed ([2 days ago](https://www.bbc.com/news/articles/crrzz7v1gk0o))
 - Syrian man excited to return home after regime ends ([2 days ago](https://www.bbc.com/news/articles/cwyngj813dqo))
-- Video game coaching 'like being a football manager' ([2 days ago](https://www.bbc.com/news/articles/cn5x2pkl93do))
+- Video game coaching 'like being a football manager' ([3 days ago](https://www.bbc.com/news/articles/cn5x2pkl93do))
 - Man wanted in relation to stalking allegation ([3 days ago](https://gloucesternewscentre.co.uk/man-wanted-in-relation-to-stalking-allegation/))
 - Appeal for information about assault at Cheltenham night club ([3 days ago](https://gloucesternewscentre.co.uk/appeal-for-information-about-assault-at-cheltenham-night-club/))
 - Gloucestershire hotel recognised in national hospitality awards ([3 days ago](https://gloucesternewscentre.co.uk/gloucestershire-hotel-recognised-in-national-hospitality-awards/))
@@ -53,7 +53,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Two men from Birmingham charged with attempted murder ([18 days ago](https://gloucesternewscentre.co.uk/two-men-from-birmingham-charged-with-attempted-murder/))
 - Pressure mounts on fire bosses to drop ‘disastrous’ shift pattern changes ([21 days ago](https://gloucesternewscentre.co.uk/pressure-mounts-on-fire-bosses-to-drop-disastrous-shift-pattern-changes/))
 - Officers freeze £400,000 of suspected criminal assets and make 16 arrests during fraud operation ([21 days ago](https://gloucesternewscentre.co.uk/officers-freeze-400000-of-suspected-criminal-assets-and-make-16-arrests-during-fraud-operation/))
-- Don’t miss your right to vote, register by Friday 11 April 2025 ([21 days ago](https://www.cheltenham.gov.uk/news/article/2999/dont_miss_your_right_to_vote_register_by_friday_11_april_2025))
+- Don’t miss your right to vote, register by Friday 11 April 2025 ([22 days ago](https://www.cheltenham.gov.uk/news/article/2999/dont_miss_your_right_to_vote_register_by_friday_11_april_2025))
 - £96k funding available for new neighbourhood projects in Cheltenham ([22 days ago](https://www.cheltenham.gov.uk/news/article/2998/96k_funding_available_for_new_neighbourhood_projects_in_cheltenham))
 - Cheltenham chiefs apologise for short notice of councils shake-up plan ([22 days ago](https://gloucesternewscentre.co.uk/cheltenham-chiefs-apologise-for-short-notice-of-councils-shake-up-plan/))
 - Conservation group backs campaign to save Promenade York stone paving ([22 days ago](https://gloucesternewscentre.co.uk/conservation-group-backs-campaign-to-save-promenade-york-stone-paving/))
@@ -61,7 +61,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - NCLB’s Party in the Park for families returns for another summer of fun ([22 days ago](https://www.cheltenham.gov.uk/news/article/2997/nclbs_party_in_the_park_for_families_returns_for_another_summer_of_fun))
 - The Bell Inn pub and Daisybank Field approved as Assets of Community Value ([23 days ago](https://www.cheltenham.gov.uk/news/article/2996/the_bell_inn_pub_and_daisybank_field_approved_as_assets_of_community_value))
 - Row as Cheltenham council ‘kept devolution report secret from partners’ ([24 days ago](https://gloucesternewscentre.co.uk/row-as-cheltenham-council-kept-devolution-report-secret-from-partners/))
-- Montpellier Gardens toilet facilities unveiled with new accessible amenities ([25 days ago](https://www.cheltenham.gov.uk/news/article/2995/montpellier_gardens_toilet_facilities_unveiled_with_new_accessible_amenities))
+- Montpellier Gardens toilet facilities unveiled with new accessible amenities ([26 days ago](https://www.cheltenham.gov.uk/news/article/2995/montpellier_gardens_toilet_facilities_unveiled_with_new_accessible_amenities))
 - Proposal for a two-council Gloucestershire to be submitted to government ([26 days ago](https://www.cheltenham.gov.uk/news/article/2994/proposal_for_a_two-council_gloucestershire_to_be_submitted_to_government))
 
 <!-- news_marker ends -->
