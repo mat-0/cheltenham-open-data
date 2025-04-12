@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The entire pavement is in disrepair The tenants have tried to get this fixed for years, 12th April :- [7424581](https://www.fixmystreet.com/report/7424581)
 - Sunken slab causing a trip hazard, 11th April :- [7423612](https://www.fixmystreet.com/report/7423612)
 - Overgrown bush blocking road ///firm.rang.decay, 11th April :- [7423157](https://www.fixmystreet.com/report/7423157)
 - Pothole ///scouts.canny.silent, 11th April :- [7422655](https://www.fixmystreet.com/report/7422655)
@@ -20,14 +21,13 @@ permalink: /fix-my-street
 - Potholes ///until.bills.both, 11th April :- [7422557](https://www.fixmystreet.com/report/7422557)
 - Trees are damaged, 11th April :- [7422504](https://www.fixmystreet.com/report/7422504)
 - TMC - Defects - Footways Slabs problem, 11th April :- [7422373](https://www.fixmystreet.com/report/7422373)
+- TMC - Defects - Footways Slabs problem, 11th April :- [7422377](https://www.fixmystreet.com/report/7422377)
 - TMC - Defects - Footways Slabs problem, 11th April :- [7422374](https://www.fixmystreet.com/report/7422374)
 - TMC - Defects - Footways Slabs problem, 11th April :- [7422376](https://www.fixmystreet.com/report/7422376)
-- TMC - Defects - Footways Slabs problem, 11th April :- [7422377](https://www.fixmystreet.com/report/7422377)
-- TMC - Defects - Footways Slabs problem, 11th April :- [7422383](https://www.fixmystreet.com/report/7422383)
 - TMC - Defects - Footways Slabs problem, 11th April :- [7422381](https://www.fixmystreet.com/report/7422381)
-- TMC - Defects - Footways Slabs problem, 11th April :- [7422380](https://www.fixmystreet.com/report/7422380)
 - TMC - Defects - Footways Slabs problem, 11th April :- [7422379](https://www.fixmystreet.com/report/7422379)
+- TMC - Defects - Footways Slabs problem, 11th April :- [7422380](https://www.fixmystreet.com/report/7422380)
 - TMC - Defects - Footways Slabs problem, 11th April :- [7422382](https://www.fixmystreet.com/report/7422382)
-- TMC - Defects -CW6 Potholes  problem, 11th April :- [7422378](https://www.fixmystreet.com/report/7422378)
+- TMC - Defects - Footways Slabs problem, 11th April :- [7422383](https://www.fixmystreet.com/report/7422383)
 
 <!-- fix_marker ends -->
