@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Green filter light onto St George’s Road turning left is not working, 12th April :- [7426227](https://www.fixmystreet.com/report/7426227)
+- Traffic lights change to red for no reason, 12th April :- [7426221](https://www.fixmystreet.com/report/7426221)
 - Pothole outside 41 Horsefair St, 12th April :- [7425922](https://www.fixmystreet.com/report/7425922)
 - Leaves pile of, 12th April :- [7425763](https://www.fixmystreet.com/report/7425763)
 - Poor road surface opposite 42 Maple Dr, 12th April :- [7425625](https://www.fixmystreet.com/report/7425625)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Pothole outside 73 Ravensgate Rd, 12th April :- [7425082](https://www.fixmystreet.com/report/7425082)
 - Pothole outside 93 Ravensgate Rd, 12th April :- [7425046](https://www.fixmystreet.com/report/7425046)
 - Potholes at entrance to Morlands Dr, 12th April :- [7424941](https://www.fixmystreet.com/report/7424941)
-- Abandoned plastic barriers, 12th April :- [7424856](https://www.fixmystreet.com/report/7424856)
-- Household items, 12th April :- [7424803](https://www.fixmystreet.com/report/7424803)
 
 <!-- fix_marker ends -->
