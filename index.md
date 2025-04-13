@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Sunday, 13 April 2025
 
-- The average temperature today is 10.96˚C,
-- With highs of 11.58˚C and lows of 10.75˚C,
-- It may feel like 10.2˚C with scattered clouds
-- The wind speed is 2.06m/s and visibility is 10000m
-- The pressure is 1003hPa and humidity is 80%
+- The average temperature today is 12.06˚C,
+- With highs of 12.2˚C and lows of 11.5˚C,
+- It may feel like 11.28˚C with light rain
+- The wind speed is 1.03m/s and visibility is 10000m
+- The pressure is 1004hPa and humidity is 75%
 - The sun will rise at 05:15 and set at 19:01
 
 <!-- weather_marker ends -->
