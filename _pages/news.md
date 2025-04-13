@@ -9,10 +9,10 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Gloucestershire in Pictures: Pelicans and dancing ([47 minutes ago](https://www.bbc.com/news/articles/c30qq5374qpo))
-- Headlines: 'Nuclear rats' and trek claim 'ignorant' ([51 minutes ago](https://www.bbc.com/news/articles/cn7xvrvm7neo))
-- Tributes paid to 'loyal, hard-working' councillor ([20 hours ago](https://www.bbc.com/news/articles/c17552qngqzo))
-- 'Sexual predator' found guilty of abusing boy ([23 hours ago](https://www.bbc.com/news/articles/c0m9re8wkxko))
+- Gloucestershire in Pictures: Pelicans and dancing ([1 hours ago](https://www.bbc.com/news/articles/c30qq5374qpo))
+- Headlines: 'Nuclear rats' and trek claim 'ignorant' ([1 hours ago](https://www.bbc.com/news/articles/cn7xvrvm7neo))
+- Tributes paid to 'loyal, hard-working' councillor ([21 hours ago](https://www.bbc.com/news/articles/c17552qngqzo))
+- 'Sexual predator' found guilty of abusing boy ([1 days ago](https://www.bbc.com/news/articles/c0m9re8wkxko))
 - Vintage bicycles roll into town for 70th celebration ([1 days ago](https://www.bbc.com/news/articles/cq67yj24436o))
 - Walking football club 'one big happy family' ([1 days ago](https://www.bbc.com/news/articles/ce8447vrm21o))
 - Arrests and fake goods seized in barbershop raids ([1 days ago](https://www.bbc.com/news/articles/c4gr2z749m0o))
@@ -60,7 +60,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Tewkesbury ‘insulted’ as Cheltenham and Cotswold exclude name from council plan ([23 days ago](https://gloucesternewscentre.co.uk/tewkesbury-insulted-as-cheltenham-and-cotswold-exclude-name-from-council-plan/))
 - NCLB’s Party in the Park for families returns for another summer of fun ([23 days ago](https://www.cheltenham.gov.uk/news/article/2997/nclbs_party_in_the_park_for_families_returns_for_another_summer_of_fun))
 - The Bell Inn pub and Daisybank Field approved as Assets of Community Value ([23 days ago](https://www.cheltenham.gov.uk/news/article/2996/the_bell_inn_pub_and_daisybank_field_approved_as_assets_of_community_value))
-- Row as Cheltenham council ‘kept devolution report secret from partners’ ([24 days ago](https://gloucesternewscentre.co.uk/row-as-cheltenham-council-kept-devolution-report-secret-from-partners/))
+- Row as Cheltenham council ‘kept devolution report secret from partners’ ([25 days ago](https://gloucesternewscentre.co.uk/row-as-cheltenham-council-kept-devolution-report-secret-from-partners/))
 - Montpellier Gardens toilet facilities unveiled with new accessible amenities ([26 days ago](https://www.cheltenham.gov.uk/news/article/2995/montpellier_gardens_toilet_facilities_unveiled_with_new_accessible_amenities))
 - Proposal for a two-council Gloucestershire to be submitted to government ([26 days ago](https://www.cheltenham.gov.uk/news/article/2994/proposal_for_a_two-council_gloucestershire_to_be_submitted_to_government))
 
