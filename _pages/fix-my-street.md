@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fly tipping, 13th April :- [7427461](https://www.fixmystreet.com/report/7427461)
+- Abandoned rubbish left just outside of the High Street in Cheltenham, 13th April :- [7427327](https://www.fixmystreet.com/report/7427327)
 - Scattered rubbish, 13th April :- [7426818](https://www.fixmystreet.com/report/7426818)
 - Two full black bin bags, 13th April :- [7426810](https://www.fixmystreet.com/report/7426810)
 - The stonemason has blocked the access to this footpath. The sign on the pole is missing., 13th April :- [7426805](https://www.fixmystreet.com/report/7426805)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Pothole outside 2 Maple Drive, 12th April :- [7425198](https://www.fixmystreet.com/report/7425198)
 - Pothole outside 14 Wistley Rd, 12th April :- [7425172](https://www.fixmystreet.com/report/7425172)
 - Pothole outside 6 Wistley Rd, 12th April :- [7425160](https://www.fixmystreet.com/report/7425160)
-- Pothole outside 53 Ravensgate Rd, 12th April :- [7425096](https://www.fixmystreet.com/report/7425096)
-- Pothole outside 71 Ravensgate Rd, 12th April :- [7425086](https://www.fixmystreet.com/report/7425086)
 
 <!-- fix_marker ends -->
