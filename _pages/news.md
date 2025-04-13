@@ -9,9 +9,9 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Gloucestershire in Pictures: Pelicans and dancing ([1 hours ago](https://www.bbc.com/news/articles/c30qq5374qpo))
-- Headlines: 'Nuclear rats' and trek claim 'ignorant' ([1 hours ago](https://www.bbc.com/news/articles/cn7xvrvm7neo))
-- Tributes paid to 'loyal, hard-working' councillor ([21 hours ago](https://www.bbc.com/news/articles/c17552qngqzo))
+- Gloucestershire in Pictures: Pelicans and dancing ([2 hours ago](https://www.bbc.com/news/articles/c30qq5374qpo))
+- Headlines: 'Nuclear rats' and trek claim 'ignorant' ([2 hours ago](https://www.bbc.com/news/articles/cn7xvrvm7neo))
+- Tributes paid to 'loyal, hard-working' councillor ([22 hours ago](https://www.bbc.com/news/articles/c17552qngqzo))
 - 'Sexual predator' found guilty of abusing boy ([1 days ago](https://www.bbc.com/news/articles/c0m9re8wkxko))
 - Vintage bicycles roll into town for 70th celebration ([1 days ago](https://www.bbc.com/news/articles/cq67yj24436o))
 - Walking football club 'one big happy family' ([1 days ago](https://www.bbc.com/news/articles/ce8447vrm21o))
