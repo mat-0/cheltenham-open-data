@@ -9,10 +9,10 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Wildlife park welcomes new pelican for breeding scheme ([29 minutes ago](https://www.bbc.com/news/articles/cd6j2gev4y9o))
-- Nine arrests after burglary at commercial property ([3 hours ago](https://www.bbc.com/news/articles/cjr7lj51dnjo))
-- Gloucestershire in Pictures: Pelicans and dancing ([6 hours ago](https://www.bbc.com/news/articles/c30qq5374qpo))
-- Headlines: 'Nuclear rats' and trek claim 'ignorant' ([6 hours ago](https://www.bbc.com/news/articles/cn7xvrvm7neo))
+- Wildlife park welcomes new pelican for breeding scheme ([1 hours ago](https://www.bbc.com/news/articles/cd6j2gev4y9o))
+- Nine arrests after burglary at commercial property ([4 hours ago](https://www.bbc.com/news/articles/cjr7lj51dnjo))
+- Gloucestershire in Pictures: Pelicans and dancing ([7 hours ago](https://www.bbc.com/news/articles/c30qq5374qpo))
+- Headlines: 'Nuclear rats' and trek claim 'ignorant' ([7 hours ago](https://www.bbc.com/news/articles/cn7xvrvm7neo))
 - Tributes paid to 'loyal, hard-working' councillor ([1 days ago](https://www.bbc.com/news/articles/c17552qngqzo))
 - 'Sexual predator' found guilty of abusing boy ([1 days ago](https://www.bbc.com/news/articles/c0m9re8wkxko))
 - Vintage bicycles roll into town for 70th celebration ([1 days ago](https://www.bbc.com/news/articles/cq67yj24436o))
@@ -53,7 +53,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Two men from Birmingham charged with attempted murder ([19 days ago](https://gloucesternewscentre.co.uk/two-men-from-birmingham-charged-with-attempted-murder/))
 - Pressure mounts on fire bosses to drop ‘disastrous’ shift pattern changes ([22 days ago](https://gloucesternewscentre.co.uk/pressure-mounts-on-fire-bosses-to-drop-disastrous-shift-pattern-changes/))
 - Officers freeze £400,000 of suspected criminal assets and make 16 arrests during fraud operation ([22 days ago](https://gloucesternewscentre.co.uk/officers-freeze-400000-of-suspected-criminal-assets-and-make-16-arrests-during-fraud-operation/))
-- Don’t miss your right to vote, register by Friday 11 April 2025 ([22 days ago](https://www.cheltenham.gov.uk/news/article/2999/dont_miss_your_right_to_vote_register_by_friday_11_april_2025))
+- Don’t miss your right to vote, register by Friday 11 April 2025 ([23 days ago](https://www.cheltenham.gov.uk/news/article/2999/dont_miss_your_right_to_vote_register_by_friday_11_april_2025))
 - £96k funding available for new neighbourhood projects in Cheltenham ([23 days ago](https://www.cheltenham.gov.uk/news/article/2998/96k_funding_available_for_new_neighbourhood_projects_in_cheltenham))
 - Cheltenham chiefs apologise for short notice of councils shake-up plan ([23 days ago](https://gloucesternewscentre.co.uk/cheltenham-chiefs-apologise-for-short-notice-of-councils-shake-up-plan/))
 - Conservation group backs campaign to save Promenade York stone paving ([23 days ago](https://gloucesternewscentre.co.uk/conservation-group-backs-campaign-to-save-promenade-york-stone-paving/))
