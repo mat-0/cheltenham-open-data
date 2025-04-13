@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Damage to road on road heading towards winchcombe, 13th April :- [7427962](https://www.fixmystreet.com/report/7427962)
 - Fly tipping, 13th April :- [7427461](https://www.fixmystreet.com/report/7427461)
 - Abandoned rubbish left just outside of the High Street in Cheltenham, 13th April :- [7427327](https://www.fixmystreet.com/report/7427327)
 - Scattered rubbish, 13th April :- [7426818](https://www.fixmystreet.com/report/7426818)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Pothole outside 12 Maple Dr, 12th April :- [7425202](https://www.fixmystreet.com/report/7425202)
 - Pothole outside 2 Maple Drive, 12th April :- [7425198](https://www.fixmystreet.com/report/7425198)
 - Pothole outside 14 Wistley Rd, 12th April :- [7425172](https://www.fixmystreet.com/report/7425172)
-- Pothole outside 6 Wistley Rd, 12th April :- [7425160](https://www.fixmystreet.com/report/7425160)
 
 <!-- fix_marker ends -->

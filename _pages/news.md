@@ -9,9 +9,9 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Nine arrests after burglary at commercial property ([1 hours ago](https://www.bbc.com/news/articles/cjr7lj51dnjo))
-- Gloucestershire in Pictures: Pelicans and dancing ([4 hours ago](https://www.bbc.com/news/articles/c30qq5374qpo))
-- Headlines: 'Nuclear rats' and trek claim 'ignorant' ([4 hours ago](https://www.bbc.com/news/articles/cn7xvrvm7neo))
+- Nine arrests after burglary at commercial property ([2 hours ago](https://www.bbc.com/news/articles/cjr7lj51dnjo))
+- Gloucestershire in Pictures: Pelicans and dancing ([5 hours ago](https://www.bbc.com/news/articles/c30qq5374qpo))
+- Headlines: 'Nuclear rats' and trek claim 'ignorant' ([5 hours ago](https://www.bbc.com/news/articles/cn7xvrvm7neo))
 - Tributes paid to 'loyal, hard-working' councillor ([1 days ago](https://www.bbc.com/news/articles/c17552qngqzo))
 - 'Sexual predator' found guilty of abusing boy ([1 days ago](https://www.bbc.com/news/articles/c0m9re8wkxko))
 - Vintage bicycles roll into town for 70th celebration ([1 days ago](https://www.bbc.com/news/articles/cq67yj24436o))
@@ -22,7 +22,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Coachloads of tourists creating 'tipping point' ([2 days ago](https://www.bbc.com/news/articles/cn89w353840o))
 - High street car park to close for maintenance work ([2 days ago](https://www.bbc.com/news/articles/c209wp43y4xo))
 - 'Being my husband's carer makes me feel invisible' ([2 days ago](https://www.bbc.com/news/articles/czd3n22qz21o))
-- Popular car boot sale to return with music events ([2 days ago](https://www.bbc.com/news/articles/c78jey62x80o))
+- Popular car boot sale to return with music events ([3 days ago](https://www.bbc.com/news/articles/c78jey62x80o))
 - Headlines: Fire engine gets stuck and a cider taproom ([3 days ago](https://www.bbc.com/news/articles/cx2wwvx2ezno))
 - Rare 17th Century baby memorial to be rehomed ([3 days ago](https://www.bbc.com/news/articles/crrzz7v1gk0o))
 - Syrian man excited to return home after regime ends ([3 days ago](https://www.bbc.com/news/articles/cwyngj813dqo))
@@ -42,7 +42,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Cheltenham shop stripped of premises licence ([15 days ago](https://gloucesternewscentre.co.uk/cheltenham-shop-stripped-of-premises-licence/))
 - Historic Cheltenham property restored ([16 days ago](https://gloucesternewscentre.co.uk/historic-cheltenham-property-restored/))
 - Properties evacauated after suspect ammunition found in Cheltenham ([16 days ago](https://gloucesternewscentre.co.uk/propeties-evacauated-after-suspect-ammuintion-found-in-cheltenham/))
-- Five men arrested last month on suspicion of raping their partner or ex-partner ([16 days ago](https://gloucesternewscentre.co.uk/five-men-arrested-last-month-on-suspicion-of-raping-their-partner-or-ex-partner/))
+- Five men arrested last month on suspicion of raping their partner or ex-partner ([17 days ago](https://gloucesternewscentre.co.uk/five-men-arrested-last-month-on-suspicion-of-raping-their-partner-or-ex-partner/))
 - Gloucestershire Police cuts jobs to save 12 million ([17 days ago](https://www.bbc.co.uk/sounds/play/p0l0mzhx))
 - Evacuation cordon lifted after grenade scare ([17 days ago](https://gloucesternewscentre.co.uk/evacuation-cordon-lifted-after-grenade-scare/))
 - Fears ‘lives will be put on the line’ by police staff cuts ([17 days ago](https://gloucesternewscentre.co.uk/fears-lives-will-be-put-on-the-line-by-police-staff-cuts/))
