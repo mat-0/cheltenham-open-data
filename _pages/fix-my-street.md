@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole in bricked section of road - failed repair dangerous for cars and cyclists, 13th April :- [7429573](https://www.fixmystreet.com/report/7429573)
 - Tree on edge of Gambles Lane getting lower and lower. Already in path of high vehicles and likely to fall on to the lane, 13th April :- [7429071](https://www.fixmystreet.com/report/7429071)
 - Blocked drain in Alexandra Street, 13th April :- [7428927](https://www.fixmystreet.com/report/7428927)
 - Locked gates where footpatg passes through farmyard and at least 3 stiles missing, 13th April :- [7428574](https://www.fixmystreet.com/report/7428574)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Leaves pile of, 12th April :- [7425763](https://www.fixmystreet.com/report/7425763)
 - Poor road surface opposite 42 Maple Dr, 12th April :- [7425625](https://www.fixmystreet.com/report/7425625)
 - Potholes outside 8 Cherry Avenue, 12th April :- [7425441](https://www.fixmystreet.com/report/7425441)
-- Multiple potholes Birch Close, 12th April :- [7425420](https://www.fixmystreet.com/report/7425420)
 
 <!-- fix_marker ends -->
