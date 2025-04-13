@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Scattered rubbish, 13th April :- [7426818](https://www.fixmystreet.com/report/7426818)
+- Two full black bin bags, 13th April :- [7426810](https://www.fixmystreet.com/report/7426810)
+- The stonemason has blocked the access to this footpath. The sign on the pole is missing., 13th April :- [7426805](https://www.fixmystreet.com/report/7426805)
 - Green filter light onto St George’s Road turning left is not working, 12th April :- [7426227](https://www.fixmystreet.com/report/7426227)
 - Traffic lights change to red for no reason, 12th April :- [7426221](https://www.fixmystreet.com/report/7426221)
 - Pothole outside 41 Horsefair St, 12th April :- [7425922](https://www.fixmystreet.com/report/7425922)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Pothole outside 6 Wistley Rd, 12th April :- [7425160](https://www.fixmystreet.com/report/7425160)
 - Pothole outside 53 Ravensgate Rd, 12th April :- [7425096](https://www.fixmystreet.com/report/7425096)
 - Pothole outside 71 Ravensgate Rd, 12th April :- [7425086](https://www.fixmystreet.com/report/7425086)
-- Pothole outside 73 Ravensgate Rd, 12th April :- [7425082](https://www.fixmystreet.com/report/7425082)
-- Pothole outside 93 Ravensgate Rd, 12th April :- [7425046](https://www.fixmystreet.com/report/7425046)
-- Potholes at entrance to Morlands Dr, 12th April :- [7424941](https://www.fixmystreet.com/report/7424941)
 
 <!-- fix_marker ends -->
