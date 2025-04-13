@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Locked gates where footpatg passes through farmyard and at least 3 stiles missing, 13th April :- [7428574](https://www.fixmystreet.com/report/7428574)
+- Public footpath along river Chelt is blocked and not signed, 13th April :- [7428564](https://www.fixmystreet.com/report/7428564)
 - Traffic cone, corner next to 2 Chase Ave, 13th April :- [7428350](https://www.fixmystreet.com/report/7428350)
 - Multiple flyposters attached to hedgerows, 13th April :- [7428340](https://www.fixmystreet.com/report/7428340)
 - Graffiti, 13th April :- [7428136](https://www.fixmystreet.com/report/7428136)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Multiple potholes Birch Close, 12th April :- [7425420](https://www.fixmystreet.com/report/7425420)
 - Pothole next to drain outside 48 Willow Rd, 12th April :- [7425324](https://www.fixmystreet.com/report/7425324)
 - Pothole outside 55 Maple Dr, 12th April :- [7425318](https://www.fixmystreet.com/report/7425318)
-- Loose metal cover, 12th April :- [7425305](https://www.fixmystreet.com/report/7425305)
-- Pothole outside 14 Ash Close, 12th April :- [7425204](https://www.fixmystreet.com/report/7425204)
 
 <!-- fix_marker ends -->
