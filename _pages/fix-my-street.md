@@ -26,8 +26,8 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 14th April :- [7433828](https://www.fixmystreet.com/report/7433828)
 - TMC - Defects -FW6 Potholes problem, 14th April :- [7433610](https://www.fixmystreet.com/report/7433610)
 - TMC - Defects -FW6 Potholes problem, 14th April :- [7433611](https://www.fixmystreet.com/report/7433611)
-- TMC - Defects -FW6 Potholes problem, 14th April :- [7433613](https://www.fixmystreet.com/report/7433613)
 - TMC - Defects -FW6 Potholes problem, 14th April :- [7433612](https://www.fixmystreet.com/report/7433612)
+- TMC - Defects -FW6 Potholes problem, 14th April :- [7433613](https://www.fixmystreet.com/report/7433613)
 - TMC - Defects -CW6 Potholes  problem, 14th April :- [7433605](https://www.fixmystreet.com/report/7433605)
 
 <!-- fix_marker ends -->
