@@ -14,7 +14,7 @@ seo: Menu
 - With highs of 13.75˚C and lows of 12.38˚C,
 - It may feel like 12.55˚C with few clouds
 - The wind speed is 6.17m/s and visibility is 10000m
-- The pressure is 1001hPa and humidity is 54%
+- The pressure is 1000hPa and humidity is 54%
 - The sun will rise at 05:13 and set at 19:03
 
 <!-- weather_marker ends -->
