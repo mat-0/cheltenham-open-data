@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:georss="http://www.georss.org/georss"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
+ xmlns:georss="http://www.georss.org/georss"
 >
 
 <channel>
@@ -13,184 +13,184 @@
 <language>en-gb</language>
 
 <item>
-<title>TMC - Defects -CW6 Potholes  problem, 14th April</title>
-<link>https://www.fixmystreet.com/report/7432649</link>
-<description>Cw pothole &amp;#10;600x300x40mm&amp;#10;Give and take (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7432649&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7432649</guid>
-<pubDate>Mon, 14 Apr 2025 12:30:22 +0100</pubDate>
-<georss:point>51.8768610999996 -2.0473968</georss:point>
-</item>
-<item>
-<title>TMC - Defects -FW6 Potholes problem, 14th April</title>
-<link>https://www.fixmystreet.com/report/7432647</link>
-<description>FWPH &amp;#10;500 X 400 X 40mm&amp;#10;2 WAY TRAFFIC LIGHTS &amp;#10;MARKED AS NUMBER 6&amp;#10;PLUS 2 X NSD (FW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7432647&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -FW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7432647</guid>
-<pubDate>Mon, 14 Apr 2025 12:26:30 +0100</pubDate>
-<georss:point>51.8477705999996 -2.0918319</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 14th April</title>
-<link>https://www.fixmystreet.com/report/7432645</link>
-<description>Cw pothole &amp;#10;1200x500x40mm&amp;#10;Give and take (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7432645&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7432645</guid>
-<pubDate>Mon, 14 Apr 2025 12:26:00 +0100</pubDate>
-<georss:point>51.8763615420875 -2.04652714896179</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 14th April</title>
-<link>https://www.fixmystreet.com/report/7432644</link>
-<description>Cw pothole &amp;#10;900x300x40mm&amp;#10;Give and take (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7432644&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7432644</guid>
-<pubDate>Mon, 14 Apr 2025 12:26:00 +0100</pubDate>
-<georss:point>51.8764127416575 -2.04639037215604</georss:point>
-</item>
-<item>
-<title>TMC - Defects -FW6 Potholes problem, 14th April</title>
-<link>https://www.fixmystreet.com/report/7432643</link>
-<description>FWPH &amp;#10;1200 X 200 X 40mm&amp;#10;2 WAY TRAFFIC LIGHTS &amp;#10;MARKED AS NUMBER 5 (FW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7432643&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -FW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7432643</guid>
-<pubDate>Mon, 14 Apr 2025 12:23:33 +0100</pubDate>
-<georss:point>51.8477705999995 -2.0918319</georss:point>
-</item>
-<item>
-<title>TMC - Defects -FW6 Potholes problem, 14th April</title>
-<link>https://www.fixmystreet.com/report/7432642</link>
-<description>CWPH &amp;#10;300 X 200 X 40mm&amp;#10;2 WAY TRAFFIC LIGHTS &amp;#10;MARKED AS NUMBER 5 (FW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7432642&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -FW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7432642</guid>
-<pubDate>Mon, 14 Apr 2025 12:21:59 +0100</pubDate>
-<georss:point>51.8477705999996 -2.0918319</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 14th April</title>
-<link>https://www.fixmystreet.com/report/7432640</link>
-<description>CWPH &amp;#10;1200 X 300 X 40mm&amp;#10;2 WAY TRAFFIC LIGHTS &amp;#10;MARKED AS NUMBER 4 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7432640&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7432640</guid>
-<pubDate>Mon, 14 Apr 2025 12:19:08 +0100</pubDate>
-<georss:point>51.847360541972 -2.09225069328282</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 14th April</title>
-<link>https://www.fixmystreet.com/report/7432639</link>
-<description>Cw pothole &amp;#10;1000x300x40mm&amp;#10;Give and take (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7432639&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7432639</guid>
-<pubDate>Mon, 14 Apr 2025 12:18:33 +0100</pubDate>
-<georss:point>51.8767485999996 -2.04547140000001</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 14th April</title>
-<link>https://www.fixmystreet.com/report/7432638</link>
-<description>Cw pothole &amp;#10;500x400x45mm&amp;#10;Give and take (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7432638&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7432638</guid>
-<pubDate>Mon, 14 Apr 2025 12:18:32 +0100</pubDate>
-<georss:point>51.8767199999996 -2.04552409999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 14th April</title>
-<link>https://www.fixmystreet.com/report/7432637</link>
-<description>CWPH &amp;#10;400 X 400 X 40mm&amp;#10;2 WAY TRAFFIC LIGHTS &amp;#10;MARKED AS NUMBER 3 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7432637&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7432637</guid>
-<pubDate>Mon, 14 Apr 2025 12:18:04 +0100</pubDate>
-<georss:point>51.8473343662209 -2.09228893397071</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 14th April</title>
-<link>https://www.fixmystreet.com/report/7432636</link>
-<description>CWPH &amp;#10;400 X 300 X 40mm&amp;#10;2 WAY TRAFFIC LIGHTS &amp;#10;MARKED AS NUMBER 2 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7432636&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7432636</guid>
-<pubDate>Mon, 14 Apr 2025 12:17:14 +0100</pubDate>
-<georss:point>51.8472809999996 -2.09237730000001</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 14th April</title>
-<link>https://www.fixmystreet.com/report/7432634</link>
-<description>CWPH &amp;#10;400 X 300 X 40mm&amp;#10;2 WAY TRAFFIC LIGHTS &amp;#10;MARKED AS NUMBER 1 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7432634&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7432634</guid>
-<pubDate>Mon, 14 Apr 2025 12:16:24 +0100</pubDate>
-<georss:point>51.8472892881612 -2.09239049032523</georss:point>
-</item>
-<item>
-<title>Trees in Car Park area need Straps Removed, 14th April</title>
-<link>https://www.fixmystreet.com/report/7432520</link>
-<description>Lidl Bishops Cleeve GL528NF -&amp;#10;&amp;#10;The young trees planted in the Car Park area, have plant supports. These supports are attached using straps which are now cutting into the trees and will kill them unless removed now.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Evesham Road, Bishop&#39;s Cleeve&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7432520&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Trees</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7432520</guid>
-<pubDate>Mon, 14 Apr 2025 12:15:36 +0100</pubDate>
-<georss:point>51.948242 -2.063164</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 14th April</title>
-<link>https://www.fixmystreet.com/report/7432633</link>
-<description>Cw pothole &amp;#10;Patch required &amp;#10;2000x2000x40mm&amp;#10;Give and take (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7432633&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7432633</guid>
-<pubDate>Mon, 14 Apr 2025 12:11:31 +0100</pubDate>
-<georss:point>51.8765325853183 -2.05006114708588</georss:point>
-</item>
-<item>
 <title>TMC - Defects - Other problem, 14th April</title>
-<link>https://www.fixmystreet.com/report/7432632</link>
-<description>SOIL REQUIRED &amp;#10;23m X 1M X 100mm&amp;#10;ROAD CLOSURE &amp;#10;MARKED AS NUMBER 8&amp;#10;RECOMMEND OUT OF HOURS (CW Over-Riding)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7432632&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/7433369</link>
+<description>PLANNING REQUIRED &amp;#10;15m X 500 X 100mm&amp;#10;2 WAY TRAFFIC LIGHTS &amp;#10;MARKED AS NUMBER 1 (CW Over-Riding)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7433369&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Other</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7432632</guid>
-<pubDate>Mon, 14 Apr 2025 12:05:31 +0100</pubDate>
-<georss:point>51.8316999999996 -2.10322359999999</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7433369</guid>
+<pubDate>Mon, 14 Apr 2025 13:56:58 +0100</pubDate>
+<georss:point>51.8609647999996 -2.03168030000001</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 14th April</title>
-<link>https://www.fixmystreet.com/report/7432437</link>
-<description>Cw pothole &amp;#10;1500x800x45mm&amp;#10;Stop and go (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7432437&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/7433365</link>
+<description>CWPH &amp;#10;STATS REQUIRED AROUND IRONWORKS &amp;#10;1000 X 400 X 40mm APROX &amp;#10;2 WAY TRAFFIC LIGHTS &amp;#10;MARKED AS NUMBER 4&amp;#10;RECOMMEND OUT OF HOURS (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7433365&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7432437</guid>
-<pubDate>Mon, 14 Apr 2025 12:02:23 +0100</pubDate>
-<georss:point>51.8811137999996 -2.05215699999999</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7433365</guid>
+<pubDate>Mon, 14 Apr 2025 13:54:20 +0100</pubDate>
+<georss:point>51.8602496999995 -2.03319100000001</georss:point>
+</item>
+<item>
+<title>Pothole near BS Honey, 14th April</title>
+<link>https://www.fixmystreet.com/report/7433241</link>
+<description>Pothole on Churchdown line a marked&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Hucclecote Lane, Churchdown, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7433241&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>A pothole in road</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7433241</guid>
+<pubDate>Mon, 14 Apr 2025 13:46:26 +0100</pubDate>
+<georss:point>51.866857 -2.166279</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 14th April</title>
-<link>https://www.fixmystreet.com/report/7432435</link>
-<description>CWPH&amp;#10;STATS REQUIRED AROUND IRONWORKS &amp;#10;600 X 600 X 50mm&amp;#10;ROAD CLOSURE &amp;#10;MARKED AS NUMBER 7&amp;#10;RECOMMEND OUT OF HOURS (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7432435&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/7433134</link>
+<description>CWPH &amp;#10;2000 X 500 X 50mm&amp;#10;4 WAY TRAFFIC LIGHTS &amp;#10;MARKED AS NUMBER 2&amp;#10;RECOMMEND OUT OF HOURS (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7433134&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7432435</guid>
-<pubDate>Mon, 14 Apr 2025 12:01:00 +0100</pubDate>
-<georss:point>51.8317650999996 -2.10297709999999</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7433134</guid>
+<pubDate>Mon, 14 Apr 2025 13:30:13 +0100</pubDate>
+<georss:point>51.8526107999991 -2.04719890000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 14th April</title>
+<link>https://www.fixmystreet.com/report/7433133</link>
+<description>CWPH &amp;#10;700 X 300 X 40mm&amp;#10;4 WAY TRAFFIC LIGHTS &amp;#10;MARKED AS NUMBER 1&amp;#10;RECOMMEND OUT OF HOURS (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7433133&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7433133</guid>
+<pubDate>Mon, 14 Apr 2025 13:28:27 +0100</pubDate>
+<georss:point>51.8525968999996 -2.0472098</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Signs &amp; Street Furniture problem, 14th April</title>
+<link>https://www.fixmystreet.com/report/7433128</link>
+<description>2 HOUR WITH GIVE AN TAKE PLUS 15 MINUTES DELAY BOARDS NEEDED NARROW ROAD PLEASE MAKE SAFE DAMAGED ACO CHANNEL WITH TEMPORARY TARMAC PATCH 1000X150X50MM (Damaged Street Furniture)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7433128&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Signs &amp; Street Furniture</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7433128</guid>
+<pubDate>Mon, 14 Apr 2025 13:22:38 +0100</pubDate>
+<georss:point>51.9073363999995 -2.07955199999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 14th April</title>
+<link>https://www.fixmystreet.com/report/7433123</link>
+<description>Cw pothole &amp;#10;500x500x40mm&amp;#10;X2 nsd&amp;#10;Give and take (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7433123&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7433123</guid>
+<pubDate>Mon, 14 Apr 2025 13:16:48 +0100</pubDate>
+<georss:point>51.911883392368 -2.03689906245739</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 14th April</title>
+<link>https://www.fixmystreet.com/report/7433121</link>
+<description>Cw pothole &amp;#10;400x300x40mm&amp;#10;Give and take (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7433121&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7433121</guid>
+<pubDate>Mon, 14 Apr 2025 13:16:48 +0100</pubDate>
+<georss:point>51.9118785999996 -2.03691169999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects -other CW6 problem, 14th April</title>
+<link>https://www.fixmystreet.com/report/7433118</link>
+<description>Edge deterioration CW 1000mm  x 600mm  x 45mm &amp;#10;Give and take TM &amp;#10;Outside 14 (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7433118&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -other CW6</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7433118</guid>
+<pubDate>Mon, 14 Apr 2025 13:16:08 +0100</pubDate>
+<georss:point>51.8777327999996 -2.04532790000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 14th April</title>
+<link>https://www.fixmystreet.com/report/7433110</link>
+<description>Pothole CW 500mm  x 400mm  x 45mm &amp;#10;Give and take TM &amp;#10;Outside 2 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7433110&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7433110</guid>
+<pubDate>Mon, 14 Apr 2025 13:11:38 +0100</pubDate>
+<georss:point>51.8774502998072 -2.04419987345383</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Vegetation problem, 14th April</title>
+<link>https://www.fixmystreet.com/report/7432866</link>
+<description>Remove broken hanging branch from off the road side of tree (Damaged Tree)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7432866&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Vegetation</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7432866</guid>
+<pubDate>Mon, 14 Apr 2025 12:55:14 +0100</pubDate>
+<georss:point>51.8976115288229 -2.06055763367135</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 14th April</title>
+<link>https://www.fixmystreet.com/report/7432864</link>
+<description>CWPH &amp;#10;300 X 300 X 40mm&amp;#10;2 WAY TRAFFIC LIGHTS &amp;#10;MARKED AS NUMBER 10 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7432864&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7432864</guid>
+<pubDate>Mon, 14 Apr 2025 12:53:11 +0100</pubDate>
+<georss:point>51.8505742999996 -2.08691570000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 14th April</title>
+<link>https://www.fixmystreet.com/report/7432863</link>
+<description>CWPH &amp;#10;1200 X 300 X 40mm&amp;#10;2 WAY TRAFFIC LIGHTS &amp;#10;MARKED AS NUMBER 9&amp;#10;PLUS 1 X NSD (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7432863&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7432863</guid>
+<pubDate>Mon, 14 Apr 2025 12:51:29 +0100</pubDate>
+<georss:point>51.8505681999996 -2.0868321</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 14th April</title>
+<link>https://www.fixmystreet.com/report/7432861</link>
+<description>Cw pothole &amp;#10;300x300x40mm&amp;#10;Give and take (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7432861&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7432861</guid>
+<pubDate>Mon, 14 Apr 2025 12:49:12 +0100</pubDate>
+<georss:point>51.8799485506659 -2.04493337943656</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Vegetation problem, 14th April</title>
+<link>https://www.fixmystreet.com/report/7432860</link>
+<description>Tree fallen across Foot path&amp;#10;TM: Give and Take (ample off road parking)&amp;#10;ENWD.&amp;#10;Opposite No 3, on grass verge. (Damaged Tree)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7432860&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Vegetation</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7432860</guid>
+<pubDate>Mon, 14 Apr 2025 12:49:08 +0100</pubDate>
+<georss:point>51.8727261999995 -2.1678086</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 14th April</title>
+<link>https://www.fixmystreet.com/report/7432859</link>
+<description>FWPH &amp;#10;400 X 300 X 40mm&amp;#10;2 WAY TRAFFIC LIGHTS &amp;#10;MARKED AS NUMBER 8 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7432859&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7432859</guid>
+<pubDate>Mon, 14 Apr 2025 12:48:43 +0100</pubDate>
+<georss:point>51.8506593926234 -2.08676903300107</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 14th April</title>
+<link>https://www.fixmystreet.com/report/7432854</link>
+<description>Cw pothole &amp;#10;600x300x40mm&amp;#10;X1 nsd&amp;#10;Give and take (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7432854&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7432854</guid>
+<pubDate>Mon, 14 Apr 2025 12:46:06 +0100</pubDate>
+<georss:point>51.8782894999996 -2.0439597</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 14th April</title>
+<link>https://www.fixmystreet.com/report/7432855</link>
+<description>Cw pothole &amp;#10;800x300x40mm&amp;#10;Give and take (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7432855&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7432855</guid>
+<pubDate>Mon, 14 Apr 2025 12:46:06 +0100</pubDate>
+<georss:point>51.8783304423722 -2.04389917041955</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Road Markings problem, 14th April</title>
+<link>https://www.fixmystreet.com/report/7432852</link>
+<description>PLEASE REPAINT WHITE LINES &amp;#10;29 X DOUBLE DOTS &amp;#10;9 X SINGLE DOTS &amp;#10;2 X TRIANGLE &amp;#10;2 X CENTER LINES &amp;#10;ROAD CLOSURE (Faded Road Markings)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7432852&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Road Markings</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7432852</guid>
+<pubDate>Mon, 14 Apr 2025 12:43:55 +0100</pubDate>
+<georss:point>51.8523398521585 -2.0849435770976</georss:point>
 </item>
 <item>
 <title>TMC - Defects -FW6 Potholes problem, 14th April</title>
-<link>https://www.fixmystreet.com/report/7432433</link>
-<description>FW pothole &amp;#10;300mmx300mmx40mm&amp;#10;TM: Give and Take &amp;#10;3 x NSDs &amp;#10;Enterence to Longlevens Infant school (FW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7432433&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/7432846</link>
+<description>FWPH &amp;#10;800 X 400 X 50mm&amp;#10;4 WAY TRAFFIC LIGHTS &amp;#10;MARKED AS NUMBER 7 (FW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7432846&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -FW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7432433</guid>
-<pubDate>Mon, 14 Apr 2025 11:54:20 +0100</pubDate>
-<georss:point>51.8761774999995 -2.20945559999999</georss:point>
-</item>
-<item>
-<title>Tree is damaged problem, 14th April</title>
-<link>https://www.fixmystreet.com/report/7432409</link>
-<description>Customer has called and would like to make us aware of some concern of dead and dangerous looking trees in this area and may need inspection. 11484558 relates to PROW enquiry on bridle path side.&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7432409&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Tree is damaged</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7432409</guid>
-<pubDate>Mon, 14 Apr 2025 11:52:44 +0100</pubDate>
-<georss:point>51.834399 -2.160479</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other problem, 14th April</title>
-<link>https://www.fixmystreet.com/report/7432431</link>
-<description>PLANNING REQUIRED &amp;#10;3m X 500 X 100mm&amp;#10;2 WAY TRAFFIC LIGHTS &amp;#10;MARKED AS NUMBER 5 (CW Over-Riding)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7432431&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7432431</guid>
-<pubDate>Mon, 14 Apr 2025 11:51:18 +0100</pubDate>
-<georss:point>51.8205684999996 -2.11775950000001</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7432846</guid>
+<pubDate>Mon, 14 Apr 2025 12:38:30 +0100</pubDate>
+<georss:point>51.8523022999996 -2.0850501</georss:point>
 </item>
 </channel>
 </rss>
