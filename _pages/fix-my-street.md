@@ -9,6 +9,16 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- I have reported this before, 14th April :- [7430591](https://www.fixmystreet.com/report/7430591)
+- TMC - Defects -CW6 Potholes  problem, 14th April :- [7430490](https://www.fixmystreet.com/report/7430490)
+- TMC - Defects -CW6 Potholes  problem, 14th April :- [7430487](https://www.fixmystreet.com/report/7430487)
+- TMC - Defects -CW6 Potholes  problem, 14th April :- [7430488](https://www.fixmystreet.com/report/7430488)
+- TMC - Defects -CW6 Potholes  problem, 14th April :- [7430489](https://www.fixmystreet.com/report/7430489)
+- TMC - Defects -CW6 Potholes  problem, 14th April :- [7430491](https://www.fixmystreet.com/report/7430491)
+- TMC - Defects -CW6 Potholes  problem, 14th April :- [7430486](https://www.fixmystreet.com/report/7430486)
+- 10 inch pothole, 14th April :- [7430414](https://www.fixmystreet.com/report/7430414)
+- TMC - Defects - Other FW6  Surface problem, 14th April :- [7430483](https://www.fixmystreet.com/report/7430483)
+- TMC - Defects - Other FW6  Surface problem, 14th April :- [7430480](https://www.fixmystreet.com/report/7430480)
 - Fly tipping in lane, 14th April :- [7430209](https://www.fixmystreet.com/report/7430209)
 - Exposed Rubbish, 14th April :- [7430173](https://www.fixmystreet.com/report/7430173)
 - Pothole in bricked section of road - failed repair dangerous for cars and cyclists, 13th April :- [7429573](https://www.fixmystreet.com/report/7429573)
@@ -19,15 +29,5 @@ permalink: /fix-my-street
 - Traffic cone, corner next to 2 Chase Ave, 13th April :- [7428350](https://www.fixmystreet.com/report/7428350)
 - Multiple flyposters attached to hedgerows, 13th April :- [7428340](https://www.fixmystreet.com/report/7428340)
 - Graffiti, 13th April :- [7428136](https://www.fixmystreet.com/report/7428136)
-- Damage to road on road heading towards winchcombe, 13th April :- [7427962](https://www.fixmystreet.com/report/7427962)
-- Fly tipping, 13th April :- [7427461](https://www.fixmystreet.com/report/7427461)
-- Abandoned rubbish left just outside of the High Street in Cheltenham, 13th April :- [7427327](https://www.fixmystreet.com/report/7427327)
-- Scattered rubbish, 13th April :- [7426818](https://www.fixmystreet.com/report/7426818)
-- Two full black bin bags, 13th April :- [7426810](https://www.fixmystreet.com/report/7426810)
-- The stonemason has blocked the access to this footpath. The sign on the pole is missing., 13th April :- [7426805](https://www.fixmystreet.com/report/7426805)
-- Green filter light onto St George’s Road turning left is not working, 12th April :- [7426227](https://www.fixmystreet.com/report/7426227)
-- Traffic lights change to red for no reason, 12th April :- [7426221](https://www.fixmystreet.com/report/7426221)
-- Pothole outside 41 Horsefair St, 12th April :- [7425922](https://www.fixmystreet.com/report/7425922)
-- Leaves pile of, 12th April :- [7425763](https://www.fixmystreet.com/report/7425763)
 
 <!-- fix_marker ends -->
