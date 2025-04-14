@@ -9,9 +9,9 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Cheltenham Welcomes Refugees celebrates receiving the King’s Award for Voluntary Service ([11 hours ago](https://gloucesternewscentre.co.uk/cheltenham-welcomes-refugees-celebrates-receiving-the-kings-award-for-voluntary-service/))
-- Wildlife park welcomes new pelican for breeding scheme ([14 hours ago](https://www.bbc.com/news/articles/cd6j2gev4y9o))
-- Nine arrests after burglary at commercial property ([17 hours ago](https://www.bbc.com/news/articles/cjr7lj51dnjo))
+- Cheltenham Welcomes Refugees celebrates receiving the King’s Award for Voluntary Service ([12 hours ago](https://gloucesternewscentre.co.uk/cheltenham-welcomes-refugees-celebrates-receiving-the-kings-award-for-voluntary-service/))
+- Wildlife park welcomes new pelican for breeding scheme ([15 hours ago](https://www.bbc.com/news/articles/cd6j2gev4y9o))
+- Nine arrests after burglary at commercial property ([18 hours ago](https://www.bbc.com/news/articles/cjr7lj51dnjo))
 - Racecourse helps charity attending horse incidents ([21 hours ago](https://www.bbc.com/news/articles/cd6jjj89vg1o))
 - Gloucestershire in Pictures: Pelicans and dancing ([21 hours ago](https://www.bbc.com/news/articles/c30qq5374qpo))
 - Headlines: 'Nuclear rats' and trek claim 'ignorant' ([21 hours ago](https://www.bbc.com/news/articles/cn7xvrvm7neo))
