@@ -9,14 +9,14 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Teen says counselling was reason for GCSE success ([4 hours ago](https://www.bbc.com/news/articles/czrv6n65806o))
-- 'Truly inspiring' tennis club wins top award ([6 hours ago](https://www.bbc.com/news/articles/c8rggkl72dyo))
-- Appeal to locate wanted man Mason McConnon from Cheltenham ([6 hours ago](https://gloucesternewscentre.co.uk/appeal-to-locate-wanted-man-mason-mcconnon-from-cheltenham/))
-- Man charged with offences related to hunting with dogs ([10 hours ago](https://gloucesternewscentre.co.uk/man-charged-with-offences-related-to-hunting-with-dogs/))
-- Headlines: Easter topiary and festival ticket scams ([11 hours ago](https://www.bbc.com/news/articles/c2lz7ny9xzlo))
-- Bridge to be repaired after storm and car damage ([11 hours ago](https://www.bbc.com/news/articles/cn4j7v4n43ko))
-- MoD site playing 'key part' in Army modernisation ([16 hours ago](https://www.bbc.com/news/articles/cwyn3ryydz7o))
-- West End stars to honour 'inspirational' teacher ([16 hours ago](https://www.bbc.com/news/articles/cyvqqme82zvo))
+- Teen says counselling was reason for GCSE success ([5 hours ago](https://www.bbc.com/news/articles/czrv6n65806o))
+- 'Truly inspiring' tennis club wins top award ([7 hours ago](https://www.bbc.com/news/articles/c8rggkl72dyo))
+- Appeal to locate wanted man Mason McConnon from Cheltenham ([7 hours ago](https://gloucesternewscentre.co.uk/appeal-to-locate-wanted-man-mason-mcconnon-from-cheltenham/))
+- Man charged with offences related to hunting with dogs ([11 hours ago](https://gloucesternewscentre.co.uk/man-charged-with-offences-related-to-hunting-with-dogs/))
+- Headlines: Easter topiary and festival ticket scams ([12 hours ago](https://www.bbc.com/news/articles/c2lz7ny9xzlo))
+- Bridge to be repaired after storm and car damage ([12 hours ago](https://www.bbc.com/news/articles/cn4j7v4n43ko))
+- MoD site playing 'key part' in Army modernisation ([17 hours ago](https://www.bbc.com/news/articles/cwyn3ryydz7o))
+- West End stars to honour 'inspirational' teacher ([17 hours ago](https://www.bbc.com/news/articles/cyvqqme82zvo))
 - Cheltenham Welcomes Refugees celebrates receiving the King’s Award for Voluntary Service ([1 days ago](https://gloucesternewscentre.co.uk/cheltenham-welcomes-refugees-celebrates-receiving-the-kings-award-for-voluntary-service/))
 - Wildlife park welcomes new pelican for breeding scheme ([1 days ago](https://www.bbc.com/news/articles/cd6j2gev4y9o))
 - Nine arrests after burglary at commercial property ([1 days ago](https://www.bbc.com/news/articles/cjr7lj51dnjo))
