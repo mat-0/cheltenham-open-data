@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:georss="http://www.georss.org/georss"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
+ xmlns:georss="http://www.georss.org/georss"
 >
 
 <channel>
@@ -13,6 +13,51 @@
 <language>en-gb</language>
 
 <item>
+<title>TMC - Defects - Other FW6  Surface problem, 15th April</title>
+<link>https://www.fixmystreet.com/report/7439532</link>
+<description>28 day with give an take plus temporary footway closure needed footway abrupt level difference 600x300x25mm tarmac patch required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7439532&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7439532</guid>
+<pubDate>Tue, 15 Apr 2025 15:08:31 +0100</pubDate>
+<georss:point>51.8902694717063 -2.0714306747646</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Road Markings problem, 15th April</title>
+<link>https://www.fixmystreet.com/report/7439533</link>
+<description>28 day with road closure needed please refresh give way markings appropriately 15  meters best out of hours (Faded Road Markings)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7439533&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Road Markings</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7439533</guid>
+<pubDate>Tue, 15 Apr 2025 15:08:31 +0100</pubDate>
+<georss:point>51.8895795999996 -2.07193460000001</georss:point>
+</item>
+<item>
+<title>A pothole in road problem, 15th April</title>
+<link>https://www.fixmystreet.com/report/7439344</link>
+<description>Pothole with a manhole cover in side needs looking into&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7439344&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>A pothole in road</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7439344</guid>
+<pubDate>Tue, 15 Apr 2025 14:57:51 +0100</pubDate>
+<georss:point>51.888246 -2.057592</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Footways Slabs problem, 15th April</title>
+<link>https://www.fixmystreet.com/report/7439369</link>
+<description>28 day with give an take plus temporary footway closure needed please relay x1  rocking 600x600x20mm slab (FW Rocking/Unstable Slab)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7439369&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7439369</guid>
+<pubDate>Tue, 15 Apr 2025 14:56:35 +0100</pubDate>
+<georss:point>51.8942832056917 -2.07196105915695</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Footways Slabs problem, 15th April</title>
+<link>https://www.fixmystreet.com/report/7439370</link>
+<description>28 day with give an take plus temporary footway closure needed please relay x1  rocking 600x600x20mm slab (FW Rocking/Unstable Slab)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7439370&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7439370</guid>
+<pubDate>Tue, 15 Apr 2025 14:56:35 +0100</pubDate>
+<georss:point>51.8943187965479 -2.07225680250412</georss:point>
+</item>
+<item>
 <title>TMC - Defects - Road Markings problem, 15th April</title>
 <link>https://www.fixmystreet.com/report/7439176</link>
 <description>28 day with road closure needed please refresh give way markings appropriately 15  meters best out of hours (Faded Road Markings)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7439176&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
@@ -20,42 +65,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/7439176</guid>
 <pubDate>Tue, 15 Apr 2025 14:31:01 +0100</pubDate>
 <georss:point>51.8936685999995 -2.09031579999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 15th April</title>
-<link>https://www.fixmystreet.com/report/7439155</link>
-<description>28 day with give an take carriage way pothole 600x500x40mm tarmac patch required best out of hours 15  minutes delay boards needed  number 1 plus x3 NSD (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7439155&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7439155</guid>
-<pubDate>Tue, 15 Apr 2025 14:18:54 +0100</pubDate>
-<georss:point>51.8996291999996 -2.0877754</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Road Markings problem, 15th April</title>
-<link>https://www.fixmystreet.com/report/7439157</link>
-<description>28 day with road closure needed please refresh give way markings appropriately 10  meters best out of hours (Faded Road Markings)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7439157&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Road Markings</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7439157</guid>
-<pubDate>Tue, 15 Apr 2025 14:18:54 +0100</pubDate>
-<georss:point>51.8991495999996 -2.08929680000001</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 15th April</title>
-<link>https://www.fixmystreet.com/report/7439151</link>
-<description>28 day with give an take carriage way pothole 400x300x40mm tarmac patch required best out of hours 15  minutes delay boards needed (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7439151&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7439151</guid>
-<pubDate>Tue, 15 Apr 2025 14:18:54 +0100</pubDate>
-<georss:point>51.8976369999996 -2.0857428</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 15th April</title>
-<link>https://www.fixmystreet.com/report/7439153</link>
-<description>28 day with give an take carriage way pothole 500x300x40mm tarmac patch required best out of hours 15  minutes delay boards needed  number 2 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7439153&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7439153</guid>
-<pubDate>Tue, 15 Apr 2025 14:18:54 +0100</pubDate>
-<georss:point>51.8991971054704 -2.08693697391863</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 15th April</title>
@@ -68,12 +77,12 @@
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 15th April</title>
-<link>https://www.fixmystreet.com/report/7439154</link>
-<description>28 day with give an take carriage way pothole 700x400x60mm tarmac patch required best out of hours 15  minutes delay boards needed  number 1 plus x2 NSD (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7439154&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/7439155</link>
+<description>28 day with give an take carriage way pothole 600x500x40mm tarmac patch required best out of hours 15  minutes delay boards needed  number 1 plus x3 NSD (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7439155&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7439154</guid>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7439155</guid>
 <pubDate>Tue, 15 Apr 2025 14:18:54 +0100</pubDate>
-<georss:point>51.8994493646072 -2.08735593248931</georss:point>
+<georss:point>51.8996291999996 -2.0877754</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 15th April</title>
@@ -83,6 +92,42 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/7439156</guid>
 <pubDate>Tue, 15 Apr 2025 14:18:54 +0100</pubDate>
 <georss:point>51.8996570999996 -2.08807490000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 15th April</title>
+<link>https://www.fixmystreet.com/report/7439151</link>
+<description>28 day with give an take carriage way pothole 400x300x40mm tarmac patch required best out of hours 15  minutes delay boards needed (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7439151&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7439151</guid>
+<pubDate>Tue, 15 Apr 2025 14:18:54 +0100</pubDate>
+<georss:point>51.8976369999996 -2.0857428</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 15th April</title>
+<link>https://www.fixmystreet.com/report/7439154</link>
+<description>28 day with give an take carriage way pothole 700x400x60mm tarmac patch required best out of hours 15  minutes delay boards needed  number 1 plus x2 NSD (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7439154&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7439154</guid>
+<pubDate>Tue, 15 Apr 2025 14:18:54 +0100</pubDate>
+<georss:point>51.8994493646072 -2.08735593248931</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 15th April</title>
+<link>https://www.fixmystreet.com/report/7439153</link>
+<description>28 day with give an take carriage way pothole 500x300x40mm tarmac patch required best out of hours 15  minutes delay boards needed  number 2 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7439153&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7439153</guid>
+<pubDate>Tue, 15 Apr 2025 14:18:54 +0100</pubDate>
+<georss:point>51.8991971054704 -2.08693697391863</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Road Markings problem, 15th April</title>
+<link>https://www.fixmystreet.com/report/7439157</link>
+<description>28 day with road closure needed please refresh give way markings appropriately 10  meters best out of hours (Faded Road Markings)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7439157&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Road Markings</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7439157</guid>
+<pubDate>Tue, 15 Apr 2025 14:18:54 +0100</pubDate>
+<georss:point>51.8991495999996 -2.08929680000001</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Road Markings problem, 15th April</title>
@@ -121,15 +166,6 @@
 <georss:point>51.8955230999996 -2.08632909999999</georss:point>
 </item>
 <item>
-<title>TMC - Defects -CW6 Potholes  problem, 15th April</title>
-<link>https://www.fixmystreet.com/report/7438947</link>
-<description>28 day with give an take carriage way pothole 700x300x50mm tarmac patch required best out of hours (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7438947&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7438947</guid>
-<pubDate>Tue, 15 Apr 2025 14:00:48 +0100</pubDate>
-<georss:point>51.89820031164 -2.08453194683869</georss:point>
-</item>
-<item>
 <title>TMC - Defects - Road Markings problem, 15th April</title>
 <link>https://www.fixmystreet.com/report/7438950</link>
 <description>28 day with road closure needed please refresh give way markings appropriately 15  meters best out of hours (Faded Road Markings)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7438950&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
@@ -155,42 +191,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/7438948</guid>
 <pubDate>Tue, 15 Apr 2025 14:00:48 +0100</pubDate>
 <georss:point>51.8980682992568 -2.08484339016239</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 15th April</title>
-<link>https://www.fixmystreet.com/report/7438946</link>
-<description>28 day with give an take carriage way pothole 1000x400x40mm tarmac patch required best out of hours (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7438946&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7438946</guid>
-<pubDate>Tue, 15 Apr 2025 14:00:48 +0100</pubDate>
-<georss:point>51.8983044914428 -2.08415272154231</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW10 Potholes problem, 15th April</title>
-<link>https://www.fixmystreet.com/report/7438945</link>
-<description>28DAY CW Pothole Approx 900 x 600 x 40mm &amp;#10;Give and take TM &amp;#10;30MPH Road (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7438945&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW10 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7438945</guid>
-<pubDate>Tue, 15 Apr 2025 14:00:45 +0100</pubDate>
-<georss:point>51.9402248999995 -2.0609713</georss:point>
-</item>
-<item>
-<title>Flytipped items, 15th April</title>
-<link>https://www.fixmystreet.com/report/7438873</link>
-<description>See photo&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/7438873.0.jpeg?ccd07138&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Wellesley Road, Marle Hill, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7438873&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Flytipping</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7438873</guid>
-<pubDate>Tue, 15 Apr 2025 13:57:36 +0100</pubDate>
-<georss:point>51.905345 -2.074684</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Signs &amp; Street Furniture problem, 15th April</title>
-<link>https://www.fixmystreet.com/report/7438941</link>
-<description>Damage Bollard&amp;#10;TM: Give and Take &amp;#10;Outside Feathers &amp;amp; Flavours &amp;#10;Not sure if it&amp;#39;s on our ground. (Damaged Bollard)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7438941&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Signs &amp; Street Furniture</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7438941</guid>
-<pubDate>Tue, 15 Apr 2025 13:56:49 +0100</pubDate>
-<georss:point>51.9475009999995 -2.06169859999999</georss:point>
 </item>
 </channel>
 </rss>
