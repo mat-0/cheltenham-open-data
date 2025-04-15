@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Centre of entrance to road, 15th April :- [7436110](https://www.fixmystreet.com/report/7436110)
 - Traffic lights for roadworks we're not working, 14th April :- [7435766](https://www.fixmystreet.com/report/7435766)
 - Flytipped items, 14th April :- [7435029](https://www.fixmystreet.com/report/7435029)
 - Pothole, 14th April :- [7434916](https://www.fixmystreet.com/report/7434916)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -FW6 Potholes problem, 14th April :- [7433611](https://www.fixmystreet.com/report/7433611)
 - TMC - Defects -FW6 Potholes problem, 14th April :- [7433613](https://www.fixmystreet.com/report/7433613)
 - TMC - Defects -FW6 Potholes problem, 14th April :- [7433612](https://www.fixmystreet.com/report/7433612)
-- TMC - Defects -CW6 Potholes  problem, 14th April :- [7433605](https://www.fixmystreet.com/report/7433605)
 
 <!-- fix_marker ends -->
