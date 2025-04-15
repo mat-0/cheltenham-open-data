@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole appeared after road sweeper came round, I believe., 15th April :- [7441179](https://www.fixmystreet.com/report/7441179)
 - Massive potholes all down the road, 15th April :- [7440432](https://www.fixmystreet.com/report/7440432)
 - Mattress fly tipped rear of shops, 15th April :- [7440394](https://www.fixmystreet.com/report/7440394)
 - Pothole on road & pavement School Road, near Merryfellow car park, 15th April :- [7440171](https://www.fixmystreet.com/report/7440171)
@@ -21,13 +22,12 @@ permalink: /fix-my-street
 - TMC - Defects - Footways Slabs problem, 15th April :- [7439369](https://www.fixmystreet.com/report/7439369)
 - TMC - Defects - Footways Slabs problem, 15th April :- [7439370](https://www.fixmystreet.com/report/7439370)
 - TMC - Defects - Road Markings problem, 15th April :- [7439176](https://www.fixmystreet.com/report/7439176)
+- TMC - Defects -CW6 Potholes  problem, 15th April :- [7439151](https://www.fixmystreet.com/report/7439151)
+- TMC - Defects -CW6 Potholes  problem, 15th April :- [7439152](https://www.fixmystreet.com/report/7439152)
+- TMC - Defects - Road Markings problem, 15th April :- [7439157](https://www.fixmystreet.com/report/7439157)
 - TMC - Defects -CW6 Potholes  problem, 15th April :- [7439154](https://www.fixmystreet.com/report/7439154)
 - TMC - Defects -CW6 Potholes  problem, 15th April :- [7439156](https://www.fixmystreet.com/report/7439156)
-- TMC - Defects -CW6 Potholes  problem, 15th April :- [7439153](https://www.fixmystreet.com/report/7439153)
 - TMC - Defects -CW6 Potholes  problem, 15th April :- [7439155](https://www.fixmystreet.com/report/7439155)
-- TMC - Defects -CW6 Potholes  problem, 15th April :- [7439151](https://www.fixmystreet.com/report/7439151)
-- TMC - Defects - Road Markings problem, 15th April :- [7439157](https://www.fixmystreet.com/report/7439157)
-- TMC - Defects -CW6 Potholes  problem, 15th April :- [7439152](https://www.fixmystreet.com/report/7439152)
-- TMC - Defects - Road Markings problem, 15th April :- [7439145](https://www.fixmystreet.com/report/7439145)
+- TMC - Defects -CW6 Potholes  problem, 15th April :- [7439153](https://www.fixmystreet.com/report/7439153)
 
 <!-- fix_marker ends -->
