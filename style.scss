@@ -8,12 +8,28 @@ html {
 }
 // 16px = 1em
 
-$background: #FCFFFC;
-$primary: #040F0F;
+@font-face {
+    font-family: "TheChelsUKLight";
+    src: url("fonts/TheChelsLight.woff") format("woff");
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "TheChelsUKMedium";
+    src: url("fonts/TheChelsMedium.woff") format("woff");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+$background: #fcfffc;
+$primary: #040f0f;
 $secondary: #c1497d;
-$links: #3E92CC;
+$links: #3e92cc;
 $accent: #93ce41;
-$font-stack: -system-ui, "Gill Sans", sans-serif;
+$font-stack: "TheChelsLight", -system-ui, "Gill Sans", sans-serif;
+$header-stack: "TheChelsUKMedium", -system-ui, "Gill Sans", sans-serif;
 $font-mono: ui-monospace, monospace, "Courier New";
 
 .primary {
@@ -200,6 +216,7 @@ h6 {
     position: relative;
     display: block;
     margin-top: 0.75em;
+    font-family: $header-stack;
 
     &:hover::after {
         content: " #";
