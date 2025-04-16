@@ -9,12 +9,18 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Poor road condition/potholes/craters, 16th April :- [7442384](https://www.fixmystreet.com/report/7442384)
+- Footpath blocked, 16th April :- [7442365](https://www.fixmystreet.com/report/7442365)
+- TMC - Defects -other CW6 problem, 16th April :- [7442268](https://www.fixmystreet.com/report/7442268)
+- TMC - Defects -other CW6 problem, 16th April :- [7442269](https://www.fixmystreet.com/report/7442269)
+- TMC - Defects -other CW6 problem, 16th April :- [7442267](https://www.fixmystreet.com/report/7442267)
+- TMC - Defects - Vegetation problem, 16th April :- [7442250](https://www.fixmystreet.com/report/7442250)
 - Tree branch is obstructing the road. The branch is not broken and is too heavy for me to lift., 16th April :- [7442006](https://www.fixmystreet.com/report/7442006)
 - Glass all over public footpath, 16th April :- [7441939](https://www.fixmystreet.com/report/7441939)
 - TMC - Defects - Kerbs and Channels problem, 16th April :- [7441890](https://www.fixmystreet.com/report/7441890)
-- TMC - Defects -CW6 Potholes  problem, 16th April :- [7441888](https://www.fixmystreet.com/report/7441888)
 - TMC - Defects - Covers, Gratings & Frames problem, 16th April :- [7441887](https://www.fixmystreet.com/report/7441887)
 - TMC - Defects - Road Markings problem, 16th April :- [7441889](https://www.fixmystreet.com/report/7441889)
+- TMC - Defects -CW6 Potholes  problem, 16th April :- [7441888](https://www.fixmystreet.com/report/7441888)
 - TMC - Defects -CW6 Potholes  problem, 16th April :- [7441754](https://www.fixmystreet.com/report/7441754)
 - TMC - Defects -CW6 Potholes  problem, 16th April :- [7441753](https://www.fixmystreet.com/report/7441753)
 - TMC - Defects -CW6 Potholes  problem, 16th April :- [7441752](https://www.fixmystreet.com/report/7441752)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Mattress fly tipped rear of shops, 15th April :- [7440394](https://www.fixmystreet.com/report/7440394)
 - Pothole on road & pavement School Road, near Merryfellow car park, 15th April :- [7440171](https://www.fixmystreet.com/report/7440171)
 - Numerous potholes and badly repaired holes for a stretch of road from the begining of castle hill drive to the second turning leading to lasne crescent., 15th April :- [7440024](https://www.fixmystreet.com/report/7440024)
-- Several deep potholes for the length of the road, 15th April :- [7439866](https://www.fixmystreet.com/report/7439866)
-- Potholes and road damage all the way up Roberts road, 15th April :- [7439851](https://www.fixmystreet.com/report/7439851)
-- TMC - Defects - Road Markings problem, 15th April :- [7439533](https://www.fixmystreet.com/report/7439533)
-- TMC - Defects - Other FW6  Surface problem, 15th April :- [7439532](https://www.fixmystreet.com/report/7439532)
-- A pothole in road problem, 15th April :- [7439344](https://www.fixmystreet.com/report/7439344)
-- TMC - Defects - Footways Slabs problem, 15th April :- [7439369](https://www.fixmystreet.com/report/7439369)
 
 <!-- fix_marker ends -->
