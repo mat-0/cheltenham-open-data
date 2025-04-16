@@ -9,14 +9,14 @@ html {
 // 16px = 1em
 
 @font-face {
-    font-family: "TheChelsUKLight";
+    font-family: "TheChelsLight";
     src: url("fonts/TheChelsLight.woff") format("woff");
     font-weight: 300;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
-    font-family: "TheChelsUKMedium";
+    font-family: "TheChelsMedium";
     src: url("fonts/TheChelsMedium.woff") format("woff");
     font-weight: 400;
     font-style: normal;
@@ -29,7 +29,7 @@ $secondary: #c1497d;
 $links: #3e92cc;
 $accent: #93ce41;
 $font-stack: "TheChelsLight", -system-ui, "Gill Sans", sans-serif;
-$header-stack: "TheChelsUKMedium", -system-ui, "Gill Sans", sans-serif;
+$header-stack: "TheChelsMedium", -system-ui, "Gill Sans", sans-serif;
 $font-mono: ui-monospace, monospace, "Courier New";
 
 .primary {
