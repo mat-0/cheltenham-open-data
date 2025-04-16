@@ -23,11 +23,11 @@ permalink: /fix-my-street
 - TMC - Defects - Footways Slabs problem, 15th April :- [7439370](https://www.fixmystreet.com/report/7439370)
 - TMC - Defects - Road Markings problem, 15th April :- [7439176](https://www.fixmystreet.com/report/7439176)
 - TMC - Defects -CW6 Potholes  problem, 15th April :- [7439151](https://www.fixmystreet.com/report/7439151)
-- TMC - Defects -CW6 Potholes  problem, 15th April :- [7439152](https://www.fixmystreet.com/report/7439152)
-- TMC - Defects - Road Markings problem, 15th April :- [7439157](https://www.fixmystreet.com/report/7439157)
 - TMC - Defects -CW6 Potholes  problem, 15th April :- [7439156](https://www.fixmystreet.com/report/7439156)
-- TMC - Defects -CW6 Potholes  problem, 15th April :- [7439155](https://www.fixmystreet.com/report/7439155)
 - TMC - Defects -CW6 Potholes  problem, 15th April :- [7439154](https://www.fixmystreet.com/report/7439154)
+- TMC - Defects -CW6 Potholes  problem, 15th April :- [7439152](https://www.fixmystreet.com/report/7439152)
+- TMC - Defects -CW6 Potholes  problem, 15th April :- [7439155](https://www.fixmystreet.com/report/7439155)
+- TMC - Defects - Road Markings problem, 15th April :- [7439157](https://www.fixmystreet.com/report/7439157)
 - TMC - Defects -CW6 Potholes  problem, 15th April :- [7439153](https://www.fixmystreet.com/report/7439153)
 
 <!-- fix_marker ends -->
