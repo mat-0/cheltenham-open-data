@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Wednesday, 16 April 2025
 
-- The average temperature today is 7.73˚C,
-- With highs of 8.62˚C and lows of 6.83˚C,
-- It may feel like 3.38˚C with broken clouds
+- The average temperature today is 8.87˚C,
+- With highs of 9.84˚C and lows of 8.71˚C,
+- It may feel like 4.88˚C with scattered clouds
 - The wind speed is 9.26m/s and visibility is 10000m
-- The pressure is 999hPa and humidity is 77%
+- The pressure is 1000hPa and humidity is 74%
 - The sun will rise at 05:09 and set at 19:06
 
 <!-- weather_marker ends -->
