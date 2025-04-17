@@ -9,12 +9,12 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- New documentary on Fred and Rose West released ([10 hours ago](https://www.bbc.com/news/articles/c78j443v77vo))
-- Headlines: 'No justice' after second stabbing sentence ([11 hours ago](https://www.bbc.com/news/articles/c8epx324pdwo))
-- Northern Lights dazzle over West of England ([13 hours ago](https://www.bbc.com/news/articles/cpvrlw8xjdmo))
-- 'Scammers used fake app to steal from me in person' ([15 hours ago](https://www.bbc.com/news/articles/cn05d58jwvdo))
-- 'No hormones please, we're British beef farmers' ([15 hours ago](https://www.bbc.com/news/articles/cp31qqlq29vo))
-- Veteran's mission after learning to 'live again' ([15 hours ago](https://www.bbc.com/news/articles/cn5xxn54zz6o))
+- New documentary on Fred and Rose West released ([11 hours ago](https://www.bbc.com/news/articles/c78j443v77vo))
+- Headlines: 'No justice' after second stabbing sentence ([12 hours ago](https://www.bbc.com/news/articles/c8epx324pdwo))
+- Northern Lights dazzle over West of England ([14 hours ago](https://www.bbc.com/news/articles/cpvrlw8xjdmo))
+- 'Scammers used fake app to steal from me in person' ([16 hours ago](https://www.bbc.com/news/articles/cn05d58jwvdo))
+- 'No hormones please, we're British beef farmers' ([16 hours ago](https://www.bbc.com/news/articles/cp31qqlq29vo))
+- Veteran's mission after learning to 'live again' ([16 hours ago](https://www.bbc.com/news/articles/cn5xxn54zz6o))
 - M48 Severn Bridge reopens following strong winds ([1 days ago](https://www.bbc.com/news/articles/cq675yzqrveo))
 - 98 per cent of pupils offered a place at a school of their choice ([1 days ago](https://gloucesternewscentre.co.uk/98-per-cent-of-pupils-offered-a-place-at-a-school-of-their-choice/))
 - Wanted appeal for 45-year-old man from Cheltenham ([1 days ago](https://gloucesternewscentre.co.uk/wanted-appeal-for-45-year-old-man-from-cheltenham/))
