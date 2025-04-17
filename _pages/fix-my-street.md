@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Jaguar car abandoned on roadside half on pavement half on road. Obstructing pavement, road and safe visibility turning out of Highland Road onto Sandy Lane., 17th April :- [7451024](https://www.fixmystreet.com/report/7451024)
 - Many pot holes and road surface extremely poor, 17th April :- [7450850](https://www.fixmystreet.com/report/7450850)
 - 10inch, localised, deep pothole., 17th April :- [7450487](https://www.fixmystreet.com/report/7450487)
 - Loose manhole cover, 17th April :- [7450334](https://www.fixmystreet.com/report/7450334)
@@ -18,9 +19,9 @@ permalink: /fix-my-street
 - Sinkhole outside 29 Columbia Street, 17th April :- [7449817](https://www.fixmystreet.com/report/7449817)
 - TMC - Defects -CW6 Potholes  problem, 17th April :- [7449770](https://www.fixmystreet.com/report/7449770)
 - TMC - Defects -CW6 Potholes  problem, 17th April :- [7449766](https://www.fixmystreet.com/report/7449766)
-- TMC - Defects -CW6 Potholes  problem, 17th April :- [7449768](https://www.fixmystreet.com/report/7449768)
-- TMC - Defects -CW6 Potholes  problem, 17th April :- [7449765](https://www.fixmystreet.com/report/7449765)
 - TMC - Defects -CW6 Potholes  problem, 17th April :- [7449767](https://www.fixmystreet.com/report/7449767)
+- TMC - Defects -CW6 Potholes  problem, 17th April :- [7449765](https://www.fixmystreet.com/report/7449765)
+- TMC - Defects -CW6 Potholes  problem, 17th April :- [7449768](https://www.fixmystreet.com/report/7449768)
 - Tree is damaged problem, 17th April :- [7449761](https://www.fixmystreet.com/report/7449761)
 - Large quantities of bird faeces, 17th April :- [7449585](https://www.fixmystreet.com/report/7449585)
 - TMC - Defects -CW6 Potholes  problem, 17th April :- [7449608](https://www.fixmystreet.com/report/7449608)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 17th April :- [7449609](https://www.fixmystreet.com/report/7449609)
 - TMC - Defects -CW6 Potholes  problem, 17th April :- [7449610](https://www.fixmystreet.com/report/7449610)
 - TMC - Defects -CW6 Potholes  problem, 17th April :- [7449455](https://www.fixmystreet.com/report/7449455)
-- TMC - Defects -CW6 Potholes  problem, 17th April :- [7449452](https://www.fixmystreet.com/report/7449452)
 
 <!-- fix_marker ends -->
