@@ -9,13 +9,13 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- New documentary on Fred and Rose West released ([7 hours ago](https://www.bbc.com/news/articles/c78j443v77vo))
-- Headlines: 'No justice' after second stabbing sentence ([8 hours ago](https://www.bbc.com/news/articles/c8epx324pdwo))
-- Northern Lights dazzle over West of England ([10 hours ago](https://www.bbc.com/news/articles/cpvrlw8xjdmo))
-- 'Scammers used fake app to steal from me in person' ([12 hours ago](https://www.bbc.com/news/articles/cn05d58jwvdo))
-- 'No hormones please, we're British beef farmers' ([12 hours ago](https://www.bbc.com/news/articles/cp31qqlq29vo))
-- Veteran's mission after learning to 'live again' ([12 hours ago](https://www.bbc.com/news/articles/cn5xxn54zz6o))
-- M48 Severn Bridge reopens following strong winds ([21 hours ago](https://www.bbc.com/news/articles/cq675yzqrveo))
+- New documentary on Fred and Rose West released ([8 hours ago](https://www.bbc.com/news/articles/c78j443v77vo))
+- Headlines: 'No justice' after second stabbing sentence ([9 hours ago](https://www.bbc.com/news/articles/c8epx324pdwo))
+- Northern Lights dazzle over West of England ([11 hours ago](https://www.bbc.com/news/articles/cpvrlw8xjdmo))
+- 'Scammers used fake app to steal from me in person' ([13 hours ago](https://www.bbc.com/news/articles/cn05d58jwvdo))
+- 'No hormones please, we're British beef farmers' ([13 hours ago](https://www.bbc.com/news/articles/cp31qqlq29vo))
+- Veteran's mission after learning to 'live again' ([13 hours ago](https://www.bbc.com/news/articles/cn5xxn54zz6o))
+- M48 Severn Bridge reopens following strong winds ([22 hours ago](https://www.bbc.com/news/articles/cq675yzqrveo))
 - 98 per cent of pupils offered a place at a school of their choice ([1 days ago](https://gloucesternewscentre.co.uk/98-per-cent-of-pupils-offered-a-place-at-a-school-of-their-choice/))
 - Wanted appeal for 45-year-old man from Cheltenham ([1 days ago](https://gloucesternewscentre.co.uk/wanted-appeal-for-45-year-old-man-from-cheltenham/))
 - Firefighters tackle town centre car blaze ([1 days ago](https://www.bbc.com/news/articles/cdjlzz2rj3xo))
