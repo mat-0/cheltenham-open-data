@@ -10,10 +10,10 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Thursday, 17 April 2025
 
-- The average temperature today is 3.59˚C,
-- With highs of 4.98˚C and lows of 1.96˚C,
-- It may feel like 3.59˚C with few clouds
-- The wind speed is 0.89m/s and visibility is 10000m
+- The average temperature today is 3.47˚C,
+- With highs of 4.97˚C and lows of 2.51˚C,
+- It may feel like 2.44˚C with few clouds
+- The wind speed is 1.34m/s and visibility is 10000m
 - The pressure is 1010hPa and humidity is 86%
 - The sun will rise at 05:07 and set at 19:08
 
