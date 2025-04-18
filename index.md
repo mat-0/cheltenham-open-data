@@ -10,10 +10,10 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Friday, 18 April 2025
 
-- The average temperature today is 13.44˚C,
-- With highs of 14.18˚C and lows of 12.19˚C,
-- It may feel like 12.43˚C with light rain
-- The wind speed is 5.66m/s and visibility is 10000m
+- The average temperature today is 13.49˚C,
+- With highs of 13.75˚C and lows of 12.69˚C,
+- It may feel like 12.49˚C with light rain
+- The wind speed is 6.69m/s and visibility is 10000m
 - The pressure is 1007hPa and humidity is 61%
 - The sun will rise at 05:04 and set at 19:09
 
