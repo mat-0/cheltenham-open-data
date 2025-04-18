@@ -9,10 +9,11 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Coach parking trial begins in busy village ([1 hours ago](https://www.bbc.com/news/articles/cvg777d297yo))
-- What it is like to live with Parkinson's ([1 hours ago](https://www.bbc.com/news/articles/cj3xxen5v0vo))
-- New documentary on Fred and Rose West released ([21 hours ago](https://www.bbc.com/news/articles/c78j443v77vo))
-- Headlines: 'No justice' after second stabbing sentence ([22 hours ago](https://www.bbc.com/news/articles/c8epx324pdwo))
+- Exhibition tells unheard stories of rail workers ([58 minutes ago](https://www.bbc.com/news/articles/cr5der1mr83o))
+- Coach parking trial begins in busy village ([2 hours ago](https://www.bbc.com/news/articles/cvg777d297yo))
+- What it is like to live with Parkinson's ([2 hours ago](https://www.bbc.com/news/articles/cj3xxen5v0vo))
+- New documentary on Fred and Rose West released ([22 hours ago](https://www.bbc.com/news/articles/c78j443v77vo))
+- Headlines: 'No justice' after second stabbing sentence ([23 hours ago](https://www.bbc.com/news/articles/c8epx324pdwo))
 - Northern Lights dazzle over West of England ([1 days ago](https://www.bbc.com/news/articles/cpvrlw8xjdmo))
 - 'Scammers used fake app to steal from me in person' ([1 days ago](https://www.bbc.com/news/articles/cn05d58jwvdo))
 - 'No hormones please, we're British beef farmers' ([1 days ago](https://www.bbc.com/news/articles/cp31qqlq29vo))
@@ -27,11 +28,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Headlines: Pupil attacked and parrot chicks hatch ([1 days ago](https://www.bbc.com/news/articles/cd6j3j9qzy4o))
 - Green light for 136 new homes on edge of city ([2 days ago](https://www.bbc.com/news/articles/c5y6lv77rw3o))
 - Free things to do in the west country this Easter ([2 days ago](https://www.bbc.com/news/articles/c74nnn2w2vvo))
-- Cheese rolling could be added to UK heritage list ([2 days ago](https://www.bbc.com/news/articles/czrv6z6z1k7o))
 - Dashcam appeal after car flips onto roof on A436 near Seven Springs ([2 days ago](https://gloucesternewscentre.co.uk/dashcam-appeal-after-car-flips-onto-roof-on-a436-near-seven-springs/))
 - Lorry recovered after hitting railway bridge ([2 days ago](https://www.bbc.com/news/articles/cn9124x7p0do))
 - Six-week consultation now live for Leckhampton with Warden Hill neighbourhood plan ([2 days ago](https://gloucesternewscentre.co.uk/six-week-consultation-now-live-for-leckhampton-with-warden-hill-neighbourhood-plan-2/))
-- Six-week consultation now live for Leckhampton with Warden Hill neighbourhood plan ([2 days ago](https://www.cheltenham.gov.uk/news/article/3003/six-week_consultation_now_live_for_leckhampton_with_warden_hill_neighbourhood_plan))
+- Six-week consultation now live for Leckhampton with Warden Hill neighbourhood plan ([3 days ago](https://www.cheltenham.gov.uk/news/article/3003/six-week_consultation_now_live_for_leckhampton_with_warden_hill_neighbourhood_plan))
 - Appeal to locate wanted man Mason McConnon from Cheltenham ([3 days ago](https://gloucesternewscentre.co.uk/appeal-to-locate-wanted-man-mason-mcconnon-from-cheltenham/))
 - Man charged with offences related to hunting with dogs ([3 days ago](https://gloucesternewscentre.co.uk/man-charged-with-offences-related-to-hunting-with-dogs/))
 - Cheltenham Welcomes Refugees celebrates receiving the King’s Award for Voluntary Service ([4 days ago](https://gloucesternewscentre.co.uk/cheltenham-welcomes-refugees-celebrates-receiving-the-kings-award-for-voluntary-service/))
