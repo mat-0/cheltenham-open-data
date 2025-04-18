@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- More fly tipping, 18th April :- [7453741](https://www.fixmystreet.com/report/7453741)
 - Flytipping, 18th April :- [7453159](https://www.fixmystreet.com/report/7453159)
 - Pothole outside 20 Copt Elm Close, 18th April :- [7453064](https://www.fixmystreet.com/report/7453064)
 - Roundabout pothole ///return.tasty.plates, 18th April :- [7452981](https://www.fixmystreet.com/report/7452981)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Tree is damaged problem, 17th April :- [7450133](https://www.fixmystreet.com/report/7450133)
 - Graffiti on electric box, 17th April :- [7449951](https://www.fixmystreet.com/report/7449951)
 - Sinkhole outside 29 Columbia Street, 17th April :- [7449817](https://www.fixmystreet.com/report/7449817)
-- TMC - Defects -CW6 Potholes  problem, 17th April :- [7449770](https://www.fixmystreet.com/report/7449770)
 
 <!-- fix_marker ends -->
