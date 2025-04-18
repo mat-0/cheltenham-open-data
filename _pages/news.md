@@ -9,11 +9,11 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Man photographed and followed woman on bridle path ([2 hours ago](https://www.bbc.com/news/articles/clywg70lnwko))
-- Media statement about the Citrus Hotel ([3 hours ago](https://www.cheltenham.gov.uk/news/article/3004/media_statement_about_the_citrus_hotel))
+- Man photographed and followed woman on bridle path ([3 hours ago](https://www.bbc.com/news/articles/clywg70lnwko))
+- Media statement about the Citrus Hotel ([4 hours ago](https://www.cheltenham.gov.uk/news/article/3004/media_statement_about_the_citrus_hotel))
 - Exhibition tells unheard stories of rail workers ([5 hours ago](https://www.bbc.com/news/articles/cr5der1mr83o))
-- Coach parking trial begins in busy village ([6 hours ago](https://www.bbc.com/news/articles/cvg777d297yo))
-- What it is like to live with Parkinson's ([6 hours ago](https://www.bbc.com/news/articles/cj3xxen5v0vo))
+- Coach parking trial begins in busy village ([7 hours ago](https://www.bbc.com/news/articles/cvg777d297yo))
+- What it is like to live with Parkinson's ([7 hours ago](https://www.bbc.com/news/articles/cj3xxen5v0vo))
 - New documentary on Fred and Rose West released ([1 days ago](https://www.bbc.com/news/articles/c78j443v77vo))
 - Headlines: 'No justice' after second stabbing sentence ([1 days ago](https://www.bbc.com/news/articles/c8epx324pdwo))
 - Northern Lights dazzle over West of England ([1 days ago](https://www.bbc.com/news/articles/cpvrlw8xjdmo))
@@ -59,7 +59,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Wychwood Festival 2025 to go ahead but stage will be moved after complaints ([23 days ago](https://gloucesternewscentre.co.uk/wychwood-festival-2025-to-go-ahead-but-stage-will-be-moved-after-complaints/))
 - County to lose its mounted police unit in cost savings plan ([24 days ago](https://gloucesternewscentre.co.uk/county-to-lose-its-mounted-police-unit-in-cost-savings-plan/))
 - Traffic fears over ‘chicanes’ installed in Cheltenham ([24 days ago](https://gloucesternewscentre.co.uk/traffic-fears-over-chicanes-installed-in-cheltenham/))
-- Don’t miss your right to vote, register by Friday 11 April 2025 ([27 days ago](https://www.cheltenham.gov.uk/news/article/2999/dont_miss_your_right_to_vote_register_by_friday_11_april_2025))
+- Don’t miss your right to vote, register by Friday 11 April 2025 ([28 days ago](https://www.cheltenham.gov.uk/news/article/2999/dont_miss_your_right_to_vote_register_by_friday_11_april_2025))
 - £96k funding available for new neighbourhood projects in Cheltenham ([28 days ago](https://www.cheltenham.gov.uk/news/article/2998/96k_funding_available_for_new_neighbourhood_projects_in_cheltenham))
 - NCLB’s Party in the Park for families returns for another summer of fun ([28 days ago](https://www.cheltenham.gov.uk/news/article/2997/nclbs_party_in_the_park_for_families_returns_for_another_summer_of_fun))
 - The Bell Inn pub and Daisybank Field approved as Assets of Community Value ([29 days ago](https://www.cheltenham.gov.uk/news/article/2996/the_bell_inn_pub_and_daisybank_field_approved_as_assets_of_community_value))
