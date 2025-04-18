@@ -9,11 +9,11 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Coach parking trial begins in busy village ([47 minutes ago](https://www.bbc.com/news/articles/cvg777d297yo))
-- What it is like to live with Parkinson's ([49 minutes ago](https://www.bbc.com/news/articles/cj3xxen5v0vo))
-- New documentary on Fred and Rose West released ([20 hours ago](https://www.bbc.com/news/articles/c78j443v77vo))
-- Headlines: 'No justice' after second stabbing sentence ([21 hours ago](https://www.bbc.com/news/articles/c8epx324pdwo))
-- Northern Lights dazzle over West of England ([23 hours ago](https://www.bbc.com/news/articles/cpvrlw8xjdmo))
+- Coach parking trial begins in busy village ([1 hours ago](https://www.bbc.com/news/articles/cvg777d297yo))
+- What it is like to live with Parkinson's ([1 hours ago](https://www.bbc.com/news/articles/cj3xxen5v0vo))
+- New documentary on Fred and Rose West released ([21 hours ago](https://www.bbc.com/news/articles/c78j443v77vo))
+- Headlines: 'No justice' after second stabbing sentence ([22 hours ago](https://www.bbc.com/news/articles/c8epx324pdwo))
+- Northern Lights dazzle over West of England ([1 days ago](https://www.bbc.com/news/articles/cpvrlw8xjdmo))
 - 'Scammers used fake app to steal from me in person' ([1 days ago](https://www.bbc.com/news/articles/cn05d58jwvdo))
 - 'No hormones please, we're British beef farmers' ([1 days ago](https://www.bbc.com/news/articles/cp31qqlq29vo))
 - Veteran's mission after learning to 'live again' ([1 days ago](https://www.bbc.com/news/articles/cn5xxn54zz6o))
