@@ -9,11 +9,11 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Man photographed and followed woman on bridle path ([12 hours ago](https://www.bbc.com/news/articles/clywg70lnwko))
-- Media statement about the Citrus Hotel ([13 hours ago](https://www.cheltenham.gov.uk/news/article/3004/media_statement_about_the_citrus_hotel))
-- Exhibition tells unheard stories of rail workers ([14 hours ago](https://www.bbc.com/news/articles/cr5der1mr83o))
-- Coach parking trial begins in busy village ([16 hours ago](https://www.bbc.com/news/articles/cvg777d297yo))
-- What it is like to live with Parkinson's ([16 hours ago](https://www.bbc.com/news/articles/cj3xxen5v0vo))
+- Man photographed and followed woman on bridle path ([13 hours ago](https://www.bbc.com/news/articles/clywg70lnwko))
+- Media statement about the Citrus Hotel ([14 hours ago](https://www.cheltenham.gov.uk/news/article/3004/media_statement_about_the_citrus_hotel))
+- Exhibition tells unheard stories of rail workers ([15 hours ago](https://www.bbc.com/news/articles/cr5der1mr83o))
+- Coach parking trial begins in busy village ([17 hours ago](https://www.bbc.com/news/articles/cvg777d297yo))
+- What it is like to live with Parkinson's ([17 hours ago](https://www.bbc.com/news/articles/cj3xxen5v0vo))
 - New documentary on Fred and Rose West released ([1 days ago](https://www.bbc.com/news/articles/c78j443v77vo))
 - Headlines: 'No justice' after second stabbing sentence ([1 days ago](https://www.bbc.com/news/articles/c8epx324pdwo))
 - Northern Lights dazzle over West of England ([1 days ago](https://www.bbc.com/news/articles/cpvrlw8xjdmo))
