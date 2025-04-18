@@ -8,13 +8,13 @@ seo: Menu
 ![Logo](/images/logo.jpg){:width="832px"}
 
 <!-- weather_marker starts -->
-## On Thursday, 17 April 2025
+## On Friday, 18 April 2025
 
-- The average temperature today is 7.04˚C,
-- With highs of 7.14˚C and lows of 7.04˚C,
-- It may feel like 7.04˚C with overcast clouds
+- The average temperature today is 7.48˚C,
+- With highs of 8.17˚C and lows of 7.04˚C,
+- It may feel like 7.48˚C with broken clouds
 - The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1012hPa and humidity is 79%
+- The pressure is 1011hPa and humidity is 76%
 - The sun will rise at 05:04 and set at 19:09
 
 <!-- weather_marker ends -->
