@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Road Sign between number 73 and 71 is rattling a lot. Specially when it is really windy. It needs bolts to tighter., 18th April :- [7453832](https://www.fixmystreet.com/report/7453832)
+- Fly tipping, 18th April :- [7453809](https://www.fixmystreet.com/report/7453809)
 - More fly tipping, 18th April :- [7453741](https://www.fixmystreet.com/report/7453741)
 - Flytipping, 18th April :- [7453159](https://www.fixmystreet.com/report/7453159)
 - Pothole outside 20 Copt Elm Close, 18th April :- [7453064](https://www.fixmystreet.com/report/7453064)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Loose manhole cover, 17th April :- [7450334](https://www.fixmystreet.com/report/7450334)
 - Large pot hole, repaired badly not long ago, all the filler came out again, 17th April :- [7450145](https://www.fixmystreet.com/report/7450145)
 - Tree is damaged problem, 17th April :- [7450133](https://www.fixmystreet.com/report/7450133)
-- Graffiti on electric box, 17th April :- [7449951](https://www.fixmystreet.com/report/7449951)
-- Sinkhole outside 29 Columbia Street, 17th April :- [7449817](https://www.fixmystreet.com/report/7449817)
 
 <!-- fix_marker ends -->
