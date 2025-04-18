@@ -9,10 +9,10 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- New documentary on Fred and Rose West released ([15 hours ago](https://www.bbc.com/news/articles/c78j443v77vo))
+- New documentary on Fred and Rose West released ([16 hours ago](https://www.bbc.com/news/articles/c78j443v77vo))
 - Headlines: 'No justice' after second stabbing sentence ([17 hours ago](https://www.bbc.com/news/articles/c8epx324pdwo))
-- Northern Lights dazzle over West of England ([18 hours ago](https://www.bbc.com/news/articles/cpvrlw8xjdmo))
-- 'Scammers used fake app to steal from me in person' ([20 hours ago](https://www.bbc.com/news/articles/cn05d58jwvdo))
+- Northern Lights dazzle over West of England ([19 hours ago](https://www.bbc.com/news/articles/cpvrlw8xjdmo))
+- 'Scammers used fake app to steal from me in person' ([21 hours ago](https://www.bbc.com/news/articles/cn05d58jwvdo))
 - 'No hormones please, we're British beef farmers' ([21 hours ago](https://www.bbc.com/news/articles/cp31qqlq29vo))
 - Veteran's mission after learning to 'live again' ([21 hours ago](https://www.bbc.com/news/articles/cn5xxn54zz6o))
 - M48 Severn Bridge reopens following strong winds ([1 days ago](https://www.bbc.com/news/articles/cq675yzqrveo))
