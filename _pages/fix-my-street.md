@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole outside 20 Copt Elm Close, 18th April :- [7453064](https://www.fixmystreet.com/report/7453064)
+- Roundabout pothole ///return.tasty.plates, 18th April :- [7452981](https://www.fixmystreet.com/report/7452981)
+- Pothole still not fixed at ///today.this.allows, 18th April :- [7452972](https://www.fixmystreet.com/report/7452972)
+- Tree limb broken off, 18th April :- [7452838](https://www.fixmystreet.com/report/7452838)
 - Traffic Light Timings Need Adjusting, 18th April :- [7452344](https://www.fixmystreet.com/report/7452344)
 - Sick on pavement from night out, 18th April :- [7452040](https://www.fixmystreet.com/report/7452040)
 - Old abandoned temporary road sign, 18th April :- [7451673](https://www.fixmystreet.com/report/7451673)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Sinkhole outside 29 Columbia Street, 17th April :- [7449817](https://www.fixmystreet.com/report/7449817)
 - TMC - Defects -CW6 Potholes  problem, 17th April :- [7449770](https://www.fixmystreet.com/report/7449770)
 - TMC - Defects -CW6 Potholes  problem, 17th April :- [7449766](https://www.fixmystreet.com/report/7449766)
-- TMC - Defects -CW6 Potholes  problem, 17th April :- [7449765](https://www.fixmystreet.com/report/7449765)
-- TMC - Defects -CW6 Potholes  problem, 17th April :- [7449768](https://www.fixmystreet.com/report/7449768)
-- TMC - Defects -CW6 Potholes  problem, 17th April :- [7449767](https://www.fixmystreet.com/report/7449767)
-- Tree is damaged problem, 17th April :- [7449761](https://www.fixmystreet.com/report/7449761)
 
 <!-- fix_marker ends -->
