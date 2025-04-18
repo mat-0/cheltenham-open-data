@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Traffic Light Timings Need Adjusting, 18th April :- [7452344](https://www.fixmystreet.com/report/7452344)
 - Sick on pavement from night out, 18th April :- [7452040](https://www.fixmystreet.com/report/7452040)
 - Old abandoned temporary road sign, 18th April :- [7451673](https://www.fixmystreet.com/report/7451673)
 - Abandoned roadsigns, 18th April :- [7451621](https://www.fixmystreet.com/report/7451621)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 17th April :- [7449768](https://www.fixmystreet.com/report/7449768)
 - TMC - Defects -CW6 Potholes  problem, 17th April :- [7449767](https://www.fixmystreet.com/report/7449767)
 - Tree is damaged problem, 17th April :- [7449761](https://www.fixmystreet.com/report/7449761)
-- Large quantities of bird faeces, 17th April :- [7449585](https://www.fixmystreet.com/report/7449585)
 
 <!-- fix_marker ends -->
