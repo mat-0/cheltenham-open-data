@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dog poo bin, 19th April :- [7454366](https://www.fixmystreet.com/report/7454366)
 - One of the three lamps on ths column is not working, 19th April :- [7454053](https://www.fixmystreet.com/report/7454053)
 - The light is out on column 291 London Road, Cheltenham, 19th April :- [7454051](https://www.fixmystreet.com/report/7454051)
 - Road Sign between number 73 and 71 is rattling a lot. Specially when it is really windy. It needs bolts to tighter., 18th April :- [7453832](https://www.fixmystreet.com/report/7453832)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Jaguar car abandoned on roadside half on pavement half on road. Obstructing pavement, road and safe visibility turning out of Highland Road onto Sandy Lane., 17th April :- [7451024](https://www.fixmystreet.com/report/7451024)
 - Many pot holes and road surface extremely poor, 17th April :- [7450850](https://www.fixmystreet.com/report/7450850)
 - 10inch, localised, deep pothole., 17th April :- [7450487](https://www.fixmystreet.com/report/7450487)
-- Loose manhole cover, 17th April :- [7450334](https://www.fixmystreet.com/report/7450334)
 
 <!-- fix_marker ends -->

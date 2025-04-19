@@ -9,11 +9,11 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Plumber goes viral after sharing DIY tips in videos ([1 hours ago](https://www.bbc.com/news/articles/ckgxxv4zvevo))
-- Gloucestershire in pics: Narrowboats and bluebells ([1 hours ago](https://www.bbc.com/news/articles/crrzjj4e0qqo))
-- Man photographed and followed woman on bridle path ([21 hours ago](https://www.bbc.com/news/articles/clywg70lnwko))
-- Media statement about the Citrus Hotel ([22 hours ago](https://www.cheltenham.gov.uk/news/article/3004/media_statement_about_the_citrus_hotel))
-- Exhibition tells unheard stories of rail workers ([23 hours ago](https://www.bbc.com/news/articles/cr5der1mr83o))
+- Plumber goes viral after sharing DIY tips in videos ([2 hours ago](https://www.bbc.com/news/articles/ckgxxv4zvevo))
+- Gloucestershire in pics: Narrowboats and bluebells ([2 hours ago](https://www.bbc.com/news/articles/crrzjj4e0qqo))
+- Man photographed and followed woman on bridle path ([22 hours ago](https://www.bbc.com/news/articles/clywg70lnwko))
+- Media statement about the Citrus Hotel ([23 hours ago](https://www.cheltenham.gov.uk/news/article/3004/media_statement_about_the_citrus_hotel))
+- Exhibition tells unheard stories of rail workers ([1 days ago](https://www.bbc.com/news/articles/cr5der1mr83o))
 - Coach parking trial begins in busy village ([1 days ago](https://www.bbc.com/news/articles/cvg777d297yo))
 - What it is like to live with Parkinson's ([1 days ago](https://www.bbc.com/news/articles/cj3xxen5v0vo))
 - New documentary on Fred and Rose West released ([1 days ago](https://www.bbc.com/news/articles/c78j443v77vo))
@@ -32,7 +32,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Free things to do in the west country this Easter ([3 days ago](https://www.bbc.com/news/articles/c74nnn2w2vvo))
 - Dashcam appeal after car flips onto roof on A436 near Seven Springs ([3 days ago](https://gloucesternewscentre.co.uk/dashcam-appeal-after-car-flips-onto-roof-on-a436-near-seven-springs/))
 - Six-week consultation now live for Leckhampton with Warden Hill neighbourhood plan ([3 days ago](https://gloucesternewscentre.co.uk/six-week-consultation-now-live-for-leckhampton-with-warden-hill-neighbourhood-plan-2/))
-- Six-week consultation now live for Leckhampton with Warden Hill neighbourhood plan ([3 days ago](https://www.cheltenham.gov.uk/news/article/3003/six-week_consultation_now_live_for_leckhampton_with_warden_hill_neighbourhood_plan))
+- Six-week consultation now live for Leckhampton with Warden Hill neighbourhood plan ([4 days ago](https://www.cheltenham.gov.uk/news/article/3003/six-week_consultation_now_live_for_leckhampton_with_warden_hill_neighbourhood_plan))
 - Appeal to locate wanted man Mason McConnon from Cheltenham ([4 days ago](https://gloucesternewscentre.co.uk/appeal-to-locate-wanted-man-mason-mcconnon-from-cheltenham/))
 - Man charged with offences related to hunting with dogs ([4 days ago](https://gloucesternewscentre.co.uk/man-charged-with-offences-related-to-hunting-with-dogs/))
 - Cheltenham Welcomes Refugees celebrates receiving the King’s Award for Voluntary Service ([5 days ago](https://gloucesternewscentre.co.uk/cheltenham-welcomes-refugees-celebrates-receiving-the-kings-award-for-voluntary-service/))
