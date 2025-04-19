@@ -9,9 +9,10 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Crowds watch Easter story street performance ([9 hours ago](https://www.bbc.com/news/articles/cy8q4xpw6v6o))
-- Plumber goes viral after sharing DIY tips in videos ([12 hours ago](https://www.bbc.com/news/articles/ckgxxv4zvevo))
-- Gloucestershire in pics: Narrowboats and bluebells ([12 hours ago](https://www.bbc.com/news/articles/crrzjj4e0qqo))
+- 'Man cave' demolition cost taxpayers £220k ([49 minutes ago](https://www.bbc.com/news/articles/creq3q85xn5o))
+- Crowds watch Easter story street performance ([10 hours ago](https://www.bbc.com/news/articles/cy8q4xpw6v6o))
+- Plumber goes viral after sharing DIY tips in videos ([13 hours ago](https://www.bbc.com/news/articles/ckgxxv4zvevo))
+- Gloucestershire in pics: Narrowboats and bluebells ([13 hours ago](https://www.bbc.com/news/articles/crrzjj4e0qqo))
 - Man photographed and followed woman on bridle path ([1 days ago](https://www.bbc.com/news/articles/clywg70lnwko))
 - Media statement about the Citrus Hotel ([1 days ago](https://www.cheltenham.gov.uk/news/article/3004/media_statement_about_the_citrus_hotel))
 - Exhibition tells unheard stories of rail workers ([1 days ago](https://www.bbc.com/news/articles/cr5der1mr83o))
@@ -29,7 +30,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Hospital phlebotomists on course to enter sixth week of strikes over pay ([3 days ago](https://gloucesternewscentre.co.uk/hospital-phlebotomists-on-course-to-enter-sixth-week-of-strikes-over-pay/))
 - Path 'shakes mobility scooter user to pieces' ([3 days ago](https://www.bbc.com/news/articles/cy70yxyy3ggo))
 - Ex-councillor jailed for sexual assault of child ([3 days ago](https://www.bbc.com/news/articles/cql6z67xl5qo))
-- Green light for 136 new homes on edge of city ([3 days ago](https://www.bbc.com/news/articles/c5y6lv77rw3o))
 - Dashcam appeal after car flips onto roof on A436 near Seven Springs ([4 days ago](https://gloucesternewscentre.co.uk/dashcam-appeal-after-car-flips-onto-roof-on-a436-near-seven-springs/))
 - Six-week consultation now live for Leckhampton with Warden Hill neighbourhood plan ([4 days ago](https://gloucesternewscentre.co.uk/six-week-consultation-now-live-for-leckhampton-with-warden-hill-neighbourhood-plan-2/))
 - Six-week consultation now live for Leckhampton with Warden Hill neighbourhood plan ([4 days ago](https://www.cheltenham.gov.uk/news/article/3003/six-week_consultation_now_live_for_leckhampton_with_warden_hill_neighbourhood_plan))
