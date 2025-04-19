@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- One of the three lamps on ths column is not working, 19th April :- [7454053](https://www.fixmystreet.com/report/7454053)
+- The light is out on column 291 London Road, Cheltenham, 19th April :- [7454051](https://www.fixmystreet.com/report/7454051)
 - Road Sign between number 73 and 71 is rattling a lot. Specially when it is really windy. It needs bolts to tighter., 18th April :- [7453832](https://www.fixmystreet.com/report/7453832)
 - Fly tipping, 18th April :- [7453809](https://www.fixmystreet.com/report/7453809)
 - More fly tipping, 18th April :- [7453741](https://www.fixmystreet.com/report/7453741)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Many pot holes and road surface extremely poor, 17th April :- [7450850](https://www.fixmystreet.com/report/7450850)
 - 10inch, localised, deep pothole., 17th April :- [7450487](https://www.fixmystreet.com/report/7450487)
 - Loose manhole cover, 17th April :- [7450334](https://www.fixmystreet.com/report/7450334)
-- Large pot hole, repaired badly not long ago, all the filler came out again, 17th April :- [7450145](https://www.fixmystreet.com/report/7450145)
-- Tree is damaged problem, 17th April :- [7450133](https://www.fixmystreet.com/report/7450133)
 
 <!-- fix_marker ends -->
