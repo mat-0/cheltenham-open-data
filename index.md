@@ -8,13 +8,13 @@ seo: Menu
 ![Logo](/images/logo.jpg){:width="832px"}
 
 <!-- weather_marker starts -->
-## On Friday, 18 April 2025
+## On Saturday, 19 April 2025
 
-- The average temperature today is 12.06˚C,
-- With highs of 12.2˚C and lows of 11.58˚C,
-- It may feel like 11.2˚C with overcast clouds
-- The wind speed is 4.92m/s and visibility is 10000m
-- The pressure is 1005hPa and humidity is 72%
+- The average temperature today is 10.99˚C,
+- With highs of 11.66˚C and lows of 10.39˚C,
+- It may feel like 10.18˚C with light rain
+- The wind speed is 3.13m/s and visibility is 10000m
+- The pressure is 1005hPa and humidity is 78%
 - The sun will rise at 05:02 and set at 19:11
 
 <!-- weather_marker ends -->
