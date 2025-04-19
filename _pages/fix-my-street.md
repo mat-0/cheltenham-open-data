@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large area of various sized potholes, 19th April :- [7456390](https://www.fixmystreet.com/report/7456390)
 - Incorrect speed limit, 19th April :- [7456271](https://www.fixmystreet.com/report/7456271)
 - The footpath goes down the lane and has done for as long as older residents can remember and is recorded as such. The lane has been blocked by a cattle grid and double gates. Wihtout any public consultation, the landowner moved the public footpath sign and created a new path entrance and fenced off path route, as per pictures. Some of this fence includes low level barbed wire. This 'new' path has in effect diverted the footpath from its legal route.It is impossible for a walker to use the rightful public footpath safely., 19th April :- [7456100](https://www.fixmystreet.com/report/7456100)
 - Still no double yellow lines, 19th April :- [7456057](https://www.fixmystreet.com/report/7456057)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Flytipped Item, 19th April :- [7454928](https://www.fixmystreet.com/report/7454928)
 - Tree split, 19th April :- [7454921](https://www.fixmystreet.com/report/7454921)
 - Flytipped Trolley, 19th April :- [7454671](https://www.fixmystreet.com/report/7454671)
-- Flytipped Fridge-Freezer, 19th April :- [7454634](https://www.fixmystreet.com/report/7454634)
 
 <!-- fix_marker ends -->
