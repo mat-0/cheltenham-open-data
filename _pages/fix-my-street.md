@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Series of potholes that cannot be avoided on corner, 19th April :- [7455397](https://www.fixmystreet.com/report/7455397)
+- These two drain covers are completely blocked. At the bottom of Gravel Walk., 19th April :- [7455376](https://www.fixmystreet.com/report/7455376)
 - Flytipped Items, 19th April :- [7455121](https://www.fixmystreet.com/report/7455121)
 - Flytipped Items, 19th April :- [7455118](https://www.fixmystreet.com/report/7455118)
 - Overgrowth risking damage to fence, 19th April :- [7455099](https://www.fixmystreet.com/report/7455099)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - The light is out on column 291 London Road, Cheltenham, 19th April :- [7454051](https://www.fixmystreet.com/report/7454051)
 - Road Sign between number 73 and 71 is rattling a lot. Specially when it is really windy. It needs bolts to tighter., 18th April :- [7453832](https://www.fixmystreet.com/report/7453832)
 - Fly tipping, 18th April :- [7453809](https://www.fixmystreet.com/report/7453809)
-- More fly tipping, 18th April :- [7453741](https://www.fixmystreet.com/report/7453741)
-- Flytipping, 18th April :- [7453159](https://www.fixmystreet.com/report/7453159)
 
 <!-- fix_marker ends -->
