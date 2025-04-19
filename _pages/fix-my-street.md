@@ -9,6 +9,14 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipped Items, 19th April :- [7455121](https://www.fixmystreet.com/report/7455121)
+- Flytipped Items, 19th April :- [7455118](https://www.fixmystreet.com/report/7455118)
+- Overgrowth risking damage to fence, 19th April :- [7455099](https://www.fixmystreet.com/report/7455099)
+- McDonald’s waste and NOS canisters, 19th April :- [7455039](https://www.fixmystreet.com/report/7455039)
+- Old fridge abandoned near Beehive pub, 19th April :- [7455032](https://www.fixmystreet.com/report/7455032)
+- Flytipped Mattress, 19th April :- [7454999](https://www.fixmystreet.com/report/7454999)
+- Flytipped Items, 19th April :- [7454981](https://www.fixmystreet.com/report/7454981)
+- Flytipped Item, 19th April :- [7454928](https://www.fixmystreet.com/report/7454928)
 - Tree split, 19th April :- [7454921](https://www.fixmystreet.com/report/7454921)
 - Flytipped Trolley, 19th April :- [7454671](https://www.fixmystreet.com/report/7454671)
 - Flytipped Fridge-Freezer, 19th April :- [7454634](https://www.fixmystreet.com/report/7454634)
@@ -21,13 +29,5 @@ permalink: /fix-my-street
 - Fly tipping, 18th April :- [7453809](https://www.fixmystreet.com/report/7453809)
 - More fly tipping, 18th April :- [7453741](https://www.fixmystreet.com/report/7453741)
 - Flytipping, 18th April :- [7453159](https://www.fixmystreet.com/report/7453159)
-- Pothole outside 20 Copt Elm Close, 18th April :- [7453064](https://www.fixmystreet.com/report/7453064)
-- Roundabout pothole ///return.tasty.plates, 18th April :- [7452981](https://www.fixmystreet.com/report/7452981)
-- Pothole still not fixed at ///today.this.allows, 18th April :- [7452972](https://www.fixmystreet.com/report/7452972)
-- Tree limb broken off, 18th April :- [7452838](https://www.fixmystreet.com/report/7452838)
-- Traffic Light Timings Need Adjusting, 18th April :- [7452344](https://www.fixmystreet.com/report/7452344)
-- Sick on pavement from night out, 18th April :- [7452040](https://www.fixmystreet.com/report/7452040)
-- Old abandoned temporary road sign, 18th April :- [7451673](https://www.fixmystreet.com/report/7451673)
-- Abandoned roadsigns, 18th April :- [7451621](https://www.fixmystreet.com/report/7451621)
 
 <!-- fix_marker ends -->
