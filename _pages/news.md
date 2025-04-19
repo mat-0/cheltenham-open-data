@@ -9,10 +9,10 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- 'Man cave' demolition cost taxpayers £220k ([2 hours ago](https://www.bbc.com/news/articles/creq3q85xn5o))
-- Crowds watch Easter story street performance ([12 hours ago](https://www.bbc.com/news/articles/cy8q4xpw6v6o))
-- Plumber goes viral after sharing DIY tips in videos ([15 hours ago](https://www.bbc.com/news/articles/ckgxxv4zvevo))
-- Gloucestershire in pics: Narrowboats and bluebells ([15 hours ago](https://www.bbc.com/news/articles/crrzjj4e0qqo))
+- 'Man cave' demolition cost taxpayers £220k ([3 hours ago](https://www.bbc.com/news/articles/creq3q85xn5o))
+- Crowds watch Easter story street performance ([13 hours ago](https://www.bbc.com/news/articles/cy8q4xpw6v6o))
+- Plumber goes viral after sharing DIY tips in videos ([16 hours ago](https://www.bbc.com/news/articles/ckgxxv4zvevo))
+- Gloucestershire in pics: Narrowboats and bluebells ([16 hours ago](https://www.bbc.com/news/articles/crrzjj4e0qqo))
 - Man photographed and followed woman on bridle path ([1 days ago](https://www.bbc.com/news/articles/clywg70lnwko))
 - Media statement about the Citrus Hotel ([1 days ago](https://www.cheltenham.gov.uk/news/article/3004/media_statement_about_the_citrus_hotel))
 - Exhibition tells unheard stories of rail workers ([1 days ago](https://www.bbc.com/news/articles/cr5der1mr83o))
