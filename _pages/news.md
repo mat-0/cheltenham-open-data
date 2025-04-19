@@ -9,9 +9,9 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Crowds watch Easter story street performance ([7 hours ago](https://www.bbc.com/news/articles/cy8q4xpw6v6o))
-- Plumber goes viral after sharing DIY tips in videos ([10 hours ago](https://www.bbc.com/news/articles/ckgxxv4zvevo))
-- Gloucestershire in pics: Narrowboats and bluebells ([10 hours ago](https://www.bbc.com/news/articles/crrzjj4e0qqo))
+- Crowds watch Easter story street performance ([9 hours ago](https://www.bbc.com/news/articles/cy8q4xpw6v6o))
+- Plumber goes viral after sharing DIY tips in videos ([12 hours ago](https://www.bbc.com/news/articles/ckgxxv4zvevo))
+- Gloucestershire in pics: Narrowboats and bluebells ([12 hours ago](https://www.bbc.com/news/articles/crrzjj4e0qqo))
 - Man photographed and followed woman on bridle path ([1 days ago](https://www.bbc.com/news/articles/clywg70lnwko))
 - Media statement about the Citrus Hotel ([1 days ago](https://www.cheltenham.gov.uk/news/article/3004/media_statement_about_the_citrus_hotel))
 - Exhibition tells unheard stories of rail workers ([1 days ago](https://www.bbc.com/news/articles/cr5der1mr83o))
@@ -49,12 +49,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - ‘Threatening’ man banned from contacting Cheltenham MP and councils for another two years ([19 days ago](https://gloucesternewscentre.co.uk/threatening-man-banned-from-contacting-cheltenham-mp-and-councils-for-another-two-years/))
 - Cheltenham hotel extension approved despite privacy and noise concerns ([19 days ago](https://gloucesternewscentre.co.uk/cheltenham-hotel-extension-approved-despite-privacy-and-noise-concerns/))
 - Helping Charlton Kings residents prepare for flash flooding ([19 days ago](https://www.cheltenham.gov.uk/news/article/3000/helping_charlton_kings_residents_prepare_for_flash_flooding))
-- Cheltenham shop stripped of premises licence ([21 days ago](https://gloucesternewscentre.co.uk/cheltenham-shop-stripped-of-premises-licence/))
+- Cheltenham shop stripped of premises licence ([22 days ago](https://gloucesternewscentre.co.uk/cheltenham-shop-stripped-of-premises-licence/))
 - Historic Cheltenham property restored ([23 days ago](https://gloucesternewscentre.co.uk/historic-cheltenham-property-restored/))
 - Properties evacauated after suspect ammunition found in Cheltenham ([23 days ago](https://gloucesternewscentre.co.uk/propeties-evacauated-after-suspect-ammuintion-found-in-cheltenham/))
 - Five men arrested last month on suspicion of raping their partner or ex-partner ([23 days ago](https://gloucesternewscentre.co.uk/five-men-arrested-last-month-on-suspicion-of-raping-their-partner-or-ex-partner/))
 - Gloucestershire Police cuts jobs to save 12 million ([23 days ago](https://www.bbc.co.uk/sounds/play/p0l0mzhx))
-- Evacuation cordon lifted after grenade scare ([23 days ago](https://gloucesternewscentre.co.uk/evacuation-cordon-lifted-after-grenade-scare/))
+- Evacuation cordon lifted after grenade scare ([24 days ago](https://gloucesternewscentre.co.uk/evacuation-cordon-lifted-after-grenade-scare/))
 - Fears ‘lives will be put on the line’ by police staff cuts ([24 days ago](https://gloucesternewscentre.co.uk/fears-lives-will-be-put-on-the-line-by-police-staff-cuts/))
 - Wychwood Festival 2025 to go ahead but stage will be moved after complaints ([24 days ago](https://gloucesternewscentre.co.uk/wychwood-festival-2025-to-go-ahead-but-stage-will-be-moved-after-complaints/))
 - County to lose its mounted police unit in cost savings plan ([25 days ago](https://gloucesternewscentre.co.uk/county-to-lose-its-mounted-police-unit-in-cost-savings-plan/))
