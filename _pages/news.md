@@ -9,15 +9,15 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Crowds watch Easter story street performance ([50 minutes ago](https://www.bbc.com/news/articles/cy8q4xpw6v6o))
-- Plumber goes viral after sharing DIY tips in videos ([3 hours ago](https://www.bbc.com/news/articles/ckgxxv4zvevo))
-- Gloucestershire in pics: Narrowboats and bluebells ([3 hours ago](https://www.bbc.com/news/articles/crrzjj4e0qqo))
-- Man photographed and followed woman on bridle path ([23 hours ago](https://www.bbc.com/news/articles/clywg70lnwko))
+- Crowds watch Easter story street performance ([1 hours ago](https://www.bbc.com/news/articles/cy8q4xpw6v6o))
+- Plumber goes viral after sharing DIY tips in videos ([4 hours ago](https://www.bbc.com/news/articles/ckgxxv4zvevo))
+- Gloucestershire in pics: Narrowboats and bluebells ([4 hours ago](https://www.bbc.com/news/articles/crrzjj4e0qqo))
+- Man photographed and followed woman on bridle path ([1 days ago](https://www.bbc.com/news/articles/clywg70lnwko))
 - Media statement about the Citrus Hotel ([1 days ago](https://www.cheltenham.gov.uk/news/article/3004/media_statement_about_the_citrus_hotel))
 - Exhibition tells unheard stories of rail workers ([1 days ago](https://www.bbc.com/news/articles/cr5der1mr83o))
 - Coach parking trial begins in busy village ([1 days ago](https://www.bbc.com/news/articles/cvg777d297yo))
 - What it is like to live with Parkinson's ([1 days ago](https://www.bbc.com/news/articles/cj3xxen5v0vo))
-- New documentary on Fred and Rose West released ([1 days ago](https://www.bbc.com/news/articles/c78j443v77vo))
+- New documentary on Fred and Rose West released ([2 days ago](https://www.bbc.com/news/articles/c78j443v77vo))
 - Headlines: 'No justice' after second stabbing sentence ([2 days ago](https://www.bbc.com/news/articles/c8epx324pdwo))
 - Northern Lights dazzle over West of England ([2 days ago](https://www.bbc.com/news/articles/cpvrlw8xjdmo))
 - 'Scammers used fake app to steal from me in person' ([2 days ago](https://www.bbc.com/news/articles/cn05d58jwvdo))
@@ -31,7 +31,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Ex-councillor jailed for sexual assault of child ([2 days ago](https://www.bbc.com/news/articles/cql6z67xl5qo))
 - Green light for 136 new homes on edge of city ([3 days ago](https://www.bbc.com/news/articles/c5y6lv77rw3o))
 - Dashcam appeal after car flips onto roof on A436 near Seven Springs ([3 days ago](https://gloucesternewscentre.co.uk/dashcam-appeal-after-car-flips-onto-roof-on-a436-near-seven-springs/))
-- Six-week consultation now live for Leckhampton with Warden Hill neighbourhood plan ([3 days ago](https://gloucesternewscentre.co.uk/six-week-consultation-now-live-for-leckhampton-with-warden-hill-neighbourhood-plan-2/))
+- Six-week consultation now live for Leckhampton with Warden Hill neighbourhood plan ([4 days ago](https://gloucesternewscentre.co.uk/six-week-consultation-now-live-for-leckhampton-with-warden-hill-neighbourhood-plan-2/))
 - Six-week consultation now live for Leckhampton with Warden Hill neighbourhood plan ([4 days ago](https://www.cheltenham.gov.uk/news/article/3003/six-week_consultation_now_live_for_leckhampton_with_warden_hill_neighbourhood_plan))
 - Appeal to locate wanted man Mason McConnon from Cheltenham ([4 days ago](https://gloucesternewscentre.co.uk/appeal-to-locate-wanted-man-mason-mcconnon-from-cheltenham/))
 - Man charged with offences related to hunting with dogs ([4 days ago](https://gloucesternewscentre.co.uk/man-charged-with-offences-related-to-hunting-with-dogs/))
@@ -44,7 +44,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Wanted woman is arrested after handing herself into police ([16 days ago](https://gloucesternewscentre.co.uk/wanted-woman-is-arrested-after-handing-herself-into-police/))
 - CCTV appeal following theft of cigarettes and vapes from Cheltenham shop ([16 days ago](https://gloucesternewscentre.co.uk/cctv-appeal-following-theft-of-cigarettes-and-vapes-from-cheltenham-shop/))
 - Plans for 5,000 homes on farmland near Sharpness & Berkeley ([17 days ago](https://www.bbc.co.uk/sounds/play/p0l1v3k3))
-- Cut those costs as seven bills soar ([17 days ago](https://www.bbc.co.uk/sounds/play/p0l1mstk))
+- Cut those costs as seven bills soar ([18 days ago](https://www.bbc.co.uk/sounds/play/p0l1mstk))
 - Cheltenham garden annexe plans approved ([18 days ago](https://gloucesternewscentre.co.uk/cheltenham-garden-annexe-plans-approved/))
 - ‘Threatening’ man banned from contacting Cheltenham MP and councils for another two years ([18 days ago](https://gloucesternewscentre.co.uk/threatening-man-banned-from-contacting-cheltenham-mp-and-councils-for-another-two-years/))
 - Cheltenham hotel extension approved despite privacy and noise concerns ([18 days ago](https://gloucesternewscentre.co.uk/cheltenham-hotel-extension-approved-despite-privacy-and-noise-concerns/))
@@ -60,7 +60,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - County to lose its mounted police unit in cost savings plan ([25 days ago](https://gloucesternewscentre.co.uk/county-to-lose-its-mounted-police-unit-in-cost-savings-plan/))
 - Traffic fears over ‘chicanes’ installed in Cheltenham ([25 days ago](https://gloucesternewscentre.co.uk/traffic-fears-over-chicanes-installed-in-cheltenham/))
 - Don’t miss your right to vote, register by Friday 11 April 2025 ([28 days ago](https://www.cheltenham.gov.uk/news/article/2999/dont_miss_your_right_to_vote_register_by_friday_11_april_2025))
-- £96k funding available for new neighbourhood projects in Cheltenham ([28 days ago](https://www.cheltenham.gov.uk/news/article/2998/96k_funding_available_for_new_neighbourhood_projects_in_cheltenham))
+- £96k funding available for new neighbourhood projects in Cheltenham ([29 days ago](https://www.cheltenham.gov.uk/news/article/2998/96k_funding_available_for_new_neighbourhood_projects_in_cheltenham))
 - NCLB’s Party in the Park for families returns for another summer of fun ([29 days ago](https://www.cheltenham.gov.uk/news/article/2997/nclbs_party_in_the_park_for_families_returns_for_another_summer_of_fun))
 
 <!-- news_marker ends -->
