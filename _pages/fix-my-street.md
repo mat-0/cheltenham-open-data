@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- There are potholes and road deterioration across the whole junction., 19th April :- [7455739](https://www.fixmystreet.com/report/7455739)
+- Repeat report of Advancec Stop white line need repainting, 19th April :- [7455713](https://www.fixmystreet.com/report/7455713)
 - Cul de sac road surface is in an atrocious state and has now resulted in my little girl falling and cutting/grazing her leg and hand quite badly., 19th April :- [7455492](https://www.fixmystreet.com/report/7455492)
 - Series of potholes that cannot be avoided on corner, 19th April :- [7455397](https://www.fixmystreet.com/report/7455397)
 - These two drain covers are completely blocked. At the bottom of Gravel Walk., 19th April :- [7455376](https://www.fixmystreet.com/report/7455376)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Flytipped items, 19th April :- [7454590](https://www.fixmystreet.com/report/7454590)
 - Dog poo bin, 19th April :- [7454366](https://www.fixmystreet.com/report/7454366)
 - One of the three lamps on ths column is not working, 19th April :- [7454053](https://www.fixmystreet.com/report/7454053)
-- The light is out on column 291 London Road, Cheltenham, 19th April :- [7454051](https://www.fixmystreet.com/report/7454051)
-- Road Sign between number 73 and 71 is rattling a lot. Specially when it is really windy. It needs bolts to tighter., 18th April :- [7453832](https://www.fixmystreet.com/report/7453832)
 
 <!-- fix_marker ends -->
