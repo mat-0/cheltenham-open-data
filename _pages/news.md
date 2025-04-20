@@ -9,12 +9,12 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- School aiming to raise £80k for new playground ([15 minutes ago](https://www.bbc.com/news/articles/c2kvzvz0wlvo))
-- AI could help decide where to build 5,400 homes ([2 hours ago](https://www.bbc.com/news/articles/c1me8kx4e2mo))
-- Major rail disruption for 'urgent' bridge repair ([9 hours ago](https://www.bbc.com/news/articles/c5y62kpxp96o))
-- 'We need £20k to refurbish our city's last theatre' ([12 hours ago](https://www.bbc.com/news/articles/ce92rln7292o))
-- Headlines: App scam and Pontins manslaughter charge ([12 hours ago](https://www.bbc.com/news/articles/cn5xq0evyxqo))
-- 'Man cave' demolition cost taxpayers £220k ([23 hours ago](https://www.bbc.com/news/articles/creq3q85xn5o))
+- School aiming to raise £80k for new playground ([1 hours ago](https://www.bbc.com/news/articles/c2kvzvz0wlvo))
+- AI could help decide where to build 5,400 homes ([3 hours ago](https://www.bbc.com/news/articles/c1me8kx4e2mo))
+- Major rail disruption for 'urgent' bridge repair ([10 hours ago](https://www.bbc.com/news/articles/c5y62kpxp96o))
+- 'We need £20k to refurbish our city's last theatre' ([13 hours ago](https://www.bbc.com/news/articles/ce92rln7292o))
+- Headlines: App scam and Pontins manslaughter charge ([13 hours ago](https://www.bbc.com/news/articles/cn5xq0evyxqo))
+- 'Man cave' demolition cost taxpayers £220k ([1 days ago](https://www.bbc.com/news/articles/creq3q85xn5o))
 - Crowds watch Easter story street performance ([1 days ago](https://www.bbc.com/news/articles/cy8q4xpw6v6o))
 - Plumber goes viral after sharing DIY tips in videos ([1 days ago](https://www.bbc.com/news/articles/ckgxxv4zvevo))
 - Gloucestershire in pics: Narrowboats and bluebells ([1 days ago](https://www.bbc.com/news/articles/crrzjj4e0qqo))
