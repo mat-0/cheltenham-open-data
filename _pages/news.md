@@ -9,11 +9,11 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Second day of rail disruption for 'urgent' repairs ([37 minutes ago](https://www.bbc.com/news/articles/c5y62kpxp96o))
-- School aiming to raise £80k for new playground ([2 hours ago](https://www.bbc.com/news/articles/c2kvzvz0wlvo))
-- AI could help decide where to build 5,400 homes ([4 hours ago](https://www.bbc.com/news/articles/c1me8kx4e2mo))
-- 'We need £20k to refurbish our city's last theatre' ([14 hours ago](https://www.bbc.com/news/articles/ce92rln7292o))
-- Headlines: App scam and Pontins manslaughter charge ([14 hours ago](https://www.bbc.com/news/articles/cn5xq0evyxqo))
+- Second day of rail disruption for 'urgent' repairs ([1 hours ago](https://www.bbc.com/news/articles/c5y62kpxp96o))
+- School aiming to raise £80k for new playground ([3 hours ago](https://www.bbc.com/news/articles/c2kvzvz0wlvo))
+- AI could help decide where to build 5,400 homes ([5 hours ago](https://www.bbc.com/news/articles/c1me8kx4e2mo))
+- 'We need £20k to refurbish our city's last theatre' ([15 hours ago](https://www.bbc.com/news/articles/ce92rln7292o))
+- Headlines: App scam and Pontins manslaughter charge ([15 hours ago](https://www.bbc.com/news/articles/cn5xq0evyxqo))
 - 'Man cave' demolition cost taxpayers £220k ([1 days ago](https://www.bbc.com/news/articles/creq3q85xn5o))
 - Crowds watch Easter story street performance ([1 days ago](https://www.bbc.com/news/articles/cy8q4xpw6v6o))
 - Plumber goes viral after sharing DIY tips in videos ([1 days ago](https://www.bbc.com/news/articles/ckgxxv4zvevo))
