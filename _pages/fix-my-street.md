@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- All the 50 mph signs on the stretch of the A436 from Kilkenny to Seven Springs need cleaning - they are really hard to see and people assume it is a 60 mph limit, 20th April :- [7458256](https://www.fixmystreet.com/report/7458256)
+- Dead street tree Wellington Square/ Wellington Road, 20th April :- [7458252](https://www.fixmystreet.com/report/7458252)
 - 10+ large polystyrene blocks dumped and breaking apart, 20th April :- [7457908](https://www.fixmystreet.com/report/7457908)
 - Dead deer blocking half the cycleway, 20th April :- [7457868](https://www.fixmystreet.com/report/7457868)
 - Potholes scattered everywhere, 20th April :- [7457235](https://www.fixmystreet.com/report/7457235)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - These two drain covers are completely blocked. At the bottom of Gravel Walk., 19th April :- [7455376](https://www.fixmystreet.com/report/7455376)
 - Flytipped Items, 19th April :- [7455121](https://www.fixmystreet.com/report/7455121)
 - Flytipped Items, 19th April :- [7455118](https://www.fixmystreet.com/report/7455118)
-- Overgrowth risking damage to fence, 19th April :- [7455099](https://www.fixmystreet.com/report/7455099)
-- McDonald’s waste and NOS canisters, 19th April :- [7455039](https://www.fixmystreet.com/report/7455039)
 
 <!-- fix_marker ends -->
