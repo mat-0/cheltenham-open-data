@@ -9,10 +9,10 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Major rail disruption for 'urgent' bridge repair ([4 hours ago](https://www.bbc.com/news/articles/c5y62kpxp96o))
-- 'We need £20k to refurbish our city's last theatre' ([7 hours ago](https://www.bbc.com/news/articles/ce92rln7292o))
-- Headlines: App scam and Pontins manslaughter charge ([7 hours ago](https://www.bbc.com/news/articles/cn5xq0evyxqo))
-- 'Man cave' demolition cost taxpayers £220k ([18 hours ago](https://www.bbc.com/news/articles/creq3q85xn5o))
+- Major rail disruption for 'urgent' bridge repair ([5 hours ago](https://www.bbc.com/news/articles/c5y62kpxp96o))
+- 'We need £20k to refurbish our city's last theatre' ([8 hours ago](https://www.bbc.com/news/articles/ce92rln7292o))
+- Headlines: App scam and Pontins manslaughter charge ([8 hours ago](https://www.bbc.com/news/articles/cn5xq0evyxqo))
+- 'Man cave' demolition cost taxpayers £220k ([19 hours ago](https://www.bbc.com/news/articles/creq3q85xn5o))
 - Crowds watch Easter story street performance ([1 days ago](https://www.bbc.com/news/articles/cy8q4xpw6v6o))
 - Plumber goes viral after sharing DIY tips in videos ([1 days ago](https://www.bbc.com/news/articles/ckgxxv4zvevo))
 - Gloucestershire in pics: Narrowboats and bluebells ([1 days ago](https://www.bbc.com/news/articles/crrzjj4e0qqo))
@@ -38,8 +38,8 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Cheltenham Welcomes Refugees celebrates receiving the King’s Award for Voluntary Service ([6 days ago](https://gloucesternewscentre.co.uk/cheltenham-welcomes-refugees-celebrates-receiving-the-kings-award-for-voluntary-service/))
 - Man wanted in relation to stalking allegation ([11 days ago](https://gloucesternewscentre.co.uk/man-wanted-in-relation-to-stalking-allegation/))
 - Appeal for information about assault at Cheltenham night club ([11 days ago](https://gloucesternewscentre.co.uk/appeal-for-information-about-assault-at-cheltenham-night-club/))
-- Gloucestershire hotel recognised in national hospitality awards ([11 days ago](https://gloucesternewscentre.co.uk/gloucestershire-hotel-recognised-in-national-hospitality-awards/))
-- Crack Easter recycling – waste and recycling collections for 2025 ([16 days ago](https://www.cheltenham.gov.uk/news/article/3002/crack_easter_recycling_%E2%80%93_waste_and_recycling_collections_for_2025))
+- Gloucestershire hotel recognised in national hospitality awards ([12 days ago](https://gloucesternewscentre.co.uk/gloucestershire-hotel-recognised-in-national-hospitality-awards/))
+- Crack Easter recycling – waste and recycling collections for 2025 ([17 days ago](https://www.cheltenham.gov.uk/news/article/3002/crack_easter_recycling_%E2%80%93_waste_and_recycling_collections_for_2025))
 - Cheltenham Licensing Sub-Committee revokes private hire driver’s licence due to safety concerns ([17 days ago](https://www.cheltenham.gov.uk/news/article/3001/cheltenham_licensing_sub-committee_revokes_private_hire_drivers_licence_due_to_safety_concerns))
 - Wanted woman is arrested after handing herself into police ([17 days ago](https://gloucesternewscentre.co.uk/wanted-woman-is-arrested-after-handing-herself-into-police/))
 - CCTV appeal following theft of cigarettes and vapes from Cheltenham shop ([17 days ago](https://gloucesternewscentre.co.uk/cctv-appeal-following-theft-of-cigarettes-and-vapes-from-cheltenham-shop/))
