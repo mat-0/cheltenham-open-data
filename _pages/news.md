@@ -10,9 +10,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
 - Major rail disruption for 'urgent' bridge repair ([4 hours ago](https://www.bbc.com/news/articles/c5y62kpxp96o))
-- 'We need £20k to refurbish our city's last theatre' ([6 hours ago](https://www.bbc.com/news/articles/ce92rln7292o))
-- Headlines: App scam and Pontins manslaughter charge ([6 hours ago](https://www.bbc.com/news/articles/cn5xq0evyxqo))
-- 'Man cave' demolition cost taxpayers £220k ([17 hours ago](https://www.bbc.com/news/articles/creq3q85xn5o))
+- 'We need £20k to refurbish our city's last theatre' ([7 hours ago](https://www.bbc.com/news/articles/ce92rln7292o))
+- Headlines: App scam and Pontins manslaughter charge ([7 hours ago](https://www.bbc.com/news/articles/cn5xq0evyxqo))
+- 'Man cave' demolition cost taxpayers £220k ([18 hours ago](https://www.bbc.com/news/articles/creq3q85xn5o))
 - Crowds watch Easter story street performance ([1 days ago](https://www.bbc.com/news/articles/cy8q4xpw6v6o))
 - Plumber goes viral after sharing DIY tips in videos ([1 days ago](https://www.bbc.com/news/articles/ckgxxv4zvevo))
 - Gloucestershire in pics: Narrowboats and bluebells ([1 days ago](https://www.bbc.com/news/articles/crrzjj4e0qqo))
@@ -59,6 +59,5 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Wychwood Festival 2025 to go ahead but stage will be moved after complaints ([25 days ago](https://gloucesternewscentre.co.uk/wychwood-festival-2025-to-go-ahead-but-stage-will-be-moved-after-complaints/))
 - County to lose its mounted police unit in cost savings plan ([26 days ago](https://gloucesternewscentre.co.uk/county-to-lose-its-mounted-police-unit-in-cost-savings-plan/))
 - Traffic fears over ‘chicanes’ installed in Cheltenham ([26 days ago](https://gloucesternewscentre.co.uk/traffic-fears-over-chicanes-installed-in-cheltenham/))
-- Don’t miss your right to vote, register by Friday 11 April 2025 ([29 days ago](https://www.cheltenham.gov.uk/news/article/2999/dont_miss_your_right_to_vote_register_by_friday_11_april_2025))
 
 <!-- news_marker ends -->
