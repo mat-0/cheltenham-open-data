@@ -9,10 +9,10 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Major rail disruption for 'urgent' bridge repair ([1 hours ago](https://www.bbc.com/news/articles/c5y62kpxp96o))
-- 'We need £20k to refurbish our city's last theatre' ([4 hours ago](https://www.bbc.com/news/articles/ce92rln7292o))
-- Headlines: App scam and Pontins manslaughter charge ([4 hours ago](https://www.bbc.com/news/articles/cn5xq0evyxqo))
-- 'Man cave' demolition cost taxpayers £220k ([15 hours ago](https://www.bbc.com/news/articles/creq3q85xn5o))
+- Major rail disruption for 'urgent' bridge repair ([2 hours ago](https://www.bbc.com/news/articles/c5y62kpxp96o))
+- 'We need £20k to refurbish our city's last theatre' ([5 hours ago](https://www.bbc.com/news/articles/ce92rln7292o))
+- Headlines: App scam and Pontins manslaughter charge ([5 hours ago](https://www.bbc.com/news/articles/cn5xq0evyxqo))
+- 'Man cave' demolition cost taxpayers £220k ([16 hours ago](https://www.bbc.com/news/articles/creq3q85xn5o))
 - Crowds watch Easter story street performance ([1 days ago](https://www.bbc.com/news/articles/cy8q4xpw6v6o))
 - Plumber goes viral after sharing DIY tips in videos ([1 days ago](https://www.bbc.com/news/articles/ckgxxv4zvevo))
 - Gloucestershire in pics: Narrowboats and bluebells ([1 days ago](https://www.bbc.com/news/articles/crrzjj4e0qqo))
@@ -34,7 +34,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Six-week consultation now live for Leckhampton with Warden Hill neighbourhood plan ([5 days ago](https://gloucesternewscentre.co.uk/six-week-consultation-now-live-for-leckhampton-with-warden-hill-neighbourhood-plan-2/))
 - Six-week consultation now live for Leckhampton with Warden Hill neighbourhood plan ([5 days ago](https://www.cheltenham.gov.uk/news/article/3003/six-week_consultation_now_live_for_leckhampton_with_warden_hill_neighbourhood_plan))
 - Appeal to locate wanted man Mason McConnon from Cheltenham ([5 days ago](https://gloucesternewscentre.co.uk/appeal-to-locate-wanted-man-mason-mcconnon-from-cheltenham/))
-- Man charged with offences related to hunting with dogs ([5 days ago](https://gloucesternewscentre.co.uk/man-charged-with-offences-related-to-hunting-with-dogs/))
+- Man charged with offences related to hunting with dogs ([6 days ago](https://gloucesternewscentre.co.uk/man-charged-with-offences-related-to-hunting-with-dogs/))
 - Cheltenham Welcomes Refugees celebrates receiving the King’s Award for Voluntary Service ([6 days ago](https://gloucesternewscentre.co.uk/cheltenham-welcomes-refugees-celebrates-receiving-the-kings-award-for-voluntary-service/))
 - Man wanted in relation to stalking allegation ([11 days ago](https://gloucesternewscentre.co.uk/man-wanted-in-relation-to-stalking-allegation/))
 - Appeal for information about assault at Cheltenham night club ([11 days ago](https://gloucesternewscentre.co.uk/appeal-for-information-about-assault-at-cheltenham-night-club/))
@@ -52,7 +52,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Cheltenham shop stripped of premises licence ([22 days ago](https://gloucesternewscentre.co.uk/cheltenham-shop-stripped-of-premises-licence/))
 - Historic Cheltenham property restored ([23 days ago](https://gloucesternewscentre.co.uk/historic-cheltenham-property-restored/))
 - Properties evacauated after suspect ammunition found in Cheltenham ([23 days ago](https://gloucesternewscentre.co.uk/propeties-evacauated-after-suspect-ammuintion-found-in-cheltenham/))
-- Five men arrested last month on suspicion of raping their partner or ex-partner ([23 days ago](https://gloucesternewscentre.co.uk/five-men-arrested-last-month-on-suspicion-of-raping-their-partner-or-ex-partner/))
+- Five men arrested last month on suspicion of raping their partner or ex-partner ([24 days ago](https://gloucesternewscentre.co.uk/five-men-arrested-last-month-on-suspicion-of-raping-their-partner-or-ex-partner/))
 - Gloucestershire Police cuts jobs to save 12 million ([24 days ago](https://www.bbc.co.uk/sounds/play/p0l0mzhx))
 - Evacuation cordon lifted after grenade scare ([24 days ago](https://gloucesternewscentre.co.uk/evacuation-cordon-lifted-after-grenade-scare/))
 - Fears ‘lives will be put on the line’ by police staff cuts ([24 days ago](https://gloucesternewscentre.co.uk/fears-lives-will-be-put-on-the-line-by-police-staff-cuts/))
