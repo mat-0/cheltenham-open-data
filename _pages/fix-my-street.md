@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 10+ large polystyrene blocks dumped and breaking apart, 20th April :- [7457908](https://www.fixmystreet.com/report/7457908)
 - Dead deer blocking half the cycleway, 20th April :- [7457868](https://www.fixmystreet.com/report/7457868)
 - Potholes scattered everywhere, 20th April :- [7457235](https://www.fixmystreet.com/report/7457235)
 - Broken glass, 20th April :- [7457206](https://www.fixmystreet.com/report/7457206)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Flytipped Items, 19th April :- [7455118](https://www.fixmystreet.com/report/7455118)
 - Overgrowth risking damage to fence, 19th April :- [7455099](https://www.fixmystreet.com/report/7455099)
 - McDonald’s waste and NOS canisters, 19th April :- [7455039](https://www.fixmystreet.com/report/7455039)
-- Old fridge abandoned near Beehive pub, 19th April :- [7455032](https://www.fixmystreet.com/report/7455032)
 
 <!-- fix_marker ends -->
