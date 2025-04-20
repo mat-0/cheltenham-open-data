@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Potholes scattered everywhere, 20th April :- [7457235](https://www.fixmystreet.com/report/7457235)
+- Broken glass, 20th April :- [7457206](https://www.fixmystreet.com/report/7457206)
+- Large rocking paving slab outside 4 Stanton Way. An elderley lady lives here., 20th April :- [7457175](https://www.fixmystreet.com/report/7457175)
+- Blocked public right of way - locked gate, 20th April :- [7457164](https://www.fixmystreet.com/report/7457164)
 - Large area of various sized potholes, 19th April :- [7456390](https://www.fixmystreet.com/report/7456390)
 - Incorrect speed limit, 19th April :- [7456271](https://www.fixmystreet.com/report/7456271)
 - The footpath goes down the lane and has done for as long as older residents can remember and is recorded as such. The lane has been blocked by a cattle grid and double gates. Wihtout any public consultation, the landowner moved the public footpath sign and created a new path entrance and fenced off path route, as per pictures. Some of this fence includes low level barbed wire. This 'new' path has in effect diverted the footpath from its legal route.It is impossible for a walker to use the rightful public footpath safely., 19th April :- [7456100](https://www.fixmystreet.com/report/7456100)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - McDonald’s waste and NOS canisters, 19th April :- [7455039](https://www.fixmystreet.com/report/7455039)
 - Old fridge abandoned near Beehive pub, 19th April :- [7455032](https://www.fixmystreet.com/report/7455032)
 - Flytipped Mattress, 19th April :- [7454999](https://www.fixmystreet.com/report/7454999)
-- Flytipped Items, 19th April :- [7454981](https://www.fixmystreet.com/report/7454981)
-- Flytipped Item, 19th April :- [7454928](https://www.fixmystreet.com/report/7454928)
-- Tree split, 19th April :- [7454921](https://www.fixmystreet.com/report/7454921)
-- Flytipped Trolley, 19th April :- [7454671](https://www.fixmystreet.com/report/7454671)
 
 <!-- fix_marker ends -->
