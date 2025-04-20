@@ -9,10 +9,10 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- 'We need £20k to refurbish our city's last theatre' ([24 minutes ago](https://www.bbc.com/news/articles/ce92rln7292o))
-- Headlines: App scam and Pontins manslaughter charge ([35 minutes ago](https://www.bbc.com/news/articles/cn5xq0evyxqo))
-- 'Man cave' demolition cost taxpayers £220k ([11 hours ago](https://www.bbc.com/news/articles/creq3q85xn5o))
-- Crowds watch Easter story street performance ([21 hours ago](https://www.bbc.com/news/articles/cy8q4xpw6v6o))
+- 'We need £20k to refurbish our city's last theatre' ([1 hours ago](https://www.bbc.com/news/articles/ce92rln7292o))
+- Headlines: App scam and Pontins manslaughter charge ([1 hours ago](https://www.bbc.com/news/articles/cn5xq0evyxqo))
+- 'Man cave' demolition cost taxpayers £220k ([12 hours ago](https://www.bbc.com/news/articles/creq3q85xn5o))
+- Crowds watch Easter story street performance ([22 hours ago](https://www.bbc.com/news/articles/cy8q4xpw6v6o))
 - Plumber goes viral after sharing DIY tips in videos ([1 days ago](https://www.bbc.com/news/articles/ckgxxv4zvevo))
 - Gloucestershire in pics: Narrowboats and bluebells ([1 days ago](https://www.bbc.com/news/articles/crrzjj4e0qqo))
 - Man photographed and followed woman on bridle path ([1 days ago](https://www.bbc.com/news/articles/clywg70lnwko))
@@ -22,7 +22,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - What it is like to live with Parkinson's ([2 days ago](https://www.bbc.com/news/articles/cj3xxen5v0vo))
 - New documentary on Fred and Rose West released ([2 days ago](https://www.bbc.com/news/articles/c78j443v77vo))
 - Headlines: 'No justice' after second stabbing sentence ([2 days ago](https://www.bbc.com/news/articles/c8epx324pdwo))
-- Northern Lights dazzle over West of England ([2 days ago](https://www.bbc.com/news/articles/cpvrlw8xjdmo))
+- Northern Lights dazzle over West of England ([3 days ago](https://www.bbc.com/news/articles/cpvrlw8xjdmo))
 - 'Scammers used fake app to steal from me in person' ([3 days ago](https://www.bbc.com/news/articles/cn05d58jwvdo))
 - 'No hormones please, we're British beef farmers' ([3 days ago](https://www.bbc.com/news/articles/cp31qqlq29vo))
 - Veteran's mission after learning to 'live again' ([3 days ago](https://www.bbc.com/news/articles/cn5xxn54zz6o))
