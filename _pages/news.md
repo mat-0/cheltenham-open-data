@@ -9,10 +9,10 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- 'Man cave' demolition cost taxpayers £220k ([9 hours ago](https://www.bbc.com/news/articles/creq3q85xn5o))
-- Crowds watch Easter story street performance ([19 hours ago](https://www.bbc.com/news/articles/cy8q4xpw6v6o))
-- Plumber goes viral after sharing DIY tips in videos ([22 hours ago](https://www.bbc.com/news/articles/ckgxxv4zvevo))
-- Gloucestershire in pics: Narrowboats and bluebells ([22 hours ago](https://www.bbc.com/news/articles/crrzjj4e0qqo))
+- 'Man cave' demolition cost taxpayers £220k ([10 hours ago](https://www.bbc.com/news/articles/creq3q85xn5o))
+- Crowds watch Easter story street performance ([20 hours ago](https://www.bbc.com/news/articles/cy8q4xpw6v6o))
+- Plumber goes viral after sharing DIY tips in videos ([23 hours ago](https://www.bbc.com/news/articles/ckgxxv4zvevo))
+- Gloucestershire in pics: Narrowboats and bluebells ([23 hours ago](https://www.bbc.com/news/articles/crrzjj4e0qqo))
 - Man photographed and followed woman on bridle path ([1 days ago](https://www.bbc.com/news/articles/clywg70lnwko))
 - Media statement about the Citrus Hotel ([1 days ago](https://www.cheltenham.gov.uk/news/article/3004/media_statement_about_the_citrus_hotel))
 - Exhibition tells unheard stories of rail workers ([1 days ago](https://www.bbc.com/news/articles/cr5der1mr83o))
@@ -21,9 +21,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - New documentary on Fred and Rose West released ([2 days ago](https://www.bbc.com/news/articles/c78j443v77vo))
 - Headlines: 'No justice' after second stabbing sentence ([2 days ago](https://www.bbc.com/news/articles/c8epx324pdwo))
 - Northern Lights dazzle over West of England ([2 days ago](https://www.bbc.com/news/articles/cpvrlw8xjdmo))
-- 'Scammers used fake app to steal from me in person' ([2 days ago](https://www.bbc.com/news/articles/cn05d58jwvdo))
-- 'No hormones please, we're British beef farmers' ([2 days ago](https://www.bbc.com/news/articles/cp31qqlq29vo))
-- Veteran's mission after learning to 'live again' ([2 days ago](https://www.bbc.com/news/articles/cn5xxn54zz6o))
+- 'Scammers used fake app to steal from me in person' ([3 days ago](https://www.bbc.com/news/articles/cn05d58jwvdo))
+- 'No hormones please, we're British beef farmers' ([3 days ago](https://www.bbc.com/news/articles/cp31qqlq29vo))
+- Veteran's mission after learning to 'live again' ([3 days ago](https://www.bbc.com/news/articles/cn5xxn54zz6o))
 - 98 per cent of pupils offered a place at a school of their choice ([3 days ago](https://gloucesternewscentre.co.uk/98-per-cent-of-pupils-offered-a-place-at-a-school-of-their-choice/))
 - Wanted appeal for 45-year-old man from Cheltenham ([3 days ago](https://gloucesternewscentre.co.uk/wanted-appeal-for-45-year-old-man-from-cheltenham/))
 - Firefighters tackle town centre car blaze ([3 days ago](https://www.bbc.com/news/articles/cdjlzz2rj3xo))
