@@ -10,12 +10,12 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Sunday, 20 April 2025
 
-- The average temperature today is 11.39˚C,
-- With highs of 12.21˚C and lows of 10.47˚C,
-- It may feel like 10.57˚C with overcast clouds
-- The wind speed is 2.68m/s and visibility is 10000m
-- The pressure is 1007hPa and humidity is 76%
-- The sun will rise at 05:00 and set at 19:13
+- The average temperature today is 11.09˚C,
+- With highs of 11.66˚C and lows of 10.47˚C,
+- It may feel like 10.21˚C with overcast clouds
+- The wind speed is 1.79m/s and visibility is 10000m
+- The pressure is 1007hPa and humidity is 75%
+- The sun will rise at 04:58 and set at 19:15
 
 <!-- weather_marker ends -->
 
