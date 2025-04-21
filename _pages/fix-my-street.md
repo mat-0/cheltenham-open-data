@@ -9,7 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dog waste sign seems to have fallen off lampost it was affixed to., 21st April :- [7459959](https://www.fixmystreet.com/report/7459959)
 - Blocked Drain in alleyway, 21st April :- [7459776](https://www.fixmystreet.com/report/7459776)
+- A pothole in road problem, 21st April :- [7459851](https://www.fixmystreet.com/report/7459851)
 - Graffiti on wall in alleyway, 21st April :- [7459764](https://www.fixmystreet.com/report/7459764)
 - Roadworks sign left in Minster Churchyard, 21st April :- [7459749](https://www.fixmystreet.com/report/7459749)
 - Hi there. The kerbs all around murrel drive and old field road have weeds and grass growing out of them and it really is unsightly and looks un kept and loved. I’ve tried to clean a few areas up but it would be really appreciated if a road sweeper could come all around the area and clean up the kerb line. Thank you very much. From all Oldfield road residents, 21st April :- [7459336](https://www.fixmystreet.com/report/7459336)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - The footpath goes down the lane and has done for as long as older residents can remember and is recorded as such. The lane has been blocked by a cattle grid and double gates. Wihtout any public consultation, the landowner moved the public footpath sign and created a new path entrance and fenced off path route, as per pictures. Some of this fence includes low level barbed wire. This 'new' path has in effect diverted the footpath from its legal route.It is impossible for a walker to use the rightful public footpath safely., 19th April :- [7456100](https://www.fixmystreet.com/report/7456100)
 - Still no double yellow lines, 19th April :- [7456057](https://www.fixmystreet.com/report/7456057)
 - Fly-tipping, 19th April :- [7455811](https://www.fixmystreet.com/report/7455811)
-- There are potholes and road deterioration across the whole junction., 19th April :- [7455739](https://www.fixmystreet.com/report/7455739)
-- Repeat report of Advancec Stop white line need repainting, 19th April :- [7455713](https://www.fixmystreet.com/report/7455713)
 
 <!-- fix_marker ends -->
