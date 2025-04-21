@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole which is getting bigger., 21st April :- [7461377](https://www.fixmystreet.com/report/7461377)
+- Water leaking onto pavement, 21st April :- [7461284](https://www.fixmystreet.com/report/7461284)
 - Lamppost demolished in Greet Road, Winchcombe, 21st April :- [7461174](https://www.fixmystreet.com/report/7461174)
 - Reopened pothold - Bodge It & Scarper, Council waste & inefficiency special, 21st April :- [7460292](https://www.fixmystreet.com/report/7460292)
 - Large sunken excavation, 21st April :- [7460267](https://www.fixmystreet.com/report/7460267)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Broken glass, 20th April :- [7457206](https://www.fixmystreet.com/report/7457206)
 - Large rocking paving slab outside 4 Stanton Way. An elderley lady lives here., 20th April :- [7457175](https://www.fixmystreet.com/report/7457175)
 - Blocked public right of way - locked gate, 20th April :- [7457164](https://www.fixmystreet.com/report/7457164)
-- Large area of various sized potholes, 19th April :- [7456390](https://www.fixmystreet.com/report/7456390)
-- Incorrect speed limit, 19th April :- [7456271](https://www.fixmystreet.com/report/7456271)
 
 <!-- fix_marker ends -->
