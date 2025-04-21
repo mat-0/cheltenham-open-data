@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Hi there. The kerbs all around murrel drive and old field road have weeds and grass growing out of them and it really is unsightly and looks un kept and loved. I’ve tried to clean a few areas up but it would be really appreciated if a road sweeper could come all around the area and clean up the kerb line. Thank you very much. From all Oldfield road residents, 21st April :- [7459336](https://www.fixmystreet.com/report/7459336)
 - Overgrown bushes and trees making road narrow. The entire length of the single track road is overgrown it needs cutting back at least 2 foot and the trees with overhanging branches need cutting down all the way along. It’s damaging car wing mirrors and has scratched the top side of my VW transporter van due to tree’s over hanging. It also makes it very difficult to pull in anywhere when a car comes the other way. It needs more than a which trim it needs properly taking back and the verge cleared to allow more road space., 21st April :- [7459291](https://www.fixmystreet.com/report/7459291)
 - All the 50 mph signs on the stretch of the A436 from Kilkenny to Seven Springs need cleaning - they are really hard to see and people assume it is a 60 mph limit, 20th April :- [7458256](https://www.fixmystreet.com/report/7458256)
 - Dead street tree Wellington Square/ Wellington Road, 20th April :- [7458252](https://www.fixmystreet.com/report/7458252)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Cul de sac road surface is in an atrocious state and has now resulted in my little girl falling and cutting/grazing her leg and hand quite badly., 19th April :- [7455492](https://www.fixmystreet.com/report/7455492)
 - Series of potholes that cannot be avoided on corner, 19th April :- [7455397](https://www.fixmystreet.com/report/7455397)
 - These two drain covers are completely blocked. At the bottom of Gravel Walk., 19th April :- [7455376](https://www.fixmystreet.com/report/7455376)
-- Flytipped Items, 19th April :- [7455121](https://www.fixmystreet.com/report/7455121)
 
 <!-- fix_marker ends -->
