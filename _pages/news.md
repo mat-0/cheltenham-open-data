@@ -9,12 +9,12 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- NHS phlebotomists six weeks into strikes over pay ([3 hours ago](https://www.bbc.com/news/articles/cly81x3zz2mo))
-- Comedian Andy Ford on 'working with legends' ([4 hours ago](https://www.bbc.com/news/videos/c1me7r8px1vo))
-- How will a £1bn cyber park affect locals? ([6 hours ago](https://www.bbc.com/news/articles/c86jjggz1gwo))
-- 'Everybody has a role to play in curlew conservation' ([6 hours ago](https://www.bbc.com/news/articles/c20x1l39q77o))
-- Second day of rail disruption for 'urgent' repairs ([16 hours ago](https://www.bbc.com/news/articles/c5y62kpxp96o))
-- School aiming to raise £80k for new playground ([18 hours ago](https://www.bbc.com/news/articles/c2kvzvz0wlvo))
+- NHS phlebotomists six weeks into strikes over pay ([4 hours ago](https://www.bbc.com/news/articles/cly81x3zz2mo))
+- Comedian Andy Ford on 'working with legends' ([5 hours ago](https://www.bbc.com/news/videos/c1me7r8px1vo))
+- How will a £1bn cyber park affect locals? ([7 hours ago](https://www.bbc.com/news/articles/c86jjggz1gwo))
+- 'Everybody has a role to play in curlew conservation' ([7 hours ago](https://www.bbc.com/news/articles/c20x1l39q77o))
+- Second day of rail disruption for 'urgent' repairs ([17 hours ago](https://www.bbc.com/news/articles/c5y62kpxp96o))
+- School aiming to raise £80k for new playground ([19 hours ago](https://www.bbc.com/news/articles/c2kvzvz0wlvo))
 - AI could help decide where to build 5,400 homes ([21 hours ago](https://www.bbc.com/news/articles/c1me8kx4e2mo))
 - 'We need £20k to refurbish our city's last theatre' ([1 days ago](https://www.bbc.com/news/articles/ce92rln7292o))
 - Headlines: App scam and Pontins manslaughter charge ([1 days ago](https://www.bbc.com/news/articles/cn5xq0evyxqo))
