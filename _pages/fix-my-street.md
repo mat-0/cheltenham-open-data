@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Lamppost demolished in Greet Road, Winchcombe, 21st April :- [7461174](https://www.fixmystreet.com/report/7461174)
 - Reopened pothold - Bodge It & Scarper, Council waste & inefficiency special, 21st April :- [7460292](https://www.fixmystreet.com/report/7460292)
 - Large sunken excavation, 21st April :- [7460267](https://www.fixmystreet.com/report/7460267)
 - Dog waste sign seems to have fallen off lampost it was affixed to., 21st April :- [7459959](https://www.fixmystreet.com/report/7459959)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Blocked public right of way - locked gate, 20th April :- [7457164](https://www.fixmystreet.com/report/7457164)
 - Large area of various sized potholes, 19th April :- [7456390](https://www.fixmystreet.com/report/7456390)
 - Incorrect speed limit, 19th April :- [7456271](https://www.fixmystreet.com/report/7456271)
-- The footpath goes down the lane and has done for as long as older residents can remember and is recorded as such. The lane has been blocked by a cattle grid and double gates. Wihtout any public consultation, the landowner moved the public footpath sign and created a new path entrance and fenced off path route, as per pictures. Some of this fence includes low level barbed wire. This 'new' path has in effect diverted the footpath from its legal route.It is impossible for a walker to use the rightful public footpath safely., 19th April :- [7456100](https://www.fixmystreet.com/report/7456100)
 
 <!-- fix_marker ends -->
