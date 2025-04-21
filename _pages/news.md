@@ -9,11 +9,11 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- How will a £1bn cyber park affect locals? ([25 minutes ago](https://www.bbc.com/news/articles/c86jjggz1gwo))
-- 'Everybody has a role to play in curlew conservation' ([26 minutes ago](https://www.bbc.com/news/articles/c20x1l39q77o))
-- Second day of rail disruption for 'urgent' repairs ([10 hours ago](https://www.bbc.com/news/articles/c5y62kpxp96o))
-- School aiming to raise £80k for new playground ([12 hours ago](https://www.bbc.com/news/articles/c2kvzvz0wlvo))
-- AI could help decide where to build 5,400 homes ([14 hours ago](https://www.bbc.com/news/articles/c1me8kx4e2mo))
+- How will a £1bn cyber park affect locals? ([1 hours ago](https://www.bbc.com/news/articles/c86jjggz1gwo))
+- 'Everybody has a role to play in curlew conservation' ([1 hours ago](https://www.bbc.com/news/articles/c20x1l39q77o))
+- Second day of rail disruption for 'urgent' repairs ([11 hours ago](https://www.bbc.com/news/articles/c5y62kpxp96o))
+- School aiming to raise £80k for new playground ([13 hours ago](https://www.bbc.com/news/articles/c2kvzvz0wlvo))
+- AI could help decide where to build 5,400 homes ([15 hours ago](https://www.bbc.com/news/articles/c1me8kx4e2mo))
 - 'We need £20k to refurbish our city's last theatre' ([1 days ago](https://www.bbc.com/news/articles/ce92rln7292o))
 - Headlines: App scam and Pontins manslaughter charge ([1 days ago](https://www.bbc.com/news/articles/cn5xq0evyxqo))
 - 'Man cave' demolition cost taxpayers £220k ([1 days ago](https://www.bbc.com/news/articles/creq3q85xn5o))
