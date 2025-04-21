@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Monday, 21 April 2025
 
-- The average temperature today is 9.73˚C,
-- With highs of 10.55˚C and lows of 9.18˚C,
-- It may feel like 8.69˚C with light rain
-- The wind speed is 2.24m/s and visibility is 10000m
-- The pressure is 1007hPa and humidity is 84%
+- The average temperature today is 9.42˚C,
+- With highs of 10.52˚C and lows of 9.18˚C,
+- It may feel like 9.17˚C with light rain
+- The wind speed is 1.34m/s and visibility is 10000m
+- The pressure is 1007hPa and humidity is 86%
 - The sun will rise at 04:58 and set at 19:15
 
 <!-- weather_marker ends -->

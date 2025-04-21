@@ -9,11 +9,11 @@ permalink: /news
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
-- Second day of rail disruption for 'urgent' repairs ([8 hours ago](https://www.bbc.com/news/articles/c5y62kpxp96o))
-- School aiming to raise £80k for new playground ([10 hours ago](https://www.bbc.com/news/articles/c2kvzvz0wlvo))
-- AI could help decide where to build 5,400 homes ([12 hours ago](https://www.bbc.com/news/articles/c1me8kx4e2mo))
-- 'We need £20k to refurbish our city's last theatre' ([22 hours ago](https://www.bbc.com/news/articles/ce92rln7292o))
-- Headlines: App scam and Pontins manslaughter charge ([22 hours ago](https://www.bbc.com/news/articles/cn5xq0evyxqo))
+- Second day of rail disruption for 'urgent' repairs ([9 hours ago](https://www.bbc.com/news/articles/c5y62kpxp96o))
+- School aiming to raise £80k for new playground ([11 hours ago](https://www.bbc.com/news/articles/c2kvzvz0wlvo))
+- AI could help decide where to build 5,400 homes ([13 hours ago](https://www.bbc.com/news/articles/c1me8kx4e2mo))
+- 'We need £20k to refurbish our city's last theatre' ([23 hours ago](https://www.bbc.com/news/articles/ce92rln7292o))
+- Headlines: App scam and Pontins manslaughter charge ([23 hours ago](https://www.bbc.com/news/articles/cn5xq0evyxqo))
 - 'Man cave' demolition cost taxpayers £220k ([1 days ago](https://www.bbc.com/news/articles/creq3q85xn5o))
 - Crowds watch Easter story street performance ([1 days ago](https://www.bbc.com/news/articles/cy8q4xpw6v6o))
 - Plumber goes viral after sharing DIY tips in videos ([1 days ago](https://www.bbc.com/news/articles/ckgxxv4zvevo))
@@ -25,8 +25,8 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - What it is like to live with Parkinson's ([2 days ago](https://www.bbc.com/news/articles/cj3xxen5v0vo))
 - New documentary on Fred and Rose West released ([3 days ago](https://www.bbc.com/news/articles/c78j443v77vo))
 - Northern Lights dazzle over West of England ([3 days ago](https://www.bbc.com/news/articles/cpvrlw8xjdmo))
-- 'Scammers used fake app to steal from me in person' ([3 days ago](https://www.bbc.com/news/articles/cn05d58jwvdo))
-- 'No hormones please, we're British beef farmers' ([3 days ago](https://www.bbc.com/news/articles/cp31qqlq29vo))
+- 'Scammers used fake app to steal from me in person' ([4 days ago](https://www.bbc.com/news/articles/cn05d58jwvdo))
+- 'No hormones please, we're British beef farmers' ([4 days ago](https://www.bbc.com/news/articles/cp31qqlq29vo))
 - 98 per cent of pupils offered a place at a school of their choice ([4 days ago](https://gloucesternewscentre.co.uk/98-per-cent-of-pupils-offered-a-place-at-a-school-of-their-choice/))
 - Wanted appeal for 45-year-old man from Cheltenham ([4 days ago](https://gloucesternewscentre.co.uk/wanted-appeal-for-45-year-old-man-from-cheltenham/))
 - Hospital phlebotomists on course to enter sixth week of strikes over pay ([4 days ago](https://gloucesternewscentre.co.uk/hospital-phlebotomists-on-course-to-enter-sixth-week-of-strikes-over-pay/))
