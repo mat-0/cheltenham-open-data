@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
 ---
 ---
 {% assign contents_of_page = site.pages | where: "name", "news.md" | first %}
 {% assign pub_date = site.time | date: "%Y-%m-%d" %}
-{% asign url = "https://cod.thechels.uk/news" %}
+{% assign url = "https://cod.thechels.uk/news" %}
+
+<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
   <channel>
     <title>Local Daily News Aggregator</title>
