@@ -6,6 +6,7 @@ permalink: /news
 
 ---
 
+Latest News from a variety of sources. Update every hour.
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 [Get this page as daily RSS feed](/daily.rss)
