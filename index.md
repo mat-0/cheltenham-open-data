@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Monday, 21 April 2025
 
-- The average temperature today is 10.77˚C,
-- With highs of 11.66˚C and lows of 9.91˚C,
-- It may feel like 9.94˚C with overcast clouds
-- The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1006hPa and humidity is 78%
+- The average temperature today is 10.4˚C,
+- With highs of 11.08˚C and lows of 9.91˚C,
+- It may feel like 9.58˚C with overcast clouds
+- The wind speed is 1.34m/s and visibility is 10000m
+- The pressure is 1006hPa and humidity is 80%
 - The sun will rise at 04:58 and set at 19:15
 
 <!-- weather_marker ends -->
