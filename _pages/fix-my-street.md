@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fly tipping in Suffolk Place, 21st April :- [7461635](https://www.fixmystreet.com/report/7461635)
 - Pothole which is getting bigger., 21st April :- [7461377](https://www.fixmystreet.com/report/7461377)
 - Water leaking onto pavement, 21st April :- [7461284](https://www.fixmystreet.com/report/7461284)
 - Lamppost demolished in Greet Road, Winchcombe, 21st April :- [7461174](https://www.fixmystreet.com/report/7461174)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Potholes scattered everywhere, 20th April :- [7457235](https://www.fixmystreet.com/report/7457235)
 - Broken glass, 20th April :- [7457206](https://www.fixmystreet.com/report/7457206)
 - Large rocking paving slab outside 4 Stanton Way. An elderley lady lives here., 20th April :- [7457175](https://www.fixmystreet.com/report/7457175)
-- Blocked public right of way - locked gate, 20th April :- [7457164](https://www.fixmystreet.com/report/7457164)
 
 <!-- fix_marker ends -->
