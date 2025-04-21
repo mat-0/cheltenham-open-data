@@ -8,6 +8,8 @@ permalink: /news
 
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
+[Get this page as daily RSS feed](/news.xml)
+
 <!-- news_marker starts -->
 - Decision on plans for 122 homes on Cheltenham university playing field ([4 hours ago](https://gloucesternewscentre.co.uk/decision-on-plans-for-122-homes-on-cheltenham-university-playing-field/))
 - Gloucestershire pizza business fines customers who order “untraditional” pineapple topping. ([4 hours ago](https://gloucesternewscentre.co.uk/gloucestershire-pizza-business-fines-customers-who-order-untraditional-pineapple-topping/))
