@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large pothole forming, 21st April :- [7462107](https://www.fixmystreet.com/report/7462107)
+- Several potholes on the second bend of dunster road, 21st April :- [7462103](https://www.fixmystreet.com/report/7462103)
 - 2 x diverted signs left for 6 months, 21st April :- [7461886](https://www.fixmystreet.com/report/7461886)
 - Fly tipping in Suffolk Place, 21st April :- [7461635](https://www.fixmystreet.com/report/7461635)
 - Pothole which is getting bigger., 21st April :- [7461377](https://www.fixmystreet.com/report/7461377)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Dead street tree Wellington Square/ Wellington Road, 20th April :- [7458252](https://www.fixmystreet.com/report/7458252)
 - 10+ large polystyrene blocks dumped and breaking apart, 20th April :- [7457908](https://www.fixmystreet.com/report/7457908)
 - Dead deer blocking half the cycleway, 20th April :- [7457868](https://www.fixmystreet.com/report/7457868)
-- Potholes scattered everywhere, 20th April :- [7457235](https://www.fixmystreet.com/report/7457235)
-- Broken glass, 20th April :- [7457206](https://www.fixmystreet.com/report/7457206)
 
 <!-- fix_marker ends -->
