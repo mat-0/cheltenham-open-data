@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Streetlights not working, 22nd April :- [7467694](https://www.fixmystreet.com/report/7467694)
 - Street lights not working in Hillands Drive, 22nd April :- [7467523](https://www.fixmystreet.com/report/7467523)
 - Large amount of broken glass, 22nd April :- [7467497](https://www.fixmystreet.com/report/7467497)
 - No street lights pilley crescent, 22nd April :- [7467492](https://www.fixmystreet.com/report/7467492)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Kerbs and Channels problem, 22nd April :- [7465471](https://www.fixmystreet.com/report/7465471)
 - TMC - Defects -FW6 Potholes problem, 22nd April :- [7465470](https://www.fixmystreet.com/report/7465470)
 - TMC - Defects -CW6 Potholes  problem, 22nd April :- [7465469](https://www.fixmystreet.com/report/7465469)
-- There is a traffic light at the corner of Hine Gardens Cheltenham and the alarm to cross does not work on either side of the traffic lights...this is not good with anyone who has hearing and sight problems. It has been like this for nearly a month. Please fix this for us. Thanks..., 22nd April :- [7465353](https://www.fixmystreet.com/report/7465353)
 
 <!-- fix_marker ends -->
