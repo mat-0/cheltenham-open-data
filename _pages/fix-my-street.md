@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipping St George’s Place, 22nd April :- [7466715](https://www.fixmystreet.com/report/7466715)
+- Large piece of foam flytipped Chester Walk, 22nd April :- [7466698](https://www.fixmystreet.com/report/7466698)
+- The queues to the Air Balloon roundabout are resulting in increased litter on the verges. This is an AONB and an Ancient Woodlland., 22nd April :- [7466574](https://www.fixmystreet.com/report/7466574)
+- Fan and cd units fly tipped, 22nd April :- [7466538](https://www.fixmystreet.com/report/7466538)
 - 10 inch pothole outside number 3-5, 22nd April :- [7465894](https://www.fixmystreet.com/report/7465894)
 - Streetlamp covered with climbing vegetation, 22nd April :- [7465863](https://www.fixmystreet.com/report/7465863)
 - Fridge freezers trailer full of rubbish, 22nd April :- [7465818](https://www.fixmystreet.com/report/7465818)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 22nd April :- [7465467](https://www.fixmystreet.com/report/7465467)
 - TMC - Defects - Other FW6  Surface problem, 22nd April :- [7465466](https://www.fixmystreet.com/report/7465466)
 - TMC - Defects -CW6 Potholes  problem, 22nd April :- [7465465](https://www.fixmystreet.com/report/7465465)
-- TMC - Defects -CW6 Potholes  problem, 22nd April :- [7465464](https://www.fixmystreet.com/report/7465464)
-- TMC - Defects - Other FW6  Surface problem, 22nd April :- [7465463](https://www.fixmystreet.com/report/7465463)
-- TMC - Defects - Road Markings problem, 22nd April :- [7465455](https://www.fixmystreet.com/report/7465455)
-- TMC - Defects - Other FW6  Surface problem, 22nd April :- [7465460](https://www.fixmystreet.com/report/7465460)
 
 <!-- fix_marker ends -->
