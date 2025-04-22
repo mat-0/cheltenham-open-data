@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Tuesday, 22 April 2025
 
-- The average temperature today is 12.67˚C,
-- With highs of 12.75˚C and lows of 11.64˚C,
-- It may feel like 11.79˚C with scattered clouds
-- The wind speed is 3.09m/s and visibility is 10000m
-- The pressure is 1014hPa and humidity is 69%
+- The average temperature today is 11.49˚C,
+- With highs of 11.5˚C and lows of 11.08˚C,
+- It may feel like 10.57˚C with overcast clouds
+- The wind speed is 1.34m/s and visibility is 10000m
+- The pressure is 1013hPa and humidity is 72%
 - The sun will rise at 04:56 and set at 19:16
 
 <!-- weather_marker ends -->
