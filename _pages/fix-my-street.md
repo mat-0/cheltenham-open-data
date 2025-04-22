@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Legal road markings, 22nd April :- [7462462](https://www.fixmystreet.com/report/7462462)
+- Series of potholes next to Gromit, 22nd April :- [7462398](https://www.fixmystreet.com/report/7462398)
 - Large pothole forming, 21st April :- [7462107](https://www.fixmystreet.com/report/7462107)
 - Several potholes on the second bend of dunster road, 21st April :- [7462103](https://www.fixmystreet.com/report/7462103)
 - 2 x diverted signs left for 6 months, 21st April :- [7461886](https://www.fixmystreet.com/report/7461886)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Overgrown bushes and trees making road narrow. The entire length of the single track road is overgrown it needs cutting back at least 2 foot and the trees with overhanging branches need cutting down all the way along. It’s damaging car wing mirrors and has scratched the top side of my VW transporter van due to tree’s over hanging. It also makes it very difficult to pull in anywhere when a car comes the other way. It needs more than a which trim it needs properly taking back and the verge cleared to allow more road space., 21st April :- [7459291](https://www.fixmystreet.com/report/7459291)
 - All the 50 mph signs on the stretch of the A436 from Kilkenny to Seven Springs need cleaning - they are really hard to see and people assume it is a 60 mph limit, 20th April :- [7458256](https://www.fixmystreet.com/report/7458256)
 - Dead street tree Wellington Square/ Wellington Road, 20th April :- [7458252](https://www.fixmystreet.com/report/7458252)
-- 10+ large polystyrene blocks dumped and breaking apart, 20th April :- [7457908](https://www.fixmystreet.com/report/7457908)
-- Dead deer blocking half the cycleway, 20th April :- [7457868](https://www.fixmystreet.com/report/7457868)
 
 <!-- fix_marker ends -->
