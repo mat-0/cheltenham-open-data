@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Metal hoarding jutting out from building site into road on corner of pilley lane causoing a dangerous obstucted view, 23rd April :- [7472380](https://www.fixmystreet.com/report/7472380)
+- Several potholes around my driveway on the road by 17 Cromwell Rd unavoidable to park on my driveway. AGAIN., 23rd April :- [7472315](https://www.fixmystreet.com/report/7472315)
 - Pothole over failed patch ///ground.robots.chained, 23rd April :- [7472066](https://www.fixmystreet.com/report/7472066)
 - A pothole in road problem, 23rd April :- [7471979](https://www.fixmystreet.com/report/7471979)
 - 10 inch pothole, deep, 23rd April :- [7471877](https://www.fixmystreet.com/report/7471877)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Footways Slabs problem, 23rd April :- [7471100](https://www.fixmystreet.com/report/7471100)
 - Thistles making playing area unusable., 23rd April :- [7470960](https://www.fixmystreet.com/report/7470960)
 - TMC - Defects - Footways Slabs problem, 23rd April :- [7471099](https://www.fixmystreet.com/report/7471099)
-- TMC - Defects -CW6 Potholes  problem, 23rd April :- [7471098](https://www.fixmystreet.com/report/7471098)
-- TMC - Defects - Footways Slabs problem, 23rd April :- [7471097](https://www.fixmystreet.com/report/7471097)
 
 <!-- fix_marker ends -->
