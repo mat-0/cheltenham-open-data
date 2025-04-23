@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Closed of public right of way and flats bin area boarded up twice and posts erected ., 23rd April :- [7471669](https://www.fixmystreet.com/report/7471669)
+- Large branch knocked off tree, 23rd April :- [7471647](https://www.fixmystreet.com/report/7471647)
+- Many items distributed along the length of the cycle lane making it dangerous and unusable. This includes bit of plastic, glasses and vegetation debris. Please can it be cleaned. Otherwise bikes are forced to use the double lane road., 23rd April :- [7471475](https://www.fixmystreet.com/report/7471475)
+- A pothole in road problem, 23rd April :- [7471315](https://www.fixmystreet.com/report/7471315)
+- TMC - Defects -other CW6 problem, 23rd April :- [7471316](https://www.fixmystreet.com/report/7471316)
 - Rotting boards on footbridge, 23rd April :- [7471077](https://www.fixmystreet.com/report/7471077)
 - Other damage to pavement i.e. cobbles, raised mound/surface problem, 23rd April :- [7471091](https://www.fixmystreet.com/report/7471091)
 - TMC - Defects - Kerbs and Channels problem, 23rd April :- [7471112](https://www.fixmystreet.com/report/7471112)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Tree hangs down so that people have to duck to walk up alleyway!, 23rd April :- [7470908](https://www.fixmystreet.com/report/7470908)
 - TMC - Defects - Other FW6  Surface problem, 23rd April :- [7471095](https://www.fixmystreet.com/report/7471095)
 - TMC - Defects -CW6 Potholes  problem, 23rd April :- [7470929](https://www.fixmystreet.com/report/7470929)
-- TMC - Defects -CW6 Potholes  problem, 23rd April :- [7470928](https://www.fixmystreet.com/report/7470928)
-- TMC - Defects -CW6 Potholes  problem, 23rd April :- [7470926](https://www.fixmystreet.com/report/7470926)
-- TMC - Defects - Kerbs and Channels problem, 23rd April :- [7470754](https://www.fixmystreet.com/report/7470754)
-- TMC - Defects - Other FW6  Surface problem, 23rd April :- [7470753](https://www.fixmystreet.com/report/7470753)
-- TMC - Defects - Kerbs and Channels problem, 23rd April :- [7470532](https://www.fixmystreet.com/report/7470532)
 
 <!-- fix_marker ends -->
