@@ -8,13 +8,13 @@ seo: Menu
 ![Logo](/images/logo.jpg){:width="832px"}
 
 <!-- weather_marker starts -->
-## On Tuesday, 22 April 2025
+## On Wednesday, 23 April 2025
 
-- The average temperature today is 9.33˚C,
-- With highs of 9.99˚C and lows of 8.71˚C,
-- It may feel like 6.17˚C with moderate rain
-- The wind speed is 6.71m/s and visibility is 6425m
-- The pressure is 1009hPa and humidity is 89%
+- The average temperature today is 8.87˚C,
+- With highs of 9.43˚C and lows of 8.62˚C,
+- It may feel like 6.4˚C with moderate rain
+- The wind speed is 4.47m/s and visibility is 5324m
+- The pressure is 1007hPa and humidity is 90%
 - The sun will rise at 04:54 and set at 19:18
 
 <!-- weather_marker ends -->
