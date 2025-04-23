@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole over failed patch ///ground.robots.chained, 23rd April :- [7472066](https://www.fixmystreet.com/report/7472066)
+- A pothole in road problem, 23rd April :- [7471979](https://www.fixmystreet.com/report/7471979)
 - 10 inch pothole, deep, 23rd April :- [7471877](https://www.fixmystreet.com/report/7471877)
 - Closed of public right of way and flats bin area boarded up twice and posts erected ., 23rd April :- [7471669](https://www.fixmystreet.com/report/7471669)
 - Large branch knocked off tree, 23rd April :- [7471647](https://www.fixmystreet.com/report/7471647)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Footways Slabs problem, 23rd April :- [7471099](https://www.fixmystreet.com/report/7471099)
 - TMC - Defects -CW6 Potholes  problem, 23rd April :- [7471098](https://www.fixmystreet.com/report/7471098)
 - TMC - Defects - Footways Slabs problem, 23rd April :- [7471097](https://www.fixmystreet.com/report/7471097)
-- Tree hangs down so that people have to duck to walk up alleyway!, 23rd April :- [7470908](https://www.fixmystreet.com/report/7470908)
-- TMC - Defects - Other FW6  Surface problem, 23rd April :- [7471095](https://www.fixmystreet.com/report/7471095)
 
 <!-- fix_marker ends -->
