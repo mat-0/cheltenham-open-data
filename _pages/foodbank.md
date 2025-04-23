@@ -10,14 +10,13 @@ permalink: /foodbank
 <!-- summary1_marker starts -->
 ## List of needed items in Cheltenham
 
-Last updated: 2025-04-02
+Last updated: 2025-04-23
 
 - Long Life Milk
 - Instant Noodles / Microwave Rice
-- Pasta Sauce
-- Deodorants - Ladies
-- Washing Up Liquid, Washing Powder (Powder Or Capsules Please, Not Liquid)
-- Soup - Packets Or Tins
+- Toilet Rolls
+- Cuppa Soups
+- Crisps / Snacks
 - Tinned Cold Meat (Or Fish)
 <!-- summary1_marker ends -->
 
