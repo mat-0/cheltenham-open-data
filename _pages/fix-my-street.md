@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Good enhancer cylinders-2 boxes & 1 bag, 23rd April :- [7472776](https://www.fixmystreet.com/report/7472776)
 - Metal hoarding jutting out from building site into road on corner of pilley lane causoing a dangerous obstucted view, 23rd April :- [7472380](https://www.fixmystreet.com/report/7472380)
 - Several potholes around my driveway on the road by 17 Cromwell Rd unavoidable to park on my driveway. AGAIN., 23rd April :- [7472315](https://www.fixmystreet.com/report/7472315)
 - Pothole over failed patch ///ground.robots.chained, 23rd April :- [7472066](https://www.fixmystreet.com/report/7472066)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Footways Slabs problem, 23rd April :- [7471101](https://www.fixmystreet.com/report/7471101)
 - TMC - Defects - Footways Slabs problem, 23rd April :- [7471100](https://www.fixmystreet.com/report/7471100)
 - Thistles making playing area unusable., 23rd April :- [7470960](https://www.fixmystreet.com/report/7470960)
-- TMC - Defects - Footways Slabs problem, 23rd April :- [7471099](https://www.fixmystreet.com/report/7471099)
 
 <!-- fix_marker ends -->
