@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:georss="http://www.georss.org/georss"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
+ xmlns:georss="http://www.georss.org/georss"
 >
 
 <channel>
@@ -12,6 +12,78 @@
 <description>The latest local problems reported by users</description>
 <language>en-gb</language>
 
+<item>
+<title>A pothole in road problem, 23rd April</title>
+<link>https://www.fixmystreet.com/report/7469874</link>
+<description>Customer has called in and has mentioned that there is quite a large pothole about 2 foot accross now. &#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7469874&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>A pothole in road</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7469874</guid>
+<pubDate>Wed, 23 Apr 2025 12:29:51 +0100</pubDate>
+<georss:point>51.843765 -2.0617</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 23rd April</title>
+<link>https://www.fixmystreet.com/report/7469904</link>
+<description>ENWD &amp;#10;CWPH &amp;#10;600 X 500 X 70mm&amp;#10;15DB NARROW ROAD &amp;#10;MARKED X (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7469904&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7469904</guid>
+<pubDate>Wed, 23 Apr 2025 12:16:27 +0100</pubDate>
+<georss:point>51.8630939535164 -1.9836651031968</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 23rd April</title>
+<link>https://www.fixmystreet.com/report/7469900</link>
+<description>EMERGENCY 2 HOUR &amp;#10;CWPH &amp;#10;1500 X 700 X 100mm&amp;#10;15DB NARROW ROAD &amp;#10;MARKED X (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7469900&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7469900</guid>
+<pubDate>Wed, 23 Apr 2025 12:13:45 +0100</pubDate>
+<georss:point>51.8631390999996 -1.98366779999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 23rd April</title>
+<link>https://www.fixmystreet.com/report/7469896</link>
+<description>ENWD &amp;#10;CWPH &amp;#10;600 X 500 X 70mm&amp;#10;15DB NARROW ROAD &amp;#10;MARKED X (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7469896&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7469896</guid>
+<pubDate>Wed, 23 Apr 2025 12:11:31 +0100</pubDate>
+<georss:point>51.8631322999996 -1.9836321</georss:point>
+</item>
+<item>
+<title>TMC - Defects -other CW6 problem, 23rd April</title>
+<link>https://www.fixmystreet.com/report/7469893</link>
+<description>Edge deterioration CW 1500mm x 300mm x 45mm &amp;#10;Give and Take TM &amp;#10;Outside 53 (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7469893&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -other CW6</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7469893</guid>
+<pubDate>Wed, 23 Apr 2025 12:10:47 +0100</pubDate>
+<georss:point>51.8566536999995 -2.19577689999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 23rd April</title>
+<link>https://www.fixmystreet.com/report/7469890</link>
+<description>CWPH&amp;#10;STATS REQUIRED &amp;#10;400 X 300 X 50mm&amp;#10;15DB NARROW ROAD &amp;#10;MARKED AS NUMBER 2 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7469890&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7469890</guid>
+<pubDate>Wed, 23 Apr 2025 12:09:43 +0100</pubDate>
+<georss:point>51.8631381999996 -1.98367750000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 23rd April</title>
+<link>https://www.fixmystreet.com/report/7469889</link>
+<description>CWPH&amp;#10;STATS REQUIRED &amp;#10;2000 X 800 X 50mm&amp;#10;15DB NARROW ROAD &amp;#10;MARKED AS NUMBER 1 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7469889&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7469889</guid>
+<pubDate>Wed, 23 Apr 2025 12:08:20 +0100</pubDate>
+<georss:point>51.8632567738735 -1.98370014083062</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 23rd April</title>
+<link>https://www.fixmystreet.com/report/7469707</link>
+<description>EMERGENCY 2 HOUR &amp;#10;CWPH &amp;#10;1500 X 500 X 100mm&amp;#10;15DB NARROW ROAD &amp;#10;MARKED X (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7469707&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7469707</guid>
+<pubDate>Wed, 23 Apr 2025 12:00:09 +0100</pubDate>
+<georss:point>51.8631404830235 -1.98366750363772</georss:point>
+</item>
 <item>
 <title>Street light not working again following recent fix., 23rd April</title>
 <link>https://www.fixmystreet.com/report/7469561</link>
@@ -31,6 +103,15 @@
 <georss:point>51.912422 -2.032559</georss:point>
 </item>
 <item>
+<title>TMC - Defects - Road Markings problem, 23rd April</title>
+<link>https://www.fixmystreet.com/report/7469356</link>
+<description>28 day with road closure needed please refresh faded give way markings appropriately 18 meters (Faded Road Markings)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7469356&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Road Markings</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7469356</guid>
+<pubDate>Wed, 23 Apr 2025 10:50:59 +0100</pubDate>
+<georss:point>51.8958190999995 -2.0549946</georss:point>
+</item>
+<item>
 <title>TMC - Defects - Kerbs and Channels problem, 23rd April</title>
 <link>https://www.fixmystreet.com/report/7469358</link>
 <description>28day with give and take plus temporary footway closure please lift and relay x1  900 x 150 x 30mm sunken kerb stone stats required (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7469358&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
@@ -38,15 +119,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/7469358</guid>
 <pubDate>Wed, 23 Apr 2025 10:50:59 +0100</pubDate>
 <georss:point>51.8958783999995 -2.0552184</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Signs &amp; Street Furniture problem, 23rd April</title>
-<link>https://www.fixmystreet.com/report/7469355</link>
-<description>NWD with give and take make safe with x4 1m barriers and x4 sandbags and place around damaged bollard in grass verge (Damaged Street Furniture)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7469355&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Signs &amp; Street Furniture</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7469355</guid>
-<pubDate>Wed, 23 Apr 2025 10:50:59 +0100</pubDate>
-<georss:point>51.8961854999996 -2.05702419999999</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Road Markings problem, 23rd April</title>
@@ -58,13 +130,13 @@
 <georss:point>51.8967537999996 -2.05965609999999</georss:point>
 </item>
 <item>
-<title>TMC - Defects - Road Markings problem, 23rd April</title>
-<link>https://www.fixmystreet.com/report/7469356</link>
-<description>28 day with road closure needed please refresh faded give way markings appropriately 18 meters (Faded Road Markings)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7469356&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Road Markings</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7469356</guid>
+<title>TMC - Defects - Signs &amp; Street Furniture problem, 23rd April</title>
+<link>https://www.fixmystreet.com/report/7469355</link>
+<description>NWD with give and take make safe with x4 1m barriers and x4 sandbags and place around damaged bollard in grass verge (Damaged Street Furniture)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7469355&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Signs &amp; Street Furniture</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7469355</guid>
 <pubDate>Wed, 23 Apr 2025 10:50:59 +0100</pubDate>
-<georss:point>51.8958190999995 -2.0549946</georss:point>
+<georss:point>51.8961854999996 -2.05702419999999</georss:point>
 </item>
 <item>
 <title>Bollard shell is damaged/vandalised (Non illuminating bollard or post) problem, 23rd April</title>
@@ -119,78 +191,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/7468706</guid>
 <pubDate>Wed, 23 Apr 2025 09:27:53 +0100</pubDate>
 <georss:point>51.9057064999996 -2.0639999</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 23rd April</title>
-<link>https://www.fixmystreet.com/report/7468460</link>
-<description>28 day with give an take plus 15  minutes delay boards needed best out of hours carriageway pothole 600x300x50mm tarmac patch required number 1 plus x1 NSD (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7468460&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7468460</guid>
-<pubDate>Wed, 23 Apr 2025 08:59:08 +0100</pubDate>
-<georss:point>51.9050691999995 -2.0511846</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Road Markings problem, 23rd April</title>
-<link>https://www.fixmystreet.com/report/7468463</link>
-<description>28 day with road closure needed please refresh faded give way markings appropriately 25 meters (Faded Road Markings)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7468463&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Road Markings</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7468463</guid>
-<pubDate>Wed, 23 Apr 2025 08:59:08 +0100</pubDate>
-<georss:point>51.9056379999996 -2.05096600000001</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 23rd April</title>
-<link>https://www.fixmystreet.com/report/7468457</link>
-<description>28 day with give an take plus 15  minutes delay boards needed best out of hours carriageway pothole 600x400x50mm tarmac patch required number 1 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7468457&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7468457</guid>
-<pubDate>Wed, 23 Apr 2025 08:59:08 +0100</pubDate>
-<georss:point>51.9045749999996 -2.05168470000001</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 23rd April</title>
-<link>https://www.fixmystreet.com/report/7468461</link>
-<description>28 day with give an take plus 15  minutes delay boards needed best out of hours carriageway pothole 400x400x40mm tarmac patch required number 1 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7468461&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7468461</guid>
-<pubDate>Wed, 23 Apr 2025 08:59:08 +0100</pubDate>
-<georss:point>51.9054846468245 -2.05100357782532</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 23rd April</title>
-<link>https://www.fixmystreet.com/report/7468462</link>
-<description>28 day with give an take plus 15  minutes delay boards needed best out of hours carriageway pothole 1000x500x50mm tarmac patch required number 2 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7468462&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7468462</guid>
-<pubDate>Wed, 23 Apr 2025 08:59:08 +0100</pubDate>
-<georss:point>51.9055273346256 -2.05097619553615</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 23rd April</title>
-<link>https://www.fixmystreet.com/report/7468459</link>
-<description>28 day with give an take plus 15  minutes delay boards needed best out of hours carriageway pothole 300x300x40mm tarmac patch required number 3 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7468459&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7468459</guid>
-<pubDate>Wed, 23 Apr 2025 08:59:08 +0100</pubDate>
-<georss:point>51.9045796999996 -2.05169060000001</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 23rd April</title>
-<link>https://www.fixmystreet.com/report/7468458</link>
-<description>28 day with give an take plus 15  minutes delay boards needed best out of hours carriageway pothole 500x400x40mm tarmac patch required number 2 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7468458&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7468458</guid>
-<pubDate>Wed, 23 Apr 2025 08:59:08 +0100</pubDate>
-<georss:point>51.9045967373829 -2.05169676028533</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 23rd April</title>
-<link>https://www.fixmystreet.com/report/7468450</link>
-<description>28 day with give an take plus temporary footway closure needed footway abrupt level difference due to tree roots please ramp up over tree roots 1200x1000x25mm tarmac patch required stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7468450&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7468450</guid>
-<pubDate>Wed, 23 Apr 2025 08:58:51 +0100</pubDate>
-<georss:point>51.9085378999995 -2.0511124</georss:point>
 </item>
 </channel>
 </rss>
