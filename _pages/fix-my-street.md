@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fixed potholes have failed already, 24th April :- [7473357](https://www.fixmystreet.com/report/7473357)
 - No street lights, 23rd April :- [7472902](https://www.fixmystreet.com/report/7472902)
 - Good enhancer cylinders-2 boxes & 1 bag, 23rd April :- [7472776](https://www.fixmystreet.com/report/7472776)
 - Metal hoarding jutting out from building site into road on corner of pilley lane causoing a dangerous obstucted view, 23rd April :- [7472380](https://www.fixmystreet.com/report/7472380)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Covers, Gratings & Frames problem, 23rd April :- [7471104](https://www.fixmystreet.com/report/7471104)
 - TMC - Defects - Footways Slabs problem, 23rd April :- [7471102](https://www.fixmystreet.com/report/7471102)
 - TMC - Defects - Footways Slabs problem, 23rd April :- [7471101](https://www.fixmystreet.com/report/7471101)
-- TMC - Defects - Footways Slabs problem, 23rd April :- [7471100](https://www.fixmystreet.com/report/7471100)
 
 <!-- fix_marker ends -->
