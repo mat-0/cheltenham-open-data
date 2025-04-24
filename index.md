@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Thursday, 24 April 2025
 
-- The average temperature today is 10.81˚C,
-- With highs of 11.4˚C and lows of 9.84˚C,
-- It may feel like 9.9˚C with scattered clouds
-- The wind speed is 2.06m/s and visibility is 10000m
-- The pressure is 1022hPa and humidity is 75%
+- The average temperature today is 12.02˚C,
+- With highs of 12.51˚C and lows of 10.95˚C,
+- It may feel like 11.13˚C with scattered clouds
+- The wind speed is 2.57m/s and visibility is 10000m
+- The pressure is 1023hPa and humidity is 71%
 - The sun will rise at 04:52 and set at 19:20
 
 <!-- weather_marker ends -->
