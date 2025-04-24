@@ -1,7 +1,7 @@
 ---
 ---
 {% assign contents_of_page = site.pages | where: "name", "news.md" | first %}
-{% assign pub_date = site.time | date: "%Y-%m-%d" %}
+{% assign pub_date = site.time | date_to_rfc822 %}
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
   <channel>
@@ -11,6 +11,7 @@
     <item>
       <title>Daily Rundown for {{ pub_date }}</title>
       <link>{{ site.url }}/daily</link>
+      <guid isPermaLink="false">{{ site.url }}/daily/{{ site.time | date: "%Y-%m-%d" }}</guid>
       <description>
       <![CDATA[ {{ contents_of_page.content }} ]]>
       </description>
