@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole patch failed ///holds.cycle.take, 25th April :- [7482554](https://www.fixmystreet.com/report/7482554)
+- Pothole ///refers.boxing.gums, 25th April :- [7482548](https://www.fixmystreet.com/report/7482548)
 - The whole road is full of deep pot holes!, 25th April :- [7482387](https://www.fixmystreet.com/report/7482387)
 - A pothole in road problem, 25th April :- [7482413](https://www.fixmystreet.com/report/7482413)
 - Sharp metal sticking out in/over footway from fence - this remains unactioned & unresolved nearly after a year after initially reporting it despite your records stating otherwise - see FixMyStreet ref: 5985705. Think pedestrian! Think avoidable pedestrian injury & subsequent claims/enquiries!, 25th April :- [7482017](https://www.fixmystreet.com/report/7482017)
@@ -19,15 +21,13 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 25th April :- [7481636](https://www.fixmystreet.com/report/7481636)
 - TMC - Defects - Road Markings problem, 25th April :- [7481633](https://www.fixmystreet.com/report/7481633)
 - TMC - Defects -CW6 Potholes  problem, 25th April :- [7481640](https://www.fixmystreet.com/report/7481640)
-- TMC - Defects - Road Markings problem, 25th April :- [7481632](https://www.fixmystreet.com/report/7481632)
-- TMC - Defects -CW6 Potholes  problem, 25th April :- [7481638](https://www.fixmystreet.com/report/7481638)
 - TMC - Defects -CW6 Potholes  problem, 25th April :- [7481637](https://www.fixmystreet.com/report/7481637)
 - TMC - Defects - Road Markings problem, 25th April :- [7481635](https://www.fixmystreet.com/report/7481635)
+- TMC - Defects - Road Markings problem, 25th April :- [7481632](https://www.fixmystreet.com/report/7481632)
 - TMC - Defects - Road Markings problem, 25th April :- [7481634](https://www.fixmystreet.com/report/7481634)
+- TMC - Defects -CW6 Potholes  problem, 25th April :- [7481638](https://www.fixmystreet.com/report/7481638)
 - TMC - Defects -CW6 Potholes  problem, 25th April :- [7481639](https://www.fixmystreet.com/report/7481639)
 - TMC - Defects -CW6 Potholes  problem, 25th April :- [7481446](https://www.fixmystreet.com/report/7481446)
 - TMC - Defects - Road Markings problem, 25th April :- [7481410](https://www.fixmystreet.com/report/7481410)
-- TMC - Defects - Other problem, 25th April :- [7481253](https://www.fixmystreet.com/report/7481253)
-- TMC - Defects - Other FW6  Surface problem, 25th April :- [7481252](https://www.fixmystreet.com/report/7481252)
 
 <!-- fix_marker ends -->

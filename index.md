@@ -11,10 +11,10 @@ seo: Menu
 ## On Friday, 25 April 2025
 
 - The average temperature today is 14.48˚C,
-- With highs of 14.75˚C and lows of 14.05˚C,
-- It may feel like 13.63˚C with broken clouds
-- The wind speed is 2.06m/s and visibility is 10000m
-- The pressure is 1020hPa and humidity is 63%
+- With highs of 14.84˚C and lows of 14.05˚C,
+- It may feel like 13.65˚C with few clouds
+- The wind speed is 1.03m/s and visibility is 10000m
+- The pressure is 1020hPa and humidity is 64%
 - The sun will rise at 04:50 and set at 19:21
 
 <!-- weather_marker ends -->
