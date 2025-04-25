@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree and lamppost toppling, 25th April :- [7482993](https://www.fixmystreet.com/report/7482993)
+- Burst drain, 25th April :- [7482988](https://www.fixmystreet.com/report/7482988)
 - 104 has dug up the gtass verge, its now heavily planted with spikey shirbs and trees, there is a small one foot strip left of grass, with the busy road and buses some cars are forced to park half on the pavement to allow bus access. Now in this are of welch road the public are forced on to the road, if more then 1 pedestrian wishes to past. Ive also witnessed mobility scooters un able to pass and also being forced into the road. It also blokes the view for exciting drivers to pull safe off their own drives., 25th April :- [7482856](https://www.fixmystreet.com/report/7482856)
 - Fingers get cabinets and ironing board left on the grass, 25th April :- [7482851](https://www.fixmystreet.com/report/7482851)
 - Pothole patch failed ///holds.cycle.take, 25th April :- [7482554](https://www.fixmystreet.com/report/7482554)
@@ -20,14 +22,12 @@ permalink: /fix-my-street
 - TMC - Defects -other CW10 problem, 25th April :- [7481974](https://www.fixmystreet.com/report/7481974)
 - Cast iron bollard still missing from footway and still needs reinstating to prevent vehicles cutting through - yes, driving on the footway to get around your 'stopping up' traffic engineering furnatures (I recently saw 2x telecoms contractor vans driving through it with a mother & child pedestrian scared stiff when they thought they were going to get hit - PLEASE ACT TO SAVE LIVES!)., 25th April :- [7481885](https://www.fixmystreet.com/report/7481885)
 - The branches in the tree when gusting in breeze are pulling on the telephone line to house which is pulling bracket out of facia board on my property., 25th April :- [7481776](https://www.fixmystreet.com/report/7481776)
-- TMC - Defects - Road Markings problem, 25th April :- [7481635](https://www.fixmystreet.com/report/7481635)
-- TMC - Defects -CW6 Potholes  problem, 25th April :- [7481639](https://www.fixmystreet.com/report/7481639)
 - TMC - Defects - Road Markings problem, 25th April :- [7481634](https://www.fixmystreet.com/report/7481634)
-- TMC - Defects -CW6 Potholes  problem, 25th April :- [7481640](https://www.fixmystreet.com/report/7481640)
-- TMC - Defects - Road Markings problem, 25th April :- [7481633](https://www.fixmystreet.com/report/7481633)
+- TMC - Defects - Road Markings problem, 25th April :- [7481635](https://www.fixmystreet.com/report/7481635)
 - TMC - Defects -CW6 Potholes  problem, 25th April :- [7481636](https://www.fixmystreet.com/report/7481636)
-- TMC - Defects - Road Markings problem, 25th April :- [7481632](https://www.fixmystreet.com/report/7481632)
-- TMC - Defects -CW6 Potholes  problem, 25th April :- [7481637](https://www.fixmystreet.com/report/7481637)
+- TMC - Defects -CW6 Potholes  problem, 25th April :- [7481640](https://www.fixmystreet.com/report/7481640)
 - TMC - Defects -CW6 Potholes  problem, 25th April :- [7481638](https://www.fixmystreet.com/report/7481638)
+- TMC - Defects - Road Markings problem, 25th April :- [7481633](https://www.fixmystreet.com/report/7481633)
+- TMC - Defects -CW6 Potholes  problem, 25th April :- [7481637](https://www.fixmystreet.com/report/7481637)
 
 <!-- fix_marker ends -->
