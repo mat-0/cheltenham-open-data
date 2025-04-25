@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects -CW6 Potholes  problem, 25th April :- [7481446](https://www.fixmystreet.com/report/7481446)
+- TMC - Defects - Road Markings problem, 25th April :- [7481410](https://www.fixmystreet.com/report/7481410)
 - TMC - Defects - Other problem, 25th April :- [7481253](https://www.fixmystreet.com/report/7481253)
 - TMC - Defects - Other FW6  Surface problem, 25th April :- [7481252](https://www.fixmystreet.com/report/7481252)
 - TMC - Defects -CW6 Potholes  problem, 25th April :- [7481251](https://www.fixmystreet.com/report/7481251)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 25th April :- [7481068](https://www.fixmystreet.com/report/7481068)
 - Light sensor is not detecting vehicles problem, 25th April :- [7481053](https://www.fixmystreet.com/report/7481053)
 - TMC - Defects - Other FW6  Surface problem, 25th April :- [7480870](https://www.fixmystreet.com/report/7480870)
-- TMC - Defects - Kerbs and Channels problem, 25th April :- [7480869](https://www.fixmystreet.com/report/7480869)
-- TMC - Defects -CW6 Potholes  problem, 25th April :- [7480864](https://www.fixmystreet.com/report/7480864)
 
 <!-- fix_marker ends -->
