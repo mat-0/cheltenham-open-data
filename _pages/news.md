@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Homeless veterans 'get lives back in the kitchen' ([5 hours ago](https://www.bbc.com/news/articles/cwyqkklqlr4o))
-- Thieves target charity twice in two weeks ([10 hours ago](https://www.bbc.com/news/articles/cp8kd7n7e6yo))
-- 'Callous' man jailed for raping vulnerable woman ([11 hours ago](https://www.bbc.com/news/articles/cp8v6n12p33o))
-- Headlines: Bike patrol threat and NHS lottery ([14 hours ago](https://www.bbc.com/news/articles/c99p53ee293o))
-- Mum's pop-up shop aims to make prom affordable ([18 hours ago](https://www.bbc.com/news/articles/c62xw4y0d70o))
-- Lego display marks 200 years since Roman discovery ([18 hours ago](https://www.bbc.com/news/articles/c4g49n0q8x0o))
+- Homeless veterans 'get lives back in the kitchen' ([6 hours ago](https://www.bbc.com/news/articles/cwyqkklqlr4o))
+- Thieves target charity twice in two weeks ([12 hours ago](https://www.bbc.com/news/articles/cp8kd7n7e6yo))
+- 'Callous' man jailed for raping vulnerable woman ([12 hours ago](https://www.bbc.com/news/articles/cp8v6n12p33o))
+- Headlines: Bike patrol threat and NHS lottery ([16 hours ago](https://www.bbc.com/news/articles/c99p53ee293o))
+- Mum's pop-up shop aims to make prom affordable ([20 hours ago](https://www.bbc.com/news/articles/c62xw4y0d70o))
+- Lego display marks 200 years since Roman discovery ([20 hours ago](https://www.bbc.com/news/articles/c4g49n0q8x0o))
 - MP banned from Russia after taking aid to Ukraine ([1 days ago](https://www.bbc.com/news/articles/c89g5xw53y2o))
 - Motorcyclist dies in collision with car ([1 days ago](https://www.bbc.com/news/articles/c5ygvm160jgo))
 - Bereaved parents demand tech firms 'protect children' ([1 days ago](https://www.bbc.com/news/articles/cvgn3gnee77o))
