@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Several potholes at junction with Churchdown Lane, 26th April :- [7484772](https://www.fixmystreet.com/report/7484772)
 - Several potholes along Sappercombe Lane, 26th April :- [7484397](https://www.fixmystreet.com/report/7484397)
 - Multiple pot holes, 26th April :- [7484177](https://www.fixmystreet.com/report/7484177)
 - Bin missed on collection round, 26th April :- [7484151](https://www.fixmystreet.com/report/7484151)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -other CW10 problem, 25th April :- [7481974](https://www.fixmystreet.com/report/7481974)
 - Cast iron bollard still missing from footway and still needs reinstating to prevent vehicles cutting through - yes, driving on the footway to get around your 'stopping up' traffic engineering furnatures (I recently saw 2x telecoms contractor vans driving through it with a mother & child pedestrian scared stiff when they thought they were going to get hit - PLEASE ACT TO SAVE LIVES!)., 25th April :- [7481885](https://www.fixmystreet.com/report/7481885)
 - The branches in the tree when gusting in breeze are pulling on the telephone line to house which is pulling bracket out of facia board on my property., 25th April :- [7481776](https://www.fixmystreet.com/report/7481776)
-- TMC - Defects - Road Markings problem, 25th April :- [7481633](https://www.fixmystreet.com/report/7481633)
 
 <!-- fix_marker ends -->

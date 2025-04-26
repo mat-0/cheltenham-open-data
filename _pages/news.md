@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Tributes paid to 'kind and remarkable' councillor ([1 hours ago](https://www.bbc.com/news/articles/c39j2n3d7kyo))
-- Volunteers celebrate breaking tree-planting record ([5 hours ago](https://www.bbc.com/news/articles/cly1w07pegno))
-- Blind woman to cycle 14 miles for cancer charity ([5 hours ago](https://www.bbc.com/news/articles/crkx8z4zx66o))
-- Homeless veterans 'get lives back in the kitchen' ([17 hours ago](https://www.bbc.com/news/articles/cwyqkklqlr4o))
-- Thieves target charity twice in two weeks ([22 hours ago](https://www.bbc.com/news/articles/cp8kd7n7e6yo))
-- 'Callous' man jailed for raping vulnerable woman ([23 hours ago](https://www.bbc.com/news/articles/cp8v6n12p33o))
+- Tributes paid to 'kind and remarkable' councillor ([2 hours ago](https://www.bbc.com/news/articles/c39j2n3d7kyo))
+- Volunteers celebrate breaking tree-planting record ([6 hours ago](https://www.bbc.com/news/articles/cly1w07pegno))
+- Blind woman to cycle 14 miles for cancer charity ([6 hours ago](https://www.bbc.com/news/articles/crkx8z4zx66o))
+- Homeless veterans 'get lives back in the kitchen' ([18 hours ago](https://www.bbc.com/news/articles/cwyqkklqlr4o))
+- Thieves target charity twice in two weeks ([23 hours ago](https://www.bbc.com/news/articles/cp8kd7n7e6yo))
+- 'Callous' man jailed for raping vulnerable woman ([1 days ago](https://www.bbc.com/news/articles/cp8v6n12p33o))
 - Headlines: Bike patrol threat and NHS lottery ([1 days ago](https://www.bbc.com/news/articles/c99p53ee293o))
 - Mum's pop-up shop aims to make prom affordable ([1 days ago](https://www.bbc.com/news/articles/c62xw4y0d70o))
 - Lego display marks 200 years since Roman discovery ([1 days ago](https://www.bbc.com/news/articles/c4g49n0q8x0o))
@@ -58,9 +58,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Man charged with offences related to hunting with dogs ([12 days ago](https://gloucesternewscentre.co.uk/man-charged-with-offences-related-to-hunting-with-dogs/))
 - Cheltenham Welcomes Refugees celebrates receiving the King’s Award for Voluntary Service ([12 days ago](https://gloucesternewscentre.co.uk/cheltenham-welcomes-refugees-celebrates-receiving-the-kings-award-for-voluntary-service/))
 - Crack Easter recycling – waste and recycling collections for 2025 ([22 days ago](https://www.cheltenham.gov.uk/news/article/3002/crack_easter_recycling_%E2%80%93_waste_and_recycling_collections_for_2025))
-- Cheltenham Licensing Sub-Committee revokes private hire driver’s licence due to safety concerns ([22 days ago](https://www.cheltenham.gov.uk/news/article/3001/cheltenham_licensing_sub-committee_revokes_private_hire_drivers_licence_due_to_safety_concerns))
+- Cheltenham Licensing Sub-Committee revokes private hire driver’s licence due to safety concerns ([23 days ago](https://www.cheltenham.gov.uk/news/article/3001/cheltenham_licensing_sub-committee_revokes_private_hire_drivers_licence_due_to_safety_concerns))
 - Plans for 5,000 homes on farmland near Sharpness & Berkeley ([24 days ago](https://www.bbc.co.uk/sounds/play/p0l1v3k3))
 - Cut those costs as seven bills soar ([25 days ago](https://www.bbc.co.uk/sounds/play/p0l1mstk))
-- Helping Charlton Kings residents prepare for flash flooding ([25 days ago](https://www.cheltenham.gov.uk/news/article/3000/helping_charlton_kings_residents_prepare_for_flash_flooding))
+- Helping Charlton Kings residents prepare for flash flooding ([26 days ago](https://www.cheltenham.gov.uk/news/article/3000/helping_charlton_kings_residents_prepare_for_flash_flooding))
 
 <!-- news_marker ends -->
