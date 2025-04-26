@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Saturday, 26 April 2025
 
-- The average temperature today is 9.04˚C,
-- With highs of 9.98˚C and lows of 7.62˚C,
-- It may feel like 9.04˚C with overcast clouds
+- The average temperature today is 9.42˚C,
+- With highs of 9.99˚C and lows of 7.69˚C,
+- It may feel like 9.42˚C with overcast clouds
 - The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1021hPa and humidity is 84%
+- The pressure is 1021hPa and humidity is 83%
 - The sun will rise at 04:48 and set at 19:23
 
 <!-- weather_marker ends -->
