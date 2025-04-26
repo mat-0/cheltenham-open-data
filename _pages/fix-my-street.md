@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Table and chairs, 26th April :- [7485247](https://www.fixmystreet.com/report/7485247)
 - Several potholes at junction with Churchdown Lane, 26th April :- [7484772](https://www.fixmystreet.com/report/7484772)
 - Several potholes along Sappercombe Lane, 26th April :- [7484397](https://www.fixmystreet.com/report/7484397)
 - Multiple pot holes, 26th April :- [7484177](https://www.fixmystreet.com/report/7484177)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Private trees overhanging footway here - enforcement action required - blind woman hit in face & torso her dog could walk under it - width not there as you've permitted (literally!) parking on the wider part of the footway, pedestrians have to walk near/along back edge & wall (esp when cars driving through to access footway parking spaces - these driver don't care and so people are hurting their eyes & faces here when forced into that position!) - ACT NOW TO SAVE PEDESTRIAN INJURIES & LITIGATIONS, 25th April :- [7482005](https://www.fixmystreet.com/report/7482005)
 - TMC - Defects -other CW10 problem, 25th April :- [7481974](https://www.fixmystreet.com/report/7481974)
 - Cast iron bollard still missing from footway and still needs reinstating to prevent vehicles cutting through - yes, driving on the footway to get around your 'stopping up' traffic engineering furnatures (I recently saw 2x telecoms contractor vans driving through it with a mother & child pedestrian scared stiff when they thought they were going to get hit - PLEASE ACT TO SAVE LIVES!)., 25th April :- [7481885](https://www.fixmystreet.com/report/7481885)
-- The branches in the tree when gusting in breeze are pulling on the telephone line to house which is pulling bracket out of facia board on my property., 25th April :- [7481776](https://www.fixmystreet.com/report/7481776)
 
 <!-- fix_marker ends -->
