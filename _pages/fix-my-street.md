@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Replacement sign misleading., 26th April :- [7483672](https://www.fixmystreet.com/report/7483672)
 - Light for cars is green to go when green man is allowing for crossing, 25th April :- [7483216](https://www.fixmystreet.com/report/7483216)
 - Tree and lamppost toppling, 25th April :- [7482993](https://www.fixmystreet.com/report/7482993)
 - Burst drain, 25th April :- [7482988](https://www.fixmystreet.com/report/7482988)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 25th April :- [7481638](https://www.fixmystreet.com/report/7481638)
 - TMC - Defects - Road Markings problem, 25th April :- [7481633](https://www.fixmystreet.com/report/7481633)
 - TMC - Defects -CW6 Potholes  problem, 25th April :- [7481639](https://www.fixmystreet.com/report/7481639)
-- TMC - Defects -CW6 Potholes  problem, 25th April :- [7481640](https://www.fixmystreet.com/report/7481640)
 
 <!-- fix_marker ends -->
