@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Stroud park runners celebrate 200 races ([4 hours ago](https://www.bbc.com/news/articles/c9w8qljrd8vo))
-- A436 closed following two-vehicle collision ([4 hours ago](https://www.bbc.com/news/articles/c8ep87l5dz5o))
-- Tributes paid to 'kind and remarkable' councillor ([7 hours ago](https://www.bbc.com/news/articles/c39j2n3d7kyo))
-- Volunteers celebrate breaking tree-planting record ([11 hours ago](https://www.bbc.com/news/articles/cly1w07pegno))
-- Blind woman to cycle 14 miles for cancer charity ([11 hours ago](https://www.bbc.com/news/articles/crkx8z4zx66o))
-- Homeless veterans 'get lives back in the kitchen' ([23 hours ago](https://www.bbc.com/news/articles/cwyqkklqlr4o))
+- Stroud park runners celebrate 200 races ([5 hours ago](https://www.bbc.com/news/articles/c9w8qljrd8vo))
+- A436 closed following two-vehicle collision ([5 hours ago](https://www.bbc.com/news/articles/c8ep87l5dz5o))
+- Tributes paid to 'kind and remarkable' councillor ([8 hours ago](https://www.bbc.com/news/articles/c39j2n3d7kyo))
+- Volunteers celebrate breaking tree-planting record ([12 hours ago](https://www.bbc.com/news/articles/cly1w07pegno))
+- Blind woman to cycle 14 miles for cancer charity ([12 hours ago](https://www.bbc.com/news/articles/crkx8z4zx66o))
+- Homeless veterans 'get lives back in the kitchen' ([1 days ago](https://www.bbc.com/news/articles/cwyqkklqlr4o))
 - Thieves target charity twice in two weeks ([1 days ago](https://www.bbc.com/news/articles/cp8kd7n7e6yo))
 - 'Callous' man jailed for raping vulnerable woman ([1 days ago](https://www.bbc.com/news/articles/cp8v6n12p33o))
 - Headlines: Bike patrol threat and NHS lottery ([1 days ago](https://www.bbc.com/news/articles/c99p53ee293o))
