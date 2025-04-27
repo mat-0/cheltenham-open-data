@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Graffiti on green utility cabinets, London Rd opposite Woodgate Cl, 27th April :- [7489480](https://www.fixmystreet.com/report/7489480)
+- Loose noisy manhole cover London Road, opposite East End Rd junction, 27th April :- [7489457](https://www.fixmystreet.com/report/7489457)
+- Dumped furniture parts, 27th April :- [7489393](https://www.fixmystreet.com/report/7489393)
+- Sun-damaged and rusty road sign - Ashcot Mews, 27th April :- [7489382](https://www.fixmystreet.com/report/7489382)
+- Large potholes on Ashcot Mews, 27th April :- [7489377](https://www.fixmystreet.com/report/7489377)
 - The street light doesn't work any more. Whatever fix was done before has not worked, 27th April :- [7488647](https://www.fixmystreet.com/report/7488647)
 - Sainsbury's trolley, 27th April :- [7487922](https://www.fixmystreet.com/report/7487922)
 - Two trenches dug across road badly filled in, 27th April :- [7487840](https://www.fixmystreet.com/report/7487840)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Hayden Lane - super hazard, 26th April :- [7483833](https://www.fixmystreet.com/report/7483833)
 - Replacement sign misleading., 26th April :- [7483672](https://www.fixmystreet.com/report/7483672)
 - Light for cars is green to go when green man is allowing for crossing, 25th April :- [7483216](https://www.fixmystreet.com/report/7483216)
-- Tree and lamppost toppling, 25th April :- [7482993](https://www.fixmystreet.com/report/7482993)
-- Burst drain, 25th April :- [7482988](https://www.fixmystreet.com/report/7482988)
-- 104 has dug up the gtass verge, its now heavily planted with spikey shirbs and trees, there is a small one foot strip left of grass, with the busy road and buses some cars are forced to park half on the pavement to allow bus access. Now in this are of welch road the public are forced on to the road, if more then 1 pedestrian wishes to past. Ive also witnessed mobility scooters un able to pass and also being forced into the road. It also blokes the view for exciting drivers to pull safe off their own drives., 25th April :- [7482856](https://www.fixmystreet.com/report/7482856)
-- Fingers get cabinets and ironing board left on the grass, 25th April :- [7482851](https://www.fixmystreet.com/report/7482851)
-- Pothole patch failed ///holds.cycle.take, 25th April :- [7482554](https://www.fixmystreet.com/report/7482554)
 
 <!-- fix_marker ends -->
