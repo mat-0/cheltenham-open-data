@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Sainsbury's trolley, 27th April :- [7487922](https://www.fixmystreet.com/report/7487922)
+- Two trenches dug across road badly filled in, 27th April :- [7487840](https://www.fixmystreet.com/report/7487840)
 - Lots of potholes and broken surface at junction, 27th April :- [7487760](https://www.fixmystreet.com/report/7487760)
 - Flytipped Gas Cylinders - Nitrous Oxide, 27th April :- [7487376](https://www.fixmystreet.com/report/7487376)
 - Abandoned vehicle with foreign number-plates outside the side of “Aires and Graces” pub, 27th April :- [7486691](https://www.fixmystreet.com/report/7486691)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Fingers get cabinets and ironing board left on the grass, 25th April :- [7482851](https://www.fixmystreet.com/report/7482851)
 - Pothole patch failed ///holds.cycle.take, 25th April :- [7482554](https://www.fixmystreet.com/report/7482554)
 - Pothole ///refers.boxing.gums, 25th April :- [7482548](https://www.fixmystreet.com/report/7482548)
-- The whole road is full of deep pot holes!, 25th April :- [7482387](https://www.fixmystreet.com/report/7482387)
-- A pothole in road problem, 25th April :- [7482413](https://www.fixmystreet.com/report/7482413)
 
 <!-- fix_marker ends -->
