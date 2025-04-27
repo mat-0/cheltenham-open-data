@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Glasto blues? Check out these festivals instead ([1 hours ago](https://www.bbc.com/news/articles/cgm8lw20r49o))
-- Gloucestershire in Pictures: Sofas and sunshine ([3 hours ago](https://www.bbc.com/news/articles/c793jw8xd4vo))
-- Headlines: WECA mayor elections and GP wait times ([3 hours ago](https://www.bbc.com/news/articles/cnv58276j21o))
-- Stroud park runners celebrate 200 races ([20 hours ago](https://www.bbc.com/news/articles/c9w8qljrd8vo))
-- A436 closed following two-vehicle collision ([20 hours ago](https://www.bbc.com/news/articles/c8ep87l5dz5o))
-- Tributes paid to 'kind and remarkable' councillor ([23 hours ago](https://www.bbc.com/news/articles/c39j2n3d7kyo))
+- Glasto blues? Check out these festivals instead ([2 hours ago](https://www.bbc.com/news/articles/cgm8lw20r49o))
+- Gloucestershire in Pictures: Sofas and sunshine ([4 hours ago](https://www.bbc.com/news/articles/c793jw8xd4vo))
+- Headlines: WECA mayor elections and GP wait times ([4 hours ago](https://www.bbc.com/news/articles/cnv58276j21o))
+- Stroud park runners celebrate 200 races ([21 hours ago](https://www.bbc.com/news/articles/c9w8qljrd8vo))
+- A436 closed following two-vehicle collision ([21 hours ago](https://www.bbc.com/news/articles/c8ep87l5dz5o))
+- Tributes paid to 'kind and remarkable' councillor ([1 days ago](https://www.bbc.com/news/articles/c39j2n3d7kyo))
 - Volunteers celebrate breaking tree-planting record ([1 days ago](https://www.bbc.com/news/articles/cly1w07pegno))
 - Blind woman to cycle 14 miles for cancer charity ([1 days ago](https://www.bbc.com/news/articles/crkx8z4zx66o))
 - Homeless veterans 'get lives back in the kitchen' ([1 days ago](https://www.bbc.com/news/articles/cwyqkklqlr4o))
@@ -52,7 +52,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Wanted appeal for 45-year-old man from Cheltenham ([10 days ago](https://gloucesternewscentre.co.uk/wanted-appeal-for-45-year-old-man-from-cheltenham/))
 - Hospital phlebotomists on course to enter sixth week of strikes over pay ([10 days ago](https://gloucesternewscentre.co.uk/hospital-phlebotomists-on-course-to-enter-sixth-week-of-strikes-over-pay/))
 - Dashcam appeal after car flips onto roof on A436 near Seven Springs ([11 days ago](https://gloucesternewscentre.co.uk/dashcam-appeal-after-car-flips-onto-roof-on-a436-near-seven-springs/))
-- Six-week consultation now live for Leckhampton with Warden Hill neighbourhood plan ([11 days ago](https://gloucesternewscentre.co.uk/six-week-consultation-now-live-for-leckhampton-with-warden-hill-neighbourhood-plan-2/))
+- Six-week consultation now live for Leckhampton with Warden Hill neighbourhood plan ([12 days ago](https://gloucesternewscentre.co.uk/six-week-consultation-now-live-for-leckhampton-with-warden-hill-neighbourhood-plan-2/))
 - Six-week consultation now live for Leckhampton with Warden Hill neighbourhood plan ([12 days ago](https://www.cheltenham.gov.uk/news/article/3003/six-week_consultation_now_live_for_leckhampton_with_warden_hill_neighbourhood_plan))
 - Appeal to locate wanted man Mason McConnon from Cheltenham ([12 days ago](https://gloucesternewscentre.co.uk/appeal-to-locate-wanted-man-mason-mcconnon-from-cheltenham/))
 - Man charged with offences related to hunting with dogs ([12 days ago](https://gloucesternewscentre.co.uk/man-charged-with-offences-related-to-hunting-with-dogs/))
@@ -60,7 +60,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Crack Easter recycling – waste and recycling collections for 2025 ([23 days ago](https://www.cheltenham.gov.uk/news/article/3002/crack_easter_recycling_%E2%80%93_waste_and_recycling_collections_for_2025))
 - Cheltenham Licensing Sub-Committee revokes private hire driver’s licence due to safety concerns ([23 days ago](https://www.cheltenham.gov.uk/news/article/3001/cheltenham_licensing_sub-committee_revokes_private_hire_drivers_licence_due_to_safety_concerns))
 - Plans for 5,000 homes on farmland near Sharpness & Berkeley ([25 days ago](https://www.bbc.co.uk/sounds/play/p0l1v3k3))
-- Cut those costs as seven bills soar ([25 days ago](https://www.bbc.co.uk/sounds/play/p0l1mstk))
+- Cut those costs as seven bills soar ([26 days ago](https://www.bbc.co.uk/sounds/play/p0l1mstk))
 - Helping Charlton Kings residents prepare for flash flooding ([26 days ago](https://www.cheltenham.gov.uk/news/article/3000/helping_charlton_kings_residents_prepare_for_flash_flooding))
 
 <!-- news_marker ends -->
