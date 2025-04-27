@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The street light doesn't work any more. Whatever fix was done before has not worked, 27th April :- [7488647](https://www.fixmystreet.com/report/7488647)
 - Sainsbury's trolley, 27th April :- [7487922](https://www.fixmystreet.com/report/7487922)
 - Two trenches dug across road badly filled in, 27th April :- [7487840](https://www.fixmystreet.com/report/7487840)
 - Lots of potholes and broken surface at junction, 27th April :- [7487760](https://www.fixmystreet.com/report/7487760)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - 104 has dug up the gtass verge, its now heavily planted with spikey shirbs and trees, there is a small one foot strip left of grass, with the busy road and buses some cars are forced to park half on the pavement to allow bus access. Now in this are of welch road the public are forced on to the road, if more then 1 pedestrian wishes to past. Ive also witnessed mobility scooters un able to pass and also being forced into the road. It also blokes the view for exciting drivers to pull safe off their own drives., 25th April :- [7482856](https://www.fixmystreet.com/report/7482856)
 - Fingers get cabinets and ironing board left on the grass, 25th April :- [7482851](https://www.fixmystreet.com/report/7482851)
 - Pothole patch failed ///holds.cycle.take, 25th April :- [7482554](https://www.fixmystreet.com/report/7482554)
-- Pothole ///refers.boxing.gums, 25th April :- [7482548](https://www.fixmystreet.com/report/7482548)
 
 <!-- fix_marker ends -->
