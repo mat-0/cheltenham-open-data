@@ -4,6 +4,12 @@ on:
     workflow_dispatch:
     schedule:
         - cron: "55 * * * *"
+
+permissions:
+    contents: write
+    pull-requests: read
+    issues: read
+
 jobs:
     build:
         permissions:
