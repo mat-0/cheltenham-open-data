@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Gloucestershire in Pictures: Sofas and sunshine ([46 minutes ago](https://www.bbc.com/news/articles/c793jw8xd4vo))
-- Headlines: WECA mayor elections and GP wait times ([51 minutes ago](https://www.bbc.com/news/articles/cnv58276j21o))
-- Stroud park runners celebrate 200 races ([17 hours ago](https://www.bbc.com/news/articles/c9w8qljrd8vo))
-- A436 closed following two-vehicle collision ([17 hours ago](https://www.bbc.com/news/articles/c8ep87l5dz5o))
-- Tributes paid to 'kind and remarkable' councillor ([20 hours ago](https://www.bbc.com/news/articles/c39j2n3d7kyo))
+- Gloucestershire in Pictures: Sofas and sunshine ([1 hours ago](https://www.bbc.com/news/articles/c793jw8xd4vo))
+- Headlines: WECA mayor elections and GP wait times ([1 hours ago](https://www.bbc.com/news/articles/cnv58276j21o))
+- Stroud park runners celebrate 200 races ([18 hours ago](https://www.bbc.com/news/articles/c9w8qljrd8vo))
+- A436 closed following two-vehicle collision ([18 hours ago](https://www.bbc.com/news/articles/c8ep87l5dz5o))
+- Tributes paid to 'kind and remarkable' councillor ([21 hours ago](https://www.bbc.com/news/articles/c39j2n3d7kyo))
 - Volunteers celebrate breaking tree-planting record ([1 days ago](https://www.bbc.com/news/articles/cly1w07pegno))
 - Blind woman to cycle 14 miles for cancer charity ([1 days ago](https://www.bbc.com/news/articles/crkx8z4zx66o))
 - Homeless veterans 'get lives back in the kitchen' ([1 days ago](https://www.bbc.com/news/articles/cwyqkklqlr4o))

@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Abandoned vehicle with foreign number-plates outside the side of “Aires and Graces” pub, 27th April :- [7486691](https://www.fixmystreet.com/report/7486691)
 - Unofficial no waiting cones in the roadway, obstructing the highway., 26th April :- [7485888](https://www.fixmystreet.com/report/7485888)
 - Table and chairs, 26th April :- [7485247](https://www.fixmystreet.com/report/7485247)
 - Several potholes at junction with Churchdown Lane, 26th April :- [7484772](https://www.fixmystreet.com/report/7484772)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - A pothole in road problem, 25th April :- [7482413](https://www.fixmystreet.com/report/7482413)
 - Sharp metal sticking out in/over footway from fence - this remains unactioned & unresolved nearly after a year after initially reporting it despite your records stating otherwise - see FixMyStreet ref: 5985705. Think pedestrian! Think avoidable pedestrian injury & subsequent claims/enquiries!, 25th April :- [7482017](https://www.fixmystreet.com/report/7482017)
 - Private trees overhanging footway here - enforcement action required - blind woman hit in face & torso her dog could walk under it - width not there as you've permitted (literally!) parking on the wider part of the footway, pedestrians have to walk near/along back edge & wall (esp when cars driving through to access footway parking spaces - these driver don't care and so people are hurting their eyes & faces here when forced into that position!) - ACT NOW TO SAVE PEDESTRIAN INJURIES & LITIGATIONS, 25th April :- [7482005](https://www.fixmystreet.com/report/7482005)
-- TMC - Defects -other CW10 problem, 25th April :- [7481974](https://www.fixmystreet.com/report/7481974)
 
 <!-- fix_marker ends -->
