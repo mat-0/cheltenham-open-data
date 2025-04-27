@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large pothole, 27th April :- [7489761](https://www.fixmystreet.com/report/7489761)
+- Number of potholes along Balcarras Rd, 27th April :- [7489755](https://www.fixmystreet.com/report/7489755)
+- Graffiti on grey utility cabinet opposite 33 East End Rd, 27th April :- [7489719](https://www.fixmystreet.com/report/7489719)
 - Graffiti on green utility cabinets, London Rd opposite Woodgate Cl, 27th April :- [7489480](https://www.fixmystreet.com/report/7489480)
 - Loose noisy manhole cover London Road, opposite East End Rd junction, 27th April :- [7489457](https://www.fixmystreet.com/report/7489457)
 - Dumped furniture parts, 27th April :- [7489393](https://www.fixmystreet.com/report/7489393)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Several potholes along Sappercombe Lane, 26th April :- [7484397](https://www.fixmystreet.com/report/7484397)
 - Multiple pot holes, 26th April :- [7484177](https://www.fixmystreet.com/report/7484177)
 - Bin missed on collection round, 26th April :- [7484151](https://www.fixmystreet.com/report/7484151)
-- Hayden Lane - super hazard, 26th April :- [7483833](https://www.fixmystreet.com/report/7483833)
-- Replacement sign misleading., 26th April :- [7483672](https://www.fixmystreet.com/report/7483672)
-- Light for cars is green to go when green man is allowing for crossing, 25th April :- [7483216](https://www.fixmystreet.com/report/7483216)
 
 <!-- fix_marker ends -->
