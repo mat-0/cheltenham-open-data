@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Lots of potholes and broken surface at junction, 27th April :- [7487760](https://www.fixmystreet.com/report/7487760)
 - Flytipped Gas Cylinders - Nitrous Oxide, 27th April :- [7487376](https://www.fixmystreet.com/report/7487376)
 - Abandoned vehicle with foreign number-plates outside the side of “Aires and Graces” pub, 27th April :- [7486691](https://www.fixmystreet.com/report/7486691)
 - Unofficial no waiting cones in the roadway, obstructing the highway., 26th April :- [7485888](https://www.fixmystreet.com/report/7485888)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Pothole ///refers.boxing.gums, 25th April :- [7482548](https://www.fixmystreet.com/report/7482548)
 - The whole road is full of deep pot holes!, 25th April :- [7482387](https://www.fixmystreet.com/report/7482387)
 - A pothole in road problem, 25th April :- [7482413](https://www.fixmystreet.com/report/7482413)
-- Sharp metal sticking out in/over footway from fence - this remains unactioned & unresolved nearly after a year after initially reporting it despite your records stating otherwise - see FixMyStreet ref: 5985705. Think pedestrian! Think avoidable pedestrian injury & subsequent claims/enquiries!, 25th April :- [7482017](https://www.fixmystreet.com/report/7482017)
 
 <!-- fix_marker ends -->
