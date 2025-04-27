@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Sunday, 27 April 2025
 
-- The average temperature today is 19.07˚C,
-- With highs of 19.73˚C and lows of 18.72˚C,
-- It may feel like 18.42˚C with few clouds
-- The wind speed is 3.6m/s and visibility is 10000m
-- The pressure is 1025hPa and humidity is 53%
+- The average temperature today is 19.2˚C,
+- With highs of 20.47˚C and lows of 18.75˚C,
+- It may feel like 18.46˚C with few clouds
+- The wind speed is 4.12m/s and visibility is 10000m
+- The pressure is 1025hPa and humidity is 49%
 - The sun will rise at 04:46 and set at 19:25
 
 <!-- weather_marker ends -->
