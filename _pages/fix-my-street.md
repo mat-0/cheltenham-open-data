@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large Area of Damage, 28th April :- [7493749](https://www.fixmystreet.com/report/7493749)
+- Very large expansive pothole across both sides of the carriageway, 28th April :- [7493581](https://www.fixmystreet.com/report/7493581)
 - Broken and loose tarmac, 28th April :- [7492869](https://www.fixmystreet.com/report/7492869)
 - Tree causing damage to houses and driveways, 28th April :- [7492576](https://www.fixmystreet.com/report/7492576)
 - Abandoned barriers & Signs (Ringway), 28th April :- [7492420](https://www.fixmystreet.com/report/7492420)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Graffiti on grey utility cabinet opposite 33 East End Rd, 27th April :- [7489719](https://www.fixmystreet.com/report/7489719)
 - Graffiti on green utility cabinets, London Rd opposite Woodgate Cl, 27th April :- [7489480](https://www.fixmystreet.com/report/7489480)
 - Loose noisy manhole cover London Road, opposite East End Rd junction, 27th April :- [7489457](https://www.fixmystreet.com/report/7489457)
-- Dumped furniture parts, 27th April :- [7489393](https://www.fixmystreet.com/report/7489393)
-- Sun-damaged and rusty road sign - Ashcot Mews, 27th April :- [7489382](https://www.fixmystreet.com/report/7489382)
 
 <!-- fix_marker ends -->
