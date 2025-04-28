@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Monday, 28 April 2025
 
-- The average temperature today is 19.02˚C,
-- With highs of 19.27˚C and lows of 18.49˚C,
-- It may feel like 18.47˚C with few clouds
-- The wind speed is 0m/s and visibility is 10000m
-- The pressure is 1027hPa and humidity is 57%
+- The average temperature today is 19.12˚C,
+- With highs of 19.36˚C and lows of 18.75˚C,
+- It may feel like 18.52˚C with few clouds
+- The wind speed is 0.45m/s and visibility is 10000m
+- The pressure is 1027hPa and humidity is 55%
 - The sun will rise at 04:44 and set at 19:26
 
 <!-- weather_marker ends -->
