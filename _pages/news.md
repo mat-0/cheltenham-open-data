@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Gloucestershire in Pictures: A tryfest at Kingsholm ([6 hours ago](https://www.bbc.com/news/articles/c793jw8xd4vo))
-- Blind dog walker assaulted by boys, police say ([11 hours ago](https://www.bbc.com/news/articles/c75d9y9qyp4o))
-- Glasto blues? Check out these festivals instead ([15 hours ago](https://www.bbc.com/news/articles/cgm8lw20r49o))
-- Headlines: WECA mayor elections and GP wait times ([17 hours ago](https://www.bbc.com/news/articles/cnv58276j21o))
+- Gloucestershire in Pictures: A tryfest at Kingsholm ([8 hours ago](https://www.bbc.com/news/articles/c793jw8xd4vo))
+- Blind dog walker assaulted by boys, police say ([12 hours ago](https://www.bbc.com/news/articles/c75d9y9qyp4o))
+- Glasto blues? Check out these festivals instead ([16 hours ago](https://www.bbc.com/news/articles/cgm8lw20r49o))
+- Headlines: WECA mayor elections and GP wait times ([19 hours ago](https://www.bbc.com/news/articles/cnv58276j21o))
 - Stroud park runners celebrate 200 races ([1 days ago](https://www.bbc.com/news/articles/c9w8qljrd8vo))
 - A436 closed following two-vehicle collision ([1 days ago](https://www.bbc.com/news/articles/c8ep87l5dz5o))
 - Tributes paid to 'kind and remarkable' councillor ([1 days ago](https://www.bbc.com/news/articles/c39j2n3d7kyo))
