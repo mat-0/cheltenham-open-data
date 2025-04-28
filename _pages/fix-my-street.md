@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Damage to tarmac on our property, 28th April :- [7495063](https://www.fixmystreet.com/report/7495063)
 - Shoddy Highways work causing flooding risk, 28th April :- [7494756](https://www.fixmystreet.com/report/7494756)
 - The worst parts of the damaged pavement has been repaired but there is damaged right next to the repairs which surely is just going to lift the repairs.I am assuming this is only a temporary repair? before the full pavement is repaired as over the years cable tv,STWA,British Gas and heavy vehicles have taken their toll on the pavement which has caused this patchwork of various tarmaced surfaces., 28th April :- [7494363](https://www.fixmystreet.com/report/7494363)
 - The problem is down our street, milliner crescent., 28th April :- [7494206](https://www.fixmystreet.com/report/7494206)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Building waste left outside of house, 28th April :- [7491049](https://www.fixmystreet.com/report/7491049)
 - Broken bridge, 28th April :- [7491017](https://www.fixmystreet.com/report/7491017)
 - Large pothole in the centre of the road opposite Southcourt drive, 28th April :- [7490803](https://www.fixmystreet.com/report/7490803)
-- Light sensor is not detecting vehicles problem, 28th April :- [7490709](https://www.fixmystreet.com/report/7490709)
 
 <!-- fix_marker ends -->
