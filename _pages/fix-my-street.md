@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- No street lights, 28th April :- [7491192](https://www.fixmystreet.com/report/7491192)
+- No entry sign on slip road flattened, 28th April :- [7491054](https://www.fixmystreet.com/report/7491054)
+- Building waste left outside of house, 28th April :- [7491049](https://www.fixmystreet.com/report/7491049)
+- Broken bridge, 28th April :- [7491017](https://www.fixmystreet.com/report/7491017)
+- Large pothole in the centre of the road opposite Southcourt drive, 28th April :- [7490803](https://www.fixmystreet.com/report/7490803)
 - Light sensor is not detecting vehicles problem, 28th April :- [7490709](https://www.fixmystreet.com/report/7490709)
 - Large pothole, 27th April :- [7489761](https://www.fixmystreet.com/report/7489761)
 - Number of potholes along Balcarras Rd, 27th April :- [7489755](https://www.fixmystreet.com/report/7489755)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Lots of potholes and broken surface at junction, 27th April :- [7487760](https://www.fixmystreet.com/report/7487760)
 - Flytipped Gas Cylinders - Nitrous Oxide, 27th April :- [7487376](https://www.fixmystreet.com/report/7487376)
 - Abandoned vehicle with foreign number-plates outside the side of “Aires and Graces” pub, 27th April :- [7486691](https://www.fixmystreet.com/report/7486691)
-- Unofficial no waiting cones in the roadway, obstructing the highway., 26th April :- [7485888](https://www.fixmystreet.com/report/7485888)
-- Table and chairs, 26th April :- [7485247](https://www.fixmystreet.com/report/7485247)
-- Several potholes at junction with Churchdown Lane, 26th April :- [7484772](https://www.fixmystreet.com/report/7484772)
-- Several potholes along Sappercombe Lane, 26th April :- [7484397](https://www.fixmystreet.com/report/7484397)
-- Multiple pot holes, 26th April :- [7484177](https://www.fixmystreet.com/report/7484177)
 
 <!-- fix_marker ends -->
