@@ -9,7 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dead deer on footpath, 28th April :- [7493822](https://www.fixmystreet.com/report/7493822)
 - Large Area of Damage, 28th April :- [7493749](https://www.fixmystreet.com/report/7493749)
+- A pothole in road problem, 28th April :- [7493791](https://www.fixmystreet.com/report/7493791)
 - Very large expansive pothole across both sides of the carriageway, 28th April :- [7493581](https://www.fixmystreet.com/report/7493581)
 - Broken and loose tarmac, 28th April :- [7492869](https://www.fixmystreet.com/report/7492869)
 - Tree causing damage to houses and driveways, 28th April :- [7492576](https://www.fixmystreet.com/report/7492576)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Large pothole, 27th April :- [7489761](https://www.fixmystreet.com/report/7489761)
 - Number of potholes along Balcarras Rd, 27th April :- [7489755](https://www.fixmystreet.com/report/7489755)
 - Graffiti on grey utility cabinet opposite 33 East End Rd, 27th April :- [7489719](https://www.fixmystreet.com/report/7489719)
-- Graffiti on green utility cabinets, London Rd opposite Woodgate Cl, 27th April :- [7489480](https://www.fixmystreet.com/report/7489480)
-- Loose noisy manhole cover London Road, opposite East End Rd junction, 27th April :- [7489457](https://www.fixmystreet.com/report/7489457)
 
 <!-- fix_marker ends -->
