@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Traffic light facing shakespeare road - sensor needs checking ?, 28th April :- [7491848](https://www.fixmystreet.com/report/7491848)
+- Tree is damaged problem, 28th April :- [7491692](https://www.fixmystreet.com/report/7491692)
+- Tree is damaged problem, 28th April :- [7491691](https://www.fixmystreet.com/report/7491691)
+- Loose board/ plank on bridge, 28th April :- [7491507](https://www.fixmystreet.com/report/7491507)
 - No street lights, 28th April :- [7491192](https://www.fixmystreet.com/report/7491192)
 - No entry sign on slip road flattened, 28th April :- [7491054](https://www.fixmystreet.com/report/7491054)
 - Building waste left outside of house, 28th April :- [7491049](https://www.fixmystreet.com/report/7491049)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Large potholes on Ashcot Mews, 27th April :- [7489377](https://www.fixmystreet.com/report/7489377)
 - The street light doesn't work any more. Whatever fix was done before has not worked, 27th April :- [7488647](https://www.fixmystreet.com/report/7488647)
 - Sainsbury's trolley, 27th April :- [7487922](https://www.fixmystreet.com/report/7487922)
-- Two trenches dug across road badly filled in, 27th April :- [7487840](https://www.fixmystreet.com/report/7487840)
-- Lots of potholes and broken surface at junction, 27th April :- [7487760](https://www.fixmystreet.com/report/7487760)
-- Flytipped Gas Cylinders - Nitrous Oxide, 27th April :- [7487376](https://www.fixmystreet.com/report/7487376)
-- Abandoned vehicle with foreign number-plates outside the side of “Aires and Graces” pub, 27th April :- [7486691](https://www.fixmystreet.com/report/7486691)
 
 <!-- fix_marker ends -->
