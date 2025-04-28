@@ -12,10 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
+- Cost may be a 'challenge' for school breakfast club ([5 minutes ago](https://www.bbc.com/news/articles/c4g2y2zgx4no))
 - Foot run over as village faces 'overtourism' ([6 hours ago](https://www.bbc.com/news/articles/c33z2kn00xgo))
 - Coming up in the West: What's happening this week? ([6 hours ago](https://www.bbc.com/news/articles/cq5w906gq8po))
 - Gloucestershire in Pictures: A tryfest at Kingsholm ([18 hours ago](https://www.bbc.com/news/articles/c793jw8xd4vo))
-- Blind dog walker assaulted by boys, police say ([22 hours ago](https://www.bbc.com/news/articles/c75d9y9qyp4o))
+- Blind dog walker assaulted by boys, police say ([23 hours ago](https://www.bbc.com/news/articles/c75d9y9qyp4o))
 - Glasto blues? Check out these festivals instead ([1 days ago](https://www.bbc.com/news/articles/cgm8lw20r49o))
 - Headlines: WECA mayor elections and GP wait times ([1 days ago](https://www.bbc.com/news/articles/cnv58276j21o))
 - Stroud park runners celebrate 200 races ([1 days ago](https://www.bbc.com/news/articles/c9w8qljrd8vo))
@@ -27,7 +28,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Thieves target charity twice in two weeks ([2 days ago](https://www.bbc.com/news/articles/cp8kd7n7e6yo))
 - 'Callous' man jailed for raping vulnerable woman ([2 days ago](https://www.bbc.com/news/articles/cp8v6n12p33o))
 - Mum's pop-up shop aims to make prom affordable ([3 days ago](https://www.bbc.com/news/articles/c62xw4y0d70o))
-- Lego display marks 200 years since Roman discovery ([3 days ago](https://www.bbc.com/news/articles/c4g49n0q8x0o))
 - Motorcyclist dies in collision with car ([3 days ago](https://www.bbc.com/news/articles/c5ygvm160jgo))
 - Cars splattered, walls stained and ‘huge’ mess left by ‘shoddy’ workers ([3 days ago](https://gloucesternewscentre.co.uk/cars-splattered-walls-stained-and-huge-mess-left-by-shoddy-workers/))
 - Everyman Theatre pioneers revolutionary hearing assistance for audiences ([3 days ago](https://gloucesternewscentre.co.uk/everyman-theatre-pioneers-revolutionary-hearing-assistance-for-audiences/))
