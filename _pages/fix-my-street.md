@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Broken and loose tarmac, 28th April :- [7492869](https://www.fixmystreet.com/report/7492869)
+- Tree causing damage to houses and driveways, 28th April :- [7492576](https://www.fixmystreet.com/report/7492576)
 - Abandoned barriers & Signs (Ringway), 28th April :- [7492420](https://www.fixmystreet.com/report/7492420)
 - Traffic light facing shakespeare road - sensor needs checking ?, 28th April :- [7491848](https://www.fixmystreet.com/report/7491848)
 - Tree is damaged problem, 28th April :- [7491692](https://www.fixmystreet.com/report/7491692)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Loose noisy manhole cover London Road, opposite East End Rd junction, 27th April :- [7489457](https://www.fixmystreet.com/report/7489457)
 - Dumped furniture parts, 27th April :- [7489393](https://www.fixmystreet.com/report/7489393)
 - Sun-damaged and rusty road sign - Ashcot Mews, 27th April :- [7489382](https://www.fixmystreet.com/report/7489382)
-- Large potholes on Ashcot Mews, 27th April :- [7489377](https://www.fixmystreet.com/report/7489377)
-- The street light doesn't work any more. Whatever fix was done before has not worked, 27th April :- [7488647](https://www.fixmystreet.com/report/7488647)
 
 <!-- fix_marker ends -->
