@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The worst parts of the damaged pavement has been repaired but there is damaged right next to the repairs which surely is just going to lift the repairs.I am assuming this is only a temporary repair? before the full pavement is repaired as over the years cable tv,STWA,British Gas and heavy vehicles have taken their toll on the pavement which has caused this patchwork of various tarmaced surfaces., 28th April :- [7494363](https://www.fixmystreet.com/report/7494363)
+- The problem is down our street, milliner crescent., 28th April :- [7494206](https://www.fixmystreet.com/report/7494206)
 - Dead deer on footpath, 28th April :- [7493822](https://www.fixmystreet.com/report/7493822)
 - Large Area of Damage, 28th April :- [7493749](https://www.fixmystreet.com/report/7493749)
 - A pothole in road problem, 28th April :- [7493791](https://www.fixmystreet.com/report/7493791)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Large pothole in the centre of the road opposite Southcourt drive, 28th April :- [7490803](https://www.fixmystreet.com/report/7490803)
 - Light sensor is not detecting vehicles problem, 28th April :- [7490709](https://www.fixmystreet.com/report/7490709)
 - Large pothole, 27th April :- [7489761](https://www.fixmystreet.com/report/7489761)
-- Number of potholes along Balcarras Rd, 27th April :- [7489755](https://www.fixmystreet.com/report/7489755)
-- Graffiti on grey utility cabinet opposite 33 East End Rd, 27th April :- [7489719](https://www.fixmystreet.com/report/7489719)
 
 <!-- fix_marker ends -->
