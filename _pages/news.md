@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Freecycling project secures funding for another year ([6 hours ago](https://www.bbc.com/news/articles/c62z4dd6wr2o))
-- 'Show off' driver who killed three teens sentenced ([6 hours ago](https://www.bbc.com/news/articles/clywee36nx5o))
-- Headlines: Medieval graves and diesel pollution ([8 hours ago](https://www.bbc.com/news/articles/c4g4y3j374po))
-- Cost may be a 'challenge' for school breakfast club ([9 hours ago](https://www.bbc.com/news/articles/c4g2y2zgx4no))
-- Foot run over as village faces 'overtourism' ([15 hours ago](https://www.bbc.com/news/articles/c33z2kn00xgo))
+- Freecycling project secures funding for another year ([7 hours ago](https://www.bbc.com/news/articles/c62z4dd6wr2o))
+- 'Show off' driver who killed three teens sentenced ([7 hours ago](https://www.bbc.com/news/articles/clywee36nx5o))
+- Headlines: Medieval graves and diesel pollution ([9 hours ago](https://www.bbc.com/news/articles/c4g4y3j374po))
+- Cost may be a 'challenge' for school breakfast club ([10 hours ago](https://www.bbc.com/news/articles/c4g2y2zgx4no))
+- Foot run over as village faces 'overtourism' ([16 hours ago](https://www.bbc.com/news/articles/c33z2kn00xgo))
 - Gloucestershire in Pictures: A tryfest at Kingsholm ([1 days ago](https://www.bbc.com/news/articles/c793jw8xd4vo))
 - Blind dog walker assaulted by boys, police say ([1 days ago](https://www.bbc.com/news/articles/c75d9y9qyp4o))
 - Glasto blues? Check out these festivals instead ([1 days ago](https://www.bbc.com/news/articles/cgm8lw20r49o))
