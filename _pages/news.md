@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Foot run over as village faces 'overtourism' ([1 hours ago](https://www.bbc.com/news/articles/c33z2kn00xgo))
-- Coming up in the West: What's happening this week? ([1 hours ago](https://www.bbc.com/news/articles/cq5w906gq8po))
-- Gloucestershire in Pictures: A tryfest at Kingsholm ([13 hours ago](https://www.bbc.com/news/articles/c793jw8xd4vo))
-- Blind dog walker assaulted by boys, police say ([18 hours ago](https://www.bbc.com/news/articles/c75d9y9qyp4o))
-- Glasto blues? Check out these festivals instead ([22 hours ago](https://www.bbc.com/news/articles/cgm8lw20r49o))
+- Foot run over as village faces 'overtourism' ([2 hours ago](https://www.bbc.com/news/articles/c33z2kn00xgo))
+- Coming up in the West: What's happening this week? ([2 hours ago](https://www.bbc.com/news/articles/cq5w906gq8po))
+- Gloucestershire in Pictures: A tryfest at Kingsholm ([14 hours ago](https://www.bbc.com/news/articles/c793jw8xd4vo))
+- Blind dog walker assaulted by boys, police say ([19 hours ago](https://www.bbc.com/news/articles/c75d9y9qyp4o))
+- Glasto blues? Check out these festivals instead ([23 hours ago](https://www.bbc.com/news/articles/cgm8lw20r49o))
 - Headlines: WECA mayor elections and GP wait times ([1 days ago](https://www.bbc.com/news/articles/cnv58276j21o))
 - Stroud park runners celebrate 200 races ([1 days ago](https://www.bbc.com/news/articles/c9w8qljrd8vo))
 - A436 closed following two-vehicle collision ([1 days ago](https://www.bbc.com/news/articles/c8ep87l5dz5o))

@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Light sensor is not detecting vehicles problem, 28th April :- [7490709](https://www.fixmystreet.com/report/7490709)
 - Large pothole, 27th April :- [7489761](https://www.fixmystreet.com/report/7489761)
 - Number of potholes along Balcarras Rd, 27th April :- [7489755](https://www.fixmystreet.com/report/7489755)
 - Graffiti on grey utility cabinet opposite 33 East End Rd, 27th April :- [7489719](https://www.fixmystreet.com/report/7489719)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Several potholes at junction with Churchdown Lane, 26th April :- [7484772](https://www.fixmystreet.com/report/7484772)
 - Several potholes along Sappercombe Lane, 26th April :- [7484397](https://www.fixmystreet.com/report/7484397)
 - Multiple pot holes, 26th April :- [7484177](https://www.fixmystreet.com/report/7484177)
-- Bin missed on collection round, 26th April :- [7484151](https://www.fixmystreet.com/report/7484151)
 
 <!-- fix_marker ends -->
