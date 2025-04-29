@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Tuesday, 29 April 2025
 
-- The average temperature today is 11.48˚C,
-- With highs of 11.96˚C and lows of 9.36˚C,
-- It may feel like 10.69˚C with broken clouds
-- The wind speed is 1.8m/s and visibility is 10000m
-- The pressure is 1025hPa and humidity is 77%
+- The average temperature today is 10.11˚C,
+- With highs of 12.77˚C and lows of 8.71˚C,
+- It may feel like 9.21˚C with overcast clouds
+- The wind speed is 1.56m/s and visibility is 10000m
+- The pressure is 1025hPa and humidity is 78%
 - The sun will rise at 04:42 and set at 19:28
 
 <!-- weather_marker ends -->
