@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Incorrect new road markings, 29th April :- [7496827](https://www.fixmystreet.com/report/7496827)
 - Harp Hill pothole, 29th April :- [7496486](https://www.fixmystreet.com/report/7496486)
 - Road needs sweeping, 29th April :- [7496421](https://www.fixmystreet.com/report/7496421)
 - TMC - Defects - Kerbs and Channels problem, 29th April :- [7496337](https://www.fixmystreet.com/report/7496337)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Very large expansive pothole across both sides of the carriageway, 28th April :- [7493581](https://www.fixmystreet.com/report/7493581)
 - Broken and loose tarmac, 28th April :- [7492869](https://www.fixmystreet.com/report/7492869)
 - Tree causing damage to houses and driveways, 28th April :- [7492576](https://www.fixmystreet.com/report/7492576)
-- Abandoned barriers & Signs (Ringway), 28th April :- [7492420](https://www.fixmystreet.com/report/7492420)
 
 <!-- fix_marker ends -->
