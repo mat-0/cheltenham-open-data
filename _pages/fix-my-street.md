@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Harp Hill pothole, 29th April :- [7496486](https://www.fixmystreet.com/report/7496486)
+- Road needs sweeping, 29th April :- [7496421](https://www.fixmystreet.com/report/7496421)
+- TMC - Defects - Kerbs and Channels problem, 29th April :- [7496337](https://www.fixmystreet.com/report/7496337)
+- TMC - Defects - Other FW6  Surface problem, 29th April :- [7496338](https://www.fixmystreet.com/report/7496338)
+- TMC - Defects - Other FW6  Surface problem, 29th April :- [7496316](https://www.fixmystreet.com/report/7496316)
+- TMC - Defects - Other FW6  Surface problem, 29th April :- [7496315](https://www.fixmystreet.com/report/7496315)
 - Medium items flytipped, 29th April :- [7496011](https://www.fixmystreet.com/report/7496011)
 - Multiple car damaging potholes, 29th April :- [7495774](https://www.fixmystreet.com/report/7495774)
 - Broken well cover, 28th April :- [7495453](https://www.fixmystreet.com/report/7495453)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Broken and loose tarmac, 28th April :- [7492869](https://www.fixmystreet.com/report/7492869)
 - Tree causing damage to houses and driveways, 28th April :- [7492576](https://www.fixmystreet.com/report/7492576)
 - Abandoned barriers & Signs (Ringway), 28th April :- [7492420](https://www.fixmystreet.com/report/7492420)
-- Traffic light facing shakespeare road - sensor needs checking ?, 28th April :- [7491848](https://www.fixmystreet.com/report/7491848)
-- Tree is damaged problem, 28th April :- [7491692](https://www.fixmystreet.com/report/7491692)
-- Tree is damaged problem, 28th April :- [7491691](https://www.fixmystreet.com/report/7491691)
-- Loose board/ plank on bridge, 28th April :- [7491507](https://www.fixmystreet.com/report/7491507)
-- No street lights, 28th April :- [7491192](https://www.fixmystreet.com/report/7491192)
-- No entry sign on slip road flattened, 28th April :- [7491054](https://www.fixmystreet.com/report/7491054)
 
 <!-- fix_marker ends -->
