@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Medium items flytipped, 29th April :- [7496011](https://www.fixmystreet.com/report/7496011)
 - Multiple car damaging potholes, 29th April :- [7495774](https://www.fixmystreet.com/report/7495774)
 - Broken well cover, 28th April :- [7495453](https://www.fixmystreet.com/report/7495453)
 - Damage to tarmac on our property, 28th April :- [7495063](https://www.fixmystreet.com/report/7495063)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Loose board/ plank on bridge, 28th April :- [7491507](https://www.fixmystreet.com/report/7491507)
 - No street lights, 28th April :- [7491192](https://www.fixmystreet.com/report/7491192)
 - No entry sign on slip road flattened, 28th April :- [7491054](https://www.fixmystreet.com/report/7491054)
-- Building waste left outside of house, 28th April :- [7491049](https://www.fixmystreet.com/report/7491049)
 
 <!-- fix_marker ends -->
