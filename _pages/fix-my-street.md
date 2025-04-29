@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Multiple car damaging potholes, 29th April :- [7495774](https://www.fixmystreet.com/report/7495774)
 - Broken well cover, 28th April :- [7495453](https://www.fixmystreet.com/report/7495453)
 - Damage to tarmac on our property, 28th April :- [7495063](https://www.fixmystreet.com/report/7495063)
 - Shoddy Highways work causing flooding risk, 28th April :- [7494756](https://www.fixmystreet.com/report/7494756)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - No street lights, 28th April :- [7491192](https://www.fixmystreet.com/report/7491192)
 - No entry sign on slip road flattened, 28th April :- [7491054](https://www.fixmystreet.com/report/7491054)
 - Building waste left outside of house, 28th April :- [7491049](https://www.fixmystreet.com/report/7491049)
-- Broken bridge, 28th April :- [7491017](https://www.fixmystreet.com/report/7491017)
 
 <!-- fix_marker ends -->
