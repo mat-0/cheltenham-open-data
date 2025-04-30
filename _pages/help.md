@@ -7,7 +7,7 @@ permalink: /helpful
 
 ---
 
-## Useful Phone Numbers:
+## Useful Phone Numbers
 
 - Anti-Bullying Campaign: 0207 378 1446
 - Childline: 0800 1111
@@ -20,7 +20,11 @@ permalink: /helpful
 - Gas: 0800 111 999
 - NHS Direct: 0845 4647
 
-## Hospitals:
+## Hospitals
 
 - Gloucestershire Royal: 0300 422 2222
 - Cheltenham General: 0300 422 2222
+
+## Emergency Preparation
+
+[Get Prepared for Emergencies (Gov UK)](https://prepare.campaign.gov.uk/get-prepared-for-emergencies/)
