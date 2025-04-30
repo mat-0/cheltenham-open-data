@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Wednesday, 30 April 2025
 
-- The average temperature today is 21.58˚C,
-- With highs of 21.58˚C and lows of 21.58˚C,
-- It may feel like 21.26˚C with scattered clouds
-- The wind speed is 1.73m/s and visibility is 10000m
-- The pressure is 1021hPa and humidity is 56%
+- The average temperature today is 24.75˚C,
+- With highs of 24.75˚C and lows of 24.75˚C,
+- It may feel like 24.04˚C with clear sky
+- The wind speed is 0m/s and visibility is 10000m
+- The pressure is 1021hPa and humidity is 29%
 - The sun will rise at 04:40 and set at 19:30
 
 <!-- weather_marker ends -->
