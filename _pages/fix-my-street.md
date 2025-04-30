@@ -9,11 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
-- TMC - Defects - Vegetation problem, 30th April :- [7501961](https://www.fixmystreet.com/report/7501961)
+- TMC - Defects -CW10 Potholes problem, 30th April :- [7502473](https://www.fixmystreet.com/report/7502473)
+- 12 inch potholes Hewlett Road, 30th April :- [7502363](https://www.fixmystreet.com/report/7502363)
 - TMC - Defects - Vegetation problem, 30th April :- [7501962](https://www.fixmystreet.com/report/7501962)
+- TMC - Defects - Vegetation problem, 30th April :- [7501961](https://www.fixmystreet.com/report/7501961)
 - TMC - Defects - Kerbs and Channels problem, 30th April :- [7501819](https://www.fixmystreet.com/report/7501819)
-- TMC - Defects - Covers, Gratings & Frames problem, 30th April :- [7501817](https://www.fixmystreet.com/report/7501817)
 - TMC - Defects - Vegetation problem, 30th April :- [7501818](https://www.fixmystreet.com/report/7501818)
+- TMC - Defects - Covers, Gratings & Frames problem, 30th April :- [7501817](https://www.fixmystreet.com/report/7501817)
 - Traffic light pedestrian pole, 30th April :- [7501750](https://www.fixmystreet.com/report/7501750)
 - TMC - Defects - Road Markings problem, 30th April :- [7501816](https://www.fixmystreet.com/report/7501816)
 - TMC - Defects -CW6 Potholes  problem, 30th April :- [7501815](https://www.fixmystreet.com/report/7501815)
@@ -24,10 +26,8 @@ permalink: /fix-my-street
 - No sign at the junction of Harp Hill nd B4075 to indicate that the road at the top is closed. I had to drive all the way up to the junction and then back down on what must be one of the worst maintained roads in Cheltenham., 29th April :- [7500235](https://www.fixmystreet.com/report/7500235)
 - Unauthorised line marking, 29th April :- [7500027](https://www.fixmystreet.com/report/7500027)
 - Street lamp not working, 29th April :- [7499867](https://www.fixmystreet.com/report/7499867)
-- TMC - Defects -CW6 Potholes  problem, 29th April :- [7499734](https://www.fixmystreet.com/report/7499734)
 - TMC - Defects -CW6 Potholes  problem, 29th April :- [7499735](https://www.fixmystreet.com/report/7499735)
+- TMC - Defects -CW6 Potholes  problem, 29th April :- [7499734](https://www.fixmystreet.com/report/7499734)
 - TMC - Defects -other CW6 problem, 29th April :- [7499733](https://www.fixmystreet.com/report/7499733)
-- TMC - Defects -CW6 Potholes  problem, 29th April :- [7499732](https://www.fixmystreet.com/report/7499732)
-- TMC - Defects -other CW6 problem, 29th April :- [7499534](https://www.fixmystreet.com/report/7499534)
 
 <!-- fix_marker ends -->
