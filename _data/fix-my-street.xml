@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -68,21 +68,21 @@
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 29th April</title>
-<link>https://www.fixmystreet.com/report/7499734</link>
-<description>Pothole CW 900mm  x 400mm  x 45mm &amp;#10;Temporary road Closure TM &amp;#10;Junction Zoons Road Churchdown Lane (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7499734&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7499734</guid>
-<pubDate>Tue, 29 Apr 2025 15:38:27 +0100</pubDate>
-<georss:point>51.8568536999995 -2.1813626</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 29th April</title>
 <link>https://www.fixmystreet.com/report/7499735</link>
 <description>Pothole CW 1100mm  x 400mm  x 45mm &amp;#10;Temporary road Closure TM &amp;#10;Junction Zoons Road Churchdown Lane (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7499735&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
 <guid isPermaLink="false">https://www.fixmystreet.com/report/7499735</guid>
 <pubDate>Tue, 29 Apr 2025 15:38:27 +0100</pubDate>
 <georss:point>51.8568515999995 -2.1813415</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 29th April</title>
+<link>https://www.fixmystreet.com/report/7499734</link>
+<description>Pothole CW 900mm  x 400mm  x 45mm &amp;#10;Temporary road Closure TM &amp;#10;Junction Zoons Road Churchdown Lane (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7499734&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7499734</guid>
+<pubDate>Tue, 29 Apr 2025 15:38:27 +0100</pubDate>
+<georss:point>51.8568536999995 -2.1813626</georss:point>
 </item>
 <item>
 <title>TMC - Defects -other CW6 problem, 29th April</title>
