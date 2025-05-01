@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipping on back street between Hungerford St & Albert St, 1st May :- [7511595](https://www.fixmystreet.com/report/7511595)
+- Fly tipped rubbish, 1st May :- [7511555](https://www.fixmystreet.com/report/7511555)
 - Branches fallen on road and pathway, 1st May :- [7511462](https://www.fixmystreet.com/report/7511462)
 - Abandon roadworks on pavement, 1st May :- [7511420](https://www.fixmystreet.com/report/7511420)
 - Verge not cut, 1st May :- [7510901](https://www.fixmystreet.com/report/7510901)
@@ -20,14 +22,12 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 1st May :- [7510759](https://www.fixmystreet.com/report/7510759)
 - TMC - Defects - Road Markings problem, 1st May :- [7510758](https://www.fixmystreet.com/report/7510758)
 - TMC - Defects - Footways Slabs problem, 1st May :- [7510592](https://www.fixmystreet.com/report/7510592)
-- TMC - Defects - Footways Slabs problem, 1st May :- [7510591](https://www.fixmystreet.com/report/7510591)
 - TMC - Defects - Footways Slabs problem, 1st May :- [7510590](https://www.fixmystreet.com/report/7510590)
+- TMC - Defects - Footways Slabs problem, 1st May :- [7510591](https://www.fixmystreet.com/report/7510591)
 - Tree is damaged problem, 1st May :- [7510589](https://www.fixmystreet.com/report/7510589)
 - TMC - Defects -CW6 Potholes  problem, 1st May :- [7510416](https://www.fixmystreet.com/report/7510416)
 - The drain is blocked problem, 1st May :- [7510409](https://www.fixmystreet.com/report/7510409)
 - Flytipped Item, 1st May :- [7510367](https://www.fixmystreet.com/report/7510367)
 - TMC - Defects -CW6 Potholes  problem, 1st May :- [7510415](https://www.fixmystreet.com/report/7510415)
-- The drain is blocked problem, 1st May :- [7510408](https://www.fixmystreet.com/report/7510408)
-- TMC - Defects -CW6 Potholes  problem, 1st May :- [7510413](https://www.fixmystreet.com/report/7510413)
 
 <!-- fix_marker ends -->
