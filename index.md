@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Thursday, 01 May 2025
 
-- The average temperature today is 15.78˚C,
-- With highs of 16.4˚C and lows of 14.28˚C,
-- It may feel like 15.24˚C with clear sky
-- The wind speed is 0.88m/s and visibility is 10000m
-- The pressure is 1018hPa and humidity is 70%
+- The average temperature today is 18.25˚C,
+- With highs of 19.73˚C and lows of 16.49˚C,
+- It may feel like 17.75˚C with scattered clouds
+- The wind speed is 0.91m/s and visibility is 10000m
+- The pressure is 1018hPa and humidity is 62%
 - The sun will rise at 04:38 and set at 19:32
 
 <!-- weather_marker ends -->

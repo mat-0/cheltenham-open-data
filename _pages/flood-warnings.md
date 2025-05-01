@@ -19,8 +19,5 @@ This project fetches flood warning data for the Gloucestershire area and publish
 ## Latest
 
 <!-- flood_marker starts -->
-- Warning no longer in force: Tidal River Avon at Bristol, Pill and Shirehampton
-- This Flood Alert has been removed.  
-There is no longer a threat of flooding, though standing water and debris may still remain.
 
 <!-- flood_marker ends -->
