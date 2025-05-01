@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Branches fallen on road and pathway, 1st May :- [7511462](https://www.fixmystreet.com/report/7511462)
+- Abandon roadworks on pavement, 1st May :- [7511420](https://www.fixmystreet.com/report/7511420)
 - Verge not cut, 1st May :- [7510901](https://www.fixmystreet.com/report/7510901)
 - Dead pigeon, 1st May :- [7510844](https://www.fixmystreet.com/report/7510844)
 - Extremely dangerous junction, 1st May :- [7510832](https://www.fixmystreet.com/report/7510832)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 1st May :- [7510415](https://www.fixmystreet.com/report/7510415)
 - The drain is blocked problem, 1st May :- [7510408](https://www.fixmystreet.com/report/7510408)
 - TMC - Defects -CW6 Potholes  problem, 1st May :- [7510413](https://www.fixmystreet.com/report/7510413)
-- TMC - Defects -CW6 Potholes  problem, 1st May :- [7510414](https://www.fixmystreet.com/report/7510414)
-- TMC - Defects - Footways Slabs problem, 1st May :- [7510249](https://www.fixmystreet.com/report/7510249)
 
 <!-- fix_marker ends -->
