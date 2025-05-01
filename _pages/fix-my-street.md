@@ -9,7 +9,19 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Mass Flytipping, 1st May :- [7510686](https://www.fixmystreet.com/report/7510686)
+- Ground between two stiles is uneven and risks injury, 1st May :- [7510663](https://www.fixmystreet.com/report/7510663)
+- TMC - Defects - Footways Slabs problem, 1st May :- [7510590](https://www.fixmystreet.com/report/7510590)
+- TMC - Defects - Footways Slabs problem, 1st May :- [7510591](https://www.fixmystreet.com/report/7510591)
+- TMC - Defects - Footways Slabs problem, 1st May :- [7510592](https://www.fixmystreet.com/report/7510592)
+- Tree is damaged problem, 1st May :- [7510589](https://www.fixmystreet.com/report/7510589)
+- TMC - Defects -CW6 Potholes  problem, 1st May :- [7510416](https://www.fixmystreet.com/report/7510416)
+- The drain is blocked problem, 1st May :- [7510409](https://www.fixmystreet.com/report/7510409)
 - Flytipped Item, 1st May :- [7510367](https://www.fixmystreet.com/report/7510367)
+- TMC - Defects -CW6 Potholes  problem, 1st May :- [7510415](https://www.fixmystreet.com/report/7510415)
+- The drain is blocked problem, 1st May :- [7510408](https://www.fixmystreet.com/report/7510408)
+- TMC - Defects -CW6 Potholes  problem, 1st May :- [7510414](https://www.fixmystreet.com/report/7510414)
+- TMC - Defects -CW6 Potholes  problem, 1st May :- [7510413](https://www.fixmystreet.com/report/7510413)
 - TMC - Defects - Footways Slabs problem, 1st May :- [7510249](https://www.fixmystreet.com/report/7510249)
 - Drain blocked, 1st May :- [7510130](https://www.fixmystreet.com/report/7510130)
 - Flytipped Mirror, 1st May :- [7510106](https://www.fixmystreet.com/report/7510106)
@@ -17,17 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 1st May :- [7510072](https://www.fixmystreet.com/report/7510072)
 - TMC - Defects -CW6 Potholes  problem, 1st May :- [7510073](https://www.fixmystreet.com/report/7510073)
 - TMC - Defects - Vegetation problem, 1st May :- [7510068](https://www.fixmystreet.com/report/7510068)
-- Flytipped Chair, 1st May :- [7509965](https://www.fixmystreet.com/report/7509965)
-- Flytipped Item, 1st May :- [7509950](https://www.fixmystreet.com/report/7509950)
-- Flytipped Item, 1st May :- [7509946](https://www.fixmystreet.com/report/7509946)
-- TMC - Defects -CW6 Potholes  problem, 1st May :- [7510062](https://www.fixmystreet.com/report/7510062)
-- TMC - Defects -CW6 Potholes  problem, 1st May :- [7510061](https://www.fixmystreet.com/report/7510061)
-- TMC - Defects -CW6 Potholes  problem, 1st May :- [7510060](https://www.fixmystreet.com/report/7510060)
-- TMC - Defects -CW6 Potholes  problem, 1st May :- [7510063](https://www.fixmystreet.com/report/7510063)
-- TMC - Defects -CW6 Potholes  problem, 1st May :- [7510064](https://www.fixmystreet.com/report/7510064)
-- Bollard shell is damaged/vandalised (Non illuminating bollard or post) problem, 1st May :- [7509659](https://www.fixmystreet.com/report/7509659)
-- TMC - Defects -CW6 Potholes  problem, 1st May :- [7509682](https://www.fixmystreet.com/report/7509682)
-- TMC - Defects -CW6 Potholes  problem, 1st May :- [7509683](https://www.fixmystreet.com/report/7509683)
-- TMC - Defects -CW6 Potholes  problem, 1st May :- [7509684](https://www.fixmystreet.com/report/7509684)
 
 <!-- fix_marker ends -->
