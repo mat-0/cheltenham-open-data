@@ -26,8 +26,8 @@ permalink: /fix-my-street
 - Flytipped Item, 1st May :- [7510367](https://www.fixmystreet.com/report/7510367)
 - TMC - Defects -CW6 Potholes  problem, 1st May :- [7510415](https://www.fixmystreet.com/report/7510415)
 - The drain is blocked problem, 1st May :- [7510408](https://www.fixmystreet.com/report/7510408)
-- TMC - Defects -CW6 Potholes  problem, 1st May :- [7510414](https://www.fixmystreet.com/report/7510414)
 - TMC - Defects -CW6 Potholes  problem, 1st May :- [7510413](https://www.fixmystreet.com/report/7510413)
+- TMC - Defects -CW6 Potholes  problem, 1st May :- [7510414](https://www.fixmystreet.com/report/7510414)
 - TMC - Defects - Footways Slabs problem, 1st May :- [7510249](https://www.fixmystreet.com/report/7510249)
 
 <!-- fix_marker ends -->
