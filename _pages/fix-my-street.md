@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Graffiti on back of sign, 1st May :- [7507396](https://www.fixmystreet.com/report/7507396)
+- The ditch does not pass water as it is silted up and has not been dug out in years, 1st May :- [7507376](https://www.fixmystreet.com/report/7507376)
 - After resurfacing the Keep Clear sign has not been reapplied and instead we have double yellow lines. Traffic now blocks entry to Priory Place causing tail back to traffic lights, 1st May :- [7507253](https://www.fixmystreet.com/report/7507253)
 - Long pothole in centre of road plus deep potholes between Southam rd roundabout and bend heading towards kings arm pub. Impossible to avoid when traffic flows are high., 30th April :- [7506746](https://www.fixmystreet.com/report/7506746)
 - Kerb stones badly done 100% a Friday job this mess took 4 worker’s to do all day, 30th April :- [7506093](https://www.fixmystreet.com/report/7506093)
@@ -19,15 +21,13 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 30th April :- [7505072](https://www.fixmystreet.com/report/7505072)
 - TMC - Defects -other CW10 problem, 30th April :- [7504911](https://www.fixmystreet.com/report/7504911)
 - TMC - Defects -CW6 Potholes  problem, 30th April :- [7504907](https://www.fixmystreet.com/report/7504907)
-- TMC - Defects -CW6 Potholes  problem, 30th April :- [7504906](https://www.fixmystreet.com/report/7504906)
-- TMC - Defects -CW6 Potholes  problem, 30th April :- [7504904](https://www.fixmystreet.com/report/7504904)
-- TMC - Defects - Vegetation problem, 30th April :- [7504909](https://www.fixmystreet.com/report/7504909)
 - TMC - Defects -CW6 Potholes  problem, 30th April :- [7504908](https://www.fixmystreet.com/report/7504908)
 - TMC - Defects -CW6 Potholes  problem, 30th April :- [7504905](https://www.fixmystreet.com/report/7504905)
+- TMC - Defects -CW6 Potholes  problem, 30th April :- [7504904](https://www.fixmystreet.com/report/7504904)
+- TMC - Defects -CW6 Potholes  problem, 30th April :- [7504906](https://www.fixmystreet.com/report/7504906)
+- TMC - Defects - Vegetation problem, 30th April :- [7504909](https://www.fixmystreet.com/report/7504909)
 - Overgrown grass verges, 30th April :- [7504781](https://www.fixmystreet.com/report/7504781)
 - Bin needs emptying - overflowing., 30th April :- [7504584](https://www.fixmystreet.com/report/7504584)
 - TMC - Defects - Signs & Street Furniture problem, 30th April :- [7504705](https://www.fixmystreet.com/report/7504705)
-- TMC - Defects -CW6 Potholes  problem, 30th April :- [7504702](https://www.fixmystreet.com/report/7504702)
-- TMC - Defects -other CW6 problem, 30th April :- [7504704](https://www.fixmystreet.com/report/7504704)
 
 <!-- fix_marker ends -->
