@@ -12,13 +12,13 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Men attacked by group wearing hi-vis jackets ([6 hours ago](https://www.bbc.com/news/articles/c4g9r7xyr79o))
-- Wall's Club asylum seeker letter is fake, says MP ([13 hours ago](https://www.bbc.com/news/articles/cjwv5dg2n1po))
+- Men attacked by group wearing hi-vis jackets ([7 hours ago](https://www.bbc.com/news/articles/c4g9r7xyr79o))
+- Wall's Club asylum seeker letter is fake, says MP ([14 hours ago](https://www.bbc.com/news/articles/cjwv5dg2n1po))
 - Spring heat in the West comes with warnings ([15 hours ago](https://www.bbc.com/news/articles/cj3x6zkr5y2o))
-- Rapist posing as photographer has sentence increased ([15 hours ago](https://www.bbc.com/news/articles/c0l0r8enyd4o))
-- Headlines: Pat Lam's future and pioneering surgery ([17 hours ago](https://www.bbc.com/news/articles/c3r8edpn5wxo))
+- Rapist posing as photographer has sentence increased ([16 hours ago](https://www.bbc.com/news/articles/c0l0r8enyd4o))
+- Headlines: Pat Lam's future and pioneering surgery ([18 hours ago](https://www.bbc.com/news/articles/c3r8edpn5wxo))
 - Friends of murdered Met officer go on charity walk ([18 hours ago](https://www.bbc.com/news/articles/cdjl0zje7d1o))
-- Alzheimer's group and surgery in row over car park ([18 hours ago](https://www.bbc.com/news/articles/cwynejpx3yzo))
+- Alzheimer's group and surgery in row over car park ([19 hours ago](https://www.bbc.com/news/articles/cwynejpx3yzo))
 - Polls open for local elections in West of England ([19 hours ago](https://www.bbc.com/news/articles/ckg1dg8vx04o))
 - Guinea pig visits proving a hit with library group ([21 hours ago](https://www.bbc.com/news/videos/cvgn0jgw00eo))
 - Firm fined £300k after worker crushed by concrete ([1 days ago](https://www.bbc.com/news/articles/cly8j13p934o))
