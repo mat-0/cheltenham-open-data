@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Friday, 02 May 2025
 
-- The average temperature today is 19.75˚C,
-- With highs of 19.75˚C and lows of 19.75˚C,
-- It may feel like 19.45˚C with clear sky
-- The wind speed is 2.57m/s and visibility is 10000m
-- The pressure is 1016hPa and humidity is 64%
+- The average temperature today is 17.75˚C,
+- With highs of 17.75˚C and lows of 17.75˚C,
+- It may feel like 17.12˚C with clear sky
+- The wind speed is 3.09m/s and visibility is 10000m
+- The pressure is 1016hPa and humidity is 59%
 - The sun will rise at 04:36 and set at 19:33
 
 <!-- weather_marker ends -->
