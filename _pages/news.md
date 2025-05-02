@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Sixth form sector at 'breaking point', says head ([1 hours ago](https://www.bbc.com/news/articles/c4gr7lkmkzjo))
-- Headlines: May Day dancers and Star Wars auction ([1 hours ago](https://www.bbc.com/news/articles/cvg9y17e5rgo))
-- Plans for car park dropped due to 'overtourism' fears ([6 hours ago](https://www.bbc.com/news/articles/cm2xgzjmk63o))
-- Mates in banger rally to Spain in memory of friend ([6 hours ago](https://www.bbc.com/news/articles/cx2wv3j4rwwo))
-- Men attacked by group wearing hi-vis jackets ([15 hours ago](https://www.bbc.com/news/articles/c4g9r7xyr79o))
-- Wall's Club asylum seeker letter is fake, says MP ([22 hours ago](https://www.bbc.com/news/articles/cjwv5dg2n1po))
+- Sixth form sector at 'breaking point', says head ([2 hours ago](https://www.bbc.com/news/articles/c4gr7lkmkzjo))
+- Headlines: May Day dancers and Star Wars auction ([2 hours ago](https://www.bbc.com/news/articles/cvg9y17e5rgo))
+- Plans for car park dropped due to 'overtourism' fears ([7 hours ago](https://www.bbc.com/news/articles/cm2xgzjmk63o))
+- Mates in banger rally to Spain in memory of friend ([7 hours ago](https://www.bbc.com/news/articles/cx2wv3j4rwwo))
+- Men attacked by group wearing hi-vis jackets ([17 hours ago](https://www.bbc.com/news/articles/c4g9r7xyr79o))
+- Wall's Club asylum seeker letter is fake, says MP ([1 days ago](https://www.bbc.com/news/articles/cjwv5dg2n1po))
 - Spring heat in the West comes with warnings ([1 days ago](https://www.bbc.com/news/articles/cj3x6zkr5y2o))
 - Rapist posing as photographer has sentence increased ([1 days ago](https://www.bbc.com/news/articles/c0l0r8enyd4o))
 - Headlines: Pat Lam's future and pioneering surgery ([1 days ago](https://www.bbc.com/news/articles/c3r8edpn5wxo))
@@ -61,6 +61,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Six-week consultation now live for Leckhampton with Warden Hill neighbourhood plan ([17 days ago](https://www.cheltenham.gov.uk/news/article/3003/six-week_consultation_now_live_for_leckhampton_with_warden_hill_neighbourhood_plan))
 - Gloucestershire elections: What's at stake? ([28 days ago](https://www.bbc.com/news/articles/c74323j87xqo))
 - Crack Easter recycling – waste and recycling collections for 2025 ([28 days ago](https://www.cheltenham.gov.uk/news/article/3002/crack_easter_recycling_%E2%80%93_waste_and_recycling_collections_for_2025))
-- Cheltenham Licensing Sub-Committee revokes private hire driver’s licence due to safety concerns ([28 days ago](https://www.cheltenham.gov.uk/news/article/3001/cheltenham_licensing_sub-committee_revokes_private_hire_drivers_licence_due_to_safety_concerns))
+- Cheltenham Licensing Sub-Committee revokes private hire driver’s licence due to safety concerns ([29 days ago](https://www.cheltenham.gov.uk/news/article/3001/cheltenham_licensing_sub-committee_revokes_private_hire_drivers_licence_due_to_safety_concerns))
 
 <!-- news_marker ends -->
