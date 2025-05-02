@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Underground drain blocked, 2nd May :- [7512512](https://www.fixmystreet.com/report/7512512)
 - Storms drains blocked causing flooding in heavy rain., 2nd May :- [7512458](https://www.fixmystreet.com/report/7512458)
 - Lights not working most nights outside 31 and 30, 1st May :- [7512246](https://www.fixmystreet.com/report/7512246)
 - Dog poo bin overflowing, 1st May :- [7512172](https://www.fixmystreet.com/report/7512172)
@@ -24,10 +25,9 @@ permalink: /fix-my-street
 - Ground between two stiles is uneven and risks injury, 1st May :- [7510663](https://www.fixmystreet.com/report/7510663)
 - TMC - Defects - Vegetation problem, 1st May :- [7510759](https://www.fixmystreet.com/report/7510759)
 - TMC - Defects - Road Markings problem, 1st May :- [7510758](https://www.fixmystreet.com/report/7510758)
-- TMC - Defects - Footways Slabs problem, 1st May :- [7510592](https://www.fixmystreet.com/report/7510592)
 - TMC - Defects - Footways Slabs problem, 1st May :- [7510590](https://www.fixmystreet.com/report/7510590)
 - TMC - Defects - Footways Slabs problem, 1st May :- [7510591](https://www.fixmystreet.com/report/7510591)
+- TMC - Defects - Footways Slabs problem, 1st May :- [7510592](https://www.fixmystreet.com/report/7510592)
 - Tree is damaged problem, 1st May :- [7510589](https://www.fixmystreet.com/report/7510589)
-- TMC - Defects -CW6 Potholes  problem, 1st May :- [7510416](https://www.fixmystreet.com/report/7510416)
 
 <!-- fix_marker ends -->
