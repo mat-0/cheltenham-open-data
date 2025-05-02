@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Other problem, 2nd May :- [7514284](https://www.fixmystreet.com/report/7514284)
+- TMC - Defects - Other problem, 2nd May :- [7514283](https://www.fixmystreet.com/report/7514283)
+- TMC - Defects - Signs & Street Furniture problem, 2nd May :- [7514273](https://www.fixmystreet.com/report/7514273)
 - Flytipping du13vpr, 2nd May :- [7513789](https://www.fixmystreet.com/report/7513789)
 - TMC - Defects -CW6 Potholes  problem, 2nd May :- [7513596](https://www.fixmystreet.com/report/7513596)
 - TMC - Defects - Other FW6  Surface problem, 2nd May :- [7513595](https://www.fixmystreet.com/report/7513595)
@@ -24,10 +27,7 @@ permalink: /fix-my-street
 - TMC - Defects - Footways Slabs problem, 2nd May :- [7512957](https://www.fixmystreet.com/report/7512957)
 - TMC - Defects - Other FW6  Surface problem, 2nd May :- [7512956](https://www.fixmystreet.com/report/7512956)
 - TMC - Defects -CW6 Potholes  problem, 2nd May :- [7512688](https://www.fixmystreet.com/report/7512688)
-- TMC - Defects - Kerbs and Channels problem, 2nd May :- [7512687](https://www.fixmystreet.com/report/7512687)
-- TMC - Defects - Kerbs and Channels problem, 2nd May :- [7512686](https://www.fixmystreet.com/report/7512686)
-- TMC - Defects - Kerbs and Channels problem, 2nd May :- [7512684](https://www.fixmystreet.com/report/7512684)
 - TMC - Defects - Other FW6  Surface problem, 2nd May :- [7512681](https://www.fixmystreet.com/report/7512681)
-- TMC - Defects - Kerbs and Channels problem, 2nd May :- [7512685](https://www.fixmystreet.com/report/7512685)
+- TMC - Defects - Kerbs and Channels problem, 2nd May :- [7512686](https://www.fixmystreet.com/report/7512686)
 
 <!-- fix_marker ends -->
