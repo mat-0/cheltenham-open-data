@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -12,6 +12,33 @@
 <description>The latest local problems reported by users</description>
 <language>en-gb</language>
 
+<item>
+<title>TMC - Defects - Other problem, 2nd May</title>
+<link>https://www.fixmystreet.com/report/7514284</link>
+<description>28 day with 3 way traffic lights or best out of hours please clear vegetation from footway 30000x1500mm (Debris/Obstruction in CW)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7514284&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7514284</guid>
+<pubDate>Fri, 02 May 2025 11:28:30 +0100</pubDate>
+<georss:point>51.8590095181085 -2.12483422653311</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other problem, 2nd May</title>
+<link>https://www.fixmystreet.com/report/7514283</link>
+<description>ENWD with 3 way traffic lights or best out of hours please clear vegetation from tactile crossing point 3000x1500mm (Debris/Obstruction in CW)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7514283&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7514283</guid>
+<pubDate>Fri, 02 May 2025 11:28:30 +0100</pubDate>
+<georss:point>51.8587980297469 -2.12507675778421</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Signs &amp; Street Furniture problem, 2nd May</title>
+<link>https://www.fixmystreet.com/report/7514273</link>
+<description>2 HOUR WITH GIVE AN TAKE PLEASE BRING X4  2 METER BARRIERS OUT AN X8 SANDBAGS AND PLACE AROUND DAMAGED BEAR WIRE AROUND LAMPPOST PLEASE NOTE I HAVE SPOKEN TO STREET LIGHTING ABOUT THIS AN THEY SAID THEY ARE AWARE (Damaged Street Furniture)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7514273&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Signs &amp; Street Furniture</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7514273</guid>
+<pubDate>Fri, 02 May 2025 11:10:02 +0100</pubDate>
+<georss:point>51.8990106999996 -2.0722716000095</georss:point>
+</item>
 <item>
 <title>Flytipping du13vpr, 2nd May</title>
 <link>https://www.fixmystreet.com/report/7513789</link>
@@ -148,33 +175,6 @@
 <georss:point>51.905099973681 -2.08071873052654</georss:point>
 </item>
 <item>
-<title>TMC - Defects - Kerbs and Channels problem, 2nd May</title>
-<link>https://www.fixmystreet.com/report/7512687</link>
-<description>28 day with give an take stats required please lift an replace  broken rocking x1 600x150x30mm kerb stone number 6 cutting will be required (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7512687&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Kerbs and Channels</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7512687</guid>
-<pubDate>Fri, 02 May 2025 07:09:26 +0100</pubDate>
-<georss:point>51.905450616527 -2.08110664963892</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Kerbs and Channels problem, 2nd May</title>
-<link>https://www.fixmystreet.com/report/7512686</link>
-<description>28 day with give an take stats required please lift an relay x1 600x150x30mm kerb stone number 5 (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7512686&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Kerbs and Channels</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7512686</guid>
-<pubDate>Fri, 02 May 2025 07:09:26 +0100</pubDate>
-<georss:point>51.9054403628125 -2.08112135023179</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Kerbs and Channels problem, 2nd May</title>
-<link>https://www.fixmystreet.com/report/7512684</link>
-<description>28 day with give an take stats required please lift an relay x1 600x150x30mm kerb stone number 3 (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7512684&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Kerbs and Channels</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7512684</guid>
-<pubDate>Fri, 02 May 2025 07:09:26 +0100</pubDate>
-<georss:point>51.9054302463031 -2.08113527907929</georss:point>
-</item>
-<item>
 <title>TMC - Defects - Other FW6  Surface problem, 2nd May</title>
 <link>https://www.fixmystreet.com/report/7512681</link>
 <description>28 day with give an take plus temporary footway closure needed please remove x1 600x600mmx20mm slab and replace with tarmac patch stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7512681&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
@@ -185,12 +185,12 @@
 </item>
 <item>
 <title>TMC - Defects - Kerbs and Channels problem, 2nd May</title>
-<link>https://www.fixmystreet.com/report/7512685</link>
-<description>28 day with give an take stats required please lift an relay x1 600x150x30mm kerb stone number 4 (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7512685&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/7512686</link>
+<description>28 day with give an take stats required please lift an relay x1 600x150x30mm kerb stone number 5 (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7512686&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Kerbs and Channels</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7512685</guid>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7512686</guid>
 <pubDate>Fri, 02 May 2025 07:09:26 +0100</pubDate>
-<georss:point>51.9054272340516 -2.08113000679528</georss:point>
+<georss:point>51.9054403628125 -2.08112135023179</georss:point>
 </item>
 </channel>
 </rss>
