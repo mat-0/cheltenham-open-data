@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tarmac sunk, uneven and holes appearing follwing previous repairss are, 2nd May :- [7516729](https://www.fixmystreet.com/report/7516729)
 - Out walking today I walked into a sign that is far too low on the lamppost and almost knocked myself out whilst also receiving a cut to the head. I have photographs of the post and the damage to my head but are unable to share these on this platform. The post is located on the Charlton Lane / Greenhills Road, close to the mini roundabout. The post contains a sign for the Zebra Crossing and Leckhampton Cycle Information, the latter being the sign that is way too low. I would be grateful if this could be addressed to avoid any further danger to pedestrians. Many thanks., 2nd May :- [7516364](https://www.fixmystreet.com/report/7516364)
 - Large pothole on left just past large house, 2nd May :- [7516194](https://www.fixmystreet.com/report/7516194)
 - Blocked road Drain, 2nd May :- [7515742](https://www.fixmystreet.com/report/7515742)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Car Park lighting out, 2nd May :- [7514882](https://www.fixmystreet.com/report/7514882)
 - TMC - Defects - Road Markings problem, 2nd May :- [7514510](https://www.fixmystreet.com/report/7514510)
 - TMC - Defects - Road Markings problem, 2nd May :- [7514511](https://www.fixmystreet.com/report/7514511)
-- TMC - Defects - Signs & Street Furniture problem, 2nd May :- [7514522](https://www.fixmystreet.com/report/7514522)
 
 <!-- fix_marker ends -->
