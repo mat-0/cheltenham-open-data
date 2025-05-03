@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Substantial damage to side of carriageway; dangerous for cyclists in particular, 3rd May :- [7517387](https://www.fixmystreet.com/report/7517387)
 - Fri 2nd May, all street lights out on Pilley Crescent, 3rd May :- [7517295](https://www.fixmystreet.com/report/7517295)
 - Overgrown verge, 2nd May :- [7517035](https://www.fixmystreet.com/report/7517035)
 - Tarmac sunk, uneven and holes appearing follwing previous repairss are, 2nd May :- [7516729](https://www.fixmystreet.com/report/7516729)
@@ -23,11 +24,10 @@ permalink: /fix-my-street
 - Pot hole on pot hole in a pot hole, 2nd May :- [7515559](https://www.fixmystreet.com/report/7515559)
 - Pot Hole is road that was not fixed properly, 2nd May :- [7515549](https://www.fixmystreet.com/report/7515549)
 - TMC - Defects -other CW6 problem, 2nd May :- [7515606](https://www.fixmystreet.com/report/7515606)
-- TMC - Defects -other CW6 problem, 2nd May :- [7515605](https://www.fixmystreet.com/report/7515605)
 - TMC - Defects -other CW6 problem, 2nd May :- [7515607](https://www.fixmystreet.com/report/7515607)
+- TMC - Defects -other CW6 problem, 2nd May :- [7515605](https://www.fixmystreet.com/report/7515605)
 - Extremely dangerous junction, 2nd May :- [7515268](https://www.fixmystreet.com/report/7515268)
 - TMC - Defects -CW6 Potholes  problem, 2nd May :- [7515290](https://www.fixmystreet.com/report/7515290)
 - TMC - Defects - Other FW6  Surface problem, 2nd May :- [7515093](https://www.fixmystreet.com/report/7515093)
-- Car Park lighting out, 2nd May :- [7514882](https://www.fixmystreet.com/report/7514882)
 
 <!-- fix_marker ends -->
