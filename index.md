@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Saturday, 03 May 2025
 
-- The average temperature today is 10.59˚C,
-- With highs of 11.58˚C and lows of 9.82˚C,
-- It may feel like 9.69˚C with broken clouds
-- The wind speed is 2.24m/s and visibility is 10000m
-- The pressure is 1015hPa and humidity is 76%
+- The average temperature today is 11.5˚C,
+- With highs of 12.75˚C and lows of 10.75˚C,
+- It may feel like 10.59˚C with few clouds
+- The wind speed is 2.06m/s and visibility is 10000m
+- The pressure is 1015hPa and humidity is 72%
 - The sun will rise at 04:34 and set at 19:35
 
 <!-- weather_marker ends -->
