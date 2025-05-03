@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dead Tree, 3rd May :- [7519335](https://www.fixmystreet.com/report/7519335)
+- Flytipped garden waste, 3rd May :- [7519326](https://www.fixmystreet.com/report/7519326)
 - Tyre dumped, 3rd May :- [7518814](https://www.fixmystreet.com/report/7518814)
 - Pile of rubbish on pavement, 3rd May :- [7518689](https://www.fixmystreet.com/report/7518689)
 - Tree branch is low, 3rd May :- [7518602](https://www.fixmystreet.com/report/7518602)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Large pothole on left just past large house, 2nd May :- [7516194](https://www.fixmystreet.com/report/7516194)
 - Blocked road Drain, 2nd May :- [7515742](https://www.fixmystreet.com/report/7515742)
 - Obstruction traffic cones, 2nd May :- [7515704](https://www.fixmystreet.com/report/7515704)
-- TMC - Defects -other CW6 problem, 2nd May :- [7515751](https://www.fixmystreet.com/report/7515751)
-- TMC - Defects -other CW6 problem, 2nd May :- [7515750](https://www.fixmystreet.com/report/7515750)
 
 <!-- fix_marker ends -->
