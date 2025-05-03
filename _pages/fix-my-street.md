@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fri 2nd May, all street lights out on Pilley Crescent, 3rd May :- [7517295](https://www.fixmystreet.com/report/7517295)
 - Overgrown verge, 2nd May :- [7517035](https://www.fixmystreet.com/report/7517035)
 - Tarmac sunk, uneven and holes appearing follwing previous repairss are, 2nd May :- [7516729](https://www.fixmystreet.com/report/7516729)
 - Out walking today I walked into a sign that is far too low on the lamppost and almost knocked myself out whilst also receiving a cut to the head. I have photographs of the post and the damage to my head but are unable to share these on this platform. The post is located on the Charlton Lane / Greenhills Road, close to the mini roundabout. The post contains a sign for the Zebra Crossing and Leckhampton Cycle Information, the latter being the sign that is way too low. I would be grateful if this could be addressed to avoid any further danger to pedestrians. Many thanks., 2nd May :- [7516364](https://www.fixmystreet.com/report/7516364)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 2nd May :- [7515290](https://www.fixmystreet.com/report/7515290)
 - TMC - Defects - Other FW6  Surface problem, 2nd May :- [7515093](https://www.fixmystreet.com/report/7515093)
 - Car Park lighting out, 2nd May :- [7514882](https://www.fixmystreet.com/report/7514882)
-- TMC - Defects - Road Markings problem, 2nd May :- [7514510](https://www.fixmystreet.com/report/7514510)
 
 <!-- fix_marker ends -->
