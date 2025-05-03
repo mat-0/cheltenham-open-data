@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- CCTV released as police investigate knife incident ([1 hours ago](https://www.bbc.com/news/articles/cj3x4l61g8xo))
-- Hub opening 'heralds dawn of new sports quarter' ([3 hours ago](https://www.bbc.com/news/articles/c87p27r02jqo))
-- Five arrested on suspicion of attempted murder ([9 hours ago](https://www.bbc.com/news/articles/c3evlv8kdkxo))
-- Bike park reopening after A417 closures ([14 hours ago](https://www.bbc.com/news/articles/ceqre24yew9o))
-- Rail passengers warned of disruption due to works ([14 hours ago](https://www.bbc.com/news/articles/cde2jdn7k09o))
+- CCTV released as police investigate knife incident ([2 hours ago](https://www.bbc.com/news/articles/cj3x4l61g8xo))
+- Hub opening 'heralds dawn of new sports quarter' ([4 hours ago](https://www.bbc.com/news/articles/c87p27r02jqo))
+- Five arrested on suspicion of attempted murder ([10 hours ago](https://www.bbc.com/news/articles/c3evlv8kdkxo))
+- Bike park reopening after A417 closures ([15 hours ago](https://www.bbc.com/news/articles/ceqre24yew9o))
+- Rail passengers warned of disruption due to works ([15 hours ago](https://www.bbc.com/news/articles/cde2jdn7k09o))
 - Roman lime kiln, grave and buildings found in dig ([1 days ago](https://www.bbc.com/news/articles/c2dew1d26xjo))
 - Man pleads guilty to multiple thefts from vehicles in Cheltenham ([1 days ago](https://gloucesternewscentre.co.uk/man-pleads-guilty-to-multiple-thefts-from-vehicles-in-cheltenham/))
 - Cotswold mum calls on Bromford Housing to fix ‘deathtrap’ garden ([1 days ago](https://gloucesternewscentre.co.uk/cotswold-mum-calls-on-bromford-housing-to-fix-deathtrap-garden/))
