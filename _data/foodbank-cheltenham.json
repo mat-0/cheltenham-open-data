@@ -170,7 +170,7 @@
         "self": "https://www.givefood.org.uk/api/2/foodbank/cirencester/",
         "html": "https://www.givefood.org.uk/needs/at/cirencester/",
         "homepage": "https://cirencester.foodbank.org.uk",
-        "shopping_list": "https://cirencester.foodbank.org.uk/support-us/donate-food"
+        "shopping_list": "https://cirencester.foodbank.org.uk/give-help/donate-food/"
       },
       "address": "Unit 15\r\nInner Courtyard\r\nWhiteway Court\r\nCirencester\r\nGL7 7BA",
       "lat_lng": "51.7252574,-1.9621244"
