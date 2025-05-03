@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tyre dumped, 3rd May :- [7518814](https://www.fixmystreet.com/report/7518814)
+- Pile of rubbish on pavement, 3rd May :- [7518689](https://www.fixmystreet.com/report/7518689)
 - Tree branch is low, 3rd May :- [7518602](https://www.fixmystreet.com/report/7518602)
 - Flytipped items, 3rd May :- [7518571](https://www.fixmystreet.com/report/7518571)
 - Flytipped Item, 3rd May :- [7518550](https://www.fixmystreet.com/report/7518550)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Obstruction traffic cones, 2nd May :- [7515704](https://www.fixmystreet.com/report/7515704)
 - TMC - Defects -other CW6 problem, 2nd May :- [7515751](https://www.fixmystreet.com/report/7515751)
 - TMC - Defects -other CW6 problem, 2nd May :- [7515750](https://www.fixmystreet.com/report/7515750)
-- The pothole has now become bigger and looks like the road is giving way to leave a large hole, it will be dangerous to drive and cycle on, 2nd May :- [7515594](https://www.fixmystreet.com/report/7515594)
-- A line of potholes where the white road markings are, 2nd May :- [7515593](https://www.fixmystreet.com/report/7515593)
 
 <!-- fix_marker ends -->
