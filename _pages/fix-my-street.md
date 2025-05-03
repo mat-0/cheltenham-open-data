@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The grass at the veryvend of the Yarnolds has not been cut. Its now above knee height., 3rd May :- [7519591](https://www.fixmystreet.com/report/7519591)
 - Dead Tree, 3rd May :- [7519335](https://www.fixmystreet.com/report/7519335)
 - Flytipped garden waste, 3rd May :- [7519326](https://www.fixmystreet.com/report/7519326)
 - Tyre dumped, 3rd May :- [7518814](https://www.fixmystreet.com/report/7518814)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Out walking today I walked into a sign that is far too low on the lamppost and almost knocked myself out whilst also receiving a cut to the head. I have photographs of the post and the damage to my head but are unable to share these on this platform. The post is located on the Charlton Lane / Greenhills Road, close to the mini roundabout. The post contains a sign for the Zebra Crossing and Leckhampton Cycle Information, the latter being the sign that is way too low. I would be grateful if this could be addressed to avoid any further danger to pedestrians. Many thanks., 2nd May :- [7516364](https://www.fixmystreet.com/report/7516364)
 - Large pothole on left just past large house, 2nd May :- [7516194](https://www.fixmystreet.com/report/7516194)
 - Blocked road Drain, 2nd May :- [7515742](https://www.fixmystreet.com/report/7515742)
-- Obstruction traffic cones, 2nd May :- [7515704](https://www.fixmystreet.com/report/7515704)
 
 <!-- fix_marker ends -->
