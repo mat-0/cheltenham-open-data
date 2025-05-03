@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree branch is low, 3rd May :- [7518602](https://www.fixmystreet.com/report/7518602)
+- Flytipped items, 3rd May :- [7518571](https://www.fixmystreet.com/report/7518571)
+- Flytipped Item, 3rd May :- [7518550](https://www.fixmystreet.com/report/7518550)
 - Damaged old oak, 3rd May :- [7517954](https://www.fixmystreet.com/report/7517954)
 - Very confusing roadworks blocking route into town at pedestrian crossing, 3rd May :- [7517895](https://www.fixmystreet.com/report/7517895)
 - Old overgrown tree leaning into gardens, 3rd May :- [7517856](https://www.fixmystreet.com/report/7517856)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -other CW6 problem, 2nd May :- [7515750](https://www.fixmystreet.com/report/7515750)
 - The pothole has now become bigger and looks like the road is giving way to leave a large hole, it will be dangerous to drive and cycle on, 2nd May :- [7515594](https://www.fixmystreet.com/report/7515594)
 - A line of potholes where the white road markings are, 2nd May :- [7515593](https://www.fixmystreet.com/report/7515593)
-- Pot hole on pot hole in a pot hole, 2nd May :- [7515559](https://www.fixmystreet.com/report/7515559)
-- Pot Hole is road that was not fixed properly, 2nd May :- [7515549](https://www.fixmystreet.com/report/7515549)
-- TMC - Defects -other CW6 problem, 2nd May :- [7515605](https://www.fixmystreet.com/report/7515605)
 
 <!-- fix_marker ends -->
