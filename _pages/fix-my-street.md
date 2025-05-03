@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Damaged old oak, 3rd May :- [7517954](https://www.fixmystreet.com/report/7517954)
+- Very confusing roadworks blocking route into town at pedestrian crossing, 3rd May :- [7517895](https://www.fixmystreet.com/report/7517895)
+- Old overgrown tree leaning into gardens, 3rd May :- [7517856](https://www.fixmystreet.com/report/7517856)
 - Multiple deep pot holes, 3rd May :- [7517663](https://www.fixmystreet.com/report/7517663)
 - Sign is (still) very obscured by the hedge, 3rd May :- [7517397](https://www.fixmystreet.com/report/7517397)
 - Substantial damage to side of carriageway; dangerous for cyclists in particular, 3rd May :- [7517387](https://www.fixmystreet.com/report/7517387)
@@ -25,9 +28,6 @@ permalink: /fix-my-street
 - A line of potholes where the white road markings are, 2nd May :- [7515593](https://www.fixmystreet.com/report/7515593)
 - Pot hole on pot hole in a pot hole, 2nd May :- [7515559](https://www.fixmystreet.com/report/7515559)
 - Pot Hole is road that was not fixed properly, 2nd May :- [7515549](https://www.fixmystreet.com/report/7515549)
-- TMC - Defects -other CW6 problem, 2nd May :- [7515606](https://www.fixmystreet.com/report/7515606)
 - TMC - Defects -other CW6 problem, 2nd May :- [7515605](https://www.fixmystreet.com/report/7515605)
-- TMC - Defects -other CW6 problem, 2nd May :- [7515607](https://www.fixmystreet.com/report/7515607)
-- Extremely dangerous junction, 2nd May :- [7515268](https://www.fixmystreet.com/report/7515268)
 
 <!-- fix_marker ends -->
