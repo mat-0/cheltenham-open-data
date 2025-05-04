@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Bluebells brighten county in time for bank holiday ([35 minutes ago](https://www.bbc.com/news/articles/crm3rwy8vj2o))
-- Headlines: House explosion and mayoral election ([36 minutes ago](https://www.bbc.com/news/articles/c93g20dqq0eo))
-- CCTV released as police investigate knife incident ([11 hours ago](https://www.bbc.com/news/articles/cj3x4l61g8xo))
-- Hub opening 'heralds dawn of new sports quarter' ([13 hours ago](https://www.bbc.com/news/articles/c87p27r02jqo))
-- Five arrested on suspicion of attempted murder ([19 hours ago](https://www.bbc.com/news/articles/c3evlv8kdkxo))
+- Bluebells brighten county in time for bank holiday ([1 hours ago](https://www.bbc.com/news/articles/crm3rwy8vj2o))
+- Headlines: House explosion and mayoral election ([1 hours ago](https://www.bbc.com/news/articles/c93g20dqq0eo))
+- CCTV released as police investigate knife incident ([12 hours ago](https://www.bbc.com/news/articles/cj3x4l61g8xo))
+- Hub opening 'heralds dawn of new sports quarter' ([14 hours ago](https://www.bbc.com/news/articles/c87p27r02jqo))
+- Five arrested on suspicion of attempted murder ([20 hours ago](https://www.bbc.com/news/articles/c3evlv8kdkxo))
 - Bike park reopening after A417 closures ([1 days ago](https://www.bbc.com/news/articles/ceqre24yew9o))
 - Rail passengers warned of disruption due to works ([1 days ago](https://www.bbc.com/news/articles/cde2jdn7k09o))
 - Roman lime kiln, grave and buildings found in dig ([1 days ago](https://www.bbc.com/news/articles/c2dew1d26xjo))
