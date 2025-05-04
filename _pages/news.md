@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Bluebells brighten county in time for bank holiday ([2 hours ago](https://www.bbc.com/news/articles/crm3rwy8vj2o))
-- Headlines: House explosion and mayoral election ([2 hours ago](https://www.bbc.com/news/articles/c93g20dqq0eo))
-- CCTV released as police investigate knife incident ([13 hours ago](https://www.bbc.com/news/articles/cj3x4l61g8xo))
-- Hub opening 'heralds dawn of new sports quarter' ([15 hours ago](https://www.bbc.com/news/articles/c87p27r02jqo))
-- Five arrested on suspicion of attempted murder ([21 hours ago](https://www.bbc.com/news/articles/c3evlv8kdkxo))
+- Bluebells brighten county in time for bank holiday ([3 hours ago](https://www.bbc.com/news/articles/crm3rwy8vj2o))
+- Headlines: House explosion and mayoral election ([3 hours ago](https://www.bbc.com/news/articles/c93g20dqq0eo))
+- CCTV released as police investigate knife incident ([14 hours ago](https://www.bbc.com/news/articles/cj3x4l61g8xo))
+- Hub opening 'heralds dawn of new sports quarter' ([16 hours ago](https://www.bbc.com/news/articles/c87p27r02jqo))
+- Five arrested on suspicion of attempted murder ([22 hours ago](https://www.bbc.com/news/articles/c3evlv8kdkxo))
 - Bike park reopening after A417 closures ([1 days ago](https://www.bbc.com/news/articles/ceqre24yew9o))
 - Rail passengers warned of disruption due to works ([1 days ago](https://www.bbc.com/news/articles/cde2jdn7k09o))
 - Roman lime kiln, grave and buildings found in dig ([1 days ago](https://www.bbc.com/news/articles/c2dew1d26xjo))
@@ -53,7 +53,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Decision on plans for 122 homes on Cheltenham university playing field ([12 days ago](https://gloucesternewscentre.co.uk/decision-on-plans-for-122-homes-on-cheltenham-university-playing-field/))
 - Gloucestershire pizza business fines customers who order “untraditional” pineapple topping. ([12 days ago](https://gloucesternewscentre.co.uk/gloucestershire-pizza-business-fines-customers-who-order-untraditional-pineapple-topping/))
 - Cheltenham MP to run in racecourse half-marathon to raise funds for modern cancer centre ([12 days ago](https://gloucesternewscentre.co.uk/cheltenham-mp-to-run-in-racecourse-half-marathon-to-raise-funds-for-modern-cancer-centre/))
-- Media statement about the Citrus Hotel ([15 days ago](https://www.cheltenham.gov.uk/news/article/3004/media_statement_about_the_citrus_hotel))
+- Media statement about the Citrus Hotel ([16 days ago](https://www.cheltenham.gov.uk/news/article/3004/media_statement_about_the_citrus_hotel))
 - 98 per cent of pupils offered a place at a school of their choice ([17 days ago](https://gloucesternewscentre.co.uk/98-per-cent-of-pupils-offered-a-place-at-a-school-of-their-choice/))
 - Six-week consultation now live for Leckhampton with Warden Hill neighbourhood plan ([19 days ago](https://www.cheltenham.gov.uk/news/article/3003/six-week_consultation_now_live_for_leckhampton_with_warden_hill_neighbourhood_plan))
 
