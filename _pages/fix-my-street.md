@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Sunken road surface getting worse, 4th May :- [7520838](https://www.fixmystreet.com/report/7520838)
+- Recently resurfaced road has a cast iron inspection cover left approx 75mm below adjacent finished road level., 4th May :- [7520658](https://www.fixmystreet.com/report/7520658)
 - Red light still out 3 months after report, 4th May :- [7520584](https://www.fixmystreet.com/report/7520584)
 - Sharp bend roadsigns - dangerously obscured, 4th May :- [7520204](https://www.fixmystreet.com/report/7520204)
 - Flytipping, 3rd May :- [7519785](https://www.fixmystreet.com/report/7519785)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Sign is (still) very obscured by the hedge, 3rd May :- [7517397](https://www.fixmystreet.com/report/7517397)
 - Substantial damage to side of carriageway; dangerous for cyclists in particular, 3rd May :- [7517387](https://www.fixmystreet.com/report/7517387)
 - Fri 2nd May, all street lights out on Pilley Crescent, 3rd May :- [7517295](https://www.fixmystreet.com/report/7517295)
-- Overgrown verge, 2nd May :- [7517035](https://www.fixmystreet.com/report/7517035)
-- Tarmac sunk, uneven and holes appearing follwing previous repairss are, 2nd May :- [7516729](https://www.fixmystreet.com/report/7516729)
 
 <!-- fix_marker ends -->
