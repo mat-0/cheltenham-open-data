@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Sunday, 04 May 2025
 
-- The average temperature today is 6.71˚C,
-- With highs of 8.31˚C and lows of 5.29˚C,
-- It may feel like 4.91˚C with scattered clouds
-- The wind speed is 2.52m/s and visibility is 10000m
-- The pressure is 1018hPa and humidity is 84%
+- The average temperature today is 7.44˚C,
+- With highs of 8.31˚C and lows of 5.85˚C,
+- It may feel like 7.44˚C with broken clouds
+- The wind speed is 0.45m/s and visibility is 10000m
+- The pressure is 1019hPa and humidity is 82%
 - The sun will rise at 04:33 and set at 19:37
 
 <!-- weather_marker ends -->
