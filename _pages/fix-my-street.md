@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- St Pauls Lane Resurfacing, 4th May :- [7521450](https://www.fixmystreet.com/report/7521450)
+- H Marking faded and no longer visible, 4th May :- [7521431](https://www.fixmystreet.com/report/7521431)
+- Street name sign damaged by van, 4th May :- [7521414](https://www.fixmystreet.com/report/7521414)
 - Pavement no longer usable from overgrown tree, 4th May :- [7521259](https://www.fixmystreet.com/report/7521259)
 - Trench that has been badly filled has sunk and is a danger as it’s a risk to drive over so people trying to avoid. Also same issue further down on same road, 4th May :- [7521095](https://www.fixmystreet.com/report/7521095)
 - A trench that was covered by roadworks has completely sunk. It’s actually an issue to drive over, 4th May :- [7521078](https://www.fixmystreet.com/report/7521078)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Pile of rubbish on pavement, 3rd May :- [7518689](https://www.fixmystreet.com/report/7518689)
 - Tree branch is low, 3rd May :- [7518602](https://www.fixmystreet.com/report/7518602)
 - Flytipped items, 3rd May :- [7518571](https://www.fixmystreet.com/report/7518571)
-- Flytipped Item, 3rd May :- [7518550](https://www.fixmystreet.com/report/7518550)
-- Damaged old oak, 3rd May :- [7517954](https://www.fixmystreet.com/report/7517954)
-- Very confusing roadworks blocking route into town at pedestrian crossing, 3rd May :- [7517895](https://www.fixmystreet.com/report/7517895)
 
 <!-- fix_marker ends -->
