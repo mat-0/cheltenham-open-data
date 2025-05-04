@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Gates locked and multiple no entry signs, 4th May :- [7522580](https://www.fixmystreet.com/report/7522580)
 - St Pauls Lane Resurfacing, 4th May :- [7521450](https://www.fixmystreet.com/report/7521450)
 - H Marking faded and no longer visible, 4th May :- [7521431](https://www.fixmystreet.com/report/7521431)
 - Street name sign damaged by van, 4th May :- [7521414](https://www.fixmystreet.com/report/7521414)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Tyre dumped, 3rd May :- [7518814](https://www.fixmystreet.com/report/7518814)
 - Pile of rubbish on pavement, 3rd May :- [7518689](https://www.fixmystreet.com/report/7518689)
 - Tree branch is low, 3rd May :- [7518602](https://www.fixmystreet.com/report/7518602)
-- Flytipped items, 3rd May :- [7518571](https://www.fixmystreet.com/report/7518571)
 
 <!-- fix_marker ends -->
