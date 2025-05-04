@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- CCTV released as police investigate knife incident ([6 hours ago](https://www.bbc.com/news/articles/cj3x4l61g8xo))
-- Hub opening 'heralds dawn of new sports quarter' ([9 hours ago](https://www.bbc.com/news/articles/c87p27r02jqo))
-- Five arrested on suspicion of attempted murder ([14 hours ago](https://www.bbc.com/news/articles/c3evlv8kdkxo))
+- CCTV released as police investigate knife incident ([7 hours ago](https://www.bbc.com/news/articles/cj3x4l61g8xo))
+- Hub opening 'heralds dawn of new sports quarter' ([10 hours ago](https://www.bbc.com/news/articles/c87p27r02jqo))
+- Five arrested on suspicion of attempted murder ([15 hours ago](https://www.bbc.com/news/articles/c3evlv8kdkxo))
 - Bike park reopening after A417 closures ([20 hours ago](https://www.bbc.com/news/articles/ceqre24yew9o))
 - Rail passengers warned of disruption due to works ([20 hours ago](https://www.bbc.com/news/articles/cde2jdn7k09o))
 - Roman lime kiln, grave and buildings found in dig ([1 days ago](https://www.bbc.com/news/articles/c2dew1d26xjo))
