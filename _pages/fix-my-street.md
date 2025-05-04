@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pavement no longer usable from overgrown tree, 4th May :- [7521259](https://www.fixmystreet.com/report/7521259)
+- Trench that has been badly filled has sunk and is a danger as it’s a risk to drive over so people trying to avoid. Also same issue further down on same road, 4th May :- [7521095](https://www.fixmystreet.com/report/7521095)
 - A trench that was covered by roadworks has completely sunk. It’s actually an issue to drive over, 4th May :- [7521078](https://www.fixmystreet.com/report/7521078)
 - Flytipped Appliance, 4th May :- [7520985](https://www.fixmystreet.com/report/7520985)
 - Sunken road surface getting worse, 4th May :- [7520838](https://www.fixmystreet.com/report/7520838)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Flytipped Item, 3rd May :- [7518550](https://www.fixmystreet.com/report/7518550)
 - Damaged old oak, 3rd May :- [7517954](https://www.fixmystreet.com/report/7517954)
 - Very confusing roadworks blocking route into town at pedestrian crossing, 3rd May :- [7517895](https://www.fixmystreet.com/report/7517895)
-- Old overgrown tree leaning into gardens, 3rd May :- [7517856](https://www.fixmystreet.com/report/7517856)
-- Multiple deep pot holes, 3rd May :- [7517663](https://www.fixmystreet.com/report/7517663)
 
 <!-- fix_marker ends -->
