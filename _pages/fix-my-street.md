@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Series of potholes on Greenway Lane adjacent to junction with Shurdington Footpath No 8, 5th May :- [7524657](https://www.fixmystreet.com/report/7524657)
+- Greenway Lane 2 potholes by gate by 3rd telegraph pole, 5th May :- [7524636](https://www.fixmystreet.com/report/7524636)
+- Greenway Lane adjacent second telegraph pole 4 potholes, 5th May :- [7524622](https://www.fixmystreet.com/report/7524622)
+- Deep pothole opposite telegraph pole DP100 on Greenway Lane about 50metres from A46 junction, 5th May :- [7524607](https://www.fixmystreet.com/report/7524607)
 - Several potholes in this location, 5th May :- [7523751](https://www.fixmystreet.com/report/7523751)
 - Mattress and fake Christmas tree, 5th May :- [7523007](https://www.fixmystreet.com/report/7523007)
 - Road markings into Sainsbury’s very badly worn, 5th May :- [7522821](https://www.fixmystreet.com/report/7522821)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Red light still out 3 months after report, 4th May :- [7520584](https://www.fixmystreet.com/report/7520584)
 - Overgrown tree, 4th May :- [7520437](https://www.fixmystreet.com/report/7520437)
 - Sharp bend roadsigns - dangerously obscured, 4th May :- [7520204](https://www.fixmystreet.com/report/7520204)
-- Flytipping, 3rd May :- [7519785](https://www.fixmystreet.com/report/7519785)
-- The grass at the veryvend of the Yarnolds has not been cut. Its now above knee height., 3rd May :- [7519591](https://www.fixmystreet.com/report/7519591)
-- Dead Tree, 3rd May :- [7519335](https://www.fixmystreet.com/report/7519335)
-- Flytipped garden waste, 3rd May :- [7519326](https://www.fixmystreet.com/report/7519326)
 
 <!-- fix_marker ends -->
