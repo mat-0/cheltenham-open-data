@@ -13,10 +13,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
 - Major rail disruption after blaze close to tracks ([12 hours ago](https://www.bbc.com/news/articles/cjew5q07n7go))
-- Ukrainian Festival to 'bring refugees together' ([13 hours ago](https://www.bbc.com/news/articles/c4g2qzzvjq0o))
-- Gloucestershire in Pictures: Keeping it cool ([16 hours ago](https://www.bbc.com/news/articles/ce8gedxkv0do))
-- Bluebells brighten county in time for bank holiday ([20 hours ago](https://www.bbc.com/news/articles/crm3rwy8vj2o))
-- Headlines: House explosion and mayoral election ([20 hours ago](https://www.bbc.com/news/articles/c93g20dqq0eo))
+- Ukrainian Festival to 'bring refugees together' ([14 hours ago](https://www.bbc.com/news/articles/c4g2qzzvjq0o))
+- Gloucestershire in Pictures: Keeping it cool ([17 hours ago](https://www.bbc.com/news/articles/ce8gedxkv0do))
+- Bluebells brighten county in time for bank holiday ([21 hours ago](https://www.bbc.com/news/articles/crm3rwy8vj2o))
+- Headlines: House explosion and mayoral election ([21 hours ago](https://www.bbc.com/news/articles/c93g20dqq0eo))
 - CCTV released as police investigate knife incident ([1 days ago](https://www.bbc.com/news/articles/cj3x4l61g8xo))
 - Hub opening 'heralds dawn of new sports quarter' ([1 days ago](https://www.bbc.com/news/articles/c87p27r02jqo))
 - Five arrested on suspicion of attempted murder ([1 days ago](https://www.bbc.com/news/articles/c3evlv8kdkxo))
