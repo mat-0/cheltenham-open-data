@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Bridge across watercourse is a damaged pallet on shurdington 15 footpath, 5th May :- [7524864](https://www.fixmystreet.com/report/7524864)
+- Section of Footpath 14 Shurdington is very uneven going down a bank, 5th May :- [7524824](https://www.fixmystreet.com/report/7524824)
+- Unsurfaced adopted highway section of Greenway Lane - extensive water erosion of highway, 5th May :- [7524743](https://www.fixmystreet.com/report/7524743)
+- Unmaintained section of adopted highway approx 150 metres of Greenway Lane, 5th May :- [7524672](https://www.fixmystreet.com/report/7524672)
 - Series of potholes on Greenway Lane adjacent to junction with Shurdington Footpath No 8, 5th May :- [7524657](https://www.fixmystreet.com/report/7524657)
 - Greenway Lane 2 potholes by gate by 3rd telegraph pole, 5th May :- [7524636](https://www.fixmystreet.com/report/7524636)
 - Greenway Lane adjacent second telegraph pole 4 potholes, 5th May :- [7524622](https://www.fixmystreet.com/report/7524622)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - A trench that was covered by roadworks has completely sunk. It’s actually an issue to drive over, 4th May :- [7521078](https://www.fixmystreet.com/report/7521078)
 - Flytipped Appliance, 4th May :- [7520985](https://www.fixmystreet.com/report/7520985)
 - Sunken road surface getting worse, 4th May :- [7520838](https://www.fixmystreet.com/report/7520838)
-- Recently resurfaced road has a cast iron inspection cover left approx 75mm below adjacent finished road level., 4th May :- [7520658](https://www.fixmystreet.com/report/7520658)
-- Red light still out 3 months after report, 4th May :- [7520584](https://www.fixmystreet.com/report/7520584)
-- Overgrown tree, 4th May :- [7520437](https://www.fixmystreet.com/report/7520437)
-- Sharp bend roadsigns - dangerously obscured, 4th May :- [7520204](https://www.fixmystreet.com/report/7520204)
 
 <!-- fix_marker ends -->
