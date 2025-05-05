@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Monday, 05 May 2025
 
-- The average temperature today is 7.5˚C,
-- With highs of 8.86˚C and lows of 6.75˚C,
-- It may feel like 4.63˚C with few clouds
-- The wind speed is 4.63m/s and visibility is 10000m
-- The pressure is 1023hPa and humidity is 74%
+- The average temperature today is 9.09˚C,
+- With highs of 9.6˚C and lows of 8.62˚C,
+- It may feel like 6.83˚C with few clouds
+- The wind speed is 4.12m/s and visibility is 10000m
+- The pressure is 1023hPa and humidity is 69%
 - The sun will rise at 04:31 and set at 19:38
 
 <!-- weather_marker ends -->

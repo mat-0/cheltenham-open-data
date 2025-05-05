@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Huge crowds expected at Badminton Horse Trials ([1 hours ago](https://www.bbc.com/news/articles/c93g4dz38jgo))
-- Woman 'thankful' as athletics club marks 40 years ([1 hours ago](https://www.bbc.com/news/articles/cn80nv4mr79o))
-- Major rail disruption after blaze close to tracks ([16 hours ago](https://www.bbc.com/news/articles/cjew5q07n7go))
-- Ukrainian Festival to 'bring refugees together' ([18 hours ago](https://www.bbc.com/news/articles/c4g2qzzvjq0o))
-- Gloucestershire in Pictures: Keeping it cool ([21 hours ago](https://www.bbc.com/news/articles/ce8gedxkv0do))
+- Huge crowds expected at Badminton Horse Trials ([2 hours ago](https://www.bbc.com/news/articles/c93g4dz38jgo))
+- Woman 'thankful' as athletics club marks 40 years ([2 hours ago](https://www.bbc.com/news/articles/cn80nv4mr79o))
+- Major rail disruption after blaze close to tracks ([17 hours ago](https://www.bbc.com/news/articles/cjew5q07n7go))
+- Ukrainian Festival to 'bring refugees together' ([19 hours ago](https://www.bbc.com/news/articles/c4g2qzzvjq0o))
+- Gloucestershire in Pictures: Keeping it cool ([22 hours ago](https://www.bbc.com/news/articles/ce8gedxkv0do))
 - Bluebells brighten county in time for bank holiday ([1 days ago](https://www.bbc.com/news/articles/crm3rwy8vj2o))
 - Headlines: House explosion and mayoral election ([1 days ago](https://www.bbc.com/news/articles/c93g20dqq0eo))
 - CCTV released as police investigate knife incident ([1 days ago](https://www.bbc.com/news/articles/cj3x4l61g8xo))
@@ -49,12 +49,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Man racially abuses woman in nightclub queue ([12 days ago](https://gloucesternewscentre.co.uk/man-racially-abuses-woman-in-nightclub-queue/))
 - Nigel Farage greeted with cheers at brewery as Reform UK supporters chant name ([12 days ago](https://gloucesternewscentre.co.uk/nigel-farage-greeted-with-cheers-at-brewery-as-reform-uk-supporters-chant-name/))
 - Cheltenham Borough Council invites community input on new trees strategy ([12 days ago](https://www.cheltenham.gov.uk/news/article/3005/cheltenham_borough_council_invites_community_input_on_new_trees_strategy))
-- Nigel Farage to visit county today in run-up to council elections ([12 days ago](https://gloucesternewscentre.co.uk/nigel-farage-to-visit-county-today-in-run-up-to-council-elections/))
+- Nigel Farage to visit county today in run-up to council elections ([13 days ago](https://gloucesternewscentre.co.uk/nigel-farage-to-visit-county-today-in-run-up-to-council-elections/))
 - Decision on plans for 122 homes on Cheltenham university playing field ([13 days ago](https://gloucesternewscentre.co.uk/decision-on-plans-for-122-homes-on-cheltenham-university-playing-field/))
 - Gloucestershire pizza business fines customers who order “untraditional” pineapple topping. ([13 days ago](https://gloucesternewscentre.co.uk/gloucestershire-pizza-business-fines-customers-who-order-untraditional-pineapple-topping/))
 - Cheltenham MP to run in racecourse half-marathon to raise funds for modern cancer centre ([13 days ago](https://gloucesternewscentre.co.uk/cheltenham-mp-to-run-in-racecourse-half-marathon-to-raise-funds-for-modern-cancer-centre/))
 - Media statement about the Citrus Hotel ([16 days ago](https://www.cheltenham.gov.uk/news/article/3004/media_statement_about_the_citrus_hotel))
 - 98 per cent of pupils offered a place at a school of their choice ([18 days ago](https://gloucesternewscentre.co.uk/98-per-cent-of-pupils-offered-a-place-at-a-school-of-their-choice/))
-- Six-week consultation now live for Leckhampton with Warden Hill neighbourhood plan ([19 days ago](https://www.cheltenham.gov.uk/news/article/3003/six-week_consultation_now_live_for_leckhampton_with_warden_hill_neighbourhood_plan))
+- Six-week consultation now live for Leckhampton with Warden Hill neighbourhood plan ([20 days ago](https://www.cheltenham.gov.uk/news/article/3003/six-week_consultation_now_live_for_leckhampton_with_warden_hill_neighbourhood_plan))
 
 <!-- news_marker ends -->
