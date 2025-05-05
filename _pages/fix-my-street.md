@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Sign at eastern end of Stoke Orchard footpath 15 (ASO 15) has broken off, 5th May :- [7525663](https://www.fixmystreet.com/report/7525663)
+- Sign at northern end of Prestbury footpath 13 (CHP 13) is pointing in the wrong direction, 5th May :- [7525635](https://www.fixmystreet.com/report/7525635)
 - Broken glass, 5th May :- [7525073](https://www.fixmystreet.com/report/7525073)
 - Bridge across watercourse is a damaged pallet on shurdington 15 footpath, 5th May :- [7524864](https://www.fixmystreet.com/report/7524864)
 - Section of Footpath 14 Shurdington is very uneven going down a bank, 5th May :- [7524824](https://www.fixmystreet.com/report/7524824)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Street name sign damaged by van, 4th May :- [7521414](https://www.fixmystreet.com/report/7521414)
 - Pavement no longer usable from overgrown tree, 4th May :- [7521259](https://www.fixmystreet.com/report/7521259)
 - Trench that has been badly filled has sunk and is a danger as it’s a risk to drive over so people trying to avoid. Also same issue further down on same road, 4th May :- [7521095](https://www.fixmystreet.com/report/7521095)
-- A trench that was covered by roadworks has completely sunk. It’s actually an issue to drive over, 4th May :- [7521078](https://www.fixmystreet.com/report/7521078)
-- Flytipped Appliance, 4th May :- [7520985](https://www.fixmystreet.com/report/7520985)
 
 <!-- fix_marker ends -->
