@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Broken glass, 5th May :- [7525073](https://www.fixmystreet.com/report/7525073)
 - Bridge across watercourse is a damaged pallet on shurdington 15 footpath, 5th May :- [7524864](https://www.fixmystreet.com/report/7524864)
 - Section of Footpath 14 Shurdington is very uneven going down a bank, 5th May :- [7524824](https://www.fixmystreet.com/report/7524824)
 - Unsurfaced adopted highway section of Greenway Lane - extensive water erosion of highway, 5th May :- [7524743](https://www.fixmystreet.com/report/7524743)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Trench that has been badly filled has sunk and is a danger as it’s a risk to drive over so people trying to avoid. Also same issue further down on same road, 4th May :- [7521095](https://www.fixmystreet.com/report/7521095)
 - A trench that was covered by roadworks has completely sunk. It’s actually an issue to drive over, 4th May :- [7521078](https://www.fixmystreet.com/report/7521078)
 - Flytipped Appliance, 4th May :- [7520985](https://www.fixmystreet.com/report/7520985)
-- Sunken road surface getting worse, 4th May :- [7520838](https://www.fixmystreet.com/report/7520838)
 
 <!-- fix_marker ends -->
