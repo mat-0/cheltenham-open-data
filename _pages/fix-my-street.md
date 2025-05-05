@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Mattress and fake Christmas tree, 5th May :- [7523007](https://www.fixmystreet.com/report/7523007)
 - Road markings into Sainsbury’s very badly worn, 5th May :- [7522821](https://www.fixmystreet.com/report/7522821)
 - Gates locked and multiple no entry signs, 4th May :- [7522580](https://www.fixmystreet.com/report/7522580)
 - St Pauls Lane Resurfacing, 4th May :- [7521450](https://www.fixmystreet.com/report/7521450)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Dead Tree, 3rd May :- [7519335](https://www.fixmystreet.com/report/7519335)
 - Flytipped garden waste, 3rd May :- [7519326](https://www.fixmystreet.com/report/7519326)
 - Tyre dumped, 3rd May :- [7518814](https://www.fixmystreet.com/report/7518814)
-- Pile of rubbish on pavement, 3rd May :- [7518689](https://www.fixmystreet.com/report/7518689)
 
 <!-- fix_marker ends -->
