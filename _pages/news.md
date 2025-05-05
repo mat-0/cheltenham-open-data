@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Major rail disruption after blaze close to tracks ([11 hours ago](https://www.bbc.com/news/articles/cjew5q07n7go))
-- Ukrainian Festival to 'bring refugees together' ([12 hours ago](https://www.bbc.com/news/articles/c4g2qzzvjq0o))
-- Gloucestershire in Pictures: Keeping it cool ([15 hours ago](https://www.bbc.com/news/articles/ce8gedxkv0do))
+- Major rail disruption after blaze close to tracks ([12 hours ago](https://www.bbc.com/news/articles/cjew5q07n7go))
+- Ukrainian Festival to 'bring refugees together' ([13 hours ago](https://www.bbc.com/news/articles/c4g2qzzvjq0o))
+- Gloucestershire in Pictures: Keeping it cool ([16 hours ago](https://www.bbc.com/news/articles/ce8gedxkv0do))
 - Bluebells brighten county in time for bank holiday ([20 hours ago](https://www.bbc.com/news/articles/crm3rwy8vj2o))
 - Headlines: House explosion and mayoral election ([20 hours ago](https://www.bbc.com/news/articles/c93g20dqq0eo))
 - CCTV released as police investigate knife incident ([1 days ago](https://www.bbc.com/news/articles/cj3x4l61g8xo))
