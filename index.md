@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Tuesday, 06 May 2025
 
-- The average temperature today is 15.06˚C,
-- With highs of 15.4˚C and lows of 14.75˚C,
-- It may feel like 13.82˚C with few clouds
-- The wind speed is 2.57m/s and visibility is 10000m
-- The pressure is 1025hPa and humidity is 46%
+- The average temperature today is 14.28˚C,
+- With highs of 14.28˚C and lows of 14.05˚C,
+- It may feel like 13.33˚C with broken clouds
+- The wind speed is 3.39m/s and visibility is 10000m
+- The pressure is 1025hPa and humidity is 60%
 - The sun will rise at 04:29 and set at 19:40
 
 <!-- weather_marker ends -->
