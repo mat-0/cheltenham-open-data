@@ -9,14 +9,15 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Very poor uneven road surface with deep ridges which resulted in me loosing control of my bike resulting in broken bones and collapsed lung, 6th May :- [7531531](https://www.fixmystreet.com/report/7531531)
 - Channels dug across the road poorly filled in, 6th May :- [7531368](https://www.fixmystreet.com/report/7531368)
-- TMC - Defects - Footways Slabs problem, 6th May :- [7530903](https://www.fixmystreet.com/report/7530903)
 - TMC - Defects - Footways Slabs problem, 6th May :- [7530898](https://www.fixmystreet.com/report/7530898)
+- TMC - Defects - Footways Slabs problem, 6th May :- [7530901](https://www.fixmystreet.com/report/7530901)
 - TMC - Defects - Footways Slabs problem, 6th May :- [7530896](https://www.fixmystreet.com/report/7530896)
 - TMC - Defects - Footways Slabs problem, 6th May :- [7530900](https://www.fixmystreet.com/report/7530900)
-- TMC - Defects - Footways Slabs problem, 6th May :- [7530901](https://www.fixmystreet.com/report/7530901)
-- TMC - Defects - Footways Slabs problem, 6th May :- [7530902](https://www.fixmystreet.com/report/7530902)
 - TMC - Defects - Footways Slabs problem, 6th May :- [7530897](https://www.fixmystreet.com/report/7530897)
+- TMC - Defects - Footways Slabs problem, 6th May :- [7530903](https://www.fixmystreet.com/report/7530903)
+- TMC - Defects - Footways Slabs problem, 6th May :- [7530902](https://www.fixmystreet.com/report/7530902)
 - TMC - Defects - Footways Slabs problem, 6th May :- [7530899](https://www.fixmystreet.com/report/7530899)
 - Dead fox between on slip road and A417, 6th May :- [7530750](https://www.fixmystreet.com/report/7530750)
 - 2x mattresses dumped, 6th May :- [7530553](https://www.fixmystreet.com/report/7530553)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 6th May :- [7529804](https://www.fixmystreet.com/report/7529804)
 - TMC - Defects -CW6 Potholes  problem, 6th May :- [7529803](https://www.fixmystreet.com/report/7529803)
 - TMC - Defects -CW6 Potholes  problem, 6th May :- [7529802](https://www.fixmystreet.com/report/7529802)
-- TMC - Defects -CW6 Potholes  problem, 6th May :- [7529805](https://www.fixmystreet.com/report/7529805)
 
 <!-- fix_marker ends -->
