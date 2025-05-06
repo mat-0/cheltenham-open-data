@@ -9,11 +9,16 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- After building works the skip was remove from No 50 Leighton Rd but the owners have failed to clear up what looks like plaster that must have leaked through the skip. The road has recently been tarmacadam and it now looks unsightly., 6th May :- [7527140](https://www.fixmystreet.com/report/7527140)
+- Construction vehicles regularly operating unsafely on open footway, obstructing footway and no pedestrian safety management in place., 6th May :- [7526942](https://www.fixmystreet.com/report/7526942)
+- Flytipped stool in skatepark, 6th May :- [7526838](https://www.fixmystreet.com/report/7526838)
+- TMC - Defects - Covers, Gratings & Frames problem, 6th May :- [7526834](https://www.fixmystreet.com/report/7526834)
+- Poor repairs at road junction and potholes, 6th May :- [7526765](https://www.fixmystreet.com/report/7526765)
 - Sunken and loose drain cover causing excess noise and vibration, 6th May :- [7526735](https://www.fixmystreet.com/report/7526735)
 - Recently dug trench is deteriating, 6th May :- [7526706](https://www.fixmystreet.com/report/7526706)
 - May be causing damage to vehicle suspension and lead to a sunken drain cover, 6th May :- [7526680](https://www.fixmystreet.com/report/7526680)
-- TMC - Defects - Footways Slabs problem, 6th May :- [7526574](https://www.fixmystreet.com/report/7526574)
 - TMC - Defects - Vegetation problem, 6th May :- [7526573](https://www.fixmystreet.com/report/7526573)
+- TMC - Defects - Footways Slabs problem, 6th May :- [7526574](https://www.fixmystreet.com/report/7526574)
 - Bollard shell is damaged/vandalised (Non illuminating bollard or post) problem, 6th May :- [7526565](https://www.fixmystreet.com/report/7526565)
 - The Traffic light is not working and vehicles are not stopping for child pedestrians, 6th May :- [7526438](https://www.fixmystreet.com/report/7526438)
 - Flytipped household waste in park, 6th May :- [7526388](https://www.fixmystreet.com/report/7526388)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Section of Footpath 14 Shurdington is very uneven going down a bank, 5th May :- [7524824](https://www.fixmystreet.com/report/7524824)
 - Unsurfaced adopted highway section of Greenway Lane - extensive water erosion of highway, 5th May :- [7524743](https://www.fixmystreet.com/report/7524743)
 - Unmaintained section of adopted highway approx 150 metres of Greenway Lane, 5th May :- [7524672](https://www.fixmystreet.com/report/7524672)
-- Series of potholes on Greenway Lane adjacent to junction with Shurdington Footpath No 8, 5th May :- [7524657](https://www.fixmystreet.com/report/7524657)
-- Greenway Lane 2 potholes by gate by 3rd telegraph pole, 5th May :- [7524636](https://www.fixmystreet.com/report/7524636)
-- Greenway Lane adjacent second telegraph pole 4 potholes, 5th May :- [7524622](https://www.fixmystreet.com/report/7524622)
-- Deep pothole opposite telegraph pole DP100 on Greenway Lane about 50metres from A46 junction, 5th May :- [7524607](https://www.fixmystreet.com/report/7524607)
-- Several potholes in this location, 5th May :- [7523751](https://www.fixmystreet.com/report/7523751)
 
 <!-- fix_marker ends -->
