@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipped household waste in park, 6th May :- [7526388](https://www.fixmystreet.com/report/7526388)
 - Sign at eastern end of Stoke Orchard footpath 15 (ASO 15) has broken off, 5th May :- [7525663](https://www.fixmystreet.com/report/7525663)
 - Sign at northern end of Prestbury footpath 13 (CHP 13) is pointing in the wrong direction, 5th May :- [7525635](https://www.fixmystreet.com/report/7525635)
 - Broken glass, 5th May :- [7525073](https://www.fixmystreet.com/report/7525073)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - H Marking faded and no longer visible, 4th May :- [7521431](https://www.fixmystreet.com/report/7521431)
 - Street name sign damaged by van, 4th May :- [7521414](https://www.fixmystreet.com/report/7521414)
 - Pavement no longer usable from overgrown tree, 4th May :- [7521259](https://www.fixmystreet.com/report/7521259)
-- Trench that has been badly filled has sunk and is a danger as it’s a risk to drive over so people trying to avoid. Also same issue further down on same road, 4th May :- [7521095](https://www.fixmystreet.com/report/7521095)
 
 <!-- fix_marker ends -->
