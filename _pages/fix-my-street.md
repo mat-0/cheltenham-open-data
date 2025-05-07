@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Rotten fence, 7th May :- [7536660](https://www.fixmystreet.com/report/7536660)
 - Recently replaced Kerb stone is not in line with old stones, 7th May :- [7536285](https://www.fixmystreet.com/report/7536285)
 - Wide pothole centre of road, 7th May :- [7536249](https://www.fixmystreet.com/report/7536249)
 - Trees to large, 7th May :- [7535685](https://www.fixmystreet.com/report/7535685)
@@ -21,13 +22,12 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 7th May :- [7535213](https://www.fixmystreet.com/report/7535213)
 - TMC - Defects -CW6 Potholes  problem, 7th May :- [7535210](https://www.fixmystreet.com/report/7535210)
 - Grass verges not been mowed this year., 7th May :- [7535066](https://www.fixmystreet.com/report/7535066)
+- TMC - Defects - Other FW6  Surface problem, 7th May :- [7535208](https://www.fixmystreet.com/report/7535208)
 - TMC - Defects - Other FW6  Surface problem, 7th May :- [7535206](https://www.fixmystreet.com/report/7535206)
 - TMC - Defects - Other FW6  Surface problem, 7th May :- [7535207](https://www.fixmystreet.com/report/7535207)
-- TMC - Defects - Other FW6  Surface problem, 7th May :- [7535208](https://www.fixmystreet.com/report/7535208)
 - TMC - Defects - Other FW6  Surface problem, 7th May :- [7535209](https://www.fixmystreet.com/report/7535209)
 - TMC - Defects - Kerbs and Channels problem, 7th May :- [7535204](https://www.fixmystreet.com/report/7535204)
-- TMC - Defects - Road Markings problem, 7th May :- [7535040](https://www.fixmystreet.com/report/7535040)
-- TMC - Defects -CW6 Potholes  problem, 7th May :- [7535041](https://www.fixmystreet.com/report/7535041)
 - TMC - Defects - Road Markings problem, 7th May :- [7535037](https://www.fixmystreet.com/report/7535037)
+- TMC - Defects - Road Markings problem, 7th May :- [7535038](https://www.fixmystreet.com/report/7535038)
 
 <!-- fix_marker ends -->
