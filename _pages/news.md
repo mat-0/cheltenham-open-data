@@ -12,14 +12,14 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Community projects awarded funding to improve health and wellbeing ([44 minutes ago](https://www.cheltenham.gov.uk/news/article/3006/community_projects_awarded_funding_to_improve_health_and_wellbeing))
-- Contemporary art trail begins in city centre ([3 hours ago](https://www.bbc.com/news/articles/cdrg7pjg8pvo))
-- Calls for crackdown after thousands speed on road ([3 hours ago](https://www.bbc.com/news/articles/cj454v1qzrxo))
-- Threatening Cotswold woman who carried knife in public spared jail ([17 hours ago](https://gloucesternewscentre.co.uk/threatening-cotswold-woman-who-carried-knife-in-public-spared-jail/))
-- Badminton 'for shopping' as well as horses ([20 hours ago](https://www.bbc.com/news/articles/cqx4nl0w8x4o))
-- Woman assaulted during post office shop robbery ([20 hours ago](https://www.bbc.com/news/articles/cj454xw4qryo))
-- Police urge caution after 999 call about spilt coffee ([21 hours ago](https://www.bbc.com/news/articles/c4g9ng7z94jo))
-- Headlines: Dinosaur theft and concert preparations ([22 hours ago](https://www.bbc.com/news/articles/c99peejp40po))
+- Community projects awarded funding to improve health and wellbeing ([1 hours ago](https://www.cheltenham.gov.uk/news/article/3006/community_projects_awarded_funding_to_improve_health_and_wellbeing))
+- Contemporary art trail begins in city centre ([4 hours ago](https://www.bbc.com/news/articles/cdrg7pjg8pvo))
+- Calls for crackdown after thousands speed on road ([4 hours ago](https://www.bbc.com/news/articles/cj454v1qzrxo))
+- Threatening Cotswold woman who carried knife in public spared jail ([18 hours ago](https://gloucesternewscentre.co.uk/threatening-cotswold-woman-who-carried-knife-in-public-spared-jail/))
+- Badminton 'for shopping' as well as horses ([21 hours ago](https://www.bbc.com/news/articles/cqx4nl0w8x4o))
+- Woman assaulted during post office shop robbery ([21 hours ago](https://www.bbc.com/news/articles/cj454xw4qryo))
+- Police urge caution after 999 call about spilt coffee ([22 hours ago](https://www.bbc.com/news/articles/c4g9ng7z94jo))
+- Headlines: Dinosaur theft and concert preparations ([23 hours ago](https://www.bbc.com/news/articles/c99peejp40po))
 - Work set to begin on final stage of A435 Cheltenham to Bishop’s Cleeve cycleway ([1 days ago](https://gloucesternewscentre.co.uk/work-set-to-begin-on-final-stage-of-a435-cheltenham-to-bishops-cleeve-cycleway/))
 - Gloucester Royal Marines Cadets win National Competition ([1 days ago](https://gloucesternewscentre.co.uk/gloucester-royal-marines-cadets-win-national-competition/))
 - Bowls: Gloucestershire finally put to bed their last remaining competition of season ([1 days ago](https://gloucesternewscentre.co.uk/bowls-gloucestershire-finally-put-to-bed-their-last-remaining-competition-of-season/))
@@ -56,7 +56,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Reform UK candidates believe there may be a few upsets in council elections ([14 days ago](https://gloucesternewscentre.co.uk/reform-uk-candidates-believe-there-may-be-a-few-upsets-in-council-elections/))
 - Cheltenham man given Criminal Behaviour Order ([14 days ago](https://gloucesternewscentre.co.uk/cheltenham-man-given-criminal-behaviour-order/))
 - Cheltenham Borough Council invites community input on new trees strategy ([14 days ago](https://www.cheltenham.gov.uk/news/article/3005/cheltenham_borough_council_invites_community_input_on_new_trees_strategy))
-- Media statement about the Citrus Hotel ([18 days ago](https://www.cheltenham.gov.uk/news/article/3004/media_statement_about_the_citrus_hotel))
+- Media statement about the Citrus Hotel ([19 days ago](https://www.cheltenham.gov.uk/news/article/3004/media_statement_about_the_citrus_hotel))
 - Six-week consultation now live for Leckhampton with Warden Hill neighbourhood plan ([22 days ago](https://www.cheltenham.gov.uk/news/article/3003/six-week_consultation_now_live_for_leckhampton_with_warden_hill_neighbourhood_plan))
 
 <!-- news_marker ends -->
