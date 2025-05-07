@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Trees to large, 7th May :- [7535685](https://www.fixmystreet.com/report/7535685)
+- Manhole cover must not be on properly, as when you stand on one side, it drops, 7th May :- [7535558](https://www.fixmystreet.com/report/7535558)
 - TMC - Defects - Other FW6  Surface problem, 7th May :- [7535413](https://www.fixmystreet.com/report/7535413)
 - Fly-psoted estate agent sign, 7th May :- [7535270](https://www.fixmystreet.com/report/7535270)
 - 4x estate agent signs attached to street signs, 7th May :- [7535258](https://www.fixmystreet.com/report/7535258)
@@ -17,17 +19,15 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 7th May :- [7535213](https://www.fixmystreet.com/report/7535213)
 - TMC - Defects -CW6 Potholes  problem, 7th May :- [7535210](https://www.fixmystreet.com/report/7535210)
 - Grass verges not been mowed this year., 7th May :- [7535066](https://www.fixmystreet.com/report/7535066)
-- TMC - Defects - Other FW6  Surface problem, 7th May :- [7535209](https://www.fixmystreet.com/report/7535209)
-- TMC - Defects - Other FW6  Surface problem, 7th May :- [7535207](https://www.fixmystreet.com/report/7535207)
 - TMC - Defects - Other FW6  Surface problem, 7th May :- [7535208](https://www.fixmystreet.com/report/7535208)
+- TMC - Defects - Other FW6  Surface problem, 7th May :- [7535207](https://www.fixmystreet.com/report/7535207)
+- TMC - Defects - Other FW6  Surface problem, 7th May :- [7535209](https://www.fixmystreet.com/report/7535209)
 - TMC - Defects - Other FW6  Surface problem, 7th May :- [7535206](https://www.fixmystreet.com/report/7535206)
 - TMC - Defects - Kerbs and Channels problem, 7th May :- [7535204](https://www.fixmystreet.com/report/7535204)
-- TMC - Defects - Road Markings problem, 7th May :- [7535040](https://www.fixmystreet.com/report/7535040)
-- TMC - Defects - Road Markings problem, 7th May :- [7535037](https://www.fixmystreet.com/report/7535037)
-- TMC - Defects - Road Markings problem, 7th May :- [7535038](https://www.fixmystreet.com/report/7535038)
 - TMC - Defects -CW6 Potholes  problem, 7th May :- [7535041](https://www.fixmystreet.com/report/7535041)
+- TMC - Defects - Road Markings problem, 7th May :- [7535038](https://www.fixmystreet.com/report/7535038)
+- TMC - Defects - Road Markings problem, 7th May :- [7535037](https://www.fixmystreet.com/report/7535037)
 - TMC - Defects - Road Markings problem, 7th May :- [7535039](https://www.fixmystreet.com/report/7535039)
-- Blocking visibility on road/junction (Grass/verge) problem, 7th May :- [7535018](https://www.fixmystreet.com/report/7535018)
-- TMC - Defects -FW6 Potholes problem, 7th May :- [7535021](https://www.fixmystreet.com/report/7535021)
+- TMC - Defects - Road Markings problem, 7th May :- [7535040](https://www.fixmystreet.com/report/7535040)
 
 <!-- fix_marker ends -->
