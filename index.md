@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Wednesday, 07 May 2025
 
-- The average temperature today is 17.29˚C,
-- With highs of 17.75˚C and lows of 16.96˚C,
-- It may feel like 16.33˚C with few clouds
-- The wind speed is 4.12m/s and visibility is 10000m
-- The pressure is 1022hPa and humidity is 48%
+- The average temperature today is 16.36˚C,
+- With highs of 16.75˚C and lows of 15.47˚C,
+- It may feel like 15.41˚C with few clouds
+- The wind speed is 3.6m/s and visibility is 10000m
+- The pressure is 1022hPa and humidity is 52%
 - The sun will rise at 04:27 and set at 19:41
 
 <!-- weather_marker ends -->
