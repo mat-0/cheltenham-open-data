@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Teak furniture flyposting yet again, 8th May :- [7538053](https://www.fixmystreet.com/report/7538053)
 - Subsiding Severn Trent repair, 8th May :- [7537828](https://www.fixmystreet.com/report/7537828)
 - Broken man hole cover still not replaced, 8th May :- [7537669](https://www.fixmystreet.com/report/7537669)
 - Street light numbers 3 and 4 are out, 7th May :- [7537149](https://www.fixmystreet.com/report/7537149)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Grass verges not been mowed this year., 7th May :- [7535066](https://www.fixmystreet.com/report/7535066)
 - TMC - Defects - Other FW6  Surface problem, 7th May :- [7535206](https://www.fixmystreet.com/report/7535206)
 - TMC - Defects - Other FW6  Surface problem, 7th May :- [7535207](https://www.fixmystreet.com/report/7535207)
-- TMC - Defects - Other FW6  Surface problem, 7th May :- [7535208](https://www.fixmystreet.com/report/7535208)
 
 <!-- fix_marker ends -->
