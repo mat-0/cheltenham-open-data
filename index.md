@@ -10,10 +10,10 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Thursday, 08 May 2025
 
-- The average temperature today is 13.18˚C,
-- With highs of 14.05˚C and lows of 12.62˚C,
-- It may feel like 12.04˚C with broken clouds
-- The wind speed is 4.63m/s and visibility is 10000m
+- The average temperature today is 12.95˚C,
+- With highs of 13.49˚C and lows of 12.51˚C,
+- It may feel like 11.79˚C with broken clouds
+- The wind speed is 3.09m/s and visibility is 10000m
 - The pressure is 1021hPa and humidity is 57%
 - The sun will rise at 04:26 and set at 19:43
 
