@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 6 areas scrapped off pavement tarmac outside 8 hearne close, 8th May :- [7540542](https://www.fixmystreet.com/report/7540542)
 - TMC - Defects -CW6 Potholes  problem, 8th May :- [7540253](https://www.fixmystreet.com/report/7540253)
 - TMC - Defects -CW6 Potholes  problem, 8th May :- [7540252](https://www.fixmystreet.com/report/7540252)
 - TMC - Defects -CW6 Potholes  problem, 8th May :- [7540251](https://www.fixmystreet.com/report/7540251)
@@ -20,14 +21,13 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 8th May :- [7539734](https://www.fixmystreet.com/report/7539734)
 - TMC - Defects -CW6 Potholes  problem, 8th May :- [7539733](https://www.fixmystreet.com/report/7539733)
 - TMC - Defects -CW6 Potholes  problem, 8th May :- [7539735](https://www.fixmystreet.com/report/7539735)
+- TMC - Defects -CW6 Potholes  problem, 8th May :- [7539716](https://www.fixmystreet.com/report/7539716)
 - TMC - Defects - Kerbs and Channels problem, 8th May :- [7539727](https://www.fixmystreet.com/report/7539727)
 - TMC - Defects -CW6 Potholes  problem, 8th May :- [7539719](https://www.fixmystreet.com/report/7539719)
-- TMC - Defects -CW6 Potholes  problem, 8th May :- [7539716](https://www.fixmystreet.com/report/7539716)
 - TMC - Defects -CW6 Potholes  problem, 8th May :- [7539715](https://www.fixmystreet.com/report/7539715)
 - TMC - Defects - Kerbs and Channels problem, 8th May :- [7539726](https://www.fixmystreet.com/report/7539726)
 - TMC - Defects -CW6 Potholes  problem, 8th May :- [7539717](https://www.fixmystreet.com/report/7539717)
 - TMC - Defects -CW6 Potholes  problem, 8th May :- [7539724](https://www.fixmystreet.com/report/7539724)
 - TMC - Defects -CW6 Potholes  problem, 8th May :- [7539712](https://www.fixmystreet.com/report/7539712)
-- TMC - Defects -CW6 Potholes  problem, 8th May :- [7539723](https://www.fixmystreet.com/report/7539723)
 
 <!-- fix_marker ends -->
