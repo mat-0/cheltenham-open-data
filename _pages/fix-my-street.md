@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The pedestrian lights stay on red (for traffic) for too long after pedestrians have crossed, 8th May :- [7541628](https://www.fixmystreet.com/report/7541628)
 - Dead branches of tree keep falling onto pavement, driveway, car, with plenty more to come, 8th May :- [7541301](https://www.fixmystreet.com/report/7541301)
 - Sharp bend sign - still dangerously obscured, 8th May :- [7541262](https://www.fixmystreet.com/report/7541262)
 - No entry sign, 8th May :- [7541132](https://www.fixmystreet.com/report/7541132)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 8th May :- [7540250](https://www.fixmystreet.com/report/7540250)
 - Flytipping on pavement Swindon Road, 8th May :- [7539940](https://www.fixmystreet.com/report/7539940)
 - Flytipping 6 St Paul’s St North, 8th May :- [7539900](https://www.fixmystreet.com/report/7539900)
-- Mini roundabout, Parton road, station road…outside Churchdown parish offices…several potholes ongoing, the road painters have painted white lines in the potholes this morning causing traffic to stop in dismay. Raised iron works and rutted surface causing traffic to swerve., 8th May :- [7539797](https://www.fixmystreet.com/report/7539797)
 
 <!-- fix_marker ends -->
