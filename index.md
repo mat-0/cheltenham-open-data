@@ -12,8 +12,8 @@ seo: Menu
 
 - The average temperature today is 6.24˚C,
 - With highs of 6.24˚C and lows of 6.24˚C,
-- It may feel like 4.43˚C with clear sky
-- The wind speed is 2.42m/s and visibility is 10000m
+- It may feel like 4.37˚C with clear sky
+- The wind speed is 2.5m/s and visibility is 10000m
 - The pressure is 1022hPa and humidity is 86%
 - The sun will rise at 04:26 and set at 19:43
 
