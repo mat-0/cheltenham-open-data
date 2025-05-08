@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Multiple problems with the carriageway surface, 8th May :- [7543011](https://www.fixmystreet.com/report/7543011)
+- Large pothole outside the entrance to Rushworth House, 8th May :- [7542721](https://www.fixmystreet.com/report/7542721)
 - Sheer drop at roadside Dangerous, longstanding Issue, 8th May :- [7542036](https://www.fixmystreet.com/report/7542036)
 - The pedestrian lights stay on red (for traffic) for too long after pedestrians have crossed, 8th May :- [7541628](https://www.fixmystreet.com/report/7541628)
 - Dead branches of tree keep falling onto pavement, driveway, car, with plenty more to come, 8th May :- [7541301](https://www.fixmystreet.com/report/7541301)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 8th May :- [7540253](https://www.fixmystreet.com/report/7540253)
 - TMC - Defects -CW6 Potholes  problem, 8th May :- [7540252](https://www.fixmystreet.com/report/7540252)
 - TMC - Defects -CW6 Potholes  problem, 8th May :- [7540251](https://www.fixmystreet.com/report/7540251)
-- TMC - Defects -CW6 Potholes  problem, 8th May :- [7540250](https://www.fixmystreet.com/report/7540250)
-- Flytipping on pavement Swindon Road, 8th May :- [7539940](https://www.fixmystreet.com/report/7539940)
 
 <!-- fix_marker ends -->
