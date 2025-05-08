@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Broken man hole cover still not replaced, 8th May :- [7537669](https://www.fixmystreet.com/report/7537669)
 - Street light numbers 3 and 4 are out, 7th May :- [7537149](https://www.fixmystreet.com/report/7537149)
 - Gate faulty/dangerous, 7th May :- [7537028](https://www.fixmystreet.com/report/7537028)
 - Rotten fence, 7th May :- [7536660](https://www.fixmystreet.com/report/7536660)
@@ -24,10 +25,9 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 7th May :- [7535213](https://www.fixmystreet.com/report/7535213)
 - TMC - Defects -CW6 Potholes  problem, 7th May :- [7535210](https://www.fixmystreet.com/report/7535210)
 - Grass verges not been mowed this year., 7th May :- [7535066](https://www.fixmystreet.com/report/7535066)
-- TMC - Defects - Other FW6  Surface problem, 7th May :- [7535209](https://www.fixmystreet.com/report/7535209)
-- TMC - Defects - Other FW6  Surface problem, 7th May :- [7535207](https://www.fixmystreet.com/report/7535207)
-- TMC - Defects - Other FW6  Surface problem, 7th May :- [7535206](https://www.fixmystreet.com/report/7535206)
 - TMC - Defects - Other FW6  Surface problem, 7th May :- [7535208](https://www.fixmystreet.com/report/7535208)
-- TMC - Defects - Kerbs and Channels problem, 7th May :- [7535204](https://www.fixmystreet.com/report/7535204)
+- TMC - Defects - Other FW6  Surface problem, 7th May :- [7535206](https://www.fixmystreet.com/report/7535206)
+- TMC - Defects - Other FW6  Surface problem, 7th May :- [7535207](https://www.fixmystreet.com/report/7535207)
+- TMC - Defects - Other FW6  Surface problem, 7th May :- [7535209](https://www.fixmystreet.com/report/7535209)
 
 <!-- fix_marker ends -->
