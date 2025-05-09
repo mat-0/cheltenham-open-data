@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Other FW6  Surface problem, 9th May :- [7543264](https://www.fixmystreet.com/report/7543264)
+- TMC - Defects - Other FW6  Surface problem, 9th May :- [7543265](https://www.fixmystreet.com/report/7543265)
+- A40 Golden Valley Eastbound Elmbridge Court roundabout to marker post 164/3, 9th May :- [7543217](https://www.fixmystreet.com/report/7543217)
 - Multiple problems with the carriageway surface, 8th May :- [7543011](https://www.fixmystreet.com/report/7543011)
 - Large pothole outside the entrance to Rushworth House, 8th May :- [7542721](https://www.fixmystreet.com/report/7542721)
 - Sheer drop at roadside Dangerous, longstanding Issue, 8th May :- [7542036](https://www.fixmystreet.com/report/7542036)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Multiple deep potholes, 8th May :- [7540635](https://www.fixmystreet.com/report/7540635)
 - TMC - Defects -CW6 Potholes  problem, 8th May :- [7540595](https://www.fixmystreet.com/report/7540595)
 - 6 areas scrapped off pavement tarmac outside 8 hearne close, 8th May :- [7540542](https://www.fixmystreet.com/report/7540542)
-- TMC - Defects -CW6 Potholes  problem, 8th May :- [7540253](https://www.fixmystreet.com/report/7540253)
-- TMC - Defects -CW6 Potholes  problem, 8th May :- [7540252](https://www.fixmystreet.com/report/7540252)
-- TMC - Defects -CW6 Potholes  problem, 8th May :- [7540251](https://www.fixmystreet.com/report/7540251)
 
 <!-- fix_marker ends -->
