@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects -other CW6 problem, 9th May :- [7545838](https://www.fixmystreet.com/report/7545838)
+- TMC - Defects -other CW6 problem, 9th May :- [7545837](https://www.fixmystreet.com/report/7545837)
+- TMC - Defects -other CW6 problem, 9th May :- [7545835](https://www.fixmystreet.com/report/7545835)
+- Unable to access PROW, blocked by fencing., 9th May :- [7545753](https://www.fixmystreet.com/report/7545753)
+- TMC - Defects -other CW6 problem, 9th May :- [7545825](https://www.fixmystreet.com/report/7545825)
 - TMC - Defects -other CW6 problem, 9th May :- [7545670](https://www.fixmystreet.com/report/7545670)
 - TMC - Defects -other CW6 problem, 9th May :- [7545669](https://www.fixmystreet.com/report/7545669)
 - Lampost and tree damaged, 9th May :- [7545582](https://www.fixmystreet.com/report/7545582)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Signs & Street Furniture problem, 9th May :- [7545333](https://www.fixmystreet.com/report/7545333)
 - TMC - Defects - Other FW6  Surface problem, 9th May :- [7545331](https://www.fixmystreet.com/report/7545331)
 - TMC - Defects - Footways Slabs problem, 9th May :- [7545330](https://www.fixmystreet.com/report/7545330)
-- TMC - Defects - Footways Slabs problem, 9th May :- [7545329](https://www.fixmystreet.com/report/7545329)
-- TMC - Defects -CW6 Potholes  problem, 9th May :- [7545328](https://www.fixmystreet.com/report/7545328)
-- TMC - Defects -CW6 Potholes  problem, 9th May :- [7545326](https://www.fixmystreet.com/report/7545326)
-- TMC - Defects - Road Markings problem, 9th May :- [7545170](https://www.fixmystreet.com/report/7545170)
-- TMC - Defects -CW6 Potholes  problem, 9th May :- [7545169](https://www.fixmystreet.com/report/7545169)
 
 <!-- fix_marker ends -->
