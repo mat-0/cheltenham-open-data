@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Overgrown vegetation, 9th May :- [7543876](https://www.fixmystreet.com/report/7543876)
+- TMC - Defects -CW6 Potholes  problem, 9th May :- [7543919](https://www.fixmystreet.com/report/7543919)
+- TMC - Defects - Other FW6  Surface problem, 9th May :- [7543701](https://www.fixmystreet.com/report/7543701)
+- TMC - Defects - Other FW6  Surface problem, 9th May :- [7543700](https://www.fixmystreet.com/report/7543700)
+- TMC - Defects - Other FW6  Surface problem, 9th May :- [7543699](https://www.fixmystreet.com/report/7543699)
+- TMC - Defects - Other FW6  Surface problem, 9th May :- [7543698](https://www.fixmystreet.com/report/7543698)
 - TMC - Defects - Other FW6  Surface problem, 9th May :- [7543264](https://www.fixmystreet.com/report/7543264)
 - TMC - Defects - Other FW6  Surface problem, 9th May :- [7543265](https://www.fixmystreet.com/report/7543265)
 - A40 Golden Valley Eastbound Elmbridge Court roundabout to marker post 164/3, 9th May :- [7543217](https://www.fixmystreet.com/report/7543217)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - General road markings, lines and stud issues problem, 8th May :- [7540921](https://www.fixmystreet.com/report/7540921)
 - Tree vandalised, 8th May :- [7540880](https://www.fixmystreet.com/report/7540880)
 - Post or sign leaning slightly (less than 20 degrees) problem, 8th May :- [7540922](https://www.fixmystreet.com/report/7540922)
-- Broken and uneven pathway, 8th May :- [7540827](https://www.fixmystreet.com/report/7540827)
-- TMC - Defects - Signs & Street Furniture problem, 8th May :- [7540757](https://www.fixmystreet.com/report/7540757)
-- Trees and vegatation need cutting back, 8th May :- [7540674](https://www.fixmystreet.com/report/7540674)
-- Multiple deep potholes, 8th May :- [7540635](https://www.fixmystreet.com/report/7540635)
-- TMC - Defects -CW6 Potholes  problem, 8th May :- [7540595](https://www.fixmystreet.com/report/7540595)
-- 6 areas scrapped off pavement tarmac outside 8 hearne close, 8th May :- [7540542](https://www.fixmystreet.com/report/7540542)
 
 <!-- fix_marker ends -->
