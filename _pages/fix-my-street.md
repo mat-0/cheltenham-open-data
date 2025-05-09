@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Sinkhole forming, 9th May :- [7547026](https://www.fixmystreet.com/report/7547026)
+- Sinkhole forming, 9th May :- [7547025](https://www.fixmystreet.com/report/7547025)
 - Multiple potholes, 9th May :- [7547022](https://www.fixmystreet.com/report/7547022)
 - Large potholes, 9th May :- [7547016](https://www.fixmystreet.com/report/7547016)
 - Multiple potholes, 9th May :- [7547006](https://www.fixmystreet.com/report/7547006)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Overhanging trees low branches in Kayte Lane, 9th May :- [7545529](https://www.fixmystreet.com/report/7545529)
 - TMC - Defects - Other problem, 9th May :- [7545657](https://www.fixmystreet.com/report/7545657)
 - TMC - Defects -FW6 Potholes problem, 9th May :- [7545507](https://www.fixmystreet.com/report/7545507)
-- TMC - Defects - Road Markings problem, 9th May :- [7545504](https://www.fixmystreet.com/report/7545504)
-- TMC - Defects - Road Markings problem, 9th May :- [7545503](https://www.fixmystreet.com/report/7545503)
 
 <!-- fix_marker ends -->
