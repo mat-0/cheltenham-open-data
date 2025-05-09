@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Friday, 09 May 2025
 
-- The average temperature today is 11.88˚C,
-- With highs of 13.07˚C and lows of 10.93˚C,
-- It may feel like 10.9˚C with scattered clouds
-- The wind speed is 2.24m/s and visibility is 10000m
-- The pressure is 1022hPa and humidity is 68%
+- The average temperature today is 14.58˚C,
+- With highs of 15.54˚C and lows of 13.71˚C,
+- It may feel like 13.66˚C with scattered clouds
+- The wind speed is 1.34m/s and visibility is 10000m
+- The pressure is 1021hPa and humidity is 60%
 - The sun will rise at 04:24 and set at 19:45
 
 <!-- weather_marker ends -->
