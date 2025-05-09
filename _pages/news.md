@@ -13,12 +13,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
 - MP calls for fairer funding for county schools ([9 hours ago](https://www.bbc.com/news/articles/c14kz050y3ro))
-- Controlled explosion takes place in Chedworth ([11 hours ago](https://gloucesternewscentre.co.uk/controlled-explosion-takes-place-in-chedworth/))
-- Bomb squad explode dynamite found at farm ([11 hours ago](https://www.bbc.com/news/articles/c0k34gzdmxko))
-- Project that helped teens transform their lives axed ([12 hours ago](https://www.bbc.com/news/articles/ckg1gmmn82zo))
-- Headlines: West Country falls silent for VE Day ([15 hours ago](https://www.bbc.com/news/articles/c3083nv58z7o))
-- Bereaved mother 'drained' by campaign to change law ([16 hours ago](https://www.bbc.com/news/articles/c99p985r1xgo))
-- Cheltenham Feel Good card launched to boost health and fitness ([18 hours ago](https://www.cheltenham.gov.uk/news/article/3007/cheltenham_feel_good_card_launched_to_boost_health_and_fitness))
+- Controlled explosion takes place in Chedworth ([12 hours ago](https://gloucesternewscentre.co.uk/controlled-explosion-takes-place-in-chedworth/))
+- Bomb squad explode dynamite found at farm ([12 hours ago](https://www.bbc.com/news/articles/c0k34gzdmxko))
+- Project that helped teens transform their lives axed ([13 hours ago](https://www.bbc.com/news/articles/ckg1gmmn82zo))
+- Headlines: West Country falls silent for VE Day ([16 hours ago](https://www.bbc.com/news/articles/c3083nv58z7o))
+- Bereaved mother 'drained' by campaign to change law ([17 hours ago](https://www.bbc.com/news/articles/c99p985r1xgo))
+- Cheltenham Feel Good card launched to boost health and fitness ([19 hours ago](https://www.cheltenham.gov.uk/news/article/3007/cheltenham_feel_good_card_launched_to_boost_health_and_fitness))
 - Road closure like 'lockdown part two', say traders ([21 hours ago](https://www.bbc.com/news/articles/c3r8r3yrjgjo))
 - Thousands raised for memorial after geese killed ([21 hours ago](https://www.bbc.com/news/articles/cn80d0k231yo))
 - Badminton Horse Trials: Putting on the show ([21 hours ago](https://www.bbc.com/news/articles/c1lm3e424dqo))
