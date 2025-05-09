@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Multiple potholes, 9th May :- [7547022](https://www.fixmystreet.com/report/7547022)
+- Large potholes, 9th May :- [7547016](https://www.fixmystreet.com/report/7547016)
+- Multiple potholes, 9th May :- [7547006](https://www.fixmystreet.com/report/7547006)
+- Large potholes on hall rd, 9th May :- [7547002](https://www.fixmystreet.com/report/7547002)
+- Several derp potholes on tryes rd, 9th May :- [7546999](https://www.fixmystreet.com/report/7546999)
 - Fly tipping, 9th May :- [7546244](https://www.fixmystreet.com/report/7546244)
 - Car drove over signage, 9th May :- [7546068](https://www.fixmystreet.com/report/7546068)
 - TMC - Defects -other CW6 problem, 9th May :- [7545838](https://www.fixmystreet.com/report/7545838)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -FW6 Potholes problem, 9th May :- [7545507](https://www.fixmystreet.com/report/7545507)
 - TMC - Defects - Road Markings problem, 9th May :- [7545504](https://www.fixmystreet.com/report/7545504)
 - TMC - Defects - Road Markings problem, 9th May :- [7545503](https://www.fixmystreet.com/report/7545503)
-- TMC - Defects - Road Markings problem, 9th May :- [7545502](https://www.fixmystreet.com/report/7545502)
-- TMC - Defects -FW6 Potholes problem, 9th May :- [7545501](https://www.fixmystreet.com/report/7545501)
-- TMC - Defects -FW6 Potholes problem, 9th May :- [7545500](https://www.fixmystreet.com/report/7545500)
-- Tree is damaged problem, 9th May :- [7545496](https://www.fixmystreet.com/report/7545496)
-- TMC - Defects - Signs & Street Furniture problem, 9th May :- [7545333](https://www.fixmystreet.com/report/7545333)
 
 <!-- fix_marker ends -->
