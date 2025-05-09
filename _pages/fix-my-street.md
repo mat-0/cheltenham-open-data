@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fly tipping, 9th May :- [7546244](https://www.fixmystreet.com/report/7546244)
+- Car drove over signage, 9th May :- [7546068](https://www.fixmystreet.com/report/7546068)
 - TMC - Defects -other CW6 problem, 9th May :- [7545838](https://www.fixmystreet.com/report/7545838)
 - TMC - Defects -other CW6 problem, 9th May :- [7545837](https://www.fixmystreet.com/report/7545837)
 - TMC - Defects -other CW6 problem, 9th May :- [7545835](https://www.fixmystreet.com/report/7545835)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -FW6 Potholes problem, 9th May :- [7545500](https://www.fixmystreet.com/report/7545500)
 - Tree is damaged problem, 9th May :- [7545496](https://www.fixmystreet.com/report/7545496)
 - TMC - Defects - Signs & Street Furniture problem, 9th May :- [7545333](https://www.fixmystreet.com/report/7545333)
-- TMC - Defects - Other FW6  Surface problem, 9th May :- [7545331](https://www.fixmystreet.com/report/7545331)
-- TMC - Defects - Footways Slabs problem, 9th May :- [7545330](https://www.fixmystreet.com/report/7545330)
 
 <!-- fix_marker ends -->
