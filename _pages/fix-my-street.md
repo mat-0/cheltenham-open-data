@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 2 large trees overgrowing, 10th May :- [7549985](https://www.fixmystreet.com/report/7549985)
 - Ash trees with die back. Look dangerous, 10th May :- [7549691](https://www.fixmystreet.com/report/7549691)
 - Pittville Play Area - Roundabout has seized/frozen, 10th May :- [7549566](https://www.fixmystreet.com/report/7549566)
 - Pothole to the left hand side of the road about 1 foot away from the curb, 10th May :- [7549276](https://www.fixmystreet.com/report/7549276)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Sinkhole forming, 9th May :- [7547026](https://www.fixmystreet.com/report/7547026)
 - Sinkhole forming, 9th May :- [7547025](https://www.fixmystreet.com/report/7547025)
 - Multiple potholes, 9th May :- [7547022](https://www.fixmystreet.com/report/7547022)
-- Large potholes, 9th May :- [7547016](https://www.fixmystreet.com/report/7547016)
 
 <!-- fix_marker ends -->
