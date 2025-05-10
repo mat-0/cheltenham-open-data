@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Lack of speed limit signs, 10th May :- [7548718](https://www.fixmystreet.com/report/7548718)
 - This tree (probably dead) is gradually leaning lower and lower across the Cotswold Way. I recently had a report of a walker cutting their head on it., 10th May :- [7548680](https://www.fixmystreet.com/report/7548680)
 - Flytipped items, 10th May :- [7548579](https://www.fixmystreet.com/report/7548579)
 - Flytipped items, 10th May :- [7548576](https://www.fixmystreet.com/report/7548576)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Several derp potholes on tryes rd, 9th May :- [7546999](https://www.fixmystreet.com/report/7546999)
 - Fly tipping, 9th May :- [7546244](https://www.fixmystreet.com/report/7546244)
 - Car drove over signage, 9th May :- [7546068](https://www.fixmystreet.com/report/7546068)
-- TMC - Defects -other CW6 problem, 9th May :- [7545838](https://www.fixmystreet.com/report/7545838)
 
 <!-- fix_marker ends -->
