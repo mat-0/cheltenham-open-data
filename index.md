@@ -10,12 +10,12 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Saturday, 10 May 2025
 
-- The average temperature today is 12.12˚C,
-- With highs of 12.12˚C and lows of 12.12˚C,
-- It may feel like 11.08˚C with scattered clouds
-- The wind speed is 2.89m/s and visibility is 10000m
-- The pressure is 1015hPa and humidity is 65%
-- The sun will rise at 04:22 and set at 19:46
+- The average temperature today is 11.36˚C,
+- With highs of 11.36˚C and lows of 11.36˚C,
+- It may feel like 10.33˚C with scattered clouds
+- The wind speed is 3.04m/s and visibility is 10000m
+- The pressure is 1015hPa and humidity is 68%
+- The sun will rise at 04:21 and set at 19:48
 
 <!-- weather_marker ends -->
 
