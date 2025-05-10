@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- This tree (probably dead) is gradually leaning lower and lower across the Cotswold Way. I recently had a report of a walker cutting their head on it., 10th May :- [7548680](https://www.fixmystreet.com/report/7548680)
+- Flytipped items, 10th May :- [7548579](https://www.fixmystreet.com/report/7548579)
+- Flytipped items, 10th May :- [7548576](https://www.fixmystreet.com/report/7548576)
 - Flytipped Items, 10th May :- [7548432](https://www.fixmystreet.com/report/7548432)
 - Flytipped Items, 10th May :- [7548411](https://www.fixmystreet.com/report/7548411)
 - Mass Flytipping, 10th May :- [7548324](https://www.fixmystreet.com/report/7548324)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Fly tipping, 9th May :- [7546244](https://www.fixmystreet.com/report/7546244)
 - Car drove over signage, 9th May :- [7546068](https://www.fixmystreet.com/report/7546068)
 - TMC - Defects -other CW6 problem, 9th May :- [7545838](https://www.fixmystreet.com/report/7545838)
-- TMC - Defects -other CW6 problem, 9th May :- [7545837](https://www.fixmystreet.com/report/7545837)
-- TMC - Defects -other CW6 problem, 9th May :- [7545835](https://www.fixmystreet.com/report/7545835)
-- Unable to access PROW, blocked by fencing., 9th May :- [7545753](https://www.fixmystreet.com/report/7545753)
 
 <!-- fix_marker ends -->
