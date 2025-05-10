@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Wait button is stuck on, 10th May :- [7550363](https://www.fixmystreet.com/report/7550363)
 - The curb under the railings outside 79–87 Ryeworth Road is broken or missing., 10th May :- [7550283](https://www.fixmystreet.com/report/7550283)
 - 2 large trees overgrowing, 10th May :- [7549985](https://www.fixmystreet.com/report/7549985)
 - Ash trees with die back. Look dangerous, 10th May :- [7549691](https://www.fixmystreet.com/report/7549691)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Flytipped items, 10th May :- [7548267](https://www.fixmystreet.com/report/7548267)
 - Tree in the back garden of 41 Coriander Drive, 10th May :- [7548017](https://www.fixmystreet.com/report/7548017)
 - Sinkhole forming, 9th May :- [7547026](https://www.fixmystreet.com/report/7547026)
-- Sinkhole forming, 9th May :- [7547025](https://www.fixmystreet.com/report/7547025)
 
 <!-- fix_marker ends -->
