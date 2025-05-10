@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pittville Play Area - Roundabout has seized/frozen, 10th May :- [7549566](https://www.fixmystreet.com/report/7549566)
+- Pothole to the left hand side of the road about 1 foot away from the curb, 10th May :- [7549276](https://www.fixmystreet.com/report/7549276)
 - Elmbridge Court Junction Needs Repainting, 10th May :- [7549200](https://www.fixmystreet.com/report/7549200)
 - Obstruction on footway, 10th May :- [7549091](https://www.fixmystreet.com/report/7549091)
 - Lack of speed limit signs, 10th May :- [7548718](https://www.fixmystreet.com/report/7548718)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Multiple potholes, 9th May :- [7547022](https://www.fixmystreet.com/report/7547022)
 - Large potholes, 9th May :- [7547016](https://www.fixmystreet.com/report/7547016)
 - Multiple potholes, 9th May :- [7547006](https://www.fixmystreet.com/report/7547006)
-- Large potholes on hall rd, 9th May :- [7547002](https://www.fixmystreet.com/report/7547002)
-- Several derp potholes on tryes rd, 9th May :- [7546999](https://www.fixmystreet.com/report/7546999)
 
 <!-- fix_marker ends -->
