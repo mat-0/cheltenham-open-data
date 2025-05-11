@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Search for vulnerable missing boy wearing only swim shorts ([1 hours ago](https://www.bbc.com/news/articles/ced20dq64yno))
-- Hospital trials virtual reality breaks for patients ([4 hours ago](https://www.bbc.com/news/articles/c98py6k423xo))
-- Jobs could be lost amid plans for NHS mergers ([9 hours ago](https://www.bbc.com/news/articles/cq54e3ned40o))
-- Photographer documents British coastline in photos ([12 hours ago](https://www.bbc.com/news/articles/cewdlqzxello))
-- Headlines: VE Day commemorations and play-off hopes ([12 hours ago](https://www.bbc.com/news/articles/c8070x0r38jo))
+- Search for vulnerable missing boy wearing only swim shorts ([2 hours ago](https://www.bbc.com/news/articles/ced20dq64yno))
+- Hospital trials virtual reality breaks for patients ([5 hours ago](https://www.bbc.com/news/articles/c98py6k423xo))
+- Jobs could be lost amid plans for NHS mergers ([10 hours ago](https://www.bbc.com/news/articles/cq54e3ned40o))
+- Photographer documents British coastline in photos ([13 hours ago](https://www.bbc.com/news/articles/cewdlqzxello))
+- Headlines: VE Day commemorations and play-off hopes ([13 hours ago](https://www.bbc.com/news/articles/c8070x0r38jo))
 - Thousands celebrate Polish food and culture ([1 days ago](https://www.bbc.com/news/articles/c861904v5ego))
 - Forest to get first extension in more than 200 years ([1 days ago](https://www.bbc.com/news/articles/cx2w2d1ww0yo))
 - Gloucestershire in pics: Jazz fever in Cheltenham ([1 days ago](https://www.bbc.com/news/articles/cql23676qlgo))
