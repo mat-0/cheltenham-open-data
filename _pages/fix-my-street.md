@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Bollard in pedestrian refuge island has been damaged, 11th May :- [7552307](https://www.fixmystreet.com/report/7552307)
 - Gate broken, footpath blocked & sign missing, 11th May :- [7550655](https://www.fixmystreet.com/report/7550655)
 - Wait button is stuck on, 10th May :- [7550363](https://www.fixmystreet.com/report/7550363)
 - The curb under the railings outside 79–87 Ryeworth Road is broken or missing., 10th May :- [7550283](https://www.fixmystreet.com/report/7550283)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Pothole, 10th May :- [7548308](https://www.fixmystreet.com/report/7548308)
 - Flytipped Item, 10th May :- [7548297](https://www.fixmystreet.com/report/7548297)
 - Flytipped items, 10th May :- [7548267](https://www.fixmystreet.com/report/7548267)
-- Tree in the back garden of 41 Coriander Drive, 10th May :- [7548017](https://www.fixmystreet.com/report/7548017)
 
 <!-- fix_marker ends -->
