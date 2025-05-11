@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Thousands celebrate Polish food and culture ([8 hours ago](https://www.bbc.com/news/articles/c861904v5ego))
-- Forest to get first extension in more than 200 years ([16 hours ago](https://www.bbc.com/news/articles/cx2w2d1ww0yo))
+- Thousands celebrate Polish food and culture ([9 hours ago](https://www.bbc.com/news/articles/c861904v5ego))
+- Forest to get first extension in more than 200 years ([17 hours ago](https://www.bbc.com/news/articles/cx2w2d1ww0yo))
 - Gloucestershire in pics: Jazz fever in Cheltenham ([20 hours ago](https://www.bbc.com/news/articles/cql23676qlgo))
-- Warning to train passengers ahead of rugby match ([20 hours ago](https://www.bbc.com/news/articles/cde2e6kx43xo))
+- Warning to train passengers ahead of rugby match ([21 hours ago](https://www.bbc.com/news/articles/cde2e6kx43xo))
 - 'We need to stand united' amid India-Pakistan conflict ([1 days ago](https://www.bbc.com/news/articles/cx202gvxgj7o))
 - Drug-driver jailed after 120mph police chase ([1 days ago](https://www.bbc.com/news/articles/c8jgl2gdj3jo))
 - Mother’s death and spike in stillbirths prompts investigations ([1 days ago](https://gloucesternewscentre.co.uk/mothers-death-and-spike-in-stillbirths-prompts-investigations/))
