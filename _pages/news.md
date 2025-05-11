@@ -12,10 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Photographer documents British coastline in photos ([2 hours ago](https://www.bbc.com/news/articles/cewdlqzxello))
-- Headlines: VE Day commemorations and play-off hopes ([2 hours ago](https://www.bbc.com/news/articles/c8070x0r38jo))
-- Thousands celebrate Polish food and culture ([15 hours ago](https://www.bbc.com/news/articles/c861904v5ego))
-- Forest to get first extension in more than 200 years ([22 hours ago](https://www.bbc.com/news/articles/cx2w2d1ww0yo))
+- Jobs could be lost amid plans for NHS mergers ([4 minutes ago](https://www.bbc.com/news/articles/cq54e3ned40o))
+- Photographer documents British coastline in photos ([3 hours ago](https://www.bbc.com/news/articles/cewdlqzxello))
+- Headlines: VE Day commemorations and play-off hopes ([3 hours ago](https://www.bbc.com/news/articles/c8070x0r38jo))
+- Thousands celebrate Polish food and culture ([16 hours ago](https://www.bbc.com/news/articles/c861904v5ego))
+- Forest to get first extension in more than 200 years ([23 hours ago](https://www.bbc.com/news/articles/cx2w2d1ww0yo))
 - Gloucestershire in pics: Jazz fever in Cheltenham ([1 days ago](https://www.bbc.com/news/articles/cql23676qlgo))
 - Warning to train passengers ahead of rugby match ([1 days ago](https://www.bbc.com/news/articles/cde2e6kx43xo))
 - 'We need to stand united' amid India-Pakistan conflict ([1 days ago](https://www.bbc.com/news/articles/cx202gvxgj7o))
@@ -30,8 +31,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - MP calls for fairer funding for county schools ([2 days ago](https://www.bbc.com/news/articles/c14kz050y3ro))
 - Controlled explosion takes place in Chedworth ([2 days ago](https://gloucesternewscentre.co.uk/controlled-explosion-takes-place-in-chedworth/))
 - Bomb squad explode dynamite found at farm ([2 days ago](https://www.bbc.com/news/articles/c0k34gzdmxko))
-- Project that helped teens transform their lives axed ([2 days ago](https://www.bbc.com/news/articles/ckg1gmmn82zo))
-- Bereaved mother 'drained' by campaign to change law ([2 days ago](https://www.bbc.com/news/articles/c99p985r1xgo))
+- Bereaved mother 'drained' by campaign to change law ([3 days ago](https://www.bbc.com/news/articles/c99p985r1xgo))
 - Cheltenham Feel Good card launched to boost health and fitness ([3 days ago](https://www.cheltenham.gov.uk/news/article/3007/cheltenham_feel_good_card_launched_to_boost_health_and_fitness))
 - Council wants your views on domestic abuse ([3 days ago](https://gloucesternewscentre.co.uk/council-wants-your-views-on-domestic-abuse/))
 - Community projects awarded funding to improve health and wellbeing ([4 days ago](https://www.cheltenham.gov.uk/news/article/3006/community_projects_awarded_funding_to_improve_health_and_wellbeing))
@@ -57,7 +57,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Dozens form human chain in Cheltenham calling for right to preaceful protest ([16 days ago](https://gloucesternewscentre.co.uk/dozens-form-human-chain-in-cheltenham-calling-for-right-to-preaceful-protest/))
 - Eurovision Grand Final to be screened live at Gloucestershire theatre ([17 days ago](https://gloucesternewscentre.co.uk/eurovision-grand-final-to-be-screened-live-at-gloucestershire-theatre/))
 - Cheltenham Borough Council invites community input on new trees strategy ([18 days ago](https://www.cheltenham.gov.uk/news/article/3005/cheltenham_borough_council_invites_community_input_on_new_trees_strategy))
-- Media statement about the Citrus Hotel ([22 days ago](https://www.cheltenham.gov.uk/news/article/3004/media_statement_about_the_citrus_hotel))
+- Media statement about the Citrus Hotel ([23 days ago](https://www.cheltenham.gov.uk/news/article/3004/media_statement_about_the_citrus_hotel))
 - Six-week consultation now live for Leckhampton with Warden Hill neighbourhood plan ([26 days ago](https://www.cheltenham.gov.uk/news/article/3003/six-week_consultation_now_live_for_leckhampton_with_warden_hill_neighbourhood_plan))
 
 <!-- news_marker ends -->
