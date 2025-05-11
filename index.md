@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Sunday, 11 May 2025
 
-- The average temperature today is 16.64˚C,
-- With highs of 16.64˚C and lows of 15.93˚C,
-- It may feel like 16.27˚C with overcast clouds
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1008hPa and humidity is 73%
+- The average temperature today is 15.75˚C,
+- With highs of 16.08˚C and lows of 14.26˚C,
+- It may feel like 15.39˚C with overcast clouds
+- The wind speed is 0.45m/s and visibility is 10000m
+- The pressure is 1008hPa and humidity is 77%
 - The sun will rise at 04:21 and set at 19:48
 
 <!-- weather_marker ends -->
