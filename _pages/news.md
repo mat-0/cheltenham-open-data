@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Jobs could be lost amid plans for NHS mergers ([1 hours ago](https://www.bbc.com/news/articles/cq54e3ned40o))
-- Photographer documents British coastline in photos ([4 hours ago](https://www.bbc.com/news/articles/cewdlqzxello))
-- Headlines: VE Day commemorations and play-off hopes ([4 hours ago](https://www.bbc.com/news/articles/c8070x0r38jo))
-- Thousands celebrate Polish food and culture ([17 hours ago](https://www.bbc.com/news/articles/c861904v5ego))
+- Jobs could be lost amid plans for NHS mergers ([2 hours ago](https://www.bbc.com/news/articles/cq54e3ned40o))
+- Photographer documents British coastline in photos ([5 hours ago](https://www.bbc.com/news/articles/cewdlqzxello))
+- Headlines: VE Day commemorations and play-off hopes ([5 hours ago](https://www.bbc.com/news/articles/c8070x0r38jo))
+- Thousands celebrate Polish food and culture ([18 hours ago](https://www.bbc.com/news/articles/c861904v5ego))
 - Forest to get first extension in more than 200 years ([1 days ago](https://www.bbc.com/news/articles/cx2w2d1ww0yo))
 - Gloucestershire in pics: Jazz fever in Cheltenham ([1 days ago](https://www.bbc.com/news/articles/cql23676qlgo))
 - Warning to train passengers ahead of rugby match ([1 days ago](https://www.bbc.com/news/articles/cde2e6kx43xo))
