@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large pot hole in cul de sac, 11th May :- [7552973](https://www.fixmystreet.com/report/7552973)
+- Pothole adjacent to white lines at junction., 11th May :- [7552944](https://www.fixmystreet.com/report/7552944)
+- Overhanging tree branches. Resident worried about safety in high winds eg a bough breaks., 11th May :- [7552925](https://www.fixmystreet.com/report/7552925)
 - Bollard in pedestrian refuge island has been damaged, 11th May :- [7552307](https://www.fixmystreet.com/report/7552307)
 - Gate broken, footpath blocked & sign missing, 11th May :- [7550655](https://www.fixmystreet.com/report/7550655)
 - Wait button is stuck on, 10th May :- [7550363](https://www.fixmystreet.com/report/7550363)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Flytipped Items, 10th May :- [7548432](https://www.fixmystreet.com/report/7548432)
 - Flytipped Items, 10th May :- [7548411](https://www.fixmystreet.com/report/7548411)
 - Mass Flytipping, 10th May :- [7548324](https://www.fixmystreet.com/report/7548324)
-- Pothole, 10th May :- [7548308](https://www.fixmystreet.com/report/7548308)
-- Flytipped Item, 10th May :- [7548297](https://www.fixmystreet.com/report/7548297)
-- Flytipped items, 10th May :- [7548267](https://www.fixmystreet.com/report/7548267)
 
 <!-- fix_marker ends -->
