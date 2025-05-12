@@ -9,6 +9,15 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Trees over grown passing over boundaries. Sap on cars, 12th May :- [7554684](https://www.fixmystreet.com/report/7554684)
+- Grass verge has been removed and heavily planted,, 12th May :- [7554436](https://www.fixmystreet.com/report/7554436)
+- TMC - Defects - Covers, Gratings & Frames problem, 12th May :- [7554326](https://www.fixmystreet.com/report/7554326)
+- TMC - Defects -CW6 Potholes  problem, 12th May :- [7554321](https://www.fixmystreet.com/report/7554321)
+- TMC - Defects - Kerbs and Channels problem, 12th May :- [7554322](https://www.fixmystreet.com/report/7554322)
+- TMC - Defects - Other FW6  Surface problem, 12th May :- [7554323](https://www.fixmystreet.com/report/7554323)
+- TMC - Defects - Other FW6  Surface problem, 12th May :- [7554325](https://www.fixmystreet.com/report/7554325)
+- TMC - Defects - Road Markings problem, 12th May :- [7554319](https://www.fixmystreet.com/report/7554319)
+- TMC - Defects - Other FW6  Surface problem, 12th May :- [7554324](https://www.fixmystreet.com/report/7554324)
 - Dead badger in middle of lane, 12th May :- [7553999](https://www.fixmystreet.com/report/7553999)
 - TMC - Defects - Road Markings problem, 12th May :- [7553889](https://www.fixmystreet.com/report/7553889)
 - Very poor visibility to the right due to verge overgrown., 12th May :- [7553513](https://www.fixmystreet.com/report/7553513)
@@ -20,14 +29,5 @@ permalink: /fix-my-street
 - Gate broken, footpath blocked & sign missing, 11th May :- [7550655](https://www.fixmystreet.com/report/7550655)
 - Wait button is stuck on, 10th May :- [7550363](https://www.fixmystreet.com/report/7550363)
 - The curb under the railings outside 79–87 Ryeworth Road is broken or missing., 10th May :- [7550283](https://www.fixmystreet.com/report/7550283)
-- 2 large trees overgrowing, 10th May :- [7549985](https://www.fixmystreet.com/report/7549985)
-- Ash trees with die back. Look dangerous, 10th May :- [7549691](https://www.fixmystreet.com/report/7549691)
-- Pittville Play Area - Roundabout has seized/frozen, 10th May :- [7549566](https://www.fixmystreet.com/report/7549566)
-- Pothole to the left hand side of the road about 1 foot away from the curb, 10th May :- [7549276](https://www.fixmystreet.com/report/7549276)
-- Elmbridge Court Junction Needs Repainting, 10th May :- [7549200](https://www.fixmystreet.com/report/7549200)
-- Obstruction on footway, 10th May :- [7549091](https://www.fixmystreet.com/report/7549091)
-- Lack of speed limit signs, 10th May :- [7548718](https://www.fixmystreet.com/report/7548718)
-- This tree (probably dead) is gradually leaning lower and lower across the Cotswold Way. I recently had a report of a walker cutting their head on it., 10th May :- [7548680](https://www.fixmystreet.com/report/7548680)
-- Flytipped items, 10th May :- [7548579](https://www.fixmystreet.com/report/7548579)
 
 <!-- fix_marker ends -->
