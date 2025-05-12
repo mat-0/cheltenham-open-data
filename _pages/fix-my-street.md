@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Overgrown pavement, 12th May :- [7559436](https://www.fixmystreet.com/report/7559436)
 - Trees need cutting back as obscure signs give way and roundabout, 12th May :- [7559304](https://www.fixmystreet.com/report/7559304)
 - Multiple potholes across junction and continue down the road, 12th May :- [7559226](https://www.fixmystreet.com/report/7559226)
 - Tagging on street art, 12th May :- [7559049](https://www.fixmystreet.com/report/7559049)
@@ -24,10 +25,9 @@ permalink: /fix-my-street
 - Post or sign leaning slightly (less than 20 degrees) problem, 12th May :- [7556846](https://www.fixmystreet.com/report/7556846)
 - TMC - Defects - Road Markings problem, 12th May :- [7556850](https://www.fixmystreet.com/report/7556850)
 - Broken/subsided paving slabs, 12th May :- [7556408](https://www.fixmystreet.com/report/7556408)
-- TMC - Defects -other CW6 problem, 12th May :- [7556585](https://www.fixmystreet.com/report/7556585)
 - TMC - Defects -CW6 Potholes  problem, 12th May :- [7556591](https://www.fixmystreet.com/report/7556591)
-- TMC - Defects -CW6 Potholes  problem, 12th May :- [7556589](https://www.fixmystreet.com/report/7556589)
-- TMC - Defects -CW6 Potholes  problem, 12th May :- [7556590](https://www.fixmystreet.com/report/7556590)
+- TMC - Defects -other CW6 problem, 12th May :- [7556586](https://www.fixmystreet.com/report/7556586)
 - TMC - Defects -other CW6 problem, 12th May :- [7556588](https://www.fixmystreet.com/report/7556588)
+- TMC - Defects -CW6 Potholes  problem, 12th May :- [7556589](https://www.fixmystreet.com/report/7556589)
 
 <!-- fix_marker ends -->
