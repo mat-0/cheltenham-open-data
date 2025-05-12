@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dead badger in middle of lane, 12th May :- [7553999](https://www.fixmystreet.com/report/7553999)
+- TMC - Defects - Road Markings problem, 12th May :- [7553889](https://www.fixmystreet.com/report/7553889)
 - Very poor visibility to the right due to verge overgrown., 12th May :- [7553513](https://www.fixmystreet.com/report/7553513)
 - Fly Tip of Corrugated Plastic Roofing / Soil Spoil/ wood, 11th May :- [7553257](https://www.fixmystreet.com/report/7553257)
 - Large pot hole in cul de sac, 11th May :- [7552973](https://www.fixmystreet.com/report/7552973)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Lack of speed limit signs, 10th May :- [7548718](https://www.fixmystreet.com/report/7548718)
 - This tree (probably dead) is gradually leaning lower and lower across the Cotswold Way. I recently had a report of a walker cutting their head on it., 10th May :- [7548680](https://www.fixmystreet.com/report/7548680)
 - Flytipped items, 10th May :- [7548579](https://www.fixmystreet.com/report/7548579)
-- Flytipped items, 10th May :- [7548576](https://www.fixmystreet.com/report/7548576)
-- Flytipped Items, 10th May :- [7548432](https://www.fixmystreet.com/report/7548432)
 
 <!-- fix_marker ends -->
