@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Gloucester hospital staff suffer thousands of attacks from patients ([21 minutes ago](https://gloucesternewscentre.co.uk/gloucester-hospital-staff-suffer-thousands-of-attacks-from-patients/))
-- Warning over disruption from railway work ([3 hours ago](https://www.bbc.com/news/articles/cy8n4d0kxjro))
-- Coming up in the West: What's happening this week? ([3 hours ago](https://www.bbc.com/news/articles/c0j7p401x7eo))
-- Search for vulnerable missing boy wearing only swim shorts ([15 hours ago](https://www.bbc.com/news/articles/ced20dq64yno))
-- Hospital trials virtual reality breaks for patients ([18 hours ago](https://www.bbc.com/news/articles/c98py6k423xo))
-- Jobs could be lost amid plans for NHS mergers ([23 hours ago](https://www.bbc.com/news/articles/cq54e3ned40o))
+- Gloucester hospital staff suffer thousands of attacks from patients ([1 hours ago](https://gloucesternewscentre.co.uk/gloucester-hospital-staff-suffer-thousands-of-attacks-from-patients/))
+- Warning over disruption from railway work ([4 hours ago](https://www.bbc.com/news/articles/cy8n4d0kxjro))
+- Coming up in the West: What's happening this week? ([4 hours ago](https://www.bbc.com/news/articles/c0j7p401x7eo))
+- Search for vulnerable missing boy wearing only swim shorts ([16 hours ago](https://www.bbc.com/news/articles/ced20dq64yno))
+- Hospital trials virtual reality breaks for patients ([19 hours ago](https://www.bbc.com/news/articles/c98py6k423xo))
+- Jobs could be lost amid plans for NHS mergers ([1 days ago](https://www.bbc.com/news/articles/cq54e3ned40o))
 - Photographer documents British coastline in photos ([1 days ago](https://www.bbc.com/news/articles/cewdlqzxello))
 - Headlines: VE Day commemorations and play-off hopes ([1 days ago](https://www.bbc.com/news/articles/c8070x0r38jo))
 - Thousands celebrate Polish food and culture ([1 days ago](https://www.bbc.com/news/articles/c861904v5ego))
@@ -57,7 +57,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Who is the new owner of Cheltenham landmark Municipal Offices? ([17 days ago](https://gloucesternewscentre.co.uk/who-is-the-new-owner-of-cheltenham-landmark-municipal-offices/))
 - Dozens form human chain in Cheltenham calling for right to preaceful protest ([17 days ago](https://gloucesternewscentre.co.uk/dozens-form-human-chain-in-cheltenham-calling-for-right-to-preaceful-protest/))
 - Cheltenham Borough Council invites community input on new trees strategy ([19 days ago](https://www.cheltenham.gov.uk/news/article/3005/cheltenham_borough_council_invites_community_input_on_new_trees_strategy))
-- Media statement about the Citrus Hotel ([23 days ago](https://www.cheltenham.gov.uk/news/article/3004/media_statement_about_the_citrus_hotel))
+- Media statement about the Citrus Hotel ([24 days ago](https://www.cheltenham.gov.uk/news/article/3004/media_statement_about_the_citrus_hotel))
 - Six-week consultation now live for Leckhampton with Warden Hill neighbourhood plan ([27 days ago](https://www.cheltenham.gov.uk/news/article/3003/six-week_consultation_now_live_for_leckhampton_with_warden_hill_neighbourhood_plan))
 
 <!-- news_marker ends -->

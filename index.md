@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Monday, 12 May 2025
 
-- The average temperature today is 17.62˚C,
-- With highs of 18.17˚C and lows of 16.58˚C,
-- It may feel like 17.4˚C with overcast clouds
-- The wind speed is 1.79m/s and visibility is 10000m
-- The pressure is 1010hPa and humidity is 75%
+- The average temperature today is 19.29˚C,
+- With highs of 19.84˚C and lows of 18.75˚C,
+- It may feel like 19.05˚C with scattered clouds
+- The wind speed is 4.02m/s and visibility is 10000m
+- The pressure is 1010hPa and humidity is 68%
 - The sun will rise at 04:19 and set at 19:50
 
 <!-- weather_marker ends -->

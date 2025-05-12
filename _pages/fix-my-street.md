@@ -9,14 +9,18 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Highway erosion & potholes, 12th May :- [7555278](https://www.fixmystreet.com/report/7555278)
+- TMC - Defects - Other FW6  Surface problem, 12th May :- [7555149](https://www.fixmystreet.com/report/7555149)
+- Pot holes, 12th May :- [7555028](https://www.fixmystreet.com/report/7555028)
+- TMC - Defects - Other FW6  Surface problem, 12th May :- [7555146](https://www.fixmystreet.com/report/7555146)
 - Trees over grown passing over boundaries. Sap on cars, 12th May :- [7554684](https://www.fixmystreet.com/report/7554684)
 - Grass verge has been removed and heavily planted,, 12th May :- [7554436](https://www.fixmystreet.com/report/7554436)
 - TMC - Defects - Covers, Gratings & Frames problem, 12th May :- [7554326](https://www.fixmystreet.com/report/7554326)
-- TMC - Defects -CW6 Potholes  problem, 12th May :- [7554321](https://www.fixmystreet.com/report/7554321)
+- TMC - Defects - Other FW6  Surface problem, 12th May :- [7554325](https://www.fixmystreet.com/report/7554325)
 - TMC - Defects - Kerbs and Channels problem, 12th May :- [7554322](https://www.fixmystreet.com/report/7554322)
 - TMC - Defects - Other FW6  Surface problem, 12th May :- [7554323](https://www.fixmystreet.com/report/7554323)
-- TMC - Defects - Other FW6  Surface problem, 12th May :- [7554325](https://www.fixmystreet.com/report/7554325)
 - TMC - Defects - Road Markings problem, 12th May :- [7554319](https://www.fixmystreet.com/report/7554319)
+- TMC - Defects -CW6 Potholes  problem, 12th May :- [7554321](https://www.fixmystreet.com/report/7554321)
 - TMC - Defects - Other FW6  Surface problem, 12th May :- [7554324](https://www.fixmystreet.com/report/7554324)
 - Dead badger in middle of lane, 12th May :- [7553999](https://www.fixmystreet.com/report/7553999)
 - TMC - Defects - Road Markings problem, 12th May :- [7553889](https://www.fixmystreet.com/report/7553889)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Large pot hole in cul de sac, 11th May :- [7552973](https://www.fixmystreet.com/report/7552973)
 - Pothole adjacent to white lines at junction., 11th May :- [7552944](https://www.fixmystreet.com/report/7552944)
 - Overhanging tree branches. Resident worried about safety in high winds eg a bough breaks., 11th May :- [7552925](https://www.fixmystreet.com/report/7552925)
-- Bollard in pedestrian refuge island has been damaged, 11th May :- [7552307](https://www.fixmystreet.com/report/7552307)
-- Gate broken, footpath blocked & sign missing, 11th May :- [7550655](https://www.fixmystreet.com/report/7550655)
-- Wait button is stuck on, 10th May :- [7550363](https://www.fixmystreet.com/report/7550363)
-- The curb under the railings outside 79–87 Ryeworth Road is broken or missing., 10th May :- [7550283](https://www.fixmystreet.com/report/7550283)
 
 <!-- fix_marker ends -->
