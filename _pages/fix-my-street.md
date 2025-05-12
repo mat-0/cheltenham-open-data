@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Very poor visibility to the right due to verge overgrown., 12th May :- [7553513](https://www.fixmystreet.com/report/7553513)
 - Fly Tip of Corrugated Plastic Roofing / Soil Spoil/ wood, 11th May :- [7553257](https://www.fixmystreet.com/report/7553257)
 - Large pot hole in cul de sac, 11th May :- [7552973](https://www.fixmystreet.com/report/7552973)
 - Pothole adjacent to white lines at junction., 11th May :- [7552944](https://www.fixmystreet.com/report/7552944)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Flytipped items, 10th May :- [7548579](https://www.fixmystreet.com/report/7548579)
 - Flytipped items, 10th May :- [7548576](https://www.fixmystreet.com/report/7548576)
 - Flytipped Items, 10th May :- [7548432](https://www.fixmystreet.com/report/7548432)
-- Flytipped Items, 10th May :- [7548411](https://www.fixmystreet.com/report/7548411)
 
 <!-- fix_marker ends -->
