@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Gloucester hospital staff suffer thousands of attacks from patients ([2 hours ago](https://gloucesternewscentre.co.uk/gloucester-hospital-staff-suffer-thousands-of-attacks-from-patients/))
-- Warning over disruption from railway work ([5 hours ago](https://www.bbc.com/news/articles/cy8n4d0kxjro))
-- Coming up in the West: What's happening this week? ([5 hours ago](https://www.bbc.com/news/articles/c0j7p401x7eo))
-- Search for vulnerable missing boy wearing only swim shorts ([17 hours ago](https://www.bbc.com/news/articles/ced20dq64yno))
-- Hospital trials virtual reality breaks for patients ([20 hours ago](https://www.bbc.com/news/articles/c98py6k423xo))
+- Gloucester hospital staff suffer thousands of attacks from patients ([3 hours ago](https://gloucesternewscentre.co.uk/gloucester-hospital-staff-suffer-thousands-of-attacks-from-patients/))
+- Warning over disruption from railway work ([6 hours ago](https://www.bbc.com/news/articles/cy8n4d0kxjro))
+- Coming up in the West: What's happening this week? ([6 hours ago](https://www.bbc.com/news/articles/c0j7p401x7eo))
+- Search for vulnerable missing boy wearing only swim shorts ([18 hours ago](https://www.bbc.com/news/articles/ced20dq64yno))
+- Hospital trials virtual reality breaks for patients ([21 hours ago](https://www.bbc.com/news/articles/c98py6k423xo))
 - Jobs could be lost amid plans for NHS mergers ([1 days ago](https://www.bbc.com/news/articles/cq54e3ned40o))
 - Photographer documents British coastline in photos ([1 days ago](https://www.bbc.com/news/articles/cewdlqzxello))
 - Headlines: VE Day commemorations and play-off hopes ([1 days ago](https://www.bbc.com/news/articles/c8070x0r38jo))
