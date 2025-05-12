@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Multiple (3) potholes in path of bus wheels. Property at 1 Orchard Road shakes as buses pass over them!, 12th May :- [7558589](https://www.fixmystreet.com/report/7558589)
 - Emergency access enquiry, 12th May :- [7558294](https://www.fixmystreet.com/report/7558294)
 - Storage containers and soil stockpile cordoned off taking up one lane of traffic and all footpath., 12th May :- [7558262](https://www.fixmystreet.com/report/7558262)
 - Raised access cover on raised pavement., 12th May :- [7558171](https://www.fixmystreet.com/report/7558171)
@@ -23,11 +24,10 @@ permalink: /fix-my-street
 - TMC - Defects -other CW6 problem, 12th May :- [7556588](https://www.fixmystreet.com/report/7556588)
 - TMC - Defects -other CW6 problem, 12th May :- [7556586](https://www.fixmystreet.com/report/7556586)
 - TMC - Defects -other CW6 problem, 12th May :- [7556585](https://www.fixmystreet.com/report/7556585)
-- TMC - Defects -CW6 Potholes  problem, 12th May :- [7556591](https://www.fixmystreet.com/report/7556591)
 - TMC - Defects -CW6 Potholes  problem, 12th May :- [7556589](https://www.fixmystreet.com/report/7556589)
 - TMC - Defects -CW6 Potholes  problem, 12th May :- [7556590](https://www.fixmystreet.com/report/7556590)
+- TMC - Defects -CW6 Potholes  problem, 12th May :- [7556591](https://www.fixmystreet.com/report/7556591)
 - No road markings, 12th May :- [7555818](https://www.fixmystreet.com/report/7555818)
 - TMC - Defects - Other FW6  Surface problem, 12th May :- [7555717](https://www.fixmystreet.com/report/7555717)
-- TMC - Defects - Other FW6  Surface problem, 12th May :- [7555718](https://www.fixmystreet.com/report/7555718)
 
 <!-- fix_marker ends -->
