@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree branch protruding into road, 12th May :- [7559626](https://www.fixmystreet.com/report/7559626)
 - Overgrown pavement, 12th May :- [7559436](https://www.fixmystreet.com/report/7559436)
 - Trees need cutting back as obscure signs give way and roundabout, 12th May :- [7559304](https://www.fixmystreet.com/report/7559304)
 - Multiple potholes across junction and continue down the road, 12th May :- [7559226](https://www.fixmystreet.com/report/7559226)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 12th May :- [7556591](https://www.fixmystreet.com/report/7556591)
 - TMC - Defects -other CW6 problem, 12th May :- [7556586](https://www.fixmystreet.com/report/7556586)
 - TMC - Defects -other CW6 problem, 12th May :- [7556588](https://www.fixmystreet.com/report/7556588)
-- TMC - Defects -CW6 Potholes  problem, 12th May :- [7556589](https://www.fixmystreet.com/report/7556589)
 
 <!-- fix_marker ends -->
