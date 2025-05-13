@@ -27,7 +27,7 @@ permalink: /fix-my-street
 - Post or sign leaning slightly (less than 20 degrees) problem, 12th May :- [7556846](https://www.fixmystreet.com/report/7556846)
 - TMC - Defects - Road Markings problem, 12th May :- [7556850](https://www.fixmystreet.com/report/7556850)
 - Broken/subsided paving slabs, 12th May :- [7556408](https://www.fixmystreet.com/report/7556408)
+- TMC - Defects -CW6 Potholes  problem, 12th May :- [7556590](https://www.fixmystreet.com/report/7556590)
 - TMC - Defects -other CW6 problem, 12th May :- [7556585](https://www.fixmystreet.com/report/7556585)
-- TMC - Defects -CW6 Potholes  problem, 12th May :- [7556591](https://www.fixmystreet.com/report/7556591)
 
 <!-- fix_marker ends -->
