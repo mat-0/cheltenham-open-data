@@ -22,12 +22,12 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 13th May :- [7564185](https://www.fixmystreet.com/report/7564185)
 - TMC - Defects -CW6 Potholes  problem, 13th May :- [7563985](https://www.fixmystreet.com/report/7563985)
 - TMC - Defects - Vegetation problem, 13th May :- [7563967](https://www.fixmystreet.com/report/7563967)
-- TMC - Defects -CW6 Potholes  problem, 13th May :- [7563963](https://www.fixmystreet.com/report/7563963)
 - TMC - Defects -CW6 Potholes  problem, 13th May :- [7563964](https://www.fixmystreet.com/report/7563964)
+- TMC - Defects -CW6 Potholes  problem, 13th May :- [7563963](https://www.fixmystreet.com/report/7563963)
 - TMC - Defects - Vegetation problem, 13th May :- [7563530](https://www.fixmystreet.com/report/7563530)
+- TMC - Defects -CW6 Potholes  problem, 13th May :- [7563515](https://www.fixmystreet.com/report/7563515)
 - TMC - Defects - Other FW6  Surface problem, 13th May :- [7563516](https://www.fixmystreet.com/report/7563516)
 - TMC - Defects -CW6 Potholes  problem, 13th May :- [7563512](https://www.fixmystreet.com/report/7563512)
 - TMC - Defects -CW6 Potholes  problem, 13th May :- [7563513](https://www.fixmystreet.com/report/7563513)
-- TMC - Defects -CW6 Potholes  problem, 13th May :- [7563515](https://www.fixmystreet.com/report/7563515)
 
 <!-- fix_marker ends -->
