@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Tuesday, 13 May 2025
 
-- The average temperature today is 18.57˚C,
-- With highs of 19.27˚C and lows of 17.75˚C,
-- It may feel like 18.13˚C with scattered clouds
-- The wind speed is 1.79m/s and visibility is 10000m
-- The pressure is 1018hPa and humidity is 63%
+- The average temperature today is 20.66˚C,
+- With highs of 21.58˚C and lows of 19.97˚C,
+- It may feel like 20.22˚C with few clouds
+- The wind speed is 3.58m/s and visibility is 10000m
+- The pressure is 1018hPa and humidity is 55%
 - The sun will rise at 04:17 and set at 19:51
 
 <!-- weather_marker ends -->
