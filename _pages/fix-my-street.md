@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Trip hazard due kerb damage. Failed repair., 13th May :- [7560706](https://www.fixmystreet.com/report/7560706)
+- Trees overgrown on both sides of the road and overhanging vehicles., 13th May :- [7560641](https://www.fixmystreet.com/report/7560641)
+- Post or sign leaning slightly (less than 20 degrees) problem, 13th May :- [7560674](https://www.fixmystreet.com/report/7560674)
 - Drains blocked at pedestrian and cycle crossing, 12th May :- [7559957](https://www.fixmystreet.com/report/7559957)
 - Tree branch protruding into road, 12th May :- [7559626](https://www.fixmystreet.com/report/7559626)
 - Overgrown pavement, 12th May :- [7559436](https://www.fixmystreet.com/report/7559436)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other problem, 12th May :- [7557330](https://www.fixmystreet.com/report/7557330)
 - Post or sign leaning slightly (less than 20 degrees) problem, 12th May :- [7556846](https://www.fixmystreet.com/report/7556846)
 - TMC - Defects - Road Markings problem, 12th May :- [7556850](https://www.fixmystreet.com/report/7556850)
-- Broken/subsided paving slabs, 12th May :- [7556408](https://www.fixmystreet.com/report/7556408)
-- TMC - Defects -CW6 Potholes  problem, 12th May :- [7556590](https://www.fixmystreet.com/report/7556590)
-- TMC - Defects -other CW6 problem, 12th May :- [7556585](https://www.fixmystreet.com/report/7556585)
 
 <!-- fix_marker ends -->
