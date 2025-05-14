@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- I have been re directed to you from the Trees officer, Ellison Road has 5 rather large trees for the size of the street and was wandering if someone can take a look at them and maybe take some height and branches down, one is actually causing their driveway to lift , block light and falling leaves block the drain was, 14th May :- [7570036](https://www.fixmystreet.com/report/7570036)
 - Tree growth obstructing footpath, 14th May :- [7569742](https://www.fixmystreet.com/report/7569742)
 - Overgrown tree obstructing footpath, 14th May :- [7569727](https://www.fixmystreet.com/report/7569727)
 - Reporting unavoidable pot holes on a40 as road goes into dual carriageway, 14th May :- [7569722](https://www.fixmystreet.com/report/7569722)
@@ -18,16 +19,15 @@ permalink: /fix-my-street
 - Blocking 60% sunlight, 14th May :- [7569354](https://www.fixmystreet.com/report/7569354)
 - Other damage to pavement i.e. cobbles, raised mound/surface problem, 14th May :- [7569384](https://www.fixmystreet.com/report/7569384)
 - Faded 'Keep Clear' road markings, 14th May :- [7569026](https://www.fixmystreet.com/report/7569026)
-- TMC - Defects - Footways Slabs problem, 14th May :- [7568900](https://www.fixmystreet.com/report/7568900)
-- TMC - Defects - Footways Slabs problem, 14th May :- [7568902](https://www.fixmystreet.com/report/7568902)
 - TMC - Defects - Footways Slabs problem, 14th May :- [7568898](https://www.fixmystreet.com/report/7568898)
-- TMC - Defects - Footways Slabs problem, 14th May :- [7568901](https://www.fixmystreet.com/report/7568901)
 - TMC - Defects - Footways Slabs problem, 14th May :- [7568899](https://www.fixmystreet.com/report/7568899)
+- TMC - Defects - Footways Slabs problem, 14th May :- [7568902](https://www.fixmystreet.com/report/7568902)
+- TMC - Defects - Footways Slabs problem, 14th May :- [7568900](https://www.fixmystreet.com/report/7568900)
+- TMC - Defects - Footways Slabs problem, 14th May :- [7568901](https://www.fixmystreet.com/report/7568901)
 - Flytipping, 14th May :- [7568622](https://www.fixmystreet.com/report/7568622)
 - TMC - Defects -CW6 Potholes  problem, 14th May :- [7568542](https://www.fixmystreet.com/report/7568542)
 - TMC - Defects -CW6 Potholes  problem, 14th May :- [7568541](https://www.fixmystreet.com/report/7568541)
 - TMC - Defects -CW6 Potholes  problem, 14th May :- [7568540](https://www.fixmystreet.com/report/7568540)
 - TMC - Defects -CW6 Potholes  problem, 14th May :- [7568539](https://www.fixmystreet.com/report/7568539)
-- TMC - Defects -CW6 Potholes  problem, 14th May :- [7568538](https://www.fixmystreet.com/report/7568538)
 
 <!-- fix_marker ends -->
