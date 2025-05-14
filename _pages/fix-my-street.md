@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole filled this week not levelled/ flush with pavement leaving a trip hazard, 14th May :- [7570486](https://www.fixmystreet.com/report/7570486)
 - I have been re directed to you from the Trees officer, Ellison Road has 5 rather large trees for the size of the street and was wandering if someone can take a look at them and maybe take some height and branches down, one is actually causing their driveway to lift , block light and falling leaves block the drain was, 14th May :- [7570036](https://www.fixmystreet.com/report/7570036)
 - Tree growth obstructing footpath, 14th May :- [7569742](https://www.fixmystreet.com/report/7569742)
 - Overgrown tree obstructing footpath, 14th May :- [7569727](https://www.fixmystreet.com/report/7569727)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 14th May :- [7568542](https://www.fixmystreet.com/report/7568542)
 - TMC - Defects -CW6 Potholes  problem, 14th May :- [7568541](https://www.fixmystreet.com/report/7568541)
 - TMC - Defects -CW6 Potholes  problem, 14th May :- [7568540](https://www.fixmystreet.com/report/7568540)
-- TMC - Defects -CW6 Potholes  problem, 14th May :- [7568539](https://www.fixmystreet.com/report/7568539)
 
 <!-- fix_marker ends -->
