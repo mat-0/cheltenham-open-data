@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Wednesday, 14 May 2025
 
-- The average temperature today is 15.93˚C,
-- With highs of 15.93˚C and lows of 15.93˚C,
-- It may feel like 15.56˚C with overcast clouds
-- The wind speed is 4.63m/s and visibility is 10000m
-- The pressure is 1023hPa and humidity is 76%
+- The average temperature today is 14.59˚C,
+- With highs of 14.59˚C and lows of 14.59˚C,
+- It may feel like 14.06˚C with overcast clouds
+- The wind speed is 3.94m/s and visibility is 10000m
+- The pressure is 1023hPa and humidity is 75%
 - The sun will rise at 04:16 and set at 19:53
 
 <!-- weather_marker ends -->
