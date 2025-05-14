@@ -9,11 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
-- TMC - Defects - Footways Slabs problem, 14th May :- [7568899](https://www.fixmystreet.com/report/7568899)
-- TMC - Defects - Footways Slabs problem, 14th May :- [7568900](https://www.fixmystreet.com/report/7568900)
+- Faded 'Keep Clear' road markings, 14th May :- [7569026](https://www.fixmystreet.com/report/7569026)
 - TMC - Defects - Footways Slabs problem, 14th May :- [7568898](https://www.fixmystreet.com/report/7568898)
-- TMC - Defects - Footways Slabs problem, 14th May :- [7568902](https://www.fixmystreet.com/report/7568902)
+- TMC - Defects - Footways Slabs problem, 14th May :- [7568900](https://www.fixmystreet.com/report/7568900)
+- TMC - Defects - Footways Slabs problem, 14th May :- [7568899](https://www.fixmystreet.com/report/7568899)
 - TMC - Defects - Footways Slabs problem, 14th May :- [7568901](https://www.fixmystreet.com/report/7568901)
+- TMC - Defects - Footways Slabs problem, 14th May :- [7568902](https://www.fixmystreet.com/report/7568902)
 - Flytipping, 14th May :- [7568622](https://www.fixmystreet.com/report/7568622)
 - TMC - Defects -CW6 Potholes  problem, 14th May :- [7568542](https://www.fixmystreet.com/report/7568542)
 - TMC - Defects -CW6 Potholes  problem, 14th May :- [7568541](https://www.fixmystreet.com/report/7568541)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -other CW10 problem, 14th May :- [7568532](https://www.fixmystreet.com/report/7568532)
 - TMC - Defects - Other problem, 14th May :- [7568531](https://www.fixmystreet.com/report/7568531)
 - TMC - Defects -CW6 Potholes  problem, 14th May :- [7568519](https://www.fixmystreet.com/report/7568519)
-- TMC - Defects - Signs & Street Furniture problem, 14th May :- [7568517](https://www.fixmystreet.com/report/7568517)
 
 <!-- fix_marker ends -->
