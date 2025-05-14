@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Gender pay gap of £6 per hour at hospitals ([10 hours ago](https://www.bbc.com/news/articles/c201nmk4jz6o))
-- Traders hit by road closure want help  to pay bills ([13 hours ago](https://www.bbc.com/news/articles/c0lngp091kgo))
-- Does your parish council reflect your local area? ([15 hours ago](https://www.cheltenham.gov.uk/news/article/3009/does_your_parish_council_reflect_your_local_area))
-- Headlines: Bristol City exit and cat on 'pilgrimage' ([16 hours ago](https://www.bbc.com/news/articles/c62v340ll5po))
-- Cheltenham Mayor’s inauguration and medal of honour ([16 hours ago](https://www.cheltenham.gov.uk/news/article/3008/cheltenham_mayors_inauguration_and_medal_of_honour))
+- Gender pay gap of £6 per hour at hospitals ([11 hours ago](https://www.bbc.com/news/articles/c201nmk4jz6o))
+- Traders hit by road closure want help  to pay bills ([14 hours ago](https://www.bbc.com/news/articles/c0lngp091kgo))
+- Does your parish council reflect your local area? ([16 hours ago](https://www.cheltenham.gov.uk/news/article/3009/does_your_parish_council_reflect_your_local_area))
+- Headlines: Bristol City exit and cat on 'pilgrimage' ([17 hours ago](https://www.bbc.com/news/articles/c62v340ll5po))
+- Cheltenham Mayor’s inauguration and medal of honour ([17 hours ago](https://www.cheltenham.gov.uk/news/article/3008/cheltenham_mayors_inauguration_and_medal_of_honour))
 - Residents call for speeding crackdown in villages ([17 hours ago](https://www.bbc.com/news/articles/cvg9x4v3k7jo))
 - Managing Parkinson's – with pickleball and boxing ([22 hours ago](https://www.bbc.com/news/articles/ckg7vk5gmr3o))
 - Forensic spray helping women to 'feel safer' ([22 hours ago](https://www.bbc.com/news/articles/cly392d3el1o))
