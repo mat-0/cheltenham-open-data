@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -13,6 +13,60 @@
 <language>en-gb</language>
 
 <item>
+<title>TMC - Defects - Road Markings problem, 14th May</title>
+<link>https://www.fixmystreet.com/report/7566454</link>
+<description>28 day with road closure needed best out of hours please refresh give way markings appropriately 8 meters (Faded Road Markings)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7566454&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Road Markings</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7566454</guid>
+<pubDate>Wed, 14 May 2025 07:55:35 +0100</pubDate>
+<georss:point>51.8984319707788 -2.07811636828638</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 14th May</title>
+<link>https://www.fixmystreet.com/report/7566449</link>
+<description>28 day with give an take plus temporary footway closure needed footway abrupt level difference 1800x100x20mm around bt cover &amp;#10;concrete fillet required    stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7566449&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7566449</guid>
+<pubDate>Wed, 14 May 2025 07:50:52 +0100</pubDate>
+<georss:point>51.8975561999995 -2.0779057</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 14th May</title>
+<link>https://www.fixmystreet.com/report/7566445</link>
+<description>28 day with give an take plus temporary footway closure needed footway abrupt level difference 1800x800x20mm tarmac patch required required  stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7566445&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7566445</guid>
+<pubDate>Wed, 14 May 2025 07:41:33 +0100</pubDate>
+<georss:point>51.8982607999996 -2.07426490000111</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 14th May</title>
+<link>https://www.fixmystreet.com/report/7566444</link>
+<description>28 day with give an take plus temporary footway closure needed footway abrupt level difference 600x400x20mm around gas valve required  stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7566444&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7566444</guid>
+<pubDate>Wed, 14 May 2025 07:41:26 +0100</pubDate>
+<georss:point>51.8982246518491 -2.07422281192277</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 14th May</title>
+<link>https://www.fixmystreet.com/report/7566443</link>
+<description>28 day with give an take plus temporary footway closure needed footway abrupt level difference 600x500x20mm around bt cover required  stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7566443&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7566443</guid>
+<pubDate>Wed, 14 May 2025 07:41:18 +0100</pubDate>
+<georss:point>51.8982384999995 -2.07421449999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 14th May</title>
+<link>https://www.fixmystreet.com/report/7566442</link>
+<description>28 day with give an take plus temporary footway closure needed footway abrupt level difference up to aco channel 1600x100x20mm concrete fillet required  stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7566442&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7566442</guid>
+<pubDate>Wed, 14 May 2025 07:30:43 +0100</pubDate>
+<georss:point>51.8977969090726 -2.0709851448363</georss:point>
+</item>
+<item>
 <title>TMC - Defects - Other FW6  Surface problem, 14th May</title>
 <link>https://www.fixmystreet.com/report/7566312</link>
 <description>28 day with give an take plus temporary footway closure needed footway abrupt level difference 900x100x25 mm concrete fillet  required  up to kerb line best out of hours  stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7566312&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
@@ -20,42 +74,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/7566312</guid>
 <pubDate>Wed, 14 May 2025 07:26:33 +0100</pubDate>
 <georss:point>51.8989362999995 -2.07114559999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 14th May</title>
-<link>https://www.fixmystreet.com/report/7566311</link>
-<description>28 day with road closure needed   no footway so footway criteria applied carriageway pothole 300x400x20mm tarmac patch required stats required best out of hours narrow road not suitable for large vehicles (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7566311&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7566311</guid>
-<pubDate>Wed, 14 May 2025 07:26:22 +0100</pubDate>
-<georss:point>51.8973366347815 -2.07083513401536</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 14th May</title>
-<link>https://www.fixmystreet.com/report/7566309</link>
-<description>28 day with road closure needed   no footway so footway criteria applied carriageway pothole 700x600x30mm tarmac patch required stats required best out of hours narrow road not suitable for large vehicles (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7566309&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7566309</guid>
-<pubDate>Wed, 14 May 2025 07:26:22 +0100</pubDate>
-<georss:point>51.8973278615255 -2.07088226055025</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 14th May</title>
-<link>https://www.fixmystreet.com/report/7566308</link>
-<description>28 day with road closure needed   no footway so footway criteria applied carriageway pothole 300x400x20mm tarmac patch required stats required best out of hours (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7566308&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7566308</guid>
-<pubDate>Wed, 14 May 2025 07:26:22 +0100</pubDate>
-<georss:point>51.8974361294658 -2.07072113757996</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 14th May</title>
-<link>https://www.fixmystreet.com/report/7566307</link>
-<description>28 day with road closure needed   no footway so footway criteria applied carriageway pothole 2000x200x20mm tarmac patch required stats required best out of hours (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7566307&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7566307</guid>
-<pubDate>Wed, 14 May 2025 07:26:22 +0100</pubDate>
-<georss:point>51.8973877999995 -2.07073980000001</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 14th May</title>
@@ -76,13 +94,40 @@
 <georss:point>51.8973098325325 -2.07106217647717</georss:point>
 </item>
 <item>
-<title>TMC - Defects - Other FW6  Surface problem, 14th May</title>
-<link>https://www.fixmystreet.com/report/7566305</link>
-<description>28 day with give an take plus 15 minutes delay boards needed temporary footway closure needed footway abrupt level difference 1600x300x30mm  tarmac patch required up to seller cover best out of hours  stats required  around cover (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7566305&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7566305</guid>
-<pubDate>Wed, 14 May 2025 07:26:09 +0100</pubDate>
-<georss:point>51.8976969999995 -2.0721565</georss:point>
+<title>TMC - Defects -CW6 Potholes  problem, 14th May</title>
+<link>https://www.fixmystreet.com/report/7566311</link>
+<description>28 day with road closure needed   no footway so footway criteria applied carriageway pothole 300x400x20mm tarmac patch required stats required best out of hours narrow road not suitable for large vehicles (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7566311&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7566311</guid>
+<pubDate>Wed, 14 May 2025 07:26:22 +0100</pubDate>
+<georss:point>51.8973366347815 -2.07083513401536</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 14th May</title>
+<link>https://www.fixmystreet.com/report/7566308</link>
+<description>28 day with road closure needed   no footway so footway criteria applied carriageway pothole 300x400x20mm tarmac patch required stats required best out of hours (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7566308&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7566308</guid>
+<pubDate>Wed, 14 May 2025 07:26:22 +0100</pubDate>
+<georss:point>51.8974361294658 -2.07072113757996</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 14th May</title>
+<link>https://www.fixmystreet.com/report/7566309</link>
+<description>28 day with road closure needed   no footway so footway criteria applied carriageway pothole 700x600x30mm tarmac patch required stats required best out of hours narrow road not suitable for large vehicles (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7566309&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7566309</guid>
+<pubDate>Wed, 14 May 2025 07:26:22 +0100</pubDate>
+<georss:point>51.8973278615255 -2.07088226055025</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 14th May</title>
+<link>https://www.fixmystreet.com/report/7566307</link>
+<description>28 day with road closure needed   no footway so footway criteria applied carriageway pothole 2000x200x20mm tarmac patch required stats required best out of hours (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7566307&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7566307</guid>
+<pubDate>Wed, 14 May 2025 07:26:22 +0100</pubDate>
+<georss:point>51.8973877999995 -2.07073980000001</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 14th May</title>
@@ -95,6 +140,15 @@
 </item>
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 14th May</title>
+<link>https://www.fixmystreet.com/report/7566305</link>
+<description>28 day with give an take plus 15 minutes delay boards needed temporary footway closure needed footway abrupt level difference 1600x300x30mm  tarmac patch required up to seller cover best out of hours  stats required  around cover (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7566305&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7566305</guid>
+<pubDate>Wed, 14 May 2025 07:26:09 +0100</pubDate>
+<georss:point>51.8976969999995 -2.0721565</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 14th May</title>
 <link>https://www.fixmystreet.com/report/7566179</link>
 <description>28 day with give an take plus temporary footway closure needed footway abrupt level difference 1000x300x30mm concrete fillet  required best out of hours  stats required  around cover (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7566179&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Other FW6  Surface</category>
@@ -104,21 +158,21 @@
 </item>
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 14th May</title>
-<link>https://www.fixmystreet.com/report/7566177</link>
-<description>28 day with give an take plus temporary footway closure needed footway abrupt level difference 1700x600x30mm tarmac patch required best out of hours  stats required narrow road not suitable for vehicles (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7566177&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7566177</guid>
-<pubDate>Wed, 14 May 2025 06:41:34 +0100</pubDate>
-<georss:point>51.9009659312407 -2.07464046986054</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 14th May</title>
 <link>https://www.fixmystreet.com/report/7566178</link>
 <description>28 day with give an take plus temporary footway closure needed footway abrupt level difference 300x600x30mm concrete fillet  required best out of hours  stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7566178&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Other FW6  Surface</category>
 <guid isPermaLink="false">https://www.fixmystreet.com/report/7566178</guid>
 <pubDate>Wed, 14 May 2025 06:41:34 +0100</pubDate>
 <georss:point>51.9009912999996 -2.0746712</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 14th May</title>
+<link>https://www.fixmystreet.com/report/7566177</link>
+<description>28 day with give an take plus temporary footway closure needed footway abrupt level difference 1700x600x30mm tarmac patch required best out of hours  stats required narrow road not suitable for vehicles (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7566177&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7566177</guid>
+<pubDate>Wed, 14 May 2025 06:41:34 +0100</pubDate>
+<georss:point>51.9009659312407 -2.07464046986054</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Vegetation problem, 14th May</title>
@@ -131,66 +185,12 @@
 </item>
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 14th May</title>
-<link>https://www.fixmystreet.com/report/7566098</link>
-<description>28 day with give an take plus temporary footway closure needed footway abrupt level difference 400x400x20mm tarmac patch required best out of hours  stats required narrow road not suitable for vehicles (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7566098&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7566098</guid>
-<pubDate>Wed, 14 May 2025 06:24:50 +0100</pubDate>
-<georss:point>51.9013282640772 -2.08016193117124</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 14th May</title>
 <link>https://www.fixmystreet.com/report/7566096</link>
 <description>28 day with give an take plus temporary footway closure needed footway abrupt level difference 1000x400x20mm tarmac patch required best out of hours number 4 stats required narrow road not suitable for vehicles (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7566096&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Other FW6  Surface</category>
 <guid isPermaLink="false">https://www.fixmystreet.com/report/7566096</guid>
 <pubDate>Wed, 14 May 2025 06:24:50 +0100</pubDate>
 <georss:point>51.9006830652702 -2.08053793584688</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 14th May</title>
-<link>https://www.fixmystreet.com/report/7566095</link>
-<description>28 day with give an take plus temporary footway closure needed footway abrupt level difference 1000x300x20mm tarmac patch required best out of hours number 3 stats required narrow road not suitable for vehicles (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7566095&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7566095</guid>
-<pubDate>Wed, 14 May 2025 06:24:50 +0100</pubDate>
-<georss:point>51.90065237767 -2.08056118330513</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 14th May</title>
-<link>https://www.fixmystreet.com/report/7566094</link>
-<description>28 day with give an take plus temporary footway closure needed footway abrupt level difference 300x300x20mm tarmac patch required best out of hours number 2 stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7566094&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7566094</guid>
-<pubDate>Wed, 14 May 2025 06:24:50 +0100</pubDate>
-<georss:point>51.9006094981489 -2.08057103931209</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 14th May</title>
-<link>https://www.fixmystreet.com/report/7566093</link>
-<description>28 day with give an take plus temporary footway closure needed footway abrupt level difference 300x300x20mm tarmac patch required best out of hours number 1 stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7566093&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7566093</guid>
-<pubDate>Wed, 14 May 2025 06:24:50 +0100</pubDate>
-<georss:point>51.9005746999995 -2.08058130000001</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 14th May</title>
-<link>https://www.fixmystreet.com/report/7566092</link>
-<description>28 day with give an take plus temporary footway closure needed best out of hours please lift and replace x1  sunken 450x450x20mm slab and replace with tarmac patch due to uneven footway around fire hydrant cover stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7566092&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7566092</guid>
-<pubDate>Wed, 14 May 2025 06:10:23 +0100</pubDate>
-<georss:point>51.9005489999995 -2.0804443</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Footways Slabs problem, 14th May</title>
-<link>https://www.fixmystreet.com/report/7566091</link>
-<description>28 day with give an take plus temporary footway closure needed best out of hours please lift and relay x1 rocking raised 450x450x20mm slab (FW Rocking/Unstable Slab)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7566091&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Footways Slabs</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7566091</guid>
-<pubDate>Wed, 14 May 2025 06:06:06 +0100</pubDate>
-<georss:point>51.8994471765019 -2.07974466829206</georss:point>
 </item>
 </channel>
 </rss>
