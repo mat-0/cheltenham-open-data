@@ -9,6 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree is damaged problem, 14th May :- [7567457](https://www.fixmystreet.com/report/7567457)
+- TMC - Defects - Other FW6  Surface problem, 14th May :- [7567467](https://www.fixmystreet.com/report/7567467)
+- TMC - Defects -other CW6 problem, 14th May :- [7567464](https://www.fixmystreet.com/report/7567464)
+- TMC - Defects - Other FW6  Surface problem, 14th May :- [7567463](https://www.fixmystreet.com/report/7567463)
+- TMC - Defects - Other FW6  Surface problem, 14th May :- [7567462](https://www.fixmystreet.com/report/7567462)
+- TMC - Defects - Other FW6  Surface problem, 14th May :- [7567278](https://www.fixmystreet.com/report/7567278)
+- TMC - Defects - Other FW6  Surface problem, 14th May :- [7567271](https://www.fixmystreet.com/report/7567271)
 - TMC - Defects -other CW6 problem, 14th May :- [7567049](https://www.fixmystreet.com/report/7567049)
 - TMC - Defects -other CW6 problem, 14th May :- [7567053](https://www.fixmystreet.com/report/7567053)
 - TMC - Defects -FW6 Potholes problem, 14th May :- [7567050](https://www.fixmystreet.com/report/7567050)
@@ -22,12 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Road Markings problem, 14th May :- [7566454](https://www.fixmystreet.com/report/7566454)
 - TMC - Defects - Other FW6  Surface problem, 14th May :- [7566449](https://www.fixmystreet.com/report/7566449)
 - TMC - Defects - Other FW6  Surface problem, 14th May :- [7566445](https://www.fixmystreet.com/report/7566445)
-- TMC - Defects - Other FW6  Surface problem, 14th May :- [7566444](https://www.fixmystreet.com/report/7566444)
-- TMC - Defects - Other FW6  Surface problem, 14th May :- [7566443](https://www.fixmystreet.com/report/7566443)
-- TMC - Defects - Other FW6  Surface problem, 14th May :- [7566442](https://www.fixmystreet.com/report/7566442)
-- TMC - Defects - Other FW6  Surface problem, 14th May :- [7566312](https://www.fixmystreet.com/report/7566312)
-- TMC - Defects -CW6 Potholes  problem, 14th May :- [7566310](https://www.fixmystreet.com/report/7566310)
-- TMC - Defects -CW6 Potholes  problem, 14th May :- [7566311](https://www.fixmystreet.com/report/7566311)
-- TMC - Defects -CW6 Potholes  problem, 14th May :- [7566309](https://www.fixmystreet.com/report/7566309)
 
 <!-- fix_marker ends -->
