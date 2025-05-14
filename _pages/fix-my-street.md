@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Kerbs and Channels problem, 14th May :- [7567905](https://www.fixmystreet.com/report/7567905)
+- TMC - Defects - Other FW6  Surface problem, 14th May :- [7567695](https://www.fixmystreet.com/report/7567695)
 - Tree is damaged problem, 14th May :- [7567457](https://www.fixmystreet.com/report/7567457)
 - TMC - Defects - Other FW6  Surface problem, 14th May :- [7567467](https://www.fixmystreet.com/report/7567467)
 - TMC - Defects -other CW6 problem, 14th May :- [7567464](https://www.fixmystreet.com/report/7567464)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Road Markings problem, 14th May :- [7566828](https://www.fixmystreet.com/report/7566828)
 - TMC - Defects - Kerbs and Channels problem, 14th May :- [7566827](https://www.fixmystreet.com/report/7566827)
 - TMC - Defects - Road Markings problem, 14th May :- [7566454](https://www.fixmystreet.com/report/7566454)
-- TMC - Defects - Other FW6  Surface problem, 14th May :- [7566449](https://www.fixmystreet.com/report/7566449)
-- TMC - Defects - Other FW6  Surface problem, 14th May :- [7566445](https://www.fixmystreet.com/report/7566445)
 
 <!-- fix_marker ends -->
