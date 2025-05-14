@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree root bump on pavement - trip hazard., 14th May :- [7569452](https://www.fixmystreet.com/report/7569452)
+- Blocking 60% sunlight, 14th May :- [7569354](https://www.fixmystreet.com/report/7569354)
+- Other damage to pavement i.e. cobbles, raised mound/surface problem, 14th May :- [7569384](https://www.fixmystreet.com/report/7569384)
 - Faded 'Keep Clear' road markings, 14th May :- [7569026](https://www.fixmystreet.com/report/7569026)
 - TMC - Defects - Footways Slabs problem, 14th May :- [7568898](https://www.fixmystreet.com/report/7568898)
 - TMC - Defects - Footways Slabs problem, 14th May :- [7568900](https://www.fixmystreet.com/report/7568900)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 14th May :- [7568535](https://www.fixmystreet.com/report/7568535)
 - TMC - Defects - Other FW6  Surface problem, 14th May :- [7568534](https://www.fixmystreet.com/report/7568534)
 - Tree is damaged problem, 14th May :- [7568515](https://www.fixmystreet.com/report/7568515)
-- TMC - Defects -other CW10 problem, 14th May :- [7568532](https://www.fixmystreet.com/report/7568532)
-- TMC - Defects - Other problem, 14th May :- [7568531](https://www.fixmystreet.com/report/7568531)
-- TMC - Defects -CW6 Potholes  problem, 14th May :- [7568519](https://www.fixmystreet.com/report/7568519)
 
 <!-- fix_marker ends -->
