@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The road has started to subside on the road towards bishops cleeve, 15th May :- [7571506](https://www.fixmystreet.com/report/7571506)
 - Sunken and damaged pavement on Norwich Drive nr junction with Oxford Way, 14th May :- [7571229](https://www.fixmystreet.com/report/7571229)
 - Vegetation needs cutting as blocking the footpath, 14th May :- [7570760](https://www.fixmystreet.com/report/7570760)
 - Overgrown vegetation on the cycle path along the side of burrows field, 14th May :- [7570743](https://www.fixmystreet.com/report/7570743)
@@ -23,11 +24,10 @@ permalink: /fix-my-street
 - Blocking 60% sunlight, 14th May :- [7569354](https://www.fixmystreet.com/report/7569354)
 - Other damage to pavement i.e. cobbles, raised mound/surface problem, 14th May :- [7569384](https://www.fixmystreet.com/report/7569384)
 - Faded 'Keep Clear' road markings, 14th May :- [7569026](https://www.fixmystreet.com/report/7569026)
-- TMC - Defects - Footways Slabs problem, 14th May :- [7568901](https://www.fixmystreet.com/report/7568901)
-- TMC - Defects - Footways Slabs problem, 14th May :- [7568899](https://www.fixmystreet.com/report/7568899)
-- TMC - Defects - Footways Slabs problem, 14th May :- [7568898](https://www.fixmystreet.com/report/7568898)
 - TMC - Defects - Footways Slabs problem, 14th May :- [7568902](https://www.fixmystreet.com/report/7568902)
+- TMC - Defects - Footways Slabs problem, 14th May :- [7568898](https://www.fixmystreet.com/report/7568898)
 - TMC - Defects - Footways Slabs problem, 14th May :- [7568900](https://www.fixmystreet.com/report/7568900)
-- Flytipping, 14th May :- [7568622](https://www.fixmystreet.com/report/7568622)
+- TMC - Defects - Footways Slabs problem, 14th May :- [7568899](https://www.fixmystreet.com/report/7568899)
+- TMC - Defects - Footways Slabs problem, 14th May :- [7568901](https://www.fixmystreet.com/report/7568901)
 
 <!-- fix_marker ends -->
