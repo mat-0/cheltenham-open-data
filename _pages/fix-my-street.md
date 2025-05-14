@@ -9,6 +9,14 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Other FW6  Surface problem, 14th May :- [7566098](https://www.fixmystreet.com/report/7566098)
+- TMC - Defects - Other FW6  Surface problem, 14th May :- [7566094](https://www.fixmystreet.com/report/7566094)
+- TMC - Defects - Vegetation problem, 14th May :- [7566097](https://www.fixmystreet.com/report/7566097)
+- TMC - Defects - Other FW6  Surface problem, 14th May :- [7566096](https://www.fixmystreet.com/report/7566096)
+- TMC - Defects - Other FW6  Surface problem, 14th May :- [7566095](https://www.fixmystreet.com/report/7566095)
+- TMC - Defects - Other FW6  Surface problem, 14th May :- [7566093](https://www.fixmystreet.com/report/7566093)
+- TMC - Defects - Other FW6  Surface problem, 14th May :- [7566092](https://www.fixmystreet.com/report/7566092)
+- TMC - Defects - Footways Slabs problem, 14th May :- [7566091](https://www.fixmystreet.com/report/7566091)
 - There is a footpath (only) at this location. I use this path regularly. Bicycles and horses are using this footpath and two days ago I was lucky to not be killed by a bicycle coming down at great speed. cyclists and horses should not be using this path. They are spoiling this lovely walk., 13th May :- [7565458](https://www.fixmystreet.com/report/7565458)
 - Multiple potholes (long and wide), 13th May :- [7565299](https://www.fixmystreet.com/report/7565299)
 - Loads of pot holes, 13th May :- [7565188](https://www.fixmystreet.com/report/7565188)
@@ -21,13 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 13th May :- [7564190](https://www.fixmystreet.com/report/7564190)
 - TMC - Defects - Other FW6  Surface problem, 13th May :- [7564185](https://www.fixmystreet.com/report/7564185)
 - TMC - Defects -CW6 Potholes  problem, 13th May :- [7563985](https://www.fixmystreet.com/report/7563985)
-- TMC - Defects - Vegetation problem, 13th May :- [7563967](https://www.fixmystreet.com/report/7563967)
-- TMC - Defects -CW6 Potholes  problem, 13th May :- [7563964](https://www.fixmystreet.com/report/7563964)
-- TMC - Defects -CW6 Potholes  problem, 13th May :- [7563963](https://www.fixmystreet.com/report/7563963)
-- TMC - Defects - Vegetation problem, 13th May :- [7563530](https://www.fixmystreet.com/report/7563530)
-- TMC - Defects -CW6 Potholes  problem, 13th May :- [7563515](https://www.fixmystreet.com/report/7563515)
-- TMC - Defects - Other FW6  Surface problem, 13th May :- [7563516](https://www.fixmystreet.com/report/7563516)
-- TMC - Defects -CW6 Potholes  problem, 13th May :- [7563512](https://www.fixmystreet.com/report/7563512)
-- TMC - Defects -CW6 Potholes  problem, 13th May :- [7563513](https://www.fixmystreet.com/report/7563513)
 
 <!-- fix_marker ends -->
