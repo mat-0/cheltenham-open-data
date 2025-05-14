@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:georss="http://www.georss.org/georss"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
+ xmlns:georss="http://www.georss.org/georss"
 >
 
 <channel>
@@ -14,21 +14,111 @@
 
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 14th May</title>
-<link>https://www.fixmystreet.com/report/7566098</link>
-<description>28 day with give an take plus temporary footway closure needed footway abrupt level difference 400x400x20mm tarmac patch required best out of hours  stats required narrow road not suitable for vehicles (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7566098&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/7566312</link>
+<description>28 day with give an take plus temporary footway closure needed footway abrupt level difference 900x100x25 mm concrete fillet  required  up to kerb line best out of hours  stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7566312&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7566098</guid>
-<pubDate>Wed, 14 May 2025 06:24:50 +0100</pubDate>
-<georss:point>51.9013282640772 -2.08016193117124</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7566312</guid>
+<pubDate>Wed, 14 May 2025 07:26:33 +0100</pubDate>
+<georss:point>51.8989362999995 -2.07114559999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 14th May</title>
+<link>https://www.fixmystreet.com/report/7566311</link>
+<description>28 day with road closure needed   no footway so footway criteria applied carriageway pothole 300x400x20mm tarmac patch required stats required best out of hours narrow road not suitable for large vehicles (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7566311&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7566311</guid>
+<pubDate>Wed, 14 May 2025 07:26:22 +0100</pubDate>
+<georss:point>51.8973366347815 -2.07083513401536</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 14th May</title>
+<link>https://www.fixmystreet.com/report/7566309</link>
+<description>28 day with road closure needed   no footway so footway criteria applied carriageway pothole 700x600x30mm tarmac patch required stats required best out of hours narrow road not suitable for large vehicles (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7566309&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7566309</guid>
+<pubDate>Wed, 14 May 2025 07:26:22 +0100</pubDate>
+<georss:point>51.8973278615255 -2.07088226055025</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 14th May</title>
+<link>https://www.fixmystreet.com/report/7566308</link>
+<description>28 day with road closure needed   no footway so footway criteria applied carriageway pothole 300x400x20mm tarmac patch required stats required best out of hours (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7566308&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7566308</guid>
+<pubDate>Wed, 14 May 2025 07:26:22 +0100</pubDate>
+<georss:point>51.8974361294658 -2.07072113757996</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 14th May</title>
+<link>https://www.fixmystreet.com/report/7566307</link>
+<description>28 day with road closure needed   no footway so footway criteria applied carriageway pothole 2000x200x20mm tarmac patch required stats required best out of hours (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7566307&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7566307</guid>
+<pubDate>Wed, 14 May 2025 07:26:22 +0100</pubDate>
+<georss:point>51.8973877999995 -2.07073980000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 14th May</title>
+<link>https://www.fixmystreet.com/report/7566310</link>
+<description>28 day with road closure needed   no footway so footway criteria applied carriageway pothole 400x400x20mm tarmac patch required stats required best out of hours narrow road not suitable for large vehicles (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7566310&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7566310</guid>
+<pubDate>Wed, 14 May 2025 07:26:22 +0100</pubDate>
+<georss:point>51.8973219780046 -2.07085816768741</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 14th May</title>
+<link>https://www.fixmystreet.com/report/7566306</link>
+<description>28 day with road closure needed   no footway so footway criteria applied carriageway pothole 300x300x20mm tarmac patch required stats required best out of hours narrow road not suitable for large vehicles (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7566306&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7566306</guid>
+<pubDate>Wed, 14 May 2025 07:26:22 +0100</pubDate>
+<georss:point>51.8973098325325 -2.07106217647717</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 14th May</title>
-<link>https://www.fixmystreet.com/report/7566094</link>
-<description>28 day with give an take plus temporary footway closure needed footway abrupt level difference 300x300x20mm tarmac patch required best out of hours number 2 stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7566094&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/7566305</link>
+<description>28 day with give an take plus 15 minutes delay boards needed temporary footway closure needed footway abrupt level difference 1600x300x30mm  tarmac patch required up to seller cover best out of hours  stats required  around cover (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7566305&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7566094</guid>
-<pubDate>Wed, 14 May 2025 06:24:50 +0100</pubDate>
-<georss:point>51.9006094981489 -2.08057103931209</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7566305</guid>
+<pubDate>Wed, 14 May 2025 07:26:09 +0100</pubDate>
+<georss:point>51.8976969999995 -2.0721565</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 14th May</title>
+<link>https://www.fixmystreet.com/report/7566304</link>
+<description>28 day with road closure needed   no footway so footway criteria applied carriageway pothole 1000x300x22mm tarmac patch required stats required best out of hours narrow road not suitable for large vehicles (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7566304&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7566304</guid>
+<pubDate>Wed, 14 May 2025 07:26:09 +0100</pubDate>
+<georss:point>51.8974485999995 -2.0716544</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 14th May</title>
+<link>https://www.fixmystreet.com/report/7566179</link>
+<description>28 day with give an take plus temporary footway closure needed footway abrupt level difference 1000x300x30mm concrete fillet  required best out of hours  stats required  around cover (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7566179&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7566179</guid>
+<pubDate>Wed, 14 May 2025 06:56:54 +0100</pubDate>
+<georss:point>51.8995313999996 -2.0718093</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 14th May</title>
+<link>https://www.fixmystreet.com/report/7566177</link>
+<description>28 day with give an take plus temporary footway closure needed footway abrupt level difference 1700x600x30mm tarmac patch required best out of hours  stats required narrow road not suitable for vehicles (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7566177&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7566177</guid>
+<pubDate>Wed, 14 May 2025 06:41:34 +0100</pubDate>
+<georss:point>51.9009659312407 -2.07464046986054</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 14th May</title>
+<link>https://www.fixmystreet.com/report/7566178</link>
+<description>28 day with give an take plus temporary footway closure needed footway abrupt level difference 300x600x30mm concrete fillet  required best out of hours  stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7566178&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7566178</guid>
+<pubDate>Wed, 14 May 2025 06:41:34 +0100</pubDate>
+<georss:point>51.9009912999996 -2.0746712</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Vegetation problem, 14th May</title>
@@ -38,6 +128,15 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/7566097</guid>
 <pubDate>Wed, 14 May 2025 06:24:50 +0100</pubDate>
 <georss:point>51.9008720999996 -2.08043399999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 14th May</title>
+<link>https://www.fixmystreet.com/report/7566098</link>
+<description>28 day with give an take plus temporary footway closure needed footway abrupt level difference 400x400x20mm tarmac patch required best out of hours  stats required narrow road not suitable for vehicles (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7566098&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7566098</guid>
+<pubDate>Wed, 14 May 2025 06:24:50 +0100</pubDate>
+<georss:point>51.9013282640772 -2.08016193117124</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 14th May</title>
@@ -56,6 +155,15 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/7566095</guid>
 <pubDate>Wed, 14 May 2025 06:24:50 +0100</pubDate>
 <georss:point>51.90065237767 -2.08056118330513</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 14th May</title>
+<link>https://www.fixmystreet.com/report/7566094</link>
+<description>28 day with give an take plus temporary footway closure needed footway abrupt level difference 300x300x20mm tarmac patch required best out of hours number 2 stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7566094&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7566094</guid>
+<pubDate>Wed, 14 May 2025 06:24:50 +0100</pubDate>
+<georss:point>51.9006094981489 -2.08057103931209</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 14th May</title>
@@ -83,114 +191,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/7566091</guid>
 <pubDate>Wed, 14 May 2025 06:06:06 +0100</pubDate>
 <georss:point>51.8994471765019 -2.07974466829206</georss:point>
-</item>
-<item>
-<title>There is a footpath (only) at this location. I use this path regularly. Bicycles and horses are using this footpath and two days ago I was lucky to not be killed by a bicycle coming down at great speed. cyclists and horses should not be using this path. They are spoiling this lovely walk., 13th May</title>
-<link>https://www.fixmystreet.com/report/7565458</link>
-<description>The footpath starts at Dunkertons and goes up Capel Lane to Ravensgate Hill on the edge of Charlton Kings.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Capel Lane, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7565458&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Path/Way misused by unlawful users</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7565458</guid>
-<pubDate>Tue, 13 May 2025 19:59:17 +0100</pubDate>
-<georss:point>51.87308 -2.027227</georss:point>
-</item>
-<item>
-<title>Multiple potholes (long and wide), 13th May</title>
-<link>https://www.fixmystreet.com/report/7565299</link>
-<description>Multiple potholes on Bath Road between Kew Place and Thirlestaine Road. Pothole size (approximate) are: 8m x 10cm - this one is hazardous to bicycles, and stretches into the intersection. 2m x 40cm 1.2m x 20cm 80cm x 20cm 30cm x 10cm&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/7565299.0.jpeg?b87ea667&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Fairfield Parade, Naunton, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7565299&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7565299</guid>
-<pubDate>Tue, 13 May 2025 19:21:54 +0100</pubDate>
-<georss:point>51.890655 -2.077906</georss:point>
-</item>
-<item>
-<title>Loads of pot holes, 13th May</title>
-<link>https://www.fixmystreet.com/report/7565188</link>
-<description>From the end of Swallow crescent (near Innsworth community centre) from no 34 Rookery road. There are numerous pot holes. All around the corner and they continue around the bend by number 54/56 Rookery road. They’re getting bigger.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Rookery Road, Innsworth, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7565188&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7565188</guid>
-<pubDate>Tue, 13 May 2025 18:54:24 +0100</pubDate>
-<georss:point>51.885847 -2.209356</georss:point>
-</item>
-<item>
-<title>Light not working, 13th May</title>
-<link>https://www.fixmystreet.com/report/7565142</link>
-<description>Gamecock Close&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Typhoon Way, Upton St. Leonards, Stroud&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7565142&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Street light is permanently out</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7565142</guid>
-<pubDate>Tue, 13 May 2025 18:38:53 +0100</pubDate>
-<georss:point>51.84184 -2.18133</georss:point>
-</item>
-<item>
-<title>Pathway with over grown hedege ....still, 13th May</title>
-<link>https://www.fixmystreet.com/report/7565038</link>
-<description>Hi reporting again (1st reported last year) as the bush is growing... huge obstruction. Awful at school times, prams, children and adults having difficulties. It&amp;#39;s also on a corner by a busy road. Also you can&amp;#39;t see who is walking round the bush in the evenings. Sorry but how can they be allowed to do this on a public highway..&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/7565038.0.jpeg?7a718b1f&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 1, Caernarvon Road, Hatherley, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7565038&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Causing obstruction to pavement/road (Grass/verge)</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7565038</guid>
-<pubDate>Tue, 13 May 2025 18:15:08 +0100</pubDate>
-<georss:point>51.88701 -2.118542</georss:point>
-</item>
-<item>
-<title>There are numerous potholes on this stretch. Some are on the side and some in the rd., 13th May</title>
-<link>https://www.fixmystreet.com/report/7564935</link>
-<description>The worst of it is to the left of the golf course as you exit. Between there and the junction to the A436&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Ullenwood Manor Lane, Coberley, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7564935&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7564935</guid>
-<pubDate>Tue, 13 May 2025 17:51:43 +0100</pubDate>
-<georss:point>51.848191 -2.08035</georss:point>
-</item>
-<item>
-<title>Edging of road to grass verge had eroded . Road limited width have to drive near edge for safety, 13th May</title>
-<link>https://www.fixmystreet.com/report/7564740</link>
-<description>Approx 200 yards up from Court Farm shop - travelling tiwards Stone Orchard .&amp;#10;&amp;#10;I wish to make a claim for major puncture to front tyre, caused by this pothole / erosion&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/7564740.0.jpeg?797d066b&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Stoke Road, Bishop&#39;s Cleeve&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7564740&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7564740</guid>
-<pubDate>Tue, 13 May 2025 17:10:06 +0100</pubDate>
-<georss:point>51.949749 -2.094928</georss:point>
-</item>
-<item>
-<title>Crumbling pavement with loose chippings and muddy patches, 13th May</title>
-<link>https://www.fixmystreet.com/report/7564447</link>
-<description>The pavement on the corner of Green lane and Billbrook Road is in very poor condition. It&amp;#39;s crumbling and uneven with loose chippings, mud patches when wet and vegetation growing through. It&amp;#39;s been getter gradually worse over the last 5 years&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/7564447.0.jpeg?850ced49&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 21, Green Lane, Gloucester&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7564447&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Other damage to pavement i.e. cobbles, raised mound/surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7564447</guid>
-<pubDate>Tue, 13 May 2025 16:15:24 +0100</pubDate>
-<georss:point>51.852801 -2.185678</georss:point>
-</item>
-<item>
-<title>X2 orange armchairs fly tipped, 13th May</title>
-<link>https://www.fixmystreet.com/report/7564306</link>
-<description>Walk up the public footpath off Beeches Rs. Continue on straight up the hill, through 2 gates. You will then see a newly installed wooden handrail ahead. Continue up the hill and slightly to your left, you will see a big tree, looks like it&amp;#39;s dying. The armchairs are beneath the tree. Arson risk in drier hot weather. Evidence of fires next to armchairs.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Timbercombe Lane, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7564306&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Flytipping</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7564306</guid>
-<pubDate>Tue, 13 May 2025 15:53:40 +0100</pubDate>
-<georss:point>51.872621 -2.039799</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 13th May</title>
-<link>https://www.fixmystreet.com/report/7564190</link>
-<description>Pothole CW 1000mm  x 400mm  x 45mm &amp;#10;3 way stop and go TM&amp;#10;Near playing field entrance &amp;#10;15 min DB (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7564190&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7564190</guid>
-<pubDate>Tue, 13 May 2025 15:24:16 +0100</pubDate>
-<georss:point>51.9026219999996 -2.1108943</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 13th May</title>
-<link>https://www.fixmystreet.com/report/7564185</link>
-<description>Abrupt Level Difference FW 1200mm  x 600mm  x 25mm &amp;#10;Give and take TM &amp;#10;Outside 28&amp;#10;Ramp up over tree roots (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7564185&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7564185</guid>
-<pubDate>Tue, 13 May 2025 15:16:00 +0100</pubDate>
-<georss:point>51.9112379999995 -2.10565319999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 13th May</title>
-<link>https://www.fixmystreet.com/report/7563985</link>
-<description>28 day with give and take carriageway pothole 650x450x40mm tarmac patch required. (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7563985&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7563985</guid>
-<pubDate>Tue, 13 May 2025 14:58:42 +0100</pubDate>
-<georss:point>51.8728527999995 -2.2024542</georss:point>
 </item>
 </channel>
 </rss>
