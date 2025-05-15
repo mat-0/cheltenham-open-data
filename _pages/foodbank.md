@@ -10,8 +10,9 @@ permalink: /foodbank
 <!-- summary1_marker starts -->
 ## List of needed items in Cheltenham
 
-Last updated: 2025-05-09
+Last updated: 2025-05-14
 
+- Adult Toothpaste
 - Shampoo - Ladies And Men's
 - Long Life Milk
 - Instant Noodles / Microwave Rice
