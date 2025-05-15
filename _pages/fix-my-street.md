@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects -CW10 Potholes problem, 15th May :- [7573405](https://www.fixmystreet.com/report/7573405)
+- TMC - Defects - Other FW6  Surface problem, 15th May :- [7573406](https://www.fixmystreet.com/report/7573406)
+- TMC - Defects -CW10 Potholes problem, 15th May :- [7573404](https://www.fixmystreet.com/report/7573404)
+- Tree dropped a branch last night, 15th May :- [7573141](https://www.fixmystreet.com/report/7573141)
+- TMC - Defects - Covers, Gratings & Frames problem, 15th May :- [7573177](https://www.fixmystreet.com/report/7573177)
+- TMC - Defects - Kerbs and Channels problem, 15th May :- [7573171](https://www.fixmystreet.com/report/7573171)
 - TMC - Defects - Vegetation problem, 15th May :- [7572774](https://www.fixmystreet.com/report/7572774)
 - TMC - Defects - Signs & Street Furniture problem, 15th May :- [7572773](https://www.fixmystreet.com/report/7572773)
 - TMC - Defects - Other problem, 15th May :- [7572766](https://www.fixmystreet.com/report/7572766)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - I have been re directed to you from the Trees officer, Ellison Road has 5 rather large trees for the size of the street and was wandering if someone can take a look at them and maybe take some height and branches down, one is actually causing their driveway to lift , block light and falling leaves block the drain was, 14th May :- [7570036](https://www.fixmystreet.com/report/7570036)
 - Tree growth obstructing footpath, 14th May :- [7569742](https://www.fixmystreet.com/report/7569742)
 - Overgrown tree obstructing footpath, 14th May :- [7569727](https://www.fixmystreet.com/report/7569727)
-- Reporting unavoidable pot holes on a40 as road goes into dual carriageway, 14th May :- [7569722](https://www.fixmystreet.com/report/7569722)
-- Dog fouling, 14th May :- [7569634](https://www.fixmystreet.com/report/7569634)
-- Broken slab very loose. Noisy for residents and concerns it will effect the grate, 14th May :- [7569533](https://www.fixmystreet.com/report/7569533)
-- Tree root bump on pavement - trip hazard., 14th May :- [7569452](https://www.fixmystreet.com/report/7569452)
-- Blocking 60% sunlight, 14th May :- [7569354](https://www.fixmystreet.com/report/7569354)
-- Other damage to pavement i.e. cobbles, raised mound/surface problem, 14th May :- [7569384](https://www.fixmystreet.com/report/7569384)
 
 <!-- fix_marker ends -->
