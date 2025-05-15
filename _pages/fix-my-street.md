@@ -9,7 +9,17 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Other FW6  Surface problem, 15th May :- [7574418](https://www.fixmystreet.com/report/7574418)
+- Grass overgrown, 15th May :- [7574363](https://www.fixmystreet.com/report/7574363)
+- Tree is damaged problem, 15th May :- [7574194](https://www.fixmystreet.com/report/7574194)
+- TMC - Defects - Signs & Street Furniture problem, 15th May :- [7574006](https://www.fixmystreet.com/report/7574006)
+- TMC - Defects - Vegetation problem, 15th May :- [7574008](https://www.fixmystreet.com/report/7574008)
+- TMC - Defects - Signs & Street Furniture problem, 15th May :- [7574007](https://www.fixmystreet.com/report/7574007)
 - The cover has been damaged, once again, by the grass cutters, 15th May :- [7573880](https://www.fixmystreet.com/report/7573880)
+- TMC - Defects -CW6 Potholes  problem, 15th May :- [7574003](https://www.fixmystreet.com/report/7574003)
+- TMC - Defects -other CW6 problem, 15th May :- [7574000](https://www.fixmystreet.com/report/7574000)
+- TMC - Defects -CW6 Potholes  problem, 15th May :- [7573999](https://www.fixmystreet.com/report/7573999)
+- TMC - Defects -CW6 Potholes  problem, 15th May :- [7573998](https://www.fixmystreet.com/report/7573998)
 - TMC - Defects -other CW6 problem, 15th May :- [7573819](https://www.fixmystreet.com/report/7573819)
 - TMC - Defects -other CW6 problem, 15th May :- [7573818](https://www.fixmystreet.com/report/7573818)
 - TMC - Defects -other CW6 problem, 15th May :- [7573817](https://www.fixmystreet.com/report/7573817)
@@ -19,15 +29,5 @@ permalink: /fix-my-street
 - Pedestrian crossing button repeatedly switches off when waiting to cross, 15th May :- [7573692](https://www.fixmystreet.com/report/7573692)
 - TMC - Defects -CW6 Potholes  problem, 15th May :- [7573798](https://www.fixmystreet.com/report/7573798)
 - TMC - Defects -CW6 Potholes  problem, 15th May :- [7573796](https://www.fixmystreet.com/report/7573796)
-- TMC - Defects -CW6 Potholes  problem, 15th May :- [7573795](https://www.fixmystreet.com/report/7573795)
-- Water constantly running down Langley Road from Spring. Drainage is blocked which normally keeps the water off road., 15th May :- [7573663](https://www.fixmystreet.com/report/7573663)
-- TMC - Defects -CW6 Potholes  problem, 15th May :- [7573793](https://www.fixmystreet.com/report/7573793)
-- TMC - Defects - Fences & Barriers problem, 15th May :- [7573635](https://www.fixmystreet.com/report/7573635)
-- TMC - Defects - Other FW6  Surface problem, 15th May :- [7573406](https://www.fixmystreet.com/report/7573406)
-- TMC - Defects -CW10 Potholes problem, 15th May :- [7573404](https://www.fixmystreet.com/report/7573404)
-- TMC - Defects -CW10 Potholes problem, 15th May :- [7573405](https://www.fixmystreet.com/report/7573405)
-- Tree dropped a branch last night, 15th May :- [7573141](https://www.fixmystreet.com/report/7573141)
-- TMC - Defects - Covers, Gratings & Frames problem, 15th May :- [7573177](https://www.fixmystreet.com/report/7573177)
-- TMC - Defects - Kerbs and Channels problem, 15th May :- [7573171](https://www.fixmystreet.com/report/7573171)
 
 <!-- fix_marker ends -->
