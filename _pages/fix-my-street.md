@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Increasingly expanding pothole on Elmbridge Court Roundabout, 15th May :- [7576557](https://www.fixmystreet.com/report/7576557)
 - Weeds, 15th May :- [7576497](https://www.fixmystreet.com/report/7576497)
 - Several potholes on hall rd, 15th May :- [7576135](https://www.fixmystreet.com/report/7576135)
 - Moorend rd, outside tall trees house, 15th May :- [7576118](https://www.fixmystreet.com/report/7576118)
@@ -26,8 +27,7 @@ permalink: /fix-my-street
 - Grass overgrown, 15th May :- [7574363](https://www.fixmystreet.com/report/7574363)
 - Tree is damaged problem, 15th May :- [7574194](https://www.fixmystreet.com/report/7574194)
 - Grass cutting, 15th May :- [7574088](https://www.fixmystreet.com/report/7574088)
-- TMC - Defects - Vegetation problem, 15th May :- [7574008](https://www.fixmystreet.com/report/7574008)
 - TMC - Defects - Signs & Street Furniture problem, 15th May :- [7574006](https://www.fixmystreet.com/report/7574006)
-- TMC - Defects - Signs & Street Furniture problem, 15th May :- [7574007](https://www.fixmystreet.com/report/7574007)
+- TMC - Defects - Vegetation problem, 15th May :- [7574008](https://www.fixmystreet.com/report/7574008)
 
 <!-- fix_marker ends -->
