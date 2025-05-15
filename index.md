@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Thursday, 15 May 2025
 
-- The average temperature today is 13.29˚C,
-- With highs of 13.29˚C and lows of 13.29˚C,
-- It may feel like 12.58˚C with clear sky
-- The wind speed is 3.68m/s and visibility is 10000m
-- The pressure is 1026hPa and humidity is 73%
+- The average temperature today is 12.05˚C,
+- With highs of 12.05˚C and lows of 12.05˚C,
+- It may feel like 11.35˚C with clear sky
+- The wind speed is 3.06m/s and visibility is 10000m
+- The pressure is 1027hPa and humidity is 78%
 - The sun will rise at 04:14 and set at 19:54
 
 <!-- weather_marker ends -->

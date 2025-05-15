@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Weeds, 15th May :- [7576497](https://www.fixmystreet.com/report/7576497)
 - Several potholes on hall rd, 15th May :- [7576135](https://www.fixmystreet.com/report/7576135)
 - Moorend rd, outside tall trees house, 15th May :- [7576118](https://www.fixmystreet.com/report/7576118)
 - Pothole, 15th May :- [7575677](https://www.fixmystreet.com/report/7575677)
@@ -25,9 +26,8 @@ permalink: /fix-my-street
 - Grass overgrown, 15th May :- [7574363](https://www.fixmystreet.com/report/7574363)
 - Tree is damaged problem, 15th May :- [7574194](https://www.fixmystreet.com/report/7574194)
 - Grass cutting, 15th May :- [7574088](https://www.fixmystreet.com/report/7574088)
-- TMC - Defects - Signs & Street Furniture problem, 15th May :- [7574007](https://www.fixmystreet.com/report/7574007)
-- TMC - Defects - Signs & Street Furniture problem, 15th May :- [7574006](https://www.fixmystreet.com/report/7574006)
 - TMC - Defects - Vegetation problem, 15th May :- [7574008](https://www.fixmystreet.com/report/7574008)
-- The cover has been damaged, once again, by the grass cutters, 15th May :- [7573880](https://www.fixmystreet.com/report/7573880)
+- TMC - Defects - Signs & Street Furniture problem, 15th May :- [7574006](https://www.fixmystreet.com/report/7574006)
+- TMC - Defects - Signs & Street Furniture problem, 15th May :- [7574007](https://www.fixmystreet.com/report/7574007)
 
 <!-- fix_marker ends -->
