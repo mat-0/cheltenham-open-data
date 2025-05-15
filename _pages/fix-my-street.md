@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Several potholes on hall rd, 15th May :- [7576135](https://www.fixmystreet.com/report/7576135)
+- Moorend rd, outside tall trees house, 15th May :- [7576118](https://www.fixmystreet.com/report/7576118)
 - Pothole, 15th May :- [7575677](https://www.fixmystreet.com/report/7575677)
 - 5 ich deep pothole, 15th May :- [7575666](https://www.fixmystreet.com/report/7575666)
 - Pinecones all over cycle path, 15th May :- [7575627](https://www.fixmystreet.com/report/7575627)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Signs & Street Furniture problem, 15th May :- [7574006](https://www.fixmystreet.com/report/7574006)
 - TMC - Defects - Vegetation problem, 15th May :- [7574008](https://www.fixmystreet.com/report/7574008)
 - The cover has been damaged, once again, by the grass cutters, 15th May :- [7573880](https://www.fixmystreet.com/report/7573880)
-- TMC - Defects -CW6 Potholes  problem, 15th May :- [7574003](https://www.fixmystreet.com/report/7574003)
-- TMC - Defects -other CW6 problem, 15th May :- [7574000](https://www.fixmystreet.com/report/7574000)
 
 <!-- fix_marker ends -->
