@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Graffiti on bridge, 16th May :- [7578291](https://www.fixmystreet.com/report/7578291)
 - Post or sign leaning slightly (less than 20 degrees) problem, 16th May :- [7577831](https://www.fixmystreet.com/report/7577831)
 - Deep pothole at top end of Andover street at the Suffolk road end., 16th May :- [7577365](https://www.fixmystreet.com/report/7577365)
 - Next to 73 or 74 Golden Vale, Churchdown, 16th May :- [7577242](https://www.fixmystreet.com/report/7577242)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 15th May :- [7574758](https://www.fixmystreet.com/report/7574758)
 - TMC - Defects - Other FW6  Surface problem, 15th May :- [7574757](https://www.fixmystreet.com/report/7574757)
 - TMC - Defects - Other FW6  Surface problem, 15th May :- [7574418](https://www.fixmystreet.com/report/7574418)
-- Grass overgrown, 15th May :- [7574363](https://www.fixmystreet.com/report/7574363)
 
 <!-- fix_marker ends -->
