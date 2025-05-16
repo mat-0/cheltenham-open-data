@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Concerning Graffiti (“Rapist Active Now”) on Bridge, 16th May :- [7580393](https://www.fixmystreet.com/report/7580393)
+- Potholes ///drill.trains.anyway, 16th May :- [7580307](https://www.fixmystreet.com/report/7580307)
+- Tree growing out onto dual carriageway, 16th May :- [7580306](https://www.fixmystreet.com/report/7580306)
+- Pothole around manhole cover near railway bridge on Wymans Lane, 16th May :- [7580242](https://www.fixmystreet.com/report/7580242)
 - The redbrick wall adjacent to the highway is falling down and dangerous. The whole wall needs to be replaced and the trees removed as these are affecting the current and any new structure. The bricks at the side of the road is flytipping., 16th May :- [7580074](https://www.fixmystreet.com/report/7580074)
 - Oustide 20 arden rd, 16th May :- [7580061](https://www.fixmystreet.com/report/7580061)
 - Flytipped swivel chairs Marle Hill Parade, 16th May :- [7579999](https://www.fixmystreet.com/report/7579999)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Next to 73 or 74 Golden Vale, Churchdown, 16th May :- [7577242](https://www.fixmystreet.com/report/7577242)
 - Tree bottom side shoots blocking vision, 16th May :- [7576861](https://www.fixmystreet.com/report/7576861)
 - Increasingly expanding pothole on Elmbridge Court Roundabout, 15th May :- [7576557](https://www.fixmystreet.com/report/7576557)
-- Weeds, 15th May :- [7576497](https://www.fixmystreet.com/report/7576497)
-- Several potholes on hall rd, 15th May :- [7576135](https://www.fixmystreet.com/report/7576135)
-- Moorend rd, outside tall trees house, 15th May :- [7576118](https://www.fixmystreet.com/report/7576118)
-- Pothole, 15th May :- [7575677](https://www.fixmystreet.com/report/7575677)
 
 <!-- fix_marker ends -->
