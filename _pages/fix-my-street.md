@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The redbrick wall adjacent to the highway is falling down and dangerous. The whole wall needs to be replaced and the trees removed as these are affecting the current and any new structure. The bricks at the side of the road is flytipping., 16th May :- [7580074](https://www.fixmystreet.com/report/7580074)
+- Oustide 20 arden rd, 16th May :- [7580061](https://www.fixmystreet.com/report/7580061)
 - Flytipped swivel chairs Marle Hill Parade, 16th May :- [7579999](https://www.fixmystreet.com/report/7579999)
 - Street sign obscured by overgrown hedge yet again, 16th May :- [7579829](https://www.fixmystreet.com/report/7579829)
 - Tree is damaged problem, 16th May :- [7579800](https://www.fixmystreet.com/report/7579800)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Several potholes on hall rd, 15th May :- [7576135](https://www.fixmystreet.com/report/7576135)
 - Moorend rd, outside tall trees house, 15th May :- [7576118](https://www.fixmystreet.com/report/7576118)
 - Pothole, 15th May :- [7575677](https://www.fixmystreet.com/report/7575677)
-- 5 ich deep pothole, 15th May :- [7575666](https://www.fixmystreet.com/report/7575666)
-- Pinecones all over cycle path, 15th May :- [7575627](https://www.fixmystreet.com/report/7575627)
 
 <!-- fix_marker ends -->
