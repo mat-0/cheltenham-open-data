@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree bottom side shoots blocking vision, 16th May :- [7576861](https://www.fixmystreet.com/report/7576861)
 - Increasingly expanding pothole on Elmbridge Court Roundabout, 15th May :- [7576557](https://www.fixmystreet.com/report/7576557)
 - Weeds, 15th May :- [7576497](https://www.fixmystreet.com/report/7576497)
 - Several potholes on hall rd, 15th May :- [7576135](https://www.fixmystreet.com/report/7576135)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Tree is damaged problem, 15th May :- [7574194](https://www.fixmystreet.com/report/7574194)
 - Grass cutting, 15th May :- [7574088](https://www.fixmystreet.com/report/7574088)
 - TMC - Defects - Signs & Street Furniture problem, 15th May :- [7574006](https://www.fixmystreet.com/report/7574006)
-- TMC - Defects - Vegetation problem, 15th May :- [7574008](https://www.fixmystreet.com/report/7574008)
 
 <!-- fix_marker ends -->
