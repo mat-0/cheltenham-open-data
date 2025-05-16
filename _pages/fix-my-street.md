@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Bad footway, big drop off broken and loose road kerps, 16th May :- [7578813](https://www.fixmystreet.com/report/7578813)
+- The drain is blocked problem, 16th May :- [7578598](https://www.fixmystreet.com/report/7578598)
 - Graffiti on bridge, 16th May :- [7578291](https://www.fixmystreet.com/report/7578291)
 - Post or sign leaning slightly (less than 20 degrees) problem, 16th May :- [7577831](https://www.fixmystreet.com/report/7577831)
 - Deep pothole at top end of Andover street at the Suffolk road end., 16th May :- [7577365](https://www.fixmystreet.com/report/7577365)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - The pothole runs most of the width of the road heading towards prestbury. Impossible to avoid as there are parked cars in the road so you have to go over it. I think this has been fixed previously, 15th May :- [7574864](https://www.fixmystreet.com/report/7574864)
 - TMC - Defects - Vegetation problem, 15th May :- [7574763](https://www.fixmystreet.com/report/7574763)
 - TMC - Defects - Other FW6  Surface problem, 15th May :- [7574758](https://www.fixmystreet.com/report/7574758)
-- TMC - Defects - Other FW6  Surface problem, 15th May :- [7574757](https://www.fixmystreet.com/report/7574757)
-- TMC - Defects - Other FW6  Surface problem, 15th May :- [7574418](https://www.fixmystreet.com/report/7574418)
 
 <!-- fix_marker ends -->
