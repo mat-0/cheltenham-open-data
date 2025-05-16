@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Friday, 16 May 2025
 
-- The average temperature today is 8.86˚C,
-- With highs of 8.86˚C and lows of 8.86˚C,
-- It may feel like 7.52˚C with clear sky
-- The wind speed is 2.44m/s and visibility is 10000m
-- The pressure is 1028hPa and humidity is 73%
+- The average temperature today is 8.22˚C,
+- With highs of 8.22˚C and lows of 8.22˚C,
+- It may feel like 6.83˚C with clear sky
+- The wind speed is 2.35m/s and visibility is 10000m
+- The pressure is 1028hPa and humidity is 74%
 - The sun will rise at 04:13 and set at 19:56
 
 <!-- weather_marker ends -->
