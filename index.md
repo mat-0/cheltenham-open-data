@@ -8,13 +8,13 @@ seo: Menu
 ![Logo](/images/logo.jpg){:width="832px"}
 
 <!-- weather_marker starts -->
-## On Friday, 16 May 2025
+## On Saturday, 17 May 2025
 
-- The average temperature today is 9.36˚C,
-- With highs of 9.36˚C and lows of 9.36˚C,
-- It may feel like 7.8˚C with clear sky
-- The wind speed is 2.91m/s and visibility is 10000m
-- The pressure is 1026hPa and humidity is 84%
+- The average temperature today is 10.03˚C,
+- With highs of 10.03˚C and lows of 10.03˚C,
+- It may feel like 9.13˚C with few clouds
+- The wind speed is 2.67m/s and visibility is 10000m
+- The pressure is 1025hPa and humidity is 78%
 - The sun will rise at 04:11 and set at 19:57
 
 <!-- weather_marker ends -->
