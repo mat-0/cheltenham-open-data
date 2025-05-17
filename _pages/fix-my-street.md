@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Circular pothole. Looks like the general area around it may collapse further, 17th May :- [7581352](https://www.fixmystreet.com/report/7581352)
 - Concerning Graffiti (“Rapist Active Now”) on Bridge, 16th May :- [7580393](https://www.fixmystreet.com/report/7580393)
 - Potholes ///drill.trains.anyway, 16th May :- [7580307](https://www.fixmystreet.com/report/7580307)
 - Tree growing out onto dual carriageway, 16th May :- [7580306](https://www.fixmystreet.com/report/7580306)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Deep pothole at top end of Andover street at the Suffolk road end., 16th May :- [7577365](https://www.fixmystreet.com/report/7577365)
 - Next to 73 or 74 Golden Vale, Churchdown, 16th May :- [7577242](https://www.fixmystreet.com/report/7577242)
 - Tree bottom side shoots blocking vision, 16th May :- [7576861](https://www.fixmystreet.com/report/7576861)
-- Increasingly expanding pothole on Elmbridge Court Roundabout, 15th May :- [7576557](https://www.fixmystreet.com/report/7576557)
 
 <!-- fix_marker ends -->
