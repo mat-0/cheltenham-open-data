@@ -12,13 +12,13 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Arrest after women threatened with bread knife ([1 hours ago](https://www.bbc.com/news/articles/cvgdpnv8yp0o))
-- Four arrested after man stabbed through car window ([2 hours ago](https://www.bbc.com/news/articles/cql2yerl45po))
-- Gloucestershire in pics: Water, water everywhere ([6 hours ago](https://www.bbc.com/news/articles/c8e6d4g6k88o))
-- Train routes from Gloucester close for maintenance ([6 hours ago](https://www.bbc.com/news/articles/c5y64j5nmv1o))
-- Cheltenham’s Golden Valley plans near GCHQ unveiled at flagship cyber security event ([19 hours ago](https://gloucesternewscentre.co.uk/cheltenhams-golden-valley-plans-near-gchq-unveiled-at-flagship-cyber-security-event/))
-- Arrests after woman killed in two-vehicle crash ([19 hours ago](https://www.bbc.com/news/articles/cz0dl0g9zxjo))
-- Air pollution measures dropped after 20 years ([21 hours ago](https://www.bbc.com/news/articles/c7v7d4091gro))
+- Arrest after women threatened with bread knife ([2 hours ago](https://www.bbc.com/news/articles/cvgdpnv8yp0o))
+- Four arrested after man stabbed through car window ([3 hours ago](https://www.bbc.com/news/articles/cql2yerl45po))
+- Gloucestershire in pics: Water, water everywhere ([7 hours ago](https://www.bbc.com/news/articles/c8e6d4g6k88o))
+- Train routes from Gloucester close for maintenance ([7 hours ago](https://www.bbc.com/news/articles/c5y64j5nmv1o))
+- Cheltenham’s Golden Valley plans near GCHQ unveiled at flagship cyber security event ([20 hours ago](https://gloucesternewscentre.co.uk/cheltenhams-golden-valley-plans-near-gchq-unveiled-at-flagship-cyber-security-event/))
+- Arrests after woman killed in two-vehicle crash ([20 hours ago](https://www.bbc.com/news/articles/cz0dl0g9zxjo))
+- Air pollution measures dropped after 20 years ([22 hours ago](https://www.bbc.com/news/articles/c7v7d4091gro))
 - Stroud council leader steps down after three years ([1 days ago](https://www.bbc.com/news/articles/c9dq58pzel5o))
 - 'I want to understand why my son is not here' ([1 days ago](https://www.bbc.com/news/articles/c5yk7z7k4dyo))
 - 'Bristol Airport row' and 'murder trial collapses' ([1 days ago](https://www.bbc.com/news/articles/c93lq257pd5o))
@@ -29,7 +29,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Gloucestershire star Ben Cutler returns to hometown stage ([1 days ago](https://gloucesternewscentre.co.uk/gloucestershire-star-ben-cutler-returns-to-hometown-stage/))
 - Case against Cheltenham man in relation to fox hunting stopped ([1 days ago](https://gloucesternewscentre.co.uk/case-against-cheltenham-man-in-relation-to-fox-hunting-stopped/))
 - School goes smartphone free in new challenge ([1 days ago](https://www.bbc.com/news/articles/cwy388p033eo))
-- HBD unveils phase two plans for Golden Valley at Cyber UK ([1 days ago](https://www.cheltenham.gov.uk/news/article/3012/hbd_unveils_phase_two_plans_for_golden_valley_at_cyber_uk))
+- HBD unveils phase two plans for Golden Valley at Cyber UK ([2 days ago](https://www.cheltenham.gov.uk/news/article/3012/hbd_unveils_phase_two_plans_for_golden_valley_at_cyber_uk))
 - Water company apologises after second pipe burst ([2 days ago](https://www.bbc.com/news/articles/cn0g1jygjq1o))
 - Arle Court Transport Hub welcomes more National Express services ([2 days ago](https://gloucesternewscentre.co.uk/arle-court-transport-hub-welcomes-more-national-express-services/))
 - Golden Valley social value promise will deliver real value to communities ([2 days ago](https://www.cheltenham.gov.uk/news/article/3011/golden_valley_social_value_promise_will_deliver_real_value_to_communities))
@@ -60,7 +60,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Police urge the public to consider if there is a genuine emergency before dialling 999 ([11 days ago](https://gloucesternewscentre.co.uk/police-urge-the-public-to-consider-if-there-is-a-genuine-emergency-before-dialling-999/))
 - Man pleads guilty to multiple thefts from vehicles in Cheltenham ([14 days ago](https://gloucesternewscentre.co.uk/man-pleads-guilty-to-multiple-thefts-from-vehicles-in-cheltenham/))
 - Cotswold mum calls on Bromford Housing to fix ‘deathtrap’ garden ([14 days ago](https://gloucesternewscentre.co.uk/cotswold-mum-calls-on-bromford-housing-to-fix-deathtrap-garden/))
-- Cheltenham Borough Council invites community input on new trees strategy ([24 days ago](https://www.cheltenham.gov.uk/news/article/3005/cheltenham_borough_council_invites_community_input_on_new_trees_strategy))
+- Cheltenham Borough Council invites community input on new trees strategy ([25 days ago](https://www.cheltenham.gov.uk/news/article/3005/cheltenham_borough_council_invites_community_input_on_new_trees_strategy))
 - Media statement about the Citrus Hotel ([29 days ago](https://www.cheltenham.gov.uk/news/article/3004/media_statement_about_the_citrus_hotel))
 
 <!-- news_marker ends -->
