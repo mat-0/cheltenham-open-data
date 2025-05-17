@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Arrest after women threatened with bread knife ([11 hours ago](https://www.bbc.com/news/articles/cvgdpnv8yp0o))
-- Four arrested after man stabbed through car window ([12 hours ago](https://www.bbc.com/news/articles/cql2yerl45po))
-- Gloucestershire in pics: Water, water everywhere ([16 hours ago](https://www.bbc.com/news/articles/c8e6d4g6k88o))
-- Train routes from Gloucester close for maintenance ([16 hours ago](https://www.bbc.com/news/articles/c5y64j5nmv1o))
+- Arrest after women threatened with bread knife ([12 hours ago](https://www.bbc.com/news/articles/cvgdpnv8yp0o))
+- Four arrested after man stabbed through car window ([13 hours ago](https://www.bbc.com/news/articles/cql2yerl45po))
+- Gloucestershire in pics: Water, water everywhere ([17 hours ago](https://www.bbc.com/news/articles/c8e6d4g6k88o))
+- Train routes from Gloucester close for maintenance ([17 hours ago](https://www.bbc.com/news/articles/c5y64j5nmv1o))
 - Cheltenham’s Golden Valley plans near GCHQ unveiled at flagship cyber security event ([1 days ago](https://gloucesternewscentre.co.uk/cheltenhams-golden-valley-plans-near-gchq-unveiled-at-flagship-cyber-security-event/))
 - Arrests after woman killed in two-vehicle crash ([1 days ago](https://www.bbc.com/news/articles/cz0dl0g9zxjo))
 - Air pollution measures dropped after 20 years ([1 days ago](https://www.bbc.com/news/articles/c7v7d4091gro))
