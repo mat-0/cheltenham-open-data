@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Deep and wide pothole at celandine bank junction causing damage to suspension when turning in, 17th May :- [7583343](https://www.fixmystreet.com/report/7583343)
 - Corner, pavement and under the railings needs tidying up, 17th May :- [7582951](https://www.fixmystreet.com/report/7582951)
 - The whole stretch of Morley Avenue/St John’s Avenue, 17th May :- [7582930](https://www.fixmystreet.com/report/7582930)
 - Multiple potholes, 17th May :- [7582334](https://www.fixmystreet.com/report/7582334)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Street sign obscured by overgrown hedge yet again, 16th May :- [7579829](https://www.fixmystreet.com/report/7579829)
 - Tree is damaged problem, 16th May :- [7579800](https://www.fixmystreet.com/report/7579800)
 - Tree is damaged problem, 16th May :- [7579799](https://www.fixmystreet.com/report/7579799)
-- Large area of damaged road surface at junction of Greenhills Rd and Charlton Lane, 16th May :- [7579182](https://www.fixmystreet.com/report/7579182)
 
 <!-- fix_marker ends -->
