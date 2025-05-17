@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Corner, pavement and under the railings needs tidying up, 17th May :- [7582951](https://www.fixmystreet.com/report/7582951)
+- The whole stretch of Morley Avenue/St John’s Avenue, 17th May :- [7582930](https://www.fixmystreet.com/report/7582930)
 - Multiple potholes, 17th May :- [7582334](https://www.fixmystreet.com/report/7582334)
 - Office chair abandoned, 17th May :- [7581967](https://www.fixmystreet.com/report/7581967)
 - Street light required in street and parking area., 17th May :- [7581731](https://www.fixmystreet.com/report/7581731)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Tree is damaged problem, 16th May :- [7579800](https://www.fixmystreet.com/report/7579800)
 - Tree is damaged problem, 16th May :- [7579799](https://www.fixmystreet.com/report/7579799)
 - Large area of damaged road surface at junction of Greenhills Rd and Charlton Lane, 16th May :- [7579182](https://www.fixmystreet.com/report/7579182)
-- A nasty pothole has developed just here...., 16th May :- [7579112](https://www.fixmystreet.com/report/7579112)
-- Bad footway, big drop off broken and loose road kerps, 16th May :- [7578813](https://www.fixmystreet.com/report/7578813)
 
 <!-- fix_marker ends -->
