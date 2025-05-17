@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street light required in street and parking area., 17th May :- [7581731](https://www.fixmystreet.com/report/7581731)
+- Graffiti on postbox on corner of London Rd & Priory Street, 17th May :- [7581730](https://www.fixmystreet.com/report/7581730)
 - Tesco shopping trolley, 17th May :- [7581630](https://www.fixmystreet.com/report/7581630)
 - KEEP CLEAR marking worn, 17th May :- [7581595](https://www.fixmystreet.com/report/7581595)
 - Circular pothole. Looks like the general area around it may collapse further, 17th May :- [7581352](https://www.fixmystreet.com/report/7581352)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Bad footway, big drop off broken and loose road kerps, 16th May :- [7578813](https://www.fixmystreet.com/report/7578813)
 - The drain is blocked problem, 16th May :- [7578598](https://www.fixmystreet.com/report/7578598)
 - Graffiti on bridge, 16th May :- [7578291](https://www.fixmystreet.com/report/7578291)
-- Post or sign leaning slightly (less than 20 degrees) problem, 16th May :- [7577831](https://www.fixmystreet.com/report/7577831)
-- Deep pothole at top end of Andover street at the Suffolk road end., 16th May :- [7577365](https://www.fixmystreet.com/report/7577365)
 
 <!-- fix_marker ends -->

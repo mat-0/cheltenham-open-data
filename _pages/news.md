@@ -12,14 +12,14 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Gloucestershire in pics: Water, water everywhere ([2 hours ago](https://www.bbc.com/news/articles/c8e6d4g6k88o))
-- Train routes from Gloucester close for maintenance ([2 hours ago](https://www.bbc.com/news/articles/c5y64j5nmv1o))
-- Cheltenham’s Golden Valley plans near GCHQ unveiled at flagship cyber security event ([15 hours ago](https://gloucesternewscentre.co.uk/cheltenhams-golden-valley-plans-near-gchq-unveiled-at-flagship-cyber-security-event/))
-- Arrests after woman killed in two-vehicle crash ([15 hours ago](https://www.bbc.com/news/articles/cz0dl0g9zxjo))
-- Air pollution measures dropped after 20 years ([17 hours ago](https://www.bbc.com/news/articles/c7v7d4091gro))
-- Stroud council leader steps down after three years ([21 hours ago](https://www.bbc.com/news/articles/c9dq58pzel5o))
-- 'I want to understand why my son is not here' ([21 hours ago](https://www.bbc.com/news/articles/c5yk7z7k4dyo))
-- 'Bristol Airport row' and 'murder trial collapses' ([23 hours ago](https://www.bbc.com/news/articles/c93lq257pd5o))
+- Gloucestershire in pics: Water, water everywhere ([3 hours ago](https://www.bbc.com/news/articles/c8e6d4g6k88o))
+- Train routes from Gloucester close for maintenance ([3 hours ago](https://www.bbc.com/news/articles/c5y64j5nmv1o))
+- Cheltenham’s Golden Valley plans near GCHQ unveiled at flagship cyber security event ([16 hours ago](https://gloucesternewscentre.co.uk/cheltenhams-golden-valley-plans-near-gchq-unveiled-at-flagship-cyber-security-event/))
+- Arrests after woman killed in two-vehicle crash ([16 hours ago](https://www.bbc.com/news/articles/cz0dl0g9zxjo))
+- Air pollution measures dropped after 20 years ([18 hours ago](https://www.bbc.com/news/articles/c7v7d4091gro))
+- Stroud council leader steps down after three years ([22 hours ago](https://www.bbc.com/news/articles/c9dq58pzel5o))
+- 'I want to understand why my son is not here' ([22 hours ago](https://www.bbc.com/news/articles/c5yk7z7k4dyo))
+- 'Bristol Airport row' and 'murder trial collapses' ([1 days ago](https://www.bbc.com/news/articles/c93lq257pd5o))
 - Your 2025 guide to Gloucestershire cheese rolling ([1 days ago](https://www.bbc.com/news/articles/c230jj5m1yro))
 - Guide dog 'life-enhancing' for blind personal trainer ([1 days ago](https://www.bbc.com/news/articles/cwy3j8evxg2o))
 - Woman dies and others hurt in two-vehicle crash ([1 days ago](https://www.bbc.com/news/articles/cp3qjdll89jo))
@@ -61,6 +61,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Man pleads guilty to multiple thefts from vehicles in Cheltenham ([14 days ago](https://gloucesternewscentre.co.uk/man-pleads-guilty-to-multiple-thefts-from-vehicles-in-cheltenham/))
 - Cotswold mum calls on Bromford Housing to fix ‘deathtrap’ garden ([14 days ago](https://gloucesternewscentre.co.uk/cotswold-mum-calls-on-bromford-housing-to-fix-deathtrap-garden/))
 - Cheltenham Borough Council invites community input on new trees strategy ([24 days ago](https://www.cheltenham.gov.uk/news/article/3005/cheltenham_borough_council_invites_community_input_on_new_trees_strategy))
-- Media statement about the Citrus Hotel ([28 days ago](https://www.cheltenham.gov.uk/news/article/3004/media_statement_about_the_citrus_hotel))
+- Media statement about the Citrus Hotel ([29 days ago](https://www.cheltenham.gov.uk/news/article/3004/media_statement_about_the_citrus_hotel))
 
 <!-- news_marker ends -->
