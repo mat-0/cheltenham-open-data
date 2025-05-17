@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tesco shopping trolley, 17th May :- [7581630](https://www.fixmystreet.com/report/7581630)
+- KEEP CLEAR marking worn, 17th May :- [7581595](https://www.fixmystreet.com/report/7581595)
 - Circular pothole. Looks like the general area around it may collapse further, 17th May :- [7581352](https://www.fixmystreet.com/report/7581352)
 - Concerning Graffiti (“Rapist Active Now”) on Bridge, 16th May :- [7580393](https://www.fixmystreet.com/report/7580393)
 - Potholes ///drill.trains.anyway, 16th May :- [7580307](https://www.fixmystreet.com/report/7580307)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Graffiti on bridge, 16th May :- [7578291](https://www.fixmystreet.com/report/7578291)
 - Post or sign leaning slightly (less than 20 degrees) problem, 16th May :- [7577831](https://www.fixmystreet.com/report/7577831)
 - Deep pothole at top end of Andover street at the Suffolk road end., 16th May :- [7577365](https://www.fixmystreet.com/report/7577365)
-- Next to 73 or 74 Golden Vale, Churchdown, 16th May :- [7577242](https://www.fixmystreet.com/report/7577242)
-- Tree bottom side shoots blocking vision, 16th May :- [7576861](https://www.fixmystreet.com/report/7576861)
 
 <!-- fix_marker ends -->
