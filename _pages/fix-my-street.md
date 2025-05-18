@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Sunken trench across A435 south of Bishops Cleeve, 18th May :- [7586515](https://www.fixmystreet.com/report/7586515)
+- Sunken trench on A435 south of Bishops Cleeve, 18th May :- [7586509](https://www.fixmystreet.com/report/7586509)
 - Very dangerous broken glass, 18th May :- [7586259](https://www.fixmystreet.com/report/7586259)
 - Trip hazard, 18th May :- [7585670](https://www.fixmystreet.com/report/7585670)
 - Pothole on cold Slad lane, 18th May :- [7584688](https://www.fixmystreet.com/report/7584688)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Circular pothole. Looks like the general area around it may collapse further, 17th May :- [7581352](https://www.fixmystreet.com/report/7581352)
 - Concerning Graffiti (“Rapist Active Now”) on Bridge, 16th May :- [7580393](https://www.fixmystreet.com/report/7580393)
 - Potholes ///drill.trains.anyway, 16th May :- [7580307](https://www.fixmystreet.com/report/7580307)
-- Tree growing out onto dual carriageway, 16th May :- [7580306](https://www.fixmystreet.com/report/7580306)
-- Pothole around manhole cover near railway bridge on Wymans Lane, 16th May :- [7580242](https://www.fixmystreet.com/report/7580242)
 
 <!-- fix_marker ends -->
