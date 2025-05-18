@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Two men arrested after baseball bat attack ([10 minutes ago](https://www.bbc.com/news/articles/c4ge7l3nvv1o))
-- Family ice cream shop celebrates 100th anniversary ([2 hours ago](https://www.bbc.com/news/articles/crr7dg8n471o))
-- Teenagers exposed to harmful content on social media ([4 hours ago](https://www.bbc.com/news/videos/c1kvmv9w348o))
-- Jousting 'still gives me goose bumps' champ says ([6 hours ago](https://www.bbc.com/news/articles/cm2yd1d3d7eo))
-- Headlines: Car park walls and maternity unit closure ([6 hours ago](https://www.bbc.com/news/articles/c861wnwd753o))
+- Two men arrested after baseball bat attack ([1 hours ago](https://www.bbc.com/news/articles/c4ge7l3nvv1o))
+- Family ice cream shop celebrates 100th anniversary ([3 hours ago](https://www.bbc.com/news/articles/crr7dg8n471o))
+- Teenagers exposed to harmful content on social media ([5 hours ago](https://www.bbc.com/news/videos/c1kvmv9w348o))
+- Jousting 'still gives me goose bumps' champ says ([7 hours ago](https://www.bbc.com/news/articles/cm2yd1d3d7eo))
+- Headlines: Car park walls and maternity unit closure ([7 hours ago](https://www.bbc.com/news/articles/c861wnwd753o))
 - Arrest after women threatened with bread knife ([1 days ago](https://www.bbc.com/news/articles/cvgdpnv8yp0o))
 - Four arrested after man stabbed through car window ([1 days ago](https://www.bbc.com/news/articles/cql2yerl45po))
 - Gloucestershire in pics: Water, water everywhere ([1 days ago](https://www.bbc.com/news/articles/c8e6d4g6k88o))
@@ -33,7 +33,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Police appeal for man to come forward after his dog bit a man in Cheltenham ([2 days ago](https://gloucesternewscentre.co.uk/police-appeal-for-man-to-come-forward-after-his-dog-bit-a-man-in-cheltenham/))
 - Gloucestershire star Ben Cutler returns to hometown stage ([2 days ago](https://gloucesternewscentre.co.uk/gloucestershire-star-ben-cutler-returns-to-hometown-stage/))
 - Case against Cheltenham man in relation to fox hunting stopped ([2 days ago](https://gloucesternewscentre.co.uk/case-against-cheltenham-man-in-relation-to-fox-hunting-stopped/))
-- HBD unveils phase two plans for Golden Valley at Cyber UK ([2 days ago](https://www.cheltenham.gov.uk/news/article/3012/hbd_unveils_phase_two_plans_for_golden_valley_at_cyber_uk))
+- HBD unveils phase two plans for Golden Valley at Cyber UK ([3 days ago](https://www.cheltenham.gov.uk/news/article/3012/hbd_unveils_phase_two_plans_for_golden_valley_at_cyber_uk))
 - Arle Court Transport Hub welcomes more National Express services ([3 days ago](https://gloucesternewscentre.co.uk/arle-court-transport-hub-welcomes-more-national-express-services/))
 - Golden Valley social value promise will deliver real value to communities ([3 days ago](https://www.cheltenham.gov.uk/news/article/3011/golden_valley_social_value_promise_will_deliver_real_value_to_communities))
 - Comedian Dom Joly blasts council over ‘zero action’ to remove Cheltenham ‘eyesore’ ([4 days ago](https://gloucesternewscentre.co.uk/comedian-dom-joly-blasts-council-over-zero-action-to-remove-cheltenham-eyesore/))
@@ -61,6 +61,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Police urge the public to consider if there is a genuine emergency before dialling 999 ([12 days ago](https://gloucesternewscentre.co.uk/police-urge-the-public-to-consider-if-there-is-a-genuine-emergency-before-dialling-999/))
 - Man pleads guilty to multiple thefts from vehicles in Cheltenham ([15 days ago](https://gloucesternewscentre.co.uk/man-pleads-guilty-to-multiple-thefts-from-vehicles-in-cheltenham/))
 - Cotswold mum calls on Bromford Housing to fix ‘deathtrap’ garden ([15 days ago](https://gloucesternewscentre.co.uk/cotswold-mum-calls-on-bromford-housing-to-fix-deathtrap-garden/))
-- Cheltenham Borough Council invites community input on new trees strategy ([25 days ago](https://www.cheltenham.gov.uk/news/article/3005/cheltenham_borough_council_invites_community_input_on_new_trees_strategy))
+- Cheltenham Borough Council invites community input on new trees strategy ([26 days ago](https://www.cheltenham.gov.uk/news/article/3005/cheltenham_borough_council_invites_community_input_on_new_trees_strategy))
 
 <!-- news_marker ends -->
