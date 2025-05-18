@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Sunday, 18 May 2025
 
-- The average temperature today is 14.66˚C,
-- With highs of 15.54˚C and lows of 13.86˚C,
-- It may feel like 13.75˚C with few clouds
-- The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 1021hPa and humidity is 60%
+- The average temperature today is 15.67˚C,
+- With highs of 16.65˚C and lows of 14.97˚C,
+- It may feel like 14.78˚C with few clouds
+- The wind speed is 1.79m/s and visibility is 10000m
+- The pressure is 1021hPa and humidity is 57%
 - The sun will rise at 04:10 and set at 19:59
 
 <!-- weather_marker ends -->

@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole on cold Slad lane, 18th May :- [7584688](https://www.fixmystreet.com/report/7584688)
 - Multiple potholes on the centre of the road, 18th May :- [7584171](https://www.fixmystreet.com/report/7584171)
 - Old bathroom set flight tipped at Kilkenny viewpoint, 18th May :- [7583989](https://www.fixmystreet.com/report/7583989)
 - This cherry tree appears to have died., 17th May :- [7583679](https://www.fixmystreet.com/report/7583679)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Pothole around manhole cover near railway bridge on Wymans Lane, 16th May :- [7580242](https://www.fixmystreet.com/report/7580242)
 - The redbrick wall adjacent to the highway is falling down and dangerous. The whole wall needs to be replaced and the trees removed as these are affecting the current and any new structure. The bricks at the side of the road is flytipping., 16th May :- [7580074](https://www.fixmystreet.com/report/7580074)
 - Oustide 20 arden rd, 16th May :- [7580061](https://www.fixmystreet.com/report/7580061)
-- Flytipped swivel chairs Marle Hill Parade, 16th May :- [7579999](https://www.fixmystreet.com/report/7579999)
 
 <!-- fix_marker ends -->
