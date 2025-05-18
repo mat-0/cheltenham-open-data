@@ -9,10 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Potholes on road outside 38 carisbrooke road, 18th May :- [7586831](https://www.fixmystreet.com/report/7586831)
 - Sunken trench across A435 south of Bishops Cleeve, 18th May :- [7586515](https://www.fixmystreet.com/report/7586515)
 - Sunken trench on A435 south of Bishops Cleeve, 18th May :- [7586509](https://www.fixmystreet.com/report/7586509)
 - Very dangerous broken glass, 18th May :- [7586259](https://www.fixmystreet.com/report/7586259)
 - Trip hazard, 18th May :- [7585670](https://www.fixmystreet.com/report/7585670)
+- More potholes developing, 18th May :- [7585152](https://www.fixmystreet.com/report/7585152)
 - Pothole on cold Slad lane, 18th May :- [7584688](https://www.fixmystreet.com/report/7584688)
 - Multiple potholes on the centre of the road, 18th May :- [7584171](https://www.fixmystreet.com/report/7584171)
 - Old bathroom set flight tipped at Kilkenny viewpoint, 18th May :- [7583989](https://www.fixmystreet.com/report/7583989)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Tesco shopping trolley, 17th May :- [7581630](https://www.fixmystreet.com/report/7581630)
 - KEEP CLEAR marking worn, 17th May :- [7581595](https://www.fixmystreet.com/report/7581595)
 - Circular pothole. Looks like the general area around it may collapse further, 17th May :- [7581352](https://www.fixmystreet.com/report/7581352)
-- Concerning Graffiti (“Rapist Active Now”) on Bridge, 16th May :- [7580393](https://www.fixmystreet.com/report/7580393)
-- Potholes ///drill.trains.anyway, 16th May :- [7580307](https://www.fixmystreet.com/report/7580307)
 
 <!-- fix_marker ends -->
