@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Two men arrested after baseball bat attack ([5 hours ago](https://www.bbc.com/news/articles/c4ge7l3nvv1o))
-- Family ice cream shop celebrates 100th anniversary ([7 hours ago](https://www.bbc.com/news/articles/crr7dg8n471o))
-- Teenagers exposed to harmful content on social media ([9 hours ago](https://www.bbc.com/news/videos/c1kvmv9w348o))
-- Jousting 'still gives me goose bumps' champ says ([11 hours ago](https://www.bbc.com/news/articles/cm2yd1d3d7eo))
-- Headlines: Car park walls and maternity unit closure ([11 hours ago](https://www.bbc.com/news/articles/c861wnwd753o))
+- Two men arrested after baseball bat attack ([6 hours ago](https://www.bbc.com/news/articles/c4ge7l3nvv1o))
+- Family ice cream shop celebrates 100th anniversary ([8 hours ago](https://www.bbc.com/news/articles/crr7dg8n471o))
+- Teenagers exposed to harmful content on social media ([10 hours ago](https://www.bbc.com/news/videos/c1kvmv9w348o))
+- Jousting 'still gives me goose bumps' champ says ([12 hours ago](https://www.bbc.com/news/articles/cm2yd1d3d7eo))
+- Headlines: Car park walls and maternity unit closure ([12 hours ago](https://www.bbc.com/news/articles/c861wnwd753o))
 - Arrest after women threatened with bread knife ([1 days ago](https://www.bbc.com/news/articles/cvgdpnv8yp0o))
 - Four arrested after man stabbed through car window ([1 days ago](https://www.bbc.com/news/articles/cql2yerl45po))
 - Gloucestershire in pics: Water, water everywhere ([1 days ago](https://www.bbc.com/news/articles/c8e6d4g6k88o))
@@ -59,8 +59,8 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Homeowners in ‘David and Goliath’ battle over cracks in their walls ’caused by 147-home development’ ([13 days ago](https://gloucesternewscentre.co.uk/homeowners-in-david-and-goliath-battle-over-cracks-in-their-walls-caused-by-147-home-development/))
 - Fixing Gloucestershire’s ‘crumbling roads and broken services’ top aims of newly elected Shire Hall Lib Dems ([13 days ago](https://gloucesternewscentre.co.uk/fixing-gloucestershires-crumbling-roads-and-broken-services-top-aims-of-newly-elected-shire-hall-lib-dems/))
 - Police urge the public to consider if there is a genuine emergency before dialling 999 ([13 days ago](https://gloucesternewscentre.co.uk/police-urge-the-public-to-consider-if-there-is-a-genuine-emergency-before-dialling-999/))
-- Man pleads guilty to multiple thefts from vehicles in Cheltenham ([15 days ago](https://gloucesternewscentre.co.uk/man-pleads-guilty-to-multiple-thefts-from-vehicles-in-cheltenham/))
-- Cotswold mum calls on Bromford Housing to fix ‘deathtrap’ garden ([15 days ago](https://gloucesternewscentre.co.uk/cotswold-mum-calls-on-bromford-housing-to-fix-deathtrap-garden/))
+- Man pleads guilty to multiple thefts from vehicles in Cheltenham ([16 days ago](https://gloucesternewscentre.co.uk/man-pleads-guilty-to-multiple-thefts-from-vehicles-in-cheltenham/))
+- Cotswold mum calls on Bromford Housing to fix ‘deathtrap’ garden ([16 days ago](https://gloucesternewscentre.co.uk/cotswold-mum-calls-on-bromford-housing-to-fix-deathtrap-garden/))
 - Cheltenham Borough Council invites community input on new trees strategy ([26 days ago](https://www.cheltenham.gov.uk/news/article/3005/cheltenham_borough_council_invites_community_input_on_new_trees_strategy))
 
 <!-- news_marker ends -->

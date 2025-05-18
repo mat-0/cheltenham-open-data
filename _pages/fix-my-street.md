@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Very dangerous broken glass, 18th May :- [7586259](https://www.fixmystreet.com/report/7586259)
 - Trip hazard, 18th May :- [7585670](https://www.fixmystreet.com/report/7585670)
 - Pothole on cold Slad lane, 18th May :- [7584688](https://www.fixmystreet.com/report/7584688)
 - Multiple potholes on the centre of the road, 18th May :- [7584171](https://www.fixmystreet.com/report/7584171)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Potholes ///drill.trains.anyway, 16th May :- [7580307](https://www.fixmystreet.com/report/7580307)
 - Tree growing out onto dual carriageway, 16th May :- [7580306](https://www.fixmystreet.com/report/7580306)
 - Pothole around manhole cover near railway bridge on Wymans Lane, 16th May :- [7580242](https://www.fixmystreet.com/report/7580242)
-- The redbrick wall adjacent to the highway is falling down and dangerous. The whole wall needs to be replaced and the trees removed as these are affecting the current and any new structure. The bricks at the side of the road is flytipping., 16th May :- [7580074](https://www.fixmystreet.com/report/7580074)
 
 <!-- fix_marker ends -->
