@@ -9,7 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Yellow lines too close to island on road. Parking issues., 19th May :- [7589632](https://www.fixmystreet.com/report/7589632)
 - Drain blocked with dirt/dust, 19th May :- [7589442](https://www.fixmystreet.com/report/7589442)
+- A pothole in pavement problem, 19th May :- [7589566](https://www.fixmystreet.com/report/7589566)
 - General road markings, lines and stud issues problem, 19th May :- [7589350](https://www.fixmystreet.com/report/7589350)
 - Recent reinstatement track on corinium avenue, 19th May :- [7589044](https://www.fixmystreet.com/report/7589044)
 - The drain is blocked problem, 19th May :- [7589346](https://www.fixmystreet.com/report/7589346)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Very dangerous broken glass, 18th May :- [7586259](https://www.fixmystreet.com/report/7586259)
 - Trip hazard, 18th May :- [7585670](https://www.fixmystreet.com/report/7585670)
 - More potholes developing, 18th May :- [7585152](https://www.fixmystreet.com/report/7585152)
-- Pothole on cold Slad lane, 18th May :- [7584688](https://www.fixmystreet.com/report/7584688)
-- Multiple potholes on the centre of the road, 18th May :- [7584171](https://www.fixmystreet.com/report/7584171)
 
 <!-- fix_marker ends -->
