@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- A number of large potholes around the church, 19th May :- [7587388](https://www.fixmystreet.com/report/7587388)
 - Potholes on road outside 38 carisbrooke road, 18th May :- [7586831](https://www.fixmystreet.com/report/7586831)
 - Sunken trench across A435 south of Bishops Cleeve, 18th May :- [7586515](https://www.fixmystreet.com/report/7586515)
 - Sunken trench on A435 south of Bishops Cleeve, 18th May :- [7586509](https://www.fixmystreet.com/report/7586509)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Graffiti on postbox on corner of London Rd & Priory Street, 17th May :- [7581730](https://www.fixmystreet.com/report/7581730)
 - Tesco shopping trolley, 17th May :- [7581630](https://www.fixmystreet.com/report/7581630)
 - KEEP CLEAR marking worn, 17th May :- [7581595](https://www.fixmystreet.com/report/7581595)
-- Circular pothole. Looks like the general area around it may collapse further, 17th May :- [7581352](https://www.fixmystreet.com/report/7581352)
 
 <!-- fix_marker ends -->
