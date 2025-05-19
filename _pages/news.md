@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Two men arrested after baseball bat attack ([13 hours ago](https://www.bbc.com/news/articles/c4ge7l3nvv1o))
-- Family ice cream shop celebrates 100th anniversary ([16 hours ago](https://www.bbc.com/news/articles/crr7dg8n471o))
-- Teenagers exposed to harmful content on social media ([17 hours ago](https://www.bbc.com/news/videos/c1kvmv9w348o))
-- Jousting 'still gives me goose bumps' champ says ([19 hours ago](https://www.bbc.com/news/articles/cm2yd1d3d7eo))
+- Two men arrested after baseball bat attack ([14 hours ago](https://www.bbc.com/news/articles/c4ge7l3nvv1o))
+- Family ice cream shop celebrates 100th anniversary ([17 hours ago](https://www.bbc.com/news/articles/crr7dg8n471o))
+- Teenagers exposed to harmful content on social media ([18 hours ago](https://www.bbc.com/news/videos/c1kvmv9w348o))
+- Jousting 'still gives me goose bumps' champ says ([20 hours ago](https://www.bbc.com/news/articles/cm2yd1d3d7eo))
 - Headlines: Car park walls and maternity unit closure ([20 hours ago](https://www.bbc.com/news/articles/c861wnwd753o))
 - Arrest after women threatened with bread knife ([1 days ago](https://www.bbc.com/news/articles/cvgdpnv8yp0o))
 - Four arrested after man stabbed through car window ([1 days ago](https://www.bbc.com/news/articles/cql2yerl45po))
