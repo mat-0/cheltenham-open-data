@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Broken kerb casuing traffic hazard, 19th May :- [7588281](https://www.fixmystreet.com/report/7588281)
+- Tree is damaged problem, 19th May :- [7588120](https://www.fixmystreet.com/report/7588120)
 - Pothole in road, 19th May :- [7587794](https://www.fixmystreet.com/report/7587794)
 - A number of large potholes around the church, 19th May :- [7587388](https://www.fixmystreet.com/report/7587388)
 - Potholes on road outside 38 carisbrooke road, 18th May :- [7586831](https://www.fixmystreet.com/report/7586831)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Multiple potholes, 17th May :- [7582334](https://www.fixmystreet.com/report/7582334)
 - Office chair abandoned, 17th May :- [7581967](https://www.fixmystreet.com/report/7581967)
 - Street light required in street and parking area., 17th May :- [7581731](https://www.fixmystreet.com/report/7581731)
-- Graffiti on postbox on corner of London Rd & Priory Street, 17th May :- [7581730](https://www.fixmystreet.com/report/7581730)
-- Tesco shopping trolley, 17th May :- [7581630](https://www.fixmystreet.com/report/7581630)
 
 <!-- fix_marker ends -->
