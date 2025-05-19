@@ -12,13 +12,13 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Cheltenham McDonald’s bid sparks fears loitering, crime and traffic will spike as decision due ([2 hours ago](https://gloucesternewscentre.co.uk/cheltenham-mcdonalds-bid-sparks-fears-loitering-crime-and-traffic-will-spike-as-decision-due/))
-- Plan for phase two of cyber park near GCHQ revealed ([2 hours ago](https://www.bbc.com/news/articles/clygqx2jp95o))
-- Two men freed on bail after baseball bat attack ([7 hours ago](https://www.bbc.com/news/articles/c4ge7l3nvv1o))
-- Headlines: Paw Patrol inspires mayor and rescue ([8 hours ago](https://www.bbc.com/news/articles/cj93e7x34ewo))
-- Tributes paid to country's first Green councillor ([9 hours ago](https://www.bbc.com/news/articles/cd7gvr0g0qgo))
-- Car boot set for return after eight-month wait ([12 hours ago](https://www.bbc.com/news/articles/cx2qvp3lp61o))
-- Road to close for months for work on new cycleway ([12 hours ago](https://www.bbc.com/news/articles/cded9232w5wo))
+- Cheltenham McDonald’s bid sparks fears loitering, crime and traffic will spike as decision due ([3 hours ago](https://gloucesternewscentre.co.uk/cheltenham-mcdonalds-bid-sparks-fears-loitering-crime-and-traffic-will-spike-as-decision-due/))
+- Plan for phase two of cyber park near GCHQ revealed ([3 hours ago](https://www.bbc.com/news/articles/clygqx2jp95o))
+- Two men freed on bail after baseball bat attack ([8 hours ago](https://www.bbc.com/news/articles/c4ge7l3nvv1o))
+- Headlines: Paw Patrol inspires mayor and rescue ([9 hours ago](https://www.bbc.com/news/articles/cj93e7x34ewo))
+- Tributes paid to country's first Green councillor ([10 hours ago](https://www.bbc.com/news/articles/cd7gvr0g0qgo))
+- Car boot set for return after eight-month wait ([13 hours ago](https://www.bbc.com/news/articles/cx2qvp3lp61o))
+- Road to close for months for work on new cycleway ([13 hours ago](https://www.bbc.com/news/articles/cded9232w5wo))
 - Family ice cream shop celebrates 100th anniversary ([1 days ago](https://www.bbc.com/news/articles/crr7dg8n471o))
 - Teenagers exposed to harmful content on social media ([1 days ago](https://www.bbc.com/news/videos/c1kvmv9w348o))
 - Jousting 'still gives me goose bumps' champ says ([1 days ago](https://www.bbc.com/news/articles/cm2yd1d3d7eo))
@@ -60,7 +60,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Homeowners in ‘David and Goliath’ battle over cracks in their walls ’caused by 147-home development’ ([14 days ago](https://gloucesternewscentre.co.uk/homeowners-in-david-and-goliath-battle-over-cracks-in-their-walls-caused-by-147-home-development/))
 - Fixing Gloucestershire’s ‘crumbling roads and broken services’ top aims of newly elected Shire Hall Lib Dems ([14 days ago](https://gloucesternewscentre.co.uk/fixing-gloucestershires-crumbling-roads-and-broken-services-top-aims-of-newly-elected-shire-hall-lib-dems/))
 - Police urge the public to consider if there is a genuine emergency before dialling 999 ([14 days ago](https://gloucesternewscentre.co.uk/police-urge-the-public-to-consider-if-there-is-a-genuine-emergency-before-dialling-999/))
-- Man pleads guilty to multiple thefts from vehicles in Cheltenham ([16 days ago](https://gloucesternewscentre.co.uk/man-pleads-guilty-to-multiple-thefts-from-vehicles-in-cheltenham/))
+- Man pleads guilty to multiple thefts from vehicles in Cheltenham ([17 days ago](https://gloucesternewscentre.co.uk/man-pleads-guilty-to-multiple-thefts-from-vehicles-in-cheltenham/))
 - Cheltenham Borough Council invites community input on new trees strategy ([27 days ago](https://www.cheltenham.gov.uk/news/article/3005/cheltenham_borough_council_invites_community_input_on_new_trees_strategy))
 
 <!-- news_marker ends -->
