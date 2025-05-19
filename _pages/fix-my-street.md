@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Lorry from the works being carried out has caused a number of slabs to break and are VERY uneven and unstable, 19th May :- [7591480](https://www.fixmystreet.com/report/7591480)
 - Numerous potholes all along this road, 19th May :- [7591426](https://www.fixmystreet.com/report/7591426)
 - Developers Signage, 19th May :- [7590600](https://www.fixmystreet.com/report/7590600)
 - The drain is blocked problem, 19th May :- [7590638](https://www.fixmystreet.com/report/7590638)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Pothole in road, 19th May :- [7587794](https://www.fixmystreet.com/report/7587794)
 - A number of large potholes around the church, 19th May :- [7587388](https://www.fixmystreet.com/report/7587388)
 - Potholes on road outside 38 carisbrooke road, 18th May :- [7586831](https://www.fixmystreet.com/report/7586831)
-- Sunken trench across A435 south of Bishops Cleeve, 18th May :- [7586515](https://www.fixmystreet.com/report/7586515)
 
 <!-- fix_marker ends -->
