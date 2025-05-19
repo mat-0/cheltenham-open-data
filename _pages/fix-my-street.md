@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Advertising on speed sign, 20th May :- [7592611](https://www.fixmystreet.com/report/7592611)
 - Large sunken area of tarmac in the pavement, 19th May :- [7592572](https://www.fixmystreet.com/report/7592572)
 - Lorry from the works being carried out has caused a number of slabs to break and are VERY uneven and unstable, 19th May :- [7591480](https://www.fixmystreet.com/report/7591480)
 - Numerous potholes all along this road, 19th May :- [7591426](https://www.fixmystreet.com/report/7591426)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Broken kerb casuing traffic hazard, 19th May :- [7588281](https://www.fixmystreet.com/report/7588281)
 - Tree is damaged problem, 19th May :- [7588120](https://www.fixmystreet.com/report/7588120)
 - Pothole in road, 19th May :- [7587794](https://www.fixmystreet.com/report/7587794)
-- A number of large potholes around the church, 19th May :- [7587388](https://www.fixmystreet.com/report/7587388)
 
 <!-- fix_marker ends -->

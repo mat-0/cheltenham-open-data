@@ -10,12 +10,12 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Monday, 19 May 2025
 
-- The average temperature today is 13.17˚C,
-- With highs of 13.17˚C and lows of 13.17˚C,
-- It may feel like 12.63˚C with scattered clouds
-- The wind speed is 1.81m/s and visibility is 10000m
-- The pressure is 1021hPa and humidity is 80%
-- The sun will rise at 04:09 and set at 20:00
+- The average temperature today is 11.51˚C,
+- With highs of 11.51˚C and lows of 11.51˚C,
+- It may feel like 10.83˚C with scattered clouds
+- The wind speed is 1.64m/s and visibility is 10000m
+- The pressure is 1021hPa and humidity is 81%
+- The sun will rise at 04:07 and set at 20:02
 
 <!-- weather_marker ends -->
 
