@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Traffic Chaos, 20th May :- [7593297](https://www.fixmystreet.com/report/7593297)
+- Drain rusted and thin in places, 20th May :- [7593283](https://www.fixmystreet.com/report/7593283)
 - Bikes abandoned, 20th May :- [7592778](https://www.fixmystreet.com/report/7592778)
 - Heavy vegetation growth, 20th May :- [7592765](https://www.fixmystreet.com/report/7592765)
 - Advertising on speed sign, 20th May :- [7592611](https://www.fixmystreet.com/report/7592611)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Tree is damaged problem, 19th May :- [7589344](https://www.fixmystreet.com/report/7589344)
 - Overgrown with stinging nettles and other vegetation, partially obstructing path, 19th May :- [7588783](https://www.fixmystreet.com/report/7588783)
 - Street light is permanently out problem, 19th May :- [7588856](https://www.fixmystreet.com/report/7588856)
-- Tree is damaged problem, 19th May :- [7588625](https://www.fixmystreet.com/report/7588625)
-- Broken kerb casuing traffic hazard, 19th May :- [7588281](https://www.fixmystreet.com/report/7588281)
 
 <!-- fix_marker ends -->
