@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Lights turn red on PE way for a few seconds when no other traffic/ pedestrians are present., 20th May :- [7596361](https://www.fixmystreet.com/report/7596361)
 - Lights turning red when there is no need, 20th May :- [7596334](https://www.fixmystreet.com/report/7596334)
 - Bollard damaged and fallen, 20th May :- [7596263](https://www.fixmystreet.com/report/7596263)
 - Excessively long grass and weeds,, 20th May :- [7595888](https://www.fixmystreet.com/report/7595888)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Advertising on speed sign, 20th May :- [7592611](https://www.fixmystreet.com/report/7592611)
 - Large sunken area of tarmac in the pavement, 19th May :- [7592572](https://www.fixmystreet.com/report/7592572)
 - Lorry from the works being carried out has caused a number of slabs to break and are VERY uneven and unstable, 19th May :- [7591480](https://www.fixmystreet.com/report/7591480)
-- Numerous potholes all along this road, 19th May :- [7591426](https://www.fixmystreet.com/report/7591426)
 
 <!-- fix_marker ends -->
