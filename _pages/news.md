@@ -12,14 +12,14 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Cyclist who was unable to walk breaks world record ([15 minutes ago](https://www.bbc.com/news/articles/ce822e66159o))
-- Second gross misconduct notice for chief constable ([30 minutes ago](https://www.bbc.com/news/articles/cy8nnxy83lro))
-- Headlines: Peregrine names and night buses ([2 hours ago](https://www.bbc.com/news/articles/cr7zznnkyrgo))
-- 'Axed police scheme changed me for the better' ([7 hours ago](https://www.bbc.com/news/articles/cj425087v5po))
+- Cyclist who was unable to walk breaks world record ([1 hours ago](https://www.bbc.com/news/articles/ce822e66159o))
+- Second gross misconduct notice for chief constable ([1 hours ago](https://www.bbc.com/news/articles/cy8nnxy83lro))
+- Headlines: Peregrine names and night buses ([3 hours ago](https://www.bbc.com/news/articles/cr7zznnkyrgo))
+- 'Axed police scheme changed me for the better' ([8 hours ago](https://www.bbc.com/news/articles/cj425087v5po))
 - Nobody safe from cyber attacks, says council boss ([8 hours ago](https://www.bbc.com/news/articles/cyvm4ljl2l8o))
 - Woman 'loves' new horse rescued from motorway ([17 hours ago](https://www.bbc.com/news/articles/c4g2r40ye9eo))
-- Cheltenham McDonald’s bid sparks fears loitering, crime and traffic will spike as decision due ([21 hours ago](https://gloucesternewscentre.co.uk/cheltenham-mcdonalds-bid-sparks-fears-loitering-crime-and-traffic-will-spike-as-decision-due/))
-- Plan for phase two of cyber park near GCHQ revealed ([21 hours ago](https://www.bbc.com/news/articles/clygqx2jp95o))
+- Cheltenham McDonald’s bid sparks fears loitering, crime and traffic will spike as decision due ([22 hours ago](https://gloucesternewscentre.co.uk/cheltenham-mcdonalds-bid-sparks-fears-loitering-crime-and-traffic-will-spike-as-decision-due/))
+- Plan for phase two of cyber park near GCHQ revealed ([22 hours ago](https://www.bbc.com/news/articles/clygqx2jp95o))
 - Two men freed on bail after baseball bat attack ([1 days ago](https://www.bbc.com/news/articles/c4ge7l3nvv1o))
 - Headlines: Paw Patrol inspires mayor and rescue ([1 days ago](https://www.bbc.com/news/articles/cj93e7x34ewo))
 - Tributes paid to country's first Green councillor ([1 days ago](https://www.bbc.com/news/articles/cd7gvr0g0qgo))
@@ -34,7 +34,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Police appeal for man to come forward after his dog bit a man in Cheltenham ([4 days ago](https://gloucesternewscentre.co.uk/police-appeal-for-man-to-come-forward-after-his-dog-bit-a-man-in-cheltenham/))
 - Gloucestershire star Ben Cutler returns to hometown stage ([4 days ago](https://gloucesternewscentre.co.uk/gloucestershire-star-ben-cutler-returns-to-hometown-stage/))
 - Case against Cheltenham man in relation to fox hunting stopped ([4 days ago](https://gloucesternewscentre.co.uk/case-against-cheltenham-man-in-relation-to-fox-hunting-stopped/))
-- HBD unveils phase two plans for Golden Valley at Cyber UK ([4 days ago](https://www.cheltenham.gov.uk/news/article/3012/hbd_unveils_phase_two_plans_for_golden_valley_at_cyber_uk))
+- HBD unveils phase two plans for Golden Valley at Cyber UK ([5 days ago](https://www.cheltenham.gov.uk/news/article/3012/hbd_unveils_phase_two_plans_for_golden_valley_at_cyber_uk))
 - Arle Court Transport Hub welcomes more National Express services ([5 days ago](https://gloucesternewscentre.co.uk/arle-court-transport-hub-welcomes-more-national-express-services/))
 - Golden Valley social value promise will deliver real value to communities ([5 days ago](https://www.cheltenham.gov.uk/news/article/3011/golden_valley_social_value_promise_will_deliver_real_value_to_communities))
 - Comedian Dom Joly blasts council over ‘zero action’ to remove Cheltenham ‘eyesore’ ([6 days ago](https://gloucesternewscentre.co.uk/comedian-dom-joly-blasts-council-over-zero-action-to-remove-cheltenham-eyesore/))
@@ -61,6 +61,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Fixing Gloucestershire’s ‘crumbling roads and broken services’ top aims of newly elected Shire Hall Lib Dems ([14 days ago](https://gloucesternewscentre.co.uk/fixing-gloucestershires-crumbling-roads-and-broken-services-top-aims-of-newly-elected-shire-hall-lib-dems/))
 - Police urge the public to consider if there is a genuine emergency before dialling 999 ([14 days ago](https://gloucesternewscentre.co.uk/police-urge-the-public-to-consider-if-there-is-a-genuine-emergency-before-dialling-999/))
 - Man pleads guilty to multiple thefts from vehicles in Cheltenham ([17 days ago](https://gloucesternewscentre.co.uk/man-pleads-guilty-to-multiple-thefts-from-vehicles-in-cheltenham/))
-- Cheltenham Borough Council invites community input on new trees strategy ([27 days ago](https://www.cheltenham.gov.uk/news/article/3005/cheltenham_borough_council_invites_community_input_on_new_trees_strategy))
+- Cheltenham Borough Council invites community input on new trees strategy ([28 days ago](https://www.cheltenham.gov.uk/news/article/3005/cheltenham_borough_council_invites_community_input_on_new_trees_strategy))
 
 <!-- news_marker ends -->
