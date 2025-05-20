@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Tuesday, 20 May 2025
 
-- The average temperature today is 9.05˚C,
-- With highs of 9.97˚C and lows of 8.15˚C,
-- It may feel like 9.05˚C with scattered clouds
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1021hPa and humidity is 84%
+- The average temperature today is 9.08˚C,
+- With highs of 9.41˚C and lows of 7.6˚C,
+- It may feel like 9.08˚C with scattered clouds
+- The wind speed is 0.45m/s and visibility is 10000m
+- The pressure is 1022hPa and humidity is 84%
 - The sun will rise at 04:07 and set at 20:02
 
 <!-- weather_marker ends -->
