@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- A pothole in pavement problem, 20th May :- [7593545](https://www.fixmystreet.com/report/7593545)
+- A pothole in pavement problem, 20th May :- [7593362](https://www.fixmystreet.com/report/7593362)
+- A pothole in pavement problem, 20th May :- [7593361](https://www.fixmystreet.com/report/7593361)
 - Traffic Chaos, 20th May :- [7593297](https://www.fixmystreet.com/report/7593297)
 - Drain rusted and thin in places, 20th May :- [7593283](https://www.fixmystreet.com/report/7593283)
 - Bikes abandoned, 20th May :- [7592778](https://www.fixmystreet.com/report/7592778)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - General road markings, lines and stud issues problem, 19th May :- [7589350](https://www.fixmystreet.com/report/7589350)
 - Recent reinstatement track on corinium avenue, 19th May :- [7589044](https://www.fixmystreet.com/report/7589044)
 - The drain is blocked problem, 19th May :- [7589346](https://www.fixmystreet.com/report/7589346)
-- Tree is damaged problem, 19th May :- [7589344](https://www.fixmystreet.com/report/7589344)
-- Overgrown with stinging nettles and other vegetation, partially obstructing path, 19th May :- [7588783](https://www.fixmystreet.com/report/7588783)
-- Street light is permanently out problem, 19th May :- [7588856](https://www.fixmystreet.com/report/7588856)
 
 <!-- fix_marker ends -->
