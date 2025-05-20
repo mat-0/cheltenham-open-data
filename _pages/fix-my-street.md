@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fly tipping, builders waste left on grass verge, 20th May :- [7594979](https://www.fixmystreet.com/report/7594979)
 - Flytipped Trolley, 20th May :- [7594873](https://www.fixmystreet.com/report/7594873)
 - Flytipped Item, 20th May :- [7594866](https://www.fixmystreet.com/report/7594866)
 - Flytipped items, 20th May :- [7594859](https://www.fixmystreet.com/report/7594859)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - The drain is blocked problem, 19th May :- [7590638](https://www.fixmystreet.com/report/7590638)
 - The drain is blocked problem, 19th May :- [7590457](https://www.fixmystreet.com/report/7590457)
 - Yellow lines too close to island on road. Parking issues., 19th May :- [7589632](https://www.fixmystreet.com/report/7589632)
-- Drain blocked with dirt/dust, 19th May :- [7589442](https://www.fixmystreet.com/report/7589442)
 
 <!-- fix_marker ends -->
