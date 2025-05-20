@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole on cycleway, could cause accident, 20th May :- [7596943](https://www.fixmystreet.com/report/7596943)
+- Hanging into the path at head height, 20th May :- [7596851](https://www.fixmystreet.com/report/7596851)
 - Lights turn red on PE way for a few seconds when no other traffic/ pedestrians are present., 20th May :- [7596361](https://www.fixmystreet.com/report/7596361)
 - Lights turning red when there is no need, 20th May :- [7596334](https://www.fixmystreet.com/report/7596334)
 - Bollard damaged and fallen, 20th May :- [7596263](https://www.fixmystreet.com/report/7596263)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Bikes abandoned, 20th May :- [7592778](https://www.fixmystreet.com/report/7592778)
 - Heavy vegetation growth, 20th May :- [7592765](https://www.fixmystreet.com/report/7592765)
 - Advertising on speed sign, 20th May :- [7592611](https://www.fixmystreet.com/report/7592611)
-- Large sunken area of tarmac in the pavement, 19th May :- [7592572](https://www.fixmystreet.com/report/7592572)
-- Lorry from the works being carried out has caused a number of slabs to break and are VERY uneven and unstable, 19th May :- [7591480](https://www.fixmystreet.com/report/7591480)
 
 <!-- fix_marker ends -->
