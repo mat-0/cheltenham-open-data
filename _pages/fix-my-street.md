@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Bikes abandoned, 20th May :- [7592778](https://www.fixmystreet.com/report/7592778)
+- Heavy vegetation growth, 20th May :- [7592765](https://www.fixmystreet.com/report/7592765)
 - Advertising on speed sign, 20th May :- [7592611](https://www.fixmystreet.com/report/7592611)
 - Large sunken area of tarmac in the pavement, 19th May :- [7592572](https://www.fixmystreet.com/report/7592572)
 - Lorry from the works being carried out has caused a number of slabs to break and are VERY uneven and unstable, 19th May :- [7591480](https://www.fixmystreet.com/report/7591480)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Street light is permanently out problem, 19th May :- [7588856](https://www.fixmystreet.com/report/7588856)
 - Tree is damaged problem, 19th May :- [7588625](https://www.fixmystreet.com/report/7588625)
 - Broken kerb casuing traffic hazard, 19th May :- [7588281](https://www.fixmystreet.com/report/7588281)
-- Tree is damaged problem, 19th May :- [7588120](https://www.fixmystreet.com/report/7588120)
-- Pothole in road, 19th May :- [7587794](https://www.fixmystreet.com/report/7587794)
 
 <!-- fix_marker ends -->
