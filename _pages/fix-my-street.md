@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipped Trolley, 20th May :- [7594873](https://www.fixmystreet.com/report/7594873)
+- Flytipped Item, 20th May :- [7594866](https://www.fixmystreet.com/report/7594866)
+- Flytipped items, 20th May :- [7594859](https://www.fixmystreet.com/report/7594859)
+- Really deep pothole, 20th May :- [7594823](https://www.fixmystreet.com/report/7594823)
 - A pothole in pavement problem, 20th May :- [7593545](https://www.fixmystreet.com/report/7593545)
 - A pothole in pavement problem, 20th May :- [7593362](https://www.fixmystreet.com/report/7593362)
 - A pothole in pavement problem, 20th May :- [7593361](https://www.fixmystreet.com/report/7593361)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - The drain is blocked problem, 19th May :- [7590457](https://www.fixmystreet.com/report/7590457)
 - Yellow lines too close to island on road. Parking issues., 19th May :- [7589632](https://www.fixmystreet.com/report/7589632)
 - Drain blocked with dirt/dust, 19th May :- [7589442](https://www.fixmystreet.com/report/7589442)
-- A pothole in pavement problem, 19th May :- [7589566](https://www.fixmystreet.com/report/7589566)
-- General road markings, lines and stud issues problem, 19th May :- [7589350](https://www.fixmystreet.com/report/7589350)
-- Recent reinstatement track on corinium avenue, 19th May :- [7589044](https://www.fixmystreet.com/report/7589044)
-- The drain is blocked problem, 19th May :- [7589346](https://www.fixmystreet.com/report/7589346)
 
 <!-- fix_marker ends -->
