@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Excessively long grass and weeds,, 20th May :- [7595888](https://www.fixmystreet.com/report/7595888)
+- Weeds growing up through pavement, 20th May :- [7595713](https://www.fixmystreet.com/report/7595713)
 - Fly tipping, builders waste left on grass verge, 20th May :- [7594979](https://www.fixmystreet.com/report/7594979)
 - Flytipped Trolley, 20th May :- [7594873](https://www.fixmystreet.com/report/7594873)
 - Flytipped Item, 20th May :- [7594866](https://www.fixmystreet.com/report/7594866)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Numerous potholes all along this road, 19th May :- [7591426](https://www.fixmystreet.com/report/7591426)
 - Developers Signage, 19th May :- [7590600](https://www.fixmystreet.com/report/7590600)
 - The drain is blocked problem, 19th May :- [7590638](https://www.fixmystreet.com/report/7590638)
-- The drain is blocked problem, 19th May :- [7590457](https://www.fixmystreet.com/report/7590457)
-- Yellow lines too close to island on road. Parking issues., 19th May :- [7589632](https://www.fixmystreet.com/report/7589632)
 
 <!-- fix_marker ends -->
