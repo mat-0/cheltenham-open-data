@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Car obstructing turning into Manor Park. It's been there for over a month., 20th May :- [7597260](https://www.fixmystreet.com/report/7597260)
 - Pothole on cycleway, could cause accident, 20th May :- [7596943](https://www.fixmystreet.com/report/7596943)
 - Hanging into the path at head height, 20th May :- [7596851](https://www.fixmystreet.com/report/7596851)
 - Lights turn red on PE way for a few seconds when no other traffic/ pedestrians are present., 20th May :- [7596361](https://www.fixmystreet.com/report/7596361)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Drain rusted and thin in places, 20th May :- [7593283](https://www.fixmystreet.com/report/7593283)
 - Bikes abandoned, 20th May :- [7592778](https://www.fixmystreet.com/report/7592778)
 - Heavy vegetation growth, 20th May :- [7592765](https://www.fixmystreet.com/report/7592765)
-- Advertising on speed sign, 20th May :- [7592611](https://www.fixmystreet.com/report/7592611)
 
 <!-- fix_marker ends -->
