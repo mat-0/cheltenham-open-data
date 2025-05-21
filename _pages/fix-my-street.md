@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Stinging nettles overgrown path, 21st May :- [7598667](https://www.fixmystreet.com/report/7598667)
+- No Road Markings, 21st May :- [7598607](https://www.fixmystreet.com/report/7598607)
+- Dangerous damage to manhole cover on cycle path, 21st May :- [7598540](https://www.fixmystreet.com/report/7598540)
+- Unpermitted roadworks problem, 21st May :- [7598628](https://www.fixmystreet.com/report/7598628)
+- Ash Tree located on Highway land problem, 21st May :- [7598627](https://www.fixmystreet.com/report/7598627)
+- Light sensor is not detecting vehicles problem, 21st May :- [7598437](https://www.fixmystreet.com/report/7598437)
 - Fly tipping, 21st May :- [7598263](https://www.fixmystreet.com/report/7598263)
 - Flytipping, 21st May :- [7598241](https://www.fixmystreet.com/report/7598241)
 - Overgrown round about, 20th May :- [7597635](https://www.fixmystreet.com/report/7597635)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Excessively long grass and weeds,, 20th May :- [7595888](https://www.fixmystreet.com/report/7595888)
 - Weeds growing up through pavement, 20th May :- [7595713](https://www.fixmystreet.com/report/7595713)
 - Fly tipping, builders waste left on grass verge, 20th May :- [7594979](https://www.fixmystreet.com/report/7594979)
-- Flytipped Trolley, 20th May :- [7594873](https://www.fixmystreet.com/report/7594873)
-- Flytipped Item, 20th May :- [7594866](https://www.fixmystreet.com/report/7594866)
-- Flytipped items, 20th May :- [7594859](https://www.fixmystreet.com/report/7594859)
-- Really deep pothole, 20th May :- [7594823](https://www.fixmystreet.com/report/7594823)
-- A pothole in pavement problem, 20th May :- [7593545](https://www.fixmystreet.com/report/7593545)
-- A pothole in pavement problem, 20th May :- [7593362](https://www.fixmystreet.com/report/7593362)
 
 <!-- fix_marker ends -->
