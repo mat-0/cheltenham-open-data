@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Abandoned shopping trolley in River Chelt, 21st May :- [7601121](https://www.fixmystreet.com/report/7601121)
+- Dangerous 60mph speed limit outside a very busy Dunkertons, 21st May :- [7601117](https://www.fixmystreet.com/report/7601117)
+- More fly tipping, 21st May :- [7601059](https://www.fixmystreet.com/report/7601059)
 - Abandoned dining chair, 21st May :- [7600962](https://www.fixmystreet.com/report/7600962)
 - Fly poster on lamppost outside No 27 Everest Rd, 21st May :- [7600828](https://www.fixmystreet.com/report/7600828)
 - The manhole is surrounded by a barrier & has been for weeks, 21st May :- [7600717](https://www.fixmystreet.com/report/7600717)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Dangerous damage to manhole cover on cycle path, 21st May :- [7598540](https://www.fixmystreet.com/report/7598540)
 - Unpermitted roadworks problem, 21st May :- [7598628](https://www.fixmystreet.com/report/7598628)
 - Ash Tree located on Highway land problem, 21st May :- [7598627](https://www.fixmystreet.com/report/7598627)
-- Light sensor is not detecting vehicles problem, 21st May :- [7598437](https://www.fixmystreet.com/report/7598437)
-- Fly tipping, 21st May :- [7598263](https://www.fixmystreet.com/report/7598263)
-- Flytipping, 21st May :- [7598241](https://www.fixmystreet.com/report/7598241)
 
 <!-- fix_marker ends -->
