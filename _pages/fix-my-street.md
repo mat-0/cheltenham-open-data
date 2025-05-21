@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Smell of sewage over the few weeks, at all times of day., 21st May :- [7602035](https://www.fixmystreet.com/report/7602035)
+- Pedestrian sensor deactivates whilst standing at lights. Has been happening for at least 6 months., 21st May :- [7602003](https://www.fixmystreet.com/report/7602003)
 - Pot hole which is gradually getting worse. I know the road is down for being resurfaced in July but it is getting really bad, 21st May :- [7601456](https://www.fixmystreet.com/report/7601456)
 - Abandoned shopping trolley in River Chelt, 21st May :- [7601121](https://www.fixmystreet.com/report/7601121)
 - Dangerous 60mph speed limit outside a very busy Dunkertons, 21st May :- [7601117](https://www.fixmystreet.com/report/7601117)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Why is someone allowed to camp on the busy pavement??, 21st May :- [7599083](https://www.fixmystreet.com/report/7599083)
 - Stinging nettles overgrown path, 21st May :- [7598667](https://www.fixmystreet.com/report/7598667)
 - No Road Markings, 21st May :- [7598607](https://www.fixmystreet.com/report/7598607)
-- Dangerous damage to manhole cover on cycle path, 21st May :- [7598540](https://www.fixmystreet.com/report/7598540)
-- Unpermitted roadworks problem, 21st May :- [7598628](https://www.fixmystreet.com/report/7598628)
 
 <!-- fix_marker ends -->
