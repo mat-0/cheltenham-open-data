@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Wednesday, 21 May 2025
 
-- The average temperature today is 13.86˚C,
-- With highs of 13.86˚C and lows of 13.86˚C,
-- It may feel like 13.47˚C with scattered clouds
-- The wind speed is 2.24m/s and visibility is 10000m
-- The pressure is 1018hPa and humidity is 83%
+- The average temperature today is 11.96˚C,
+- With highs of 11.96˚C and lows of 11.96˚C,
+- It may feel like 11.33˚C with few clouds
+- The wind speed is 2.11m/s and visibility is 10000m
+- The pressure is 1018hPa and humidity is 81%
 - The sun will rise at 04:06 and set at 20:03
 
 <!-- weather_marker ends -->
