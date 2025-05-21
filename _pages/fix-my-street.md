@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Undulating road surface, 21st May :- [7602804](https://www.fixmystreet.com/report/7602804)
+- Dangerous road surface and no road markings, 21st May :- [7602793](https://www.fixmystreet.com/report/7602793)
+- Blocked Drains, 21st May :- [7602746](https://www.fixmystreet.com/report/7602746)
 - Near the corner of Alma Road, 21st May :- [7602487](https://www.fixmystreet.com/report/7602487)
 - Multiple potholes outside 64, 21st May :- [7602476](https://www.fixmystreet.com/report/7602476)
 - Pothole dangerous for 2 wheel vehicles, 21st May :- [7602475](https://www.fixmystreet.com/report/7602475)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Broken and cracked asphalt on the pavement; broken and sunken kerbstones, and the whole thing a general mess!, 21st May :- [7600594](https://www.fixmystreet.com/report/7600594)
 - Road is blocked completely with multiple vehicles and fencing,, 21st May :- [7600103](https://www.fixmystreet.com/report/7600103)
 - Pavement not cleaned following fibre broadband cabling last week., 21st May :- [7600080](https://www.fixmystreet.com/report/7600080)
-- Trolley reported now moved to outside play area, 21st May :- [7599817](https://www.fixmystreet.com/report/7599817)
-- This tree is blocking the street light it needs cutting back hanging in my garden and compromising my wall foundation, 21st May :- [7599669](https://www.fixmystreet.com/report/7599669)
-- Bollard missing on a very lane, 21st May :- [7599399](https://www.fixmystreet.com/report/7599399)
 
 <!-- fix_marker ends -->
