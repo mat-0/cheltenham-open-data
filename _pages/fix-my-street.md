@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fly tipping, 21st May :- [7598263](https://www.fixmystreet.com/report/7598263)
+- Flytipping, 21st May :- [7598241](https://www.fixmystreet.com/report/7598241)
 - Overgrown round about, 20th May :- [7597635](https://www.fixmystreet.com/report/7597635)
 - 3-4 unavoidable potholes, 20th May :- [7597631](https://www.fixmystreet.com/report/7597631)
 - Street lights have been off for about 3 weeks, 20th May :- [7597624](https://www.fixmystreet.com/report/7597624)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Really deep pothole, 20th May :- [7594823](https://www.fixmystreet.com/report/7594823)
 - A pothole in pavement problem, 20th May :- [7593545](https://www.fixmystreet.com/report/7593545)
 - A pothole in pavement problem, 20th May :- [7593362](https://www.fixmystreet.com/report/7593362)
-- A pothole in pavement problem, 20th May :- [7593361](https://www.fixmystreet.com/report/7593361)
-- Traffic Chaos, 20th May :- [7593297](https://www.fixmystreet.com/report/7593297)
 
 <!-- fix_marker ends -->
