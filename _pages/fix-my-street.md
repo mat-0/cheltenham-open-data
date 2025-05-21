@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Trolley reported now moved to outside play area, 21st May :- [7599817](https://www.fixmystreet.com/report/7599817)
+- This tree is blocking the street light it needs cutting back hanging in my garden and compromising my wall foundation, 21st May :- [7599669](https://www.fixmystreet.com/report/7599669)
 - Bollard missing on a very lane, 21st May :- [7599399](https://www.fixmystreet.com/report/7599399)
 - Why is someone allowed to camp on the busy pavement??, 21st May :- [7599083](https://www.fixmystreet.com/report/7599083)
 - Stinging nettles overgrown path, 21st May :- [7598667](https://www.fixmystreet.com/report/7598667)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Hanging into the path at head height, 20th May :- [7596851](https://www.fixmystreet.com/report/7596851)
 - Lights turn red on PE way for a few seconds when no other traffic/ pedestrians are present., 20th May :- [7596361](https://www.fixmystreet.com/report/7596361)
 - Lights turning red when there is no need, 20th May :- [7596334](https://www.fixmystreet.com/report/7596334)
-- Bollard damaged and fallen, 20th May :- [7596263](https://www.fixmystreet.com/report/7596263)
-- Excessively long grass and weeds,, 20th May :- [7595888](https://www.fixmystreet.com/report/7595888)
 
 <!-- fix_marker ends -->
