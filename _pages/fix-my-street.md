@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Broken and cracked asphalt on the pavement; broken and sunken kerbstones, and the whole thing a general mess!, 21st May :- [7600594](https://www.fixmystreet.com/report/7600594)
 - Road is blocked completely with multiple vehicles and fencing,, 21st May :- [7600103](https://www.fixmystreet.com/report/7600103)
 - Pavement not cleaned following fibre broadband cabling last week., 21st May :- [7600080](https://www.fixmystreet.com/report/7600080)
 - Trolley reported now moved to outside play area, 21st May :- [7599817](https://www.fixmystreet.com/report/7599817)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - 3-4 unavoidable potholes, 20th May :- [7597631](https://www.fixmystreet.com/report/7597631)
 - Street lights have been off for about 3 weeks, 20th May :- [7597624](https://www.fixmystreet.com/report/7597624)
 - Car obstructing turning into Manor Park. It's been there for over a month., 20th May :- [7597260](https://www.fixmystreet.com/report/7597260)
-- Pothole on cycleway, could cause accident, 20th May :- [7596943](https://www.fixmystreet.com/report/7596943)
 
 <!-- fix_marker ends -->
