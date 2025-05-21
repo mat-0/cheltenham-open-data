@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Why is someone allowed to camp on the busy pavement??, 21st May :- [7599083](https://www.fixmystreet.com/report/7599083)
 - Stinging nettles overgrown path, 21st May :- [7598667](https://www.fixmystreet.com/report/7598667)
 - No Road Markings, 21st May :- [7598607](https://www.fixmystreet.com/report/7598607)
 - Dangerous damage to manhole cover on cycle path, 21st May :- [7598540](https://www.fixmystreet.com/report/7598540)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Bollard damaged and fallen, 20th May :- [7596263](https://www.fixmystreet.com/report/7596263)
 - Excessively long grass and weeds,, 20th May :- [7595888](https://www.fixmystreet.com/report/7595888)
 - Weeds growing up through pavement, 20th May :- [7595713](https://www.fixmystreet.com/report/7595713)
-- Fly tipping, builders waste left on grass verge, 20th May :- [7594979](https://www.fixmystreet.com/report/7594979)
 
 <!-- fix_marker ends -->
