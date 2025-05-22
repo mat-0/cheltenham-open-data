@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree limbs overhanging path and falling., 22nd May :- [7604869](https://www.fixmystreet.com/report/7604869)
+- Blocking visibility on road/junction (Grass/verge) problem, 22nd May :- [7604894](https://www.fixmystreet.com/report/7604894)
+- Hanging branch, 22nd May :- [7604820](https://www.fixmystreet.com/report/7604820)
+- Pothole between path & road before driveway of 63, 22nd May :- [7604797](https://www.fixmystreet.com/report/7604797)
 - Leaves and moss needs clearing, 22nd May :- [7604153](https://www.fixmystreet.com/report/7604153)
 - Tree is damaged problem, 22nd May :- [7604174](https://www.fixmystreet.com/report/7604174)
 - Fly posting on dangerous mini roundabout, 22nd May :- [7603626](https://www.fixmystreet.com/report/7603626)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Smell of sewage over the few weeks, at all times of day., 21st May :- [7602035](https://www.fixmystreet.com/report/7602035)
 - Pedestrian sensor deactivates whilst standing at lights. Has been happening for at least 6 months., 21st May :- [7602003](https://www.fixmystreet.com/report/7602003)
 - Pot hole which is gradually getting worse. I know the road is down for being resurfaced in July but it is getting really bad, 21st May :- [7601456](https://www.fixmystreet.com/report/7601456)
-- Abandoned shopping trolley in River Chelt, 21st May :- [7601121](https://www.fixmystreet.com/report/7601121)
-- Dangerous 60mph speed limit outside a very busy Dunkertons, 21st May :- [7601117](https://www.fixmystreet.com/report/7601117)
-- More fly tipping, 21st May :- [7601059](https://www.fixmystreet.com/report/7601059)
-- Abandoned dining chair, 21st May :- [7600962](https://www.fixmystreet.com/report/7600962)
 
 <!-- fix_marker ends -->
