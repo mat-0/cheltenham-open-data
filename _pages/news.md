@@ -12,13 +12,13 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- New traffic rules as village faces 'overtourism' ([10 hours ago](https://www.bbc.com/news/articles/cvg99j1y39ro))
-- Judge tells jailed drug dealer to 'grow up' ([11 hours ago](https://www.bbc.com/news/articles/cp3qqky8gnwo))
+- New traffic rules as village faces 'overtourism' ([11 hours ago](https://www.bbc.com/news/articles/cvg99j1y39ro))
+- Judge tells jailed drug dealer to 'grow up' ([12 hours ago](https://www.bbc.com/news/articles/cp3qqky8gnwo))
 - Liberal Democrat Lisa Spivey elected as County Council’s first female leader ([12 hours ago](https://gloucesternewscentre.co.uk/liberal-democrat-lisa-spivey-elected-as-county-councils-first-female-leader/))
 - Town street ‘plagued with near-miss accidents’ sparks road safety review ([12 hours ago](https://gloucesternewscentre.co.uk/town-street-plagued-with-near-miss-accidents-sparks-road-safety-review/))
-- High rise fire and eerie shipwrecks ([17 hours ago](https://www.bbc.com/news/articles/cre99p0g8vxo))
+- High rise fire and eerie shipwrecks ([18 hours ago](https://www.bbc.com/news/articles/cre99p0g8vxo))
 - Man arrested over racist attack on taxi driver ([19 hours ago](https://www.bbc.com/news/articles/c87jjwnqxz2o))
-- Police told to urgently improve child safeguarding ([20 hours ago](https://www.bbc.com/news/articles/clyggrx8njeo))
+- Police told to urgently improve child safeguarding ([21 hours ago](https://www.bbc.com/news/articles/clyggrx8njeo))
 - ‘Loitering and crime’ fears over new McDonald’s ([22 hours ago](https://www.bbc.com/news/articles/ckg4xerxx67o))
 - The former West MPs given a new lease of political life – in Parliament ([22 hours ago](https://www.bbc.com/news/articles/cp8y26vvkyxo))
 - Gloucestershire Airport bidders ‘have investment plans’ to secure aviation ([1 days ago](https://gloucesternewscentre.co.uk/gloucestershire-airport-bidders-have-investment-plans-to-secure-aviation/))
