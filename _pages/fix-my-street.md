@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Leaves and moss needs clearing, 22nd May :- [7604153](https://www.fixmystreet.com/report/7604153)
+- Tree is damaged problem, 22nd May :- [7604174](https://www.fixmystreet.com/report/7604174)
 - Fly posting on dangerous mini roundabout, 22nd May :- [7603626](https://www.fixmystreet.com/report/7603626)
 - Degraded road surface, 22nd May :- [7603450](https://www.fixmystreet.com/report/7603450)
 - Large pothole, 22nd May :- [7603443](https://www.fixmystreet.com/report/7603443)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Dangerous 60mph speed limit outside a very busy Dunkertons, 21st May :- [7601117](https://www.fixmystreet.com/report/7601117)
 - More fly tipping, 21st May :- [7601059](https://www.fixmystreet.com/report/7601059)
 - Abandoned dining chair, 21st May :- [7600962](https://www.fixmystreet.com/report/7600962)
-- Fly poster on lamppost outside No 27 Everest Rd, 21st May :- [7600828](https://www.fixmystreet.com/report/7600828)
-- The manhole is surrounded by a barrier & has been for weeks, 21st May :- [7600717](https://www.fixmystreet.com/report/7600717)
 
 <!-- fix_marker ends -->
