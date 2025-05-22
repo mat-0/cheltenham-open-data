@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fly posting on dangerous mini roundabout, 22nd May :- [7603626](https://www.fixmystreet.com/report/7603626)
 - Degraded road surface, 22nd May :- [7603450](https://www.fixmystreet.com/report/7603450)
 - Large pothole, 22nd May :- [7603443](https://www.fixmystreet.com/report/7603443)
 - Car registration plate stuck to tarmac, 22nd May :- [7603093](https://www.fixmystreet.com/report/7603093)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Abandoned dining chair, 21st May :- [7600962](https://www.fixmystreet.com/report/7600962)
 - Fly poster on lamppost outside No 27 Everest Rd, 21st May :- [7600828](https://www.fixmystreet.com/report/7600828)
 - The manhole is surrounded by a barrier & has been for weeks, 21st May :- [7600717](https://www.fixmystreet.com/report/7600717)
-- Post or sign leaning slightly (less than 20 degrees) problem, 21st May :- [7600726](https://www.fixmystreet.com/report/7600726)
 
 <!-- fix_marker ends -->
