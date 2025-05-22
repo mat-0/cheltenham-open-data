@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- A large pothole has open up on the road outside Mary P's Nursery, 22nd May :- [7605552](https://www.fixmystreet.com/report/7605552)
+- 9 inch pipe from drainage ditch to other side of the road blocked . We have all suffered flooding in the last 12 months, 22nd May :- [7605501](https://www.fixmystreet.com/report/7605501)
+- Campervan and caravan parked off Hucclecote Road, 22nd May :- [7605453](https://www.fixmystreet.com/report/7605453)
 - Flytipped packaging St Paul’s St North, 22nd May :- [7605374](https://www.fixmystreet.com/report/7605374)
 - Flytipped furniture Swindon Road, 22nd May :- [7605367](https://www.fixmystreet.com/report/7605367)
 - Fly tipping at junction of Rose and Crown Passage and Baynham Way., 22nd May :- [7605214](https://www.fixmystreet.com/report/7605214)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Degraded road surface, 22nd May :- [7603450](https://www.fixmystreet.com/report/7603450)
 - Large pothole, 22nd May :- [7603443](https://www.fixmystreet.com/report/7603443)
 - Car registration plate stuck to tarmac, 22nd May :- [7603093](https://www.fixmystreet.com/report/7603093)
-- Undulating road surface, 21st May :- [7602804](https://www.fixmystreet.com/report/7602804)
-- Dangerous road surface and no road markings, 21st May :- [7602793](https://www.fixmystreet.com/report/7602793)
-- Blocked Drains, 21st May :- [7602746](https://www.fixmystreet.com/report/7602746)
 
 <!-- fix_marker ends -->
