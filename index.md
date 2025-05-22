@@ -10,10 +10,10 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Thursday, 22 May 2025
 
-- The average temperature today is 14.61˚C,
-- With highs of 14.84˚C and lows of 14.41˚C,
-- It may feel like 13.67˚C with few clouds
-- The wind speed is 3.09m/s and visibility is 10000m
+- The average temperature today is 14.03˚C,
+- With highs of 14.75˚C and lows of 13.86˚C,
+- It may feel like 13.03˚C with few clouds
+- The wind speed is 3.6m/s and visibility is 10000m
 - The pressure is 1020hPa and humidity is 59%
 - The sun will rise at 04:05 and set at 20:05
 
