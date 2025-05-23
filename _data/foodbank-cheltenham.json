@@ -96,11 +96,11 @@
     }
   },
   "need": {
-    "id": "e1febed8",
-    "needs": "Adult Toothpaste\nShampoo - Ladies And Men's\nLong Life Milk\nFruit Juice / Squash\nToilet Rolls\nCuppa Soups\nTinned Cold Meat (Or Fish)",
-    "excess": "Nappies In Most Sizes\nSanitary Products\nBaby Food",
-    "created": "2025-05-16T08:17:13.111",
-    "self": "https://www.givefood.org.uk/api/2/need/e1febed8/"
+    "id": "428140c9",
+    "needs": "Adult Toothpaste\nShampoo - Ladies And Men's\nLong Life Milk\nFruit Juice / Squash\nBars Of Soap\nCuppa Soups Or Tinned Soups\nTinned Cold Meat",
+    "excess": "Nappies In Most Sizes\nSanitary Products\nBaby Food\nPulses\nTeabags",
+    "created": "2025-05-23T20:27:23.683",
+    "self": "https://www.givefood.org.uk/api/2/need/428140c9/"
   },
   "nearby_foodbanks": [
     {
