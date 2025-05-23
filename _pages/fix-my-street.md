@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Badly broken paving slab outside 18 Coltham Rd is a trip hazard, 23rd May :- [7610821](https://www.fixmystreet.com/report/7610821)
+- There is a pothole close to 9 Coltham Road which needs repair, 23rd May :- [7610801](https://www.fixmystreet.com/report/7610801)
+- Badgeworth lane, in the 50MPH zone, large area of road now 1 deep pot hole !, 23rd May :- [7610703](https://www.fixmystreet.com/report/7610703)
+- End of North Road west, junction blocked to due overgrown verges both sides, 23rd May :- [7610678](https://www.fixmystreet.com/report/7610678)
 - Uneven surface on footpath, 23rd May :- [7610520](https://www.fixmystreet.com/report/7610520)
 - Uneven pavement, Poole Way, by pedestrian crossing, traffic pole 13, 23rd May :- [7610229](https://www.fixmystreet.com/report/7610229)
 - Trenches across the road after utility work, the eegs of which are deteriorating with age and heavy vehicles, potentially causing significant danger to cyclists, motorists and nearby property., 23rd May :- [7610111](https://www.fixmystreet.com/report/7610111)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Flyposter on telegraph pole attached with plastic ties, 23rd May :- [7608721](https://www.fixmystreet.com/report/7608721)
 - Pothole round manhole cover at start of street, 23rd May :- [7608299](https://www.fixmystreet.com/report/7608299)
 - Grass has not been cut this year. Grass and verge very long, 23rd May :- [7608283](https://www.fixmystreet.com/report/7608283)
-- Tree is damaged problem, 23rd May :- [7608228](https://www.fixmystreet.com/report/7608228)
-- Noise of manhole when driven over, 23rd May :- [7607783](https://www.fixmystreet.com/report/7607783)
-- Grass over ran the pavement, 22nd May :- [7607260](https://www.fixmystreet.com/report/7607260)
-- Safety risk of fencing, 22nd May :- [7606556](https://www.fixmystreet.com/report/7606556)
 
 <!-- fix_marker ends -->
