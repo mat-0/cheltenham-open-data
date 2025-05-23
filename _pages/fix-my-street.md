@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flyposter on telegraph pole attached with plastic ties, 23rd May :- [7608721](https://www.fixmystreet.com/report/7608721)
 - Pothole round manhole cover at start of street, 23rd May :- [7608299](https://www.fixmystreet.com/report/7608299)
 - Grass has not been cut this year. Grass and verge very long, 23rd May :- [7608283](https://www.fixmystreet.com/report/7608283)
 - Tree is damaged problem, 23rd May :- [7608228](https://www.fixmystreet.com/report/7608228)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Flytipped furniture Swindon Road, 22nd May :- [7605367](https://www.fixmystreet.com/report/7605367)
 - Fly tipping at junction of Rose and Crown Passage and Baynham Way., 22nd May :- [7605214](https://www.fixmystreet.com/report/7605214)
 - Low Trees, 22nd May :- [7605137](https://www.fixmystreet.com/report/7605137)
-- Low trees, 22nd May :- [7605121](https://www.fixmystreet.com/report/7605121)
 
 <!-- fix_marker ends -->
