@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Lots of large potholes very close togheter, making it impossible to avoid, 23rd May :- [7609237](https://www.fixmystreet.com/report/7609237)
+- Give way line by traffic lights very faded, 23rd May :- [7609040](https://www.fixmystreet.com/report/7609040)
+- No entry faded, 23rd May :- [7609000](https://www.fixmystreet.com/report/7609000)
+- Dead deer on A417 next to A46 roundabout pillar, 23rd May :- [7608925](https://www.fixmystreet.com/report/7608925)
 - Flyposter on telegraph pole attached with plastic ties, 23rd May :- [7608721](https://www.fixmystreet.com/report/7608721)
 - Pothole round manhole cover at start of street, 23rd May :- [7608299](https://www.fixmystreet.com/report/7608299)
 - Grass has not been cut this year. Grass and verge very long, 23rd May :- [7608283](https://www.fixmystreet.com/report/7608283)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - 9 inch pipe from drainage ditch to other side of the road blocked . We have all suffered flooding in the last 12 months, 22nd May :- [7605501](https://www.fixmystreet.com/report/7605501)
 - Campervan and caravan parked off Hucclecote Road, 22nd May :- [7605453](https://www.fixmystreet.com/report/7605453)
 - Flytipped packaging St Paul’s St North, 22nd May :- [7605374](https://www.fixmystreet.com/report/7605374)
-- A pothole in road problem, 22nd May :- [7608400](https://www.fixmystreet.com/report/7608400)
-- Flytipped furniture Swindon Road, 22nd May :- [7605367](https://www.fixmystreet.com/report/7605367)
-- Fly tipping at junction of Rose and Crown Passage and Baynham Way., 22nd May :- [7605214](https://www.fixmystreet.com/report/7605214)
-- Low Trees, 22nd May :- [7605137](https://www.fixmystreet.com/report/7605137)
 
 <!-- fix_marker ends -->
