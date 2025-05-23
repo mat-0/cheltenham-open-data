@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Uneven surface on footpath, 23rd May :- [7610520](https://www.fixmystreet.com/report/7610520)
 - Uneven pavement, Poole Way, by pedestrian crossing, traffic pole 13, 23rd May :- [7610229](https://www.fixmystreet.com/report/7610229)
 - Trenches across the road after utility work, the eegs of which are deteriorating with age and heavy vehicles, potentially causing significant danger to cyclists, motorists and nearby property., 23rd May :- [7610111](https://www.fixmystreet.com/report/7610111)
 - Confusing road marking causing traffic near-misses., 23rd May :- [7610038](https://www.fixmystreet.com/report/7610038)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Noise of manhole when driven over, 23rd May :- [7607783](https://www.fixmystreet.com/report/7607783)
 - Grass over ran the pavement, 22nd May :- [7607260](https://www.fixmystreet.com/report/7607260)
 - Safety risk of fencing, 22nd May :- [7606556](https://www.fixmystreet.com/report/7606556)
-- Pavement in poor state of repair: hazardous for people with sight problems, 22nd May :- [7606278](https://www.fixmystreet.com/report/7606278)
 
 <!-- fix_marker ends -->
