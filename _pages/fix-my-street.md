@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Antisemitic political propaganda stickers, 23rd May :- [7611871](https://www.fixmystreet.com/report/7611871)
+- Extremist political propaganda stickers, 23rd May :- [7611855](https://www.fixmystreet.com/report/7611855)
 - Dangerous place to cross - busy roundabout, 23rd May :- [7611332](https://www.fixmystreet.com/report/7611332)
 - Tree is overgrown and a danger to people and property, 23rd May :- [7611317](https://www.fixmystreet.com/report/7611317)
 - Tree is damaged, 23rd May :- [7611222](https://www.fixmystreet.com/report/7611222)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Both 30mph speed limit signs are obscured by vegetation, 23rd May :- [7609415](https://www.fixmystreet.com/report/7609415)
 - Lots of large potholes very close togheter, making it impossible to avoid, 23rd May :- [7609237](https://www.fixmystreet.com/report/7609237)
 - Give way line by traffic lights very faded, 23rd May :- [7609040](https://www.fixmystreet.com/report/7609040)
-- No entry faded, 23rd May :- [7609000](https://www.fixmystreet.com/report/7609000)
-- Dead deer on A417 next to A46 roundabout pillar, 23rd May :- [7608925](https://www.fixmystreet.com/report/7608925)
 
 <!-- fix_marker ends -->
