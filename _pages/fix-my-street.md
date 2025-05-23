@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The bollard was ripped out by a lorry. Repair to pavement badly done, now a trip hazzard. No bollard replaced, 23rd May :- [7609716](https://www.fixmystreet.com/report/7609716)
+- Pedestrian button deactivates whilst waiting at lights., 23rd May :- [7609657](https://www.fixmystreet.com/report/7609657)
+- Two people this week have tripped and injured themselves seriously along this strip of pavement these past 2 days alone, with an area of uneven pavement slabs along the attached image location., 23rd May :- [7609601](https://www.fixmystreet.com/report/7609601)
 - Weeds growing - Sandycroft Rd. Nr Warren Close, 23rd May :- [7609480](https://www.fixmystreet.com/report/7609480)
 - Both 30mph speed limit signs are obscured by vegetation, 23rd May :- [7609415](https://www.fixmystreet.com/report/7609415)
 - Lots of large potholes very close togheter, making it impossible to avoid, 23rd May :- [7609237](https://www.fixmystreet.com/report/7609237)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Uneven pavement, hazardous for people with sight problems, 22nd May :- [7606248](https://www.fixmystreet.com/report/7606248)
 - Cycle lanes blocked by vehicles pulling out, 22nd May :- [7606245](https://www.fixmystreet.com/report/7606245)
 - Ramp on mini roundabout, 22nd May :- [7606227](https://www.fixmystreet.com/report/7606227)
-- Vehicles abandoned on grass, 22nd May :- [7606212](https://www.fixmystreet.com/report/7606212)
-- A large pothole has open up on the road outside Mary P's Nursery, 22nd May :- [7605552](https://www.fixmystreet.com/report/7605552)
-- 9 inch pipe from drainage ditch to other side of the road blocked . We have all suffered flooding in the last 12 months, 22nd May :- [7605501](https://www.fixmystreet.com/report/7605501)
 
 <!-- fix_marker ends -->
