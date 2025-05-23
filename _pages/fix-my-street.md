@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dangerous place to cross - busy roundabout, 23rd May :- [7611332](https://www.fixmystreet.com/report/7611332)
+- Tree is overgrown and a danger to people and property, 23rd May :- [7611317](https://www.fixmystreet.com/report/7611317)
 - Tree is damaged, 23rd May :- [7611222](https://www.fixmystreet.com/report/7611222)
 - Badly broken paving slab outside 18 Coltham Rd is a trip hazard, 23rd May :- [7610821](https://www.fixmystreet.com/report/7610821)
 - There is a pothole close to 9 Coltham Road which needs repair, 23rd May :- [7610801](https://www.fixmystreet.com/report/7610801)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Give way line by traffic lights very faded, 23rd May :- [7609040](https://www.fixmystreet.com/report/7609040)
 - No entry faded, 23rd May :- [7609000](https://www.fixmystreet.com/report/7609000)
 - Dead deer on A417 next to A46 roundabout pillar, 23rd May :- [7608925](https://www.fixmystreet.com/report/7608925)
-- Flyposter on telegraph pole attached with plastic ties, 23rd May :- [7608721](https://www.fixmystreet.com/report/7608721)
-- Pothole round manhole cover at start of street, 23rd May :- [7608299](https://www.fixmystreet.com/report/7608299)
 
 <!-- fix_marker ends -->
