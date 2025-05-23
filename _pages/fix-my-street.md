@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole round manhole cover at start of street, 23rd May :- [7608299](https://www.fixmystreet.com/report/7608299)
+- Grass has not been cut this year. Grass and verge very long, 23rd May :- [7608283](https://www.fixmystreet.com/report/7608283)
+- Tree is damaged problem, 23rd May :- [7608228](https://www.fixmystreet.com/report/7608228)
 - Noise of manhole when driven over, 23rd May :- [7607783](https://www.fixmystreet.com/report/7607783)
 - Grass over ran the pavement, 22nd May :- [7607260](https://www.fixmystreet.com/report/7607260)
 - Safety risk of fencing, 22nd May :- [7606556](https://www.fixmystreet.com/report/7606556)
@@ -21,13 +24,10 @@ permalink: /fix-my-street
 - 9 inch pipe from drainage ditch to other side of the road blocked . We have all suffered flooding in the last 12 months, 22nd May :- [7605501](https://www.fixmystreet.com/report/7605501)
 - Campervan and caravan parked off Hucclecote Road, 22nd May :- [7605453](https://www.fixmystreet.com/report/7605453)
 - Flytipped packaging St Paul’s St North, 22nd May :- [7605374](https://www.fixmystreet.com/report/7605374)
+- A pothole in road problem, 22nd May :- [7608400](https://www.fixmystreet.com/report/7608400)
 - Flytipped furniture Swindon Road, 22nd May :- [7605367](https://www.fixmystreet.com/report/7605367)
 - Fly tipping at junction of Rose and Crown Passage and Baynham Way., 22nd May :- [7605214](https://www.fixmystreet.com/report/7605214)
 - Low Trees, 22nd May :- [7605137](https://www.fixmystreet.com/report/7605137)
 - Low trees, 22nd May :- [7605121](https://www.fixmystreet.com/report/7605121)
-- Multiple pot holes, 22nd May :- [7605120](https://www.fixmystreet.com/report/7605120)
-- Tree limbs overhanging path and falling., 22nd May :- [7604869](https://www.fixmystreet.com/report/7604869)
-- Blocking visibility on road/junction (Grass/verge) problem, 22nd May :- [7604894](https://www.fixmystreet.com/report/7604894)
-- Hanging branch, 22nd May :- [7604820](https://www.fixmystreet.com/report/7604820)
 
 <!-- fix_marker ends -->
