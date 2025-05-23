@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree is damaged, 23rd May :- [7611222](https://www.fixmystreet.com/report/7611222)
 - Badly broken paving slab outside 18 Coltham Rd is a trip hazard, 23rd May :- [7610821](https://www.fixmystreet.com/report/7610821)
 - There is a pothole close to 9 Coltham Road which needs repair, 23rd May :- [7610801](https://www.fixmystreet.com/report/7610801)
 - Badgeworth lane, in the 50MPH zone, large area of road now 1 deep pot hole !, 23rd May :- [7610703](https://www.fixmystreet.com/report/7610703)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Dead deer on A417 next to A46 roundabout pillar, 23rd May :- [7608925](https://www.fixmystreet.com/report/7608925)
 - Flyposter on telegraph pole attached with plastic ties, 23rd May :- [7608721](https://www.fixmystreet.com/report/7608721)
 - Pothole round manhole cover at start of street, 23rd May :- [7608299](https://www.fixmystreet.com/report/7608299)
-- Grass has not been cut this year. Grass and verge very long, 23rd May :- [7608283](https://www.fixmystreet.com/report/7608283)
 
 <!-- fix_marker ends -->
