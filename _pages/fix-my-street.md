@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Weeds growing - Sandycroft Rd. Nr Warren Close, 23rd May :- [7609480](https://www.fixmystreet.com/report/7609480)
+- Both 30mph speed limit signs are obscured by vegetation, 23rd May :- [7609415](https://www.fixmystreet.com/report/7609415)
 - Lots of large potholes very close togheter, making it impossible to avoid, 23rd May :- [7609237](https://www.fixmystreet.com/report/7609237)
 - Give way line by traffic lights very faded, 23rd May :- [7609040](https://www.fixmystreet.com/report/7609040)
 - No entry faded, 23rd May :- [7609000](https://www.fixmystreet.com/report/7609000)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Vehicles abandoned on grass, 22nd May :- [7606212](https://www.fixmystreet.com/report/7606212)
 - A large pothole has open up on the road outside Mary P's Nursery, 22nd May :- [7605552](https://www.fixmystreet.com/report/7605552)
 - 9 inch pipe from drainage ditch to other side of the road blocked . We have all suffered flooding in the last 12 months, 22nd May :- [7605501](https://www.fixmystreet.com/report/7605501)
-- Campervan and caravan parked off Hucclecote Road, 22nd May :- [7605453](https://www.fixmystreet.com/report/7605453)
-- Flytipped packaging St Paul’s St North, 22nd May :- [7605374](https://www.fixmystreet.com/report/7605374)
 
 <!-- fix_marker ends -->
