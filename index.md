@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Friday, 23 May 2025
 
-- The average temperature today is 6.56˚C,
-- With highs of 7.77˚C and lows of 4.84˚C,
-- It may feel like 6.56˚C with clear sky
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1021hPa and humidity is 85%
+- The average temperature today is 7.18˚C,
+- With highs of 8.32˚C and lows of 5.38˚C,
+- It may feel like 6.63˚C with clear sky
+- The wind speed is 1.34m/s and visibility is 10000m
+- The pressure is 1021hPa and humidity is 82%
 - The sun will rise at 04:03 and set at 20:06
 
 <!-- weather_marker ends -->
