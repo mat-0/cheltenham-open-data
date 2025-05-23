@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Noise of manhole when driven over, 23rd May :- [7607783](https://www.fixmystreet.com/report/7607783)
 - Grass over ran the pavement, 22nd May :- [7607260](https://www.fixmystreet.com/report/7607260)
 - Safety risk of fencing, 22nd May :- [7606556](https://www.fixmystreet.com/report/7606556)
 - Pavement in poor state of repair: hazardous for people with sight problems, 22nd May :- [7606278](https://www.fixmystreet.com/report/7606278)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Tree limbs overhanging path and falling., 22nd May :- [7604869](https://www.fixmystreet.com/report/7604869)
 - Blocking visibility on road/junction (Grass/verge) problem, 22nd May :- [7604894](https://www.fixmystreet.com/report/7604894)
 - Hanging branch, 22nd May :- [7604820](https://www.fixmystreet.com/report/7604820)
-- Pothole between path & road before driveway of 63, 22nd May :- [7604797](https://www.fixmystreet.com/report/7604797)
 
 <!-- fix_marker ends -->
