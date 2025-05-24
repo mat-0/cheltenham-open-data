@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Patch collapsing new pothole forming ///cage.slate.smooth, 24th May :- [7614084](https://www.fixmystreet.com/report/7614084)
 - Pair of deep pot holes outside no. 1, 24th May :- [7613706](https://www.fixmystreet.com/report/7613706)
 - Grass verges arenot being cut!, 24th May :- [7613410](https://www.fixmystreet.com/report/7613410)
 - Previously repaired pot hole eroding again, 24th May :- [7613187](https://www.fixmystreet.com/report/7613187)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - End of North Road west, junction blocked to due overgrown verges both sides, 23rd May :- [7610678](https://www.fixmystreet.com/report/7610678)
 - Uneven surface on footpath, 23rd May :- [7610520](https://www.fixmystreet.com/report/7610520)
 - Uneven pavement, Poole Way, by pedestrian crossing, traffic pole 13, 23rd May :- [7610229](https://www.fixmystreet.com/report/7610229)
-- Trenches across the road after utility work, the eegs of which are deteriorating with age and heavy vehicles, potentially causing significant danger to cyclists, motorists and nearby property., 23rd May :- [7610111](https://www.fixmystreet.com/report/7610111)
 
 <!-- fix_marker ends -->
