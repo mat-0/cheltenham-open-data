@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Previously repaired pot hole eroding again, 24th May :- [7613187](https://www.fixmystreet.com/report/7613187)
+- Tall hedge cut down now, 24th May :- [7613147](https://www.fixmystreet.com/report/7613147)
 - Graffiti, 24th May :- [7612959](https://www.fixmystreet.com/report/7612959)
 - VERY bad surface on pavement., 24th May :- [7612701](https://www.fixmystreet.com/report/7612701)
 - Similar to a developing pothole, 24th May :- [7612617](https://www.fixmystreet.com/report/7612617)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Trenches across the road after utility work, the eegs of which are deteriorating with age and heavy vehicles, potentially causing significant danger to cyclists, motorists and nearby property., 23rd May :- [7610111](https://www.fixmystreet.com/report/7610111)
 - Confusing road marking causing traffic near-misses., 23rd May :- [7610038](https://www.fixmystreet.com/report/7610038)
 - The bollard was ripped out by a lorry. Repair to pavement badly done, now a trip hazzard. No bollard replaced, 23rd May :- [7609716](https://www.fixmystreet.com/report/7609716)
-- Pedestrian button deactivates whilst waiting at lights., 23rd May :- [7609657](https://www.fixmystreet.com/report/7609657)
-- Two people this week have tripped and injured themselves seriously along this strip of pavement these past 2 days alone, with an area of uneven pavement slabs along the attached image location., 23rd May :- [7609601](https://www.fixmystreet.com/report/7609601)
 
 <!-- fix_marker ends -->
