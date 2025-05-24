@@ -10,12 +10,12 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Saturday, 24 May 2025
 
-- The average temperature today is 15.44˚C,
-- With highs of 16.1˚C and lows of 14.83˚C,
-- It may feel like 15.05˚C with overcast clouds
-- The wind speed is 4.47m/s and visibility is 6685m
-- The pressure is 1007hPa and humidity is 77%
-- The sun will rise at 04:02 and set at 20:07
+- The average temperature today is 14.61˚C,
+- With highs of 15.55˚C and lows of 14.26˚C,
+- It may feel like 14.29˚C with overcast clouds
+- The wind speed is 5.81m/s and visibility is 10000m
+- The pressure is 1006hPa and humidity is 83%
+- The sun will rise at 04:01 and set at 20:09
 
 <!-- weather_marker ends -->
 
