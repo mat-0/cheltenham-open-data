@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- VERY bad surface on pavement., 24th May :- [7612701](https://www.fixmystreet.com/report/7612701)
 - Similar to a developing pothole, 24th May :- [7612617](https://www.fixmystreet.com/report/7612617)
 - Cycle lane and forward box, 24th May :- [7612445](https://www.fixmystreet.com/report/7612445)
 - Antisemitic political propaganda stickers, 23rd May :- [7611871](https://www.fixmystreet.com/report/7611871)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Pedestrian button deactivates whilst waiting at lights., 23rd May :- [7609657](https://www.fixmystreet.com/report/7609657)
 - Two people this week have tripped and injured themselves seriously along this strip of pavement these past 2 days alone, with an area of uneven pavement slabs along the attached image location., 23rd May :- [7609601](https://www.fixmystreet.com/report/7609601)
 - Weeds growing - Sandycroft Rd. Nr Warren Close, 23rd May :- [7609480](https://www.fixmystreet.com/report/7609480)
-- Both 30mph speed limit signs are obscured by vegetation, 23rd May :- [7609415](https://www.fixmystreet.com/report/7609415)
 
 <!-- fix_marker ends -->
