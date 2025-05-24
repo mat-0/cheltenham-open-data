@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Sculpture trail that's 100ft below the ground ([6 hours ago](https://www.bbc.com/news/articles/cgq335gp951o))
-- Man is found on path with suspected stab wounds ([9 hours ago](https://www.bbc.com/news/articles/c5yxl0lxv4lo))
-- Mobility scooter rider is seriously hurt in crash ([13 hours ago](https://www.bbc.com/news/articles/cx2eqqnx4zlo))
-- Pie created for King as part of ancient tradition ([14 hours ago](https://www.bbc.com/news/articles/ckgxxnve341o))
-- Gloucestershire in pics: Pies and record breakers ([14 hours ago](https://www.bbc.com/news/articles/clyvvpgg4xyo))
+- Sculpture trail that's 100ft below the ground ([7 hours ago](https://www.bbc.com/news/articles/cgq335gp951o))
+- Man is found on path with suspected stab wounds ([10 hours ago](https://www.bbc.com/news/articles/c5yxl0lxv4lo))
+- Mobility scooter rider is seriously hurt in crash ([14 hours ago](https://www.bbc.com/news/articles/cx2eqqnx4zlo))
+- Pie created for King as part of ancient tradition ([15 hours ago](https://www.bbc.com/news/articles/ckgxxnve341o))
+- Gloucestershire in pics: Pies and record breakers ([15 hours ago](https://www.bbc.com/news/articles/clyvvpgg4xyo))
 - Fears people ‘lose right to BBQ in the sun’ as roof will ‘overshadow’ gardens ([1 days ago](https://gloucesternewscentre.co.uk/fears-people-lose-right-to-bbq-in-the-sun-as-roof-will-overshadow-gardens/))
 - Fears 4115 homes near M5 will have ‘disastrous’ effect on area as seven villages fight scheme ([1 days ago](https://gloucesternewscentre.co.uk/fears-4115-homes-near-m5-will-have-disastrous-effect-on-area-as-seven-villages-fight-scheme/))
 - Man arrested on suspicion of burglary in Cheltenham following chase by police ([1 days ago](https://gloucesternewscentre.co.uk/man-arrested-on-suspicion-of-burglary-in-cheltenham-following-chase-by-police/))
