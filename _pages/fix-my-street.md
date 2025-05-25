@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipped Tyre, 25th May :- [7615498](https://www.fixmystreet.com/report/7615498)
+- Flytipped Items, 25th May :- [7615430](https://www.fixmystreet.com/report/7615430)
+- Manhole cover outside number 7 Lysander court., 25th May :- [7615418](https://www.fixmystreet.com/report/7615418)
 - Toilet soap, 25th May :- [7615257](https://www.fixmystreet.com/report/7615257)
 - Ash tree on public highway disrupting wall - worrying 95 year old resident, 25th May :- [7615040](https://www.fixmystreet.com/report/7615040)
 - Pothole just near main road, 25th May :- [7614997](https://www.fixmystreet.com/report/7614997)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Cycle lane and forward box, 24th May :- [7612445](https://www.fixmystreet.com/report/7612445)
 - Antisemitic political propaganda stickers, 23rd May :- [7611871](https://www.fixmystreet.com/report/7611871)
 - Extremist political propaganda stickers, 23rd May :- [7611855](https://www.fixmystreet.com/report/7611855)
-- Dangerous place to cross - busy roundabout, 23rd May :- [7611332](https://www.fixmystreet.com/report/7611332)
-- Tree is overgrown and a danger to people and property, 23rd May :- [7611317](https://www.fixmystreet.com/report/7611317)
-- Tree is damaged, 23rd May :- [7611222](https://www.fixmystreet.com/report/7611222)
 
 <!-- fix_marker ends -->
