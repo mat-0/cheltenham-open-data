@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipped items, 25th May :- [7615697](https://www.fixmystreet.com/report/7615697)
+- Flytipped items, 25th May :- [7615688](https://www.fixmystreet.com/report/7615688)
+- Flytipped items, 25th May :- [7615683](https://www.fixmystreet.com/report/7615683)
+- Flytipped items, 25th May :- [7615600](https://www.fixmystreet.com/report/7615600)
+- Water in the drain is not draining away, 25th May :- [7615598](https://www.fixmystreet.com/report/7615598)
 - Flytipped Tyre, 25th May :- [7615498](https://www.fixmystreet.com/report/7615498)
 - Flytipped Items, 25th May :- [7615430](https://www.fixmystreet.com/report/7615430)
 - Manhole cover outside number 7 Lysander court., 25th May :- [7615418](https://www.fixmystreet.com/report/7615418)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Previously repaired pot hole eroding again, 24th May :- [7613187](https://www.fixmystreet.com/report/7613187)
 - Tall hedge cut down now, 24th May :- [7613147](https://www.fixmystreet.com/report/7613147)
 - Graffiti, 24th May :- [7612959](https://www.fixmystreet.com/report/7612959)
-- VERY bad surface on pavement., 24th May :- [7612701](https://www.fixmystreet.com/report/7612701)
-- Similar to a developing pothole, 24th May :- [7612617](https://www.fixmystreet.com/report/7612617)
-- Cycle lane and forward box, 24th May :- [7612445](https://www.fixmystreet.com/report/7612445)
-- Antisemitic political propaganda stickers, 23rd May :- [7611871](https://www.fixmystreet.com/report/7611871)
-- Extremist political propaganda stickers, 23rd May :- [7611855](https://www.fixmystreet.com/report/7611855)
 
 <!-- fix_marker ends -->
