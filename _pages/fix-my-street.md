@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Ash tree on public highway disrupting wall - worrying 95 year old resident, 25th May :- [7615040](https://www.fixmystreet.com/report/7615040)
+- Pothole just near main road, 25th May :- [7614997](https://www.fixmystreet.com/report/7614997)
+- This serious, dangerous patchwork of potholes has been reported many times: even reported as fixed! Croft st, which never was a problem has been resurfaced!, 25th May :- [7614964](https://www.fixmystreet.com/report/7614964)
 - Blocked drain, 25th May :- [7614837](https://www.fixmystreet.com/report/7614837)
 - School 20 sign permanently on, 25th May :- [7614354](https://www.fixmystreet.com/report/7614354)
 - Patch collapsing new pothole forming ///cage.slate.smooth, 24th May :- [7614084](https://www.fixmystreet.com/report/7614084)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Tree is overgrown and a danger to people and property, 23rd May :- [7611317](https://www.fixmystreet.com/report/7611317)
 - Tree is damaged, 23rd May :- [7611222](https://www.fixmystreet.com/report/7611222)
 - Badly broken paving slab outside 18 Coltham Rd is a trip hazard, 23rd May :- [7610821](https://www.fixmystreet.com/report/7610821)
-- There is a pothole close to 9 Coltham Road which needs repair, 23rd May :- [7610801](https://www.fixmystreet.com/report/7610801)
-- Badgeworth lane, in the 50MPH zone, large area of road now 1 deep pot hole !, 23rd May :- [7610703](https://www.fixmystreet.com/report/7610703)
-- End of North Road west, junction blocked to due overgrown verges both sides, 23rd May :- [7610678](https://www.fixmystreet.com/report/7610678)
 
 <!-- fix_marker ends -->
