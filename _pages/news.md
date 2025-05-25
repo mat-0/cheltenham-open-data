@@ -13,9 +13,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
 - 'We can never park despite permits pricier than London' ([5 hours ago](https://www.bbc.com/news/articles/cq544x9z6xqo))
-- Historic lido celebrates 90th year of opening ([6 hours ago](https://www.bbc.com/news/articles/ce39nny2212o))
-- Two fires, police pursuit and smartphone ban ([6 hours ago](https://www.bbc.com/news/articles/cd62jl7j2z5o))
-- Sculpture trail that's 100ft below the ground ([22 hours ago](https://www.bbc.com/news/articles/cgq335gp951o))
+- Historic lido celebrates 90th year of opening ([7 hours ago](https://www.bbc.com/news/articles/ce39nny2212o))
+- Two fires, police pursuit and smartphone ban ([7 hours ago](https://www.bbc.com/news/articles/cd62jl7j2z5o))
+- Sculpture trail that's 100ft below the ground ([23 hours ago](https://www.bbc.com/news/articles/cgq335gp951o))
 - Man is found on path with suspected stab wounds ([1 days ago](https://www.bbc.com/news/articles/c5yxl0lxv4lo))
 - Mobility scooter rider is seriously hurt in crash ([1 days ago](https://www.bbc.com/news/articles/cx2eqqnx4zlo))
 - Pie created for King as part of ancient tradition ([1 days ago](https://www.bbc.com/news/articles/ckgxxnve341o))
@@ -46,7 +46,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Police appeal for man to come forward after his dog bit a man in Cheltenham ([9 days ago](https://gloucesternewscentre.co.uk/police-appeal-for-man-to-come-forward-after-his-dog-bit-a-man-in-cheltenham/))
 - Gloucestershire star Ben Cutler returns to hometown stage ([9 days ago](https://gloucesternewscentre.co.uk/gloucestershire-star-ben-cutler-returns-to-hometown-stage/))
 - Case against Cheltenham man in relation to fox hunting stopped ([9 days ago](https://gloucesternewscentre.co.uk/case-against-cheltenham-man-in-relation-to-fox-hunting-stopped/))
-- HBD unveils phase two plans for Golden Valley at Cyber UK ([9 days ago](https://www.cheltenham.gov.uk/news/article/3012/hbd_unveils_phase_two_plans_for_golden_valley_at_cyber_uk))
+- HBD unveils phase two plans for Golden Valley at Cyber UK ([10 days ago](https://www.cheltenham.gov.uk/news/article/3012/hbd_unveils_phase_two_plans_for_golden_valley_at_cyber_uk))
 - Arle Court Transport Hub welcomes more National Express services ([10 days ago](https://gloucesternewscentre.co.uk/arle-court-transport-hub-welcomes-more-national-express-services/))
 - Golden Valley social value promise will deliver real value to communities ([10 days ago](https://www.cheltenham.gov.uk/news/article/3011/golden_valley_social_value_promise_will_deliver_real_value_to_communities))
 - Comedian Dom Joly blasts council over ‘zero action’ to remove Cheltenham ‘eyesore’ ([11 days ago](https://gloucesternewscentre.co.uk/comedian-dom-joly-blasts-council-over-zero-action-to-remove-cheltenham-eyesore/))

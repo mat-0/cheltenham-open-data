@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Broken metalworks on the exit from Shell garage, 25th May :- [7615821](https://www.fixmystreet.com/report/7615821)
 - Flytipped items, 25th May :- [7615697](https://www.fixmystreet.com/report/7615697)
 - Flytipped items, 25th May :- [7615688](https://www.fixmystreet.com/report/7615688)
 - Flytipped items, 25th May :- [7615683](https://www.fixmystreet.com/report/7615683)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Grass verges arenot being cut!, 24th May :- [7613410](https://www.fixmystreet.com/report/7613410)
 - Previously repaired pot hole eroding again, 24th May :- [7613187](https://www.fixmystreet.com/report/7613187)
 - Tall hedge cut down now, 24th May :- [7613147](https://www.fixmystreet.com/report/7613147)
-- Graffiti, 24th May :- [7612959](https://www.fixmystreet.com/report/7612959)
 
 <!-- fix_marker ends -->
