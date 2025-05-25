@@ -12,10 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Teacher banned after sex assaults in mid-1990s ([1 hours ago](https://www.bbc.com/news/articles/c0mr40430ego))
-- 'We can never park despite permits pricier than London' ([7 hours ago](https://www.bbc.com/news/articles/cq544x9z6xqo))
-- Historic lido celebrates 90th year of opening ([9 hours ago](https://www.bbc.com/news/articles/ce39nny2212o))
-- Two fires, police pursuit and smartphone ban ([9 hours ago](https://www.bbc.com/news/articles/cd62jl7j2z5o))
+- Decision expected on 4,115-home development ([17 minutes ago](https://www.bbc.com/news/articles/c2d5nld906po))
+- Teacher banned after sex assaults in mid-1990s ([2 hours ago](https://www.bbc.com/news/articles/c0mr40430ego))
+- 'We can never park despite permits pricier than London' ([8 hours ago](https://www.bbc.com/news/articles/cq544x9z6xqo))
+- Historic lido celebrates 90th year of opening ([10 hours ago](https://www.bbc.com/news/articles/ce39nny2212o))
+- Two fires, police pursuit and smartphone ban ([10 hours ago](https://www.bbc.com/news/articles/cd62jl7j2z5o))
 - Sculpture trail that's 100ft below the ground ([1 days ago](https://www.bbc.com/news/articles/cgq335gp951o))
 - Man is found on path with suspected stab wounds ([1 days ago](https://www.bbc.com/news/articles/c5yxl0lxv4lo))
 - Mobility scooter rider is seriously hurt in crash ([1 days ago](https://www.bbc.com/news/articles/cx2eqqnx4zlo))
@@ -32,7 +33,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - 'Crocodile returns' and 'Japan calls' ([2 days ago](https://www.bbc.com/news/articles/clynl44237wo))
 - Bridge repair works brought forward ([2 days ago](https://www.bbc.com/news/articles/c8repy53ezyo))
 - TV dating show contestant finds love on motorway ([2 days ago](https://www.bbc.com/news/articles/cn84y0wnz2po))
-- Cheese rolling champions to be honoured in races ([2 days ago](https://www.bbc.com/news/articles/cy8nkklvm9mo))
 - New council leader to consider more 20mph zones ([2 days ago](https://www.bbc.com/news/articles/c1kvvdv71m4o))
 - Luxury spa hotel could be the future for iconic Municipal Offices ([3 days ago](https://gloucesternewscentre.co.uk/luxury-spa-hotel-could-be-the-future-for-iconic-municipal-offices/))
 - Luxury spa hotel could be the future for iconic Municipal Offices as preferred bidder is selected ([3 days ago](https://www.cheltenham.gov.uk/news/article/3014/luxury_spa_hotel_could_be_the_future_for_iconic_municipal_offices_as_preferred_bidder_is_selected))
