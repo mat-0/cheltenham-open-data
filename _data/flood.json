@@ -1,17 +1,60 @@
 {
-    "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
-    "meta": {
-        "publisher": "Environment Agency",
-        "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
-        "version": "0.9",
-        "comment": "Status: Beta service",
-        "hasFormat": [
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.csv?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.html?county=Gloucestershire"
-        ]
+  "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
+  "meta": {
+    "publisher": "Environment Agency",
+    "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
+    "version": "0.9",
+    "comment": "Status: Beta service",
+    "hasFormat": [
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.csv",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
+    ]
+  },
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSVN1",
+      "description": "Severn Estuary at Severn Beach",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSVN1",
+        "county": "South Gloucestershire",
+        "notation": "112WATSVN1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSVN1/polygon",
+        "riverOrSea": "Severn Estuary"
+      },
+      "floodAreaID": "112WATSVN1",
+      "isTidal": true,
+      "message": " A large tidal surge is expected with possible overtopping and onshore flooding as a result of high water levels. The time and date of the forecast high water is 17:45 on 25/05/2025. The forecast tide level is 6.5 m AOD. The forecast wind strength and direction is Force 7 in a westerly direction. There is a possibility of flooding for the Severn beach area. Be careful along beaches, promenades and coastal footpaths and roads. \nPlease note all tide times are in local time and are using the 24 hour clock and refer to the high water time at Avonmouth.\nThis message will be updated on the 25 May 2025, or as the situation changes.\n\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-05-25T09:44:00",
+      "timeRaised": "2025-05-25T09:44:36",
+      "timeSeverityChanged": "2025-05-25T09:44:00"
     },
-    "items": []
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/062WAF47Mimram",
+      "description": "River Mimram in Hertfordshire",
+      "eaAreaName": "Hertfordshire and North London",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/062WAF47Mimram",
+        "county": "Hertfordshire",
+        "notation": "062WAF47Mimram",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/062WAF47Mimram/polygon",
+        "riverOrSea": "Mimram"
+      },
+      "floodAreaID": "062WAF47Mimram",
+      "isTidal": false,
+      "message": "Flooding is affecting low lying land, roads and gardens close to the River Mimram. The situation is now improving with reduced water levels in key hotspots.\n\nWe are monitoring the flooding affecting the Fulling Mill Lane, Singlers Marsh, and Codicote Road areas in Welwyn. \n\nFlooding to homes and businesses is unlikely at this time, but there may be a risk to very low-lying properties or those with basements. River levels in other areas remain below levels of concern. \n\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. We are continuing to monitor the situation.\n\nThis message will be updated by 5pm, Wednesday 28th May 2025, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-05-21T13:08:00",
+      "timeRaised": "2025-05-21T13:08:34",
+      "timeSeverityChanged": "2025-01-29T17:28:00"
+    }
+  ]
 }
