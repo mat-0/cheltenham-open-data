@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Trees and hedgerow destroyed, 25th May :- [7616382](https://www.fixmystreet.com/report/7616382)
+- Public footpath marker missing, 25th May :- [7616371](https://www.fixmystreet.com/report/7616371)
 - Abandoned vehicle, 25th May :- [7615980](https://www.fixmystreet.com/report/7615980)
 - Way Marker Damaged, 25th May :- [7615903](https://www.fixmystreet.com/report/7615903)
 - Broken metalworks on the exit from Shell garage, 25th May :- [7615821](https://www.fixmystreet.com/report/7615821)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Blocked drain, 25th May :- [7614837](https://www.fixmystreet.com/report/7614837)
 - School 20 sign permanently on, 25th May :- [7614354](https://www.fixmystreet.com/report/7614354)
 - Patch collapsing new pothole forming ///cage.slate.smooth, 24th May :- [7614084](https://www.fixmystreet.com/report/7614084)
-- Pair of deep pot holes outside no. 1, 24th May :- [7613706](https://www.fixmystreet.com/report/7613706)
-- Grass verges arenot being cut!, 24th May :- [7613410](https://www.fixmystreet.com/report/7613410)
 
 <!-- fix_marker ends -->
