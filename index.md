@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Sunday, 25 May 2025
 
-- The average temperature today is 12.42˚C,
-- With highs of 12.75˚C and lows of 12.05˚C,
-- It may feel like 11.57˚C with broken clouds
+- The average temperature today is 12.01˚C,
+- With highs of 12.2˚C and lows of 11.5˚C,
+- It may feel like 11.2˚C with scattered clouds
 - The wind speed is 2.68m/s and visibility is 10000m
-- The pressure is 1013hPa and humidity is 71%
+- The pressure is 1014hPa and humidity is 74%
 - The sun will rise at 04:01 and set at 20:09
 
 <!-- weather_marker ends -->
