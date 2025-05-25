@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Blocked drain, 25th May :- [7614837](https://www.fixmystreet.com/report/7614837)
 - School 20 sign permanently on, 25th May :- [7614354](https://www.fixmystreet.com/report/7614354)
 - Patch collapsing new pothole forming ///cage.slate.smooth, 24th May :- [7614084](https://www.fixmystreet.com/report/7614084)
 - Pair of deep pot holes outside no. 1, 24th May :- [7613706](https://www.fixmystreet.com/report/7613706)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - There is a pothole close to 9 Coltham Road which needs repair, 23rd May :- [7610801](https://www.fixmystreet.com/report/7610801)
 - Badgeworth lane, in the 50MPH zone, large area of road now 1 deep pot hole !, 23rd May :- [7610703](https://www.fixmystreet.com/report/7610703)
 - End of North Road west, junction blocked to due overgrown verges both sides, 23rd May :- [7610678](https://www.fixmystreet.com/report/7610678)
-- Uneven surface on footpath, 23rd May :- [7610520](https://www.fixmystreet.com/report/7610520)
 
 <!-- fix_marker ends -->
