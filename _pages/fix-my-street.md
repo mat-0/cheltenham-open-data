@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Abandoned vehicle, 25th May :- [7615980](https://www.fixmystreet.com/report/7615980)
+- Way Marker Damaged, 25th May :- [7615903](https://www.fixmystreet.com/report/7615903)
 - Broken metalworks on the exit from Shell garage, 25th May :- [7615821](https://www.fixmystreet.com/report/7615821)
 - Flytipped items, 25th May :- [7615697](https://www.fixmystreet.com/report/7615697)
 - Flytipped items, 25th May :- [7615688](https://www.fixmystreet.com/report/7615688)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Patch collapsing new pothole forming ///cage.slate.smooth, 24th May :- [7614084](https://www.fixmystreet.com/report/7614084)
 - Pair of deep pot holes outside no. 1, 24th May :- [7613706](https://www.fixmystreet.com/report/7613706)
 - Grass verges arenot being cut!, 24th May :- [7613410](https://www.fixmystreet.com/report/7613410)
-- Previously repaired pot hole eroding again, 24th May :- [7613187](https://www.fixmystreet.com/report/7613187)
-- Tall hedge cut down now, 24th May :- [7613147](https://www.fixmystreet.com/report/7613147)
 
 <!-- fix_marker ends -->
