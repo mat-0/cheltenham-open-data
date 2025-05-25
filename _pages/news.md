@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Sculpture trail that's 100ft below the ground ([12 hours ago](https://www.bbc.com/news/articles/cgq335gp951o))
+- Sculpture trail that's 100ft below the ground ([13 hours ago](https://www.bbc.com/news/articles/cgq335gp951o))
 - Man is found on path with suspected stab wounds ([16 hours ago](https://www.bbc.com/news/articles/c5yxl0lxv4lo))
-- Mobility scooter rider is seriously hurt in crash ([19 hours ago](https://www.bbc.com/news/articles/cx2eqqnx4zlo))
-- Pie created for King as part of ancient tradition ([20 hours ago](https://www.bbc.com/news/articles/ckgxxnve341o))
+- Mobility scooter rider is seriously hurt in crash ([20 hours ago](https://www.bbc.com/news/articles/cx2eqqnx4zlo))
+- Pie created for King as part of ancient tradition ([21 hours ago](https://www.bbc.com/news/articles/ckgxxnve341o))
 - Gloucestershire in pics: Pies and record breakers ([21 hours ago](https://www.bbc.com/news/articles/clyvvpgg4xyo))
 - Fears people ‘lose right to BBQ in the sun’ as roof will ‘overshadow’ gardens ([1 days ago](https://gloucesternewscentre.co.uk/fears-people-lose-right-to-bbq-in-the-sun-as-roof-will-overshadow-gardens/))
 - Fears 4115 homes near M5 will have ‘disastrous’ effect on area as seven villages fight scheme ([1 days ago](https://gloucesternewscentre.co.uk/fears-4115-homes-near-m5-will-have-disastrous-effect-on-area-as-seven-villages-fight-scheme/))
