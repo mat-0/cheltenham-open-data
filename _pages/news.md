@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Decision expected on 4,115-home development ([9 hours ago](https://www.bbc.com/news/articles/c2d5nld906po))
-- Teacher banned after sex assaults in mid-1990s ([11 hours ago](https://www.bbc.com/news/articles/c0mr40430ego))
-- 'We can never park despite permits pricier than London' ([18 hours ago](https://www.bbc.com/news/articles/cq544x9z6xqo))
-- Historic lido celebrates 90th year of opening ([19 hours ago](https://www.bbc.com/news/articles/ce39nny2212o))
+- Decision expected on 4,115-home development ([10 hours ago](https://www.bbc.com/news/articles/c2d5nld906po))
+- Teacher banned after sex assaults in mid-1990s ([12 hours ago](https://www.bbc.com/news/articles/c0mr40430ego))
+- 'We can never park despite permits pricier than London' ([19 hours ago](https://www.bbc.com/news/articles/cq544x9z6xqo))
+- Historic lido celebrates 90th year of opening ([20 hours ago](https://www.bbc.com/news/articles/ce39nny2212o))
 - Two fires, police pursuit and smartphone ban ([20 hours ago](https://www.bbc.com/news/articles/cd62jl7j2z5o))
 - Sculpture trail that's 100ft below the ground ([1 days ago](https://www.bbc.com/news/articles/cgq335gp951o))
 - Man is found on path with suspected stab wounds ([1 days ago](https://www.bbc.com/news/articles/c5yxl0lxv4lo))
