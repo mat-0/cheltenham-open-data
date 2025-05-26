@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dumping of rubbish, 26th May :- [7618501](https://www.fixmystreet.com/report/7618501)
+- Hedge/trees blocking footpath, 26th May :- [7618426](https://www.fixmystreet.com/report/7618426)
+- New fence is blocking footpath completely, 26th May :- [7618416](https://www.fixmystreet.com/report/7618416)
 - Another pot hole in our lane, 26th May :- [7618049](https://www.fixmystreet.com/report/7618049)
 - Another pot hole on our lane, 26th May :- [7618020](https://www.fixmystreet.com/report/7618020)
 - Another pothole in our lane, 26th May :- [7618004](https://www.fixmystreet.com/report/7618004)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Fallen tree blocking the path, 26th May :- [7617766](https://www.fixmystreet.com/report/7617766)
 - Drain is flooded on Granley Road, near Greville Court, 26th May :- [7617374](https://www.fixmystreet.com/report/7617374)
 - Tree blocking footpath/bridleway, 25th May :- [7616508](https://www.fixmystreet.com/report/7616508)
-- The drain is blocked. This means that when there’s rain in floods our drive, 25th May :- [7616497](https://www.fixmystreet.com/report/7616497)
-- Trees and hedgerow destroyed, 25th May :- [7616382](https://www.fixmystreet.com/report/7616382)
-- Public footpath marker missing, 25th May :- [7616371](https://www.fixmystreet.com/report/7616371)
 
 <!-- fix_marker ends -->
