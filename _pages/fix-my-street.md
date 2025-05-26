@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Roots have caused the tarmac to raise up, 26th May :- [7619340](https://www.fixmystreet.com/report/7619340)
+- Suspected collapsed Drain, 26th May :- [7619307](https://www.fixmystreet.com/report/7619307)
 - Damaged pavement, 26th May :- [7619271](https://www.fixmystreet.com/report/7619271)
 - Drain Blocked, 26th May :- [7619254](https://www.fixmystreet.com/report/7619254)
 - Abandoned trailer and rubbish, 26th May :- [7618827](https://www.fixmystreet.com/report/7618827)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Another pot hole in our lane, 26th May :- [7617940](https://www.fixmystreet.com/report/7617940)
 - Another pothole in our lane, 26th May :- [7617826](https://www.fixmystreet.com/report/7617826)
 - Another pothole in our lane, 26th May :- [7617813](https://www.fixmystreet.com/report/7617813)
-- Another pothole in our lane, 26th May :- [7617808](https://www.fixmystreet.com/report/7617808)
-- One of many potholes in our lane, 26th May :- [7617795](https://www.fixmystreet.com/report/7617795)
 
 <!-- fix_marker ends -->
