@@ -1,102 +1,39 @@
 {
-  "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
-  "meta": {
-    "publisher": "Environment Agency",
-    "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-    "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
-    "version": "0.9",
-    "comment": "Status: Beta service",
-    "hasFormat": [
-      "http://environment.data.gov.uk/flood-monitoring/id/floods.csv",
-      "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf",
-      "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl",
-      "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
+    "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
+    "meta": {
+        "publisher": "Environment Agency",
+        "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
+        "version": "0.9",
+        "comment": "Status: Beta service",
+        "hasFormat": [
+            "http://environment.data.gov.uk/flood-monitoring/id/floods.csv?county=Gloucestershire",
+            "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf?county=Gloucestershire",
+            "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl?county=Gloucestershire",
+            "http://environment.data.gov.uk/flood-monitoring/id/floods.html?county=Gloucestershire"
+        ]
+    },
+    "items": [
+        {
+            "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSVN1",
+            "description": "Severn Estuary at Severn Beach",
+            "eaAreaName": "Wessex",
+            "eaRegionName": "No longer used",
+            "floodArea": {
+                "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSVN1",
+                "county": "South Gloucestershire",
+                "notation": "112WATSVN1",
+                "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSVN1/polygon",
+                "riverOrSea": "Severn Estuary"
+            },
+            "floodAreaID": "112WATSVN1",
+            "isTidal": true,
+            "message": " ",
+            "severity": "Warning no longer in force",
+            "severityLevel": 4,
+            "timeMessageChanged": "2025-05-26T09:06:00",
+            "timeRaised": "2025-05-26T09:06:49",
+            "timeSeverityChanged": "2025-05-26T09:06:00"
+        }
     ]
-  },
-  "items": [
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC404",
-      "description": "Climping Seafront",
-      "eaAreaName": "Solent and South Downs",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC404",
-        "county": "West Sussex",
-        "notation": "065WAC404",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC404/polygon",
-        "riverOrSea": "English Channel"
-      },
-      "floodAreaID": "065WAC404",
-      "isTidal": true,
-      "message": "Monday evening's tide at 23:45 on 26/05/2025 is higher than normal due to unsettled weather, with strong South Westerly Force 6 winds and large waves. The weather increases tide table values by 0.17 m. The total forecast tide is 6.06 metres Chart Datum (3.01 mAOD) at Littlehampton. For 2 hours either side of high tide, minimal flood impacts are expected. A small amount of water could find its way behind the beach and may pond on nearby land and fields, including at Climping Street Car Park and Mill Lane. Tuesday afternoon's tide at 12:00 27/05/2025 is forecast to be 17 cm lower (2.84 mAOD). Wednesday's early morning tide at 00:30 28/05/2025 is forecast to be 13 cm higher (3.14 mAOD) and accompanied by larger waves. Similar minor flood impacts might affect land and lanes at Climping beach early on Wednesday morning. We continue to monitor the forecast and routinely check the condition of the beach at Climping. Shingle can be thrown by waves. Access could be restricted during and after high tide. Take care if visiting Climping beach. We will update this message by 18:00 on 27/05/2025.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-05-26T12:47:00",
-      "timeRaised": "2025-05-26T12:47:47",
-      "timeSeverityChanged": "2025-05-26T12:47:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WACN6",
-      "description": "Coast at North Morecambe Bay",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WACN6",
-        "county": "Lancashire, Westmorland and Furness",
-        "notation": "011WACN6",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WACN6/polygon",
-        "riverOrSea": "Irish Sea"
-      },
-      "floodAreaID": "011WACN6",
-      "isTidal": true,
-      "message": "Flooding of roads and low lying land is possible between 8:30 PM on 26/05/2025 and 12:30 AM on 27/05/2025. Property flooding is not expected.\nDon't drive through floodwater or put yourself or others at risk.\nAfter today’s high tide the risk of flooding from the period of spring tides will reduce as tide levels start falling.\nThis message will be updated by 9:00 AM on 27/05/2025, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-05-26T09:30:00",
-      "timeRaised": "2025-05-26T09:31:01",
-      "timeSeverityChanged": "2025-05-26T09:30:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSVN1",
-      "description": "Severn Estuary at Severn Beach",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSVN1",
-        "county": "South Gloucestershire",
-        "notation": "112WATSVN1",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSVN1/polygon",
-        "riverOrSea": "Severn Estuary"
-      },
-      "floodAreaID": "112WATSVN1",
-      "isTidal": true,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-05-26T09:06:00",
-      "timeRaised": "2025-05-26T09:06:49",
-      "timeSeverityChanged": "2025-05-26T09:06:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/062WAF47Mimram",
-      "description": "River Mimram in Hertfordshire",
-      "eaAreaName": "Hertfordshire and North London",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/062WAF47Mimram",
-        "county": "Hertfordshire",
-        "notation": "062WAF47Mimram",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/062WAF47Mimram/polygon",
-        "riverOrSea": "Mimram"
-      },
-      "floodAreaID": "062WAF47Mimram",
-      "isTidal": false,
-      "message": "Flooding is affecting low lying land, roads and gardens close to the River Mimram. The situation is now improving with reduced water levels in key hotspots.\n\nWe are monitoring the flooding affecting the Fulling Mill Lane, Singlers Marsh, and Codicote Road areas in Welwyn. \n\nFlooding to homes and businesses is unlikely at this time, but there may be a risk to very low-lying properties or those with basements. River levels in other areas remain below levels of concern. \n\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. We are continuing to monitor the situation.\n\nThis message will be updated by 5pm, Wednesday 28th May 2025, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-05-21T13:08:00",
-      "timeRaised": "2025-05-21T13:08:34",
-      "timeSeverityChanged": "2025-01-29T17:28:00"
-    }
-  ]
 }
