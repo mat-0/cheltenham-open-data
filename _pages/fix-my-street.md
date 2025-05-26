@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Another pothole in our lane, 26th May :- [7617826](https://www.fixmystreet.com/report/7617826)
+- Another pothole in our lane, 26th May :- [7617813](https://www.fixmystreet.com/report/7617813)
+- Another pothole in our lane, 26th May :- [7617808](https://www.fixmystreet.com/report/7617808)
+- One of many potholes in our lane, 26th May :- [7617795](https://www.fixmystreet.com/report/7617795)
+- Fallen tree blocking the path, 26th May :- [7617766](https://www.fixmystreet.com/report/7617766)
 - Drain is flooded on Granley Road, near Greville Court, 26th May :- [7617374](https://www.fixmystreet.com/report/7617374)
 - Tree blocking footpath/bridleway, 25th May :- [7616508](https://www.fixmystreet.com/report/7616508)
 - The drain is blocked. This means that when there’s rain in floods our drive, 25th May :- [7616497](https://www.fixmystreet.com/report/7616497)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Water in the drain is not draining away, 25th May :- [7615598](https://www.fixmystreet.com/report/7615598)
 - Flytipped Tyre, 25th May :- [7615498](https://www.fixmystreet.com/report/7615498)
 - Flytipped Items, 25th May :- [7615430](https://www.fixmystreet.com/report/7615430)
-- Manhole cover outside number 7 Lysander court., 25th May :- [7615418](https://www.fixmystreet.com/report/7615418)
-- Toilet soap, 25th May :- [7615257](https://www.fixmystreet.com/report/7615257)
-- Ash tree on public highway disrupting wall - worrying 95 year old resident, 25th May :- [7615040](https://www.fixmystreet.com/report/7615040)
-- Pothole just near main road, 25th May :- [7614997](https://www.fixmystreet.com/report/7614997)
-- This serious, dangerous patchwork of potholes has been reported many times: even reported as fixed! Croft st, which never was a problem has been resurfaced!, 25th May :- [7614964](https://www.fixmystreet.com/report/7614964)
 
 <!-- fix_marker ends -->
