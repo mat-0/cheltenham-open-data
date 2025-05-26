@@ -8,13 +8,13 @@ seo: Menu
 ![Logo](/images/logo.jpg){:width="832px"}
 
 <!-- weather_marker starts -->
-## On Sunday, 25 May 2025
+## On Monday, 26 May 2025
 
-- The average temperature today is 11.33˚C,
-- With highs of 11.96˚C and lows of 10.93˚C,
-- It may feel like 10.56˚C with scattered clouds
-- The wind speed is 2.68m/s and visibility is 10000m
-- The pressure is 1014hPa and humidity is 78%
+- The average temperature today is 10.97˚C,
+- With highs of 11.4˚C and lows of 10.39˚C,
+- It may feel like 10.24˚C with clear sky
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 1014hPa and humidity is 81%
 - The sun will rise at 04:00 and set at 20:10
 
 <!-- weather_marker ends -->
