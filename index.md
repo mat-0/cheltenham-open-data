@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Monday, 26 May 2025
 
-- The average temperature today is 14.32˚C,
-- With highs of 14.73˚C and lows of 13.3˚C,
-- It may feel like 13.69˚C with overcast clouds
-- The wind speed is 6.26m/s and visibility is 10000m
-- The pressure is 1011hPa and humidity is 72%
+- The average temperature today is 14.31˚C,
+- With highs of 14.99˚C and lows of 13.72˚C,
+- It may feel like 13.7˚C with overcast clouds
+- The wind speed is 4.02m/s and visibility is 10000m
+- The pressure is 1011hPa and humidity is 73%
 - The sun will rise at 04:00 and set at 20:10
 
 <!-- weather_marker ends -->

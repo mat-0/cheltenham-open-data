@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Thieves drive off with stolen digger and roller ([1 hours ago](https://www.bbc.com/news/articles/c7061dxxg3no))
-- YouTuber 'risks his life' for cheese-rolling win ([4 hours ago](https://www.bbc.com/news/articles/czj4vw0m3lzo))
-- Roads closed by police after serious crash ([5 hours ago](https://www.bbc.com/news/articles/c93l02w03qzo))
-- M5 reopens after crash damages barrier ([11 hours ago](https://www.bbc.com/news/articles/c753qxz4093o))
-- NHS prescribes phone game to reduce anxiety in children ([14 hours ago](https://www.bbc.com/news/articles/cev4ed9gygdo))
-- Youth worker's 60-mile walk to help young people ([14 hours ago](https://www.bbc.com/news/articles/c2ewl10l80jo))
+- Thieves drive off with stolen digger and roller ([2 hours ago](https://www.bbc.com/news/articles/c7061dxxg3no))
+- YouTuber 'risks his life' for cheese-rolling win ([5 hours ago](https://www.bbc.com/news/articles/czj4vw0m3lzo))
+- Roads closed by police after serious crash ([6 hours ago](https://www.bbc.com/news/articles/c93l02w03qzo))
+- M5 reopens after crash damages barrier ([12 hours ago](https://www.bbc.com/news/articles/c753qxz4093o))
+- NHS prescribes phone game to reduce anxiety in children ([15 hours ago](https://www.bbc.com/news/articles/cev4ed9gygdo))
+- Youth worker's 60-mile walk to help young people ([15 hours ago](https://www.bbc.com/news/articles/c2ewl10l80jo))
 - Decision expected on 4,115-home development ([1 days ago](https://www.bbc.com/news/articles/c2d5nld906po))
 - Teacher banned after sex assaults in mid-1990s ([1 days ago](https://www.bbc.com/news/articles/c0mr40430ego))
 - 'We can never park despite permits pricier than London' ([1 days ago](https://www.bbc.com/news/articles/cq544x9z6xqo))
