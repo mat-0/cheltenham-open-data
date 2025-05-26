@@ -13,10 +13,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
 - M5 reopens after crash damages barrier ([1 hours ago](https://www.bbc.com/news/articles/c753qxz4093o))
-- NHS prescribes phone game to reduce anxiety in children ([3 hours ago](https://www.bbc.com/news/articles/cev4ed9gygdo))
-- Youth worker's 60-mile walk to help young people ([3 hours ago](https://www.bbc.com/news/articles/c2ewl10l80jo))
-- Decision expected on 4,115-home development ([16 hours ago](https://www.bbc.com/news/articles/c2d5nld906po))
-- Teacher banned after sex assaults in mid-1990s ([18 hours ago](https://www.bbc.com/news/articles/c0mr40430ego))
+- NHS prescribes phone game to reduce anxiety in children ([4 hours ago](https://www.bbc.com/news/articles/cev4ed9gygdo))
+- Youth worker's 60-mile walk to help young people ([4 hours ago](https://www.bbc.com/news/articles/c2ewl10l80jo))
+- Decision expected on 4,115-home development ([17 hours ago](https://www.bbc.com/news/articles/c2d5nld906po))
+- Teacher banned after sex assaults in mid-1990s ([19 hours ago](https://www.bbc.com/news/articles/c0mr40430ego))
 - 'We can never park despite permits pricier than London' ([1 days ago](https://www.bbc.com/news/articles/cq544x9z6xqo))
 - Historic lido celebrates 90th year of opening ([1 days ago](https://www.bbc.com/news/articles/ce39nny2212o))
 - Two fires, police pursuit and smartphone ban ([1 days ago](https://www.bbc.com/news/articles/cd62jl7j2z5o))
