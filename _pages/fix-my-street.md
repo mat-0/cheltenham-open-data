@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Drain is flooded on Granley Road, near Greville Court, 26th May :- [7617374](https://www.fixmystreet.com/report/7617374)
 - Tree blocking footpath/bridleway, 25th May :- [7616508](https://www.fixmystreet.com/report/7616508)
 - The drain is blocked. This means that when there’s rain in floods our drive, 25th May :- [7616497](https://www.fixmystreet.com/report/7616497)
 - Trees and hedgerow destroyed, 25th May :- [7616382](https://www.fixmystreet.com/report/7616382)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Ash tree on public highway disrupting wall - worrying 95 year old resident, 25th May :- [7615040](https://www.fixmystreet.com/report/7615040)
 - Pothole just near main road, 25th May :- [7614997](https://www.fixmystreet.com/report/7614997)
 - This serious, dangerous patchwork of potholes has been reported many times: even reported as fixed! Croft st, which never was a problem has been resurfaced!, 25th May :- [7614964](https://www.fixmystreet.com/report/7614964)
-- Blocked drain, 25th May :- [7614837](https://www.fixmystreet.com/report/7614837)
 
 <!-- fix_marker ends -->

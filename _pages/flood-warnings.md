@@ -19,11 +19,7 @@ This project fetches flood warning data for the Gloucestershire area and publish
 ## Latest
 
 <!-- flood_marker starts -->
-- Flood alert: Severn Estuary at Severn Beach
--  A large tidal surge is expected with possible overtopping and onshore flooding as a result of high water levels. The time and date of the forecast high water is 17:45 on 25/05/2025. The forecast tide level is 6.5 m AOD. The forecast wind strength and direction is Force 7 in a westerly direction. There is a possibility of flooding for the Severn beach area. Be careful along beaches, promenades and coastal footpaths and roads. 
-Please note all tide times are in local time and are using the 24 hour clock and refer to the high water time at Avonmouth.
-This message will be updated on the 25 May 2025, or as the situation changes.
-
-
+- Warning no longer in force: Severn Estuary at Severn Beach
+-  
 
 <!-- flood_marker ends -->
