@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Abandoned trailer and rubbish, 26th May :- [7618827](https://www.fixmystreet.com/report/7618827)
 - Dumping of rubbish, 26th May :- [7618501](https://www.fixmystreet.com/report/7618501)
 - Hedge/trees blocking footpath, 26th May :- [7618426](https://www.fixmystreet.com/report/7618426)
 - New fence is blocking footpath completely, 26th May :- [7618416](https://www.fixmystreet.com/report/7618416)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - One of many potholes in our lane, 26th May :- [7617795](https://www.fixmystreet.com/report/7617795)
 - Fallen tree blocking the path, 26th May :- [7617766](https://www.fixmystreet.com/report/7617766)
 - Drain is flooded on Granley Road, near Greville Court, 26th May :- [7617374](https://www.fixmystreet.com/report/7617374)
-- Tree blocking footpath/bridleway, 25th May :- [7616508](https://www.fixmystreet.com/report/7616508)
 
 <!-- fix_marker ends -->
