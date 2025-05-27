@@ -19,7 +19,5 @@ This project fetches flood warning data for the Gloucestershire area and publish
 ## Latest
 
 <!-- flood_marker starts -->
-- Warning no longer in force: Severn Estuary at Severn Beach
--  
 
 <!-- flood_marker ends -->

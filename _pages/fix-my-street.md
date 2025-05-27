@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- When you open the gate it drops to the ground as if part of it's support is broken, 27th May :- [7621297](https://www.fixmystreet.com/report/7621297)
+- Abandoned scooters on pavements. One in Desert Orchid Road near the play park and two in Noverton Lane, 27th May :- [7621270](https://www.fixmystreet.com/report/7621270)
 - Poor workmanship in this T junction., 27th May :- [7620463](https://www.fixmystreet.com/report/7620463)
 - Public foot path access had disappeared!!, 26th May :- [7619981](https://www.fixmystreet.com/report/7619981)
 - Roots have caused the tarmac to raise up, 26th May :- [7619340](https://www.fixmystreet.com/report/7619340)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Another pot hole on our lane, 26th May :- [7617979](https://www.fixmystreet.com/report/7617979)
 - Another two potholes in our lane, 26th May :- [7617972](https://www.fixmystreet.com/report/7617972)
 - Another pothole in our lane, 26th May :- [7617965](https://www.fixmystreet.com/report/7617965)
-- The road has sunk here, 26th May :- [7617952](https://www.fixmystreet.com/report/7617952)
-- Another pot hole in our lane, 26th May :- [7617940](https://www.fixmystreet.com/report/7617940)
 
 <!-- fix_marker ends -->
