@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Bangs when driven over, 27th May :- [7625237](https://www.fixmystreet.com/report/7625237)
 - Whole street in very bad condition but worse on the left hand side when facing the park raised tarmac, 27th May :- [7625119](https://www.fixmystreet.com/report/7625119)
 - Verge foliage has completely blocked access to the PROW, 27th May :- [7625117](https://www.fixmystreet.com/report/7625117)
 - Multiple potholes, 27th May :- [7624986](https://www.fixmystreet.com/report/7624986)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Footpath illegaly blocked and no diversion visible, 27th May :- [7621950](https://www.fixmystreet.com/report/7621950)
 - Assisted lift and lower broken, 27th May :- [7621830](https://www.fixmystreet.com/report/7621830)
 - Blocking visibility on road/junction (Grass/verge) problem, 27th May :- [7621883](https://www.fixmystreet.com/report/7621883)
-- New trees have blown over, 27th May :- [7621621](https://www.fixmystreet.com/report/7621621)
 
 <!-- fix_marker ends -->
