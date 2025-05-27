@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree is damaged problem, 27th May :- [7622844](https://www.fixmystreet.com/report/7622844)
+- Steel drain cover in middle of London Road outside Wok Wagon has slippedWok, 27th May :- [7622640](https://www.fixmystreet.com/report/7622640)
+- Overhanging branches obstructing litter bin & bike racks, 27th May :- [7622638](https://www.fixmystreet.com/report/7622638)
+- Abandoned vio scooters, 27th May :- [7622626](https://www.fixmystreet.com/report/7622626)
 - Dog poo bags left beside road, 27th May :- [7622301](https://www.fixmystreet.com/report/7622301)
 - Street light on all the time, 27th May :- [7622223](https://www.fixmystreet.com/report/7622223)
 - Flytipping, 27th May :- [7622208](https://www.fixmystreet.com/report/7622208)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Damaged pavement, 26th May :- [7619271](https://www.fixmystreet.com/report/7619271)
 - Drain Blocked, 26th May :- [7619254](https://www.fixmystreet.com/report/7619254)
 - Abandoned trailer and rubbish, 26th May :- [7618827](https://www.fixmystreet.com/report/7618827)
-- Dumping of rubbish, 26th May :- [7618501](https://www.fixmystreet.com/report/7618501)
-- Hedge/trees blocking footpath, 26th May :- [7618426](https://www.fixmystreet.com/report/7618426)
-- New fence is blocking footpath completely, 26th May :- [7618416](https://www.fixmystreet.com/report/7618416)
-- Another pot hole in our lane, 26th May :- [7618049](https://www.fixmystreet.com/report/7618049)
 
 <!-- fix_marker ends -->
