@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Poor workmanship in this T junction., 27th May :- [7620463](https://www.fixmystreet.com/report/7620463)
 - Public foot path access had disappeared!!, 26th May :- [7619981](https://www.fixmystreet.com/report/7619981)
 - Roots have caused the tarmac to raise up, 26th May :- [7619340](https://www.fixmystreet.com/report/7619340)
 - Suspected collapsed Drain, 26th May :- [7619307](https://www.fixmystreet.com/report/7619307)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Another pothole in our lane, 26th May :- [7617965](https://www.fixmystreet.com/report/7617965)
 - The road has sunk here, 26th May :- [7617952](https://www.fixmystreet.com/report/7617952)
 - Another pot hole in our lane, 26th May :- [7617940](https://www.fixmystreet.com/report/7617940)
-- Another pothole in our lane, 26th May :- [7617826](https://www.fixmystreet.com/report/7617826)
 
 <!-- fix_marker ends -->
