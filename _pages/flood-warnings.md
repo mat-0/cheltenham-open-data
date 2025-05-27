@@ -19,5 +19,10 @@ This project fetches flood warning data for the Gloucestershire area and publish
 ## Latest
 
 <!-- flood_marker starts -->
+- Flood alert: Severn Estuary at Severn Beach
+- A large tidal surge is expected with possible overtopping and onshore flooding as a result of high water levels. The time and date of the first forecast high water is 19:15 on 27/05/2025. The forecast tide level is 7.13 m AOD. The forecast wind strength and direction is Force 7 in a westerly direction.
+Areas most at risk include the Severn Estuary at Severn Beach including New Passage and Pilning.
+
+
 
 <!-- flood_marker ends -->
