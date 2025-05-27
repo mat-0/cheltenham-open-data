@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Road surface breaking up, 27th May :- [7623093](https://www.fixmystreet.com/report/7623093)
 - Tree is damaged problem, 27th May :- [7622844](https://www.fixmystreet.com/report/7622844)
 - Steel drain cover in middle of London Road outside Wok Wagon has slippedWok, 27th May :- [7622640](https://www.fixmystreet.com/report/7622640)
 - Overhanging branches obstructing litter bin & bike racks, 27th May :- [7622638](https://www.fixmystreet.com/report/7622638)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Suspected collapsed Drain, 26th May :- [7619307](https://www.fixmystreet.com/report/7619307)
 - Damaged pavement, 26th May :- [7619271](https://www.fixmystreet.com/report/7619271)
 - Drain Blocked, 26th May :- [7619254](https://www.fixmystreet.com/report/7619254)
-- Abandoned trailer and rubbish, 26th May :- [7618827](https://www.fixmystreet.com/report/7618827)
 
 <!-- fix_marker ends -->
