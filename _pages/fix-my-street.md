@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Post or sign leaning slightly (less than 20 degrees) problem, 27th May :- [7623628](https://www.fixmystreet.com/report/7623628)
+- Tree is damaged problem, 27th May :- [7623627](https://www.fixmystreet.com/report/7623627)
+- Path, 27th May :- [7623436](https://www.fixmystreet.com/report/7623436)
 - Road surface breaking up, 27th May :- [7623093](https://www.fixmystreet.com/report/7623093)
 - Tree is damaged problem, 27th May :- [7622844](https://www.fixmystreet.com/report/7622844)
 - Steel drain cover in middle of London Road outside Wok Wagon has slippedWok, 27th May :- [7622640](https://www.fixmystreet.com/report/7622640)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Poor workmanship in this T junction., 27th May :- [7620463](https://www.fixmystreet.com/report/7620463)
 - Public foot path access had disappeared!!, 26th May :- [7619981](https://www.fixmystreet.com/report/7619981)
 - Roots have caused the tarmac to raise up, 26th May :- [7619340](https://www.fixmystreet.com/report/7619340)
-- Suspected collapsed Drain, 26th May :- [7619307](https://www.fixmystreet.com/report/7619307)
-- Damaged pavement, 26th May :- [7619271](https://www.fixmystreet.com/report/7619271)
-- Drain Blocked, 26th May :- [7619254](https://www.fixmystreet.com/report/7619254)
 
 <!-- fix_marker ends -->
