@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Grass verge overgrown at junction of Cleeve golf club, 27th May :- [7624243](https://www.fixmystreet.com/report/7624243)
 - General poor condition of road surface following extensive roadworks, 27th May :- [7623838](https://www.fixmystreet.com/report/7623838)
 - Post or sign leaning slightly (less than 20 degrees) problem, 27th May :- [7623628](https://www.fixmystreet.com/report/7623628)
 - Tree is damaged problem, 27th May :- [7623627](https://www.fixmystreet.com/report/7623627)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - When you open the gate it drops to the ground as if part of it's support is broken, 27th May :- [7621297](https://www.fixmystreet.com/report/7621297)
 - Abandoned scooters on pavements. One in Desert Orchid Road near the play park and two in Noverton Lane, 27th May :- [7621270](https://www.fixmystreet.com/report/7621270)
 - Poor workmanship in this T junction., 27th May :- [7620463](https://www.fixmystreet.com/report/7620463)
-- Public foot path access had disappeared!!, 26th May :- [7619981](https://www.fixmystreet.com/report/7619981)
 
 <!-- fix_marker ends -->
