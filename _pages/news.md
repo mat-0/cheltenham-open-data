@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Motorcyclist dies in three-vehicle crash ([2 hours ago](https://www.bbc.com/news/articles/cm2y7elz28no))
-- Father and daughter make history at football club ([3 hours ago](https://www.bbc.com/news/articles/cn055perw4zo))
-- Five-day repair works planned for canal bridge ([3 hours ago](https://www.bbc.com/news/articles/c15nwwyj8eno))
-- Thieves drive off with stolen digger and roller ([14 hours ago](https://www.bbc.com/news/articles/c7061dxxg3no))
-- YouTuber 'risks his life' for cheese-rolling win ([17 hours ago](https://www.bbc.com/news/articles/czj4vw0m3lzo))
-- Roads closed by police after serious crash ([18 hours ago](https://www.bbc.com/news/articles/c93l02w03qzo))
+- Motorcyclist dies in three-vehicle crash ([3 hours ago](https://www.bbc.com/news/articles/cm2y7elz28no))
+- Father and daughter make history at football club ([4 hours ago](https://www.bbc.com/news/articles/cn055perw4zo))
+- Five-day repair works planned for canal bridge ([4 hours ago](https://www.bbc.com/news/articles/c15nwwyj8eno))
+- Thieves drive off with stolen digger and roller ([15 hours ago](https://www.bbc.com/news/articles/c7061dxxg3no))
+- YouTuber 'risks his life' for cheese-rolling win ([18 hours ago](https://www.bbc.com/news/articles/czj4vw0m3lzo))
+- Roads closed by police after serious crash ([19 hours ago](https://www.bbc.com/news/articles/c93l02w03qzo))
 - M5 reopens after crash damages barrier ([1 days ago](https://www.bbc.com/news/articles/c753qxz4093o))
 - NHS prescribes phone game to reduce anxiety in children ([1 days ago](https://www.bbc.com/news/articles/cev4ed9gygdo))
 - Youth worker's 60-mile walk to help young people ([1 days ago](https://www.bbc.com/news/articles/c2ewl10l80jo))

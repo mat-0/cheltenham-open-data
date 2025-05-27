@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- New trees have blown over, 27th May :- [7621621](https://www.fixmystreet.com/report/7621621)
 - When you open the gate it drops to the ground as if part of it's support is broken, 27th May :- [7621297](https://www.fixmystreet.com/report/7621297)
 - Abandoned scooters on pavements. One in Desert Orchid Road near the play park and two in Noverton Lane, 27th May :- [7621270](https://www.fixmystreet.com/report/7621270)
 - Poor workmanship in this T junction., 27th May :- [7620463](https://www.fixmystreet.com/report/7620463)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Another two potholes in our lane, 26th May :- [7617989](https://www.fixmystreet.com/report/7617989)
 - Another pot hole on our lane, 26th May :- [7617979](https://www.fixmystreet.com/report/7617979)
 - Another two potholes in our lane, 26th May :- [7617972](https://www.fixmystreet.com/report/7617972)
-- Another pothole in our lane, 26th May :- [7617965](https://www.fixmystreet.com/report/7617965)
 
 <!-- fix_marker ends -->
