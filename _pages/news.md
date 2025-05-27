@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Two cheese-rolling contestants taken to hospital ([2 hours ago](https://www.bbc.com/news/articles/cgkdz3zv5nno))
-- Rugby clubs apologise after fighting at cup final ([7 hours ago](https://www.bbc.com/news/articles/cdj9rgjjx8zo))
-- Cheese rolling and the 80-year-old newsagent ([8 hours ago](https://www.bbc.com/news/articles/c3d4nxdrxxno))
-- Motorcyclist in his 30s dies in crash with car ([12 hours ago](https://www.bbc.com/news/articles/cm2y7elz28no))
-- Father and daughter make history at football club ([13 hours ago](https://www.bbc.com/news/articles/cn055perw4zo))
-- Five-day repair works planned for canal bridge ([13 hours ago](https://www.bbc.com/news/articles/c15nwwyj8eno))
+- Two cheese-rolling contestants taken to hospital ([3 hours ago](https://www.bbc.com/news/articles/cgkdz3zv5nno))
+- Rugby clubs apologise after fighting at cup final ([8 hours ago](https://www.bbc.com/news/articles/cdj9rgjjx8zo))
+- Cheese rolling and the 80-year-old newsagent ([9 hours ago](https://www.bbc.com/news/articles/c3d4nxdrxxno))
+- Motorcyclist in his 30s dies in crash with car ([13 hours ago](https://www.bbc.com/news/articles/cm2y7elz28no))
+- Father and daughter make history at football club ([14 hours ago](https://www.bbc.com/news/articles/cn055perw4zo))
+- Five-day repair works planned for canal bridge ([14 hours ago](https://www.bbc.com/news/articles/c15nwwyj8eno))
 - Thieves drive off with stolen digger and roller ([1 days ago](https://www.bbc.com/news/articles/c7061dxxg3no))
 - YouTuber 'risks his life' for cheese-rolling win ([1 days ago](https://www.bbc.com/news/articles/czj4vw0m3lzo))
 - Roads closed by police after serious crash ([1 days ago](https://www.bbc.com/news/articles/c93l02w03qzo))

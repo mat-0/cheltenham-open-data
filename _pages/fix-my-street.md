@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Whole street in very bad condition but worse on the left hand side when facing the park raised tarmac, 27th May :- [7625119](https://www.fixmystreet.com/report/7625119)
+- Verge foliage has completely blocked access to the PROW, 27th May :- [7625117](https://www.fixmystreet.com/report/7625117)
 - Multiple potholes, 27th May :- [7624986](https://www.fixmystreet.com/report/7624986)
 - Grass verge overgrown at junction of Cleeve golf club, 27th May :- [7624243](https://www.fixmystreet.com/report/7624243)
 - General poor condition of road surface following extensive roadworks, 27th May :- [7623838](https://www.fixmystreet.com/report/7623838)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Assisted lift and lower broken, 27th May :- [7621830](https://www.fixmystreet.com/report/7621830)
 - Blocking visibility on road/junction (Grass/verge) problem, 27th May :- [7621883](https://www.fixmystreet.com/report/7621883)
 - New trees have blown over, 27th May :- [7621621](https://www.fixmystreet.com/report/7621621)
-- When you open the gate it drops to the ground as if part of it's support is broken, 27th May :- [7621297](https://www.fixmystreet.com/report/7621297)
-- Abandoned scooters on pavements. One in Desert Orchid Road near the play park and two in Noverton Lane, 27th May :- [7621270](https://www.fixmystreet.com/report/7621270)
 
 <!-- fix_marker ends -->

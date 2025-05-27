@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Tuesday, 27 May 2025
 
-- The average temperature today is 15.87˚C,
-- With highs of 16.66˚C and lows of 15.39˚C,
-- It may feel like 15.73˚C with broken clouds
-- The wind speed is 6.17m/s and visibility is 10000m
-- The pressure is 1009hPa and humidity is 85%
+- The average temperature today is 15.72˚C,
+- With highs of 16.66˚C and lows of 15.38˚C,
+- It may feel like 15.54˚C with overcast clouds
+- The wind speed is 4.92m/s and visibility is 10000m
+- The pressure is 1010hPa and humidity is 84%
 - The sun will rise at 03:59 and set at 20:11
 
 <!-- weather_marker ends -->
