@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole in the middle of the road where ever vehicle hits it, including the D Bus, 28th May :- [7625545](https://www.fixmystreet.com/report/7625545)
 - Bangs when driven over, 27th May :- [7625237](https://www.fixmystreet.com/report/7625237)
 - Whole street in very bad condition but worse on the left hand side when facing the park raised tarmac, 27th May :- [7625119](https://www.fixmystreet.com/report/7625119)
 - Verge foliage has completely blocked access to the PROW, 27th May :- [7625117](https://www.fixmystreet.com/report/7625117)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Flytipping, 27th May :- [7622208](https://www.fixmystreet.com/report/7622208)
 - Footpath illegaly blocked and no diversion visible, 27th May :- [7621950](https://www.fixmystreet.com/report/7621950)
 - Assisted lift and lower broken, 27th May :- [7621830](https://www.fixmystreet.com/report/7621830)
-- Blocking visibility on road/junction (Grass/verge) problem, 27th May :- [7621883](https://www.fixmystreet.com/report/7621883)
 
 <!-- fix_marker ends -->
