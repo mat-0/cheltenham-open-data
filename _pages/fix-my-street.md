@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Diseased branches falling on pavement, 28th May :- [7627777](https://www.fixmystreet.com/report/7627777)
+- Abandoned Voi e-scooters, 28th May :- [7627545](https://www.fixmystreet.com/report/7627545)
+- Man drove onto pavement taking out the lamp post and tree on the verge., 28th May :- [7627514](https://www.fixmystreet.com/report/7627514)
 - Registeration Plate Faulty IS Fixed, 28th May :- [7627174](https://www.fixmystreet.com/report/7627174)
 - Vegetation is growing again and we have a new fence so would like it cleared before it gets any worse., 28th May :- [7627012](https://www.fixmystreet.com/report/7627012)
 - Epicormic growth blocking pavement in several places, 28th May :- [7626807](https://www.fixmystreet.com/report/7626807)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Post or sign leaning slightly (less than 20 degrees) problem, 27th May :- [7623628](https://www.fixmystreet.com/report/7623628)
 - Tree is damaged problem, 27th May :- [7623627](https://www.fixmystreet.com/report/7623627)
 - Path, 27th May :- [7623436](https://www.fixmystreet.com/report/7623436)
-- Road surface breaking up, 27th May :- [7623093](https://www.fixmystreet.com/report/7623093)
-- Tree is damaged problem, 27th May :- [7622844](https://www.fixmystreet.com/report/7622844)
-- Steel drain cover in middle of London Road outside Wok Wagon has slippedWok, 27th May :- [7622640](https://www.fixmystreet.com/report/7622640)
 
 <!-- fix_marker ends -->
