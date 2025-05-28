@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Wednesday, 28 May 2025
 
-- The average temperature today is 19.05˚C,
-- With highs of 19.75˚C and lows of 18.72˚C,
-- It may feel like 18.21˚C with few clouds
-- The wind speed is 5.14m/s and visibility is 10000m
-- The pressure is 1020hPa and humidity is 46%
+- The average temperature today is 17.37˚C,
+- With highs of 18.75˚C and lows of 17.19˚C,
+- It may feel like 16.83˚C with few clouds
+- The wind speed is 4.47m/s and visibility is 10000m
+- The pressure is 1020hPa and humidity is 64%
 - The sun will rise at 03:58 and set at 20:13
 
 <!-- weather_marker ends -->
