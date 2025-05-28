@@ -1,39 +1,333 @@
 {
-    "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
-    "meta": {
-        "publisher": "Environment Agency",
-        "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
-        "version": "0.9",
-        "comment": "Status: Beta service",
-        "hasFormat": [
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.csv?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.html?county=Gloucestershire"
-        ]
-    },
-    "items": [
-        {
-            "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSVN1",
-            "description": "Severn Estuary at Severn Beach",
-            "eaAreaName": "Wessex",
-            "eaRegionName": "No longer used",
-            "floodArea": {
-                "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSVN1",
-                "county": "South Gloucestershire",
-                "notation": "112WATSVN1",
-                "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSVN1/polygon",
-                "riverOrSea": "Severn Estuary"
-            },
-            "floodAreaID": "112WATSVN1",
-            "isTidal": true,
-            "message": " ",
-            "severity": "Warning no longer in force",
-            "severityLevel": 4,
-            "timeMessageChanged": "2025-05-28T09:18:00",
-            "timeRaised": "2025-05-28T09:18:44",
-            "timeSeverityChanged": "2025-05-28T09:18:00"
-        }
+  "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
+  "meta": {
+    "publisher": "Environment Agency",
+    "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
+    "version": "0.9",
+    "comment": "Status: Beta service",
+    "hasFormat": [
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.csv",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
     ]
+  },
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV4A",
+      "description": "The tidal Deben estuary",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV4A",
+        "county": "Suffolk",
+        "notation": "054WACDV4A",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV4A/polygon",
+        "riverOrSea": "River Deben, North Sea"
+      },
+      "floodAreaID": "054WACDV4A",
+      "isTidal": true,
+      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely between 12:15 and 14:15 today, Wednesday 28th May. Tide levels will be high around the boat yard in Felixstowe Ferry hamlet at the end of Ferry Road, and along riverside areas in Woodbridge and Waldringfield, as well as in surrounding marshland. The detailed forecast, for those that use it, is for a peak level at Harwich of 2.50 mAODN at 13:15, on Wednesday 28th May, which is 0.47m above tide tables, wind Force 5, North Westerly. (mAODN is height above average sea level, for more information refer to local tide tables). Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting it to escalate. We will update this message by 17:00 today, Wednesday 28th May. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-05-28T08:56:00",
+      "timeRaised": "2025-05-28T08:57:14",
+      "timeSeverityChanged": "2025-05-28T08:56:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV4B",
+      "description": "The Suffolk and Essex coast from Felixstowe to Clacton including Orwell and Stour estuaries",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV4B",
+        "county": "Essex, Suffolk",
+        "notation": "054WACDV4B",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV4B/polygon",
+        "riverOrSea": "North Sea, River Orwell, River Deben"
+      },
+      "floodAreaID": "054WACDV4B",
+      "isTidal": true,
+      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely between 12:15 and 14:15 today, Wednesday 28th May. The flood gates at Felixstowe seafront will be closed. The waterfront at Pin Mill, and The Strand at Wherstead, under the Orwell Bridge, may be flooded. Water may be on the quay at Mistley. The detailed forecast, for those that use it, is for a peak level at Harwich of 2.50 mAODN at 13:15, on Wednesday 28th May, which is 0.47m above tide tables, wind Force 5, North Westerly. (mAODN is height above average sea level, for more information refer to local tide tables). Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting it to escalate. We will update this message by 17:00 today, Wednesday 28th May. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-05-28T08:56:00",
+      "timeRaised": "2025-05-28T08:57:15",
+      "timeSeverityChanged": "2025-05-28T08:56:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
+      "description": "Tidal Thames riverside from Putney Bridge to Teddington Weir",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West",
+        "county": "Greater London, Hammersmith and Fulham, Hounslow, Richmond upon Thames, Wandsworth",
+        "notation": "063WAT23West",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West/polygon",
+        "riverOrSea": "River Thames"
+      },
+      "floodAreaID": "063WAT23West",
+      "isTidal": true,
+      "message": "River levels are expected to be high as a result of spring tides.\n\nThe forecast high tide at Richmond is 4.70mAOD at 03:45 on 28/05/25 and 4.75mAOD at 16:15 on 28/05/25.\n\nFlooding of low-lying roads and footpaths is expected, which may exist for one to two hours either side of high tide. Flooding of properties is not expected.\n\nWe believe there is a possibility of flooding for Putney Embankment (SW15), Chiswick Mall and Strand on the Green (W4), Thames Bank at Mortlake (SW14), Ranelagh Drive (TW1), Friars Lane and Water Lane (TW9), Riverside and The Embankment at Twickenham, and the Towpath below Teddington Lock. \n\nAstronomical tide levels are rising. The river flow at Teddington Weir is low for this time of year at 21 cubic metres per second and is steady. We anticipate the flows to remain low for the next few days.\n\nWe are closely monitoring the situation.\n\nThis message will be updated by 18:30 on 28/05/25, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-05-27T18:14:00",
+      "timeRaised": "2025-05-27T18:14:50",
+      "timeSeverityChanged": "2025-05-27T18:14:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC404",
+      "description": "Climping Seafront",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC404",
+        "county": "West Sussex",
+        "notation": "065WAC404",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC404/polygon",
+        "riverOrSea": "English Channel"
+      },
+      "floodAreaID": "065WAC404",
+      "isTidal": true,
+      "message": "Wednesday's early morning tide at 00:30 on 28/05/2025 is higher than normal due to unsettled weather, with strong South Westerly Force 6 winds and large waves. The weather increases tide table values by 0.27 m. The total forecast tide is 6.18 metres Chart Datum (3.13 mAOD) at Littlehampton, a few centimetres higher than Monday evening's tide. For 2 hours either side of high tide, minimal flood impacts are expected. A small amount of water could find its way behind the beach and may pond on nearby land and fields, including at Climping Street Car Park and Mill Lane. Wednesday afternoon's tide at 12:45 on 28/05/2025 is forecast to be 16 cm lower (2.97 mAOD). Each tide after will be lower again, with winds easing and wave heights smaller. No further flood impacts are expected. We continue to monitor the forecast and routinely check the condition of the beach at Climping. Shingle and debris can be thrown by large waves. Access could be restricted during and after high tide. Take care if visiting Climping beach. We will update this message by 18:00 on 28/05/2025.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-05-27T14:01:00",
+      "timeRaised": "2025-05-27T14:01:59",
+      "timeSeverityChanged": "2025-05-26T12:47:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWC003",
+      "description": "North Sea coast at Hornsea",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC003",
+        "county": "East Riding of Yorkshire",
+        "notation": "122FWC003",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC003/polygon",
+        "riverOrSea": "North Sea, Stream Dike, Foss Beck"
+      },
+      "floodAreaID": "122FWC003",
+      "isTidal": true,
+      "message": "The risk of flooding is reduced with more settled conditions expected. We will continue to monitor the situation and reissue this warning of the situation changes.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-05-28T09:03:00",
+      "timeRaised": "2025-05-28T09:04:06",
+      "timeSeverityChanged": "2025-05-28T09:03:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC955",
+      "description": "North Sea coast at Skipsea, Hornsea and Mappleton",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC955",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC955",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC955/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC955",
+      "isTidal": true,
+      "message": "The risk of flooding is reduced with more settled conditions expected. We will continue to monitor the situation and reissue this alert if the situation changes.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-05-28T09:10:00",
+      "timeRaised": "2025-05-28T09:10:42",
+      "timeSeverityChanged": "2025-05-28T09:10:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC956",
+      "description": "North Sea coast at Withernsea, Easington and Kilnsea",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC956",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC956",
+      "isTidal": true,
+      "message": "The risk of flooding is reduced with more settled conditions expected. We will continue to monitor the situation and reissue this alert if the situation changes.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-05-28T09:10:00",
+      "timeRaised": "2025-05-28T09:11:15",
+      "timeSeverityChanged": "2025-05-28T09:10:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAT913",
+      "description": "Tyne estuary",
+      "eaAreaName": "North East",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAT913",
+        "county": "Gateshead, Newcastle upon Tyne, North Tyneside, South Tyneside",
+        "notation": "121WAT913",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAT913/polygon",
+        "riverOrSea": "River Tyne"
+      },
+      "floodAreaID": "121WAT913",
+      "isTidal": true,
+      "message": "The previous tide of concern this afternoon has now passed, the weather is more settled and no flooding is expected.\nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.\nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-05-27T17:48:00",
+      "timeRaised": "2025-05-27T17:48:15",
+      "timeSeverityChanged": "2025-05-27T17:48:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM4",
+      "description": "Somerset coast at Clevedon",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM4",
+        "county": "North Somerset",
+        "notation": "112WATSOM4",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM4/polygon",
+        "riverOrSea": "Bristol Channel"
+      },
+      "floodAreaID": "112WATSOM4",
+      "isTidal": true,
+      "message": "The Flood Alert has now been removed. There is no longer a threat of flooding, though standing water and debris may still remain.\nThe previous tide of concern this morning has now passed,  the conditions are more settled and no further flooding is expected.\nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.\nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-05-28T10:22:00",
+      "timeRaised": "2025-05-28T10:22:40",
+      "timeSeverityChanged": "2025-05-28T10:22:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WATCSTHUN",
+      "description": "Hunstanton coast in Norfolk",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WATCSTHUN",
+        "county": "Norfolk",
+        "notation": "052WATCSTHUN",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WATCSTHUN/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "052WATCSTHUN",
+      "isTidal": true,
+      "message": "Levels are now below the flood risk thresholds. The forecast is for no current flood risk from high tides.  Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-05-27T22:29:00",
+      "timeRaised": "2025-05-27T22:29:48",
+      "timeSeverityChanged": "2025-05-27T22:29:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051WACDV5B3a",
+      "description": "The Essex coast at Coalhouse Fort",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WACDV5B3a",
+        "county": "Thurrock",
+        "notation": "051WACDV5B3a",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WACDV5B3a/polygon",
+        "riverOrSea": "Thames Estuary"
+      },
+      "floodAreaID": "051WACDV5B3a",
+      "isTidal": true,
+      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely between 13:00 and 15:00 today, Wednesday 28th May. Areas most at risk are Coalhouse Fort and car park, and the low lying land between the fort and Coalhouse Point. The detailed forecast, for those that use it, is for a peak level at Southend of 3.40 mAODN at 14:00, on Wednesday 28th May, which is 0.43m above tide tables, wind Force 3, North Westerly. (mAODN is height above average sea level, for more information refer to local tide tables). Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting it to escalate. We will update this message by 18:00 today, Wednesday 28th May. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-05-28T08:56:00",
+      "timeRaised": "2025-05-28T08:56:49",
+      "timeSeverityChanged": "2025-05-28T08:56:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM1",
+      "description": "Somerset coast at Porlock Weir",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1",
+        "county": "Somerset",
+        "notation": "112WATSOM1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1/polygon",
+        "riverOrSea": "Bristol Channel"
+      },
+      "floodAreaID": "112WATSOM1",
+      "isTidal": true,
+      "message": "The Flood Alert has now been removed.\nThe previous tide of concern has now passed,  the weather is more settled and no flooding is expected.\nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.\nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-05-28T10:26:00",
+      "timeRaised": "2025-05-28T10:26:22",
+      "timeSeverityChanged": "2025-05-28T10:26:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSVN1",
+      "description": "Severn Estuary at Severn Beach",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSVN1",
+        "county": "South Gloucestershire",
+        "notation": "112WATSVN1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSVN1/polygon",
+        "riverOrSea": "Severn Estuary"
+      },
+      "floodAreaID": "112WATSVN1",
+      "isTidal": true,
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-05-28T09:18:00",
+      "timeRaised": "2025-05-28T09:18:44",
+      "timeSeverityChanged": "2025-05-28T09:18:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/062WAF47Mimram",
+      "description": "River Mimram in Hertfordshire",
+      "eaAreaName": "Hertfordshire and North London",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/062WAF47Mimram",
+        "county": "Hertfordshire",
+        "notation": "062WAF47Mimram",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/062WAF47Mimram/polygon",
+        "riverOrSea": "Mimram"
+      },
+      "floodAreaID": "062WAF47Mimram",
+      "isTidal": false,
+      "message": "Flooding is affecting low lying land, roads and gardens close to the River Mimram. The situation is now improving with reduced water levels in key hotspots.\n\nWe are monitoring the flooding affecting the Fulling Mill Lane, Singlers Marsh, and Codicote Road areas in Welwyn. \n\nFlooding to homes and businesses is unlikely at this time, but there may be a risk to very low-lying properties or those with basements. River levels in other areas remain below levels of concern. \n\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. We are continuing to monitor the situation.\n\nThis message will be updated by 5pm, Wednesday 28th May 2025, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-05-21T13:08:00",
+      "timeRaised": "2025-05-21T13:08:34",
+      "timeSeverityChanged": "2025-01-29T17:28:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWC006",
+      "description": "North Sea coast at Withernsea",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC006",
+        "county": "East Riding of Yorkshire",
+        "notation": "122FWC006",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC006/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122FWC006",
+      "isTidal": true,
+      "message": "The risk of flooding is reduced with more settled conditions expected. We will continue to monitor the situation and reissue this warning if the situation changes.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-05-28T09:03:00",
+      "timeRaised": "2025-05-28T09:03:59",
+      "timeSeverityChanged": "2025-05-28T09:03:00"
+    }
+  ]
 }
