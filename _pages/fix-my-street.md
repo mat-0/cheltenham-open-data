@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree is damaged problem, 28th May :- [7626391](https://www.fixmystreet.com/report/7626391)
+- Tree is damaged problem, 28th May :- [7626201](https://www.fixmystreet.com/report/7626201)
 - On bend of road, 28th May :- [7625735](https://www.fixmystreet.com/report/7625735)
 - Pothole in the middle of the road where ever vehicle hits it, including the D Bus, 28th May :- [7625545](https://www.fixmystreet.com/report/7625545)
 - Bangs when driven over, 27th May :- [7625237](https://www.fixmystreet.com/report/7625237)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Abandoned vio scooters, 27th May :- [7622626](https://www.fixmystreet.com/report/7622626)
 - Dog poo bags left beside road, 27th May :- [7622301](https://www.fixmystreet.com/report/7622301)
 - Street light on all the time, 27th May :- [7622223](https://www.fixmystreet.com/report/7622223)
-- Flytipping, 27th May :- [7622208](https://www.fixmystreet.com/report/7622208)
-- Footpath illegaly blocked and no diversion visible, 27th May :- [7621950](https://www.fixmystreet.com/report/7621950)
 
 <!-- fix_marker ends -->
