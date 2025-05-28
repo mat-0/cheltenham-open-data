@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Vegetation is growing again and we have a new fence so would like it cleared before it gets any worse., 28th May :- [7627012](https://www.fixmystreet.com/report/7627012)
+- Epicormic growth blocking pavement in several places, 28th May :- [7626807](https://www.fixmystreet.com/report/7626807)
+- Tree is damaged problem, 28th May :- [7626619](https://www.fixmystreet.com/report/7626619)
 - Tree is damaged problem, 28th May :- [7626391](https://www.fixmystreet.com/report/7626391)
 - Tree is damaged problem, 28th May :- [7626201](https://www.fixmystreet.com/report/7626201)
 - On bend of road, 28th May :- [7625735](https://www.fixmystreet.com/report/7625735)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Tree is damaged problem, 27th May :- [7622844](https://www.fixmystreet.com/report/7622844)
 - Steel drain cover in middle of London Road outside Wok Wagon has slippedWok, 27th May :- [7622640](https://www.fixmystreet.com/report/7622640)
 - Overhanging branches obstructing litter bin & bike racks, 27th May :- [7622638](https://www.fixmystreet.com/report/7622638)
-- Abandoned vio scooters, 27th May :- [7622626](https://www.fixmystreet.com/report/7622626)
-- Dog poo bags left beside road, 27th May :- [7622301](https://www.fixmystreet.com/report/7622301)
-- Street light on all the time, 27th May :- [7622223](https://www.fixmystreet.com/report/7622223)
 
 <!-- fix_marker ends -->

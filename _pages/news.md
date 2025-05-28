@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Peregrine falcon chicks named by local families ([3 hours ago](https://www.bbc.com/news/articles/cdr5zgderx1o))
-- 'Mating' tortoise returns home a year after vanishing ([3 hours ago](https://www.bbc.com/news/articles/c5yqgwzg5pzo))
-- Two cheese-rolling contestants taken to hospital ([16 hours ago](https://www.bbc.com/news/articles/cgkdz3zv5nno))
-- Rugby clubs apologise after fighting at cup final ([21 hours ago](https://www.bbc.com/news/articles/cdj9rgjjx8zo))
-- Cheese rolling and the 80-year-old newsagent ([22 hours ago](https://www.bbc.com/news/articles/c3d4nxdrxxno))
+- More cheese rolling and nurse struck off ([46 minutes ago](https://www.bbc.com/news/articles/c5ye9z8npd4o))
+- Peregrine falcon chicks named by local families ([4 hours ago](https://www.bbc.com/news/articles/cdr5zgderx1o))
+- 'Mating' tortoise returns home a year after vanishing ([4 hours ago](https://www.bbc.com/news/articles/c5yqgwzg5pzo))
+- Two cheese-rolling contestants taken to hospital ([17 hours ago](https://www.bbc.com/news/articles/cgkdz3zv5nno))
+- Rugby clubs apologise after fighting at cup final ([22 hours ago](https://www.bbc.com/news/articles/cdj9rgjjx8zo))
 - Motorcyclist in his 30s dies in crash with car ([1 days ago](https://www.bbc.com/news/articles/cm2y7elz28no))
 - Father and daughter make history at football club ([1 days ago](https://www.bbc.com/news/articles/cn055perw4zo))
 - Five-day repair works planned for canal bridge ([1 days ago](https://www.bbc.com/news/articles/c15nwwyj8eno))
