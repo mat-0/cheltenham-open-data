@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Registeration Plate Faulty IS Fixed, 28th May :- [7627174](https://www.fixmystreet.com/report/7627174)
 - Vegetation is growing again and we have a new fence so would like it cleared before it gets any worse., 28th May :- [7627012](https://www.fixmystreet.com/report/7627012)
 - Epicormic growth blocking pavement in several places, 28th May :- [7626807](https://www.fixmystreet.com/report/7626807)
 - Tree is damaged problem, 28th May :- [7626619](https://www.fixmystreet.com/report/7626619)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Road surface breaking up, 27th May :- [7623093](https://www.fixmystreet.com/report/7623093)
 - Tree is damaged problem, 27th May :- [7622844](https://www.fixmystreet.com/report/7622844)
 - Steel drain cover in middle of London Road outside Wok Wagon has slippedWok, 27th May :- [7622640](https://www.fixmystreet.com/report/7622640)
-- Overhanging branches obstructing litter bin & bike racks, 27th May :- [7622638](https://www.fixmystreet.com/report/7622638)
 
 <!-- fix_marker ends -->
