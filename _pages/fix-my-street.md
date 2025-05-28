@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree sprouting blocking pavement, 28th May :- [7630575](https://www.fixmystreet.com/report/7630575)
+- Graffiti on wall alongside footpath at the rear of property on Curlew Grove, 28th May :- [7630408](https://www.fixmystreet.com/report/7630408)
 - Potholes within potholes!, 28th May :- [7629830](https://www.fixmystreet.com/report/7629830)
 - Items dumped on pavement, 28th May :- [7629450](https://www.fixmystreet.com/report/7629450)
 - This tree is blocking late afternoon sunlight to our garden to be able to use our pool. It’s also blocking light to our hedge, so has killed a large area of this. We’ve tried regrowing two conifers to fill the gap but they don’t get enough light to survive & we now have a large gab in our hedge on the Old Bath Road side. We don’t want this tree to get any bigger, causing more damage to our hedge & further blocking the sunshine into our garden, 28th May :- [7629442](https://www.fixmystreet.com/report/7629442)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - On bend of road, 28th May :- [7625735](https://www.fixmystreet.com/report/7625735)
 - Pothole in the middle of the road where ever vehicle hits it, including the D Bus, 28th May :- [7625545](https://www.fixmystreet.com/report/7625545)
 - Bangs when driven over, 27th May :- [7625237](https://www.fixmystreet.com/report/7625237)
-- Whole street in very bad condition but worse on the left hand side when facing the park raised tarmac, 27th May :- [7625119](https://www.fixmystreet.com/report/7625119)
-- Verge foliage has completely blocked access to the PROW, 27th May :- [7625117](https://www.fixmystreet.com/report/7625117)
 
 <!-- fix_marker ends -->
