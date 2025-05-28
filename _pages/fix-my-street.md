@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Potholes within potholes!, 28th May :- [7629830](https://www.fixmystreet.com/report/7629830)
 - Items dumped on pavement, 28th May :- [7629450](https://www.fixmystreet.com/report/7629450)
 - This tree is blocking late afternoon sunlight to our garden to be able to use our pool. It’s also blocking light to our hedge, so has killed a large area of this. We’ve tried regrowing two conifers to fill the gap but they don’t get enough light to survive & we now have a large gab in our hedge on the Old Bath Road side. We don’t want this tree to get any bigger, causing more damage to our hedge & further blocking the sunshine into our garden, 28th May :- [7629442](https://www.fixmystreet.com/report/7629442)
 - After removal of hedge, uneven paving slabs exposed outside No 3?, 28th May :- [7628691](https://www.fixmystreet.com/report/7628691)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Bangs when driven over, 27th May :- [7625237](https://www.fixmystreet.com/report/7625237)
 - Whole street in very bad condition but worse on the left hand side when facing the park raised tarmac, 27th May :- [7625119](https://www.fixmystreet.com/report/7625119)
 - Verge foliage has completely blocked access to the PROW, 27th May :- [7625117](https://www.fixmystreet.com/report/7625117)
-- Multiple potholes, 27th May :- [7624986](https://www.fixmystreet.com/report/7624986)
 
 <!-- fix_marker ends -->
