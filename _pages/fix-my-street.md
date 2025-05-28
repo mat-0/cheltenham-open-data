@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Road junction markings have completely worn away leading to cars not giving way at top of Strickland road to Coltham road traffic, 28th May :- [7628203](https://www.fixmystreet.com/report/7628203)
+- Pothole on the edge of the speed bump, which makes the bump harsher, 28th May :- [7627900](https://www.fixmystreet.com/report/7627900)
 - Diseased branches falling on pavement, 28th May :- [7627777](https://www.fixmystreet.com/report/7627777)
 - Abandoned Voi e-scooters, 28th May :- [7627545](https://www.fixmystreet.com/report/7627545)
 - Man drove onto pavement taking out the lamp post and tree on the verge., 28th May :- [7627514](https://www.fixmystreet.com/report/7627514)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Grass verge overgrown at junction of Cleeve golf club, 27th May :- [7624243](https://www.fixmystreet.com/report/7624243)
 - General poor condition of road surface following extensive roadworks, 27th May :- [7623838](https://www.fixmystreet.com/report/7623838)
 - Post or sign leaning slightly (less than 20 degrees) problem, 27th May :- [7623628](https://www.fixmystreet.com/report/7623628)
-- Tree is damaged problem, 27th May :- [7623627](https://www.fixmystreet.com/report/7623627)
-- Path, 27th May :- [7623436](https://www.fixmystreet.com/report/7623436)
 
 <!-- fix_marker ends -->
