@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Thursday, 29 May 2025
 
-- The average temperature today is 22.03˚C,
-- With highs of 22.2˚C and lows of 21.64˚C,
-- It may feel like 21.91˚C with scattered clouds
-- The wind speed is 6.17m/s and visibility is 10000m
-- The pressure is 1017hPa and humidity is 62%
+- The average temperature today is 21.86˚C,
+- With highs of 22.6˚C and lows of 21.08˚C,
+- It may feel like 21.75˚C with scattered clouds
+- The wind speed is 7.2m/s and visibility is 10000m
+- The pressure is 1017hPa and humidity is 63%
 - The sun will rise at 03:57 and set at 20:14
 
 <!-- weather_marker ends -->

@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Other damage to pavement i.e. cobbles, raised mound/surface problem, 29th May :- [7634157](https://www.fixmystreet.com/report/7634157)
 - Developers Sign Blocking View, 29th May :- [7634009](https://www.fixmystreet.com/report/7634009)
 - New flytipping, 29th May :- [7633907](https://www.fixmystreet.com/report/7633907)
 - Someone requested the reopening of this lay-by and they seem to have had their request approved, without any consultation or thought given to how this would affect the local residents living directly opposite this lay-by. Why was this ? And the residents would like to request that the lay-by be closed permanently., 29th May :- [7633765](https://www.fixmystreet.com/report/7633765)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - This tree is blocking late afternoon sunlight to our garden to be able to use our pool. It’s also blocking light to our hedge, so has killed a large area of this. We’ve tried regrowing two conifers to fill the gap but they don’t get enough light to survive & we now have a large gab in our hedge on the Old Bath Road side. We don’t want this tree to get any bigger, causing more damage to our hedge & further blocking the sunshine into our garden, 28th May :- [7629442](https://www.fixmystreet.com/report/7629442)
 - After removal of hedge, uneven paving slabs exposed outside No 3?, 28th May :- [7628691](https://www.fixmystreet.com/report/7628691)
 - Road junction markings have completely worn away leading to cars not giving way at top of Strickland road to Coltham road traffic, 28th May :- [7628203](https://www.fixmystreet.com/report/7628203)
-- Pothole on the edge of the speed bump, which makes the bump harsher, 28th May :- [7627900](https://www.fixmystreet.com/report/7627900)
 
 <!-- fix_marker ends -->
