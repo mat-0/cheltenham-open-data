@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Multiple pot hole, 29th May :- [7631787](https://www.fixmystreet.com/report/7631787)
 - Tree sprouting blocking pavement, 28th May :- [7630575](https://www.fixmystreet.com/report/7630575)
 - Graffiti on wall alongside footpath at the rear of property on Curlew Grove, 28th May :- [7630408](https://www.fixmystreet.com/report/7630408)
 - Potholes within potholes!, 28th May :- [7629830](https://www.fixmystreet.com/report/7629830)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Tree is damaged problem, 28th May :- [7626201](https://www.fixmystreet.com/report/7626201)
 - On bend of road, 28th May :- [7625735](https://www.fixmystreet.com/report/7625735)
 - Pothole in the middle of the road where ever vehicle hits it, including the D Bus, 28th May :- [7625545](https://www.fixmystreet.com/report/7625545)
-- Bangs when driven over, 27th May :- [7625237](https://www.fixmystreet.com/report/7625237)
 
 <!-- fix_marker ends -->
