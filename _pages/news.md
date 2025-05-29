@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Wychwood Festival 2025: What you need to know ([3 hours ago](https://www.bbc.com/news/articles/cj421ndnd58o))
-- 'Words Matter' guidelines aim to reduce victim blaming ([3 hours ago](https://www.bbc.com/news/articles/cq85zz2v009o))
-- Murder investigation launched after fatal stabbing ([15 hours ago](https://www.bbc.com/news/articles/crmkdwzp8r9o))
-- MP loses seven stone after diabetes diagnosis ([15 hours ago](https://www.bbc.com/news/articles/cy75e7n4ey7o))
-- Council denies Clarkson's claims it was 'awkward' ([20 hours ago](https://www.bbc.com/news/articles/cp3ql38yk11o))
-- More cheese rolling and nurse struck off ([23 hours ago](https://www.bbc.com/news/articles/c5ye9z8npd4o))
+- 'Star's death' and 'farms turn to hosting weddings ' ([55 minutes ago](https://www.bbc.com/news/articles/cvgdr8myz74o))
+- Wychwood Festival 2025: What you need to know ([4 hours ago](https://www.bbc.com/news/articles/cj421ndnd58o))
+- 'Words Matter' guidelines aim to reduce victim blaming ([4 hours ago](https://www.bbc.com/news/articles/cq85zz2v009o))
+- Murder investigation launched after fatal stabbing ([16 hours ago](https://www.bbc.com/news/articles/crmkdwzp8r9o))
+- MP loses seven stone after diabetes diagnosis ([16 hours ago](https://www.bbc.com/news/articles/cy75e7n4ey7o))
+- Council denies Clarkson's claims it was 'awkward' ([21 hours ago](https://www.bbc.com/news/articles/cp3ql38yk11o))
 - Peregrine falcon chicks named by local families ([1 days ago](https://www.bbc.com/news/articles/cdr5zgderx1o))
 - 'Mating' tortoise returns home a year after vanishing ([1 days ago](https://www.bbc.com/news/articles/c5yqgwzg5pzo))
 - Two cheese-rolling contestants taken to hospital ([1 days ago](https://www.bbc.com/news/articles/cgkdz3zv5nno))

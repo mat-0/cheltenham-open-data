@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Poorly repaired previously reported, 29th May :- [7632071](https://www.fixmystreet.com/report/7632071)
+- Flytipping just inside the gate to clyde crescent park, 29th May :- [7631900](https://www.fixmystreet.com/report/7631900)
 - Multiple pot hole, 29th May :- [7631787](https://www.fixmystreet.com/report/7631787)
 - Tree sprouting blocking pavement, 28th May :- [7630575](https://www.fixmystreet.com/report/7630575)
 - Graffiti on wall alongside footpath at the rear of property on Curlew Grove, 28th May :- [7630408](https://www.fixmystreet.com/report/7630408)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Tree is damaged problem, 28th May :- [7626619](https://www.fixmystreet.com/report/7626619)
 - Tree is damaged problem, 28th May :- [7626391](https://www.fixmystreet.com/report/7626391)
 - Tree is damaged problem, 28th May :- [7626201](https://www.fixmystreet.com/report/7626201)
-- On bend of road, 28th May :- [7625735](https://www.fixmystreet.com/report/7625735)
-- Pothole in the middle of the road where ever vehicle hits it, including the D Bus, 28th May :- [7625545](https://www.fixmystreet.com/report/7625545)
 
 <!-- fix_marker ends -->
