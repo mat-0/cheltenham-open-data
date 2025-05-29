@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Murder investigation launched after fatal stabbing ([10 hours ago](https://www.bbc.com/news/articles/crmkdwzp8r9o))
-- MP loses seven stone after diabetes diagnosis ([10 hours ago](https://www.bbc.com/news/articles/cy75e7n4ey7o))
-- Council denies Clarkson's claims it was 'awkward' ([15 hours ago](https://www.bbc.com/news/articles/cp3ql38yk11o))
-- More cheese rolling and nurse struck off ([18 hours ago](https://www.bbc.com/news/articles/c5ye9z8npd4o))
-- Peregrine falcon chicks named by local families ([22 hours ago](https://www.bbc.com/news/articles/cdr5zgderx1o))
-- 'Mating' tortoise returns home a year after vanishing ([22 hours ago](https://www.bbc.com/news/articles/c5yqgwzg5pzo))
+- Murder investigation launched after fatal stabbing ([11 hours ago](https://www.bbc.com/news/articles/crmkdwzp8r9o))
+- MP loses seven stone after diabetes diagnosis ([11 hours ago](https://www.bbc.com/news/articles/cy75e7n4ey7o))
+- Council denies Clarkson's claims it was 'awkward' ([16 hours ago](https://www.bbc.com/news/articles/cp3ql38yk11o))
+- More cheese rolling and nurse struck off ([19 hours ago](https://www.bbc.com/news/articles/c5ye9z8npd4o))
+- Peregrine falcon chicks named by local families ([23 hours ago](https://www.bbc.com/news/articles/cdr5zgderx1o))
+- 'Mating' tortoise returns home a year after vanishing ([23 hours ago](https://www.bbc.com/news/articles/c5yqgwzg5pzo))
 - Two cheese-rolling contestants taken to hospital ([1 days ago](https://www.bbc.com/news/articles/cgkdz3zv5nno))
 - Rugby clubs apologise after fighting at cup final ([1 days ago](https://www.bbc.com/news/articles/cdj9rgjjx8zo))
 - Motorcyclist in his 30s dies in crash with car ([1 days ago](https://www.bbc.com/news/articles/cm2y7elz28no))
