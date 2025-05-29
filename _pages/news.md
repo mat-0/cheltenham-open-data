@@ -12,7 +12,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Murder investigation launched after fatal stabbing ([9 hours ago](https://www.bbc.com/news/articles/crmkdwzp8r9o))
+- Murder investigation launched after fatal stabbing ([10 hours ago](https://www.bbc.com/news/articles/crmkdwzp8r9o))
 - MP loses seven stone after diabetes diagnosis ([10 hours ago](https://www.bbc.com/news/articles/cy75e7n4ey7o))
 - Council denies Clarkson's claims it was 'awkward' ([15 hours ago](https://www.bbc.com/news/articles/cp3ql38yk11o))
 - More cheese rolling and nurse struck off ([18 hours ago](https://www.bbc.com/news/articles/c5ye9z8npd4o))
