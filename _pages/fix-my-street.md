@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree getting increasingly high., 29th May :- [7632683](https://www.fixmystreet.com/report/7632683)
+- Blocking visibility on road/junction (Grass/verge) problem, 29th May :- [7632590](https://www.fixmystreet.com/report/7632590)
 - Poorly repaired previously reported, 29th May :- [7632071](https://www.fixmystreet.com/report/7632071)
 - Flytipping just inside the gate to clyde crescent park, 29th May :- [7631900](https://www.fixmystreet.com/report/7631900)
 - Multiple pot hole, 29th May :- [7631787](https://www.fixmystreet.com/report/7631787)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Vegetation is growing again and we have a new fence so would like it cleared before it gets any worse., 28th May :- [7627012](https://www.fixmystreet.com/report/7627012)
 - Epicormic growth blocking pavement in several places, 28th May :- [7626807](https://www.fixmystreet.com/report/7626807)
 - Tree is damaged problem, 28th May :- [7626619](https://www.fixmystreet.com/report/7626619)
-- Tree is damaged problem, 28th May :- [7626391](https://www.fixmystreet.com/report/7626391)
-- Tree is damaged problem, 28th May :- [7626201](https://www.fixmystreet.com/report/7626201)
 
 <!-- fix_marker ends -->
