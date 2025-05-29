@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Vehicles exiting Grovelands Close cannot see up or down Copt Elm Road adequately. High risk of collisions.adequately, 29th May :- [7633007](https://www.fixmystreet.com/report/7633007)
 - Tree getting increasingly high., 29th May :- [7632683](https://www.fixmystreet.com/report/7632683)
 - Blocking visibility on road/junction (Grass/verge) problem, 29th May :- [7632590](https://www.fixmystreet.com/report/7632590)
 - Poorly repaired previously reported, 29th May :- [7632071](https://www.fixmystreet.com/report/7632071)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Registeration Plate Faulty IS Fixed, 28th May :- [7627174](https://www.fixmystreet.com/report/7627174)
 - Vegetation is growing again and we have a new fence so would like it cleared before it gets any worse., 28th May :- [7627012](https://www.fixmystreet.com/report/7627012)
 - Epicormic growth blocking pavement in several places, 28th May :- [7626807](https://www.fixmystreet.com/report/7626807)
-- Tree is damaged problem, 28th May :- [7626619](https://www.fixmystreet.com/report/7626619)
 
 <!-- fix_marker ends -->
