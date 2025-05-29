@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Developers Sign Blocking View, 29th May :- [7634009](https://www.fixmystreet.com/report/7634009)
+- New flytipping, 29th May :- [7633907](https://www.fixmystreet.com/report/7633907)
+- Someone requested the reopening of this lay-by and they seem to have had their request approved, without any consultation or thought given to how this would affect the local residents living directly opposite this lay-by. Why was this ? And the residents would like to request that the lay-by be closed permanently., 29th May :- [7633765](https://www.fixmystreet.com/report/7633765)
+- Lay-by on A417 longlevens, 29th May :- [7633718](https://www.fixmystreet.com/report/7633718)
 - When exiting Lyndley Chase visibility is severely compromised due to the overgrown vegetation in the verges. This is getting very dangerous., 29th May :- [7633703](https://www.fixmystreet.com/report/7633703)
 - Street sign broken., 29th May :- [7633438](https://www.fixmystreet.com/report/7633438)
 - Vehicles exiting Grovelands Close cannot see up or down Copt Elm Road adequately. High risk of collisions.adequately, 29th May :- [7633007](https://www.fixmystreet.com/report/7633007)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - After removal of hedge, uneven paving slabs exposed outside No 3?, 28th May :- [7628691](https://www.fixmystreet.com/report/7628691)
 - Road junction markings have completely worn away leading to cars not giving way at top of Strickland road to Coltham road traffic, 28th May :- [7628203](https://www.fixmystreet.com/report/7628203)
 - Pothole on the edge of the speed bump, which makes the bump harsher, 28th May :- [7627900](https://www.fixmystreet.com/report/7627900)
-- Diseased branches falling on pavement, 28th May :- [7627777](https://www.fixmystreet.com/report/7627777)
-- Abandoned Voi e-scooters, 28th May :- [7627545](https://www.fixmystreet.com/report/7627545)
-- Man drove onto pavement taking out the lamp post and tree on the verge., 28th May :- [7627514](https://www.fixmystreet.com/report/7627514)
-- Registeration Plate Faulty IS Fixed, 28th May :- [7627174](https://www.fixmystreet.com/report/7627174)
 
 <!-- fix_marker ends -->
