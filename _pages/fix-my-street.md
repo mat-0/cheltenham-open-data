@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street sign broken., 29th May :- [7633438](https://www.fixmystreet.com/report/7633438)
 - Vehicles exiting Grovelands Close cannot see up or down Copt Elm Road adequately. High risk of collisions.adequately, 29th May :- [7633007](https://www.fixmystreet.com/report/7633007)
 - Tree getting increasingly high., 29th May :- [7632683](https://www.fixmystreet.com/report/7632683)
 - Blocking visibility on road/junction (Grass/verge) problem, 29th May :- [7632590](https://www.fixmystreet.com/report/7632590)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Man drove onto pavement taking out the lamp post and tree on the verge., 28th May :- [7627514](https://www.fixmystreet.com/report/7627514)
 - Registeration Plate Faulty IS Fixed, 28th May :- [7627174](https://www.fixmystreet.com/report/7627174)
 - Vegetation is growing again and we have a new fence so would like it cleared before it gets any worse., 28th May :- [7627012](https://www.fixmystreet.com/report/7627012)
-- Epicormic growth blocking pavement in several places, 28th May :- [7626807](https://www.fixmystreet.com/report/7626807)
 
 <!-- fix_marker ends -->
