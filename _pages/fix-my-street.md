@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree growth obscuring view of bus coming, 30th May :- [7636585](https://www.fixmystreet.com/report/7636585)
 - Overgrown tree - sticky sap, debris and scratches car, 30th May :- [7636413](https://www.fixmystreet.com/report/7636413)
 - Other damage to pavement i.e. cobbles, raised mound/surface problem, 29th May :- [7634157](https://www.fixmystreet.com/report/7634157)
 - Developers Sign Blocking View, 29th May :- [7634009](https://www.fixmystreet.com/report/7634009)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Graffiti on wall alongside footpath at the rear of property on Curlew Grove, 28th May :- [7630408](https://www.fixmystreet.com/report/7630408)
 - Potholes within potholes!, 28th May :- [7629830](https://www.fixmystreet.com/report/7629830)
 - Items dumped on pavement, 28th May :- [7629450](https://www.fixmystreet.com/report/7629450)
-- This tree is blocking late afternoon sunlight to our garden to be able to use our pool. It’s also blocking light to our hedge, so has killed a large area of this. We’ve tried regrowing two conifers to fill the gap but they don’t get enough light to survive & we now have a large gab in our hedge on the Old Bath Road side. We don’t want this tree to get any bigger, causing more damage to our hedge & further blocking the sunshine into our garden, 28th May :- [7629442](https://www.fixmystreet.com/report/7629442)
 
 <!-- fix_marker ends -->
