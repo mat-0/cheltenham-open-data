@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Post or sign leaning slightly (less than 20 degrees) problem, 30th May :- [7637511](https://www.fixmystreet.com/report/7637511)
 - Junction of Clarade Street and St Georges Place, 30th May :- [7637011](https://www.fixmystreet.com/report/7637011)
 - Stop line faded so cars go over cycle protective advanced box., 30th May :- [7636833](https://www.fixmystreet.com/report/7636833)
 - Tree growth obscuring view of bus coming, 30th May :- [7636585](https://www.fixmystreet.com/report/7636585)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Flytipping just inside the gate to clyde crescent park, 29th May :- [7631900](https://www.fixmystreet.com/report/7631900)
 - Multiple pot hole, 29th May :- [7631787](https://www.fixmystreet.com/report/7631787)
 - Tree sprouting blocking pavement, 28th May :- [7630575](https://www.fixmystreet.com/report/7630575)
-- Graffiti on wall alongside footpath at the rear of property on Curlew Grove, 28th May :- [7630408](https://www.fixmystreet.com/report/7630408)
 
 <!-- fix_marker ends -->
