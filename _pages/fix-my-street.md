@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Double yellow lines at the junction of Charlton Park Drive and Old Bath Rd. GL53 7, 30th May :- [7638947](https://www.fixmystreet.com/report/7638947)
 - Post or sign leaning slightly (less than 20 degrees) problem, 30th May :- [7637511](https://www.fixmystreet.com/report/7637511)
 - Junction of Clarade Street and St Georges Place, 30th May :- [7637011](https://www.fixmystreet.com/report/7637011)
 - Stop line faded so cars go over cycle protective advanced box., 30th May :- [7636833](https://www.fixmystreet.com/report/7636833)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Blocking visibility on road/junction (Grass/verge) problem, 29th May :- [7632590](https://www.fixmystreet.com/report/7632590)
 - Poorly repaired previously reported, 29th May :- [7632071](https://www.fixmystreet.com/report/7632071)
 - Flytipping just inside the gate to clyde crescent park, 29th May :- [7631900](https://www.fixmystreet.com/report/7631900)
-- Multiple pot hole, 29th May :- [7631787](https://www.fixmystreet.com/report/7631787)
 
 <!-- fix_marker ends -->
