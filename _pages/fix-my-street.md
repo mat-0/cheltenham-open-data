@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fallen tree close to Road has blocked customers water outflow from sceptic tank., 30th May :- [7639334](https://www.fixmystreet.com/report/7639334)
 - Fly tipping, 30th May :- [7639151](https://www.fixmystreet.com/report/7639151)
 - Double yellow lines at the junction of Charlton Park Drive and Old Bath Rd. GL53 7, 30th May :- [7638947](https://www.fixmystreet.com/report/7638947)
 - Post or sign leaning slightly (less than 20 degrees) problem, 30th May :- [7637511](https://www.fixmystreet.com/report/7637511)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Vehicles exiting Grovelands Close cannot see up or down Copt Elm Road adequately. High risk of collisions.adequately, 29th May :- [7633007](https://www.fixmystreet.com/report/7633007)
 - Tree getting increasingly high., 29th May :- [7632683](https://www.fixmystreet.com/report/7632683)
 - Blocking visibility on road/junction (Grass/verge) problem, 29th May :- [7632590](https://www.fixmystreet.com/report/7632590)
-- Poorly repaired previously reported, 29th May :- [7632071](https://www.fixmystreet.com/report/7632071)
 
 <!-- fix_marker ends -->
