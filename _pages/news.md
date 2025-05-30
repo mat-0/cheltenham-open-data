@@ -13,10 +13,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
 - Builder stole 'equivalent of lottery win', jury told ([10 hours ago](https://www.bbc.com/news/articles/ckgqkx137nno))
-- A joint statement about Elms Park ([10 hours ago](https://www.cheltenham.gov.uk/news/article/3015/a_joint_statement_about_elms_park))
-- Police get more time to question murder suspect ([13 hours ago](https://www.bbc.com/news/articles/c629vnegrpro))
-- PC's use of homophobic term was gross misconduct ([14 hours ago](https://www.bbc.com/news/articles/c9wg7dg84zqo))
-- 'How many fatalities before something is done?' ([16 hours ago](https://www.bbc.com/news/articles/cx2x38v91e3o))
+- A joint statement about Elms Park ([11 hours ago](https://www.cheltenham.gov.uk/news/article/3015/a_joint_statement_about_elms_park))
+- Police get more time to question murder suspect ([14 hours ago](https://www.bbc.com/news/articles/c629vnegrpro))
+- PC's use of homophobic term was gross misconduct ([15 hours ago](https://www.bbc.com/news/articles/c9wg7dg84zqo))
+- 'How many fatalities before something is done?' ([17 hours ago](https://www.bbc.com/news/articles/cx2x38v91e3o))
 - 'Star's death' and 'farms turn to hosting weddings ' ([18 hours ago](https://www.bbc.com/news/articles/cvgdr8myz74o))
 - Wychwood Festival 2025: What you need to know ([22 hours ago](https://www.bbc.com/news/articles/cj421ndnd58o))
 - 'Words Matter' guidelines aim to reduce victim blaming ([22 hours ago](https://www.bbc.com/news/articles/cq85zz2v009o))
