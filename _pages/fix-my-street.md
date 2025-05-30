@@ -14,6 +14,7 @@ permalink: /fix-my-street
 - Stop line faded so cars go over cycle protective advanced box., 30th May :- [7636833](https://www.fixmystreet.com/report/7636833)
 - Tree growth obscuring view of bus coming, 30th May :- [7636585](https://www.fixmystreet.com/report/7636585)
 - Overgrown tree - sticky sap, debris and scratches car, 30th May :- [7636413](https://www.fixmystreet.com/report/7636413)
+- Rough road surface, 30th May :- [7635635](https://www.fixmystreet.com/report/7635635)
 - Other damage to pavement i.e. cobbles, raised mound/surface problem, 29th May :- [7634157](https://www.fixmystreet.com/report/7634157)
 - Developers Sign Blocking View, 29th May :- [7634009](https://www.fixmystreet.com/report/7634009)
 - New flytipping, 29th May :- [7633907](https://www.fixmystreet.com/report/7633907)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Poorly repaired previously reported, 29th May :- [7632071](https://www.fixmystreet.com/report/7632071)
 - Flytipping just inside the gate to clyde crescent park, 29th May :- [7631900](https://www.fixmystreet.com/report/7631900)
 - Multiple pot hole, 29th May :- [7631787](https://www.fixmystreet.com/report/7631787)
-- Tree sprouting blocking pavement, 28th May :- [7630575](https://www.fixmystreet.com/report/7630575)
 
 <!-- fix_marker ends -->
