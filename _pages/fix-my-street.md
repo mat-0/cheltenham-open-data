@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree overhanging private gardens and blocking access to public footpath, 30th May :- [7639950](https://www.fixmystreet.com/report/7639950)
+- SUGGESTION : Could you add a '50mph' repeater sign near the airfield ?, 30th May :- [7639675](https://www.fixmystreet.com/report/7639675)
 - Fallen tree close to Road has blocked customers water outflow from sceptic tank., 30th May :- [7639334](https://www.fixmystreet.com/report/7639334)
 - Fly tipping, 30th May :- [7639151](https://www.fixmystreet.com/report/7639151)
 - Double yellow lines at the junction of Charlton Park Drive and Old Bath Rd. GL53 7, 30th May :- [7638947](https://www.fixmystreet.com/report/7638947)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Street sign broken., 29th May :- [7633438](https://www.fixmystreet.com/report/7633438)
 - Nasty raised lip of old concrete road, 29th May :- [7633023](https://www.fixmystreet.com/report/7633023)
 - Vehicles exiting Grovelands Close cannot see up or down Copt Elm Road adequately. High risk of collisions.adequately, 29th May :- [7633007](https://www.fixmystreet.com/report/7633007)
-- Tree getting increasingly high., 29th May :- [7632683](https://www.fixmystreet.com/report/7632683)
-- Blocking visibility on road/junction (Grass/verge) problem, 29th May :- [7632590](https://www.fixmystreet.com/report/7632590)
 
 <!-- fix_marker ends -->
