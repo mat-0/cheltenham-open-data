@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Friday, 30 May 2025
 
-- The average temperature today is 14.66˚C,
-- With highs of 14.98˚C and lows of 14.26˚C,
-- It may feel like 14.4˚C with clear sky
-- The wind speed is 3.58m/s and visibility is 10000m
-- The pressure is 1018hPa and humidity is 85%
+- The average temperature today is 14.43˚C,
+- With highs of 14.91˚C and lows of 14.26˚C,
+- It may feel like 14.17˚C with clear sky
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 1018hPa and humidity is 86%
 - The sun will rise at 03:56 and set at 20:15
 
 <!-- weather_marker ends -->
