@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Stop line faded so cars go over cycle protective advanced box., 30th May :- [7636833](https://www.fixmystreet.com/report/7636833)
 - Tree growth obscuring view of bus coming, 30th May :- [7636585](https://www.fixmystreet.com/report/7636585)
 - Overgrown tree - sticky sap, debris and scratches car, 30th May :- [7636413](https://www.fixmystreet.com/report/7636413)
 - Other damage to pavement i.e. cobbles, raised mound/surface problem, 29th May :- [7634157](https://www.fixmystreet.com/report/7634157)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Tree sprouting blocking pavement, 28th May :- [7630575](https://www.fixmystreet.com/report/7630575)
 - Graffiti on wall alongside footpath at the rear of property on Curlew Grove, 28th May :- [7630408](https://www.fixmystreet.com/report/7630408)
 - Potholes within potholes!, 28th May :- [7629830](https://www.fixmystreet.com/report/7629830)
-- Items dumped on pavement, 28th May :- [7629450](https://www.fixmystreet.com/report/7629450)
 
 <!-- fix_marker ends -->
