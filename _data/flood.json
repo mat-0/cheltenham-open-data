@@ -1,102 +1,17 @@
 {
-  "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
-  "meta": {
-    "publisher": "Environment Agency",
-    "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-    "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
-    "version": "0.9",
-    "comment": "Status: Beta service",
-    "hasFormat": [
-      "http://environment.data.gov.uk/flood-monitoring/id/floods.csv",
-      "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf",
-      "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl",
-      "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
-    ]
-  },
-  "items": [
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDU",
-      "description": "Rivers Duddon, Crake and Mill Beck",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFDU",
-        "county": "Cumberland, Westmorland and Furness",
-        "notation": "011WAFDU",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFDU/polygon",
-        "riverOrSea": "River Duddon, River Crake, Mill Beck"
-      },
-      "floodAreaID": "011WAFDU",
-      "isTidal": false,
-      "message": "The flood forecast has changed significantly. As a result, there is no longer a risk of flooding in the area.\nThere may still be some areas where flood water is present until it can naturally drain away.\nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.\nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-05-29T13:38:00",
-      "timeRaised": "2025-05-29T13:38:12",
-      "timeSeverityChanged": "2025-05-29T13:38:00"
+    "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
+    "meta": {
+        "publisher": "Environment Agency",
+        "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
+        "version": "0.9",
+        "comment": "Status: Beta service",
+        "hasFormat": [
+            "http://environment.data.gov.uk/flood-monitoring/id/floods.csv?county=Gloucestershire",
+            "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf?county=Gloucestershire",
+            "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl?county=Gloucestershire",
+            "http://environment.data.gov.uk/flood-monitoring/id/floods.html?county=Gloucestershire"
+        ]
     },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFBR",
-      "description": "Rivers Brathay, Rothay and Winster",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFBR",
-        "county": "Westmorland and Furness",
-        "notation": "011WAFBR",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFBR/polygon",
-        "riverOrSea": "River Brathay, River Rothay, River Winster"
-      },
-      "floodAreaID": "011WAFBR",
-      "isTidal": false,
-      "message": "The flood forecast has changed significantly. As a result, there is no longer a risk of flooding in the area.\nWeather conditions are expected to improve throughout the morning and no further flooding is expected.\nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.\nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-05-30T09:40:00",
-      "timeRaised": "2025-05-30T09:40:46",
-      "timeSeverityChanged": "2025-05-30T09:40:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDW",
-      "description": "Upper River Derwent, Stonethwaite Beck and Derwent Water",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFDW",
-        "county": "Cumberland",
-        "notation": "011WAFDW",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFDW/polygon",
-        "riverOrSea": "Derwent, Stonethwaite Beck"
-      },
-      "floodAreaID": "011WAFDW",
-      "isTidal": false,
-      "message": "Following recent heavy rain, Derwent Water remains high and will continue to do so until 2pm today when it will start to recede. A Flood Alert will remain in place as low lying land and footpaths are likely to be affected.  Areas most at risk include the Upper Derwent from Seathwaite to Derwent Water. Weather conditions are expected to improve through today, and no further flooding is expected.\nAvoid using low lying footpaths and any bridges near local watercourses.\nThis message will be updated tomorrow 31/05/2025, or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-05-30T09:45:00",
-      "timeRaised": "2025-05-30T09:45:28",
-      "timeSeverityChanged": "2025-05-29T17:28:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WAFUR",
-      "description": "Upper River Ribble, Hodder",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFUR",
-        "county": "Lancashire, North Yorkshire",
-        "notation": "012WAFUR",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFUR/polygon",
-        "riverOrSea": "River Ribble"
-      },
-      "floodAreaID": "012WAFUR",
-      "isTidal": false,
-      "message": "The flood forecast has changed significantly. As a result, there is no longer a risk of flooding in the area.\nThere may still be some areas where flood water is present until it can naturally drain away.\nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.\nStay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-05-29T15:41:00",
-      "timeRaised": "2025-05-29T15:41:58",
-      "timeSeverityChanged": "2025-05-29T15:41:00"
-    }
-  ]
+    "items": []
 }
