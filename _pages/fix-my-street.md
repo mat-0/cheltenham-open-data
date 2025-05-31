@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Huge pothole, 31st May :- [7643498](https://www.fixmystreet.com/report/7643498)
+- Gate and fencing replaced - two way, way marker missing, 31st May :- [7643359](https://www.fixmystreet.com/report/7643359)
 - Inadequate street name signage, 31st May :- [7643245](https://www.fixmystreet.com/report/7643245)
 - Fridge freezer left on pavement, 31st May :- [7642234](https://www.fixmystreet.com/report/7642234)
 - Flytipped sofa bed rear of Albert St, 31st May :- [7642143](https://www.fixmystreet.com/report/7642143)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Tree overhanging private gardens and blocking access to public footpath, 30th May :- [7639950](https://www.fixmystreet.com/report/7639950)
 - SUGGESTION : Could you add a '50mph' repeater sign near the airfield ?, 30th May :- [7639675](https://www.fixmystreet.com/report/7639675)
 - Fallen tree close to Road has blocked customers water outflow from sceptic tank., 30th May :- [7639334](https://www.fixmystreet.com/report/7639334)
-- Fly tipping, 30th May :- [7639151](https://www.fixmystreet.com/report/7639151)
-- Double yellow lines at the junction of Charlton Park Drive and Old Bath Rd. GL53 7, 30th May :- [7638947](https://www.fixmystreet.com/report/7638947)
 
 <!-- fix_marker ends -->

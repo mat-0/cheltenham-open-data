@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Concern over winter ice rink damaging park grass ([3 hours ago](https://www.bbc.com/news/articles/cq540604wj4o))
-- Teenager and two adults killed in M5 crash ([5 hours ago](https://www.bbc.com/news/articles/czxy3n361pgo))
-- LGBTQIA+ map 'promotes belonging' at rail stations ([9 hours ago](https://www.bbc.com/news/articles/cy5eq6w3k34o))
-- Man leaves Grade II listed house to homeless charity ([9 hours ago](https://www.bbc.com/news/articles/c1deelp3dxzo))
+- Teenager and two adults killed in M5 crash ([50 minutes ago](https://www.bbc.com/news/articles/czxy3n361pgo))
+- Concern over winter ice rink damaging park grass ([4 hours ago](https://www.bbc.com/news/articles/cq540604wj4o))
+- LGBTQIA+ map 'promotes belonging' at rail stations ([10 hours ago](https://www.bbc.com/news/articles/cy5eq6w3k34o))
+- Man leaves Grade II listed house to homeless charity ([10 hours ago](https://www.bbc.com/news/articles/c1deelp3dxzo))
 - Wychwood Festival noise ([1 days ago](https://www.cheltenham.gov.uk/news/article/3016/wychwood_festival_noise))
 - Festival confirms Kneecap to remain as headliners ([1 days ago](https://www.bbc.com/news/articles/clyg54e88jmo))
 - Man charged with murder as victim named ([1 days ago](https://www.bbc.com/news/articles/ce80685p13no))
@@ -24,7 +24,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Care homes to work with poets in memory project ([1 days ago](https://www.bbc.com/news/articles/ceqgg39e97zo))
 - International ambitions of youth bowling club ([1 days ago](https://www.bbc.com/news/articles/c628gye549qo))
 - Builder stole 'equivalent of lottery win', jury told ([1 days ago](https://www.bbc.com/news/articles/ckgqkx137nno))
-- A joint statement about Elms Park ([1 days ago](https://www.cheltenham.gov.uk/news/article/3015/a_joint_statement_about_elms_park))
+- A joint statement about Elms Park ([2 days ago](https://www.cheltenham.gov.uk/news/article/3015/a_joint_statement_about_elms_park))
 - PC's use of homophobic term was gross misconduct ([2 days ago](https://www.bbc.com/news/articles/c9wg7dg84zqo))
 - 'How many fatalities before something is done?' ([2 days ago](https://www.bbc.com/news/articles/cx2x38v91e3o))
 - Wychwood Festival 2025: What you need to know ([2 days ago](https://www.bbc.com/news/articles/cj421ndnd58o))
