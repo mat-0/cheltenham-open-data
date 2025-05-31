@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fallen Tree across byeway, 31st May :- [7643833](https://www.fixmystreet.com/report/7643833)
+- Flytipped items, 31st May :- [7643808](https://www.fixmystreet.com/report/7643808)
 - Huge pothole, 31st May :- [7643498](https://www.fixmystreet.com/report/7643498)
 - Gate and fencing replaced - two way, way marker missing, 31st May :- [7643359](https://www.fixmystreet.com/report/7643359)
 - Inadequate street name signage, 31st May :- [7643245](https://www.fixmystreet.com/report/7643245)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Subsided tarmac around water stop tap (recent STW job, now about 50mm deep), 30th May :- [7640087](https://www.fixmystreet.com/report/7640087)
 - Trees on corner of Longway Avenue/parkwood Grove too big and damaging footpath, 30th May :- [7640035](https://www.fixmystreet.com/report/7640035)
 - Tree overhanging private gardens and blocking access to public footpath, 30th May :- [7639950](https://www.fixmystreet.com/report/7639950)
-- SUGGESTION : Could you add a '50mph' repeater sign near the airfield ?, 30th May :- [7639675](https://www.fixmystreet.com/report/7639675)
-- Fallen tree close to Road has blocked customers water outflow from sceptic tank., 30th May :- [7639334](https://www.fixmystreet.com/report/7639334)
 
 <!-- fix_marker ends -->
