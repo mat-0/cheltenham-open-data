@@ -13,12 +13,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
 - Wychwood Festival noise ([12 hours ago](https://www.cheltenham.gov.uk/news/article/3016/wychwood_festival_noise))
-- Festival confirms Kneecap to remain as headliners ([12 hours ago](https://www.bbc.com/news/articles/clyg54e88jmo))
-- Man charged with murder as victim named ([14 hours ago](https://www.bbc.com/news/articles/ce80685p13no))
-- 'New Gromit trail' and 'vandalised bus gate signs' ([17 hours ago](https://www.bbc.com/news/articles/cpd46d4ndxdo))
-- Plans for 4,115-home development approved ([19 hours ago](https://www.bbc.com/news/articles/c8xgd99grk5o))
-- Care homes to work with poets in memory project ([21 hours ago](https://www.bbc.com/news/articles/ceqgg39e97zo))
-- International ambitions of youth bowling club ([21 hours ago](https://www.bbc.com/news/articles/c628gye549qo))
+- Festival confirms Kneecap to remain as headliners ([13 hours ago](https://www.bbc.com/news/articles/clyg54e88jmo))
+- Man charged with murder as victim named ([15 hours ago](https://www.bbc.com/news/articles/ce80685p13no))
+- 'New Gromit trail' and 'vandalised bus gate signs' ([18 hours ago](https://www.bbc.com/news/articles/cpd46d4ndxdo))
+- Plans for 4,115-home development approved ([20 hours ago](https://www.bbc.com/news/articles/c8xgd99grk5o))
+- Care homes to work with poets in memory project ([22 hours ago](https://www.bbc.com/news/articles/ceqgg39e97zo))
+- International ambitions of youth bowling club ([22 hours ago](https://www.bbc.com/news/articles/c628gye549qo))
 - Builder stole 'equivalent of lottery win', jury told ([1 days ago](https://www.bbc.com/news/articles/ckgqkx137nno))
 - A joint statement about Elms Park ([1 days ago](https://www.cheltenham.gov.uk/news/article/3015/a_joint_statement_about_elms_park))
 - PC's use of homophobic term was gross misconduct ([1 days ago](https://www.bbc.com/news/articles/c9wg7dg84zqo))
