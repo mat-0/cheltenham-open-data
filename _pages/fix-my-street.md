@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fridge freezer left on pavement, 31st May :- [7642234](https://www.fixmystreet.com/report/7642234)
+- Flytipped sofa bed rear of Albert St, 31st May :- [7642143](https://www.fixmystreet.com/report/7642143)
+- Trees cut and branches left. Also up turned tree, 31st May :- [7642104](https://www.fixmystreet.com/report/7642104)
+- Grass not cut on this area again., 31st May :- [7642091](https://www.fixmystreet.com/report/7642091)
 - Flytipping (multiple items) rear of Hungerford St, 31st May :- [7642043](https://www.fixmystreet.com/report/7642043)
 - Flytipped bedframe Hungerford St, 31st May :- [7642007](https://www.fixmystreet.com/report/7642007)
 - Flytipping Hungerford St, 31st May :- [7641990](https://www.fixmystreet.com/report/7641990)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Fly tipping, 30th May :- [7639151](https://www.fixmystreet.com/report/7639151)
 - Double yellow lines at the junction of Charlton Park Drive and Old Bath Rd. GL53 7, 30th May :- [7638947](https://www.fixmystreet.com/report/7638947)
 - Post or sign leaning slightly (less than 20 degrees) problem, 30th May :- [7637511](https://www.fixmystreet.com/report/7637511)
-- Junction of Clarade Street and St Georges Place, 30th May :- [7637011](https://www.fixmystreet.com/report/7637011)
-- Stop line faded so cars go over cycle protective advanced box., 30th May :- [7636833](https://www.fixmystreet.com/report/7636833)
-- Tree growth obscuring view of bus coming, 30th May :- [7636585](https://www.fixmystreet.com/report/7636585)
-- Overgrown tree - sticky sap, debris and scratches car, 30th May :- [7636413](https://www.fixmystreet.com/report/7636413)
 
 <!-- fix_marker ends -->
