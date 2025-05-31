@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Saturday, 31 May 2025
 
-- The average temperature today is 18.16˚C,
-- With highs of 19.75˚C and lows of 18.15˚C,
-- It may feel like 17.7˚C with few clouds
-- The wind speed is 4.12m/s and visibility is 10000m
-- The pressure is 1014hPa and humidity is 64%
+- The average temperature today is 16.43˚C,
+- With highs of 16.43˚C and lows of 16.43˚C,
+- It may feel like 16.06˚C with scattered clouds
+- The wind speed is 4.81m/s and visibility is 10000m
+- The pressure is 1014hPa and humidity is 74%
 - The sun will rise at 03:55 and set at 20:16
 
 <!-- weather_marker ends -->
