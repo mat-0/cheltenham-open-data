@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Teenager and two adults killed in M5 crash ([4 hours ago](https://www.bbc.com/news/articles/czxy3n361pgo))
-- Concern over winter ice rink damaging park grass ([9 hours ago](https://www.bbc.com/news/articles/cq540604wj4o))
-- LGBTQIA+ map 'promotes belonging' at rail stations ([15 hours ago](https://www.bbc.com/news/articles/cy5eq6w3k34o))
-- Man leaves Grade II listed house to homeless charity ([15 hours ago](https://www.bbc.com/news/articles/c1deelp3dxzo))
+- Teenager and two adults killed in M5 crash ([5 hours ago](https://www.bbc.com/news/articles/czxy3n361pgo))
+- Concern over winter ice rink damaging park grass ([10 hours ago](https://www.bbc.com/news/articles/cq540604wj4o))
+- LGBTQIA+ map 'promotes belonging' at rail stations ([16 hours ago](https://www.bbc.com/news/articles/cy5eq6w3k34o))
+- Man leaves Grade II listed house to homeless charity ([16 hours ago](https://www.bbc.com/news/articles/c1deelp3dxzo))
 - Wychwood Festival noise ([1 days ago](https://www.cheltenham.gov.uk/news/article/3016/wychwood_festival_noise))
 - Festival confirms Kneecap to remain as headliners ([1 days ago](https://www.bbc.com/news/articles/clyg54e88jmo))
 - Man charged with murder as victim named ([1 days ago](https://www.bbc.com/news/articles/ce80685p13no))
