@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipping (multiple items) rear of Hungerford St, 31st May :- [7642043](https://www.fixmystreet.com/report/7642043)
+- Flytipped bedframe Hungerford St, 31st May :- [7642007](https://www.fixmystreet.com/report/7642007)
+- Flytipping Hungerford St, 31st May :- [7641990](https://www.fixmystreet.com/report/7641990)
 - Flyposting of garden competition poster, attached to pedestrian crossing pole, 31st May :- [7641520](https://www.fixmystreet.com/report/7641520)
 - For sale sign on public lamppost plus bar code below it, 31st May :- [7641508](https://www.fixmystreet.com/report/7641508)
 - Access and route overgrown, 31st May :- [7641376](https://www.fixmystreet.com/report/7641376)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Stop line faded so cars go over cycle protective advanced box., 30th May :- [7636833](https://www.fixmystreet.com/report/7636833)
 - Tree growth obscuring view of bus coming, 30th May :- [7636585](https://www.fixmystreet.com/report/7636585)
 - Overgrown tree - sticky sap, debris and scratches car, 30th May :- [7636413](https://www.fixmystreet.com/report/7636413)
-- Rough road surface, 30th May :- [7635635](https://www.fixmystreet.com/report/7635635)
-- Other damage to pavement i.e. cobbles, raised mound/surface problem, 29th May :- [7634157](https://www.fixmystreet.com/report/7634157)
-- Developers Sign Blocking View, 29th May :- [7634009](https://www.fixmystreet.com/report/7634009)
 
 <!-- fix_marker ends -->
