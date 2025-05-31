@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Access and route overgrown, 31st May :- [7641376](https://www.fixmystreet.com/report/7641376)
+- Gate obstructed and no signage, 31st May :- [7641372](https://www.fixmystreet.com/report/7641372)
+- No signage, 31st May :- [7641362](https://www.fixmystreet.com/report/7641362)
 - Subsided tarmac around water stop tap (recent STW job, now about 50mm deep), 30th May :- [7640087](https://www.fixmystreet.com/report/7640087)
 - Trees on corner of Longway Avenue/parkwood Grove too big and damaging footpath, 30th May :- [7640035](https://www.fixmystreet.com/report/7640035)
 - Tree overhanging private gardens and blocking access to public footpath, 30th May :- [7639950](https://www.fixmystreet.com/report/7639950)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Developers Sign Blocking View, 29th May :- [7634009](https://www.fixmystreet.com/report/7634009)
 - New flytipping, 29th May :- [7633907](https://www.fixmystreet.com/report/7633907)
 - Someone requested the reopening of this lay-by and they seem to have had their request approved, without any consultation or thought given to how this would affect the local residents living directly opposite this lay-by. Why was this ? And the residents would like to request that the lay-by be closed permanently., 29th May :- [7633765](https://www.fixmystreet.com/report/7633765)
-- Lay-by on A417 longlevens, 29th May :- [7633718](https://www.fixmystreet.com/report/7633718)
-- When exiting Lyndley Chase visibility is severely compromised due to the overgrown vegetation in the verges. This is getting very dangerous., 29th May :- [7633703](https://www.fixmystreet.com/report/7633703)
-- Street sign broken., 29th May :- [7633438](https://www.fixmystreet.com/report/7633438)
 
 <!-- fix_marker ends -->
