@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flyposting of garden competition poster, attached to pedestrian crossing pole, 31st May :- [7641520](https://www.fixmystreet.com/report/7641520)
+- For sale sign on public lamppost plus bar code below it, 31st May :- [7641508](https://www.fixmystreet.com/report/7641508)
 - Access and route overgrown, 31st May :- [7641376](https://www.fixmystreet.com/report/7641376)
 - Gate obstructed and no signage, 31st May :- [7641372](https://www.fixmystreet.com/report/7641372)
 - No signage, 31st May :- [7641362](https://www.fixmystreet.com/report/7641362)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Rough road surface, 30th May :- [7635635](https://www.fixmystreet.com/report/7635635)
 - Other damage to pavement i.e. cobbles, raised mound/surface problem, 29th May :- [7634157](https://www.fixmystreet.com/report/7634157)
 - Developers Sign Blocking View, 29th May :- [7634009](https://www.fixmystreet.com/report/7634009)
-- New flytipping, 29th May :- [7633907](https://www.fixmystreet.com/report/7633907)
-- Someone requested the reopening of this lay-by and they seem to have had their request approved, without any consultation or thought given to how this would affect the local residents living directly opposite this lay-by. Why was this ? And the residents would like to request that the lay-by be closed permanently., 29th May :- [7633765](https://www.fixmystreet.com/report/7633765)
 
 <!-- fix_marker ends -->
