@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Disabled access on pavement removed, 1st June :- [7645091](https://www.fixmystreet.com/report/7645091)
 - Broken tree branch blocking pathway. This is still atrached to tree and in danger of falling on a passerby, 1st June :- [7644992](https://www.fixmystreet.com/report/7644992)
 - Fallen Tree across byeway, 31st May :- [7643833](https://www.fixmystreet.com/report/7643833)
 - Flytipped items, 31st May :- [7643808](https://www.fixmystreet.com/report/7643808)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Gate obstructed and no signage, 31st May :- [7641372](https://www.fixmystreet.com/report/7641372)
 - No signage, 31st May :- [7641362](https://www.fixmystreet.com/report/7641362)
 - Subsided tarmac around water stop tap (recent STW job, now about 50mm deep), 30th May :- [7640087](https://www.fixmystreet.com/report/7640087)
-- Trees on corner of Longway Avenue/parkwood Grove too big and damaging footpath, 30th May :- [7640035](https://www.fixmystreet.com/report/7640035)
 
 <!-- fix_marker ends -->
