@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Hole around utilities plate, 1st June :- [7645869](https://www.fixmystreet.com/report/7645869)
+- Abandoned e scooter, 1st June :- [7645744](https://www.fixmystreet.com/report/7645744)
 - Large pothole, 1st June :- [7645483](https://www.fixmystreet.com/report/7645483)
 - Enormous and deep multiple potholes, 1st June :- [7645418](https://www.fixmystreet.com/report/7645418)
 - Damaged highway, 1st June :- [7645292](https://www.fixmystreet.com/report/7645292)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Flytipped bedframe Hungerford St, 31st May :- [7642007](https://www.fixmystreet.com/report/7642007)
 - Flytipping Hungerford St, 31st May :- [7641990](https://www.fixmystreet.com/report/7641990)
 - Flyposting of garden competition poster, attached to pedestrian crossing pole, 31st May :- [7641520](https://www.fixmystreet.com/report/7641520)
-- For sale sign on public lamppost plus bar code below it, 31st May :- [7641508](https://www.fixmystreet.com/report/7641508)
-- Access and route overgrown, 31st May :- [7641376](https://www.fixmystreet.com/report/7641376)
 
 <!-- fix_marker ends -->
