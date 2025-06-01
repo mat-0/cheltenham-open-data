@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Drains in the aria including leading to CARPARK, 1st June :- [7646627](https://www.fixmystreet.com/report/7646627)
 - Grass and all man or of weeds growing out path, 1st June :- [7646605](https://www.fixmystreet.com/report/7646605)
 - Overgrown trees and bushes damaging private property, 1st June :- [7646142](https://www.fixmystreet.com/report/7646142)
 - Man cycling on motorway M5 Jct 10 northbound, 1st June :- [7646071](https://www.fixmystreet.com/report/7646071)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Flytipped sofa bed rear of Albert St, 31st May :- [7642143](https://www.fixmystreet.com/report/7642143)
 - Trees cut and branches left. Also up turned tree, 31st May :- [7642104](https://www.fixmystreet.com/report/7642104)
 - Grass not cut on this area again., 31st May :- [7642091](https://www.fixmystreet.com/report/7642091)
-- Flytipping (multiple items) rear of Hungerford St, 31st May :- [7642043](https://www.fixmystreet.com/report/7642043)
 
 <!-- fix_marker ends -->
