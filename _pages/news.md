@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Fundraiser takes place for under-threat theatre ([3 hours ago](https://www.bbc.com/news/articles/c4gk0edy66yo))
-- Nine people injured after fire on residential boat ([3 hours ago](https://www.bbc.com/news/articles/crr7xz5r2z9o))
-- Airport boss says site will not be 'sold for housing' ([7 hours ago](https://www.bbc.com/news/articles/cnv1gj0dl4eo))
-- Gloucestershire in Pictures: Wychwood and cheese rolling ([7 hours ago](https://www.bbc.com/news/articles/cj42qe4nqn5o))
-- New Banksy art and football club sold ([11 hours ago](https://www.bbc.com/news/articles/cm2k124zz33o))
+- Fundraiser takes place for under-threat theatre ([4 hours ago](https://www.bbc.com/news/articles/c4gk0edy66yo))
+- Nine people injured after fire on residential boat ([4 hours ago](https://www.bbc.com/news/articles/crr7xz5r2z9o))
+- Airport boss says site will not be 'sold for housing' ([8 hours ago](https://www.bbc.com/news/articles/cnv1gj0dl4eo))
+- Gloucestershire in Pictures: Wychwood and cheese rolling ([8 hours ago](https://www.bbc.com/news/articles/cj42qe4nqn5o))
+- New Banksy art and football club sold ([12 hours ago](https://www.bbc.com/news/articles/cm2k124zz33o))
 - Teenager and two adults killed in M5 crash ([1 days ago](https://www.bbc.com/news/articles/czxy3n361pgo))
 - Concern over winter ice rink damaging park grass ([1 days ago](https://www.bbc.com/news/articles/cq540604wj4o))
 - LGBTQIA+ map 'promotes belonging' at rail stations ([1 days ago](https://www.bbc.com/news/articles/cy5eq6w3k34o))
