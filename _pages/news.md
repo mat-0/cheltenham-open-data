@@ -12,7 +12,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Teenager and two adults killed in M5 crash ([8 hours ago](https://www.bbc.com/news/articles/czxy3n361pgo))
+- Teenager and two adults killed in M5 crash ([9 hours ago](https://www.bbc.com/news/articles/czxy3n361pgo))
 - Concern over winter ice rink damaging park grass ([14 hours ago](https://www.bbc.com/news/articles/cq540604wj4o))
 - LGBTQIA+ map 'promotes belonging' at rail stations ([20 hours ago](https://www.bbc.com/news/articles/cy5eq6w3k34o))
 - Man leaves Grade II listed house to homeless charity ([20 hours ago](https://www.bbc.com/news/articles/c1deelp3dxzo))
