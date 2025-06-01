@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large pothole, 1st June :- [7645483](https://www.fixmystreet.com/report/7645483)
+- Enormous and deep multiple potholes, 1st June :- [7645418](https://www.fixmystreet.com/report/7645418)
+- Damaged highway, 1st June :- [7645292](https://www.fixmystreet.com/report/7645292)
 - Disabled access on pavement removed, 1st June :- [7645091](https://www.fixmystreet.com/report/7645091)
 - Broken tree branch blocking pathway. This is still atrached to tree and in danger of falling on a passerby, 1st June :- [7644992](https://www.fixmystreet.com/report/7644992)
 - Fallen Tree across byeway, 31st May :- [7643833](https://www.fixmystreet.com/report/7643833)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Flyposting of garden competition poster, attached to pedestrian crossing pole, 31st May :- [7641520](https://www.fixmystreet.com/report/7641520)
 - For sale sign on public lamppost plus bar code below it, 31st May :- [7641508](https://www.fixmystreet.com/report/7641508)
 - Access and route overgrown, 31st May :- [7641376](https://www.fixmystreet.com/report/7641376)
-- Gate obstructed and no signage, 31st May :- [7641372](https://www.fixmystreet.com/report/7641372)
-- No signage, 31st May :- [7641362](https://www.fixmystreet.com/report/7641362)
-- Subsided tarmac around water stop tap (recent STW job, now about 50mm deep), 30th May :- [7640087](https://www.fixmystreet.com/report/7640087)
 
 <!-- fix_marker ends -->
