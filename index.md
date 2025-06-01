@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Sunday, 01 June 2025
 
-- The average temperature today is 16.09˚C,
-- With highs of 16.75˚C and lows of 14.97˚C,
-- It may feel like 15.61˚C with light intensity shower rain
-- The wind speed is 5.14m/s and visibility is 10000m
-- The pressure is 1013hPa and humidity is 71%
+- The average temperature today is 14.83˚C,
+- With highs of 14.83˚C and lows of 14.41˚C,
+- It may feel like 14.41˚C with few clouds
+- The wind speed is 0.45m/s and visibility is 10000m
+- The pressure is 1013hPa and humidity is 78%
 - The sun will rise at 03:54 and set at 20:17
 
 <!-- weather_marker ends -->
