@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Airport boss says site will not be 'sold for housing' ([2 hours ago](https://www.bbc.com/news/articles/cnv1gj0dl4eo))
-- Gloucestershire in Pictures: Wychwood and cheese rolling ([2 hours ago](https://www.bbc.com/news/articles/cj42qe4nqn5o))
-- New Banksy art and football club sold ([6 hours ago](https://www.bbc.com/news/articles/cm2k124zz33o))
-- Teenager and two adults killed in M5 crash ([19 hours ago](https://www.bbc.com/news/articles/czxy3n361pgo))
+- Airport boss says site will not be 'sold for housing' ([3 hours ago](https://www.bbc.com/news/articles/cnv1gj0dl4eo))
+- Gloucestershire in Pictures: Wychwood and cheese rolling ([3 hours ago](https://www.bbc.com/news/articles/cj42qe4nqn5o))
+- New Banksy art and football club sold ([7 hours ago](https://www.bbc.com/news/articles/cm2k124zz33o))
+- Teenager and two adults killed in M5 crash ([20 hours ago](https://www.bbc.com/news/articles/czxy3n361pgo))
 - Concern over winter ice rink damaging park grass ([1 days ago](https://www.bbc.com/news/articles/cq540604wj4o))
 - LGBTQIA+ map 'promotes belonging' at rail stations ([1 days ago](https://www.bbc.com/news/articles/cy5eq6w3k34o))
 - Man leaves Grade II listed house to homeless charity ([1 days ago](https://www.bbc.com/news/articles/c1deelp3dxzo))
@@ -48,7 +48,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Police appeal for man to come forward after his dog bit a man in Cheltenham ([16 days ago](https://gloucesternewscentre.co.uk/police-appeal-for-man-to-come-forward-after-his-dog-bit-a-man-in-cheltenham/))
 - Gloucestershire star Ben Cutler returns to hometown stage ([16 days ago](https://gloucesternewscentre.co.uk/gloucestershire-star-ben-cutler-returns-to-hometown-stage/))
 - Case against Cheltenham man in relation to fox hunting stopped ([16 days ago](https://gloucesternewscentre.co.uk/case-against-cheltenham-man-in-relation-to-fox-hunting-stopped/))
-- HBD unveils phase two plans for Golden Valley at Cyber UK ([16 days ago](https://www.cheltenham.gov.uk/news/article/3012/hbd_unveils_phase_two_plans_for_golden_valley_at_cyber_uk))
+- HBD unveils phase two plans for Golden Valley at Cyber UK ([17 days ago](https://www.cheltenham.gov.uk/news/article/3012/hbd_unveils_phase_two_plans_for_golden_valley_at_cyber_uk))
 - Arle Court Transport Hub welcomes more National Express services ([17 days ago](https://gloucesternewscentre.co.uk/arle-court-transport-hub-welcomes-more-national-express-services/))
 - Golden Valley social value promise will deliver real value to communities ([17 days ago](https://www.cheltenham.gov.uk/news/article/3011/golden_valley_social_value_promise_will_deliver_real_value_to_communities))
 - Comedian Dom Joly blasts council over ‘zero action’ to remove Cheltenham ‘eyesore’ ([18 days ago](https://gloucesternewscentre.co.uk/comedian-dom-joly-blasts-council-over-zero-action-to-remove-cheltenham-eyesore/))

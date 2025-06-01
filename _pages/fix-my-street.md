@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Overgrown trees and bushes damaging private property, 1st June :- [7646142](https://www.fixmystreet.com/report/7646142)
+- Man cycling on motorway M5 Jct 10 northbound, 1st June :- [7646071](https://www.fixmystreet.com/report/7646071)
 - Hole around utilities plate, 1st June :- [7645869](https://www.fixmystreet.com/report/7645869)
 - Abandoned e scooter, 1st June :- [7645744](https://www.fixmystreet.com/report/7645744)
 - Large pothole, 1st June :- [7645483](https://www.fixmystreet.com/report/7645483)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Grass not cut on this area again., 31st May :- [7642091](https://www.fixmystreet.com/report/7642091)
 - Flytipping (multiple items) rear of Hungerford St, 31st May :- [7642043](https://www.fixmystreet.com/report/7642043)
 - Flytipped bedframe Hungerford St, 31st May :- [7642007](https://www.fixmystreet.com/report/7642007)
-- Flytipping Hungerford St, 31st May :- [7641990](https://www.fixmystreet.com/report/7641990)
-- Flyposting of garden competition poster, attached to pedestrian crossing pole, 31st May :- [7641520](https://www.fixmystreet.com/report/7641520)
 
 <!-- fix_marker ends -->
