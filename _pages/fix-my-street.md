@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Very dangerous pot holes in road cars drive on wrong side of the road to avoid them this is not good, 2nd June :- [7652968](https://www.fixmystreet.com/report/7652968)
 - Giant Hogweed, 2nd June :- [7652726](https://www.fixmystreet.com/report/7652726)
 - Way marker post has been knockdown, 2nd June :- [7652657](https://www.fixmystreet.com/report/7652657)
 - Traffic light need upgradning, 2nd June :- [7652656](https://www.fixmystreet.com/report/7652656)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Flyposting: various giant banners attached all along railingsings, 2nd June :- [7649189](https://www.fixmystreet.com/report/7649189)
 - Flyposting by housing developer at traffic junction, 2nd June :- [7649168](https://www.fixmystreet.com/report/7649168)
 - Green or amber traffic light is not working problem, 2nd June :- [7649094](https://www.fixmystreet.com/report/7649094)
-- Red waste bag with DIY materials, 2nd June :- [7648787](https://www.fixmystreet.com/report/7648787)
 
 <!-- fix_marker ends -->
