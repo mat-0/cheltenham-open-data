@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Broken play equipment, 2nd June :- [7651572](https://www.fixmystreet.com/report/7651572)
+- Graffiti in child’s playground, 2nd June :- [7651527](https://www.fixmystreet.com/report/7651527)
 - Over grown trees, not hedges, 2nd June :- [7650924](https://www.fixmystreet.com/report/7650924)
 - The drain is blocked problem, 2nd June :- [7650934](https://www.fixmystreet.com/report/7650934)
 - Five potholes in a row. Approx sizes - 3ft x2ft, 1ftx2ft, 2ftx2ft,3ftx2ft,1ftx1ft previously poorly repaired numerous times, 2nd June :- [7650734](https://www.fixmystreet.com/report/7650734)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - The drain is blocked problem, 2nd June :- [7648852](https://www.fixmystreet.com/report/7648852)
 - Traffic lights not changing green for pedestrians to cross, 2nd June :- [7648643](https://www.fixmystreet.com/report/7648643)
 - They are ripping up the footpath for New lay boy, 2nd June :- [7648091](https://www.fixmystreet.com/report/7648091)
-- Advanced stop lines need repainting in Cheltenham, 2nd June :- [7647948](https://www.fixmystreet.com/report/7647948)
-- Drains in the aria including leading to CARPARK, 1st June :- [7646627](https://www.fixmystreet.com/report/7646627)
 
 <!-- fix_marker ends -->
