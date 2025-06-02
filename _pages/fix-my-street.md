@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Rubbish is stream, 2nd June :- [7650418](https://www.fixmystreet.com/report/7650418)
+- Unpermitted roadworks problem, 2nd June :- [7650112](https://www.fixmystreet.com/report/7650112)
 - Post or sign leaning slightly (less than 20 degrees) problem, 2nd June :- [7649873](https://www.fixmystreet.com/report/7649873)
 - Road surface crumbling, 2nd June :- [7649738](https://www.fixmystreet.com/report/7649738)
 - Tree is damaged problem, 2nd June :- [7649871](https://www.fixmystreet.com/report/7649871)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Grass and all man or of weeds growing out path, 1st June :- [7646605](https://www.fixmystreet.com/report/7646605)
 - Overgrown trees and bushes damaging private property, 1st June :- [7646142](https://www.fixmystreet.com/report/7646142)
 - Man cycling on motorway M5 Jct 10 northbound, 1st June :- [7646071](https://www.fixmystreet.com/report/7646071)
-- Hole around utilities plate, 1st June :- [7645869](https://www.fixmystreet.com/report/7645869)
-- Abandoned e scooter, 1st June :- [7645744](https://www.fixmystreet.com/report/7645744)
 
 <!-- fix_marker ends -->
