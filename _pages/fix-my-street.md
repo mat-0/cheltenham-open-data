@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Advanced stop lines need repainting in Cheltenham, 2nd June :- [7647948](https://www.fixmystreet.com/report/7647948)
 - Drains in the aria including leading to CARPARK, 1st June :- [7646627](https://www.fixmystreet.com/report/7646627)
 - Grass and all man or of weeds growing out path, 1st June :- [7646605](https://www.fixmystreet.com/report/7646605)
 - Overgrown trees and bushes damaging private property, 1st June :- [7646142](https://www.fixmystreet.com/report/7646142)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Fridge freezer left on pavement, 31st May :- [7642234](https://www.fixmystreet.com/report/7642234)
 - Flytipped sofa bed rear of Albert St, 31st May :- [7642143](https://www.fixmystreet.com/report/7642143)
 - Trees cut and branches left. Also up turned tree, 31st May :- [7642104](https://www.fixmystreet.com/report/7642104)
-- Grass not cut on this area again., 31st May :- [7642091](https://www.fixmystreet.com/report/7642091)
 
 <!-- fix_marker ends -->
