@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- When will the 2 trees marked with irange in Broadclose Road be felled supnce they are causing obstructions of pipes below ground on the A38 and also on Broadclose Road?, 2nd June :- [7653490](https://www.fixmystreet.com/report/7653490)
 - EV’s no longer able to charge vehicle due to signage, 2nd June :- [7653291](https://www.fixmystreet.com/report/7653291)
 - Very dangerous pot holes in road cars drive on wrong side of the road to avoid them this is not good, 2nd June :- [7652968](https://www.fixmystreet.com/report/7652968)
 - Giant Hogweed, 2nd June :- [7652726](https://www.fixmystreet.com/report/7652726)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Overgrown tree outside no 7 , St Peter’s Close, branches scraping car when parking and stuff dropping on car all the time, 2nd June :- [7649323](https://www.fixmystreet.com/report/7649323)
 - Tree is damaged problem, 2nd June :- [7649354](https://www.fixmystreet.com/report/7649354)
 - Flyposting: various giant banners attached all along railingsings, 2nd June :- [7649189](https://www.fixmystreet.com/report/7649189)
-- Flyposting by housing developer at traffic junction, 2nd June :- [7649168](https://www.fixmystreet.com/report/7649168)
 
 <!-- fix_marker ends -->
