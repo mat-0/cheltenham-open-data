@@ -10,12 +10,12 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Monday, 02 June 2025
 
-- The average temperature today is 11.41˚C,
-- With highs of 11.5˚C and lows of 11.4˚C,
-- It may feel like 10.56˚C with broken clouds
-- The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1011hPa and humidity is 75%
-- The sun will rise at 03:54 and set at 20:18
+- The average temperature today is 11.55˚C,
+- With highs of 11.65˚C and lows of 11.03˚C,
+- It may feel like 10.67˚C with broken clouds
+- The wind speed is 4.02m/s and visibility is 10000m
+- The pressure is 1010hPa and humidity is 73%
+- The sun will rise at 03:53 and set at 20:19
 
 <!-- weather_marker ends -->
 
