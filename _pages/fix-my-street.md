@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Over grown trees, not hedges, 2nd June :- [7650924](https://www.fixmystreet.com/report/7650924)
+- The drain is blocked problem, 2nd June :- [7650934](https://www.fixmystreet.com/report/7650934)
+- Five potholes in a row. Approx sizes - 3ft x2ft, 1ftx2ft, 2ftx2ft,3ftx2ft,1ftx1ft previously poorly repaired numerous times, 2nd June :- [7650734](https://www.fixmystreet.com/report/7650734)
 - Rubbish is stream, 2nd June :- [7650418](https://www.fixmystreet.com/report/7650418)
 - Unpermitted roadworks problem, 2nd June :- [7650112](https://www.fixmystreet.com/report/7650112)
 - Post or sign leaning slightly (less than 20 degrees) problem, 2nd June :- [7649873](https://www.fixmystreet.com/report/7649873)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - They are ripping up the footpath for New lay boy, 2nd June :- [7648091](https://www.fixmystreet.com/report/7648091)
 - Advanced stop lines need repainting in Cheltenham, 2nd June :- [7647948](https://www.fixmystreet.com/report/7647948)
 - Drains in the aria including leading to CARPARK, 1st June :- [7646627](https://www.fixmystreet.com/report/7646627)
-- Grass and all man or of weeds growing out path, 1st June :- [7646605](https://www.fixmystreet.com/report/7646605)
-- Overgrown trees and bushes damaging private property, 1st June :- [7646142](https://www.fixmystreet.com/report/7646142)
-- Man cycling on motorway M5 Jct 10 northbound, 1st June :- [7646071](https://www.fixmystreet.com/report/7646071)
 
 <!-- fix_marker ends -->
