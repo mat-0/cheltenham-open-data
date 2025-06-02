@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Giant Hogweed, 2nd June :- [7652726](https://www.fixmystreet.com/report/7652726)
 - Way marker post has been knockdown, 2nd June :- [7652657](https://www.fixmystreet.com/report/7652657)
 - Traffic light need upgradning, 2nd June :- [7652656](https://www.fixmystreet.com/report/7652656)
 - Broken play equipment, 2nd June :- [7651572](https://www.fixmystreet.com/report/7651572)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Flyposting by housing developer at traffic junction, 2nd June :- [7649168](https://www.fixmystreet.com/report/7649168)
 - Green or amber traffic light is not working problem, 2nd June :- [7649094](https://www.fixmystreet.com/report/7649094)
 - Red waste bag with DIY materials, 2nd June :- [7648787](https://www.fixmystreet.com/report/7648787)
-- Broken glass on cycle path, 2nd June :- [7648731](https://www.fixmystreet.com/report/7648731)
 
 <!-- fix_marker ends -->
