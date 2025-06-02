@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Monday, 02 June 2025
 
-- The average temperature today is 15.15˚C,
-- With highs of 15.15˚C and lows of 15.15˚C,
-- It may feel like 14.39˚C with scattered clouds
-- The wind speed is 3.56m/s and visibility is 10000m
-- The pressure is 1013hPa and humidity is 64%
+- The average temperature today is 13.63˚C,
+- With highs of 13.63˚C and lows of 13.63˚C,
+- It may feel like 12.93˚C with broken clouds
+- The wind speed is 3.39m/s and visibility is 10000m
+- The pressure is 1013hPa and humidity is 72%
 - The sun will rise at 03:54 and set at 20:18
 
 <!-- weather_marker ends -->
