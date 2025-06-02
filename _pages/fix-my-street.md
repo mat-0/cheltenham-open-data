@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Post or sign leaning slightly (less than 20 degrees) problem, 2nd June :- [7649873](https://www.fixmystreet.com/report/7649873)
+- Road surface crumbling, 2nd June :- [7649738](https://www.fixmystreet.com/report/7649738)
+- Tree is damaged problem, 2nd June :- [7649871](https://www.fixmystreet.com/report/7649871)
 - Overgrown tree outside no 7 , St Peter’s Close, branches scraping car when parking and stuff dropping on car all the time, 2nd June :- [7649323](https://www.fixmystreet.com/report/7649323)
 - Tree is damaged problem, 2nd June :- [7649354](https://www.fixmystreet.com/report/7649354)
 - Flyposting: various giant banners attached all along railingsings, 2nd June :- [7649189](https://www.fixmystreet.com/report/7649189)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Man cycling on motorway M5 Jct 10 northbound, 1st June :- [7646071](https://www.fixmystreet.com/report/7646071)
 - Hole around utilities plate, 1st June :- [7645869](https://www.fixmystreet.com/report/7645869)
 - Abandoned e scooter, 1st June :- [7645744](https://www.fixmystreet.com/report/7645744)
-- Large pothole, 1st June :- [7645483](https://www.fixmystreet.com/report/7645483)
-- Enormous and deep multiple potholes, 1st June :- [7645418](https://www.fixmystreet.com/report/7645418)
-- Damaged highway, 1st June :- [7645292](https://www.fixmystreet.com/report/7645292)
 
 <!-- fix_marker ends -->
