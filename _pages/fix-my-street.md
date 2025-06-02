@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Way marker post has been knockdown, 2nd June :- [7652657](https://www.fixmystreet.com/report/7652657)
+- Traffic light need upgradning, 2nd June :- [7652656](https://www.fixmystreet.com/report/7652656)
 - Broken play equipment, 2nd June :- [7651572](https://www.fixmystreet.com/report/7651572)
 - Graffiti in child’s playground, 2nd June :- [7651527](https://www.fixmystreet.com/report/7651527)
 - Dumped microwave, 2nd June :- [7651355](https://www.fixmystreet.com/report/7651355)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Green or amber traffic light is not working problem, 2nd June :- [7649094](https://www.fixmystreet.com/report/7649094)
 - Red waste bag with DIY materials, 2nd June :- [7648787](https://www.fixmystreet.com/report/7648787)
 - Broken glass on cycle path, 2nd June :- [7648731](https://www.fixmystreet.com/report/7648731)
-- The drain is blocked problem, 2nd June :- [7648852](https://www.fixmystreet.com/report/7648852)
-- Traffic lights not changing green for pedestrians to cross, 2nd June :- [7648643](https://www.fixmystreet.com/report/7648643)
 
 <!-- fix_marker ends -->
