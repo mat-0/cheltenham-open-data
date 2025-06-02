@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- They are ripping up the footpath for New lay boy, 2nd June :- [7648091](https://www.fixmystreet.com/report/7648091)
 - Advanced stop lines need repainting in Cheltenham, 2nd June :- [7647948](https://www.fixmystreet.com/report/7647948)
 - Drains in the aria including leading to CARPARK, 1st June :- [7646627](https://www.fixmystreet.com/report/7646627)
 - Grass and all man or of weeds growing out path, 1st June :- [7646605](https://www.fixmystreet.com/report/7646605)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Inadequate street name signage, 31st May :- [7643245](https://www.fixmystreet.com/report/7643245)
 - Fridge freezer left on pavement, 31st May :- [7642234](https://www.fixmystreet.com/report/7642234)
 - Flytipped sofa bed rear of Albert St, 31st May :- [7642143](https://www.fixmystreet.com/report/7642143)
-- Trees cut and branches left. Also up turned tree, 31st May :- [7642104](https://www.fixmystreet.com/report/7642104)
 
 <!-- fix_marker ends -->
