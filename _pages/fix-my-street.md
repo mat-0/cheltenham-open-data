@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Overgrown tree outside no 7 , St Peter’s Close, branches scraping car when parking and stuff dropping on car all the time, 2nd June :- [7649323](https://www.fixmystreet.com/report/7649323)
+- Tree is damaged problem, 2nd June :- [7649354](https://www.fixmystreet.com/report/7649354)
+- Flyposting: various giant banners attached all along railingsings, 2nd June :- [7649189](https://www.fixmystreet.com/report/7649189)
+- Flyposting by housing developer at traffic junction, 2nd June :- [7649168](https://www.fixmystreet.com/report/7649168)
+- Green or amber traffic light is not working problem, 2nd June :- [7649094](https://www.fixmystreet.com/report/7649094)
 - Red waste bag with DIY materials, 2nd June :- [7648787](https://www.fixmystreet.com/report/7648787)
 - Broken glass on cycle path, 2nd June :- [7648731](https://www.fixmystreet.com/report/7648731)
 - The drain is blocked problem, 2nd June :- [7648852](https://www.fixmystreet.com/report/7648852)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Large pothole, 1st June :- [7645483](https://www.fixmystreet.com/report/7645483)
 - Enormous and deep multiple potholes, 1st June :- [7645418](https://www.fixmystreet.com/report/7645418)
 - Damaged highway, 1st June :- [7645292](https://www.fixmystreet.com/report/7645292)
-- Disabled access on pavement removed, 1st June :- [7645091](https://www.fixmystreet.com/report/7645091)
-- Broken tree branch blocking pathway. This is still atrached to tree and in danger of falling on a passerby, 1st June :- [7644992](https://www.fixmystreet.com/report/7644992)
-- Fallen Tree across byeway, 31st May :- [7643833](https://www.fixmystreet.com/report/7643833)
-- Flytipped items, 31st May :- [7643808](https://www.fixmystreet.com/report/7643808)
-- Huge pothole, 31st May :- [7643498](https://www.fixmystreet.com/report/7643498)
 
 <!-- fix_marker ends -->
