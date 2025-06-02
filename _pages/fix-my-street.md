@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Red waste bag with DIY materials, 2nd June :- [7648787](https://www.fixmystreet.com/report/7648787)
+- Broken glass on cycle path, 2nd June :- [7648731](https://www.fixmystreet.com/report/7648731)
+- The drain is blocked problem, 2nd June :- [7648852](https://www.fixmystreet.com/report/7648852)
+- Traffic lights not changing green for pedestrians to cross, 2nd June :- [7648643](https://www.fixmystreet.com/report/7648643)
 - They are ripping up the footpath for New lay boy, 2nd June :- [7648091](https://www.fixmystreet.com/report/7648091)
 - Advanced stop lines need repainting in Cheltenham, 2nd June :- [7647948](https://www.fixmystreet.com/report/7647948)
 - Drains in the aria including leading to CARPARK, 1st June :- [7646627](https://www.fixmystreet.com/report/7646627)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Fallen Tree across byeway, 31st May :- [7643833](https://www.fixmystreet.com/report/7643833)
 - Flytipped items, 31st May :- [7643808](https://www.fixmystreet.com/report/7643808)
 - Huge pothole, 31st May :- [7643498](https://www.fixmystreet.com/report/7643498)
-- Gate and fencing replaced - two way, way marker missing, 31st May :- [7643359](https://www.fixmystreet.com/report/7643359)
-- Inadequate street name signage, 31st May :- [7643245](https://www.fixmystreet.com/report/7643245)
-- Fridge freezer left on pavement, 31st May :- [7642234](https://www.fixmystreet.com/report/7642234)
-- Flytipped sofa bed rear of Albert St, 31st May :- [7642143](https://www.fixmystreet.com/report/7642143)
 
 <!-- fix_marker ends -->
