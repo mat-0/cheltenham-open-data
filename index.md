@@ -11,10 +11,10 @@ seo: Menu
 ## On Tuesday, 03 June 2025
 
 - The average temperature today is 11.54˚C,
-- With highs of 12.19˚C and lows of 11.4˚C,
-- It may feel like 10.68˚C with overcast clouds
-- The wind speed is 4.02m/s and visibility is 10000m
-- The pressure is 1009hPa and humidity is 74%
+- With highs of 12.19˚C and lows of 11.03˚C,
+- It may feel like 10.73˚C with overcast clouds
+- The wind speed is 5.36m/s and visibility is 10000m
+- The pressure is 1006hPa and humidity is 76%
 - The sun will rise at 03:53 and set at 20:19
 
 <!-- weather_marker ends -->
