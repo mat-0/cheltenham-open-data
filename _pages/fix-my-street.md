@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Sunken manhole cover, 3rd June :- [7654551](https://www.fixmystreet.com/report/7654551)
+- Sunken manhole cover potential vehicle damage, 3rd June :- [7654510](https://www.fixmystreet.com/report/7654510)
+- Tree bearing on open reach/internet cable causing loud vibrating noise, 3rd June :- [7654493](https://www.fixmystreet.com/report/7654493)
 - When will the 2 trees marked with irange in Broadclose Road be felled supnce they are causing obstructions of pipes below ground on the A38 and also on Broadclose Road?, 2nd June :- [7653490](https://www.fixmystreet.com/report/7653490)
 - EV’s no longer able to charge vehicle due to signage, 2nd June :- [7653291](https://www.fixmystreet.com/report/7653291)
 - Very dangerous pot holes in road cars drive on wrong side of the road to avoid them this is not good, 2nd June :- [7652968](https://www.fixmystreet.com/report/7652968)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Post or sign leaning slightly (less than 20 degrees) problem, 2nd June :- [7649873](https://www.fixmystreet.com/report/7649873)
 - Road surface crumbling, 2nd June :- [7649738](https://www.fixmystreet.com/report/7649738)
 - Tree is damaged problem, 2nd June :- [7649871](https://www.fixmystreet.com/report/7649871)
-- Overgrown tree outside no 7 , St Peter’s Close, branches scraping car when parking and stuff dropping on car all the time, 2nd June :- [7649323](https://www.fixmystreet.com/report/7649323)
-- Tree is damaged problem, 2nd June :- [7649354](https://www.fixmystreet.com/report/7649354)
-- Flyposting: various giant banners attached all along railingsings, 2nd June :- [7649189](https://www.fixmystreet.com/report/7649189)
 
 <!-- fix_marker ends -->
