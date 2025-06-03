@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree overhanging property in Compton Close, blocking light etc, damage to fence., 3rd June :- [7657519](https://www.fixmystreet.com/report/7657519)
 - Mattress dumped in brook, causing a dam, 3rd June :- [7657410](https://www.fixmystreet.com/report/7657410)
 - Loose slab, 3rd June :- [7657229](https://www.fixmystreet.com/report/7657229)
 - Stile blocked by barbed wire fence, 3rd June :- [7657122](https://www.fixmystreet.com/report/7657122)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - When will the 2 trees marked with irange in Broadclose Road be felled supnce they are causing obstructions of pipes below ground on the A38 and also on Broadclose Road?, 2nd June :- [7653490](https://www.fixmystreet.com/report/7653490)
 - EV’s no longer able to charge vehicle due to signage, 2nd June :- [7653291](https://www.fixmystreet.com/report/7653291)
 - Very dangerous pot holes in road cars drive on wrong side of the road to avoid them this is not good, 2nd June :- [7652968](https://www.fixmystreet.com/report/7652968)
-- Giant Hogweed, 2nd June :- [7652726](https://www.fixmystreet.com/report/7652726)
 
 <!-- fix_marker ends -->
