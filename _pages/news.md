@@ -12,13 +12,14 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Community raising funds to do up 16th Century pub ([4 hours ago](https://www.bbc.com/news/articles/c1kvgy4p4nwo))
-- £25k cash boost for much-loved Cheltenham Playhouse ([5 hours ago](https://gloucesternewscentre.co.uk/25k-cash-boost-for-much-loved-cheltenham-playhouse/))
-- £25k cash boost for much-loved Cheltenham Playhouse ([6 hours ago](https://www.cheltenham.gov.uk/news/article/3017/25k_cash_boost_for_much-loved_cheltenham_playhouse))
-- Cheese-rolling champion awarded missing prize ([6 hours ago](https://www.bbc.com/news/articles/clyzjzkz2v1o))
-- 'Tidal wave' of kittens and film crew in town ([11 hours ago](https://www.bbc.com/news/articles/ced2ey9l1dyo))
-- Woman given laptop amid fears of 'being left behind' ([15 hours ago](https://www.bbc.com/news/articles/cy8nvm5v5ymo))
-- Experts hope bird survey will reveal river health ([15 hours ago](https://www.bbc.com/news/articles/c9wgv0dy485o))
+- Suspected people-smuggling gang arrested in raids ([54 minutes ago](https://www.bbc.com/news/articles/cx2j67x49pwo))
+- Community raising funds to do up 16th Century pub ([5 hours ago](https://www.bbc.com/news/articles/c1kvgy4p4nwo))
+- £25k cash boost for much-loved Cheltenham Playhouse ([6 hours ago](https://gloucesternewscentre.co.uk/25k-cash-boost-for-much-loved-cheltenham-playhouse/))
+- £25k cash boost for much-loved Cheltenham Playhouse ([7 hours ago](https://www.cheltenham.gov.uk/news/article/3017/25k_cash_boost_for_much-loved_cheltenham_playhouse))
+- Cheese-rolling champion awarded missing prize ([7 hours ago](https://www.bbc.com/news/articles/clyzjzkz2v1o))
+- 'Tidal wave' of kittens and film crew in town ([12 hours ago](https://www.bbc.com/news/articles/ced2ey9l1dyo))
+- Woman given laptop amid fears of 'being left behind' ([16 hours ago](https://www.bbc.com/news/articles/cy8nvm5v5ymo))
+- Experts hope bird survey will reveal river health ([16 hours ago](https://www.bbc.com/news/articles/c9wgv0dy485o))
 - Builder turned home into 'junkyard', jury told ([1 days ago](https://www.bbc.com/news/articles/c7v7jqygvlpo))
 - Toddler suffers serious burns in boat explosion ([1 days ago](https://www.bbc.com/news/articles/c1j5k49zg9yo))
 - Shop owner jailed over illegal tobacco and vapes ([1 days ago](https://www.bbc.com/news/articles/c071jlz50peo))
@@ -31,7 +32,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Veteran, aged 90, still fighting to correct pension 'robbery' ([1 days ago](https://www.bbc.com/news/articles/c2d5l7k3p31o))
 - Fundraiser takes place for under-threat theatre ([2 days ago](https://www.bbc.com/news/articles/c4gk0edy66yo))
 - Nine people injured after fire on residential boat ([2 days ago](https://www.bbc.com/news/articles/crr7xz5r2z9o))
-- Airport boss says site will not be 'sold for housing' ([2 days ago](https://www.bbc.com/news/articles/cnv1gj0dl4eo))
 - Gloucestershire in Pictures: Wychwood and cheese rolling ([2 days ago](https://www.bbc.com/news/articles/cj42qe4nqn5o))
 - Major development near Cheltenham ‘will provide 4000 much-needed homes’ ([2 days ago](https://gloucesternewscentre.co.uk/major-development-near-cheltenham-will-provide-4000-much-needed-homes/))
 - GALLERY: Saturday at Wychwood Festival 2025 ([2 days ago](https://gloucesternewscentre.co.uk/gallery-saturday-at-wychwood-festival-2025/))
@@ -65,6 +65,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Cheltenham Mayor’s inauguration and medal of honour ([21 days ago](https://www.cheltenham.gov.uk/news/article/3008/cheltenham_mayors_inauguration_and_medal_of_honour))
 - Cheltenham Feel Good card launched to boost health and fitness ([26 days ago](https://www.cheltenham.gov.uk/news/article/3007/cheltenham_feel_good_card_launched_to_boost_health_and_fitness))
 - Community projects awarded funding to improve health and wellbeing ([27 days ago](https://www.cheltenham.gov.uk/news/article/3006/community_projects_awarded_funding_to_improve_health_and_wellbeing))
-- On The Front Line ([27 days ago](https://www.bbc.co.uk/iplayer/episode/m002bzh5))
+- On The Front Line ([28 days ago](https://www.bbc.co.uk/iplayer/episode/m002bzh5))
 
 <!-- news_marker ends -->
