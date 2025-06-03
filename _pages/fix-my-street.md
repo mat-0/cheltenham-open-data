@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Illuminated sign coming from All Saints road to the roundabout is significantly bent. And also the sign warning that if is a roundabout is missing - so big safety issue for people coming up to the roundabout., 3rd June :- [7655950](https://www.fixmystreet.com/report/7655950)
+- Post or sign leaning slightly (less than 20 degrees) problem, 3rd June :- [7655888](https://www.fixmystreet.com/report/7655888)
+- Other damage to pavement i.e. cobbles, raised mound/surface problem, 3rd June :- [7655714](https://www.fixmystreet.com/report/7655714)
+- Tree is damaged problem, 3rd June :- [7655713](https://www.fixmystreet.com/report/7655713)
 - Tree is damaged problem, 3rd June :- [7655090](https://www.fixmystreet.com/report/7655090)
 - Road Appears To Be Collapsing, 3rd June :- [7654999](https://www.fixmystreet.com/report/7654999)
 - Sunken manhole cover, 3rd June :- [7654551](https://www.fixmystreet.com/report/7654551)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Dumped microwave, 2nd June :- [7651355](https://www.fixmystreet.com/report/7651355)
 - Over grown trees, not hedges, 2nd June :- [7650924](https://www.fixmystreet.com/report/7650924)
 - The drain is blocked problem, 2nd June :- [7650934](https://www.fixmystreet.com/report/7650934)
-- Five potholes in a row. Approx sizes - 3ft x2ft, 1ftx2ft, 2ftx2ft,3ftx2ft,1ftx1ft previously poorly repaired numerous times, 2nd June :- [7650734](https://www.fixmystreet.com/report/7650734)
-- Rubbish is stream, 2nd June :- [7650418](https://www.fixmystreet.com/report/7650418)
-- Unpermitted roadworks problem, 2nd June :- [7650112](https://www.fixmystreet.com/report/7650112)
-- Post or sign leaning slightly (less than 20 degrees) problem, 2nd June :- [7649873](https://www.fixmystreet.com/report/7649873)
 
 <!-- fix_marker ends -->
