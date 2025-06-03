@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree is damaged problem, 3rd June :- [7655090](https://www.fixmystreet.com/report/7655090)
+- Road Appears To Be Collapsing, 3rd June :- [7654999](https://www.fixmystreet.com/report/7654999)
 - Sunken manhole cover, 3rd June :- [7654551](https://www.fixmystreet.com/report/7654551)
 - Sunken manhole cover potential vehicle damage, 3rd June :- [7654510](https://www.fixmystreet.com/report/7654510)
 - Tree bearing on open reach/internet cable causing loud vibrating noise, 3rd June :- [7654493](https://www.fixmystreet.com/report/7654493)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Rubbish is stream, 2nd June :- [7650418](https://www.fixmystreet.com/report/7650418)
 - Unpermitted roadworks problem, 2nd June :- [7650112](https://www.fixmystreet.com/report/7650112)
 - Post or sign leaning slightly (less than 20 degrees) problem, 2nd June :- [7649873](https://www.fixmystreet.com/report/7649873)
-- Road surface crumbling, 2nd June :- [7649738](https://www.fixmystreet.com/report/7649738)
-- Tree is damaged problem, 2nd June :- [7649871](https://www.fixmystreet.com/report/7649871)
 
 <!-- fix_marker ends -->
