@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Accident waiting to happen due to cars parking on blind corner, 3rd June :- [7656560](https://www.fixmystreet.com/report/7656560)
 - Unpermitted roadworks problem, 3rd June :- [7656270](https://www.fixmystreet.com/report/7656270)
 - Dead tree, 3rd June :- [7656180](https://www.fixmystreet.com/report/7656180)
 - Yellow Sign blocking view, 3rd June :- [7656134](https://www.fixmystreet.com/report/7656134)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Way marker post has been knockdown, 2nd June :- [7652657](https://www.fixmystreet.com/report/7652657)
 - Traffic light need upgradning, 2nd June :- [7652656](https://www.fixmystreet.com/report/7652656)
 - Broken play equipment, 2nd June :- [7651572](https://www.fixmystreet.com/report/7651572)
-- Graffiti in child’s playground, 2nd June :- [7651527](https://www.fixmystreet.com/report/7651527)
 
 <!-- fix_marker ends -->
