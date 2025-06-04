@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Trip hazard on pavement due to buckled tarmac, 4th June :- [7661987](https://www.fixmystreet.com/report/7661987)
 - Flyposters for monthly street market on pedestrian crossing poles, 4th June :- [7661558](https://www.fixmystreet.com/report/7661558)
 - Flyposter - gardening competition on lampposts, 4th June :- [7661544](https://www.fixmystreet.com/report/7661544)
 - Overgrown Trees Damaging Fences, 4th June :- [7661329](https://www.fixmystreet.com/report/7661329)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Tree overhanging property in Compton Close, blocking light etc, damage to fence., 3rd June :- [7657519](https://www.fixmystreet.com/report/7657519)
 - Mattress dumped in brook, causing a dam, 3rd June :- [7657410](https://www.fixmystreet.com/report/7657410)
 - Loose slab, 3rd June :- [7657229](https://www.fixmystreet.com/report/7657229)
-- Stile blocked by barbed wire fence, 3rd June :- [7657122](https://www.fixmystreet.com/report/7657122)
 
 <!-- fix_marker ends -->
