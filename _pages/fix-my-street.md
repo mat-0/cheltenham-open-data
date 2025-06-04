@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Private property, 4th June :- [7663533](https://www.fixmystreet.com/report/7663533)
 - Trench filling is moving under load, 4th June :- [7662893](https://www.fixmystreet.com/report/7662893)
 - Traffic calming on Gotherington lane is dangerous, 4th June :- [7662868](https://www.fixmystreet.com/report/7662868)
 - Gate not secure so can fall to ground when attempting to open. Then difficult to close/secure. Sheep in field, 4th June :- [7662800](https://www.fixmystreet.com/report/7662800)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Abandoned Voi scooters, 4th June :- [7660153](https://www.fixmystreet.com/report/7660153)
 - Flytip in Layby On Cleeve Common Road, 4th June :- [7660100](https://www.fixmystreet.com/report/7660100)
 - Graffiti tag on street light, 4th June :- [7659729](https://www.fixmystreet.com/report/7659729)
-- Sign/waymarker is damaged problem, 4th June :- [7659561](https://www.fixmystreet.com/report/7659561)
 
 <!-- fix_marker ends -->
