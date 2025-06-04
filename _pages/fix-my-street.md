@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flyposters for monthly street market on pedestrian crossing poles, 4th June :- [7661558](https://www.fixmystreet.com/report/7661558)
+- Flyposter - gardening competition on lampposts, 4th June :- [7661544](https://www.fixmystreet.com/report/7661544)
+- Overgrown Trees Damaging Fences, 4th June :- [7661329](https://www.fixmystreet.com/report/7661329)
 - Light sensor is not detecting vehicles problem, 4th June :- [7661058](https://www.fixmystreet.com/report/7661058)
 - Signage remains after works, 4th June :- [7660943](https://www.fixmystreet.com/report/7660943)
 - Footbridge has been vandalised, 4th June :- [7660748](https://www.fixmystreet.com/report/7660748)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Mattress dumped in brook, causing a dam, 3rd June :- [7657410](https://www.fixmystreet.com/report/7657410)
 - Loose slab, 3rd June :- [7657229](https://www.fixmystreet.com/report/7657229)
 - Stile blocked by barbed wire fence, 3rd June :- [7657122](https://www.fixmystreet.com/report/7657122)
-- Accident waiting to happen due to cars parking on blind corner, 3rd June :- [7656560](https://www.fixmystreet.com/report/7656560)
-- Unpermitted roadworks problem, 3rd June :- [7656270](https://www.fixmystreet.com/report/7656270)
-- Dead tree, 3rd June :- [7656180](https://www.fixmystreet.com/report/7656180)
 
 <!-- fix_marker ends -->
