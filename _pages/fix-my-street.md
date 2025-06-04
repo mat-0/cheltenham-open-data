@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Graffiti tag on street light, 4th June :- [7659729](https://www.fixmystreet.com/report/7659729)
+- Sign/waymarker is damaged problem, 4th June :- [7659561](https://www.fixmystreet.com/report/7659561)
 - Lots of dog poop near the pencil side of the wide element of the pavement. And further down same side of road by houses, 4th June :- [7659509](https://www.fixmystreet.com/report/7659509)
 - Tree limbs about to fall and damage property and fall on people, 4th June :- [7659476](https://www.fixmystreet.com/report/7659476)
 - Deep pothole that fully shook my car when I hit it., 3rd June :- [7658339](https://www.fixmystreet.com/report/7658339)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Tree is damaged problem, 3rd June :- [7655090](https://www.fixmystreet.com/report/7655090)
 - Road Appears To Be Collapsing, 3rd June :- [7654999](https://www.fixmystreet.com/report/7654999)
 - Sunken manhole cover, 3rd June :- [7654551](https://www.fixmystreet.com/report/7654551)
-- Sunken manhole cover potential vehicle damage, 3rd June :- [7654510](https://www.fixmystreet.com/report/7654510)
-- Tree bearing on open reach/internet cable causing loud vibrating noise, 3rd June :- [7654493](https://www.fixmystreet.com/report/7654493)
 
 <!-- fix_marker ends -->
