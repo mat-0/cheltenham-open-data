@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 20 inch pothole in layby on A435, 4th June :- [7663767](https://www.fixmystreet.com/report/7663767)
+- Vegetation obstructing complete view of chicane., 4th June :- [7663700](https://www.fixmystreet.com/report/7663700)
 - Private property, 4th June :- [7663533](https://www.fixmystreet.com/report/7663533)
 - Trench filling is moving under load, 4th June :- [7662893](https://www.fixmystreet.com/report/7662893)
 - Traffic calming on Gotherington lane is dangerous, 4th June :- [7662868](https://www.fixmystreet.com/report/7662868)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - More Subsidence than eroded Pothole at Location, 4th June :- [7660188](https://www.fixmystreet.com/report/7660188)
 - Green or amber traffic light is not working problem, 4th June :- [7660225](https://www.fixmystreet.com/report/7660225)
 - Abandoned Voi scooters, 4th June :- [7660153](https://www.fixmystreet.com/report/7660153)
-- Flytip in Layby On Cleeve Common Road, 4th June :- [7660100](https://www.fixmystreet.com/report/7660100)
-- Graffiti tag on street light, 4th June :- [7659729](https://www.fixmystreet.com/report/7659729)
 
 <!-- fix_marker ends -->
