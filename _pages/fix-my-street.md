@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytip in the Pylons Car Park at the end of Cleeve Common Road, 4th June :- [7660279](https://www.fixmystreet.com/report/7660279)
+- More Subsidence than eroded Pothole at Location, 4th June :- [7660188](https://www.fixmystreet.com/report/7660188)
+- Green or amber traffic light is not working problem, 4th June :- [7660225](https://www.fixmystreet.com/report/7660225)
+- Abandoned Voi scooters, 4th June :- [7660153](https://www.fixmystreet.com/report/7660153)
+- Flytip in Layby On Cleeve Common Road, 4th June :- [7660100](https://www.fixmystreet.com/report/7660100)
 - Graffiti tag on street light, 4th June :- [7659729](https://www.fixmystreet.com/report/7659729)
 - Sign/waymarker is damaged problem, 4th June :- [7659561](https://www.fixmystreet.com/report/7659561)
 - Lots of dog poop near the pencil side of the wide element of the pavement. And further down same side of road by houses, 4th June :- [7659509](https://www.fixmystreet.com/report/7659509)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Yellow Sign blocking view, 3rd June :- [7656134](https://www.fixmystreet.com/report/7656134)
 - Illuminated sign coming from All Saints road to the roundabout is significantly bent. And also the sign warning that if is a roundabout is missing - so big safety issue for people coming up to the roundabout., 3rd June :- [7655950](https://www.fixmystreet.com/report/7655950)
 - Post or sign leaning slightly (less than 20 degrees) problem, 3rd June :- [7655888](https://www.fixmystreet.com/report/7655888)
-- Other damage to pavement i.e. cobbles, raised mound/surface problem, 3rd June :- [7655714](https://www.fixmystreet.com/report/7655714)
-- Tree is damaged problem, 3rd June :- [7655713](https://www.fixmystreet.com/report/7655713)
-- Tree is damaged problem, 3rd June :- [7655090](https://www.fixmystreet.com/report/7655090)
-- Road Appears To Be Collapsing, 3rd June :- [7654999](https://www.fixmystreet.com/report/7654999)
-- Sunken manhole cover, 3rd June :- [7654551](https://www.fixmystreet.com/report/7654551)
 
 <!-- fix_marker ends -->
