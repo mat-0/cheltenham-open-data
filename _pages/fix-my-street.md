@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- A pothole in road problem, 4th June :- [7662409](https://www.fixmystreet.com/report/7662409)
+- Trees lifting and growing through broken tarmac, 4th June :- [7662199](https://www.fixmystreet.com/report/7662199)
 - Trip hazard on pavement due to buckled tarmac, 4th June :- [7661987](https://www.fixmystreet.com/report/7661987)
 - Flyposters for monthly street market on pedestrian crossing poles, 4th June :- [7661558](https://www.fixmystreet.com/report/7661558)
 - Flyposter - gardening competition on lampposts, 4th June :- [7661544](https://www.fixmystreet.com/report/7661544)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Tree limbs about to fall and damage property and fall on people, 4th June :- [7659476](https://www.fixmystreet.com/report/7659476)
 - Deep pothole that fully shook my car when I hit it., 3rd June :- [7658339](https://www.fixmystreet.com/report/7658339)
 - Tree overhanging property in Compton Close, blocking light etc, damage to fence., 3rd June :- [7657519](https://www.fixmystreet.com/report/7657519)
-- Mattress dumped in brook, causing a dam, 3rd June :- [7657410](https://www.fixmystreet.com/report/7657410)
-- Loose slab, 3rd June :- [7657229](https://www.fixmystreet.com/report/7657229)
 
 <!-- fix_marker ends -->
