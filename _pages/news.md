@@ -12,15 +12,15 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Major motorway project 'unlocks' thousands of homes ([38 minutes ago](https://www.bbc.com/news/articles/cvgnz6eyr22o))
-- Development consent granted for M5 Junction 10 Improvements Scheme ([4 hours ago](https://gloucesternewscentre.co.uk/development-consent-granted-for-m5-junction-10-improvements-scheme/))
-- Striking staff extend action further into June ([8 hours ago](https://www.bbc.com/news/articles/cz9y0dnl0k3o))
-- World's oldest annual cricket festival in doubt ([9 hours ago](https://www.bbc.com/news/articles/cvgvlx1ve79o))
-- 'Non-binary fish' and 'shop closure' ([11 hours ago](https://www.bbc.com/news/articles/c787lp1npgjo))
-- Suspected people-smuggling gang arrested in raids ([12 hours ago](https://www.bbc.com/news/articles/cx2j67x49pwo))
-- The children keeping their local phone box in use ([15 hours ago](https://www.bbc.com/news/articles/c1dekpd164no))
-- Boy's storytelling method puts 'joy' back into literacy ([15 hours ago](https://www.bbc.com/news/articles/c6268ykxkdno))
-- Shop owners welcome disposable vape ban ([15 hours ago](https://www.bbc.com/news/articles/cgle5pgy4lgo))
+- Major motorway project 'unlocks' thousands of homes ([1 hours ago](https://www.bbc.com/news/articles/cvgnz6eyr22o))
+- Development consent granted for M5 Junction 10 Improvements Scheme ([5 hours ago](https://gloucesternewscentre.co.uk/development-consent-granted-for-m5-junction-10-improvements-scheme/))
+- Striking staff extend action further into June ([9 hours ago](https://www.bbc.com/news/articles/cz9y0dnl0k3o))
+- World's oldest annual cricket festival in doubt ([10 hours ago](https://www.bbc.com/news/articles/cvgvlx1ve79o))
+- 'Non-binary fish' and 'shop closure' ([12 hours ago](https://www.bbc.com/news/articles/c787lp1npgjo))
+- Suspected people-smuggling gang arrested in raids ([13 hours ago](https://www.bbc.com/news/articles/cx2j67x49pwo))
+- The children keeping their local phone box in use ([16 hours ago](https://www.bbc.com/news/articles/c1dekpd164no))
+- Boy's storytelling method puts 'joy' back into literacy ([16 hours ago](https://www.bbc.com/news/articles/c6268ykxkdno))
+- Shop owners welcome disposable vape ban ([16 hours ago](https://www.bbc.com/news/articles/cgle5pgy4lgo))
 - Community raising funds to do up 16th Century pub ([1 days ago](https://www.bbc.com/news/articles/c1kvgy4p4nwo))
 - £25k cash boost for much-loved Cheltenham Playhouse ([1 days ago](https://gloucesternewscentre.co.uk/25k-cash-boost-for-much-loved-cheltenham-playhouse/))
 - £25k cash boost for much-loved Cheltenham Playhouse ([1 days ago](https://www.cheltenham.gov.uk/news/article/3017/25k_cash_boost_for_much-loved_cheltenham_playhouse))
@@ -65,6 +65,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Cheltenham Mayor’s inauguration and medal of honour ([22 days ago](https://www.cheltenham.gov.uk/news/article/3008/cheltenham_mayors_inauguration_and_medal_of_honour))
 - Cheltenham Feel Good card launched to boost health and fitness ([27 days ago](https://www.cheltenham.gov.uk/news/article/3007/cheltenham_feel_good_card_launched_to_boost_health_and_fitness))
 - Community projects awarded funding to improve health and wellbeing ([28 days ago](https://www.cheltenham.gov.uk/news/article/3006/community_projects_awarded_funding_to_improve_health_and_wellbeing))
-- On The Front Line ([28 days ago](https://www.bbc.co.uk/iplayer/episode/m002bzh5))
+- On The Front Line ([29 days ago](https://www.bbc.co.uk/iplayer/episode/m002bzh5))
 
 <!-- news_marker ends -->
