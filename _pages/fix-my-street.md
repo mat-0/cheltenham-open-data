@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Trench filling is moving under load, 4th June :- [7662893](https://www.fixmystreet.com/report/7662893)
+- Traffic calming on Gotherington lane is dangerous, 4th June :- [7662868](https://www.fixmystreet.com/report/7662868)
+- Gate not secure so can fall to ground when attempting to open. Then difficult to close/secure. Sheep in field, 4th June :- [7662800](https://www.fixmystreet.com/report/7662800)
 - Tree, 4th June :- [7662498](https://www.fixmystreet.com/report/7662498)
 - A pothole in road problem, 4th June :- [7662409](https://www.fixmystreet.com/report/7662409)
 - Trees lifting and growing through broken tarmac, 4th June :- [7662199](https://www.fixmystreet.com/report/7662199)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Flytip in Layby On Cleeve Common Road, 4th June :- [7660100](https://www.fixmystreet.com/report/7660100)
 - Graffiti tag on street light, 4th June :- [7659729](https://www.fixmystreet.com/report/7659729)
 - Sign/waymarker is damaged problem, 4th June :- [7659561](https://www.fixmystreet.com/report/7659561)
-- Lots of dog poop near the pencil side of the wide element of the pavement. And further down same side of road by houses, 4th June :- [7659509](https://www.fixmystreet.com/report/7659509)
-- Tree limbs about to fall and damage property and fall on people, 4th June :- [7659476](https://www.fixmystreet.com/report/7659476)
-- Deep pothole that fully shook my car when I hit it., 3rd June :- [7658339](https://www.fixmystreet.com/report/7658339)
 
 <!-- fix_marker ends -->
