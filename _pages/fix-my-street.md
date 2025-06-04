@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Footbridge has been vandalised, 4th June :- [7660748](https://www.fixmystreet.com/report/7660748)
 - Flytip in the Pylons Car Park at the end of Cleeve Common Road, 4th June :- [7660279](https://www.fixmystreet.com/report/7660279)
 - More Subsidence than eroded Pothole at Location, 4th June :- [7660188](https://www.fixmystreet.com/report/7660188)
 - Green or amber traffic light is not working problem, 4th June :- [7660225](https://www.fixmystreet.com/report/7660225)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Dead tree, 3rd June :- [7656180](https://www.fixmystreet.com/report/7656180)
 - Yellow Sign blocking view, 3rd June :- [7656134](https://www.fixmystreet.com/report/7656134)
 - Illuminated sign coming from All Saints road to the roundabout is significantly bent. And also the sign warning that if is a roundabout is missing - so big safety issue for people coming up to the roundabout., 3rd June :- [7655950](https://www.fixmystreet.com/report/7655950)
-- Post or sign leaning slightly (less than 20 degrees) problem, 3rd June :- [7655888](https://www.fixmystreet.com/report/7655888)
 
 <!-- fix_marker ends -->
