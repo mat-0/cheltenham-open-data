@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Traffic lights completely obscured by trees, 5th June :- [7664652](https://www.fixmystreet.com/report/7664652)
 - Loads of large potholes around the whole of Clevedon square about 10in total all larger than a dinner plate and deep enough that motorbikes could be dismounted, 5th June :- [7664448](https://www.fixmystreet.com/report/7664448)
 - Unexpected loud works started at 5:20am, 5th June :- [7664424](https://www.fixmystreet.com/report/7664424)
 - 20 inch pothole in layby on A435, 4th June :- [7663767](https://www.fixmystreet.com/report/7663767)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Signage remains after works, 4th June :- [7660943](https://www.fixmystreet.com/report/7660943)
 - Footbridge has been vandalised, 4th June :- [7660748](https://www.fixmystreet.com/report/7660748)
 - Flytip in the Pylons Car Park at the end of Cleeve Common Road, 4th June :- [7660279](https://www.fixmystreet.com/report/7660279)
-- More Subsidence than eroded Pothole at Location, 4th June :- [7660188](https://www.fixmystreet.com/report/7660188)
 
 <!-- fix_marker ends -->
