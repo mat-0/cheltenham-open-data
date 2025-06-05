@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pathway not reinstated properly after utility works, 5th June :- [7667085](https://www.fixmystreet.com/report/7667085)
+- Flyposter attached to telegraph pole, 5th June :- [7667033](https://www.fixmystreet.com/report/7667033)
+- Tree is damaged problem, 5th June :- [7667208](https://www.fixmystreet.com/report/7667208)
 - Unpermitted roadworks problem, 5th June :- [7666847](https://www.fixmystreet.com/report/7666847)
 - Large flytip, 5th June :- [7666547](https://www.fixmystreet.com/report/7666547)
 - Tree is damaged problem, 5th June :- [7666566](https://www.fixmystreet.com/report/7666566)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Unexpected loud works started at 5:20am, 5th June :- [7664424](https://www.fixmystreet.com/report/7664424)
 - 20 inch pothole in layby on A435, 4th June :- [7663767](https://www.fixmystreet.com/report/7663767)
 - Vegetation obstructing complete view of chicane., 4th June :- [7663700](https://www.fixmystreet.com/report/7663700)
-- Private property, 4th June :- [7663533](https://www.fixmystreet.com/report/7663533)
-- Trench filling is moving under load, 4th June :- [7662893](https://www.fixmystreet.com/report/7662893)
-- Traffic calming on Gotherington lane is dangerous, 4th June :- [7662868](https://www.fixmystreet.com/report/7662868)
 
 <!-- fix_marker ends -->
