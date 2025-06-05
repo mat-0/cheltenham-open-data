@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree is damaged problem, 5th June :- [7666566](https://www.fixmystreet.com/report/7666566)
+- Tree is damaged problem, 5th June :- [7666564](https://www.fixmystreet.com/report/7666564)
 - Overhanging trees and branches, 5th June :- [7666250](https://www.fixmystreet.com/report/7666250)
 - Storm drain blocked between Green Cottage and the drainage ditch opposite, 5th June :- [7666247](https://www.fixmystreet.com/report/7666247)
 - Tree is breaking and will fall across the road very soon, 5th June :- [7665984](https://www.fixmystreet.com/report/7665984)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Traffic calming on Gotherington lane is dangerous, 4th June :- [7662868](https://www.fixmystreet.com/report/7662868)
 - Gate not secure so can fall to ground when attempting to open. Then difficult to close/secure. Sheep in field, 4th June :- [7662800](https://www.fixmystreet.com/report/7662800)
 - Tree, 4th June :- [7662498](https://www.fixmystreet.com/report/7662498)
-- A pothole in road problem, 4th June :- [7662409](https://www.fixmystreet.com/report/7662409)
-- Trees lifting and growing through broken tarmac, 4th June :- [7662199](https://www.fixmystreet.com/report/7662199)
 
 <!-- fix_marker ends -->
