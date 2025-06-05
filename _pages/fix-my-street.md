@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Overhanging trees and branches, 5th June :- [7666250](https://www.fixmystreet.com/report/7666250)
+- Storm drain blocked between Green Cottage and the drainage ditch opposite, 5th June :- [7666247](https://www.fixmystreet.com/report/7666247)
 - Tree is breaking and will fall across the road very soon, 5th June :- [7665984](https://www.fixmystreet.com/report/7665984)
 - Verge not maintained for 2 years, 5th June :- [7665809](https://www.fixmystreet.com/report/7665809)
 - The drain is blocked problem, 5th June :- [7665718](https://www.fixmystreet.com/report/7665718)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Tree, 4th June :- [7662498](https://www.fixmystreet.com/report/7662498)
 - A pothole in road problem, 4th June :- [7662409](https://www.fixmystreet.com/report/7662409)
 - Trees lifting and growing through broken tarmac, 4th June :- [7662199](https://www.fixmystreet.com/report/7662199)
-- Trip hazard on pavement due to buckled tarmac, 4th June :- [7661987](https://www.fixmystreet.com/report/7661987)
-- Flyposters for monthly street market on pedestrian crossing poles, 4th June :- [7661558](https://www.fixmystreet.com/report/7661558)
 
 <!-- fix_marker ends -->
