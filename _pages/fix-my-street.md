@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Unpermitted roadworks problem, 5th June :- [7666847](https://www.fixmystreet.com/report/7666847)
+- Large flytip, 5th June :- [7666547](https://www.fixmystreet.com/report/7666547)
 - Tree is damaged problem, 5th June :- [7666566](https://www.fixmystreet.com/report/7666566)
 - Tree is damaged problem, 5th June :- [7666564](https://www.fixmystreet.com/report/7666564)
 - Overhanging trees and branches, 5th June :- [7666250](https://www.fixmystreet.com/report/7666250)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Private property, 4th June :- [7663533](https://www.fixmystreet.com/report/7663533)
 - Trench filling is moving under load, 4th June :- [7662893](https://www.fixmystreet.com/report/7662893)
 - Traffic calming on Gotherington lane is dangerous, 4th June :- [7662868](https://www.fixmystreet.com/report/7662868)
-- Gate not secure so can fall to ground when attempting to open. Then difficult to close/secure. Sheep in field, 4th June :- [7662800](https://www.fixmystreet.com/report/7662800)
-- Tree, 4th June :- [7662498](https://www.fixmystreet.com/report/7662498)
 
 <!-- fix_marker ends -->
