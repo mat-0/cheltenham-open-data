@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Sunken manhole cover ...trip hazard & sinkage of pathway, 5th June :- [7667381](https://www.fixmystreet.com/report/7667381)
+- Poorly maintained Road surface at Hucclecote Road junction with Brockworth bypass and Deltaway, 5th June :- [7667363](https://www.fixmystreet.com/report/7667363)
 - Pathway not reinstated properly after utility works, 5th June :- [7667085](https://www.fixmystreet.com/report/7667085)
 - Flyposter attached to telegraph pole, 5th June :- [7667033](https://www.fixmystreet.com/report/7667033)
 - Tree is damaged problem, 5th June :- [7667208](https://www.fixmystreet.com/report/7667208)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Traffic lights completely obscured by trees, 5th June :- [7664652](https://www.fixmystreet.com/report/7664652)
 - Loads of large potholes around the whole of Clevedon square about 10in total all larger than a dinner plate and deep enough that motorbikes could be dismounted, 5th June :- [7664448](https://www.fixmystreet.com/report/7664448)
 - Unexpected loud works started at 5:20am, 5th June :- [7664424](https://www.fixmystreet.com/report/7664424)
-- 20 inch pothole in layby on A435, 4th June :- [7663767](https://www.fixmystreet.com/report/7663767)
-- Vegetation obstructing complete view of chicane., 4th June :- [7663700](https://www.fixmystreet.com/report/7663700)
 
 <!-- fix_marker ends -->
