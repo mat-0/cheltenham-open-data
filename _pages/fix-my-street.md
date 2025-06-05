@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Unexpected loud works started at 5:20am, 5th June :- [7664424](https://www.fixmystreet.com/report/7664424)
 - 20 inch pothole in layby on A435, 4th June :- [7663767](https://www.fixmystreet.com/report/7663767)
 - Vegetation obstructing complete view of chicane., 4th June :- [7663700](https://www.fixmystreet.com/report/7663700)
 - Private property, 4th June :- [7663533](https://www.fixmystreet.com/report/7663533)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Flytip in the Pylons Car Park at the end of Cleeve Common Road, 4th June :- [7660279](https://www.fixmystreet.com/report/7660279)
 - More Subsidence than eroded Pothole at Location, 4th June :- [7660188](https://www.fixmystreet.com/report/7660188)
 - Green or amber traffic light is not working problem, 4th June :- [7660225](https://www.fixmystreet.com/report/7660225)
-- Abandoned Voi scooters, 4th June :- [7660153](https://www.fixmystreet.com/report/7660153)
 
 <!-- fix_marker ends -->
