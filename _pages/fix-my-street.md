@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Traffic lights on the A40 at shipton oliffe/gloucester Road cross roads are completely obscured by trees going east bound (towards Burford/Oxford), 5th June :- [7668659](https://www.fixmystreet.com/report/7668659)
 - New traffic lights sequence, 5th June :- [7668431](https://www.fixmystreet.com/report/7668431)
 - Bicycle dumped in undergrowth, 5th June :- [7668391](https://www.fixmystreet.com/report/7668391)
 - Overgrown hedge obstruction, 5th June :- [7668061](https://www.fixmystreet.com/report/7668061)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Tree is breaking and will fall across the road very soon, 5th June :- [7665984](https://www.fixmystreet.com/report/7665984)
 - Verge not maintained for 2 years, 5th June :- [7665809](https://www.fixmystreet.com/report/7665809)
 - The drain is blocked problem, 5th June :- [7665718](https://www.fixmystreet.com/report/7665718)
-- Obstruction to visibility at the junction near High Groove Way, 5th June :- [7665577](https://www.fixmystreet.com/report/7665577)
 
 <!-- fix_marker ends -->
