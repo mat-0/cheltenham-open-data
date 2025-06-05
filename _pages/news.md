@@ -13,10 +13,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
 - Major motorway project 'unlocks' thousands of homes ([7 hours ago](https://www.bbc.com/news/articles/cvgnz6eyr22o))
-- Development consent granted for M5 Junction 10 Improvements Scheme ([10 hours ago](https://gloucesternewscentre.co.uk/development-consent-granted-for-m5-junction-10-improvements-scheme/))
-- Striking staff extend action further into June ([14 hours ago](https://www.bbc.com/news/articles/cz9y0dnl0k3o))
-- World's oldest annual cricket festival in doubt ([15 hours ago](https://www.bbc.com/news/articles/cvgvlx1ve79o))
-- 'Non-binary fish' and 'shop closure' ([17 hours ago](https://www.bbc.com/news/articles/c787lp1npgjo))
+- Development consent granted for M5 Junction 10 Improvements Scheme ([11 hours ago](https://gloucesternewscentre.co.uk/development-consent-granted-for-m5-junction-10-improvements-scheme/))
+- Striking staff extend action further into June ([15 hours ago](https://www.bbc.com/news/articles/cz9y0dnl0k3o))
+- World's oldest annual cricket festival in doubt ([16 hours ago](https://www.bbc.com/news/articles/cvgvlx1ve79o))
+- 'Non-binary fish' and 'shop closure' ([18 hours ago](https://www.bbc.com/news/articles/c787lp1npgjo))
 - Suspected people-smuggling gang arrested in raids ([19 hours ago](https://www.bbc.com/news/articles/cx2j67x49pwo))
 - The children keeping their local phone box in use ([22 hours ago](https://www.bbc.com/news/articles/c1dekpd164no))
 - Boy's storytelling method puts 'joy' back into literacy ([22 hours ago](https://www.bbc.com/news/articles/c6268ykxkdno))
