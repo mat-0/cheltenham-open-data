@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Obstruction to visibility at the junction near High Groove Way, 5th June :- [7665577](https://www.fixmystreet.com/report/7665577)
+- Light sensor is not detecting vehicles problem, 5th June :- [7665494](https://www.fixmystreet.com/report/7665494)
+- Trees are totally covering any sight of the traffic lights, 5th June :- [7665057](https://www.fixmystreet.com/report/7665057)
 - Traffic lights completely obscured by trees, 5th June :- [7664652](https://www.fixmystreet.com/report/7664652)
 - Loads of large potholes around the whole of Clevedon square about 10in total all larger than a dinner plate and deep enough that motorbikes could be dismounted, 5th June :- [7664448](https://www.fixmystreet.com/report/7664448)
 - Unexpected loud works started at 5:20am, 5th June :- [7664424](https://www.fixmystreet.com/report/7664424)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Flyposter - gardening competition on lampposts, 4th June :- [7661544](https://www.fixmystreet.com/report/7661544)
 - Overgrown Trees Damaging Fences, 4th June :- [7661329](https://www.fixmystreet.com/report/7661329)
 - Light sensor is not detecting vehicles problem, 4th June :- [7661058](https://www.fixmystreet.com/report/7661058)
-- Signage remains after works, 4th June :- [7660943](https://www.fixmystreet.com/report/7660943)
-- Footbridge has been vandalised, 4th June :- [7660748](https://www.fixmystreet.com/report/7660748)
-- Flytip in the Pylons Car Park at the end of Cleeve Common Road, 4th June :- [7660279](https://www.fixmystreet.com/report/7660279)
 
 <!-- fix_marker ends -->
