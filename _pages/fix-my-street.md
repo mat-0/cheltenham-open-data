@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree is breaking and will fall across the road very soon, 5th June :- [7665984](https://www.fixmystreet.com/report/7665984)
+- Verge not maintained for 2 years, 5th June :- [7665809](https://www.fixmystreet.com/report/7665809)
+- The drain is blocked problem, 5th June :- [7665718](https://www.fixmystreet.com/report/7665718)
 - Obstruction to visibility at the junction near High Groove Way, 5th June :- [7665577](https://www.fixmystreet.com/report/7665577)
 - Light sensor is not detecting vehicles problem, 5th June :- [7665494](https://www.fixmystreet.com/report/7665494)
 - Trees are totally covering any sight of the traffic lights, 5th June :- [7665057](https://www.fixmystreet.com/report/7665057)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Trees lifting and growing through broken tarmac, 4th June :- [7662199](https://www.fixmystreet.com/report/7662199)
 - Trip hazard on pavement due to buckled tarmac, 4th June :- [7661987](https://www.fixmystreet.com/report/7661987)
 - Flyposters for monthly street market on pedestrian crossing poles, 4th June :- [7661558](https://www.fixmystreet.com/report/7661558)
-- Flyposter - gardening competition on lampposts, 4th June :- [7661544](https://www.fixmystreet.com/report/7661544)
-- Overgrown Trees Damaging Fences, 4th June :- [7661329](https://www.fixmystreet.com/report/7661329)
-- Light sensor is not detecting vehicles problem, 4th June :- [7661058](https://www.fixmystreet.com/report/7661058)
 
 <!-- fix_marker ends -->
