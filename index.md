@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Thursday, 05 June 2025
 
-- The average temperature today is 16.18˚C,
-- With highs of 17.19˚C and lows of 15.93˚C,
-- It may feel like 15.68˚C with few clouds
-- The wind speed is 6.17m/s and visibility is 10000m
-- The pressure is 1000hPa and humidity is 70%
+- The average temperature today is 14.62˚C,
+- With highs of 15.55˚C and lows of 14.26˚C,
+- It may feel like 14.04˚C with few clouds
+- The wind speed is 4.92m/s and visibility is 10000m
+- The pressure is 1001hPa and humidity is 73%
 - The sun will rise at 03:52 and set at 20:21
 
 <!-- weather_marker ends -->
