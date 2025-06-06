@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Friday, 06 June 2025
 
-- The average temperature today is 17.12˚C,
-- With highs of 18.32˚C and lows of 16.08˚C,
-- It may feel like 16.19˚C with scattered clouds
-- The wind speed is 5.14m/s and visibility is 10000m
-- The pressure is 1007hPa and humidity is 50%
+- The average temperature today is 17.72˚C,
+- With highs of 18.71˚C and lows of 17.19˚C,
+- It may feel like 16.8˚C with scattered clouds
+- The wind speed is 4.63m/s and visibility is 10000m
+- The pressure is 1007hPa and humidity is 48%
 - The sun will rise at 03:51 and set at 20:22
 
 <!-- weather_marker ends -->
