@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Lack of warning markers, 6th June :- [7672088](https://www.fixmystreet.com/report/7672088)
+- Dog Lane, not A417, 6th June :- [7672043](https://www.fixmystreet.com/report/7672043)
+- Low Trees, 6th June :- [7671989](https://www.fixmystreet.com/report/7671989)
 - Tree is damaged problem, 6th June :- [7671606](https://www.fixmystreet.com/report/7671606)
 - Rough road surface no road sign, 6th June :- [7671470](https://www.fixmystreet.com/report/7671470)
 - Street light is permanently out problem, 6th June :- [7671278](https://www.fixmystreet.com/report/7671278)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Soil and plants on pavement, 6th June :- [7670492](https://www.fixmystreet.com/report/7670492)
 - Soil on road, 6th June :- [7670464](https://www.fixmystreet.com/report/7670464)
 - Approximately 0.5m of soil built up on footpath due to trees impinging upon pavement, 6th June :- [7670435](https://www.fixmystreet.com/report/7670435)
-- The drain is blocked problem, 6th June :- [7670708](https://www.fixmystreet.com/report/7670708)
-- 2 fridges left outside Russell street no 39., 6th June :- [7670337](https://www.fixmystreet.com/report/7670337)
-- Tree is damaged problem, 6th June :- [7670707](https://www.fixmystreet.com/report/7670707)
 
 <!-- fix_marker ends -->
