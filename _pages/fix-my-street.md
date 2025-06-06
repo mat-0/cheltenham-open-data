@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 2 fridges left outside Russell street no 39., 6th June :- [7670337](https://www.fixmystreet.com/report/7670337)
 - Stinging nettles over growing the pathway used for school children, 6th June :- [7669110](https://www.fixmystreet.com/report/7669110)
 - Traffic lights on the A40 at shipton oliffe/gloucester Road cross roads are completely obscured by trees going east bound (towards Burford/Oxford), 5th June :- [7668659](https://www.fixmystreet.com/report/7668659)
 - New traffic lights sequence, 5th June :- [7668431](https://www.fixmystreet.com/report/7668431)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Overhanging trees and branches, 5th June :- [7666250](https://www.fixmystreet.com/report/7666250)
 - Storm drain blocked between Green Cottage and the drainage ditch opposite, 5th June :- [7666247](https://www.fixmystreet.com/report/7666247)
 - Tree is breaking and will fall across the road very soon, 5th June :- [7665984](https://www.fixmystreet.com/report/7665984)
-- Verge not maintained for 2 years, 5th June :- [7665809](https://www.fixmystreet.com/report/7665809)
 
 <!-- fix_marker ends -->
