@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree is damaged problem, 6th June :- [7671606](https://www.fixmystreet.com/report/7671606)
+- Rough road surface no road sign, 6th June :- [7671470](https://www.fixmystreet.com/report/7671470)
+- Street light is permanently out problem, 6th June :- [7671278](https://www.fixmystreet.com/report/7671278)
 - Street light number 3 not working., 6th June :- [7671083](https://www.fixmystreet.com/report/7671083)
 - Crossing audible sound too loud/soft problem, 6th June :- [7671104](https://www.fixmystreet.com/report/7671104)
 - Ash Tree located on Highway land problem, 6th June :- [7670918](https://www.fixmystreet.com/report/7670918)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - The drain is blocked problem, 6th June :- [7670708](https://www.fixmystreet.com/report/7670708)
 - 2 fridges left outside Russell street no 39., 6th June :- [7670337](https://www.fixmystreet.com/report/7670337)
 - Tree is damaged problem, 6th June :- [7670707](https://www.fixmystreet.com/report/7670707)
-- Stinging nettles over growing the pathway used for school children, 6th June :- [7669110](https://www.fixmystreet.com/report/7669110)
-- Traffic lights on the A40 at shipton oliffe/gloucester Road cross roads are completely obscured by trees going east bound (towards Burford/Oxford), 5th June :- [7668659](https://www.fixmystreet.com/report/7668659)
-- New traffic lights sequence, 5th June :- [7668431](https://www.fixmystreet.com/report/7668431)
 
 <!-- fix_marker ends -->
