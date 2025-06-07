@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Arson probe after tent with dog inside set on fire ([5 hours ago](https://www.bbc.com/news/articles/cj42gp7n744o))
-- HGV driver caught rolling cigarette while on M5 ([8 hours ago](https://www.bbc.com/news/articles/cx2ekrky144o))
-- Man ‘alarmed’ to find home included ‘without consent’ in 4000-house plan near M5 ([10 hours ago](https://gloucesternewscentre.co.uk/man-alarmed-to-find-home-included-without-consent-in-4000-house-plan-near-m5/))
-- Thunderstorm warning kicks in for parts of England and Wales ([10 hours ago](https://www.bbc.com/news/articles/cq851x1y9eqo))
-- Gloucestershire in Pictures: Cheesy does it ([13 hours ago](https://www.bbc.com/news/articles/cj6rpwjk192o))
-- 'Women are dying while murder reviews plod along' ([13 hours ago](https://www.bbc.com/news/articles/cj3j7308r35o))
+- Arson probe after tent with dog inside set on fire ([6 hours ago](https://www.bbc.com/news/articles/cj42gp7n744o))
+- HGV driver caught rolling cigarette while on M5 ([9 hours ago](https://www.bbc.com/news/articles/cx2ekrky144o))
+- Man ‘alarmed’ to find home included ‘without consent’ in 4000-house plan near M5 ([11 hours ago](https://gloucesternewscentre.co.uk/man-alarmed-to-find-home-included-without-consent-in-4000-house-plan-near-m5/))
+- Thunderstorm warning kicks in for parts of England and Wales ([11 hours ago](https://www.bbc.com/news/articles/cq851x1y9eqo))
+- Gloucestershire in Pictures: Cheesy does it ([14 hours ago](https://www.bbc.com/news/articles/cj6rpwjk192o))
+- 'Women are dying while murder reviews plod along' ([14 hours ago](https://www.bbc.com/news/articles/cj3j7308r35o))
 - 'Astounded' homeowner blocked from council meeting ([1 days ago](https://www.bbc.com/news/articles/c5y2zdd83deo))
 - 'The grass to feed my cows just hasn't grown' ([1 days ago](https://www.bbc.com/news/articles/cr4zp51rk9ro))
 - Horse therapy centre urgently seeking new home ([1 days ago](https://www.bbc.com/news/articles/clyqx775r2yo))
