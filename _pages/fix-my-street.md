@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Blocked drain, 7th June :- [7675554](https://www.fixmystreet.com/report/7675554)
 - Water comes out of manhole cover when it rains, 7th June :- [7675410](https://www.fixmystreet.com/report/7675410)
 - Abandoned sign, 7th June :- [7675189](https://www.fixmystreet.com/report/7675189)
 - Verge and kerbs damaged, bollards in a dangerous condition, 7th June :- [7675169](https://www.fixmystreet.com/report/7675169)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Fire hydrant, 6th June :- [7673151](https://www.fixmystreet.com/report/7673151)
 - Steep slope at end of footpath, 6th June :- [7672689](https://www.fixmystreet.com/report/7672689)
 - Two pot hole in street both with white marking on them. Just had glos cc contractors fix one hole at 5pm 6/6/25 but they have not fix the one next to it even though it too had white paint marking it. I asked them to fix it and they refused., 6th June :- [7672576](https://www.fixmystreet.com/report/7672576)
-- Lack of warning markers, 6th June :- [7672088](https://www.fixmystreet.com/report/7672088)
 
 <!-- fix_marker ends -->
