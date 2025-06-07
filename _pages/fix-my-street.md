@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Wellbrook stream has been blocked for some time with debris accumulated along the stretch from Sunrise Avenue park, blocked heavily under the in the tunnel on sunrise avenue leading to Evesham Road with broken trees and heavy debris, 8th June :- [7676332](https://www.fixmystreet.com/report/7676332)
+- Willow tree is looking very overgrown with long branches hanging over into our garden and is we have been advised the tree is well overdue pollarding, 8th June :- [7676329](https://www.fixmystreet.com/report/7676329)
+- Fly tipping, 8th June :- [7676321](https://www.fixmystreet.com/report/7676321)
 - Green light for crossing and road change green at the same time, 7th June :- [7675707](https://www.fixmystreet.com/report/7675707)
 - Blocked drain, 7th June :- [7675554](https://www.fixmystreet.com/report/7675554)
 - Water comes out of manhole cover when it rains, 7th June :- [7675410](https://www.fixmystreet.com/report/7675410)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Abandoned roadworks on pavement, 7th June :- [7674119](https://www.fixmystreet.com/report/7674119)
 - Uneven paving slabs-trip hazard, 7th June :- [7673718](https://www.fixmystreet.com/report/7673718)
 - Horrendous pot holes coming from Brockworth onto the bypass, almost have to drive on the left lane before merging into the right lane to turn right, thats how bad it is, 7th June :- [7673552](https://www.fixmystreet.com/report/7673552)
-- Overgrown with stinging nettles and thorns, 6th June :- [7673332](https://www.fixmystreet.com/report/7673332)
-- Fire hydrant, 6th June :- [7673151](https://www.fixmystreet.com/report/7673151)
-- Steep slope at end of footpath, 6th June :- [7672689](https://www.fixmystreet.com/report/7672689)
 
 <!-- fix_marker ends -->
