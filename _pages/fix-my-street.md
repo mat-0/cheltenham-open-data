@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- HUGE potholes all up this road, 7th June :- [7675078](https://www.fixmystreet.com/report/7675078)
+- Multiple potholes near Texaco Garage, 7th June :- [7674959](https://www.fixmystreet.com/report/7674959)
+- Pothole in the carriageway, 7th June :- [7674947](https://www.fixmystreet.com/report/7674947)
+- Big dip on tennyson road near shops, 7th June :- [7674930](https://www.fixmystreet.com/report/7674930)
 - Bollard has no reflective strip, 7th June :- [7674410](https://www.fixmystreet.com/report/7674410)
 - 9 Canning Road, 7th June :- [7674180](https://www.fixmystreet.com/report/7674180)
 - Abandoned roadworks on pavement, 7th June :- [7674119](https://www.fixmystreet.com/report/7674119)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Rough road surface no road sign, 6th June :- [7671470](https://www.fixmystreet.com/report/7671470)
 - Street light is permanently out problem, 6th June :- [7671278](https://www.fixmystreet.com/report/7671278)
 - Street light number 3 not working., 6th June :- [7671083](https://www.fixmystreet.com/report/7671083)
-- Crossing audible sound too loud/soft problem, 6th June :- [7671104](https://www.fixmystreet.com/report/7671104)
-- Ash Tree located on Highway land problem, 6th June :- [7670918](https://www.fixmystreet.com/report/7670918)
-- White lines, 6th June :- [7670704](https://www.fixmystreet.com/report/7670704)
-- Soil on lane, 6th June :- [7670691](https://www.fixmystreet.com/report/7670691)
 
 <!-- fix_marker ends -->
