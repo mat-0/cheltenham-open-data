@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Bollard has no reflective strip, 7th June :- [7674410](https://www.fixmystreet.com/report/7674410)
 - 9 Canning Road, 7th June :- [7674180](https://www.fixmystreet.com/report/7674180)
 - Abandoned roadworks on pavement, 7th June :- [7674119](https://www.fixmystreet.com/report/7674119)
 - Uneven paving slabs-trip hazard, 7th June :- [7673718](https://www.fixmystreet.com/report/7673718)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Ash Tree located on Highway land problem, 6th June :- [7670918](https://www.fixmystreet.com/report/7670918)
 - White lines, 6th June :- [7670704](https://www.fixmystreet.com/report/7670704)
 - Soil on lane, 6th June :- [7670691](https://www.fixmystreet.com/report/7670691)
-- Sorned vehicle on highway, 6th June :- [7670656](https://www.fixmystreet.com/report/7670656)
 
 <!-- fix_marker ends -->
