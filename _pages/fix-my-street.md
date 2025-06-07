@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 9 Canning Road, 7th June :- [7674180](https://www.fixmystreet.com/report/7674180)
+- Abandoned roadworks on pavement, 7th June :- [7674119](https://www.fixmystreet.com/report/7674119)
 - Uneven paving slabs-trip hazard, 7th June :- [7673718](https://www.fixmystreet.com/report/7673718)
 - Horrendous pot holes coming from Brockworth onto the bypass, almost have to drive on the left lane before merging into the right lane to turn right, thats how bad it is, 7th June :- [7673552](https://www.fixmystreet.com/report/7673552)
 - Overgrown with stinging nettles and thorns, 6th June :- [7673332](https://www.fixmystreet.com/report/7673332)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - White lines, 6th June :- [7670704](https://www.fixmystreet.com/report/7670704)
 - Soil on lane, 6th June :- [7670691](https://www.fixmystreet.com/report/7670691)
 - Sorned vehicle on highway, 6th June :- [7670656](https://www.fixmystreet.com/report/7670656)
-- White lines on roundabout, 6th June :- [7670599](https://www.fixmystreet.com/report/7670599)
-- Dumping Ground, 6th June :- [7670595](https://www.fixmystreet.com/report/7670595)
 
 <!-- fix_marker ends -->
