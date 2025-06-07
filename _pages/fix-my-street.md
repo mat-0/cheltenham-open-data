@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Horrendous pot holes coming from Brockworth onto the bypass, almost have to drive on the left lane before merging into the right lane to turn right, thats how bad it is, 7th June :- [7673552](https://www.fixmystreet.com/report/7673552)
 - Overgrown with stinging nettles and thorns, 6th June :- [7673332](https://www.fixmystreet.com/report/7673332)
 - Fire hydrant, 6th June :- [7673151](https://www.fixmystreet.com/report/7673151)
 - Steep slope at end of footpath, 6th June :- [7672689](https://www.fixmystreet.com/report/7672689)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - White lines on roundabout, 6th June :- [7670599](https://www.fixmystreet.com/report/7670599)
 - Dumping Ground, 6th June :- [7670595](https://www.fixmystreet.com/report/7670595)
 - Dumping Ground, 6th June :- [7670593](https://www.fixmystreet.com/report/7670593)
-- Missing white lines, 6th June :- [7670572](https://www.fixmystreet.com/report/7670572)
 
 <!-- fix_marker ends -->
