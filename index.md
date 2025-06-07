@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Saturday, 07 June 2025
 
-- The average temperature today is 10.72˚C,
-- With highs of 11.66˚C and lows of 10.38˚C,
-- It may feel like 10.17˚C with light rain
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1005hPa and humidity is 89%
+- The average temperature today is 10.64˚C,
+- With highs of 11.66˚C and lows of 9.83˚C,
+- It may feel like 10.11˚C with light rain
+- The wind speed is 1.34m/s and visibility is 10000m
+- The pressure is 1005hPa and humidity is 90%
 - The sun will rise at 03:50 and set at 20:23
 
 <!-- weather_marker ends -->
