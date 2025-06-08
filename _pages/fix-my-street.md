@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 2 foot long pot hole, 8th June :- [7677890](https://www.fixmystreet.com/report/7677890)
+- Overgrown grass, 8th June :- [7677842](https://www.fixmystreet.com/report/7677842)
+- The area of grass opposite 23 Planets Lane requires serious attention- it is extremely overgrown, messy and weeds everywhere, 8th June :- [7677834](https://www.fixmystreet.com/report/7677834)
 - Over Grown branches, 8th June :- [7676497](https://www.fixmystreet.com/report/7676497)
 - Over grown Tree, 8th June :- [7676493](https://www.fixmystreet.com/report/7676493)
 - Bushes around trees are overgrown, 8th June :- [7676491](https://www.fixmystreet.com/report/7676491)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Mattress dumped, 7th June :- [7675129](https://www.fixmystreet.com/report/7675129)
 - HUGE potholes all up this road, 7th June :- [7675078](https://www.fixmystreet.com/report/7675078)
 - Multiple potholes near Texaco Garage, 7th June :- [7674959](https://www.fixmystreet.com/report/7674959)
-- Pothole in the carriageway, 7th June :- [7674947](https://www.fixmystreet.com/report/7674947)
-- Big dip on tennyson road near shops, 7th June :- [7674930](https://www.fixmystreet.com/report/7674930)
-- Bollard has no reflective strip, 7th June :- [7674410](https://www.fixmystreet.com/report/7674410)
 
 <!-- fix_marker ends -->
