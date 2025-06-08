@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole close to 30 Strickland Road, 8th June :- [7678157](https://www.fixmystreet.com/report/7678157)
+- Pothole close to 30 Strickland Road, 8th June :- [7678125](https://www.fixmystreet.com/report/7678125)
+- Fly tipping, 8th June :- [7677949](https://www.fixmystreet.com/report/7677949)
 - 2 foot long pot hole, 8th June :- [7677890](https://www.fixmystreet.com/report/7677890)
 - Overgrown grass, 8th June :- [7677842](https://www.fixmystreet.com/report/7677842)
 - The area of grass opposite 23 Planets Lane requires serious attention- it is extremely overgrown, messy and weeds everywhere, 8th June :- [7677834](https://www.fixmystreet.com/report/7677834)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Verge and kerbs damaged, bollards in a dangerous condition, 7th June :- [7675169](https://www.fixmystreet.com/report/7675169)
 - Metal pole, 7th June :- [7675156](https://www.fixmystreet.com/report/7675156)
 - Sign damaged in car accident, 7th June :- [7675144](https://www.fixmystreet.com/report/7675144)
-- Mattress dumped, 7th June :- [7675129](https://www.fixmystreet.com/report/7675129)
-- HUGE potholes all up this road, 7th June :- [7675078](https://www.fixmystreet.com/report/7675078)
-- Multiple potholes near Texaco Garage, 7th June :- [7674959](https://www.fixmystreet.com/report/7674959)
 
 <!-- fix_marker ends -->
