@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pot hole dangerous for 2 wheel vehicles, 8th June :- [7678601](https://www.fixmystreet.com/report/7678601)
 - Pothole close to 30 Strickland Road, 8th June :- [7678157](https://www.fixmystreet.com/report/7678157)
 - Pothole close to 30 Strickland Road, 8th June :- [7678125](https://www.fixmystreet.com/report/7678125)
 - Fly tipping, 8th June :- [7677949](https://www.fixmystreet.com/report/7677949)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Abandoned sign, 7th June :- [7675189](https://www.fixmystreet.com/report/7675189)
 - Verge and kerbs damaged, bollards in a dangerous condition, 7th June :- [7675169](https://www.fixmystreet.com/report/7675169)
 - Metal pole, 7th June :- [7675156](https://www.fixmystreet.com/report/7675156)
-- Sign damaged in car accident, 7th June :- [7675144](https://www.fixmystreet.com/report/7675144)
 
 <!-- fix_marker ends -->
