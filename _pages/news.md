@@ -12,10 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Travel warning as 11 day Severn Tunnel works start ([3 hours ago](https://www.bbc.com/news/articles/c5yk6z54e2zo))
-- Ex-footballer jailed and could trams return to city? ([3 hours ago](https://www.bbc.com/news/articles/cre90yyq33yo))
-- Arson probe after tent with dog inside set on fire ([19 hours ago](https://www.bbc.com/news/articles/cj42gp7n744o))
-- HGV driver caught rolling cigarette while on M5 ([22 hours ago](https://www.bbc.com/news/articles/cx2ekrky144o))
+- Travel warning as 11 day Severn Tunnel works start ([4 hours ago](https://www.bbc.com/news/articles/c5yk6z54e2zo))
+- Ex-footballer jailed and could trams return to city? ([4 hours ago](https://www.bbc.com/news/articles/cre90yyq33yo))
+- Arson probe after tent with dog inside set on fire ([20 hours ago](https://www.bbc.com/news/articles/cj42gp7n744o))
+- HGV driver caught rolling cigarette while on M5 ([23 hours ago](https://www.bbc.com/news/articles/cx2ekrky144o))
+- Cricketer's race against time to write autobiography ([23 hours ago](https://www.bbc.com/news/articles/cy4ke8xw5j7o))
 - Man ‘alarmed’ to find home included ‘without consent’ in 4000-house plan near M5 ([1 days ago](https://gloucesternewscentre.co.uk/man-alarmed-to-find-home-included-without-consent-in-4000-house-plan-near-m5/))
 - Thunderstorm warning kicks in for parts of England and Wales ([1 days ago](https://www.bbc.com/news/articles/cq851x1y9eqo))
 - Gloucestershire in Pictures: Cheesy does it ([1 days ago](https://www.bbc.com/news/articles/cj6rpwjk192o))
@@ -34,7 +35,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - 'At-risk' community theatre given grant by council ([2 days ago](https://www.bbc.com/news/articles/c2kq2d2e71zo))
 - Winner's cheese wheel served up to rough sleepers ([2 days ago](https://www.bbc.com/news/articles/cvg9z4l01ygo))
 - Skinny jabs linked to surprise pregnancies warning ([3 days ago](https://www.bbc.co.uk/sounds/play/p0lgh4cd))
-- 'I got used to having Freddie Mercury next door' ([3 days ago](https://www.bbc.com/news/articles/cp8ydj0kplyo))
 - Development consent granted for M5 Junction 10 Improvements Scheme ([3 days ago](https://gloucesternewscentre.co.uk/development-consent-granted-for-m5-junction-10-improvements-scheme/))
 - £25k cash boost for much-loved Cheltenham Playhouse ([4 days ago](https://gloucesternewscentre.co.uk/25k-cash-boost-for-much-loved-cheltenham-playhouse/))
 - £25k cash boost for much-loved Cheltenham Playhouse ([4 days ago](https://www.cheltenham.gov.uk/news/article/3017/25k_cash_boost_for_much-loved_cheltenham_playhouse))
@@ -64,6 +64,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Golden Valley social value promise will deliver real value to communities ([24 days ago](https://www.cheltenham.gov.uk/news/article/3011/golden_valley_social_value_promise_will_deliver_real_value_to_communities))
 - Upcoming grant and further support to help local business cut their carbon emissions ([25 days ago](https://www.cheltenham.gov.uk/news/article/3010/upcoming_grant_and_further_support_to_help_local_business_cut_their_carbon_emissions))
 - Does your parish council reflect your local area? ([25 days ago](https://www.cheltenham.gov.uk/news/article/3009/does_your_parish_council_reflect_your_local_area))
-- Cheltenham Mayor’s inauguration and medal of honour ([25 days ago](https://www.cheltenham.gov.uk/news/article/3008/cheltenham_mayors_inauguration_and_medal_of_honour))
+- Cheltenham Mayor’s inauguration and medal of honour ([26 days ago](https://www.cheltenham.gov.uk/news/article/3008/cheltenham_mayors_inauguration_and_medal_of_honour))
 
 <!-- news_marker ends -->
