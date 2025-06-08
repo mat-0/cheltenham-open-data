@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Over Grown branches, 8th June :- [7676497](https://www.fixmystreet.com/report/7676497)
+- Over grown Tree, 8th June :- [7676493](https://www.fixmystreet.com/report/7676493)
+- Bushes around trees are overgrown, 8th June :- [7676491](https://www.fixmystreet.com/report/7676491)
 - Small drain outside 39, 8th June :- [7676479](https://www.fixmystreet.com/report/7676479)
 - Wellbrook stream has been blocked for some time with debris accumulated along the stretch from Sunrise Avenue park, blocked heavily under the in the tunnel on sunrise avenue leading to Evesham Road with broken trees and heavy debris, 8th June :- [7676332](https://www.fixmystreet.com/report/7676332)
 - Willow tree is looking very overgrown with long branches hanging over into our garden and is we have been advised the tree is well overdue pollarding, 8th June :- [7676329](https://www.fixmystreet.com/report/7676329)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Pothole in the carriageway, 7th June :- [7674947](https://www.fixmystreet.com/report/7674947)
 - Big dip on tennyson road near shops, 7th June :- [7674930](https://www.fixmystreet.com/report/7674930)
 - Bollard has no reflective strip, 7th June :- [7674410](https://www.fixmystreet.com/report/7674410)
-- 9 Canning Road, 7th June :- [7674180](https://www.fixmystreet.com/report/7674180)
-- Abandoned roadworks on pavement, 7th June :- [7674119](https://www.fixmystreet.com/report/7674119)
-- Uneven paving slabs-trip hazard, 7th June :- [7673718](https://www.fixmystreet.com/report/7673718)
 
 <!-- fix_marker ends -->
