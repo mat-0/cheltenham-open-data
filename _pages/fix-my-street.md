@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- There is japanese knotweed in the highway verge., 9th June :- [7680286](https://www.fixmystreet.com/report/7680286)
+- Blocked drain, 9th June :- [7680158](https://www.fixmystreet.com/report/7680158)
 - Pedestrian crossing not operating, 8th June :- [7679534](https://www.fixmystreet.com/report/7679534)
 - Pothole around manhole cover, 8th June :- [7679233](https://www.fixmystreet.com/report/7679233)
 - Pot hole dangerous for 2 wheel vehicles, 8th June :- [7678601](https://www.fixmystreet.com/report/7678601)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Fly tipping, 8th June :- [7676321](https://www.fixmystreet.com/report/7676321)
 - Green light for crossing and road change green at the same time, 7th June :- [7675707](https://www.fixmystreet.com/report/7675707)
 - Blocked drain, 7th June :- [7675554](https://www.fixmystreet.com/report/7675554)
-- Water comes out of manhole cover when it rains, 7th June :- [7675410](https://www.fixmystreet.com/report/7675410)
-- Abandoned sign, 7th June :- [7675189](https://www.fixmystreet.com/report/7675189)
 
 <!-- fix_marker ends -->
