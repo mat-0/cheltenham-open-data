@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Markings clear but ignored daily, 9th June :- [7684110](https://www.fixmystreet.com/report/7684110)
+- 20 potholes in half mile of Park Lane, 9th June :- [7684010](https://www.fixmystreet.com/report/7684010)
 - Drain still blocked despite being told by GCC otherwise, 9th June :- [7683609](https://www.fixmystreet.com/report/7683609)
 - Overgrown tree causing obstruction on public path, 9th June :- [7683508](https://www.fixmystreet.com/report/7683508)
 - Japanese Knotweed in Road Verge along Stoke Orchard Road, 9th June :- [7682987](https://www.fixmystreet.com/report/7682987)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - There is japanese knotweed in the highway verge., 9th June :- [7680286](https://www.fixmystreet.com/report/7680286)
 - Blocked drain, 9th June :- [7680158](https://www.fixmystreet.com/report/7680158)
 - Pedestrian crossing not operating, 8th June :- [7679534](https://www.fixmystreet.com/report/7679534)
-- Pothole around manhole cover, 8th June :- [7679233](https://www.fixmystreet.com/report/7679233)
-- Pot hole dangerous for 2 wheel vehicles, 8th June :- [7678601](https://www.fixmystreet.com/report/7678601)
 
 <!-- fix_marker ends -->
