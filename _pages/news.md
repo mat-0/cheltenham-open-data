@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Decision due on new community and sports hub ([7 hours ago](https://www.bbc.com/news/articles/cy4k5kv0v2go))
-- Exhibition shines light on River Wye pollution ([12 hours ago](https://www.bbc.com/news/articles/c62814zl1q5o))
-- Travel warning as 11 day Severn Tunnel works start ([17 hours ago](https://www.bbc.com/news/articles/c5yk6z54e2zo))
-- Ex-footballer jailed and could trams return to city? ([17 hours ago](https://www.bbc.com/news/articles/cre90yyq33yo))
+- Decision due on new community and sports hub ([9 hours ago](https://www.bbc.com/news/articles/cy4k5kv0v2go))
+- Exhibition shines light on River Wye pollution ([13 hours ago](https://www.bbc.com/news/articles/c62814zl1q5o))
+- Travel warning as 11 day Severn Tunnel works start ([19 hours ago](https://www.bbc.com/news/articles/c5yk6z54e2zo))
+- Ex-footballer jailed and could trams return to city? ([19 hours ago](https://www.bbc.com/news/articles/cre90yyq33yo))
 - Arson probe after tent with dog inside set on fire ([1 days ago](https://www.bbc.com/news/articles/cj42gp7n744o))
 - HGV driver caught rolling cigarette while on M5 ([1 days ago](https://www.bbc.com/news/articles/cx2ekrky144o))
 - Cricketer's race against time to write autobiography ([1 days ago](https://www.bbc.com/news/articles/cy4ke8xw5j7o))
