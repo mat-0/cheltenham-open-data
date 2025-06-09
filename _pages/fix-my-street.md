@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Drain blocked causing flooding to business premise, 9th June :- [7682129](https://www.fixmystreet.com/report/7682129)
+- Unpermitted roadworks problem, 9th June :- [7682155](https://www.fixmystreet.com/report/7682155)
+- Previous utility repair subsidence across the carriageway, 9th June :- [7682035](https://www.fixmystreet.com/report/7682035)
 - Road surface section needs replacing, 9th June :- [7681752](https://www.fixmystreet.com/report/7681752)
 - Crack in pavement tarmac outside, 9th June :- [7681668](https://www.fixmystreet.com/report/7681668)
 - Tarmac and concrete surrounding drain damaged, 9th June :- [7681504](https://www.fixmystreet.com/report/7681504)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - The area of grass opposite 23 Planets Lane requires serious attention- it is extremely overgrown, messy and weeds everywhere, 8th June :- [7677834](https://www.fixmystreet.com/report/7677834)
 - Over Grown branches, 8th June :- [7676497](https://www.fixmystreet.com/report/7676497)
 - Over grown Tree, 8th June :- [7676493](https://www.fixmystreet.com/report/7676493)
-- Bushes around trees are overgrown, 8th June :- [7676491](https://www.fixmystreet.com/report/7676491)
-- Small drain outside 39, 8th June :- [7676479](https://www.fixmystreet.com/report/7676479)
-- Wellbrook stream has been blocked for some time with debris accumulated along the stretch from Sunrise Avenue park, blocked heavily under the in the tunnel on sunrise avenue leading to Evesham Road with broken trees and heavy debris, 8th June :- [7676332](https://www.fixmystreet.com/report/7676332)
 
 <!-- fix_marker ends -->
