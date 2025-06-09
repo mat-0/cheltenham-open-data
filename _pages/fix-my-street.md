@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Overgrown tree causing obstruction on public path, 9th June :- [7683508](https://www.fixmystreet.com/report/7683508)
+- Japanese Knotweed in Road Verge along Stoke Orchard Road, 9th June :- [7682987](https://www.fixmystreet.com/report/7682987)
 - Japanese Knotweed in several locations on Stoke Orchard Road, 9th June :- [7682965](https://www.fixmystreet.com/report/7682965)
 - Tree branches too low, 9th June :- [7682951](https://www.fixmystreet.com/report/7682951)
 - Abandoned Tesco trolley, 9th June :- [7682793](https://www.fixmystreet.com/report/7682793)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Pothole around manhole cover, 8th June :- [7679233](https://www.fixmystreet.com/report/7679233)
 - Pot hole dangerous for 2 wheel vehicles, 8th June :- [7678601](https://www.fixmystreet.com/report/7678601)
 - Pothole close to 30 Strickland Road, 8th June :- [7678157](https://www.fixmystreet.com/report/7678157)
-- Pothole close to 30 Strickland Road, 8th June :- [7678125](https://www.fixmystreet.com/report/7678125)
-- Fly tipping, 8th June :- [7677949](https://www.fixmystreet.com/report/7677949)
 
 <!-- fix_marker ends -->
