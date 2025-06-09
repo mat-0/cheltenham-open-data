@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Drain still blocked despite being told by GCC otherwise, 9th June :- [7683609](https://www.fixmystreet.com/report/7683609)
 - Overgrown tree causing obstruction on public path, 9th June :- [7683508](https://www.fixmystreet.com/report/7683508)
 - Japanese Knotweed in Road Verge along Stoke Orchard Road, 9th June :- [7682987](https://www.fixmystreet.com/report/7682987)
 - Japanese Knotweed in several locations on Stoke Orchard Road, 9th June :- [7682965](https://www.fixmystreet.com/report/7682965)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Pedestrian crossing not operating, 8th June :- [7679534](https://www.fixmystreet.com/report/7679534)
 - Pothole around manhole cover, 8th June :- [7679233](https://www.fixmystreet.com/report/7679233)
 - Pot hole dangerous for 2 wheel vehicles, 8th June :- [7678601](https://www.fixmystreet.com/report/7678601)
-- Pothole close to 30 Strickland Road, 8th June :- [7678157](https://www.fixmystreet.com/report/7678157)
 
 <!-- fix_marker ends -->

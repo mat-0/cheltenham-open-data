@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Monday, 09 June 2025
 
-- The average temperature today is 18.25˚C,
-- With highs of 19.73˚C and lows of 17.61˚C,
-- It may feel like 17.57˚C with scattered clouds
-- The wind speed is 4.02m/s and visibility is 8000m
-- The pressure is 1020hPa and humidity is 55%
+- The average temperature today is 18.17˚C,
+- With highs of 19.43˚C and lows of 17.19˚C,
+- It may feel like 17.5˚C with scattered clouds
+- The wind speed is 4.92m/s and visibility is 10000m
+- The pressure is 1019hPa and humidity is 56%
 - The sun will rise at 03:49 and set at 20:25
 
 <!-- weather_marker ends -->
