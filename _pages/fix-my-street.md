@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 3 huge potholes with 10 yds., 9th June :- [7680922](https://www.fixmystreet.com/report/7680922)
 - There is japanese knotweed in the highway verge., 9th June :- [7680286](https://www.fixmystreet.com/report/7680286)
 - Blocked drain, 9th June :- [7680158](https://www.fixmystreet.com/report/7680158)
 - Pedestrian crossing not operating, 8th June :- [7679534](https://www.fixmystreet.com/report/7679534)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Willow tree is looking very overgrown with long branches hanging over into our garden and is we have been advised the tree is well overdue pollarding, 8th June :- [7676329](https://www.fixmystreet.com/report/7676329)
 - Fly tipping, 8th June :- [7676321](https://www.fixmystreet.com/report/7676321)
 - Green light for crossing and road change green at the same time, 7th June :- [7675707](https://www.fixmystreet.com/report/7675707)
-- Blocked drain, 7th June :- [7675554](https://www.fixmystreet.com/report/7675554)
 
 <!-- fix_marker ends -->
