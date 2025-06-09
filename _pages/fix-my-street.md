@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- A long line of multiple potholes, 9th June :- [7685018](https://www.fixmystreet.com/report/7685018)
 - Large tree obscuring street light, 9th June :- [7684638](https://www.fixmystreet.com/report/7684638)
 - Markings clear but ignored daily, 9th June :- [7684110](https://www.fixmystreet.com/report/7684110)
 - 20 potholes in half mile of Park Lane, 9th June :- [7684010](https://www.fixmystreet.com/report/7684010)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Tarmac and concrete surrounding drain damaged, 9th June :- [7681504](https://www.fixmystreet.com/report/7681504)
 - 3 huge potholes with 10 yds., 9th June :- [7680922](https://www.fixmystreet.com/report/7680922)
 - There is japanese knotweed in the highway verge., 9th June :- [7680286](https://www.fixmystreet.com/report/7680286)
-- Blocked drain, 9th June :- [7680158](https://www.fixmystreet.com/report/7680158)
 
 <!-- fix_marker ends -->
