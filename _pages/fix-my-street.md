@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Japanese Knotweed in several locations on Stoke Orchard Road, 9th June :- [7682965](https://www.fixmystreet.com/report/7682965)
+- Tree branches too low, 9th June :- [7682951](https://www.fixmystreet.com/report/7682951)
+- Abandoned Tesco trolley, 9th June :- [7682793](https://www.fixmystreet.com/report/7682793)
 - Trees overhanging shared footpath / cycleway, 9th June :- [7682776](https://www.fixmystreet.com/report/7682776)
 - Surface is damaged problem, 9th June :- [7682396](https://www.fixmystreet.com/report/7682396)
 - Drain blocked causing flooding to business premise, 9th June :- [7682129](https://www.fixmystreet.com/report/7682129)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Pothole close to 30 Strickland Road, 8th June :- [7678157](https://www.fixmystreet.com/report/7678157)
 - Pothole close to 30 Strickland Road, 8th June :- [7678125](https://www.fixmystreet.com/report/7678125)
 - Fly tipping, 8th June :- [7677949](https://www.fixmystreet.com/report/7677949)
-- 2 foot long pot hole, 8th June :- [7677890](https://www.fixmystreet.com/report/7677890)
-- Overgrown grass, 8th June :- [7677842](https://www.fixmystreet.com/report/7677842)
-- The area of grass opposite 23 Planets Lane requires serious attention- it is extremely overgrown, messy and weeds everywhere, 8th June :- [7677834](https://www.fixmystreet.com/report/7677834)
 
 <!-- fix_marker ends -->
