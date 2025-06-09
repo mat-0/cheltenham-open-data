@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Road surface section needs replacing, 9th June :- [7681752](https://www.fixmystreet.com/report/7681752)
+- Crack in pavement tarmac outside, 9th June :- [7681668](https://www.fixmystreet.com/report/7681668)
+- Tarmac and concrete surrounding drain damaged, 9th June :- [7681504](https://www.fixmystreet.com/report/7681504)
 - 3 huge potholes with 10 yds., 9th June :- [7680922](https://www.fixmystreet.com/report/7680922)
 - There is japanese knotweed in the highway verge., 9th June :- [7680286](https://www.fixmystreet.com/report/7680286)
 - Blocked drain, 9th June :- [7680158](https://www.fixmystreet.com/report/7680158)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Bushes around trees are overgrown, 8th June :- [7676491](https://www.fixmystreet.com/report/7676491)
 - Small drain outside 39, 8th June :- [7676479](https://www.fixmystreet.com/report/7676479)
 - Wellbrook stream has been blocked for some time with debris accumulated along the stretch from Sunrise Avenue park, blocked heavily under the in the tunnel on sunrise avenue leading to Evesham Road with broken trees and heavy debris, 8th June :- [7676332](https://www.fixmystreet.com/report/7676332)
-- Willow tree is looking very overgrown with long branches hanging over into our garden and is we have been advised the tree is well overdue pollarding, 8th June :- [7676329](https://www.fixmystreet.com/report/7676329)
-- Fly tipping, 8th June :- [7676321](https://www.fixmystreet.com/report/7676321)
-- Green light for crossing and road change green at the same time, 7th June :- [7675707](https://www.fixmystreet.com/report/7675707)
 
 <!-- fix_marker ends -->

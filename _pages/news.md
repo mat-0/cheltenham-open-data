@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Nuclear power stations and Robbie Williams ([39 minutes ago](https://www.bbc.com/news/articles/cy4ekkyej0ko))
-- Roadworks warning as slip road to close for months ([4 hours ago](https://www.bbc.com/news/articles/c308j6d7ngno))
-- Decision due on new community and sports hub ([17 hours ago](https://www.bbc.com/news/articles/cy4k5kv0v2go))
-- Exhibition shines light on River Wye pollution ([22 hours ago](https://www.bbc.com/news/articles/c62814zl1q5o))
+- Nuclear power stations and Robbie Williams ([1 hours ago](https://www.bbc.com/news/articles/cy4ekkyej0ko))
+- Roadworks warning as slip road to close for months ([5 hours ago](https://www.bbc.com/news/articles/c308j6d7ngno))
+- Decision due on new community and sports hub ([18 hours ago](https://www.bbc.com/news/articles/cy4k5kv0v2go))
+- Exhibition shines light on River Wye pollution ([23 hours ago](https://www.bbc.com/news/articles/c62814zl1q5o))
 - Travel warning as 11 day Severn Tunnel works start ([1 days ago](https://www.bbc.com/news/articles/c5yk6z54e2zo))
 - Ex-footballer jailed and could trams return to city? ([1 days ago](https://www.bbc.com/news/articles/cre90yyq33yo))
 - Arson probe after tent with dog inside set on fire ([1 days ago](https://www.bbc.com/news/articles/cj42gp7n744o))
@@ -65,6 +65,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Golden Valley social value promise will deliver real value to communities ([25 days ago](https://www.cheltenham.gov.uk/news/article/3011/golden_valley_social_value_promise_will_deliver_real_value_to_communities))
 - Upcoming grant and further support to help local business cut their carbon emissions ([26 days ago](https://www.cheltenham.gov.uk/news/article/3010/upcoming_grant_and_further_support_to_help_local_business_cut_their_carbon_emissions))
 - Does your parish council reflect your local area? ([26 days ago](https://www.cheltenham.gov.uk/news/article/3009/does_your_parish_council_reflect_your_local_area))
-- Cheltenham Mayor’s inauguration and medal of honour ([26 days ago](https://www.cheltenham.gov.uk/news/article/3008/cheltenham_mayors_inauguration_and_medal_of_honour))
+- Cheltenham Mayor’s inauguration and medal of honour ([27 days ago](https://www.cheltenham.gov.uk/news/article/3008/cheltenham_mayors_inauguration_and_medal_of_honour))
 
 <!-- news_marker ends -->
