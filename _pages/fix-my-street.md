@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Trees overhanging shared footpath / cycleway, 9th June :- [7682776](https://www.fixmystreet.com/report/7682776)
+- Surface is damaged problem, 9th June :- [7682396](https://www.fixmystreet.com/report/7682396)
 - Drain blocked causing flooding to business premise, 9th June :- [7682129](https://www.fixmystreet.com/report/7682129)
 - Unpermitted roadworks problem, 9th June :- [7682155](https://www.fixmystreet.com/report/7682155)
 - Previous utility repair subsidence across the carriageway, 9th June :- [7682035](https://www.fixmystreet.com/report/7682035)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - 2 foot long pot hole, 8th June :- [7677890](https://www.fixmystreet.com/report/7677890)
 - Overgrown grass, 8th June :- [7677842](https://www.fixmystreet.com/report/7677842)
 - The area of grass opposite 23 Planets Lane requires serious attention- it is extremely overgrown, messy and weeds everywhere, 8th June :- [7677834](https://www.fixmystreet.com/report/7677834)
-- Over Grown branches, 8th June :- [7676497](https://www.fixmystreet.com/report/7676497)
-- Over grown Tree, 8th June :- [7676493](https://www.fixmystreet.com/report/7676493)
 
 <!-- fix_marker ends -->
