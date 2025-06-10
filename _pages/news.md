@@ -12,15 +12,15 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- HMS Bristol to be scrapped and atheist employment row ([25 minutes ago](https://www.bbc.com/news/articles/c93lv9zr5ppo))
-- Opportunity to give town's last tram a new life ([4 hours ago](https://www.bbc.com/news/articles/c80km7j1131o))
-- 'Impossible' to get driving tests, say learners ([4 hours ago](https://www.bbc.com/news/articles/c8jgndjnlmvo))
-- Energy boss' claim against publisher thrown out ([17 hours ago](https://www.bbc.com/news/articles/c9918ek3y4go))
-- School cannot take sacked teacher to Supreme Court ([18 hours ago](https://www.bbc.com/news/articles/cn7zn077nd4o))
-- Shire Hall Lib Dems urged to reopen Cheltenham’s Swindon Road tip ([18 hours ago](https://gloucesternewscentre.co.uk/shire-hall-lib-dems-urged-to-reopen-cheltenhams-swindon-road-tip/))
-- Funding for Cheltenham sports community hub set for approval ([18 hours ago](https://gloucesternewscentre.co.uk/funding-for-cheltenham-sports-community-hub-set-for-approval/))
-- Four penguin chicks hatch after breeding success ([19 hours ago](https://www.bbc.com/news/articles/ce39qxx818jo))
-- 'Urban greening strategy' to phase out weed killer ([21 hours ago](https://www.bbc.com/news/articles/c201jv8v311o))
+- HMS Bristol to be scrapped and atheist employment row ([1 hours ago](https://www.bbc.com/news/articles/c93lv9zr5ppo))
+- Opportunity to give town's last tram a new life ([5 hours ago](https://www.bbc.com/news/articles/c80km7j1131o))
+- 'Impossible' to get driving tests, say learners ([5 hours ago](https://www.bbc.com/news/articles/c8jgndjnlmvo))
+- Energy boss' claim against publisher thrown out ([18 hours ago](https://www.bbc.com/news/articles/c9918ek3y4go))
+- School cannot take sacked teacher to Supreme Court ([19 hours ago](https://www.bbc.com/news/articles/cn7zn077nd4o))
+- Shire Hall Lib Dems urged to reopen Cheltenham’s Swindon Road tip ([19 hours ago](https://gloucesternewscentre.co.uk/shire-hall-lib-dems-urged-to-reopen-cheltenhams-swindon-road-tip/))
+- Funding for Cheltenham sports community hub set for approval ([19 hours ago](https://gloucesternewscentre.co.uk/funding-for-cheltenham-sports-community-hub-set-for-approval/))
+- Four penguin chicks hatch after breeding success ([20 hours ago](https://www.bbc.com/news/articles/ce39qxx818jo))
+- 'Urban greening strategy' to phase out weed killer ([22 hours ago](https://www.bbc.com/news/articles/c201jv8v311o))
 - Nuclear power stations and Robbie Williams ([1 days ago](https://www.bbc.com/news/articles/cy4ekkyej0ko))
 - Roadworks warning as slip road to close for months ([1 days ago](https://www.bbc.com/news/articles/c308j6d7ngno))
 - Decision due on new community and sports hub ([1 days ago](https://www.bbc.com/news/articles/cy4k5kv0v2go))
@@ -65,6 +65,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Golden Valley social value promise will deliver real value to communities ([26 days ago](https://www.cheltenham.gov.uk/news/article/3011/golden_valley_social_value_promise_will_deliver_real_value_to_communities))
 - Upcoming grant and further support to help local business cut their carbon emissions ([27 days ago](https://www.cheltenham.gov.uk/news/article/3010/upcoming_grant_and_further_support_to_help_local_business_cut_their_carbon_emissions))
 - Does your parish council reflect your local area? ([27 days ago](https://www.cheltenham.gov.uk/news/article/3009/does_your_parish_council_reflect_your_local_area))
-- Cheltenham Mayor’s inauguration and medal of honour ([27 days ago](https://www.cheltenham.gov.uk/news/article/3008/cheltenham_mayors_inauguration_and_medal_of_honour))
+- Cheltenham Mayor’s inauguration and medal of honour ([28 days ago](https://www.cheltenham.gov.uk/news/article/3008/cheltenham_mayors_inauguration_and_medal_of_honour))
 
 <!-- news_marker ends -->

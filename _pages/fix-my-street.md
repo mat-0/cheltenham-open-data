@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Hardly any road surface left, 10th June :- [7687478](https://www.fixmystreet.com/report/7687478)
+- Mercedes A class abandoned, 10th June :- [7687308](https://www.fixmystreet.com/report/7687308)
 - Flytipped Furniture, 10th June :- [7687139](https://www.fixmystreet.com/report/7687139)
 - Flytipping Cam Road, Cheltenham, 10th June :- [7686872](https://www.fixmystreet.com/report/7686872)
 - Overgrown trees off Bicks lane obscuring view, 10th June :- [7686487](https://www.fixmystreet.com/report/7686487)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Abandoned Tesco trolley, 9th June :- [7682793](https://www.fixmystreet.com/report/7682793)
 - Trees overhanging shared footpath / cycleway, 9th June :- [7682776](https://www.fixmystreet.com/report/7682776)
 - Surface is damaged problem, 9th June :- [7682396](https://www.fixmystreet.com/report/7682396)
-- Drain blocked causing flooding to business premise, 9th June :- [7682129](https://www.fixmystreet.com/report/7682129)
-- Unpermitted roadworks problem, 9th June :- [7682155](https://www.fixmystreet.com/report/7682155)
 
 <!-- fix_marker ends -->
