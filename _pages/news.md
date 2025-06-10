@@ -13,12 +13,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
 - Energy boss' claim against publisher thrown out ([10 hours ago](https://www.bbc.com/news/articles/c9918ek3y4go))
-- School cannot take sacked teacher to Supreme Court ([10 hours ago](https://www.bbc.com/news/articles/cn7zn077nd4o))
-- Shire Hall Lib Dems urged to reopen Cheltenham’s Swindon Road tip ([10 hours ago](https://gloucesternewscentre.co.uk/shire-hall-lib-dems-urged-to-reopen-cheltenhams-swindon-road-tip/))
+- School cannot take sacked teacher to Supreme Court ([11 hours ago](https://www.bbc.com/news/articles/cn7zn077nd4o))
+- Shire Hall Lib Dems urged to reopen Cheltenham’s Swindon Road tip ([11 hours ago](https://gloucesternewscentre.co.uk/shire-hall-lib-dems-urged-to-reopen-cheltenhams-swindon-road-tip/))
 - Funding for Cheltenham sports community hub set for approval ([11 hours ago](https://gloucesternewscentre.co.uk/funding-for-cheltenham-sports-community-hub-set-for-approval/))
-- Four penguin chicks hatch after breeding success ([11 hours ago](https://www.bbc.com/news/articles/ce39qxx818jo))
-- 'Urban greening strategy' to phase out weed killer ([14 hours ago](https://www.bbc.com/news/articles/c201jv8v311o))
-- Nuclear power stations and Robbie Williams ([17 hours ago](https://www.bbc.com/news/articles/cy4ekkyej0ko))
+- Four penguin chicks hatch after breeding success ([12 hours ago](https://www.bbc.com/news/articles/ce39qxx818jo))
+- 'Urban greening strategy' to phase out weed killer ([15 hours ago](https://www.bbc.com/news/articles/c201jv8v311o))
+- Nuclear power stations and Robbie Williams ([18 hours ago](https://www.bbc.com/news/articles/cy4ekkyej0ko))
 - Roadworks warning as slip road to close for months ([21 hours ago](https://www.bbc.com/news/articles/c308j6d7ngno))
 - Decision due on new community and sports hub ([1 days ago](https://www.bbc.com/news/articles/cy4k5kv0v2go))
 - Exhibition shines light on River Wye pollution ([1 days ago](https://www.bbc.com/news/articles/c62814zl1q5o))
