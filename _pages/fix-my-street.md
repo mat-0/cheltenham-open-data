@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Traffic lights problem, 10th June :- [7691353](https://www.fixmystreet.com/report/7691353)
 - Overhanging tree, obstructing window/view from sunlight, 10th June :- [7690834](https://www.fixmystreet.com/report/7690834)
 - Potholes covering the whole width of the road entrance, 10th June :- [7690805](https://www.fixmystreet.com/report/7690805)
 - Large potholes/drop in height entering car park, 10th June :- [7690718](https://www.fixmystreet.com/report/7690718)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Hardly any road surface left, 10th June :- [7687478](https://www.fixmystreet.com/report/7687478)
 - Mercedes A class abandoned, 10th June :- [7687308](https://www.fixmystreet.com/report/7687308)
 - Flytipped Furniture, 10th June :- [7687139](https://www.fixmystreet.com/report/7687139)
-- Flytipping Cam Road, Cheltenham, 10th June :- [7686872](https://www.fixmystreet.com/report/7686872)
 
 <!-- fix_marker ends -->
