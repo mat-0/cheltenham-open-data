@@ -9,7 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipped Furniture, 10th June :- [7687139](https://www.fixmystreet.com/report/7687139)
+- Flytipping Cam Road, Cheltenham, 10th June :- [7686872](https://www.fixmystreet.com/report/7686872)
 - Overgrown trees off Bicks lane obscuring view, 10th June :- [7686487](https://www.fixmystreet.com/report/7686487)
+- Green or amber traffic light is not working problem, 10th June :- [7686676](https://www.fixmystreet.com/report/7686676)
 - Barriers and signs for works left at site since January, 10th June :- [7686400](https://www.fixmystreet.com/report/7686400)
 - A Signs or barriers left behind by contractor problem has been found, 10th June :- [7686366](https://www.fixmystreet.com/report/7686366)
 - A long line of multiple potholes, 9th June :- [7685018](https://www.fixmystreet.com/report/7685018)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Surface is damaged problem, 9th June :- [7682396](https://www.fixmystreet.com/report/7682396)
 - Drain blocked causing flooding to business premise, 9th June :- [7682129](https://www.fixmystreet.com/report/7682129)
 - Unpermitted roadworks problem, 9th June :- [7682155](https://www.fixmystreet.com/report/7682155)
-- Previous utility repair subsidence across the carriageway, 9th June :- [7682035](https://www.fixmystreet.com/report/7682035)
-- Road surface section needs replacing, 9th June :- [7681752](https://www.fixmystreet.com/report/7681752)
-- Crack in pavement tarmac outside, 9th June :- [7681668](https://www.fixmystreet.com/report/7681668)
 
 <!-- fix_marker ends -->
