@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Rotating cone on pole 2 is missing., 10th June :- [7688953](https://www.fixmystreet.com/report/7688953)
+- Several dead branches on silver birch, 10th June :- [7688945](https://www.fixmystreet.com/report/7688945)
 - The cover marked PO outside 15 Tensing Road has sunk and the tarmac has crumbled..very unstable and dips if you step on the corner, 10th June :- [7688825](https://www.fixmystreet.com/report/7688825)
 - Dead branch in tree and branch around cable, 10th June :- [7688515](https://www.fixmystreet.com/report/7688515)
 - Road surface disintegrating, 10th June :- [7688450](https://www.fixmystreet.com/report/7688450)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - A Signs or barriers left behind by contractor problem has been found, 10th June :- [7686366](https://www.fixmystreet.com/report/7686366)
 - A long line of multiple potholes, 9th June :- [7685018](https://www.fixmystreet.com/report/7685018)
 - Large tree obscuring street light, 9th June :- [7684638](https://www.fixmystreet.com/report/7684638)
-- Markings clear but ignored daily, 9th June :- [7684110](https://www.fixmystreet.com/report/7684110)
-- 20 potholes in half mile of Park Lane, 9th June :- [7684010](https://www.fixmystreet.com/report/7684010)
 
 <!-- fix_marker ends -->
