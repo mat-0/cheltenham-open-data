@@ -1,81 +1,17 @@
 {
-  "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
-  "meta": {
-    "publisher": "Environment Agency",
-    "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-    "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
-    "version": "0.9",
-    "comment": "Status: Beta service",
-    "hasFormat": [
-      "http://environment.data.gov.uk/flood-monitoring/id/floods.csv",
-      "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf",
-      "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl",
-      "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
-    ]
-  },
-  "items": [
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WAFUW",
-      "description": "Upper River Wyre, Brock",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFUW",
-        "county": "Lancashire",
-        "notation": "012WAFUW",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFUW/polygon",
-        "riverOrSea": "River Wyre"
-      },
-      "floodAreaID": "012WAFUW",
-      "isTidal": false,
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain.\nWeather conditions are expected to improve throughout the morning and no further flooding is expected.\nThere may still be some areas where flood water is present until it can naturally drain away.\nStay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-06-10T09:30:00",
-      "timeRaised": "2025-06-10T09:30:26",
-      "timeSeverityChanged": "2025-06-10T09:30:00"
+    "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
+    "meta": {
+        "publisher": "Environment Agency",
+        "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
+        "version": "0.9",
+        "comment": "Status: Beta service",
+        "hasFormat": [
+            "http://environment.data.gov.uk/flood-monitoring/id/floods.csv?county=Gloucestershire",
+            "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf?county=Gloucestershire",
+            "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl?county=Gloucestershire",
+            "http://environment.data.gov.uk/flood-monitoring/id/floods.html?county=Gloucestershire"
+        ]
     },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WAFLW",
-      "description": "Lower River Wyre",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFLW",
-        "county": "Blackpool, Lancashire",
-        "notation": "012WAFLW",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFLW/polygon",
-        "riverOrSea": "River Wyre, Main Dyke"
-      },
-      "floodAreaID": "012WAFLW",
-      "isTidal": false,
-      "message": "High river levels throughout the morning may lead to flooding.\nFlooding is forecast to affect locations near the River Wyre, with low lying land and roads expected to be most affected, particularly around River Wyre, River Cocker, Pilling Water and other watercourses from Catterall to Fleetwood, including St Michaels and Great Eccleston and Preesall.\nWeather conditions are expected to improve throughout the afternoon and no further flooding is expected.\nTake care and avoid walking, cycling or driving through flood water.\nPlease do not drive through floodwater as bow waves may affect adjacent properties.\nThis message will be updated by 17:30 PM on 10/06/2025, or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-06-10T09:44:00",
-      "timeRaised": "2025-06-10T09:44:46",
-      "timeSeverityChanged": "2025-06-09T21:47:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WAFUR",
-      "description": "Upper River Ribble, Hodder",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFUR",
-        "county": "Lancashire, North Yorkshire",
-        "notation": "012WAFUR",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFUR/polygon",
-        "riverOrSea": "River Ribble"
-      },
-      "floodAreaID": "012WAFUR",
-      "isTidal": false,
-      "message": "High river levels throughout the morning may lead to flooding. Flooding is possible when river levels are at their highest from 5:00 AM on 10/06/2025.\nFlooding is forecast to affect locations near the River Ribble, River Hodder, with low lying land and roads expected to be most affected, particularly around Rivers Ribble, Hodder and other watercourses, from Settle to Samlesbury including Clitheroe, Gisburn, Sawley, Waddington and Ribchester.\nWeather conditions are expected to improve tomorrow afternoon and no further flooding is expected.\nTake care and avoid walking, cycling or driving through flood water.\nMonitor local water levels and weather conditions.\nPlease do not drive through floodwater as bow waves may affect adjacent properties.\nThis message will be updated by 17:30 PM on 10/06/2025, or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-06-10T10:02:00",
-      "timeRaised": "2025-06-10T10:02:31",
-      "timeSeverityChanged": "2025-06-09T21:01:00"
-    }
-  ]
+    "items": []
 }
