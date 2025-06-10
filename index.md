@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Tuesday, 10 June 2025
 
-- The average temperature today is 19.37˚C,
-- With highs of 19.75˚C and lows of 18.71˚C,
-- It may feel like 19.01˚C with broken clouds
-- The wind speed is 4.12m/s and visibility is 10000m
-- The pressure is 1017hPa and humidity is 63%
+- The average temperature today is 19.96˚C,
+- With highs of 20.4˚C and lows of 19.26˚C,
+- It may feel like 19.58˚C with scattered clouds
+- The wind speed is 4.63m/s and visibility is 10000m
+- The pressure is 1017hPa and humidity is 60%
 - The sun will rise at 03:49 and set at 20:26
 
 <!-- weather_marker ends -->

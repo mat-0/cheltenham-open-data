@@ -9,8 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The cover marked PO outside 15 Tensing Road has sunk and the tarmac has crumbled..very unstable and dips if you step on the corner, 10th June :- [7688825](https://www.fixmystreet.com/report/7688825)
+- Dead branch in tree and branch around cable, 10th June :- [7688515](https://www.fixmystreet.com/report/7688515)
+- Road surface disintegrating, 10th June :- [7688450](https://www.fixmystreet.com/report/7688450)
+- Broken branch overhanging A46 and causing obstruction, 10th June :- [7688303](https://www.fixmystreet.com/report/7688303)
 - Tarmac been warn away from vehicles continuously turning in this close., 10th June :- [7688222](https://www.fixmystreet.com/report/7688222)
 - Barriers left behind, 10th June :- [7688196](https://www.fixmystreet.com/report/7688196)
+- A pothole in road problem, 10th June :- [7688550](https://www.fixmystreet.com/report/7688550)
 - Grass verges not cit, 10th June :- [7687942](https://www.fixmystreet.com/report/7687942)
 - Hardly any road surface left, 10th June :- [7687478](https://www.fixmystreet.com/report/7687478)
 - Mercedes A class abandoned, 10th June :- [7687308](https://www.fixmystreet.com/report/7687308)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Large tree obscuring street light, 9th June :- [7684638](https://www.fixmystreet.com/report/7684638)
 - Markings clear but ignored daily, 9th June :- [7684110](https://www.fixmystreet.com/report/7684110)
 - 20 potholes in half mile of Park Lane, 9th June :- [7684010](https://www.fixmystreet.com/report/7684010)
-- Drain still blocked despite being told by GCC otherwise, 9th June :- [7683609](https://www.fixmystreet.com/report/7683609)
-- Overgrown tree causing obstruction on public path, 9th June :- [7683508](https://www.fixmystreet.com/report/7683508)
-- Japanese Knotweed in Road Verge along Stoke Orchard Road, 9th June :- [7682987](https://www.fixmystreet.com/report/7682987)
-- Japanese Knotweed in several locations on Stoke Orchard Road, 9th June :- [7682965](https://www.fixmystreet.com/report/7682965)
-- Tree branches too low, 9th June :- [7682951](https://www.fixmystreet.com/report/7682951)
 
 <!-- fix_marker ends -->
