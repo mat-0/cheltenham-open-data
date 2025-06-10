@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Overgrown trees off Bicks lane obscuring view, 10th June :- [7686487](https://www.fixmystreet.com/report/7686487)
+- Barriers and signs for works left at site since January, 10th June :- [7686400](https://www.fixmystreet.com/report/7686400)
+- A Signs or barriers left behind by contractor problem has been found, 10th June :- [7686366](https://www.fixmystreet.com/report/7686366)
 - A long line of multiple potholes, 9th June :- [7685018](https://www.fixmystreet.com/report/7685018)
 - Large tree obscuring street light, 9th June :- [7684638](https://www.fixmystreet.com/report/7684638)
 - Markings clear but ignored daily, 9th June :- [7684110](https://www.fixmystreet.com/report/7684110)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Previous utility repair subsidence across the carriageway, 9th June :- [7682035](https://www.fixmystreet.com/report/7682035)
 - Road surface section needs replacing, 9th June :- [7681752](https://www.fixmystreet.com/report/7681752)
 - Crack in pavement tarmac outside, 9th June :- [7681668](https://www.fixmystreet.com/report/7681668)
-- Tarmac and concrete surrounding drain damaged, 9th June :- [7681504](https://www.fixmystreet.com/report/7681504)
-- 3 huge potholes with 10 yds., 9th June :- [7680922](https://www.fixmystreet.com/report/7680922)
-- There is japanese knotweed in the highway verge., 9th June :- [7680286](https://www.fixmystreet.com/report/7680286)
 
 <!-- fix_marker ends -->
