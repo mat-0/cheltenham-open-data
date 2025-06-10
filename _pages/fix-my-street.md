@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Overhanging tree, obstructing window/view from sunlight, 10th June :- [7690834](https://www.fixmystreet.com/report/7690834)
+- Potholes covering the whole width of the road entrance, 10th June :- [7690805](https://www.fixmystreet.com/report/7690805)
+- Large potholes/drop in height entering car park, 10th June :- [7690718](https://www.fixmystreet.com/report/7690718)
 - 4xcars dumped on concrete apron on right side of Cam road and tree branches cut from tree outside 139 Cromwell road dumped by the car's, 10th June :- [7690070](https://www.fixmystreet.com/report/7690070)
 - Aggressive neighbour blocking the road to prevent others parking outside her house and duct taping notes on cars in the area, 10th June :- [7689343](https://www.fixmystreet.com/report/7689343)
 - Unpermitted roadworks problem, 10th June :- [7689374](https://www.fixmystreet.com/report/7689374)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Mercedes A class abandoned, 10th June :- [7687308](https://www.fixmystreet.com/report/7687308)
 - Flytipped Furniture, 10th June :- [7687139](https://www.fixmystreet.com/report/7687139)
 - Flytipping Cam Road, Cheltenham, 10th June :- [7686872](https://www.fixmystreet.com/report/7686872)
-- Overgrown trees off Bicks lane obscuring view, 10th June :- [7686487](https://www.fixmystreet.com/report/7686487)
-- Green or amber traffic light is not working problem, 10th June :- [7686676](https://www.fixmystreet.com/report/7686676)
-- Barriers and signs for works left at site since January, 10th June :- [7686400](https://www.fixmystreet.com/report/7686400)
 
 <!-- fix_marker ends -->
