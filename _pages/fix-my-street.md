@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Aggressive neighbour blocking the road to prevent others parking outside her house and duct taping notes on cars in the area, 10th June :- [7689343](https://www.fixmystreet.com/report/7689343)
+- Unpermitted roadworks problem, 10th June :- [7689374](https://www.fixmystreet.com/report/7689374)
 - Rotating cone on pole 2 is missing., 10th June :- [7688953](https://www.fixmystreet.com/report/7688953)
 - Several dead branches on silver birch, 10th June :- [7688945](https://www.fixmystreet.com/report/7688945)
 - The cover marked PO outside 15 Tensing Road has sunk and the tarmac has crumbled..very unstable and dips if you step on the corner, 10th June :- [7688825](https://www.fixmystreet.com/report/7688825)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Green or amber traffic light is not working problem, 10th June :- [7686676](https://www.fixmystreet.com/report/7686676)
 - Barriers and signs for works left at site since January, 10th June :- [7686400](https://www.fixmystreet.com/report/7686400)
 - A Signs or barriers left behind by contractor problem has been found, 10th June :- [7686366](https://www.fixmystreet.com/report/7686366)
-- A long line of multiple potholes, 9th June :- [7685018](https://www.fixmystreet.com/report/7685018)
-- Large tree obscuring street light, 9th June :- [7684638](https://www.fixmystreet.com/report/7684638)
 
 <!-- fix_marker ends -->
