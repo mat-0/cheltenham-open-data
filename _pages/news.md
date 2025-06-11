@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Fundraising campaign seeks £200k to buy fields ([5 hours ago](https://www.bbc.com/news/articles/c365lx9x187o))
-- The school sport no longer just for a rainy day ([5 hours ago](https://www.bbc.com/news/articles/clygej1emezo))
-- Hospice grounds in full bloom for popular open gardens event ([19 hours ago](https://gloucesternewscentre.co.uk/hospice-grounds-in-full-bloom-for-popular-open-gardens-event/))
-- Pool reopens after community fundraising effort ([20 hours ago](https://www.bbc.com/news/articles/cg5vl5zvp69o))
-- Frustration grows as town's sewer works continue ([21 hours ago](https://www.bbc.com/news/articles/c5yq58qpgd7o))
-- Car boot sale reopening date announced ([23 hours ago](https://www.bbc.com/news/articles/c3v54dgvq6go))
+- Fundraising campaign seeks £200k to buy fields ([6 hours ago](https://www.bbc.com/news/articles/c365lx9x187o))
+- The school sport no longer just for a rainy day ([6 hours ago](https://www.bbc.com/news/articles/clygej1emezo))
+- Hospice grounds in full bloom for popular open gardens event ([20 hours ago](https://gloucesternewscentre.co.uk/hospice-grounds-in-full-bloom-for-popular-open-gardens-event/))
+- Pool reopens after community fundraising effort ([21 hours ago](https://www.bbc.com/news/articles/cg5vl5zvp69o))
+- Frustration grows as town's sewer works continue ([22 hours ago](https://www.bbc.com/news/articles/c5yq58qpgd7o))
+- Car boot sale reopening date announced ([1 days ago](https://www.bbc.com/news/articles/c3v54dgvq6go))
 - HMS Bristol to be scrapped and atheist employment row ([1 days ago](https://www.bbc.com/news/articles/c93lv9zr5ppo))
 - Opportunity to give town's last tram a new life ([1 days ago](https://www.bbc.com/news/articles/c80km7j1131o))
 - 'Impossible' to get driving tests, say learners ([1 days ago](https://www.bbc.com/news/articles/c8jgndjnlmvo))
@@ -30,7 +30,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Nuclear power stations and Robbie Williams ([2 days ago](https://www.bbc.com/news/articles/cy4ekkyej0ko))
 - Roadworks warning as slip road to close for months ([2 days ago](https://www.bbc.com/news/articles/c308j6d7ngno))
 - Decision due on new community and sports hub ([2 days ago](https://www.bbc.com/news/articles/cy4k5kv0v2go))
-- Exhibition shines light on River Wye pollution ([2 days ago](https://www.bbc.com/news/articles/c62814zl1q5o))
+- Exhibition shines light on River Wye pollution ([3 days ago](https://www.bbc.com/news/articles/c62814zl1q5o))
 - Travel warning as 11 day Severn Tunnel works start ([3 days ago](https://www.bbc.com/news/articles/c5yk6z54e2zo))
 - Man ‘alarmed’ to find home included ‘without consent’ in 4000-house plan near M5 ([4 days ago](https://gloucesternewscentre.co.uk/man-alarmed-to-find-home-included-without-consent-in-4000-house-plan-near-m5/))
 - Cheltenham celebrates 10 years of prestigious Purple Flag ([5 days ago](https://www.cheltenham.gov.uk/news/article/3019/cheltenham_celebrates_10_years_of_prestigious_purple_flag))
@@ -64,7 +64,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - HBD unveils phase two plans for Golden Valley at Cyber UK ([26 days ago](https://www.cheltenham.gov.uk/news/article/3012/hbd_unveils_phase_two_plans_for_golden_valley_at_cyber_uk))
 - Golden Valley social value promise will deliver real value to communities ([27 days ago](https://www.cheltenham.gov.uk/news/article/3011/golden_valley_social_value_promise_will_deliver_real_value_to_communities))
 - Upcoming grant and further support to help local business cut their carbon emissions ([28 days ago](https://www.cheltenham.gov.uk/news/article/3010/upcoming_grant_and_further_support_to_help_local_business_cut_their_carbon_emissions))
-- Does your parish council reflect your local area? ([28 days ago](https://www.cheltenham.gov.uk/news/article/3009/does_your_parish_council_reflect_your_local_area))
+- Does your parish council reflect your local area? ([29 days ago](https://www.cheltenham.gov.uk/news/article/3009/does_your_parish_council_reflect_your_local_area))
 - Cheltenham Mayor’s inauguration and medal of honour ([29 days ago](https://www.cheltenham.gov.uk/news/article/3008/cheltenham_mayors_inauguration_and_medal_of_honour))
 
 <!-- news_marker ends -->

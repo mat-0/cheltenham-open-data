@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 3 large potholes opposite entrance to green dragon customer parking, 11th June :- [7693719](https://www.fixmystreet.com/report/7693719)
 - Other damage to pavement i.e. cobbles, raised mound/surface problem, 11th June :- [7693240](https://www.fixmystreet.com/report/7693240)
 - Sunken man hole cover 400x400x70mm, 11th June :- [7692515](https://www.fixmystreet.com/report/7692515)
 - Dog fouling by play area, 11th June :- [7692443](https://www.fixmystreet.com/report/7692443)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Unpermitted roadworks problem, 10th June :- [7689374](https://www.fixmystreet.com/report/7689374)
 - Rotating cone on pole 2 is missing., 10th June :- [7688953](https://www.fixmystreet.com/report/7688953)
 - Several dead branches on silver birch, 10th June :- [7688945](https://www.fixmystreet.com/report/7688945)
-- The cover marked PO outside 15 Tensing Road has sunk and the tarmac has crumbled..very unstable and dips if you step on the corner, 10th June :- [7688825](https://www.fixmystreet.com/report/7688825)
 
 <!-- fix_marker ends -->
