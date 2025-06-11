@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street lighting out, 11th June :- [7696601](https://www.fixmystreet.com/report/7696601)
 - Trees overhanging the pavement making if difficult to pass, 11th June :- [7696446](https://www.fixmystreet.com/report/7696446)
 - About 30 medium potholes on Malvern Street, one particular one broke my suspension., 11th June :- [7696270](https://www.fixmystreet.com/report/7696270)
 - Flytipped Items, 11th June :- [7695973](https://www.fixmystreet.com/report/7695973)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Route removed with no need, path on north side of brook unmaintained, unmaintained paths, 11th June :- [7691525](https://www.fixmystreet.com/report/7691525)
 - Virgin Media ground PIT has sunk into ground and is uneven on pathway, 11th June :- [7691438](https://www.fixmystreet.com/report/7691438)
 - Traffic lights problem, 10th June :- [7691353](https://www.fixmystreet.com/report/7691353)
-- Overhanging tree, obstructing window/view from sunlight, 10th June :- [7690834](https://www.fixmystreet.com/report/7690834)
 
 <!-- fix_marker ends -->
