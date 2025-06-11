@@ -16,7 +16,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Pool reopens after community fundraising effort ([13 hours ago](https://www.bbc.com/news/articles/cg5vl5zvp69o))
 - Frustration grows as town's sewer works continue ([14 hours ago](https://www.bbc.com/news/articles/c5yq58qpgd7o))
 - Car boot sale reopening date announced ([16 hours ago](https://www.bbc.com/news/articles/c3v54dgvq6go))
-- HMS Bristol to be scrapped and atheist employment row ([17 hours ago](https://www.bbc.com/news/articles/c93lv9zr5ppo))
+- HMS Bristol to be scrapped and atheist employment row ([18 hours ago](https://www.bbc.com/news/articles/c93lv9zr5ppo))
 - Opportunity to give town's last tram a new life ([22 hours ago](https://www.bbc.com/news/articles/c80km7j1131o))
 - 'Impossible' to get driving tests, say learners ([22 hours ago](https://www.bbc.com/news/articles/c8jgndjnlmvo))
 - Energy boss' claim against publisher thrown out ([1 days ago](https://www.bbc.com/news/articles/c9918ek3y4go))
