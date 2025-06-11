@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipped Furniture, 11th June :- [7692034](https://www.fixmystreet.com/report/7692034)
+- Apparently abandoned vehicle, 11th June :- [7691794](https://www.fixmystreet.com/report/7691794)
 - Trip hazard, 11th June :- [7691569](https://www.fixmystreet.com/report/7691569)
 - Route removed with no need, path on north side of brook unmaintained, unmaintained paths, 11th June :- [7691525](https://www.fixmystreet.com/report/7691525)
 - Virgin Media ground PIT has sunk into ground and is uneven on pathway, 11th June :- [7691438](https://www.fixmystreet.com/report/7691438)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Broken branch overhanging A46 and causing obstruction, 10th June :- [7688303](https://www.fixmystreet.com/report/7688303)
 - Tarmac been warn away from vehicles continuously turning in this close., 10th June :- [7688222](https://www.fixmystreet.com/report/7688222)
 - Barriers left behind, 10th June :- [7688196](https://www.fixmystreet.com/report/7688196)
-- A pothole in road problem, 10th June :- [7688550](https://www.fixmystreet.com/report/7688550)
-- Grass verges not cit, 10th June :- [7687942](https://www.fixmystreet.com/report/7687942)
 
 <!-- fix_marker ends -->
