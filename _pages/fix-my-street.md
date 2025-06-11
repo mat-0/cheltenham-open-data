@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Sunken man hole cover 400x400x70mm, 11th June :- [7692515](https://www.fixmystreet.com/report/7692515)
 - Dog fouling by play area, 11th June :- [7692443](https://www.fixmystreet.com/report/7692443)
 - Ref. 7612701 Insufficient white edge marking. There are at least 2 extra areas to be repaired, 11th June :- [7692334](https://www.fixmystreet.com/report/7692334)
 - Overgrown grass, 11th June :- [7692065](https://www.fixmystreet.com/report/7692065)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Several dead branches on silver birch, 10th June :- [7688945](https://www.fixmystreet.com/report/7688945)
 - The cover marked PO outside 15 Tensing Road has sunk and the tarmac has crumbled..very unstable and dips if you step on the corner, 10th June :- [7688825](https://www.fixmystreet.com/report/7688825)
 - Dead branch in tree and branch around cable, 10th June :- [7688515](https://www.fixmystreet.com/report/7688515)
-- Road surface disintegrating, 10th June :- [7688450](https://www.fixmystreet.com/report/7688450)
 
 <!-- fix_marker ends -->
