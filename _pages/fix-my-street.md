@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Series of areas around patched up areas missing good depth of tarmac., 11th June :- [7694272](https://www.fixmystreet.com/report/7694272)
 - The drain in the pavement outside my property is blocked therefore when it rains the rain from my roof does not drain into the road as the metal drain in the width of the footpath does not allow the water to run away, 11th June :- [7694131](https://www.fixmystreet.com/report/7694131)
 - 3 large potholes opposite entrance to green dragon customer parking, 11th June :- [7693719](https://www.fixmystreet.com/report/7693719)
 - Other damage to pavement i.e. cobbles, raised mound/surface problem, 11th June :- [7693240](https://www.fixmystreet.com/report/7693240)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - 4xcars dumped on concrete apron on right side of Cam road and tree branches cut from tree outside 139 Cromwell road dumped by the car's, 10th June :- [7690070](https://www.fixmystreet.com/report/7690070)
 - Aggressive neighbour blocking the road to prevent others parking outside her house and duct taping notes on cars in the area, 10th June :- [7689343](https://www.fixmystreet.com/report/7689343)
 - Unpermitted roadworks problem, 10th June :- [7689374](https://www.fixmystreet.com/report/7689374)
-- Rotating cone on pole 2 is missing., 10th June :- [7688953](https://www.fixmystreet.com/report/7688953)
 
 <!-- fix_marker ends -->

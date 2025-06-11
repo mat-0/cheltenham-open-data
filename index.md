@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Wednesday, 11 June 2025
 
-- The average temperature today is 21.67˚C,
-- With highs of 22.75˚C and lows of 21.08˚C,
-- It may feel like 21.54˚C with broken clouds
-- The wind speed is 4.02m/s and visibility is 10000m
-- The pressure is 1018hPa and humidity is 63%
+- The average temperature today is 22.23˚C,
+- With highs of 23.3˚C and lows of 21.03˚C,
+- It may feel like 22.05˚C with broken clouds
+- The wind speed is 3.6m/s and visibility is 10000m
+- The pressure is 1018hPa and humidity is 59%
 - The sun will rise at 03:49 and set at 20:26
 
 <!-- weather_marker ends -->
