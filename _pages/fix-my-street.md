@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Trees overhanging the pavement making if difficult to pass, 11th June :- [7696446](https://www.fixmystreet.com/report/7696446)
+- About 30 medium potholes on Malvern Street, one particular one broke my suspension., 11th June :- [7696270](https://www.fixmystreet.com/report/7696270)
+- Flytipped Items, 11th June :- [7695973](https://www.fixmystreet.com/report/7695973)
 - Group of approx 4-5 potholes across Arle Gardens by turning, 11th June :- [7694901](https://www.fixmystreet.com/report/7694901)
 - Tree roots damaged paving, 11th June :- [7694741](https://www.fixmystreet.com/report/7694741)
 - Series of areas around patched up areas missing good depth of tarmac., 11th June :- [7694272](https://www.fixmystreet.com/report/7694272)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Virgin Media ground PIT has sunk into ground and is uneven on pathway, 11th June :- [7691438](https://www.fixmystreet.com/report/7691438)
 - Traffic lights problem, 10th June :- [7691353](https://www.fixmystreet.com/report/7691353)
 - Overhanging tree, obstructing window/view from sunlight, 10th June :- [7690834](https://www.fixmystreet.com/report/7690834)
-- Potholes covering the whole width of the road entrance, 10th June :- [7690805](https://www.fixmystreet.com/report/7690805)
-- Large potholes/drop in height entering car park, 10th June :- [7690718](https://www.fixmystreet.com/report/7690718)
-- 4xcars dumped on concrete apron on right side of Cam road and tree branches cut from tree outside 139 Cromwell road dumped by the car's, 10th June :- [7690070](https://www.fixmystreet.com/report/7690070)
 
 <!-- fix_marker ends -->
