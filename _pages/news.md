@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Fundraising campaign seeks £200k to buy fields ([4 hours ago](https://www.bbc.com/news/articles/c365lx9x187o))
-- The school sport no longer just for a rainy day ([4 hours ago](https://www.bbc.com/news/articles/clygej1emezo))
-- Hospice grounds in full bloom for popular open gardens event ([18 hours ago](https://gloucesternewscentre.co.uk/hospice-grounds-in-full-bloom-for-popular-open-gardens-event/))
-- Pool reopens after community fundraising effort ([19 hours ago](https://www.bbc.com/news/articles/cg5vl5zvp69o))
-- Frustration grows as town's sewer works continue ([20 hours ago](https://www.bbc.com/news/articles/c5yq58qpgd7o))
-- Car boot sale reopening date announced ([22 hours ago](https://www.bbc.com/news/articles/c3v54dgvq6go))
+- Fundraising campaign seeks £200k to buy fields ([5 hours ago](https://www.bbc.com/news/articles/c365lx9x187o))
+- The school sport no longer just for a rainy day ([5 hours ago](https://www.bbc.com/news/articles/clygej1emezo))
+- Hospice grounds in full bloom for popular open gardens event ([19 hours ago](https://gloucesternewscentre.co.uk/hospice-grounds-in-full-bloom-for-popular-open-gardens-event/))
+- Pool reopens after community fundraising effort ([20 hours ago](https://www.bbc.com/news/articles/cg5vl5zvp69o))
+- Frustration grows as town's sewer works continue ([21 hours ago](https://www.bbc.com/news/articles/c5yq58qpgd7o))
+- Car boot sale reopening date announced ([23 hours ago](https://www.bbc.com/news/articles/c3v54dgvq6go))
 - HMS Bristol to be scrapped and atheist employment row ([1 days ago](https://www.bbc.com/news/articles/c93lv9zr5ppo))
 - Opportunity to give town's last tram a new life ([1 days ago](https://www.bbc.com/news/articles/c80km7j1131o))
 - 'Impossible' to get driving tests, say learners ([1 days ago](https://www.bbc.com/news/articles/c8jgndjnlmvo))
@@ -65,6 +65,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Golden Valley social value promise will deliver real value to communities ([27 days ago](https://www.cheltenham.gov.uk/news/article/3011/golden_valley_social_value_promise_will_deliver_real_value_to_communities))
 - Upcoming grant and further support to help local business cut their carbon emissions ([28 days ago](https://www.cheltenham.gov.uk/news/article/3010/upcoming_grant_and_further_support_to_help_local_business_cut_their_carbon_emissions))
 - Does your parish council reflect your local area? ([28 days ago](https://www.cheltenham.gov.uk/news/article/3009/does_your_parish_council_reflect_your_local_area))
-- Cheltenham Mayor’s inauguration and medal of honour ([28 days ago](https://www.cheltenham.gov.uk/news/article/3008/cheltenham_mayors_inauguration_and_medal_of_honour))
+- Cheltenham Mayor’s inauguration and medal of honour ([29 days ago](https://www.cheltenham.gov.uk/news/article/3008/cheltenham_mayors_inauguration_and_medal_of_honour))
 
 <!-- news_marker ends -->

@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Other damage to pavement i.e. cobbles, raised mound/surface problem, 11th June :- [7693240](https://www.fixmystreet.com/report/7693240)
 - Sunken man hole cover 400x400x70mm, 11th June :- [7692515](https://www.fixmystreet.com/report/7692515)
 - Dog fouling by play area, 11th June :- [7692443](https://www.fixmystreet.com/report/7692443)
 - Ref. 7612701 Insufficient white edge marking. There are at least 2 extra areas to be repaired, 11th June :- [7692334](https://www.fixmystreet.com/report/7692334)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Rotating cone on pole 2 is missing., 10th June :- [7688953](https://www.fixmystreet.com/report/7688953)
 - Several dead branches on silver birch, 10th June :- [7688945](https://www.fixmystreet.com/report/7688945)
 - The cover marked PO outside 15 Tensing Road has sunk and the tarmac has crumbled..very unstable and dips if you step on the corner, 10th June :- [7688825](https://www.fixmystreet.com/report/7688825)
-- Dead branch in tree and branch around cable, 10th June :- [7688515](https://www.fixmystreet.com/report/7688515)
 
 <!-- fix_marker ends -->
