@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Trip hazard, 11th June :- [7691569](https://www.fixmystreet.com/report/7691569)
 - Route removed with no need, path on north side of brook unmaintained, unmaintained paths, 11th June :- [7691525](https://www.fixmystreet.com/report/7691525)
 - Virgin Media ground PIT has sunk into ground and is uneven on pathway, 11th June :- [7691438](https://www.fixmystreet.com/report/7691438)
 - Traffic lights problem, 10th June :- [7691353](https://www.fixmystreet.com/report/7691353)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Barriers left behind, 10th June :- [7688196](https://www.fixmystreet.com/report/7688196)
 - A pothole in road problem, 10th June :- [7688550](https://www.fixmystreet.com/report/7688550)
 - Grass verges not cit, 10th June :- [7687942](https://www.fixmystreet.com/report/7687942)
-- Hardly any road surface left, 10th June :- [7687478](https://www.fixmystreet.com/report/7687478)
 
 <!-- fix_marker ends -->
