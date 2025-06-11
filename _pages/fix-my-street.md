@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Route removed with no need, path on north side of brook unmaintained, unmaintained paths, 11th June :- [7691525](https://www.fixmystreet.com/report/7691525)
 - Virgin Media ground PIT has sunk into ground and is uneven on pathway, 11th June :- [7691438](https://www.fixmystreet.com/report/7691438)
 - Traffic lights problem, 10th June :- [7691353](https://www.fixmystreet.com/report/7691353)
 - Overhanging tree, obstructing window/view from sunlight, 10th June :- [7690834](https://www.fixmystreet.com/report/7690834)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - A pothole in road problem, 10th June :- [7688550](https://www.fixmystreet.com/report/7688550)
 - Grass verges not cit, 10th June :- [7687942](https://www.fixmystreet.com/report/7687942)
 - Hardly any road surface left, 10th June :- [7687478](https://www.fixmystreet.com/report/7687478)
-- Mercedes A class abandoned, 10th June :- [7687308](https://www.fixmystreet.com/report/7687308)
 
 <!-- fix_marker ends -->
