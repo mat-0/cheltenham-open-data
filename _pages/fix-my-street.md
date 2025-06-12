@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree down on Road, 12th June :- [7700325](https://www.fixmystreet.com/report/7700325)
+- Flooded, 12th June :- [7700159](https://www.fixmystreet.com/report/7700159)
+- New fountain in Cirencester Road, 12th June :- [7700155](https://www.fixmystreet.com/report/7700155)
 - Healthy tree, no need to cut!, 12th June :- [7700020](https://www.fixmystreet.com/report/7700020)
 - Diy/building materials, 12th June :- [7699588](https://www.fixmystreet.com/report/7699588)
 - Diy/building materials, 12th June :- [7699587](https://www.fixmystreet.com/report/7699587)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Light sequence is not long enough from Nine Elms onto Chelt Rd, 12th June :- [7697452](https://www.fixmystreet.com/report/7697452)
 - Tree is damaged problem, 12th June :- [7697521](https://www.fixmystreet.com/report/7697521)
 - Cycle path in poor condition, 12th June :- [7697417](https://www.fixmystreet.com/report/7697417)
-- Street lighting out, 11th June :- [7696601](https://www.fixmystreet.com/report/7696601)
-- Trees overhanging the pavement making if difficult to pass, 11th June :- [7696446](https://www.fixmystreet.com/report/7696446)
-- About 30 medium potholes on Malvern Street, one particular one broke my suspension., 11th June :- [7696270](https://www.fixmystreet.com/report/7696270)
 
 <!-- fix_marker ends -->
