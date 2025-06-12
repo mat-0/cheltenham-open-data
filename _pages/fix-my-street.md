@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Damage to stone bridge, 12th June :- [7698717](https://www.fixmystreet.com/report/7698717)
+- Terrible visibility, 12th June :- [7698697](https://www.fixmystreet.com/report/7698697)
+- Local resident reported to Winchcombe Town Council, the bridge is damaged and a potential risk of collapsing.., 12th June :- [7698639](https://www.fixmystreet.com/report/7698639)
+- One on the left as you enter that are deep and quite large. Several complaints from customers., 12th June :- [7698285](https://www.fixmystreet.com/report/7698285)
 - Path and road side kerbs damaged. Originally reported 28/03/25 and now you say this work has been completed and job closed. All that has been done is red plastic barriers put round which as can be seen from attached photo have now all fallen over and this area is not in a safe condition, 12th June :- [7697784](https://www.fixmystreet.com/report/7697784)
 - Damage to vehicle and root damage to driveway from roots, 12th June :- [7697706](https://www.fixmystreet.com/report/7697706)
 - Light sequence is not long enough from Nine Elms onto Chelt Rd, 12th June :- [7697452](https://www.fixmystreet.com/report/7697452)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - 3 large potholes opposite entrance to green dragon customer parking, 11th June :- [7693719](https://www.fixmystreet.com/report/7693719)
 - Other damage to pavement i.e. cobbles, raised mound/surface problem, 11th June :- [7693240](https://www.fixmystreet.com/report/7693240)
 - Sunken man hole cover 400x400x70mm, 11th June :- [7692515](https://www.fixmystreet.com/report/7692515)
-- Dog fouling by play area, 11th June :- [7692443](https://www.fixmystreet.com/report/7692443)
-- Ref. 7612701 Insufficient white edge marking. There are at least 2 extra areas to be repaired, 11th June :- [7692334](https://www.fixmystreet.com/report/7692334)
-- Overgrown grass, 11th June :- [7692065](https://www.fixmystreet.com/report/7692065)
-- Flytipped Furniture, 11th June :- [7692034](https://www.fixmystreet.com/report/7692034)
 
 <!-- fix_marker ends -->
