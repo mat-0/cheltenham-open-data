@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Lyndley Chase junction On to Stoke Orchard Road, 12th June :- [7702023](https://www.fixmystreet.com/report/7702023)
 - Drain cover missing, 12th June :- [7701820](https://www.fixmystreet.com/report/7701820)
 - Cats driving through pedestrian green light, 12th June :- [7701405](https://www.fixmystreet.com/report/7701405)
 - Tree is damaged problem, 12th June :- [7701233](https://www.fixmystreet.com/report/7701233)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Post or sign leaning slightly (less than 20 degrees) problem, 12th June :- [7699698](https://www.fixmystreet.com/report/7699698)
 - Other damage to pavement i.e. cobbles, raised mound/surface problem, 12th June :- [7699456](https://www.fixmystreet.com/report/7699456)
 - Signage, 12th June :- [7699347](https://www.fixmystreet.com/report/7699347)
-- Corner of central island protrudes into carriage way, 12th June :- [7699311](https://www.fixmystreet.com/report/7699311)
 
 <!-- fix_marker ends -->
