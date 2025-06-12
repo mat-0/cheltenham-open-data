@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Light sequence is not long enough from Nine Elms onto Chelt Rd, 12th June :- [7697452](https://www.fixmystreet.com/report/7697452)
+- Tree is damaged problem, 12th June :- [7697521](https://www.fixmystreet.com/report/7697521)
+- Cycle path in poor condition, 12th June :- [7697417](https://www.fixmystreet.com/report/7697417)
 - Street lighting out, 11th June :- [7696601](https://www.fixmystreet.com/report/7696601)
 - Trees overhanging the pavement making if difficult to pass, 11th June :- [7696446](https://www.fixmystreet.com/report/7696446)
 - About 30 medium potholes on Malvern Street, one particular one broke my suspension., 11th June :- [7696270](https://www.fixmystreet.com/report/7696270)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Flytipped Furniture, 11th June :- [7692034](https://www.fixmystreet.com/report/7692034)
 - Apparently abandoned vehicle, 11th June :- [7691794](https://www.fixmystreet.com/report/7691794)
 - Trip hazard, 11th June :- [7691569](https://www.fixmystreet.com/report/7691569)
-- Route removed with no need, path on north side of brook unmaintained, unmaintained paths, 11th June :- [7691525](https://www.fixmystreet.com/report/7691525)
-- Virgin Media ground PIT has sunk into ground and is uneven on pathway, 11th June :- [7691438](https://www.fixmystreet.com/report/7691438)
-- Traffic lights problem, 10th June :- [7691353](https://www.fixmystreet.com/report/7691353)
 
 <!-- fix_marker ends -->
