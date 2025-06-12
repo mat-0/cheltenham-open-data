@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Path and road side kerbs damaged. Originally reported 28/03/25 and now you say this work has been completed and job closed. All that has been done is red plastic barriers put round which as can be seen from attached photo have now all fallen over and this area is not in a safe condition, 12th June :- [7697784](https://www.fixmystreet.com/report/7697784)
+- Damage to vehicle and root damage to driveway from roots, 12th June :- [7697706](https://www.fixmystreet.com/report/7697706)
 - Light sequence is not long enough from Nine Elms onto Chelt Rd, 12th June :- [7697452](https://www.fixmystreet.com/report/7697452)
 - Tree is damaged problem, 12th June :- [7697521](https://www.fixmystreet.com/report/7697521)
 - Cycle path in poor condition, 12th June :- [7697417](https://www.fixmystreet.com/report/7697417)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Ref. 7612701 Insufficient white edge marking. There are at least 2 extra areas to be repaired, 11th June :- [7692334](https://www.fixmystreet.com/report/7692334)
 - Overgrown grass, 11th June :- [7692065](https://www.fixmystreet.com/report/7692065)
 - Flytipped Furniture, 11th June :- [7692034](https://www.fixmystreet.com/report/7692034)
-- Apparently abandoned vehicle, 11th June :- [7691794](https://www.fixmystreet.com/report/7691794)
-- Trip hazard, 11th June :- [7691569](https://www.fixmystreet.com/report/7691569)
 
 <!-- fix_marker ends -->
