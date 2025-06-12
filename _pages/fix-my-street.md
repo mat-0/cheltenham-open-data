@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Signs left lying around., 12th June :- [7698843](https://www.fixmystreet.com/report/7698843)
 - Damage to stone bridge, 12th June :- [7698717](https://www.fixmystreet.com/report/7698717)
 - Terrible visibility, 12th June :- [7698697](https://www.fixmystreet.com/report/7698697)
 - Local resident reported to Winchcombe Town Council, the bridge is damaged and a potential risk of collapsing.., 12th June :- [7698639](https://www.fixmystreet.com/report/7698639)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - The drain in the pavement outside my property is blocked therefore when it rains the rain from my roof does not drain into the road as the metal drain in the width of the footpath does not allow the water to run away, 11th June :- [7694131](https://www.fixmystreet.com/report/7694131)
 - 3 large potholes opposite entrance to green dragon customer parking, 11th June :- [7693719](https://www.fixmystreet.com/report/7693719)
 - Other damage to pavement i.e. cobbles, raised mound/surface problem, 11th June :- [7693240](https://www.fixmystreet.com/report/7693240)
-- Sunken man hole cover 400x400x70mm, 11th June :- [7692515](https://www.fixmystreet.com/report/7692515)
 
 <!-- fix_marker ends -->
