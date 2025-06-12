@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Drain cover missing, 12th June :- [7701820](https://www.fixmystreet.com/report/7701820)
 - Cats driving through pedestrian green light, 12th June :- [7701405](https://www.fixmystreet.com/report/7701405)
 - Tree is damaged problem, 12th June :- [7701233](https://www.fixmystreet.com/report/7701233)
 - Fly Tipped Metal Drum, 12th June :- [7700955](https://www.fixmystreet.com/report/7700955)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Other damage to pavement i.e. cobbles, raised mound/surface problem, 12th June :- [7699456](https://www.fixmystreet.com/report/7699456)
 - Signage, 12th June :- [7699347](https://www.fixmystreet.com/report/7699347)
 - Corner of central island protrudes into carriage way, 12th June :- [7699311](https://www.fixmystreet.com/report/7699311)
-- Signs left lying around., 12th June :- [7698843](https://www.fixmystreet.com/report/7698843)
 
 <!-- fix_marker ends -->
