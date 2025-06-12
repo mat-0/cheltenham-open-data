@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Council told athletics track 'unfit for purpose' ([6 hours ago](https://www.bbc.com/news/articles/cvg76n7dxn9o))
-- NHS doubles amount its spending on private companies ([10 hours ago](https://www.bbc.com/news/articles/cy0jzvxwr4xo))
-- Football club revamp and community hub a step closer to reality ([10 hours ago](https://gloucesternewscentre.co.uk/football-club-revamp-and-community-hub-a-step-closer-to-reality/))
-- Removal of ‘tatty tents’ outside 131 Promenade welcomed ([10 hours ago](https://gloucesternewscentre.co.uk/removal-of-tatty-tents-outside-131-promenade-welcomed/))
-- Concerns poor state of running track is contributing to injuries ([11 hours ago](https://gloucesternewscentre.co.uk/concerns-poor-state-of-running-track-is-contributing-to-injuries/))
+- Council told athletics track 'unfit for purpose' ([7 hours ago](https://www.bbc.com/news/articles/cvg76n7dxn9o))
+- NHS doubles amount its spending on private companies ([11 hours ago](https://www.bbc.com/news/articles/cy0jzvxwr4xo))
+- Football club revamp and community hub a step closer to reality ([11 hours ago](https://gloucesternewscentre.co.uk/football-club-revamp-and-community-hub-a-step-closer-to-reality/))
+- Removal of ‘tatty tents’ outside 131 Promenade welcomed ([11 hours ago](https://gloucesternewscentre.co.uk/removal-of-tatty-tents-outside-131-promenade-welcomed/))
+- Concerns poor state of running track is contributing to injuries ([12 hours ago](https://gloucesternewscentre.co.uk/concerns-poor-state-of-running-track-is-contributing-to-injuries/))
 - Council job listing criticised as 'manipulative' ([15 hours ago](https://www.bbc.com/news/articles/c74qk45gxygo))
 - Horrendous smells and the strawberry moon ([15 hours ago](https://www.bbc.com/news/articles/c2lk8l1ypxko))
 - Fundraising campaign seeks £200k to buy fields ([22 hours ago](https://www.bbc.com/news/articles/c365lx9x187o))
