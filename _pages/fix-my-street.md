@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Diy/building materials, 12th June :- [7699588](https://www.fixmystreet.com/report/7699588)
+- Diy/building materials, 12th June :- [7699587](https://www.fixmystreet.com/report/7699587)
+- Other damage to pavement i.e. cobbles, raised mound/surface problem, 12th June :- [7699456](https://www.fixmystreet.com/report/7699456)
+- Signage, 12th June :- [7699347](https://www.fixmystreet.com/report/7699347)
+- Corner of central island protrudes into carriage way, 12th June :- [7699311](https://www.fixmystreet.com/report/7699311)
 - Signs left lying around., 12th June :- [7698843](https://www.fixmystreet.com/report/7698843)
 - Damage to stone bridge, 12th June :- [7698717](https://www.fixmystreet.com/report/7698717)
 - Terrible visibility, 12th June :- [7698697](https://www.fixmystreet.com/report/7698697)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - About 30 medium potholes on Malvern Street, one particular one broke my suspension., 11th June :- [7696270](https://www.fixmystreet.com/report/7696270)
 - Flytipped Items, 11th June :- [7695973](https://www.fixmystreet.com/report/7695973)
 - Group of approx 4-5 potholes across Arle Gardens by turning, 11th June :- [7694901](https://www.fixmystreet.com/report/7694901)
-- Tree roots damaged paving, 11th June :- [7694741](https://www.fixmystreet.com/report/7694741)
-- Series of areas around patched up areas missing good depth of tarmac., 11th June :- [7694272](https://www.fixmystreet.com/report/7694272)
-- The drain in the pavement outside my property is blocked therefore when it rains the rain from my roof does not drain into the road as the metal drain in the width of the footpath does not allow the water to run away, 11th June :- [7694131](https://www.fixmystreet.com/report/7694131)
-- 3 large potholes opposite entrance to green dragon customer parking, 11th June :- [7693719](https://www.fixmystreet.com/report/7693719)
-- Other damage to pavement i.e. cobbles, raised mound/surface problem, 11th June :- [7693240](https://www.fixmystreet.com/report/7693240)
 
 <!-- fix_marker ends -->

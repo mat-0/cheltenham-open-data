@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Thursday, 12 June 2025
 
-- The average temperature today is 19.34˚C,
-- With highs of 19.73˚C and lows of 18.75˚C,
-- It may feel like 19.11˚C with moderate rain
-- The wind speed is 2.68m/s and visibility is 10000m
-- The pressure is 1010hPa and humidity is 68%
+- The average temperature today is 16.62˚C,
+- With highs of 18.3˚C and lows of 15.93˚C,
+- It may feel like 16.58˚C with shower rain
+- The wind speed is 4.63m/s and visibility is 6000m
+- The pressure is 1009hPa and humidity is 86%
 - The sun will rise at 03:48 and set at 20:27
 
 <!-- weather_marker ends -->
