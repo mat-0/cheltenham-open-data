@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Cats driving through pedestrian green light, 12th June :- [7701405](https://www.fixmystreet.com/report/7701405)
+- Tree is damaged problem, 12th June :- [7701233](https://www.fixmystreet.com/report/7701233)
 - Fly Tipped Metal Drum, 12th June :- [7700955](https://www.fixmystreet.com/report/7700955)
 - A fallen tree branch is blocking a path. The tree may still be vulnerable to dropping another large branch., 12th June :- [7700953](https://www.fixmystreet.com/report/7700953)
 - Dog poo on the pavement, 12th June :- [7700948](https://www.fixmystreet.com/report/7700948)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Signage, 12th June :- [7699347](https://www.fixmystreet.com/report/7699347)
 - Corner of central island protrudes into carriage way, 12th June :- [7699311](https://www.fixmystreet.com/report/7699311)
 - Signs left lying around., 12th June :- [7698843](https://www.fixmystreet.com/report/7698843)
-- Damage to stone bridge, 12th June :- [7698717](https://www.fixmystreet.com/report/7698717)
-- Terrible visibility, 12th June :- [7698697](https://www.fixmystreet.com/report/7698697)
 
 <!-- fix_marker ends -->
