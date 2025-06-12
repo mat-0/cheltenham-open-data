@@ -9,8 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Healthy tree, no need to cut!, 12th June :- [7700020](https://www.fixmystreet.com/report/7700020)
 - Diy/building materials, 12th June :- [7699588](https://www.fixmystreet.com/report/7699588)
 - Diy/building materials, 12th June :- [7699587](https://www.fixmystreet.com/report/7699587)
+- Post or sign leaning slightly (less than 20 degrees) problem, 12th June :- [7699698](https://www.fixmystreet.com/report/7699698)
 - Other damage to pavement i.e. cobbles, raised mound/surface problem, 12th June :- [7699456](https://www.fixmystreet.com/report/7699456)
 - Signage, 12th June :- [7699347](https://www.fixmystreet.com/report/7699347)
 - Corner of central island protrudes into carriage way, 12th June :- [7699311](https://www.fixmystreet.com/report/7699311)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Street lighting out, 11th June :- [7696601](https://www.fixmystreet.com/report/7696601)
 - Trees overhanging the pavement making if difficult to pass, 11th June :- [7696446](https://www.fixmystreet.com/report/7696446)
 - About 30 medium potholes on Malvern Street, one particular one broke my suspension., 11th June :- [7696270](https://www.fixmystreet.com/report/7696270)
-- Flytipped Items, 11th June :- [7695973](https://www.fixmystreet.com/report/7695973)
-- Group of approx 4-5 potholes across Arle Gardens by turning, 11th June :- [7694901](https://www.fixmystreet.com/report/7694901)
 
 <!-- fix_marker ends -->
