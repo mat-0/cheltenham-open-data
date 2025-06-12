@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fly Tipped Metal Drum, 12th June :- [7700955](https://www.fixmystreet.com/report/7700955)
+- A fallen tree branch is blocking a path. The tree may still be vulnerable to dropping another large branch., 12th June :- [7700953](https://www.fixmystreet.com/report/7700953)
+- Dog poo on the pavement, 12th June :- [7700948](https://www.fixmystreet.com/report/7700948)
 - Branch blocking pavement, 12th June :- [7700829](https://www.fixmystreet.com/report/7700829)
 - Crossing audible sound too loud/soft problem, 12th June :- [7700717](https://www.fixmystreet.com/report/7700717)
 - Fabrics left in park, 12th June :- [7700552](https://www.fixmystreet.com/report/7700552)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Signs left lying around., 12th June :- [7698843](https://www.fixmystreet.com/report/7698843)
 - Damage to stone bridge, 12th June :- [7698717](https://www.fixmystreet.com/report/7698717)
 - Terrible visibility, 12th June :- [7698697](https://www.fixmystreet.com/report/7698697)
-- Local resident reported to Winchcombe Town Council, the bridge is damaged and a potential risk of collapsing.., 12th June :- [7698639](https://www.fixmystreet.com/report/7698639)
-- One on the left as you enter that are deep and quite large. Several complaints from customers., 12th June :- [7698285](https://www.fixmystreet.com/report/7698285)
-- Path and road side kerbs damaged. Originally reported 28/03/25 and now you say this work has been completed and job closed. All that has been done is red plastic barriers put round which as can be seen from attached photo have now all fallen over and this area is not in a safe condition, 12th June :- [7697784](https://www.fixmystreet.com/report/7697784)
 
 <!-- fix_marker ends -->
