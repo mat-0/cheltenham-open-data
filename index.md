@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Friday, 13 June 2025
 
-- The average temperature today is 22.87˚C,
-- With highs of 23.71˚C and lows of 21.75˚C,
-- It may feel like 22.57˚C with few clouds
-- The wind speed is 2.06m/s and visibility is 10000m
-- The pressure is 1018hPa and humidity is 52%
+- The average temperature today is 24.3˚C,
+- With highs of 24.82˚C and lows of 23.75˚C,
+- It may feel like 24.04˚C with few clouds
+- The wind speed is 1.03m/s and visibility is 10000m
+- The pressure is 1019hPa and humidity is 48%
 - The sun will rise at 03:48 and set at 20:28
 
 <!-- weather_marker ends -->
