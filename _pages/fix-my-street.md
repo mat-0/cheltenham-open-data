@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The Grange Estate needs street cleansing, Gotherington, 13th June :- [7705964](https://www.fixmystreet.com/report/7705964)
 - All the estate voxwell lane and all roads off it, 13th June :- [7705067](https://www.fixmystreet.com/report/7705067)
 - Unstable pavement outside my grandmothers house. Trip hazard for the elderly., 13th June :- [7704886](https://www.fixmystreet.com/report/7704886)
 - Tree is damaged problem, 13th June :- [7704713](https://www.fixmystreet.com/report/7704713)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - 17 Belland Drive, rotting caravan on drive, 13th June :- [7703065](https://www.fixmystreet.com/report/7703065)
 - Overhanging Branches Damaging Motor Home, 13th June :- [7702964](https://www.fixmystreet.com/report/7702964)
 - Overgrown grass verge obstructing view, 13th June :- [7702937](https://www.fixmystreet.com/report/7702937)
-- The Grange Estate, cleansing and weed killing needed, 12th June :- [7702323](https://www.fixmystreet.com/report/7702323)
 
 <!-- fix_marker ends -->
