@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 17 Belland Drive, rotting caravan on drive, 13th June :- [7703065](https://www.fixmystreet.com/report/7703065)
+- Overhanging Branches Damaging Motor Home, 13th June :- [7702964](https://www.fixmystreet.com/report/7702964)
+- Overgrown grass verge obstructing view, 13th June :- [7702937](https://www.fixmystreet.com/report/7702937)
 - The Grange Estate, cleansing and weed killing needed, 12th June :- [7702323](https://www.fixmystreet.com/report/7702323)
 - Lyndley Chase junction On to Stoke Orchard Road, 12th June :- [7702023](https://www.fixmystreet.com/report/7702023)
 - Drain cover missing, 12th June :- [7701820](https://www.fixmystreet.com/report/7701820)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - New fountain in Cirencester Road, 12th June :- [7700155](https://www.fixmystreet.com/report/7700155)
 - Healthy tree, no need to cut!, 12th June :- [7700020](https://www.fixmystreet.com/report/7700020)
 - Diy/building materials, 12th June :- [7699588](https://www.fixmystreet.com/report/7699588)
-- Diy/building materials, 12th June :- [7699587](https://www.fixmystreet.com/report/7699587)
-- Post or sign leaning slightly (less than 20 degrees) problem, 12th June :- [7699698](https://www.fixmystreet.com/report/7699698)
-- Other damage to pavement i.e. cobbles, raised mound/surface problem, 12th June :- [7699456](https://www.fixmystreet.com/report/7699456)
 
 <!-- fix_marker ends -->
