@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Grass verge growth obscuring visibility, 13th June :- [7704196](https://www.fixmystreet.com/report/7704196)
+- Abandoned vehicle, 13th June :- [7704179](https://www.fixmystreet.com/report/7704179)
+- Road in very poor condition, 13th June :- [7704153](https://www.fixmystreet.com/report/7704153)
+- W&W works blocking one side of Everest Road, 13th June :- [7704126](https://www.fixmystreet.com/report/7704126)
+- Over hanging branches into property and weeds all down the alleyway, 13th June :- [7704110](https://www.fixmystreet.com/report/7704110)
+- Dumped car, 13th June :- [7704087](https://www.fixmystreet.com/report/7704087)
 - It would seem that this hole should be replaced with a stone or cement type material block. Previously there was a large blob of tarmac fitted there. -it has been left on the side of the road next to the trunk of the large tree, 13th June :- [7703789](https://www.fixmystreet.com/report/7703789)
 - Roadwork barriers collapsing onto pavement or road - hindering pedestarians/vehicles, 13th June :- [7703256](https://www.fixmystreet.com/report/7703256)
 - Pothole not fixed properly!!!!, 13th June :- [7703243](https://www.fixmystreet.com/report/7703243)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Fly Tipped Metal Drum, 12th June :- [7700955](https://www.fixmystreet.com/report/7700955)
 - A fallen tree branch is blocking a path. The tree may still be vulnerable to dropping another large branch., 12th June :- [7700953](https://www.fixmystreet.com/report/7700953)
 - Dog poo on the pavement, 12th June :- [7700948](https://www.fixmystreet.com/report/7700948)
-- Branch blocking pavement, 12th June :- [7700829](https://www.fixmystreet.com/report/7700829)
-- Crossing audible sound too loud/soft problem, 12th June :- [7700717](https://www.fixmystreet.com/report/7700717)
-- Fabrics left in park, 12th June :- [7700552](https://www.fixmystreet.com/report/7700552)
-- Tree is damaged problem, 12th June :- [7700719](https://www.fixmystreet.com/report/7700719)
-- Tree down on Road, 12th June :- [7700325](https://www.fixmystreet.com/report/7700325)
-- Flooded, 12th June :- [7700159](https://www.fixmystreet.com/report/7700159)
 
 <!-- fix_marker ends -->
