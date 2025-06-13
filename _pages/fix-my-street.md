@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Sink hole type depression in road, 13th June :- [7707147](https://www.fixmystreet.com/report/7707147)
+- Flytipping, 13th June :- [7707126](https://www.fixmystreet.com/report/7707126)
+- Hedge is growing across pedestrian section of path, 13th June :- [7707049](https://www.fixmystreet.com/report/7707049)
 - Cars driving through pedestrian crossing when green man is lit, 13th June :- [7706623](https://www.fixmystreet.com/report/7706623)
 - Style is impossible to access due to overgrown vegetation, 13th June :- [7706615](https://www.fixmystreet.com/report/7706615)
 - Crops here are blocking footpath, 13th June :- [7706608](https://www.fixmystreet.com/report/7706608)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Bags of Rubbish, 13th June :- [7704407](https://www.fixmystreet.com/report/7704407)
 - Grass verge growth obscuring visibility, 13th June :- [7704196](https://www.fixmystreet.com/report/7704196)
 - Abandoned vehicle, 13th June :- [7704179](https://www.fixmystreet.com/report/7704179)
-- Road in very poor condition, 13th June :- [7704153](https://www.fixmystreet.com/report/7704153)
-- W&W works blocking one side of Everest Road, 13th June :- [7704126](https://www.fixmystreet.com/report/7704126)
-- Over hanging branches into property and weeds all down the alleyway, 13th June :- [7704110](https://www.fixmystreet.com/report/7704110)
 
 <!-- fix_marker ends -->
