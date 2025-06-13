@@ -1,17 +1,248 @@
 {
-    "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
-    "meta": {
-        "publisher": "Environment Agency",
-        "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
-        "version": "0.9",
-        "comment": "Status: Beta service",
-        "hasFormat": [
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.csv?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.html?county=Gloucestershire"
-        ]
+  "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
+  "meta": {
+    "publisher": "Environment Agency",
+    "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
+    "version": "0.9",
+    "comment": "Status: Beta service",
+    "hasFormat": [
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.csv",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
+    ]
+  },
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF302",
+      "description": "River Blythe in Warwickshire",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF302",
+        "county": "Solihull, Warwickshire",
+        "notation": "033WAF302",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF302/polygon",
+        "riverOrSea": "River Blythe"
+      },
+      "floodAreaID": "033WAF302",
+      "isTidal": false,
+      "message": "This flood alert has been issued as rain and thunderstorms have been forecast for this area tonight and over the weekend (from Friday 13/6 - Sunday 15/6). There is uncertainty however, over the amount of rainfall expected and the exact location of these thunderstorms. River and surface water flooding may affect these areas. We urge you to remain vigilant and avoid walking and driving through flood water. We are continuing to actively monitor the situation closely and will issue updates, and further flood alerts and warnings if necessary. You can monitor your local weather conditions and river levels on the GOV.UK website. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-06-13T14:43:00",
+      "timeRaised": "2025-06-13T14:43:58",
+      "timeSeverityChanged": "2025-06-13T14:43:00"
     },
-    "items": []
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF330",
+      "description": "River Stour and Smestow Brook in the Black Country and South Staffordshire",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF330",
+        "county": "Dudley, Sandwell, Staffordshire, Wolverhampton, Worcestershire",
+        "notation": "033WAF330",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF330/polygon",
+        "riverOrSea": "River Stour, Smestow Brook"
+      },
+      "floodAreaID": "033WAF330",
+      "isTidal": false,
+      "message": "This flood alert has been issued as rain and thunderstorms have been forecast for this area tonight and over the weekend (from Friday 13/6 - Sunday 15/6). There is uncertainty however, over the amount of rainfall expected and the exact location of these thunderstorms. River and surface water flooding may affect these areas. We urge you to remain vigilant and avoid walking and driving through flood water. We are continuing to actively monitor the situation closely and will issue updates, and further flood alerts and warnings if necessary. You can monitor your local weather conditions and river levels on the GOV.UK website. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-06-13T14:44:00",
+      "timeRaised": "2025-06-13T14:44:30",
+      "timeSeverityChanged": "2025-06-13T14:44:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WAFT1W10A00",
+      "description": "Upper River Tamar",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W10A00",
+        "county": "Cornwall, Devon",
+        "notation": "114WAFT1W10A00",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W10A00/polygon",
+        "riverOrSea": "River Tamar, River Strat, River Neet, River Ottery, River Kensey"
+      },
+      "floodAreaID": "114WAFT1W10A00",
+      "isTidal": false,
+      "message": "Flooding is possible from Friday evening and overnight into Saturday morning. Heavy rain is forecast throughout Friday afternoon with intense and potentially thundery torrential periods of rain developing during Friday evening across the area. The forecast suggests that there will be flooding to low lying land and roads close to rivers from late evening. We expect rivers to remain high throughout Saturday morning. Take care near the areas of concern and monitor your local weather conditions. We are monitoring river levels and have staff in the area checking for and clearing blockages. This message will be updated on Saturday morning or earlier if the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-06-13T10:27:00",
+      "timeRaised": "2025-06-13T10:28:04",
+      "timeSeverityChanged": "2025-06-13T10:27:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WAFT1W12A00",
+      "description": "River Plym and Tory Brook",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W12A00",
+        "county": "Devon, Plymouth",
+        "notation": "114WAFT1W12A00",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W12A00/polygon",
+        "riverOrSea": "River Plym, Tory Brook, Long Brook"
+      },
+      "floodAreaID": "114WAFT1W12A00",
+      "isTidal": false,
+      "message": "Flooding is possible from Friday evening and overnight into Saturday morning. Heavy rain is forecast throughout Friday afternoon with intense and potentially thundery torrential periods of rain developing during Friday evening across the area. The forecast suggests that there will be flooding to low lying land and roads close to rivers from late evening. We expect rivers to remain high throughout Saturday morning. Take care near the areas of concern and monitor your local weather conditions. We are monitoring river levels and have staff in the area checking for and clearing blockages. This message will be updated on Saturday morning or earlier if the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-06-13T10:27:00",
+      "timeRaised": "2025-06-13T10:27:48",
+      "timeSeverityChanged": "2025-06-13T10:27:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WAFT1W01A00",
+      "description": "West Cornwall Rivers",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W01A00",
+        "county": "Cornwall",
+        "notation": "114WAFT1W01A00",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W01A00/polygon",
+        "riverOrSea": "River Hayle, Perrancoombe Stream, Bolingey Stream, Portreath Stream, Newlyn Coombe River"
+      },
+      "floodAreaID": "114WAFT1W01A00",
+      "isTidal": false,
+      "message": "Flooding is possible from Friday evening and overnight into Saturday morning. Heavy rain is forecast throughout Friday afternoon with intense and potentially thundery torrential periods of rain developing during Friday evening across the area. The forecast suggests that there will be flooding to low lying land and roads close to rivers from late evening. We expect rivers to remain high throughout Saturday morning. Take care near the areas of concern and monitor your local weather conditions. We are monitoring river levels and have staff in the area checking for and clearing blockages. This message will be updated on Saturday morning or earlier if the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-06-13T10:27:00",
+      "timeRaised": "2025-06-13T10:28:00",
+      "timeSeverityChanged": "2025-06-13T10:27:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF300",
+      "description": "River Rea",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF300",
+        "county": "Birmingham",
+        "notation": "033WAF300",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF300/polygon",
+        "riverOrSea": "River Rea"
+      },
+      "floodAreaID": "033WAF300",
+      "isTidal": false,
+      "message": "This flood alert has been issued as rain and thunderstorms have been forecast for this area tonight and over the weekend (from Friday 13/6 - Sunday 15/6). There is uncertainty however, over the amount of rainfall expected and the exact location of these thunderstorms. River and surface water flooding may affect these areas. We urge you to remain vigilant and avoid walking and driving through flood water. We are continuing to actively monitor the situation closely and will issue updates, and further flood alerts and warnings if necessary. You can monitor your local weather conditions and river levels on the GOV.UK website. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-06-13T14:44:00",
+      "timeRaised": "2025-06-13T14:44:26",
+      "timeSeverityChanged": "2025-06-13T14:44:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WABTW14",
+      "description": "River Dart area",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WABTW14",
+        "county": "Devon, Torbay",
+        "notation": "113WABTW14",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WABTW14/polygon",
+        "riverOrSea": "River Dart"
+      },
+      "floodAreaID": "113WABTW14",
+      "isTidal": false,
+      "message": "The risk of flooding has now reduced. The heavy rainfall experienced earlier has cleared the area and river levels are falling. The Environment Agency will continue to monitor the situation and issue any further updates as necessary.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-06-12T18:05:00",
+      "timeRaised": "2025-06-12T18:06:09",
+      "timeSeverityChanged": "2025-06-12T18:05:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF303",
+      "description": "Upper Tame",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF303",
+        "county": "Birmingham, Dudley, Sandwell, Solihull, Walsall, Warwickshire, Wolverhampton",
+        "notation": "033WAF303",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF303/polygon",
+        "riverOrSea": "River Tame, Ford Brook"
+      },
+      "floodAreaID": "033WAF303",
+      "isTidal": false,
+      "message": "This flood alert has been issued as rain and thunderstorms have been forecast for this area tonight and over the weekend (from Friday 13/6 - Sunday 15/6). There is uncertainty however, over the amount of rainfall expected and the exact location of these thunderstorms. River and surface water flooding may affect these areas. We urge you to remain vigilant and avoid walking and driving through flood water. We are continuing to actively monitor the situation closely and will issue updates, and further flood alerts and warnings if necessary. You can monitor your local weather conditions and river levels on the GOV.UK website. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-06-13T14:44:00",
+      "timeRaised": "2025-06-13T14:45:03",
+      "timeSeverityChanged": "2025-06-13T14:44:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF340",
+      "description": "Upper Tame at Sandwell Valley",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF340",
+        "county": "Birmingham, Sandwell",
+        "notation": "033WAF340",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF340/polygon"
+      },
+      "floodAreaID": "033WAF340",
+      "isTidal": false,
+      "message": "This flood alert has been issued as rain and thunderstorms have been forecast for this area tonight and over the weekend (from Friday 13/6 - Sunday 15/6). There is uncertainty however, over the amount of rainfall expected and the exact location of these thunderstorms. River and surface water flooding may affect these areas. We urge you to remain vigilant and avoid walking and driving through flood water. We are continuing to actively monitor the situation closely and will issue updates, and further flood alerts and warnings if necessary. You can monitor your local weather conditions and river levels on the GOV.UK website. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-06-13T14:43:00",
+      "timeRaised": "2025-06-13T14:43:53",
+      "timeSeverityChanged": "2025-06-13T14:43:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051WAFEF7B",
+      "description": "The River Roach, Prittle Brook and Eastwood Brook",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WAFEF7B",
+        "county": "Essex, Southend-on-Sea",
+        "notation": "051WAFEF7B",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WAFEF7B/polygon",
+        "riverOrSea": "Roach, Prittle Brook, Eastwood Brook"
+      },
+      "floodAreaID": "051WAFEF7B",
+      "isTidal": false,
+      "message": "This message has been issued because some minor flooding to low lying land, roads and riverside areas is likely and issues with surface water flooding and difficult driving conditions from 9:30pm this evening Friday 13th June, through to 10:00am Saturday morning.  Areas most at risk are riverside areas of the Eastwood Brook around the A1015, Rayleigh Road, and Prittle Brook along Manchester Drive in Leigh-on-Sea. It is possible that we may need to issue more warning messages in response to the rainfall. The forecast is for some heavy thundery rainfall from 10:00pm tonight which will pass quickly, but which may be torrential and could lead to some surface water problems. Flood water is dangerous. Don't put yourself or others at risk. Our workforce are out checking flood defences and clearing weed screens. We are monitoring the situation and will update this message by 10:00am tomorrow morning, Saturday 14th June, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-06-13T15:15:00",
+      "timeRaised": "2025-06-13T15:15:21",
+      "timeSeverityChanged": "2025-06-13T15:15:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF301",
+      "description": "River Cole",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF301",
+        "county": "Birmingham, Solihull, Warwickshire, Worcestershire",
+        "notation": "033WAF301",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF301/polygon",
+        "riverOrSea": "River Cole"
+      },
+      "floodAreaID": "033WAF301",
+      "isTidal": false,
+      "message": "This flood alert has been issued as rain and thunderstorms have been forecast for this area tonight and over the weekend (from Friday 13/6 - Sunday 15/6). There is uncertainty however, over the amount of rainfall expected and the exact location of these thunderstorms. River and surface water flooding may affect these areas. We urge you to remain vigilant and avoid walking and driving through flood water. We are continuing to actively monitor the situation closely and will issue updates, and further flood alerts and warnings if necessary. You can monitor your local weather conditions and river levels on the GOV.UK website. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-06-13T14:43:00",
+      "timeRaised": "2025-06-13T14:44:07",
+      "timeSeverityChanged": "2025-06-13T14:43:00"
+    }
+  ]
 }
