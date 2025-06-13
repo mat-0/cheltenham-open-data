@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Cars driving through pedestrian crossing when green man is lit, 13th June :- [7706623](https://www.fixmystreet.com/report/7706623)
+- Style is impossible to access due to overgrown vegetation, 13th June :- [7706615](https://www.fixmystreet.com/report/7706615)
+- Crops here are blocking footpath, 13th June :- [7706608](https://www.fixmystreet.com/report/7706608)
+- Footpath blocked by vegetation, 13th June :- [7706594](https://www.fixmystreet.com/report/7706594)
+- Path across field not clearly marked or accessible, 13th June :- [7706584](https://www.fixmystreet.com/report/7706584)
+- Large pothole on N side of carriageway., 13th June :- [7706433](https://www.fixmystreet.com/report/7706433)
 - Pothole and blocked drain, 13th June :- [7706180](https://www.fixmystreet.com/report/7706180)
 - The Grange Estate needs street cleansing, Gotherington, 13th June :- [7705964](https://www.fixmystreet.com/report/7705964)
 - All the estate voxwell lane and all roads off it, 13th June :- [7705067](https://www.fixmystreet.com/report/7705067)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Road in very poor condition, 13th June :- [7704153](https://www.fixmystreet.com/report/7704153)
 - W&W works blocking one side of Everest Road, 13th June :- [7704126](https://www.fixmystreet.com/report/7704126)
 - Over hanging branches into property and weeds all down the alleyway, 13th June :- [7704110](https://www.fixmystreet.com/report/7704110)
-- Dumped car, 13th June :- [7704087](https://www.fixmystreet.com/report/7704087)
-- It would seem that this hole should be replaced with a stone or cement type material block. Previously there was a large blob of tarmac fitted there. -it has been left on the side of the road next to the trunk of the large tree, 13th June :- [7703789](https://www.fixmystreet.com/report/7703789)
-- Roadwork barriers collapsing onto pavement or road - hindering pedestarians/vehicles, 13th June :- [7703256](https://www.fixmystreet.com/report/7703256)
-- Pothole not fixed properly!!!!, 13th June :- [7703243](https://www.fixmystreet.com/report/7703243)
-- 17 Belland Drive, rotting caravan on drive, 13th June :- [7703065](https://www.fixmystreet.com/report/7703065)
-- Overhanging Branches Damaging Motor Home, 13th June :- [7702964](https://www.fixmystreet.com/report/7702964)
 
 <!-- fix_marker ends -->
