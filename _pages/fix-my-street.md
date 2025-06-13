@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Unstable pavement outside my grandmothers house. Trip hazard for the elderly., 13th June :- [7704886](https://www.fixmystreet.com/report/7704886)
+- Tree is damaged problem, 13th June :- [7704713](https://www.fixmystreet.com/report/7704713)
+- General road markings, lines and stud issues problem, 13th June :- [7704712](https://www.fixmystreet.com/report/7704712)
 - Pothole with raised ironwork, Swindon Roaf, 13th June :- [7704481](https://www.fixmystreet.com/report/7704481)
 - Manhole cover rattles every time a vehicle goes over and the building shakes if it is a truck. Getting worse every day., 13th June :- [7704410](https://www.fixmystreet.com/report/7704410)
 - Bags of Rubbish, 13th June :- [7704407](https://www.fixmystreet.com/report/7704407)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Overgrown grass verge obstructing view, 13th June :- [7702937](https://www.fixmystreet.com/report/7702937)
 - The Grange Estate, cleansing and weed killing needed, 12th June :- [7702323](https://www.fixmystreet.com/report/7702323)
 - Lyndley Chase junction On to Stoke Orchard Road, 12th June :- [7702023](https://www.fixmystreet.com/report/7702023)
-- Drain cover missing, 12th June :- [7701820](https://www.fixmystreet.com/report/7701820)
-- Cats driving through pedestrian green light, 12th June :- [7701405](https://www.fixmystreet.com/report/7701405)
-- Tree is damaged problem, 12th June :- [7701233](https://www.fixmystreet.com/report/7701233)
 
 <!-- fix_marker ends -->
