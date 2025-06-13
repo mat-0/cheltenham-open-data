@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- It would seem that this hole should be replaced with a stone or cement type material block. Previously there was a large blob of tarmac fitted there. -it has been left on the side of the road next to the trunk of the large tree, 13th June :- [7703789](https://www.fixmystreet.com/report/7703789)
 - Roadwork barriers collapsing onto pavement or road - hindering pedestarians/vehicles, 13th June :- [7703256](https://www.fixmystreet.com/report/7703256)
 - Pothole not fixed properly!!!!, 13th June :- [7703243](https://www.fixmystreet.com/report/7703243)
 - 17 Belland Drive, rotting caravan on drive, 13th June :- [7703065](https://www.fixmystreet.com/report/7703065)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Tree is damaged problem, 12th June :- [7700719](https://www.fixmystreet.com/report/7700719)
 - Tree down on Road, 12th June :- [7700325](https://www.fixmystreet.com/report/7700325)
 - Flooded, 12th June :- [7700159](https://www.fixmystreet.com/report/7700159)
-- New fountain in Cirencester Road, 12th June :- [7700155](https://www.fixmystreet.com/report/7700155)
 
 <!-- fix_marker ends -->
