@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Roadwork barriers collapsing onto pavement or road - hindering pedestarians/vehicles, 13th June :- [7703256](https://www.fixmystreet.com/report/7703256)
+- Pothole not fixed properly!!!!, 13th June :- [7703243](https://www.fixmystreet.com/report/7703243)
 - 17 Belland Drive, rotting caravan on drive, 13th June :- [7703065](https://www.fixmystreet.com/report/7703065)
 - Overhanging Branches Damaging Motor Home, 13th June :- [7702964](https://www.fixmystreet.com/report/7702964)
 - Overgrown grass verge obstructing view, 13th June :- [7702937](https://www.fixmystreet.com/report/7702937)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Tree down on Road, 12th June :- [7700325](https://www.fixmystreet.com/report/7700325)
 - Flooded, 12th June :- [7700159](https://www.fixmystreet.com/report/7700159)
 - New fountain in Cirencester Road, 12th June :- [7700155](https://www.fixmystreet.com/report/7700155)
-- Healthy tree, no need to cut!, 12th June :- [7700020](https://www.fixmystreet.com/report/7700020)
-- Diy/building materials, 12th June :- [7699588](https://www.fixmystreet.com/report/7699588)
 
 <!-- fix_marker ends -->
