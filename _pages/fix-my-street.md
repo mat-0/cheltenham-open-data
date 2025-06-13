@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole with raised ironwork, Swindon Roaf, 13th June :- [7704481](https://www.fixmystreet.com/report/7704481)
+- Manhole cover rattles every time a vehicle goes over and the building shakes if it is a truck. Getting worse every day., 13th June :- [7704410](https://www.fixmystreet.com/report/7704410)
+- Bags of Rubbish, 13th June :- [7704407](https://www.fixmystreet.com/report/7704407)
 - Grass verge growth obscuring visibility, 13th June :- [7704196](https://www.fixmystreet.com/report/7704196)
 - Abandoned vehicle, 13th June :- [7704179](https://www.fixmystreet.com/report/7704179)
 - Road in very poor condition, 13th June :- [7704153](https://www.fixmystreet.com/report/7704153)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Drain cover missing, 12th June :- [7701820](https://www.fixmystreet.com/report/7701820)
 - Cats driving through pedestrian green light, 12th June :- [7701405](https://www.fixmystreet.com/report/7701405)
 - Tree is damaged problem, 12th June :- [7701233](https://www.fixmystreet.com/report/7701233)
-- Fly Tipped Metal Drum, 12th June :- [7700955](https://www.fixmystreet.com/report/7700955)
-- A fallen tree branch is blocking a path. The tree may still be vulnerable to dropping another large branch., 12th June :- [7700953](https://www.fixmystreet.com/report/7700953)
-- Dog poo on the pavement, 12th June :- [7700948](https://www.fixmystreet.com/report/7700948)
 
 <!-- fix_marker ends -->
