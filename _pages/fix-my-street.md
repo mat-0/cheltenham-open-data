@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Low hanging and over hanging trees in Brookway Road lane near Brookway Drive, 14th June :- [7708452](https://www.fixmystreet.com/report/7708452)
+- Dead Tree, 14th June :- [7708422](https://www.fixmystreet.com/report/7708422)
+- Damaged Park Flooring, 14th June :- [7708403](https://www.fixmystreet.com/report/7708403)
 - Small items fly tipped, 14th June :- [7708239](https://www.fixmystreet.com/report/7708239)
 - Flyposting on trees, 14th June :- [7707951](https://www.fixmystreet.com/report/7707951)
 - Line painting faded, 14th June :- [7707808](https://www.fixmystreet.com/report/7707808)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - All the estate voxwell lane and all roads off it, 13th June :- [7705067](https://www.fixmystreet.com/report/7705067)
 - Unstable pavement outside my grandmothers house. Trip hazard for the elderly., 13th June :- [7704886](https://www.fixmystreet.com/report/7704886)
 - Tree is damaged problem, 13th June :- [7704713](https://www.fixmystreet.com/report/7704713)
-- General road markings, lines and stud issues problem, 13th June :- [7704712](https://www.fixmystreet.com/report/7704712)
-- Pothole with raised ironwork, Swindon Roaf, 13th June :- [7704481](https://www.fixmystreet.com/report/7704481)
-- Manhole cover rattles every time a vehicle goes over and the building shakes if it is a truck. Getting worse every day., 13th June :- [7704410](https://www.fixmystreet.com/report/7704410)
 
 <!-- fix_marker ends -->
