@@ -12,14 +12,14 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Gloucestershire in Pictures: Swimming and new art ([6 hours ago](https://www.bbc.com/news/articles/ckgr8gzq8rjo))
-- City taken over by week of Moomin celebrations ([6 hours ago](https://www.bbc.com/news/articles/c79e092j1qyo))
-- 'I want to say thank you for saving my dad's life' ([6 hours ago](https://www.bbc.com/news/articles/c8jg40v7l00o))
-- Tribute to 'kind and joyful' Air India crash victims ([17 hours ago](https://www.bbc.com/news/articles/c20qv62dxq6o))
-- GCHQ intern who took secret data home jailed ([20 hours ago](https://www.bbc.com/news/articles/c14k3xlj6rpo))
-- 'Amazing' artefacts unboxed by public ([21 hours ago](https://www.bbc.com/news/articles/cgeglpyez20o))
-- Petersfield Community and Sports Hub set to strengthen community pride ([21 hours ago](https://gloucesternewscentre.co.uk/petersfield-community-and-sports-hub-set-to-strengthen-community-pride/))
-- 'I feel that I am not valued as a carer' ([22 hours ago](https://www.bbc.com/news/articles/czdyzvrld34o))
+- Gloucestershire in Pictures: Swimming and new art ([7 hours ago](https://www.bbc.com/news/articles/ckgr8gzq8rjo))
+- City taken over by week of Moomin celebrations ([7 hours ago](https://www.bbc.com/news/articles/c79e092j1qyo))
+- 'I want to say thank you for saving my dad's life' ([7 hours ago](https://www.bbc.com/news/articles/c8jg40v7l00o))
+- Tribute to 'kind and joyful' Air India crash victims ([18 hours ago](https://www.bbc.com/news/articles/c20qv62dxq6o))
+- GCHQ intern who took secret data home jailed ([21 hours ago](https://www.bbc.com/news/articles/c14k3xlj6rpo))
+- 'Amazing' artefacts unboxed by public ([22 hours ago](https://www.bbc.com/news/articles/cgeglpyez20o))
+- Petersfield Community and Sports Hub set to strengthen community pride ([22 hours ago](https://gloucesternewscentre.co.uk/petersfield-community-and-sports-hub-set-to-strengthen-community-pride/))
+- 'I feel that I am not valued as a carer' ([23 hours ago](https://www.bbc.com/news/articles/czdyzvrld34o))
 - Petersfield Community and Sports Hub set to strengthen community pride in Cheltenham ([1 days ago](https://www.cheltenham.gov.uk/news/article/3020/petersfield_community_and_sports_hub_set_to_strengthen_community_pride_in_cheltenham))
 - Woman dies from injuries following crash ([1 days ago](https://www.bbc.com/news/articles/cx2q7py0p1qo))
 - 'Near miss' hotspot to get crossing after campaign ([1 days ago](https://www.bbc.com/news/articles/ckg75mj80kno))
@@ -27,7 +27,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Pub popular with horse racing community closes ([1 days ago](https://www.bbc.com/news/articles/czel4g51keno))
 - Businesses welcome changes to motorway junction ([1 days ago](https://www.bbc.com/news/articles/c4gk1xllmrro))
 - Girl killed in plane crash was 'ray of sunshine' ([1 days ago](https://www.bbc.com/news/articles/cq69npp0l9no))
-- Hundreds of homes could destroy village's identity ([1 days ago](https://www.bbc.com/news/articles/cdj9vnpx82po))
+- Hundreds of homes could destroy village's identity ([2 days ago](https://www.bbc.com/news/articles/cdj9vnpx82po))
 - Girl, 3, died after 'mini tornado' lifted trampoline ([2 days ago](https://www.bbc.com/news/articles/cx2j9p12m52o))
 - Dad's challenge in memory of 'beloved' daughter ([2 days ago](https://www.bbc.com/news/articles/c3e5qzklpzpo))
 - Calls for schools to ditch formal uniforms ([2 days ago](https://www.bbc.com/news/articles/c79eg0w59y8o))
@@ -62,6 +62,5 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - ‘Abominating’ school building approved despite fears it will ‘loom over’ homes ([21 days ago](https://gloucesternewscentre.co.uk/abominating-school-building-approved-despite-fears-it-will-loom-over-homes/))
 - Luxury spa hotel could be the future for iconic Municipal Offices as preferred bidder is selected ([23 days ago](https://www.cheltenham.gov.uk/news/article/3014/luxury_spa_hotel_could_be_the_future_for_iconic_municipal_offices_as_preferred_bidder_is_selected))
 - Spring bank holiday waste and recycling collections ([24 days ago](https://www.cheltenham.gov.uk/news/article/3013/spring_bank_holiday_waste_and_recycling_collections))
-- HBD unveils phase two plans for Golden Valley at Cyber UK ([29 days ago](https://www.cheltenham.gov.uk/news/article/3012/hbd_unveils_phase_two_plans_for_golden_valley_at_cyber_uk))
 
 <!-- news_marker ends -->
