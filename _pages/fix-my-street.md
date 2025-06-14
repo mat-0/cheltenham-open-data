@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Big hole in road, 14th June :- [7709663](https://www.fixmystreet.com/report/7709663)
 - Trees , hedges over hanging property , damaging roof of shed, 14th June :- [7709504](https://www.fixmystreet.com/report/7709504)
 - The new pavement in West Approach Drive has no kerb and cars are mounting the pavement., 14th June :- [7709457](https://www.fixmystreet.com/report/7709457)
 - 30mph speed gate totally hidden, 14th June :- [7709453](https://www.fixmystreet.com/report/7709453)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Flyposting on trees, 14th June :- [7707951](https://www.fixmystreet.com/report/7707951)
 - Line painting faded, 14th June :- [7707808](https://www.fixmystreet.com/report/7707808)
 - Sink hole type depression in road, 13th June :- [7707147](https://www.fixmystreet.com/report/7707147)
-- Flytipping, 13th June :- [7707126](https://www.fixmystreet.com/report/7707126)
 
 <!-- fix_marker ends -->
