@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Saturday, 14 June 2025
 
-- The average temperature today is 14.84˚C,
-- With highs of 14.84˚C and lows of 14.84˚C,
-- It may feel like 14.6˚C with clear sky
-- The wind speed is 3.53m/s and visibility is 10000m
-- The pressure is 1018hPa and humidity is 85%
+- The average temperature today is 13.72˚C,
+- With highs of 13.72˚C and lows of 13.71˚C,
+- It may feel like 13.34˚C with clear sky
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 1018hPa and humidity is 84%
 - The sun will rise at 03:48 and set at 20:28
 
 <!-- weather_marker ends -->
