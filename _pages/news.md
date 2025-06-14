@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Ex-England cricketer 'incredibly proud' to receive MBE ([4 hours ago](https://www.bbc.com/news/articles/cql2qnr0kveo))
-- 'I feel that I am not valued as a carer' ([5 hours ago](https://www.bbc.com/news/articles/czdyzvrld34o))
-- Hope for community theatre after £50,000 raised ([5 hours ago](https://www.bbc.com/news/articles/c3rpgenlq8jo))
-- Gloucestershire in Pictures: Swimming and new art ([14 hours ago](https://www.bbc.com/news/articles/ckgr8gzq8rjo))
-- City taken over by week of Moomin celebrations ([14 hours ago](https://www.bbc.com/news/articles/c79e092j1qyo))
-- 'I want to say thank you for saving my dad's life' ([14 hours ago](https://www.bbc.com/news/articles/c8jg40v7l00o))
+- Ex-England cricketer 'incredibly proud' to receive MBE ([5 hours ago](https://www.bbc.com/news/articles/cql2qnr0kveo))
+- 'I feel that I am not valued as a carer' ([6 hours ago](https://www.bbc.com/news/articles/czdyzvrld34o))
+- Hope for community theatre after £50,000 raised ([6 hours ago](https://www.bbc.com/news/articles/c3rpgenlq8jo))
+- Gloucestershire in Pictures: Swimming and new art ([15 hours ago](https://www.bbc.com/news/articles/ckgr8gzq8rjo))
+- City taken over by week of Moomin celebrations ([15 hours ago](https://www.bbc.com/news/articles/c79e092j1qyo))
+- 'I want to say thank you for saving my dad's life' ([15 hours ago](https://www.bbc.com/news/articles/c8jg40v7l00o))
 - Tribute to 'kind and joyful' Air India crash victims ([1 days ago](https://www.bbc.com/news/articles/c20qv62dxq6o))
 - GCHQ intern who took secret data home jailed ([1 days ago](https://www.bbc.com/news/articles/c14k3xlj6rpo))
 - 'Amazing' artefacts unboxed by public ([1 days ago](https://www.bbc.com/news/articles/cgeglpyez20o))
