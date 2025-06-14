@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Trees , hedges over hanging property , damaging roof of shed, 14th June :- [7709504](https://www.fixmystreet.com/report/7709504)
+- The new pavement in West Approach Drive has no kerb and cars are mounting the pavement., 14th June :- [7709457](https://www.fixmystreet.com/report/7709457)
+- 30mph speed gate totally hidden, 14th June :- [7709453](https://www.fixmystreet.com/report/7709453)
 - Weeds growing up on paths at roadsides, 14th June :- [7709345](https://www.fixmystreet.com/report/7709345)
 - Trailer dumped in bush, 14th June :- [7709337](https://www.fixmystreet.com/report/7709337)
 - Builders materials dumped, 14th June :- [7709324](https://www.fixmystreet.com/report/7709324)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Line painting faded, 14th June :- [7707808](https://www.fixmystreet.com/report/7707808)
 - Sink hole type depression in road, 13th June :- [7707147](https://www.fixmystreet.com/report/7707147)
 - Flytipping, 13th June :- [7707126](https://www.fixmystreet.com/report/7707126)
-- Hedge is growing across pedestrian section of path, 13th June :- [7707049](https://www.fixmystreet.com/report/7707049)
-- Cars driving through pedestrian crossing when green man is lit, 13th June :- [7706623](https://www.fixmystreet.com/report/7706623)
-- Style is impossible to access due to overgrown vegetation, 13th June :- [7706615](https://www.fixmystreet.com/report/7706615)
 
 <!-- fix_marker ends -->
