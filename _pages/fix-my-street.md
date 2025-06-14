@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipped items, 14th June :- [7708788](https://www.fixmystreet.com/report/7708788)
+- Flytipped items, 14th June :- [7708781](https://www.fixmystreet.com/report/7708781)
+- The edge of the road surface has collapsed, producing a lengthy depression, several inches deep at worst. Hard to spot and avoid in the dark, and, were heavy rain to flood it, impossible to gauge the ddepth at any time. I'm not sure how long the problem has existed, but several weeks at least, probably longer., 14th June :- [7708747](https://www.fixmystreet.com/report/7708747)
 - Traffic light on left hand side not showing green., 14th June :- [7708708](https://www.fixmystreet.com/report/7708708)
 - Dumped sofa, 14th June :- [7708631](https://www.fixmystreet.com/report/7708631)
 - Low hanging and over hanging trees in Brookway Road lane near Brookway Drive, 14th June :- [7708452](https://www.fixmystreet.com/report/7708452)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Footpath blocked by vegetation, 13th June :- [7706594](https://www.fixmystreet.com/report/7706594)
 - Path across field not clearly marked or accessible, 13th June :- [7706584](https://www.fixmystreet.com/report/7706584)
 - Large pothole on N side of carriageway., 13th June :- [7706433](https://www.fixmystreet.com/report/7706433)
-- Pothole and blocked drain, 13th June :- [7706180](https://www.fixmystreet.com/report/7706180)
-- The Grange Estate needs street cleansing, Gotherington, 13th June :- [7705964](https://www.fixmystreet.com/report/7705964)
-- All the estate voxwell lane and all roads off it, 13th June :- [7705067](https://www.fixmystreet.com/report/7705067)
 
 <!-- fix_marker ends -->
