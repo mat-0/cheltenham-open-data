@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Abandoned car for weeks, 15th June :- [7713393](https://www.fixmystreet.com/report/7713393)
 - Pothole or surface erosion area where the top layer of asphalt has worn away, 15th June :- [7713217](https://www.fixmystreet.com/report/7713217)
 - Pavement is blocked by barriers with no signage forcing pedestrians on to road by blind summit of hill. Builders frequently park on the double yellow lines by the blockage making life for pedestrians, wheelchairs and buggies even more difficult and dangerous., 15th June :- [7713198](https://www.fixmystreet.com/report/7713198)
 - Van fully parked on pavement meaning pedestrians have to walk into traffic, 15th June :- [7713028](https://www.fixmystreet.com/report/7713028)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Builders materials dumped, 14th June :- [7709324](https://www.fixmystreet.com/report/7709324)
 - Drain overflowing with weeds and mud no cover, 14th June :- [7709309](https://www.fixmystreet.com/report/7709309)
 - Flytipped items, 14th June :- [7708788](https://www.fixmystreet.com/report/7708788)
-- Flytipped items, 14th June :- [7708781](https://www.fixmystreet.com/report/7708781)
 
 <!-- fix_marker ends -->
