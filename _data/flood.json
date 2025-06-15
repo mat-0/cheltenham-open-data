@@ -1,17 +1,836 @@
 {
-    "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
-    "meta": {
-        "publisher": "Environment Agency",
-        "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
-        "version": "0.9",
-        "comment": "Status: Beta service",
-        "hasFormat": [
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.csv?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.html?county=Gloucestershire"
-        ]
+  "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
+  "meta": {
+    "publisher": "Environment Agency",
+    "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
+    "version": "0.9",
+    "comment": "Status: Beta service",
+    "hasFormat": [
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.csv",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
+    ]
+  },
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF41Wandle",
+      "description": "River Wandle area in the London Boroughs of Wandsworth, Merton, Lambeth, Croydon and Sutton",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF41Wandle",
+        "county": "Croydon, Greater London, Lambeth, Merton, Sutton, Wandsworth",
+        "notation": "064WAF41Wandle",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF41Wandle/polygon",
+        "riverOrSea": "River Wandle"
+      },
+      "floodAreaID": "064WAF41Wandle",
+      "isTidal": false,
+      "message": " The flood alert for the River Wandle is no longer in force. River levels peaked overnight and are expected to continue to fall throughout today 14/06/25. The risk of flooding has now passed. The forecast is for showers over the next few days. We will continue to monitor the situation and will issue further alerts or warnings if necessary.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-06-14T10:36:00",
+      "timeRaised": "2025-06-14T10:36:24",
+      "timeSeverityChanged": "2025-06-14T10:36:00"
     },
-    "items": []
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF7ShutCray",
+      "description": "Shuttle and Cray",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF7ShutCray",
+        "county": "Bexley, Bromley, Greater London, Kent",
+        "notation": "064WAF7ShutCray",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF7ShutCray/polygon",
+        "riverOrSea": "Shuttle, Cray"
+      },
+      "floodAreaID": "064WAF7ShutCray",
+      "isTidal": false,
+      "message": " The flood alert for the Shuttle and Cray is no longer in force. River levels peaked overnight and are expected to continue to fall throughout today 14/06/25. \nThe risk of flooding has now passed. The forecast is for showers over the next few days. \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-06-14T09:59:00",
+      "timeRaised": "2025-06-14T09:59:55",
+      "timeSeverityChanged": "2025-06-14T09:59:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF302",
+      "description": "River Blythe in Warwickshire",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF302",
+        "county": "Solihull, Warwickshire",
+        "notation": "033WAF302",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF302/polygon",
+        "riverOrSea": "River Blythe"
+      },
+      "floodAreaID": "033WAF302",
+      "isTidal": false,
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-06-14T10:56:00",
+      "timeRaised": "2025-06-14T10:56:42",
+      "timeSeverityChanged": "2025-06-14T10:56:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF43Ravnsbrn",
+      "description": "Ravensbourne area in the London Boroughs of Lewisham, Bromley, Greenwich and Croydon",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF43Ravnsbrn",
+        "county": "Bromley, Croydon, Greater London, Greenwich, Lewisham",
+        "notation": "064WAF43Ravnsbrn",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF43Ravnsbrn/polygon",
+        "riverOrSea": "River Ravensbourne"
+      },
+      "floodAreaID": "064WAF43Ravnsbrn",
+      "isTidal": false,
+      "message": " The flood alert for the Ravensbourne area is no longer in force. River levels peaked overnight and are expected to continue to fall throughout today 14/06/25. The risk of flooding has now passed. The forecast is for showers over the next few days. We will continue to monitor the situation and will issue further alerts or warnings if necessary.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-06-14T10:40:00",
+      "timeRaised": "2025-06-14T10:40:22",
+      "timeSeverityChanged": "2025-06-14T10:40:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF40BevBrook",
+      "description": "Beverley Brook area in Merton, Sutton, Kingston upon Thames, Richmond upon Thames and Wandsworth",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF40BevBrook",
+        "county": "Greater London, Kingston upon Thames, Merton, Richmond upon Thames, Surrey, Sutton, Wandsworth",
+        "notation": "064WAF40BevBrook",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF40BevBrook/polygon",
+        "riverOrSea": "Beverley Brook, Pyl Brook, East Pyl Brook"
+      },
+      "floodAreaID": "064WAF40BevBrook",
+      "isTidal": false,
+      "message": "The flood alert for the Beverley Brook is no longer in force. River levels peaked overnight and are expected to continue to fall throughout today 14/06/25. The risk of flooding has now passed. The forecast is for showers over the next few days. We will continue to monitor the situation and will issue further alerts or warnings if necessary.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-06-14T10:30:00",
+      "timeRaised": "2025-06-14T10:30:32",
+      "timeSeverityChanged": "2025-06-14T10:30:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF33Hogsmill",
+      "description": "River Hogsmill area from Ewell to Kingston upon Thames",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF33Hogsmill",
+        "county": "Greater London, Kingston upon Thames, Surrey",
+        "notation": "064WAF33Hogsmill",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF33Hogsmill/polygon",
+        "riverOrSea": "Hogsmill"
+      },
+      "floodAreaID": "064WAF33Hogsmill",
+      "isTidal": false,
+      "message": "The flood alert for the River Hogsmill is no longer in force. River levels peaked overnight and are expected to continue to fall throughout today 14/06/25. The risk of flooding has now passed. The forecast is for showers over the next few days. We will continue to monitor the situation and will issue further alerts or warnings if necessary.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-06-14T10:24:00",
+      "timeRaised": "2025-06-14T10:24:37",
+      "timeSeverityChanged": "2025-06-14T10:24:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF330",
+      "description": "River Stour and Smestow Brook in the Black Country and South Staffordshire",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF330",
+        "county": "Dudley, Sandwell, Staffordshire, Wolverhampton, Worcestershire",
+        "notation": "033WAF330",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF330/polygon",
+        "riverOrSea": "River Stour, Smestow Brook"
+      },
+      "floodAreaID": "033WAF330",
+      "isTidal": false,
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-06-14T11:02:00",
+      "timeRaised": "2025-06-14T11:02:43",
+      "timeSeverityChanged": "2025-06-14T11:02:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF35RiverRythe",
+      "description": "River Rythe from Oxshott to Thames Ditton",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF35RiverRythe",
+        "county": "Surrey",
+        "notation": "064WAF35RiverRythe",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF35RiverRythe/polygon",
+        "riverOrSea": "River Rythe"
+      },
+      "floodAreaID": "064WAF35RiverRythe",
+      "isTidal": false,
+      "message": "The flood alert for River Rythe is no longer in force. River levels peaked overnight and are expected to continue to fall throughout today 14/06/25. The risk of flooding has now passed. The forecast is for showers over the next few days. We will continue to monitor the situation and will issue further alerts or warnings if necessary.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-06-14T10:05:00",
+      "timeRaised": "2025-06-14T10:05:18",
+      "timeSeverityChanged": "2025-06-14T10:05:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF32UpprMole",
+      "description": "Upper River Mole, Ifield Brook, Gatwick Stream and Burstow Stream",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF32UpprMole",
+        "county": "Surrey, West Sussex",
+        "notation": "064WAF32UpprMole",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF32UpprMole/polygon",
+        "riverOrSea": "Ifield Brook, River Mole, Gatwick Stream, Burstow Stream"
+      },
+      "floodAreaID": "064WAF32UpprMole",
+      "isTidal": false,
+      "message": " The flood alert for Upper River Mole is no longer in force. River levels peaked overnight and are expected to continue to fall throughout today 14/06/25. \nThe risk of flooding has now passed. The forecast is for showers over the next few days. \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-06-14T09:51:00",
+      "timeRaised": "2025-06-14T09:51:48",
+      "timeSeverityChanged": "2025-06-14T09:51:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF32MdleMole",
+      "description": "River Mole and its tributaries from Kinnersley Manor to South Hersham",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF32MdleMole",
+        "county": "Surrey",
+        "notation": "064WAF32MdleMole",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF32MdleMole/polygon",
+        "riverOrSea": "River Mole"
+      },
+      "floodAreaID": "064WAF32MdleMole",
+      "isTidal": false,
+      "message": " The flood alert for the River Mole is no longer in force. River levels peaked overnight and are expected to continue to fall throughout today 14/06/25. The risk of flooding has now passed. The forecast is for showers over the next few days. We will continue to monitor the situation and will issue further alerts or warnings if necessary.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-06-14T10:43:00",
+      "timeRaised": "2025-06-14T10:43:58",
+      "timeSeverityChanged": "2025-06-14T10:43:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WAFT1W10A00",
+      "description": "Upper River Tamar",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W10A00",
+        "county": "Cornwall, Devon",
+        "notation": "114WAFT1W10A00",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W10A00/polygon",
+        "riverOrSea": "River Tamar, River Strat, River Neet, River Ottery, River Kensey"
+      },
+      "floodAreaID": "114WAFT1W10A00",
+      "isTidal": false,
+      "message": "The risk of flooding from the Upper Tamar River has now reduced, and river levels are falling below levels of concern. Whilst no further flooding is expected, please be careful and do not walk or drive through flood water. It is hazardous. ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-06-14T11:28:00",
+      "timeRaised": "2025-06-14T11:28:54",
+      "timeSeverityChanged": "2025-06-14T11:28:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WAFTW05",
+      "description": "Exmoor Rivers",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WAFTW05",
+        "county": "Devon, Somerset",
+        "notation": "113WAFTW05",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WAFTW05/polygon",
+        "riverOrSea": "River Barle, River Exe, River Lyn, River Mole, River Bray"
+      },
+      "floodAreaID": "113WAFTW05",
+      "isTidal": false,
+      "message": "The risk of flooding has now reduced, and rivers have fallen below levels of concern, but will remain sensitive to further rainfall. The heavy rainfall experienced overnight Friday 13th June has cleared the area but further isolated showers are possible during Saturday. The Environment Agency will continue to monitor the situation and issue any further updates as necessary.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-06-14T11:45:00",
+      "timeRaised": "2025-06-14T11:45:38",
+      "timeSeverityChanged": "2025-06-14T11:45:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WAFTW13",
+      "description": "River Teign area",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WAFTW13",
+        "county": "Devon, Torbay",
+        "notation": "113WAFTW13",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WAFTW13/polygon",
+        "riverOrSea": "River Teign, River Bovey, River Lemon, River Kenn"
+      },
+      "floodAreaID": "113WAFTW13",
+      "isTidal": false,
+      "message": "The risk of flooding has now reduced, and rivers have fallen below levels of concern, but will remain sensitive to further rainfall. The heavy rainfall experienced overnight Friday 13th June has cleared the area, but further isolated showers are possible during Saturday. The Environment Agency will continue to monitor the situation and issue any further updates as necessary.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-06-14T11:45:00",
+      "timeRaised": "2025-06-14T11:45:07",
+      "timeSeverityChanged": "2025-06-14T11:45:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF32Redhill",
+      "description": "Redhill Brook at Redhill and Salfords Stream at Salfords",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF32Redhill",
+        "county": "Surrey",
+        "notation": "064WAF32Redhill",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF32Redhill/polygon",
+        "riverOrSea": "Redhill Brook, Salfords Stream"
+      },
+      "floodAreaID": "064WAF32Redhill",
+      "isTidal": false,
+      "message": " The flood alert for Redhill Brook and Salfords Stream is no longer in force. River levels peaked overnight and are expected to continue to fall throughout today 14/06/25. The risk of flooding has now passed. The forecast is for showers over the next few days. We will continue to monitor the situation and will issue further alerts or warnings if necessary.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-06-14T10:12:00",
+      "timeRaised": "2025-06-14T10:13:02",
+      "timeSeverityChanged": "2025-06-14T10:12:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WAFT1W12A00",
+      "description": "River Plym and Tory Brook",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W12A00",
+        "county": "Devon, Plymouth",
+        "notation": "114WAFT1W12A00",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W12A00/polygon",
+        "riverOrSea": "River Plym, Tory Brook, Long Brook"
+      },
+      "floodAreaID": "114WAFT1W12A00",
+      "isTidal": false,
+      "message": "The risk of flooding from the Upper Tamar River has now reduced, and river levels are falling below levels of concern. Whilst no further flooding is expected, please be careful and do not walk or drive through flood water. It is hazardous. ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-06-14T11:28:00",
+      "timeRaised": "2025-06-14T11:28:46",
+      "timeSeverityChanged": "2025-06-14T11:28:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WAFT1W01A00",
+      "description": "West Cornwall Rivers",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W01A00",
+        "county": "Cornwall",
+        "notation": "114WAFT1W01A00",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W01A00/polygon",
+        "riverOrSea": "River Hayle, Perrancoombe Stream, Bolingey Stream, Portreath Stream, Newlyn Coombe River"
+      },
+      "floodAreaID": "114WAFT1W01A00",
+      "isTidal": false,
+      "message": "The risk of flooding from rivers in West Cornwall area has now reduced, and river levels are falling below levels of concern. Whilst no further flooding is expected, please be careful and do not walk or drive through flood water. It is hazardous. ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-06-14T11:28:00",
+      "timeRaised": "2025-06-14T11:28:58",
+      "timeSeverityChanged": "2025-06-14T11:28:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WAFT1W13A00",
+      "description": "River Yealm",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W13A00",
+        "county": "Devon, Plymouth",
+        "notation": "114WAFT1W13A00",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W13A00/polygon",
+        "riverOrSea": "River Yealm"
+      },
+      "floodAreaID": "114WAFT1W13A00",
+      "isTidal": false,
+      "message": "The risk of flooding from the River Yealm has now reduced, and river levels are falling below levels of concern. Whilst no further flooding is expected, please be careful and do not walk or drive through flood water. It is hazardous. ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-06-14T11:28:00",
+      "timeRaised": "2025-06-14T11:29:01",
+      "timeSeverityChanged": "2025-06-14T11:28:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WAFTW11",
+      "description": "Mid Devon Rivers",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WAFTW11",
+        "county": "Devon",
+        "notation": "113WAFTW11",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WAFTW11/polygon",
+        "riverOrSea": "River Creedy, River Yeo, Lapford Yeo, Little Dart"
+      },
+      "floodAreaID": "113WAFTW11",
+      "isTidal": false,
+      "message": "The risk of flooding has now reduced, and rivers have fallen below levels of concern, but will remain sensitive to further rainfall. The heavy rainfall experienced overnight Friday 13th June has cleared the area but further isolated showers are possible during Saturday. The Environment Agency will continue to monitor the situation and issue any further updates as necessary.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-06-14T16:22:00",
+      "timeRaised": "2025-06-14T16:22:09",
+      "timeSeverityChanged": "2025-06-14T16:22:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDU",
+      "description": "Rivers Duddon, Crake and Mill Beck",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFDU",
+        "county": "Cumberland, Westmorland and Furness",
+        "notation": "011WAFDU",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFDU/polygon",
+        "riverOrSea": "River Duddon, River Crake, Mill Beck"
+      },
+      "floodAreaID": "011WAFDU",
+      "isTidal": false,
+      "message": " The Flood Alert has now been removed. ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-06-14T18:47:00",
+      "timeRaised": "2025-06-14T18:47:41",
+      "timeSeverityChanged": "2025-06-14T18:47:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF114",
+      "description": "Severn Vyrnwy confluence",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF114",
+        "county": "Shropshire",
+        "notation": "031WAF114",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF114/polygon",
+        "riverOrSea": "River Severn, River Vyrnwy"
+      },
+      "floodAreaID": "031WAF114",
+      "isTidal": false,
+      "message": " This Flood Alert has been removed.  \nRiver levels have now fallen below the flood risk threshold.  There is no longer a threat of flooding, though standing water and debris may still remain.    \nWe continue to monitor the situation.\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-06-14T18:49:00",
+      "timeRaised": "2025-06-14T18:49:09",
+      "timeSeverityChanged": "2025-06-14T18:49:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WABTW15",
+      "description": "South Devon Rivers",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WABTW15",
+        "county": "Devon",
+        "notation": "113WABTW15",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WABTW15/polygon",
+        "riverOrSea": "River Avon, River Erme, River Harbourne"
+      },
+      "floodAreaID": "113WABTW15",
+      "isTidal": false,
+      "message": "The risk of flooding has now reduced, and rivers have fallen below levels of concern, but will remain sensitive to further rainfall. The heavy rainfall experienced overnight Friday 13th June has cleared the area, but further isolated showers are possible during Saturday. The Environment Agency will continue to monitor the situation and issue any further updates as necessary.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-06-14T11:45:00",
+      "timeRaised": "2025-06-14T11:45:48",
+      "timeSeverityChanged": "2025-06-14T11:45:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WAFTW12",
+      "description": "North Dartmoor Rivers",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WAFTW12",
+        "county": "Devon",
+        "notation": "113WAFTW12",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WAFTW12/polygon",
+        "riverOrSea": "River Taw, River Okement"
+      },
+      "floodAreaID": "113WAFTW12",
+      "isTidal": false,
+      "message": "The risk of flooding has now reduced, and rivers have fallen below levels of concern, but will remain sensitive to further rainfall. The heavy rainfall experienced overnight Friday 13th June has cleared the area but further isolated showers are possible during Saturday. The Environment Agency will continue to monitor the situation and issue any further updates as necessary.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-06-14T16:22:00",
+      "timeRaised": "2025-06-14T16:22:11",
+      "timeSeverityChanged": "2025-06-14T16:22:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WAFTW03",
+      "description": "Lower Taw area",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WAFTW03",
+        "county": "Devon",
+        "notation": "113WAFTW03",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WAFTW03/polygon",
+        "riverOrSea": "River Taw"
+      },
+      "floodAreaID": "113WAFTW03",
+      "isTidal": false,
+      "message": "The risk of flooding has now reduced, and rivers have fallen below levels of concern, but will remain sensitive to further rainfall. The heavy rainfall experienced overnight Friday 13th June has cleared the area but further isolated showers are possible during Saturday. The Environment Agency will continue to monitor the situation and issue any further updates as necessary.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-06-14T11:45:00",
+      "timeRaised": "2025-06-14T11:45:25",
+      "timeSeverityChanged": "2025-06-14T11:45:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF300",
+      "description": "River Rea",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF300",
+        "county": "Birmingham",
+        "notation": "033WAF300",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF300/polygon",
+        "riverOrSea": "River Rea"
+      },
+      "floodAreaID": "033WAF300",
+      "isTidal": false,
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-06-14T10:52:00",
+      "timeRaised": "2025-06-14T10:52:38",
+      "timeSeverityChanged": "2025-06-14T10:52:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WABTW14",
+      "description": "River Dart area",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WABTW14",
+        "county": "Devon, Torbay",
+        "notation": "113WABTW14",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WABTW14/polygon",
+        "riverOrSea": "River Dart"
+      },
+      "floodAreaID": "113WABTW14",
+      "isTidal": false,
+      "message": "The risk of flooding has now reduced, and rivers have fallen below levels of concern, but will remain sensitive to further rainfall. The heavy rainfall experienced overnight Friday 13th June has cleared the area but further isolated showers are possible during Saturday. The Environment Agency will continue to monitor the situation and issue any further updates as necessary.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-06-14T11:45:00",
+      "timeRaised": "2025-06-14T11:45:23",
+      "timeSeverityChanged": "2025-06-14T11:45:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF303",
+      "description": "Upper Tame",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF303",
+        "county": "Birmingham, Dudley, Sandwell, Solihull, Walsall, Warwickshire, Wolverhampton",
+        "notation": "033WAF303",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF303/polygon",
+        "riverOrSea": "River Tame, Ford Brook"
+      },
+      "floodAreaID": "033WAF303",
+      "isTidal": false,
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-06-14T10:59:00",
+      "timeRaised": "2025-06-14T10:59:56",
+      "timeSeverityChanged": "2025-06-14T10:59:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDW",
+      "description": "Upper River Derwent, Stonethwaite Beck and Derwent Water",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFDW",
+        "county": "Cumberland",
+        "notation": "011WAFDW",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFDW/polygon",
+        "riverOrSea": "Derwent, Stonethwaite Beck"
+      },
+      "floodAreaID": "011WAFDW",
+      "isTidal": false,
+      "message": "Flooding of roads and low lying land is possible, property flooding is not expected.\nThe flood alert level is forecast to be reached at 13:00 today, Saturday 14th July.\nFlooding is forecast to affect locations near the Upper River Derwent, Stonethwaite Beck and Derwent Water, with low lying land and roads expected to be most affected, particularly around The Upper Derwent from Seathwaite to Derwent Water.\nFollowing heavy thundery showers overnight, river levels are high and further showers are forecast throughout the day but no further flooding is expected. \nWe are closely monitoring the situation \nTake care and avoid walking, cycling or driving through flood water.\nThis message will be updated by 10:00 AM on 15/06/2025, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-06-14T09:47:00",
+      "timeRaised": "2025-06-14T09:47:48",
+      "timeSeverityChanged": "2025-06-14T09:47:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WABTW02",
+      "description": "Lower Torridge area",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WABTW02",
+        "county": "Devon",
+        "notation": "113WABTW02",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WABTW02/polygon",
+        "riverOrSea": "River Torridge, Kenwith Stream"
+      },
+      "floodAreaID": "113WABTW02",
+      "isTidal": false,
+      "message": "The risk of flooding has now reduced, and rivers have fallen below levels of concern, but will remain sensitive to further rainfall. The heavy rainfall experienced overnight Friday 13th June has cleared the area but further isolated showers are possible during Saturday. The Environment Agency will continue to monitor the situation and issue any further updates as necessary.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-06-14T11:45:00",
+      "timeRaised": "2025-06-14T11:45:17",
+      "timeSeverityChanged": "2025-06-14T11:45:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113FWF2C0C",
+      "description": "River Dart from Buckfastleigh to Totnes, including Staverton",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113FWF2C0C",
+        "county": "Devon",
+        "notation": "113FWF2C0C",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113FWF2C0C/polygon",
+        "riverOrSea": "River Dart"
+      },
+      "floodAreaID": "113FWF2C0C",
+      "isTidal": false,
+      "message": "The risk of flooding from the River Dart has now reduced, and river levels are falling below levels of concern.  Further isolated showers are possible during Saturday but no further flooding is expected.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-06-14T11:32:00",
+      "timeRaised": "2025-06-14T11:32:50",
+      "timeSeverityChanged": "2025-06-14T11:32:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF340",
+      "description": "Upper Tame at Sandwell Valley",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF340",
+        "county": "Birmingham, Sandwell",
+        "notation": "033WAF340",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF340/polygon"
+      },
+      "floodAreaID": "033WAF340",
+      "isTidal": false,
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-06-14T10:54:00",
+      "timeRaised": "2025-06-14T10:54:17",
+      "timeSeverityChanged": "2025-06-14T10:54:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF7Darent",
+      "description": "River Darent from Westerham to Dartford",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF7Darent",
+        "county": "Bexley, Greater London, Kent",
+        "notation": "064WAF7Darent",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF7Darent/polygon",
+        "riverOrSea": "River Darent"
+      },
+      "floodAreaID": "064WAF7Darent",
+      "isTidal": false,
+      "message": " The flood alert for River Darent is no longer in force. River levels peaked overnight and are expected to continue to fall throughout today 14/06/25. \nThe risk of flooding has now passed. The forecast is for showers over the next few days. \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-06-14T09:56:00",
+      "timeRaised": "2025-06-14T09:56:33",
+      "timeSeverityChanged": "2025-06-14T09:56:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF301",
+      "description": "River Cole",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF301",
+        "county": "Birmingham, Solihull, Warwickshire, Worcestershire",
+        "notation": "033WAF301",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF301/polygon",
+        "riverOrSea": "River Cole"
+      },
+      "floodAreaID": "033WAF301",
+      "isTidal": false,
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-06-14T10:58:00",
+      "timeRaised": "2025-06-14T10:58:20",
+      "timeSeverityChanged": "2025-06-14T10:58:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113FWF2B0A",
+      "description": "River Avon from Didworthy to Aveton Gifford",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113FWF2B0A",
+        "county": "Devon",
+        "notation": "113FWF2B0A",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113FWF2B0A/polygon",
+        "riverOrSea": "River Avon"
+      },
+      "floodAreaID": "113FWF2B0A",
+      "isTidal": false,
+      "message": "The risk of flooding from the River Avon has now reduced, and river levels are falling below levels of concern.  Further isolated showers are possible during Saturday but no further flooding is expected.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-06-14T11:32:00",
+      "timeRaised": "2025-06-14T11:33:04",
+      "timeSeverityChanged": "2025-06-14T11:32:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113FWF2G0A",
+      "description": "River Yeo (Creedy) from Yeoford to Fordton",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113FWF2G0A",
+        "county": "Devon",
+        "notation": "113FWF2G0A",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113FWF2G0A/polygon",
+        "riverOrSea": "River Yeo"
+      },
+      "floodAreaID": "113FWF2G0A",
+      "isTidal": false,
+      "message": "The risk of flooding from the River Yeo has now reduced, and river levels are falling below levels of concern. However, a Flood Alert for the area is likely to remain in place until this afternoon.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-06-14T11:33:00",
+      "timeRaised": "2025-06-14T11:33:18",
+      "timeSeverityChanged": "2025-06-14T11:33:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF455",
+      "description": "Polegate and Wannock",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF455",
+        "county": "East Sussex",
+        "notation": "065WAF455",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF455/polygon",
+        "riverOrSea": "Polegate Brook Street Stream, Wannock Mill Stream"
+      },
+      "floodAreaID": "065WAF455",
+      "isTidal": false,
+      "message": "Less than 9mm of rain was recorded at our rain gauges Friday evening. River levels only rose a small amount. Isolated, light showers might still occur at times on Saturday and Sunday. However, as forecast rainfall amounts over the weekend are now minimal, river flooding is no longer thought possible. High pressure is predicted to bring settled weather next week. If you see a blockage affecting the flow in the river, please call our incident hotline on 0800 80 70 60. We will re-issue this Flood Alert if the risk of property flooding returns.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-06-14T09:51:00",
+      "timeRaised": "2025-06-14T09:51:36",
+      "timeSeverityChanged": "2025-06-14T09:51:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF454",
+      "description": "Hollington Stream",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF454",
+        "county": "East Sussex",
+        "notation": "065WAF454",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF454/polygon",
+        "riverOrSea": "Hollington Stream"
+      },
+      "floodAreaID": "065WAF454",
+      "isTidal": false,
+      "message": "Less than 6mm of rain was recorded at our rain gauges Friday evening. River levels only rose a small amount. Isolated, light showers might still occur at times on Saturday and Sunday. However, as forecast rainfall amounts over the weekend are now minimal, river flooding is no longer thought possible. High pressure is predicted to bring settled weather next week. If you see a blockage affecting the flow in the river, please call our incident hotline on 0800 80 70 60. We will re-issue this Flood Alert if the risk of property flooding returns.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-06-14T09:51:00",
+      "timeRaised": "2025-06-14T09:51:34",
+      "timeSeverityChanged": "2025-06-14T09:51:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113FWF2B0B",
+      "description": "River Avon at South Brent, Avonwick and Aveton Gifford",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113FWF2B0B",
+        "county": "Devon",
+        "notation": "113FWF2B0B",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113FWF2B0B/polygon",
+        "riverOrSea": "River Avon"
+      },
+      "floodAreaID": "113FWF2B0B",
+      "isTidal": false,
+      "message": "The risk of flooding from the River Avon has now reduced, and river levels are falling below levels of concern.  Further isolated showers are possible during Saturday but no further flooding is expected.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-06-14T11:32:00",
+      "timeRaised": "2025-06-14T11:32:46",
+      "timeSeverityChanged": "2025-06-14T11:32:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113FWFEXE02",
+      "description": "River Exe at Winsford and Bridgetown",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113FWFEXE02",
+        "county": "Devon, Somerset",
+        "notation": "113FWFEXE02",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113FWFEXE02/polygon",
+        "riverOrSea": "River Exe"
+      },
+      "floodAreaID": "113FWFEXE02",
+      "isTidal": false,
+      "message": "The risk of flooding from the River Exe has now reduced, and river levels are falling below levels of concern.  Further isolated showers are possible during Saturday but no further flooding is expected.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-06-14T11:32:00",
+      "timeRaised": "2025-06-14T11:32:38",
+      "timeSeverityChanged": "2025-06-14T11:32:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFGB",
+      "description": "Rivers Greta, St Johns Beck and Bassenthwaite Lake",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFGB",
+        "county": "Cumberland, Westmorland and Furness",
+        "notation": "011WAFGB",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFGB/polygon",
+        "riverOrSea": "River Greta, St Johns Beck, Glendermackin"
+      },
+      "floodAreaID": "011WAFGB",
+      "isTidal": false,
+      "message": " The Flood Alert has now been removed. ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-06-14T18:47:00",
+      "timeRaised": "2025-06-14T18:47:48",
+      "timeSeverityChanged": "2025-06-14T18:47:00"
+    }
+  ]
 }
