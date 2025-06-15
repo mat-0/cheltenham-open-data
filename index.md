@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Sunday, 15 June 2025
 
-- The average temperature today is 19.57˚C,
-- With highs of 21.1˚C and lows of 18.72˚C,
-- It may feel like 19.07˚C with scattered clouds
-- The wind speed is 3.6m/s and visibility is 10000m
-- The pressure is 1022hPa and humidity is 57%
+- The average temperature today is 20.83˚C,
+- With highs of 21.64˚C and lows of 19.91˚C,
+- It may feel like 20.33˚C with scattered clouds
+- The wind speed is 4.12m/s and visibility is 10000m
+- The pressure is 1022hPa and humidity is 52%
 - The sun will rise at 03:48 and set at 20:29
 
 <!-- weather_marker ends -->
