@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Duo kayak the length of the Thames after family death ([32 minutes ago](https://www.bbc.com/news/articles/c79ep5dqpd3o))
-- Headlines: Plane crash tributes and the park 'pong' ([33 minutes ago](https://www.bbc.com/news/articles/czdy9lymrmgo))
-- Ex-England cricketer 'incredibly proud' to receive MBE ([14 hours ago](https://www.bbc.com/news/articles/cql2qnr0kveo))
-- 'I feel that I am not valued as a carer' ([15 hours ago](https://www.bbc.com/news/articles/czdyzvrld34o))
-- Hope for community theatre after £50,000 raised ([15 hours ago](https://www.bbc.com/news/articles/c3rpgenlq8jo))
+- Duo kayak the length of the Thames after family death ([1 hours ago](https://www.bbc.com/news/articles/c79ep5dqpd3o))
+- Headlines: Plane crash tributes and the park 'pong' ([1 hours ago](https://www.bbc.com/news/articles/czdy9lymrmgo))
+- Ex-England cricketer 'incredibly proud' to receive MBE ([15 hours ago](https://www.bbc.com/news/articles/cql2qnr0kveo))
+- 'I feel that I am not valued as a carer' ([16 hours ago](https://www.bbc.com/news/articles/czdyzvrld34o))
+- Hope for community theatre after £50,000 raised ([16 hours ago](https://www.bbc.com/news/articles/c3rpgenlq8jo))
 - Gloucestershire in Pictures: Swimming and new art ([1 days ago](https://www.bbc.com/news/articles/ckgr8gzq8rjo))
 - City taken over by week of Moomin celebrations ([1 days ago](https://www.bbc.com/news/articles/c79e092j1qyo))
 - 'I want to say thank you for saving my dad's life' ([1 days ago](https://www.bbc.com/news/articles/c8jg40v7l00o))
@@ -60,7 +60,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Fears 4115 homes near M5 will have ‘disastrous’ effect on area as seven villages fight scheme ([22 days ago](https://gloucesternewscentre.co.uk/fears-4115-homes-near-m5-will-have-disastrous-effect-on-area-as-seven-villages-fight-scheme/))
 - Man arrested on suspicion of burglary in Cheltenham following chase by police ([22 days ago](https://gloucesternewscentre.co.uk/man-arrested-on-suspicion-of-burglary-in-cheltenham-following-chase-by-police/))
 - ‘Abominating’ school building approved despite fears it will ‘loom over’ homes ([22 days ago](https://gloucesternewscentre.co.uk/abominating-school-building-approved-despite-fears-it-will-loom-over-homes/))
-- Luxury spa hotel could be the future for iconic Municipal Offices as preferred bidder is selected ([23 days ago](https://www.cheltenham.gov.uk/news/article/3014/luxury_spa_hotel_could_be_the_future_for_iconic_municipal_offices_as_preferred_bidder_is_selected))
+- Luxury spa hotel could be the future for iconic Municipal Offices as preferred bidder is selected ([24 days ago](https://www.cheltenham.gov.uk/news/article/3014/luxury_spa_hotel_could_be_the_future_for_iconic_municipal_offices_as_preferred_bidder_is_selected))
 - Spring bank holiday waste and recycling collections ([25 days ago](https://www.cheltenham.gov.uk/news/article/3013/spring_bank_holiday_waste_and_recycling_collections))
 
 <!-- news_marker ends -->
