@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- New sewer installation finished yesterday! cover rattling, 15th June :- [7710674](https://www.fixmystreet.com/report/7710674)
 - Flytipping in park, 14th June :- [7710359](https://www.fixmystreet.com/report/7710359)
 - Large deep pothole, causing damage to bicycles and a danger for walkers, 14th June :- [7710322](https://www.fixmystreet.com/report/7710322)
 - Big hole in road, 14th June :- [7709663](https://www.fixmystreet.com/report/7709663)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Dead Tree, 14th June :- [7708422](https://www.fixmystreet.com/report/7708422)
 - Damaged Park Flooring, 14th June :- [7708403](https://www.fixmystreet.com/report/7708403)
 - Small items fly tipped, 14th June :- [7708239](https://www.fixmystreet.com/report/7708239)
-- Flyposting on trees, 14th June :- [7707951](https://www.fixmystreet.com/report/7707951)
 
 <!-- fix_marker ends -->
