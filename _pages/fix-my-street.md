@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole or surface erosion area where the top layer of asphalt has worn away, 15th June :- [7713217](https://www.fixmystreet.com/report/7713217)
+- Pavement is blocked by barriers with no signage forcing pedestrians on to road by blind summit of hill. Builders frequently park on the double yellow lines by the blockage making life for pedestrians, wheelchairs and buggies even more difficult and dangerous., 15th June :- [7713198](https://www.fixmystreet.com/report/7713198)
 - Van fully parked on pavement meaning pedestrians have to walk into traffic, 15th June :- [7713028](https://www.fixmystreet.com/report/7713028)
 - Stench from gully - been told it needs to be capped, 15th June :- [7712799](https://www.fixmystreet.com/report/7712799)
 - Overnight damage to tarmac laid on 6 June by heavy vehicle - now causing trip hazard, 15th June :- [7712550](https://www.fixmystreet.com/report/7712550)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Drain overflowing with weeds and mud no cover, 14th June :- [7709309](https://www.fixmystreet.com/report/7709309)
 - Flytipped items, 14th June :- [7708788](https://www.fixmystreet.com/report/7708788)
 - Flytipped items, 14th June :- [7708781](https://www.fixmystreet.com/report/7708781)
-- The edge of the road surface has collapsed, producing a lengthy depression, several inches deep at worst. Hard to spot and avoid in the dark, and, were heavy rain to flood it, impossible to gauge the ddepth at any time. I'm not sure how long the problem has existed, but several weeks at least, probably longer., 14th June :- [7708747](https://www.fixmystreet.com/report/7708747)
-- Traffic light on left hand side not showing green., 14th June :- [7708708](https://www.fixmystreet.com/report/7708708)
 
 <!-- fix_marker ends -->
