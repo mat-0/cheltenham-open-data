@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- School fund to be Air India crash family 'legacy' ([7 hours ago](https://www.bbc.com/news/articles/c5y5ygl2g31o))
-- King's Police Medal for interim chief constable ([10 hours ago](https://www.bbc.com/news/articles/c39x9jz8ez1o))
-- 'I've been coming to this festival since 1984' ([11 hours ago](https://www.bbc.com/news/articles/clyny53kdg4o))
-- Duo kayak the length of the Thames after family death ([13 hours ago](https://www.bbc.com/news/articles/c79ep5dqpd3o))
-- Headlines: Plane crash tributes and the park 'pong' ([13 hours ago](https://www.bbc.com/news/articles/czdy9lymrmgo))
+- School fund to be Air India crash family 'legacy' ([8 hours ago](https://www.bbc.com/news/articles/c5y5ygl2g31o))
+- King's Police Medal for interim chief constable ([12 hours ago](https://www.bbc.com/news/articles/c39x9jz8ez1o))
+- 'I've been coming to this festival since 1984' ([12 hours ago](https://www.bbc.com/news/articles/clyny53kdg4o))
+- Duo kayak the length of the Thames after family death ([14 hours ago](https://www.bbc.com/news/articles/c79ep5dqpd3o))
+- Headlines: Plane crash tributes and the park 'pong' ([14 hours ago](https://www.bbc.com/news/articles/czdy9lymrmgo))
 - Ex-England cricketer 'incredibly proud' to receive MBE ([1 days ago](https://www.bbc.com/news/articles/cql2qnr0kveo))
 - 'I feel that I am not valued as a carer' ([1 days ago](https://www.bbc.com/news/articles/czdyzvrld34o))
 - Hope for community theatre after £50,000 raised ([1 days ago](https://www.bbc.com/news/articles/c3rpgenlq8jo))
