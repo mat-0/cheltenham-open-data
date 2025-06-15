@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Van fully parked on pavement meaning pedestrians have to walk into traffic, 15th June :- [7713028](https://www.fixmystreet.com/report/7713028)
 - Stench from gully - been told it needs to be capped, 15th June :- [7712799](https://www.fixmystreet.com/report/7712799)
 - Overnight damage to tarmac laid on 6 June by heavy vehicle - now causing trip hazard, 15th June :- [7712550](https://www.fixmystreet.com/report/7712550)
 - Well Place never cleaned., 15th June :- [7711133](https://www.fixmystreet.com/report/7711133)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Flytipped items, 14th June :- [7708781](https://www.fixmystreet.com/report/7708781)
 - The edge of the road surface has collapsed, producing a lengthy depression, several inches deep at worst. Hard to spot and avoid in the dark, and, were heavy rain to flood it, impossible to gauge the ddepth at any time. I'm not sure how long the problem has existed, but several weeks at least, probably longer., 14th June :- [7708747](https://www.fixmystreet.com/report/7708747)
 - Traffic light on left hand side not showing green., 14th June :- [7708708](https://www.fixmystreet.com/report/7708708)
-- Dumped sofa, 14th June :- [7708631](https://www.fixmystreet.com/report/7708631)
 
 <!-- fix_marker ends -->
