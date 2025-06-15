@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Overnight damage to tarmac laid on 6 June by heavy vehicle - now causing trip hazard, 15th June :- [7712550](https://www.fixmystreet.com/report/7712550)
 - Well Place never cleaned., 15th June :- [7711133](https://www.fixmystreet.com/report/7711133)
 - Dangerous Junction, 15th June :- [7711082](https://www.fixmystreet.com/report/7711082)
 - New sewer installation finished yesterday! cover rattling, 15th June :- [7710674](https://www.fixmystreet.com/report/7710674)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Traffic light on left hand side not showing green., 14th June :- [7708708](https://www.fixmystreet.com/report/7708708)
 - Dumped sofa, 14th June :- [7708631](https://www.fixmystreet.com/report/7708631)
 - Low hanging and over hanging trees in Brookway Road lane near Brookway Drive, 14th June :- [7708452](https://www.fixmystreet.com/report/7708452)
-- Dead Tree, 14th June :- [7708422](https://www.fixmystreet.com/report/7708422)
 
 <!-- fix_marker ends -->
