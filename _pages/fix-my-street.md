@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Well Place never cleaned., 15th June :- [7711133](https://www.fixmystreet.com/report/7711133)
+- Dangerous Junction, 15th June :- [7711082](https://www.fixmystreet.com/report/7711082)
 - New sewer installation finished yesterday! cover rattling, 15th June :- [7710674](https://www.fixmystreet.com/report/7710674)
 - Flytipping in park, 14th June :- [7710359](https://www.fixmystreet.com/report/7710359)
 - Large deep pothole, causing damage to bicycles and a danger for walkers, 14th June :- [7710322](https://www.fixmystreet.com/report/7710322)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Dumped sofa, 14th June :- [7708631](https://www.fixmystreet.com/report/7708631)
 - Low hanging and over hanging trees in Brookway Road lane near Brookway Drive, 14th June :- [7708452](https://www.fixmystreet.com/report/7708452)
 - Dead Tree, 14th June :- [7708422](https://www.fixmystreet.com/report/7708422)
-- Damaged Park Flooring, 14th June :- [7708403](https://www.fixmystreet.com/report/7708403)
-- Small items fly tipped, 14th June :- [7708239](https://www.fixmystreet.com/report/7708239)
 
 <!-- fix_marker ends -->
