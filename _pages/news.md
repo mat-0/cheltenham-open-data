@@ -12,14 +12,14 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- School fund to be Air India crash family 'legacy' ([1 hours ago](https://www.bbc.com/news/articles/c5y5ygl2g31o))
+- School fund to be Air India crash family 'legacy' ([2 hours ago](https://www.bbc.com/news/articles/c5y5ygl2g31o))
 - King's Police Medal for interim chief constable ([5 hours ago](https://www.bbc.com/news/articles/c39x9jz8ez1o))
-- 'I've been coming to this festival since 1984' ([5 hours ago](https://www.bbc.com/news/articles/clyny53kdg4o))
-- Duo kayak the length of the Thames after family death ([7 hours ago](https://www.bbc.com/news/articles/c79ep5dqpd3o))
-- Headlines: Plane crash tributes and the park 'pong' ([7 hours ago](https://www.bbc.com/news/articles/czdy9lymrmgo))
-- Ex-England cricketer 'incredibly proud' to receive MBE ([21 hours ago](https://www.bbc.com/news/articles/cql2qnr0kveo))
-- 'I feel that I am not valued as a carer' ([22 hours ago](https://www.bbc.com/news/articles/czdyzvrld34o))
-- Hope for community theatre after £50,000 raised ([22 hours ago](https://www.bbc.com/news/articles/c3rpgenlq8jo))
+- 'I've been coming to this festival since 1984' ([6 hours ago](https://www.bbc.com/news/articles/clyny53kdg4o))
+- Duo kayak the length of the Thames after family death ([8 hours ago](https://www.bbc.com/news/articles/c79ep5dqpd3o))
+- Headlines: Plane crash tributes and the park 'pong' ([8 hours ago](https://www.bbc.com/news/articles/czdy9lymrmgo))
+- Ex-England cricketer 'incredibly proud' to receive MBE ([22 hours ago](https://www.bbc.com/news/articles/cql2qnr0kveo))
+- 'I feel that I am not valued as a carer' ([23 hours ago](https://www.bbc.com/news/articles/czdyzvrld34o))
+- Hope for community theatre after £50,000 raised ([23 hours ago](https://www.bbc.com/news/articles/c3rpgenlq8jo))
 - Gloucestershire in Pictures: Swimming and new art ([1 days ago](https://www.bbc.com/news/articles/ckgr8gzq8rjo))
 - City taken over by week of Moomin celebrations ([1 days ago](https://www.bbc.com/news/articles/c79e092j1qyo))
 - 'I want to say thank you for saving my dad's life' ([1 days ago](https://www.bbc.com/news/articles/c8jg40v7l00o))
@@ -46,7 +46,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Skinny jabs linked to surprise pregnancies warning ([10 days ago](https://www.bbc.co.uk/sounds/play/p0lgh4cd))
 - Development consent granted for M5 Junction 10 Improvements Scheme ([10 days ago](https://gloucesternewscentre.co.uk/development-consent-granted-for-m5-junction-10-improvements-scheme/))
 - £25k cash boost for much-loved Cheltenham Playhouse ([11 days ago](https://gloucesternewscentre.co.uk/25k-cash-boost-for-much-loved-cheltenham-playhouse/))
-- £25k cash boost for much-loved Cheltenham Playhouse ([11 days ago](https://www.cheltenham.gov.uk/news/article/3017/25k_cash_boost_for_much-loved_cheltenham_playhouse))
+- £25k cash boost for much-loved Cheltenham Playhouse ([12 days ago](https://www.cheltenham.gov.uk/news/article/3017/25k_cash_boost_for_much-loved_cheltenham_playhouse))
 - Neighbourhood Watch encourages people to join to deter crime ([13 days ago](https://gloucesternewscentre.co.uk/neighbourhood-watch-encourages-people-to-join-to-deter-crime/))
 - ‘Ironic’ 131 Promenade precedent being used for Pittville Pump Room cafe plans ([13 days ago](https://gloucesternewscentre.co.uk/ironic-131-promenade-precedent-being-used-for-pittville-pump-room-cafe-plans/))
 - Airport chief rejects claims ‘flight schools are being pushed away and business is being run down for housing’ ([13 days ago](https://gloucesternewscentre.co.uk/airport-chief-rejects-claims-flight-schools-are-being-pushed-away-and-business-is-being-run-down-for-housing/))
@@ -61,6 +61,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Man arrested on suspicion of burglary in Cheltenham following chase by police ([22 days ago](https://gloucesternewscentre.co.uk/man-arrested-on-suspicion-of-burglary-in-cheltenham-following-chase-by-police/))
 - ‘Abominating’ school building approved despite fears it will ‘loom over’ homes ([22 days ago](https://gloucesternewscentre.co.uk/abominating-school-building-approved-despite-fears-it-will-loom-over-homes/))
 - Luxury spa hotel could be the future for iconic Municipal Offices as preferred bidder is selected ([24 days ago](https://www.cheltenham.gov.uk/news/article/3014/luxury_spa_hotel_could_be_the_future_for_iconic_municipal_offices_as_preferred_bidder_is_selected))
-- Spring bank holiday waste and recycling collections ([25 days ago](https://www.cheltenham.gov.uk/news/article/3013/spring_bank_holiday_waste_and_recycling_collections))
+- Spring bank holiday waste and recycling collections ([26 days ago](https://www.cheltenham.gov.uk/news/article/3013/spring_bank_holiday_waste_and_recycling_collections))
 
 <!-- news_marker ends -->
