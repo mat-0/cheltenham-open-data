@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fly posting on street furniture, 15th June :- [7713964](https://www.fixmystreet.com/report/7713964)
 - Traffic light at junction is damaged and facing the wrong way. There is a risk that drivers may think the traffic ligjt applies to them when it doesn't., 15th June :- [7713661](https://www.fixmystreet.com/report/7713661)
 - Abandoned car for weeks, 15th June :- [7713393](https://www.fixmystreet.com/report/7713393)
 - Pothole or surface erosion area where the top layer of asphalt has worn away, 15th June :- [7713217](https://www.fixmystreet.com/report/7713217)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Weeds growing up on paths at roadsides, 14th June :- [7709345](https://www.fixmystreet.com/report/7709345)
 - Trailer dumped in bush, 14th June :- [7709337](https://www.fixmystreet.com/report/7709337)
 - Builders materials dumped, 14th June :- [7709324](https://www.fixmystreet.com/report/7709324)
-- Drain overflowing with weeds and mud no cover, 14th June :- [7709309](https://www.fixmystreet.com/report/7709309)
 
 <!-- fix_marker ends -->
