@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Signs left in alley way. Alleyway at end of Brookway drive., 16th June :- [7715803](https://www.fixmystreet.com/report/7715803)
+- The drain is blocked problem, 16th June :- [7715632](https://www.fixmystreet.com/report/7715632)
 - The whole footpath is dangerous. I twisted my ankle and my children keep tripping, 16th June :- [7715000](https://www.fixmystreet.com/report/7715000)
 - Trees & hedges overhanging footpath, 16th June :- [7714678](https://www.fixmystreet.com/report/7714678)
 - A frame left behind with various sand bags over the road, 16th June :- [7714595](https://www.fixmystreet.com/report/7714595)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - New sewer installation finished yesterday! cover rattling, 15th June :- [7710674](https://www.fixmystreet.com/report/7710674)
 - Flytipping in park, 14th June :- [7710359](https://www.fixmystreet.com/report/7710359)
 - Large deep pothole, causing damage to bicycles and a danger for walkers, 14th June :- [7710322](https://www.fixmystreet.com/report/7710322)
-- Big hole in road, 14th June :- [7709663](https://www.fixmystreet.com/report/7709663)
-- Trees , hedges over hanging property , damaging roof of shed, 14th June :- [7709504](https://www.fixmystreet.com/report/7709504)
 
 <!-- fix_marker ends -->
