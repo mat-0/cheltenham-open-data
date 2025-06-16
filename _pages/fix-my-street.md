@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Road has collapsed next to drain, 16th June :- [7719851](https://www.fixmystreet.com/report/7719851)
+- Giant Hogweed along the waterway, 16th June :- [7719846](https://www.fixmystreet.com/report/7719846)
 - 10 foot graffiti, 16th June :- [7719378](https://www.fixmystreet.com/report/7719378)
 - Voxwell lane, Bishops Cleeve, 16th June :- [7719225](https://www.fixmystreet.com/report/7719225)
 - Grass area, at least 3ft tall., 16th June :- [7719208](https://www.fixmystreet.com/report/7719208)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Streetlight outside 13 Dinas Close GL51 3EP permanently out, and streetlight outside 3 Dinas Close obscured by vegetation, 16th June :- [7715877](https://www.fixmystreet.com/report/7715877)
 - Large overgrown vegetation/weeds blocking footpath, 16th June :- [7715870](https://www.fixmystreet.com/report/7715870)
 - Signs left in alley way. Alleyway at end of Brookway drive., 16th June :- [7715803](https://www.fixmystreet.com/report/7715803)
-- The drain is blocked problem, 16th June :- [7715632](https://www.fixmystreet.com/report/7715632)
-- The whole footpath is dangerous. I twisted my ankle and my children keep tripping, 16th June :- [7715000](https://www.fixmystreet.com/report/7715000)
 
 <!-- fix_marker ends -->
