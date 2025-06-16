@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Monday, 16 June 2025
 
-- The average temperature today is 12.57˚C,
-- With highs of 13.32˚C and lows of 11.49˚C,
-- It may feel like 12.23˚C with clear sky
+- The average temperature today is 13.37˚C,
+- With highs of 14.42˚C and lows of 11.96˚C,
+- It may feel like 13.06˚C with clear sky
 - The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1027hPa and humidity is 90%
+- The pressure is 1028hPa and humidity is 88%
 - The sun will rise at 03:48 and set at 20:29
 
 <!-- weather_marker ends -->
