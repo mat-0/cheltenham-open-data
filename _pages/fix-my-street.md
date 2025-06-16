@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The whole footpath is dangerous. I twisted my ankle and my children keep tripping, 16th June :- [7715000](https://www.fixmystreet.com/report/7715000)
 - Trees & hedges overhanging footpath, 16th June :- [7714678](https://www.fixmystreet.com/report/7714678)
 - A frame left behind with various sand bags over the road, 16th June :- [7714595](https://www.fixmystreet.com/report/7714595)
 - Flytipped divan base Malthouse Lane, 16th June :- [7714593](https://www.fixmystreet.com/report/7714593)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Large deep pothole, causing damage to bicycles and a danger for walkers, 14th June :- [7710322](https://www.fixmystreet.com/report/7710322)
 - Big hole in road, 14th June :- [7709663](https://www.fixmystreet.com/report/7709663)
 - Trees , hedges over hanging property , damaging roof of shed, 14th June :- [7709504](https://www.fixmystreet.com/report/7709504)
-- The new pavement in West Approach Drive has no kerb and cars are mounting the pavement., 14th June :- [7709457](https://www.fixmystreet.com/report/7709457)
 
 <!-- fix_marker ends -->
