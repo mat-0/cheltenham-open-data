@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Branch of tree has come down onto path and road outside St Anthonys, 16th June :- [7716559](https://www.fixmystreet.com/report/7716559)
 - Flytipped black panel and mirror Brunswick St, 16th June :- [7716277](https://www.fixmystreet.com/report/7716277)
 - Sinkhole forming outside 1 at end of parking bay, 16th June :- [7716145](https://www.fixmystreet.com/report/7716145)
 - Streetlight outside 13 Dinas Close GL51 3EP permanently out, and streetlight outside 3 Dinas Close obscured by vegetation, 16th June :- [7715877](https://www.fixmystreet.com/report/7715877)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Van fully parked on pavement meaning pedestrians have to walk into traffic, 15th June :- [7713028](https://www.fixmystreet.com/report/7713028)
 - Stench from gully - been told it needs to be capped, 15th June :- [7712799](https://www.fixmystreet.com/report/7712799)
 - Overnight damage to tarmac laid on 6 June by heavy vehicle - now causing trip hazard, 15th June :- [7712550](https://www.fixmystreet.com/report/7712550)
-- Well Place never cleaned., 15th June :- [7711133](https://www.fixmystreet.com/report/7711133)
 
 <!-- fix_marker ends -->
