@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Footpaths on bith side of road uneven, jutting up paving slabs. Elderly resident now unable to walk from property due to regular trips/falls on roadside path. Daily observations of passing pedestrians also shows regular tripping on path., 16th June :- [7717672](https://www.fixmystreet.com/report/7717672)
 - Footpath has fallen away, leaving it very narrow and dangerous, 16th June :- [7717410](https://www.fixmystreet.com/report/7717410)
 - Alot of fly-tipping, 16th June :- [7716902](https://www.fixmystreet.com/report/7716902)
 - Branch of tree has come down onto path and road outside St Anthonys, 16th June :- [7716559](https://www.fixmystreet.com/report/7716559)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Abandoned car for weeks, 15th June :- [7713393](https://www.fixmystreet.com/report/7713393)
 - Pothole or surface erosion area where the top layer of asphalt has worn away, 15th June :- [7713217](https://www.fixmystreet.com/report/7713217)
 - Pavement is blocked by barriers with no signage forcing pedestrians on to road by blind summit of hill. Builders frequently park on the double yellow lines by the blockage making life for pedestrians, wheelchairs and buggies even more difficult and dangerous., 15th June :- [7713198](https://www.fixmystreet.com/report/7713198)
-- Van fully parked on pavement meaning pedestrians have to walk into traffic, 15th June :- [7713028](https://www.fixmystreet.com/report/7713028)
 
 <!-- fix_marker ends -->
