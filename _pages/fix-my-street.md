@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Rattling metal work marked FH. In direct path of cars so clanks every time a car goes over it. Been an issue for months, 16th June :- [7714198](https://www.fixmystreet.com/report/7714198)
 - Fly posting on street furniture, 15th June :- [7713964](https://www.fixmystreet.com/report/7713964)
 - Traffic light at junction is damaged and facing the wrong way. There is a risk that drivers may think the traffic ligjt applies to them when it doesn't., 15th June :- [7713661](https://www.fixmystreet.com/report/7713661)
 - Abandoned car for weeks, 15th June :- [7713393](https://www.fixmystreet.com/report/7713393)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - 30mph speed gate totally hidden, 14th June :- [7709453](https://www.fixmystreet.com/report/7709453)
 - Weeds growing up on paths at roadsides, 14th June :- [7709345](https://www.fixmystreet.com/report/7709345)
 - Trailer dumped in bush, 14th June :- [7709337](https://www.fixmystreet.com/report/7709337)
-- Builders materials dumped, 14th June :- [7709324](https://www.fixmystreet.com/report/7709324)
 
 <!-- fix_marker ends -->
