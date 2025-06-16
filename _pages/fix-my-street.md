@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipped black panel and mirror Brunswick St, 16th June :- [7716277](https://www.fixmystreet.com/report/7716277)
+- Sinkhole forming outside 1 at end of parking bay, 16th June :- [7716145](https://www.fixmystreet.com/report/7716145)
+- Streetlight outside 13 Dinas Close GL51 3EP permanently out, and streetlight outside 3 Dinas Close obscured by vegetation, 16th June :- [7715877](https://www.fixmystreet.com/report/7715877)
+- Large overgrown vegetation/weeds blocking footpath, 16th June :- [7715870](https://www.fixmystreet.com/report/7715870)
 - Signs left in alley way. Alleyway at end of Brookway drive., 16th June :- [7715803](https://www.fixmystreet.com/report/7715803)
 - The drain is blocked problem, 16th June :- [7715632](https://www.fixmystreet.com/report/7715632)
 - The whole footpath is dangerous. I twisted my ankle and my children keep tripping, 16th June :- [7715000](https://www.fixmystreet.com/report/7715000)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Stench from gully - been told it needs to be capped, 15th June :- [7712799](https://www.fixmystreet.com/report/7712799)
 - Overnight damage to tarmac laid on 6 June by heavy vehicle - now causing trip hazard, 15th June :- [7712550](https://www.fixmystreet.com/report/7712550)
 - Well Place never cleaned., 15th June :- [7711133](https://www.fixmystreet.com/report/7711133)
-- Dangerous Junction, 15th June :- [7711082](https://www.fixmystreet.com/report/7711082)
-- New sewer installation finished yesterday! cover rattling, 15th June :- [7710674](https://www.fixmystreet.com/report/7710674)
-- Flytipping in park, 14th June :- [7710359](https://www.fixmystreet.com/report/7710359)
-- Large deep pothole, causing damage to bicycles and a danger for walkers, 14th June :- [7710322](https://www.fixmystreet.com/report/7710322)
 
 <!-- fix_marker ends -->
