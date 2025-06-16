@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Footpath has fallen away, leaving it very narrow and dangerous, 16th June :- [7717410](https://www.fixmystreet.com/report/7717410)
+- Alot of fly-tipping, 16th June :- [7716902](https://www.fixmystreet.com/report/7716902)
 - Branch of tree has come down onto path and road outside St Anthonys, 16th June :- [7716559](https://www.fixmystreet.com/report/7716559)
 - Flytipped black panel and mirror Brunswick St, 16th June :- [7716277](https://www.fixmystreet.com/report/7716277)
 - Sinkhole forming outside 1 at end of parking bay, 16th June :- [7716145](https://www.fixmystreet.com/report/7716145)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Pothole or surface erosion area where the top layer of asphalt has worn away, 15th June :- [7713217](https://www.fixmystreet.com/report/7713217)
 - Pavement is blocked by barriers with no signage forcing pedestrians on to road by blind summit of hill. Builders frequently park on the double yellow lines by the blockage making life for pedestrians, wheelchairs and buggies even more difficult and dangerous., 15th June :- [7713198](https://www.fixmystreet.com/report/7713198)
 - Van fully parked on pavement meaning pedestrians have to walk into traffic, 15th June :- [7713028](https://www.fixmystreet.com/report/7713028)
-- Stench from gully - been told it needs to be capped, 15th June :- [7712799](https://www.fixmystreet.com/report/7712799)
-- Overnight damage to tarmac laid on 6 June by heavy vehicle - now causing trip hazard, 15th June :- [7712550](https://www.fixmystreet.com/report/7712550)
 
 <!-- fix_marker ends -->
