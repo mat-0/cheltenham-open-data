@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Abandoned Barrier & Signage, 16th June :- [7718763](https://www.fixmystreet.com/report/7718763)
+- Abandoned signage & Barrier, 16th June :- [7718738](https://www.fixmystreet.com/report/7718738)
+- Abandoned signs and cones, 16th June :- [7718716](https://www.fixmystreet.com/report/7718716)
+- Abandoned signs & cones, 16th June :- [7718665](https://www.fixmystreet.com/report/7718665)
+- Abandoned signs, 16th June :- [7718645](https://www.fixmystreet.com/report/7718645)
 - Pothole by the telegraph pot., 16th June :- [7718195](https://www.fixmystreet.com/report/7718195)
 - Footpaths on bith side of road uneven, jutting up paving slabs. Elderly resident now unable to walk from property due to regular trips/falls on roadside path. Daily observations of passing pedestrians also shows regular tripping on path., 16th June :- [7717672](https://www.fixmystreet.com/report/7717672)
 - Footpath has fallen away, leaving it very narrow and dangerous, 16th June :- [7717410](https://www.fixmystreet.com/report/7717410)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Trees & hedges overhanging footpath, 16th June :- [7714678](https://www.fixmystreet.com/report/7714678)
 - A frame left behind with various sand bags over the road, 16th June :- [7714595](https://www.fixmystreet.com/report/7714595)
 - Flytipped divan base Malthouse Lane, 16th June :- [7714593](https://www.fixmystreet.com/report/7714593)
-- Rattling metal work marked FH. In direct path of cars so clanks every time a car goes over it. Been an issue for months, 16th June :- [7714198](https://www.fixmystreet.com/report/7714198)
-- Fly posting on street furniture, 15th June :- [7713964](https://www.fixmystreet.com/report/7713964)
-- Traffic light at junction is damaged and facing the wrong way. There is a risk that drivers may think the traffic ligjt applies to them when it doesn't., 15th June :- [7713661](https://www.fixmystreet.com/report/7713661)
-- Abandoned car for weeks, 15th June :- [7713393](https://www.fixmystreet.com/report/7713393)
-- Pothole or surface erosion area where the top layer of asphalt has worn away, 15th June :- [7713217](https://www.fixmystreet.com/report/7713217)
 
 <!-- fix_marker ends -->
