@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Trees & hedges overhanging footpath, 16th June :- [7714678](https://www.fixmystreet.com/report/7714678)
+- A frame left behind with various sand bags over the road, 16th June :- [7714595](https://www.fixmystreet.com/report/7714595)
+- Flytipped divan base Malthouse Lane, 16th June :- [7714593](https://www.fixmystreet.com/report/7714593)
 - Rattling metal work marked FH. In direct path of cars so clanks every time a car goes over it. Been an issue for months, 16th June :- [7714198](https://www.fixmystreet.com/report/7714198)
 - Fly posting on street furniture, 15th June :- [7713964](https://www.fixmystreet.com/report/7713964)
 - Traffic light at junction is damaged and facing the wrong way. There is a risk that drivers may think the traffic ligjt applies to them when it doesn't., 15th June :- [7713661](https://www.fixmystreet.com/report/7713661)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Big hole in road, 14th June :- [7709663](https://www.fixmystreet.com/report/7709663)
 - Trees , hedges over hanging property , damaging roof of shed, 14th June :- [7709504](https://www.fixmystreet.com/report/7709504)
 - The new pavement in West Approach Drive has no kerb and cars are mounting the pavement., 14th June :- [7709457](https://www.fixmystreet.com/report/7709457)
-- 30mph speed gate totally hidden, 14th June :- [7709453](https://www.fixmystreet.com/report/7709453)
-- Weeds growing up on paths at roadsides, 14th June :- [7709345](https://www.fixmystreet.com/report/7709345)
-- Trailer dumped in bush, 14th June :- [7709337](https://www.fixmystreet.com/report/7709337)
 
 <!-- fix_marker ends -->
