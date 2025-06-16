@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 10 foot graffiti, 16th June :- [7719378](https://www.fixmystreet.com/report/7719378)
+- Voxwell lane, Bishops Cleeve, 16th June :- [7719225](https://www.fixmystreet.com/report/7719225)
+- Grass area, at least 3ft tall., 16th June :- [7719208](https://www.fixmystreet.com/report/7719208)
 - Abandoned Barrier & Signage, 16th June :- [7718763](https://www.fixmystreet.com/report/7718763)
 - Abandoned signage & Barrier, 16th June :- [7718738](https://www.fixmystreet.com/report/7718738)
 - Abandoned signs and cones, 16th June :- [7718716](https://www.fixmystreet.com/report/7718716)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Signs left in alley way. Alleyway at end of Brookway drive., 16th June :- [7715803](https://www.fixmystreet.com/report/7715803)
 - The drain is blocked problem, 16th June :- [7715632](https://www.fixmystreet.com/report/7715632)
 - The whole footpath is dangerous. I twisted my ankle and my children keep tripping, 16th June :- [7715000](https://www.fixmystreet.com/report/7715000)
-- Trees & hedges overhanging footpath, 16th June :- [7714678](https://www.fixmystreet.com/report/7714678)
-- A frame left behind with various sand bags over the road, 16th June :- [7714595](https://www.fixmystreet.com/report/7714595)
-- Flytipped divan base Malthouse Lane, 16th June :- [7714593](https://www.fixmystreet.com/report/7714593)
 
 <!-- fix_marker ends -->
