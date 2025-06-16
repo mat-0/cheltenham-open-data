@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- School fund to be Air India crash family 'legacy' ([13 hours ago](https://www.bbc.com/news/articles/c5y5ygl2g31o))
-- King's Police Medal for interim chief constable ([17 hours ago](https://www.bbc.com/news/articles/c39x9jz8ez1o))
-- 'I've been coming to this festival since 1984' ([18 hours ago](https://www.bbc.com/news/articles/clyny53kdg4o))
+- School fund to be Air India crash family 'legacy' ([14 hours ago](https://www.bbc.com/news/articles/c5y5ygl2g31o))
+- King's Police Medal for interim chief constable ([18 hours ago](https://www.bbc.com/news/articles/c39x9jz8ez1o))
+- 'I've been coming to this festival since 1984' ([19 hours ago](https://www.bbc.com/news/articles/clyny53kdg4o))
 - Duo kayak the length of the Thames after family death ([20 hours ago](https://www.bbc.com/news/articles/c79ep5dqpd3o))
 - Headlines: Plane crash tributes and the park 'pong' ([20 hours ago](https://www.bbc.com/news/articles/czdy9lymrmgo))
 - Ex-England cricketer 'incredibly proud' to receive MBE ([1 days ago](https://www.bbc.com/news/articles/cql2qnr0kveo))
