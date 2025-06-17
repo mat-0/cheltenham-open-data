@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Grass verges STILL not being cut, 17th June :- [7724291](https://www.fixmystreet.com/report/7724291)
 - Potholes hall rd, 17th June :- [7724204](https://www.fixmystreet.com/report/7724204)
 - Sunken patches, 17th June :- [7723655](https://www.fixmystreet.com/report/7723655)
 - Residents need further detailed info on forthcoming works, 17th June :- [7723588](https://www.fixmystreet.com/report/7723588)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Traffic cones & road closure signs abandoned after roadworks - needs collecting - it’s an eye saw, 17th June :- [7720410](https://www.fixmystreet.com/report/7720410)
 - Road has collapsed next to drain, 16th June :- [7719851](https://www.fixmystreet.com/report/7719851)
 - Giant Hogweed along the waterway, 16th June :- [7719846](https://www.fixmystreet.com/report/7719846)
-- 10 foot graffiti, 16th June :- [7719378](https://www.fixmystreet.com/report/7719378)
 
 <!-- fix_marker ends -->
