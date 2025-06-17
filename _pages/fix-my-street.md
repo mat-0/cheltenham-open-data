@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The bolkards preventing vehicular access have been damaged so access can be obtained by residents in watermead cottages Brockworth, Gloucester GL3 4RR, 17th June :- [7724761](https://www.fixmystreet.com/report/7724761)
+- Metal cover in road loose, 17th June :- [7724628](https://www.fixmystreet.com/report/7724628)
 - Grass verges STILL not being cut, 17th June :- [7724291](https://www.fixmystreet.com/report/7724291)
 - Potholes hall rd, 17th June :- [7724204](https://www.fixmystreet.com/report/7724204)
 - Sunken patches, 17th June :- [7723655](https://www.fixmystreet.com/report/7723655)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Green bags full with rubbish inside, 17th June :- [7720454](https://www.fixmystreet.com/report/7720454)
 - Yet another road closure, after this stretch of road has only just been reopened- permit granted seems excessive for a hole dug on a driveway by the road - it’s not even on the road and very frustrating given existing disruptions in Bishops Cleeve - lack of coordination & consideration to residents, 17th June :- [7720426](https://www.fixmystreet.com/report/7720426)
 - Traffic cones & road closure signs abandoned after roadworks - needs collecting - it’s an eye saw, 17th June :- [7720410](https://www.fixmystreet.com/report/7720410)
-- Road has collapsed next to drain, 16th June :- [7719851](https://www.fixmystreet.com/report/7719851)
-- Giant Hogweed along the waterway, 16th June :- [7719846](https://www.fixmystreet.com/report/7719846)
 
 <!-- fix_marker ends -->
