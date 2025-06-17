@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Tuesday, 17 June 2025
 
-- The average temperature today is 23.94˚C,
-- With highs of 24.99˚C and lows of 22.75˚C,
-- It may feel like 23.85˚C with few clouds
+- The average temperature today is 24˚C,
+- With highs of 25.4˚C and lows of 23.75˚C,
+- It may feel like 23.97˚C with few clouds
 - The wind speed is 4.12m/s and visibility is 10000m
-- The pressure is 1025hPa and humidity is 56%
+- The pressure is 1025hPa and humidity is 58%
 - The sun will rise at 03:48 and set at 20:30
 
 <!-- weather_marker ends -->

@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Sunken patches, 17th June :- [7723655](https://www.fixmystreet.com/report/7723655)
+- Residents need further detailed info on forthcoming works, 17th June :- [7723588](https://www.fixmystreet.com/report/7723588)
+- Several potholes along Granley Road as far as the corner with Swanswell Drive, 17th June :- [7723361](https://www.fixmystreet.com/report/7723361)
 - Traffic signal road markings very faint and require repainting, 17th June :- [7723143](https://www.fixmystreet.com/report/7723143)
 - One way sign faded and needs replaced, 17th June :- [7723133](https://www.fixmystreet.com/report/7723133)
 - The drain is blocked problem, 17th June :- [7723225](https://www.fixmystreet.com/report/7723225)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Giant Hogweed along the waterway, 16th June :- [7719846](https://www.fixmystreet.com/report/7719846)
 - 10 foot graffiti, 16th June :- [7719378](https://www.fixmystreet.com/report/7719378)
 - Voxwell lane, Bishops Cleeve, 16th June :- [7719225](https://www.fixmystreet.com/report/7719225)
-- Grass area, at least 3ft tall., 16th June :- [7719208](https://www.fixmystreet.com/report/7719208)
-- Abandoned Barrier & Signage, 16th June :- [7718763](https://www.fixmystreet.com/report/7718763)
-- Abandoned signage & Barrier, 16th June :- [7718738](https://www.fixmystreet.com/report/7718738)
 
 <!-- fix_marker ends -->
