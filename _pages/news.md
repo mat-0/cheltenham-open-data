@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Farmers encouraged to get health checkup at market ([7 hours ago](https://www.bbc.com/news/articles/c5yxyye6rglo))
-- Cousins complete history-making wing walk ([7 hours ago](https://www.bbc.com/news/articles/czxw6npq667o))
-- 'We weren't depressed - we were in pain' ([10 hours ago](https://www.bbc.com/news/articles/cvgv27g4wjno))
-- Low water levels and flash flood damage ([11 hours ago](https://www.bbc.com/news/articles/cn5krq5pgldo))
-- Commuter road reopens after overrunning works ([13 hours ago](https://www.bbc.com/news/articles/c78n5zl514lo))
-- Comic book artist says AI is 'threat to livelihood' ([15 hours ago](https://www.bbc.com/news/articles/cjrnr779z2lo))
+- Farmers encouraged to get health checkup at market ([8 hours ago](https://www.bbc.com/news/articles/c5yxyye6rglo))
+- Cousins complete history-making wing walk ([8 hours ago](https://www.bbc.com/news/articles/czxw6npq667o))
+- 'We weren't depressed - we were in pain' ([11 hours ago](https://www.bbc.com/news/articles/cvgv27g4wjno))
+- Low water levels and flash flood damage ([12 hours ago](https://www.bbc.com/news/articles/cn5krq5pgldo))
+- Commuter road reopens after overrunning works ([14 hours ago](https://www.bbc.com/news/articles/c78n5zl514lo))
+- Comic book artist says AI is 'threat to livelihood' ([16 hours ago](https://www.bbc.com/news/articles/cjrnr779z2lo))
 - Family of Air India crash victims feel 'abandoned' ([1 days ago](https://www.bbc.com/news/articles/c5y0lwreg9qo))
 - Cost of rural crime in county rises, insurers say ([1 days ago](https://www.bbc.com/news/articles/cje7e8lqvj0o))
 - Scene guard in place overnight after report two men assaulted a man in Cheltenham ([1 days ago](https://gloucesternewscentre.co.uk/scene-guard-in-place-overnight-after-report-two-men-assaulted-a-man-in-cheltenham/))
