@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Light sensor is not detecting vehicles problem, 17th June :- [7721509](https://www.fixmystreet.com/report/7721509)
 - Deep wide pot hole, 17th June :- [7720980](https://www.fixmystreet.com/report/7720980)
 - Sofa fly tipping, 17th June :- [7720601](https://www.fixmystreet.com/report/7720601)
 - Green bags full with rubbish inside, 17th June :- [7720454](https://www.fixmystreet.com/report/7720454)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Footpaths on bith side of road uneven, jutting up paving slabs. Elderly resident now unable to walk from property due to regular trips/falls on roadside path. Daily observations of passing pedestrians also shows regular tripping on path., 16th June :- [7717672](https://www.fixmystreet.com/report/7717672)
 - Footpath has fallen away, leaving it very narrow and dangerous, 16th June :- [7717410](https://www.fixmystreet.com/report/7717410)
 - Alot of fly-tipping, 16th June :- [7716902](https://www.fixmystreet.com/report/7716902)
-- Branch of tree has come down onto path and road outside St Anthonys, 16th June :- [7716559](https://www.fixmystreet.com/report/7716559)
 
 <!-- fix_marker ends -->
