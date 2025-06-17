@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Potholes hall rd, 17th June :- [7724204](https://www.fixmystreet.com/report/7724204)
 - Sunken patches, 17th June :- [7723655](https://www.fixmystreet.com/report/7723655)
 - Residents need further detailed info on forthcoming works, 17th June :- [7723588](https://www.fixmystreet.com/report/7723588)
 - Several potholes along Granley Road as far as the corner with Swanswell Drive, 17th June :- [7723361](https://www.fixmystreet.com/report/7723361)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Road has collapsed next to drain, 16th June :- [7719851](https://www.fixmystreet.com/report/7719851)
 - Giant Hogweed along the waterway, 16th June :- [7719846](https://www.fixmystreet.com/report/7719846)
 - 10 foot graffiti, 16th June :- [7719378](https://www.fixmystreet.com/report/7719378)
-- Voxwell lane, Bishops Cleeve, 16th June :- [7719225](https://www.fixmystreet.com/report/7719225)
 
 <!-- fix_marker ends -->
