@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Deep wide pot hole, 17th June :- [7720980](https://www.fixmystreet.com/report/7720980)
 - Sofa fly tipping, 17th June :- [7720601](https://www.fixmystreet.com/report/7720601)
 - Green bags full with rubbish inside, 17th June :- [7720454](https://www.fixmystreet.com/report/7720454)
 - Yet another road closure, after this stretch of road has only just been reopened- permit granted seems excessive for a hole dug on a driveway by the road - it’s not even on the road and very frustrating given existing disruptions in Bishops Cleeve - lack of coordination & consideration to residents, 17th June :- [7720426](https://www.fixmystreet.com/report/7720426)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Footpath has fallen away, leaving it very narrow and dangerous, 16th June :- [7717410](https://www.fixmystreet.com/report/7717410)
 - Alot of fly-tipping, 16th June :- [7716902](https://www.fixmystreet.com/report/7716902)
 - Branch of tree has come down onto path and road outside St Anthonys, 16th June :- [7716559](https://www.fixmystreet.com/report/7716559)
-- Flytipped black panel and mirror Brunswick St, 16th June :- [7716277](https://www.fixmystreet.com/report/7716277)
 
 <!-- fix_marker ends -->

@@ -12,15 +12,15 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Commuter road closed due overrunning works ([5 minutes ago](https://www.bbc.com/news/articles/c78n5zl514lo))
-- Comic book artist says AI is 'threat to livelihood' ([1 hours ago](https://www.bbc.com/news/articles/cjrnr779z2lo))
-- Farmers encouraged to get health checkup at market ([1 hours ago](https://www.bbc.com/news/articles/c5yxyye6rglo))
-- Family of Air India crash victims feel 'abandoned' ([13 hours ago](https://www.bbc.com/news/articles/c5y0lwreg9qo))
-- Cost of rural crime in county rises, insurers say ([15 hours ago](https://www.bbc.com/news/articles/cje7e8lqvj0o))
-- Scene guard in place overnight after report two men assaulted a man in Cheltenham ([17 hours ago](https://gloucesternewscentre.co.uk/scene-guard-in-place-overnight-after-report-two-men-assaulted-a-man-in-cheltenham/))
-- Dry spring is mixed blessing for farming community ([17 hours ago](https://www.bbc.com/news/articles/c8d1vglgj9zo))
-- 'Rainbow bridge' and 'Bath rugby celebrations' ([20 hours ago](https://www.bbc.com/news/articles/cx2e29jqllgo))
-- Man sentenced for illegal tobacco sales ([22 hours ago](https://gloucesternewscentre.co.uk/man-sentenced-for-illegal-tobacco-sales/))
+- Commuter road reopens after overrunning works ([18 minutes ago](https://www.bbc.com/news/articles/c78n5zl514lo))
+- Comic book artist says AI is 'threat to livelihood' ([2 hours ago](https://www.bbc.com/news/articles/cjrnr779z2lo))
+- Farmers encouraged to get health checkup at market ([2 hours ago](https://www.bbc.com/news/articles/c5yxyye6rglo))
+- Family of Air India crash victims feel 'abandoned' ([14 hours ago](https://www.bbc.com/news/articles/c5y0lwreg9qo))
+- Cost of rural crime in county rises, insurers say ([16 hours ago](https://www.bbc.com/news/articles/cje7e8lqvj0o))
+- Scene guard in place overnight after report two men assaulted a man in Cheltenham ([18 hours ago](https://gloucesternewscentre.co.uk/scene-guard-in-place-overnight-after-report-two-men-assaulted-a-man-in-cheltenham/))
+- Dry spring is mixed blessing for farming community ([18 hours ago](https://www.bbc.com/news/articles/c8d1vglgj9zo))
+- 'Rainbow bridge' and 'Bath rugby celebrations' ([21 hours ago](https://www.bbc.com/news/articles/cx2e29jqllgo))
+- Man sentenced for illegal tobacco sales ([23 hours ago](https://gloucesternewscentre.co.uk/man-sentenced-for-illegal-tobacco-sales/))
 - Woman fundraising to bring police horse home ([1 days ago](https://www.bbc.com/news/articles/c1ld0n474llo))
 - Coming up in the West - Solstice week and T20 Blast ([1 days ago](https://www.bbc.com/news/articles/c4g3nze858lo))
 - School fund to be Air India crash family 'legacy' ([1 days ago](https://www.bbc.com/news/articles/c5y5ygl2g31o))
@@ -61,7 +61,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Elms Park development clears first hurdle ([18 days ago](https://gloucesternewscentre.co.uk/elms-park-development-clears-first-hurdle/))
 - Fears people ‘lose right to BBQ in the sun’ as roof will ‘overshadow’ gardens ([24 days ago](https://gloucesternewscentre.co.uk/fears-people-lose-right-to-bbq-in-the-sun-as-roof-will-overshadow-gardens/))
 - Fears 4115 homes near M5 will have ‘disastrous’ effect on area as seven villages fight scheme ([24 days ago](https://gloucesternewscentre.co.uk/fears-4115-homes-near-m5-will-have-disastrous-effect-on-area-as-seven-villages-fight-scheme/))
-- Luxury spa hotel could be the future for iconic Municipal Offices as preferred bidder is selected ([25 days ago](https://www.cheltenham.gov.uk/news/article/3014/luxury_spa_hotel_could_be_the_future_for_iconic_municipal_offices_as_preferred_bidder_is_selected))
+- Luxury spa hotel could be the future for iconic Municipal Offices as preferred bidder is selected ([26 days ago](https://www.cheltenham.gov.uk/news/article/3014/luxury_spa_hotel_could_be_the_future_for_iconic_municipal_offices_as_preferred_bidder_is_selected))
 - Spring bank holiday waste and recycling collections ([27 days ago](https://www.cheltenham.gov.uk/news/article/3013/spring_bank_holiday_waste_and_recycling_collections))
 
 <!-- news_marker ends -->
