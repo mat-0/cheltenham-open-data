@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Footpath is overgrown with grass/nettles and weeds. Crossing point, with textured paving for visually impaired is 90 per cent covered with soil and foliage. Extremely difficult to see cars speeding round the corner. The footpath has been marked up with spray paint saying 300m but that was several weeks ago and nothing has been done. This is the path used by many to take children to school and car drivers are unable to see them crossing the road until the last minute., 17th June :- [7722804](https://www.fixmystreet.com/report/7722804)
+- Other damage to pavement i.e. cobbles, raised mound/surface problem, 17th June :- [7722505](https://www.fixmystreet.com/report/7722505)
 - Bad damage to pavement, 17th June :- [7722200](https://www.fixmystreet.com/report/7722200)
 - Trolly in brook which is causing an obstruction, 17th June :- [7722049](https://www.fixmystreet.com/report/7722049)
 - Light sensor is not detecting vehicles problem, 17th June :- [7721509](https://www.fixmystreet.com/report/7721509)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Abandoned signs and cones, 16th June :- [7718716](https://www.fixmystreet.com/report/7718716)
 - Abandoned signs & cones, 16th June :- [7718665](https://www.fixmystreet.com/report/7718665)
 - Abandoned signs, 16th June :- [7718645](https://www.fixmystreet.com/report/7718645)
-- Pothole by the telegraph pot., 16th June :- [7718195](https://www.fixmystreet.com/report/7718195)
-- Footpaths on bith side of road uneven, jutting up paving slabs. Elderly resident now unable to walk from property due to regular trips/falls on roadside path. Daily observations of passing pedestrians also shows regular tripping on path., 16th June :- [7717672](https://www.fixmystreet.com/report/7717672)
 
 <!-- fix_marker ends -->
