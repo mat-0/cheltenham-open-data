@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Yet another road closure, after this stretch of road has only just been reopened- permit granted seems excessive for a hole dug on a driveway by the road - it’s not even on the road and very frustrating given existing disruptions in Bishops Cleeve - lack of coordination & consideration to residents, 17th June :- [7720426](https://www.fixmystreet.com/report/7720426)
+- Traffic cones & road closure signs abandoned after roadworks - needs collecting - it’s an eye saw, 17th June :- [7720410](https://www.fixmystreet.com/report/7720410)
 - Road has collapsed next to drain, 16th June :- [7719851](https://www.fixmystreet.com/report/7719851)
 - Giant Hogweed along the waterway, 16th June :- [7719846](https://www.fixmystreet.com/report/7719846)
 - 10 foot graffiti, 16th June :- [7719378](https://www.fixmystreet.com/report/7719378)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Flytipped black panel and mirror Brunswick St, 16th June :- [7716277](https://www.fixmystreet.com/report/7716277)
 - Sinkhole forming outside 1 at end of parking bay, 16th June :- [7716145](https://www.fixmystreet.com/report/7716145)
 - Streetlight outside 13 Dinas Close GL51 3EP permanently out, and streetlight outside 3 Dinas Close obscured by vegetation, 16th June :- [7715877](https://www.fixmystreet.com/report/7715877)
-- Large overgrown vegetation/weeds blocking footpath, 16th June :- [7715870](https://www.fixmystreet.com/report/7715870)
-- Signs left in alley way. Alleyway at end of Brookway drive., 16th June :- [7715803](https://www.fixmystreet.com/report/7715803)
 
 <!-- fix_marker ends -->
