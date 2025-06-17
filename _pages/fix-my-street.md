@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Traffic signal road markings very faint and require repainting, 17th June :- [7723143](https://www.fixmystreet.com/report/7723143)
+- One way sign faded and needs replaced, 17th June :- [7723133](https://www.fixmystreet.com/report/7723133)
+- The drain is blocked problem, 17th June :- [7723225](https://www.fixmystreet.com/report/7723225)
 - Footpath is overgrown with grass/nettles and weeds. Crossing point, with textured paving for visually impaired is 90 per cent covered with soil and foliage. Extremely difficult to see cars speeding round the corner. The footpath has been marked up with spray paint saying 300m but that was several weeks ago and nothing has been done. This is the path used by many to take children to school and car drivers are unable to see them crossing the road until the last minute., 17th June :- [7722804](https://www.fixmystreet.com/report/7722804)
 - Other damage to pavement i.e. cobbles, raised mound/surface problem, 17th June :- [7722505](https://www.fixmystreet.com/report/7722505)
 - Bad damage to pavement, 17th June :- [7722200](https://www.fixmystreet.com/report/7722200)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Grass area, at least 3ft tall., 16th June :- [7719208](https://www.fixmystreet.com/report/7719208)
 - Abandoned Barrier & Signage, 16th June :- [7718763](https://www.fixmystreet.com/report/7718763)
 - Abandoned signage & Barrier, 16th June :- [7718738](https://www.fixmystreet.com/report/7718738)
-- Abandoned signs and cones, 16th June :- [7718716](https://www.fixmystreet.com/report/7718716)
-- Abandoned signs & cones, 16th June :- [7718665](https://www.fixmystreet.com/report/7718665)
-- Abandoned signs, 16th June :- [7718645](https://www.fixmystreet.com/report/7718645)
 
 <!-- fix_marker ends -->
