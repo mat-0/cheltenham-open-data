@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Some barriers have been left at the bottom of Harp Hill, 18th June :- [7729032](https://www.fixmystreet.com/report/7729032)
+- A pothole in road problem, 18th June :- [7729224](https://www.fixmystreet.com/report/7729224)
 - Large branches encroaching onto lines/cables outside flats., 18th June :- [7728691](https://www.fixmystreet.com/report/7728691)
 - Flyposting on pavement itself on Leckhampton Rd, 18th June :- [7728527](https://www.fixmystreet.com/report/7728527)
 - Light sensor is not detecting vehicles problem, 18th June :- [7728399](https://www.fixmystreet.com/report/7728399)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Several potholes along Granley Road as far as the corner with Swanswell Drive, 17th June :- [7723361](https://www.fixmystreet.com/report/7723361)
 - Traffic signal road markings very faint and require repainting, 17th June :- [7723143](https://www.fixmystreet.com/report/7723143)
 - One way sign faded and needs replaced, 17th June :- [7723133](https://www.fixmystreet.com/report/7723133)
-- The drain is blocked problem, 17th June :- [7723225](https://www.fixmystreet.com/report/7723225)
-- Footpath is overgrown with grass/nettles and weeds. Crossing point, with textured paving for visually impaired is 90 per cent covered with soil and foliage. Extremely difficult to see cars speeding round the corner. The footpath has been marked up with spray paint saying 300m but that was several weeks ago and nothing has been done. This is the path used by many to take children to school and car drivers are unable to see them crossing the road until the last minute., 17th June :- [7722804](https://www.fixmystreet.com/report/7722804)
 
 <!-- fix_marker ends -->

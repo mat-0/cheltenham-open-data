@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Wednesday, 18 June 2025
 
-- The average temperature today is 24.97˚C,
-- With highs of 25.75˚C and lows of 24.97˚C,
-- It may feel like 24.54˚C with clear sky
-- The wind speed is 2.06m/s and visibility is 10000m
-- The pressure is 1025hPa and humidity is 39%
+- The average temperature today is 26.53˚C,
+- With highs of 27.62˚C and lows of 25.53˚C,
+- It may feel like 26.53˚C with clear sky
+- The wind speed is 1.79m/s and visibility is 10000m
+- The pressure is 1025hPa and humidity is 44%
 - The sun will rise at 03:48 and set at 20:30
 
 <!-- weather_marker ends -->
