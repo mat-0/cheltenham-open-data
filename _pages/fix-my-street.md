@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Collapse of road, 18th June :- [7726817](https://www.fixmystreet.com/report/7726817)
+- Unpermitted roadworks problem, 18th June :- [7726884](https://www.fixmystreet.com/report/7726884)
+- Trees pnstructing pavement, 18th June :- [7726721](https://www.fixmystreet.com/report/7726721)
+- Obstruction caused by wall/building problem, 18th June :- [7726631](https://www.fixmystreet.com/report/7726631)
 - Over grown hedge, 18th June :- [7725693](https://www.fixmystreet.com/report/7725693)
 - The bolkards preventing vehicular access have been damaged so access can be obtained by residents in watermead cottages Brockworth, Gloucester GL3 4RR, 17th June :- [7724761](https://www.fixmystreet.com/report/7724761)
 - Metal cover in road loose, 17th June :- [7724628](https://www.fixmystreet.com/report/7724628)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Bad damage to pavement, 17th June :- [7722200](https://www.fixmystreet.com/report/7722200)
 - Trolly in brook which is causing an obstruction, 17th June :- [7722049](https://www.fixmystreet.com/report/7722049)
 - Light sensor is not detecting vehicles problem, 17th June :- [7721509](https://www.fixmystreet.com/report/7721509)
-- Deep wide pot hole, 17th June :- [7720980](https://www.fixmystreet.com/report/7720980)
-- Sofa fly tipping, 17th June :- [7720601](https://www.fixmystreet.com/report/7720601)
-- Green bags full with rubbish inside, 17th June :- [7720454](https://www.fixmystreet.com/report/7720454)
-- Yet another road closure, after this stretch of road has only just been reopened- permit granted seems excessive for a hole dug on a driveway by the road - it’s not even on the road and very frustrating given existing disruptions in Bishops Cleeve - lack of coordination & consideration to residents, 17th June :- [7720426](https://www.fixmystreet.com/report/7720426)
 
 <!-- fix_marker ends -->
