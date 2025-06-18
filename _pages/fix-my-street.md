@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Uneven road surface Hatherly Lane.lamp 34 opposite Wade Lane need resufacing, 18th June :- [7730457](https://www.fixmystreet.com/report/7730457)
 - Manhole cover loose, 18th June :- [7730120](https://www.fixmystreet.com/report/7730120)
 - Cycle and Walking path with long wide crack in tarmac., 18th June :- [7729503](https://www.fixmystreet.com/report/7729503)
 - Lots of litter on/around Old Pates, 18th June :- [7729461](https://www.fixmystreet.com/report/7729461)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - The bolkards preventing vehicular access have been damaged so access can be obtained by residents in watermead cottages Brockworth, Gloucester GL3 4RR, 17th June :- [7724761](https://www.fixmystreet.com/report/7724761)
 - Metal cover in road loose, 17th June :- [7724628](https://www.fixmystreet.com/report/7724628)
 - Grass verges STILL not being cut, 17th June :- [7724291](https://www.fixmystreet.com/report/7724291)
-- Potholes hall rd, 17th June :- [7724204](https://www.fixmystreet.com/report/7724204)
 
 <!-- fix_marker ends -->
