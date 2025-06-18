@@ -12,14 +12,14 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Preferred buyer found for £25m airport sale ([1 hours ago](https://www.bbc.com/news/articles/c70xjdr4veyo))
-- Complete Victorian pharmacist's shop up for auction ([1 hours ago](https://www.bbc.com/news/articles/cly36y5qwz3o))
-- Joint statement with Gloucester City Council: Preferred bidder for Gloucestershire Airport to deliver soaring potential for economic benefit to region ([1 hours ago](https://www.cheltenham.gov.uk/news/article/3021/joint_statement_with_gloucester_city_council_preferred_bidder_for_gloucestershire_airport_to_deliver_soaring_potential_for_economic_benefit_to_region))
-- Farmers encouraged to get health checkup at market ([17 hours ago](https://www.bbc.com/news/articles/c5yxyye6rglo))
-- Cousins complete history-making wing walk ([17 hours ago](https://www.bbc.com/news/articles/czxw6npq667o))
-- 'We weren't depressed - we were in pain' ([20 hours ago](https://www.bbc.com/news/articles/cvgv27g4wjno))
-- Low water levels and flash flood damage ([21 hours ago](https://www.bbc.com/news/articles/cn5krq5pgldo))
-- Commuter road reopens after overrunning works ([23 hours ago](https://www.bbc.com/news/articles/c78n5zl514lo))
+- Preferred buyer found for £25m airport sale ([2 hours ago](https://www.bbc.com/news/articles/c70xjdr4veyo))
+- Complete Victorian pharmacist's shop up for auction ([2 hours ago](https://www.bbc.com/news/articles/cly36y5qwz3o))
+- Joint statement with Gloucester City Council: Preferred bidder for Gloucestershire Airport to deliver soaring potential for economic benefit to region ([2 hours ago](https://www.cheltenham.gov.uk/news/article/3021/joint_statement_with_gloucester_city_council_preferred_bidder_for_gloucestershire_airport_to_deliver_soaring_potential_for_economic_benefit_to_region))
+- Farmers encouraged to get health checkup at market ([18 hours ago](https://www.bbc.com/news/articles/c5yxyye6rglo))
+- Cousins complete history-making wing walk ([18 hours ago](https://www.bbc.com/news/articles/czxw6npq667o))
+- 'We weren't depressed - we were in pain' ([21 hours ago](https://www.bbc.com/news/articles/cvgv27g4wjno))
+- Low water levels and flash flood damage ([22 hours ago](https://www.bbc.com/news/articles/cn5krq5pgldo))
+- Commuter road reopens after overrunning works ([1 days ago](https://www.bbc.com/news/articles/c78n5zl514lo))
 - Comic book artist says AI is 'threat to livelihood' ([1 days ago](https://www.bbc.com/news/articles/cjrnr779z2lo))
 - Family of Air India crash victims feel 'abandoned' ([1 days ago](https://www.bbc.com/news/articles/c5y0lwreg9qo))
 - Cost of rural crime in county rises, insurers say ([1 days ago](https://www.bbc.com/news/articles/cje7e8lqvj0o))
@@ -62,7 +62,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Elms Park development clears first hurdle ([19 days ago](https://gloucesternewscentre.co.uk/elms-park-development-clears-first-hurdle/))
 - Fears people ‘lose right to BBQ in the sun’ as roof will ‘overshadow’ gardens ([25 days ago](https://gloucesternewscentre.co.uk/fears-people-lose-right-to-bbq-in-the-sun-as-roof-will-overshadow-gardens/))
 - Fears 4115 homes near M5 will have ‘disastrous’ effect on area as seven villages fight scheme ([25 days ago](https://gloucesternewscentre.co.uk/fears-4115-homes-near-m5-will-have-disastrous-effect-on-area-as-seven-villages-fight-scheme/))
-- Luxury spa hotel could be the future for iconic Municipal Offices as preferred bidder is selected ([26 days ago](https://www.cheltenham.gov.uk/news/article/3014/luxury_spa_hotel_could_be_the_future_for_iconic_municipal_offices_as_preferred_bidder_is_selected))
+- Luxury spa hotel could be the future for iconic Municipal Offices as preferred bidder is selected ([27 days ago](https://www.cheltenham.gov.uk/news/article/3014/luxury_spa_hotel_could_be_the_future_for_iconic_municipal_offices_as_preferred_bidder_is_selected))
 - Spring bank holiday waste and recycling collections ([28 days ago](https://www.cheltenham.gov.uk/news/article/3013/spring_bank_holiday_waste_and_recycling_collections))
 
 <!-- news_marker ends -->
