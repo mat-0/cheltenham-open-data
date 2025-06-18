@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flyposting on pavement itself on Leckhampton Rd, 18th June :- [7728527](https://www.fixmystreet.com/report/7728527)
+- Light sensor is not detecting vehicles problem, 18th June :- [7728399](https://www.fixmystreet.com/report/7728399)
 - Blocked drain, 18th June :- [7727704](https://www.fixmystreet.com/report/7727704)
 - Collapse of road, 18th June :- [7726817](https://www.fixmystreet.com/report/7726817)
 - Unpermitted roadworks problem, 18th June :- [7726884](https://www.fixmystreet.com/report/7726884)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - The drain is blocked problem, 17th June :- [7723225](https://www.fixmystreet.com/report/7723225)
 - Footpath is overgrown with grass/nettles and weeds. Crossing point, with textured paving for visually impaired is 90 per cent covered with soil and foliage. Extremely difficult to see cars speeding round the corner. The footpath has been marked up with spray paint saying 300m but that was several weeks ago and nothing has been done. This is the path used by many to take children to school and car drivers are unable to see them crossing the road until the last minute., 17th June :- [7722804](https://www.fixmystreet.com/report/7722804)
 - Other damage to pavement i.e. cobbles, raised mound/surface problem, 17th June :- [7722505](https://www.fixmystreet.com/report/7722505)
-- Bad damage to pavement, 17th June :- [7722200](https://www.fixmystreet.com/report/7722200)
-- Trolly in brook which is causing an obstruction, 17th June :- [7722049](https://www.fixmystreet.com/report/7722049)
 
 <!-- fix_marker ends -->
