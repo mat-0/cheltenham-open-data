@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Blocked drain, 18th June :- [7727704](https://www.fixmystreet.com/report/7727704)
 - Collapse of road, 18th June :- [7726817](https://www.fixmystreet.com/report/7726817)
 - Unpermitted roadworks problem, 18th June :- [7726884](https://www.fixmystreet.com/report/7726884)
 - Trees pnstructing pavement, 18th June :- [7726721](https://www.fixmystreet.com/report/7726721)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Other damage to pavement i.e. cobbles, raised mound/surface problem, 17th June :- [7722505](https://www.fixmystreet.com/report/7722505)
 - Bad damage to pavement, 17th June :- [7722200](https://www.fixmystreet.com/report/7722200)
 - Trolly in brook which is causing an obstruction, 17th June :- [7722049](https://www.fixmystreet.com/report/7722049)
-- Light sensor is not detecting vehicles problem, 17th June :- [7721509](https://www.fixmystreet.com/report/7721509)
 
 <!-- fix_marker ends -->
