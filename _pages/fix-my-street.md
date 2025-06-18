@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Manhole cover loose, 18th June :- [7730120](https://www.fixmystreet.com/report/7730120)
 - Cycle and Walking path with long wide crack in tarmac., 18th June :- [7729503](https://www.fixmystreet.com/report/7729503)
 - Lots of litter on/around Old Pates, 18th June :- [7729461](https://www.fixmystreet.com/report/7729461)
 - Trolley still dumped, 18th June :- [7729447](https://www.fixmystreet.com/report/7729447)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Metal cover in road loose, 17th June :- [7724628](https://www.fixmystreet.com/report/7724628)
 - Grass verges STILL not being cut, 17th June :- [7724291](https://www.fixmystreet.com/report/7724291)
 - Potholes hall rd, 17th June :- [7724204](https://www.fixmystreet.com/report/7724204)
-- Sunken patches, 17th June :- [7723655](https://www.fixmystreet.com/report/7723655)
 
 <!-- fix_marker ends -->
