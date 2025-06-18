@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Streetlight not working, 19th June :- [7731426](https://www.fixmystreet.com/report/7731426)
+- Traffic light is stuck on Red. It only works if cars come from the opposite side., 19th June :- [7731413](https://www.fixmystreet.com/report/7731413)
+- Traffic light default is to give way to the side streets, not the main (Tewksbury Road)., 19th June :- [7731406](https://www.fixmystreet.com/report/7731406)
+- Road surface sinking, uneven surface, very bumpy, 19th June :- [7731403](https://www.fixmystreet.com/report/7731403)
 - Entrance to Appleton Way Hucclecote, 18th June :- [7730844](https://www.fixmystreet.com/report/7730844)
 - Uneven road surface Hatherly Lane.lamp 34 opposite Wade Lane need resufacing, 18th June :- [7730457](https://www.fixmystreet.com/report/7730457)
 - Manhole cover loose, 18th June :- [7730120](https://www.fixmystreet.com/report/7730120)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Collapse of road, 18th June :- [7726817](https://www.fixmystreet.com/report/7726817)
 - Unpermitted roadworks problem, 18th June :- [7726884](https://www.fixmystreet.com/report/7726884)
 - Trees pnstructing pavement, 18th June :- [7726721](https://www.fixmystreet.com/report/7726721)
-- Obstruction caused by wall/building problem, 18th June :- [7726631](https://www.fixmystreet.com/report/7726631)
-- Over grown hedge, 18th June :- [7725693](https://www.fixmystreet.com/report/7725693)
-- The bolkards preventing vehicular access have been damaged so access can be obtained by residents in watermead cottages Brockworth, Gloucester GL3 4RR, 17th June :- [7724761](https://www.fixmystreet.com/report/7724761)
-- Metal cover in road loose, 17th June :- [7724628](https://www.fixmystreet.com/report/7724628)
 
 <!-- fix_marker ends -->
