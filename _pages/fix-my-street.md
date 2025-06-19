@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Width of road dipped surface of road like caved under, 19th June :- [7734369](https://www.fixmystreet.com/report/7734369)
+- Fly posting across junction, 19th June :- [7734228](https://www.fixmystreet.com/report/7734228)
 - Flytipping, 19th June :- [7734074](https://www.fixmystreet.com/report/7734074)
 - Loading sign missing, 19th June :- [7733892](https://www.fixmystreet.com/report/7733892)
 - Unmarked pothole in middle of road- no street lights, 19th June :- [7733722](https://www.fixmystreet.com/report/7733722)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Streetlight not working, 19th June :- [7731432](https://www.fixmystreet.com/report/7731432)
 - Red traffic light not working, 19th June :- [7731431](https://www.fixmystreet.com/report/7731431)
 - Streetlight not working, 19th June :- [7731428](https://www.fixmystreet.com/report/7731428)
-- Streetlight not working, 19th June :- [7731426](https://www.fixmystreet.com/report/7731426)
-- Traffic light is stuck on Red. It only works if cars come from the opposite side., 19th June :- [7731413](https://www.fixmystreet.com/report/7731413)
 
 <!-- fix_marker ends -->
