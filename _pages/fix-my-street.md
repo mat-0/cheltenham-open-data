@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Sinkhole appearing next to drain in road, 19th June :- [7732446](https://www.fixmystreet.com/report/7732446)
+- There are 2 sunken patches of tarmac which are now very deep and making cars swerve. They are outside numbers 17. Please could you repair these sunken patches?, 19th June :- [7732200](https://www.fixmystreet.com/report/7732200)
+- 22080258 update, 19th June :- [7732133](https://www.fixmystreet.com/report/7732133)
 - Long strip of road missing, 19th June :- [7731917](https://www.fixmystreet.com/report/7731917)
 - Please can you arrange for bin to be emptied, 19th June :- [7731707](https://www.fixmystreet.com/report/7731707)
 - Abandoned Road Closure Sign, Cones & Barriers, 19th June :- [7731480](https://www.fixmystreet.com/report/7731480)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Cycle and Walking path with long wide crack in tarmac., 18th June :- [7729503](https://www.fixmystreet.com/report/7729503)
 - Lots of litter on/around Old Pates, 18th June :- [7729461](https://www.fixmystreet.com/report/7729461)
 - Trolley still dumped, 18th June :- [7729447](https://www.fixmystreet.com/report/7729447)
-- Horse chestnut appears dead, 18th June :- [7729429](https://www.fixmystreet.com/report/7729429)
-- Some barriers have been left at the bottom of Harp Hill, 18th June :- [7729032](https://www.fixmystreet.com/report/7729032)
-- A pothole in road problem, 18th June :- [7729224](https://www.fixmystreet.com/report/7729224)
 
 <!-- fix_marker ends -->
