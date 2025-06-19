@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Unmarked pothole in middle of road- no street lights, 19th June :- [7733722](https://www.fixmystreet.com/report/7733722)
+- Potholes and road damage old Reddings road, 19th June :- [7733719](https://www.fixmystreet.com/report/7733719)
 - Very deep pothole, 19th June :- [7733265](https://www.fixmystreet.com/report/7733265)
 - Large fridge freezer, 19th June :- [7733213](https://www.fixmystreet.com/report/7733213)
 - Pot holes left by water main leak, 19th June :- [7732993](https://www.fixmystreet.com/report/7732993)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Traffic light is stuck on Red. It only works if cars come from the opposite side., 19th June :- [7731413](https://www.fixmystreet.com/report/7731413)
 - Traffic light default is to give way to the side streets, not the main (Tewksbury Road)., 19th June :- [7731406](https://www.fixmystreet.com/report/7731406)
 - Road surface sinking, uneven surface, very bumpy, 19th June :- [7731403](https://www.fixmystreet.com/report/7731403)
-- Entrance to Appleton Way Hucclecote, 18th June :- [7730844](https://www.fixmystreet.com/report/7730844)
-- Uneven road surface Hatherly Lane.lamp 34 opposite Wade Lane need resufacing, 18th June :- [7730457](https://www.fixmystreet.com/report/7730457)
 
 <!-- fix_marker ends -->
