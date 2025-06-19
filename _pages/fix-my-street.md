@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Abandoned Road Closure Sign, Cones & Barriers, 19th June :- [7731480](https://www.fixmystreet.com/report/7731480)
+- New drainage works on shurdington road outside rear of 57 Merestones drive supplying drainage to Greenway Chase only finished last week and new manhole cover rattles when driven over, 19th June :- [7731467](https://www.fixmystreet.com/report/7731467)
 - Streetlight not working, 19th June :- [7731432](https://www.fixmystreet.com/report/7731432)
 - Red traffic light not working, 19th June :- [7731431](https://www.fixmystreet.com/report/7731431)
 - Streetlight not working, 19th June :- [7731428](https://www.fixmystreet.com/report/7731428)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - A pothole in road problem, 18th June :- [7729224](https://www.fixmystreet.com/report/7729224)
 - Large branches encroaching onto lines/cables outside flats., 18th June :- [7728691](https://www.fixmystreet.com/report/7728691)
 - Flyposting on pavement itself on Leckhampton Rd, 18th June :- [7728527](https://www.fixmystreet.com/report/7728527)
-- Light sensor is not detecting vehicles problem, 18th June :- [7728399](https://www.fixmystreet.com/report/7728399)
-- Blocked drain, 18th June :- [7727704](https://www.fixmystreet.com/report/7727704)
 
 <!-- fix_marker ends -->
