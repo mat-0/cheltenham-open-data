@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipping, 19th June :- [7734074](https://www.fixmystreet.com/report/7734074)
+- Loading sign missing, 19th June :- [7733892](https://www.fixmystreet.com/report/7733892)
 - Unmarked pothole in middle of road- no street lights, 19th June :- [7733722](https://www.fixmystreet.com/report/7733722)
 - Potholes and road damage old Reddings road, 19th June :- [7733719](https://www.fixmystreet.com/report/7733719)
 - Very deep pothole, 19th June :- [7733265](https://www.fixmystreet.com/report/7733265)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Streetlight not working, 19th June :- [7731428](https://www.fixmystreet.com/report/7731428)
 - Streetlight not working, 19th June :- [7731426](https://www.fixmystreet.com/report/7731426)
 - Traffic light is stuck on Red. It only works if cars come from the opposite side., 19th June :- [7731413](https://www.fixmystreet.com/report/7731413)
-- Traffic light default is to give way to the side streets, not the main (Tewksbury Road)., 19th June :- [7731406](https://www.fixmystreet.com/report/7731406)
-- Road surface sinking, uneven surface, very bumpy, 19th June :- [7731403](https://www.fixmystreet.com/report/7731403)
 
 <!-- fix_marker ends -->
