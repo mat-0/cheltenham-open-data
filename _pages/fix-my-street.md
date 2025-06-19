@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Broken glass, 19th June :- [7734611](https://www.fixmystreet.com/report/7734611)
 - Width of road dipped surface of road like caved under, 19th June :- [7734369](https://www.fixmystreet.com/report/7734369)
 - Fly posting across junction, 19th June :- [7734228](https://www.fixmystreet.com/report/7734228)
 - Flytipping, 19th June :- [7734074](https://www.fixmystreet.com/report/7734074)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - New drainage works on shurdington road outside rear of 57 Merestones drive supplying drainage to Greenway Chase only finished last week and new manhole cover rattles when driven over, 19th June :- [7731467](https://www.fixmystreet.com/report/7731467)
 - Streetlight not working, 19th June :- [7731432](https://www.fixmystreet.com/report/7731432)
 - Red traffic light not working, 19th June :- [7731431](https://www.fixmystreet.com/report/7731431)
-- Streetlight not working, 19th June :- [7731428](https://www.fixmystreet.com/report/7731428)
 
 <!-- fix_marker ends -->
