@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree on public pathway needs cutting., 19th June :- [7735164](https://www.fixmystreet.com/report/7735164)
+- Road in very poor state of repair, 19th June :- [7735056](https://www.fixmystreet.com/report/7735056)
+- Signs obscuring visibility for right turn traffic; inexplicable road narrowing implemented, 19th June :- [7735032](https://www.fixmystreet.com/report/7735032)
+- Significant undulations/depressions along the lane making it inaccessible for non 4x4 motor vehicles., 19th June :- [7735010](https://www.fixmystreet.com/report/7735010)
 - Broken glass, 19th June :- [7734611](https://www.fixmystreet.com/report/7734611)
 - Width of road dipped surface of road like caved under, 19th June :- [7734369](https://www.fixmystreet.com/report/7734369)
 - Fly posting across junction, 19th June :- [7734228](https://www.fixmystreet.com/report/7734228)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - 22080258 update, 19th June :- [7732133](https://www.fixmystreet.com/report/7732133)
 - Long strip of road missing, 19th June :- [7731917](https://www.fixmystreet.com/report/7731917)
 - Please can you arrange for bin to be emptied, 19th June :- [7731707](https://www.fixmystreet.com/report/7731707)
-- Abandoned Road Closure Sign, Cones & Barriers, 19th June :- [7731480](https://www.fixmystreet.com/report/7731480)
-- New drainage works on shurdington road outside rear of 57 Merestones drive supplying drainage to Greenway Chase only finished last week and new manhole cover rattles when driven over, 19th June :- [7731467](https://www.fixmystreet.com/report/7731467)
-- Streetlight not working, 19th June :- [7731432](https://www.fixmystreet.com/report/7731432)
-- Red traffic light not working, 19th June :- [7731431](https://www.fixmystreet.com/report/7731431)
 
 <!-- fix_marker ends -->
