@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Overgrown Verges Poor Visibility on Highcross to Cirencester rd, 20th June :- [7739569](https://www.fixmystreet.com/report/7739569)
+- All the street lights in Heron Close are not working, 20th June :- [7739556](https://www.fixmystreet.com/report/7739556)
+- Tree Branch sticking out. Causing damage to Busses, 20th June :- [7739464](https://www.fixmystreet.com/report/7739464)
+- Grate is completely full of soil outside 25/27 Alexandra St, 20th June :- [7739412](https://www.fixmystreet.com/report/7739412)
+- After replacing of pavement cycle racks have not been replace at 2 sites, 20th June :- [7739327](https://www.fixmystreet.com/report/7739327)
+- A pothole in road problem, 20th June :- [7739418](https://www.fixmystreet.com/report/7739418)
 - Ringway (?) blockage of road, 20th June :- [7739092](https://www.fixmystreet.com/report/7739092)
 - Vehicles and building work blocking pavement, 20th June :- [7738944](https://www.fixmystreet.com/report/7738944)
 - Dumped trailer., 20th June :- [7738809](https://www.fixmystreet.com/report/7738809)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Pavement damage unauthorized work, 20th June :- [7737107](https://www.fixmystreet.com/report/7737107)
 - Tree on public pathway needs cutting., 19th June :- [7735164](https://www.fixmystreet.com/report/7735164)
 - Road in very poor state of repair, 19th June :- [7735056](https://www.fixmystreet.com/report/7735056)
-- Signs obscuring visibility for right turn traffic; inexplicable road narrowing implemented, 19th June :- [7735032](https://www.fixmystreet.com/report/7735032)
-- Significant undulations/depressions along the lane making it inaccessible for non 4x4 motor vehicles., 19th June :- [7735010](https://www.fixmystreet.com/report/7735010)
-- Broken glass, 19th June :- [7734611](https://www.fixmystreet.com/report/7734611)
-- Width of road dipped surface of road like caved under, 19th June :- [7734369](https://www.fixmystreet.com/report/7734369)
-- Fly posting across junction, 19th June :- [7734228](https://www.fixmystreet.com/report/7734228)
-- Flytipping, 19th June :- [7734074](https://www.fixmystreet.com/report/7734074)
 
 <!-- fix_marker ends -->
