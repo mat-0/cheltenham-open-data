@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pavement damage unauthorized work, 20th June :- [7737107](https://www.fixmystreet.com/report/7737107)
 - Tree on public pathway needs cutting., 19th June :- [7735164](https://www.fixmystreet.com/report/7735164)
 - Road in very poor state of repair, 19th June :- [7735056](https://www.fixmystreet.com/report/7735056)
 - Signs obscuring visibility for right turn traffic; inexplicable road narrowing implemented, 19th June :- [7735032](https://www.fixmystreet.com/report/7735032)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - There are 2 sunken patches of tarmac which are now very deep and making cars swerve. They are outside numbers 17. Please could you repair these sunken patches?, 19th June :- [7732200](https://www.fixmystreet.com/report/7732200)
 - 22080258 update, 19th June :- [7732133](https://www.fixmystreet.com/report/7732133)
 - Long strip of road missing, 19th June :- [7731917](https://www.fixmystreet.com/report/7731917)
-- Please can you arrange for bin to be emptied, 19th June :- [7731707](https://www.fixmystreet.com/report/7731707)
 
 <!-- fix_marker ends -->
