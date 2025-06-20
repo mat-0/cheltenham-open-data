@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large pothole, 20th June :- [7740795](https://www.fixmystreet.com/report/7740795)
 - Foot path closed on bridge causing danger, 20th June :- [7740437](https://www.fixmystreet.com/report/7740437)
 - Dog mess on pavement, 20th June :- [7740367](https://www.fixmystreet.com/report/7740367)
 - Dog mess just before entrance to alleyway, 20th June :- [7740361](https://www.fixmystreet.com/report/7740361)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Tree is damaged problem, 20th June :- [7738851](https://www.fixmystreet.com/report/7738851)
 - Human excrement in corner of bus shelter, 20th June :- [7738802](https://www.fixmystreet.com/report/7738802)
 - Unpermitted roadworks problem, 20th June :- [7738850](https://www.fixmystreet.com/report/7738850)
-- Corner overgrown grass verge, 20th June :- [7738023](https://www.fixmystreet.com/report/7738023)
 
 <!-- fix_marker ends -->
