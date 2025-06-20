@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large delamination Lyefield Road West, 20th June :- [7737886](https://www.fixmystreet.com/report/7737886)
+- Flytipping St Paul’s Lane, 20th June :- [7737855](https://www.fixmystreet.com/report/7737855)
+- Chosen Way - roadworks blocking carriageway, 20th June :- [7737498](https://www.fixmystreet.com/report/7737498)
+- Tree is damaged problem, 20th June :- [7737523](https://www.fixmystreet.com/report/7737523)
 - Pavement damage unauthorized work, 20th June :- [7737107](https://www.fixmystreet.com/report/7737107)
 - Tree on public pathway needs cutting., 19th June :- [7735164](https://www.fixmystreet.com/report/7735164)
 - Road in very poor state of repair, 19th June :- [7735056](https://www.fixmystreet.com/report/7735056)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Large fridge freezer, 19th June :- [7733213](https://www.fixmystreet.com/report/7733213)
 - Pot holes left by water main leak, 19th June :- [7732993](https://www.fixmystreet.com/report/7732993)
 - Tree is damaged problem, 19th June :- [7732792](https://www.fixmystreet.com/report/7732792)
-- Sinkhole appearing next to drain in road, 19th June :- [7732446](https://www.fixmystreet.com/report/7732446)
-- There are 2 sunken patches of tarmac which are now very deep and making cars swerve. They are outside numbers 17. Please could you repair these sunken patches?, 19th June :- [7732200](https://www.fixmystreet.com/report/7732200)
-- 22080258 update, 19th June :- [7732133](https://www.fixmystreet.com/report/7732133)
-- Long strip of road missing, 19th June :- [7731917](https://www.fixmystreet.com/report/7731917)
 
 <!-- fix_marker ends -->
