@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Sequence wrong on one of the temporary traffic lights, 20th June :- [7741119](https://www.fixmystreet.com/report/7741119)
 - Large pothole, 20th June :- [7740795](https://www.fixmystreet.com/report/7740795)
 - Foot path closed on bridge causing danger, 20th June :- [7740437](https://www.fixmystreet.com/report/7740437)
 - Dog mess on pavement, 20th June :- [7740367](https://www.fixmystreet.com/report/7740367)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Dumped trailer., 20th June :- [7738809](https://www.fixmystreet.com/report/7738809)
 - Tree is damaged problem, 20th June :- [7738851](https://www.fixmystreet.com/report/7738851)
 - Human excrement in corner of bus shelter, 20th June :- [7738802](https://www.fixmystreet.com/report/7738802)
-- Unpermitted roadworks problem, 20th June :- [7738850](https://www.fixmystreet.com/report/7738850)
 
 <!-- fix_marker ends -->
