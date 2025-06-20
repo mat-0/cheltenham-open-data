@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Corner overgrown grass verge, 20th June :- [7738023](https://www.fixmystreet.com/report/7738023)
 - Large delamination Lyefield Road West, 20th June :- [7737886](https://www.fixmystreet.com/report/7737886)
 - Flytipping St Paul’s Lane, 20th June :- [7737855](https://www.fixmystreet.com/report/7737855)
 - Chosen Way - roadworks blocking carriageway, 20th June :- [7737498](https://www.fixmystreet.com/report/7737498)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Very deep pothole, 19th June :- [7733265](https://www.fixmystreet.com/report/7733265)
 - Large fridge freezer, 19th June :- [7733213](https://www.fixmystreet.com/report/7733213)
 - Pot holes left by water main leak, 19th June :- [7732993](https://www.fixmystreet.com/report/7732993)
-- Tree is damaged problem, 19th June :- [7732792](https://www.fixmystreet.com/report/7732792)
 
 <!-- fix_marker ends -->
