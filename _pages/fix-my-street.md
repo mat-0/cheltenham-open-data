@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- There are roadworks signs at the junction of Brockhampton Lane and Hyde lane which obstruct the view of Hyde lane when pulling out of Brockhampton Lane. Furthermore with the way the lanes have been arranged when turning right from Hyde lane into Brockhampton Lane I was nearly rear ended, 20th June :- [7740120](https://www.fixmystreet.com/report/7740120)
+- Huge dip in road, 20th June :- [7739906](https://www.fixmystreet.com/report/7739906)
+- Road falling apart, 20th June :- [7739894](https://www.fixmystreet.com/report/7739894)
 - Overgrown Verges Poor Visibility on Highcross to Cirencester rd, 20th June :- [7739569](https://www.fixmystreet.com/report/7739569)
 - All the street lights in Heron Close are not working, 20th June :- [7739556](https://www.fixmystreet.com/report/7739556)
 - Tree Branch sticking out. Causing damage to Busses, 20th June :- [7739464](https://www.fixmystreet.com/report/7739464)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Flytipping St Paul’s Lane, 20th June :- [7737855](https://www.fixmystreet.com/report/7737855)
 - Chosen Way - roadworks blocking carriageway, 20th June :- [7737498](https://www.fixmystreet.com/report/7737498)
 - Tree is damaged problem, 20th June :- [7737523](https://www.fixmystreet.com/report/7737523)
-- Pavement damage unauthorized work, 20th June :- [7737107](https://www.fixmystreet.com/report/7737107)
-- Tree on public pathway needs cutting., 19th June :- [7735164](https://www.fixmystreet.com/report/7735164)
-- Road in very poor state of repair, 19th June :- [7735056](https://www.fixmystreet.com/report/7735056)
 
 <!-- fix_marker ends -->
