@@ -12,15 +12,15 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Dozens of dachshunds attend woman's 102nd birthday ([1 hours ago](https://www.bbc.com/news/videos/c307l54nlrmo))
-- Woman feared dead after wire theft cut her off ([1 hours ago](https://www.bbc.com/news/articles/cp3k96521neo))
-- Sting and Snow Patrol fans slam gridlock 'chaos' ([14 hours ago](https://www.bbc.com/news/articles/cwygv0pqy74o))
-- Architect and freemason honoured with blue plaque on masonic hall he built ([15 hours ago](https://gloucesternewscentre.co.uk/architect-and-freemason-honoured-with-blue-plaque-on-masonic-hall-he-built/))
-- Frustration over ‘horrendous’ backlog in footpath applications ([15 hours ago](https://gloucesternewscentre.co.uk/frustration-over-horrendous-backlog-in-footpath-applications/))
-- Charlies Stores to create 50 new jobs in Cheltenham ([15 hours ago](https://gloucesternewscentre.co.uk/charlies-stores-to-create-50-new-jobs-in-cheltenham/))
-- 'I'm donating my eggs to help other families' ([16 hours ago](https://www.bbc.com/news/articles/c5y614jm758o))
-- Developer pulls out of canal-side homes project ([18 hours ago](https://www.bbc.com/news/articles/cwyxe24xr1jo))
-- 'Giant peace sign' and a 'tech amnesty' ([21 hours ago](https://www.bbc.com/news/articles/cglzk58j8jxo))
+- Dozens of dachshunds attend woman's 102nd birthday ([2 hours ago](https://www.bbc.com/news/videos/c307l54nlrmo))
+- Woman feared dead after wire theft cut her off ([2 hours ago](https://www.bbc.com/news/articles/cp3k96521neo))
+- Sting and Snow Patrol fans slam gridlock 'chaos' ([15 hours ago](https://www.bbc.com/news/articles/cwygv0pqy74o))
+- Architect and freemason honoured with blue plaque on masonic hall he built ([16 hours ago](https://gloucesternewscentre.co.uk/architect-and-freemason-honoured-with-blue-plaque-on-masonic-hall-he-built/))
+- Frustration over ‘horrendous’ backlog in footpath applications ([16 hours ago](https://gloucesternewscentre.co.uk/frustration-over-horrendous-backlog-in-footpath-applications/))
+- Charlies Stores to create 50 new jobs in Cheltenham ([16 hours ago](https://gloucesternewscentre.co.uk/charlies-stores-to-create-50-new-jobs-in-cheltenham/))
+- 'I'm donating my eggs to help other families' ([17 hours ago](https://www.bbc.com/news/articles/c5y614jm758o))
+- Developer pulls out of canal-side homes project ([19 hours ago](https://www.bbc.com/news/articles/cwyxe24xr1jo))
+- 'Giant peace sign' and a 'tech amnesty' ([22 hours ago](https://www.bbc.com/news/articles/cglzk58j8jxo))
 - Condition of rural county roads to be checked by AI camera system ([1 days ago](https://gloucesternewscentre.co.uk/condition-of-rural-county-roads-to-be-checked-by-ai-camera-system/))
 - MPs unite in call for urgent police funding ([1 days ago](https://www.bbc.com/news/articles/cev0jk0v88do))
 - Abuse victim sues police after identity breach ([1 days ago](https://www.bbc.com/news/articles/cdxk0x09k7qo))
@@ -63,6 +63,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - GALLERY: Saturday at Wychwood Festival 2025 ([19 days ago](https://gloucesternewscentre.co.uk/gallery-saturday-at-wychwood-festival-2025/))
 - GALLERY: Friday at Wychwood Festival 2025 ([20 days ago](https://gloucesternewscentre.co.uk/gallery-friday-at-wychwood-festival-2025/))
 - A joint statement about Elms Park ([21 days ago](https://www.cheltenham.gov.uk/news/article/3015/a_joint_statement_about_elms_park))
-- Luxury spa hotel could be the future for iconic Municipal Offices as preferred bidder is selected ([28 days ago](https://www.cheltenham.gov.uk/news/article/3014/luxury_spa_hotel_could_be_the_future_for_iconic_municipal_offices_as_preferred_bidder_is_selected))
+- Luxury spa hotel could be the future for iconic Municipal Offices as preferred bidder is selected ([29 days ago](https://www.cheltenham.gov.uk/news/article/3014/luxury_spa_hotel_could_be_the_future_for_iconic_municipal_offices_as_preferred_bidder_is_selected))
 
 <!-- news_marker ends -->

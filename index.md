@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Friday, 20 June 2025
 
-- The average temperature today is 21.5˚C,
-- With highs of 22.05˚C and lows of 20.47˚C,
-- It may feel like 21.43˚C with overcast clouds
-- The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 1023hPa and humidity is 66%
+- The average temperature today is 23.23˚C,
+- With highs of 23.88˚C and lows of 22.69˚C,
+- It may feel like 23.15˚C with clear sky
+- The wind speed is 2.68m/s and visibility is 10000m
+- The pressure is 1023hPa and humidity is 59%
 - The sun will rise at 03:48 and set at 20:31
 
 <!-- weather_marker ends -->
