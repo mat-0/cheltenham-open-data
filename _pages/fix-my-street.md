@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Excessively long grass and weeds, Still not cut. DESPITE BEING REPORTED AS FIXED, 21st June :- [7742480](https://www.fixmystreet.com/report/7742480)
 - Broken glass on footpath, 21st June :- [7742458](https://www.fixmystreet.com/report/7742458)
 - M5 litter, 21st June :- [7742406](https://www.fixmystreet.com/report/7742406)
 - Tree covering street lighting in walk way and getting close to crossing my boundary, 21st June :- [7742243](https://www.fixmystreet.com/report/7742243)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - There are roadworks signs at the junction of Brockhampton Lane and Hyde lane which obstruct the view of Hyde lane when pulling out of Brockhampton Lane. Furthermore with the way the lanes have been arranged when turning right from Hyde lane into Brockhampton Lane I was nearly rear ended, 20th June :- [7740120](https://www.fixmystreet.com/report/7740120)
 - Huge dip in road, 20th June :- [7739906](https://www.fixmystreet.com/report/7739906)
 - Road falling apart, 20th June :- [7739894](https://www.fixmystreet.com/report/7739894)
-- Overgrown Verges Poor Visibility on Highcross to Cirencester rd, 20th June :- [7739569](https://www.fixmystreet.com/report/7739569)
 
 <!-- fix_marker ends -->
