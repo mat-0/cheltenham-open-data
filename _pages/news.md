@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Woman aims to fix 'appalling' litter problem ([2 hours ago](https://www.bbc.com/news/articles/cqjq05rv191o))
-- Two races, two golds - Gloucestershire Woolnough debut ([4 hours ago](https://www.bbc.com/sport/rowing/articles/cgjg4516w15o))
-- Cheltenham in takeover talks with ex-Burnley chairman ([5 hours ago](https://www.bbc.com/sport/football/articles/ckg3v5135meo))
-- Thousands attend solstice sunrise at Stonehenge ([7 hours ago](https://www.bbc.com/news/articles/cg75gp1y233o))
-- Gloucestershire in pictures: Sunny starts and pigeons ([11 hours ago](https://www.bbc.com/news/articles/cwye9g90870o))
+- Woman aims to fix 'appalling' litter problem ([3 hours ago](https://www.bbc.com/news/articles/cqjq05rv191o))
+- Two races, two golds - Gloucestershire Woolnough debut ([5 hours ago](https://www.bbc.com/sport/rowing/articles/cgjg4516w15o))
+- Cheltenham in takeover talks with ex-Burnley chairman ([6 hours ago](https://www.bbc.com/sport/football/articles/ckg3v5135meo))
+- Thousands attend solstice sunrise at Stonehenge ([8 hours ago](https://www.bbc.com/news/articles/cg75gp1y233o))
+- Gloucestershire in pictures: Sunny starts and pigeons ([12 hours ago](https://www.bbc.com/news/articles/cwye9g90870o))
 - Students take part in 24-hour wildlife survey ([1 days ago](https://www.bbc.com/news/articles/cn41ze3r27zo))
 - Teen banned from city after man attacked ([1 days ago](https://www.bbc.com/news/articles/c75rl4we60wo))
 - Changes to Cheltenham bus routes spark concerns over lack of passenger consultation ([1 days ago](https://gloucesternewscentre.co.uk/changes-to-cheltenham-bus-routes-spark-concerns-over-lack-of-passenger-consultation/))
