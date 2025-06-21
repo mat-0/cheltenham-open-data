@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree covering street lighting in walk way and getting close to crossing my boundary, 21st June :- [7742243](https://www.fixmystreet.com/report/7742243)
+- 3 signs advising Rd Rd closure 5 miles away in Winchcombe, 21st June :- [7742197](https://www.fixmystreet.com/report/7742197)
+- One side of Everest Road and pavement closed for storage, 21st June :- [7742162](https://www.fixmystreet.com/report/7742162)
+- Very overgrown, hard to pass, 21st June :- [7742127](https://www.fixmystreet.com/report/7742127)
 - Trees and bushes overhanging pavement at low height, 21st June :- [7741931](https://www.fixmystreet.com/report/7741931)
 - View of oncoming cars obscured, 21st June :- [7741715](https://www.fixmystreet.com/report/7741715)
 - Signs left behind after roadworks, 20th June :- [7741275](https://www.fixmystreet.com/report/7741275)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Overgrown Verges Poor Visibility on Highcross to Cirencester rd, 20th June :- [7739569](https://www.fixmystreet.com/report/7739569)
 - All the street lights in Heron Close are not working, 20th June :- [7739556](https://www.fixmystreet.com/report/7739556)
 - Tree Branch sticking out. Causing damage to Busses, 20th June :- [7739464](https://www.fixmystreet.com/report/7739464)
-- Grate is completely full of soil outside 25/27 Alexandra St, 20th June :- [7739412](https://www.fixmystreet.com/report/7739412)
-- After replacing of pavement cycle racks have not been replace at 2 sites, 20th June :- [7739327](https://www.fixmystreet.com/report/7739327)
-- A pothole in road problem, 20th June :- [7739418](https://www.fixmystreet.com/report/7739418)
-- Ringway (?) blockage of road, 20th June :- [7739092](https://www.fixmystreet.com/report/7739092)
 
 <!-- fix_marker ends -->
