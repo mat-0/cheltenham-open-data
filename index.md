@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Saturday, 21 June 2025
 
-- The average temperature today is 25.48˚C,
-- With highs of 26.03˚C and lows of 24.97˚C,
-- It may feel like 25.49˚C with clear sky
-- The wind speed is 4.47m/s and visibility is 10000m
-- The pressure is 1017hPa and humidity is 54%
+- The average temperature today is 26.75˚C,
+- With highs of 26.75˚C and lows of 26.75˚C,
+- It may feel like 27.03˚C with light rain
+- The wind speed is 3.09m/s and visibility is 10000m
+- The pressure is 1018hPa and humidity is 47%
 - The sun will rise at 03:48 and set at 20:31
 
 <!-- weather_marker ends -->

@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Broken glass on footpath, 21st June :- [7742458](https://www.fixmystreet.com/report/7742458)
+- M5 litter, 21st June :- [7742406](https://www.fixmystreet.com/report/7742406)
 - Tree covering street lighting in walk way and getting close to crossing my boundary, 21st June :- [7742243](https://www.fixmystreet.com/report/7742243)
 - 3 signs advising Rd Rd closure 5 miles away in Winchcombe, 21st June :- [7742197](https://www.fixmystreet.com/report/7742197)
 - One side of Everest Road and pavement closed for storage, 21st June :- [7742162](https://www.fixmystreet.com/report/7742162)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Huge dip in road, 20th June :- [7739906](https://www.fixmystreet.com/report/7739906)
 - Road falling apart, 20th June :- [7739894](https://www.fixmystreet.com/report/7739894)
 - Overgrown Verges Poor Visibility on Highcross to Cirencester rd, 20th June :- [7739569](https://www.fixmystreet.com/report/7739569)
-- All the street lights in Heron Close are not working, 20th June :- [7739556](https://www.fixmystreet.com/report/7739556)
-- Tree Branch sticking out. Causing damage to Busses, 20th June :- [7739464](https://www.fixmystreet.com/report/7739464)
 
 <!-- fix_marker ends -->
