@@ -12,9 +12,9 @@ seo: Menu
 
 - The average temperature today is 17.69˚C,
 - With highs of 17.69˚C and lows of 17.69˚C,
-- It may feel like 17.32˚C with clear sky
-- The wind speed is 2.04m/s and visibility is 10000m
-- The pressure is 1018hPa and humidity is 69%
+- It may feel like 17.37˚C with clear sky
+- The wind speed is 1.95m/s and visibility is 10000m
+- The pressure is 1018hPa and humidity is 71%
 - The sun will rise at 03:48 and set at 20:31
 
 <!-- weather_marker ends -->
