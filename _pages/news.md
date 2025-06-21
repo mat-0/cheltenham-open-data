@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Trailblazing state school rowers reunite 50 years on ([3 hours ago](https://www.bbc.com/news/articles/ce9xgerg0n5o))
-- Woman aims to fix 'appalling' litter problem ([6 hours ago](https://www.bbc.com/news/articles/cqjq05rv191o))
-- Two races, two golds - Gloucestershire Woolnough debut ([8 hours ago](https://www.bbc.com/sport/rowing/articles/cgjg4516w15o))
-- Cheltenham in takeover talks with ex-Burnley chairman ([9 hours ago](https://www.bbc.com/sport/football/articles/ckg3v5135meo))
-- Thousands attend solstice sunrise at Stonehenge ([11 hours ago](https://www.bbc.com/news/articles/cg75gp1y233o))
-- Gloucestershire in pictures: Sunny starts and pigeons ([15 hours ago](https://www.bbc.com/news/articles/cwye9g90870o))
+- Trailblazing state school rowers reunite 50 years on ([4 hours ago](https://www.bbc.com/news/articles/ce9xgerg0n5o))
+- Woman aims to fix 'appalling' litter problem ([7 hours ago](https://www.bbc.com/news/articles/cqjq05rv191o))
+- Two races, two golds - Gloucestershire Woolnough debut ([9 hours ago](https://www.bbc.com/sport/rowing/articles/cgjg4516w15o))
+- Cheltenham in takeover talks with ex-Burnley chairman ([10 hours ago](https://www.bbc.com/sport/football/articles/ckg3v5135meo))
+- Thousands attend solstice sunrise at Stonehenge ([12 hours ago](https://www.bbc.com/news/articles/cg75gp1y233o))
+- Gloucestershire in pictures: Sunny starts and pigeons ([16 hours ago](https://www.bbc.com/news/articles/cwye9g90870o))
 - Students take part in 24-hour wildlife survey ([1 days ago](https://www.bbc.com/news/articles/cn41ze3r27zo))
 - Teen banned from city after man attacked ([1 days ago](https://www.bbc.com/news/articles/c75rl4we60wo))
 - Changes to Cheltenham bus routes spark concerns over lack of passenger consultation ([1 days ago](https://gloucesternewscentre.co.uk/changes-to-cheltenham-bus-routes-spark-concerns-over-lack-of-passenger-consultation/))
@@ -61,7 +61,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - ‘Ironic’ 131 Promenade precedent being used for Pittville Pump Room cafe plans ([19 days ago](https://gloucesternewscentre.co.uk/ironic-131-promenade-precedent-being-used-for-pittville-pump-room-cafe-plans/))
 - Airport chief rejects claims ‘flight schools are being pushed away and business is being run down for housing’ ([19 days ago](https://gloucesternewscentre.co.uk/airport-chief-rejects-claims-flight-schools-are-being-pushed-away-and-business-is-being-run-down-for-housing/))
 - Major development near Cheltenham ‘will provide 4000 much-needed homes’ ([20 days ago](https://gloucesternewscentre.co.uk/major-development-near-cheltenham-will-provide-4000-much-needed-homes/))
-- GALLERY: Saturday at Wychwood Festival 2025 ([20 days ago](https://gloucesternewscentre.co.uk/gallery-saturday-at-wychwood-festival-2025/))
+- GALLERY: Saturday at Wychwood Festival 2025 ([21 days ago](https://gloucesternewscentre.co.uk/gallery-saturday-at-wychwood-festival-2025/))
 - A joint statement about Elms Park ([23 days ago](https://www.cheltenham.gov.uk/news/article/3015/a_joint_statement_about_elms_park))
 
 <!-- news_marker ends -->
