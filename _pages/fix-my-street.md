@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dog poo bin overflowing, 21st June :- [7743359](https://www.fixmystreet.com/report/7743359)
+- 3 paving slabs very loose - trip hazard, 21st June :- [7743295](https://www.fixmystreet.com/report/7743295)
 - Streetlight is constantly on. What a waste of electric, 21st June :- [7742887](https://www.fixmystreet.com/report/7742887)
 - Excessively long grass and weeds, Still not cut. DESPITE BEING REPORTED AS FIXED, 21st June :- [7742480](https://www.fixmystreet.com/report/7742480)
 - Broken glass on footpath, 21st June :- [7742458](https://www.fixmystreet.com/report/7742458)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Dog mess on pavement, 20th June :- [7740367](https://www.fixmystreet.com/report/7740367)
 - Dog mess just before entrance to alleyway, 20th June :- [7740361](https://www.fixmystreet.com/report/7740361)
 - Bridlepath has been deliberately blocked with wood and branches, 20th June :- [7740235](https://www.fixmystreet.com/report/7740235)
-- There are roadworks signs at the junction of Brockhampton Lane and Hyde lane which obstruct the view of Hyde lane when pulling out of Brockhampton Lane. Furthermore with the way the lanes have been arranged when turning right from Hyde lane into Brockhampton Lane I was nearly rear ended, 20th June :- [7740120](https://www.fixmystreet.com/report/7740120)
-- Huge dip in road, 20th June :- [7739906](https://www.fixmystreet.com/report/7739906)
 
 <!-- fix_marker ends -->
