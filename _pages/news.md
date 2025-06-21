@@ -12,13 +12,13 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Gloucestershire in pictures: Sunny starts and pigeons ([36 minutes ago](https://www.bbc.com/news/articles/cwye9g90870o))
-- Students take part in 24-hour wildlife survey ([13 hours ago](https://www.bbc.com/news/articles/cn41ze3r27zo))
-- Teen banned from city after man attacked ([14 hours ago](https://www.bbc.com/news/articles/c75rl4we60wo))
-- Changes to Cheltenham bus routes spark concerns over lack of passenger consultation ([14 hours ago](https://gloucesternewscentre.co.uk/changes-to-cheltenham-bus-routes-spark-concerns-over-lack-of-passenger-consultation/))
-- Bridge reopens eight months after flood damage ([16 hours ago](https://www.bbc.com/news/articles/cz09md3ve3no))
-- 'Takeaway's rat issues' and 'new hippos' ([19 hours ago](https://www.bbc.com/news/articles/c5ygx2p4lw5o))
-- How long will the hot weather last in Gloucestershire? ([23 hours ago](https://www.bbc.co.uk/sounds/play/p0lkf1rq))
+- Gloucestershire in pictures: Sunny starts and pigeons ([1 hours ago](https://www.bbc.com/news/articles/cwye9g90870o))
+- Students take part in 24-hour wildlife survey ([14 hours ago](https://www.bbc.com/news/articles/cn41ze3r27zo))
+- Teen banned from city after man attacked ([15 hours ago](https://www.bbc.com/news/articles/c75rl4we60wo))
+- Changes to Cheltenham bus routes spark concerns over lack of passenger consultation ([15 hours ago](https://gloucesternewscentre.co.uk/changes-to-cheltenham-bus-routes-spark-concerns-over-lack-of-passenger-consultation/))
+- Bridge reopens eight months after flood damage ([17 hours ago](https://www.bbc.com/news/articles/cz09md3ve3no))
+- 'Takeaway's rat issues' and 'new hippos' ([20 hours ago](https://www.bbc.com/news/articles/c5ygx2p4lw5o))
+- How long will the hot weather last in Gloucestershire? ([1 days ago](https://www.bbc.co.uk/sounds/play/p0lkf1rq))
 - Dozens of dachshunds attend woman's 102nd birthday ([1 days ago](https://www.bbc.com/news/videos/c307l54nlrmo))
 - Woman feared dead after wire theft cut her off ([1 days ago](https://www.bbc.com/news/articles/cp3k96521neo))
 - Sting and Snow Patrol fans slam gridlock 'chaos' ([1 days ago](https://www.bbc.com/news/articles/cwygv0pqy74o))
@@ -63,6 +63,5 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Major development near Cheltenham ‘will provide 4000 much-needed homes’ ([19 days ago](https://gloucesternewscentre.co.uk/major-development-near-cheltenham-will-provide-4000-much-needed-homes/))
 - GALLERY: Saturday at Wychwood Festival 2025 ([20 days ago](https://gloucesternewscentre.co.uk/gallery-saturday-at-wychwood-festival-2025/))
 - A joint statement about Elms Park ([22 days ago](https://www.cheltenham.gov.uk/news/article/3015/a_joint_statement_about_elms_park))
-- Luxury spa hotel could be the future for iconic Municipal Offices as preferred bidder is selected ([29 days ago](https://www.cheltenham.gov.uk/news/article/3014/luxury_spa_hotel_could_be_the_future_for_iconic_municipal_offices_as_preferred_bidder_is_selected))
 
 <!-- news_marker ends -->
