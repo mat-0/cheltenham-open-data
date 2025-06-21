@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- View of oncoming cars obscured, 21st June :- [7741715](https://www.fixmystreet.com/report/7741715)
 - Signs left behind after roadworks, 20th June :- [7741275](https://www.fixmystreet.com/report/7741275)
 - Graffiti, 20th June :- [7741248](https://www.fixmystreet.com/report/7741248)
 - Sequence wrong on one of the temporary traffic lights, 20th June :- [7741119](https://www.fixmystreet.com/report/7741119)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - A pothole in road problem, 20th June :- [7739418](https://www.fixmystreet.com/report/7739418)
 - Ringway (?) blockage of road, 20th June :- [7739092](https://www.fixmystreet.com/report/7739092)
 - Vehicles and building work blocking pavement, 20th June :- [7738944](https://www.fixmystreet.com/report/7738944)
-- Dumped trailer., 20th June :- [7738809](https://www.fixmystreet.com/report/7738809)
 
 <!-- fix_marker ends -->
