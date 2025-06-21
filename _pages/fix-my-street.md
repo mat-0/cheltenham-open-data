@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Terrible pavement causing regular injury to children on school run, 21st June :- [7744061](https://www.fixmystreet.com/report/7744061)
 - Dog poo bin overflowing, 21st June :- [7743359](https://www.fixmystreet.com/report/7743359)
 - 3 paving slabs very loose - trip hazard, 21st June :- [7743295](https://www.fixmystreet.com/report/7743295)
 - Streetlight is constantly on. What a waste of electric, 21st June :- [7742887](https://www.fixmystreet.com/report/7742887)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Foot path closed on bridge causing danger, 20th June :- [7740437](https://www.fixmystreet.com/report/7740437)
 - Dog mess on pavement, 20th June :- [7740367](https://www.fixmystreet.com/report/7740367)
 - Dog mess just before entrance to alleyway, 20th June :- [7740361](https://www.fixmystreet.com/report/7740361)
-- Bridlepath has been deliberately blocked with wood and branches, 20th June :- [7740235](https://www.fixmystreet.com/report/7740235)
 
 <!-- fix_marker ends -->
