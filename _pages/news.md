@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- 'Devastation' following death of David 'Syd' Lawrence ([8 hours ago](https://www.bbc.com/news/articles/cvg9r0j5g08o))
-- Constable's death on duty said to be 'unexplained' ([12 hours ago](https://www.bbc.com/news/articles/c39z0d12k88o))
-- 'A symbol of resilience' - former England fast bowler Lawrence dies ([12 hours ago](https://www.bbc.com/sport/cricket/articles/c07d973k0zzo))
-- AI cameras set to be used in rural road assessments ([13 hours ago](https://www.bbc.com/news/articles/c62g921l14jo))
-- 'One final push' for community climbing gym project ([15 hours ago](https://www.bbc.com/news/articles/cx2v55q5kpeo))
-- 'Illegal cigarettes seized' and 'huge peace sign' ([15 hours ago](https://www.bbc.com/news/articles/cy9x4grl3zno))
+- 'Devastation' following death of David 'Syd' Lawrence ([9 hours ago](https://www.bbc.com/news/articles/cvg9r0j5g08o))
+- Constable's death on duty said to be 'unexplained' ([13 hours ago](https://www.bbc.com/news/articles/c39z0d12k88o))
+- 'A symbol of resilience' - former England fast bowler Lawrence dies ([13 hours ago](https://www.bbc.com/sport/cricket/articles/c07d973k0zzo))
+- AI cameras set to be used in rural road assessments ([14 hours ago](https://www.bbc.com/news/articles/c62g921l14jo))
+- 'One final push' for community climbing gym project ([16 hours ago](https://www.bbc.com/news/articles/cx2v55q5kpeo))
+- 'Illegal cigarettes seized' and 'huge peace sign' ([16 hours ago](https://www.bbc.com/news/articles/cy9x4grl3zno))
 - Trailblazing state school rowers reunite 50 years on ([1 days ago](https://www.bbc.com/news/articles/ce9xgerg0n5o))
 - Woman aims to fix 'appalling' litter problem ([1 days ago](https://www.bbc.com/news/articles/cqjq05rv191o))
 - Cheltenham in takeover talks with ex-Burnley chairman ([1 days ago](https://www.bbc.com/sport/football/articles/ckg3v5135meo))
@@ -61,7 +61,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - ‘Ironic’ 131 Promenade precedent being used for Pittville Pump Room cafe plans ([20 days ago](https://gloucesternewscentre.co.uk/ironic-131-promenade-precedent-being-used-for-pittville-pump-room-cafe-plans/))
 - Airport chief rejects claims ‘flight schools are being pushed away and business is being run down for housing’ ([20 days ago](https://gloucesternewscentre.co.uk/airport-chief-rejects-claims-flight-schools-are-being-pushed-away-and-business-is-being-run-down-for-housing/))
 - Major development near Cheltenham ‘will provide 4000 much-needed homes’ ([21 days ago](https://gloucesternewscentre.co.uk/major-development-near-cheltenham-will-provide-4000-much-needed-homes/))
-- GALLERY: Saturday at Wychwood Festival 2025 ([21 days ago](https://gloucesternewscentre.co.uk/gallery-saturday-at-wychwood-festival-2025/))
+- GALLERY: Saturday at Wychwood Festival 2025 ([22 days ago](https://gloucesternewscentre.co.uk/gallery-saturday-at-wychwood-festival-2025/))
 - A joint statement about Elms Park ([24 days ago](https://www.cheltenham.gov.uk/news/article/3015/a_joint_statement_about_elms_park))
 
 <!-- news_marker ends -->
