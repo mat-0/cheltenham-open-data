@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- None of the street lights on Hatherley Road around Heron Close are not working making it impossible to see the 20MPH signs visible., 23rd June :- [7747412](https://www.fixmystreet.com/report/7747412)
 - SORN car, 22nd June :- [7747193](https://www.fixmystreet.com/report/7747193)
 - Pedestrian lights not working, staying on red, 22nd June :- [7746299](https://www.fixmystreet.com/report/7746299)
 - Tree trunk overhangs the path too low so is dangerous., 22nd June :- [7745489](https://www.fixmystreet.com/report/7745489)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - One side of Everest Road and pavement closed for storage, 21st June :- [7742162](https://www.fixmystreet.com/report/7742162)
 - Very overgrown, hard to pass, 21st June :- [7742127](https://www.fixmystreet.com/report/7742127)
 - Trees and bushes overhanging pavement at low height, 21st June :- [7741931](https://www.fixmystreet.com/report/7741931)
-- View of oncoming cars obscured, 21st June :- [7741715](https://www.fixmystreet.com/report/7741715)
 
 <!-- fix_marker ends -->
