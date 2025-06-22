@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pedestrian lights not working, staying on red, 22nd June :- [7746299](https://www.fixmystreet.com/report/7746299)
 - Tree trunk overhangs the path too low so is dangerous., 22nd June :- [7745489](https://www.fixmystreet.com/report/7745489)
 - Traffic lights out of action, 22nd June :- [7744985](https://www.fixmystreet.com/report/7744985)
 - Dog Bark Lane off Manor Road, 22nd June :- [7744725](https://www.fixmystreet.com/report/7744725)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Trees and bushes overhanging pavement at low height, 21st June :- [7741931](https://www.fixmystreet.com/report/7741931)
 - View of oncoming cars obscured, 21st June :- [7741715](https://www.fixmystreet.com/report/7741715)
 - Signs left behind after roadworks, 20th June :- [7741275](https://www.fixmystreet.com/report/7741275)
-- Graffiti, 20th June :- [7741248](https://www.fixmystreet.com/report/7741248)
 
 <!-- fix_marker ends -->
