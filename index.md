@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Sunday, 22 June 2025
 
-- The average temperature today is 20.62˚C,
-- With highs of 21.66˚C and lows of 19.42˚C,
-- It may feel like 20.54˚C with scattered clouds
-- The wind speed is 6.17m/s and visibility is 10000m
-- The pressure is 1012hPa and humidity is 69%
+- The average temperature today is 21.02˚C,
+- With highs of 21.96˚C and lows of 20.53˚C,
+- It may feel like 20.69˚C with scattered clouds
+- The wind speed is 6.26m/s and visibility is 10000m
+- The pressure is 1012hPa and humidity is 58%
 - The sun will rise at 03:48 and set at 20:31
 
 <!-- weather_marker ends -->
