@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- SORN car, 22nd June :- [7747193](https://www.fixmystreet.com/report/7747193)
 - Pedestrian lights not working, staying on red, 22nd June :- [7746299](https://www.fixmystreet.com/report/7746299)
 - Tree trunk overhangs the path too low so is dangerous., 22nd June :- [7745489](https://www.fixmystreet.com/report/7745489)
 - Traffic lights out of action, 22nd June :- [7744985](https://www.fixmystreet.com/report/7744985)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Very overgrown, hard to pass, 21st June :- [7742127](https://www.fixmystreet.com/report/7742127)
 - Trees and bushes overhanging pavement at low height, 21st June :- [7741931](https://www.fixmystreet.com/report/7741931)
 - View of oncoming cars obscured, 21st June :- [7741715](https://www.fixmystreet.com/report/7741715)
-- Signs left behind after roadworks, 20th June :- [7741275](https://www.fixmystreet.com/report/7741275)
 
 <!-- fix_marker ends -->
