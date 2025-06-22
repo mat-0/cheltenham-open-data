@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fly tipping, 22nd June :- [7744573](https://www.fixmystreet.com/report/7744573)
 - The traffic light sensor is not working for cars exiting Thorncliffe Flats exit next to the A40. Exiting from this area is now hazardous. It was knocked down and repaired but the sensor isn’t in the correct position., 21st June :- [7744234](https://www.fixmystreet.com/report/7744234)
 - Terrible pavement causing regular injury to children on school run, 21st June :- [7744061](https://www.fixmystreet.com/report/7744061)
 - Dog poo bin overflowing, 21st June :- [7743359](https://www.fixmystreet.com/report/7743359)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Sequence wrong on one of the temporary traffic lights, 20th June :- [7741119](https://www.fixmystreet.com/report/7741119)
 - Large pothole, 20th June :- [7740795](https://www.fixmystreet.com/report/7740795)
 - Foot path closed on bridge causing danger, 20th June :- [7740437](https://www.fixmystreet.com/report/7740437)
-- Dog mess on pavement, 20th June :- [7740367](https://www.fixmystreet.com/report/7740367)
 
 <!-- fix_marker ends -->
