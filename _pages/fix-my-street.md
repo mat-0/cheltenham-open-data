@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Traffic lights out of action, 22nd June :- [7744985](https://www.fixmystreet.com/report/7744985)
 - Dog Bark Lane off Manor Road, 22nd June :- [7744725](https://www.fixmystreet.com/report/7744725)
 - Fly tipping, 22nd June :- [7744573](https://www.fixmystreet.com/report/7744573)
 - The traffic light sensor is not working for cars exiting Thorncliffe Flats exit next to the A40. Exiting from this area is now hazardous. It was knocked down and repaired but the sensor isn’t in the correct position., 21st June :- [7744234](https://www.fixmystreet.com/report/7744234)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Signs left behind after roadworks, 20th June :- [7741275](https://www.fixmystreet.com/report/7741275)
 - Graffiti, 20th June :- [7741248](https://www.fixmystreet.com/report/7741248)
 - Sequence wrong on one of the temporary traffic lights, 20th June :- [7741119](https://www.fixmystreet.com/report/7741119)
-- Large pothole, 20th June :- [7740795](https://www.fixmystreet.com/report/7740795)
 
 <!-- fix_marker ends -->
