@@ -9,7 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- General road markings, lines and stud issues problem, 23rd June :- [7749770](https://www.fixmystreet.com/report/7749770)
 - Bags and boxes (some broken open) across pavement., 23rd June :- [7749377](https://www.fixmystreet.com/report/7749377)
+- Tree is damaged problem, 23rd June :- [7749539](https://www.fixmystreet.com/report/7749539)
 - Tree is damaged problem, 23rd June :- [7748775](https://www.fixmystreet.com/report/7748775)
 - Play area very littered, 23rd June :- [7748627](https://www.fixmystreet.com/report/7748627)
 - Tree cutter rude, 23rd June :- [7748355](https://www.fixmystreet.com/report/7748355)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Dog Bark Lane off Manor Road, 22nd June :- [7744725](https://www.fixmystreet.com/report/7744725)
 - Fly tipping, 22nd June :- [7744573](https://www.fixmystreet.com/report/7744573)
 - The traffic light sensor is not working for cars exiting Thorncliffe Flats exit next to the A40. Exiting from this area is now hazardous. It was knocked down and repaired but the sensor isn’t in the correct position., 21st June :- [7744234](https://www.fixmystreet.com/report/7744234)
-- Terrible pavement causing regular injury to children on school run, 21st June :- [7744061](https://www.fixmystreet.com/report/7744061)
-- Dog poo bin overflowing, 21st June :- [7743359](https://www.fixmystreet.com/report/7743359)
 
 <!-- fix_marker ends -->

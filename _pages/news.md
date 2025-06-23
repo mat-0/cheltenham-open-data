@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Gloucester named in national maternity care investigation ([11 minutes ago](https://www.bbc.com/news/articles/c994x95yygyo))
-- Cheltenham joins In The Loop with new colourful bins to boost recycling on-the-go ([50 minutes ago](https://www.cheltenham.gov.uk/news/article/3022/cheltenham_joins_in_the_loop_with_new_colourful_bins_to_boost_recycling_on-the-go))
-- 'Cycle lane anger' and 'major crash' ([1 hours ago](https://www.bbc.com/news/articles/cy0w90d8dn6o))
-- 'Feed my babies' - late wife's request to care for pigeons ([5 hours ago](https://www.bbc.com/news/videos/cn5kz4470rqo))
-- 'UK should not ignore tidal lagoon recommendations' ([5 hours ago](https://www.bbc.com/news/articles/cvgd5ey411mo))
-- 'Devastation' following death of David 'Syd' Lawrence ([21 hours ago](https://www.bbc.com/news/articles/cvg9r0j5g08o))
+- Gloucester named in national maternity care investigation ([27 minutes ago](https://www.bbc.com/news/articles/c994x95yygyo))
+- Cheltenham joins In The Loop with new colourful bins to boost recycling on-the-go ([1 hours ago](https://www.cheltenham.gov.uk/news/article/3022/cheltenham_joins_in_the_loop_with_new_colourful_bins_to_boost_recycling_on-the-go))
+- 'Cycle lane anger' and 'major crash' ([2 hours ago](https://www.bbc.com/news/articles/cy0w90d8dn6o))
+- 'Feed my babies' - late wife's request to care for pigeons ([6 hours ago](https://www.bbc.com/news/videos/cn5kz4470rqo))
+- 'UK should not ignore tidal lagoon recommendations' ([6 hours ago](https://www.bbc.com/news/articles/cvgd5ey411mo))
+- 'Devastation' following death of David 'Syd' Lawrence ([22 hours ago](https://www.bbc.com/news/articles/cvg9r0j5g08o))
 - Constable's death on duty said to be 'unexplained' ([1 days ago](https://www.bbc.com/news/articles/c39z0d12k88o))
 - 'A symbol of resilience' - former England fast bowler Lawrence dies ([1 days ago](https://www.bbc.com/sport/cricket/articles/c07d973k0zzo))
 - AI cameras set to be used in rural road assessments ([1 days ago](https://www.bbc.com/news/articles/c62g921l14jo))
