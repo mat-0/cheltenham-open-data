@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipping black bag waste, 23rd June :- [7750309](https://www.fixmystreet.com/report/7750309)
+- Faint white road markings at jumction of Shaw Green Lane/Bowbridge Lane/Park Lane/Soring Lane, 23rd June :- [7750281](https://www.fixmystreet.com/report/7750281)
 - General road markings, lines and stud issues problem, 23rd June :- [7749770](https://www.fixmystreet.com/report/7749770)
 - Bags and boxes (some broken open) across pavement., 23rd June :- [7749377](https://www.fixmystreet.com/report/7749377)
 - Tree is damaged problem, 23rd June :- [7749539](https://www.fixmystreet.com/report/7749539)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Tree trunk overhangs the path too low so is dangerous., 22nd June :- [7745489](https://www.fixmystreet.com/report/7745489)
 - Traffic lights out of action, 22nd June :- [7744985](https://www.fixmystreet.com/report/7744985)
 - Dog Bark Lane off Manor Road, 22nd June :- [7744725](https://www.fixmystreet.com/report/7744725)
-- Fly tipping, 22nd June :- [7744573](https://www.fixmystreet.com/report/7744573)
-- The traffic light sensor is not working for cars exiting Thorncliffe Flats exit next to the A40. Exiting from this area is now hazardous. It was knocked down and repaired but the sensor isn’t in the correct position., 21st June :- [7744234](https://www.fixmystreet.com/report/7744234)
 
 <!-- fix_marker ends -->
