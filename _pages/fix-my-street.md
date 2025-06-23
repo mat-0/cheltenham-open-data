@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pushbutton on the pedestrian crossing on Swindon Road outside Francis Close Hall campus is no longer working, 24th June :- [7753201](https://www.fixmystreet.com/report/7753201)
 - Potholes, 23rd June :- [7752839](https://www.fixmystreet.com/report/7752839)
 - Lots of potholes on hall road near moorend road, 23rd June :- [7752832](https://www.fixmystreet.com/report/7752832)
 - Gravel in layby, 23rd June :- [7752449](https://www.fixmystreet.com/report/7752449)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Bags and boxes (some broken open) across pavement., 23rd June :- [7749377](https://www.fixmystreet.com/report/7749377)
 - Tree is damaged problem, 23rd June :- [7749539](https://www.fixmystreet.com/report/7749539)
 - Tree is damaged problem, 23rd June :- [7748775](https://www.fixmystreet.com/report/7748775)
-- Play area very littered, 23rd June :- [7748627](https://www.fixmystreet.com/report/7748627)
 
 <!-- fix_marker ends -->
