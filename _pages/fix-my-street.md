@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree is damaged problem, 23rd June :- [7748775](https://www.fixmystreet.com/report/7748775)
+- Play area very littered, 23rd June :- [7748627](https://www.fixmystreet.com/report/7748627)
 - Tree cutter rude, 23rd June :- [7748355](https://www.fixmystreet.com/report/7748355)
 - St George’s Street rubbish blocking the pavement., 23rd June :- [7748342](https://www.fixmystreet.com/report/7748342)
 - Pothole at end of close, 23rd June :- [7748307](https://www.fixmystreet.com/report/7748307)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Terrible pavement causing regular injury to children on school run, 21st June :- [7744061](https://www.fixmystreet.com/report/7744061)
 - Dog poo bin overflowing, 21st June :- [7743359](https://www.fixmystreet.com/report/7743359)
 - 3 paving slabs very loose - trip hazard, 21st June :- [7743295](https://www.fixmystreet.com/report/7743295)
-- Streetlight is constantly on. What a waste of electric, 21st June :- [7742887](https://www.fixmystreet.com/report/7742887)
-- Excessively long grass and weeds, Still not cut. DESPITE BEING REPORTED AS FIXED, 21st June :- [7742480](https://www.fixmystreet.com/report/7742480)
 
 <!-- fix_marker ends -->
