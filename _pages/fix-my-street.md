@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Bags and boxes (some broken open) across pavement., 23rd June :- [7749377](https://www.fixmystreet.com/report/7749377)
 - Tree is damaged problem, 23rd June :- [7748775](https://www.fixmystreet.com/report/7748775)
 - Play area very littered, 23rd June :- [7748627](https://www.fixmystreet.com/report/7748627)
 - Tree cutter rude, 23rd June :- [7748355](https://www.fixmystreet.com/report/7748355)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - The traffic light sensor is not working for cars exiting Thorncliffe Flats exit next to the A40. Exiting from this area is now hazardous. It was knocked down and repaired but the sensor isn’t in the correct position., 21st June :- [7744234](https://www.fixmystreet.com/report/7744234)
 - Terrible pavement causing regular injury to children on school run, 21st June :- [7744061](https://www.fixmystreet.com/report/7744061)
 - Dog poo bin overflowing, 21st June :- [7743359](https://www.fixmystreet.com/report/7743359)
-- 3 paving slabs very loose - trip hazard, 21st June :- [7743295](https://www.fixmystreet.com/report/7743295)
 
 <!-- fix_marker ends -->
