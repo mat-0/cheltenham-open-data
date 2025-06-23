@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- 'Devastation' following death of David 'Syd' Lawrence ([10 hours ago](https://www.bbc.com/news/articles/cvg9r0j5g08o))
-- Constable's death on duty said to be 'unexplained' ([14 hours ago](https://www.bbc.com/news/articles/c39z0d12k88o))
-- 'A symbol of resilience' - former England fast bowler Lawrence dies ([14 hours ago](https://www.bbc.com/sport/cricket/articles/c07d973k0zzo))
-- AI cameras set to be used in rural road assessments ([15 hours ago](https://www.bbc.com/news/articles/c62g921l14jo))
-- 'One final push' for community climbing gym project ([17 hours ago](https://www.bbc.com/news/articles/cx2v55q5kpeo))
-- 'Illegal cigarettes seized' and 'huge peace sign' ([17 hours ago](https://www.bbc.com/news/articles/cy9x4grl3zno))
+- 'Devastation' following death of David 'Syd' Lawrence ([11 hours ago](https://www.bbc.com/news/articles/cvg9r0j5g08o))
+- Constable's death on duty said to be 'unexplained' ([15 hours ago](https://www.bbc.com/news/articles/c39z0d12k88o))
+- 'A symbol of resilience' - former England fast bowler Lawrence dies ([16 hours ago](https://www.bbc.com/sport/cricket/articles/c07d973k0zzo))
+- AI cameras set to be used in rural road assessments ([16 hours ago](https://www.bbc.com/news/articles/c62g921l14jo))
+- 'One final push' for community climbing gym project ([19 hours ago](https://www.bbc.com/news/articles/cx2v55q5kpeo))
+- 'Illegal cigarettes seized' and 'huge peace sign' ([19 hours ago](https://www.bbc.com/news/articles/cy9x4grl3zno))
 - Trailblazing state school rowers reunite 50 years on ([1 days ago](https://www.bbc.com/news/articles/ce9xgerg0n5o))
 - Woman aims to fix 'appalling' litter problem ([1 days ago](https://www.bbc.com/news/articles/cqjq05rv191o))
 - Cheltenham in takeover talks with ex-Burnley chairman ([1 days ago](https://www.bbc.com/sport/football/articles/ckg3v5135meo))
