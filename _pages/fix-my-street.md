@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Rattling drain cover, 23rd June :- [7752155](https://www.fixmystreet.com/report/7752155)
+- Tree wants cutting back, 23rd June :- [7752114](https://www.fixmystreet.com/report/7752114)
 - Trees require maintenance, 23rd June :- [7751706](https://www.fixmystreet.com/report/7751706)
 - Weak Bridge, 23rd June :- [7751082](https://www.fixmystreet.com/report/7751082)
 - Lights not working, 23rd June :- [7751075](https://www.fixmystreet.com/report/7751075)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Pothole at end of close, 23rd June :- [7748307](https://www.fixmystreet.com/report/7748307)
 - Sofa dumped, 23rd June :- [7748131](https://www.fixmystreet.com/report/7748131)
 - Traffic taking unacceptable amount of time to exit Nine Elms road onto Chelt Rd., 23rd June :- [7748006](https://www.fixmystreet.com/report/7748006)
-- Tree in Lakeside School Grounds, has fallen over, onto alleyway fence, 23rd June :- [7747968](https://www.fixmystreet.com/report/7747968)
-- Cones left on central reserve, 23rd June :- [7747516](https://www.fixmystreet.com/report/7747516)
 
 <!-- fix_marker ends -->
