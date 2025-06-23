@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Gravel in layby, 23rd June :- [7752449](https://www.fixmystreet.com/report/7752449)
+- Road markings too faint, 23rd June :- [7752420](https://www.fixmystreet.com/report/7752420)
+- Overgrown verges, 23rd June :- [7752273](https://www.fixmystreet.com/report/7752273)
 - Rattling drain cover, 23rd June :- [7752155](https://www.fixmystreet.com/report/7752155)
 - Tree wants cutting back, 23rd June :- [7752114](https://www.fixmystreet.com/report/7752114)
 - Trees require maintenance, 23rd June :- [7751706](https://www.fixmystreet.com/report/7751706)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Play area very littered, 23rd June :- [7748627](https://www.fixmystreet.com/report/7748627)
 - Tree cutter rude, 23rd June :- [7748355](https://www.fixmystreet.com/report/7748355)
 - St George’s Street rubbish blocking the pavement., 23rd June :- [7748342](https://www.fixmystreet.com/report/7748342)
-- Pothole at end of close, 23rd June :- [7748307](https://www.fixmystreet.com/report/7748307)
-- Sofa dumped, 23rd June :- [7748131](https://www.fixmystreet.com/report/7748131)
-- Traffic taking unacceptable amount of time to exit Nine Elms road onto Chelt Rd., 23rd June :- [7748006](https://www.fixmystreet.com/report/7748006)
 
 <!-- fix_marker ends -->
