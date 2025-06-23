@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Weak Bridge, 23rd June :- [7751082](https://www.fixmystreet.com/report/7751082)
+- Lights not working, 23rd June :- [7751075](https://www.fixmystreet.com/report/7751075)
+- Dog poo warden warning missing, 23rd June :- [7750933](https://www.fixmystreet.com/report/7750933)
+- Several overhanging trees in Hatherley Road between Warden Hill Road and Belworth Drive are too low. Double deckers buses can not gain access to bus stop without making contact and have to move towards the middle of the road when travellling in a westerley direction., 23rd June :- [7750910](https://www.fixmystreet.com/report/7750910)
+- Over hanging tree branches keep hitting the top deck of buses travelling on services 97 & 98. High risk of breaking windows., 23rd June :- [7750850](https://www.fixmystreet.com/report/7750850)
 - Flytipping black bag waste, 23rd June :- [7750309](https://www.fixmystreet.com/report/7750309)
 - Faint white road markings at jumction of Shaw Green Lane/Bowbridge Lane/Park Lane/Soring Lane, 23rd June :- [7750281](https://www.fixmystreet.com/report/7750281)
 - General road markings, lines and stud issues problem, 23rd June :- [7749770](https://www.fixmystreet.com/report/7749770)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Tree in Lakeside School Grounds, has fallen over, onto alleyway fence, 23rd June :- [7747968](https://www.fixmystreet.com/report/7747968)
 - Cones left on central reserve, 23rd June :- [7747516](https://www.fixmystreet.com/report/7747516)
 - None of the street lights on Hatherley Road around Heron Close are not working making it impossible to see the 20MPH signs visible., 23rd June :- [7747412](https://www.fixmystreet.com/report/7747412)
-- SORN car, 22nd June :- [7747193](https://www.fixmystreet.com/report/7747193)
-- Pedestrian lights not working, staying on red, 22nd June :- [7746299](https://www.fixmystreet.com/report/7746299)
-- Tree trunk overhangs the path too low so is dangerous., 22nd June :- [7745489](https://www.fixmystreet.com/report/7745489)
-- Traffic lights out of action, 22nd June :- [7744985](https://www.fixmystreet.com/report/7744985)
-- Dog Bark Lane off Manor Road, 22nd June :- [7744725](https://www.fixmystreet.com/report/7744725)
 
 <!-- fix_marker ends -->
