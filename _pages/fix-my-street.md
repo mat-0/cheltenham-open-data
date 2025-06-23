@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Trees require maintenance, 23rd June :- [7751706](https://www.fixmystreet.com/report/7751706)
 - Weak Bridge, 23rd June :- [7751082](https://www.fixmystreet.com/report/7751082)
 - Lights not working, 23rd June :- [7751075](https://www.fixmystreet.com/report/7751075)
 - Dog poo warden warning missing, 23rd June :- [7750933](https://www.fixmystreet.com/report/7750933)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Traffic taking unacceptable amount of time to exit Nine Elms road onto Chelt Rd., 23rd June :- [7748006](https://www.fixmystreet.com/report/7748006)
 - Tree in Lakeside School Grounds, has fallen over, onto alleyway fence, 23rd June :- [7747968](https://www.fixmystreet.com/report/7747968)
 - Cones left on central reserve, 23rd June :- [7747516](https://www.fixmystreet.com/report/7747516)
-- None of the street lights on Hatherley Road around Heron Close are not working making it impossible to see the 20MPH signs visible., 23rd June :- [7747412](https://www.fixmystreet.com/report/7747412)
 
 <!-- fix_marker ends -->
