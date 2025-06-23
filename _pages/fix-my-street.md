@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Traffic taking unacceptable amount of time to exit Nine Elms road onto Chelt Rd., 23rd June :- [7748006](https://www.fixmystreet.com/report/7748006)
+- Tree in Lakeside School Grounds, has fallen over, onto alleyway fence, 23rd June :- [7747968](https://www.fixmystreet.com/report/7747968)
+- Cones left on central reserve, 23rd June :- [7747516](https://www.fixmystreet.com/report/7747516)
 - None of the street lights on Hatherley Road around Heron Close are not working making it impossible to see the 20MPH signs visible., 23rd June :- [7747412](https://www.fixmystreet.com/report/7747412)
 - SORN car, 22nd June :- [7747193](https://www.fixmystreet.com/report/7747193)
 - Pedestrian lights not working, staying on red, 22nd June :- [7746299](https://www.fixmystreet.com/report/7746299)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - M5 litter, 21st June :- [7742406](https://www.fixmystreet.com/report/7742406)
 - Tree covering street lighting in walk way and getting close to crossing my boundary, 21st June :- [7742243](https://www.fixmystreet.com/report/7742243)
 - 3 signs advising Rd Rd closure 5 miles away in Winchcombe, 21st June :- [7742197](https://www.fixmystreet.com/report/7742197)
-- One side of Everest Road and pavement closed for storage, 21st June :- [7742162](https://www.fixmystreet.com/report/7742162)
-- Very overgrown, hard to pass, 21st June :- [7742127](https://www.fixmystreet.com/report/7742127)
-- Trees and bushes overhanging pavement at low height, 21st June :- [7741931](https://www.fixmystreet.com/report/7741931)
 
 <!-- fix_marker ends -->
