@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree cutter rude, 23rd June :- [7748355](https://www.fixmystreet.com/report/7748355)
+- St George’s Street rubbish blocking the pavement., 23rd June :- [7748342](https://www.fixmystreet.com/report/7748342)
+- Pothole at end of close, 23rd June :- [7748307](https://www.fixmystreet.com/report/7748307)
+- Sofa dumped, 23rd June :- [7748131](https://www.fixmystreet.com/report/7748131)
 - Traffic taking unacceptable amount of time to exit Nine Elms road onto Chelt Rd., 23rd June :- [7748006](https://www.fixmystreet.com/report/7748006)
 - Tree in Lakeside School Grounds, has fallen over, onto alleyway fence, 23rd June :- [7747968](https://www.fixmystreet.com/report/7747968)
 - Cones left on central reserve, 23rd June :- [7747516](https://www.fixmystreet.com/report/7747516)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - 3 paving slabs very loose - trip hazard, 21st June :- [7743295](https://www.fixmystreet.com/report/7743295)
 - Streetlight is constantly on. What a waste of electric, 21st June :- [7742887](https://www.fixmystreet.com/report/7742887)
 - Excessively long grass and weeds, Still not cut. DESPITE BEING REPORTED AS FIXED, 21st June :- [7742480](https://www.fixmystreet.com/report/7742480)
-- Broken glass on footpath, 21st June :- [7742458](https://www.fixmystreet.com/report/7742458)
-- M5 litter, 21st June :- [7742406](https://www.fixmystreet.com/report/7742406)
-- Tree covering street lighting in walk way and getting close to crossing my boundary, 21st June :- [7742243](https://www.fixmystreet.com/report/7742243)
-- 3 signs advising Rd Rd closure 5 miles away in Winchcombe, 21st June :- [7742197](https://www.fixmystreet.com/report/7742197)
 
 <!-- fix_marker ends -->
