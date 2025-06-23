@@ -12,14 +12,14 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Disqualified driver caught drunk behind wheel twice ([3 hours ago](https://www.bbc.com/news/articles/c0k75jkm43zo))
-- Concern over city centre cycle route disruption ([5 hours ago](https://www.bbc.com/news/articles/cdez9y99k77o))
-- Gloucester named in national maternity care investigation ([6 hours ago](https://www.bbc.com/news/articles/c994x95yygyo))
-- Two hotels and historic inn put on sale for £10m ([7 hours ago](https://www.bbc.com/news/articles/c5y0vl7v84xo))
-- Cheltenham joins In The Loop with new colourful bins to boost recycling on-the-go ([11 hours ago](https://www.cheltenham.gov.uk/news/article/3022/cheltenham_joins_in_the_loop_with_new_colourful_bins_to_boost_recycling_on-the-go))
-- 'Cycle lane anger' and 'major crash' ([12 hours ago](https://www.bbc.com/news/articles/cy0w90d8dn6o))
-- 'Feed my babies' - late wife's request to care for pigeons ([16 hours ago](https://www.bbc.com/news/videos/cn5kz4470rqo))
-- 'UK should not ignore tidal lagoon recommendations' ([16 hours ago](https://www.bbc.com/news/articles/cvgd5ey411mo))
+- Disqualified driver caught drunk behind wheel twice ([4 hours ago](https://www.bbc.com/news/articles/c0k75jkm43zo))
+- Concern over city centre cycle route disruption ([6 hours ago](https://www.bbc.com/news/articles/cdez9y99k77o))
+- Gloucester named in national maternity care investigation ([7 hours ago](https://www.bbc.com/news/articles/c994x95yygyo))
+- Two hotels and historic inn put on sale for £10m ([8 hours ago](https://www.bbc.com/news/articles/c5y0vl7v84xo))
+- Cheltenham joins In The Loop with new colourful bins to boost recycling on-the-go ([12 hours ago](https://www.cheltenham.gov.uk/news/article/3022/cheltenham_joins_in_the_loop_with_new_colourful_bins_to_boost_recycling_on-the-go))
+- 'Cycle lane anger' and 'major crash' ([13 hours ago](https://www.bbc.com/news/articles/cy0w90d8dn6o))
+- 'Feed my babies' - late wife's request to care for pigeons ([17 hours ago](https://www.bbc.com/news/videos/cn5kz4470rqo))
+- 'UK should not ignore tidal lagoon recommendations' ([17 hours ago](https://www.bbc.com/news/articles/cvgd5ey411mo))
 - 'Devastation' following death of David 'Syd' Lawrence ([1 days ago](https://www.bbc.com/news/articles/cvg9r0j5g08o))
 - Constable's death on duty said to be 'unexplained' ([1 days ago](https://www.bbc.com/news/articles/c39z0d12k88o))
 - 'A symbol of resilience' - former England fast bowler Lawrence dies ([1 days ago](https://www.bbc.com/sport/cricket/articles/c07d973k0zzo))
@@ -62,7 +62,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - ‘Ironic’ 131 Promenade precedent being used for Pittville Pump Room cafe plans ([21 days ago](https://gloucesternewscentre.co.uk/ironic-131-promenade-precedent-being-used-for-pittville-pump-room-cafe-plans/))
 - Airport chief rejects claims ‘flight schools are being pushed away and business is being run down for housing’ ([21 days ago](https://gloucesternewscentre.co.uk/airport-chief-rejects-claims-flight-schools-are-being-pushed-away-and-business-is-being-run-down-for-housing/))
 - Major development near Cheltenham ‘will provide 4000 much-needed homes’ ([22 days ago](https://gloucesternewscentre.co.uk/major-development-near-cheltenham-will-provide-4000-much-needed-homes/))
-- GALLERY: Saturday at Wychwood Festival 2025 ([22 days ago](https://gloucesternewscentre.co.uk/gallery-saturday-at-wychwood-festival-2025/))
+- GALLERY: Saturday at Wychwood Festival 2025 ([23 days ago](https://gloucesternewscentre.co.uk/gallery-saturday-at-wychwood-festival-2025/))
 - A joint statement about Elms Park ([25 days ago](https://www.cheltenham.gov.uk/news/article/3015/a_joint_statement_about_elms_park))
 
 <!-- news_marker ends -->
