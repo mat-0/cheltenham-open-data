@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Tuesday, 24 June 2025
 
-- The average temperature today is 16.05˚C,
-- With highs of 16.66˚C and lows of 15.52˚C,
-- It may feel like 15.8˚C with light rain
-- The wind speed is 4.02m/s and visibility is 10000m
-- The pressure is 1012hPa and humidity is 80%
+- The average temperature today is 14.99˚C,
+- With highs of 16.27˚C and lows of 14.26˚C,
+- It may feel like 14.79˚C with scattered clouds
+- The wind speed is 4.47m/s and visibility is 10000m
+- The pressure is 1012hPa and humidity is 86%
 - The sun will rise at 03:49 and set at 20:31
 
 <!-- weather_marker ends -->
