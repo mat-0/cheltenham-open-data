@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:georss="http://www.georss.org/georss"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
+ xmlns:georss="http://www.georss.org/georss"
 >
 
 <channel>
@@ -13,184 +13,184 @@
 <language>en-gb</language>
 
 <item>
-<title>TMC - Defects -other CW6 problem, 24th June</title>
-<link>https://www.fixmystreet.com/report/7756478</link>
-<description>PLEASE LEVEL OUT &amp;#10;1000 X 1000 X 40mm APROX &amp;#10;2 WAY TRAFFIC LIGHTS &amp;#10;NOT MARKED (CW6 Rutting&amp;amp;Depressions)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7756478&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -other CW6</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7756478</guid>
-<pubDate>Tue, 24 Jun 2025 14:20:19 +0100</pubDate>
-<georss:point>51.8657789 -1.99725770000001</georss:point>
+<title>TMC - Defects - Other FW6  Surface problem, 24th June</title>
+<link>https://www.fixmystreet.com/report/7757131</link>
+<description>28 day with give and take plus temporary footway closure required footway cracks an gaps 800x200x40mm tarmac patch (FW6 Cracks or Gaps)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7757131&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7757131</guid>
+<pubDate>Tue, 24 Jun 2025 15:33:42 +0100</pubDate>
+<georss:point>51.9073274 -2.12703799999998</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 24th June</title>
-<link>https://www.fixmystreet.com/report/7756474</link>
-<description>28 day with give and take plus temporary footway closure footway abrupt level difference 1100x300x30mm tarmac patch required stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7756474&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/7757130</link>
+<description>28 day with give and take plus temporary footway closure required footway cracks an gaps 1500x300x30mm tarmac patch (FW6 Cracks or Gaps)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7757130&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7756474</guid>
-<pubDate>Tue, 24 Jun 2025 14:14:21 +0100</pubDate>
-<georss:point>51.8875999639288 -2.07773894577024</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 24th June</title>
-<link>https://www.fixmystreet.com/report/7756473</link>
-<description>28 day with give and take plus temporary footway closure footway abrupt level difference 500x500x25mm tarmac patch required stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7756473&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7756473</guid>
-<pubDate>Tue, 24 Jun 2025 14:14:21 +0100</pubDate>
-<georss:point>51.8879103 -2.0779039</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Kerbs and Channels problem, 24th June</title>
-<link>https://www.fixmystreet.com/report/7756466</link>
-<description>28 day with give and take please lift and replace x1 broken kerb 900x150x20mm stats required (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7756466&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Kerbs and Channels</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7756466</guid>
-<pubDate>Tue, 24 Jun 2025 14:14:21 +0100</pubDate>
-<georss:point>51.8887765332369 -2.07861542670814</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Kerbs and Channels problem, 24th June</title>
-<link>https://www.fixmystreet.com/report/7756472</link>
-<description>28 day with give and take please lift and relay x1 sunken kerb 900x150x20mm stats required (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7756472&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Kerbs and Channels</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7756472</guid>
-<pubDate>Tue, 24 Jun 2025 14:14:21 +0100</pubDate>
-<georss:point>51.8878861893327 -2.07789134107081</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 24th June</title>
-<link>https://www.fixmystreet.com/report/7756476</link>
-<description>28 day with give and take plus temporary footway closure footway abrupt level difference 550x400x25mm tarmac patch required stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7756476&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7756476</guid>
-<pubDate>Tue, 24 Jun 2025 14:14:21 +0100</pubDate>
-<georss:point>51.8875603432734 -2.07772703213112</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 24th June</title>
-<link>https://www.fixmystreet.com/report/7756470</link>
-<description>28 day with give and take footway abrupt level difference 350x200x20mm tarmac patch required stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7756470&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7756470</guid>
-<pubDate>Tue, 24 Jun 2025 14:14:21 +0100</pubDate>
-<georss:point>51.8891527 -2.07883230000001</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 24th June</title>
-<link>https://www.fixmystreet.com/report/7756475</link>
-<description>28 day with give and take plus temporary footway closure footway abrupt level difference 1300x300x30mm tarmac patch required stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7756475&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7756475</guid>
-<pubDate>Tue, 24 Jun 2025 14:14:21 +0100</pubDate>
-<georss:point>51.8876323423594 -2.07774291452884</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Kerbs and Channels problem, 24th June</title>
-<link>https://www.fixmystreet.com/report/7756471</link>
-<description>28 day with give and take please lift and relay x1 sunken radius kerb 600x150x20mm stats required (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7756471&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Kerbs and Channels</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7756471</guid>
-<pubDate>Tue, 24 Jun 2025 14:14:21 +0100</pubDate>
-<georss:point>51.8881113063669 -2.07789830412949</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Kerbs and Channels problem, 24th June</title>
-<link>https://www.fixmystreet.com/report/7756468</link>
-<description>28 day with give and take please lift and replace x1 broken rocking kerb 900x150x20mm stats required (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7756468&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Kerbs and Channels</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7756468</guid>
-<pubDate>Tue, 24 Jun 2025 14:14:21 +0100</pubDate>
-<georss:point>51.8892494829131 -2.07902631516724</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Kerbs and Channels problem, 24th June</title>
-<link>https://www.fixmystreet.com/report/7756467</link>
-<description>28 day with give and take please lift and replace x1 broken sunken kerb 900x150x20mm stats required (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7756467&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Kerbs and Channels</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7756467</guid>
-<pubDate>Tue, 24 Jun 2025 14:14:21 +0100</pubDate>
-<georss:point>51.8892154485788 -2.07900332942435</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 24th June</title>
-<link>https://www.fixmystreet.com/report/7756469</link>
-<description>28 day with give and take footway abrupt level difference 250x200x0mm tarmac patch required stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7756469&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7756469</guid>
-<pubDate>Tue, 24 Jun 2025 14:14:21 +0100</pubDate>
-<georss:point>51.8892584515973 -2.07900943981858</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7757130</guid>
+<pubDate>Tue, 24 Jun 2025 15:33:42 +0100</pubDate>
+<georss:point>51.9073522 -2.12709610000001</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 24th June</title>
-<link>https://www.fixmystreet.com/report/7756462</link>
-<description>CWPH&amp;#10;300 x 300 x 40mm&amp;#10;Not Marked &amp;#10;Road Closure (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7756462&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/7757129</link>
+<description>28 day with give and take plus 15 min delay boards carriageway pothole 1600x450x40mm plus x1 NSD tarmac patch required (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7757129&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7756462</guid>
-<pubDate>Tue, 24 Jun 2025 14:04:07 +0100</pubDate>
-<georss:point>51.94442778803 -2.03998616855894</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7757129</guid>
+<pubDate>Tue, 24 Jun 2025 15:31:59 +0100</pubDate>
+<georss:point>51.8853246 -2.0825113</georss:point>
+</item>
+<item>
+<title>Council tree on phone line, 24th June</title>
+<link>https://www.fixmystreet.com/report/7756819</link>
+<description>17/19 Eldon Road&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/7756819.0.jpeg?82d98880&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 35, Eldon Road, Ewens Farm, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7756819&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Trees</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7756819</guid>
+<pubDate>Tue, 24 Jun 2025 15:22:23 +0100</pubDate>
+<georss:point>51.899967 -2.059818</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Vegetation problem, 24th June</title>
-<link>https://www.fixmystreet.com/report/7756259</link>
-<description>ENWD&amp;#10;Overgrown Vegetation &amp;#10;Please cutback to make sign visible&amp;#10;Approx 10m&amp;#10;2-Way Stop &amp;amp; Go (Embankment &amp;amp; Cuttings)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7756259&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/7757121</link>
+<description>NWD with give and take plus temporary footway closure required please trim back overgrown tree branches grown out in footway back to boundary approximately 3 metres x3 metres (Overgrown Tree)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7757121&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Vegetation</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7756259</guid>
-<pubDate>Tue, 24 Jun 2025 13:55:04 +0100</pubDate>
-<georss:point>51.9396587056125 -2.04448020240682</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7757121</guid>
+<pubDate>Tue, 24 Jun 2025 15:21:18 +0100</pubDate>
+<georss:point>51.9124560509046 -2.11155382256709</georss:point>
 </item>
 <item>
-<title>TMC - Defects - Vegetation problem, 24th June</title>
-<link>https://www.fixmystreet.com/report/7756258</link>
-<description>ENWD&amp;#10;Overgrown Vegetation &amp;#10;Please cutback to make sign visible&amp;#10;Approx 10m&amp;#10;2-Way Stop &amp;amp; Go (Embankment &amp;amp; Cuttings)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7756258&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Vegetation</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7756258</guid>
-<pubDate>Tue, 24 Jun 2025 13:54:08 +0100</pubDate>
-<georss:point>51.9397172269032 -2.04458420785564</georss:point>
+<title>Highways have ignored multiple large, deep potholes &amp; fixed one tiny one, 24th June</title>
+<link>https://www.fixmystreet.com/report/7756785</link>
+<description>Highways have ignored multiple large, deep potholes &amp;amp; fixed one tiny one. I’ve then received an email to say that the problem has been rectified. But very large, deep potholes are still all over this road. How can this possibly be cost effective to ignore multiple problems and fix one small hole only?&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/7756785.0.jpeg?febb70c7&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Cirencester Road, Ewens Farm, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7756785&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>A pothole in road</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7756785</guid>
+<pubDate>Tue, 24 Jun 2025 15:15:03 +0100</pubDate>
+<georss:point>51.888713 -2.05796</georss:point>
 </item>
 <item>
-<title>TMC - Defects -CW6 Potholes  problem, 24th June</title>
-<link>https://www.fixmystreet.com/report/7756255</link>
-<description>CWPH &amp;#10;1200 X 400 X 50mm&amp;#10;ROAD CLOSURE &amp;#10;MARKED AS NUMBER 14 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7756255&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7756255</guid>
-<pubDate>Tue, 24 Jun 2025 13:50:18 +0100</pubDate>
-<georss:point>51.8405303 -2.01060600000001</georss:point>
+<title>TMC - Defects - Other FW6  Surface problem, 24th June</title>
+<link>https://www.fixmystreet.com/report/7757117</link>
+<description>28 day with give and take plus temporary footway closure footway depression 1300x1200x50mm tarmac patch required (FW6 Rutting&amp;amp;Depressions)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7757117&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7757117</guid>
+<pubDate>Tue, 24 Jun 2025 15:14:37 +0100</pubDate>
+<georss:point>51.8847521 -2.0756087</georss:point>
 </item>
 <item>
-<title>TMC - Defects -CW6 Potholes  problem, 24th June</title>
-<link>https://www.fixmystreet.com/report/7756254</link>
-<description>CWPH &amp;#10;1000 X 500 X 50mm&amp;#10;ROAD CLOSURE &amp;#10;MARKED AS NUMBER 13&amp;#10;PLUS 1 X NSD (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7756254&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7756254</guid>
-<pubDate>Tue, 24 Jun 2025 13:45:32 +0100</pubDate>
-<georss:point>51.8408704 -2.0136585</georss:point>
+<title>TMC - Defects - Other FW6  Surface problem, 24th June</title>
+<link>https://www.fixmystreet.com/report/7757115</link>
+<description>28 day with give and take plus temporary footway closure footway abrupt level difference 300x250x20mm tarmac patch required stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7757115&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7757115</guid>
+<pubDate>Tue, 24 Jun 2025 15:14:37 +0100</pubDate>
+<georss:point>51.8846925 -2.07581550000001</georss:point>
 </item>
 <item>
-<title>TMC - Defects -CW6 Potholes  problem, 24th June</title>
-<link>https://www.fixmystreet.com/report/7756252</link>
-<description>28 day with give and take plus 15 min delay boards carriageway pothole 450x300x40mm plus x2 NSD tarmac patch required (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7756252&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7756252</guid>
-<pubDate>Tue, 24 Jun 2025 13:44:19 +0100</pubDate>
-<georss:point>51.8880346 -2.07748500000001</georss:point>
+<title>TMC - Defects - Road Markings problem, 24th June</title>
+<link>https://www.fixmystreet.com/report/7757113</link>
+<description>28 day with road closure please refresh junction road markings Centre lines x5, Double dash x9, Single dash x5 and give way triangle x1 (Faded Road Markings)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7757113&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Road Markings</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7757113</guid>
+<pubDate>Tue, 24 Jun 2025 15:14:37 +0100</pubDate>
+<georss:point>51.884485131493 -2.07674015364311</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Road Markings problem, 24th June</title>
+<link>https://www.fixmystreet.com/report/7757114</link>
+<description>3 month ticket with road closure please refresh junction road markings Centre lines x3, Double dash x9, Single dash x6 and give way triangle x1 (Faded Road Markings)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7757114&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Road Markings</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7757114</guid>
+<pubDate>Tue, 24 Jun 2025 15:14:37 +0100</pubDate>
+<georss:point>51.8845660104039 -2.07676390845305</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Kerbs and Channels problem, 24th June</title>
-<link>https://www.fixmystreet.com/report/7756253</link>
-<description>28 day with give and take please lift and replace x1 broken kerb 900x150x20mm stats required (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7756253&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/7757118</link>
+<description>28 day with give and take please lift and replace x1 broken radius kerb above gully 900x150x20mm stats required (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7757118&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Kerbs and Channels</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7756253</guid>
-<pubDate>Tue, 24 Jun 2025 13:44:19 +0100</pubDate>
-<georss:point>51.8879887 -2.0775985</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7757118</guid>
+<pubDate>Tue, 24 Jun 2025 15:14:37 +0100</pubDate>
+<georss:point>51.8848928764211 -2.0748303952401</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Kerbs and Channels problem, 24th June</title>
-<link>https://www.fixmystreet.com/report/7756251</link>
-<description>28 day with give and take please lift and relay x1 rocking kerb 900x150x20mm stats required (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7756251&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/7757112</link>
+<description>28 day with give and take please lift and replace x1 broken kerb 900x150x20mm stats required (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7757112&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Kerbs and Channels</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7756251</guid>
-<pubDate>Tue, 24 Jun 2025 13:44:18 +0100</pubDate>
-<georss:point>51.8880688 -2.07764899999999</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7757112</guid>
+<pubDate>Tue, 24 Jun 2025 15:14:37 +0100</pubDate>
+<georss:point>51.884839 -2.07527060000002</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 24th June</title>
+<link>https://www.fixmystreet.com/report/7757116</link>
+<description>ENWD with give and take please place x3 2m barriers plus x6 sandbags around footway depression 6000x1000mm (FW6 Rutting&amp;amp;Depressions)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7757116&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7757116</guid>
+<pubDate>Tue, 24 Jun 2025 15:14:37 +0100</pubDate>
+<georss:point>51.884733 -2.07558899999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Road Markings problem, 24th June</title>
+<link>https://www.fixmystreet.com/report/7757110</link>
+<description>28 day with Road closure needed please refresh faded give way markings approximately 30  600x200mm dots and    plus x2 3 metres lines (Faded Road Markings)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7757110&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Road Markings</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7757110</guid>
+<pubDate>Tue, 24 Jun 2025 15:13:25 +0100</pubDate>
+<georss:point>51.9079016 -2.11007800000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Road Markings problem, 24th June</title>
+<link>https://www.fixmystreet.com/report/7757106</link>
+<description>28 day with Road closure needed please refresh faded give way markings approximately 18  600x200mm dots and x 10  600x100 dots   plus x2 3 metres lines (Faded Road Markings)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7757106&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Road Markings</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7757106</guid>
+<pubDate>Tue, 24 Jun 2025 15:09:03 +0100</pubDate>
+<georss:point>51.9069763996268 -2.10944301432345</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Road Markings problem, 24th June</title>
+<link>https://www.fixmystreet.com/report/7757107</link>
+<description>28 day with Road closure needed please refresh faded give way markings approximately 33  600x200mm dots and    plus x2 3 metres lines (Faded Road Markings)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7757107&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Road Markings</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7757107</guid>
+<pubDate>Tue, 24 Jun 2025 15:09:03 +0100</pubDate>
+<georss:point>51.9072774 -2.10894330000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 24th June</title>
+<link>https://www.fixmystreet.com/report/7757095</link>
+<description>CWPH&amp;#10;300 x 300 x 40mm&amp;#10;Not Marked &amp;#10;Road Closure (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7757095&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7757095</guid>
+<pubDate>Tue, 24 Jun 2025 15:02:02 +0100</pubDate>
+<georss:point>51.9454916209382 -2.05368511101976</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 24th June</title>
+<link>https://www.fixmystreet.com/report/7757094</link>
+<description>CWPH&amp;#10;600 x 600 x 40mm&amp;#10;Not Marked &amp;#10;Road Closure (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7757094&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7757094</guid>
+<pubDate>Tue, 24 Jun 2025 15:01:49 +0100</pubDate>
+<georss:point>51.9454844981942 -2.05367453056101</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 24th June</title>
+<link>https://www.fixmystreet.com/report/7757091</link>
+<description>CWPH&amp;#10;900 x 500 x 40mm&amp;#10;Not Marked &amp;#10;Road Closure (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7757091&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7757091</guid>
+<pubDate>Tue, 24 Jun 2025 15:00:00 +0100</pubDate>
+<georss:point>51.9447407907032 -2.05340454064341</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 24th June</title>
+<link>https://www.fixmystreet.com/report/7757086</link>
+<description>28 day with give and take plus temporary footway closure required footway abrupt level different remove x1  600x600 x20mm replace with tarmac patch  number 1 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7757086&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7757086</guid>
+<pubDate>Tue, 24 Jun 2025 14:58:57 +0100</pubDate>
+<georss:point>51.9054019986035 -2.11015732094795</georss:point>
 </item>
 </channel>
 </rss>
