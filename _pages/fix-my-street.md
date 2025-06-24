@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Overgrown weeds obscuring street sign and tree overhanging pavement, 24th June :- [7758811](https://www.fixmystreet.com/report/7758811)
 - Refuge shelter, 24th June :- [7758733](https://www.fixmystreet.com/report/7758733)
 - Missing damaged paving area in two positions either side of disabled dropped kerb, 24th June :- [7758604](https://www.fixmystreet.com/report/7758604)
 - Locked gate obstructing footpath, 24th June :- [7758536](https://www.fixmystreet.com/report/7758536)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 24th June :- [7757121](https://www.fixmystreet.com/report/7757121)
 - Highways have ignored multiple large, deep potholes & fixed one tiny one, 24th June :- [7756785](https://www.fixmystreet.com/report/7756785)
 - TMC - Defects - Other FW6  Surface problem, 24th June :- [7757115](https://www.fixmystreet.com/report/7757115)
-- TMC - Defects - Road Markings problem, 24th June :- [7757113](https://www.fixmystreet.com/report/7757113)
 
 <!-- fix_marker ends -->
