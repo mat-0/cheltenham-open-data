@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Locked gate obstructing footpath, 24th June :- [7758536](https://www.fixmystreet.com/report/7758536)
+- Rubbish bin overflowing and blowing all over the field., 24th June :- [7758533](https://www.fixmystreet.com/report/7758533)
 - Missing/obscured public footpath sign, 24th June :- [7758378](https://www.fixmystreet.com/report/7758378)
 - Overgrown vegetation along path., 24th June :- [7758366](https://www.fixmystreet.com/report/7758366)
 - Overgrown path, 24th June :- [7758353](https://www.fixmystreet.com/report/7758353)
@@ -26,8 +28,6 @@ permalink: /fix-my-street
 - TMC - Defects - Road Markings problem, 24th June :- [7757113](https://www.fixmystreet.com/report/7757113)
 - TMC - Defects - Road Markings problem, 24th June :- [7757114](https://www.fixmystreet.com/report/7757114)
 - TMC - Defects - Other FW6  Surface problem, 24th June :- [7757115](https://www.fixmystreet.com/report/7757115)
-- TMC - Defects - Other FW6  Surface problem, 24th June :- [7757117](https://www.fixmystreet.com/report/7757117)
-- TMC - Defects - Kerbs and Channels problem, 24th June :- [7757112](https://www.fixmystreet.com/report/7757112)
 - TMC - Defects - Other FW6  Surface problem, 24th June :- [7757116](https://www.fixmystreet.com/report/7757116)
 
 <!-- fix_marker ends -->
