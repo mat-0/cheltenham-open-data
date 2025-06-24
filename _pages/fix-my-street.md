@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Missing/obscured public footpath sign, 24th June :- [7758378](https://www.fixmystreet.com/report/7758378)
+- Overgrown vegetation along path., 24th June :- [7758366](https://www.fixmystreet.com/report/7758366)
+- Overgrown path, 24th June :- [7758353](https://www.fixmystreet.com/report/7758353)
 - Hedge overgrown in height and obstructing the pavement, 24th June :- [7758101](https://www.fixmystreet.com/report/7758101)
 - TMC - Defects - Vegetation problem, 24th June :- [7757948](https://www.fixmystreet.com/report/7757948)
 - Cut myself on barbed wire when trying to use the designated footpath. All footpath signs also removed from the top of branch road., 24th June :- [7757772](https://www.fixmystreet.com/report/7757772)
@@ -20,14 +23,11 @@ permalink: /fix-my-street
 - Council tree on phone line, 24th June :- [7756819](https://www.fixmystreet.com/report/7756819)
 - TMC - Defects - Vegetation problem, 24th June :- [7757121](https://www.fixmystreet.com/report/7757121)
 - Highways have ignored multiple large, deep potholes & fixed one tiny one, 24th June :- [7756785](https://www.fixmystreet.com/report/7756785)
-- TMC - Defects - Other FW6  Surface problem, 24th June :- [7757115](https://www.fixmystreet.com/report/7757115)
-- TMC - Defects - Other FW6  Surface problem, 24th June :- [7757117](https://www.fixmystreet.com/report/7757117)
-- TMC - Defects - Other FW6  Surface problem, 24th June :- [7757116](https://www.fixmystreet.com/report/7757116)
-- TMC - Defects - Kerbs and Channels problem, 24th June :- [7757118](https://www.fixmystreet.com/report/7757118)
 - TMC - Defects - Road Markings problem, 24th June :- [7757113](https://www.fixmystreet.com/report/7757113)
 - TMC - Defects - Road Markings problem, 24th June :- [7757114](https://www.fixmystreet.com/report/7757114)
+- TMC - Defects - Other FW6  Surface problem, 24th June :- [7757115](https://www.fixmystreet.com/report/7757115)
+- TMC - Defects - Other FW6  Surface problem, 24th June :- [7757117](https://www.fixmystreet.com/report/7757117)
 - TMC - Defects - Kerbs and Channels problem, 24th June :- [7757112](https://www.fixmystreet.com/report/7757112)
-- TMC - Defects - Road Markings problem, 24th June :- [7757110](https://www.fixmystreet.com/report/7757110)
-- TMC - Defects - Road Markings problem, 24th June :- [7757107](https://www.fixmystreet.com/report/7757107)
+- TMC - Defects - Other FW6  Surface problem, 24th June :- [7757116](https://www.fixmystreet.com/report/7757116)
 
 <!-- fix_marker ends -->
