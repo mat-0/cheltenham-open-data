@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Too much vegetation blocking parh, 24th June :- [7753842](https://www.fixmystreet.com/report/7753842)
 - Road repair of a poor quality, 24th June :- [7753431](https://www.fixmystreet.com/report/7753431)
 - Lime/Lindon Tree requires top and trim, 24th June :- [7753264](https://www.fixmystreet.com/report/7753264)
 - Pushbutton on the pedestrian crossing on Swindon Road outside Francis Close Hall campus is no longer working, 24th June :- [7753201](https://www.fixmystreet.com/report/7753201)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Flytipping black bag waste, 23rd June :- [7750309](https://www.fixmystreet.com/report/7750309)
 - Faint white road markings at jumction of Shaw Green Lane/Bowbridge Lane/Park Lane/Soring Lane, 23rd June :- [7750281](https://www.fixmystreet.com/report/7750281)
 - General road markings, lines and stud issues problem, 23rd June :- [7749770](https://www.fixmystreet.com/report/7749770)
-- Bags and boxes (some broken open) across pavement., 23rd June :- [7749377](https://www.fixmystreet.com/report/7749377)
 
 <!-- fix_marker ends -->
