@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Lime/Lindon Tree requires top and trim, 24th June :- [7753264](https://www.fixmystreet.com/report/7753264)
 - Pushbutton on the pedestrian crossing on Swindon Road outside Francis Close Hall campus is no longer working, 24th June :- [7753201](https://www.fixmystreet.com/report/7753201)
 - Potholes, 23rd June :- [7752839](https://www.fixmystreet.com/report/7752839)
 - Lots of potholes on hall road near moorend road, 23rd June :- [7752832](https://www.fixmystreet.com/report/7752832)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - General road markings, lines and stud issues problem, 23rd June :- [7749770](https://www.fixmystreet.com/report/7749770)
 - Bags and boxes (some broken open) across pavement., 23rd June :- [7749377](https://www.fixmystreet.com/report/7749377)
 - Tree is damaged problem, 23rd June :- [7749539](https://www.fixmystreet.com/report/7749539)
-- Tree is damaged problem, 23rd June :- [7748775](https://www.fixmystreet.com/report/7748775)
 
 <!-- fix_marker ends -->
