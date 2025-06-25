@@ -9,8 +9,18 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
-- TMC - Defects - Footways Slabs problem, 25th June :- [7760755](https://www.fixmystreet.com/report/7760755)
+- TMC - Defects -other CW6 problem, 25th June :- [7761085](https://www.fixmystreet.com/report/7761085)
+- TMC - Defects -CW6 Potholes  problem, 25th June :- [7761082](https://www.fixmystreet.com/report/7761082)
+- TMC - Defects -CW6 Potholes  problem, 25th June :- [7761078](https://www.fixmystreet.com/report/7761078)
+- TMC - Defects -CW6 Potholes  problem, 25th June :- [7761070](https://www.fixmystreet.com/report/7761070)
+- TMC - Defects - Other FW6  Surface problem, 25th June :- [7761068](https://www.fixmystreet.com/report/7761068)
+- TMC - Defects - Other FW6  Surface problem, 25th June :- [7761069](https://www.fixmystreet.com/report/7761069)
+- TMC - Defects -CW6 Potholes  problem, 25th June :- [7761066](https://www.fixmystreet.com/report/7761066)
+- TMC - Defects -CW6 Potholes  problem, 25th June :- [7761063](https://www.fixmystreet.com/report/7761063)
+- TMC - Defects -CW6 Potholes  problem, 25th June :- [7761062](https://www.fixmystreet.com/report/7761062)
+- TMC - Defects -CW6 Potholes  problem, 25th June :- [7761061](https://www.fixmystreet.com/report/7761061)
 - TMC - Defects - Other FW6  Surface problem, 25th June :- [7760754](https://www.fixmystreet.com/report/7760754)
+- TMC - Defects - Footways Slabs problem, 25th June :- [7760755](https://www.fixmystreet.com/report/7760755)
 - TMC - Defects - Kerbs and Channels problem, 25th June :- [7760753](https://www.fixmystreet.com/report/7760753)
 - TMC - Defects - Kerbs and Channels problem, 25th June :- [7760751](https://www.fixmystreet.com/report/7760751)
 - TMC - Defects - Kerbs and Channels problem, 25th June :- [7760752](https://www.fixmystreet.com/report/7760752)
@@ -19,15 +29,5 @@ permalink: /fix-my-street
 - Teak sale flyposting all over Leckhampton streets, 25th June :- [7760547](https://www.fixmystreet.com/report/7760547)
 - Flyposting yet again of TEAK sale, 25th June :- [7760536](https://www.fixmystreet.com/report/7760536)
 - Cones left on road, 25th June :- [7760470](https://www.fixmystreet.com/report/7760470)
-- Lime tree in need of serious maintenance - tree suckers at the bottom of the tree and up the trunk, and branches growing too close to the house., 25th June :- [7760435](https://www.fixmystreet.com/report/7760435)
-- TMC - Defects - Road Markings problem, 25th June :- [7760487](https://www.fixmystreet.com/report/7760487)
-- TMC - Defects -other CW6 problem, 25th June :- [7760246](https://www.fixmystreet.com/report/7760246)
-- TMC - Defects - Covers, Gratings & Frames problem, 25th June :- [7760243](https://www.fixmystreet.com/report/7760243)
-- TMC - Defects -CW6 Potholes  problem, 25th June :- [7760234](https://www.fixmystreet.com/report/7760234)
-- TMC - Defects -other CW6 problem, 25th June :- [7760232](https://www.fixmystreet.com/report/7760232)
-- TMC - Defects -other CW6 problem, 25th June :- [7760231](https://www.fixmystreet.com/report/7760231)
-- TMC - Defects -other CW6 problem, 25th June :- [7760226](https://www.fixmystreet.com/report/7760226)
-- TMC - Defects -other CW6 problem, 25th June :- [7760222](https://www.fixmystreet.com/report/7760222)
-- TMC - Defects -other CW6 problem, 25th June :- [7760220](https://www.fixmystreet.com/report/7760220)
 
 <!-- fix_marker ends -->
