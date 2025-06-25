@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Abandoned sign barrier & sandbag, 25th June :- [7763925](https://www.fixmystreet.com/report/7763925)
+- Abandoned footpath sign & sandbag, 25th June :- [7763900](https://www.fixmystreet.com/report/7763900)
+- Young tree in Grafton Road is listing badly, needs to be attached to a vertical stake, 25th June :- [7763898](https://www.fixmystreet.com/report/7763898)
 - TMC - Defects - Vegetation problem, 25th June :- [7763408](https://www.fixmystreet.com/report/7763408)
 - TMC - Defects -other CW6 problem, 25th June :- [7763252](https://www.fixmystreet.com/report/7763252)
 - TMC - Defects -CW6 Potholes  problem, 25th June :- [7763251](https://www.fixmystreet.com/report/7763251)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other problem, 25th June :- [7763226](https://www.fixmystreet.com/report/7763226)
 - TMC - Defects - Other problem, 25th June :- [7763225](https://www.fixmystreet.com/report/7763225)
 - TMC - Defects -CW6 Potholes  problem, 25th June :- [7763223](https://www.fixmystreet.com/report/7763223)
-- TMC - Defects -other CW6 problem, 25th June :- [7763221](https://www.fixmystreet.com/report/7763221)
-- TMC - Defects - Kerbs and Channels problem, 25th June :- [7763220](https://www.fixmystreet.com/report/7763220)
-- TMC - Defects -other CW6 problem, 25th June :- [7763218](https://www.fixmystreet.com/report/7763218)
 
 <!-- fix_marker ends -->
