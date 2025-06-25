@@ -13,11 +13,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
 - New schools and 2,800 homes could be built near M5 ([10 hours ago](https://www.bbc.com/news/articles/c5y7dlwng0do))
-- More than 2,000 items found on night litter pick ([10 hours ago](https://www.bbc.com/news/articles/cpvjmxvzj32o))
-- The Big Cases ([10 hours ago](https://www.bbc.co.uk/iplayer/episode/m001z7w2))
-- Gloucestershire maternity services under government review ([15 hours ago](https://www.bbc.co.uk/sounds/play/p0ll39jx))
-- 'Burst water main' and 'stolen statues' ([15 hours ago](https://www.bbc.com/news/articles/c98w395w3wlo))
-- Scrapping of Aston Project blasted as ‘betrayal’ amid call for U-turn over police decision ([18 hours ago](https://gloucesternewscentre.co.uk/scrapping-of-aston-project-blasted-as-betrayal-amid-call-for-u-turn-over-police-decision/))
+- More than 2,000 items found on night litter pick ([11 hours ago](https://www.bbc.com/news/articles/cpvjmxvzj32o))
+- The Big Cases ([11 hours ago](https://www.bbc.co.uk/iplayer/episode/m001z7w2))
+- Gloucestershire maternity services under government review ([16 hours ago](https://www.bbc.co.uk/sounds/play/p0ll39jx))
+- 'Burst water main' and 'stolen statues' ([16 hours ago](https://www.bbc.com/news/articles/c98w395w3wlo))
+- Scrapping of Aston Project blasted as ‘betrayal’ amid call for U-turn over police decision ([19 hours ago](https://gloucesternewscentre.co.uk/scrapping-of-aston-project-blasted-as-betrayal-amid-call-for-u-turn-over-police-decision/))
 - Wheelie bins 'a blight' on historic town centre ([21 hours ago](https://www.bbc.com/news/articles/cn86y7dq8yeo))
 - Man who invented natural gas smell wins 'dull' award ([21 hours ago](https://www.bbc.com/news/articles/cpw74x57p8po))
 - Disqualified driver caught drunk behind wheel twice ([1 days ago](https://www.bbc.com/news/articles/c0k75jkm43zo))
