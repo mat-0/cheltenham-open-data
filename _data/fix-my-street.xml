@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -12,6 +12,15 @@
 <description>The latest local problems reported by users</description>
 <language>en-gb</language>
 
+<item>
+<title>TMC - Defects - Vegetation problem, 25th June</title>
+<link>https://www.fixmystreet.com/report/7763408</link>
+<description>28 day with give and take plus temporary footway closure please cut back overgrown hedges and brambles obstructing the footway back to boundary approx 35m x 1.5m x 3.0m (Overgrown Hedge)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7763408&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Vegetation</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7763408</guid>
+<pubDate>Wed, 25 Jun 2025 15:37:14 +0100</pubDate>
+<georss:point>51.8762714676003 -2.10220278700472</georss:point>
+</item>
 <item>
 <title>TMC - Defects -other CW6 problem, 25th June</title>
 <link>https://www.fixmystreet.com/report/7763252</link>
@@ -182,15 +191,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/7763218</guid>
 <pubDate>Wed, 25 Jun 2025 14:46:43 +0100</pubDate>
 <georss:point>51.8404377 -2.0654251</georss:point>
-</item>
-<item>
-<title>TMC - Defects -other CW6 problem, 25th June</title>
-<link>https://www.fixmystreet.com/report/7763214</link>
-<description>CWED &amp;#10;1000 X 600 X 40mm&amp;#10;ROAD  CLOSURE &amp;#10;MARKED AS NUMBER 1 (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7763214&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -other CW6</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7763214</guid>
-<pubDate>Wed, 25 Jun 2025 14:45:20 +0100</pubDate>
-<georss:point>51.8404453 -2.0654557</georss:point>
 </item>
 </channel>
 </rss>
