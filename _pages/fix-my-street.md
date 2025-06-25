@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Vegetation problem, 25th June :- [7763408](https://www.fixmystreet.com/report/7763408)
 - TMC - Defects -other CW6 problem, 25th June :- [7763252](https://www.fixmystreet.com/report/7763252)
 - TMC - Defects -CW6 Potholes  problem, 25th June :- [7763251](https://www.fixmystreet.com/report/7763251)
 - TMC - Defects - Road Markings problem, 25th June :- [7763250](https://www.fixmystreet.com/report/7763250)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -other CW6 problem, 25th June :- [7763221](https://www.fixmystreet.com/report/7763221)
 - TMC - Defects - Kerbs and Channels problem, 25th June :- [7763220](https://www.fixmystreet.com/report/7763220)
 - TMC - Defects -other CW6 problem, 25th June :- [7763218](https://www.fixmystreet.com/report/7763218)
-- TMC - Defects -other CW6 problem, 25th June :- [7763214](https://www.fixmystreet.com/report/7763214)
 
 <!-- fix_marker ends -->
