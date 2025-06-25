@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Bin full, 25th June :- [7764870](https://www.fixmystreet.com/report/7764870)
 - Road closure not notified, 25th June :- [7764569](https://www.fixmystreet.com/report/7764569)
 - Tarmac around gulley cover perished hazard to cyclist, 25th June :- [7764528](https://www.fixmystreet.com/report/7764528)
 - Dangeroud trip hazards to left and right of entrance to 141 Leckhampton Road., 25th June :- [7764455](https://www.fixmystreet.com/report/7764455)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 25th June :- [7763235](https://www.fixmystreet.com/report/7763235)
 - TMC - Defects - Kerbs and Channels problem, 25th June :- [7763234](https://www.fixmystreet.com/report/7763234)
 - TMC - Defects - Kerbs and Channels problem, 25th June :- [7763233](https://www.fixmystreet.com/report/7763233)
-- TMC - Defects - Other problem, 25th June :- [7763231](https://www.fixmystreet.com/report/7763231)
 
 <!-- fix_marker ends -->
