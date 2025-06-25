@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Drains blocked along the road…need inspecting and clearing, 25th June :- [7764091](https://www.fixmystreet.com/report/7764091)
+- Street sign broken, 25th June :- [7764076](https://www.fixmystreet.com/report/7764076)
+- Grass verge overgrown, 25th June :- [7764069](https://www.fixmystreet.com/report/7764069)
 - Abandoned sign barrier & sandbag, 25th June :- [7763925](https://www.fixmystreet.com/report/7763925)
 - Abandoned footpath sign & sandbag, 25th June :- [7763900](https://www.fixmystreet.com/report/7763900)
 - Young tree in Grafton Road is listing badly, needs to be attached to a vertical stake, 25th June :- [7763898](https://www.fixmystreet.com/report/7763898)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 25th June :- [7763229](https://www.fixmystreet.com/report/7763229)
 - TMC - Defects -CW6 Potholes  problem, 25th June :- [7763228](https://www.fixmystreet.com/report/7763228)
 - TMC - Defects - Vegetation problem, 25th June :- [7763227](https://www.fixmystreet.com/report/7763227)
-- TMC - Defects - Other problem, 25th June :- [7763226](https://www.fixmystreet.com/report/7763226)
-- TMC - Defects - Other problem, 25th June :- [7763225](https://www.fixmystreet.com/report/7763225)
-- TMC - Defects -CW6 Potholes  problem, 25th June :- [7763223](https://www.fixmystreet.com/report/7763223)
 
 <!-- fix_marker ends -->

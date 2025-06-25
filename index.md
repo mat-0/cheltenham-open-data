@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Wednesday, 25 June 2025
 
-- The average temperature today is 23.5˚C,
-- With highs of 24.43˚C and lows of 22.75˚C,
-- It may feel like 23.55˚C with light rain
-- The wind speed is 3.13m/s and visibility is 10000m
-- The pressure is 1010hPa and humidity is 63%
+- The average temperature today is 22.09˚C,
+- With highs of 22.94˚C and lows of 21.5˚C,
+- It may feel like 22.1˚C with light rain
+- The wind speed is 2.57m/s and visibility is 10000m
+- The pressure is 1009hPa and humidity is 67%
 - The sun will rise at 03:49 and set at 20:31
 
 <!-- weather_marker ends -->
