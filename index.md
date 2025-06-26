@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Thursday, 26 June 2025
 
-- The average temperature today is 18.58˚C,
-- With highs of 19.84˚C and lows of 17.75˚C,
-- It may feel like 18.71˚C with broken clouds
-- The wind speed is 5.66m/s and visibility is 10000m
-- The pressure is 1009hPa and humidity is 85%
+- The average temperature today is 19.9˚C,
+- With highs of 20.55˚C and lows of 19.41˚C,
+- It may feel like 19.9˚C with scattered clouds
+- The wind speed is 6.71m/s and visibility is 10000m
+- The pressure is 1009hPa and humidity is 75%
 - The sun will rise at 03:50 and set at 20:31
 
 <!-- weather_marker ends -->
