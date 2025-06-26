@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Other FW6  Surface problem, 26th June :- [7765971](https://www.fixmystreet.com/report/7765971)
+- TMC - Defects - Other FW6  Surface problem, 26th June :- [7765970](https://www.fixmystreet.com/report/7765970)
+- TMC - Defects - Other FW6  Surface problem, 26th June :- [7765969](https://www.fixmystreet.com/report/7765969)
+- TMC - Defects -CW6 Potholes  problem, 26th June :- [7765895](https://www.fixmystreet.com/report/7765895)
+- TMC - Defects - Signs & Street Furniture problem, 26th June :- [7765896](https://www.fixmystreet.com/report/7765896)
+- Trees been vandalised by contractors cutting grass, 26th June :- [7765743](https://www.fixmystreet.com/report/7765743)
 - Leak to stop tap at 11 Glamorgan road, 26th June :- [7765383](https://www.fixmystreet.com/report/7765383)
 - Bin full, 25th June :- [7764870](https://www.fixmystreet.com/report/7764870)
 - Road closure not notified, 25th June :- [7764569](https://www.fixmystreet.com/report/7764569)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Young tree in Grafton Road is listing badly, needs to be attached to a vertical stake, 25th June :- [7763898](https://www.fixmystreet.com/report/7763898)
 - TMC - Defects - Vegetation problem, 25th June :- [7763408](https://www.fixmystreet.com/report/7763408)
 - TMC - Defects -other CW6 problem, 25th June :- [7763252](https://www.fixmystreet.com/report/7763252)
-- TMC - Defects -CW6 Potholes  problem, 25th June :- [7763251](https://www.fixmystreet.com/report/7763251)
-- TMC - Defects - Road Markings problem, 25th June :- [7763250](https://www.fixmystreet.com/report/7763250)
-- TMC - Defects -CW6 Potholes  problem, 25th June :- [7763249](https://www.fixmystreet.com/report/7763249)
-- TMC - Defects -CW6 Potholes  problem, 25th June :- [7763248](https://www.fixmystreet.com/report/7763248)
-- TMC - Defects -CW6 Potholes  problem, 25th June :- [7763235](https://www.fixmystreet.com/report/7763235)
-- TMC - Defects - Kerbs and Channels problem, 25th June :- [7763234](https://www.fixmystreet.com/report/7763234)
 
 <!-- fix_marker ends -->
