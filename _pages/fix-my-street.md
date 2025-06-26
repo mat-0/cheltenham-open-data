@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Leak to stop tap at 11 Glamorgan road, 26th June :- [7765383](https://www.fixmystreet.com/report/7765383)
 - Bin full, 25th June :- [7764870](https://www.fixmystreet.com/report/7764870)
 - Road closure not notified, 25th June :- [7764569](https://www.fixmystreet.com/report/7764569)
 - Tarmac around gulley cover perished hazard to cyclist, 25th June :- [7764528](https://www.fixmystreet.com/report/7764528)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 25th June :- [7763248](https://www.fixmystreet.com/report/7763248)
 - TMC - Defects -CW6 Potholes  problem, 25th June :- [7763235](https://www.fixmystreet.com/report/7763235)
 - TMC - Defects - Kerbs and Channels problem, 25th June :- [7763234](https://www.fixmystreet.com/report/7763234)
-- TMC - Defects - Kerbs and Channels problem, 25th June :- [7763233](https://www.fixmystreet.com/report/7763233)
 
 <!-- fix_marker ends -->
