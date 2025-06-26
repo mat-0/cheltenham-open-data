@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree growth obstructing traffic lights, 26th June :- [7770836](https://www.fixmystreet.com/report/7770836)
 - Dangerous for pedestrians crossing the A435, 26th June :- [7770213](https://www.fixmystreet.com/report/7770213)
 - TMC - Defects - Vegetation problem, 26th June :- [7770163](https://www.fixmystreet.com/report/7770163)
 - 2 separate man hole covers continually banging every time cars drive over them. This is hroughout the day and night and is driving me a little crazy. There is no peace and it is not acceptable that you have not replied to my earlier notification nearly a week ago. I pay council tax and feel entitled, 26th June :- [7770075](https://www.fixmystreet.com/report/7770075)
@@ -25,9 +26,8 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 26th June :- [7769221](https://www.fixmystreet.com/report/7769221)
 - TMC - Defects - Other FW6  Surface problem, 26th June :- [7769220](https://www.fixmystreet.com/report/7769220)
 - TMC - Defects - Other FW6  Surface problem, 26th June :- [7769223](https://www.fixmystreet.com/report/7769223)
-- TMC - Defects - Other FW6  Surface problem, 26th June :- [7769226](https://www.fixmystreet.com/report/7769226)
 - TMC - Defects - Other FW6  Surface problem, 26th June :- [7769224](https://www.fixmystreet.com/report/7769224)
-- TMC - Defects - Other FW6  Surface problem, 26th June :- [7769222](https://www.fixmystreet.com/report/7769222)
+- TMC - Defects - Other FW6  Surface problem, 26th June :- [7769227](https://www.fixmystreet.com/report/7769227)
 - TMC - Defects - Other FW6  Surface problem, 26th June :- [7769225](https://www.fixmystreet.com/report/7769225)
 
 <!-- fix_marker ends -->
