@@ -9,6 +9,16 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Other FW6  Surface problem, 27th June :- [7771931](https://www.fixmystreet.com/report/7771931)
+- TMC - Defects - Other FW6  Surface problem, 27th June :- [7771930](https://www.fixmystreet.com/report/7771930)
+- TMC - Defects - Other FW6  Surface problem, 27th June :- [7771929](https://www.fixmystreet.com/report/7771929)
+- TMC - Defects - Kerbs and Channels problem, 27th June :- [7771932](https://www.fixmystreet.com/report/7771932)
+- TMC - Defects - Other FW6  Surface problem, 27th June :- [7771927](https://www.fixmystreet.com/report/7771927)
+- TMC - Defects - Road Markings problem, 27th June :- [7771926](https://www.fixmystreet.com/report/7771926)
+- TMC - Defects - Other FW6  Surface problem, 27th June :- [7771928](https://www.fixmystreet.com/report/7771928)
+- TMC - Defects -CW6 Potholes  problem, 27th June :- [7771925](https://www.fixmystreet.com/report/7771925)
+- TMC - Defects -CW6 Potholes  problem, 27th June :- [7771924](https://www.fixmystreet.com/report/7771924)
+- TMC - Defects -CW6 Potholes  problem, 27th June :- [7771923](https://www.fixmystreet.com/report/7771923)
 - Fly tipping….. yet again, 27th June :- [7771551](https://www.fixmystreet.com/report/7771551)
 - Tree growth obstructing traffic lights, 26th June :- [7770836](https://www.fixmystreet.com/report/7770836)
 - Tree over growing, 26th June :- [7770443](https://www.fixmystreet.com/report/7770443)
@@ -19,15 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 26th June :- [7769855](https://www.fixmystreet.com/report/7769855)
 - TMC - Defects - Vegetation problem, 26th June :- [7769673](https://www.fixmystreet.com/report/7769673)
 - Then green arrow below the green light never comes on so not safe to turn right as oncoming traffic, 26th June :- [7768984](https://www.fixmystreet.com/report/7768984)
-- Damaged road sign for over 6 months, 26th June :- [7768980](https://www.fixmystreet.com/report/7768980)
-- TMC - Defects -CW6 Potholes  problem, 26th June :- [7769237](https://www.fixmystreet.com/report/7769237)
-- TMC - Defects - Other FW6  Surface problem, 26th June :- [7769234](https://www.fixmystreet.com/report/7769234)
-- TMC - Defects - Other FW6  Surface problem, 26th June :- [7769219](https://www.fixmystreet.com/report/7769219)
-- TMC - Defects - Other FW6  Surface problem, 26th June :- [7769233](https://www.fixmystreet.com/report/7769233)
-- TMC - Defects - Other FW6  Surface problem, 26th June :- [7769232](https://www.fixmystreet.com/report/7769232)
-- TMC - Defects - Other FW6  Surface problem, 26th June :- [7769220](https://www.fixmystreet.com/report/7769220)
-- TMC - Defects - Other FW6  Surface problem, 26th June :- [7769221](https://www.fixmystreet.com/report/7769221)
-- TMC - Defects - Other FW6  Surface problem, 26th June :- [7769224](https://www.fixmystreet.com/report/7769224)
-- TMC - Defects - Other FW6  Surface problem, 26th June :- [7769227](https://www.fixmystreet.com/report/7769227)
 
 <!-- fix_marker ends -->
