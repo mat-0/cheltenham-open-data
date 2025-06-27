@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Friday, 27 June 2025
 
-- The average temperature today is 17.39˚C,
-- With highs of 18.71˚C and lows of 16.64˚C,
-- It may feel like 17.22˚C with few clouds
-- The wind speed is 3.09m/s and visibility is 10000m
-- The pressure is 1019hPa and humidity is 78%
+- The average temperature today is 19.06˚C,
+- With highs of 19.99˚C and lows of 17.69˚C,
+- It may feel like 18.9˚C with scattered clouds
+- The wind speed is 4.12m/s and visibility is 10000m
+- The pressure is 1019hPa and humidity is 72%
 - The sun will rise at 03:50 and set at 20:31
 
 <!-- weather_marker ends -->
