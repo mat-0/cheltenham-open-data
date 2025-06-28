@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- M5 litter, 28th June :- [7779075](https://www.fixmystreet.com/report/7779075)
+- Graffiti on bridge, 28th June :- [7779070](https://www.fixmystreet.com/report/7779070)
+- M5 litter left after grass cutting, 28th June :- [7779053](https://www.fixmystreet.com/report/7779053)
 - Tree branches over a road sign so you can’t see which Lane to get in for roundabout, 28th June :- [7779005](https://www.fixmystreet.com/report/7779005)
 - Cones & signs ditched in the verges, 28th June :- [7778965](https://www.fixmystreet.com/report/7778965)
 - Pavement all up outside 16 Trent road, 28th June :- [7778644](https://www.fixmystreet.com/report/7778644)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Dangerous trip hazard, 28th June :- [7777284](https://www.fixmystreet.com/report/7777284)
 - Offensive graffiti, 28th June :- [7777178](https://www.fixmystreet.com/report/7777178)
 - Road closure signs causing dangerous obstruction, 28th June :- [7776883](https://www.fixmystreet.com/report/7776883)
-- Cones left on verge & in hedge & two large fold out signs, 28th June :- [7776875](https://www.fixmystreet.com/report/7776875)
-- Tree blocking sunlight, 27th June :- [7776658](https://www.fixmystreet.com/report/7776658)
-- Flyposting on junction, 27th June :- [7776461](https://www.fixmystreet.com/report/7776461)
 
 <!-- fix_marker ends -->
