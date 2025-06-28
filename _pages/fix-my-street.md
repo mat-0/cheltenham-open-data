@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Caravan left on grass verge, 28th June :- [7778392](https://www.fixmystreet.com/report/7778392)
+- Large banner on side of road by field, 28th June :- [7778391](https://www.fixmystreet.com/report/7778391)
+- Vegitation growing over pootpath, 28th June :- [7778374](https://www.fixmystreet.com/report/7778374)
 - Another Ceilidh poster attached to telegraph pole, 28th June :- [7778234](https://www.fixmystreet.com/report/7778234)
 - Huge banner attached to the construction railings of new houses/coop, 28th June :- [7778220](https://www.fixmystreet.com/report/7778220)
 - Abusive graffiti, 28th June :- [7778130](https://www.fixmystreet.com/report/7778130)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Flyposting, 27th June :- [7776443](https://www.fixmystreet.com/report/7776443)
 - Flyposting, 27th June :- [7776440](https://www.fixmystreet.com/report/7776440)
 - Flyposting on traffic lights, 27th June :- [7776439](https://www.fixmystreet.com/report/7776439)
-- Street light not working, 27th June :- [7776077](https://www.fixmystreet.com/report/7776077)
-- Large grass area on the corner of pottersfield and Cranford Close is totally overgrown, 27th June :- [7775481](https://www.fixmystreet.com/report/7775481)
-- Right turn filter light completely obscured, 27th June :- [7775478](https://www.fixmystreet.com/report/7775478)
 
 <!-- fix_marker ends -->
