@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pavement all up outside 16 Trent road, 28th June :- [7778644](https://www.fixmystreet.com/report/7778644)
 - Caravan left on grass verge, 28th June :- [7778392](https://www.fixmystreet.com/report/7778392)
 - Large banner on side of road by field, 28th June :- [7778391](https://www.fixmystreet.com/report/7778391)
 - Vegitation growing over pootpath, 28th June :- [7778374](https://www.fixmystreet.com/report/7778374)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Flyposting on junction, 27th June :- [7776461](https://www.fixmystreet.com/report/7776461)
 - Flyposting, 27th June :- [7776443](https://www.fixmystreet.com/report/7776443)
 - Flyposting, 27th June :- [7776440](https://www.fixmystreet.com/report/7776440)
-- Flyposting on traffic lights, 27th June :- [7776439](https://www.fixmystreet.com/report/7776439)
 
 <!-- fix_marker ends -->
