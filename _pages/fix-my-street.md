@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Offensive graffiti, 28th June :- [7777178](https://www.fixmystreet.com/report/7777178)
 - Road closure signs causing dangerous obstruction, 28th June :- [7776883](https://www.fixmystreet.com/report/7776883)
 - Cones left on verge & in hedge & two large fold out signs, 28th June :- [7776875](https://www.fixmystreet.com/report/7776875)
 - Tree blocking sunlight, 27th June :- [7776658](https://www.fixmystreet.com/report/7776658)
@@ -20,14 +21,13 @@ permalink: /fix-my-street
 - Large grass area on the corner of pottersfield and Cranford Close is totally overgrown, 27th June :- [7775481](https://www.fixmystreet.com/report/7775481)
 - Right turn filter light completely obscured, 27th June :- [7775478](https://www.fixmystreet.com/report/7775478)
 - 30mph sign missing, 27th June :- [7775423](https://www.fixmystreet.com/report/7775423)
-- TMC - Defects -CW6 Potholes  problem, 27th June :- [7775303](https://www.fixmystreet.com/report/7775303)
-- TMC - Defects - Footways Slabs problem, 27th June :- [7775306](https://www.fixmystreet.com/report/7775306)
-- TMC - Defects -CW6 Potholes  problem, 27th June :- [7775304](https://www.fixmystreet.com/report/7775304)
-- TMC - Defects -CW6 Potholes  problem, 27th June :- [7775302](https://www.fixmystreet.com/report/7775302)
-- TMC - Defects - Other FW6  Surface problem, 27th June :- [7775262](https://www.fixmystreet.com/report/7775262)
 - TMC - Defects - Other FW6  Surface problem, 27th June :- [7775301](https://www.fixmystreet.com/report/7775301)
 - TMC - Defects - Footways Slabs problem, 27th June :- [7775305](https://www.fixmystreet.com/report/7775305)
+- TMC - Defects -CW6 Potholes  problem, 27th June :- [7775303](https://www.fixmystreet.com/report/7775303)
 - TMC - Defects - Other FW6  Surface problem, 27th June :- [7775300](https://www.fixmystreet.com/report/7775300)
-- TMC - Defects - Other FW6  Surface problem, 27th June :- [7775299](https://www.fixmystreet.com/report/7775299)
+- TMC - Defects -CW6 Potholes  problem, 27th June :- [7775302](https://www.fixmystreet.com/report/7775302)
+- TMC - Defects -CW6 Potholes  problem, 27th June :- [7775304](https://www.fixmystreet.com/report/7775304)
+- TMC - Defects - Footways Slabs problem, 27th June :- [7775306](https://www.fixmystreet.com/report/7775306)
+- TMC - Defects - Other FW6  Surface problem, 27th June :- [7775262](https://www.fixmystreet.com/report/7775262)
 
 <!-- fix_marker ends -->
