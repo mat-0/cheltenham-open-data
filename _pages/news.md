@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Sports hub has 'dramatic effect' on young people ([4 hours ago](https://www.bbc.com/news/articles/cvg8pxj550eo))
-- Gloucestershire in Pics: River blessing and lavender ([4 hours ago](https://www.bbc.com/news/articles/c2k158nynz5o))
-- Hotel goes back in time to mark 1970s heyday ([18 hours ago](https://www.bbc.com/news/articles/c335z6yzpmro))
-- Paedophile sexually assaulted child in church ([19 hours ago](https://www.bbc.com/news/articles/czxe4e2ppw2o))
-- Deal agreed to sell airport for more than £25m ([20 hours ago](https://www.bbc.com/news/articles/cdx5g5xqkv1o))
-- Additional police patrols to tackle night crime ([22 hours ago](https://www.bbc.com/news/articles/czjknk33xpxo))
+- Sports hub has 'dramatic effect' on young people ([5 hours ago](https://www.bbc.com/news/articles/cvg8pxj550eo))
+- Gloucestershire in Pics: River blessing and lavender ([5 hours ago](https://www.bbc.com/news/articles/c2k158nynz5o))
+- Hotel goes back in time to mark 1970s heyday ([19 hours ago](https://www.bbc.com/news/articles/c335z6yzpmro))
+- Paedophile sexually assaulted child in church ([20 hours ago](https://www.bbc.com/news/articles/czxe4e2ppw2o))
+- Deal agreed to sell airport for more than £25m ([21 hours ago](https://www.bbc.com/news/articles/cdx5g5xqkv1o))
+- Additional police patrols to tackle night crime ([23 hours ago](https://www.bbc.com/news/articles/czjknk33xpxo))
 - 'Primary school bangers' and 'The Wave closes' ([1 days ago](https://www.bbc.com/news/articles/cq53wwp5yldo))
 - Helping wildflowers bloom across Cheltenham ([1 days ago](https://www.cheltenham.gov.uk/news/article/3025/helping_wildflowers_bloom_across_cheltenham))
 - 'We're having to adapt to survive' say pub owners ([1 days ago](https://www.bbc.com/news/articles/c74z3yp3p0xo))

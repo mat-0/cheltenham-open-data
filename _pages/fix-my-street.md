@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Byfield Close central grass areas are excessively long, 28th June :- [7777740](https://www.fixmystreet.com/report/7777740)
 - The drain surround outside the IMJIN exit has collapsed again., 28th June :- [7777680](https://www.fixmystreet.com/report/7777680)
 - The drain between 45 and 51 Gretton road Winchcombe is completely blocked.it has not been cleared for so long it is now almost full of stones and debris., 28th June :- [7777678](https://www.fixmystreet.com/report/7777678)
 - Pothole in pavement. Raised causing a trip hazard, 28th June :- [7777347](https://www.fixmystreet.com/report/7777347)
@@ -25,9 +26,8 @@ permalink: /fix-my-street
 - Large grass area on the corner of pottersfield and Cranford Close is totally overgrown, 27th June :- [7775481](https://www.fixmystreet.com/report/7775481)
 - Right turn filter light completely obscured, 27th June :- [7775478](https://www.fixmystreet.com/report/7775478)
 - 30mph sign missing, 27th June :- [7775423](https://www.fixmystreet.com/report/7775423)
-- TMC - Defects -CW6 Potholes  problem, 27th June :- [7775303](https://www.fixmystreet.com/report/7775303)
-- TMC - Defects -CW6 Potholes  problem, 27th June :- [7775302](https://www.fixmystreet.com/report/7775302)
 - TMC - Defects - Other FW6  Surface problem, 27th June :- [7775301](https://www.fixmystreet.com/report/7775301)
-- TMC - Defects -CW6 Potholes  problem, 27th June :- [7775304](https://www.fixmystreet.com/report/7775304)
+- TMC - Defects -CW6 Potholes  problem, 27th June :- [7775302](https://www.fixmystreet.com/report/7775302)
+- TMC - Defects -CW6 Potholes  problem, 27th June :- [7775303](https://www.fixmystreet.com/report/7775303)
 
 <!-- fix_marker ends -->
