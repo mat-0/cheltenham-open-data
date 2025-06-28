@@ -13,10 +13,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
 - Hotel goes back in time to mark 1970s heyday ([11 hours ago](https://www.bbc.com/news/articles/c335z6yzpmro))
-- Paedophile sexually assaulted child in church ([11 hours ago](https://www.bbc.com/news/articles/czxe4e2ppw2o))
+- Paedophile sexually assaulted child in church ([12 hours ago](https://www.bbc.com/news/articles/czxe4e2ppw2o))
 - Deal agreed to sell airport for more than £25m ([13 hours ago](https://www.bbc.com/news/articles/cdx5g5xqkv1o))
-- Additional police patrols to tackle night crime ([14 hours ago](https://www.bbc.com/news/articles/czjknk33xpxo))
-- 'Primary school bangers' and 'The Wave closes' ([17 hours ago](https://www.bbc.com/news/articles/cq53wwp5yldo))
+- Additional police patrols to tackle night crime ([15 hours ago](https://www.bbc.com/news/articles/czjknk33xpxo))
+- 'Primary school bangers' and 'The Wave closes' ([18 hours ago](https://www.bbc.com/news/articles/cq53wwp5yldo))
 - Helping wildflowers bloom across Cheltenham ([18 hours ago](https://www.cheltenham.gov.uk/news/article/3025/helping_wildflowers_bloom_across_cheltenham))
 - 'We're having to adapt to survive' say pub owners ([22 hours ago](https://www.bbc.com/news/articles/c74z3yp3p0xo))
 - Inclusive bike charity expands to cope with demand ([22 hours ago](https://www.bbc.com/news/articles/ceq79pjzq3no))
