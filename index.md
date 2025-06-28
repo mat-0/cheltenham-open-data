@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Saturday, 28 June 2025
 
-- The average temperature today is 23.06˚C,
-- With highs of 24.18˚C and lows of 21.58˚C,
-- It may feel like 23.38˚C with scattered clouds
-- The wind speed is 4.63m/s and visibility is 10000m
-- The pressure is 1023hPa and humidity is 75%
+- The average temperature today is 24.19˚C,
+- With highs of 25.55˚C and lows of 22.75˚C,
+- It may feel like 24.41˚C with scattered clouds
+- The wind speed is 5.66m/s and visibility is 10000m
+- The pressure is 1023hPa and humidity is 67%
 - The sun will rise at 03:51 and set at 20:31
 
 <!-- weather_marker ends -->
