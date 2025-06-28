@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Another Ceilidh poster attached to telegraph pole, 28th June :- [7778234](https://www.fixmystreet.com/report/7778234)
+- Huge banner attached to the construction railings of new houses/coop, 28th June :- [7778220](https://www.fixmystreet.com/report/7778220)
 - Abusive graffiti, 28th June :- [7778130](https://www.fixmystreet.com/report/7778130)
 - Willow trees overhanging public footpath and blocking streetlights., 28th June :- [7778099](https://www.fixmystreet.com/report/7778099)
 - Byfield Close central grass areas are excessively long, 28th June :- [7777740](https://www.fixmystreet.com/report/7777740)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Street light not working, 27th June :- [7776077](https://www.fixmystreet.com/report/7776077)
 - Large grass area on the corner of pottersfield and Cranford Close is totally overgrown, 27th June :- [7775481](https://www.fixmystreet.com/report/7775481)
 - Right turn filter light completely obscured, 27th June :- [7775478](https://www.fixmystreet.com/report/7775478)
-- 30mph sign missing, 27th June :- [7775423](https://www.fixmystreet.com/report/7775423)
-- TMC - Defects -CW6 Potholes  problem, 27th June :- [7775302](https://www.fixmystreet.com/report/7775302)
 
 <!-- fix_marker ends -->
