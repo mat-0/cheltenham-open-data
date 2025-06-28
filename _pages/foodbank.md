@@ -10,15 +10,14 @@ permalink: /foodbank
 <!-- summary1_marker starts -->
 ## List of needed items in Cheltenham
 
-Last updated: 2025-05-23
+Last updated: 2025-06-27
 
-- Adult Toothpaste
-- Shampoo - Ladies And Men's
-- Long Life Milk
-- Fruit Juice / Squash
-- Bars Of Soap
 - Cuppa Soups Or Tinned Soups
+- Shampoo - Ladies And Men's
+- Deodorant - Ladies And Men's
+- Fruit Juice / Squash
 - Tinned Cold Meat
+- Biscuits/ Snacks
 <!-- summary1_marker ends -->
 
 [shopping list](https://cheltenham.foodbank.org.uk/give-help/donate-food/)
