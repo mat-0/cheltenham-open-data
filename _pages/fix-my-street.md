@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Herd of bulls being kept in a field which has a public footpath running through it. They have been there for several weeks at least., 29th June :- [7782465](https://www.fixmystreet.com/report/7782465)
 - Pavement cracking over 9M, 29th June :- [7782238](https://www.fixmystreet.com/report/7782238)
 - Fridge/freezer dumped on junction of Whotethorn Drive and Bouncers Lane, 29th June :- [7782087](https://www.fixmystreet.com/report/7782087)
 - Lamp post entirely covered by vines. Light obscured in critical location by bridge, 29th June :- [7781871](https://www.fixmystreet.com/report/7781871)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -other CW6 problem, 29th June :- [7780596](https://www.fixmystreet.com/report/7780596)
 - TMC - Defects -other CW6 problem, 29th June :- [7780595](https://www.fixmystreet.com/report/7780595)
 - TMC - Defects -CW6 Potholes  problem, 29th June :- [7780594](https://www.fixmystreet.com/report/7780594)
-- TMC - Defects -other CW6 problem, 29th June :- [7780593](https://www.fixmystreet.com/report/7780593)
 
 <!-- fix_marker ends -->
