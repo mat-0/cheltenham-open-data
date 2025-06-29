@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -12,6 +12,51 @@
 <description>The latest local problems reported by users</description>
 <language>en-gb</language>
 
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 29th June</title>
+<link>https://www.fixmystreet.com/report/7780043</link>
+<description>Permanent Repair &amp;#10;FWED &amp;#10;900 x 100 x 80mm&amp;#10;Marked as X&amp;#10;Standard TM - Footway Closure (FW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7780043&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7780043</guid>
+<pubDate>Sun, 29 Jun 2025 10:12:12 +0100</pubDate>
+<georss:point>51.9392281662334 -2.05721541327015</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 29th June</title>
+<link>https://www.fixmystreet.com/report/7780042</link>
+<description>Permanent Repair &amp;#10;FW Depression &amp;#10;600 x 300 x 80mm&amp;#10;Marked as X&amp;#10;Standard TM - Footway Closure (FW6 Rutting&amp;amp;Depressions)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7780042&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7780042</guid>
+<pubDate>Sun, 29 Jun 2025 10:11:48 +0100</pubDate>
+<georss:point>51.9392602136198 -2.05721568612074</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 29th June</title>
+<link>https://www.fixmystreet.com/report/7780041</link>
+<description>ENWD&amp;#10;FWED &amp;#10;900 x 100 x 80mm&amp;#10;Marked as X&amp;#10;Standard TM - Footway Closure (FW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7780041&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7780041</guid>
+<pubDate>Sun, 29 Jun 2025 10:09:55 +0100</pubDate>
+<georss:point>51.9392256533852 -2.05721661791006</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 29th June</title>
+<link>https://www.fixmystreet.com/report/7780040</link>
+<description>ENWD&amp;#10;FW Depression &amp;#10;600 x 300 x 80mm&amp;#10;Marked as X&amp;#10;Standard TM - Footway Closure (FW6 Rutting&amp;amp;Depressions)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7780040&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7780040</guid>
+<pubDate>Sun, 29 Jun 2025 10:07:18 +0100</pubDate>
+<georss:point>51.9392573875899 -2.05721627968463</georss:point>
+</item>
+<item>
+<title>TMC - Defects -other CW6 problem, 29th June</title>
+<link>https://www.fixmystreet.com/report/7779928</link>
+<description>CW Depression &amp;#10;20000 x 1200 x 65mm&amp;#10;Marked as Number 1&amp;#10;Road Closure (CW6 Rutting&amp;amp;Depressions)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7779928&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -other CW6</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7779928</guid>
+<pubDate>Sun, 29 Jun 2025 09:52:18 +0100</pubDate>
+<georss:point>51.9335415722031 -2.0734379079861</georss:point>
+</item>
 <item>
 <title>Grass verges uncut resulting in poor visibility from joining roads, 29th June</title>
 <link>https://www.fixmystreet.com/report/7779888</link>
@@ -146,51 +191,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/7778130</guid>
 <pubDate>Sat, 28 Jun 2025 14:00:00 +0100</pubDate>
 <georss:point>51.888105 -2.12456</georss:point>
-</item>
-<item>
-<title>Willow trees overhanging public footpath and blocking streetlights., 28th June</title>
-<link>https://www.fixmystreet.com/report/7778099</link>
-<description>End of cul-de-sac adjacent to 132 Abbotswood Road. Issue has got steadily worse over the years as trees lean further. The footpath is used by families taking children to school. I have spoken to the person who I believe is responsible for the trees - he lives in a cottage in Watermead about 100 metres south. He promised to do something about it but despite a reminder, has failed to act. I would ask the relevant authority to use its powers under section 23 of the Local Government (Miscellaneous Provisions) Act 1976 to require him to do do before someone gets hurt or property is damaged. I have no powers to act on my own!&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/7778099.0.jpeg?a434fd86&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Abbotswood Road, Brockworth, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7778099&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Trees</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7778099</guid>
-<pubDate>Sat, 28 Jun 2025 13:49:09 +0100</pubDate>
-<georss:point>51.839837 -2.154897</georss:point>
-</item>
-<item>
-<title>Byfield Close central grass areas are excessively long, 28th June</title>
-<link>https://www.fixmystreet.com/report/7777740</link>
-<description>Whilst I support &amp;#39;no mow May&amp;#39;, the grass in the square (two areas) has not been cut this year. It is now excessively long. It is unsightly, a hazard when exiting our drive and of course a source of pollen to hay fever sufferers. Previously the grass was regularly cut throughout the summer by Tewkesbury Borough Council. TBC advise that this is now your responsibility. Please advise if and when you intend to maintain them.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/7777740.0.jpeg?c3998d56&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Byfield Close, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7777740&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Causing obstruction to pavement/road (Grass/verge)</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7777740</guid>
-<pubDate>Sat, 28 Jun 2025 12:13:13 +0100</pubDate>
-<georss:point>51.941222 -2.043158</georss:point>
-</item>
-<item>
-<title>The drain surround outside the IMJIN exit has collapsed again., 28th June</title>
-<link>https://www.fixmystreet.com/report/7777680</link>
-<description>The drain surround outside the IMJIN exit has collapsed again. Could it be repaired please ? Perhaps would it be worth trying to investigate the underlying structure to see why it keeps breaking down ? Many thanks !&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Innsworth Lane, Innsworth, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7777680&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7777680</guid>
-<pubDate>Sat, 28 Jun 2025 11:55:55 +0100</pubDate>
-<georss:point>51.889796 -2.197461</georss:point>
-</item>
-<item>
-<title>The drain between 45 and 51 Gretton road Winchcombe is completely blocked.it has not been cleared for so long it is now almost full of stones and debris., 28th June</title>
-<link>https://www.fixmystreet.com/report/7777678</link>
-<description>The drain is between 45 and 51 Gretton road and not outside number 51as indicated on the map.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/7777678.0.jpeg?beab7d99&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 41, Gretton Road, Winchcombe, Winchcombe&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7777678&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>The drain is blocked</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7777678</guid>
-<pubDate>Sat, 28 Jun 2025 11:55:39 +0100</pubDate>
-<georss:point>51.957561 -1.968067</georss:point>
-</item>
-<item>
-<title>Pothole in pavement. Raised causing a trip hazard, 28th June</title>
-<link>https://www.fixmystreet.com/report/7777347</link>
-<description>Entrance to alley way opposite number 4 lawn crescent&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/7777347.0.jpeg?2a43dd50&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 27, Lawn Crescent, Shurdington, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7777347&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in pavement</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7777347</guid>
-<pubDate>Sat, 28 Jun 2025 10:29:12 +0100</pubDate>
-<georss:point>51.866326 -2.115516</georss:point>
 </item>
 </channel>
 </rss>
