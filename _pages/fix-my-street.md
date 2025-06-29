@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Grass verges uncut resulting in poor visibility from joining roads, 29th June :- [7779888](https://www.fixmystreet.com/report/7779888)
 - Overgrown bushes in alleyway, 28th June :- [7779252](https://www.fixmystreet.com/report/7779252)
 - Several potholes that have been reported previously and not repaired, 28th June :- [7779218](https://www.fixmystreet.com/report/7779218)
 - M5 litter, 28th June :- [7779075](https://www.fixmystreet.com/report/7779075)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - The drain surround outside the IMJIN exit has collapsed again., 28th June :- [7777680](https://www.fixmystreet.com/report/7777680)
 - The drain between 45 and 51 Gretton road Winchcombe is completely blocked.it has not been cleared for so long it is now almost full of stones and debris., 28th June :- [7777678](https://www.fixmystreet.com/report/7777678)
 - Pothole in pavement. Raised causing a trip hazard, 28th June :- [7777347](https://www.fixmystreet.com/report/7777347)
-- Dangerous trip hazard, 28th June :- [7777284](https://www.fixmystreet.com/report/7777284)
 
 <!-- fix_marker ends -->
