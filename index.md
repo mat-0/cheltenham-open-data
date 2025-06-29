@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Sunday, 29 June 2025
 
-- The average temperature today is 24.51˚C,
-- With highs of 25.39˚C and lows of 23.3˚C,
-- It may feel like 24.64˚C with broken clouds
-- The wind speed is 2.68m/s and visibility is 10000m
-- The pressure is 1025hPa and humidity is 62%
+- The average temperature today is 25.77˚C,
+- With highs of 26.66˚C and lows of 24.41˚C,
+- It may feel like 25.89˚C with scattered clouds
+- The wind speed is 1.79m/s and visibility is 10000m
+- The pressure is 1024hPa and humidity is 57%
 - The sun will rise at 03:51 and set at 20:31
 
 <!-- weather_marker ends -->
