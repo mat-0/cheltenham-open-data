@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pavement heave , New Club have repaired wall but cannot complete refurbishment until,pavement repaired, 29th June :- [7780336](https://www.fixmystreet.com/report/7780336)
+- TMC - Defects -CW6 Potholes  problem, 29th June :- [7780195](https://www.fixmystreet.com/report/7780195)
 - TMC - Defects - Other FW6  Surface problem, 29th June :- [7780043](https://www.fixmystreet.com/report/7780043)
 - TMC - Defects - Other FW6  Surface problem, 29th June :- [7780042](https://www.fixmystreet.com/report/7780042)
 - TMC - Defects - Other FW6  Surface problem, 29th June :- [7780041](https://www.fixmystreet.com/report/7780041)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Large banner on side of road by field, 28th June :- [7778391](https://www.fixmystreet.com/report/7778391)
 - Vegitation growing over pootpath, 28th June :- [7778374](https://www.fixmystreet.com/report/7778374)
 - Another Ceilidh poster attached to telegraph pole, 28th June :- [7778234](https://www.fixmystreet.com/report/7778234)
-- Huge banner attached to the construction railings of new houses/coop, 28th June :- [7778220](https://www.fixmystreet.com/report/7778220)
-- Abusive graffiti, 28th June :- [7778130](https://www.fixmystreet.com/report/7778130)
 
 <!-- fix_marker ends -->
