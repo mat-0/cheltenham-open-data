@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Lifeboat station sees record number of donations ([2 hours ago](https://www.bbc.com/news/articles/cn81zed7x34o))
-- Green-fingered pupils turn £5 veg loan into profit ([12 hours ago](https://www.bbc.com/news/articles/cj3rnep1lr2o))
-- 'Glastonbury helicopters', 'The Wave' and 'scooter raid' ([12 hours ago](https://www.bbc.com/news/articles/cy8kek9m1y4o))
+- Lifeboat station sees record number of donations ([3 hours ago](https://www.bbc.com/news/articles/cn81zed7x34o))
+- Green-fingered pupils turn £5 veg loan into profit ([13 hours ago](https://www.bbc.com/news/articles/cj3rnep1lr2o))
+- 'Glastonbury helicopters', 'The Wave' and 'scooter raid' ([13 hours ago](https://www.bbc.com/news/articles/cy8kek9m1y4o))
 - Removal of 'eyesore' hoarding at landmark welcomed ([1 days ago](https://www.bbc.com/news/articles/cvg4qxpgzzyo))
 - New quarry planned as residents express dismay ([1 days ago](https://www.bbc.com/news/articles/cx2l7x40e0jo))
 - Views sought on 'outdated' tower block development ([1 days ago](https://www.bbc.com/news/articles/c78nj81ppe5o))
@@ -28,7 +28,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Helping wildflowers bloom across Cheltenham ([2 days ago](https://www.cheltenham.gov.uk/news/article/3025/helping_wildflowers_bloom_across_cheltenham))
 - 'We're having to adapt to survive' say pub owners ([2 days ago](https://www.bbc.com/news/articles/c74z3yp3p0xo))
 - Inclusive bike charity expands to cope with demand ([2 days ago](https://www.bbc.com/news/articles/ceq79pjzq3no))
-- Gloucestershire Airport sale backed by councils ([2 days ago](https://gloucesternewscentre.co.uk/gloucestershire-airport-sale-backed-by-councils/))
+- Gloucestershire Airport sale backed by councils ([3 days ago](https://gloucesternewscentre.co.uk/gloucestershire-airport-sale-backed-by-councils/))
 - Housing targets putting councils under pressure ([3 days ago](https://www.bbc.com/news/articles/c3en9q19k03o))
 - Succesful crime-busting scheme extended in Cheltenham ([3 days ago](https://gloucesternewscentre.co.uk/succesful-crime-busting-scheme-extended-in-cheltenham/))
 - Gloucester man found guilty after promises to customers go up in smoke ([3 days ago](https://gloucesternewscentre.co.uk/gloucester-man-found-guilty-after-promises-to-customers-go-up-in-smoke/))
