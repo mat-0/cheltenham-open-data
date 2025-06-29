@@ -8,13 +8,13 @@ seo: Menu
 ![Logo](/images/logo.jpg){:width="832px"}
 
 <!-- weather_marker starts -->
-## On Saturday, 28 June 2025
+## On Sunday, 29 June 2025
 
-- The average temperature today is 18.25˚C,
+- The average temperature today is 18.31˚C,
 - With highs of 18.31˚C and lows of 18.16˚C,
-- It may feel like 18.25˚C with few clouds
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1025hPa and humidity is 81%
+- It may feel like 18.29˚C with overcast clouds
+- The wind speed is 2.24m/s and visibility is 10000m
+- The pressure is 1025hPa and humidity is 80%
 - The sun will rise at 03:51 and set at 20:31
 
 <!-- weather_marker ends -->
