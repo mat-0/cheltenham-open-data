@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Lifeboat station sees record number of donations ([16 minutes ago](https://www.bbc.com/news/articles/cn81zed7x34o))
-- Green-fingered pupils turn £5 veg loan into profit ([10 hours ago](https://www.bbc.com/news/articles/cj3rnep1lr2o))
-- 'Glastonbury helicopters', 'The Wave' and 'scooter raid' ([10 hours ago](https://www.bbc.com/news/articles/cy8kek9m1y4o))
+- Lifeboat station sees record number of donations ([1 hours ago](https://www.bbc.com/news/articles/cn81zed7x34o))
+- Green-fingered pupils turn £5 veg loan into profit ([11 hours ago](https://www.bbc.com/news/articles/cj3rnep1lr2o))
+- 'Glastonbury helicopters', 'The Wave' and 'scooter raid' ([11 hours ago](https://www.bbc.com/news/articles/cy8kek9m1y4o))
 - Removal of 'eyesore' hoarding at landmark welcomed ([1 days ago](https://www.bbc.com/news/articles/cvg4qxpgzzyo))
 - New quarry planned as residents express dismay ([1 days ago](https://www.bbc.com/news/articles/cx2l7x40e0jo))
 - Views sought on 'outdated' tower block development ([1 days ago](https://www.bbc.com/news/articles/c78nj81ppe5o))
@@ -36,7 +36,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Two charged after dead boar found ([3 days ago](https://www.bbc.com/news/articles/cwykjzgjyrno))
 - Successful prosecution for neglected listed building ([3 days ago](https://gloucesternewscentre.co.uk/successful-prosecution-for-neglected-listed-building/))
 - Man arrested after break-in at Cheltenham shop ([3 days ago](https://gloucesternewscentre.co.uk/man-arrested-after-break-in-at-cheltenham-shop/))
-- Fears buyer will ‘cash in’ on Gloucestershire Airport’s ‘development value’ ([3 days ago](https://gloucesternewscentre.co.uk/fears-buyer-will-cash-in-on-gloucestershire-airports-development-value/))
+- Fears buyer will ‘cash in’ on Gloucestershire Airport’s ‘development value’ ([4 days ago](https://gloucesternewscentre.co.uk/fears-buyer-will-cash-in-on-gloucestershire-airports-development-value/))
 - Successful prosecution for neglected listed building ([4 days ago](https://www.cheltenham.gov.uk/news/article/3023/successful_prosecution_for_neglected_listed_building))
 - The Big Cases ([5 days ago](https://www.bbc.co.uk/iplayer/episode/m001z7w2))
 - Gloucestershire maternity services under government review ([5 days ago](https://www.bbc.co.uk/sounds/play/p0ll39jx))

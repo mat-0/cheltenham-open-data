@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Lamp post entirely covered by vines. Light obscured in critical location by bridge, 29th June :- [7781871](https://www.fixmystreet.com/report/7781871)
 - Damage to the surface, 29th June :- [7781291](https://www.fixmystreet.com/report/7781291)
 - TMC - Defects -CW6 Potholes  problem, 29th June :- [7780914](https://www.fixmystreet.com/report/7780914)
 - TMC - Defects -CW6 Potholes  problem, 29th June :- [7780913](https://www.fixmystreet.com/report/7780913)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -other CW6 problem, 29th June :- [7780593](https://www.fixmystreet.com/report/7780593)
 - Gas or water shaft with no cover, 29th June :- [7780449](https://www.fixmystreet.com/report/7780449)
 - TMC - Defects - Vegetation problem, 29th June :- [7780459](https://www.fixmystreet.com/report/7780459)
-- TMC - Defects - Vegetation problem, 29th June :- [7780458](https://www.fixmystreet.com/report/7780458)
 
 <!-- fix_marker ends -->
