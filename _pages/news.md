@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Removal of 'eyesore' hoarding at landmark welcomed ([8 hours ago](https://www.bbc.com/news/articles/cvg4qxpgzzyo))
-- New quarry planned as residents express dismay ([10 hours ago](https://www.bbc.com/news/articles/cx2l7x40e0jo))
-- Views sought on 'outdated' tower block development ([11 hours ago](https://www.bbc.com/news/articles/c78nj81ppe5o))
-- Sports hub has 'dramatic effect' on young people ([18 hours ago](https://www.bbc.com/news/articles/cvg8pxj550eo))
-- Gloucestershire in Pics: River blessing and lavender ([18 hours ago](https://www.bbc.com/news/articles/c2k158nynz5o))
+- Removal of 'eyesore' hoarding at landmark welcomed ([9 hours ago](https://www.bbc.com/news/articles/cvg4qxpgzzyo))
+- New quarry planned as residents express dismay ([12 hours ago](https://www.bbc.com/news/articles/cx2l7x40e0jo))
+- Views sought on 'outdated' tower block development ([12 hours ago](https://www.bbc.com/news/articles/c78nj81ppe5o))
+- Sports hub has 'dramatic effect' on young people ([20 hours ago](https://www.bbc.com/news/articles/cvg8pxj550eo))
+- Gloucestershire in Pics: River blessing and lavender ([20 hours ago](https://www.bbc.com/news/articles/c2k158nynz5o))
 - Hotel goes back in time to mark 1970s heyday ([1 days ago](https://www.bbc.com/news/articles/c335z6yzpmro))
 - Paedophile sexually assaulted child in church ([1 days ago](https://www.bbc.com/news/articles/czxe4e2ppw2o))
 - Deal agreed to sell airport for more than £25m ([1 days ago](https://www.bbc.com/news/articles/cdx5g5xqkv1o))
