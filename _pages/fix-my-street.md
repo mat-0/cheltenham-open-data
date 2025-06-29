@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Other FW6  Surface problem, 29th June :- [7780043](https://www.fixmystreet.com/report/7780043)
+- TMC - Defects - Other FW6  Surface problem, 29th June :- [7780042](https://www.fixmystreet.com/report/7780042)
+- TMC - Defects - Other FW6  Surface problem, 29th June :- [7780041](https://www.fixmystreet.com/report/7780041)
+- TMC - Defects - Other FW6  Surface problem, 29th June :- [7780040](https://www.fixmystreet.com/report/7780040)
+- TMC - Defects -other CW6 problem, 29th June :- [7779928](https://www.fixmystreet.com/report/7779928)
 - Grass verges uncut resulting in poor visibility from joining roads, 29th June :- [7779888](https://www.fixmystreet.com/report/7779888)
 - Overgrown bushes in alleyway, 28th June :- [7779252](https://www.fixmystreet.com/report/7779252)
 - Several potholes that have been reported previously and not repaired, 28th June :- [7779218](https://www.fixmystreet.com/report/7779218)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Another Ceilidh poster attached to telegraph pole, 28th June :- [7778234](https://www.fixmystreet.com/report/7778234)
 - Huge banner attached to the construction railings of new houses/coop, 28th June :- [7778220](https://www.fixmystreet.com/report/7778220)
 - Abusive graffiti, 28th June :- [7778130](https://www.fixmystreet.com/report/7778130)
-- Willow trees overhanging public footpath and blocking streetlights., 28th June :- [7778099](https://www.fixmystreet.com/report/7778099)
-- Byfield Close central grass areas are excessively long, 28th June :- [7777740](https://www.fixmystreet.com/report/7777740)
-- The drain surround outside the IMJIN exit has collapsed again., 28th June :- [7777680](https://www.fixmystreet.com/report/7777680)
-- The drain between 45 and 51 Gretton road Winchcombe is completely blocked.it has not been cleared for so long it is now almost full of stones and debris., 28th June :- [7777678](https://www.fixmystreet.com/report/7777678)
-- Pothole in pavement. Raised causing a trip hazard, 28th June :- [7777347](https://www.fixmystreet.com/report/7777347)
 
 <!-- fix_marker ends -->
