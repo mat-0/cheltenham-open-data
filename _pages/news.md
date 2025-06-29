@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Lifeboat station sees record number of donations ([4 hours ago](https://www.bbc.com/news/articles/cn81zed7x34o))
-- Green-fingered pupils turn £5 veg loan into profit ([14 hours ago](https://www.bbc.com/news/articles/cj3rnep1lr2o))
-- 'Glastonbury helicopters', 'The Wave' and 'scooter raid' ([14 hours ago](https://www.bbc.com/news/articles/cy8kek9m1y4o))
+- Lifeboat station sees record number of donations ([5 hours ago](https://www.bbc.com/news/articles/cn81zed7x34o))
+- Green-fingered pupils turn £5 veg loan into profit ([15 hours ago](https://www.bbc.com/news/articles/cj3rnep1lr2o))
+- 'Glastonbury helicopters', 'The Wave' and 'scooter raid' ([15 hours ago](https://www.bbc.com/news/articles/cy8kek9m1y4o))
 - Removal of 'eyesore' hoarding at landmark welcomed ([1 days ago](https://www.bbc.com/news/articles/cvg4qxpgzzyo))
 - New quarry planned as residents express dismay ([1 days ago](https://www.bbc.com/news/articles/cx2l7x40e0jo))
 - Views sought on 'outdated' tower block development ([1 days ago](https://www.bbc.com/news/articles/c78nj81ppe5o))
