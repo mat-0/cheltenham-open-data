@@ -9,7 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- A pothole in road problem, 30th June :- [7786870](https://www.fixmystreet.com/report/7786870)
 - Blocking a Public Highway, 30th June :- [7786628](https://www.fixmystreet.com/report/7786628)
+- TMC - Defects - Covers, Gratings & Frames problem, 30th June :- [7786871](https://www.fixmystreet.com/report/7786871)
 - TMC - Defects - Kerbs and Channels problem, 30th June :- [7786481](https://www.fixmystreet.com/report/7786481)
 - TMC - Defects - Kerbs and Channels problem, 30th June :- [7786480](https://www.fixmystreet.com/report/7786480)
 - TMC - Defects - Road Markings problem, 30th June :- [7786479](https://www.fixmystreet.com/report/7786479)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Flyposting, 30th June :- [7785042](https://www.fixmystreet.com/report/7785042)
 - Signs left after road closure, 30th June :- [7785040](https://www.fixmystreet.com/report/7785040)
 - Pot hole on left hand side of the road heading towards Kingsditch, 30th June :- [7784964](https://www.fixmystreet.com/report/7784964)
-- Two grass verges on Trafalgar Drive near Tallis Road., 30th June :- [7784874](https://www.fixmystreet.com/report/7784874)
-- Dog mess on pavement again outside No 33 Westbury Rd, 30th June :- [7784863](https://www.fixmystreet.com/report/7784863)
 
 <!-- fix_marker ends -->
