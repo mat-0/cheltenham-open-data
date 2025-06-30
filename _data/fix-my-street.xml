@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -12,6 +12,33 @@
 <description>The latest local problems reported by users</description>
 <language>en-gb</language>
 
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 30th June</title>
+<link>https://www.fixmystreet.com/report/7782793</link>
+<description>CWPH &amp;#10;1000 X 900 X 40MM &amp;#10;MARKED AS NUMBER 2&amp;#10;TEMPORARY ROAD CLOSURE (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7782793&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7782793</guid>
+<pubDate>Mon, 30 Jun 2025 05:28:47 +0100</pubDate>
+<georss:point>51.8888385 -2.08107309999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 30th June</title>
+<link>https://www.fixmystreet.com/report/7782792</link>
+<description>CWPH &amp;#10;300 X 300 X 40MM &amp;#10;MARKED AS NUMBER TEMPORARY &amp;#10;TEMPORARY ROAD CLOSURE (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7782792&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7782792</guid>
+<pubDate>Mon, 30 Jun 2025 05:28:06 +0100</pubDate>
+<georss:point>51.8888428 -2.0810791</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Road Markings problem, 30th June</title>
+<link>https://www.fixmystreet.com/report/7782791</link>
+<description>FADED ROAD MARKINGS PLEASE REPAINT &amp;#10;7 DOUBLE DOTS &amp;#10;1 X TRIANGLE &amp;#10;STOP AND GO (Faded Road Markings)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7782791&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Road Markings</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7782791</guid>
+<pubDate>Mon, 30 Jun 2025 05:24:01 +0100</pubDate>
+<georss:point>51.8895418 -2.0811988</georss:point>
+</item>
 <item>
 <title>The speed bump on Jasmine Way near Morrisons (Cheltenham) is poorly maintained and potentially non-compliant. It has visible surface cracks, loose or misaligned block paving, worn road markings, and a steep ramp gradient. These issues make it unsafe and can damage vehicles even at low speeds. The markings are barely visible, and the structure is degrading — it poses a hazard to drivers and may already have caused vehicle damage., 29th June</title>
 <link>https://www.fixmystreet.com/report/7782643</link>
@@ -164,33 +191,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/7780598</guid>
 <pubDate>Sun, 29 Jun 2025 12:30:21 +0100</pubDate>
 <georss:point>51.9722936183505 -2.05111044496012</georss:point>
-</item>
-<item>
-<title>TMC - Defects -other CW6 problem, 29th June</title>
-<link>https://www.fixmystreet.com/report/7780597</link>
-<description>CW Depression &amp;#10;22000 x 1800 x 65mm&amp;#10;Marked as Number 4&amp;#10;Road Closure (CW6 Rutting&amp;amp;Depressions)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7780597&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -other CW6</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7780597</guid>
-<pubDate>Sun, 29 Jun 2025 12:22:50 +0100</pubDate>
-<georss:point>51.9725389542707 -2.05034787484947</georss:point>
-</item>
-<item>
-<title>TMC - Defects -other CW6 problem, 29th June</title>
-<link>https://www.fixmystreet.com/report/7780596</link>
-<description>CW Depression &amp;#10;27000 x 1800 x 65mm&amp;#10;Marked as Number 3&amp;#10;Road Closure (CW6 Rutting&amp;amp;Depressions)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7780596&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -other CW6</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7780596</guid>
-<pubDate>Sun, 29 Jun 2025 12:14:01 +0100</pubDate>
-<georss:point>51.9725576437799 -2.05042825609324</georss:point>
-</item>
-<item>
-<title>TMC - Defects -other CW6 problem, 29th June</title>
-<link>https://www.fixmystreet.com/report/7780595</link>
-<description>CW Depression &amp;#10;13000 x 1800 x 60mm&amp;#10;Marked as Number 2&amp;#10;Road Closure (CW6 Rutting&amp;amp;Depressions)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7780595&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -other CW6</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7780595</guid>
-<pubDate>Sun, 29 Jun 2025 12:07:02 +0100</pubDate>
-<georss:point>51.972543281411 -2.05023714465007</georss:point>
 </item>
 </channel>
 </rss>
