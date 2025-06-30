@@ -9,7 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Residual stump trip hazard, 30th June :- [7786252](https://www.fixmystreet.com/report/7786252)
+- Blocking visibility on road/junction (Grass/verge) problem, 30th June :- [7786258](https://www.fixmystreet.com/report/7786258)
+- TMC - Defects - Vegetation problem, 30th June :- [7786067](https://www.fixmystreet.com/report/7786067)
+- TMC - Defects -CW6 Potholes  problem, 30th June :- [7786055](https://www.fixmystreet.com/report/7786055)
 - Large scale pruning has taken place on the public footpath in Prestbury from St Mary's School to the Noverton estate outside 6 Honeysuckle Close off Whitethorn Drive. It is claimed by the contractor that this has been taken place in the garden of No 6 but it is quite clear that the trees are outside the garden and by the edge of the public footpath. Would the house owner or the contractor have had to get a permit this work and is it possible to check if this work was legal?, 30th June :- [7785719](https://www.fixmystreet.com/report/7785719)
+- TMC - Defects - Other FW6  Surface problem, 30th June :- [7786049](https://www.fixmystreet.com/report/7786049)
+- TMC - Defects - Other FW6  Surface problem, 30th June :- [7786047](https://www.fixmystreet.com/report/7786047)
 - Abandoned signs, 30th June :- [7785318](https://www.fixmystreet.com/report/7785318)
 - Tree is damaged problem, 30th June :- [7785349](https://www.fixmystreet.com/report/7785349)
 - Flyposting, 30th June :- [7785061](https://www.fixmystreet.com/report/7785061)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Bin in playground, 30th June :- [7783787](https://www.fixmystreet.com/report/7783787)
 - Weed killing needed Brunel Drive and Castle Close Gotherington, 30th June :- [7783724](https://www.fixmystreet.com/report/7783724)
 - There is a large amount of rubbish right across the carriageway of the roundabout at the onslip and offslip southbound of junction 11A. Could pose a danger to traffic, 30th June :- [7783661](https://www.fixmystreet.com/report/7783661)
-- TMC - Defects - Kerbs and Channels problem, 30th June :- [7783637](https://www.fixmystreet.com/report/7783637)
-- TMC - Defects -CW10 Potholes problem, 30th June :- [7783428](https://www.fixmystreet.com/report/7783428)
-- TMC - Defects -other CW10 problem, 30th June :- [7783426](https://www.fixmystreet.com/report/7783426)
-- TMC - Defects -CW10 Potholes problem, 30th June :- [7783427](https://www.fixmystreet.com/report/7783427)
-- TMC - Defects -CW6 Potholes  problem, 30th June :- [7783240](https://www.fixmystreet.com/report/7783240)
-- TMC - Defects -CW6 Potholes  problem, 30th June :- [7783235](https://www.fixmystreet.com/report/7783235)
 
 <!-- fix_marker ends -->
