@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Broken glass on cycle path, 30th June :- [7788494](https://www.fixmystreet.com/report/7788494)
+- Green space not been cut for months, waist high now, 30th June :- [7788491](https://www.fixmystreet.com/report/7788491)
 - Broken bin and suitcase on street, 30th June :- [7788238](https://www.fixmystreet.com/report/7788238)
 - Need lights, 30th June :- [7788187](https://www.fixmystreet.com/report/7788187)
 - Flytipping, 30th June :- [7787683](https://www.fixmystreet.com/report/7787683)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 30th June :- [7786055](https://www.fixmystreet.com/report/7786055)
 - Large scale pruning has taken place on the public footpath in Prestbury from St Mary's School to the Noverton estate outside 6 Honeysuckle Close off Whitethorn Drive. It is claimed by the contractor that this has been taken place in the garden of No 6 but it is quite clear that the trees are outside the garden and by the edge of the public footpath. Would the house owner or the contractor have had to get a permit this work and is it possible to check if this work was legal?, 30th June :- [7785719](https://www.fixmystreet.com/report/7785719)
 - TMC - Defects - Other FW6  Surface problem, 30th June :- [7786049](https://www.fixmystreet.com/report/7786049)
-- TMC - Defects - Other FW6  Surface problem, 30th June :- [7786047](https://www.fixmystreet.com/report/7786047)
-- Abandoned signs, 30th June :- [7785318](https://www.fixmystreet.com/report/7785318)
 
 <!-- fix_marker ends -->
