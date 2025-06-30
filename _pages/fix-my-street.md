@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipping, 30th June :- [7787683](https://www.fixmystreet.com/report/7787683)
 - Weeds and grass growing in the gutters throughout the whole area. Unsightly and not being maintained., 30th June :- [7787289](https://www.fixmystreet.com/report/7787289)
 - TMC - Defects - Vegetation problem, 30th June :- [7787233](https://www.fixmystreet.com/report/7787233)
 - A pothole in road problem, 30th June :- [7786870](https://www.fixmystreet.com/report/7786870)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Abandoned signs, 30th June :- [7785318](https://www.fixmystreet.com/report/7785318)
 - Tree is damaged problem, 30th June :- [7785349](https://www.fixmystreet.com/report/7785349)
 - Flyposting, 30th June :- [7785061](https://www.fixmystreet.com/report/7785061)
-- Flyposting, 30th June :- [7785042](https://www.fixmystreet.com/report/7785042)
 
 <!-- fix_marker ends -->
