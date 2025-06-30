@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- 'Glastonbury controversy' and 'bikers at prom' ([14 minutes ago](https://www.bbc.com/news/articles/ce8zz12ldqeo))
-- ‘Flying club’ airport which ‘doesn’t take B-52s’ ‘should be used for housing’ ([1 hours ago](https://gloucesternewscentre.co.uk/flying-club-airport-which-doesnt-take-b-52s-should-be-used-for-housing/))
-- Businesses 'put off' by suggestion of park charges ([5 hours ago](https://www.bbc.com/news/articles/c62gz7y2d5zo))
-- Coming up this week: Paintings, clocks and balloons ([5 hours ago](https://www.bbc.com/news/articles/c36x778377eo))
-- 'I can't live in my own country with my partner' ([5 hours ago](https://www.bbc.com/news/articles/czrynlevnpgo))
-- Lifeboat station sees record number of donations ([18 hours ago](https://www.bbc.com/news/articles/cn81zed7x34o))
+- 'Glastonbury controversy' and 'bikers at prom' ([1 hours ago](https://www.bbc.com/news/articles/ce8zz12ldqeo))
+- ‘Flying club’ airport which ‘doesn’t take B-52s’ ‘should be used for housing’ ([2 hours ago](https://gloucesternewscentre.co.uk/flying-club-airport-which-doesnt-take-b-52s-should-be-used-for-housing/))
+- Businesses 'put off' by suggestion of park charges ([6 hours ago](https://www.bbc.com/news/articles/c62gz7y2d5zo))
+- Coming up this week: Paintings, clocks and balloons ([6 hours ago](https://www.bbc.com/news/articles/c36x778377eo))
+- 'I can't live in my own country with my partner' ([6 hours ago](https://www.bbc.com/news/articles/czrynlevnpgo))
+- Lifeboat station sees record number of donations ([19 hours ago](https://www.bbc.com/news/articles/cn81zed7x34o))
 - Green-fingered pupils turn £5 veg loan into profit ([1 days ago](https://www.bbc.com/news/articles/cj3rnep1lr2o))
 - 'Glastonbury helicopters', 'The Wave' and 'scooter raid' ([1 days ago](https://www.bbc.com/news/articles/cy8kek9m1y4o))
 - Removal of 'eyesore' hoarding at landmark welcomed ([1 days ago](https://www.bbc.com/news/articles/cvg4qxpgzzyo))

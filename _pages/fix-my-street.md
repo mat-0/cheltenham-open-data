@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large scale pruning has taken place on the public footpath in Prestbury from St Mary's School to the Noverton estate outside 6 Honeysuckle Close off Whitethorn Drive. It is claimed by the contractor that this has been taken place in the garden of No 6 but it is quite clear that the trees are outside the garden and by the edge of the public footpath. Would the house owner or the contractor have had to get a permit this work and is it possible to check if this work was legal?, 30th June :- [7785719](https://www.fixmystreet.com/report/7785719)
+- Abandoned signs, 30th June :- [7785318](https://www.fixmystreet.com/report/7785318)
+- Tree is damaged problem, 30th June :- [7785349](https://www.fixmystreet.com/report/7785349)
 - Flyposting, 30th June :- [7785061](https://www.fixmystreet.com/report/7785061)
 - Flyposting, 30th June :- [7785042](https://www.fixmystreet.com/report/7785042)
 - Signs left after road closure, 30th June :- [7785040](https://www.fixmystreet.com/report/7785040)
@@ -24,10 +27,7 @@ permalink: /fix-my-street
 - TMC - Defects -CW10 Potholes problem, 30th June :- [7783428](https://www.fixmystreet.com/report/7783428)
 - TMC - Defects -other CW10 problem, 30th June :- [7783426](https://www.fixmystreet.com/report/7783426)
 - TMC - Defects -CW10 Potholes problem, 30th June :- [7783427](https://www.fixmystreet.com/report/7783427)
-- TMC - Defects - Other FW6  Surface problem, 30th June :- [7783236](https://www.fixmystreet.com/report/7783236)
 - TMC - Defects -CW6 Potholes  problem, 30th June :- [7783240](https://www.fixmystreet.com/report/7783240)
-- TMC - Defects -CW6 Potholes  problem, 30th June :- [7783239](https://www.fixmystreet.com/report/7783239)
-- TMC - Defects - Other FW6  Surface problem, 30th June :- [7783247](https://www.fixmystreet.com/report/7783247)
-- TMC - Defects -CW6 Potholes  problem, 30th June :- [7783248](https://www.fixmystreet.com/report/7783248)
+- TMC - Defects -CW6 Potholes  problem, 30th June :- [7783235](https://www.fixmystreet.com/report/7783235)
 
 <!-- fix_marker ends -->
