@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Broken bin and suitcase on street, 30th June :- [7788238](https://www.fixmystreet.com/report/7788238)
+- Need lights, 30th June :- [7788187](https://www.fixmystreet.com/report/7788187)
 - Flytipping, 30th June :- [7787683](https://www.fixmystreet.com/report/7787683)
 - Weeds and grass growing in the gutters throughout the whole area. Unsightly and not being maintained., 30th June :- [7787289](https://www.fixmystreet.com/report/7787289)
 - TMC - Defects - Vegetation problem, 30th June :- [7787233](https://www.fixmystreet.com/report/7787233)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 30th June :- [7786049](https://www.fixmystreet.com/report/7786049)
 - TMC - Defects - Other FW6  Surface problem, 30th June :- [7786047](https://www.fixmystreet.com/report/7786047)
 - Abandoned signs, 30th June :- [7785318](https://www.fixmystreet.com/report/7785318)
-- Tree is damaged problem, 30th June :- [7785349](https://www.fixmystreet.com/report/7785349)
-- Flyposting, 30th June :- [7785061](https://www.fixmystreet.com/report/7785061)
 
 <!-- fix_marker ends -->
