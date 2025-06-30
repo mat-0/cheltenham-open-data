@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Blocking a Public Highway, 30th June :- [7786628](https://www.fixmystreet.com/report/7786628)
+- TMC - Defects - Kerbs and Channels problem, 30th June :- [7786481](https://www.fixmystreet.com/report/7786481)
+- TMC - Defects - Kerbs and Channels problem, 30th June :- [7786480](https://www.fixmystreet.com/report/7786480)
+- TMC - Defects - Road Markings problem, 30th June :- [7786479](https://www.fixmystreet.com/report/7786479)
+- TMC - Defects - Road Markings problem, 30th June :- [7786478](https://www.fixmystreet.com/report/7786478)
 - Residual stump trip hazard, 30th June :- [7786252](https://www.fixmystreet.com/report/7786252)
 - Blocking visibility on road/junction (Grass/verge) problem, 30th June :- [7786258](https://www.fixmystreet.com/report/7786258)
 - TMC - Defects - Vegetation problem, 30th June :- [7786067](https://www.fixmystreet.com/report/7786067)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Pot hole on left hand side of the road heading towards Kingsditch, 30th June :- [7784964](https://www.fixmystreet.com/report/7784964)
 - Two grass verges on Trafalgar Drive near Tallis Road., 30th June :- [7784874](https://www.fixmystreet.com/report/7784874)
 - Dog mess on pavement again outside No 33 Westbury Rd, 30th June :- [7784863](https://www.fixmystreet.com/report/7784863)
-- Tree is damaged problem, 30th June :- [7784245](https://www.fixmystreet.com/report/7784245)
-- Thorny growth extending into road is dangerous to cyclists and could damage paintwork on cars, 30th June :- [7784045](https://www.fixmystreet.com/report/7784045)
-- Bin in playground, 30th June :- [7783787](https://www.fixmystreet.com/report/7783787)
-- Weed killing needed Brunel Drive and Castle Close Gotherington, 30th June :- [7783724](https://www.fixmystreet.com/report/7783724)
-- There is a large amount of rubbish right across the carriageway of the roundabout at the onslip and offslip southbound of junction 11A. Could pose a danger to traffic, 30th June :- [7783661](https://www.fixmystreet.com/report/7783661)
 
 <!-- fix_marker ends -->
