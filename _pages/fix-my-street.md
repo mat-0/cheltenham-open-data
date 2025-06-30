@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects -CW10 Potholes problem, 30th June :- [7782793](https://www.fixmystreet.com/report/7782793)
+- TMC - Defects -CW10 Potholes problem, 30th June :- [7782792](https://www.fixmystreet.com/report/7782792)
+- TMC - Defects - Road Markings problem, 30th June :- [7782791](https://www.fixmystreet.com/report/7782791)
 - The speed bump on Jasmine Way near Morrisons (Cheltenham) is poorly maintained and potentially non-compliant. It has visible surface cracks, loose or misaligned block paving, worn road markings, and a steep ramp gradient. These issues make it unsafe and can damage vehicles even at low speeds. The markings are barely visible, and the structure is degrading — it poses a hazard to drivers and may already have caused vehicle damage., 29th June :- [7782643](https://www.fixmystreet.com/report/7782643)
 - Herd of bulls being kept in a field which has a public footpath running through it. They have been there for several weeks at least., 29th June :- [7782465](https://www.fixmystreet.com/report/7782465)
 - Pavement cracking over 9M, 29th June :- [7782238](https://www.fixmystreet.com/report/7782238)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -other CW6 problem, 29th June :- [7780694](https://www.fixmystreet.com/report/7780694)
 - TMC - Defects -other CW6 problem, 29th June :- [7780693](https://www.fixmystreet.com/report/7780693)
 - TMC - Defects -other CW6 problem, 29th June :- [7780598](https://www.fixmystreet.com/report/7780598)
-- TMC - Defects -other CW6 problem, 29th June :- [7780597](https://www.fixmystreet.com/report/7780597)
-- TMC - Defects -other CW6 problem, 29th June :- [7780596](https://www.fixmystreet.com/report/7780596)
-- TMC - Defects -other CW6 problem, 29th June :- [7780595](https://www.fixmystreet.com/report/7780595)
 
 <!-- fix_marker ends -->

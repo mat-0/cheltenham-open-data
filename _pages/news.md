@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Lifeboat station sees record number of donations ([11 hours ago](https://www.bbc.com/news/articles/cn81zed7x34o))
-- Green-fingered pupils turn £5 veg loan into profit ([21 hours ago](https://www.bbc.com/news/articles/cj3rnep1lr2o))
-- 'Glastonbury helicopters', 'The Wave' and 'scooter raid' ([21 hours ago](https://www.bbc.com/news/articles/cy8kek9m1y4o))
+- Lifeboat station sees record number of donations ([12 hours ago](https://www.bbc.com/news/articles/cn81zed7x34o))
+- Green-fingered pupils turn £5 veg loan into profit ([22 hours ago](https://www.bbc.com/news/articles/cj3rnep1lr2o))
+- 'Glastonbury helicopters', 'The Wave' and 'scooter raid' ([22 hours ago](https://www.bbc.com/news/articles/cy8kek9m1y4o))
 - Removal of 'eyesore' hoarding at landmark welcomed ([1 days ago](https://www.bbc.com/news/articles/cvg4qxpgzzyo))
 - New quarry planned as residents express dismay ([1 days ago](https://www.bbc.com/news/articles/cx2l7x40e0jo))
 - Views sought on 'outdated' tower block development ([1 days ago](https://www.bbc.com/news/articles/c78nj81ppe5o))
@@ -48,7 +48,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Charlies Stores to create 50 new jobs in Cheltenham ([10 days ago](https://gloucesternewscentre.co.uk/charlies-stores-to-create-50-new-jobs-in-cheltenham/))
 - Ten 100-tonne beams lifted for UK’s largest eco-bridge ([10 days ago](https://www.bbc.co.uk/sounds/play/p0lk57bp))
 - Condition of rural county roads to be checked by AI camera system ([10 days ago](https://gloucesternewscentre.co.uk/condition-of-rural-county-roads-to-be-checked-by-ai-camera-system/))
-- Joint statement with Gloucester City Council: Preferred bidder for Gloucestershire Airport to deliver soaring potential for economic benefit to region ([11 days ago](https://www.cheltenham.gov.uk/news/article/3021/joint_statement_with_gloucester_city_council_preferred_bidder_for_gloucestershire_airport_to_deliver_soaring_potential_for_economic_benefit_to_region))
+- Joint statement with Gloucester City Council: Preferred bidder for Gloucestershire Airport to deliver soaring potential for economic benefit to region ([12 days ago](https://www.cheltenham.gov.uk/news/article/3021/joint_statement_with_gloucester_city_council_preferred_bidder_for_gloucestershire_airport_to_deliver_soaring_potential_for_economic_benefit_to_region))
 - Scene guard in place overnight after report two men assaulted a man in Cheltenham ([13 days ago](https://gloucesternewscentre.co.uk/scene-guard-in-place-overnight-after-report-two-men-assaulted-a-man-in-cheltenham/))
 - Man sentenced for illegal tobacco sales ([13 days ago](https://gloucesternewscentre.co.uk/man-sentenced-for-illegal-tobacco-sales/))
 - Petersfield Community and Sports Hub set to strengthen community pride ([16 days ago](https://gloucesternewscentre.co.uk/petersfield-community-and-sports-hub-set-to-strengthen-community-pride/))
