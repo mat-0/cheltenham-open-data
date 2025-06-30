@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Monday, 30 June 2025
 
-- The average temperature today is 22.31˚C,
-- With highs of 22.31˚C and lows of 22.31˚C,
-- It may feel like 22.55˚C with scattered clouds
-- The wind speed is 2.63m/s and visibility is 10000m
-- The pressure is 1014hPa and humidity is 75%
+- The average temperature today is 21.53˚C,
+- With highs of 21.53˚C and lows of 21.53˚C,
+- It may feel like 21.78˚C with scattered clouds
+- The wind speed is 1.84m/s and visibility is 10000m
+- The pressure is 1014hPa and humidity is 78%
 - The sun will rise at 03:52 and set at 20:31
 
 <!-- weather_marker ends -->
