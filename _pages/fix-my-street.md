@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Weeds and grass growing in the gutters throughout the whole area. Unsightly and not being maintained., 30th June :- [7787289](https://www.fixmystreet.com/report/7787289)
+- TMC - Defects - Vegetation problem, 30th June :- [7787233](https://www.fixmystreet.com/report/7787233)
 - A pothole in road problem, 30th June :- [7786870](https://www.fixmystreet.com/report/7786870)
 - Blocking a Public Highway, 30th June :- [7786628](https://www.fixmystreet.com/report/7786628)
 - TMC - Defects - Covers, Gratings & Frames problem, 30th June :- [7786871](https://www.fixmystreet.com/report/7786871)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Tree is damaged problem, 30th June :- [7785349](https://www.fixmystreet.com/report/7785349)
 - Flyposting, 30th June :- [7785061](https://www.fixmystreet.com/report/7785061)
 - Flyposting, 30th June :- [7785042](https://www.fixmystreet.com/report/7785042)
-- Signs left after road closure, 30th June :- [7785040](https://www.fixmystreet.com/report/7785040)
-- Pot hole on left hand side of the road heading towards Kingsditch, 30th June :- [7784964](https://www.fixmystreet.com/report/7784964)
 
 <!-- fix_marker ends -->
