@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -12,6 +12,33 @@
 <description>The latest local problems reported by users</description>
 <language>en-gb</language>
 
+<item>
+<title>TMC - Defects - Vegetation problem, 1st July</title>
+<link>https://www.fixmystreet.com/report/7791825</link>
+<description>28 day with give and take plus temporary cycle lane closure needed please cut back overgrown hedge an vegetation and brambles back to boundary approximately 45 metres x3 metres high (Overgrown Hedge)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7791825&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Vegetation</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7791825</guid>
+<pubDate>Tue, 01 Jul 2025 13:20:10 +0100</pubDate>
+<georss:point>51.8951522 -2.1084771</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Signs &amp; Street Furniture problem, 1st July</title>
+<link>https://www.fixmystreet.com/report/7791820</link>
+<description>NWD WITH GIVE AND TAKE PLEASE BRING X 1 KEEP LEFT ARROW BOARD AN X1 SANDBAG AN PLACE OVER MISS BOLLARD COVER TO MAKE SAFE (Damaged Bollard)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7791820&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Signs &amp; Street Furniture</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7791820</guid>
+<pubDate>Tue, 01 Jul 2025 13:13:47 +0100</pubDate>
+<georss:point>51.8950068 -2.1077237000029</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 1st July</title>
+<link>https://www.fixmystreet.com/report/7791817</link>
+<description>C/W pothole around manhole cover - 900mm x 400mm x 40mm - 0.36m2 - 2 way lights - 28 Days (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7791817&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7791817</guid>
+<pubDate>Tue, 01 Jul 2025 13:12:18 +0100</pubDate>
+<georss:point>51.9096956778972 -2.21226234014197</georss:point>
+</item>
 <item>
 <title>Bin overflowing with rubbish, 1st July</title>
 <link>https://www.fixmystreet.com/report/7791541</link>
@@ -38,6 +65,15 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/7791472</guid>
 <pubDate>Tue, 01 Jul 2025 12:41:52 +0100</pubDate>
 <georss:point>51.942838 -2.05739</georss:point>
+</item>
+<item>
+<title>TMC - Defects -other CW10 problem, 1st July</title>
+<link>https://www.fixmystreet.com/report/7791797</link>
+<description>C/W Edge deterioration- 500mm x 11000mm x 40mm - 5.5m2 - 3 way lights - 28 Days (CW10 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7791797&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -other CW10</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7791797</guid>
+<pubDate>Tue, 01 Jul 2025 12:41:03 +0100</pubDate>
+<georss:point>51.9332734170073 -2.14876881634463</georss:point>
 </item>
 <item>
 <title>Large fridge freezer dumped on verge, 1st July</title>
@@ -77,15 +113,6 @@
 </item>
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 1st July</title>
-<link>https://www.fixmystreet.com/report/7791389</link>
-<description>28 day with give and take plus temporary footway closure footway abrupt level different   1800x1200x20mm tarmac patch stats required number 2 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7791389&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7791389</guid>
-<pubDate>Tue, 01 Jul 2025 11:59:37 +0100</pubDate>
-<georss:point>51.8769108354318 -2.07154912984391</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 1st July</title>
 <link>https://www.fixmystreet.com/report/7791388</link>
 <description>28 day with give and take plus temporary footway closure footway abrupt level different   2000x1000x20mm tarmac patch stats required number 2 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7791388&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Other FW6  Surface</category>
@@ -101,6 +128,15 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/7791387</guid>
 <pubDate>Tue, 01 Jul 2025 11:59:37 +0100</pubDate>
 <georss:point>51.8769456 -2.0714217</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 1st July</title>
+<link>https://www.fixmystreet.com/report/7791389</link>
+<description>28 day with give and take plus temporary footway closure footway abrupt level different   1800x1200x20mm tarmac patch stats required number 2 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7791389&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7791389</guid>
+<pubDate>Tue, 01 Jul 2025 11:59:37 +0100</pubDate>
+<georss:point>51.8769108354318 -2.07154912984391</georss:point>
 </item>
 <item>
 <title>Broken surface by weeds causing a trip hazard / future degradation of the pavement, 1st July</title>
@@ -155,42 +191,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/7789808</guid>
 <pubDate>Tue, 01 Jul 2025 09:22:55 +0100</pubDate>
 <georss:point>51.869061 -2.07591</georss:point>
-</item>
-<item>
-<title>Traffic light leaning, 1st July</title>
-<link>https://www.fixmystreet.com/report/7789787</link>
-<description>Traffic light on corner&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 109-111, Bath Road, Naunton, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7789787&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>The traffic light has been vandalised</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7789787</guid>
-<pubDate>Tue, 01 Jul 2025 09:18:53 +0100</pubDate>
-<georss:point>51.891362 -2.077273</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 1st July</title>
-<link>https://www.fixmystreet.com/report/7789666</link>
-<description>28 day with give and take plus temporary footway closure footway abrupt level different please  1000x150x20mm tarmac patch number 1 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7789666&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7789666</guid>
-<pubDate>Tue, 01 Jul 2025 08:56:35 +0100</pubDate>
-<georss:point>51.8957975 -2.08215289999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Footways Slabs problem, 1st July</title>
-<link>https://www.fixmystreet.com/report/7789664</link>
-<description>28 day with give and take plus temporary footway closure required please replace x1 broken rocking 900x270x20mm slab  cutting will be required (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7789664&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Footways Slabs</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7789664</guid>
-<pubDate>Tue, 01 Jul 2025 08:56:35 +0100</pubDate>
-<georss:point>51.8963507084774 -2.08140389763194</georss:point>
-</item>
-<item>
-<title>TMC - Defects -other CW6 problem, 1st July</title>
-<link>https://www.fixmystreet.com/report/7789665</link>
-<description>28 day with give and take carriage way abrupt level different please ramp up sides of edges on blocks with tarmac patch  stats required 2000x1000x50mm (CW6 Abrupt Level Differences )&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7789665&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -other CW6</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7789665</guid>
-<pubDate>Tue, 01 Jul 2025 08:56:35 +0100</pubDate>
-<georss:point>51.8951088 -2.08312719999999</georss:point>
 </item>
 </channel>
 </rss>
