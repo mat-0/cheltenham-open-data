@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flyposter for 'Stick Exercise', 1st July :- [7789469](https://www.fixmystreet.com/report/7789469)
+- Timings incorrect, 1st July :- [7789406](https://www.fixmystreet.com/report/7789406)
 - Light timings incorrect, 1st July :- [7789234](https://www.fixmystreet.com/report/7789234)
 - Light Priorities have changed, 1st July :- [7789210](https://www.fixmystreet.com/report/7789210)
 - Broken glass on cycle path, 30th June :- [7788494](https://www.fixmystreet.com/report/7788494)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Road Markings problem, 30th June :- [7786478](https://www.fixmystreet.com/report/7786478)
 - Residual stump trip hazard, 30th June :- [7786252](https://www.fixmystreet.com/report/7786252)
 - Blocking visibility on road/junction (Grass/verge) problem, 30th June :- [7786258](https://www.fixmystreet.com/report/7786258)
-- TMC - Defects - Vegetation problem, 30th June :- [7786067](https://www.fixmystreet.com/report/7786067)
-- TMC - Defects -CW6 Potholes  problem, 30th June :- [7786055](https://www.fixmystreet.com/report/7786055)
 
 <!-- fix_marker ends -->
