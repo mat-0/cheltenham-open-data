@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- New business grant fund supports local carbon reduction and enables cost savings ([10 hours ago](https://www.cheltenham.gov.uk/news/article/3026/new_business_grant_fund_supports_local_carbon_reduction_and_enables_cost_savings))
+- New business grant fund supports local carbon reduction and enables cost savings ([11 hours ago](https://www.cheltenham.gov.uk/news/article/3026/new_business_grant_fund_supports_local_carbon_reduction_and_enables_cost_savings))
 - Blazer worn by comedian at final show rediscovered ([11 hours ago](https://www.bbc.com/news/articles/c0j44n1y72zo))
-- Report of fire engine hitting parked car and smashing wing mirror sparks investigation ([11 hours ago](https://gloucesternewscentre.co.uk/report-of-fire-engine-hitting-parked-car-and-smashing-wing-mirror-sparks-investigation/))
-- Scrapping committee system an 'attack on democracy' ([13 hours ago](https://www.bbc.com/news/articles/c5ykgp79nl8o))
-- 'Glastonbury controversy' and 'bikers at prom' ([16 hours ago](https://www.bbc.com/news/articles/ce8zz12ldqeo))
-- ‘Flying club’ airport which ‘doesn’t take B-52s’ ‘should be used for housing’ ([17 hours ago](https://gloucesternewscentre.co.uk/flying-club-airport-which-doesnt-take-b-52s-should-be-used-for-housing/))
+- Report of fire engine hitting parked car and smashing wing mirror sparks investigation ([12 hours ago](https://gloucesternewscentre.co.uk/report-of-fire-engine-hitting-parked-car-and-smashing-wing-mirror-sparks-investigation/))
+- Scrapping committee system an 'attack on democracy' ([14 hours ago](https://www.bbc.com/news/articles/c5ykgp79nl8o))
+- 'Glastonbury controversy' and 'bikers at prom' ([17 hours ago](https://www.bbc.com/news/articles/ce8zz12ldqeo))
+- ‘Flying club’ airport which ‘doesn’t take B-52s’ ‘should be used for housing’ ([18 hours ago](https://gloucesternewscentre.co.uk/flying-club-airport-which-doesnt-take-b-52s-should-be-used-for-housing/))
 - Businesses 'put off' by suggestion of park charges ([22 hours ago](https://www.bbc.com/news/articles/c62gz7y2d5zo))
 - Coming up this week: Paintings, clocks and balloons ([22 hours ago](https://www.bbc.com/news/articles/c36x778377eo))
 - 'I can't live in my own country with my partner' ([22 hours ago](https://www.bbc.com/news/articles/czrynlevnpgo))
