@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dumped Road signs and barriers. Status has been changed to closed, nothing has changed, the signs and barriers are still there., 1st July :- [7793223](https://www.fixmystreet.com/report/7793223)
+- Large branch part detached and hanging down in carriageway, 1st July :- [7793199](https://www.fixmystreet.com/report/7793199)
+- Elmfield Road potholes, 1st July :- [7793172](https://www.fixmystreet.com/report/7793172)
 - Hedge and brambles over hanging footpath, 1st July :- [7793062](https://www.fixmystreet.com/report/7793062)
 - Sign post damaged and sign obscured and showing incorrect information, 1st July :- [7793031](https://www.fixmystreet.com/report/7793031)
 - Numerous potholes/ crumbling road surface, 1st July :- [7792849](https://www.fixmystreet.com/report/7792849)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW10 Potholes problem, 1st July :- [7791817](https://www.fixmystreet.com/report/7791817)
 - Bin overflowing with rubbish, 1st July :- [7791541](https://www.fixmystreet.com/report/7791541)
 - Street sign on North side of London road near traffics, 1st July :- [7791479](https://www.fixmystreet.com/report/7791479)
-- Low hanging branches over both footpaths, 1st July :- [7791472](https://www.fixmystreet.com/report/7791472)
-- TMC - Defects -other CW10 problem, 1st July :- [7791797](https://www.fixmystreet.com/report/7791797)
-- Large fridge freezer dumped on verge, 1st July :- [7791458](https://www.fixmystreet.com/report/7791458)
 
 <!-- fix_marker ends -->
