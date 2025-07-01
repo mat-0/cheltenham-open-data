@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large fridge freezer dumped on grass verge at entrance to Whitethorn drive, 1st July :- [7793894](https://www.fixmystreet.com/report/7793894)
+- Small hole opening, 1st July :- [7793847](https://www.fixmystreet.com/report/7793847)
+- Village Stores and Post Office Sign Misaligned, 1st July :- [7793750](https://www.fixmystreet.com/report/7793750)
 - Dumped Road signs and barriers. Status has been changed to closed, nothing has changed, the signs and barriers are still there., 1st July :- [7793223](https://www.fixmystreet.com/report/7793223)
 - Large branch part detached and hanging down in carriageway, 1st July :- [7793199](https://www.fixmystreet.com/report/7793199)
 - Elmfield Road potholes, 1st July :- [7793172](https://www.fixmystreet.com/report/7793172)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Broken finger post - directional sign is not visible, 1st July :- [7791840](https://www.fixmystreet.com/report/7791840)
 - TMC - Defects - Vegetation problem, 1st July :- [7791825](https://www.fixmystreet.com/report/7791825)
 - TMC - Defects - Signs & Street Furniture problem, 1st July :- [7791820](https://www.fixmystreet.com/report/7791820)
-- TMC - Defects -CW10 Potholes problem, 1st July :- [7791817](https://www.fixmystreet.com/report/7791817)
-- Bin overflowing with rubbish, 1st July :- [7791541](https://www.fixmystreet.com/report/7791541)
-- Street sign on North side of London road near traffics, 1st July :- [7791479](https://www.fixmystreet.com/report/7791479)
 
 <!-- fix_marker ends -->
