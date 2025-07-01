@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Grass has grown long and has not been mown to delineate path. Electric fences blocking one of right of way, 1st July :- [7794062](https://www.fixmystreet.com/report/7794062)
+- Flyposting, 1st July :- [7794040](https://www.fixmystreet.com/report/7794040)
 - Large fridge freezer dumped on grass verge at entrance to Whitethorn drive, 1st July :- [7793894](https://www.fixmystreet.com/report/7793894)
 - Small hole opening, 1st July :- [7793847](https://www.fixmystreet.com/report/7793847)
 - Village Stores and Post Office Sign Misaligned, 1st July :- [7793750](https://www.fixmystreet.com/report/7793750)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Timings incorrect again, 1st July :- [7792348](https://www.fixmystreet.com/report/7792348)
 - Double pothole with water on dual carriageway at national speed limit, 1st July :- [7792136](https://www.fixmystreet.com/report/7792136)
 - Broken finger post - directional sign is not visible, 1st July :- [7791840](https://www.fixmystreet.com/report/7791840)
-- TMC - Defects - Vegetation problem, 1st July :- [7791825](https://www.fixmystreet.com/report/7791825)
-- TMC - Defects - Signs & Street Furniture problem, 1st July :- [7791820](https://www.fixmystreet.com/report/7791820)
 
 <!-- fix_marker ends -->
