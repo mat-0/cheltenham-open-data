@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Light timings incorrect, 1st July :- [7789234](https://www.fixmystreet.com/report/7789234)
+- Light Priorities have changed, 1st July :- [7789210](https://www.fixmystreet.com/report/7789210)
 - Broken glass on cycle path, 30th June :- [7788494](https://www.fixmystreet.com/report/7788494)
 - Green space not been cut for months, waist high now, 30th June :- [7788491](https://www.fixmystreet.com/report/7788491)
 - Broken bin and suitcase on street, 30th June :- [7788238](https://www.fixmystreet.com/report/7788238)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Blocking visibility on road/junction (Grass/verge) problem, 30th June :- [7786258](https://www.fixmystreet.com/report/7786258)
 - TMC - Defects - Vegetation problem, 30th June :- [7786067](https://www.fixmystreet.com/report/7786067)
 - TMC - Defects -CW6 Potholes  problem, 30th June :- [7786055](https://www.fixmystreet.com/report/7786055)
-- Large scale pruning has taken place on the public footpath in Prestbury from St Mary's School to the Noverton estate outside 6 Honeysuckle Close off Whitethorn Drive. It is claimed by the contractor that this has been taken place in the garden of No 6 but it is quite clear that the trees are outside the garden and by the edge of the public footpath. Would the house owner or the contractor have had to get a permit this work and is it possible to check if this work was legal?, 30th June :- [7785719](https://www.fixmystreet.com/report/7785719)
-- TMC - Defects - Other FW6  Surface problem, 30th June :- [7786049](https://www.fixmystreet.com/report/7786049)
 
 <!-- fix_marker ends -->
