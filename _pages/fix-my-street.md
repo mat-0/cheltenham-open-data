@@ -9,6 +9,16 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Bin overflowing with rubbish, 1st July :- [7791541](https://www.fixmystreet.com/report/7791541)
+- Street sign on North side of London road near traffics, 1st July :- [7791479](https://www.fixmystreet.com/report/7791479)
+- Low hanging branches over both footpaths, 1st July :- [7791472](https://www.fixmystreet.com/report/7791472)
+- Large fridge freezer dumped on verge, 1st July :- [7791458](https://www.fixmystreet.com/report/7791458)
+- Tree trunk foliage obscuring road from driveway, 1st July :- [7791283](https://www.fixmystreet.com/report/7791283)
+- Sign badly damaged. Also heavy vegetation growth., 1st July :- [7791139](https://www.fixmystreet.com/report/7791139)
+- TMC - Defects - Vegetation problem, 1st July :- [7791390](https://www.fixmystreet.com/report/7791390)
+- TMC - Defects - Other FW6  Surface problem, 1st July :- [7791389](https://www.fixmystreet.com/report/7791389)
+- TMC - Defects - Other FW6  Surface problem, 1st July :- [7791388](https://www.fixmystreet.com/report/7791388)
+- TMC - Defects - Other FW6  Surface problem, 1st July :- [7791387](https://www.fixmystreet.com/report/7791387)
 - Broken surface by weeds causing a trip hazard / future degradation of the pavement, 1st July :- [7790969](https://www.fixmystreet.com/report/7790969)
 - Road sign has been hit, 1st July :- [7790944](https://www.fixmystreet.com/report/7790944)
 - Another large pothole, 1st July :- [7790353](https://www.fixmystreet.com/report/7790353)
@@ -16,18 +26,8 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 1st July :- [7790151](https://www.fixmystreet.com/report/7790151)
 - Pothole in the tarmac pavement with visible cavity underneath, 1st July :- [7789808](https://www.fixmystreet.com/report/7789808)
 - Traffic light leaning, 1st July :- [7789787](https://www.fixmystreet.com/report/7789787)
-- TMC - Defects - Kerbs and Channels problem, 1st July :- [7789671](https://www.fixmystreet.com/report/7789671)
-- TMC - Defects - Kerbs and Channels problem, 1st July :- [7789674](https://www.fixmystreet.com/report/7789674)
 - TMC - Defects - Other FW6  Surface problem, 1st July :- [7789666](https://www.fixmystreet.com/report/7789666)
-- TMC - Defects - Other FW6  Surface problem, 1st July :- [7789667](https://www.fixmystreet.com/report/7789667)
-- TMC - Defects - Kerbs and Channels problem, 1st July :- [7789672](https://www.fixmystreet.com/report/7789672)
-- TMC - Defects - Kerbs and Channels problem, 1st July :- [7789668](https://www.fixmystreet.com/report/7789668)
-- TMC - Defects - Other FW6  Surface problem, 1st July :- [7789663](https://www.fixmystreet.com/report/7789663)
 - TMC - Defects - Footways Slabs problem, 1st July :- [7789664](https://www.fixmystreet.com/report/7789664)
-- TMC - Defects - Kerbs and Channels problem, 1st July :- [7789670](https://www.fixmystreet.com/report/7789670)
-- TMC - Defects - Kerbs and Channels problem, 1st July :- [7789673](https://www.fixmystreet.com/report/7789673)
 - TMC - Defects -other CW6 problem, 1st July :- [7789665](https://www.fixmystreet.com/report/7789665)
-- TMC - Defects - Other FW6  Surface problem, 1st July :- [7789662](https://www.fixmystreet.com/report/7789662)
-- TMC - Defects - Other FW6  Surface problem, 1st July :- [7789661](https://www.fixmystreet.com/report/7789661)
 
 <!-- fix_marker ends -->
