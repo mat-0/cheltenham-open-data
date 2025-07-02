@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Bridleway from Far Stanley up Stanley Hill blocked by fallen tree., 2nd July :- [7799864](https://www.fixmystreet.com/report/7799864)
+- Street light number 1 in Bradshaw Close Longlevens is permanently out., 2nd July :- [7799649](https://www.fixmystreet.com/report/7799649)
+- Visibility poor when exiting onto Two Hedges Rd because of uncut verges both sides, 2nd July :- [7799632](https://www.fixmystreet.com/report/7799632)
 - Speed bump not marked, 2nd July :- [7799560](https://www.fixmystreet.com/report/7799560)
 - Broken branches fallen on pavement in Queen’s Road, 2nd July :- [7799245](https://www.fixmystreet.com/report/7799245)
 - The pipe under the road opposite Green Cottage is blocked and causing properties to flood., 2nd July :- [7798874](https://www.fixmystreet.com/report/7798874)
@@ -21,13 +24,10 @@ permalink: /fix-my-street
 - TMC - Defects - Kerbs and Channels problem, 2nd July :- [7797836](https://www.fixmystreet.com/report/7797836)
 - Signs and barriers left by contractors causing obstruction. Health and safety trip hazzard. This has been reported and closed twice, the obstruction is still there., 2nd July :- [7797614](https://www.fixmystreet.com/report/7797614)
 - TMC - Defects - Vegetation problem, 2nd July :- [7797649](https://www.fixmystreet.com/report/7797649)
-- TMC - Defects -CW6 Potholes  problem, 2nd July :- [7797641](https://www.fixmystreet.com/report/7797641)
 - TMC - Defects -CW6 Potholes  problem, 2nd July :- [7797640](https://www.fixmystreet.com/report/7797640)
+- TMC - Defects -CW6 Potholes  problem, 2nd July :- [7797641](https://www.fixmystreet.com/report/7797641)
 - TMC - Defects - Kerbs and Channels problem, 2nd July :- [7797634](https://www.fixmystreet.com/report/7797634)
-- TMC - Defects -CW6 Potholes  problem, 2nd July :- [7797627](https://www.fixmystreet.com/report/7797627)
-- TMC - Defects - Other FW6  Surface problem, 2nd July :- [7797630](https://www.fixmystreet.com/report/7797630)
-- TMC - Defects - Other FW6  Surface problem, 2nd July :- [7797629](https://www.fixmystreet.com/report/7797629)
-- TMC - Defects - Other FW6  Surface problem, 2nd July :- [7797628](https://www.fixmystreet.com/report/7797628)
-- TMC - Defects - Kerbs and Channels problem, 2nd July :- [7797623](https://www.fixmystreet.com/report/7797623)
+- TMC - Defects - Kerbs and Channels problem, 2nd July :- [7797633](https://www.fixmystreet.com/report/7797633)
+- TMC - Defects - Kerbs and Channels problem, 2nd July :- [7797632](https://www.fixmystreet.com/report/7797632)
 
 <!-- fix_marker ends -->
