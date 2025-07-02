@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Traffic Light timings out causing massive traffic build up., 2nd July :- [7794728](https://www.fixmystreet.com/report/7794728)
 - Pot hole getting more dangerous. Someone is going to injure themselves if they trip, 1st July :- [7794180](https://www.fixmystreet.com/report/7794180)
 - Sharp brambles at face/eye level full width on path, 1st July :- [7794176](https://www.fixmystreet.com/report/7794176)
 - Path once again ploughed in and cropped over., 1st July :- [7794132](https://www.fixmystreet.com/report/7794132)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - A pothole in road problem, 1st July :- [7792777](https://www.fixmystreet.com/report/7792777)
 - A pothole in road problem, 1st July :- [7792610](https://www.fixmystreet.com/report/7792610)
 - Green arrow never lights up for right turn making it unsafe to turn as incoming traffic isnt stopped, 1st July :- [7792538](https://www.fixmystreet.com/report/7792538)
-- Grass verge obstructing visibility., 1st July :- [7792526](https://www.fixmystreet.com/report/7792526)
 
 <!-- fix_marker ends -->
