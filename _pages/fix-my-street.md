@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipping, 2nd July :- [7800250](https://www.fixmystreet.com/report/7800250)
 - Tree branches too low, 2nd July :- [7800077](https://www.fixmystreet.com/report/7800077)
 - Ringway contractors have left two sets of barriers across pavement one of which is hanging over kerb, 2nd July :- [7800067](https://www.fixmystreet.com/report/7800067)
 - The grass in zhurdington was cut 2 weeks ago. But the grass on the yarnolds was not cut. The grass ag the end is now 6foot tall. This is not acceptable., 2nd July :- [7799939](https://www.fixmystreet.com/report/7799939)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Kerbs and Channels problem, 2nd July :- [7797836](https://www.fixmystreet.com/report/7797836)
 - Signs and barriers left by contractors causing obstruction. Health and safety trip hazzard. This has been reported and closed twice, the obstruction is still there., 2nd July :- [7797614](https://www.fixmystreet.com/report/7797614)
 - TMC - Defects - Vegetation problem, 2nd July :- [7797649](https://www.fixmystreet.com/report/7797649)
-- TMC - Defects -CW6 Potholes  problem, 2nd July :- [7797641](https://www.fixmystreet.com/report/7797641)
 
 <!-- fix_marker ends -->
