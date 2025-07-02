@@ -12,14 +12,14 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Plans for £45m regeneration rejected by council ([1 hours ago](https://www.bbc.com/news/articles/ckg3jn2207ro))
-- Outdoor pool could lose £2k during 'forced closure' ([3 hours ago](https://www.bbc.com/news/articles/cvg885vxldgo))
-- £2.8m of funding approved to bring more new homes to Cheltenham ([4 hours ago](https://www.cheltenham.gov.uk/news/article/3027/28m_of_funding_approved_to_bring_more_new_homes_to_cheltenham))
-- Monster truck event branded rip-off by families ([6 hours ago](https://www.bbc.com/news/articles/c4gdmy874q4o))
-- Cathedral organ's 'hybrid' sound during £3m refurb ([8 hours ago](https://www.bbc.com/news/articles/cy4nngn7pgxo))
-- 'Global child prodigy' twins target 2032 Olympics ([8 hours ago](https://www.bbc.com/news/articles/c0k7x723zr1o))
-- E-bike campaign aims to encourage women to cycle ([22 hours ago](https://www.bbc.com/news/articles/c9w11l9y7qno))
-- 'Radical changes to prisons needed to cut reoffending' ([22 hours ago](https://www.bbc.com/news/articles/cm2zz75v286o))
+- Plans for £45m regeneration rejected by council ([2 hours ago](https://www.bbc.com/news/articles/ckg3jn2207ro))
+- Outdoor pool could lose £2k during 'forced closure' ([4 hours ago](https://www.bbc.com/news/articles/cvg885vxldgo))
+- £2.8m of funding approved to bring more new homes to Cheltenham ([5 hours ago](https://www.cheltenham.gov.uk/news/article/3027/28m_of_funding_approved_to_bring_more_new_homes_to_cheltenham))
+- Monster truck event branded rip-off by families ([7 hours ago](https://www.bbc.com/news/articles/c4gdmy874q4o))
+- Cathedral organ's 'hybrid' sound during £3m refurb ([9 hours ago](https://www.bbc.com/news/articles/cy4nngn7pgxo))
+- 'Global child prodigy' twins target 2032 Olympics ([9 hours ago](https://www.bbc.com/news/articles/c0k7x723zr1o))
+- E-bike campaign aims to encourage women to cycle ([23 hours ago](https://www.bbc.com/news/articles/c9w11l9y7qno))
+- 'Radical changes to prisons needed to cut reoffending' ([23 hours ago](https://www.bbc.com/news/articles/cm2zz75v286o))
 - Animal charity hit with £12k bill over VAT dispute ([1 days ago](https://www.bbc.com/news/articles/cglzy4518y9o))
 - Savage appointed Forest Green manager ([1 days ago](https://www.bbc.com/sport/football/articles/cgjg551p8ejo))
 - 'E-scooter crackdown' and 'New Forest Green gaffer' ([1 days ago](https://www.bbc.com/news/articles/cn7dd1n231mo))
@@ -67,6 +67,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Cheltenham celebrates 10 years of prestigious Purple Flag ([26 days ago](https://www.cheltenham.gov.uk/news/article/3019/cheltenham_celebrates_10_years_of_prestigious_purple_flag))
 - Reshaping Cheltenham’s future with latest cabinet portfolio announcements ([26 days ago](https://www.cheltenham.gov.uk/news/article/3018/reshaping_cheltenhams_future_with_latest_cabinet_portfolio_announcements))
 - Cheltenham and Tewkesbury planners blasted for ‘caring more about bats than police’ in Elms Park decision ([26 days ago](https://gloucesternewscentre.co.uk/cheltenham-and-tewkesbury-planners-blasted-for-caring-more-about-bats-than-police-in-elms-park-decision/))
-- £25k cash boost for much-loved Cheltenham Playhouse ([28 days ago](https://www.cheltenham.gov.uk/news/article/3017/25k_cash_boost_for_much-loved_cheltenham_playhouse))
+- £25k cash boost for much-loved Cheltenham Playhouse ([29 days ago](https://www.cheltenham.gov.uk/news/article/3017/25k_cash_boost_for_much-loved_cheltenham_playhouse))
 
 <!-- news_marker ends -->
