@@ -13,12 +13,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
 - E-bike campaign aims to encourage women to cycle ([11 hours ago](https://www.bbc.com/news/articles/c9w11l9y7qno))
-- 'Radical changes to prisons needed to cut reoffending' ([11 hours ago](https://www.bbc.com/news/articles/cm2zz75v286o))
-- Animal charity hit with £12k bill over VAT dispute ([14 hours ago](https://www.bbc.com/news/articles/cglzy4518y9o))
-- Savage appointed Forest Green manager ([16 hours ago](https://www.bbc.com/sport/football/articles/cgjg551p8ejo))
-- 'E-scooter crackdown' and 'New Forest Green gaffer' ([16 hours ago](https://www.bbc.com/news/articles/cn7dd1n231mo))
+- 'Radical changes to prisons needed to cut reoffending' ([12 hours ago](https://www.bbc.com/news/articles/cm2zz75v286o))
+- Animal charity hit with £12k bill over VAT dispute ([15 hours ago](https://www.bbc.com/news/articles/cglzy4518y9o))
+- Savage appointed Forest Green manager ([17 hours ago](https://www.bbc.com/sport/football/articles/cgjg551p8ejo))
+- 'E-scooter crackdown' and 'New Forest Green gaffer' ([17 hours ago](https://www.bbc.com/news/articles/cn7dd1n231mo))
 - Heat 'brings worst out of people' says commissioner ([18 hours ago](https://www.bbc.com/news/articles/ckgjjx0ypwpo))
-- Project tells railway stories from all communities ([21 hours ago](https://www.bbc.com/news/articles/c0l4z258kypo))
+- Project tells railway stories from all communities ([22 hours ago](https://www.bbc.com/news/articles/c0l4z258kypo))
 - New business grant fund supports local carbon reduction and enables cost savings ([1 days ago](https://www.cheltenham.gov.uk/news/article/3026/new_business_grant_fund_supports_local_carbon_reduction_and_enables_cost_savings))
 - Blazer worn by comedian at final show rediscovered ([1 days ago](https://www.bbc.com/news/articles/c0j44n1y72zo))
 - Report of fire engine hitting parked car and smashing wing mirror sparks investigation ([1 days ago](https://gloucesternewscentre.co.uk/report-of-fire-engine-hitting-parked-car-and-smashing-wing-mirror-sparks-investigation/))
