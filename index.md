@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Wednesday, 02 July 2025
 
-- The average temperature today is 21.32˚C,
-- With highs of 22.19˚C and lows of 20.75˚C,
-- It may feel like 20.53˚C with few clouds
-- The wind speed is 5.66m/s and visibility is 10000m
-- The pressure is 1019hPa and humidity is 39%
+- The average temperature today is 22.5˚C,
+- With highs of 23.32˚C and lows of 22.04˚C,
+- It may feel like 21.75˚C with few clouds
+- The wind speed is 6.69m/s and visibility is 10000m
+- The pressure is 1019hPa and humidity is 36%
 - The sun will rise at 03:53 and set at 20:30
 
 <!-- weather_marker ends -->
