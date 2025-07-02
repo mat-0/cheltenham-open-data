@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree branches too low, 2nd July :- [7800077](https://www.fixmystreet.com/report/7800077)
+- Ringway contractors have left two sets of barriers across pavement one of which is hanging over kerb, 2nd July :- [7800067](https://www.fixmystreet.com/report/7800067)
+- The grass in zhurdington was cut 2 weeks ago. But the grass on the yarnolds was not cut. The grass ag the end is now 6foot tall. This is not acceptable., 2nd July :- [7799939](https://www.fixmystreet.com/report/7799939)
+- Big pothole going into the right wide of Broad Oak Way, 2nd July :- [7799879](https://www.fixmystreet.com/report/7799879)
 - Bridleway from Far Stanley up Stanley Hill blocked by fallen tree., 2nd July :- [7799864](https://www.fixmystreet.com/report/7799864)
 - Street light number 1 in Bradshaw Close Longlevens is permanently out., 2nd July :- [7799649](https://www.fixmystreet.com/report/7799649)
 - Visibility poor when exiting onto Two Hedges Rd because of uncut verges both sides, 2nd July :- [7799632](https://www.fixmystreet.com/report/7799632)
@@ -24,10 +28,6 @@ permalink: /fix-my-street
 - TMC - Defects - Kerbs and Channels problem, 2nd July :- [7797836](https://www.fixmystreet.com/report/7797836)
 - Signs and barriers left by contractors causing obstruction. Health and safety trip hazzard. This has been reported and closed twice, the obstruction is still there., 2nd July :- [7797614](https://www.fixmystreet.com/report/7797614)
 - TMC - Defects - Vegetation problem, 2nd July :- [7797649](https://www.fixmystreet.com/report/7797649)
-- TMC - Defects -CW6 Potholes  problem, 2nd July :- [7797640](https://www.fixmystreet.com/report/7797640)
 - TMC - Defects -CW6 Potholes  problem, 2nd July :- [7797641](https://www.fixmystreet.com/report/7797641)
-- TMC - Defects - Kerbs and Channels problem, 2nd July :- [7797634](https://www.fixmystreet.com/report/7797634)
-- TMC - Defects - Kerbs and Channels problem, 2nd July :- [7797633](https://www.fixmystreet.com/report/7797633)
-- TMC - Defects - Kerbs and Channels problem, 2nd July :- [7797632](https://www.fixmystreet.com/report/7797632)
 
 <!-- fix_marker ends -->
