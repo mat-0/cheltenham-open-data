@@ -9,6 +9,15 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 5m x 1m uneven road surface, 2nd July :- [7794896](https://www.fixmystreet.com/report/7794896)
+- Traffic light stays on red too long, 2nd July :- [7794886](https://www.fixmystreet.com/report/7794886)
+- Traffic light timings incorrect, 2nd July :- [7794880](https://www.fixmystreet.com/report/7794880)
+- Traffic lights, 2nd July :- [7794867](https://www.fixmystreet.com/report/7794867)
+- Very large A Board on highway approx a foot into the road in area of DYL. Belongs to TAVERN pub. Put in road every evening, 2nd July :- [7794850](https://www.fixmystreet.com/report/7794850)
+- Traffic Lights, 2nd July :- [7794810](https://www.fixmystreet.com/report/7794810)
+- Light Timing Incorrect, 2nd July :- [7794784](https://www.fixmystreet.com/report/7794784)
+- Fly tipping, 2nd July :- [7794780](https://www.fixmystreet.com/report/7794780)
+- Fly tipping, 2nd July :- [7794769](https://www.fixmystreet.com/report/7794769)
 - Traffic Light timings out causing massive traffic build up., 2nd July :- [7794728](https://www.fixmystreet.com/report/7794728)
 - Pot hole getting more dangerous. Someone is going to injure themselves if they trip, 1st July :- [7794180](https://www.fixmystreet.com/report/7794180)
 - Sharp brambles at face/eye level full width on path, 1st July :- [7794176](https://www.fixmystreet.com/report/7794176)
@@ -20,14 +29,5 @@ permalink: /fix-my-street
 - Village Stores and Post Office Sign Misaligned, 1st July :- [7793750](https://www.fixmystreet.com/report/7793750)
 - Dumped Road signs and barriers. Status has been changed to closed, nothing has changed, the signs and barriers are still there., 1st July :- [7793223](https://www.fixmystreet.com/report/7793223)
 - Large branch part detached and hanging down in carriageway, 1st July :- [7793199](https://www.fixmystreet.com/report/7793199)
-- Elmfield Road potholes, 1st July :- [7793172](https://www.fixmystreet.com/report/7793172)
-- Hedge and brambles over hanging footpath, 1st July :- [7793062](https://www.fixmystreet.com/report/7793062)
-- Sign post damaged and sign obscured and showing incorrect information, 1st July :- [7793031](https://www.fixmystreet.com/report/7793031)
-- Numerous potholes/ crumbling road surface, 1st July :- [7792849](https://www.fixmystreet.com/report/7792849)
-- Green or amber traffic light is not working problem, 1st July :- [7792778](https://www.fixmystreet.com/report/7792778)
-- The traffic lights at this junction between Cheltenham Road East and Down Hatherley Lane are fitted with louvres, presumably so that only the appropriate line of traffic can see them. The angle of the louvres is badly out, so that the light can hardly be seen at all. Coming through this junction this morning from the Cheltenham direction a motorhome started to pull out of Down Hatherley Lane in front of me. I believe I had a green light, but it wasn't easy to see. Perhaps the motorhome also thought they had a green., 1st July :- [7792631](https://www.fixmystreet.com/report/7792631)
-- A pothole in road problem, 1st July :- [7792777](https://www.fixmystreet.com/report/7792777)
-- A pothole in road problem, 1st July :- [7792610](https://www.fixmystreet.com/report/7792610)
-- Green arrow never lights up for right turn making it unsafe to turn as incoming traffic isnt stopped, 1st July :- [7792538](https://www.fixmystreet.com/report/7792538)
 
 <!-- fix_marker ends -->
