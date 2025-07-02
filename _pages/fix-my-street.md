@@ -21,13 +21,13 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 2nd July :- [7797641](https://www.fixmystreet.com/report/7797641)
 - TMC - Defects -CW6 Potholes  problem, 2nd July :- [7797640](https://www.fixmystreet.com/report/7797640)
 - TMC - Defects - Kerbs and Channels problem, 2nd July :- [7797634](https://www.fixmystreet.com/report/7797634)
-- TMC - Defects - Other FW6  Surface problem, 2nd July :- [7797628](https://www.fixmystreet.com/report/7797628)
-- TMC - Defects -CW6 Potholes  problem, 2nd July :- [7797624](https://www.fixmystreet.com/report/7797624)
 - TMC - Defects - Other FW6  Surface problem, 2nd July :- [7797625](https://www.fixmystreet.com/report/7797625)
+- TMC - Defects -CW6 Potholes  problem, 2nd July :- [7797624](https://www.fixmystreet.com/report/7797624)
+- TMC - Defects - Other FW6  Surface problem, 2nd July :- [7797628](https://www.fixmystreet.com/report/7797628)
 - TMC - Defects - Other FW6  Surface problem, 2nd July :- [7797630](https://www.fixmystreet.com/report/7797630)
 - TMC - Defects - Kerbs and Channels problem, 2nd July :- [7797622](https://www.fixmystreet.com/report/7797622)
+- TMC - Defects - Kerbs and Channels problem, 2nd July :- [7797626](https://www.fixmystreet.com/report/7797626)
 - TMC - Defects -CW6 Potholes  problem, 2nd July :- [7797627](https://www.fixmystreet.com/report/7797627)
-- TMC - Defects - Kerbs and Channels problem, 2nd July :- [7797623](https://www.fixmystreet.com/report/7797623)
-- TMC - Defects - Kerbs and Channels problem, 2nd July :- [7797632](https://www.fixmystreet.com/report/7797632)
+- TMC - Defects - Kerbs and Channels problem, 2nd July :- [7797633](https://www.fixmystreet.com/report/7797633)
 
 <!-- fix_marker ends -->
