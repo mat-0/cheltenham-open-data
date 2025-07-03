@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -12,6 +12,15 @@
 <description>The latest local problems reported by users</description>
 <language>en-gb</language>
 
+<item>
+<title>TMC - Defects -FW6 Potholes problem, 3rd July</title>
+<link>https://www.fixmystreet.com/report/7801581</link>
+<description>2hr make safe with give and take please place x2 1m barriers plus x2 sandbags around footway pothole next to manhole cover 2000x1000 (FW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7801581&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -FW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7801581</guid>
+<pubDate>Thu, 03 Jul 2025 08:56:20 +0100</pubDate>
+<georss:point>51.8427132572221 -2.14885444966752</georss:point>
+</item>
 <item>
 <title>Signs &amp; cones left behind, 3rd July</title>
 <link>https://www.fixmystreet.com/report/7801160</link>
@@ -182,15 +191,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/7797840</guid>
 <pubDate>Wed, 02 Jul 2025 14:22:03 +0100</pubDate>
 <georss:point>51.8999573431817 -2.06798653113462</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 2nd July</title>
-<link>https://www.fixmystreet.com/report/7797838</link>
-<description>28 day with give and take plus temporary footway closure footway abrupt level different   1500x1000x60mm tarmac patch   stats required number 1 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7797838&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7797838</guid>
-<pubDate>Wed, 02 Jul 2025 14:19:47 +0100</pubDate>
-<georss:point>51.8999629 -2.06789470000247</georss:point>
 </item>
 </channel>
 </rss>
