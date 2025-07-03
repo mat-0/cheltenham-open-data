@@ -9,7 +9,14 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Footways Slabs problem, 3rd July :- [7805013](https://www.fixmystreet.com/report/7805013)
+- TMC - Defects - Footways Slabs problem, 3rd July :- [7805012](https://www.fixmystreet.com/report/7805012)
 - Barriers on both sides need a sweep. Tidy up, 3rd July :- [7804770](https://www.fixmystreet.com/report/7804770)
+- TMC - Defects -CW6 Potholes  problem, 3rd July :- [7805009](https://www.fixmystreet.com/report/7805009)
+- TMC - Defects -CW6 Potholes  problem, 3rd July :- [7805010](https://www.fixmystreet.com/report/7805010)
+- TMC - Defects -CW6 Potholes  problem, 3rd July :- [7805008](https://www.fixmystreet.com/report/7805008)
+- TMC - Defects -CW6 Potholes  problem, 3rd July :- [7805006](https://www.fixmystreet.com/report/7805006)
+- TMC - Defects -CW6 Potholes  problem, 3rd July :- [7805007](https://www.fixmystreet.com/report/7805007)
 - TMC - Defects - Vegetation problem, 3rd July :- [7804244](https://www.fixmystreet.com/report/7804244)
 - TMC - Defects - Vegetation problem, 3rd July :- [7804243](https://www.fixmystreet.com/report/7804243)
 - Private tree growing over street light, 3rd July :- [7803991](https://www.fixmystreet.com/report/7803991)
@@ -22,12 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Kerbs and Channels problem, 3rd July :- [7803676](https://www.fixmystreet.com/report/7803676)
 - Flytipped items, 3rd July :- [7803259](https://www.fixmystreet.com/report/7803259)
 - Flytipped furniture, 3rd July :- [7803255](https://www.fixmystreet.com/report/7803255)
-- Flytipped items, 3rd July :- [7803238](https://www.fixmystreet.com/report/7803238)
-- TMC - Defects - Kerbs and Channels problem, 3rd July :- [7803248](https://www.fixmystreet.com/report/7803248)
-- TMC - Defects - Kerbs and Channels problem, 3rd July :- [7803247](https://www.fixmystreet.com/report/7803247)
-- TMC - Defects - Kerbs and Channels problem, 3rd July :- [7803246](https://www.fixmystreet.com/report/7803246)
-- TMC - Defects - Covers, Gratings & Frames problem, 3rd July :- [7803249](https://www.fixmystreet.com/report/7803249)
-- TMC - Defects -FW6 Potholes problem, 3rd July :- [7803245](https://www.fixmystreet.com/report/7803245)
-- TMC - Defects - Covers, Gratings & Frames problem, 3rd July :- [7802985](https://www.fixmystreet.com/report/7802985)
 
 <!-- fix_marker ends -->
