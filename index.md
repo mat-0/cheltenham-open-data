@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Thursday, 03 July 2025
 
-- The average temperature today is 22.27˚C,
-- With highs of 23.32˚C and lows of 21.03˚C,
-- It may feel like 21.6˚C with clear sky
-- The wind speed is 2.57m/s and visibility is 10000m
-- The pressure is 1028hPa and humidity is 40%
+- The average temperature today is 22.29˚C,
+- With highs of 23.3˚C and lows of 21.64˚C,
+- It may feel like 21.65˚C with clear sky
+- The wind speed is 4.02m/s and visibility is 10000m
+- The pressure is 1028hPa and humidity is 41%
 - The sun will rise at 03:54 and set at 20:30
 
 <!-- weather_marker ends -->
