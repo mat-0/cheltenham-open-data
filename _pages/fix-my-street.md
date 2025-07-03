@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Signs & cones left behind, 3rd July :- [7801160](https://www.fixmystreet.com/report/7801160)
 - Post or sign leaning slightly (less than 20 degrees) problem, 3rd July :- [7800871](https://www.fixmystreet.com/report/7800871)
 - Overgrown grass on football pitch, 3rd July :- [7800841](https://www.fixmystreet.com/report/7800841)
 - Flytipping, 2nd July :- [7800250](https://www.fixmystreet.com/report/7800250)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Tree with solid overhanging limbs which have cracked the windscreen on the top deck of a bus operating service 97 to Cheltenham at 12:06 on 02/07/2025, 2nd July :- [7797869](https://www.fixmystreet.com/report/7797869)
 - TMC - Defects - Kerbs and Channels problem, 2nd July :- [7797840](https://www.fixmystreet.com/report/7797840)
 - TMC - Defects - Other FW6  Surface problem, 2nd July :- [7797838](https://www.fixmystreet.com/report/7797838)
-- TMC - Defects - Kerbs and Channels problem, 2nd July :- [7797836](https://www.fixmystreet.com/report/7797836)
 
 <!-- fix_marker ends -->
