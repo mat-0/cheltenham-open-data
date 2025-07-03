@@ -12,15 +12,15 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Police hunt two people after hate crime before Pride ([16 minutes ago](https://www.bbc.com/news/articles/c2ezn0d8d8do))
-- 'Cannabis gang arrested' and 'Pier controversy' ([4 hours ago](https://www.bbc.com/news/articles/c2le7qgd5zzo))
-- Car park back on market after controversial sale ([4 hours ago](https://www.bbc.com/news/articles/czxwp0gxxy3o))
-- Cheltenham achieves 6th place ranking in 2025 Climate Emergency UK Scorecards ([5 hours ago](https://www.cheltenham.gov.uk/news/article/3028/cheltenham_achieves_6th_place_ranking_in_2025_climate_emergency_uk_scorecards))
-- Dramatic pictures show scale of £460m road project ([8 hours ago](https://www.bbc.com/news/articles/c20wwle56gqo))
-- Dirty nappies and stained clothes left at charity shops ([8 hours ago](https://www.bbc.com/news/articles/cy5w35506zko))
-- Cannabis factory found after police raid property ([20 hours ago](https://www.bbc.com/news/articles/cx2jxv80022o))
-- Car park plot sold by council for sale for more than double the price a year on ([21 hours ago](https://gloucesternewscentre.co.uk/car-park-plot-sold-by-council-for-sale-for-more-than-double-the-price-a-year-on/))
-- New £2.8m development to 'breathe life' into town ([22 hours ago](https://www.bbc.com/news/articles/cvg8n8djp0no))
+- Police hunt two people after hate crime before Pride ([1 hours ago](https://www.bbc.com/news/articles/c2ezn0d8d8do))
+- 'Cannabis gang arrested' and 'Pier controversy' ([5 hours ago](https://www.bbc.com/news/articles/c2le7qgd5zzo))
+- Car park back on market after controversial sale ([5 hours ago](https://www.bbc.com/news/articles/czxwp0gxxy3o))
+- Cheltenham achieves 6th place ranking in 2025 Climate Emergency UK Scorecards ([6 hours ago](https://www.cheltenham.gov.uk/news/article/3028/cheltenham_achieves_6th_place_ranking_in_2025_climate_emergency_uk_scorecards))
+- Dramatic pictures show scale of £460m road project ([9 hours ago](https://www.bbc.com/news/articles/c20wwle56gqo))
+- Dirty nappies and stained clothes left at charity shops ([9 hours ago](https://www.bbc.com/news/articles/cy5w35506zko))
+- Cannabis factory found after police raid property ([21 hours ago](https://www.bbc.com/news/articles/cx2jxv80022o))
+- Car park plot sold by council for sale for more than double the price a year on ([22 hours ago](https://gloucesternewscentre.co.uk/car-park-plot-sold-by-council-for-sale-for-more-than-double-the-price-a-year-on/))
+- New £2.8m development to 'breathe life' into town ([23 hours ago](https://www.bbc.com/news/articles/cvg8n8djp0no))
 - Plans for £45m regeneration rejected by council ([1 days ago](https://www.bbc.com/news/articles/ckg3jn2207ro))
 - Outdoor pool could lose £2k during 'forced closure' ([1 days ago](https://www.bbc.com/news/articles/cvg885vxldgo))
 - £2.8m of funding approved to bring more new homes to Cheltenham ([1 days ago](https://www.cheltenham.gov.uk/news/article/3027/28m_of_funding_approved_to_bring_more_new_homes_to_cheltenham))
@@ -68,6 +68,5 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Man ‘alarmed’ to find home included ‘without consent’ in 4000-house plan near M5 ([26 days ago](https://gloucesternewscentre.co.uk/man-alarmed-to-find-home-included-without-consent-in-4000-house-plan-near-m5/))
 - Cheltenham celebrates 10 years of prestigious Purple Flag ([27 days ago](https://www.cheltenham.gov.uk/news/article/3019/cheltenham_celebrates_10_years_of_prestigious_purple_flag))
 - Reshaping Cheltenham’s future with latest cabinet portfolio announcements ([27 days ago](https://www.cheltenham.gov.uk/news/article/3018/reshaping_cheltenhams_future_with_latest_cabinet_portfolio_announcements))
-- £25k cash boost for much-loved Cheltenham Playhouse ([29 days ago](https://www.cheltenham.gov.uk/news/article/3017/25k_cash_boost_for_much-loved_cheltenham_playhouse))
 
 <!-- news_marker ends -->
