@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Post or sign leaning slightly (less than 20 degrees) problem, 3rd July :- [7800871](https://www.fixmystreet.com/report/7800871)
+- Overgrown grass on football pitch, 3rd July :- [7800841](https://www.fixmystreet.com/report/7800841)
 - Flytipping, 2nd July :- [7800250](https://www.fixmystreet.com/report/7800250)
 - Tree branches too low, 2nd July :- [7800077](https://www.fixmystreet.com/report/7800077)
 - Ringway contractors have left two sets of barriers across pavement one of which is hanging over kerb, 2nd July :- [7800067](https://www.fixmystreet.com/report/7800067)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Kerbs and Channels problem, 2nd July :- [7797840](https://www.fixmystreet.com/report/7797840)
 - TMC - Defects - Other FW6  Surface problem, 2nd July :- [7797838](https://www.fixmystreet.com/report/7797838)
 - TMC - Defects - Kerbs and Channels problem, 2nd July :- [7797836](https://www.fixmystreet.com/report/7797836)
-- Signs and barriers left by contractors causing obstruction. Health and safety trip hazzard. This has been reported and closed twice, the obstruction is still there., 2nd July :- [7797614](https://www.fixmystreet.com/report/7797614)
-- TMC - Defects - Vegetation problem, 2nd July :- [7797649](https://www.fixmystreet.com/report/7797649)
 
 <!-- fix_marker ends -->
