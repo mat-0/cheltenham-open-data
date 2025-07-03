@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -41,12 +41,12 @@
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 3rd July</title>
-<link>https://www.fixmystreet.com/report/7805009</link>
-<description>28 day with give and take carriageway pothole 800x700x50mm tarmac patch required number 4 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7805009&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/7805008</link>
+<description>28 day with give and take carriageway pothole 800x650x40mm tarmac patch required number 3 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7805008&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7805009</guid>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7805008</guid>
 <pubDate>Thu, 03 Jul 2025 15:40:43 +0100</pubDate>
-<georss:point>51.8776529 -2.0719156</georss:point>
+<georss:point>51.8776481 -2.07187750000001</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 3rd July</title>
@@ -59,12 +59,21 @@
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 3rd July</title>
-<link>https://www.fixmystreet.com/report/7805008</link>
-<description>28 day with give and take carriageway pothole 800x650x40mm tarmac patch required number 3 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7805008&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/7805007</link>
+<description>28 day with give and take carriageway pothole 700x450x50mm tarmac patch required number 2 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7805007&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7805008</guid>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7805007</guid>
 <pubDate>Thu, 03 Jul 2025 15:40:43 +0100</pubDate>
 <georss:point>51.8776481 -2.07187750000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 3rd July</title>
+<link>https://www.fixmystreet.com/report/7805009</link>
+<description>28 day with give and take carriageway pothole 800x700x50mm tarmac patch required number 4 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7805009&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7805009</guid>
+<pubDate>Thu, 03 Jul 2025 15:40:43 +0100</pubDate>
+<georss:point>51.8776529 -2.0719156</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 3rd July</title>
@@ -74,15 +83,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/7805006</guid>
 <pubDate>Thu, 03 Jul 2025 15:40:43 +0100</pubDate>
 <georss:point>51.8776541807026 -2.0718395340392</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 3rd July</title>
-<link>https://www.fixmystreet.com/report/7805007</link>
-<description>28 day with give and take carriageway pothole 700x450x50mm tarmac patch required number 2 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7805007&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7805007</guid>
-<pubDate>Thu, 03 Jul 2025 15:40:43 +0100</pubDate>
-<georss:point>51.8776481 -2.07187750000001</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Vegetation problem, 3rd July</title>
@@ -131,21 +131,21 @@
 </item>
 <item>
 <title>TMC - Defects - Kerbs and Channels problem, 3rd July</title>
-<link>https://www.fixmystreet.com/report/7803680</link>
-<description>28 day with give and take plus temporary footway closure please lift and replace x1 broken lefthand dropper kerb 900x150x20mm stats required number 1 (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7803680&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Kerbs and Channels</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7803680</guid>
-<pubDate>Thu, 03 Jul 2025 12:58:17 +0100</pubDate>
-<georss:point>51.8502205 -2.15851820000002</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Kerbs and Channels problem, 3rd July</title>
 <link>https://www.fixmystreet.com/report/7803681</link>
 <description>28 day with give and take plus temporary footway closure please lift and replace x1 broken right hand dropper kerb 900x150x20mm stats required number 2 (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7803681&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Kerbs and Channels</category>
 <guid isPermaLink="false">https://www.fixmystreet.com/report/7803681</guid>
 <pubDate>Thu, 03 Jul 2025 12:58:17 +0100</pubDate>
 <georss:point>51.8501867 -2.1584881</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Kerbs and Channels problem, 3rd July</title>
+<link>https://www.fixmystreet.com/report/7803680</link>
+<description>28 day with give and take plus temporary footway closure please lift and replace x1 broken lefthand dropper kerb 900x150x20mm stats required number 1 (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7803680&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Kerbs and Channels</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7803680</guid>
+<pubDate>Thu, 03 Jul 2025 12:58:17 +0100</pubDate>
+<georss:point>51.8502205 -2.15851820000002</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Kerbs and Channels problem, 3rd July</title>
