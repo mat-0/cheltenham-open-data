@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -12,6 +12,24 @@
 <description>The latest local problems reported by users</description>
 <language>en-gb</language>
 
+<item>
+<title>TMC - Defects - Vegetation problem, 3rd July</title>
+<link>https://www.fixmystreet.com/report/7804244</link>
+<description>PLEASE CUT BACK HEDGE &amp;#10;SO TRAFFIC LIGHTS CAN BE CLEARLY SEEN &amp;#10;100m &amp;#10;LANE CLOSURE &amp;#10;NOT MARKED (Overgrown Hedge)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7804244&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Vegetation</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7804244</guid>
+<pubDate>Thu, 03 Jul 2025 14:17:32 +0100</pubDate>
+<georss:point>51.8756419748848 -1.96465886056894</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Vegetation problem, 3rd July</title>
+<link>https://www.fixmystreet.com/report/7804243</link>
+<description>Overgrown Tree CW &amp;#10;Opposite Sainsbury&amp;#39;s Petrol&amp;#10;Give and take TM &amp;#10;Cut back to clear Traffic Lights (Overgrown Tree)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7804243&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Vegetation</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7804243</guid>
+<pubDate>Thu, 03 Jul 2025 14:15:48 +0100</pubDate>
+<georss:point>51.902447 -2.0510161</georss:point>
+</item>
 <item>
 <title>Private tree growing over street light, 3rd July</title>
 <link>https://www.fixmystreet.com/report/7803991</link>
@@ -68,21 +86,21 @@
 </item>
 <item>
 <title>TMC - Defects - Kerbs and Channels problem, 3rd July</title>
-<link>https://www.fixmystreet.com/report/7803676</link>
-<description>28 day with give and take please lift and replace x1 broken sunken radius kerb 900x150x20mm stats required number 1 (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7803676&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Kerbs and Channels</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7803676</guid>
-<pubDate>Thu, 03 Jul 2025 12:49:43 +0100</pubDate>
-<georss:point>51.847968741992 -2.15851933911641</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Kerbs and Channels problem, 3rd July</title>
 <link>https://www.fixmystreet.com/report/7803678</link>
 <description>28 day with give and take please lift and replace x1 broken kerb 440x150x20mm stats required cutting required (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7803678&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Kerbs and Channels</category>
 <guid isPermaLink="false">https://www.fixmystreet.com/report/7803678</guid>
 <pubDate>Thu, 03 Jul 2025 12:49:43 +0100</pubDate>
 <georss:point>51.8481106570113 -2.1584967691073</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Kerbs and Channels problem, 3rd July</title>
+<link>https://www.fixmystreet.com/report/7803676</link>
+<description>28 day with give and take please lift and replace x1 broken sunken radius kerb 900x150x20mm stats required number 1 (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7803676&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Kerbs and Channels</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7803676</guid>
+<pubDate>Thu, 03 Jul 2025 12:49:43 +0100</pubDate>
+<georss:point>51.847968741992 -2.15851933911641</georss:point>
 </item>
 <item>
 <title>Flytipped items, 3rd July</title>
@@ -112,15 +130,6 @@
 <georss:point>51.906973 -2.109619</georss:point>
 </item>
 <item>
-<title>TMC - Defects - Covers, Gratings &amp; Frames problem, 3rd July</title>
-<link>https://www.fixmystreet.com/report/7803249</link>
-<description>28 day with give and take plus temporary footway closure please lift and rebuild collapsed manhole cover in footway 700x550mm plus tarmac patch required 950x550x90mm stats required (Broken Chamber Cover/Frame)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7803249&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Covers, Gratings &amp; Frames</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7803249</guid>
-<pubDate>Thu, 03 Jul 2025 11:43:39 +0100</pubDate>
-<georss:point>51.8426915797686 -2.14887784577827</georss:point>
-</item>
-<item>
 <title>TMC - Defects - Kerbs and Channels problem, 3rd July</title>
 <link>https://www.fixmystreet.com/report/7803248</link>
 <description>28 day with lane closure please lift and relay x1 sunken kerb next to manhole cover 900x150x20mm stats required number 3 (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7803248&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
@@ -148,6 +157,15 @@
 <georss:point>51.8425389004462 -2.14882165117781</georss:point>
 </item>
 <item>
+<title>TMC - Defects - Covers, Gratings &amp; Frames problem, 3rd July</title>
+<link>https://www.fixmystreet.com/report/7803249</link>
+<description>28 day with give and take plus temporary footway closure please lift and rebuild collapsed manhole cover in footway 700x550mm plus tarmac patch required 950x550x90mm stats required (Broken Chamber Cover/Frame)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7803249&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Covers, Gratings &amp; Frames</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7803249</guid>
+<pubDate>Thu, 03 Jul 2025 11:43:39 +0100</pubDate>
+<georss:point>51.8426915797686 -2.14887784577827</georss:point>
+</item>
+<item>
 <title>TMC - Defects -FW6 Potholes problem, 3rd July</title>
 <link>https://www.fixmystreet.com/report/7803245</link>
 <description>28 day with give and take plus temporary footway/Cycle lane closure footway pothole 900x300x30mm tarmac patch required stats required (FW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7803245&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
@@ -167,30 +185,12 @@
 </item>
 <item>
 <title>TMC - Defects - Kerbs and Channels problem, 3rd July</title>
-<link>https://www.fixmystreet.com/report/7802982</link>
-<description>28 day with 2 way stop and go plus temporary footway closure please lift and relay x1 sunken kerb 900x150x20mm stats required (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7802982&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Kerbs and Channels</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7802982</guid>
-<pubDate>Thu, 03 Jul 2025 11:34:33 +0100</pubDate>
-<georss:point>51.8684804124054 -2.11096613930059</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Kerbs and Channels problem, 3rd July</title>
 <link>https://www.fixmystreet.com/report/7802984</link>
 <description>28 day with 3 way stop and go plus temporary footway closure please lift and replace x1 broken kerb 900x150x20mm stats required (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7802984&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Kerbs and Channels</category>
 <guid isPermaLink="false">https://www.fixmystreet.com/report/7802984</guid>
 <pubDate>Thu, 03 Jul 2025 11:34:33 +0100</pubDate>
 <georss:point>51.8629683 -2.1192317</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Kerbs and Channels problem, 3rd July</title>
-<link>https://www.fixmystreet.com/report/7802983</link>
-<description>28 day with 2 way stop and go plus temporary footway closure please lift and replace x1 broken kerb 900x150x20mm stats required (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7802983&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Kerbs and Channels</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7802983</guid>
-<pubDate>Thu, 03 Jul 2025 11:34:33 +0100</pubDate>
-<georss:point>51.8686552 -2.110774</georss:point>
 </item>
 </channel>
 </rss>
