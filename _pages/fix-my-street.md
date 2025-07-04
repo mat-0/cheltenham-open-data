@@ -9,6 +9,16 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- There is a pach of grass outside of 3 Symphony Road that has been adopted by LA highways in 2017 as per the attached plan - this area of grass falls into the responsibility of GCC highways when the areas were adopted in 2017, 4th July :- [7809414](https://www.fixmystreet.com/report/7809414)
+- Overgrown verge, 4th July :- [7809330](https://www.fixmystreet.com/report/7809330)
+- TMC - Defects - Other FW6  Surface problem, 4th July :- [7809394](https://www.fixmystreet.com/report/7809394)
+- TMC - Defects -CW6 Potholes  problem, 4th July :- [7809393](https://www.fixmystreet.com/report/7809393)
+- TMC - Defects - Other FW6  Surface problem, 4th July :- [7809396](https://www.fixmystreet.com/report/7809396)
+- TMC - Defects -CW6 Potholes  problem, 4th July :- [7809390](https://www.fixmystreet.com/report/7809390)
+- TMC - Defects - Kerbs and Channels problem, 4th July :- [7809391](https://www.fixmystreet.com/report/7809391)
+- TMC - Defects - Other FW6  Surface problem, 4th July :- [7809395](https://www.fixmystreet.com/report/7809395)
+- TMC - Defects - Other FW6  Surface problem, 4th July :- [7809392](https://www.fixmystreet.com/report/7809392)
+- TMC - Defects -CW6 Potholes  problem, 4th July :- [7809389](https://www.fixmystreet.com/report/7809389)
 - Flyposted huge banner on railings at junction, 4th July :- [7808909](https://www.fixmystreet.com/report/7808909)
 - Flyposter on telegraph pole again, 4th July :- [7808899](https://www.fixmystreet.com/report/7808899)
 - Drain blocked. Bayshill Road, 4th July :- [7808818](https://www.fixmystreet.com/report/7808818)
@@ -16,18 +26,8 @@ permalink: /fix-my-street
 - TMC - Defects - Signs & Street Furniture problem, 4th July :- [7808865](https://www.fixmystreet.com/report/7808865)
 - TMC - Defects -CW6 Potholes  problem, 4th July :- [7808857](https://www.fixmystreet.com/report/7808857)
 - Abandoned vehicle with punctured tyres, 4th July :- [7808707](https://www.fixmystreet.com/report/7808707)
-- TMC - Defects -CW6 Potholes  problem, 4th July :- [7808841](https://www.fixmystreet.com/report/7808841)
-- TMC - Defects -CW6 Potholes  problem, 4th July :- [7808839](https://www.fixmystreet.com/report/7808839)
-- TMC - Defects -CW6 Potholes  problem, 4th July :- [7808842](https://www.fixmystreet.com/report/7808842)
-- TMC - Defects -CW6 Potholes  problem, 4th July :- [7808836](https://www.fixmystreet.com/report/7808836)
-- TMC - Defects -CW6 Potholes  problem, 4th July :- [7808833](https://www.fixmystreet.com/report/7808833)
-- TMC - Defects -CW6 Potholes  problem, 4th July :- [7808840](https://www.fixmystreet.com/report/7808840)
-- TMC - Defects -CW6 Potholes  problem, 4th July :- [7808834](https://www.fixmystreet.com/report/7808834)
-- TMC - Defects -CW6 Potholes  problem, 4th July :- [7808844](https://www.fixmystreet.com/report/7808844)
-- TMC - Defects -CW6 Potholes  problem, 4th July :- [7808838](https://www.fixmystreet.com/report/7808838)
 - TMC - Defects -CW6 Potholes  problem, 4th July :- [7808835](https://www.fixmystreet.com/report/7808835)
 - TMC - Defects -CW6 Potholes  problem, 4th July :- [7808837](https://www.fixmystreet.com/report/7808837)
-- TMC - Defects -CW6 Potholes  problem, 4th July :- [7808843](https://www.fixmystreet.com/report/7808843)
-- TMC - Defects -CW6 Potholes  problem, 4th July :- [7808845](https://www.fixmystreet.com/report/7808845)
+- TMC - Defects -CW6 Potholes  problem, 4th July :- [7808838](https://www.fixmystreet.com/report/7808838)
 
 <!-- fix_marker ends -->
