@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Goal with net, 4th July :- [7811271](https://www.fixmystreet.com/report/7811271)
+- Bush/tree overgrown again, 4th July :- [7811230](https://www.fixmystreet.com/report/7811230)
 - Tree has split and is actively moving apart, 4th July :- [7811162](https://www.fixmystreet.com/report/7811162)
 - Very old tree, could easily fall onto my car and house, 4th July :- [7811098](https://www.fixmystreet.com/report/7811098)
 - Possibly flytipped fridge freezer, 4th July :- [7810996](https://www.fixmystreet.com/report/7810996)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Covers, Gratings & Frames problem, 4th July :- [7810234](https://www.fixmystreet.com/report/7810234)
 - Getting to high getting wasp/bees around children, 4th July :- [7809975](https://www.fixmystreet.com/report/7809975)
 - TMC - Defects - Covers, Gratings & Frames problem, 4th July :- [7810044](https://www.fixmystreet.com/report/7810044)
-- Stop lines have not been replaced, 4th July :- [7809903](https://www.fixmystreet.com/report/7809903)
-- TMC - Defects - Other FW6  Surface problem, 4th July :- [7810037](https://www.fixmystreet.com/report/7810037)
 
 <!-- fix_marker ends -->
