@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree has split and is actively moving apart, 4th July :- [7811162](https://www.fixmystreet.com/report/7811162)
+- Very old tree, could easily fall onto my car and house, 4th July :- [7811098](https://www.fixmystreet.com/report/7811098)
 - Possibly flytipped fridge freezer, 4th July :- [7810996](https://www.fixmystreet.com/report/7810996)
 - Flytipped items, 4th July :- [7810970](https://www.fixmystreet.com/report/7810970)
 - Flytipped items, 4th July :- [7810916](https://www.fixmystreet.com/report/7810916)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Covers, Gratings & Frames problem, 4th July :- [7810044](https://www.fixmystreet.com/report/7810044)
 - Stop lines have not been replaced, 4th July :- [7809903](https://www.fixmystreet.com/report/7809903)
 - TMC - Defects - Other FW6  Surface problem, 4th July :- [7810037](https://www.fixmystreet.com/report/7810037)
-- TMC - Defects - Other FW6  Surface problem, 4th July :- [7810036](https://www.fixmystreet.com/report/7810036)
-- There is a pach of grass outside of 3 Symphony Road that has been adopted by LA highways in 2017 as per the attached plan - this area of grass falls into the responsibility of GCC highways when the areas were adopted in 2017, 4th July :- [7809414](https://www.fixmystreet.com/report/7809414)
 
 <!-- fix_marker ends -->
