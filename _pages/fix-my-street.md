@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Trip Hazzard, 4th July :- [7811421](https://www.fixmystreet.com/report/7811421)
 - Goal with net, 4th July :- [7811271](https://www.fixmystreet.com/report/7811271)
 - Bush/tree overgrown again, 4th July :- [7811230](https://www.fixmystreet.com/report/7811230)
 - Tree has split and is actively moving apart, 4th July :- [7811162](https://www.fixmystreet.com/report/7811162)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Road sign is not fully attached, 4th July :- [7810347](https://www.fixmystreet.com/report/7810347)
 - TMC - Defects - Covers, Gratings & Frames problem, 4th July :- [7810234](https://www.fixmystreet.com/report/7810234)
 - Getting to high getting wasp/bees around children, 4th July :- [7809975](https://www.fixmystreet.com/report/7809975)
-- TMC - Defects - Covers, Gratings & Frames problem, 4th July :- [7810044](https://www.fixmystreet.com/report/7810044)
 
 <!-- fix_marker ends -->
