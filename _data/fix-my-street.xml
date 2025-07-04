@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:georss="http://www.georss.org/georss"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
+ xmlns:georss="http://www.georss.org/georss"
 >
 
 <channel>
@@ -50,10 +50,10 @@
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 3rd July</title>
-<link>https://www.fixmystreet.com/report/7805008</link>
-<description>28 day with give and take carriageway pothole 800x650x40mm tarmac patch required number 3 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7805008&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/7805007</link>
+<description>28 day with give and take carriageway pothole 700x450x50mm tarmac patch required number 2 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7805007&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7805008</guid>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7805007</guid>
 <pubDate>Thu, 03 Jul 2025 15:40:43 +0100</pubDate>
 <georss:point>51.8776481 -2.07187750000001</georss:point>
 </item>
@@ -68,10 +68,19 @@
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 3rd July</title>
-<link>https://www.fixmystreet.com/report/7805007</link>
-<description>28 day with give and take carriageway pothole 700x450x50mm tarmac patch required number 2 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7805007&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/7805010</link>
+<description>28 day with give and take carriageway pothole 350x300x40mm plus x2 NSD tarmac patch required number 5 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7805010&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7805007</guid>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7805010</guid>
+<pubDate>Thu, 03 Jul 2025 15:40:43 +0100</pubDate>
+<georss:point>51.8776833230827 -2.07200959728712</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 3rd July</title>
+<link>https://www.fixmystreet.com/report/7805008</link>
+<description>28 day with give and take carriageway pothole 800x650x40mm tarmac patch required number 3 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7805008&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7805008</guid>
 <pubDate>Thu, 03 Jul 2025 15:40:43 +0100</pubDate>
 <georss:point>51.8776481 -2.07187750000001</georss:point>
 </item>
@@ -83,15 +92,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/7805009</guid>
 <pubDate>Thu, 03 Jul 2025 15:40:43 +0100</pubDate>
 <georss:point>51.8776529 -2.0719156</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 3rd July</title>
-<link>https://www.fixmystreet.com/report/7805010</link>
-<description>28 day with give and take carriageway pothole 350x300x40mm plus x2 NSD tarmac patch required number 5 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7805010&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7805010</guid>
-<pubDate>Thu, 03 Jul 2025 15:40:43 +0100</pubDate>
-<georss:point>51.8776833230827 -2.07200959728712</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Vegetation problem, 3rd July</title>
