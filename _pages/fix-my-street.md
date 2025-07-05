@@ -11,6 +11,8 @@ permalink: /fix-my-street
 
 - Footpath is completely blocked by crops, 5th July :- [7814005](https://www.fixmystreet.com/report/7814005)
 - Footpath is not usable due to crops and weeds, 5th July :- [7813988](https://www.fixmystreet.com/report/7813988)
+- Crops growing over route, 5th July :- [7813682](https://www.fixmystreet.com/report/7813682)
+- Bridleway not maintained and not passable., 5th July :- [7813604](https://www.fixmystreet.com/report/7813604)
 - Flytipped items, 5th July :- [7813357](https://www.fixmystreet.com/report/7813357)
 - Volunteer litter pick bags ready for collection, 5th July :- [7813228](https://www.fixmystreet.com/report/7813228)
 - Dog mess at entrance to public right of way, 5th July :- [7813109](https://www.fixmystreet.com/report/7813109)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Diverted traffic is unable to turn right onto wymans lane so backing up over level crossing. Needs temporary three way lights, 5th July :- [7812106](https://www.fixmystreet.com/report/7812106)
 - Flyposter on railings at mini-roundabout, 5th July :- [7812003](https://www.fixmystreet.com/report/7812003)
 - Large reinstatement which has sunk,it was painted about 2yrs ago and nothing was done, 5th July :- [7811957](https://www.fixmystreet.com/report/7811957)
-- Stileb moped dumped, 5th July :- [7811855](https://www.fixmystreet.com/report/7811855)
-- Trip Hazzard, 4th July :- [7811421](https://www.fixmystreet.com/report/7811421)
 
 <!-- fix_marker ends -->
