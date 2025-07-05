@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dog mess at entrance to public right of way, 5th July :- [7813109](https://www.fixmystreet.com/report/7813109)
+- Large amount of dog mess on pavement on old railway bridge, 5th July :- [7813107](https://www.fixmystreet.com/report/7813107)
+- R A Bennett estate agent poster attached to public street sign, 5th July :- [7813101](https://www.fixmystreet.com/report/7813101)
+- Flyposter for cafe on railings, 5th July :- [7813096](https://www.fixmystreet.com/report/7813096)
 - Road signs and fences left on path, 5th July :- [7812656](https://www.fixmystreet.com/report/7812656)
 - Dog waste bins not emptied for several weeks, 5th July :- [7812640](https://www.fixmystreet.com/report/7812640)
 - Wire fencing between parkland and grounds of Swindon Hall falling down, 5th July :- [7812636](https://www.fixmystreet.com/report/7812636)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Bush/tree overgrown again, 4th July :- [7811230](https://www.fixmystreet.com/report/7811230)
 - Tree has split and is actively moving apart, 4th July :- [7811162](https://www.fixmystreet.com/report/7811162)
 - Very old tree, could easily fall onto my car and house, 4th July :- [7811098](https://www.fixmystreet.com/report/7811098)
-- Possibly flytipped fridge freezer, 4th July :- [7810996](https://www.fixmystreet.com/report/7810996)
-- Flytipped items, 4th July :- [7810970](https://www.fixmystreet.com/report/7810970)
-- Flytipped items, 4th July :- [7810916](https://www.fixmystreet.com/report/7810916)
-- Flytipped items, 4th July :- [7810890](https://www.fixmystreet.com/report/7810890)
 
 <!-- fix_marker ends -->
