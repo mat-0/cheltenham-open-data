@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Cones left behind, 5th July :- [7814622](https://www.fixmystreet.com/report/7814622)
 - Footpath is completely blocked by crops, 5th July :- [7814005](https://www.fixmystreet.com/report/7814005)
 - Footpath is not usable due to crops and weeds, 5th July :- [7813988](https://www.fixmystreet.com/report/7813988)
 - Crops growing over route, 5th July :- [7813682](https://www.fixmystreet.com/report/7813682)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Capel lane London road, 5th July :- [7812152](https://www.fixmystreet.com/report/7812152)
 - Diverted traffic is unable to turn right onto wymans lane so backing up over level crossing. Needs temporary three way lights, 5th July :- [7812106](https://www.fixmystreet.com/report/7812106)
 - Flyposter on railings at mini-roundabout, 5th July :- [7812003](https://www.fixmystreet.com/report/7812003)
-- Large reinstatement which has sunk,it was painted about 2yrs ago and nothing was done, 5th July :- [7811957](https://www.fixmystreet.com/report/7811957)
 
 <!-- fix_marker ends -->
