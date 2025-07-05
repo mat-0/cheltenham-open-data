@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Road signs and fences left on path, 5th July :- [7812656](https://www.fixmystreet.com/report/7812656)
+- Dog waste bins not emptied for several weeks, 5th July :- [7812640](https://www.fixmystreet.com/report/7812640)
+- Wire fencing between parkland and grounds of Swindon Hall falling down, 5th July :- [7812636](https://www.fixmystreet.com/report/7812636)
+- Broken glass on old Pates' field, 5th July :- [7812598](https://www.fixmystreet.com/report/7812598)
 - There are 2 jutting covers (BT?) on Hales Rd at the junctions with Strickland Rd & Upper Park St that are a trip hazard. A resident recently tripped over on one of them and badly grazed their arm. Next time it could have be worse i.e. break or fracture. There is also a dip in the pavement close to the manhole cover at the Hales Rd/Strickland junction which is also a trip hazard., 5th July :- [7812373](https://www.fixmystreet.com/report/7812373)
 - Public footpath underpass completely obstructed, 5th July :- [7812364](https://www.fixmystreet.com/report/7812364)
 - Capel lane London road, 5th July :- [7812152](https://www.fixmystreet.com/report/7812152)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Flytipped items, 4th July :- [7810970](https://www.fixmystreet.com/report/7810970)
 - Flytipped items, 4th July :- [7810916](https://www.fixmystreet.com/report/7810916)
 - Flytipped items, 4th July :- [7810890](https://www.fixmystreet.com/report/7810890)
-- Flytipped furniture, 4th July :- [7810886](https://www.fixmystreet.com/report/7810886)
-- No access to Gloucestershire way path at Greenfield Farm, 4th July :- [7810853](https://www.fixmystreet.com/report/7810853)
-- Trees require maintenance, 4th July :- [7810837](https://www.fixmystreet.com/report/7810837)
-- Fly tipped sofa and chair, 4th July :- [7810800](https://www.fixmystreet.com/report/7810800)
 
 <!-- fix_marker ends -->
