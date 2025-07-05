@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipped items, 5th July :- [7813357](https://www.fixmystreet.com/report/7813357)
+- Volunteer litter pick bags ready for collection, 5th July :- [7813228](https://www.fixmystreet.com/report/7813228)
 - Dog mess at entrance to public right of way, 5th July :- [7813109](https://www.fixmystreet.com/report/7813109)
 - Large amount of dog mess on pavement on old railway bridge, 5th July :- [7813107](https://www.fixmystreet.com/report/7813107)
 - R A Bennett estate agent poster attached to public street sign, 5th July :- [7813101](https://www.fixmystreet.com/report/7813101)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Trip Hazzard, 4th July :- [7811421](https://www.fixmystreet.com/report/7811421)
 - Goal with net, 4th July :- [7811271](https://www.fixmystreet.com/report/7811271)
 - Bush/tree overgrown again, 4th July :- [7811230](https://www.fixmystreet.com/report/7811230)
-- Tree has split and is actively moving apart, 4th July :- [7811162](https://www.fixmystreet.com/report/7811162)
-- Very old tree, could easily fall onto my car and house, 4th July :- [7811098](https://www.fixmystreet.com/report/7811098)
 
 <!-- fix_marker ends -->
