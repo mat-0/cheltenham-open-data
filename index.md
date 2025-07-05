@@ -10,12 +10,12 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Saturday, 05 July 2025
 
-- The average temperature today is 16.55˚C,
-- With highs of 16.96˚C and lows of 15.94˚C,
-- It may feel like 16.43˚C with overcast clouds
-- The wind speed is 2.68m/s and visibility is 10000m
-- The pressure is 1009hPa and humidity is 83%
-- The sun will rise at 03:56 and set at 20:29
+- The average temperature today is 16.37˚C,
+- With highs of 17.21˚C and lows of 15.93˚C,
+- It may feel like 16.26˚C with overcast clouds
+- The wind speed is 2.24m/s and visibility is 10000m
+- The pressure is 1009hPa and humidity is 84%
+- The sun will rise at 03:57 and set at 20:28
 
 <!-- weather_marker ends -->
 
