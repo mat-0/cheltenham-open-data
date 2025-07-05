@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flyposter on railings at mini-roundabout, 5th July :- [7812003](https://www.fixmystreet.com/report/7812003)
+- Large reinstatement which has sunk,it was painted about 2yrs ago and nothing was done, 5th July :- [7811957](https://www.fixmystreet.com/report/7811957)
 - Stileb moped dumped, 5th July :- [7811855](https://www.fixmystreet.com/report/7811855)
 - Trip Hazzard, 4th July :- [7811421](https://www.fixmystreet.com/report/7811421)
 - Goal with net, 4th July :- [7811271](https://www.fixmystreet.com/report/7811271)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Old no cycling signs faded and misleading, 4th July :- [7810515](https://www.fixmystreet.com/report/7810515)
 - Flyposter advertising on telegraph pole, 4th July :- [7810487](https://www.fixmystreet.com/report/7810487)
 - Tree is damaged problem, 4th July :- [7810423](https://www.fixmystreet.com/report/7810423)
-- Road sign is not fully attached, 4th July :- [7810347](https://www.fixmystreet.com/report/7810347)
-- TMC - Defects - Covers, Gratings & Frames problem, 4th July :- [7810234](https://www.fixmystreet.com/report/7810234)
 
 <!-- fix_marker ends -->
