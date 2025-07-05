@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Staff share fond memories for hospital anniversary ([6 hours ago](https://www.bbc.com/news/articles/c8xvvw9vep4o))
-- West MPs on 'rollercoaster' first year in Parliament ([9 hours ago](https://www.bbc.com/news/articles/c056933ej6do))
-- 'Crazy' challenge in support of men's mental health ([11 hours ago](https://www.bbc.com/news/articles/c873epv7pg8o))
-- Gloucestershire in pics: Sculptures and celebrations ([12 hours ago](https://www.bbc.com/news/articles/cy0wqwjz59ko))
+- Staff share fond memories for hospital anniversary ([7 hours ago](https://www.bbc.com/news/articles/c8xvvw9vep4o))
+- West MPs on 'rollercoaster' first year in Parliament ([10 hours ago](https://www.bbc.com/news/articles/c056933ej6do))
+- 'Crazy' challenge in support of men's mental health ([12 hours ago](https://www.bbc.com/news/articles/c873epv7pg8o))
+- Gloucestershire in pics: Sculptures and celebrations ([13 hours ago](https://www.bbc.com/news/articles/cy0wqwjz59ko))
 - Man charged following execution of drugs warrants in Cheltenham ([1 days ago](https://gloucesternewscentre.co.uk/man-charged-following-execution-of-drugs-warrants-in-cheltenham-2/))
 - College welcomes wheelchair-friendly path to Cotswold beauty spot near A417 ([1 days ago](https://gloucesternewscentre.co.uk/college-welcomes-wheelchair-friendly-path-to-cotswold-beauty-spot-near-a417/))
 - Appeal for witnesses after a woman sustained a head injury in Cheltenham ([1 days ago](https://gloucesternewscentre.co.uk/appeal-for-witnesses-after-a-woman-sustained-a-head-injury-in-cheltenham/))
@@ -46,7 +46,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Report of fire engine hitting parked car and smashing wing mirror sparks investigation ([5 days ago](https://gloucesternewscentre.co.uk/report-of-fire-engine-hitting-parked-car-and-smashing-wing-mirror-sparks-investigation/))
 - ‘Flying club’ airport which ‘doesn’t take B-52s’ ‘should be used for housing’ ([5 days ago](https://gloucesternewscentre.co.uk/flying-club-airport-which-doesnt-take-b-52s-should-be-used-for-housing/))
 - Helping wildflowers bloom across Cheltenham ([8 days ago](https://www.cheltenham.gov.uk/news/article/3025/helping_wildflowers_bloom_across_cheltenham))
-- Gloucestershire Airport sale backed by councils ([8 days ago](https://gloucesternewscentre.co.uk/gloucestershire-airport-sale-backed-by-councils/))
+- Gloucestershire Airport sale backed by councils ([9 days ago](https://gloucesternewscentre.co.uk/gloucestershire-airport-sale-backed-by-councils/))
 - Succesful crime-busting scheme extended in Cheltenham ([9 days ago](https://gloucesternewscentre.co.uk/succesful-crime-busting-scheme-extended-in-cheltenham/))
 - Gloucester man found guilty after promises to customers go up in smoke ([9 days ago](https://gloucesternewscentre.co.uk/gloucester-man-found-guilty-after-promises-to-customers-go-up-in-smoke/))
 - Gloucestershire Airport sale backed by councils ([9 days ago](https://www.cheltenham.gov.uk/news/article/3024/gloucestershire_airport_sale_backed_by_councils))
