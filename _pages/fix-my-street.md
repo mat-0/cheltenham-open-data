@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- There are 2 jutting covers (BT?) on Hales Rd at the junctions with Strickland Rd & Upper Park St that are a trip hazard. A resident recently tripped over on one of them and badly grazed their arm. Next time it could have be worse i.e. break or fracture. There is also a dip in the pavement close to the manhole cover at the Hales Rd/Strickland junction which is also a trip hazard., 5th July :- [7812373](https://www.fixmystreet.com/report/7812373)
+- Public footpath underpass completely obstructed, 5th July :- [7812364](https://www.fixmystreet.com/report/7812364)
+- Capel lane London road, 5th July :- [7812152](https://www.fixmystreet.com/report/7812152)
+- Diverted traffic is unable to turn right onto wymans lane so backing up over level crossing. Needs temporary three way lights, 5th July :- [7812106](https://www.fixmystreet.com/report/7812106)
 - Flyposter on railings at mini-roundabout, 5th July :- [7812003](https://www.fixmystreet.com/report/7812003)
 - Large reinstatement which has sunk,it was painted about 2yrs ago and nothing was done, 5th July :- [7811957](https://www.fixmystreet.com/report/7811957)
 - Stileb moped dumped, 5th July :- [7811855](https://www.fixmystreet.com/report/7811855)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - No access to Gloucestershire way path at Greenfield Farm, 4th July :- [7810853](https://www.fixmystreet.com/report/7810853)
 - Trees require maintenance, 4th July :- [7810837](https://www.fixmystreet.com/report/7810837)
 - Fly tipped sofa and chair, 4th July :- [7810800](https://www.fixmystreet.com/report/7810800)
-- Flytipped furniture, 4th July :- [7810794](https://www.fixmystreet.com/report/7810794)
-- Old no cycling signs faded and misleading, 4th July :- [7810515](https://www.fixmystreet.com/report/7810515)
-- Flyposter advertising on telegraph pole, 4th July :- [7810487](https://www.fixmystreet.com/report/7810487)
-- Tree is damaged problem, 4th July :- [7810423](https://www.fixmystreet.com/report/7810423)
 
 <!-- fix_marker ends -->
