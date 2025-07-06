@@ -12,9 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Police arrest 37 in major drug crackdown ([6 hours ago](https://www.bbc.com/news/articles/cwygdl7qw2zo))
-- How is climate change affecting Gloucestershire? ([11 hours ago](https://www.bbc.com/news/articles/cwyg560npnqo))
-- Birnbeck Pier, cannabis arrests, wheelchair 'attack' ([11 hours ago](https://www.bbc.com/news/articles/cdr363r5n8yo))
+- Charity marks 60 years teaching  disabled riders ([1 hours ago](https://www.bbc.com/news/articles/cx2vnrnd1vjo))
+- Police arrest 37 in major drug crackdown ([7 hours ago](https://www.bbc.com/news/articles/cwygdl7qw2zo))
+- How is climate change affecting Gloucestershire? ([12 hours ago](https://www.bbc.com/news/articles/cwyg560npnqo))
+- Birnbeck Pier, cannabis arrests, wheelchair 'attack' ([12 hours ago](https://www.bbc.com/news/articles/cdr363r5n8yo))
 - Staff share fond memories for hospital anniversary ([1 days ago](https://www.bbc.com/news/articles/c8xvvw9vep4o))
 - West MPs on 'rollercoaster' first year in Parliament ([1 days ago](https://www.bbc.com/news/articles/c056933ej6do))
 - 'Crazy' challenge in support of men's mental health ([1 days ago](https://www.bbc.com/news/articles/c873epv7pg8o))
@@ -39,7 +40,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Family tribute to Gloucestershire PC who died while on duty ([3 days ago](https://gloucesternewscentre.co.uk/family-tribute-to-gloucestershire-pc-who-died-while-on-duty/))
 - Police hunt two people after hate crime before Pride ([3 days ago](https://www.bbc.com/news/articles/c2ezn0d8d8do))
 - Cheltenham achieves 6th place ranking in 2025 Climate Emergency UK Scorecards ([3 days ago](https://www.cheltenham.gov.uk/news/article/3028/cheltenham_achieves_6th_place_ranking_in_2025_climate_emergency_uk_scorecards))
-- Dramatic pictures show scale of £460m road project ([3 days ago](https://www.bbc.com/news/articles/c20wwle56gqo))
 - Car park plot sold by council for sale for more than double the price a year on ([4 days ago](https://gloucesternewscentre.co.uk/car-park-plot-sold-by-council-for-sale-for-more-than-double-the-price-a-year-on/))
 - £2.8m of funding approved to bring more new homes to Cheltenham ([4 days ago](https://www.cheltenham.gov.uk/news/article/3027/28m_of_funding_approved_to_bring_more_new_homes_to_cheltenham))
 - New business grant fund supports local carbon reduction and enables cost savings ([6 days ago](https://www.cheltenham.gov.uk/news/article/3026/new_business_grant_fund_supports_local_carbon_reduction_and_enables_cost_savings))
