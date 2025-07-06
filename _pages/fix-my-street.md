@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree roots damaging property wall, 6th July :- [7816298](https://www.fixmystreet.com/report/7816298)
+- Drain is overflowing when it’s raining, 6th July :- [7816292](https://www.fixmystreet.com/report/7816292)
+- Duty of care ,to keep road side drains clear, and paths, 6th July :- [7816242](https://www.fixmystreet.com/report/7816242)
+- The kerb outside my property is lifting. I have had this problem before after the council put a gully in., 6th July :- [7816215](https://www.fixmystreet.com/report/7816215)
+- Overgrown trees coming across mine and my neighbours property Line. Branches and sap are dropping on my vehicles. Also the roots are starting to lift my neighbours garden and are getting close to my driveway., 6th July :- [7816209](https://www.fixmystreet.com/report/7816209)
 - Dangerous Road - Kidnappers Lane, 6th July :- [7814918](https://www.fixmystreet.com/report/7814918)
 - Cones left behind, 5th July :- [7814622](https://www.fixmystreet.com/report/7814622)
 - Footpath is completely blocked by crops, 5th July :- [7814005](https://www.fixmystreet.com/report/7814005)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Road signs and fences left on path, 5th July :- [7812656](https://www.fixmystreet.com/report/7812656)
 - Dog waste bins not emptied for several weeks, 5th July :- [7812640](https://www.fixmystreet.com/report/7812640)
 - Wire fencing between parkland and grounds of Swindon Hall falling down, 5th July :- [7812636](https://www.fixmystreet.com/report/7812636)
-- Broken glass on old Pates' field, 5th July :- [7812598](https://www.fixmystreet.com/report/7812598)
-- There are 2 jutting covers (BT?) on Hales Rd at the junctions with Strickland Rd & Upper Park St that are a trip hazard. A resident recently tripped over on one of them and badly grazed their arm. Next time it could have be worse i.e. break or fracture. There is also a dip in the pavement close to the manhole cover at the Hales Rd/Strickland junction which is also a trip hazard., 5th July :- [7812373](https://www.fixmystreet.com/report/7812373)
-- Public footpath underpass completely obstructed, 5th July :- [7812364](https://www.fixmystreet.com/report/7812364)
-- Capel lane London road, 5th July :- [7812152](https://www.fixmystreet.com/report/7812152)
-- Diverted traffic is unable to turn right onto wymans lane so backing up over level crossing. Needs temporary three way lights, 5th July :- [7812106](https://www.fixmystreet.com/report/7812106)
 
 <!-- fix_marker ends -->

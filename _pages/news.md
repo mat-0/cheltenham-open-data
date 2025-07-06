@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Police arrest 37 in major drug crackdown ([44 minutes ago](https://www.bbc.com/news/articles/cwygdl7qw2zo))
-- How is climate change affecting Gloucestershire? ([5 hours ago](https://www.bbc.com/news/articles/cwyg560npnqo))
-- Birnbeck Pier, cannabis arrests, wheelchair 'attack' ([5 hours ago](https://www.bbc.com/news/articles/cdr363r5n8yo))
-- Staff share fond memories for hospital anniversary ([23 hours ago](https://www.bbc.com/news/articles/c8xvvw9vep4o))
+- Police arrest 37 in major drug crackdown ([1 hours ago](https://www.bbc.com/news/articles/cwygdl7qw2zo))
+- How is climate change affecting Gloucestershire? ([6 hours ago](https://www.bbc.com/news/articles/cwyg560npnqo))
+- Birnbeck Pier, cannabis arrests, wheelchair 'attack' ([6 hours ago](https://www.bbc.com/news/articles/cdr363r5n8yo))
+- Staff share fond memories for hospital anniversary ([1 days ago](https://www.bbc.com/news/articles/c8xvvw9vep4o))
 - West MPs on 'rollercoaster' first year in Parliament ([1 days ago](https://www.bbc.com/news/articles/c056933ej6do))
 - 'Crazy' challenge in support of men's mental health ([1 days ago](https://www.bbc.com/news/articles/c873epv7pg8o))
 - Gloucestershire in pics: Sculptures and celebrations ([1 days ago](https://www.bbc.com/news/articles/cy0wqwjz59ko))
@@ -25,8 +25,8 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Police issue CCTV images of man in connection with an incident in Cheltenham ([1 days ago](https://gloucesternewscentre.co.uk/police-issue-cctv-images-of-man-in-connection-with-an-incident-in-cheltenham/))
 - HBD secures green light for first phase of landmark £1bn Golden Valley scheme ([1 days ago](https://www.cheltenham.gov.uk/news/article/3030/hbd_secures_green_light_for_first_phase_of_landmark_1bn_golden_valley_scheme))
 - 'Pioneering' surgery and '86-year-old's first tattoo' ([1 days ago](https://www.bbc.com/news/articles/cn0qxx8vr0xo))
-- Arrest made after woman suffers serious head injury ([1 days ago](https://www.bbc.com/news/articles/c1wpgglvw52o))
-- 'We're pushing ourselves to the limit with 15 marathons in 15 days for charity' ([1 days ago](https://www.bbc.com/news/articles/c4g8vz8n4lpo))
+- Arrest made after woman suffers serious head injury ([2 days ago](https://www.bbc.com/news/articles/c1wpgglvw52o))
+- 'We're pushing ourselves to the limit with 15 marathons in 15 days for charity' ([2 days ago](https://www.bbc.com/news/articles/c4g8vz8n4lpo))
 - Strike among NHS hospital staff reaches 100th day ([2 days ago](https://www.bbc.com/news/articles/ce8z3rl15e8o))
 - Heat pump roadshow - ask an expert ([2 days ago](https://www.cheltenham.gov.uk/news/article/3029/heat_pump_roadshow_-_ask_an_expert))
 - Man jailed for trafficking exploited sex worker ([2 days ago](https://www.bbc.com/news/articles/c86g4gj2jlno))
@@ -67,6 +67,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Joint statement with Gloucester City Council: Preferred bidder for Gloucestershire Airport to deliver soaring potential for economic benefit to region ([18 days ago](https://www.cheltenham.gov.uk/news/article/3021/joint_statement_with_gloucester_city_council_preferred_bidder_for_gloucestershire_airport_to_deliver_soaring_potential_for_economic_benefit_to_region))
 - Scene guard in place overnight after report two men assaulted a man in Cheltenham ([19 days ago](https://gloucesternewscentre.co.uk/scene-guard-in-place-overnight-after-report-two-men-assaulted-a-man-in-cheltenham/))
 - Man sentenced for illegal tobacco sales ([20 days ago](https://gloucesternewscentre.co.uk/man-sentenced-for-illegal-tobacco-sales/))
-- Petersfield Community and Sports Hub set to strengthen community pride in Cheltenham ([22 days ago](https://www.cheltenham.gov.uk/news/article/3020/petersfield_community_and_sports_hub_set_to_strengthen_community_pride_in_cheltenham))
+- Petersfield Community and Sports Hub set to strengthen community pride in Cheltenham ([23 days ago](https://www.cheltenham.gov.uk/news/article/3020/petersfield_community_and_sports_hub_set_to_strengthen_community_pride_in_cheltenham))
 
 <!-- news_marker ends -->
