@@ -12,9 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- How is climate change affecting Gloucestershire? ([4 hours ago](https://www.bbc.com/news/articles/cwyg560npnqo))
-- Birnbeck Pier, cannabis arrests, wheelchair 'attack' ([4 hours ago](https://www.bbc.com/news/articles/cdr363r5n8yo))
-- Staff share fond memories for hospital anniversary ([22 hours ago](https://www.bbc.com/news/articles/c8xvvw9vep4o))
+- Police arrest 37 in major drug crackdown ([44 minutes ago](https://www.bbc.com/news/articles/cwygdl7qw2zo))
+- How is climate change affecting Gloucestershire? ([5 hours ago](https://www.bbc.com/news/articles/cwyg560npnqo))
+- Birnbeck Pier, cannabis arrests, wheelchair 'attack' ([5 hours ago](https://www.bbc.com/news/articles/cdr363r5n8yo))
+- Staff share fond memories for hospital anniversary ([23 hours ago](https://www.bbc.com/news/articles/c8xvvw9vep4o))
 - West MPs on 'rollercoaster' first year in Parliament ([1 days ago](https://www.bbc.com/news/articles/c056933ej6do))
 - 'Crazy' challenge in support of men's mental health ([1 days ago](https://www.bbc.com/news/articles/c873epv7pg8o))
 - Gloucestershire in pics: Sculptures and celebrations ([1 days ago](https://www.bbc.com/news/articles/cy0wqwjz59ko))
@@ -36,7 +37,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Men arrested after drugs and cash are seized during simultaneous warrants in Cheltenham ([2 days ago](https://gloucesternewscentre.co.uk/men-arrested-after-drugs-and-cash-are-seized-during-simultaneous-warrants-in-cheltenham/))
 - Have your say on the future of Gloucestershire councils – public engagement invited on local services ([2 days ago](https://gloucesternewscentre.co.uk/have-your-say-on-the-future-of-gloucestershire-councils-public-engagement-invited-on-local-services/))
 - Family tribute to Gloucestershire PC who died while on duty ([2 days ago](https://gloucesternewscentre.co.uk/family-tribute-to-gloucestershire-pc-who-died-while-on-duty/))
-- 'Teething problems' as £107m scheme behind schedule ([2 days ago](https://www.bbc.com/news/articles/cx2kxwerelzo))
 - Police hunt two people after hate crime before Pride ([2 days ago](https://www.bbc.com/news/articles/c2ezn0d8d8do))
 - Cheltenham achieves 6th place ranking in 2025 Climate Emergency UK Scorecards ([3 days ago](https://www.cheltenham.gov.uk/news/article/3028/cheltenham_achieves_6th_place_ranking_in_2025_climate_emergency_uk_scorecards))
 - Dramatic pictures show scale of £460m road project ([3 days ago](https://www.bbc.com/news/articles/c20wwle56gqo))
