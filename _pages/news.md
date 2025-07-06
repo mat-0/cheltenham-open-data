@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Staff share fond memories for hospital anniversary ([14 hours ago](https://www.bbc.com/news/articles/c8xvvw9vep4o))
-- West MPs on 'rollercoaster' first year in Parliament ([17 hours ago](https://www.bbc.com/news/articles/c056933ej6do))
-- 'Crazy' challenge in support of men's mental health ([19 hours ago](https://www.bbc.com/news/articles/c873epv7pg8o))
+- Staff share fond memories for hospital anniversary ([15 hours ago](https://www.bbc.com/news/articles/c8xvvw9vep4o))
+- West MPs on 'rollercoaster' first year in Parliament ([18 hours ago](https://www.bbc.com/news/articles/c056933ej6do))
+- 'Crazy' challenge in support of men's mental health ([20 hours ago](https://www.bbc.com/news/articles/c873epv7pg8o))
 - Gloucestershire in pics: Sculptures and celebrations ([21 hours ago](https://www.bbc.com/news/articles/cy0wqwjz59ko))
 - Man charged following execution of drugs warrants in Cheltenham ([1 days ago](https://gloucesternewscentre.co.uk/man-charged-following-execution-of-drugs-warrants-in-cheltenham-2/))
 - College welcomes wheelchair-friendly path to Cotswold beauty spot near A417 ([1 days ago](https://gloucesternewscentre.co.uk/college-welcomes-wheelchair-friendly-path-to-cotswold-beauty-spot-near-a417/))
