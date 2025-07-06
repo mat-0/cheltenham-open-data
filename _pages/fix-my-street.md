@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Kidnappers lane - safety concerns, 6th July :- [7817198](https://www.fixmystreet.com/report/7817198)
+- Broken, damaged and missing potholes, 6th July :- [7817016](https://www.fixmystreet.com/report/7817016)
 - Tree roots damaging property wall, 6th July :- [7816298](https://www.fixmystreet.com/report/7816298)
 - Drain is overflowing when it’s raining, 6th July :- [7816292](https://www.fixmystreet.com/report/7816292)
 - Duty of care ,to keep road side drains clear, and paths, 6th July :- [7816242](https://www.fixmystreet.com/report/7816242)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - R A Bennett estate agent poster attached to public street sign, 5th July :- [7813101](https://www.fixmystreet.com/report/7813101)
 - Flyposter for cafe on railings, 5th July :- [7813096](https://www.fixmystreet.com/report/7813096)
 - Road signs and fences left on path, 5th July :- [7812656](https://www.fixmystreet.com/report/7812656)
-- Dog waste bins not emptied for several weeks, 5th July :- [7812640](https://www.fixmystreet.com/report/7812640)
-- Wire fencing between parkland and grounds of Swindon Hall falling down, 5th July :- [7812636](https://www.fixmystreet.com/report/7812636)
 
 <!-- fix_marker ends -->
