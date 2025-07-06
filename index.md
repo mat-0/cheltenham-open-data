@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Sunday, 06 July 2025
 
-- The average temperature today is 17.4˚C,
-- With highs of 18.32˚C and lows of 16.58˚C,
-- It may feel like 17.23˚C with broken clouds
-- The wind speed is 3.13m/s and visibility is 10000m
-- The pressure is 1005hPa and humidity is 78%
+- The average temperature today is 18˚C,
+- With highs of 18.31˚C and lows of 17.62˚C,
+- It may feel like 17.81˚C with scattered clouds
+- The wind speed is 2.06m/s and visibility is 10000m
+- The pressure is 1005hPa and humidity is 75%
 - The sun will rise at 03:57 and set at 20:28
 
 <!-- weather_marker ends -->
