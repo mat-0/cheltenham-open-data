@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Charity marks 60 years teaching  disabled riders ([1 hours ago](https://www.bbc.com/news/articles/cx2vnrnd1vjo))
-- Police arrest 37 in major drug crackdown ([7 hours ago](https://www.bbc.com/news/articles/cwygdl7qw2zo))
-- How is climate change affecting Gloucestershire? ([12 hours ago](https://www.bbc.com/news/articles/cwyg560npnqo))
-- Birnbeck Pier, cannabis arrests, wheelchair 'attack' ([12 hours ago](https://www.bbc.com/news/articles/cdr363r5n8yo))
+- Charity marks 60 years teaching  disabled riders ([2 hours ago](https://www.bbc.com/news/articles/cx2vnrnd1vjo))
+- Police arrest 37 in major drug crackdown ([8 hours ago](https://www.bbc.com/news/articles/cwygdl7qw2zo))
+- How is climate change affecting Gloucestershire? ([13 hours ago](https://www.bbc.com/news/articles/cwyg560npnqo))
+- Birnbeck Pier, cannabis arrests, wheelchair 'attack' ([13 hours ago](https://www.bbc.com/news/articles/cdr363r5n8yo))
 - Staff share fond memories for hospital anniversary ([1 days ago](https://www.bbc.com/news/articles/c8xvvw9vep4o))
 - West MPs on 'rollercoaster' first year in Parliament ([1 days ago](https://www.bbc.com/news/articles/c056933ej6do))
 - 'Crazy' challenge in support of men's mental health ([1 days ago](https://www.bbc.com/news/articles/c873epv7pg8o))
@@ -46,7 +46,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Report of fire engine hitting parked car and smashing wing mirror sparks investigation ([6 days ago](https://gloucesternewscentre.co.uk/report-of-fire-engine-hitting-parked-car-and-smashing-wing-mirror-sparks-investigation/))
 - ‘Flying club’ airport which ‘doesn’t take B-52s’ ‘should be used for housing’ ([6 days ago](https://gloucesternewscentre.co.uk/flying-club-airport-which-doesnt-take-b-52s-should-be-used-for-housing/))
 - Helping wildflowers bloom across Cheltenham ([9 days ago](https://www.cheltenham.gov.uk/news/article/3025/helping_wildflowers_bloom_across_cheltenham))
-- Gloucestershire Airport sale backed by councils ([9 days ago](https://gloucesternewscentre.co.uk/gloucestershire-airport-sale-backed-by-councils/))
+- Gloucestershire Airport sale backed by councils ([10 days ago](https://gloucesternewscentre.co.uk/gloucestershire-airport-sale-backed-by-councils/))
 - Succesful crime-busting scheme extended in Cheltenham ([10 days ago](https://gloucesternewscentre.co.uk/succesful-crime-busting-scheme-extended-in-cheltenham/))
 - Gloucester man found guilty after promises to customers go up in smoke ([10 days ago](https://gloucesternewscentre.co.uk/gloucester-man-found-guilty-after-promises-to-customers-go-up-in-smoke/))
 - Gloucestershire Airport sale backed by councils ([10 days ago](https://www.cheltenham.gov.uk/news/article/3024/gloucestershire_airport_sale_backed_by_councils))

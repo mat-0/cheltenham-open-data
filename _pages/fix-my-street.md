@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pavement raised by tree roots, very uneven and unsafe, 6th July :- [7817882](https://www.fixmystreet.com/report/7817882)
 - Kidnappers lane - safety concerns, 6th July :- [7817198](https://www.fixmystreet.com/report/7817198)
 - Broken, damaged and missing potholes, 6th July :- [7817016](https://www.fixmystreet.com/report/7817016)
 - Tree roots damaging property wall, 6th July :- [7816298](https://www.fixmystreet.com/report/7816298)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Large amount of dog mess on pavement on old railway bridge, 5th July :- [7813107](https://www.fixmystreet.com/report/7813107)
 - R A Bennett estate agent poster attached to public street sign, 5th July :- [7813101](https://www.fixmystreet.com/report/7813101)
 - Flyposter for cafe on railings, 5th July :- [7813096](https://www.fixmystreet.com/report/7813096)
-- Road signs and fences left on path, 5th July :- [7812656](https://www.fixmystreet.com/report/7812656)
 
 <!-- fix_marker ends -->
