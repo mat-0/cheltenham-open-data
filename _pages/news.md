@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Charity marks 60 years teaching  disabled riders ([3 hours ago](https://www.bbc.com/news/articles/cx2vnrnd1vjo))
-- Police arrest 37 in major drug crackdown ([9 hours ago](https://www.bbc.com/news/articles/cwygdl7qw2zo))
-- How is climate change affecting Gloucestershire? ([14 hours ago](https://www.bbc.com/news/articles/cwyg560npnqo))
-- Birnbeck Pier, cannabis arrests, wheelchair 'attack' ([14 hours ago](https://www.bbc.com/news/articles/cdr363r5n8yo))
+- Charity marks 60 years teaching  disabled riders ([4 hours ago](https://www.bbc.com/news/articles/cx2vnrnd1vjo))
+- Police arrest 37 in major drug crackdown ([10 hours ago](https://www.bbc.com/news/articles/cwygdl7qw2zo))
+- How is climate change affecting Gloucestershire? ([15 hours ago](https://www.bbc.com/news/articles/cwyg560npnqo))
+- Birnbeck Pier, cannabis arrests, wheelchair 'attack' ([15 hours ago](https://www.bbc.com/news/articles/cdr363r5n8yo))
 - Staff share fond memories for hospital anniversary ([1 days ago](https://www.bbc.com/news/articles/c8xvvw9vep4o))
 - West MPs on 'rollercoaster' first year in Parliament ([1 days ago](https://www.bbc.com/news/articles/c056933ej6do))
 - 'Crazy' challenge in support of men's mental health ([1 days ago](https://www.bbc.com/news/articles/c873epv7pg8o))
