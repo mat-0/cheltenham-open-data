@@ -9,6 +9,15 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Blocked drain, 7th July :- [7819356](https://www.fixmystreet.com/report/7819356)
+- TMC - Defects -CW10 Potholes problem, 7th July :- [7819300](https://www.fixmystreet.com/report/7819300)
+- TMC - Defects -CW10 Potholes problem, 7th July :- [7819299](https://www.fixmystreet.com/report/7819299)
+- Tree is damaged problem, 7th July :- [7819290](https://www.fixmystreet.com/report/7819290)
+- Street and address sign missing, 7th July :- [7819112](https://www.fixmystreet.com/report/7819112)
+- Abandoned roadworks signs, 7th July :- [7819089](https://www.fixmystreet.com/report/7819089)
+- The drain is blocked problem, 7th July :- [7819292](https://www.fixmystreet.com/report/7819292)
+- Very degraded KEEP CLEAR markings, 7th July :- [7819044](https://www.fixmystreet.com/report/7819044)
+- All lights stuck on red. Not even cycling through., 7th July :- [7819027](https://www.fixmystreet.com/report/7819027)
 - Its a big hole and not easily avoidable just approaching the mini roundabout, 7th July :- [7818806](https://www.fixmystreet.com/report/7818806)
 - Pavement raised by tree roots, very uneven and unsafe, 6th July :- [7817882](https://www.fixmystreet.com/report/7817882)
 - Kidnappers lane - safety concerns, 6th July :- [7817198](https://www.fixmystreet.com/report/7817198)
@@ -20,14 +29,5 @@ permalink: /fix-my-street
 - Overgrown trees coming across mine and my neighbours property Line. Branches and sap are dropping on my vehicles. Also the roots are starting to lift my neighbours garden and are getting close to my driveway., 6th July :- [7816209](https://www.fixmystreet.com/report/7816209)
 - Dangerous Road - Kidnappers Lane, 6th July :- [7814918](https://www.fixmystreet.com/report/7814918)
 - Cones left behind, 5th July :- [7814622](https://www.fixmystreet.com/report/7814622)
-- Footpath is completely blocked by crops, 5th July :- [7814005](https://www.fixmystreet.com/report/7814005)
-- Footpath is not usable due to crops and weeds, 5th July :- [7813988](https://www.fixmystreet.com/report/7813988)
-- Crops growing over route, 5th July :- [7813682](https://www.fixmystreet.com/report/7813682)
-- Bridleway not maintained and not passable., 5th July :- [7813604](https://www.fixmystreet.com/report/7813604)
-- Flytipped items, 5th July :- [7813357](https://www.fixmystreet.com/report/7813357)
-- Volunteer litter pick bags ready for collection, 5th July :- [7813228](https://www.fixmystreet.com/report/7813228)
-- Dog mess at entrance to public right of way, 5th July :- [7813109](https://www.fixmystreet.com/report/7813109)
-- Large amount of dog mess on pavement on old railway bridge, 5th July :- [7813107](https://www.fixmystreet.com/report/7813107)
-- R A Bennett estate agent poster attached to public street sign, 5th July :- [7813101](https://www.fixmystreet.com/report/7813101)
 
 <!-- fix_marker ends -->
