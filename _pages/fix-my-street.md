@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fly tipping, 7th July :- [7823589](https://www.fixmystreet.com/report/7823589)
+- Barrier damage by car going into drainage ditch, pedestrian unable to use footpath., 7th July :- [7823410](https://www.fixmystreet.com/report/7823410)
 - Upton Close, Barnwood, 7th July :- [7823338](https://www.fixmystreet.com/report/7823338)
 - Sign incorrect, 7th July :- [7823250](https://www.fixmystreet.com/report/7823250)
 - H Mark missing for 27A Leckhampton Road, 7th July :- [7823240](https://www.fixmystreet.com/report/7823240)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 7th July :- [7822263](https://www.fixmystreet.com/report/7822263)
 - TMC - Defects - Road Markings problem, 7th July :- [7822262](https://www.fixmystreet.com/report/7822262)
 - TMC - Defects - Footways Slabs problem, 7th July :- [7821825](https://www.fixmystreet.com/report/7821825)
-- TMC - Defects - Footways Slabs problem, 7th July :- [7821826](https://www.fixmystreet.com/report/7821826)
-- TMC - Defects - Footways Slabs problem, 7th July :- [7821823](https://www.fixmystreet.com/report/7821823)
 
 <!-- fix_marker ends -->
