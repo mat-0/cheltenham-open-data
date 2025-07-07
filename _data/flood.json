@@ -1,60 +1,17 @@
 {
-  "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
-  "meta": {
-    "publisher": "Environment Agency",
-    "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-    "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
-    "version": "0.9",
-    "comment": "Status: Beta service",
-    "hasFormat": [
-      "http://environment.data.gov.uk/flood-monitoring/id/floods.csv",
-      "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf",
-      "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl",
-      "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
-    ]
-  },
-  "items": [
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/062WAF28UpColne",
-      "description": "Upper River Colne and Radlett Brook",
-      "eaAreaName": "Hertfordshire and North London",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/062WAF28UpColne",
-        "county": "Hertfordshire",
-        "notation": "062WAF28UpColne",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/062WAF28UpColne/polygon",
-        "riverOrSea": "River Colne"
-      },
-      "floodAreaID": "062WAF28UpColne",
-      "isTidal": false,
-      "message": "High river levels throughout the afternoon may lead to flooding.\n\nFlooding is possible when river levels are at their highest from 3:30 PM on Sunday 6th July.\n\nProperty flooding is not expected.\n\nFlooding is forecast to affect locations near the Radlett Brook, Colne, and Mimmshall Brook, with low lying land and roads expected to be most affected, particularly around Waterside, Lowbell Lane, London Colney and Warrengate Road.\n\nFurther flooding is possible throughout the afternoon as river levels will rise due to heavy rainfall.\n\nWe are monitoring rainfall and river levels and closely monitoring the situation. Monitor local water levels and weather conditions.\n\nAvoid using low lying footpaths and any bridges near local watercourses.\n\nThis message will be updated by 9:00 AM on Monday 7th July, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-07-06T15:51:00",
-      "timeRaised": "2025-07-06T15:51:54",
-      "timeSeverityChanged": "2025-07-06T15:51:00"
+    "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
+    "meta": {
+        "publisher": "Environment Agency",
+        "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
+        "version": "0.9",
+        "comment": "Status: Beta service",
+        "hasFormat": [
+            "http://environment.data.gov.uk/flood-monitoring/id/floods.csv?county=Gloucestershire",
+            "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf?county=Gloucestershire",
+            "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl?county=Gloucestershire",
+            "http://environment.data.gov.uk/flood-monitoring/id/floods.html?county=Gloucestershire"
+        ]
     },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF9PentStrm",
-      "description": "Pent Stream in Folkestone",
-      "eaAreaName": "Kent, South London and East Sussex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF9PentStrm",
-        "county": "Kent",
-        "notation": "064WAF9PentStrm",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF9PentStrm/polygon",
-        "riverOrSea": "Pent Stream"
-      },
-      "floodAreaID": "064WAF9PentStrm",
-      "isTidal": false,
-      "message": "There is no longer a threat of flooding. The weather forecast is improving and rainfall showers are clearing the area this evening, Sunday 6 July, 2025. No further flooding is expected.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-07-06T20:07:00",
-      "timeRaised": "2025-07-06T20:08:04",
-      "timeSeverityChanged": "2025-07-06T20:07:00"
-    }
-  ]
+    "items": []
 }
