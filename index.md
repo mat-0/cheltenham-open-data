@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Monday, 07 July 2025
 
-- The average temperature today is 19.87˚C,
-- With highs of 20.55˚C and lows of 18.71˚C,
-- It may feel like 19.14˚C with scattered clouds
+- The average temperature today is 20.76˚C,
+- With highs of 21.66˚C and lows of 19.84˚C,
+- It may feel like 20.09˚C with scattered clouds
 - The wind speed is 4.12m/s and visibility is 10000m
-- The pressure is 1014hPa and humidity is 47%
+- The pressure is 1014hPa and humidity is 46%
 - The sun will rise at 03:58 and set at 20:28
 
 <!-- weather_marker ends -->
