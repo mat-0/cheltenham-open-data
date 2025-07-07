@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Vegetation problem, 7th July :- [7819838](https://www.fixmystreet.com/report/7819838)
+- Blocked drain after jetting, 7th July :- [7819648](https://www.fixmystreet.com/report/7819648)
+- Blocked drainage gully, 7th July :- [7819604](https://www.fixmystreet.com/report/7819604)
+- TMC - Defects -CW6 Potholes  problem, 7th July :- [7819590](https://www.fixmystreet.com/report/7819590)
+- TMC - Defects - Other FW6  Surface problem, 7th July :- [7819592](https://www.fixmystreet.com/report/7819592)
+- Light sensor is not detecting vehicles problem, 7th July :- [7819548](https://www.fixmystreet.com/report/7819548)
 - Blocked drain, 7th July :- [7819356](https://www.fixmystreet.com/report/7819356)
 - TMC - Defects -CW10 Potholes problem, 7th July :- [7819300](https://www.fixmystreet.com/report/7819300)
 - TMC - Defects -CW10 Potholes problem, 7th July :- [7819299](https://www.fixmystreet.com/report/7819299)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Kidnappers lane - safety concerns, 6th July :- [7817198](https://www.fixmystreet.com/report/7817198)
 - Broken, damaged and missing potholes, 6th July :- [7817016](https://www.fixmystreet.com/report/7817016)
 - Tree roots damaging property wall, 6th July :- [7816298](https://www.fixmystreet.com/report/7816298)
-- Drain is overflowing when it’s raining, 6th July :- [7816292](https://www.fixmystreet.com/report/7816292)
-- Duty of care ,to keep road side drains clear, and paths, 6th July :- [7816242](https://www.fixmystreet.com/report/7816242)
-- The kerb outside my property is lifting. I have had this problem before after the council put a gully in., 6th July :- [7816215](https://www.fixmystreet.com/report/7816215)
-- Overgrown trees coming across mine and my neighbours property Line. Branches and sap are dropping on my vehicles. Also the roots are starting to lift my neighbours garden and are getting close to my driveway., 6th July :- [7816209](https://www.fixmystreet.com/report/7816209)
-- Dangerous Road - Kidnappers Lane, 6th July :- [7814918](https://www.fixmystreet.com/report/7814918)
-- Cones left behind, 5th July :- [7814622](https://www.fixmystreet.com/report/7814622)
 
 <!-- fix_marker ends -->
