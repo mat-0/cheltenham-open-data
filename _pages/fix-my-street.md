@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Its a big hole and not easily avoidable just approaching the mini roundabout, 7th July :- [7818806](https://www.fixmystreet.com/report/7818806)
 - Pavement raised by tree roots, very uneven and unsafe, 6th July :- [7817882](https://www.fixmystreet.com/report/7817882)
 - Kidnappers lane - safety concerns, 6th July :- [7817198](https://www.fixmystreet.com/report/7817198)
 - Broken, damaged and missing potholes, 6th July :- [7817016](https://www.fixmystreet.com/report/7817016)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Dog mess at entrance to public right of way, 5th July :- [7813109](https://www.fixmystreet.com/report/7813109)
 - Large amount of dog mess on pavement on old railway bridge, 5th July :- [7813107](https://www.fixmystreet.com/report/7813107)
 - R A Bennett estate agent poster attached to public street sign, 5th July :- [7813101](https://www.fixmystreet.com/report/7813101)
-- Flyposter for cafe on railings, 5th July :- [7813096](https://www.fixmystreet.com/report/7813096)
 
 <!-- fix_marker ends -->
