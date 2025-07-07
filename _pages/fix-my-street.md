@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Roadworks sign left by Network Rail., 7th July :- [7823832](https://www.fixmystreet.com/report/7823832)
+- Dumped stool, 7th July :- [7823650](https://www.fixmystreet.com/report/7823650)
 - Fly tipping, 7th July :- [7823589](https://www.fixmystreet.com/report/7823589)
 - Barrier damage by car going into drainage ditch, pedestrian unable to use footpath., 7th July :- [7823410](https://www.fixmystreet.com/report/7823410)
 - Upton Close, Barnwood, 7th July :- [7823338](https://www.fixmystreet.com/report/7823338)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Sign left on verge folded on grass, 7th July :- [7822287](https://www.fixmystreet.com/report/7822287)
 - Redundant cones need collecting, 7th July :- [7822248](https://www.fixmystreet.com/report/7822248)
 - TMC - Defects - Vegetation problem, 7th July :- [7822263](https://www.fixmystreet.com/report/7822263)
-- TMC - Defects - Road Markings problem, 7th July :- [7822262](https://www.fixmystreet.com/report/7822262)
-- TMC - Defects - Footways Slabs problem, 7th July :- [7821825](https://www.fixmystreet.com/report/7821825)
 
 <!-- fix_marker ends -->
