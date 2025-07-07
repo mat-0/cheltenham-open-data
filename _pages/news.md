@@ -12,7 +12,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Charity marks 60 years teaching  disabled riders ([9 hours ago](https://www.bbc.com/news/articles/cx2vnrnd1vjo))
+- Charity marks 60 years teaching  disabled riders ([10 hours ago](https://www.bbc.com/news/articles/cx2vnrnd1vjo))
 - Police arrest 37 in major drug crackdown ([16 hours ago](https://www.bbc.com/news/articles/cwygdl7qw2zo))
 - How is climate change affecting Gloucestershire? ([21 hours ago](https://www.bbc.com/news/articles/cwyg560npnqo))
 - Birnbeck Pier, cannabis arrests, wheelchair 'attack' ([21 hours ago](https://www.bbc.com/news/articles/cdr363r5n8yo))
