@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Charity marks 60 years teaching  disabled riders ([10 hours ago](https://www.bbc.com/news/articles/cx2vnrnd1vjo))
-- Police arrest 37 in major drug crackdown ([16 hours ago](https://www.bbc.com/news/articles/cwygdl7qw2zo))
-- How is climate change affecting Gloucestershire? ([21 hours ago](https://www.bbc.com/news/articles/cwyg560npnqo))
-- Birnbeck Pier, cannabis arrests, wheelchair 'attack' ([21 hours ago](https://www.bbc.com/news/articles/cdr363r5n8yo))
+- Charity marks 60 years teaching  disabled riders ([11 hours ago](https://www.bbc.com/news/articles/cx2vnrnd1vjo))
+- Police arrest 37 in major drug crackdown ([17 hours ago](https://www.bbc.com/news/articles/cwygdl7qw2zo))
+- How is climate change affecting Gloucestershire? ([22 hours ago](https://www.bbc.com/news/articles/cwyg560npnqo))
+- Birnbeck Pier, cannabis arrests, wheelchair 'attack' ([22 hours ago](https://www.bbc.com/news/articles/cdr363r5n8yo))
 - Staff share fond memories for hospital anniversary ([1 days ago](https://www.bbc.com/news/articles/c8xvvw9vep4o))
 - West MPs on 'rollercoaster' first year in Parliament ([1 days ago](https://www.bbc.com/news/articles/c056933ej6do))
 - 'Crazy' challenge in support of men's mental health ([1 days ago](https://www.bbc.com/news/articles/c873epv7pg8o))
@@ -64,7 +64,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Charlies Stores to create 50 new jobs in Cheltenham ([17 days ago](https://gloucesternewscentre.co.uk/charlies-stores-to-create-50-new-jobs-in-cheltenham/))
 - Ten 100-tonne beams lifted for UK’s largest eco-bridge ([17 days ago](https://www.bbc.co.uk/sounds/play/p0lk57bp))
 - Condition of rural county roads to be checked by AI camera system ([17 days ago](https://gloucesternewscentre.co.uk/condition-of-rural-county-roads-to-be-checked-by-ai-camera-system/))
-- Joint statement with Gloucester City Council: Preferred bidder for Gloucestershire Airport to deliver soaring potential for economic benefit to region ([18 days ago](https://www.cheltenham.gov.uk/news/article/3021/joint_statement_with_gloucester_city_council_preferred_bidder_for_gloucestershire_airport_to_deliver_soaring_potential_for_economic_benefit_to_region))
+- Joint statement with Gloucester City Council: Preferred bidder for Gloucestershire Airport to deliver soaring potential for economic benefit to region ([19 days ago](https://www.cheltenham.gov.uk/news/article/3021/joint_statement_with_gloucester_city_council_preferred_bidder_for_gloucestershire_airport_to_deliver_soaring_potential_for_economic_benefit_to_region))
 - Scene guard in place overnight after report two men assaulted a man in Cheltenham ([20 days ago](https://gloucesternewscentre.co.uk/scene-guard-in-place-overnight-after-report-two-men-assaulted-a-man-in-cheltenham/))
 - Man sentenced for illegal tobacco sales ([20 days ago](https://gloucesternewscentre.co.uk/man-sentenced-for-illegal-tobacco-sales/))
 - Petersfield Community and Sports Hub set to strengthen community pride in Cheltenham ([23 days ago](https://www.cheltenham.gov.uk/news/article/3020/petersfield_community_and_sports_hub_set_to_strengthen_community_pride_in_cheltenham))
