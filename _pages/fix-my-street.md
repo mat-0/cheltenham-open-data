@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The drain is blocked problem, 8th July :- [7829323](https://www.fixmystreet.com/report/7829323)
 - The temporary traffic lights before the Esso Garage are dangerous, 8th July :- [7828566](https://www.fixmystreet.com/report/7828566)
 - TMC - Defects - Other FW6  Surface problem, 8th July :- [7828557](https://www.fixmystreet.com/report/7828557)
 - Overgrown hedge needs cutting, 8th July :- [7828454](https://www.fixmystreet.com/report/7828454)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 8th July :- [7827916](https://www.fixmystreet.com/report/7827916)
 - Large branch has fallen from height..over 10 metres, 8th July :- [7827725](https://www.fixmystreet.com/report/7827725)
 - TMC - Defects -CW10 Potholes problem, 8th July :- [7827907](https://www.fixmystreet.com/report/7827907)
-- TMC - Defects -CW10 Potholes problem, 8th July :- [7827908](https://www.fixmystreet.com/report/7827908)
 
 <!-- fix_marker ends -->
