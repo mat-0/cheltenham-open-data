@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Single yellow lines/parking restriction signs, 8th July :- [7825411](https://www.fixmystreet.com/report/7825411)
+- Abandoned roadworks signage, 8th July :- [7825312](https://www.fixmystreet.com/report/7825312)
 - TMC - Defects - Other FW6  Surface problem, 8th July :- [7825168](https://www.fixmystreet.com/report/7825168)
 - TMC - Defects - Covers, Gratings & Frames problem, 8th July :- [7825022](https://www.fixmystreet.com/report/7825022)
 - TMC - Defects - Other FW6  Surface problem, 8th July :- [7825021](https://www.fixmystreet.com/report/7825021)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Trees overgrown, 7th July :- [7822420](https://www.fixmystreet.com/report/7822420)
 - Trees overgrown, 7th July :- [7822411](https://www.fixmystreet.com/report/7822411)
 - Trees overgrown, 7th July :- [7822392](https://www.fixmystreet.com/report/7822392)
-- 2 signs discarded on grass verge, 7th July :- [7822312](https://www.fixmystreet.com/report/7822312)
-- Tree is damaged problem, 7th July :- [7822454](https://www.fixmystreet.com/report/7822454)
 
 <!-- fix_marker ends -->
