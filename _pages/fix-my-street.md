@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pedestrian crossing not showing green man but the button that goes red turns off. Have to want for multiple traffic light sequences and keep pressing the crossing button., 8th July :- [7830297](https://www.fixmystreet.com/report/7830297)
+- Road Closed Ahead Sign on Verge, 8th July :- [7830287](https://www.fixmystreet.com/report/7830287)
 - The whole pathway is overgrown - Yet again, 8th July :- [7830137](https://www.fixmystreet.com/report/7830137)
 - Broken glass on road and pavements, 8th July :- [7829981](https://www.fixmystreet.com/report/7829981)
 - The drain is blocked problem, 8th July :- [7829323](https://www.fixmystreet.com/report/7829323)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Subsidence in pavement-to-drainage ditch outside 27 Symphony Road, 8th July :- [7828002](https://www.fixmystreet.com/report/7828002)
 - TMC - Defects - Other FW6  Surface problem, 8th July :- [7828157](https://www.fixmystreet.com/report/7828157)
 - Street cleaning bags ready for collection, 8th July :- [7827924](https://www.fixmystreet.com/report/7827924)
-- Single yellow lines., 8th July :- [7827886](https://www.fixmystreet.com/report/7827886)
-- Unpermitted roadworks problem, 8th July :- [7828127](https://www.fixmystreet.com/report/7828127)
 
 <!-- fix_marker ends -->
