@@ -9,8 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The whole pathway is overgrown - Yet again, 8th July :- [7830137](https://www.fixmystreet.com/report/7830137)
 - Broken glass on road and pavements, 8th July :- [7829981](https://www.fixmystreet.com/report/7829981)
 - The drain is blocked problem, 8th July :- [7829323](https://www.fixmystreet.com/report/7829323)
+- A very dangerous part of the road as all local drives now swerve to avoid multiple poor repairs in the road / this is now becoming very dangerous this is my road to work and have almost been involved in RTA avoiding cars that are on the wrong side of the road, 8th July :- [7829108](https://www.fixmystreet.com/report/7829108)
 - The temporary traffic lights before the Esso Garage are dangerous, 8th July :- [7828566](https://www.fixmystreet.com/report/7828566)
 - TMC - Defects - Other FW6  Surface problem, 8th July :- [7828557](https://www.fixmystreet.com/report/7828557)
 - Overgrown hedge needs cutting, 8th July :- [7828454](https://www.fixmystreet.com/report/7828454)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Street cleaning bags ready for collection, 8th July :- [7827924](https://www.fixmystreet.com/report/7827924)
 - Single yellow lines., 8th July :- [7827886](https://www.fixmystreet.com/report/7827886)
 - Unpermitted roadworks problem, 8th July :- [7828127](https://www.fixmystreet.com/report/7828127)
-- TMC - Defects - Vegetation problem, 8th July :- [7827916](https://www.fixmystreet.com/report/7827916)
-- Large branch has fallen from height..over 10 metres, 8th July :- [7827725](https://www.fixmystreet.com/report/7827725)
 
 <!-- fix_marker ends -->
