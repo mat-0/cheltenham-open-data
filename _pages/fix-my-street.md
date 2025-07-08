@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Other FW6  Surface problem, 8th July :- [7825168](https://www.fixmystreet.com/report/7825168)
+- TMC - Defects - Covers, Gratings & Frames problem, 8th July :- [7825022](https://www.fixmystreet.com/report/7825022)
+- TMC - Defects - Other FW6  Surface problem, 8th July :- [7825021](https://www.fixmystreet.com/report/7825021)
 - Roadworks sign left by Network Rail., 7th July :- [7823832](https://www.fixmystreet.com/report/7823832)
 - Dumped stool, 7th July :- [7823650](https://www.fixmystreet.com/report/7823650)
 - Fly tipping, 7th July :- [7823589](https://www.fixmystreet.com/report/7823589)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Trees overgrown, 7th July :- [7822392](https://www.fixmystreet.com/report/7822392)
 - 2 signs discarded on grass verge, 7th July :- [7822312](https://www.fixmystreet.com/report/7822312)
 - Tree is damaged problem, 7th July :- [7822454](https://www.fixmystreet.com/report/7822454)
-- Sign left on verge folded on grass, 7th July :- [7822287](https://www.fixmystreet.com/report/7822287)
-- Redundant cones need collecting, 7th July :- [7822248](https://www.fixmystreet.com/report/7822248)
-- TMC - Defects - Vegetation problem, 7th July :- [7822263](https://www.fixmystreet.com/report/7822263)
 
 <!-- fix_marker ends -->
