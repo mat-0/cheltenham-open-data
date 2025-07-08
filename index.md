@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Tuesday, 08 July 2025
 
-- The average temperature today is 13.35˚C,
-- With highs of 13.62˚C and lows of 13.16˚C,
-- It may feel like 12.78˚C with clear sky
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1016hPa and humidity is 78%
+- The average temperature today is 12.24˚C,
+- With highs of 13.07˚C and lows of 11.49˚C,
+- It may feel like 11.53˚C with clear sky
+- The wind speed is 3.73m/s and visibility is 10000m
+- The pressure is 1017hPa and humidity is 77%
 - The sun will rise at 03:59 and set at 20:27
 
 <!-- weather_marker ends -->
