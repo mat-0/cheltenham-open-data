@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street cleaning, 8th July :- [7826273](https://www.fixmystreet.com/report/7826273)
+- Multiple dangerous potholes on 10 % hill descent, 8th July :- [7826221](https://www.fixmystreet.com/report/7826221)
 - Single yellow lines/parking restriction signs, 8th July :- [7825411](https://www.fixmystreet.com/report/7825411)
 - Abandoned roadworks signage, 8th July :- [7825312](https://www.fixmystreet.com/report/7825312)
 - TMC - Defects - Other FW6  Surface problem, 8th July :- [7825168](https://www.fixmystreet.com/report/7825168)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Tree branches are overhanging my property (36 Midwinter Avenue), 7th July :- [7822582](https://www.fixmystreet.com/report/7822582)
 - Tree is damaged problem, 7th July :- [7822628](https://www.fixmystreet.com/report/7822628)
 - Trees overgrown, 7th July :- [7822420](https://www.fixmystreet.com/report/7822420)
-- Trees overgrown, 7th July :- [7822411](https://www.fixmystreet.com/report/7822411)
-- Trees overgrown, 7th July :- [7822392](https://www.fixmystreet.com/report/7822392)
 
 <!-- fix_marker ends -->
