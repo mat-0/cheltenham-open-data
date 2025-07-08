@@ -9,6 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The temporary traffic lights before the Esso Garage are dangerous, 8th July :- [7828566](https://www.fixmystreet.com/report/7828566)
+- TMC - Defects - Other FW6  Surface problem, 8th July :- [7828557](https://www.fixmystreet.com/report/7828557)
+- Overgrown hedge needs cutting, 8th July :- [7828454](https://www.fixmystreet.com/report/7828454)
+- TMC - Defects - Other FW6  Surface problem, 8th July :- [7828556](https://www.fixmystreet.com/report/7828556)
+- TMC - Defects - Other FW6  Surface problem, 8th July :- [7828553](https://www.fixmystreet.com/report/7828553)
+- In front of the red car on the pathment outside number 3, 8th July :- [7828398](https://www.fixmystreet.com/report/7828398)
+- TMC - Defects -FW6 Potholes problem, 8th July :- [7828371](https://www.fixmystreet.com/report/7828371)
 - Major Health & Safety Issue Southam Road, 8th July :- [7828108](https://www.fixmystreet.com/report/7828108)
 - TMC - Defects -FW6 Potholes problem, 8th July :- [7828161](https://www.fixmystreet.com/report/7828161)
 - Abandoned signs cones & sandbags, 8th July :- [7828044](https://www.fixmystreet.com/report/7828044)
@@ -20,14 +27,7 @@ permalink: /fix-my-street
 - Unpermitted roadworks problem, 8th July :- [7828127](https://www.fixmystreet.com/report/7828127)
 - TMC - Defects - Vegetation problem, 8th July :- [7827916](https://www.fixmystreet.com/report/7827916)
 - Large branch has fallen from height..over 10 metres, 8th July :- [7827725](https://www.fixmystreet.com/report/7827725)
-- TMC - Defects -CW10 Potholes problem, 8th July :- [7827909](https://www.fixmystreet.com/report/7827909)
 - TMC - Defects -CW10 Potholes problem, 8th July :- [7827907](https://www.fixmystreet.com/report/7827907)
 - TMC - Defects -CW10 Potholes problem, 8th July :- [7827908](https://www.fixmystreet.com/report/7827908)
-- See fix my street Ref 6989528, 8th July :- [7827706](https://www.fixmystreet.com/report/7827706)
-- TMC - Defects -CW10 Potholes problem, 8th July :- [7827678](https://www.fixmystreet.com/report/7827678)
-- TMC - Defects -CW10 Potholes problem, 8th July :- [7827677](https://www.fixmystreet.com/report/7827677)
-- TMC - Defects - Vegetation problem, 8th July :- [7827676](https://www.fixmystreet.com/report/7827676)
-- TMC - Defects - Road Markings problem, 8th July :- [7827674](https://www.fixmystreet.com/report/7827674)
-- TMC - Defects - Vegetation problem, 8th July :- [7827673](https://www.fixmystreet.com/report/7827673)
 
 <!-- fix_marker ends -->
