@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Streetlight no longer working, 9th July :- [7835829](https://www.fixmystreet.com/report/7835829)
 - Trees ovrhanging the road blocking view of traffic lights MOST DANGEROUS, 9th July :- [7835023](https://www.fixmystreet.com/report/7835023)
 - Barriers not collected by contractor, 9th July :- [7834993](https://www.fixmystreet.com/report/7834993)
 - Large pothole, 9th July :- [7834666](https://www.fixmystreet.com/report/7834666)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 9th July :- [7832912](https://www.fixmystreet.com/report/7832912)
 - Long line of trees have low branches, overhanging the carriageway, making contact with double decker buses. Significant risk of bus windows smashing., 9th July :- [7832484](https://www.fixmystreet.com/report/7832484)
 - Lamp post 53 obscured by high verge vegetation, 9th July :- [7832228](https://www.fixmystreet.com/report/7832228)
-- Dumped sofas, 9th July :- [7832015](https://www.fixmystreet.com/report/7832015)
 
 <!-- fix_marker ends -->
