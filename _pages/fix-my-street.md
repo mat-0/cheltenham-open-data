@@ -9,7 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tarmac around large square drain cover worn/damaged, 9th July :- [7834411](https://www.fixmystreet.com/report/7834411)
+- Stretch of damaged road surface, 9th July :- [7834385](https://www.fixmystreet.com/report/7834385)
+- TMC - Defects - Vegetation problem, 9th July :- [7834300](https://www.fixmystreet.com/report/7834300)
+- Light sensor is not detecting vehicles problem, 9th July :- [7834134](https://www.fixmystreet.com/report/7834134)
 - Tree stump, 9th July :- [7834040](https://www.fixmystreet.com/report/7834040)
+- TMC - Defects -CW10 Potholes problem, 9th July :- [7834141](https://www.fixmystreet.com/report/7834141)
 - TMC - Defects - Vegetation problem, 9th July :- [7833904](https://www.fixmystreet.com/report/7833904)
 - Broken furniture, 9th July :- [7833489](https://www.fixmystreet.com/report/7833489)
 - 2 x pallets, 9th July :- [7833266](https://www.fixmystreet.com/report/7833266)
@@ -22,12 +27,7 @@ permalink: /fix-my-street
 - TMC - Defects - Kerbs and Channels problem, 9th July :- [7831782](https://www.fixmystreet.com/report/7831782)
 - TMC - Defects - Kerbs and Channels problem, 9th July :- [7831783](https://www.fixmystreet.com/report/7831783)
 - Not a pothole, a 2m. long narrow gap between two sections of tarmac and as dangerous to cyclists as tram tracks and on a SusTrans bike route in the middle of the road just where cyclists should be in order to turn right into Glencairn Park Road., 9th July :- [7831457](https://www.fixmystreet.com/report/7831457)
-- TMC - Defects -FW6 Potholes problem, 9th July :- [7831762](https://www.fixmystreet.com/report/7831762)
-- TMC - Defects - Other FW6  Surface problem, 9th July :- [7831761](https://www.fixmystreet.com/report/7831761)
-- TMC - Defects - Other FW6  Surface problem, 9th July :- [7831760](https://www.fixmystreet.com/report/7831760)
-- TMC - Defects - Other FW6  Surface problem, 9th July :- [7831759](https://www.fixmystreet.com/report/7831759)
 - TMC - Defects - Other FW6  Surface problem, 9th July :- [7831758](https://www.fixmystreet.com/report/7831758)
-- TMC - Defects - Kerbs and Channels problem, 9th July :- [7831764](https://www.fixmystreet.com/report/7831764)
 - TMC - Defects - Other FW6  Surface problem, 9th July :- [7831763](https://www.fixmystreet.com/report/7831763)
 
 <!-- fix_marker ends -->
