@@ -12,16 +12,16 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Railway visionary honoured with GWR train naming ([11 hours ago](https://www.bbc.com/news/articles/c628n9g1023o))
-- Fire safety advice when cooking ([11 hours ago](https://gloucesternewscentre.co.uk/fire-safety-advice-when-cooking/))
-- Concerns drivers being hit with parking fines while charging electric vehicle ([11 hours ago](https://gloucesternewscentre.co.uk/concerns-drivers-being-hit-with-parking-fines-while-charging-electric-vehicle/))
+- Railway visionary honoured with GWR train naming ([12 hours ago](https://www.bbc.com/news/articles/c628n9g1023o))
+- Fire safety advice when cooking ([12 hours ago](https://gloucesternewscentre.co.uk/fire-safety-advice-when-cooking/))
+- Concerns drivers being hit with parking fines while charging electric vehicle ([12 hours ago](https://gloucesternewscentre.co.uk/concerns-drivers-being-hit-with-parking-fines-while-charging-electric-vehicle/))
 - Pedal power drives event success for hospice ([12 hours ago](https://gloucesternewscentre.co.uk/pedal-power-drives-event-success-for-hospice/))
-- Support group for mums from different ethnicities ([14 hours ago](https://www.bbc.com/news/articles/czdv0mel46do))
+- Support group for mums from different ethnicities ([15 hours ago](https://www.bbc.com/news/articles/czdv0mel46do))
 - Nuclear 'centre of excellence' to create 1,000 jobs ([15 hours ago](https://www.bbc.com/news/articles/c62d310pmldo))
-- Witness appeal after man carries child at bus stop ([15 hours ago](https://www.bbc.com/news/articles/cvg4jlnxl8vo))
-- Thames Water considering hosepipe ban ([15 hours ago](https://www.bbc.com/news/articles/cren3llr9ndo))
-- Re-opening of railway line and nudist festival ([17 hours ago](https://www.bbc.com/news/articles/c9qxe335240o))
-- Trader must pay fees despite council mistake ([22 hours ago](https://www.bbc.com/news/articles/cz7ln9l7q2qo))
+- Witness appeal after man carries child at bus stop ([16 hours ago](https://www.bbc.com/news/articles/cvg4jlnxl8vo))
+- Thames Water considering hosepipe ban ([16 hours ago](https://www.bbc.com/news/articles/cren3llr9ndo))
+- Re-opening of railway line and nudist festival ([18 hours ago](https://www.bbc.com/news/articles/c9qxe335240o))
+- Trader must pay fees despite council mistake ([23 hours ago](https://www.bbc.com/news/articles/cz7ln9l7q2qo))
 - Former MP 'had no clue' he had glaucoma before test ([23 hours ago](https://www.bbc.com/news/articles/cz099gpz94xo))
 - Airport sale will be great for aviation, says Youtuber who conquered fear of flying at Staverton ([1 days ago](https://gloucesternewscentre.co.uk/airport-sale-will-be-great-for-aviation-says-youtuber-who-conquered-fear-of-flying-at-staverton/))
 - ‘Much-loved’ Cheltenham coffee hut sees bid for fees to be waived rejected ([1 days ago](https://gloucesternewscentre.co.uk/much-loved-cheltenham-coffee-hut-sees-bid-for-fees-to-be-waived-rejected/))
@@ -66,7 +66,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Cheltenham joins In The Loop with new colourful bins to boost recycling on-the-go ([15 days ago](https://www.cheltenham.gov.uk/news/article/3022/cheltenham_joins_in_the_loop_with_new_colourful_bins_to_boost_recycling_on-the-go))
 - Changes to Cheltenham bus routes spark concerns over lack of passenger consultation ([18 days ago](https://gloucesternewscentre.co.uk/changes-to-cheltenham-bus-routes-spark-concerns-over-lack-of-passenger-consultation/))
 - Ten 100-tonne beams lifted for UK’s largest eco-bridge ([19 days ago](https://www.bbc.co.uk/sounds/play/p0lk57bp))
-- Joint statement with Gloucester City Council: Preferred bidder for Gloucestershire Airport to deliver soaring potential for economic benefit to region ([20 days ago](https://www.cheltenham.gov.uk/news/article/3021/joint_statement_with_gloucester_city_council_preferred_bidder_for_gloucestershire_airport_to_deliver_soaring_potential_for_economic_benefit_to_region))
+- Joint statement with Gloucester City Council: Preferred bidder for Gloucestershire Airport to deliver soaring potential for economic benefit to region ([21 days ago](https://www.cheltenham.gov.uk/news/article/3021/joint_statement_with_gloucester_city_council_preferred_bidder_for_gloucestershire_airport_to_deliver_soaring_potential_for_economic_benefit_to_region))
 - Petersfield Community and Sports Hub set to strengthen community pride in Cheltenham ([25 days ago](https://www.cheltenham.gov.uk/news/article/3020/petersfield_community_and_sports_hub_set_to_strengthen_community_pride_in_cheltenham))
 
 <!-- news_marker ends -->
