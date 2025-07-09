@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree stump, 9th July :- [7834040](https://www.fixmystreet.com/report/7834040)
+- TMC - Defects - Vegetation problem, 9th July :- [7833904](https://www.fixmystreet.com/report/7833904)
 - Broken furniture, 9th July :- [7833489](https://www.fixmystreet.com/report/7833489)
 - 2 x pallets, 9th July :- [7833266](https://www.fixmystreet.com/report/7833266)
 - Massive dog turn in the open grassy area between the children's play area and the alley behind Everest Road, 9th July :- [7833197](https://www.fixmystreet.com/report/7833197)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 9th July :- [7831758](https://www.fixmystreet.com/report/7831758)
 - TMC - Defects - Kerbs and Channels problem, 9th July :- [7831764](https://www.fixmystreet.com/report/7831764)
 - TMC - Defects - Other FW6  Surface problem, 9th July :- [7831763](https://www.fixmystreet.com/report/7831763)
-- Broken paving slabs on Brunswick street, 9th July :- [7831039](https://www.fixmystreet.com/report/7831039)
-- Several potholes on clarington mews, 9th July :- [7830895](https://www.fixmystreet.com/report/7830895)
 
 <!-- fix_marker ends -->
