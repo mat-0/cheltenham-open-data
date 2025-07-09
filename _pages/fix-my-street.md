@@ -9,8 +9,15 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Broken paving slabs on Brunswick street, 9th July :- [7831039](https://www.fixmystreet.com/report/7831039)
 - Several potholes on clarington mews, 9th July :- [7830895](https://www.fixmystreet.com/report/7830895)
+- Green traffic light not working., 9th July :- [7830876](https://www.fixmystreet.com/report/7830876)
 - Flytipped toilet obstructing pavement Marle Hill Parade, 9th July :- [7830860](https://www.fixmystreet.com/report/7830860)
+- TMC - Defects - Covers, Gratings & Frames problem, 9th July :- [7830919](https://www.fixmystreet.com/report/7830919)
+- TMC - Defects - Other FW6  Surface problem, 9th July :- [7830918](https://www.fixmystreet.com/report/7830918)
+- TMC - Defects - Other FW6  Surface problem, 9th July :- [7830916](https://www.fixmystreet.com/report/7830916)
+- TMC - Defects -FW6 Potholes problem, 9th July :- [7830915](https://www.fixmystreet.com/report/7830915)
+- TMC - Defects -other CW6 problem, 9th July :- [7830917](https://www.fixmystreet.com/report/7830917)
 - TMC - Defects - Kerbs and Channels problem, 9th July :- [7830693](https://www.fixmystreet.com/report/7830693)
 - Please collect barriers promptly following the completion of the roadworks, 9th July :- [7830611](https://www.fixmystreet.com/report/7830611)
 - Drainage block on Green street, 8th July :- [7830422](https://www.fixmystreet.com/report/7830422)
@@ -22,12 +29,5 @@ permalink: /fix-my-street
 - A very dangerous part of the road as all local drives now swerve to avoid multiple poor repairs in the road / this is now becoming very dangerous this is my road to work and have almost been involved in RTA avoiding cars that are on the wrong side of the road, 8th July :- [7829108](https://www.fixmystreet.com/report/7829108)
 - The temporary traffic lights before the Esso Garage are dangerous, 8th July :- [7828566](https://www.fixmystreet.com/report/7828566)
 - TMC - Defects - Other FW6  Surface problem, 8th July :- [7828557](https://www.fixmystreet.com/report/7828557)
-- Overgrown hedge needs cutting, 8th July :- [7828454](https://www.fixmystreet.com/report/7828454)
-- TMC - Defects - Other FW6  Surface problem, 8th July :- [7828556](https://www.fixmystreet.com/report/7828556)
-- TMC - Defects - Other FW6  Surface problem, 8th July :- [7828553](https://www.fixmystreet.com/report/7828553)
-- In front of the red car on the pathment outside number 3, 8th July :- [7828398](https://www.fixmystreet.com/report/7828398)
-- TMC - Defects -FW6 Potholes problem, 8th July :- [7828371](https://www.fixmystreet.com/report/7828371)
-- Major Health & Safety Issue Southam Road, 8th July :- [7828108](https://www.fixmystreet.com/report/7828108)
-- TMC - Defects -FW6 Potholes problem, 8th July :- [7828161](https://www.fixmystreet.com/report/7828161)
 
 <!-- fix_marker ends -->
