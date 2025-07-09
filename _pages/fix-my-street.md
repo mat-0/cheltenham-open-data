@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Please collect barriers promptly following the completion of the roadworks, 9th July :- [7830611](https://www.fixmystreet.com/report/7830611)
 - Drainage block on Green street, 8th July :- [7830422](https://www.fixmystreet.com/report/7830422)
 - Pedestrian crossing not showing green man but the button that goes red turns off. Have to want for multiple traffic light sequences and keep pressing the crossing button., 8th July :- [7830297](https://www.fixmystreet.com/report/7830297)
 - Road Closed Ahead Sign on Verge, 8th July :- [7830287](https://www.fixmystreet.com/report/7830287)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Abandoned signs cones & sandbags, 8th July :- [7828044](https://www.fixmystreet.com/report/7828044)
 - Abandoned sign, 8th July :- [7828010](https://www.fixmystreet.com/report/7828010)
 - Subsidence in pavement-to-drainage ditch outside 27 Symphony Road, 8th July :- [7828002](https://www.fixmystreet.com/report/7828002)
-- TMC - Defects - Other FW6  Surface problem, 8th July :- [7828157](https://www.fixmystreet.com/report/7828157)
 
 <!-- fix_marker ends -->
