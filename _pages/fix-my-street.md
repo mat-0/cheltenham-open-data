@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Several potholes on clarington mews, 9th July :- [7830895](https://www.fixmystreet.com/report/7830895)
+- Flytipped toilet obstructing pavement Marle Hill Parade, 9th July :- [7830860](https://www.fixmystreet.com/report/7830860)
+- TMC - Defects - Kerbs and Channels problem, 9th July :- [7830693](https://www.fixmystreet.com/report/7830693)
 - Please collect barriers promptly following the completion of the roadworks, 9th July :- [7830611](https://www.fixmystreet.com/report/7830611)
 - Drainage block on Green street, 8th July :- [7830422](https://www.fixmystreet.com/report/7830422)
 - Pedestrian crossing not showing green man but the button that goes red turns off. Have to want for multiple traffic light sequences and keep pressing the crossing button., 8th July :- [7830297](https://www.fixmystreet.com/report/7830297)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -FW6 Potholes problem, 8th July :- [7828371](https://www.fixmystreet.com/report/7828371)
 - Major Health & Safety Issue Southam Road, 8th July :- [7828108](https://www.fixmystreet.com/report/7828108)
 - TMC - Defects -FW6 Potholes problem, 8th July :- [7828161](https://www.fixmystreet.com/report/7828161)
-- Abandoned signs cones & sandbags, 8th July :- [7828044](https://www.fixmystreet.com/report/7828044)
-- Abandoned sign, 8th July :- [7828010](https://www.fixmystreet.com/report/7828010)
-- Subsidence in pavement-to-drainage ditch outside 27 Symphony Road, 8th July :- [7828002](https://www.fixmystreet.com/report/7828002)
 
 <!-- fix_marker ends -->

@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Wednesday, 09 July 2025
 
-- The average temperature today is 14.56˚C,
-- With highs of 14.98˚C and lows of 14.26˚C,
-- It may feel like 14.13˚C with scattered clouds
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1021hPa and humidity is 79%
+- The average temperature today is 16.41˚C,
+- With highs of 17.77˚C and lows of 15.39˚C,
+- It may feel like 16.09˚C with few clouds
+- The wind speed is 1.32m/s and visibility is 10000m
+- The pressure is 1022hPa and humidity is 76%
 - The sun will rise at 04:00 and set at 20:26
 
 <!-- weather_marker ends -->
