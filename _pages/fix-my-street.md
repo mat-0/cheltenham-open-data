@@ -27,7 +27,7 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 10th July :- [7847172](https://www.fixmystreet.com/report/7847172)
 - TMC - Defects - Vegetation problem, 10th July :- [7847170](https://www.fixmystreet.com/report/7847170)
 - Lampposts 10,21,25 obscured with vegetation, 10th July :- [7845824](https://www.fixmystreet.com/report/7845824)
-- TMC - Defects -other CW6 problem, 10th July :- [7843402](https://www.fixmystreet.com/report/7843402)
 - TMC - Defects -other CW6 problem, 10th July :- [7843404](https://www.fixmystreet.com/report/7843404)
+- TMC - Defects -other CW6 problem, 10th July :- [7843402](https://www.fixmystreet.com/report/7843402)
 
 <!-- fix_marker ends -->
