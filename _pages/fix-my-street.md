@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole outside 53 Ravensgate Road, 10th July :- [7858815](https://www.fixmystreet.com/report/7858815)
+- Pavement pothole outside 43 Pilley Crescent, 10th July :- [7858662](https://www.fixmystreet.com/report/7858662)
 - A pothole in road problem, 10th July :- [7858425](https://www.fixmystreet.com/report/7858425)
 - A pothole in road problem, 10th July :- [7858206](https://www.fixmystreet.com/report/7858206)
 - A pothole in road problem, 10th July :- [7858205](https://www.fixmystreet.com/report/7858205)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Lampposts 10,21,25 obscured with vegetation, 10th July :- [7845824](https://www.fixmystreet.com/report/7845824)
 - TMC - Defects -other CW6 problem, 10th July :- [7843402](https://www.fixmystreet.com/report/7843402)
 - TMC - Defects -other CW6 problem, 10th July :- [7843404](https://www.fixmystreet.com/report/7843404)
-- TMC - Defects -other CW6 problem, 10th July :- [7843398](https://www.fixmystreet.com/report/7843398)
-- TMC - Defects -other CW6 problem, 10th July :- [7843396](https://www.fixmystreet.com/report/7843396)
 
 <!-- fix_marker ends -->
