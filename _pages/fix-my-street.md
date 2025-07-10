@@ -9,6 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Cones awaiting collection, 10th July :- [7837030](https://www.fixmystreet.com/report/7837030)
+- Discarded cones, 10th July :- [7837019](https://www.fixmystreet.com/report/7837019)
+- TMC - Defects - Signs & Street Furniture problem, 10th July :- [7836923](https://www.fixmystreet.com/report/7836923)
+- TMC - Defects -other CW6 problem, 10th July :- [7836922](https://www.fixmystreet.com/report/7836922)
+- TMC - Defects -other CW6 problem, 10th July :- [7836921](https://www.fixmystreet.com/report/7836921)
+- TMC - Defects - Other FW6  Surface problem, 10th July :- [7836920](https://www.fixmystreet.com/report/7836920)
+- Dead Tree, 10th July :- [7836876](https://www.fixmystreet.com/report/7836876)
 - TMC - Defects -CW10 Potholes problem, 10th July :- [7836734](https://www.fixmystreet.com/report/7836734)
 - TMC - Defects -CW10 Potholes problem, 10th July :- [7836733](https://www.fixmystreet.com/report/7836733)
 - Gully requires clearing!, 9th July :- [7836410](https://www.fixmystreet.com/report/7836410)
@@ -22,12 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 9th July :- [7834486](https://www.fixmystreet.com/report/7834486)
 - TMC - Defects - Vegetation problem, 9th July :- [7834300](https://www.fixmystreet.com/report/7834300)
 - Light sensor is not detecting vehicles problem, 9th July :- [7834134](https://www.fixmystreet.com/report/7834134)
-- Tree stump, 9th July :- [7834040](https://www.fixmystreet.com/report/7834040)
-- TMC - Defects -CW10 Potholes problem, 9th July :- [7834141](https://www.fixmystreet.com/report/7834141)
-- TMC - Defects - Vegetation problem, 9th July :- [7833904](https://www.fixmystreet.com/report/7833904)
-- Broken furniture, 9th July :- [7833489](https://www.fixmystreet.com/report/7833489)
-- 2 x pallets, 9th July :- [7833266](https://www.fixmystreet.com/report/7833266)
-- Massive dog turn in the open grassy area between the children's play area and the alley behind Everest Road, 9th July :- [7833197](https://www.fixmystreet.com/report/7833197)
-- National Speed Limit signs, 9th July :- [7833164](https://www.fixmystreet.com/report/7833164)
 
 <!-- fix_marker ends -->
