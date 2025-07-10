@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Qquery re removal of tree behind 28 stanwick gardens GL51 9LF, 10th July :- [7857891](https://www.fixmystreet.com/report/7857891)
+- TMC - Defects -CW6 Potholes  problem, 10th July :- [7857795](https://www.fixmystreet.com/report/7857795)
 - TMC - Defects -CW6 Potholes  problem, 10th July :- [7857599](https://www.fixmystreet.com/report/7857599)
 - Drain cover damage, 10th July :- [7857493](https://www.fixmystreet.com/report/7857493)
 - Right next to curb tarmac breaking away, 10th July :- [7856566](https://www.fixmystreet.com/report/7856566)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Tree is in decline, potentially dangerous, 10th July :- [7838418](https://www.fixmystreet.com/report/7838418)
 - Stones on the pavement, 10th July :- [7838416](https://www.fixmystreet.com/report/7838416)
 - TMC - Defects - Vegetation problem, 10th July :- [7838857](https://www.fixmystreet.com/report/7838857)
-- Crumbling concrete on base of bollard, 10th July :- [7838176](https://www.fixmystreet.com/report/7838176)
-- TMC - Defects - Vegetation problem, 10th July :- [7838076](https://www.fixmystreet.com/report/7838076)
 
 <!-- fix_marker ends -->
