@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects -CW10 Potholes problem, 10th July :- [7836734](https://www.fixmystreet.com/report/7836734)
+- TMC - Defects -CW10 Potholes problem, 10th July :- [7836733](https://www.fixmystreet.com/report/7836733)
 - Gully requires clearing!, 9th July :- [7836410](https://www.fixmystreet.com/report/7836410)
 - Streetlight no longer working, 9th July :- [7835829](https://www.fixmystreet.com/report/7835829)
 - Trees ovrhanging the road blocking view of traffic lights MOST DANGEROUS, 9th July :- [7835023](https://www.fixmystreet.com/report/7835023)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - 2 x pallets, 9th July :- [7833266](https://www.fixmystreet.com/report/7833266)
 - Massive dog turn in the open grassy area between the children's play area and the alley behind Everest Road, 9th July :- [7833197](https://www.fixmystreet.com/report/7833197)
 - National Speed Limit signs, 9th July :- [7833164](https://www.fixmystreet.com/report/7833164)
-- TMC - Defects -CW6 Potholes  problem, 9th July :- [7832912](https://www.fixmystreet.com/report/7832912)
-- Long line of trees have low branches, overhanging the carriageway, making contact with double decker buses. Significant risk of bus windows smashing., 9th July :- [7832484](https://www.fixmystreet.com/report/7832484)
 
 <!-- fix_marker ends -->
