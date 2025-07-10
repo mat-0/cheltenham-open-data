@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Thursday, 10 July 2025
 
-- The average temperature today is 25.51˚C,
-- With highs of 26.64˚C and lows of 24.41˚C,
-- It may feel like 25.47˚C with broken clouds
-- The wind speed is 1.79m/s and visibility is 10000m
-- The pressure is 1023hPa and humidity is 52%
+- The average temperature today is 26.81˚C,
+- With highs of 27.77˚C and lows of 25.75˚C,
+- It may feel like 27.08˚C with clear sky
+- The wind speed is 1.34m/s and visibility is 10000m
+- The pressure is 1023hPa and humidity is 47%
 - The sun will rise at 04:01 and set at 20:25
 
 <!-- weather_marker ends -->
