@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- General road markings, lines and stud issues problem, 11th July :- [7861546](https://www.fixmystreet.com/report/7861546)
+- TMC - Defects -CW6 Potholes  problem, 11th July :- [7861368](https://www.fixmystreet.com/report/7861368)
 - TMC - Defects - Covers, Gratings & Frames problem, 11th July :- [7861167](https://www.fixmystreet.com/report/7861167)
 - TMC - Defects - Covers, Gratings & Frames problem, 11th July :- [7861166](https://www.fixmystreet.com/report/7861166)
 - TMC - Defects -CW6 Potholes  problem, 11th July :- [7861158](https://www.fixmystreet.com/report/7861158)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Signpost damage in accident, 10th July :- [7853214](https://www.fixmystreet.com/report/7853214)
 - Flyposting on traffic lights, 10th July :- [7852153](https://www.fixmystreet.com/report/7852153)
 - TMC - Defects - Vegetation problem, 10th July :- [7857401](https://www.fixmystreet.com/report/7857401)
-- Flyposting, 10th July :- [7851592](https://www.fixmystreet.com/report/7851592)
-- Sign rotting and damaged. Could fall soon, 10th July :- [7850479](https://www.fixmystreet.com/report/7850479)
 
 <!-- fix_marker ends -->
