@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tarmac surface damage. My son tripped because cerb is higher than tarmac surface., 11th July :- [7860683](https://www.fixmystreet.com/report/7860683)
 - Pothole outside 53 Ravensgate Road, 10th July :- [7858815](https://www.fixmystreet.com/report/7858815)
 - Pavement pothole outside 43 Pilley Crescent, 10th July :- [7858662](https://www.fixmystreet.com/report/7858662)
 - A pothole in road problem, 10th July :- [7858425](https://www.fixmystreet.com/report/7858425)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 10th July :- [7847170](https://www.fixmystreet.com/report/7847170)
 - Lampposts 10,21,25 obscured with vegetation, 10th July :- [7845824](https://www.fixmystreet.com/report/7845824)
 - TMC - Defects -other CW6 problem, 10th July :- [7843404](https://www.fixmystreet.com/report/7843404)
-- TMC - Defects -other CW6 problem, 10th July :- [7843402](https://www.fixmystreet.com/report/7843402)
 
 <!-- fix_marker ends -->
