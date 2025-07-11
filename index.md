@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Friday, 11 July 2025
 
-- The average temperature today is 16.65˚C,
-- With highs of 17.75˚C and lows of 15.38˚C,
-- It may feel like 16.51˚C with few clouds
+- The average temperature today is 18.72˚C,
+- With highs of 19.42˚C and lows of 18.16˚C,
+- It may feel like 18.66˚C with few clouds
 - The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1021hPa and humidity is 82%
+- The pressure is 1021hPa and humidity is 77%
 - The sun will rise at 04:02 and set at 20:25
 
 <!-- weather_marker ends -->
