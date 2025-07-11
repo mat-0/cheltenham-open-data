@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -31,15 +31,6 @@
 <georss:point>51.943756 -2.047776</georss:point>
 </item>
 <item>
-<title>TMC - Defects -FW6 Potholes problem, 11th July</title>
-<link>https://www.fixmystreet.com/report/7861937</link>
-<description>Pothole FW 300mm  x 300mm  x 20mm &amp;#10;Give and take TM With Temporary FW Closure &amp;#10;Use pinpoint &amp;#10;Stats required &amp;#10;Wheelbarrow required (FW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7861937&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -FW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7861937</guid>
-<pubDate>Fri, 11 Jul 2025 11:09:58 +0100</pubDate>
-<georss:point>51.8872179 -2.0617418</georss:point>
-</item>
-<item>
 <title>TMC - Defects - Other FW6  Surface problem, 11th July</title>
 <link>https://www.fixmystreet.com/report/7861939</link>
 <description>Cracks FW 1800mm  x 300mm x 25mm &amp;#10;Give and take TM With Temporary FW Closure &amp;#10;Use pinpoint &amp;#10;Stats required &amp;#10;Wheelbarrow required (FW6 Cracks or Gaps)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7861939&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
@@ -47,24 +38,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/7861939</guid>
 <pubDate>Fri, 11 Jul 2025 11:09:58 +0100</pubDate>
 <georss:point>51.8872055 -2.06179680000002</georss:point>
-</item>
-<item>
-<title>TMC - Defects -FW6 Potholes problem, 11th July</title>
-<link>https://www.fixmystreet.com/report/7861936</link>
-<description>Pothole FW 400mm  x 200mm  x 20mm &amp;#10;Give and take TM With Temporary FW Closure &amp;#10;Use pinpoint &amp;#10;Stats required &amp;#10;Wheelbarrow required (FW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7861936&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -FW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7861936</guid>
-<pubDate>Fri, 11 Jul 2025 11:09:58 +0100</pubDate>
-<georss:point>51.8872608428346 -2.0617747907697</georss:point>
-</item>
-<item>
-<title>TMC - Defects -other CW6 problem, 11th July</title>
-<link>https://www.fixmystreet.com/report/7861940</link>
-<description>Edge deterioration FW 1200mm  x 200mm  x 23mm&amp;#10;Give and take TM With Temporary FW Closure &amp;#10;Use pinpoint &amp;#10;Stats required &amp;#10;Wheelbarrow required (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7861940&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -other CW6</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7861940</guid>
-<pubDate>Fri, 11 Jul 2025 11:09:58 +0100</pubDate>
-<georss:point>51.8873118 -2.0618277</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 11th July</title>
@@ -76,6 +49,15 @@
 <georss:point>51.8872811 -2.0618211</georss:point>
 </item>
 <item>
+<title>TMC - Defects -other CW6 problem, 11th July</title>
+<link>https://www.fixmystreet.com/report/7861940</link>
+<description>Edge deterioration FW 1200mm  x 200mm  x 23mm&amp;#10;Give and take TM With Temporary FW Closure &amp;#10;Use pinpoint &amp;#10;Stats required &amp;#10;Wheelbarrow required (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7861940&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -other CW6</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7861940</guid>
+<pubDate>Fri, 11 Jul 2025 11:09:58 +0100</pubDate>
+<georss:point>51.8873118 -2.0618277</georss:point>
+</item>
+<item>
 <title>TMC - Defects -FW6 Potholes problem, 11th July</title>
 <link>https://www.fixmystreet.com/report/7861941</link>
 <description>Pothole FW 600mm  x 400mm  x 30mm &amp;#10;Give and take TM With Temporary FW Closure &amp;#10;Use pinpoint &amp;#10;Stats required &amp;#10;Wheelbarrow required (FW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7861941&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
@@ -83,6 +65,24 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/7861941</guid>
 <pubDate>Fri, 11 Jul 2025 11:09:58 +0100</pubDate>
 <georss:point>51.8873592 -2.06186049999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects -FW6 Potholes problem, 11th July</title>
+<link>https://www.fixmystreet.com/report/7861937</link>
+<description>Pothole FW 300mm  x 300mm  x 20mm &amp;#10;Give and take TM With Temporary FW Closure &amp;#10;Use pinpoint &amp;#10;Stats required &amp;#10;Wheelbarrow required (FW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7861937&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -FW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7861937</guid>
+<pubDate>Fri, 11 Jul 2025 11:09:58 +0100</pubDate>
+<georss:point>51.8872179 -2.0617418</georss:point>
+</item>
+<item>
+<title>TMC - Defects -FW6 Potholes problem, 11th July</title>
+<link>https://www.fixmystreet.com/report/7861936</link>
+<description>Pothole FW 400mm  x 200mm  x 20mm &amp;#10;Give and take TM With Temporary FW Closure &amp;#10;Use pinpoint &amp;#10;Stats required &amp;#10;Wheelbarrow required (FW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7861936&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -FW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7861936</guid>
+<pubDate>Fri, 11 Jul 2025 11:09:58 +0100</pubDate>
+<georss:point>51.8872608428346 -2.0617747907697</georss:point>
 </item>
 <item>
 <title>General road markings, lines and stud issues problem, 11th July</title>
