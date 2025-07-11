@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -12,6 +12,42 @@
 <description>The latest local problems reported by users</description>
 <language>en-gb</language>
 
+<item>
+<title>TMC - Defects - Covers, Gratings &amp; Frames problem, 11th July</title>
+<link>https://www.fixmystreet.com/report/7861167</link>
+<description>Broken Chamber CW &amp;#10;2 way traffic lights TM &amp;#10;By Premier Garage&amp;#10;Stats required (Broken Chamber Cover/Frame)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7861167&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Covers, Gratings &amp; Frames</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7861167</guid>
+<pubDate>Fri, 11 Jul 2025 09:14:17 +0100</pubDate>
+<georss:point>51.9645013 -2.06969050000002</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Covers, Gratings &amp; Frames problem, 11th July</title>
+<link>https://www.fixmystreet.com/report/7861166</link>
+<description>Broken Chamber CW in hours 2hr Emergency &amp;#10;2 way traffic lights TM &amp;#10;By Premier Garage&amp;#10;Stats required &amp;#10;Make safe required (Broken Chamber Cover/Frame)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7861166&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Covers, Gratings &amp; Frames</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7861166</guid>
+<pubDate>Fri, 11 Jul 2025 09:14:17 +0100</pubDate>
+<georss:point>51.9645098 -2.06969269999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 11th July</title>
+<link>https://www.fixmystreet.com/report/7861158</link>
+<description>Pothole CW 600mm  x 400mm  x 40mm&amp;#10;Stop and go TM &amp;#10;Outside The Old Parsonage &amp;#10;Near Bend (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7861158&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7861158</guid>
+<pubDate>Fri, 11 Jul 2025 08:56:15 +0100</pubDate>
+<georss:point>51.9725486979425 -1.99169629568582</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 11th July</title>
+<link>https://www.fixmystreet.com/report/7861157</link>
+<description>Pothole CW 600mm  x 500mm  x 45mm&amp;#10;Stop and go TM &amp;#10;Outside The Old Parsonage &amp;#10;Near Bend (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7861157&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7861157</guid>
+<pubDate>Fri, 11 Jul 2025 08:53:12 +0100</pubDate>
+<georss:point>51.9723655191329 -1.99115267705074</georss:point>
+</item>
 <item>
 <title>Tarmac surface damage. My son tripped because cerb is higher than tarmac surface., 11th July</title>
 <link>https://www.fixmystreet.com/report/7860683</link>
@@ -155,42 +191,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/7850479</guid>
 <pubDate>Thu, 10 Jul 2025 12:28:22 +0100</pubDate>
 <georss:point>51.890323 -2.059429</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Vegetation problem, 10th July</title>
-<link>https://www.fixmystreet.com/report/7847172</link>
-<description>Overgrown hedge (Grass needs cutting as there is poor visibility pulling out of Britannia Way).&amp;#10;70 Mtrs  x 9 Mtrs Aprox &amp;#10;TM: Give and Take &amp;#10;Opposite Bus Stop (Overgrown Hedge)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7847172&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Vegetation</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7847172</guid>
-<pubDate>Thu, 10 Jul 2025 12:02:54 +0100</pubDate>
-<georss:point>51.9414366 -2.0461844</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Vegetation problem, 10th July</title>
-<link>https://www.fixmystreet.com/report/7847170</link>
-<description>Overgrown hedge (Grass needs cutting as there is poor visibility pulling out of Britannia Way).&amp;#10;44 Mtrs x 9 Mtrs Aprox&amp;#10;TM: Give and Take &amp;#10;Next to BT Post No 1 (Overgrown Hedge)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7847170&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Vegetation</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7847170</guid>
-<pubDate>Thu, 10 Jul 2025 12:02:54 +0100</pubDate>
-<georss:point>51.9415009 -2.04653699999999</georss:point>
-</item>
-<item>
-<title>Lampposts 10,21,25 obscured with vegetation, 10th July</title>
-<link>https://www.fixmystreet.com/report/7845824</link>
-<description>Lampposts 10,21,25 obscured with vegetation on moorend road charlton kings&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Moorend Road, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7845824&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Light is obscured by vegetation</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7845824</guid>
-<pubDate>Thu, 10 Jul 2025 11:57:29 +0100</pubDate>
-<georss:point>51.88412 -2.057333</georss:point>
-</item>
-<item>
-<title>TMC - Defects -other CW6 problem, 10th July</title>
-<link>https://www.fixmystreet.com/report/7843404</link>
-<description>CW: Rutting and Depression &amp;#10;4300mmx1000mmx74mm&amp;#10;TM: STOP and GO &amp;#10;ENWD &amp;#10;Use pinpoint (CW6 Rutting&amp;amp;Depressions)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7843404&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -other CW6</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7843404</guid>
-<pubDate>Thu, 10 Jul 2025 11:31:56 +0100</pubDate>
-<georss:point>51.9404979 -2.04449900000001</georss:point>
 </item>
 </channel>
 </rss>
