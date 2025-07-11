@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Covers, Gratings & Frames problem, 11th July :- [7861167](https://www.fixmystreet.com/report/7861167)
+- TMC - Defects - Covers, Gratings & Frames problem, 11th July :- [7861166](https://www.fixmystreet.com/report/7861166)
+- TMC - Defects -CW6 Potholes  problem, 11th July :- [7861158](https://www.fixmystreet.com/report/7861158)
+- TMC - Defects -CW6 Potholes  problem, 11th July :- [7861157](https://www.fixmystreet.com/report/7861157)
 - Tarmac surface damage. My son tripped because cerb is higher than tarmac surface., 11th July :- [7860683](https://www.fixmystreet.com/report/7860683)
 - Pothole outside 53 Ravensgate Road, 10th July :- [7858815](https://www.fixmystreet.com/report/7858815)
 - Pavement pothole outside 43 Pilley Crescent, 10th July :- [7858662](https://www.fixmystreet.com/report/7858662)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 10th July :- [7857401](https://www.fixmystreet.com/report/7857401)
 - Flyposting, 10th July :- [7851592](https://www.fixmystreet.com/report/7851592)
 - Sign rotting and damaged. Could fall soon, 10th July :- [7850479](https://www.fixmystreet.com/report/7850479)
-- TMC - Defects - Vegetation problem, 10th July :- [7847172](https://www.fixmystreet.com/report/7847172)
-- TMC - Defects - Vegetation problem, 10th July :- [7847170](https://www.fixmystreet.com/report/7847170)
-- Lampposts 10,21,25 obscured with vegetation, 10th July :- [7845824](https://www.fixmystreet.com/report/7845824)
-- TMC - Defects -other CW6 problem, 10th July :- [7843404](https://www.fixmystreet.com/report/7843404)
 
 <!-- fix_marker ends -->
