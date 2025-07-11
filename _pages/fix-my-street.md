@@ -9,13 +9,14 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flyposting by Estate Agent on lamppost, 11th July :- [7862288](https://www.fixmystreet.com/report/7862288)
 - Grass verges are far too long, 11th July :- [7861831](https://www.fixmystreet.com/report/7861831)
-- TMC - Defects -other CW6 problem, 11th July :- [7861940](https://www.fixmystreet.com/report/7861940)
+- TMC - Defects -FW6 Potholes problem, 11th July :- [7861937](https://www.fixmystreet.com/report/7861937)
 - TMC - Defects - Other FW6  Surface problem, 11th July :- [7861939](https://www.fixmystreet.com/report/7861939)
 - TMC - Defects -FW6 Potholes problem, 11th July :- [7861936](https://www.fixmystreet.com/report/7861936)
-- TMC - Defects -FW6 Potholes problem, 11th July :- [7861937](https://www.fixmystreet.com/report/7861937)
-- TMC - Defects -FW6 Potholes problem, 11th July :- [7861941](https://www.fixmystreet.com/report/7861941)
+- TMC - Defects -other CW6 problem, 11th July :- [7861940](https://www.fixmystreet.com/report/7861940)
 - TMC - Defects - Other FW6  Surface problem, 11th July :- [7861935](https://www.fixmystreet.com/report/7861935)
+- TMC - Defects -FW6 Potholes problem, 11th July :- [7861941](https://www.fixmystreet.com/report/7861941)
 - General road markings, lines and stud issues problem, 11th July :- [7861546](https://www.fixmystreet.com/report/7861546)
 - TMC - Defects -CW6 Potholes  problem, 11th July :- [7861368](https://www.fixmystreet.com/report/7861368)
 - TMC - Defects - Covers, Gratings & Frames problem, 11th July :- [7861166](https://www.fixmystreet.com/report/7861166)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - A pothole in road problem, 10th July :- [7858425](https://www.fixmystreet.com/report/7858425)
 - A pothole in road problem, 10th July :- [7858206](https://www.fixmystreet.com/report/7858206)
 - A pothole in road problem, 10th July :- [7858205](https://www.fixmystreet.com/report/7858205)
-- Qquery re removal of tree behind 28 stanwick gardens GL51 9LF, 10th July :- [7857891](https://www.fixmystreet.com/report/7857891)
 
 <!-- fix_marker ends -->
