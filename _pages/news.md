@@ -12,13 +12,13 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- 'Going to be special' - EMF to headline Cindyfest ([3 hours ago](https://www.bbc.com/news/articles/cvg10xywny1o))
-- Man halved weight to do 17 hour triathlon ([5 hours ago](https://www.bbc.com/news/articles/cvg9jdd7958o))
-- Gloucestershire in pictures: Sunny skies and lavender ([5 hours ago](https://www.bbc.com/news/articles/c93kweeelx7o))
-- Barefoot waterskiiers compete on Cirencester lake ([16 hours ago](https://www.bbc.com/news/videos/c8j1xkxdk9ko))
-- Music lover has enjoyed town festival for 80 years ([16 hours ago](https://www.bbc.com/news/articles/cy8kg7rmnxdo))
-- Man pleads guilty to drugs possession offences ([19 hours ago](https://gloucesternewscentre.co.uk/man-pleads-guilty-to-drugs-possession-offences/))
-- Cheltenham man charged with shoplifting offences ([19 hours ago](https://gloucesternewscentre.co.uk/cheltenham-man-charged-with-shoplifting-offences/))
+- 'Going to be special' - EMF to headline Cindyfest ([4 hours ago](https://www.bbc.com/news/articles/cvg10xywny1o))
+- Man halved weight to do 17 hour triathlon ([6 hours ago](https://www.bbc.com/news/articles/cvg9jdd7958o))
+- Gloucestershire in pictures: Sunny skies and lavender ([6 hours ago](https://www.bbc.com/news/articles/c93kweeelx7o))
+- Barefoot waterskiiers compete on Cirencester lake ([17 hours ago](https://www.bbc.com/news/videos/c8j1xkxdk9ko))
+- Music lover has enjoyed town festival for 80 years ([17 hours ago](https://www.bbc.com/news/articles/cy8kg7rmnxdo))
+- Man pleads guilty to drugs possession offences ([20 hours ago](https://gloucesternewscentre.co.uk/man-pleads-guilty-to-drugs-possession-offences/))
+- Cheltenham man charged with shoplifting offences ([20 hours ago](https://gloucesternewscentre.co.uk/cheltenham-man-charged-with-shoplifting-offences/))
 - David ‘Syd’ Lawrence MBE 1964 – 2025 ([1 days ago](https://www.bbc.co.uk/sounds/play/p0lpkk2r))
 - Ex-leader's attack on 'dishonest' council survey ([1 days ago](https://www.bbc.com/news/articles/cew0zl27xwvo))
 - 'Flying Scotsman trips cancelled' and 'heat alert' ([1 days ago](https://www.bbc.com/news/articles/c62g0l5exp9o))
@@ -30,7 +30,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Railway staff walk 114 miles overnight for charity ([1 days ago](https://www.bbc.com/news/articles/cyvj5v9y4n2o))
 - Council shake-up survey blasted as ‘cynical waste of money’ amid row over devolution ([1 days ago](https://gloucesternewscentre.co.uk/council-shake-up-survey-blasted-as-cynical-waste-of-money-amid-row-over-devolution/))
 - The hidden team behind Wimbledon's floral displays ([1 days ago](https://www.bbc.com/news/articles/ce3ne98w21do))
-- Changes made after wrong graves used for burials ([1 days ago](https://www.bbc.com/news/articles/c2ez1edx0k3o))
+- Changes made after wrong graves used for burials ([2 days ago](https://www.bbc.com/news/articles/c2ez1edx0k3o))
 - NCLB Party in the Park returns to Pittville Park this summer ([2 days ago](https://www.cheltenham.gov.uk/news/article/3033/nclb_party_in_the_park_returns_to_pittville_park_this_summer))
 - Mission to honour city's first department store ([2 days ago](https://www.bbc.com/news/articles/cr79ldrj4rvo))
 - Organisers accuse council of agenda against rally ([2 days ago](https://www.bbc.com/news/articles/c93kv18j4pzo))
@@ -70,6 +70,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - The Big Cases ([17 days ago](https://www.bbc.co.uk/iplayer/episode/m001z7w2))
 - Cheltenham joins In The Loop with new colourful bins to boost recycling on-the-go ([19 days ago](https://www.cheltenham.gov.uk/news/article/3022/cheltenham_joins_in_the_loop_with_new_colourful_bins_to_boost_recycling_on-the-go))
 - Joint statement with Gloucester City Council: Preferred bidder for Gloucestershire Airport to deliver soaring potential for economic benefit to region ([24 days ago](https://www.cheltenham.gov.uk/news/article/3021/joint_statement_with_gloucester_city_council_preferred_bidder_for_gloucestershire_airport_to_deliver_soaring_potential_for_economic_benefit_to_region))
-- Petersfield Community and Sports Hub set to strengthen community pride in Cheltenham ([28 days ago](https://www.cheltenham.gov.uk/news/article/3020/petersfield_community_and_sports_hub_set_to_strengthen_community_pride_in_cheltenham))
+- Petersfield Community and Sports Hub set to strengthen community pride in Cheltenham ([29 days ago](https://www.cheltenham.gov.uk/news/article/3020/petersfield_community_and_sports_hub_set_to_strengthen_community_pride_in_cheltenham))
 
 <!-- news_marker ends -->
