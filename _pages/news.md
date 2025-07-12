@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- 'I still can't believe that I was at Live Aid' ([1 hours ago](https://www.bbc.com/news/articles/cvg10nqqeego))
-- 'Going to be special' - EMF to headline Cindyfest ([9 hours ago](https://www.bbc.com/news/articles/cvg10xywny1o))
-- Man halved weight to do 17 hour triathlon ([11 hours ago](https://www.bbc.com/news/articles/cvg9jdd7958o))
-- Gloucestershire in pictures: Sunny skies and lavender ([11 hours ago](https://www.bbc.com/news/articles/c93kweeelx7o))
-- Barefoot waterskiiers compete on Cirencester lake ([22 hours ago](https://www.bbc.com/news/videos/c8j1xkxdk9ko))
-- Music lover has enjoyed town festival for 80 years ([22 hours ago](https://www.bbc.com/news/articles/cy8kg7rmnxdo))
+- 'I still can't believe that I was at Live Aid' ([2 hours ago](https://www.bbc.com/news/articles/cvg10nqqeego))
+- 'Going to be special' - EMF to headline Cindyfest ([10 hours ago](https://www.bbc.com/news/articles/cvg10xywny1o))
+- Man halved weight to do 17 hour triathlon ([12 hours ago](https://www.bbc.com/news/articles/cvg9jdd7958o))
+- Gloucestershire in pictures: Sunny skies and lavender ([12 hours ago](https://www.bbc.com/news/articles/c93kweeelx7o))
+- Barefoot waterskiiers compete on Cirencester lake ([23 hours ago](https://www.bbc.com/news/videos/c8j1xkxdk9ko))
+- Music lover has enjoyed town festival for 80 years ([23 hours ago](https://www.bbc.com/news/articles/cy8kg7rmnxdo))
 - Man pleads guilty to drugs possession offences ([1 days ago](https://gloucesternewscentre.co.uk/man-pleads-guilty-to-drugs-possession-offences/))
 - Cheltenham man charged with shoplifting offences ([1 days ago](https://gloucesternewscentre.co.uk/cheltenham-man-charged-with-shoplifting-offences/))
 - David ‘Syd’ Lawrence MBE 1964 – 2025 ([1 days ago](https://www.bbc.co.uk/sounds/play/p0lpkk2r))
