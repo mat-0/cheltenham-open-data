@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Saturday, 12 July 2025
 
-- The average temperature today is 25.86˚C,
-- With highs of 27.38˚C and lows of 24.75˚C,
-- It may feel like 25.89˚C with clear sky
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1017hPa and humidity is 53%
+- The average temperature today is 27.94˚C,
+- With highs of 29.05˚C and lows of 26.51˚C,
+- It may feel like 28.21˚C with clear sky
+- The wind speed is 1.79m/s and visibility is 10000m
+- The pressure is 1016hPa and humidity is 48%
 - The sun will rise at 04:03 and set at 20:24
 
 <!-- weather_marker ends -->
