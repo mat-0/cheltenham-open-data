@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Litter pick bags ready for collection., 12th July :- [7866080](https://www.fixmystreet.com/report/7866080)
+- Broken Tree as a result of GCC works on Butts Lane, 12th July :- [7865974](https://www.fixmystreet.com/report/7865974)
 - Large crack opened up in pavement, 12th July :- [7865172](https://www.fixmystreet.com/report/7865172)
 - Light is falling apart at the top, and sparks when raining, 11th July :- [7864818](https://www.fixmystreet.com/report/7864818)
 - Pothole outside Livingstones/Edgeworth, 11th July :- [7864612](https://www.fixmystreet.com/report/7864612)
@@ -17,17 +19,15 @@ permalink: /fix-my-street
 - Unmaintained trees causing damage to fencing and debris across footpath and parking area, 11th July :- [7863615](https://www.fixmystreet.com/report/7863615)
 - Flyposting by Estate Agent on lamppost, 11th July :- [7862288](https://www.fixmystreet.com/report/7862288)
 - Grass verges are far too long, 11th July :- [7861831](https://www.fixmystreet.com/report/7861831)
-- TMC - Defects -FW6 Potholes problem, 11th July :- [7861941](https://www.fixmystreet.com/report/7861941)
 - TMC - Defects - Other FW6  Surface problem, 11th July :- [7861935](https://www.fixmystreet.com/report/7861935)
-- TMC - Defects -other CW6 problem, 11th July :- [7861940](https://www.fixmystreet.com/report/7861940)
 - TMC - Defects - Other FW6  Surface problem, 11th July :- [7861939](https://www.fixmystreet.com/report/7861939)
 - TMC - Defects -FW6 Potholes problem, 11th July :- [7861936](https://www.fixmystreet.com/report/7861936)
 - TMC - Defects -FW6 Potholes problem, 11th July :- [7861937](https://www.fixmystreet.com/report/7861937)
+- TMC - Defects -other CW6 problem, 11th July :- [7861940](https://www.fixmystreet.com/report/7861940)
+- TMC - Defects -FW6 Potholes problem, 11th July :- [7861941](https://www.fixmystreet.com/report/7861941)
 - General road markings, lines and stud issues problem, 11th July :- [7861546](https://www.fixmystreet.com/report/7861546)
 - TMC - Defects -CW6 Potholes  problem, 11th July :- [7861368](https://www.fixmystreet.com/report/7861368)
-- TMC - Defects - Covers, Gratings & Frames problem, 11th July :- [7861166](https://www.fixmystreet.com/report/7861166)
 - TMC - Defects - Covers, Gratings & Frames problem, 11th July :- [7861167](https://www.fixmystreet.com/report/7861167)
-- TMC - Defects -CW6 Potholes  problem, 11th July :- [7861158](https://www.fixmystreet.com/report/7861158)
-- TMC - Defects -CW6 Potholes  problem, 11th July :- [7861157](https://www.fixmystreet.com/report/7861157)
+- TMC - Defects - Covers, Gratings & Frames problem, 11th July :- [7861166](https://www.fixmystreet.com/report/7861166)
 
 <!-- fix_marker ends -->
