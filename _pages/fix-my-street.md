@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Potholes, 13th July :- [7869524](https://www.fixmystreet.com/report/7869524)
+- Entire pavement missing outside our home, obstructing our driveway and melting on the roadside, 13th July :- [7869452](https://www.fixmystreet.com/report/7869452)
 - Loud Clanking Noise of Drain cover, 13th July :- [7869056](https://www.fixmystreet.com/report/7869056)
 - Abandoned scooter, 13th July :- [7868282](https://www.fixmystreet.com/report/7868282)
 - Damaged Bin, 13th July :- [7868220](https://www.fixmystreet.com/report/7868220)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Keep clear should it be removed, 11th July :- [7863990](https://www.fixmystreet.com/report/7863990)
 - ‘Temporary Bus stop’ sign left behind after road works were finished., 11th July :- [7863638](https://www.fixmystreet.com/report/7863638)
 - Unmaintained trees causing damage to fencing and debris across footpath and parking area, 11th July :- [7863615](https://www.fixmystreet.com/report/7863615)
-- Flyposting by Estate Agent on lamppost, 11th July :- [7862288](https://www.fixmystreet.com/report/7862288)
-- Grass verges are far too long, 11th July :- [7861831](https://www.fixmystreet.com/report/7861831)
 
 <!-- fix_marker ends -->
