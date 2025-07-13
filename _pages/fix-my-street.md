@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Very poor road needs resurfacing at Bayshiil Road, Cheltenham., 13th July :- [7867507](https://www.fixmystreet.com/report/7867507)
 - Pink e-scooter on footpath, 12th July :- [7867141](https://www.fixmystreet.com/report/7867141)
 - Several potholes on wellington square, 12th July :- [7867001](https://www.fixmystreet.com/report/7867001)
 - Tree was cut down but roots never removed, previous reference number - 11451401, 12th July :- [7866980](https://www.fixmystreet.com/report/7866980)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -FW6 Potholes problem, 11th July :- [7861936](https://www.fixmystreet.com/report/7861936)
 - TMC - Defects - Other FW6  Surface problem, 11th July :- [7861935](https://www.fixmystreet.com/report/7861935)
 - TMC - Defects -FW6 Potholes problem, 11th July :- [7861937](https://www.fixmystreet.com/report/7861937)
-- TMC - Defects - Other FW6  Surface problem, 11th July :- [7861939](https://www.fixmystreet.com/report/7861939)
 
 <!-- fix_marker ends -->
