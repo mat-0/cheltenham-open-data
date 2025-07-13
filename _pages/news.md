@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- RIAT 2025: Everything you need to know ([7 hours ago](https://www.bbc.com/news/articles/cvg8r8gz8vro))
-- 'Railway lines restored' and '70,000 bees removed' ([7 hours ago](https://www.bbc.com/news/articles/cpvj7k3gyj4o))
-- 'I still can't believe that I was at Live Aid' ([21 hours ago](https://www.bbc.com/news/articles/cvg10nqqeego))
+- RIAT 2025: Everything you need to know ([8 hours ago](https://www.bbc.com/news/articles/cvg8r8gz8vro))
+- 'Railway lines restored' and '70,000 bees removed' ([8 hours ago](https://www.bbc.com/news/articles/cpvj7k3gyj4o))
+- 'I still can't believe that I was at Live Aid' ([22 hours ago](https://www.bbc.com/news/articles/cvg10nqqeego))
 - 'Going to be special' - EMF to headline Cindyfest ([1 days ago](https://www.bbc.com/news/articles/cvg10xywny1o))
 - Man halved weight to do 17 hour triathlon ([1 days ago](https://www.bbc.com/news/articles/cvg9jdd7958o))
 - Gloucestershire in pictures: Sunny skies and lavender ([1 days ago](https://www.bbc.com/news/articles/c93kweeelx7o))
@@ -51,7 +51,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - College welcomes wheelchair-friendly path to Cotswold beauty spot near A417 ([8 days ago](https://gloucesternewscentre.co.uk/college-welcomes-wheelchair-friendly-path-to-cotswold-beauty-spot-near-a417/))
 - Appeal for witnesses after a woman sustained a head injury in Cheltenham ([8 days ago](https://gloucesternewscentre.co.uk/appeal-for-witnesses-after-a-woman-sustained-a-head-injury-in-cheltenham/))
 - Police issue CCTV images of man in connection with an incident in Cheltenham ([8 days ago](https://gloucesternewscentre.co.uk/police-issue-cctv-images-of-man-in-connection-with-an-incident-in-cheltenham/))
-- HBD secures green light for first phase of landmark £1bn Golden Valley scheme ([8 days ago](https://www.cheltenham.gov.uk/news/article/3030/hbd_secures_green_light_for_first_phase_of_landmark_1bn_golden_valley_scheme))
+- HBD secures green light for first phase of landmark £1bn Golden Valley scheme ([9 days ago](https://www.cheltenham.gov.uk/news/article/3030/hbd_secures_green_light_for_first_phase_of_landmark_1bn_golden_valley_scheme))
 - Heat pump roadshow - ask an expert ([9 days ago](https://www.cheltenham.gov.uk/news/article/3029/heat_pump_roadshow_-_ask_an_expert))
 - Cheltenham Borough Council achieves 6th place ranking in 2025 Climate Emergency UK Scorecards ([9 days ago](https://gloucesternewscentre.co.uk/cheltenham-borough-council-achieves-6th-place-ranking-in-2025-climate-emergency-uk-scorecards/))
 - Men arrested after drugs and cash are seized during simultaneous warrants in Cheltenham ([9 days ago](https://gloucesternewscentre.co.uk/men-arrested-after-drugs-and-cash-are-seized-during-simultaneous-warrants-in-cheltenham/))
