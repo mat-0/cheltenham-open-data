@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- RIAT 2025: Everything you need to know ([6 hours ago](https://www.bbc.com/news/articles/cvg8r8gz8vro))
-- 'Railway lines restored' and '70,000 bees removed' ([6 hours ago](https://www.bbc.com/news/articles/cpvj7k3gyj4o))
-- 'I still can't believe that I was at Live Aid' ([20 hours ago](https://www.bbc.com/news/articles/cvg10nqqeego))
+- RIAT 2025: Everything you need to know ([7 hours ago](https://www.bbc.com/news/articles/cvg8r8gz8vro))
+- 'Railway lines restored' and '70,000 bees removed' ([7 hours ago](https://www.bbc.com/news/articles/cpvj7k3gyj4o))
+- 'I still can't believe that I was at Live Aid' ([21 hours ago](https://www.bbc.com/news/articles/cvg10nqqeego))
 - 'Going to be special' - EMF to headline Cindyfest ([1 days ago](https://www.bbc.com/news/articles/cvg10xywny1o))
 - Man halved weight to do 17 hour triathlon ([1 days ago](https://www.bbc.com/news/articles/cvg9jdd7958o))
 - Gloucestershire in pictures: Sunny skies and lavender ([1 days ago](https://www.bbc.com/news/articles/c93kweeelx7o))
@@ -31,7 +31,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Farmer's warning amid 'worst drought in 41 years' ([2 days ago](https://www.bbc.com/news/articles/cj4el71q490o))
 - Wanted appeal issued for Cheltenham man Christopher Hester ([2 days ago](https://gloucesternewscentre.co.uk/wanted-appeal-issued-for-cheltenham-man-christopher-hester/))
 - Council shake-up survey blasted as ‘cynical waste of money’ amid row over devolution ([2 days ago](https://gloucesternewscentre.co.uk/council-shake-up-survey-blasted-as-cynical-waste-of-money-amid-row-over-devolution/))
-- The hidden team behind Wimbledon's floral displays ([2 days ago](https://www.bbc.com/news/articles/ce3ne98w21do))
+- The hidden team behind Wimbledon's floral displays ([3 days ago](https://www.bbc.com/news/articles/ce3ne98w21do))
 - Changes made after wrong graves used for burials ([3 days ago](https://www.bbc.com/news/articles/c2ez1edx0k3o))
 - NCLB Party in the Park returns to Pittville Park this summer ([3 days ago](https://www.cheltenham.gov.uk/news/article/3033/nclb_party_in_the_park_returns_to_pittville_park_this_summer))
 - Council chiefs fear there will be a ‘tsunami’ of bids for 20mph limits ([3 days ago](https://gloucesternewscentre.co.uk/council-chiefs-fear-there-will-be-a-tsunami-of-bids-for-20mph-limits/))
