@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Abandoned scooter, 13th July :- [7868282](https://www.fixmystreet.com/report/7868282)
+- Damaged Bin, 13th July :- [7868220](https://www.fixmystreet.com/report/7868220)
 - Very poor road needs resurfacing at Bayshiil Road, Cheltenham., 13th July :- [7867507](https://www.fixmystreet.com/report/7867507)
 - Pink e-scooter on footpath, 12th July :- [7867141](https://www.fixmystreet.com/report/7867141)
 - Several potholes on wellington square, 12th July :- [7867001](https://www.fixmystreet.com/report/7867001)
@@ -26,8 +28,6 @@ permalink: /fix-my-street
 - Unmaintained trees causing damage to fencing and debris across footpath and parking area, 11th July :- [7863615](https://www.fixmystreet.com/report/7863615)
 - Flyposting by Estate Agent on lamppost, 11th July :- [7862288](https://www.fixmystreet.com/report/7862288)
 - Grass verges are far too long, 11th July :- [7861831](https://www.fixmystreet.com/report/7861831)
-- TMC - Defects -FW6 Potholes problem, 11th July :- [7861936](https://www.fixmystreet.com/report/7861936)
-- TMC - Defects - Other FW6  Surface problem, 11th July :- [7861935](https://www.fixmystreet.com/report/7861935)
 - TMC - Defects -FW6 Potholes problem, 11th July :- [7861937](https://www.fixmystreet.com/report/7861937)
 
 <!-- fix_marker ends -->
