@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- 'I still can't believe that I was at Live Aid' ([7 hours ago](https://www.bbc.com/news/articles/cvg10nqqeego))
-- 'Going to be special' - EMF to headline Cindyfest ([15 hours ago](https://www.bbc.com/news/articles/cvg10xywny1o))
-- Man halved weight to do 17 hour triathlon ([17 hours ago](https://www.bbc.com/news/articles/cvg9jdd7958o))
-- Gloucestershire in pictures: Sunny skies and lavender ([17 hours ago](https://www.bbc.com/news/articles/c93kweeelx7o))
+- 'I still can't believe that I was at Live Aid' ([8 hours ago](https://www.bbc.com/news/articles/cvg10nqqeego))
+- 'Going to be special' - EMF to headline Cindyfest ([16 hours ago](https://www.bbc.com/news/articles/cvg10xywny1o))
+- Man halved weight to do 17 hour triathlon ([18 hours ago](https://www.bbc.com/news/articles/cvg9jdd7958o))
+- Gloucestershire in pictures: Sunny skies and lavender ([19 hours ago](https://www.bbc.com/news/articles/c93kweeelx7o))
 - Barefoot waterskiiers compete on Cirencester lake ([1 days ago](https://www.bbc.com/news/videos/c8j1xkxdk9ko))
 - Music lover has enjoyed town festival for 80 years ([1 days ago](https://www.bbc.com/news/articles/cy8kg7rmnxdo))
 - Man pleads guilty to drugs possession offences ([1 days ago](https://gloucesternewscentre.co.uk/man-pleads-guilty-to-drugs-possession-offences/))

@@ -27,7 +27,7 @@ permalink: /fix-my-street
 - Grass verges are far too long, 11th July :- [7861831](https://www.fixmystreet.com/report/7861831)
 - TMC - Defects -FW6 Potholes problem, 11th July :- [7861936](https://www.fixmystreet.com/report/7861936)
 - TMC - Defects - Other FW6  Surface problem, 11th July :- [7861935](https://www.fixmystreet.com/report/7861935)
-- TMC - Defects -other CW6 problem, 11th July :- [7861940](https://www.fixmystreet.com/report/7861940)
 - TMC - Defects -FW6 Potholes problem, 11th July :- [7861937](https://www.fixmystreet.com/report/7861937)
+- TMC - Defects - Other FW6  Surface problem, 11th July :- [7861939](https://www.fixmystreet.com/report/7861939)
 
 <!-- fix_marker ends -->
