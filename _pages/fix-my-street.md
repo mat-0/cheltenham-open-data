@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Basketball hoop broken, 13th July :- [7869789](https://www.fixmystreet.com/report/7869789)
 - Potholes, 13th July :- [7869524](https://www.fixmystreet.com/report/7869524)
 - Entire pavement missing outside our home, obstructing our driveway and melting on the roadside, 13th July :- [7869452](https://www.fixmystreet.com/report/7869452)
 - Loud Clanking Noise of Drain cover, 13th July :- [7869056](https://www.fixmystreet.com/report/7869056)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Pothole outside Livingstones/Edgeworth, 11th July :- [7864612](https://www.fixmystreet.com/report/7864612)
 - Keep clear should it be removed, 11th July :- [7863990](https://www.fixmystreet.com/report/7863990)
 - ‘Temporary Bus stop’ sign left behind after road works were finished., 11th July :- [7863638](https://www.fixmystreet.com/report/7863638)
-- Unmaintained trees causing damage to fencing and debris across footpath and parking area, 11th July :- [7863615](https://www.fixmystreet.com/report/7863615)
 
 <!-- fix_marker ends -->
