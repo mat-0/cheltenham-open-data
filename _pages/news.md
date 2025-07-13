@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- RIAT 2025: Everything you need to know ([32 minutes ago](https://www.bbc.com/news/articles/cvg8r8gz8vro))
-- 'Railway lines restored' and '70,000 bees removed' ([42 minutes ago](https://www.bbc.com/news/articles/cpvj7k3gyj4o))
-- 'I still can't believe that I was at Live Aid' ([14 hours ago](https://www.bbc.com/news/articles/cvg10nqqeego))
-- 'Going to be special' - EMF to headline Cindyfest ([22 hours ago](https://www.bbc.com/news/articles/cvg10xywny1o))
+- RIAT 2025: Everything you need to know ([1 hours ago](https://www.bbc.com/news/articles/cvg8r8gz8vro))
+- 'Railway lines restored' and '70,000 bees removed' ([1 hours ago](https://www.bbc.com/news/articles/cpvj7k3gyj4o))
+- 'I still can't believe that I was at Live Aid' ([15 hours ago](https://www.bbc.com/news/articles/cvg10nqqeego))
+- 'Going to be special' - EMF to headline Cindyfest ([23 hours ago](https://www.bbc.com/news/articles/cvg10xywny1o))
 - Man halved weight to do 17 hour triathlon ([1 days ago](https://www.bbc.com/news/articles/cvg9jdd7958o))
 - Gloucestershire in pictures: Sunny skies and lavender ([1 days ago](https://www.bbc.com/news/articles/c93kweeelx7o))
 - Barefoot waterskiiers compete on Cirencester lake ([1 days ago](https://www.bbc.com/news/videos/c8j1xkxdk9ko))
@@ -38,7 +38,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - CCTV appeal after man assaults another man in Cheltenham ([3 days ago](https://gloucesternewscentre.co.uk/cctv-appeal-after-man-assaults-another-man-in-cheltenham/))
 - Gloucestershire Airport sold to Horizon Aero Group Ltd ([3 days ago](https://gloucesternewscentre.co.uk/gloucestershire-airport-sold-to-horizon-aero-group-ltd/))
 - Keeping Cheltenham town centre safe this summer ([3 days ago](https://www.cheltenham.gov.uk/news/article/3032/keeping_cheltenham_town_centre_safe_this_summer))
-- Horizon Aero Group Ltd named as company set to take Gloucestershire Airport to new heights ([3 days ago](https://www.cheltenham.gov.uk/news/article/3031/horizon_aero_group_ltd_named_as_company_set_to_take_gloucestershire_airport_to_new_heights))
+- Horizon Aero Group Ltd named as company set to take Gloucestershire Airport to new heights ([4 days ago](https://www.cheltenham.gov.uk/news/article/3031/horizon_aero_group_ltd_named_as_company_set_to_take_gloucestershire_airport_to_new_heights))
 - Fire safety advice when cooking ([4 days ago](https://gloucesternewscentre.co.uk/fire-safety-advice-when-cooking/))
 - Concerns drivers being hit with parking fines while charging electric vehicle ([4 days ago](https://gloucesternewscentre.co.uk/concerns-drivers-being-hit-with-parking-fines-while-charging-electric-vehicle/))
 - Pedal power drives event success for hospice ([4 days ago](https://gloucesternewscentre.co.uk/pedal-power-drives-event-success-for-hospice/))
