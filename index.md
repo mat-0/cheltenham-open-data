@@ -10,12 +10,12 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Sunday, 13 July 2025
 
-- The average temperature today is 20.85˚C,
-- With highs of 21.03˚C and lows of 20.85˚C,
-- It may feel like 20.66˚C with overcast clouds
-- The wind speed is 1.67m/s and visibility is 10000m
-- The pressure is 1010hPa and humidity is 64%
-- The sun will rise at 04:04 and set at 20:23
+- The average temperature today is 19.91˚C,
+- With highs of 19.91˚C and lows of 19.91˚C,
+- It may feel like 19.58˚C with overcast clouds
+- The wind speed is 2.27m/s and visibility is 10000m
+- The pressure is 1010hPa and humidity is 62%
+- The sun will rise at 04:05 and set at 20:22
 
 <!-- weather_marker ends -->
 
