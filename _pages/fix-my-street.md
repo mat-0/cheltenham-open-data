@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Line painting required on Churchill Gardens/Haywards Road junction, 14th July :- [7870791](https://www.fixmystreet.com/report/7870791)
 - Basketball hoop broken, 13th July :- [7869789](https://www.fixmystreet.com/report/7869789)
 - Potholes, 13th July :- [7869524](https://www.fixmystreet.com/report/7869524)
 - Entire pavement missing outside our home, obstructing our driveway and melting on the roadside, 13th July :- [7869452](https://www.fixmystreet.com/report/7869452)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Light is falling apart at the top, and sparks when raining, 11th July :- [7864818](https://www.fixmystreet.com/report/7864818)
 - Pothole outside Livingstones/Edgeworth, 11th July :- [7864612](https://www.fixmystreet.com/report/7864612)
 - Keep clear should it be removed, 11th July :- [7863990](https://www.fixmystreet.com/report/7863990)
-- ‘Temporary Bus stop’ sign left behind after road works were finished., 11th July :- [7863638](https://www.fixmystreet.com/report/7863638)
 
 <!-- fix_marker ends -->
