@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Body found in search for man in River Thames ([8 hours ago](https://www.bbc.com/news/articles/c20w3e2q9xlo))
-- Call for memories of historic Brunel railway station ([12 hours ago](https://www.bbc.com/news/articles/cyvj10m616lo))
-- RIAT 2025: Everything you need to know ([21 hours ago](https://www.bbc.com/news/articles/cvg8r8gz8vro))
-- 'Railway lines restored' and '70,000 bees removed' ([21 hours ago](https://www.bbc.com/news/articles/cpvj7k3gyj4o))
+- Body found in search for man in River Thames ([9 hours ago](https://www.bbc.com/news/articles/c20w3e2q9xlo))
+- Call for memories of historic Brunel railway station ([13 hours ago](https://www.bbc.com/news/articles/cyvj10m616lo))
+- RIAT 2025: Everything you need to know ([22 hours ago](https://www.bbc.com/news/articles/cvg8r8gz8vro))
+- 'Railway lines restored' and '70,000 bees removed' ([22 hours ago](https://www.bbc.com/news/articles/cpvj7k3gyj4o))
 - 'I still can't believe that I was at Live Aid' ([1 days ago](https://www.bbc.com/news/articles/cvg10nqqeego))
 - 'Going to be special' - EMF to headline Cindyfest ([1 days ago](https://www.bbc.com/news/articles/cvg10xywny1o))
 - Man halved weight to do 17 hour triathlon ([1 days ago](https://www.bbc.com/news/articles/cvg9jdd7958o))
@@ -69,6 +69,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Successful prosecution for neglected listed building ([18 days ago](https://www.cheltenham.gov.uk/news/article/3023/successful_prosecution_for_neglected_listed_building))
 - The Big Cases ([19 days ago](https://www.bbc.co.uk/iplayer/episode/m001z7w2))
 - Cheltenham joins In The Loop with new colourful bins to boost recycling on-the-go ([20 days ago](https://www.cheltenham.gov.uk/news/article/3022/cheltenham_joins_in_the_loop_with_new_colourful_bins_to_boost_recycling_on-the-go))
-- Joint statement with Gloucester City Council: Preferred bidder for Gloucestershire Airport to deliver soaring potential for economic benefit to region ([25 days ago](https://www.cheltenham.gov.uk/news/article/3021/joint_statement_with_gloucester_city_council_preferred_bidder_for_gloucestershire_airport_to_deliver_soaring_potential_for_economic_benefit_to_region))
+- Joint statement with Gloucester City Council: Preferred bidder for Gloucestershire Airport to deliver soaring potential for economic benefit to region ([26 days ago](https://www.cheltenham.gov.uk/news/article/3021/joint_statement_with_gloucester_city_council_preferred_bidder_for_gloucestershire_airport_to_deliver_soaring_potential_for_economic_benefit_to_region))
 
 <!-- news_marker ends -->
