@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Body found in search for man in River Thames ([4 hours ago](https://www.bbc.com/news/articles/c20w3e2q9xlo))
-- Call for memories of historic Brunel railway station ([8 hours ago](https://www.bbc.com/news/articles/cyvj10m616lo))
-- RIAT 2025: Everything you need to know ([17 hours ago](https://www.bbc.com/news/articles/cvg8r8gz8vro))
-- 'Railway lines restored' and '70,000 bees removed' ([17 hours ago](https://www.bbc.com/news/articles/cpvj7k3gyj4o))
+- Body found in search for man in River Thames ([6 hours ago](https://www.bbc.com/news/articles/c20w3e2q9xlo))
+- Call for memories of historic Brunel railway station ([9 hours ago](https://www.bbc.com/news/articles/cyvj10m616lo))
+- RIAT 2025: Everything you need to know ([18 hours ago](https://www.bbc.com/news/articles/cvg8r8gz8vro))
+- 'Railway lines restored' and '70,000 bees removed' ([19 hours ago](https://www.bbc.com/news/articles/cpvj7k3gyj4o))
 - 'I still can't believe that I was at Live Aid' ([1 days ago](https://www.bbc.com/news/articles/cvg10nqqeego))
 - 'Going to be special' - EMF to headline Cindyfest ([1 days ago](https://www.bbc.com/news/articles/cvg10xywny1o))
 - Man halved weight to do 17 hour triathlon ([1 days ago](https://www.bbc.com/news/articles/cvg9jdd7958o))
