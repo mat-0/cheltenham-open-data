@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Wooden park bench gone, 14th July :- [7872226](https://www.fixmystreet.com/report/7872226)
 - Confusing road markings, 14th July :- [7872066](https://www.fixmystreet.com/report/7872066)
 - Overgrown with nettles and brambles on bridge, 14th July :- [7871706](https://www.fixmystreet.com/report/7871706)
 - Overgrown with nettles and brambles, 14th July :- [7871688](https://www.fixmystreet.com/report/7871688)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Loud Clanking Noise of Drain cover, 13th July :- [7869056](https://www.fixmystreet.com/report/7869056)
 - Abandoned scooter, 13th July :- [7868282](https://www.fixmystreet.com/report/7868282)
 - Damaged Bin, 13th July :- [7868220](https://www.fixmystreet.com/report/7868220)
-- Large pot hole centre of road, 14th July :- [7867716](https://www.fixmystreet.com/report/7867716)
 
 <!-- fix_marker ends -->
