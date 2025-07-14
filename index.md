@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Monday, 14 July 2025
 
-- The average temperature today is 17.69˚C,
-- With highs of 17.69˚C and lows of 17.69˚C,
-- It may feel like 17.34˚C with scattered clouds
-- The wind speed is 2.75m/s and visibility is 10000m
-- The pressure is 1010hPa and humidity is 70%
+- The average temperature today is 17.45˚C,
+- With highs of 17.45˚C and lows of 17.45˚C,
+- It may feel like 17.31˚C with scattered clouds
+- The wind speed is 3.21m/s and visibility is 10000m
+- The pressure is 1010hPa and humidity is 79%
 - The sun will rise at 04:05 and set at 20:22
 
 <!-- weather_marker ends -->
