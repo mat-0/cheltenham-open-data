@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- ADE63 - stile completely overgrown, 15th July :- [7883505](https://www.fixmystreet.com/report/7883505)
 - The road surface is dangerous, 15th July :- [7883299](https://www.fixmystreet.com/report/7883299)
 - [Portable loo] left Behind!!!, 15th July :- [7883142](https://www.fixmystreet.com/report/7883142)
 - Traffic light on A40 towards Cheltenham facing wrong way resulting in confusion for bourton road traffic, 15th July :- [7882930](https://www.fixmystreet.com/report/7882930)
@@ -21,13 +22,12 @@ permalink: /fix-my-street
 - Tree branches blocking cycleway and crossing sensor, 15th July :- [7881797](https://www.fixmystreet.com/report/7881797)
 - One side dying and tree leaning towards my property, 15th July :- [7881790](https://www.fixmystreet.com/report/7881790)
 - TMC - Defects - Other FW6  Surface problem, 15th July :- [7882043](https://www.fixmystreet.com/report/7882043)
-- TMC - Defects - Other FW6  Surface problem, 15th July :- [7882044](https://www.fixmystreet.com/report/7882044)
 - TMC - Defects - Other FW6  Surface problem, 15th July :- [7882045](https://www.fixmystreet.com/report/7882045)
 - TMC - Defects - Other FW6  Surface problem, 15th July :- [7882042](https://www.fixmystreet.com/report/7882042)
 - TMC - Defects - Other FW6  Surface problem, 15th July :- [7882041](https://www.fixmystreet.com/report/7882041)
-- TMC - Defects - Other FW6  Surface problem, 15th July :- [7882046](https://www.fixmystreet.com/report/7882046)
+- TMC - Defects - Other FW6  Surface problem, 15th July :- [7882044](https://www.fixmystreet.com/report/7882044)
 - TMC - Defects - Other FW6  Surface problem, 15th July :- [7882038](https://www.fixmystreet.com/report/7882038)
+- TMC - Defects - Other FW6  Surface problem, 15th July :- [7882033](https://www.fixmystreet.com/report/7882033)
 - TMC - Defects - Other FW6  Surface problem, 15th July :- [7882039](https://www.fixmystreet.com/report/7882039)
-- TMC - Defects - Other FW6  Surface problem, 15th July :- [7882037](https://www.fixmystreet.com/report/7882037)
 
 <!-- fix_marker ends -->
