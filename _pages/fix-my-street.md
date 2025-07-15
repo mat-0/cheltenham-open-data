@@ -9,9 +9,17 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fly tipping, 15th July :- [7878589](https://www.fixmystreet.com/report/7878589)
+- TMC - Defects - Other FW6  Surface problem, 15th July :- [7878442](https://www.fixmystreet.com/report/7878442)
+- TMC - Defects - Other FW6  Surface problem, 15th July :- [7878441](https://www.fixmystreet.com/report/7878441)
+- TMC - Defects - Other FW6  Surface problem, 15th July :- [7878443](https://www.fixmystreet.com/report/7878443)
+- TMC - Defects - Other FW6  Surface problem, 15th July :- [7878440](https://www.fixmystreet.com/report/7878440)
+- TMC - Defects - Kerbs and Channels problem, 15th July :- [7878444](https://www.fixmystreet.com/report/7878444)
+- Trees on Telstar Way, 15th July :- [7878195](https://www.fixmystreet.com/report/7878195)
+- TMC - Defects - Vegetation problem, 15th July :- [7878439](https://www.fixmystreet.com/report/7878439)
 - See photo. My foot wouldn't go down the hole but some small feet would, including a child's foot, 15th July :- [7877741](https://www.fixmystreet.com/report/7877741)
-- TMC - Defects - Other problem, 15th July :- [7877740](https://www.fixmystreet.com/report/7877740)
 - TMC - Defects - Other problem, 15th July :- [7877738](https://www.fixmystreet.com/report/7877738)
+- TMC - Defects - Other problem, 15th July :- [7877740](https://www.fixmystreet.com/report/7877740)
 - Button lights up, but turns off without triggering green signal, 15th July :- [7877628](https://www.fixmystreet.com/report/7877628)
 - Tree fallen down , blocking road, 15th July :- [7877353](https://www.fixmystreet.com/report/7877353)
 - Cycle crossing not working (intermittent), 14th July :- [7877269](https://www.fixmystreet.com/report/7877269)
@@ -21,13 +29,5 @@ permalink: /fix-my-street
 - Signs left by recent roadworks, 14th July :- [7876219](https://www.fixmystreet.com/report/7876219)
 - Large tree branches down in cul-de-sac, 14th July :- [7876202](https://www.fixmystreet.com/report/7876202)
 - Roads too narrow, cars keep being scratched, 14th July :- [7876008](https://www.fixmystreet.com/report/7876008)
-- Abandoned Temporary Road Signs and Barriers, 14th July :- [7875630](https://www.fixmystreet.com/report/7875630)
-- Large drop from driveway to carriageway, 14th July :- [7875614](https://www.fixmystreet.com/report/7875614)
-- Large TS black box obstructing view, 14th July :- [7875592](https://www.fixmystreet.com/report/7875592)
-- Long crack/slippage running down the pavement, 14th July :- [7875419](https://www.fixmystreet.com/report/7875419)
-- Gate leading from KGV playing fields not working properly, 14th July :- [7875311](https://www.fixmystreet.com/report/7875311)
-- Foul language graffiti on young children’s play equipment, 14th July :- [7875005](https://www.fixmystreet.com/report/7875005)
-- TMC - Defects - Covers, Gratings & Frames problem, 14th July :- [7874950](https://www.fixmystreet.com/report/7874950)
-- Blocked drain on Tennyson Road on the corner, 14th July :- [7874803](https://www.fixmystreet.com/report/7874803)
 
 <!-- fix_marker ends -->
