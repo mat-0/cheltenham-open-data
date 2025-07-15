@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Tuesday, 15 July 2025
 
-- The average temperature today is 13.25˚C,
-- With highs of 13.25˚C and lows of 13.25˚C,
-- It may feel like 12.64˚C with scattered clouds
-- The wind speed is 4.81m/s and visibility is 10000m
-- The pressure is 1014hPa and humidity is 77%
+- The average temperature today is 13.7˚C,
+- With highs of 14.41˚C and lows of 13.25˚C,
+- It may feel like 13.19˚C with scattered clouds
+- The wind speed is 4.79m/s and visibility is 10000m
+- The pressure is 1013hPa and humidity is 79%
 - The sun will rise at 04:06 and set at 20:21
 
 <!-- weather_marker ends -->
