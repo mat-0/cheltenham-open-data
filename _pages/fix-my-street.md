@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree fallen down , blocking road, 15th July :- [7877353](https://www.fixmystreet.com/report/7877353)
 - Cycle crossing not working (intermittent), 14th July :- [7877269](https://www.fixmystreet.com/report/7877269)
 - Dangerously leaning Ash Tree on West Drive, 14th July :- [7877179](https://www.fixmystreet.com/report/7877179)
 - Street light outside block of flats in Barbridge Road opposite Ashland's Road ., 14th July :- [7877152](https://www.fixmystreet.com/report/7877152)
@@ -25,9 +26,8 @@ permalink: /fix-my-street
 - TMC - Defects - Covers, Gratings & Frames problem, 14th July :- [7874950](https://www.fixmystreet.com/report/7874950)
 - Blocked drain on Tennyson Road on the corner, 14th July :- [7874803](https://www.fixmystreet.com/report/7874803)
 - TMC - Defects -CW6 Potholes  problem, 14th July :- [7874948](https://www.fixmystreet.com/report/7874948)
-- TMC - Defects -CW6 Potholes  problem, 14th July :- [7874947](https://www.fixmystreet.com/report/7874947)
 - TMC - Defects - Road Markings problem, 14th July :- [7874939](https://www.fixmystreet.com/report/7874939)
+- TMC - Defects -CW6 Potholes  problem, 14th July :- [7874947](https://www.fixmystreet.com/report/7874947)
 - TMC - Defects -CW6 Potholes  problem, 14th July :- [7874949](https://www.fixmystreet.com/report/7874949)
-- TMC - Defects - Other FW6  Surface problem, 14th July :- [7874940](https://www.fixmystreet.com/report/7874940)
 
 <!-- fix_marker ends -->
