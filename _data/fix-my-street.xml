@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -67,15 +67,6 @@
 <georss:point>51.902142 -2.09331</georss:point>
 </item>
 <item>
-<title>TMC - Defects -FW6 Potholes problem, 15th July</title>
-<link>https://www.fixmystreet.com/report/7878800</link>
-<description>Pothole FW 700mm  x 400mm  x 25mm &amp;#10;Give and take TM With Temporary FW Closure &amp;#10;In car park &amp;#10;Stats required (FW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7878800&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -FW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7878800</guid>
-<pubDate>Tue, 15 Jul 2025 09:44:42 +0100</pubDate>
-<georss:point>51.9527978 -1.96563249999999</georss:point>
-</item>
-<item>
 <title>TMC - Defects - Kerbs and Channels problem, 15th July</title>
 <link>https://www.fixmystreet.com/report/7878829</link>
 <description>Kerbing Defects FW ENWD 1 x 300mm Set&amp;#10;Give and take TM With Temporary FW Closure &amp;#10;Outside Plaisters Arms&amp;#10;Stats required &amp;#10;Cutting required (FW Kerbing Defects)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7878829&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
@@ -85,13 +76,13 @@
 <georss:point>51.9526938 -1.96570069999999</georss:point>
 </item>
 <item>
-<title>TMC - Defects - Kerbs and Channels problem, 15th July</title>
-<link>https://www.fixmystreet.com/report/7878798</link>
-<description>Kerbing Defects FW 1 x 350mm Set&amp;#10;Give and take TM With Temporary FW Closure &amp;#10;Outside St Kenelms &amp;#10;Stats required &amp;#10;Cutting required (FW Kerbing Defects)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7878798&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Kerbs and Channels</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7878798</guid>
+<title>TMC - Defects -FW6 Potholes problem, 15th July</title>
+<link>https://www.fixmystreet.com/report/7878800</link>
+<description>Pothole FW 700mm  x 400mm  x 25mm &amp;#10;Give and take TM With Temporary FW Closure &amp;#10;In car park &amp;#10;Stats required (FW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7878800&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -FW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7878800</guid>
 <pubDate>Tue, 15 Jul 2025 09:44:42 +0100</pubDate>
-<georss:point>51.9527791 -1.96531209999999</georss:point>
+<georss:point>51.9527978 -1.96563249999999</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Kerbs and Channels problem, 15th July</title>
@@ -110,6 +101,15 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/7878828</guid>
 <pubDate>Tue, 15 Jul 2025 09:44:42 +0100</pubDate>
 <georss:point>51.952811988476 -1.96534668062449</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Kerbs and Channels problem, 15th July</title>
+<link>https://www.fixmystreet.com/report/7878798</link>
+<description>Kerbing Defects FW 1 x 350mm Set&amp;#10;Give and take TM With Temporary FW Closure &amp;#10;Outside St Kenelms &amp;#10;Stats required &amp;#10;Cutting required (FW Kerbing Defects)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7878798&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Kerbs and Channels</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7878798</guid>
+<pubDate>Tue, 15 Jul 2025 09:44:42 +0100</pubDate>
+<georss:point>51.9527791 -1.96531209999999</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 15th July</title>
@@ -140,6 +140,15 @@
 </item>
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 15th July</title>
+<link>https://www.fixmystreet.com/report/7878442</link>
+<description>Edge deterioration FW 1600mm x 400mm  x 35mm &amp;#10;Give and take TM With Temporary FW Closure &amp;#10;Pole 49&amp;#10;Stats required &amp;#10;Wheelbarrow required &amp;#10;Narrow access (FW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7878442&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7878442</guid>
+<pubDate>Tue, 15 Jul 2025 09:26:36 +0100</pubDate>
+<georss:point>51.9518864873417 -1.96846458025426</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 15th July</title>
 <link>https://www.fixmystreet.com/report/7878441</link>
 <description>Edge deterioration FW 3m x 600mm  x 35mm &amp;#10;Give and take TM With Temporary FW Closure &amp;#10;Lamp Column 1&amp;#10;Stats required &amp;#10;Wheelbarrow required &amp;#10;Narrow access (FW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7878441&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Other FW6  Surface</category>
@@ -149,12 +158,12 @@
 </item>
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 15th July</title>
-<link>https://www.fixmystreet.com/report/7878442</link>
-<description>Edge deterioration FW 1600mm x 400mm  x 35mm &amp;#10;Give and take TM With Temporary FW Closure &amp;#10;Pole 49&amp;#10;Stats required &amp;#10;Wheelbarrow required &amp;#10;Narrow access (FW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7878442&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/7878440</link>
+<description>Give and take  28 days with temporary footway closure required footway abrupt level different 900x500x23mm tarmac patch stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7878440&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7878442</guid>
-<pubDate>Tue, 15 Jul 2025 09:26:36 +0100</pubDate>
-<georss:point>51.9518864873417 -1.96846458025426</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7878440</guid>
+<pubDate>Tue, 15 Jul 2025 09:20:36 +0100</pubDate>
+<georss:point>51.9016000625011 -2.07838037968912</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Kerbs and Channels problem, 15th July</title>
@@ -164,15 +173,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/7878444</guid>
 <pubDate>Tue, 15 Jul 2025 09:20:36 +0100</pubDate>
 <georss:point>51.9006213 -2.07930100000001</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 15th July</title>
-<link>https://www.fixmystreet.com/report/7878440</link>
-<description>Give and take  28 days with temporary footway closure required footway abrupt level different 900x500x23mm tarmac patch stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7878440&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7878440</guid>
-<pubDate>Tue, 15 Jul 2025 09:20:36 +0100</pubDate>
-<georss:point>51.9016000625011 -2.07838037968912</georss:point>
 </item>
 <item>
 <title>Trees on Telstar Way, 15th July</title>
