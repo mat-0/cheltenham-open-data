@@ -12,15 +12,15 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Fresh plans to demolish city tower block ([10 hours ago](https://www.bbc.com/news/articles/czey2zx2kkeo))
-- Man with four council jobs at once guilty of fraud ([13 hours ago](https://www.bbc.com/news/articles/c80p9z29r1ko))
-- Seven Cheltenham parks and gardens celebrate another year of Green Flag success ([15 hours ago](https://www.cheltenham.gov.uk/news/article/3034/seven_cheltenham_parks_and_gardens_celebrate_another_year_of_green_flag_success))
-- Penguin chicks introduced to outdoor enclosure ([17 hours ago](https://www.bbc.com/news/articles/cdr3p7dmpkvo))
+- Fresh plans to demolish city tower block ([11 hours ago](https://www.bbc.com/news/articles/czey2zx2kkeo))
+- Man with four council jobs at once guilty of fraud ([14 hours ago](https://www.bbc.com/news/articles/c80p9z29r1ko))
+- Seven Cheltenham parks and gardens celebrate another year of Green Flag success ([16 hours ago](https://www.cheltenham.gov.uk/news/article/3034/seven_cheltenham_parks_and_gardens_celebrate_another_year_of_green_flag_success))
+- Penguin chicks introduced to outdoor enclosure ([18 hours ago](https://www.bbc.com/news/articles/cdr3p7dmpkvo))
 - Illegal e-bikes 'not easy to stop' - commissioner ([18 hours ago](https://www.bbc.com/news/articles/c20p2y0ey0qo))
-- 'Disgraceful' hosepipe bans and blocked police car ([19 hours ago](https://www.bbc.com/news/articles/crk6p5x5x8go))
-- Hosepipe ban - 'good idea' or 'repair the leaks'? ([21 hours ago](https://www.bbc.com/news/articles/cp90p2zz999o))
-- Lower 20mph limits could cause request 'tsunami' ([22 hours ago](https://www.bbc.com/news/articles/clyx13mv19po))
-- Farmers face crisis as drought causes grass to fail ([22 hours ago](https://www.bbc.com/news/articles/cedgz993vq1o))
+- 'Disgraceful' hosepipe bans and blocked police car ([20 hours ago](https://www.bbc.com/news/articles/crk6p5x5x8go))
+- Hosepipe ban - 'good idea' or 'repair the leaks'? ([22 hours ago](https://www.bbc.com/news/articles/cp90p2zz999o))
+- Lower 20mph limits could cause request 'tsunami' ([23 hours ago](https://www.bbc.com/news/articles/clyx13mv19po))
+- Farmers face crisis as drought causes grass to fail ([23 hours ago](https://www.bbc.com/news/articles/cedgz993vq1o))
 - Black smoke causes major disruption on M5 and A-road ([1 days ago](https://www.bbc.com/news/articles/c5y97ez1ge3o))
 - Dean blesses ale created for cloisters refurb ([1 days ago](https://www.bbc.com/news/articles/cdx5p5g27jqo))
 - Illegal bikes ‘whizzing past people’ spark calls for police crackdown ([1 days ago](https://gloucesternewscentre.co.uk/illegal-bikes-whizzing-past-people-spark-calls-for-police-crackdown/))
@@ -70,6 +70,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Successful prosecution for neglected listed building ([20 days ago](https://www.cheltenham.gov.uk/news/article/3023/successful_prosecution_for_neglected_listed_building))
 - The Big Cases ([21 days ago](https://www.bbc.co.uk/iplayer/episode/m001z7w2))
 - Cheltenham joins In The Loop with new colourful bins to boost recycling on-the-go ([22 days ago](https://www.cheltenham.gov.uk/news/article/3022/cheltenham_joins_in_the_loop_with_new_colourful_bins_to_boost_recycling_on-the-go))
-- Joint statement with Gloucester City Council: Preferred bidder for Gloucestershire Airport to deliver soaring potential for economic benefit to region ([27 days ago](https://www.cheltenham.gov.uk/news/article/3021/joint_statement_with_gloucester_city_council_preferred_bidder_for_gloucestershire_airport_to_deliver_soaring_potential_for_economic_benefit_to_region))
+- Joint statement with Gloucester City Council: Preferred bidder for Gloucestershire Airport to deliver soaring potential for economic benefit to region ([28 days ago](https://www.cheltenham.gov.uk/news/article/3021/joint_statement_with_gloucester_city_council_preferred_bidder_for_gloucestershire_airport_to_deliver_soaring_potential_for_economic_benefit_to_region))
 
 <!-- news_marker ends -->
