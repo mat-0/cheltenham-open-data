@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Outside 9&10, 16th July :- [7888821](https://www.fixmystreet.com/report/7888821)
 - Traffic lights not working correctly staying on red for too long and causing massive tailbacks to Hyde lane and Swindon Road especially as the racecourse road is closed, 16th July :- [7888761](https://www.fixmystreet.com/report/7888761)
 - Pavement worn away, 16th July :- [7888743](https://www.fixmystreet.com/report/7888743)
 - Damaged utilities cabinet remains unfixed after 14 months and previous reports, 16th July :- [7887898](https://www.fixmystreet.com/report/7887898)
@@ -22,12 +23,11 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 16th July :- [7887477](https://www.fixmystreet.com/report/7887477)
 - TMC - Defects - Other FW6  Surface problem, 16th July :- [7887474](https://www.fixmystreet.com/report/7887474)
 - TMC - Defects - Other FW6  Surface problem, 16th July :- [7887473](https://www.fixmystreet.com/report/7887473)
-- TMC - Defects - Other FW6  Surface problem, 16th July :- [7887483](https://www.fixmystreet.com/report/7887483)
+- TMC - Defects - Other FW6  Surface problem, 16th July :- [7887467](https://www.fixmystreet.com/report/7887467)
 - TMC - Defects - Vegetation problem, 16th July :- [7887471](https://www.fixmystreet.com/report/7887471)
-- TMC - Defects - Other FW6  Surface problem, 16th July :- [7887464](https://www.fixmystreet.com/report/7887464)
+- TMC - Defects - Other FW6  Surface problem, 16th July :- [7887483](https://www.fixmystreet.com/report/7887483)
 - TMC - Defects - Vegetation problem, 16th July :- [7887468](https://www.fixmystreet.com/report/7887468)
 - TMC - Defects - Vegetation problem, 16th July :- [7887469](https://www.fixmystreet.com/report/7887469)
 - TMC - Defects - Vegetation problem, 16th July :- [7887470](https://www.fixmystreet.com/report/7887470)
-- TMC - Defects - Other FW6  Surface problem, 16th July :- [7887467](https://www.fixmystreet.com/report/7887467)
 
 <!-- fix_marker ends -->
