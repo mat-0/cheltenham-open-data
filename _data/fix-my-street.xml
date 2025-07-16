@@ -175,15 +175,6 @@
 <georss:point>51.9063794 -2.0699384</georss:point>
 </item>
 <item>
-<title>TMC - Defects - Other FW6  Surface problem, 16th July</title>
-<link>https://www.fixmystreet.com/report/7887467</link>
-<description>Give and take plus temporary footway closure required  28  day footway abrupt level different due to tree roots damage 1200x900x30mm tarmac patch stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7887467&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7887467</guid>
-<pubDate>Wed, 16 Jul 2025 14:10:40 +0100</pubDate>
-<georss:point>51.9064633 -2.06986549999999</georss:point>
-</item>
-<item>
 <title>TMC - Defects - Vegetation problem, 16th July</title>
 <link>https://www.fixmystreet.com/report/7887468</link>
 <description>Give and take plus temporary footway closure/cycle lane closure please cut back overgrown tree branches growing out from base of tree back to boundary approximately 2 metres x2 metres (Overgrown Tree)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7887468&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
@@ -191,6 +182,15 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/7887468</guid>
 <pubDate>Wed, 16 Jul 2025 14:10:40 +0100</pubDate>
 <georss:point>51.9082762 -2.0689319</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 16th July</title>
+<link>https://www.fixmystreet.com/report/7887467</link>
+<description>Give and take plus temporary footway closure required  28  day footway abrupt level different due to tree roots damage 1200x900x30mm tarmac patch stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7887467&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7887467</guid>
+<pubDate>Wed, 16 Jul 2025 14:10:40 +0100</pubDate>
+<georss:point>51.9064633 -2.06986549999999</georss:point>
 </item>
 </channel>
 </rss>
