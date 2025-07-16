@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large purple in road heading towards Swindon village, 16th July :- [7884452](https://www.fixmystreet.com/report/7884452)
 - Two Voi e-bikes dumped in Hatherley Brook under Robert Burns Avenue bridge, 15th July :- [7884082](https://www.fixmystreet.com/report/7884082)
 - Pothole on left hand side, towards Hucclecote, on the camber, just after the crown of the hill., 15th July :- [7884069](https://www.fixmystreet.com/report/7884069)
 - Deep pothole near mini roundabout for Tesco, 15th July :- [7883972](https://www.fixmystreet.com/report/7883972)
@@ -24,10 +25,9 @@ permalink: /fix-my-street
 - Parabola Road TJuction needs resurfacing., 15th July :- [7881854](https://www.fixmystreet.com/report/7881854)
 - Tree branches blocking cycleway and crossing sensor, 15th July :- [7881797](https://www.fixmystreet.com/report/7881797)
 - One side dying and tree leaning towards my property, 15th July :- [7881790](https://www.fixmystreet.com/report/7881790)
-- TMC - Defects - Other FW6  Surface problem, 15th July :- [7882041](https://www.fixmystreet.com/report/7882041)
-- TMC - Defects - Other FW6  Surface problem, 15th July :- [7882043](https://www.fixmystreet.com/report/7882043)
 - TMC - Defects - Other FW6  Surface problem, 15th July :- [7882042](https://www.fixmystreet.com/report/7882042)
-- TMC - Defects - Other FW6  Surface problem, 15th July :- [7882045](https://www.fixmystreet.com/report/7882045)
-- TMC - Defects - Other FW6  Surface problem, 15th July :- [7882038](https://www.fixmystreet.com/report/7882038)
+- TMC - Defects - Other FW6  Surface problem, 15th July :- [7882041](https://www.fixmystreet.com/report/7882041)
+- TMC - Defects - Other FW6  Surface problem, 15th July :- [7882040](https://www.fixmystreet.com/report/7882040)
+- TMC - Defects - Other FW6  Surface problem, 15th July :- [7882043](https://www.fixmystreet.com/report/7882043)
 
 <!-- fix_marker ends -->
