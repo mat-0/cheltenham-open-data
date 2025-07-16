@@ -27,7 +27,7 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 16th July :- [7887469](https://www.fixmystreet.com/report/7887469)
 - TMC - Defects - Vegetation problem, 16th July :- [7887470](https://www.fixmystreet.com/report/7887470)
 - TMC - Defects - Other FW6  Surface problem, 16th July :- [7887483](https://www.fixmystreet.com/report/7887483)
-- TMC - Defects - Other FW6  Surface problem, 16th July :- [7887467](https://www.fixmystreet.com/report/7887467)
 - TMC - Defects - Vegetation problem, 16th July :- [7887468](https://www.fixmystreet.com/report/7887468)
+- TMC - Defects - Other FW6  Surface problem, 16th July :- [7887467](https://www.fixmystreet.com/report/7887467)
 
 <!-- fix_marker ends -->
