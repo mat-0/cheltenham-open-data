@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Branch fallen on tree, structure of tree unsafe, 17th July :- [7890411](https://www.fixmystreet.com/report/7890411)
+- Crack in pavement, 17th July :- [7890409](https://www.fixmystreet.com/report/7890409)
 - Dead badger on hard shoulder, 17th July :- [7890312](https://www.fixmystreet.com/report/7890312)
 - TMC - Defects - Road Markings problem, 17th July :- [7890170](https://www.fixmystreet.com/report/7890170)
 - TMC - Defects - Road Markings problem, 17th July :- [7890169](https://www.fixmystreet.com/report/7890169)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Faulty traffic lights, 16th July :- [7887683](https://www.fixmystreet.com/report/7887683)
 - Most of the drains on Montpelier Street are blocked such as the ones located outside the financial planners, it’s both side of road full of soil, 16th July :- [7887647](https://www.fixmystreet.com/report/7887647)
 - TMC - Defects - Other FW6  Surface problem, 16th July :- [7887478](https://www.fixmystreet.com/report/7887478)
-- TMC - Defects - Other FW6  Surface problem, 16th July :- [7887479](https://www.fixmystreet.com/report/7887479)
-- TMC - Defects - Vegetation problem, 16th July :- [7887477](https://www.fixmystreet.com/report/7887477)
 
 <!-- fix_marker ends -->
