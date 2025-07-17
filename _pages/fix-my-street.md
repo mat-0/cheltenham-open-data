@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Road signs blocking the road., 17th July :- [7894188](https://www.fixmystreet.com/report/7894188)
+- Very uneven pavement caused mainly by hgv Lorrie’s parking on it, 17th July :- [7894173](https://www.fixmystreet.com/report/7894173)
+- Another branch fallen from unsafe tree., 17th July :- [7893999](https://www.fixmystreet.com/report/7893999)
 - All over pavement, 17th July :- [7893814](https://www.fixmystreet.com/report/7893814)
 - Green filter arrow not working, 17th July :- [7893803](https://www.fixmystreet.com/report/7893803)
 - For over four years to my knowledge there has been uneven surface consisting of both very raised broken slabs and crumbling tarmac, 17th July :- [7893563](https://www.fixmystreet.com/report/7893563)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - No double yellows/demarking of no parking zone, 17th July :- [7891334](https://www.fixmystreet.com/report/7891334)
 - Public Bin overflowing, 17th July :- [7890752](https://www.fixmystreet.com/report/7890752)
 - Blocking visibility on road/junction (Grass/verge) problem, 17th July :- [7890999](https://www.fixmystreet.com/report/7890999)
-- Branch fallen on tree, structure of tree unsafe, 17th July :- [7890411](https://www.fixmystreet.com/report/7890411)
-- Crack in pavement, 17th July :- [7890409](https://www.fixmystreet.com/report/7890409)
-- Dead badger on hard shoulder, 17th July :- [7890312](https://www.fixmystreet.com/report/7890312)
 
 <!-- fix_marker ends -->
