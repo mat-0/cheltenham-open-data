@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Thursday, 17 July 2025
 
-- The average temperature today is 23.78˚C,
-- With highs of 24.91˚C and lows of 23.16˚C,
-- It may feel like 24.04˚C with few clouds
-- The wind speed is 3.09m/s and visibility is 10000m
-- The pressure is 1014hPa and humidity is 70%
+- The average temperature today is 22.85˚C,
+- With highs of 23.32˚C and lows of 22.6˚C,
+- It may feel like 23.1˚C with overcast clouds
+- The wind speed is 2.24m/s and visibility is 10000m
+- The pressure is 1014hPa and humidity is 73%
 - The sun will rise at 04:09 and set at 20:19
 
 <!-- weather_marker ends -->

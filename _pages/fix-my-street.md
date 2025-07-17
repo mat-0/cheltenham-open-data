@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole with large chunks of tarmac missing., 17th July :- [7895185](https://www.fixmystreet.com/report/7895185)
+- Double yellow lines not visible, 17th July :- [7895121](https://www.fixmystreet.com/report/7895121)
+- Centre lines not repainted, 17th July :- [7895090](https://www.fixmystreet.com/report/7895090)
 - DRain on Clarence Road and into Winchcombe treet are blocked with tree debris, whilst being told they're regularly checked, there is no evidence this has been done since last years flooding, 17th July :- [7894772](https://www.fixmystreet.com/report/7894772)
 - Red buggy dumped on corner of hucclecote road and green lane, opposite the war memorial., 17th July :- [7894398](https://www.fixmystreet.com/report/7894398)
 - Hall road near moorend road, 17th July :- [7894295](https://www.fixmystreet.com/report/7894295)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Blocking visibility on road/junction (Grass/verge) problem, 17th July :- [7892669](https://www.fixmystreet.com/report/7892669)
 - Weeds growing on council land next to my house., 17th July :- [7892081](https://www.fixmystreet.com/report/7892081)
 - Road markings faded especially bad to spot when negotiating the bend from the Birdlip Hill direction., 17th July :- [7892034](https://www.fixmystreet.com/report/7892034)
-- Barriers and cones left and also cones and metal signage by Shipton Sollars church, 17th July :- [7891991](https://www.fixmystreet.com/report/7891991)
-- Post or sign leaning slightly (less than 20 degrees) problem, 17th July :- [7892045](https://www.fixmystreet.com/report/7892045)
-- Tree is damaged problem, 17th July :- [7892260](https://www.fixmystreet.com/report/7892260)
 
 <!-- fix_marker ends -->
