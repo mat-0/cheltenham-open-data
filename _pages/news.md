@@ -13,13 +13,13 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
 - Independent survey launches to capture resident priorities ([13 hours ago](https://www.cheltenham.gov.uk/news/article/3035/independent_survey_launches_to_capture_resident_priorities))
-- Severn Trent looks to preserve hosepipe ban record ([13 hours ago](https://www.bbc.com/news/articles/cn86qxpl2yzo))
+- Severn Trent looks to preserve hosepipe ban record ([14 hours ago](https://www.bbc.com/news/articles/cn86qxpl2yzo))
 - Wildlife centre and school shut due to lack of water ([14 hours ago](https://www.bbc.com/news/articles/cly8788d08yo))
-- New team to tackle antisocial behaviour in city ([14 hours ago](https://www.bbc.com/news/articles/cn86pw7z6qzo))
+- New team to tackle antisocial behaviour in city ([15 hours ago](https://www.bbc.com/news/articles/cn86pw7z6qzo))
 - Why some areas do not need a hosepipe ban ([16 hours ago](https://www.bbc.com/news/articles/c8e424nr04do))
-- 'Bad pub reviews' and '17th Century galleon' ([17 hours ago](https://www.bbc.com/news/articles/c78nyn8y6xeo))
-- Dog left behind in lost property after festival ([18 hours ago](https://www.bbc.co.uk/sounds/play/p0lqd7wd))
-- Student overcomes severe spinal injury to graduate ([20 hours ago](https://www.bbc.com/news/articles/c2leyken5gro))
+- 'Bad pub reviews' and '17th Century galleon' ([18 hours ago](https://www.bbc.com/news/articles/c78nyn8y6xeo))
+- Dog left behind in lost property after festival ([19 hours ago](https://www.bbc.co.uk/sounds/play/p0lqd7wd))
+- Student overcomes severe spinal injury to graduate ([21 hours ago](https://www.bbc.com/news/articles/c2leyken5gro))
 - Could daffodils help with treating Alzheimer's? ([22 hours ago](https://www.bbc.com/news/articles/cp8208llwg1o))
 - Sewage smell and flies as hole 'left open' in garden ([22 hours ago](https://www.bbc.com/news/articles/cjrlp79vrq0o))
 - Fresh plans to demolish city tower block ([1 days ago](https://www.bbc.com/news/articles/czey2zx2kkeo))
