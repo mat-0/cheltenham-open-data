@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Other problem, 17th July :- [7891509](https://www.fixmystreet.com/report/7891509)
+- No double yellows/demarking of no parking zone, 17th July :- [7891334](https://www.fixmystreet.com/report/7891334)
 - Public Bin overflowing, 17th July :- [7890752](https://www.fixmystreet.com/report/7890752)
 - Blocking visibility on road/junction (Grass/verge) problem, 17th July :- [7890999](https://www.fixmystreet.com/report/7890999)
 - Branch fallen on tree, structure of tree unsafe, 17th July :- [7890411](https://www.fixmystreet.com/report/7890411)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Damaged utilities cabinet remains unfixed after 14 months and previous reports, 16th July :- [7887898](https://www.fixmystreet.com/report/7887898)
 - Barrier left on pavement in oldbury orchard in churchdown, 16th July :- [7887861](https://www.fixmystreet.com/report/7887861)
 - Long, Foot-wide pothole on Langton Pl, in middle of stretch of road., 16th July :- [7887776](https://www.fixmystreet.com/report/7887776)
-- Post or sign leaning slightly (less than 20 degrees) problem, 16th July :- [7887829](https://www.fixmystreet.com/report/7887829)
-- Faulty traffic lights, 16th July :- [7887683](https://www.fixmystreet.com/report/7887683)
 
 <!-- fix_marker ends -->
