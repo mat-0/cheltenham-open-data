@@ -12,16 +12,16 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Independent survey launches to capture resident priorities ([13 hours ago](https://www.cheltenham.gov.uk/news/article/3035/independent_survey_launches_to_capture_resident_priorities))
-- Severn Trent looks to preserve hosepipe ban record ([14 hours ago](https://www.bbc.com/news/articles/cn86qxpl2yzo))
-- Wildlife centre and school shut due to lack of water ([14 hours ago](https://www.bbc.com/news/articles/cly8788d08yo))
+- Independent survey launches to capture resident priorities ([14 hours ago](https://www.cheltenham.gov.uk/news/article/3035/independent_survey_launches_to_capture_resident_priorities))
+- Severn Trent looks to preserve hosepipe ban record ([15 hours ago](https://www.bbc.com/news/articles/cn86qxpl2yzo))
+- Wildlife centre and school shut due to lack of water ([15 hours ago](https://www.bbc.com/news/articles/cly8788d08yo))
 - New team to tackle antisocial behaviour in city ([15 hours ago](https://www.bbc.com/news/articles/cn86pw7z6qzo))
-- Why some areas do not need a hosepipe ban ([16 hours ago](https://www.bbc.com/news/articles/c8e424nr04do))
-- 'Bad pub reviews' and '17th Century galleon' ([18 hours ago](https://www.bbc.com/news/articles/c78nyn8y6xeo))
-- Dog left behind in lost property after festival ([19 hours ago](https://www.bbc.co.uk/sounds/play/p0lqd7wd))
-- Student overcomes severe spinal injury to graduate ([21 hours ago](https://www.bbc.com/news/articles/c2leyken5gro))
-- Could daffodils help with treating Alzheimer's? ([22 hours ago](https://www.bbc.com/news/articles/cp8208llwg1o))
-- Sewage smell and flies as hole 'left open' in garden ([22 hours ago](https://www.bbc.com/news/articles/cjrlp79vrq0o))
+- Why some areas do not need a hosepipe ban ([17 hours ago](https://www.bbc.com/news/articles/c8e424nr04do))
+- 'Bad pub reviews' and '17th Century galleon' ([19 hours ago](https://www.bbc.com/news/articles/c78nyn8y6xeo))
+- Dog left behind in lost property after festival ([20 hours ago](https://www.bbc.co.uk/sounds/play/p0lqd7wd))
+- Student overcomes severe spinal injury to graduate ([22 hours ago](https://www.bbc.com/news/articles/c2leyken5gro))
+- Could daffodils help with treating Alzheimer's? ([23 hours ago](https://www.bbc.com/news/articles/cp8208llwg1o))
+- Sewage smell and flies as hole 'left open' in garden ([23 hours ago](https://www.bbc.com/news/articles/cjrlp79vrq0o))
 - Fresh plans to demolish city tower block ([1 days ago](https://www.bbc.com/news/articles/czey2zx2kkeo))
 - Man with four council jobs at once guilty of fraud ([1 days ago](https://www.bbc.com/news/articles/c80p9z29r1ko))
 - Seven Cheltenham parks and gardens celebrate another year of Green Flag success ([1 days ago](https://www.cheltenham.gov.uk/news/article/3034/seven_cheltenham_parks_and_gardens_celebrate_another_year_of_green_flag_success))
@@ -71,6 +71,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Successful prosecution for neglected listed building ([21 days ago](https://www.cheltenham.gov.uk/news/article/3023/successful_prosecution_for_neglected_listed_building))
 - The Big Cases ([22 days ago](https://www.bbc.co.uk/iplayer/episode/m001z7w2))
 - Cheltenham joins In The Loop with new colourful bins to boost recycling on-the-go ([23 days ago](https://www.cheltenham.gov.uk/news/article/3022/cheltenham_joins_in_the_loop_with_new_colourful_bins_to_boost_recycling_on-the-go))
-- Joint statement with Gloucester City Council: Preferred bidder for Gloucestershire Airport to deliver soaring potential for economic benefit to region ([28 days ago](https://www.cheltenham.gov.uk/news/article/3021/joint_statement_with_gloucester_city_council_preferred_bidder_for_gloucestershire_airport_to_deliver_soaring_potential_for_economic_benefit_to_region))
+- Joint statement with Gloucester City Council: Preferred bidder for Gloucestershire Airport to deliver soaring potential for economic benefit to region ([29 days ago](https://www.cheltenham.gov.uk/news/article/3021/joint_statement_with_gloucester_city_council_preferred_bidder_for_gloucestershire_airport_to_deliver_soaring_potential_for_economic_benefit_to_region))
 
 <!-- news_marker ends -->
