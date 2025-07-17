@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fly tipping, 17th July :- [7892564](https://www.fixmystreet.com/report/7892564)
+- Road markings faded especially bad to spot when negotiating the bend from the Birdlip Hill direction., 17th July :- [7892034](https://www.fixmystreet.com/report/7892034)
+- Barriers and cones left and also cones and metal signage by Shipton Sollars church, 17th July :- [7891991](https://www.fixmystreet.com/report/7891991)
+- Post or sign leaning slightly (less than 20 degrees) problem, 17th July :- [7892045](https://www.fixmystreet.com/report/7892045)
+- Tree is damaged problem, 17th July :- [7892260](https://www.fixmystreet.com/report/7892260)
+- There are a number of potholes up this lane to the golf club / Cleeve Hill quarry car park, 17th July :- [7891827](https://www.fixmystreet.com/report/7891827)
 - TMC - Defects - Other problem, 17th July :- [7891509](https://www.fixmystreet.com/report/7891509)
 - No double yellows/demarking of no parking zone, 17th July :- [7891334](https://www.fixmystreet.com/report/7891334)
 - Public Bin overflowing, 17th July :- [7890752](https://www.fixmystreet.com/report/7890752)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW10 Potholes problem, 17th July :- [7890166](https://www.fixmystreet.com/report/7890166)
 - TMC - Defects -FW6 Potholes problem, 17th July :- [7890165](https://www.fixmystreet.com/report/7890165)
 - Dead or dying tree, 16th July :- [7889073](https://www.fixmystreet.com/report/7889073)
-- Outside 9&10, 16th July :- [7888821](https://www.fixmystreet.com/report/7888821)
-- Traffic lights not working correctly staying on red for too long and causing massive tailbacks to Hyde lane and Swindon Road especially as the racecourse road is closed, 16th July :- [7888761](https://www.fixmystreet.com/report/7888761)
-- Pavement worn away, 16th July :- [7888743](https://www.fixmystreet.com/report/7888743)
-- Damaged utilities cabinet remains unfixed after 14 months and previous reports, 16th July :- [7887898](https://www.fixmystreet.com/report/7887898)
-- Barrier left on pavement in oldbury orchard in churchdown, 16th July :- [7887861](https://www.fixmystreet.com/report/7887861)
-- Long, Foot-wide pothole on Langton Pl, in middle of stretch of road., 16th July :- [7887776](https://www.fixmystreet.com/report/7887776)
 
 <!-- fix_marker ends -->
