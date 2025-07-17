@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- DRain on Clarence Road and into Winchcombe treet are blocked with tree debris, whilst being told they're regularly checked, there is no evidence this has been done since last years flooding, 17th July :- [7894772](https://www.fixmystreet.com/report/7894772)
 - Red buggy dumped on corner of hucclecote road and green lane, opposite the war memorial., 17th July :- [7894398](https://www.fixmystreet.com/report/7894398)
 - Hall road near moorend road, 17th July :- [7894295](https://www.fixmystreet.com/report/7894295)
 - Arden road footpaths damaged and uneven, 17th July :- [7894288](https://www.fixmystreet.com/report/7894288)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Barriers and cones left and also cones and metal signage by Shipton Sollars church, 17th July :- [7891991](https://www.fixmystreet.com/report/7891991)
 - Post or sign leaning slightly (less than 20 degrees) problem, 17th July :- [7892045](https://www.fixmystreet.com/report/7892045)
 - Tree is damaged problem, 17th July :- [7892260](https://www.fixmystreet.com/report/7892260)
-- There are a number of potholes up this lane to the golf club / Cleeve Hill quarry car park, 17th July :- [7891827](https://www.fixmystreet.com/report/7891827)
 
 <!-- fix_marker ends -->
