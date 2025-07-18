@@ -10,11 +10,11 @@ permalink: /fix-my-street
 <!-- fix_marker starts -->
 
 - There is vegitation hanging out dangerous, 18th July :- [7897080](https://www.fixmystreet.com/report/7897080)
-- TMC - Defects - Kerbs and Channels problem, 18th July :- [7896954](https://www.fixmystreet.com/report/7896954)
+- TMC - Defects - Kerbs and Channels problem, 18th July :- [7896960](https://www.fixmystreet.com/report/7896960)
 - TMC - Defects - Kerbs and Channels problem, 18th July :- [7896959](https://www.fixmystreet.com/report/7896959)
+- TMC - Defects - Kerbs and Channels problem, 18th July :- [7896954](https://www.fixmystreet.com/report/7896954)
 - TMC - Defects - Kerbs and Channels problem, 18th July :- [7896958](https://www.fixmystreet.com/report/7896958)
 - TMC - Defects - Kerbs and Channels problem, 18th July :- [7896955](https://www.fixmystreet.com/report/7896955)
-- TMC - Defects - Kerbs and Channels problem, 18th July :- [7896960](https://www.fixmystreet.com/report/7896960)
 - TMC - Defects - Kerbs and Channels problem, 18th July :- [7896957](https://www.fixmystreet.com/report/7896957)
 - TMC - Defects - Vegetation problem, 18th July :- [7896953](https://www.fixmystreet.com/report/7896953)
 - TMC - Defects - Signs & Street Furniture problem, 18th July :- [7896961](https://www.fixmystreet.com/report/7896961)
