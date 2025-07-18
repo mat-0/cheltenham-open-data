@@ -9,10 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole in front of shed and next to Water meter., 18th July :- [7899913](https://www.fixmystreet.com/report/7899913)
+- Very worn road markings, 18th July :- [7899885](https://www.fixmystreet.com/report/7899885)
+- 2x potholes, 18th July :- [7899664](https://www.fixmystreet.com/report/7899664)
 - Trip hazard. Timber edging to bitmac path is warped, snapped and stands proud by more than 50mm, 18th July :- [7899557](https://www.fixmystreet.com/report/7899557)
 - Over grown tree encroachment, 18th July :- [7899547](https://www.fixmystreet.com/report/7899547)
-- TMC - Defects -CW6 Potholes  problem, 18th July :- [7899422](https://www.fixmystreet.com/report/7899422)
 - TMC - Defects -other CW6 problem, 18th July :- [7899423](https://www.fixmystreet.com/report/7899423)
+- TMC - Defects -CW6 Potholes  problem, 18th July :- [7899422](https://www.fixmystreet.com/report/7899422)
 - Fast food as well in excess of 3 foot make it very dangerous to put out of Branch Road, 18th July :- [7899290](https://www.fixmystreet.com/report/7899290)
 - This street sign is faded and has fallen off the mountings., 18th July :- [7899286](https://www.fixmystreet.com/report/7899286)
 - TMC - Defects -CW6 Potholes  problem, 18th July :- [7899421](https://www.fixmystreet.com/report/7899421)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 18th July :- [7898484](https://www.fixmystreet.com/report/7898484)
 - Tree overhanging hedge causing damage, 18th July :- [7898133](https://www.fixmystreet.com/report/7898133)
 - TMC - Defects -FW6 Potholes problem, 18th July :- [7898063](https://www.fixmystreet.com/report/7898063)
-- TMC - Defects - Kerbs and Channels problem, 18th July :- [7898066](https://www.fixmystreet.com/report/7898066)
-- TMC - Defects - Kerbs and Channels problem, 18th July :- [7898069](https://www.fixmystreet.com/report/7898069)
-- TMC - Defects - Kerbs and Channels problem, 18th July :- [7898067](https://www.fixmystreet.com/report/7898067)
 
 <!-- fix_marker ends -->
