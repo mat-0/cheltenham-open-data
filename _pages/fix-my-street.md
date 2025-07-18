@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Surplus tarmac left in road, 18th July :- [7896216](https://www.fixmystreet.com/report/7896216)
 - Large builder bag or rubbish left on bridge., 18th July :- [7895860](https://www.fixmystreet.com/report/7895860)
 - Orange barriers and signs left at either end of bridge, 18th July :- [7895856](https://www.fixmystreet.com/report/7895856)
 - Flytipping... again, 18th July :- [7895828](https://www.fixmystreet.com/report/7895828)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - For over four years to my knowledge there has been uneven surface consisting of both very raised broken slabs and crumbling tarmac, 17th July :- [7893563](https://www.fixmystreet.com/report/7893563)
 - Excessively Long Verge Grass (ALL of Bishops Cleeve), 17th July :- [7893084](https://www.fixmystreet.com/report/7893084)
 - Car parking on single yellow lines during no waiting hours, 17th July :- [7893004](https://www.fixmystreet.com/report/7893004)
-- Fly tipping, 17th July :- [7892564](https://www.fixmystreet.com/report/7892564)
 
 <!-- fix_marker ends -->
