@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole in the road, 18th July :- [7900704](https://www.fixmystreet.com/report/7900704)
+- Been here for weeks if not months. Never moved, never been used., 18th July :- [7900652](https://www.fixmystreet.com/report/7900652)
 - Large pothole on Hales Road at junction with The Grove, 18th July :- [7900179](https://www.fixmystreet.com/report/7900179)
 - Pothole in front of shed and next to Water meter., 18th July :- [7899913](https://www.fixmystreet.com/report/7899913)
 - Very worn road markings, 18th July :- [7899885](https://www.fixmystreet.com/report/7899885)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 18th July :- [7898487](https://www.fixmystreet.com/report/7898487)
 - You have reported that this is a closed case, but the ‘temp bus stop’ sign is still here. It has been turned around as people were standing there when there were other roadworks down the road a bit. It is outside number 309 Old Bath Road, gl53 9aj, 18th July :- [7898401](https://www.fixmystreet.com/report/7898401)
 - Other damage to pavement i.e. cobbles, raised mound/surface problem, 18th July :- [7898473](https://www.fixmystreet.com/report/7898473)
-- TMC - Defects -CW6 Potholes  problem, 18th July :- [7898484](https://www.fixmystreet.com/report/7898484)
-- Tree overhanging hedge causing damage, 18th July :- [7898133](https://www.fixmystreet.com/report/7898133)
 
 <!-- fix_marker ends -->
