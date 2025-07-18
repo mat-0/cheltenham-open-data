@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Friday, 18 July 2025
 
-- The average temperature today is 17.23˚C,
-- With highs of 17.77˚C and lows of 16.49˚C,
-- It may feel like 17.33˚C with overcast clouds
-- The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1013hPa and humidity is 89%
+- The average temperature today is 17.69˚C,
+- With highs of 18.32˚C and lows of 17.04˚C,
+- It may feel like 17.81˚C with broken clouds
+- The wind speed is 2.59m/s and visibility is 10000m
+- The pressure is 1013hPa and humidity is 88%
 - The sun will rise at 04:10 and set at 20:18
 
 <!-- weather_marker ends -->

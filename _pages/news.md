@@ -13,15 +13,15 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
 - Club where Hendrix and Bowie played celebrated in book ([10 hours ago](https://www.bbc.com/news/articles/c62dryljn24o))
-- Girl, 16, 'strangled to unconsciousness by stranger' ([12 hours ago](https://www.bbc.com/news/articles/cx23jny8282o))
-- Key road near Cheltenham station to closed in one direction ([12 hours ago](https://gloucesternewscentre.co.uk/key-road-near-cheltenham-station-to-closed-in-one-direction/))
-- Decision on David Lloyd club amid odour fears from landfill site ([12 hours ago](https://gloucesternewscentre.co.uk/decision-on-david-lloyd-club-amid-odour-fears-from-landfill-site/))
-- 17 Cheltenham projects awarded over £136k from Neighbourhood Fund ([12 hours ago](https://gloucesternewscentre.co.uk/17-cheltenham-projects-awarded-over-136k-from-neighbourhood-fund/))
-- 17 Cheltenham projects awarded over £136k from Neighbourhood Fund ([14 hours ago](https://www.cheltenham.gov.uk/news/article/3036/17_cheltenham_projects_awarded_over_136k_from_neighbourhood_fund))
-- Hens looking for 'little bit of TLC' in retirement ([15 hours ago](https://www.bbc.com/news/articles/c2k1yk1lq84o))
-- Glider crashed after pilot 'mixed up the controls' ([16 hours ago](https://www.bbc.com/news/articles/cql01lx5glpo))
-- 'Too many tickets' and 'kitten thief' ([16 hours ago](https://www.bbc.com/news/articles/c5y7z11nggeo))
-- Lidl submits plans for Tewkesbury branch ([22 hours ago](https://www.bbc.com/news/articles/cy8k2lg7j9lo))
+- Girl, 16, 'strangled to unconsciousness by stranger' ([13 hours ago](https://www.bbc.com/news/articles/cx23jny8282o))
+- Key road near Cheltenham station to closed in one direction ([13 hours ago](https://gloucesternewscentre.co.uk/key-road-near-cheltenham-station-to-closed-in-one-direction/))
+- Decision on David Lloyd club amid odour fears from landfill site ([13 hours ago](https://gloucesternewscentre.co.uk/decision-on-david-lloyd-club-amid-odour-fears-from-landfill-site/))
+- 17 Cheltenham projects awarded over £136k from Neighbourhood Fund ([13 hours ago](https://gloucesternewscentre.co.uk/17-cheltenham-projects-awarded-over-136k-from-neighbourhood-fund/))
+- 17 Cheltenham projects awarded over £136k from Neighbourhood Fund ([15 hours ago](https://www.cheltenham.gov.uk/news/article/3036/17_cheltenham_projects_awarded_over_136k_from_neighbourhood_fund))
+- Hens looking for 'little bit of TLC' in retirement ([16 hours ago](https://www.bbc.com/news/articles/c2k1yk1lq84o))
+- Glider crashed after pilot 'mixed up the controls' ([17 hours ago](https://www.bbc.com/news/articles/cql01lx5glpo))
+- 'Too many tickets' and 'kitten thief' ([17 hours ago](https://www.bbc.com/news/articles/c5y7z11nggeo))
+- Lidl submits plans for Tewkesbury branch ([23 hours ago](https://www.bbc.com/news/articles/cy8k2lg7j9lo))
 - Theatre to offer free classes at new centre ([23 hours ago](https://www.bbc.com/news/articles/c5y7xr545x4o))
 - Independent survey launches to capture resident priorities ([1 days ago](https://www.cheltenham.gov.uk/news/article/3035/independent_survey_launches_to_capture_resident_priorities))
 - Severn Trent looks to preserve hosepipe ban record ([1 days ago](https://www.bbc.com/news/articles/cn86qxpl2yzo))
@@ -72,6 +72,5 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Successful prosecution for neglected listed building ([22 days ago](https://www.cheltenham.gov.uk/news/article/3023/successful_prosecution_for_neglected_listed_building))
 - The Big Cases ([23 days ago](https://www.bbc.co.uk/iplayer/episode/m001z7w2))
 - Cheltenham joins In The Loop with new colourful bins to boost recycling on-the-go ([24 days ago](https://www.cheltenham.gov.uk/news/article/3022/cheltenham_joins_in_the_loop_with_new_colourful_bins_to_boost_recycling_on-the-go))
-- Joint statement with Gloucester City Council: Preferred bidder for Gloucestershire Airport to deliver soaring potential for economic benefit to region ([29 days ago](https://www.cheltenham.gov.uk/news/article/3021/joint_statement_with_gloucester_city_council_preferred_bidder_for_gloucestershire_airport_to_deliver_soaring_potential_for_economic_benefit_to_region))
 
 <!-- news_marker ends -->
