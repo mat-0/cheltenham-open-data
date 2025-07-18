@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Droy's Court intentionally making footpath difficult to use, 18th July :- [7896781](https://www.fixmystreet.com/report/7896781)
+- Scrap metal dumped in Pittville Park, nr sports centre, 18th July :- [7896749](https://www.fixmystreet.com/report/7896749)
+- TMC - Defects -other CW6 problem, 18th July :- [7896419](https://www.fixmystreet.com/report/7896419)
 - Surplus tarmac left in road, 18th July :- [7896216](https://www.fixmystreet.com/report/7896216)
 - Large builder bag or rubbish left on bridge., 18th July :- [7895860](https://www.fixmystreet.com/report/7895860)
 - Orange barriers and signs left at either end of bridge, 18th July :- [7895856](https://www.fixmystreet.com/report/7895856)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Another branch fallen from unsafe tree., 17th July :- [7893999](https://www.fixmystreet.com/report/7893999)
 - All over pavement, 17th July :- [7893814](https://www.fixmystreet.com/report/7893814)
 - Green filter arrow not working, 17th July :- [7893803](https://www.fixmystreet.com/report/7893803)
-- For over four years to my knowledge there has been uneven surface consisting of both very raised broken slabs and crumbling tarmac, 17th July :- [7893563](https://www.fixmystreet.com/report/7893563)
-- Excessively Long Verge Grass (ALL of Bishops Cleeve), 17th July :- [7893084](https://www.fixmystreet.com/report/7893084)
-- Car parking on single yellow lines during no waiting hours, 17th July :- [7893004](https://www.fixmystreet.com/report/7893004)
 
 <!-- fix_marker ends -->
