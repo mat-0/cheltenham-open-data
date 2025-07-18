@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipping... again, 18th July :- [7895828](https://www.fixmystreet.com/report/7895828)
 - Pothole with large chunks of tarmac missing., 17th July :- [7895185](https://www.fixmystreet.com/report/7895185)
 - Double yellow lines not visible, 17th July :- [7895121](https://www.fixmystreet.com/report/7895121)
 - Centre lines not repainted, 17th July :- [7895090](https://www.fixmystreet.com/report/7895090)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Fly tipping, 17th July :- [7892564](https://www.fixmystreet.com/report/7892564)
 - Blocking visibility on road/junction (Grass/verge) problem, 17th July :- [7892669](https://www.fixmystreet.com/report/7892669)
 - Weeds growing on council land next to my house., 17th July :- [7892081](https://www.fixmystreet.com/report/7892081)
-- Road markings faded especially bad to spot when negotiating the bend from the Birdlip Hill direction., 17th July :- [7892034](https://www.fixmystreet.com/report/7892034)
 
 <!-- fix_marker ends -->
