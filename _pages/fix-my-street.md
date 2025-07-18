@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- No through road sign cannot be seen because it’s short and covered by a hedge. We regularly have long Lorries trying to reverse in a small cul de sac, 18th July :- [7900888](https://www.fixmystreet.com/report/7900888)
 - Pothole in the road, 18th July :- [7900704](https://www.fixmystreet.com/report/7900704)
 - Been here for weeks if not months. Never moved, never been used., 18th July :- [7900652](https://www.fixmystreet.com/report/7900652)
 - Large pothole on Hales Road at junction with The Grove, 18th July :- [7900179](https://www.fixmystreet.com/report/7900179)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 18th July :- [7898759](https://www.fixmystreet.com/report/7898759)
 - TMC - Defects - Vegetation problem, 18th July :- [7898487](https://www.fixmystreet.com/report/7898487)
 - You have reported that this is a closed case, but the ‘temp bus stop’ sign is still here. It has been turned around as people were standing there when there were other roadworks down the road a bit. It is outside number 309 Old Bath Road, gl53 9aj, 18th July :- [7898401](https://www.fixmystreet.com/report/7898401)
-- Other damage to pavement i.e. cobbles, raised mound/surface problem, 18th July :- [7898473](https://www.fixmystreet.com/report/7898473)
 
 <!-- fix_marker ends -->
