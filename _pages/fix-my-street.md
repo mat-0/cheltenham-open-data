@@ -9,6 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Trip hazard. Timber edging to bitmac path is warped, snapped and stands proud by more than 50mm, 18th July :- [7899557](https://www.fixmystreet.com/report/7899557)
+- Over grown tree encroachment, 18th July :- [7899547](https://www.fixmystreet.com/report/7899547)
+- TMC - Defects -CW6 Potholes  problem, 18th July :- [7899422](https://www.fixmystreet.com/report/7899422)
+- TMC - Defects -other CW6 problem, 18th July :- [7899423](https://www.fixmystreet.com/report/7899423)
+- Fast food as well in excess of 3 foot make it very dangerous to put out of Branch Road, 18th July :- [7899290](https://www.fixmystreet.com/report/7899290)
+- This street sign is faded and has fallen off the mountings., 18th July :- [7899286](https://www.fixmystreet.com/report/7899286)
+- TMC - Defects -CW6 Potholes  problem, 18th July :- [7899421](https://www.fixmystreet.com/report/7899421)
 - Large sunken area across whole width of pavement, 18th July :- [7899092](https://www.fixmystreet.com/report/7899092)
 - Litter bags need collecting, 18th July :- [7899004](https://www.fixmystreet.com/report/7899004)
 - Flyposter on central reservation at dangerous junction, 18th July :- [7898840](https://www.fixmystreet.com/report/7898840)
@@ -18,16 +25,9 @@ permalink: /fix-my-street
 - Other damage to pavement i.e. cobbles, raised mound/surface problem, 18th July :- [7898473](https://www.fixmystreet.com/report/7898473)
 - TMC - Defects -CW6 Potholes  problem, 18th July :- [7898484](https://www.fixmystreet.com/report/7898484)
 - Tree overhanging hedge causing damage, 18th July :- [7898133](https://www.fixmystreet.com/report/7898133)
-- TMC - Defects - Kerbs and Channels problem, 18th July :- [7898066](https://www.fixmystreet.com/report/7898066)
-- TMC - Defects - Covers, Gratings & Frames problem, 18th July :- [7898070](https://www.fixmystreet.com/report/7898070)
 - TMC - Defects -FW6 Potholes problem, 18th July :- [7898063](https://www.fixmystreet.com/report/7898063)
-- TMC - Defects - Kerbs and Channels problem, 18th July :- [7898068](https://www.fixmystreet.com/report/7898068)
+- TMC - Defects - Kerbs and Channels problem, 18th July :- [7898066](https://www.fixmystreet.com/report/7898066)
 - TMC - Defects - Kerbs and Channels problem, 18th July :- [7898069](https://www.fixmystreet.com/report/7898069)
 - TMC - Defects - Kerbs and Channels problem, 18th July :- [7898067](https://www.fixmystreet.com/report/7898067)
-- TMC - Defects - Other FW6  Surface problem, 18th July :- [7897863](https://www.fixmystreet.com/report/7897863)
-- TMC - Defects - Other FW6  Surface problem, 18th July :- [7897862](https://www.fixmystreet.com/report/7897862)
-- TMC - Defects - Other FW6  Surface problem, 18th July :- [7897861](https://www.fixmystreet.com/report/7897861)
-- Bollard shell is damaged/vandalised (Non illuminating bollard or post) problem, 18th July :- [7897845](https://www.fixmystreet.com/report/7897845)
-- There is vegitation hanging out dangerous, 18th July :- [7897080](https://www.fixmystreet.com/report/7897080)
 
 <!-- fix_marker ends -->
