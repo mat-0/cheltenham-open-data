@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Red Arrows team using vegetable oil to fly ([2 hours ago](https://www.bbc.com/news/articles/czeyzdp60zjo))
-- Gloucestershire in Pictures: RIAT and 2000trees ([10 hours ago](https://www.bbc.com/news/articles/crmvp9rxg7yo))
-- Giant three-metre Orpheus puppet goes on display ([10 hours ago](https://www.bbc.com/news/articles/c8rp232x0zvo))
-- Hundreds attend funeral of David 'Syd' Lawrence ([22 hours ago](https://www.bbc.com/news/articles/cy8kmg21r93o))
+- Red Arrows team using vegetable oil to fly ([3 hours ago](https://www.bbc.com/news/articles/czeyzdp60zjo))
+- Gloucestershire in Pictures: RIAT and 2000trees ([11 hours ago](https://www.bbc.com/news/articles/crmvp9rxg7yo))
+- Giant three-metre Orpheus puppet goes on display ([11 hours ago](https://www.bbc.com/news/articles/c8rp232x0zvo))
+- Hundreds attend funeral of David 'Syd' Lawrence ([23 hours ago](https://www.bbc.com/news/articles/cy8kmg21r93o))
 - Local music festival hits the high note for Sue Ryder ([1 days ago](https://gloucesternewscentre.co.uk/local-music-festival-hits-the-high-note-for-sue-ryder/))
 - Council has 'head in sand' over closed footbridge ([1 days ago](https://www.bbc.com/news/articles/cy5w26yzxr1o))
 - Man dies after serious crash involving two lorries ([1 days ago](https://www.bbc.com/news/articles/crk65744rm4o))
@@ -66,7 +66,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Cheltenham Borough Council achieves 6th place ranking in 2025 Climate Emergency UK Scorecards ([16 days ago](https://gloucesternewscentre.co.uk/cheltenham-borough-council-achieves-6th-place-ranking-in-2025-climate-emergency-uk-scorecards/))
 - Cheltenham achieves 6th place ranking in 2025 Climate Emergency UK Scorecards ([16 days ago](https://www.cheltenham.gov.uk/news/article/3028/cheltenham_achieves_6th_place_ranking_in_2025_climate_emergency_uk_scorecards))
 - £2.8m of funding approved to bring more new homes to Cheltenham ([17 days ago](https://www.cheltenham.gov.uk/news/article/3027/28m_of_funding_approved_to_bring_more_new_homes_to_cheltenham))
-- New business grant fund supports local carbon reduction and enables cost savings ([18 days ago](https://www.cheltenham.gov.uk/news/article/3026/new_business_grant_fund_supports_local_carbon_reduction_and_enables_cost_savings))
+- New business grant fund supports local carbon reduction and enables cost savings ([19 days ago](https://www.cheltenham.gov.uk/news/article/3026/new_business_grant_fund_supports_local_carbon_reduction_and_enables_cost_savings))
 - Helping wildflowers bloom across Cheltenham ([22 days ago](https://www.cheltenham.gov.uk/news/article/3025/helping_wildflowers_bloom_across_cheltenham))
 - Gloucestershire Airport sale backed by councils ([23 days ago](https://www.cheltenham.gov.uk/news/article/3024/gloucestershire_airport_sale_backed_by_councils))
 - Successful prosecution for neglected listed building ([24 days ago](https://www.cheltenham.gov.uk/news/article/3023/successful_prosecution_for_neglected_listed_building))
