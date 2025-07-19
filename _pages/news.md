@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Red Arrows team using vegetable oil to fly ([4 hours ago](https://www.bbc.com/news/articles/czeyzdp60zjo))
-- Gloucestershire in Pictures: RIAT and 2000trees ([12 hours ago](https://www.bbc.com/news/articles/crmvp9rxg7yo))
-- Giant three-metre Orpheus puppet goes on display ([12 hours ago](https://www.bbc.com/news/articles/c8rp232x0zvo))
+- Red Arrows team using vegetable oil to fly ([5 hours ago](https://www.bbc.com/news/articles/czeyzdp60zjo))
+- Gloucestershire in Pictures: RIAT and 2000trees ([13 hours ago](https://www.bbc.com/news/articles/crmvp9rxg7yo))
+- Giant three-metre Orpheus puppet goes on display ([13 hours ago](https://www.bbc.com/news/articles/c8rp232x0zvo))
 - Hundreds attend funeral of David 'Syd' Lawrence ([1 days ago](https://www.bbc.com/news/articles/cy8kmg21r93o))
 - Local music festival hits the high note for Sue Ryder ([1 days ago](https://gloucesternewscentre.co.uk/local-music-festival-hits-the-high-note-for-sue-ryder/))
 - Council has 'head in sand' over closed footbridge ([1 days ago](https://www.bbc.com/news/articles/cy5w26yzxr1o))
