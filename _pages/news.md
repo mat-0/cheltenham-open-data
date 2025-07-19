@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Red Arrows team using vegetable oil to fly ([3 hours ago](https://www.bbc.com/news/articles/czeyzdp60zjo))
-- Gloucestershire in Pictures: RIAT and 2000trees ([11 hours ago](https://www.bbc.com/news/articles/crmvp9rxg7yo))
-- Giant three-metre Orpheus puppet goes on display ([11 hours ago](https://www.bbc.com/news/articles/c8rp232x0zvo))
-- Hundreds attend funeral of David 'Syd' Lawrence ([23 hours ago](https://www.bbc.com/news/articles/cy8kmg21r93o))
+- Red Arrows team using vegetable oil to fly ([4 hours ago](https://www.bbc.com/news/articles/czeyzdp60zjo))
+- Gloucestershire in Pictures: RIAT and 2000trees ([12 hours ago](https://www.bbc.com/news/articles/crmvp9rxg7yo))
+- Giant three-metre Orpheus puppet goes on display ([12 hours ago](https://www.bbc.com/news/articles/c8rp232x0zvo))
+- Hundreds attend funeral of David 'Syd' Lawrence ([1 days ago](https://www.bbc.com/news/articles/cy8kmg21r93o))
 - Local music festival hits the high note for Sue Ryder ([1 days ago](https://gloucesternewscentre.co.uk/local-music-festival-hits-the-high-note-for-sue-ryder/))
 - Council has 'head in sand' over closed footbridge ([1 days ago](https://www.bbc.com/news/articles/cy5w26yzxr1o))
 - Man dies after serious crash involving two lorries ([1 days ago](https://www.bbc.com/news/articles/crk65744rm4o))
@@ -23,7 +23,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Sneak peek at this year's RIAT aircraft ([1 days ago](https://www.bbc.com/news/videos/c625qw1rzlyo))
 - Syd Lawrence 'was very fast, very quick ... a mean bowler!' ([1 days ago](https://www.bbc.com/news/articles/c628163nzm1o))
 - Defence firms 'confident' hundreds more jobs will come ([1 days ago](https://www.bbc.com/news/articles/c86gnq3j2qno))
-- Club where Hendrix and Bowie played celebrated in book ([1 days ago](https://www.bbc.com/news/articles/c62dryljn24o))
+- Club where Hendrix and Bowie played celebrated in book ([2 days ago](https://www.bbc.com/news/articles/c62dryljn24o))
 - Girl, 16, 'strangled to unconsciousness by stranger' ([2 days ago](https://www.bbc.com/news/articles/cx23jny8282o))
 - Key road near Cheltenham station to closed in one direction ([2 days ago](https://gloucesternewscentre.co.uk/key-road-near-cheltenham-station-to-closed-in-one-direction/))
 - Decision on David Lloyd club amid odour fears from landfill site ([2 days ago](https://gloucesternewscentre.co.uk/decision-on-david-lloyd-club-amid-odour-fears-from-landfill-site/))
