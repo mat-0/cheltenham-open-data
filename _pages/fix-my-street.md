@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Yet more fly tipping here!!!!, 19th July :- [7901445](https://www.fixmystreet.com/report/7901445)
+- Old broken clothes airer on path, 19th July :- [7901425](https://www.fixmystreet.com/report/7901425)
 - No through road sign cannot be seen because it’s short and covered by a hedge. We regularly have long Lorries trying to reverse in a small cul de sac, 18th July :- [7900888](https://www.fixmystreet.com/report/7900888)
 - Pothole in the road, 18th July :- [7900704](https://www.fixmystreet.com/report/7900704)
 - Been here for weeks if not months. Never moved, never been used., 18th July :- [7900652](https://www.fixmystreet.com/report/7900652)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Litter bags need collecting, 18th July :- [7899004](https://www.fixmystreet.com/report/7899004)
 - Flyposter on central reservation at dangerous junction, 18th July :- [7898840](https://www.fixmystreet.com/report/7898840)
 - TMC - Defects - Other FW6  Surface problem, 18th July :- [7898759](https://www.fixmystreet.com/report/7898759)
-- TMC - Defects - Vegetation problem, 18th July :- [7898487](https://www.fixmystreet.com/report/7898487)
-- You have reported that this is a closed case, but the ‘temp bus stop’ sign is still here. It has been turned around as people were standing there when there were other roadworks down the road a bit. It is outside number 309 Old Bath Road, gl53 9aj, 18th July :- [7898401](https://www.fixmystreet.com/report/7898401)
 
 <!-- fix_marker ends -->
