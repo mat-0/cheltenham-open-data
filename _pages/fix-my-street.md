@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Glass all over the road, 19th July :- [7902633](https://www.fixmystreet.com/report/7902633)
+- Overgrown, 19th July :- [7902594](https://www.fixmystreet.com/report/7902594)
+- Overgrown and impassable, 19th July :- [7902587](https://www.fixmystreet.com/report/7902587)
+- Bridge vdangerous, 19th July :- [7902583](https://www.fixmystreet.com/report/7902583)
+- Flytipped sofa and other furniture New Street, 19th July :- [7902549](https://www.fixmystreet.com/report/7902549)
+- Flytipped mattress and soft furnishings St George’s Place, 19th July :- [7902538](https://www.fixmystreet.com/report/7902538)
 - Volunteer litter pick bags ready for collection (19/07/25), 19th July :- [7902498](https://www.fixmystreet.com/report/7902498)
 - Multiple blocked drains, 19th July :- [7901828](https://www.fixmystreet.com/report/7901828)
 - ASH trees on Glenfall Way, 19th July :- [7901763](https://www.fixmystreet.com/report/7901763)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - 2x potholes, 18th July :- [7899664](https://www.fixmystreet.com/report/7899664)
 - Trip hazard. Timber edging to bitmac path is warped, snapped and stands proud by more than 50mm, 18th July :- [7899557](https://www.fixmystreet.com/report/7899557)
 - Over grown tree encroachment, 18th July :- [7899547](https://www.fixmystreet.com/report/7899547)
-- TMC - Defects -other CW6 problem, 18th July :- [7899423](https://www.fixmystreet.com/report/7899423)
-- TMC - Defects -CW6 Potholes  problem, 18th July :- [7899422](https://www.fixmystreet.com/report/7899422)
-- Fast food as well in excess of 3 foot make it very dangerous to put out of Branch Road, 18th July :- [7899290](https://www.fixmystreet.com/report/7899290)
-- This street sign is faded and has fallen off the mountings., 18th July :- [7899286](https://www.fixmystreet.com/report/7899286)
-- TMC - Defects -CW6 Potholes  problem, 18th July :- [7899421](https://www.fixmystreet.com/report/7899421)
-- Large sunken area across whole width of pavement, 18th July :- [7899092](https://www.fixmystreet.com/report/7899092)
 
 <!-- fix_marker ends -->
