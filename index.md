@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Saturday, 19 July 2025
 
-- The average temperature today is 17.75˚C,
-- With highs of 18.88˚C and lows of 17.04˚C,
-- It may feel like 17.77˚C with overcast clouds
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1005hPa and humidity is 84%
+- The average temperature today is 18.75˚C,
+- With highs of 20.16˚C and lows of 17.69˚C,
+- It may feel like 18.77˚C with broken clouds
+- The wind speed is 1.34m/s and visibility is 10000m
+- The pressure is 1005hPa and humidity is 80%
 - The sun will rise at 04:11 and set at 20:17
 
 <!-- weather_marker ends -->
