@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Talks under way about future of ex-pub building ([2 hours ago](https://www.bbc.com/news/articles/cm2zq6g8497o))
-- Red Arrows team using vegetable oil to fly ([8 hours ago](https://www.bbc.com/news/articles/czeyzdp60zjo))
-- Gloucestershire in Pictures: RIAT and 2000trees ([16 hours ago](https://www.bbc.com/news/articles/crmvp9rxg7yo))
-- Giant three-metre Orpheus puppet goes on display ([16 hours ago](https://www.bbc.com/news/articles/c8rp232x0zvo))
+- Talks under way about future of ex-pub building ([3 hours ago](https://www.bbc.com/news/articles/cm2zq6g8497o))
+- Red Arrows team using vegetable oil to fly ([9 hours ago](https://www.bbc.com/news/articles/czeyzdp60zjo))
+- Gloucestershire in Pictures: RIAT and 2000trees ([17 hours ago](https://www.bbc.com/news/articles/crmvp9rxg7yo))
+- Giant three-metre Orpheus puppet goes on display ([17 hours ago](https://www.bbc.com/news/articles/c8rp232x0zvo))
 - Hundreds attend funeral of David 'Syd' Lawrence ([1 days ago](https://www.bbc.com/news/articles/cy8kmg21r93o))
 - Local music festival hits the high note for Sue Ryder ([1 days ago](https://gloucesternewscentre.co.uk/local-music-festival-hits-the-high-note-for-sue-ryder/))
 - Council has 'head in sand' over closed footbridge ([1 days ago](https://www.bbc.com/news/articles/cy5w26yzxr1o))
