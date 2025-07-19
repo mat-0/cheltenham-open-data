@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Why has the bin still not been replaced, 19th July :- [7903513](https://www.fixmystreet.com/report/7903513)
 - Cobbled area that has been “fixed’ numerous times has failed again and could cause damage to car tyre or even throw someone of their motorcycle, 19th July :- [7903182](https://www.fixmystreet.com/report/7903182)
 - Glass all over the road, 19th July :- [7902633](https://www.fixmystreet.com/report/7902633)
 - Overgrown, 19th July :- [7902594](https://www.fixmystreet.com/report/7902594)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Pothole in front of shed and next to Water meter., 18th July :- [7899913](https://www.fixmystreet.com/report/7899913)
 - Very worn road markings, 18th July :- [7899885](https://www.fixmystreet.com/report/7899885)
 - 2x potholes, 18th July :- [7899664](https://www.fixmystreet.com/report/7899664)
-- Trip hazard. Timber edging to bitmac path is warped, snapped and stands proud by more than 50mm, 18th July :- [7899557](https://www.fixmystreet.com/report/7899557)
 
 <!-- fix_marker ends -->
