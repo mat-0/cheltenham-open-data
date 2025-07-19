@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Volunteer litter pick bags ready for collection (19/07/25), 19th July :- [7902498](https://www.fixmystreet.com/report/7902498)
 - Multiple blocked drains, 19th July :- [7901828](https://www.fixmystreet.com/report/7901828)
 - ASH trees on Glenfall Way, 19th July :- [7901763](https://www.fixmystreet.com/report/7901763)
 - Yet more fly tipping here!!!!, 19th July :- [7901445](https://www.fixmystreet.com/report/7901445)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - This street sign is faded and has fallen off the mountings., 18th July :- [7899286](https://www.fixmystreet.com/report/7899286)
 - TMC - Defects -CW6 Potholes  problem, 18th July :- [7899421](https://www.fixmystreet.com/report/7899421)
 - Large sunken area across whole width of pavement, 18th July :- [7899092](https://www.fixmystreet.com/report/7899092)
-- Litter bags need collecting, 18th July :- [7899004](https://www.fixmystreet.com/report/7899004)
 
 <!-- fix_marker ends -->
