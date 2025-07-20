@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Confusing No Entry sign (new), 20th July :- [7906842](https://www.fixmystreet.com/report/7906842)
 - Large tree overhanging property and causing damage, 20th July :- [7906493](https://www.fixmystreet.com/report/7906493)
 - Gully is full of silt and does not drain rainwater so requires clearing. The photos also show the road surface has broken up around gully and pothole forming so road surface also needs repair., 20th July :- [7906491](https://www.fixmystreet.com/report/7906491)
 - There is a pot hole which is dangerous on this stretch of road you claimed it is fixed but it is not, 20th July :- [7906363](https://www.fixmystreet.com/report/7906363)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Glass all over the road, 19th July :- [7902633](https://www.fixmystreet.com/report/7902633)
 - Overgrown, 19th July :- [7902594](https://www.fixmystreet.com/report/7902594)
 - Overgrown and impassable, 19th July :- [7902587](https://www.fixmystreet.com/report/7902587)
-- Bridge vdangerous, 19th July :- [7902583](https://www.fixmystreet.com/report/7902583)
 
 <!-- fix_marker ends -->
