@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Ellen DeGeneres: I moved to the UK because of Trump ([2 hours ago](https://www.bbc.com/news/articles/c8d638rrndzo))
-- Gloucestershire in Pictures: RIAT and 2000trees ([4 hours ago](https://www.bbc.com/news/articles/crmvp9rxg7yo))
-- Air show's 'spiritual excitement like Glastonbury' ([6 hours ago](https://www.bbc.com/news/articles/cjrlxvgyp57o))
-- Rusty nails postpone reopening of car boot sale ([12 hours ago](https://www.bbc.com/news/articles/cm207pe9xx9o))
-- Treasured music memorabilia wanted for exhibition ([14 hours ago](https://www.bbc.com/news/articles/ce83kdkmrymo))
-- Headlines: 'Coach crash' and 'Syd Lawrence funeral' ([14 hours ago](https://www.bbc.com/news/articles/crl0wl25188o))
+- Ellen DeGeneres: I moved to the UK because of Trump ([3 hours ago](https://www.bbc.com/news/articles/c8d638rrndzo))
+- Gloucestershire in Pictures: RIAT and 2000trees ([5 hours ago](https://www.bbc.com/news/articles/crmvp9rxg7yo))
+- Air show's 'spiritual excitement like Glastonbury' ([7 hours ago](https://www.bbc.com/news/articles/cjrlxvgyp57o))
+- Rusty nails postpone reopening of car boot sale ([13 hours ago](https://www.bbc.com/news/articles/cm207pe9xx9o))
+- Treasured music memorabilia wanted for exhibition ([15 hours ago](https://www.bbc.com/news/articles/ce83kdkmrymo))
+- Headlines: 'Coach crash' and 'Syd Lawrence funeral' ([15 hours ago](https://www.bbc.com/news/articles/crl0wl25188o))
 - Talks under way about future of ex-pub building ([1 days ago](https://www.bbc.com/news/articles/cm2zq6g8497o))
 - Red Arrows team using vegetable oil to fly ([1 days ago](https://www.bbc.com/news/articles/czeyzdp60zjo))
 - Giant three-metre Orpheus puppet goes on display ([1 days ago](https://www.bbc.com/news/articles/c8rp232x0zvo))
