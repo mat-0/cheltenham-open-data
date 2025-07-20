@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Double mattress dumped, 20th July :- [7905822](https://www.fixmystreet.com/report/7905822)
+- Supermarket trolley and e scooter chucked in river, 20th July :- [7905799](https://www.fixmystreet.com/report/7905799)
 - QUESTION : Will there be a second 'No Entry' sign at the new bust stop ?, 20th July :- [7905591](https://www.fixmystreet.com/report/7905591)
 - Over full bin, 20th July :- [7904715](https://www.fixmystreet.com/report/7904715)
 - Series of potholes outside medical centre, 20th July :- [7904224](https://www.fixmystreet.com/report/7904224)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - ASH trees on Glenfall Way, 19th July :- [7901763](https://www.fixmystreet.com/report/7901763)
 - Yet more fly tipping here!!!!, 19th July :- [7901445](https://www.fixmystreet.com/report/7901445)
 - Old broken clothes airer on path, 19th July :- [7901425](https://www.fixmystreet.com/report/7901425)
-- No through road sign cannot be seen because it’s short and covered by a hedge. We regularly have long Lorries trying to reverse in a small cul de sac, 18th July :- [7900888](https://www.fixmystreet.com/report/7900888)
-- Pothole in the road, 18th July :- [7900704](https://www.fixmystreet.com/report/7900704)
 
 <!-- fix_marker ends -->
