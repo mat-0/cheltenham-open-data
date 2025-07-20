@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Over full bin, 20th July :- [7904715](https://www.fixmystreet.com/report/7904715)
 - Series of potholes outside medical centre, 20th July :- [7904224](https://www.fixmystreet.com/report/7904224)
 - How can this be on public pathway?, 20th July :- [7904194](https://www.fixmystreet.com/report/7904194)
 - Innsworth lane and Cheltenham road east cross road, pedestrian crossing button stuck near church, 20th July :- [7903989](https://www.fixmystreet.com/report/7903989)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - No through road sign cannot be seen because it’s short and covered by a hedge. We regularly have long Lorries trying to reverse in a small cul de sac, 18th July :- [7900888](https://www.fixmystreet.com/report/7900888)
 - Pothole in the road, 18th July :- [7900704](https://www.fixmystreet.com/report/7900704)
 - Been here for weeks if not months. Never moved, never been used., 18th July :- [7900652](https://www.fixmystreet.com/report/7900652)
-- Large pothole on Hales Road at junction with The Grove, 18th July :- [7900179](https://www.fixmystreet.com/report/7900179)
 
 <!-- fix_marker ends -->
