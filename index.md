@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Sunday, 20 July 2025
 
-- The average temperature today is 19.67˚C,
-- With highs of 20.47˚C and lows of 19.18˚C,
-- It may feel like 19.26˚C with few clouds
-- The wind speed is 3.13m/s and visibility is 10000m
-- The pressure is 998hPa and humidity is 60%
+- The average temperature today is 18.15˚C,
+- With highs of 18.88˚C and lows of 17.6˚C,
+- It may feel like 17.77˚C with scattered clouds
+- The wind speed is 1.79m/s and visibility is 10000m
+- The pressure is 998hPa and humidity is 67%
 - The sun will rise at 04:13 and set at 20:15
 
 <!-- weather_marker ends -->

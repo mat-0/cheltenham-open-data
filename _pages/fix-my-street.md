@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large tree overhanging property and causing damage, 20th July :- [7906493](https://www.fixmystreet.com/report/7906493)
+- Gully is full of silt and does not drain rainwater so requires clearing. The photos also show the road surface has broken up around gully and pothole forming so road surface also needs repair., 20th July :- [7906491](https://www.fixmystreet.com/report/7906491)
 - There is a pot hole which is dangerous on this stretch of road you claimed it is fixed but it is not, 20th July :- [7906363](https://www.fixmystreet.com/report/7906363)
 - Mattress and bed frame on pavement Larput Place, 20th July :- [7906313](https://www.fixmystreet.com/report/7906313)
 - Large upholstered seat cushion left near bus stop after Swan Inn in Coombe Hill for Tewkesbury, 20th July :- [7906183](https://www.fixmystreet.com/report/7906183)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Overgrown, 19th July :- [7902594](https://www.fixmystreet.com/report/7902594)
 - Overgrown and impassable, 19th July :- [7902587](https://www.fixmystreet.com/report/7902587)
 - Bridge vdangerous, 19th July :- [7902583](https://www.fixmystreet.com/report/7902583)
-- Flytipped sofa and other furniture New Street, 19th July :- [7902549](https://www.fixmystreet.com/report/7902549)
-- Flytipped mattress and soft furnishings St George’s Place, 19th July :- [7902538](https://www.fixmystreet.com/report/7902538)
 
 <!-- fix_marker ends -->
