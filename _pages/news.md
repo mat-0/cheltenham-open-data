@@ -12,7 +12,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Talks under way about future of ex-pub building ([6 hours ago](https://www.bbc.com/news/articles/cm2zq6g8497o))
+- Talks under way about future of ex-pub building ([7 hours ago](https://www.bbc.com/news/articles/cm2zq6g8497o))
 - Red Arrows team using vegetable oil to fly ([13 hours ago](https://www.bbc.com/news/articles/czeyzdp60zjo))
 - Gloucestershire in Pictures: RIAT and 2000trees ([21 hours ago](https://www.bbc.com/news/articles/crmvp9rxg7yo))
 - Giant three-metre Orpheus puppet goes on display ([21 hours ago](https://www.bbc.com/news/articles/c8rp232x0zvo))
