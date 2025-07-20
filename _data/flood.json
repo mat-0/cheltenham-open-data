@@ -1,17 +1,374 @@
 {
-    "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
-    "meta": {
-        "publisher": "Environment Agency",
-        "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
-        "version": "0.9",
-        "comment": "Status: Beta service",
-        "hasFormat": [
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.csv?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.html?county=Gloucestershire"
-        ]
+  "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
+  "meta": {
+    "publisher": "Environment Agency",
+    "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
+    "version": "0.9",
+    "comment": "Status: Beta service",
+    "hasFormat": [
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.csv",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
+    ]
+  },
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF41Wandle",
+      "description": "River Wandle area in the London Boroughs of Wandsworth, Merton, Lambeth, Croydon and Sutton",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF41Wandle",
+        "county": "Croydon, Greater London, Lambeth, Merton, Sutton, Wandsworth",
+        "notation": "064WAF41Wandle",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF41Wandle/polygon",
+        "riverOrSea": "River Wandle"
+      },
+      "floodAreaID": "064WAF41Wandle",
+      "isTidal": false,
+      "message": "There is no longer a threat of flooding, though standing water and debris may still remain.\nThere may still be some areas where flood water is present until it can naturally drain away.\nFurther rainfall is forecast tomorrow but no further flooding is expected.\nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.\nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-07-19T19:54:00",
+      "timeRaised": "2025-07-19T19:54:41",
+      "timeSeverityChanged": "2025-07-19T19:54:00"
     },
-    "items": []
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF7ShutCray",
+      "description": "Shuttle and Cray",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF7ShutCray",
+        "county": "Bexley, Bromley, Greater London, Kent",
+        "notation": "064WAF7ShutCray",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF7ShutCray/polygon",
+        "riverOrSea": "Shuttle, Cray"
+      },
+      "floodAreaID": "064WAF7ShutCray",
+      "isTidal": false,
+      "message": "There is no longer a threat of flooding, though standing water and debris may still remain.\nThere may still be some areas where flood water is present until it can naturally drain away.\nFurther rainfall is forecast tomorrow but no further flooding is expected.\nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.\nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-07-19T19:54:00",
+      "timeRaised": "2025-07-19T19:54:21",
+      "timeSeverityChanged": "2025-07-19T19:54:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF302",
+      "description": "River Blythe in Warwickshire",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF302",
+        "county": "Solihull, Warwickshire",
+        "notation": "033WAF302",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF302/polygon",
+        "riverOrSea": "River Blythe"
+      },
+      "floodAreaID": "033WAF302",
+      "isTidal": false,
+      "message": " This flood alert has been issued as heavy rain and thunderstorms have been forecast for this area over the weekend. There is uncertainty over the amount of rainfall expected and the exact location of the thunderstorms and heavy rain . River and surface water flooding may affect these areas. We urge you to remain vigilant and avoid walking and driving through flood water. We are continuing to actively monitor the situation closely and will issue updates, and further flood alerts and warnings if necessary. You can monitor your local weather conditions and river levels on the GOV.UK website.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-07-18T11:46:00",
+      "timeRaised": "2025-07-18T11:46:19",
+      "timeSeverityChanged": "2025-07-18T11:46:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF43Ravnsbrn",
+      "description": "Ravensbourne area in the London Boroughs of Lewisham, Bromley, Greenwich and Croydon",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF43Ravnsbrn",
+        "county": "Bromley, Croydon, Greater London, Greenwich, Lewisham",
+        "notation": "064WAF43Ravnsbrn",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF43Ravnsbrn/polygon",
+        "riverOrSea": "River Ravensbourne"
+      },
+      "floodAreaID": "064WAF43Ravnsbrn",
+      "isTidal": false,
+      "message": "There is no longer a threat of flooding, though standing water and debris may still remain.\nThere may still be some areas where flood water is present until it can naturally drain away.\nFurther rainfall is forecast tomorrow but no further flooding is expected.\nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.\nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-07-19T19:54:00",
+      "timeRaised": "2025-07-19T19:54:19",
+      "timeSeverityChanged": "2025-07-19T19:54:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF40BevBrook",
+      "description": "Beverley Brook area in Merton, Sutton, Kingston upon Thames, Richmond upon Thames and Wandsworth",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF40BevBrook",
+        "county": "Greater London, Kingston upon Thames, Merton, Richmond upon Thames, Surrey, Sutton, Wandsworth",
+        "notation": "064WAF40BevBrook",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF40BevBrook/polygon",
+        "riverOrSea": "Beverley Brook, Pyl Brook, East Pyl Brook"
+      },
+      "floodAreaID": "064WAF40BevBrook",
+      "isTidal": false,
+      "message": "There is no longer a threat of flooding, though standing water and debris may still remain.\nThere may still be some areas where flood water is present until it can naturally drain away.\nFurther rainfall is forecast tomorrow but no further flooding is expected.\nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.\nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-07-19T19:54:00",
+      "timeRaised": "2025-07-19T19:54:26",
+      "timeSeverityChanged": "2025-07-19T19:54:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF33Hogsmill",
+      "description": "River Hogsmill area from Ewell to Kingston upon Thames",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF33Hogsmill",
+        "county": "Greater London, Kingston upon Thames, Surrey",
+        "notation": "064WAF33Hogsmill",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF33Hogsmill/polygon",
+        "riverOrSea": "Hogsmill"
+      },
+      "floodAreaID": "064WAF33Hogsmill",
+      "isTidal": false,
+      "message": "There is no longer a threat of flooding, though standing water and debris may still remain.\nThere may still be some areas where flood water is present until it can naturally drain away.\nFurther rainfall is forecast tomorrow but no further flooding is expected.\nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.\nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-07-19T19:54:00",
+      "timeRaised": "2025-07-19T19:54:33",
+      "timeSeverityChanged": "2025-07-19T19:54:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF330",
+      "description": "River Stour and Smestow Brook in the Black Country and South Staffordshire",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF330",
+        "county": "Dudley, Sandwell, Staffordshire, Wolverhampton, Worcestershire",
+        "notation": "033WAF330",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF330/polygon",
+        "riverOrSea": "River Stour, Smestow Brook"
+      },
+      "floodAreaID": "033WAF330",
+      "isTidal": false,
+      "message": " This flood alert has been issued as heavy rain and thunderstorms have been forecast for this area over the weekend. There is uncertainty over the amount of rainfall expected and the exact location of the thunderstorms and heavy rain . River and surface water flooding may affect these areas. We urge you to remain vigilant and avoid walking and driving through flood water. We are continuing to actively monitor the situation closely and will issue updates, and further flood alerts and warnings if necessary. You can monitor your local weather conditions and river levels on the GOV.UK website.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-07-18T11:46:00",
+      "timeRaised": "2025-07-18T11:46:50",
+      "timeSeverityChanged": "2025-07-18T11:46:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF35RiverRythe",
+      "description": "River Rythe from Oxshott to Thames Ditton",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF35RiverRythe",
+        "county": "Surrey",
+        "notation": "064WAF35RiverRythe",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF35RiverRythe/polygon",
+        "riverOrSea": "River Rythe"
+      },
+      "floodAreaID": "064WAF35RiverRythe",
+      "isTidal": false,
+      "message": "There is no longer a threat of flooding, though standing water and debris may still remain.\nThere may still be some areas where flood water is present until it can naturally drain away.\nFurther rainfall is forecast tomorrow but no further flooding is expected.\nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.\nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-07-19T19:54:00",
+      "timeRaised": "2025-07-19T19:54:49",
+      "timeSeverityChanged": "2025-07-19T19:54:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAF930",
+      "description": "Middlesbrough Becks",
+      "eaAreaName": "North East",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAF930",
+        "county": "Middlesbrough, Redcar and Cleveland",
+        "notation": "121WAF930",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAF930/polygon",
+        "riverOrSea": "Middlesbrough Becks"
+      },
+      "floodAreaID": "121WAF930",
+      "isTidal": false,
+      "message": "There is no longer a threat of flooding, though standing water and debris may still remain.\n\nFurther light rainfall is forecast tomorrow but no further flooding is expected.\n\nWe will continue to monitor the situation.\n\nContinue to take care on riverside roads and footpaths and don't put yourself in unnecessary danger.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-07-19T20:40:00",
+      "timeRaised": "2025-07-19T20:40:34",
+      "timeSeverityChanged": "2025-07-19T20:40:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123WAF982",
+      "description": "Wyke Beck and Meanwood Beck catchments",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF982",
+        "county": "Leeds",
+        "notation": "123WAF982",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF982/polygon",
+        "riverOrSea": "Wyke Beck, Meanwood Beck"
+      },
+      "floodAreaID": "123WAF982",
+      "isTidal": false,
+      "message": " River levels in Wyke Beck have fallen following heavy rainfall on Sunday, 20/7/25. Whilst the rain should ease this evening, we may still see some heavy, thundery and isolated patches of rainfall overnight into tomorrow.\nAlthough river levels are now below levels of concern, any further heavy rain could cause the river to rise rapidly again. We are closely monitoring the situation.\nPlease take care around low-lying footpaths and roads near local watercourses.\n \nWe will update this message by 0900 on Monday 21/07/25 or if the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-07-20T18:01:00",
+      "timeRaised": "2025-07-20T18:01:28",
+      "timeSeverityChanged": "2025-07-20T14:32:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123WAF983",
+      "description": "Wash Dike catchment",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF983",
+        "county": "Wakefield",
+        "notation": "123WAF983",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF983/polygon",
+        "riverOrSea": "Wash Dike"
+      },
+      "floodAreaID": "123WAF983",
+      "isTidal": false,
+      "message": " River levels in Wash Dyke have fallen following heavy rainfall on Sunday, 20/07/25. Whilst the rain should ease this evening, we may still see some heavy, thundery and isolated patches of rainfall overnight into tomorrow.\nAlthough river levels are now below levels of concern, any further heavy rain could cause the river to rise rapidly again. We are closely monitoring the situation.\nPlease take care around low-lying footpaths and roads near local watercourses.\n \nWe will update this message by 0900 on Monday 21/07/25 or if the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-07-20T17:49:00",
+      "timeRaised": "2025-07-20T17:49:34",
+      "timeSeverityChanged": "2025-07-20T14:24:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF300",
+      "description": "River Rea",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF300",
+        "county": "Birmingham",
+        "notation": "033WAF300",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF300/polygon",
+        "riverOrSea": "River Rea"
+      },
+      "floodAreaID": "033WAF300",
+      "isTidal": false,
+      "message": " This flood alert has been issued as heavy rain and thunderstorms have been forecast for this area over the weekend. There is uncertainty over the amount of rainfall expected and the exact location of the thunderstorms and heavy rain . River and surface water flooding may affect these areas. We urge you to remain vigilant and avoid walking and driving through flood water. We are continuing to actively monitor the situation closely and will issue updates, and further flood alerts and warnings if necessary. You can monitor your local weather conditions and river levels on the GOV.UK website.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-07-18T11:46:00",
+      "timeRaised": "2025-07-18T11:46:45",
+      "timeSeverityChanged": "2025-07-18T11:46:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF303",
+      "description": "Upper Tame",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF303",
+        "county": "Birmingham, Dudley, Sandwell, Solihull, Walsall, Warwickshire, Wolverhampton",
+        "notation": "033WAF303",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF303/polygon",
+        "riverOrSea": "River Tame, Ford Brook"
+      },
+      "floodAreaID": "033WAF303",
+      "isTidal": false,
+      "message": " This flood alert has been issued as heavy rain and thunderstorms have been forecast for this area over the weekend. There is uncertainty over the amount of rainfall expected and the exact location of the thunderstorms and heavy rain . River and surface water flooding may affect these areas. We urge you to remain vigilant and avoid walking and driving through flood water. We are continuing to actively monitor the situation closely and will issue updates, and further flood alerts and warnings if necessary. You can monitor your local weather conditions and river levels on the GOV.UK website.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-07-18T11:46:00",
+      "timeRaised": "2025-07-18T11:47:30",
+      "timeSeverityChanged": "2025-07-18T11:46:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF340",
+      "description": "Upper Tame at Sandwell Valley",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF340",
+        "county": "Birmingham, Sandwell",
+        "notation": "033WAF340",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF340/polygon"
+      },
+      "floodAreaID": "033WAF340",
+      "isTidal": false,
+      "message": " This flood alert has been issued as heavy rain and thunderstorms have been forecast for this area over the weekend. There is uncertainty over the amount of rainfall expected and the exact location of the thunderstorms and heavy rain . River and surface water flooding may affect these areas. We urge you to remain vigilant and avoid walking and driving through flood water. We are continuing to actively monitor the situation closely and will issue updates, and further flood alerts and warnings if necessary. You can monitor your local weather conditions and river levels on the GOV.UK website.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-07-18T11:45:00",
+      "timeRaised": "2025-07-18T11:46:07",
+      "timeSeverityChanged": "2025-07-18T11:45:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF301",
+      "description": "River Cole",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF301",
+        "county": "Birmingham, Solihull, Warwickshire, Worcestershire",
+        "notation": "033WAF301",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF301/polygon",
+        "riverOrSea": "River Cole"
+      },
+      "floodAreaID": "033WAF301",
+      "isTidal": false,
+      "message": " This flood alert has been issued as heavy rain and thunderstorms have been forecast for this area over the weekend. There is uncertainty over the amount of rainfall expected and the exact location of the thunderstorms and heavy rain . River and surface water flooding may affect these areas. We urge you to remain vigilant and avoid walking and driving through flood water. We are continuing to actively monitor the situation closely and will issue updates, and further flood alerts and warnings if necessary. You can monitor your local weather conditions and river levels on the GOV.UK website.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-07-18T11:46:00",
+      "timeRaised": "2025-07-18T11:46:23",
+      "timeSeverityChanged": "2025-07-18T11:46:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/062WAF38BrentBks",
+      "description": "Silk Stream and the Deans, Edgware, Dollis, Mutton, Wembley and Wealdstone Brooks",
+      "eaAreaName": "Hertfordshire and North London",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/062WAF38BrentBks",
+        "county": "Barnet, Brent, Greater London, Harrow",
+        "notation": "062WAF38BrentBks",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/062WAF38BrentBks/polygon",
+        "riverOrSea": "Silk Stream;\r\nDollis Brook;\r\nDeans Brook;\r\nEdgware Brook;\r\nMutton Brook;\r\nWealdstone Brook;\r\nWembley Brook"
+      },
+      "floodAreaID": "062WAF38BrentBks",
+      "isTidal": false,
+      "message": "The Flood Alert has now been removed. \nThere may still be some areas where flood water is present until it can naturally drain away.\nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.\nFurther rainfall is forecast this morning.\nWe will continue to monitor the situation and will issue further alerts or warnings if necessary. ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-07-20T09:59:00",
+      "timeRaised": "2025-07-20T09:59:54",
+      "timeSeverityChanged": "2025-07-20T09:59:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/062WAF38Brent",
+      "description": "River Brent from Hendon to Brentford",
+      "eaAreaName": "Hertfordshire and North London",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/062WAF38Brent",
+        "county": "Barnet, Brent, Ealing, Greater London, Hounslow",
+        "notation": "062WAF38Brent",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/062WAF38Brent/polygon",
+        "riverOrSea": "River Brent"
+      },
+      "floodAreaID": "062WAF38Brent",
+      "isTidal": false,
+      "message": "The Flood Alert has now been removed. \nThere may still be some areas where flood water is present until it can naturally drain away.\nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.\nFurther rainfall is forecast this morning.\nWe will continue to monitor the situation and will issue further alerts or warnings if necessary. \n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-07-20T10:02:00",
+      "timeRaised": "2025-07-20T10:02:16",
+      "timeSeverityChanged": "2025-07-20T10:02:00"
+    }
+  ]
 }
