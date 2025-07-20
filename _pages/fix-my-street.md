@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Series of potholes outside medical centre, 20th July :- [7904224](https://www.fixmystreet.com/report/7904224)
+- How can this be on public pathway?, 20th July :- [7904194](https://www.fixmystreet.com/report/7904194)
 - Innsworth lane and Cheltenham road east cross road, pedestrian crossing button stuck near church, 20th July :- [7903989](https://www.fixmystreet.com/report/7903989)
 - Why has the bin still not been replaced, 19th July :- [7903513](https://www.fixmystreet.com/report/7903513)
 - Cobbled area that has been “fixed’ numerous times has failed again and could cause damage to car tyre or even throw someone of their motorcycle, 19th July :- [7903182](https://www.fixmystreet.com/report/7903182)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Pothole in the road, 18th July :- [7900704](https://www.fixmystreet.com/report/7900704)
 - Been here for weeks if not months. Never moved, never been used., 18th July :- [7900652](https://www.fixmystreet.com/report/7900652)
 - Large pothole on Hales Road at junction with The Grove, 18th July :- [7900179](https://www.fixmystreet.com/report/7900179)
-- Pothole in front of shed and next to Water meter., 18th July :- [7899913](https://www.fixmystreet.com/report/7899913)
-- Very worn road markings, 18th July :- [7899885](https://www.fixmystreet.com/report/7899885)
 
 <!-- fix_marker ends -->
