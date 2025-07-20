@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Rusty nails postpone reopening of car boot sale ([4 hours ago](https://www.bbc.com/news/articles/cm207pe9xx9o))
+- Rusty nails postpone reopening of car boot sale ([5 hours ago](https://www.bbc.com/news/articles/cm207pe9xx9o))
 - Treasured music memorabilia wanted for exhibition ([7 hours ago](https://www.bbc.com/news/articles/ce83kdkmrymo))
 - Headlines: 'Coach crash' and 'Syd Lawrence funeral' ([7 hours ago](https://www.bbc.com/news/articles/crl0wl25188o))
-- Talks under way about future of ex-pub building ([16 hours ago](https://www.bbc.com/news/articles/cm2zq6g8497o))
-- Red Arrows team using vegetable oil to fly ([22 hours ago](https://www.bbc.com/news/articles/czeyzdp60zjo))
+- Talks under way about future of ex-pub building ([17 hours ago](https://www.bbc.com/news/articles/cm2zq6g8497o))
+- Red Arrows team using vegetable oil to fly ([23 hours ago](https://www.bbc.com/news/articles/czeyzdp60zjo))
 - Gloucestershire in Pictures: RIAT and 2000trees ([1 days ago](https://www.bbc.com/news/articles/crmvp9rxg7yo))
 - Giant three-metre Orpheus puppet goes on display ([1 days ago](https://www.bbc.com/news/articles/c8rp232x0zvo))
 - Hundreds attend funeral of David 'Syd' Lawrence ([1 days ago](https://www.bbc.com/news/articles/cy8kmg21r93o))
@@ -32,7 +32,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Key road near Cheltenham station to closed in one direction ([2 days ago](https://gloucesternewscentre.co.uk/key-road-near-cheltenham-station-to-closed-in-one-direction/))
 - Decision on David Lloyd club amid odour fears from landfill site ([2 days ago](https://gloucesternewscentre.co.uk/decision-on-david-lloyd-club-amid-odour-fears-from-landfill-site/))
 - 17 Cheltenham projects awarded over £136k from Neighbourhood Fund ([2 days ago](https://gloucesternewscentre.co.uk/17-cheltenham-projects-awarded-over-136k-from-neighbourhood-fund/))
-- 17 Cheltenham projects awarded over £136k from Neighbourhood Fund ([2 days ago](https://www.cheltenham.gov.uk/news/article/3036/17_cheltenham_projects_awarded_over_136k_from_neighbourhood_fund))
+- 17 Cheltenham projects awarded over £136k from Neighbourhood Fund ([3 days ago](https://www.cheltenham.gov.uk/news/article/3036/17_cheltenham_projects_awarded_over_136k_from_neighbourhood_fund))
 - Glider crashed after pilot 'mixed up the controls' ([3 days ago](https://www.bbc.com/news/articles/cql01lx5glpo))
 - Lidl submits plans for Tewkesbury branch ([3 days ago](https://www.bbc.com/news/articles/cy8k2lg7j9lo))
 - Independent survey launches to capture resident priorities ([3 days ago](https://www.cheltenham.gov.uk/news/article/3035/independent_survey_launches_to_capture_resident_priorities))
