@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Innsworth lane and Cheltenham road east cross road, pedestrian crossing button stuck near church, 20th July :- [7903989](https://www.fixmystreet.com/report/7903989)
 - Why has the bin still not been replaced, 19th July :- [7903513](https://www.fixmystreet.com/report/7903513)
 - Cobbled area that has been “fixed’ numerous times has failed again and could cause damage to car tyre or even throw someone of their motorcycle, 19th July :- [7903182](https://www.fixmystreet.com/report/7903182)
 - Glass all over the road, 19th July :- [7902633](https://www.fixmystreet.com/report/7902633)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Large pothole on Hales Road at junction with The Grove, 18th July :- [7900179](https://www.fixmystreet.com/report/7900179)
 - Pothole in front of shed and next to Water meter., 18th July :- [7899913](https://www.fixmystreet.com/report/7899913)
 - Very worn road markings, 18th July :- [7899885](https://www.fixmystreet.com/report/7899885)
-- 2x potholes, 18th July :- [7899664](https://www.fixmystreet.com/report/7899664)
 
 <!-- fix_marker ends -->
