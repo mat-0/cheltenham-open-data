@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- There is a pot hole which is dangerous on this stretch of road you claimed it is fixed but it is not, 20th July :- [7906363](https://www.fixmystreet.com/report/7906363)
+- Mattress and bed frame on pavement Larput Place, 20th July :- [7906313](https://www.fixmystreet.com/report/7906313)
+- Large upholstered seat cushion left near bus stop after Swan Inn in Coombe Hill for Tewkesbury, 20th July :- [7906183](https://www.fixmystreet.com/report/7906183)
+- Obstruction on public bridleway caused by Claydon Solar farm development, 20th July :- [7906182](https://www.fixmystreet.com/report/7906182)
+- Trees overhanging, 20th July :- [7906137](https://www.fixmystreet.com/report/7906137)
 - Double mattress dumped, 20th July :- [7905822](https://www.fixmystreet.com/report/7905822)
 - Supermarket trolley and e scooter chucked in river, 20th July :- [7905799](https://www.fixmystreet.com/report/7905799)
 - QUESTION : Will there be a second 'No Entry' sign at the new bust stop ?, 20th July :- [7905591](https://www.fixmystreet.com/report/7905591)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Bridge vdangerous, 19th July :- [7902583](https://www.fixmystreet.com/report/7902583)
 - Flytipped sofa and other furniture New Street, 19th July :- [7902549](https://www.fixmystreet.com/report/7902549)
 - Flytipped mattress and soft furnishings St George’s Place, 19th July :- [7902538](https://www.fixmystreet.com/report/7902538)
-- Volunteer litter pick bags ready for collection (19/07/25), 19th July :- [7902498](https://www.fixmystreet.com/report/7902498)
-- Multiple blocked drains, 19th July :- [7901828](https://www.fixmystreet.com/report/7901828)
-- ASH trees on Glenfall Way, 19th July :- [7901763](https://www.fixmystreet.com/report/7901763)
-- Yet more fly tipping here!!!!, 19th July :- [7901445](https://www.fixmystreet.com/report/7901445)
-- Old broken clothes airer on path, 19th July :- [7901425](https://www.fixmystreet.com/report/7901425)
 
 <!-- fix_marker ends -->
