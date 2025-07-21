@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- A large area of broken surface has been sprayed over with a tar sealer - the uneven surface still exists. We drive 4x4 vehicles and it shakes them to bits - goodness knows what is is like hitting them in a Fiat 500!, 21st July :- [7907139](https://www.fixmystreet.com/report/7907139)
 - Confusing No Entry sign (new), 20th July :- [7906842](https://www.fixmystreet.com/report/7906842)
 - Large tree overhanging property and causing damage, 20th July :- [7906493](https://www.fixmystreet.com/report/7906493)
 - Gully is full of silt and does not drain rainwater so requires clearing. The photos also show the road surface has broken up around gully and pothole forming so road surface also needs repair., 20th July :- [7906491](https://www.fixmystreet.com/report/7906491)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Cobbled area that has been “fixed’ numerous times has failed again and could cause damage to car tyre or even throw someone of their motorcycle, 19th July :- [7903182](https://www.fixmystreet.com/report/7903182)
 - Glass all over the road, 19th July :- [7902633](https://www.fixmystreet.com/report/7902633)
 - Overgrown, 19th July :- [7902594](https://www.fixmystreet.com/report/7902594)
-- Overgrown and impassable, 19th July :- [7902587](https://www.fixmystreet.com/report/7902587)
 
 <!-- fix_marker ends -->
