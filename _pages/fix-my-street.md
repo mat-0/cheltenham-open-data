@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Repaired curbstone poor repair, 21st July :- [7911911](https://www.fixmystreet.com/report/7911911)
 - Flytipped Furniture, 21st July :- [7911707](https://www.fixmystreet.com/report/7911707)
 - Stile has been damaged; very tricky and dangerous to get over ii, 21st July :- [7911699](https://www.fixmystreet.com/report/7911699)
 - Split bags, not collected, 21st July :- [7911629](https://www.fixmystreet.com/report/7911629)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Have replaced the damaged sign as requested but have put the wrong name, 21st July :- [7910191](https://www.fixmystreet.com/report/7910191)
 - Obstruction caused by wall/building problem, 21st July :- [7910126](https://www.fixmystreet.com/report/7910126)
 - Fly tipping, 21st July :- [7909955](https://www.fixmystreet.com/report/7909955)
-- Entrance to Pickering Close, 21st July :- [7909858](https://www.fixmystreet.com/report/7909858)
 
 <!-- fix_marker ends -->
