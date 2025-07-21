@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole on road size of large dinner plate, 21st July :- [7907454](https://www.fixmystreet.com/report/7907454)
+- Painted 'Walking' logo needed at crossing in Cheltenham, 21st July :- [7907337](https://www.fixmystreet.com/report/7907337)
 - A large area of broken surface has been sprayed over with a tar sealer - the uneven surface still exists. We drive 4x4 vehicles and it shakes them to bits - goodness knows what is is like hitting them in a Fiat 500!, 21st July :- [7907139](https://www.fixmystreet.com/report/7907139)
 - Confusing No Entry sign (new), 20th July :- [7906842](https://www.fixmystreet.com/report/7906842)
 - Large tree overhanging property and causing damage, 20th July :- [7906493](https://www.fixmystreet.com/report/7906493)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Innsworth lane and Cheltenham road east cross road, pedestrian crossing button stuck near church, 20th July :- [7903989](https://www.fixmystreet.com/report/7903989)
 - Why has the bin still not been replaced, 19th July :- [7903513](https://www.fixmystreet.com/report/7903513)
 - Cobbled area that has been “fixed’ numerous times has failed again and could cause damage to car tyre or even throw someone of their motorcycle, 19th July :- [7903182](https://www.fixmystreet.com/report/7903182)
-- Glass all over the road, 19th July :- [7902633](https://www.fixmystreet.com/report/7902633)
-- Overgrown, 19th July :- [7902594](https://www.fixmystreet.com/report/7902594)
 
 <!-- fix_marker ends -->
