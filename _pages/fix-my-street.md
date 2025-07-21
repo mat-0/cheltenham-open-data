@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Overgrown Brambles and nettles blocking footpath, 21st July :- [7912798](https://www.fixmystreet.com/report/7912798)
 - Subsidence in path near school gate, 21st July :- [7912580](https://www.fixmystreet.com/report/7912580)
 - Repaired curbstone poor repair, 21st July :- [7911911](https://www.fixmystreet.com/report/7911911)
 - Flytipped Furniture, 21st July :- [7911707](https://www.fixmystreet.com/report/7911707)
@@ -20,14 +21,13 @@ permalink: /fix-my-street
 - TMC - Defects - Kerbs and Channels problem, 21st July :- [7911194](https://www.fixmystreet.com/report/7911194)
 - TMC - Defects - Kerbs and Channels problem, 21st July :- [7911193](https://www.fixmystreet.com/report/7911193)
 - TMC - Defects - Kerbs and Channels problem, 21st July :- [7911192](https://www.fixmystreet.com/report/7911192)
-- TMC - Defects - Other FW6  Surface problem, 21st July :- [7911185](https://www.fixmystreet.com/report/7911185)
 - TMC - Defects - Other FW6  Surface problem, 21st July :- [7911187](https://www.fixmystreet.com/report/7911187)
+- TMC - Defects - Other FW6  Surface problem, 21st July :- [7911185](https://www.fixmystreet.com/report/7911185)
 - TMC - Defects - Other FW6  Surface problem, 21st July :- [7911186](https://www.fixmystreet.com/report/7911186)
 - Hole in tarmac with nothing below, 21st July :- [7910787](https://www.fixmystreet.com/report/7910787)
 - TMC - Defects - Vegetation problem, 21st July :- [7910996](https://www.fixmystreet.com/report/7910996)
 - TMC - Defects - Vegetation problem, 21st July :- [7910991](https://www.fixmystreet.com/report/7910991)
 - TMC - Defects -other CW10 problem, 21st July :- [7910987](https://www.fixmystreet.com/report/7910987)
 - Have replaced the damaged sign as requested but have put the wrong name, 21st July :- [7910191](https://www.fixmystreet.com/report/7910191)
-- Obstruction caused by wall/building problem, 21st July :- [7910126](https://www.fixmystreet.com/report/7910126)
 
 <!-- fix_marker ends -->
