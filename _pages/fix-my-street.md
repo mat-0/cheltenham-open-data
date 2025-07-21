@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Subsidence in path near school gate, 21st July :- [7912580](https://www.fixmystreet.com/report/7912580)
 - Repaired curbstone poor repair, 21st July :- [7911911](https://www.fixmystreet.com/report/7911911)
 - Flytipped Furniture, 21st July :- [7911707](https://www.fixmystreet.com/report/7911707)
 - Stile has been damaged; very tricky and dangerous to get over ii, 21st July :- [7911699](https://www.fixmystreet.com/report/7911699)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -other CW10 problem, 21st July :- [7910987](https://www.fixmystreet.com/report/7910987)
 - Have replaced the damaged sign as requested but have put the wrong name, 21st July :- [7910191](https://www.fixmystreet.com/report/7910191)
 - Obstruction caused by wall/building problem, 21st July :- [7910126](https://www.fixmystreet.com/report/7910126)
-- Fly tipping, 21st July :- [7909955](https://www.fixmystreet.com/report/7909955)
 
 <!-- fix_marker ends -->
