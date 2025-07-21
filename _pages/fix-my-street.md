@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The Bin was not collected from lat two months., 21st July :- [7913334](https://www.fixmystreet.com/report/7913334)
+- Streetlights in Lypiatt Street are out, 21st July :- [7913239](https://www.fixmystreet.com/report/7913239)
 - Barrier needs weeding. tall weeds growing through, 21st July :- [7913117](https://www.fixmystreet.com/report/7913117)
 - Grafitti on Upper Bath street wall, 21st July :- [7912911](https://www.fixmystreet.com/report/7912911)
 - Cars parking on corner of motershead drive - gray close junction, 21st July :- [7912858](https://www.fixmystreet.com/report/7912858)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 21st July :- [7911186](https://www.fixmystreet.com/report/7911186)
 - TMC - Defects - Other FW6  Surface problem, 21st July :- [7911185](https://www.fixmystreet.com/report/7911185)
 - TMC - Defects - Other FW6  Surface problem, 21st July :- [7911187](https://www.fixmystreet.com/report/7911187)
-- Hole in tarmac with nothing below, 21st July :- [7910787](https://www.fixmystreet.com/report/7910787)
-- TMC - Defects - Vegetation problem, 21st July :- [7910996](https://www.fixmystreet.com/report/7910996)
 
 <!-- fix_marker ends -->

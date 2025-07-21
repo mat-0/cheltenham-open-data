@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Monday, 21 July 2025
 
-- The average temperature today is 16.94˚C,
-- With highs of 16.94˚C and lows of 16.94˚C,
-- It may feel like 16.91˚C with scattered clouds
-- The wind speed is 2.77m/s and visibility is 10000m
-- The pressure is 1005hPa and humidity is 85%
+- The average temperature today is 16.43˚C,
+- With highs of 16.43˚C and lows of 16.43˚C,
+- It may feel like 16.37˚C with scattered clouds
+- The wind speed is 2.79m/s and visibility is 10000m
+- The pressure is 1005hPa and humidity is 86%
 - The sun will rise at 04:14 and set at 20:14
 
 <!-- weather_marker ends -->
