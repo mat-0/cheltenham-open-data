@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- This is the pathway down the side of badhams in sixways. Leading from the carpark to the London road. Liquid which looks like sewage is coming out of manhole. It's getting worse., 21st July :- [7907768](https://www.fixmystreet.com/report/7907768)
+- Whole estate looks like a third world country, 21st July :- [7907523](https://www.fixmystreet.com/report/7907523)
 - Pothole on road size of large dinner plate, 21st July :- [7907454](https://www.fixmystreet.com/report/7907454)
 - Painted 'Walking' logo needed at crossing in Cheltenham, 21st July :- [7907337](https://www.fixmystreet.com/report/7907337)
 - A large area of broken surface has been sprayed over with a tar sealer - the uneven surface still exists. We drive 4x4 vehicles and it shakes them to bits - goodness knows what is is like hitting them in a Fiat 500!, 21st July :- [7907139](https://www.fixmystreet.com/report/7907139)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Series of potholes outside medical centre, 20th July :- [7904224](https://www.fixmystreet.com/report/7904224)
 - How can this be on public pathway?, 20th July :- [7904194](https://www.fixmystreet.com/report/7904194)
 - Innsworth lane and Cheltenham road east cross road, pedestrian crossing button stuck near church, 20th July :- [7903989](https://www.fixmystreet.com/report/7903989)
-- Why has the bin still not been replaced, 19th July :- [7903513](https://www.fixmystreet.com/report/7903513)
-- Cobbled area that has been “fixed’ numerous times has failed again and could cause damage to car tyre or even throw someone of their motorcycle, 19th July :- [7903182](https://www.fixmystreet.com/report/7903182)
 
 <!-- fix_marker ends -->
