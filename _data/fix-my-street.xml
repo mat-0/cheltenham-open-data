@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -12,6 +12,24 @@
 <description>The latest local problems reported by users</description>
 <language>en-gb</language>
 
+<item>
+<title>TMC - Defects -FW6 Potholes problem, 21st July</title>
+<link>https://www.fixmystreet.com/report/7909078</link>
+<description>Pothole FW 400mm  x 400mm  x 250mm in hours 2hr Emergency &amp;#10;Give and take TM With Temporary FW Closure &amp;#10;Outside 4&amp;#10;Stats required &amp;#10;Make safe only enquiry raised for AHR to attend  &amp;#10;Sink Hole (FW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7909078&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -FW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7909078</guid>
+<pubDate>Mon, 21 Jul 2025 11:21:37 +0100</pubDate>
+<georss:point>51.9499497 -2.05576820000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -other CW6 problem, 21st July</title>
+<link>https://www.fixmystreet.com/report/7908693</link>
+<description>Abrupt Level Difference CW 5m x 600mm  x 50mm &amp;#10;2 way traffic lights TM &amp;#10;Just before Layby &amp;#10;Unmarked due to volume of traffic &amp;#10;Stats required &amp;#10;3m2 patch required (CW6 Abrupt Level Differences )&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7908693&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -other CW6</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7908693</guid>
+<pubDate>Mon, 21 Jul 2025 10:51:49 +0100</pubDate>
+<georss:point>51.948098 -1.99758049999999</georss:point>
+</item>
 <item>
 <title>Pot hole on drain near Iceland fire exit, 21st July</title>
 <link>https://www.fixmystreet.com/report/7908370</link>
@@ -32,15 +50,6 @@
 </item>
 <item>
 <title>TMC - Defects - Kerbs and Channels problem, 21st July</title>
-<link>https://www.fixmystreet.com/report/7908440</link>
-<description>Kerbing Defects CW 1 x 900mm &amp;#10;Give and take TM With Temporary FW Closure &amp;#10;Outside 18&amp;#10;Stats required &amp;#10;Lift and reset (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7908440&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Kerbs and Channels</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7908440</guid>
-<pubDate>Mon, 21 Jul 2025 10:31:31 +0100</pubDate>
-<georss:point>51.9549764 -1.9693338</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Kerbs and Channels problem, 21st July</title>
 <link>https://www.fixmystreet.com/report/7908439</link>
 <description>Kerbing Defects CW 1 x 900mm &amp;#10;Give and take TM With Temporary FW Closure &amp;#10;Outside 18&amp;#10;Stats required &amp;#10;Lift and reset (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7908439&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Kerbs and Channels</category>
@@ -56,6 +65,15 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/7908438</guid>
 <pubDate>Mon, 21 Jul 2025 10:31:31 +0100</pubDate>
 <georss:point>51.9549741 -1.9693162</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Kerbs and Channels problem, 21st July</title>
+<link>https://www.fixmystreet.com/report/7908440</link>
+<description>Kerbing Defects CW 1 x 900mm &amp;#10;Give and take TM With Temporary FW Closure &amp;#10;Outside 18&amp;#10;Stats required &amp;#10;Lift and reset (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7908440&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Kerbs and Channels</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7908440</guid>
+<pubDate>Mon, 21 Jul 2025 10:31:31 +0100</pubDate>
+<georss:point>51.9549764 -1.9693338</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 21st July</title>
@@ -95,6 +113,15 @@
 </item>
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 21st July</title>
+<link>https://www.fixmystreet.com/report/7908431</link>
+<description>F/W crack Patch - 300mm x 7000mm x 30mm - 2.10m2 - Standard TM - 28 Days (FW6 Cracks or Gaps)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7908431&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7908431</guid>
+<pubDate>Mon, 21 Jul 2025 10:21:18 +0100</pubDate>
+<georss:point>51.889545676212 -2.1109322858708</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 21st July</title>
 <link>https://www.fixmystreet.com/report/7908432</link>
 <description>F/W crack Patch - 400mm x 4000mm x 30mm - 1.60m2 - Standard TM - 28 Days (FW6 Cracks or Gaps)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7908432&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Other FW6  Surface</category>
@@ -112,13 +139,13 @@
 <georss:point>51.8894343470061 -2.11092229767907</georss:point>
 </item>
 <item>
-<title>TMC - Defects - Other FW6  Surface problem, 21st July</title>
-<link>https://www.fixmystreet.com/report/7908431</link>
-<description>F/W crack Patch - 300mm x 7000mm x 30mm - 2.10m2 - Standard TM - 28 Days (FW6 Cracks or Gaps)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7908431&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7908431</guid>
-<pubDate>Mon, 21 Jul 2025 10:21:18 +0100</pubDate>
-<georss:point>51.889545676212 -2.1109322858708</georss:point>
+<title>TMC - Defects -CW10 Potholes problem, 21st July</title>
+<link>https://www.fixmystreet.com/report/7908375</link>
+<description>C/W Pothole - 400mm x 1100mm x 40mm - 0.44m2 - Stop &amp;amp; Go- 28 days (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7908375&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7908375</guid>
+<pubDate>Mon, 21 Jul 2025 09:36:42 +0100</pubDate>
+<georss:point>51.8893685523046 -2.11591949353318</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW10 Potholes problem, 21st July</title>
@@ -128,15 +155,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/7908374</guid>
 <pubDate>Mon, 21 Jul 2025 09:36:42 +0100</pubDate>
 <georss:point>51.8904042223737 -2.11358882538887</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW10 Potholes problem, 21st July</title>
-<link>https://www.fixmystreet.com/report/7908375</link>
-<description>C/W Pothole - 400mm x 1100mm x 40mm - 0.44m2 - Stop &amp;amp; Go- 28 days (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7908375&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW10 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7908375</guid>
-<pubDate>Mon, 21 Jul 2025 09:36:42 +0100</pubDate>
-<georss:point>51.8893685523046 -2.11591949353318</georss:point>
 </item>
 <item>
 <title>This is the pathway down the side of badhams in sixways. Leading from the carpark to the London road. Liquid which looks like sewage is coming out of manhole. It&#39;s getting worse., 21st July</title>
@@ -173,24 +191,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/7907337</guid>
 <pubDate>Mon, 21 Jul 2025 08:28:53 +0100</pubDate>
 <georss:point>51.894541 -2.083245</georss:point>
-</item>
-<item>
-<title>A large area of broken surface has been sprayed over with a tar sealer - the uneven surface still exists. We drive 4x4 vehicles and it shakes them to bits - goodness knows what is is like hitting them in a Fiat 500!, 21st July</title>
-<link>https://www.fixmystreet.com/report/7907139</link>
-<description>Section of road outside no 59 Churchdown Lane&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/7907139.0.jpeg?b803edd7&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Churchdown Lane, Hucclecote, Gloucester&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7907139&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7907139</guid>
-<pubDate>Mon, 21 Jul 2025 07:38:49 +0100</pubDate>
-<georss:point>51.857548 -2.180336</georss:point>
-</item>
-<item>
-<title>Confusing No Entry sign (new), 20th July</title>
-<link>https://www.fixmystreet.com/report/7906842</link>
-<description>At the junction of Pirton Road and Cheltenham Road East. As you approach the traffic lights on Pirton Road from Churchdown you see a new No Entry sign on the right hand side. It is not clear whether this means you can’t turn right onto Cheltenham Road East or is only for the new slip road that seems to have been installed (assuming this is what it is???). I think you may need to make it clear which road this applies to!&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/7906842.0.jpeg?d4a1ac17&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Pirton Lane, Churchdown, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7906842&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Sign plate is misaligned (Non illuminating sign)</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7906842</guid>
-<pubDate>Sun, 20 Jul 2025 23:02:24 +0100</pubDate>
-<georss:point>51.885046 -2.190699</georss:point>
 </item>
 </channel>
 </rss>
