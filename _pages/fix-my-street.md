@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- National speed limit signs stolen, 22nd July :- [7913530](https://www.fixmystreet.com/report/7913530)
 - The Bin was not collected from lat two months., 21st July :- [7913334](https://www.fixmystreet.com/report/7913334)
 - Streetlights in Lypiatt Street are out, 21st July :- [7913239](https://www.fixmystreet.com/report/7913239)
 - Barrier needs weeding. tall weeds growing through, 21st July :- [7913117](https://www.fixmystreet.com/report/7913117)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Kerbs and Channels problem, 21st July :- [7911193](https://www.fixmystreet.com/report/7911193)
 - TMC - Defects - Other FW6  Surface problem, 21st July :- [7911186](https://www.fixmystreet.com/report/7911186)
 - TMC - Defects - Other FW6  Surface problem, 21st July :- [7911185](https://www.fixmystreet.com/report/7911185)
-- TMC - Defects - Other FW6  Surface problem, 21st July :- [7911187](https://www.fixmystreet.com/report/7911187)
 
 <!-- fix_marker ends -->
