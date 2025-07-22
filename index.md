@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Tuesday, 22 July 2025
 
-- The average temperature today is 21.22˚C,
-- With highs of 21.83˚C and lows of 21.03˚C,
-- It may feel like 21.09˚C with broken clouds
-- The wind speed is 4.62m/s and visibility is 10000m
-- The pressure is 1010hPa and humidity is 65%
+- The average temperature today is 19.8˚C,
+- With highs of 21.66˚C and lows of 18.75˚C,
+- It may feel like 19.77˚C with broken clouds
+- The wind speed is 2.06m/s and visibility is 10000m
+- The pressure is 1011hPa and humidity is 74%
 - The sun will rise at 04:15 and set at 20:13
 
 <!-- weather_marker ends -->
