@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Wednesday, 23 July 2025
 
-- The average temperature today is 16.56˚C,
-- With highs of 17.21˚C and lows of 15.4˚C,
-- It may feel like 16.23˚C with overcast clouds
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1013hPa and humidity is 75%
+- The average temperature today is 15.74˚C,
+- With highs of 16.1˚C and lows of 14.84˚C,
+- It may feel like 15.41˚C with overcast clouds
+- The wind speed is 1.34m/s and visibility is 10000m
+- The pressure is 1013hPa and humidity is 78%
 - The sun will rise at 04:17 and set at 20:12
 
 <!-- weather_marker ends -->
