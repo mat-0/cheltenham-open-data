@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Awful flytipping, 24th July :- [7928129](https://www.fixmystreet.com/report/7928129)
+- Tree roots making path uneven, 24th July :- [7927986](https://www.fixmystreet.com/report/7927986)
+- Flyposting on traffic lights, 24th July :- [7927984](https://www.fixmystreet.com/report/7927984)
+- Pavment is all comming away dangerous trip surface, 24th July :- [7927975](https://www.fixmystreet.com/report/7927975)
+- Path all boroke away and in road needs reserfacing, 24th July :- [7927942](https://www.fixmystreet.com/report/7927942)
 - Dog turds, 24th July :- [7927780](https://www.fixmystreet.com/report/7927780)
 - Large potholes in front on no 11 hall road, 24th July :- [7927710](https://www.fixmystreet.com/report/7927710)
 - Branches preventing access for pedestrians on footpath, branches entwined with telephone cable, branches breaking off and hitting the car on our drive. Tree branches look diseased., 24th July :- [7927683](https://www.fixmystreet.com/report/7927683)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Broken grating surrounding tree, 24th July :- [7925903](https://www.fixmystreet.com/report/7925903)
 - Between 23+25 around BT manhole, 24th July :- [7925734](https://www.fixmystreet.com/report/7925734)
 - Trees Massively Obstructing Pavement, 24th July :- [7925513](https://www.fixmystreet.com/report/7925513)
-- Builders cars and vans blocking pavement daily, 24th July :- [7925450](https://www.fixmystreet.com/report/7925450)
-- TMC - Defects -FW6 Potholes problem, 24th July :- [7925575](https://www.fixmystreet.com/report/7925575)
-- TMC - Defects - Vegetation problem, 24th July :- [7925354](https://www.fixmystreet.com/report/7925354)
-- Weeds need clearing they are growing in checked along the road, 24th July :- [7925240](https://www.fixmystreet.com/report/7925240)
-- Removal of weeds / debris from gutter, 24th July :- [7924786](https://www.fixmystreet.com/report/7924786)
 
 <!-- fix_marker ends -->
