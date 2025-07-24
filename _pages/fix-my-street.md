@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fridge and chest of drawers have been dumped, 24th July :- [7926999](https://www.fixmystreet.com/report/7926999)
+- Potholes of various sizes littler the road to the Vinyard farm, 24th July :- [7926696](https://www.fixmystreet.com/report/7926696)
 - Tree Overhanging Property and branches fallen on car, 24th July :- [7926469](https://www.fixmystreet.com/report/7926469)
 - Tree is damaged problem, 24th July :- [7926417](https://www.fixmystreet.com/report/7926417)
 - Tivoli street lighting out, 24th July :- [7926319](https://www.fixmystreet.com/report/7926319)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Road signs faded and unreadable, 23rd July :- [7924055](https://www.fixmystreet.com/report/7924055)
 - Dumped shopping trolleys, 23rd July :- [7923776](https://www.fixmystreet.com/report/7923776)
 - Aggressive cows, 23rd July :- [7923623](https://www.fixmystreet.com/report/7923623)
-- Litter by play area, 23rd July :- [7923174](https://www.fixmystreet.com/report/7923174)
-- No cycling sign partly obscured by foliage, 23rd July :- [7922483](https://www.fixmystreet.com/report/7922483)
 
 <!-- fix_marker ends -->
