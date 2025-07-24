@@ -14,10 +14,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 <!-- news_marker starts -->
 - Council leader 'really disappointed' by hosepipe ban ([11 hours ago](https://www.bbc.com/news/articles/c7842vg3g5mo))
 - Man assaulted by two women in Cheltenham ([12 hours ago](https://gloucesternewscentre.co.uk/man-assaulted-by-two-women-in-cheltenham/))
-- Man raped woman with learning disabilities ([13 hours ago](https://www.bbc.com/news/articles/cly8exye0qpo))
-- Forest Green Rovers' all vegan kit splits opinions ([15 hours ago](https://www.bbc.com/news/articles/cj61l252yz9o))
+- Man raped woman with learning disabilities ([14 hours ago](https://www.bbc.com/news/articles/cly8exye0qpo))
+- Forest Green Rovers' all vegan kit splits opinions ([16 hours ago](https://www.bbc.com/news/articles/cj61l252yz9o))
 - 'Council home sell-off' and 'lakes drying up' ([19 hours ago](https://www.bbc.com/news/articles/cvgw2qxr962o))
-- Prem season to open with first Thursday night game ([20 hours ago](https://www.bbc.com/sport/rugby-union/articles/c3r959e1d5no))
+- Prem season to open with first Thursday night game ([21 hours ago](https://www.bbc.com/sport/rugby-union/articles/c3r959e1d5no))
 - Warning to owners after dog dies from adder bite ([23 hours ago](https://www.bbc.com/articles/cm2z38p5rpeo))
 - Cavers unearth largest UK system found in a decade ([23 hours ago](https://www.bbc.com/news/articles/cz6g4eg41wlo))
 - Firefighters helping ambulance teams to be replaced ([1 days ago](https://www.bbc.com/news/articles/cj0ml0pym37o))
