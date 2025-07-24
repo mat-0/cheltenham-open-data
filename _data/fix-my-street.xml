@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -104,15 +104,6 @@
 </item>
 <item>
 <title>TMC - Defects -CW10 Potholes problem, 23rd July</title>
-<link>https://www.fixmystreet.com/report/7922383</link>
-<description>C/W pothole - 400mm x 2000mm x 40mm - 0.80m2 - lane closure due to junction - 28 days (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7922383&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW10 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7922383</guid>
-<pubDate>Wed, 23 Jul 2025 15:14:53 +0100</pubDate>
-<georss:point>51.8798304732704 -2.07848414579505</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW10 Potholes problem, 23rd July</title>
 <link>https://www.fixmystreet.com/report/7922385</link>
 <description>C/W pothole - 500mm x 2700mm x 40mm - 1.35m2 - lane closure due to junction - 28 days (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7922385&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW10 Potholes</category>
@@ -122,21 +113,30 @@
 </item>
 <item>
 <title>TMC - Defects -CW10 Potholes problem, 23rd July</title>
-<link>https://www.fixmystreet.com/report/7922382</link>
-<description>C/W pothole - 400mm x 2500mm x 40mm - 1m2 - lane closure due to junction - 28 days (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7922382&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW10 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7922382</guid>
-<pubDate>Wed, 23 Jul 2025 15:14:53 +0100</pubDate>
-<georss:point>51.8797427993616 -2.07856718260963</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW10 Potholes problem, 23rd July</title>
 <link>https://www.fixmystreet.com/report/7922380</link>
 <description>C/W pothole - 400mm x 800mm x 40mm - 0.32m2 - lane closure due to junction - 28 days (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7922380&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW10 Potholes</category>
 <guid isPermaLink="false">https://www.fixmystreet.com/report/7922380</guid>
 <pubDate>Wed, 23 Jul 2025 15:14:53 +0100</pubDate>
 <georss:point>51.8797427993616 -2.07856718260962</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 23rd July</title>
+<link>https://www.fixmystreet.com/report/7922383</link>
+<description>C/W pothole - 400mm x 2000mm x 40mm - 0.80m2 - lane closure due to junction - 28 days (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7922383&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7922383</guid>
+<pubDate>Wed, 23 Jul 2025 15:14:53 +0100</pubDate>
+<georss:point>51.8798304732704 -2.07848414579505</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 23rd July</title>
+<link>https://www.fixmystreet.com/report/7922382</link>
+<description>C/W pothole - 400mm x 2500mm x 40mm - 1m2 - lane closure due to junction - 28 days (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7922382&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7922382</guid>
+<pubDate>Wed, 23 Jul 2025 15:14:53 +0100</pubDate>
+<georss:point>51.8797427993616 -2.07856718260963</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Vegetation problem, 23rd July</title>
