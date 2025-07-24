@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large pot hole road eroded away, 24th July :- [7928790](https://www.fixmystreet.com/report/7928790)
+- Damaged road surface on Gravel Walk at entrance to School Lane. Extra vehicles now using this lane are creating problems., 24th July :- [7928552](https://www.fixmystreet.com/report/7928552)
 - Awful flytipping, 24th July :- [7928129](https://www.fixmystreet.com/report/7928129)
 - Tree roots making path uneven, 24th July :- [7927986](https://www.fixmystreet.com/report/7927986)
 - Flyposting on traffic lights, 24th July :- [7927984](https://www.fixmystreet.com/report/7927984)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Tree is damaged problem, 24th July :- [7926417](https://www.fixmystreet.com/report/7926417)
 - Tivoli street lighting out, 24th July :- [7926319](https://www.fixmystreet.com/report/7926319)
 - Broken grating surrounding tree, 24th July :- [7925903](https://www.fixmystreet.com/report/7925903)
-- Between 23+25 around BT manhole, 24th July :- [7925734](https://www.fixmystreet.com/report/7925734)
-- Trees Massively Obstructing Pavement, 24th July :- [7925513](https://www.fixmystreet.com/report/7925513)
 
 <!-- fix_marker ends -->
