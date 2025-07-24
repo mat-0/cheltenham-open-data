@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree Overhanging Property and branches fallen on car, 24th July :- [7926469](https://www.fixmystreet.com/report/7926469)
+- Tree is damaged problem, 24th July :- [7926417](https://www.fixmystreet.com/report/7926417)
 - Tivoli street lighting out, 24th July :- [7926319](https://www.fixmystreet.com/report/7926319)
 - Broken grating surrounding tree, 24th July :- [7925903](https://www.fixmystreet.com/report/7925903)
 - Between 23+25 around BT manhole, 24th July :- [7925734](https://www.fixmystreet.com/report/7925734)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Aggressive cows, 23rd July :- [7923623](https://www.fixmystreet.com/report/7923623)
 - Litter by play area, 23rd July :- [7923174](https://www.fixmystreet.com/report/7923174)
 - No cycling sign partly obscured by foliage, 23rd July :- [7922483](https://www.fixmystreet.com/report/7922483)
-- TMC - Defects -CW10 Potholes problem, 23rd July :- [7922382](https://www.fixmystreet.com/report/7922382)
-- TMC - Defects -CW10 Potholes problem, 23rd July :- [7922385](https://www.fixmystreet.com/report/7922385)
 
 <!-- fix_marker ends -->
