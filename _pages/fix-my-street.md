@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dog turds, 24th July :- [7927780](https://www.fixmystreet.com/report/7927780)
+- Large potholes in front on no 11 hall road, 24th July :- [7927710](https://www.fixmystreet.com/report/7927710)
+- Branches preventing access for pedestrians on footpath, branches entwined with telephone cable, branches breaking off and hitting the car on our drive. Tree branches look diseased., 24th July :- [7927683](https://www.fixmystreet.com/report/7927683)
+- Lane marking, 24th July :- [7927633](https://www.fixmystreet.com/report/7927633)
+- Road markings for mini roundabout barely noticeable, 24th July :- [7927621](https://www.fixmystreet.com/report/7927621)
 - Skip placed in turning circle/cul de sac with no lighting, causing an obstruction., 24th July :- [7927453](https://www.fixmystreet.com/report/7927453)
 - Fly tipping, 24th July :- [7927446](https://www.fixmystreet.com/report/7927446)
 - Fridge and chest of drawers have been dumped, 24th July :- [7926999](https://www.fixmystreet.com/report/7926999)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 24th July :- [7925354](https://www.fixmystreet.com/report/7925354)
 - Weeds need clearing they are growing in checked along the road, 24th July :- [7925240](https://www.fixmystreet.com/report/7925240)
 - Removal of weeds / debris from gutter, 24th July :- [7924786](https://www.fixmystreet.com/report/7924786)
-- Flytipping, 24th July :- [7924559](https://www.fixmystreet.com/report/7924559)
-- Street light out, 24th July :- [7924541](https://www.fixmystreet.com/report/7924541)
-- Amber light not working on trafffic light, 23rd July :- [7924205](https://www.fixmystreet.com/report/7924205)
-- Speed and no large Lorrie’s sign unreadable, 23rd July :- [7924080](https://www.fixmystreet.com/report/7924080)
-- Road signs faded and unreadable, 23rd July :- [7924055](https://www.fixmystreet.com/report/7924055)
 
 <!-- fix_marker ends -->
