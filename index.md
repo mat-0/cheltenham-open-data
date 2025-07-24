@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Thursday, 24 July 2025
 
-- The average temperature today is 22.37˚C,
-- With highs of 22.76˚C and lows of 21.58˚C,
-- It may feel like 22.23˚C with clear sky
-- The wind speed is 1.54m/s and visibility is 10000m
-- The pressure is 1019hPa and humidity is 60%
+- The average temperature today is 21.03˚C,
+- With highs of 21.03˚C and lows of 21.03˚C,
+- It may feel like 21.02˚C with overcast clouds
+- The wind speed is 1.28m/s and visibility is 10000m
+- The pressure is 1019hPa and humidity is 70%
 - The sun will rise at 04:18 and set at 20:10
 
 <!-- weather_marker ends -->
