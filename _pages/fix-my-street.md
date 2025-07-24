@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tivoli street lighting out, 24th July :- [7926319](https://www.fixmystreet.com/report/7926319)
 - Broken grating surrounding tree, 24th July :- [7925903](https://www.fixmystreet.com/report/7925903)
 - Between 23+25 around BT manhole, 24th July :- [7925734](https://www.fixmystreet.com/report/7925734)
 - Trees Massively Obstructing Pavement, 24th July :- [7925513](https://www.fixmystreet.com/report/7925513)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - No cycling sign partly obscured by foliage, 23rd July :- [7922483](https://www.fixmystreet.com/report/7922483)
 - TMC - Defects -CW10 Potholes problem, 23rd July :- [7922382](https://www.fixmystreet.com/report/7922382)
 - TMC - Defects -CW10 Potholes problem, 23rd July :- [7922385](https://www.fixmystreet.com/report/7922385)
-- TMC - Defects -CW10 Potholes problem, 23rd July :- [7922383](https://www.fixmystreet.com/report/7922383)
 
 <!-- fix_marker ends -->
