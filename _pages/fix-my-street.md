@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Skip placed in turning circle/cul de sac with no lighting, causing an obstruction., 24th July :- [7927453](https://www.fixmystreet.com/report/7927453)
+- Fly tipping, 24th July :- [7927446](https://www.fixmystreet.com/report/7927446)
 - Fridge and chest of drawers have been dumped, 24th July :- [7926999](https://www.fixmystreet.com/report/7926999)
 - Potholes of various sizes littler the road to the Vinyard farm, 24th July :- [7926696](https://www.fixmystreet.com/report/7926696)
 - Tree Overhanging Property and branches fallen on car, 24th July :- [7926469](https://www.fixmystreet.com/report/7926469)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Amber light not working on trafffic light, 23rd July :- [7924205](https://www.fixmystreet.com/report/7924205)
 - Speed and no large Lorrie’s sign unreadable, 23rd July :- [7924080](https://www.fixmystreet.com/report/7924080)
 - Road signs faded and unreadable, 23rd July :- [7924055](https://www.fixmystreet.com/report/7924055)
-- Dumped shopping trolleys, 23rd July :- [7923776](https://www.fixmystreet.com/report/7923776)
-- Aggressive cows, 23rd July :- [7923623](https://www.fixmystreet.com/report/7923623)
 
 <!-- fix_marker ends -->
