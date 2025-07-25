@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large pot hole centre of road - still not fixed, 25th July :- [7932280](https://www.fixmystreet.com/report/7932280)
+- TMC - Defects -CW6 Potholes  problem, 25th July :- [7932303](https://www.fixmystreet.com/report/7932303)
+- Tree is damaged problem, 25th July :- [7932080](https://www.fixmystreet.com/report/7932080)
 - TMC - Defects -CW6 Potholes  problem, 25th July :- [7931693](https://www.fixmystreet.com/report/7931693)
 - TMC - Defects - Signs & Street Furniture problem, 25th July :- [7931668](https://www.fixmystreet.com/report/7931668)
 - Uneven, bumpy and dangerous, 25th July :- [7931087](https://www.fixmystreet.com/report/7931087)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Other damage to pavement i.e. cobbles, raised mound/surface problem, 25th July :- [7930104](https://www.fixmystreet.com/report/7930104)
 - TMC - Defects - Covers, Gratings & Frames problem, 25th July :- [7929964](https://www.fixmystreet.com/report/7929964)
 - TMC - Defects - Vegetation problem, 25th July :- [7929963](https://www.fixmystreet.com/report/7929963)
-- TMC - Defects - Vegetation problem, 25th July :- [7929962](https://www.fixmystreet.com/report/7929962)
-- TMC - Defects -FW6 Potholes problem, 25th July :- [7929950](https://www.fixmystreet.com/report/7929950)
-- TMC - Defects - Other FW6  Surface problem, 25th July :- [7929951](https://www.fixmystreet.com/report/7929951)
 
 <!-- fix_marker ends -->
