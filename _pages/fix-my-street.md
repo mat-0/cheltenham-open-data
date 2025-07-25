@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 2 drains on Green Way are blocked, 25th July :- [7932556](https://www.fixmystreet.com/report/7932556)
+- A pothole in road problem, 25th July :- [7932490](https://www.fixmystreet.com/report/7932490)
+- Tree is damaged problem, 25th July :- [7932489](https://www.fixmystreet.com/report/7932489)
+- Tree down, overgrown vegetation, 25th July :- [7932364](https://www.fixmystreet.com/report/7932364)
 - Large pot hole centre of road - still not fixed, 25th July :- [7932280](https://www.fixmystreet.com/report/7932280)
 - TMC - Defects -CW6 Potholes  problem, 25th July :- [7932303](https://www.fixmystreet.com/report/7932303)
 - Tree is damaged problem, 25th July :- [7932080](https://www.fixmystreet.com/report/7932080)
@@ -24,10 +28,6 @@ permalink: /fix-my-street
 - Dog bag with dog mess on street, 25th July :- [7930207](https://www.fixmystreet.com/report/7930207)
 - TMC - Defects - Road Markings problem, 25th July :- [7930131](https://www.fixmystreet.com/report/7930131)
 - TMC - Defects - Vegetation problem, 25th July :- [7930122](https://www.fixmystreet.com/report/7930122)
-- TMC - Defects -other CW6 problem, 25th July :- [7930114](https://www.fixmystreet.com/report/7930114)
 - TMC - Defects -other CW6 problem, 25th July :- [7930115](https://www.fixmystreet.com/report/7930115)
-- Other damage to pavement i.e. cobbles, raised mound/surface problem, 25th July :- [7930104](https://www.fixmystreet.com/report/7930104)
-- TMC - Defects - Covers, Gratings & Frames problem, 25th July :- [7929964](https://www.fixmystreet.com/report/7929964)
-- TMC - Defects - Vegetation problem, 25th July :- [7929963](https://www.fixmystreet.com/report/7929963)
 
 <!-- fix_marker ends -->
