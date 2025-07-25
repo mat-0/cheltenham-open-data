@@ -9,6 +9,16 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Covers, Gratings & Frames problem, 25th July :- [7929964](https://www.fixmystreet.com/report/7929964)
+- TMC - Defects - Vegetation problem, 25th July :- [7929963](https://www.fixmystreet.com/report/7929963)
+- TMC - Defects - Vegetation problem, 25th July :- [7929962](https://www.fixmystreet.com/report/7929962)
+- TMC - Defects - Other FW6  Surface problem, 25th July :- [7929951](https://www.fixmystreet.com/report/7929951)
+- TMC - Defects - Other FW6  Surface problem, 25th July :- [7929960](https://www.fixmystreet.com/report/7929960)
+- TMC - Defects - Other FW6  Surface problem, 25th July :- [7929961](https://www.fixmystreet.com/report/7929961)
+- TMC - Defects - Other FW6  Surface problem, 25th July :- [7929959](https://www.fixmystreet.com/report/7929959)
+- TMC - Defects -FW6 Potholes problem, 25th July :- [7929950](https://www.fixmystreet.com/report/7929950)
+- TMC - Defects -FW6 Potholes problem, 25th July :- [7929955](https://www.fixmystreet.com/report/7929955)
+- TMC - Defects - Other FW6  Surface problem, 25th July :- [7929958](https://www.fixmystreet.com/report/7929958)
 - Blocked drain, 25th July :- [7929638](https://www.fixmystreet.com/report/7929638)
 - Street light not working, 24th July :- [7929002](https://www.fixmystreet.com/report/7929002)
 - Flytipping, 24th July :- [7928940](https://www.fixmystreet.com/report/7928940)
@@ -19,15 +29,5 @@ permalink: /fix-my-street
 - Flyposting on traffic lights, 24th July :- [7927984](https://www.fixmystreet.com/report/7927984)
 - Pavment is all comming away dangerous trip surface, 24th July :- [7927975](https://www.fixmystreet.com/report/7927975)
 - Path all boroke away and in road needs reserfacing, 24th July :- [7927942](https://www.fixmystreet.com/report/7927942)
-- Dog turds, 24th July :- [7927780](https://www.fixmystreet.com/report/7927780)
-- Large potholes in front on no 11 hall road, 24th July :- [7927710](https://www.fixmystreet.com/report/7927710)
-- Branches preventing access for pedestrians on footpath, branches entwined with telephone cable, branches breaking off and hitting the car on our drive. Tree branches look diseased., 24th July :- [7927683](https://www.fixmystreet.com/report/7927683)
-- Lane marking, 24th July :- [7927633](https://www.fixmystreet.com/report/7927633)
-- Road markings for mini roundabout barely noticeable, 24th July :- [7927621](https://www.fixmystreet.com/report/7927621)
-- Skip placed in turning circle/cul de sac with no lighting, causing an obstruction., 24th July :- [7927453](https://www.fixmystreet.com/report/7927453)
-- Fly tipping, 24th July :- [7927446](https://www.fixmystreet.com/report/7927446)
-- Fridge and chest of drawers have been dumped, 24th July :- [7926999](https://www.fixmystreet.com/report/7926999)
-- Potholes of various sizes littler the road to the Vinyard farm, 24th July :- [7926696](https://www.fixmystreet.com/report/7926696)
-- Tree Overhanging Property and branches fallen on car, 24th July :- [7926469](https://www.fixmystreet.com/report/7926469)
 
 <!-- fix_marker ends -->
