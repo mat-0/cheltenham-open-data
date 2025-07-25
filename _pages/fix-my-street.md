@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects -CW6 Potholes  problem, 25th July :- [7931693](https://www.fixmystreet.com/report/7931693)
+- TMC - Defects - Signs & Street Furniture problem, 25th July :- [7931668](https://www.fixmystreet.com/report/7931668)
 - Uneven, bumpy and dangerous, 25th July :- [7931087](https://www.fixmystreet.com/report/7931087)
 - Flytipping, 25th July :- [7931033](https://www.fixmystreet.com/report/7931033)
 - TMC - Defects -CW6 Potholes  problem, 25th July :- [7931239](https://www.fixmystreet.com/report/7931239)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 25th July :- [7929962](https://www.fixmystreet.com/report/7929962)
 - TMC - Defects -FW6 Potholes problem, 25th July :- [7929950](https://www.fixmystreet.com/report/7929950)
 - TMC - Defects - Other FW6  Surface problem, 25th July :- [7929951](https://www.fixmystreet.com/report/7929951)
-- TMC - Defects - Other FW6  Surface problem, 25th July :- [7929958](https://www.fixmystreet.com/report/7929958)
-- TMC - Defects -FW6 Potholes problem, 25th July :- [7929955](https://www.fixmystreet.com/report/7929955)
 
 <!-- fix_marker ends -->
