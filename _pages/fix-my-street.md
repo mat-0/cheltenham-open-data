@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The tree on the pavement outside number 19 Chatsworth drive, GL530AG has very low hanging branches. You have to duck to walk on the pavement. Its branches are also hanging over our property (no 19) and dropping crab apples on our front garden. Can someone cut it so you don’t have to duck under it and so it doesn’t overhang or am I allowed to do it? It is growing at an angle too. The crab apples drop everywhere, making a mess of the pavement and clog the drain on the road. It also attracts a lot of wasps. Could a different tree be planted at all? If not it definitely needs straightening and cutting back., 25th July :- [7932808](https://www.fixmystreet.com/report/7932808)
+- Large area of worn away road surface adjoining our drive on Mill Lane, 25th July :- [7932754](https://www.fixmystreet.com/report/7932754)
 - 2 drains on Green Way are blocked, 25th July :- [7932556](https://www.fixmystreet.com/report/7932556)
 - A pothole in road problem, 25th July :- [7932490](https://www.fixmystreet.com/report/7932490)
 - Tree is damaged problem, 25th July :- [7932489](https://www.fixmystreet.com/report/7932489)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 25th July :- [7930503](https://www.fixmystreet.com/report/7930503)
 - Dog bag with dog mess on street, 25th July :- [7930207](https://www.fixmystreet.com/report/7930207)
 - TMC - Defects - Road Markings problem, 25th July :- [7930131](https://www.fixmystreet.com/report/7930131)
-- TMC - Defects - Vegetation problem, 25th July :- [7930122](https://www.fixmystreet.com/report/7930122)
-- TMC - Defects -other CW6 problem, 25th July :- [7930115](https://www.fixmystreet.com/report/7930115)
 
 <!-- fix_marker ends -->
