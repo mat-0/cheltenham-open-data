@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Friday, 25 July 2025
 
-- The average temperature today is 23.47˚C,
-- With highs of 24.84˚C and lows of 23.15˚C,
-- It may feel like 23.15˚C with clear sky
-- The wind speed is 4.63m/s and visibility is 10000m
-- The pressure is 1017hPa and humidity is 49%
+- The average temperature today is 21.32˚C,
+- With highs of 21.65˚C and lows of 20.94˚C,
+- It may feel like 21.07˚C with clear sky
+- The wind speed is 2.24m/s and visibility is 10000m
+- The pressure is 1018hPa and humidity is 60%
 - The sun will rise at 04:20 and set at 20:09
 
 <!-- weather_marker ends -->

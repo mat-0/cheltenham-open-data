@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Repeated reports !!!, 25th July :- [7934039](https://www.fixmystreet.com/report/7934039)
 - Returning sinkhole in middle crossroads, 25th July :- [7933695](https://www.fixmystreet.com/report/7933695)
 - How difficult is it to collect a sign from the road?, 25th July :- [7933693](https://www.fixmystreet.com/report/7933693)
 - Huge subsidence in the road again, 25th July :- [7933586](https://www.fixmystreet.com/report/7933586)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 25th July :- [7931239](https://www.fixmystreet.com/report/7931239)
 - TMC - Defects -CW6 Potholes  problem, 25th July :- [7931234](https://www.fixmystreet.com/report/7931234)
 - String of potholes/ possible failed repair. Potholes have been growing steadily worse, 25th July :- [7930622](https://www.fixmystreet.com/report/7930622)
-- Tree is damaged problem, 25th July :- [7930495](https://www.fixmystreet.com/report/7930495)
 
 <!-- fix_marker ends -->
