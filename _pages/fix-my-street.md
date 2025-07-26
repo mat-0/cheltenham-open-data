@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large area of grass that has not been cut for sometime, 26th July :- [7934719](https://www.fixmystreet.com/report/7934719)
 - Repeated reports !!!, 25th July :- [7934039](https://www.fixmystreet.com/report/7934039)
 - Returning sinkhole in middle crossroads, 25th July :- [7933695](https://www.fixmystreet.com/report/7933695)
 - How difficult is it to collect a sign from the road?, 25th July :- [7933693](https://www.fixmystreet.com/report/7933693)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Flytipping, 25th July :- [7931033](https://www.fixmystreet.com/report/7931033)
 - TMC - Defects -CW6 Potholes  problem, 25th July :- [7931239](https://www.fixmystreet.com/report/7931239)
 - TMC - Defects -CW6 Potholes  problem, 25th July :- [7931234](https://www.fixmystreet.com/report/7931234)
-- String of potholes/ possible failed repair. Potholes have been growing steadily worse, 25th July :- [7930622](https://www.fixmystreet.com/report/7930622)
 
 <!-- fix_marker ends -->
