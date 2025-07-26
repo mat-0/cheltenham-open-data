@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipping rear 7 Victoria St, 26th July :- [7935254](https://www.fixmystreet.com/report/7935254)
+- Alley full of flytipping, 26th July :- [7935215](https://www.fixmystreet.com/report/7935215)
+- Broken glass, 26th July :- [7935197](https://www.fixmystreet.com/report/7935197)
+- Widespread damage to road surface, 26th July :- [7935068](https://www.fixmystreet.com/report/7935068)
+- Kerb too high, 26th July :- [7935042](https://www.fixmystreet.com/report/7935042)
+- Yellow lines mis-painted, 26th July :- [7935033](https://www.fixmystreet.com/report/7935033)
 - Large area of grass that has not been cut for sometime, 26th July :- [7934719](https://www.fixmystreet.com/report/7934719)
 - Repeated reports !!!, 25th July :- [7934039](https://www.fixmystreet.com/report/7934039)
 - Returning sinkhole in middle crossroads, 25th July :- [7933695](https://www.fixmystreet.com/report/7933695)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Large pot hole centre of road - still not fixed, 25th July :- [7932280](https://www.fixmystreet.com/report/7932280)
 - TMC - Defects -CW6 Potholes  problem, 25th July :- [7932303](https://www.fixmystreet.com/report/7932303)
 - Tree is damaged problem, 25th July :- [7932080](https://www.fixmystreet.com/report/7932080)
-- TMC - Defects -CW6 Potholes  problem, 25th July :- [7931693](https://www.fixmystreet.com/report/7931693)
-- TMC - Defects - Signs & Street Furniture problem, 25th July :- [7931668](https://www.fixmystreet.com/report/7931668)
-- Uneven, bumpy and dangerous, 25th July :- [7931087](https://www.fixmystreet.com/report/7931087)
-- Flytipping, 25th July :- [7931033](https://www.fixmystreet.com/report/7931033)
-- TMC - Defects -CW6 Potholes  problem, 25th July :- [7931239](https://www.fixmystreet.com/report/7931239)
-- TMC - Defects -CW6 Potholes  problem, 25th July :- [7931234](https://www.fixmystreet.com/report/7931234)
 
 <!-- fix_marker ends -->
