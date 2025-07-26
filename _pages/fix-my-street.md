@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole in Dinglewell Rd, 26th July :- [7937270](https://www.fixmystreet.com/report/7937270)
 - Willow tree opposite 11 Porchester road. Tree overhangs road/ footpath. Damaged by school buses and other high vehicle vehicles. Danger to pedestrians and vehicles., 26th July :- [7936967](https://www.fixmystreet.com/report/7936967)
 - Huge hole, 26th July :- [7936799](https://www.fixmystreet.com/report/7936799)
 - Pedestrian zone sign at Cowl Lane almost completely worn out, 26th July :- [7936788](https://www.fixmystreet.com/report/7936788)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Widespread damage to road surface, 26th July :- [7935068](https://www.fixmystreet.com/report/7935068)
 - Kerb too high, 26th July :- [7935042](https://www.fixmystreet.com/report/7935042)
 - Yellow lines mis-painted, 26th July :- [7935033](https://www.fixmystreet.com/report/7935033)
-- Large area of grass that has not been cut for sometime, 26th July :- [7934719](https://www.fixmystreet.com/report/7934719)
 
 <!-- fix_marker ends -->
