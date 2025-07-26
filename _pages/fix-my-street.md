@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Road manhole cover cast iron frame is fractured, 26th July :- [7935360](https://www.fixmystreet.com/report/7935360)
+- Flytipped cot mattress & sofa rear Albert St, 26th July :- [7935273](https://www.fixmystreet.com/report/7935273)
+- Flytipped stool rear 3 Victoria Street, 26th July :- [7935262](https://www.fixmystreet.com/report/7935262)
 - Flytipping rear 7 Victoria St, 26th July :- [7935254](https://www.fixmystreet.com/report/7935254)
 - Alley full of flytipping, 26th July :- [7935215](https://www.fixmystreet.com/report/7935215)
 - Broken glass, 26th July :- [7935197](https://www.fixmystreet.com/report/7935197)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - A pothole in road problem, 25th July :- [7932490](https://www.fixmystreet.com/report/7932490)
 - Tree is damaged problem, 25th July :- [7932489](https://www.fixmystreet.com/report/7932489)
 - Tree down, overgrown vegetation, 25th July :- [7932364](https://www.fixmystreet.com/report/7932364)
-- Large pot hole centre of road - still not fixed, 25th July :- [7932280](https://www.fixmystreet.com/report/7932280)
-- TMC - Defects -CW6 Potholes  problem, 25th July :- [7932303](https://www.fixmystreet.com/report/7932303)
-- Tree is damaged problem, 25th July :- [7932080](https://www.fixmystreet.com/report/7932080)
 
 <!-- fix_marker ends -->
