@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Train disruption expected due to crew shortages ([2 hours ago](https://www.bbc.com/news/articles/cpdjl18dp1go))
-- 'We were sure we wouldn't bump into each other at uni,' say graduating triplets ([9 hours ago](https://www.bbc.com/news/articles/ce83de99y85o))
-- 'Oxygen therapy centre is my lifeline' ([13 hours ago](https://www.bbc.com/news/articles/cwyqy84r22wo))
-- Gloucestershire in Pictures: Going underground ([13 hours ago](https://www.bbc.com/news/articles/cvg12j0n75xo))
+- Train disruption expected due to crew shortages ([3 hours ago](https://www.bbc.com/news/articles/cpdjl18dp1go))
+- 'We were sure we wouldn't bump into each other at uni,' say graduating triplets ([10 hours ago](https://www.bbc.com/news/articles/ce83de99y85o))
+- 'Oxygen therapy centre is my lifeline' ([14 hours ago](https://www.bbc.com/news/articles/cwyqy84r22wo))
+- Gloucestershire in Pictures: Going underground ([14 hours ago](https://www.bbc.com/news/articles/cvg12j0n75xo))
 - Teachers banned for affair on school grounds ([1 days ago](https://www.bbc.com/news/articles/cx2n2wn6p7zo))
 - Drivers warned of closures for 'Missing Link' work ([1 days ago](https://www.bbc.com/news/articles/c0m8dxkjz3eo))
 - Webinars scheduled as thousands have their say on the future of Gloucestershire councils ([1 days ago](https://gloucesternewscentre.co.uk/webinars-scheduled-as-thousands-have-their-say-on-the-future-of-gloucestershire-councils/))
