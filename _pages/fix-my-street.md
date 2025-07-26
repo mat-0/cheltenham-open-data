@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Huge hole, 26th July :- [7936799](https://www.fixmystreet.com/report/7936799)
+- Pedestrian zone sign at Cowl Lane almost completely worn out, 26th July :- [7936788](https://www.fixmystreet.com/report/7936788)
+- Double yellow lines, 26th July :- [7936733](https://www.fixmystreet.com/report/7936733)
 - Street completely out for over a week! Is this a new Policy?, 26th July :- [7936354](https://www.fixmystreet.com/report/7936354)
 - Flyposting on verge, 26th July :- [7936209](https://www.fixmystreet.com/report/7936209)
 - Flyposter on lamppost, 26th July :- [7936197](https://www.fixmystreet.com/report/7936197)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Yellow lines mis-painted, 26th July :- [7935033](https://www.fixmystreet.com/report/7935033)
 - Large area of grass that has not been cut for sometime, 26th July :- [7934719](https://www.fixmystreet.com/report/7934719)
 - Repeated reports !!!, 25th July :- [7934039](https://www.fixmystreet.com/report/7934039)
-- Returning sinkhole in middle crossroads, 25th July :- [7933695](https://www.fixmystreet.com/report/7933695)
-- How difficult is it to collect a sign from the road?, 25th July :- [7933693](https://www.fixmystreet.com/report/7933693)
-- Huge subsidence in the road again, 25th July :- [7933586](https://www.fixmystreet.com/report/7933586)
 
 <!-- fix_marker ends -->
