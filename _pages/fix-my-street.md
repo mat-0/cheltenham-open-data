@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Roadworks sign there for weeks, 26th July :- [7935595](https://www.fixmystreet.com/report/7935595)
 - Road manhole cover cast iron frame is fractured, 26th July :- [7935360](https://www.fixmystreet.com/report/7935360)
 - Flytipped cot mattress & sofa rear Albert St, 26th July :- [7935273](https://www.fixmystreet.com/report/7935273)
 - Flytipped stool rear 3 Victoria Street, 26th July :- [7935262](https://www.fixmystreet.com/report/7935262)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - 2 drains on Green Way are blocked, 25th July :- [7932556](https://www.fixmystreet.com/report/7932556)
 - A pothole in road problem, 25th July :- [7932490](https://www.fixmystreet.com/report/7932490)
 - Tree is damaged problem, 25th July :- [7932489](https://www.fixmystreet.com/report/7932489)
-- Tree down, overgrown vegetation, 25th July :- [7932364](https://www.fixmystreet.com/report/7932364)
 
 <!-- fix_marker ends -->
