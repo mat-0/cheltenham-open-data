@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Loose manhole cover, 27th July :- [7937364](https://www.fixmystreet.com/report/7937364)
 - Pothole in Dinglewell Rd, 26th July :- [7937270](https://www.fixmystreet.com/report/7937270)
 - Willow tree opposite 11 Porchester road. Tree overhangs road/ footpath. Damaged by school buses and other high vehicle vehicles. Danger to pedestrians and vehicles., 26th July :- [7936967](https://www.fixmystreet.com/report/7936967)
 - Huge hole, 26th July :- [7936799](https://www.fixmystreet.com/report/7936799)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Broken glass, 26th July :- [7935197](https://www.fixmystreet.com/report/7935197)
 - Widespread damage to road surface, 26th July :- [7935068](https://www.fixmystreet.com/report/7935068)
 - Kerb too high, 26th July :- [7935042](https://www.fixmystreet.com/report/7935042)
-- Yellow lines mis-painted, 26th July :- [7935033](https://www.fixmystreet.com/report/7935033)
 
 <!-- fix_marker ends -->
