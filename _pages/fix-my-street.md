@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Overgrown, abandoned public grass space, 27th July :- [7938571](https://www.fixmystreet.com/report/7938571)
+- The large public grass area at Byfield Close has not been cut since Tewkesbury Borough Council handed grass cutting responsibility back to Gloucestershire County Council Highways in 2024. The area is overgrown, apparently abandoned by both TBC and GCC and in urgent need of cutting., 27th July :- [7938550](https://www.fixmystreet.com/report/7938550)
 - Road sweeping required, 27th July :- [7938327](https://www.fixmystreet.com/report/7938327)
 - Poor pavement surface, 27th July :- [7938210](https://www.fixmystreet.com/report/7938210)
 - Sunken drain grate., 27th July :- [7938145](https://www.fixmystreet.com/report/7938145)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Looks like pressure has cause the concrete to crumble, 26th July :- [7936098](https://www.fixmystreet.com/report/7936098)
 - Volunteer litter pick bags ready for collection, 26th July :- [7936043](https://www.fixmystreet.com/report/7936043)
 - Roadworks sign there for weeks, 26th July :- [7935595](https://www.fixmystreet.com/report/7935595)
-- Road manhole cover cast iron frame is fractured, 26th July :- [7935360](https://www.fixmystreet.com/report/7935360)
-- Flytipped cot mattress & sofa rear Albert St, 26th July :- [7935273](https://www.fixmystreet.com/report/7935273)
 
 <!-- fix_marker ends -->
