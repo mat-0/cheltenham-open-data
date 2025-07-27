@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Road sweeping required, 27th July :- [7938327](https://www.fixmystreet.com/report/7938327)
+- Poor pavement surface, 27th July :- [7938210](https://www.fixmystreet.com/report/7938210)
+- Sunken drain grate., 27th July :- [7938145](https://www.fixmystreet.com/report/7938145)
 - No through road sign required.Monks Lane., 27th July :- [7938117](https://www.fixmystreet.com/report/7938117)
 - Mattress dumped bead enterprise car rental, 27th July :- [7937995](https://www.fixmystreet.com/report/7937995)
 - Road Closure sign still there, 27th July :- [7937938](https://www.fixmystreet.com/report/7937938)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Roadworks sign there for weeks, 26th July :- [7935595](https://www.fixmystreet.com/report/7935595)
 - Road manhole cover cast iron frame is fractured, 26th July :- [7935360](https://www.fixmystreet.com/report/7935360)
 - Flytipped cot mattress & sofa rear Albert St, 26th July :- [7935273](https://www.fixmystreet.com/report/7935273)
-- Flytipped stool rear 3 Victoria Street, 26th July :- [7935262](https://www.fixmystreet.com/report/7935262)
-- Flytipping rear 7 Victoria St, 26th July :- [7935254](https://www.fixmystreet.com/report/7935254)
-- Alley full of flytipping, 26th July :- [7935215](https://www.fixmystreet.com/report/7935215)
 
 <!-- fix_marker ends -->
