@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Sunday, 27 July 2025
 
-- The average temperature today is 19.53˚C,
-- With highs of 20.29˚C and lows of 18.75˚C,
-- It may feel like 18.97˚C with few clouds
-- The wind speed is 1.54m/s and visibility is 10000m
-- The pressure is 1018hPa and humidity is 55%
+- The average temperature today is 20.54˚C,
+- With highs of 20.75˚C and lows of 20.38˚C,
+- It may feel like 19.96˚C with few clouds
+- The wind speed is 2.57m/s and visibility is 10000m
+- The pressure is 1018hPa and humidity is 50%
 - The sun will rise at 04:23 and set at 20:06
 
 <!-- weather_marker ends -->
