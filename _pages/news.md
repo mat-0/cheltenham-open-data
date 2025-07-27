@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Teen's skin blister disease stops her from walking ([42 minutes ago](https://www.bbc.com/news/articles/cvg8gml8rn2o))
-- 'Hot air balloon excitement' and 'bomb scare' ([44 minutes ago](https://www.bbc.com/news/articles/c8d6vrj1lj4o))
-- Train disruption expected due to crew shortages ([13 hours ago](https://www.bbc.com/news/articles/cpdjl18dp1go))
-- 'We were sure we wouldn't bump into each other at uni,' say graduating triplets ([20 hours ago](https://www.bbc.com/news/articles/ce83de99y85o))
+- Teen's skin blister disease stops her from walking ([1 hours ago](https://www.bbc.com/news/articles/cvg8gml8rn2o))
+- 'Hot air balloon excitement' and 'bomb scare' ([1 hours ago](https://www.bbc.com/news/articles/c8d6vrj1lj4o))
+- Train disruption expected due to crew shortages ([14 hours ago](https://www.bbc.com/news/articles/cpdjl18dp1go))
+- 'We were sure we wouldn't bump into each other at uni,' say graduating triplets ([21 hours ago](https://www.bbc.com/news/articles/ce83de99y85o))
 - 'Oxygen therapy centre is my lifeline' ([1 days ago](https://www.bbc.com/news/articles/cwyqy84r22wo))
 - Gloucestershire in Pictures: Going underground ([1 days ago](https://www.bbc.com/news/articles/cvg12j0n75xo))
 - Teachers banned for affair on school grounds ([1 days ago](https://www.bbc.com/news/articles/cx2n2wn6p7zo))
@@ -61,7 +61,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - CCTV appeal after man assaults another man in Cheltenham ([17 days ago](https://gloucesternewscentre.co.uk/cctv-appeal-after-man-assaults-another-man-in-cheltenham/))
 - Gloucestershire Airport sold to Horizon Aero Group Ltd ([17 days ago](https://gloucesternewscentre.co.uk/gloucestershire-airport-sold-to-horizon-aero-group-ltd/))
 - Keeping Cheltenham town centre safe this summer ([17 days ago](https://www.cheltenham.gov.uk/news/article/3032/keeping_cheltenham_town_centre_safe_this_summer))
-- Horizon Aero Group Ltd named as company set to take Gloucestershire Airport to new heights ([17 days ago](https://www.cheltenham.gov.uk/news/article/3031/horizon_aero_group_ltd_named_as_company_set_to_take_gloucestershire_airport_to_new_heights))
+- Horizon Aero Group Ltd named as company set to take Gloucestershire Airport to new heights ([18 days ago](https://www.cheltenham.gov.uk/news/article/3031/horizon_aero_group_ltd_named_as_company_set_to_take_gloucestershire_airport_to_new_heights))
 - HBD secures green light for first phase of landmark £1bn Golden Valley scheme ([22 days ago](https://www.cheltenham.gov.uk/news/article/3030/hbd_secures_green_light_for_first_phase_of_landmark_1bn_golden_valley_scheme))
 - Heat pump roadshow - ask an expert ([22 days ago](https://www.cheltenham.gov.uk/news/article/3029/heat_pump_roadshow_-_ask_an_expert))
 - Cheltenham achieves 6th place ranking in 2025 Climate Emergency UK Scorecards ([23 days ago](https://www.cheltenham.gov.uk/news/article/3028/cheltenham_achieves_6th_place_ranking_in_2025_climate_emergency_uk_scorecards))
