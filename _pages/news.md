@@ -12,10 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Teen's skin blister disease stops her from walking ([2 hours ago](https://www.bbc.com/news/articles/cvg8gml8rn2o))
-- 'Hot air balloon excitement' and 'bomb scare' ([2 hours ago](https://www.bbc.com/news/articles/c8d6vrj1lj4o))
-- Train disruption expected due to crew shortages ([15 hours ago](https://www.bbc.com/news/articles/cpdjl18dp1go))
-- 'We were sure we wouldn't bump into each other at uni,' say graduating triplets ([22 hours ago](https://www.bbc.com/news/articles/ce83de99y85o))
+- Community projects get £800k from home developers ([48 minutes ago](https://www.bbc.com/news/articles/cz60xv44dyeo))
+- Teen's skin blister disease stops her from walking ([3 hours ago](https://www.bbc.com/news/articles/cvg8gml8rn2o))
+- 'Hot air balloon excitement' and 'bomb scare' ([3 hours ago](https://www.bbc.com/news/articles/c8d6vrj1lj4o))
+- Train disruption expected due to crew shortages ([16 hours ago](https://www.bbc.com/news/articles/cpdjl18dp1go))
+- 'We were sure we wouldn't bump into each other at uni,' say graduating triplets ([23 hours ago](https://www.bbc.com/news/articles/ce83de99y85o))
 - 'Oxygen therapy centre is my lifeline' ([1 days ago](https://www.bbc.com/news/articles/cwyqy84r22wo))
 - Gloucestershire in Pictures: Going underground ([1 days ago](https://www.bbc.com/news/articles/cvg12j0n75xo))
 - Teachers banned for affair on school grounds ([1 days ago](https://www.bbc.com/news/articles/cx2n2wn6p7zo))
@@ -31,7 +32,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - FOUND: 96-year-old woman reported missing from Churchdown ([2 days ago](https://gloucesternewscentre.co.uk/search-for-96-year-old-woman-reported-missing-from-churchdown/))
 - 'Devious' sex predator jailed for six years ([2 days ago](https://www.bbc.com/news/articles/czjkj7z44m4o))
 - Group's fears over possible green belt downgrade ([2 days ago](https://www.bbc.com/news/articles/c07dr2jzglxo))
-- Low river level reveals 'collapsing' weir ([3 days ago](https://www.bbc.com/news/articles/czey4778n40o))
 - Man assaulted by two women in Cheltenham ([3 days ago](https://gloucesternewscentre.co.uk/man-assaulted-by-two-women-in-cheltenham/))
 - Cavers unearth largest UK system found in a decade ([4 days ago](https://www.bbc.com/news/articles/cz6g4eg41wlo))
 - Line-up announced for Gloucester History Festival 2025 ([4 days ago](https://gloucesternewscentre.co.uk/line-up-announced-for-gloucester-history-festival-2025/))
@@ -65,8 +65,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - HBD secures green light for first phase of landmark £1bn Golden Valley scheme ([22 days ago](https://www.cheltenham.gov.uk/news/article/3030/hbd_secures_green_light_for_first_phase_of_landmark_1bn_golden_valley_scheme))
 - Heat pump roadshow - ask an expert ([22 days ago](https://www.cheltenham.gov.uk/news/article/3029/heat_pump_roadshow_-_ask_an_expert))
 - Cheltenham achieves 6th place ranking in 2025 Climate Emergency UK Scorecards ([24 days ago](https://www.cheltenham.gov.uk/news/article/3028/cheltenham_achieves_6th_place_ranking_in_2025_climate_emergency_uk_scorecards))
-- £2.8m of funding approved to bring more new homes to Cheltenham ([24 days ago](https://www.cheltenham.gov.uk/news/article/3027/28m_of_funding_approved_to_bring_more_new_homes_to_cheltenham))
+- £2.8m of funding approved to bring more new homes to Cheltenham ([25 days ago](https://www.cheltenham.gov.uk/news/article/3027/28m_of_funding_approved_to_bring_more_new_homes_to_cheltenham))
 - New business grant fund supports local carbon reduction and enables cost savings ([26 days ago](https://www.cheltenham.gov.uk/news/article/3026/new_business_grant_fund_supports_local_carbon_reduction_and_enables_cost_savings))
-- Helping wildflowers bloom across Cheltenham ([29 days ago](https://www.cheltenham.gov.uk/news/article/3025/helping_wildflowers_bloom_across_cheltenham))
 
 <!-- news_marker ends -->

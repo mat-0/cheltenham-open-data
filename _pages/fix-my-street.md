@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- No through road sign required.Monks Lane., 27th July :- [7938117](https://www.fixmystreet.com/report/7938117)
+- Mattress dumped bead enterprise car rental, 27th July :- [7937995](https://www.fixmystreet.com/report/7937995)
+- Road Closure sign still there, 27th July :- [7937938](https://www.fixmystreet.com/report/7937938)
 - Loose manhole cover, 27th July :- [7937364](https://www.fixmystreet.com/report/7937364)
 - Pothole in Dinglewell Rd, 26th July :- [7937270](https://www.fixmystreet.com/report/7937270)
 - Willow tree opposite 11 Porchester road. Tree overhangs road/ footpath. Damaged by school buses and other high vehicle vehicles. Danger to pedestrians and vehicles., 26th July :- [7936967](https://www.fixmystreet.com/report/7936967)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Flytipped stool rear 3 Victoria Street, 26th July :- [7935262](https://www.fixmystreet.com/report/7935262)
 - Flytipping rear 7 Victoria St, 26th July :- [7935254](https://www.fixmystreet.com/report/7935254)
 - Alley full of flytipping, 26th July :- [7935215](https://www.fixmystreet.com/report/7935215)
-- Broken glass, 26th July :- [7935197](https://www.fixmystreet.com/report/7935197)
-- Widespread damage to road surface, 26th July :- [7935068](https://www.fixmystreet.com/report/7935068)
-- Kerb too high, 26th July :- [7935042](https://www.fixmystreet.com/report/7935042)
 
 <!-- fix_marker ends -->
