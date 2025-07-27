@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Griffiti on road at 4 locations on Bushcombe Lane, 27th July :- [7939317](https://www.fixmystreet.com/report/7939317)
 - Tree causing damage to wall, 27th July :- [7939117](https://www.fixmystreet.com/report/7939117)
 - 2 temporary excavation covers - 5yrs here now, 27th July :- [7938881](https://www.fixmystreet.com/report/7938881)
 - Footpaths ASH 8 & ASH 9 impassable, 27th July :- [7938720](https://www.fixmystreet.com/report/7938720)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Double yellow lines, 26th July :- [7936733](https://www.fixmystreet.com/report/7936733)
 - Street completely out for over a week! Is this a new Policy?, 26th July :- [7936354](https://www.fixmystreet.com/report/7936354)
 - Flyposting on verge, 26th July :- [7936209](https://www.fixmystreet.com/report/7936209)
-- Flyposter on lamppost, 26th July :- [7936197](https://www.fixmystreet.com/report/7936197)
 
 <!-- fix_marker ends -->
