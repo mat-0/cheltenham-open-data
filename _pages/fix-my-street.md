@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 2 temporary excavation covers - 5yrs here now, 27th July :- [7938881](https://www.fixmystreet.com/report/7938881)
 - Footpaths ASH 8 & ASH 9 impassable, 27th July :- [7938720](https://www.fixmystreet.com/report/7938720)
 - Overgrown, abandoned public grass space, 27th July :- [7938571](https://www.fixmystreet.com/report/7938571)
 - The large public grass area at Byfield Close has not been cut since Tewkesbury Borough Council handed grass cutting responsibility back to Gloucestershire County Council Highways in 2024. The area is overgrown, apparently abandoned by both TBC and GCC and in urgent need of cutting., 27th July :- [7938550](https://www.fixmystreet.com/report/7938550)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Flyposting on verge, 26th July :- [7936209](https://www.fixmystreet.com/report/7936209)
 - Flyposter on lamppost, 26th July :- [7936197](https://www.fixmystreet.com/report/7936197)
 - Looks like pressure has cause the concrete to crumble, 26th July :- [7936098](https://www.fixmystreet.com/report/7936098)
-- Volunteer litter pick bags ready for collection, 26th July :- [7936043](https://www.fixmystreet.com/report/7936043)
 
 <!-- fix_marker ends -->

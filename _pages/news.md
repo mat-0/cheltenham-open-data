@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Community projects get £800k from home developers ([3 hours ago](https://www.bbc.com/news/articles/cz60xv44dyeo))
-- Teen's skin blister disease stops her from walking ([6 hours ago](https://www.bbc.com/news/articles/cvg8gml8rn2o))
-- 'Hot air balloon excitement' and 'bomb scare' ([6 hours ago](https://www.bbc.com/news/articles/c8d6vrj1lj4o))
-- Train disruption expected due to crew shortages ([19 hours ago](https://www.bbc.com/news/articles/cpdjl18dp1go))
+- Community projects get £800k from home developers ([4 hours ago](https://www.bbc.com/news/articles/cz60xv44dyeo))
+- Teen's skin blister disease stops her from walking ([7 hours ago](https://www.bbc.com/news/articles/cvg8gml8rn2o))
+- 'Hot air balloon excitement' and 'bomb scare' ([7 hours ago](https://www.bbc.com/news/articles/c8d6vrj1lj4o))
+- Train disruption expected due to crew shortages ([20 hours ago](https://www.bbc.com/news/articles/cpdjl18dp1go))
 - 'We were sure we wouldn't bump into each other at uni,' say graduating triplets ([1 days ago](https://www.bbc.com/news/articles/ce83de99y85o))
 - 'Oxygen therapy centre is my lifeline' ([1 days ago](https://www.bbc.com/news/articles/cwyqy84r22wo))
 - Gloucestershire in Pictures: Going underground ([1 days ago](https://www.bbc.com/news/articles/cvg12j0n75xo))
@@ -45,7 +45,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Key road near Cheltenham station to closed in one direction ([9 days ago](https://gloucesternewscentre.co.uk/key-road-near-cheltenham-station-to-closed-in-one-direction/))
 - Decision on David Lloyd club amid odour fears from landfill site ([9 days ago](https://gloucesternewscentre.co.uk/decision-on-david-lloyd-club-amid-odour-fears-from-landfill-site/))
 - 17 Cheltenham projects awarded over £136k from Neighbourhood Fund ([9 days ago](https://gloucesternewscentre.co.uk/17-cheltenham-projects-awarded-over-136k-from-neighbourhood-fund/))
-- 17 Cheltenham projects awarded over £136k from Neighbourhood Fund ([9 days ago](https://www.cheltenham.gov.uk/news/article/3036/17_cheltenham_projects_awarded_over_136k_from_neighbourhood_fund))
+- 17 Cheltenham projects awarded over £136k from Neighbourhood Fund ([10 days ago](https://www.cheltenham.gov.uk/news/article/3036/17_cheltenham_projects_awarded_over_136k_from_neighbourhood_fund))
 - Independent survey launches to capture resident priorities ([10 days ago](https://www.cheltenham.gov.uk/news/article/3035/independent_survey_launches_to_capture_resident_priorities))
 - Seven Cheltenham parks and gardens celebrate another year of Green Flag success ([12 days ago](https://www.cheltenham.gov.uk/news/article/3034/seven_cheltenham_parks_and_gardens_celebrate_another_year_of_green_flag_success))
 - Illegal bikes ‘whizzing past people’ spark calls for police crackdown ([12 days ago](https://gloucesternewscentre.co.uk/illegal-bikes-whizzing-past-people-spark-calls-for-police-crackdown/))
