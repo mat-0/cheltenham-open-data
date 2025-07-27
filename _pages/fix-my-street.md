@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- ADE 60 Bridge missing and route impassable, 27th July :- [7940350](https://www.fixmystreet.com/report/7940350)
+- In front of our property there are two trees situated very close to each other . Unfortunately the trees are being used by local children as goalpost while playing football and frequently hitting our fence and main door, 27th July :- [7940289](https://www.fixmystreet.com/report/7940289)
 - Column 13 High street permanently on, 27th July :- [7940127](https://www.fixmystreet.com/report/7940127)
 - Pothole / Surface Damage, 27th July :- [7940014](https://www.fixmystreet.com/report/7940014)
 - Extremely long grass and weeds blocking vision and looking extremely untidy., 27th July :- [7939845](https://www.fixmystreet.com/report/7939845)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Road Closure sign still there, 27th July :- [7937938](https://www.fixmystreet.com/report/7937938)
 - Loose manhole cover, 27th July :- [7937364](https://www.fixmystreet.com/report/7937364)
 - Pothole in Dinglewell Rd, 26th July :- [7937270](https://www.fixmystreet.com/report/7937270)
-- Willow tree opposite 11 Porchester road. Tree overhangs road/ footpath. Damaged by school buses and other high vehicle vehicles. Danger to pedestrians and vehicles., 26th July :- [7936967](https://www.fixmystreet.com/report/7936967)
-- Huge hole, 26th July :- [7936799](https://www.fixmystreet.com/report/7936799)
 
 <!-- fix_marker ends -->
