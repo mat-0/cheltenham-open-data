@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Teen's skin blister disease stops her from walking ([2 hours ago](https://www.bbc.com/news/articles/cvg8gml8rn2o))
-- Pedestrian dies and man arrested after A-road crash ([2 hours ago](https://www.bbc.com/news/articles/c1w87r2y473o))
-- Community projects get £800k from home developers ([7 hours ago](https://www.bbc.com/news/articles/cz60xv44dyeo))
-- 'Hot air balloon excitement' and 'bomb scare' ([10 hours ago](https://www.bbc.com/news/articles/c8d6vrj1lj4o))
-- Train disruption expected due to crew shortages ([23 hours ago](https://www.bbc.com/news/articles/cpdjl18dp1go))
+- Teen's skin blister disease stops her from walking ([3 hours ago](https://www.bbc.com/news/articles/cvg8gml8rn2o))
+- Pedestrian dies and man arrested after A-road crash ([3 hours ago](https://www.bbc.com/news/articles/c1w87r2y473o))
+- Community projects get £800k from home developers ([8 hours ago](https://www.bbc.com/news/articles/cz60xv44dyeo))
+- 'Hot air balloon excitement' and 'bomb scare' ([11 hours ago](https://www.bbc.com/news/articles/c8d6vrj1lj4o))
+- Train disruption expected due to crew shortages ([1 days ago](https://www.bbc.com/news/articles/cpdjl18dp1go))
 - 'We were sure we wouldn't bump into each other at uni,' say graduating triplets ([1 days ago](https://www.bbc.com/news/articles/ce83de99y85o))
 - 'Oxygen therapy centre is my lifeline' ([1 days ago](https://www.bbc.com/news/articles/cwyqy84r22wo))
 - Gloucestershire in Pictures: Going underground ([1 days ago](https://www.bbc.com/news/articles/cvg12j0n75xo))
@@ -66,6 +66,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Heat pump roadshow - ask an expert ([23 days ago](https://www.cheltenham.gov.uk/news/article/3029/heat_pump_roadshow_-_ask_an_expert))
 - Cheltenham achieves 6th place ranking in 2025 Climate Emergency UK Scorecards ([24 days ago](https://www.cheltenham.gov.uk/news/article/3028/cheltenham_achieves_6th_place_ranking_in_2025_climate_emergency_uk_scorecards))
 - £2.8m of funding approved to bring more new homes to Cheltenham ([25 days ago](https://www.cheltenham.gov.uk/news/article/3027/28m_of_funding_approved_to_bring_more_new_homes_to_cheltenham))
-- New business grant fund supports local carbon reduction and enables cost savings ([26 days ago](https://www.cheltenham.gov.uk/news/article/3026/new_business_grant_fund_supports_local_carbon_reduction_and_enables_cost_savings))
+- New business grant fund supports local carbon reduction and enables cost savings ([27 days ago](https://www.cheltenham.gov.uk/news/article/3026/new_business_grant_fund_supports_local_carbon_reduction_and_enables_cost_savings))
 
 <!-- news_marker ends -->
