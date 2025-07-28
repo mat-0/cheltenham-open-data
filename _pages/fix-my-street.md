@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Footpath…Old Lane Cottage, Norton Gloucester, 28th July :- [7942943](https://www.fixmystreet.com/report/7942943)
+- Zero Street Cleaning on Typhoon Way Coopers Edge, Brockworth, 28th July :- [7942931](https://www.fixmystreet.com/report/7942931)
+- Rubbish bag split, 28th July :- [7942694](https://www.fixmystreet.com/report/7942694)
+- A pothole in road problem, 28th July :- [7942752](https://www.fixmystreet.com/report/7942752)
 - Footway is overgrown and hedge is obstructing making it unusable. This path needs to be clear as at school drop off and pick up time the road becomes severely congested., 28th July :- [7942189](https://www.fixmystreet.com/report/7942189)
 - Ringway barriers still on pavement by 54 Charlton Park Drive and have been there for seven months, 28th July :- [7941718](https://www.fixmystreet.com/report/7941718)
 - TMC - Defects -CW10 Potholes problem, 28th July :- [7941783](https://www.fixmystreet.com/report/7941783)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Pothole / Surface Damage, 27th July :- [7940014](https://www.fixmystreet.com/report/7940014)
 - Extremely long grass and weeds blocking vision and looking extremely untidy., 27th July :- [7939845](https://www.fixmystreet.com/report/7939845)
 - 5ft pothole near drive way entrance, 27th July :- [7939786](https://www.fixmystreet.com/report/7939786)
-- Griffiti on road at 4 locations on Bushcombe Lane, 27th July :- [7939317](https://www.fixmystreet.com/report/7939317)
-- Tree causing damage to wall, 27th July :- [7939117](https://www.fixmystreet.com/report/7939117)
-- 2 temporary excavation covers - 5yrs here now, 27th July :- [7938881](https://www.fixmystreet.com/report/7938881)
-- Footpaths ASH 8 & ASH 9 impassable, 27th July :- [7938720](https://www.fixmystreet.com/report/7938720)
 
 <!-- fix_marker ends -->
