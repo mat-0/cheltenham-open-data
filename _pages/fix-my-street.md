@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Kerbs and Channels problem, 28th July :- [7941007](https://www.fixmystreet.com/report/7941007)
 - Overflowing bin, 28th July :- [7940687](https://www.fixmystreet.com/report/7940687)
 - 'Pedestrian ' white markkng logo needed, 28th July :- [7940660](https://www.fixmystreet.com/report/7940660)
 - Abbey Terrace Dangerous Surface for mobility user, 28th July :- [7940642](https://www.fixmystreet.com/report/7940642)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Road sweeping required, 27th July :- [7938327](https://www.fixmystreet.com/report/7938327)
 - Poor pavement surface, 27th July :- [7938210](https://www.fixmystreet.com/report/7938210)
 - Sunken drain grate., 27th July :- [7938145](https://www.fixmystreet.com/report/7938145)
-- No through road sign required.Monks Lane., 27th July :- [7938117](https://www.fixmystreet.com/report/7938117)
 
 <!-- fix_marker ends -->
