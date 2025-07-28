@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pot hole difficult to avoid on very narrow bridge, 28th July :- [7945895](https://www.fixmystreet.com/report/7945895)
 - Litter in playground, 28th July :- [7945631](https://www.fixmystreet.com/report/7945631)
 - Traffic lights, 28th July :- [7945395](https://www.fixmystreet.com/report/7945395)
 - Overflowing public bin, flytipping & drug paraphernalia, 28th July :- [7945123](https://www.fixmystreet.com/report/7945123)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -other CW6 problem, 28th July :- [7943450](https://www.fixmystreet.com/report/7943450)
 - Footpath…Old Lane Cottage, Norton Gloucester, 28th July :- [7942943](https://www.fixmystreet.com/report/7942943)
 - Zero Street Cleaning on Typhoon Way Coopers Edge, Brockworth, 28th July :- [7942931](https://www.fixmystreet.com/report/7942931)
-- Rubbish bag split, 28th July :- [7942694](https://www.fixmystreet.com/report/7942694)
 
 <!-- fix_marker ends -->
