@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Traffic lights, 28th July :- [7945395](https://www.fixmystreet.com/report/7945395)
 - Overflowing public bin, flytipping & drug paraphernalia, 28th July :- [7945123](https://www.fixmystreet.com/report/7945123)
 - Tree branches larger than car fallen onto pavement, serious risk of injury of pedestrians, 28th July :- [7944991](https://www.fixmystreet.com/report/7944991)
 - Tree causing damage to guttering and vehicles, 28th July :- [7944983](https://www.fixmystreet.com/report/7944983)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Zero Street Cleaning on Typhoon Way Coopers Edge, Brockworth, 28th July :- [7942931](https://www.fixmystreet.com/report/7942931)
 - Rubbish bag split, 28th July :- [7942694](https://www.fixmystreet.com/report/7942694)
 - A pothole in road problem, 28th July :- [7942752](https://www.fixmystreet.com/report/7942752)
-- Footway is overgrown and hedge is obstructing making it unusable. This path needs to be clear as at school drop off and pick up time the road becomes severely congested., 28th July :- [7942189](https://www.fixmystreet.com/report/7942189)
 
 <!-- fix_marker ends -->
