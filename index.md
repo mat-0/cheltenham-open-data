@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Monday, 28 July 2025
 
-- The average temperature today is 22.62˚C,
-- With highs of 23.49˚C and lows of 21.51˚C,
-- It may feel like 22.32˚C with overcast clouds
-- The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 1020hPa and humidity is 53%
+- The average temperature today is 23.55˚C,
+- With highs of 23.88˚C and lows of 22.62˚C,
+- It may feel like 23.16˚C with scattered clouds
+- The wind speed is 2.57m/s and visibility is 10000m
+- The pressure is 1020hPa and humidity is 46%
 - The sun will rise at 04:24 and set at 20:04
 
 <!-- weather_marker ends -->
