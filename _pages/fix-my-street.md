@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 'Pedestrian ' white markkng logo needed, 28th July :- [7940660](https://www.fixmystreet.com/report/7940660)
 - Abbey Terrace Dangerous Surface for mobility user, 28th July :- [7940642](https://www.fixmystreet.com/report/7940642)
 - Someone tresspassed into stole my garden and stole my clean bin claarly marked 28a Oakleaze and left theiir dirty bin in my garden, 28th July :- [7940617](https://www.fixmystreet.com/report/7940617)
 - ADE 60 Bridge missing and route impassable, 27th July :- [7940350](https://www.fixmystreet.com/report/7940350)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Sunken drain grate., 27th July :- [7938145](https://www.fixmystreet.com/report/7938145)
 - No through road sign required.Monks Lane., 27th July :- [7938117](https://www.fixmystreet.com/report/7938117)
 - Mattress dumped bead enterprise car rental, 27th July :- [7937995](https://www.fixmystreet.com/report/7937995)
-- Road Closure sign still there, 27th July :- [7937938](https://www.fixmystreet.com/report/7937938)
 
 <!-- fix_marker ends -->
