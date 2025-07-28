@@ -12,11 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Community group raises money to buy  woodland ([3 hours ago](https://www.bbc.com/news/articles/crmvg871yzzo))
-- Breast screening trial hopes to find cancers earlier ([3 hours ago](https://www.bbc.com/news/articles/clyzm57yl0ko))
-- Teen's skin blister disease stops her from walking ([18 hours ago](https://www.bbc.com/news/articles/cvg8gml8rn2o))
-- Pedestrian dies and man arrested after A-road crash ([18 hours ago](https://www.bbc.com/news/articles/c1w87r2y473o))
-- Community projects get £800k from home developers ([23 hours ago](https://www.bbc.com/news/articles/cz60xv44dyeo))
+- 'Penalty shoot-out reaction' and 'Baby Red Panda' ([41 minutes ago](https://www.bbc.com/news/articles/c4gjle3lrpyo))
+- Community group raises money to buy  woodland ([4 hours ago](https://www.bbc.com/news/articles/crmvg871yzzo))
+- Breast screening trial hopes to find cancers earlier ([4 hours ago](https://www.bbc.com/news/articles/clyzm57yl0ko))
+- Teen's skin blister disease stops her from walking ([19 hours ago](https://www.bbc.com/news/articles/cvg8gml8rn2o))
+- Pedestrian dies and man arrested after A-road crash ([19 hours ago](https://www.bbc.com/news/articles/c1w87r2y473o))
+- Community projects get £800k from home developers ([1 days ago](https://www.bbc.com/news/articles/cz60xv44dyeo))
 - 'Hot air balloon excitement' and 'bomb scare' ([1 days ago](https://www.bbc.com/news/articles/c8d6vrj1lj4o))
 - Train disruption expected due to crew shortages ([1 days ago](https://www.bbc.com/news/articles/cpdjl18dp1go))
 - 'We were sure we wouldn't bump into each other at uni,' say graduating triplets ([1 days ago](https://www.bbc.com/news/articles/ce83de99y85o))
@@ -32,7 +33,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - How will I access healthcare during the doctors strike? ([3 days ago](https://www.bbc.com/news/articles/cgq7qy232n3o))
 - Libraries secure Heritage Fund grant for project capturing past memories ([3 days ago](https://gloucesternewscentre.co.uk/libraries-secure-heritage-fund-grant-for-project-capturing-past-memories/))
 - FOUND: 96-year-old woman reported missing from Churchdown ([3 days ago](https://gloucesternewscentre.co.uk/search-for-96-year-old-woman-reported-missing-from-churchdown/))
-- Group's fears over possible green belt downgrade ([3 days ago](https://www.bbc.com/news/articles/c07dr2jzglxo))
 - Man assaulted by two women in Cheltenham ([4 days ago](https://gloucesternewscentre.co.uk/man-assaulted-by-two-women-in-cheltenham/))
 - Line-up announced for Gloucester History Festival 2025 ([5 days ago](https://gloucesternewscentre.co.uk/line-up-announced-for-gloucester-history-festival-2025/))
 - Questions over when cafe will open at Arle Court park and ride ([5 days ago](https://gloucesternewscentre.co.uk/questions-over-when-cafe-will-open-at-arle-court-park-and-ride/))
@@ -65,7 +65,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - HBD secures green light for first phase of landmark £1bn Golden Valley scheme ([23 days ago](https://www.cheltenham.gov.uk/news/article/3030/hbd_secures_green_light_for_first_phase_of_landmark_1bn_golden_valley_scheme))
 - Heat pump roadshow - ask an expert ([23 days ago](https://www.cheltenham.gov.uk/news/article/3029/heat_pump_roadshow_-_ask_an_expert))
 - Cheltenham achieves 6th place ranking in 2025 Climate Emergency UK Scorecards ([25 days ago](https://www.cheltenham.gov.uk/news/article/3028/cheltenham_achieves_6th_place_ranking_in_2025_climate_emergency_uk_scorecards))
-- £2.8m of funding approved to bring more new homes to Cheltenham ([25 days ago](https://www.cheltenham.gov.uk/news/article/3027/28m_of_funding_approved_to_bring_more_new_homes_to_cheltenham))
+- £2.8m of funding approved to bring more new homes to Cheltenham ([26 days ago](https://www.cheltenham.gov.uk/news/article/3027/28m_of_funding_approved_to_bring_more_new_homes_to_cheltenham))
 - New business grant fund supports local carbon reduction and enables cost savings ([27 days ago](https://www.cheltenham.gov.uk/news/article/3026/new_business_grant_fund_supports_local_carbon_reduction_and_enables_cost_savings))
 
 <!-- news_marker ends -->

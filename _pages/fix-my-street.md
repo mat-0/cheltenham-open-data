@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Footway is overgrown and hedge is obstructing making it unusable. This path needs to be clear as at school drop off and pick up time the road becomes severely congested., 28th July :- [7942189](https://www.fixmystreet.com/report/7942189)
+- Ringway barriers still on pavement by 54 Charlton Park Drive and have been there for seven months, 28th July :- [7941718](https://www.fixmystreet.com/report/7941718)
+- TMC - Defects -CW10 Potholes problem, 28th July :- [7941783](https://www.fixmystreet.com/report/7941783)
+- TMC - Defects -CW10 Potholes problem, 28th July :- [7941781](https://www.fixmystreet.com/report/7941781)
+- TMC - Defects - Vegetation problem, 28th July :- [7941778](https://www.fixmystreet.com/report/7941778)
 - TMC - Defects - Kerbs and Channels problem, 28th July :- [7941007](https://www.fixmystreet.com/report/7941007)
 - Overflowing bin, 28th July :- [7940687](https://www.fixmystreet.com/report/7940687)
 - 'Pedestrian ' white markkng logo needed, 28th July :- [7940660](https://www.fixmystreet.com/report/7940660)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Tree causing damage to wall, 27th July :- [7939117](https://www.fixmystreet.com/report/7939117)
 - 2 temporary excavation covers - 5yrs here now, 27th July :- [7938881](https://www.fixmystreet.com/report/7938881)
 - Footpaths ASH 8 & ASH 9 impassable, 27th July :- [7938720](https://www.fixmystreet.com/report/7938720)
-- Overgrown, abandoned public grass space, 27th July :- [7938571](https://www.fixmystreet.com/report/7938571)
-- The large public grass area at Byfield Close has not been cut since Tewkesbury Borough Council handed grass cutting responsibility back to Gloucestershire County Council Highways in 2024. The area is overgrown, apparently abandoned by both TBC and GCC and in urgent need of cutting., 27th July :- [7938550](https://www.fixmystreet.com/report/7938550)
-- Road sweeping required, 27th July :- [7938327](https://www.fixmystreet.com/report/7938327)
-- Poor pavement surface, 27th July :- [7938210](https://www.fixmystreet.com/report/7938210)
-- Sunken drain grate., 27th July :- [7938145](https://www.fixmystreet.com/report/7938145)
 
 <!-- fix_marker ends -->
