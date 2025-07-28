@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Litter in playground, 28th July :- [7945631](https://www.fixmystreet.com/report/7945631)
 - Traffic lights, 28th July :- [7945395](https://www.fixmystreet.com/report/7945395)
 - Overflowing public bin, flytipping & drug paraphernalia, 28th July :- [7945123](https://www.fixmystreet.com/report/7945123)
 - Tree branches larger than car fallen onto pavement, serious risk of injury of pedestrians, 28th July :- [7944991](https://www.fixmystreet.com/report/7944991)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Footpath…Old Lane Cottage, Norton Gloucester, 28th July :- [7942943](https://www.fixmystreet.com/report/7942943)
 - Zero Street Cleaning on Typhoon Way Coopers Edge, Brockworth, 28th July :- [7942931](https://www.fixmystreet.com/report/7942931)
 - Rubbish bag split, 28th July :- [7942694](https://www.fixmystreet.com/report/7942694)
-- A pothole in road problem, 28th July :- [7942752](https://www.fixmystreet.com/report/7942752)
 
 <!-- fix_marker ends -->
