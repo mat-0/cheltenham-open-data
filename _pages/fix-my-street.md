@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Abbey Terrace Dangerous Surface for mobility user, 28th July :- [7940642](https://www.fixmystreet.com/report/7940642)
 - Someone tresspassed into stole my garden and stole my clean bin claarly marked 28a Oakleaze and left theiir dirty bin in my garden, 28th July :- [7940617](https://www.fixmystreet.com/report/7940617)
 - ADE 60 Bridge missing and route impassable, 27th July :- [7940350](https://www.fixmystreet.com/report/7940350)
 - In front of our property there are two trees situated very close to each other . Unfortunately the trees are being used by local children as goalpost while playing football and frequently hitting our fence and main door, 27th July :- [7940289](https://www.fixmystreet.com/report/7940289)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - No through road sign required.Monks Lane., 27th July :- [7938117](https://www.fixmystreet.com/report/7938117)
 - Mattress dumped bead enterprise car rental, 27th July :- [7937995](https://www.fixmystreet.com/report/7937995)
 - Road Closure sign still there, 27th July :- [7937938](https://www.fixmystreet.com/report/7937938)
-- Loose manhole cover, 27th July :- [7937364](https://www.fixmystreet.com/report/7937364)
 
 <!-- fix_marker ends -->

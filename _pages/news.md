@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Teen's skin blister disease stops her from walking ([12 hours ago](https://www.bbc.com/news/articles/cvg8gml8rn2o))
-- Pedestrian dies and man arrested after A-road crash ([12 hours ago](https://www.bbc.com/news/articles/c1w87r2y473o))
-- Community projects get £800k from home developers ([18 hours ago](https://www.bbc.com/news/articles/cz60xv44dyeo))
+- Teen's skin blister disease stops her from walking ([13 hours ago](https://www.bbc.com/news/articles/cvg8gml8rn2o))
+- Pedestrian dies and man arrested after A-road crash ([13 hours ago](https://www.bbc.com/news/articles/c1w87r2y473o))
+- Community projects get £800k from home developers ([19 hours ago](https://www.bbc.com/news/articles/cz60xv44dyeo))
 - 'Hot air balloon excitement' and 'bomb scare' ([21 hours ago](https://www.bbc.com/news/articles/c8d6vrj1lj4o))
 - Train disruption expected due to crew shortages ([1 days ago](https://www.bbc.com/news/articles/cpdjl18dp1go))
 - 'We were sure we wouldn't bump into each other at uni,' say graduating triplets ([1 days ago](https://www.bbc.com/news/articles/ce83de99y85o))
