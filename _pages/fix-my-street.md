@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Overflowing public bin, flytipping & drug paraphernalia, 28th July :- [7945123](https://www.fixmystreet.com/report/7945123)
+- Tree branches larger than car fallen onto pavement, serious risk of injury of pedestrians, 28th July :- [7944991](https://www.fixmystreet.com/report/7944991)
+- Tree causing damage to guttering and vehicles, 28th July :- [7944983](https://www.fixmystreet.com/report/7944983)
+- Holes and pavement damage outside 127 St George's Road caused by tree, 28th July :- [7944950](https://www.fixmystreet.com/report/7944950)
 - Top of church lane on crossroads, 28th July :- [7944826](https://www.fixmystreet.com/report/7944826)
 - Overflowing Dog Poo Bin - Health Hazard., 28th July :- [7944521](https://www.fixmystreet.com/report/7944521)
 - Flyposting, 28th July :- [7944513](https://www.fixmystreet.com/report/7944513)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Rubbish bag split, 28th July :- [7942694](https://www.fixmystreet.com/report/7942694)
 - A pothole in road problem, 28th July :- [7942752](https://www.fixmystreet.com/report/7942752)
 - Footway is overgrown and hedge is obstructing making it unusable. This path needs to be clear as at school drop off and pick up time the road becomes severely congested., 28th July :- [7942189](https://www.fixmystreet.com/report/7942189)
-- Ringway barriers still on pavement by 54 Charlton Park Drive and have been there for seven months, 28th July :- [7941718](https://www.fixmystreet.com/report/7941718)
-- TMC - Defects -CW10 Potholes problem, 28th July :- [7941781](https://www.fixmystreet.com/report/7941781)
-- TMC - Defects -CW10 Potholes problem, 28th July :- [7941783](https://www.fixmystreet.com/report/7941783)
-- TMC - Defects - Vegetation problem, 28th July :- [7941778](https://www.fixmystreet.com/report/7941778)
 
 <!-- fix_marker ends -->
