@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -12,15 +12,6 @@
 <description>The latest local problems reported by users</description>
 <language>en-gb</language>
 
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 29th July</title>
-<link>https://www.fixmystreet.com/report/7947908</link>
-<description>FW: Abrupt Level Difference &amp;#10;1200mmx200mmx31mm&amp;#10;TM: Give and Take &amp;#10;4 x NSDs &amp;#10;Stats required &amp;#10;Next to Tennis court (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7947908&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7947908</guid>
-<pubDate>Tue, 29 Jul 2025 10:16:03 +0100</pubDate>
-<georss:point>51.8867431 -2.07285340000001</georss:point>
-</item>
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 29th July</title>
 <link>https://www.fixmystreet.com/report/7947903</link>
@@ -41,21 +32,21 @@
 </item>
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 29th July</title>
-<link>https://www.fixmystreet.com/report/7947911</link>
-<description>FW: Abrupt Level Difference ( Next to Water Cover).&amp;#10;300mmx500mmx24mm&amp;#10;TM: Give and Take &amp;#10;Stats required &amp;#10;Outside No 98 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7947911&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7947911</guid>
-<pubDate>Tue, 29 Jul 2025 10:16:03 +0100</pubDate>
-<georss:point>51.8863899 -2.073094</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 29th July</title>
 <link>https://www.fixmystreet.com/report/7947906</link>
 <description>FW: Abrupt Level Difference &amp;#10;700mmx300mmx32mm&amp;#10;TM: Give and Take &amp;#10;Stats required &amp;#10;Next to Tennis court (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7947906&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Other FW6  Surface</category>
 <guid isPermaLink="false">https://www.fixmystreet.com/report/7947906</guid>
 <pubDate>Tue, 29 Jul 2025 10:16:03 +0100</pubDate>
 <georss:point>51.8868448 -2.07279160000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 29th July</title>
+<link>https://www.fixmystreet.com/report/7947911</link>
+<description>FW: Abrupt Level Difference ( Next to Water Cover).&amp;#10;300mmx500mmx24mm&amp;#10;TM: Give and Take &amp;#10;Stats required &amp;#10;Outside No 98 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7947911&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7947911</guid>
+<pubDate>Tue, 29 Jul 2025 10:16:03 +0100</pubDate>
+<georss:point>51.8863899 -2.073094</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 29th July</title>
@@ -68,21 +59,30 @@
 </item>
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 29th July</title>
-<link>https://www.fixmystreet.com/report/7947904</link>
-<description>FW: Abrupt Level Difference &amp;#10;300mmx1000mmx32mm&amp;#10;TM: Give and Take &amp;#10;Stats required &amp;#10;Next to Tennis court (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7947904&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7947904</guid>
-<pubDate>Tue, 29 Jul 2025 10:16:03 +0100</pubDate>
-<georss:point>51.8868787 -2.072793</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 29th July</title>
 <link>https://www.fixmystreet.com/report/7947907</link>
 <description>FW: Abrupt Level Difference &amp;#10;300mmx500mmx33mm&amp;#10;TM: Give and Take &amp;#10;Stats required &amp;#10;Next to Tennis court (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7947907&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Other FW6  Surface</category>
 <guid isPermaLink="false">https://www.fixmystreet.com/report/7947907</guid>
 <pubDate>Tue, 29 Jul 2025 10:16:03 +0100</pubDate>
 <georss:point>51.8868388 -2.07280749999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 29th July</title>
+<link>https://www.fixmystreet.com/report/7947908</link>
+<description>FW: Abrupt Level Difference &amp;#10;1200mmx200mmx31mm&amp;#10;TM: Give and Take &amp;#10;4 x NSDs &amp;#10;Stats required &amp;#10;Next to Tennis court (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7947908&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7947908</guid>
+<pubDate>Tue, 29 Jul 2025 10:16:03 +0100</pubDate>
+<georss:point>51.8867431 -2.07285340000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 29th July</title>
+<link>https://www.fixmystreet.com/report/7947904</link>
+<description>FW: Abrupt Level Difference &amp;#10;300mmx1000mmx32mm&amp;#10;TM: Give and Take &amp;#10;Stats required &amp;#10;Next to Tennis court (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7947904&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7947904</guid>
+<pubDate>Tue, 29 Jul 2025 10:16:03 +0100</pubDate>
+<georss:point>51.8868787 -2.072793</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 29th July</title>
@@ -104,12 +104,12 @@
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 29th July</title>
-<link>https://www.fixmystreet.com/report/7947696</link>
-<description>3 way stop and go 28 day carriageway pothole 400x300x40mm tarmac patch number 1 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7947696&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/7947697</link>
+<description>3 way stop and go 28 day carriageway pothole 400x300x40mm tarmac patch number 2 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7947697&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7947696</guid>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7947697</guid>
 <pubDate>Tue, 29 Jul 2025 09:58:26 +0100</pubDate>
-<georss:point>51.9234788 -2.09780179999999</georss:point>
+<georss:point>51.923471 -2.0977135</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Road Markings problem, 29th July</title>
@@ -122,12 +122,12 @@
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 29th July</title>
-<link>https://www.fixmystreet.com/report/7947697</link>
-<description>3 way stop and go 28 day carriageway pothole 400x300x40mm tarmac patch number 2 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7947697&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/7947696</link>
+<description>3 way stop and go 28 day carriageway pothole 400x300x40mm tarmac patch number 1 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7947696&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7947697</guid>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7947696</guid>
 <pubDate>Tue, 29 Jul 2025 09:58:26 +0100</pubDate>
-<georss:point>51.923471 -2.0977135</georss:point>
+<georss:point>51.9234788 -2.09780179999999</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 29th July</title>
@@ -175,15 +175,6 @@
 <georss:point>51.91715 -2.09606030000001</georss:point>
 </item>
 <item>
-<title>TMC - Defects -CW6 Potholes  problem, 29th July</title>
-<link>https://www.fixmystreet.com/report/7947688</link>
-<description>GIVE AND TAKE plus   15  minutes delay boards 28 day carriageway pothole 300x300x40mm tarmac patch number 1 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7947688&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7947688</guid>
-<pubDate>Tue, 29 Jul 2025 09:55:59 +0100</pubDate>
-<georss:point>51.9169675 -2.09574670000001</georss:point>
-</item>
-<item>
 <title>TMC - Defects - Covers, Gratings &amp; Frames problem, 29th July</title>
 <link>https://www.fixmystreet.com/report/7947686</link>
 <description>Give and take  28 days please lift an relay x1 sunken gully frame an lid 540x420x40mm stats required (Broken Chamber Cover/Frame)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7947686&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
@@ -191,6 +182,15 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/7947686</guid>
 <pubDate>Tue, 29 Jul 2025 09:55:59 +0100</pubDate>
 <georss:point>51.9176997329829 -2.09703389372802</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Kerbs and Channels problem, 29th July</title>
+<link>https://www.fixmystreet.com/report/7947687</link>
+<description>GIVE AN TAKE PLEASE REPLACE X1 BROKEN SUNKEN KERB STONE 900X150X40MM 10X5 STATS REQUIRED NUMBER 1 (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7947687&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Kerbs and Channels</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7947687</guid>
+<pubDate>Tue, 29 Jul 2025 09:55:59 +0100</pubDate>
+<georss:point>51.9171035 -2.0959754</georss:point>
 </item>
 </channel>
 </rss>
