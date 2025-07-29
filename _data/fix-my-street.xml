@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:georss="http://www.georss.org/georss"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
+ xmlns:georss="http://www.georss.org/georss"
 >
 
 <channel>
@@ -12,6 +12,69 @@
 <description>The latest local problems reported by users</description>
 <language>en-gb</language>
 
+<item>
+<title>TMC - Defects - Kerbs and Channels problem, 29th July</title>
+<link>https://www.fixmystreet.com/report/7950244</link>
+<description>Give and take 28 day please replace x1 broken 900x150x40mm kerb stone half rounded  right angle stats required cutting will be required 6x5 number 1 (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7950244&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Kerbs and Channels</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7950244</guid>
+<pubDate>Tue, 29 Jul 2025 15:30:48 +0100</pubDate>
+<georss:point>51.9001018 -2.0662811</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Kerbs and Channels problem, 29th July</title>
+<link>https://www.fixmystreet.com/report/7950246</link>
+<description>Give and take 28 day please replace x1 broken 900x150x38mm kerb stone  stats required  10x6 number 1 (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7950246&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Kerbs and Channels</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7950246</guid>
+<pubDate>Tue, 29 Jul 2025 15:30:48 +0100</pubDate>
+<georss:point>51.9006639972967 -2.06729259394301</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Kerbs and Channels problem, 29th July</title>
+<link>https://www.fixmystreet.com/report/7950245</link>
+<description>Give and take 28 day please replace x1 broken 900x150x40mm kerb stone  stats required  10x6 number 1 (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7950245&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Kerbs and Channels</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7950245</guid>
+<pubDate>Tue, 29 Jul 2025 15:30:48 +0100</pubDate>
+<georss:point>51.9003148 -2.06643199999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 29th July</title>
+<link>https://www.fixmystreet.com/report/7950240</link>
+<description>FW: Abrupt Level Difference (Around CAT V Chamber)&amp;#10;900mmx600mmx200mm&amp;#10;TM: Give and Take &amp;#10;Stats required &amp;#10;ENWD &amp;#10;Outside No 8 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7950240&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7950240</guid>
+<pubDate>Tue, 29 Jul 2025 15:08:44 +0100</pubDate>
+<georss:point>51.8554801 -2.1943356</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 29th July</title>
+<link>https://www.fixmystreet.com/report/7950063</link>
+<description>FW: Abrupt Level Difference  &amp;#10;1200mmx400mm32mm&amp;#10;TM: Give and Take &amp;#10;Stats required &amp;#10;Opposite The School (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7950063&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7950063</guid>
+<pubDate>Tue, 29 Jul 2025 14:50:13 +0100</pubDate>
+<georss:point>51.8600346 -2.1890442</georss:point>
+</item>
+<item>
+<title>TMC - Defects -other CW6 problem, 29th July</title>
+<link>https://www.fixmystreet.com/report/7950048</link>
+<description>CW: Edge deteration &amp;#10;900mmx600mmx42mm&amp;#10;TM: Give and Take &amp;#10;Stats required &amp;#10;Near House No 146 (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7950048&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -other CW6</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7950048</guid>
+<pubDate>Tue, 29 Jul 2025 14:34:42 +0100</pubDate>
+<georss:point>51.8405168 -2.15380710000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 29th July</title>
+<link>https://www.fixmystreet.com/report/7950047</link>
+<description>FW: Edge deteration &amp;#10;1200mmx300mmx29mm&amp;#10;TM: Give and Take &amp;#10;Stats required &amp;#10;Opposite No 111 (FW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7950047&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7950047</guid>
+<pubDate>Tue, 29 Jul 2025 14:34:41 +0100</pubDate>
+<georss:point>51.8409706 -2.1544449</georss:point>
+</item>
 <item>
 <title>TMC - Defects - Vegetation problem, 29th July</title>
 <link>https://www.fixmystreet.com/report/7949797</link>
@@ -121,76 +184,13 @@
 <georss:point>51.856115 -2.193963</georss:point>
 </item>
 <item>
-<title>TMC - Defects - Other FW6  Surface problem, 29th July</title>
-<link>https://www.fixmystreet.com/report/7949369</link>
-<description>NWD WITH GIVE AND TAKE PLEASE BRING X6 BARRIERS AND 12 SANDBAGS PLACE AROUND SUNKEN GRASS VERGE TO MAKE SAFE (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7949369&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7949369</guid>
-<pubDate>Tue, 29 Jul 2025 13:32:57 +0100</pubDate>
-<georss:point>51.9083342 -2.05392610000001</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 29th July</title>
-<link>https://www.fixmystreet.com/report/7949371</link>
-<description>WITH GIVE AND TAKE  28 DAY PLEASE USE TOP SOIL APPROXIMATELY 9000X1200X60MM in grass verge (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7949371&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7949371</guid>
-<pubDate>Tue, 29 Jul 2025 13:32:57 +0100</pubDate>
-<georss:point>51.9083118 -2.0539286</georss:point>
-</item>
-<item>
 <title>TMC - Defects - Footways Slabs problem, 29th July</title>
-<link>https://www.fixmystreet.com/report/7949358</link>
-<description>Give and take plus temporary footway closure required  please replace x1  broken  900x600x27mm slab number 3 with tarmac patch (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7949358&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/7949362</link>
+<description>Give and take plus temporary footway closure required  please replace x1  broken  600x600x22mm slab number 6 with tarmac patch (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7949362&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Footways Slabs</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7949358</guid>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7949362</guid>
 <pubDate>Tue, 29 Jul 2025 13:32:57 +0100</pubDate>
-<georss:point>51.9081021559201 -2.05721792633187</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Footways Slabs problem, 29th July</title>
-<link>https://www.fixmystreet.com/report/7949357</link>
-<description>Give and take plus temporary footway closure required  please replace x1  broken  900x600x27mm slab number 2 with tarmac patch (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7949357&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Footways Slabs</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7949357</guid>
-<pubDate>Tue, 29 Jul 2025 13:32:57 +0100</pubDate>
-<georss:point>51.9081026946317 -2.05722855630996</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Footways Slabs problem, 29th July</title>
-<link>https://www.fixmystreet.com/report/7949366</link>
-<description>Give and take plus temporary footway closure required  please replace x1  broken  750x600x25mm slab number 9 with tarmac patch (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7949366&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Footways Slabs</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7949366</guid>
-<pubDate>Tue, 29 Jul 2025 13:32:57 +0100</pubDate>
-<georss:point>51.9080708 -2.05723479999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 29th July</title>
-<link>https://www.fixmystreet.com/report/7949370</link>
-<description>WITH GIVE AND TAKE  28 DAY PLEASE USE TOP SOIL APPROXIMATELY 6000X1200X60MM in grass verge (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7949370&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7949370</guid>
-<pubDate>Tue, 29 Jul 2025 13:32:57 +0100</pubDate>
-<georss:point>51.9083283 -2.05391009999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Footways Slabs problem, 29th July</title>
-<link>https://www.fixmystreet.com/report/7949356</link>
-<description>Give and take plus temporary footway closure required  please replace x1  broken  900x600x27mm slab number 1 with tarmac patch (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7949356&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Footways Slabs</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7949356</guid>
-<pubDate>Tue, 29 Jul 2025 13:32:57 +0100</pubDate>
-<georss:point>51.9080754 -2.05723449999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Footways Slabs problem, 29th July</title>
-<link>https://www.fixmystreet.com/report/7949359</link>
-<description>Give and take plus temporary footway closure required   please replace x1  broken  900x600x27mm slab number 4 with tarmac patch (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7949359&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Footways Slabs</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7949359</guid>
-<pubDate>Tue, 29 Jul 2025 13:32:57 +0100</pubDate>
-<georss:point>51.9080886 -2.05721530000001</georss:point>
+<georss:point>51.9080739 -2.05721209999999</georss:point>
 </item>
 </channel>
 </rss>
