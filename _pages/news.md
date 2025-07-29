@@ -12,12 +12,13 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Hundreds of NHS jobs face the axe in Gloucestershire ([41 minutes ago](https://gloucesternewscentre.co.uk/hundreds-of-nhs-jobs-face-the-axe-in-gloucestershire/))
-- Mum's message to anyone thinking of using food bank ([4 hours ago](https://www.bbc.com/news/articles/cly8yv3e1weo?at_medium=RSS&at_campaign=rss))
-- 'Posthumous awards' and 'airport parking scam' ([6 hours ago](https://www.bbc.com/news/articles/c14g83686g6o?at_medium=RSS&at_campaign=rss))
-- TV presenter nearly loses hand in boat mishap ([11 hours ago](https://www.bbc.com/news/articles/cedv0zwgdyeo?at_medium=RSS&at_campaign=rss))
-- New clubhouse plan for highest point in Cotswolds ([11 hours ago](https://www.bbc.com/news/articles/cd7yxy2l50eo?at_medium=RSS&at_campaign=rss))
-- Builder in £2m fraud trial 'spent £28,000 on Rolex' ([20 hours ago](https://www.bbc.com/news/articles/c1dx5zd2dvyo?at_medium=RSS&at_campaign=rss))
+- Ex-NHS manager awarded £24,000 for unfair dismissal ([46 minutes ago](https://www.bbc.com/news/articles/czjm7ypgmy9o?at_medium=RSS&at_campaign=rss))
+- Hundreds of NHS jobs face the axe in Gloucestershire ([1 hours ago](https://gloucesternewscentre.co.uk/hundreds-of-nhs-jobs-face-the-axe-in-gloucestershire/))
+- Mum's message to anyone thinking of using food bank ([5 hours ago](https://www.bbc.com/news/articles/cly8yv3e1weo?at_medium=RSS&at_campaign=rss))
+- 'Posthumous awards' and 'airport parking scam' ([7 hours ago](https://www.bbc.com/news/articles/c14g83686g6o?at_medium=RSS&at_campaign=rss))
+- TV presenter nearly loses hand in boat mishap ([12 hours ago](https://www.bbc.com/news/articles/cedv0zwgdyeo?at_medium=RSS&at_campaign=rss))
+- New clubhouse plan for highest point in Cotswolds ([12 hours ago](https://www.bbc.com/news/articles/cd7yxy2l50eo?at_medium=RSS&at_campaign=rss))
+- Builder in £2m fraud trial 'spent £28,000 on Rolex' ([21 hours ago](https://www.bbc.com/news/articles/c1dx5zd2dvyo?at_medium=RSS&at_campaign=rss))
 - Fiancée comes forward after plane proposal ([1 days ago](https://www.bbc.com/news/articles/cvgnlk58zneo?at_medium=RSS&at_campaign=rss))
 - 'Vile' rapist is jailed for five years ([1 days ago](https://www.bbc.com/news/articles/c3r4l79dd48o?at_medium=RSS&at_campaign=rss))
 - Early success for Safer Street Summer Initiative in Gloucestershire ([1 days ago](https://gloucesternewscentre.co.uk/early-success-for-safer-street-summer-initiative-in-gloucestershire/))
@@ -29,8 +30,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Teen's skin blister disease stops her from walking ([2 days ago](https://www.bbc.com/news/articles/cvg8gml8rn2o?at_medium=RSS&at_campaign=rss))
 - Pedestrian dies and man arrested after A-road crash ([2 days ago](https://www.bbc.com/news/articles/c1w87r2y473o?at_medium=RSS&at_campaign=rss))
 - Community projects get £800k from home developers ([2 days ago](https://www.bbc.com/news/articles/cz60xv44dyeo?at_medium=RSS&at_campaign=rss))
-- Train disruption expected due to crew shortages ([2 days ago](https://www.bbc.com/news/articles/cpdjl18dp1go?at_medium=RSS&at_campaign=rss))
-- 'We were sure we wouldn't bump into each other at uni,' say graduating triplets ([3 days ago](https://www.bbc.com/news/articles/ce83de99y85o?at_medium=RSS&at_campaign=rss))
+- Train disruption expected due to crew shortages ([3 days ago](https://www.bbc.com/news/articles/cpdjl18dp1go?at_medium=RSS&at_campaign=rss))
 - 'Oxygen therapy centre is my lifeline' ([3 days ago](https://www.bbc.com/news/articles/cwyqy84r22wo?at_medium=RSS&at_campaign=rss))
 - Webinars scheduled as thousands have their say on the future of Gloucestershire councils ([4 days ago](https://gloucesternewscentre.co.uk/webinars-scheduled-as-thousands-have-their-say-on-the-future-of-gloucestershire-councils/))
 - Cheltenham man jailed for multiple shoplifting offences ([4 days ago](https://gloucesternewscentre.co.uk/cheltenham-man-jailed-for-multiple-shoplifting-offences/))
@@ -67,6 +67,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Heat pump roadshow - ask an expert ([25 days ago](https://www.cheltenham.gov.uk/news/article/3029/heat_pump_roadshow_-_ask_an_expert))
 - Cheltenham achieves 6th place ranking in 2025 Climate Emergency UK Scorecards ([26 days ago](https://www.cheltenham.gov.uk/news/article/3028/cheltenham_achieves_6th_place_ranking_in_2025_climate_emergency_uk_scorecards))
 - £2.8m of funding approved to bring more new homes to Cheltenham ([27 days ago](https://www.cheltenham.gov.uk/news/article/3027/28m_of_funding_approved_to_bring_more_new_homes_to_cheltenham))
-- New business grant fund supports local carbon reduction and enables cost savings ([28 days ago](https://www.cheltenham.gov.uk/news/article/3026/new_business_grant_fund_supports_local_carbon_reduction_and_enables_cost_savings))
+- New business grant fund supports local carbon reduction and enables cost savings ([29 days ago](https://www.cheltenham.gov.uk/news/article/3026/new_business_grant_fund_supports_local_carbon_reduction_and_enables_cost_savings))
 
 <!-- news_marker ends -->
