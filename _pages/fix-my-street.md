@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Vegetation problem, 29th July :- [7946960](https://www.fixmystreet.com/report/7946960)
+- Tree is damaged problem, 29th July :- [7946934](https://www.fixmystreet.com/report/7946934)
+- TMC - Defects - Vegetation problem, 29th July :- [7946937](https://www.fixmystreet.com/report/7946937)
 - Pot hole difficult to avoid on very narrow bridge, 28th July :- [7945895](https://www.fixmystreet.com/report/7945895)
 - Litter in playground, 28th July :- [7945631](https://www.fixmystreet.com/report/7945631)
 - Traffic lights, 28th July :- [7945395](https://www.fixmystreet.com/report/7945395)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -other CW6 problem, 28th July :- [7943452](https://www.fixmystreet.com/report/7943452)
 - TMC - Defects -other CW6 problem, 28th July :- [7943453](https://www.fixmystreet.com/report/7943453)
 - TMC - Defects -other CW6 problem, 28th July :- [7943451](https://www.fixmystreet.com/report/7943451)
-- TMC - Defects -other CW6 problem, 28th July :- [7943450](https://www.fixmystreet.com/report/7943450)
-- Footpath…Old Lane Cottage, Norton Gloucester, 28th July :- [7942943](https://www.fixmystreet.com/report/7942943)
-- Zero Street Cleaning on Typhoon Way Coopers Edge, Brockworth, 28th July :- [7942931](https://www.fixmystreet.com/report/7942931)
 
 <!-- fix_marker ends -->
