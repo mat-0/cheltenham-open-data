@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Tuesday, 29 July 2025
 
-- The average temperature today is 18.47˚C,
-- With highs of 18.75˚C and lows of 16.58˚C,
-- It may feel like 18.57˚C with broken clouds
-- The wind speed is 2.06m/s and visibility is 10000m
-- The pressure is 1018hPa and humidity is 84%
+- The average temperature today is 19.54˚C,
+- With highs of 19.75˚C and lows of 17.69˚C,
+- It may feel like 19.61˚C with scattered clouds
+- The wind speed is 1.03m/s and visibility is 10000m
+- The pressure is 1018hPa and humidity is 79%
 - The sun will rise at 04:26 and set at 20:03
 
 <!-- weather_marker ends -->
