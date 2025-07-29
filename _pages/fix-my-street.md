@@ -9,12 +9,14 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- A40 / Christ Church Road traffic lights, 29th July :- [7951064](https://www.fixmystreet.com/report/7951064)
+- Temporary ramp on kerb for cars is now permanent fixture, 29th July :- [7950851](https://www.fixmystreet.com/report/7950851)
 - 2 traffic cones left behind by contractor fixing road, 29th July :- [7950787](https://www.fixmystreet.com/report/7950787)
 - Valiant Way New Roundabout Roadworks still in place, 29th July :- [7950548](https://www.fixmystreet.com/report/7950548)
 - Sign/waymarker is damaged problem, 29th July :- [7950424](https://www.fixmystreet.com/report/7950424)
-- TMC - Defects - Kerbs and Channels problem, 29th July :- [7950244](https://www.fixmystreet.com/report/7950244)
 - TMC - Defects - Kerbs and Channels problem, 29th July :- [7950245](https://www.fixmystreet.com/report/7950245)
 - TMC - Defects - Kerbs and Channels problem, 29th July :- [7950246](https://www.fixmystreet.com/report/7950246)
+- TMC - Defects - Kerbs and Channels problem, 29th July :- [7950244](https://www.fixmystreet.com/report/7950244)
 - TMC - Defects - Other FW6  Surface problem, 29th July :- [7950240](https://www.fixmystreet.com/report/7950240)
 - TMC - Defects - Other FW6  Surface problem, 29th July :- [7950063](https://www.fixmystreet.com/report/7950063)
 - TMC - Defects -other CW6 problem, 29th July :- [7950048](https://www.fixmystreet.com/report/7950048)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Overflowing bin, 29th July :- [7949429](https://www.fixmystreet.com/report/7949429)
 - TMC - Defects - Kerbs and Channels problem, 29th July :- [7949582](https://www.fixmystreet.com/report/7949582)
 - TMC - Defects - Kerbs and Channels problem, 29th July :- [7949583](https://www.fixmystreet.com/report/7949583)
-- TMC - Defects - Kerbs and Channels problem, 29th July :- [7949581](https://www.fixmystreet.com/report/7949581)
-- Food bag burst, 29th July :- [7949381](https://www.fixmystreet.com/report/7949381)
 
 <!-- fix_marker ends -->
