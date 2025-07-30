@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -12,6 +12,51 @@
 <description>The latest local problems reported by users</description>
 <language>en-gb</language>
 
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 30th July</title>
+<link>https://www.fixmystreet.com/report/7952537</link>
+<description>WITH GIVE AND TAKE  28  DAY  FOOTWAY ABRUPT LEVEL DIFFERENT CRACKS AN GAPS 6000x100x30mm tarmac patch stats required (FW6 Cracks or Gaps)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7952537&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7952537</guid>
+<pubDate>Wed, 30 Jul 2025 08:29:41 +0100</pubDate>
+<georss:point>51.8825064001623 -2.11691980006662</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 30th July</title>
+<link>https://www.fixmystreet.com/report/7952536</link>
+<description>Give and take 28 day carriageway pothole 600x500x40mm tarmac patch required plus x1 NSD (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7952536&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7952536</guid>
+<pubDate>Wed, 30 Jul 2025 08:29:41 +0100</pubDate>
+<georss:point>51.882413 -2.11702839999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 30th July</title>
+<link>https://www.fixmystreet.com/report/7952539</link>
+<description>Give and take  28 days footway abrupt level different please lift and relay sunken blocks 1800x400x25mm unable to mark on blocks stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7952539&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7952539</guid>
+<pubDate>Wed, 30 Jul 2025 08:29:41 +0100</pubDate>
+<georss:point>51.8831504 -2.1162807</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 30th July</title>
+<link>https://www.fixmystreet.com/report/7952538</link>
+<description>WITH GIVE AND TAKE  28  DAY  FOOTWAY ABRUPT LEVEL DIFFERENT CRACKS AN GAPS 9500x100x30mm tarmac patch stats required (FW6 Cracks or Gaps)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7952538&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7952538</guid>
+<pubDate>Wed, 30 Jul 2025 08:29:41 +0100</pubDate>
+<georss:point>51.8826550837907 -2.11678650390023</georss:point>
+</item>
+<item>
+<title>Tree is damaged problem, 30th July</title>
+<link>https://www.fixmystreet.com/report/7952392</link>
+<description>Damaged broken tree pit steel grid needs replacing around tree &#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7952392&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Tree is damaged</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7952392</guid>
+<pubDate>Wed, 30 Jul 2025 07:54:27 +0100</pubDate>
+<georss:point>51.883207 -2.121348</georss:point>
+</item>
 <item>
 <title>Pot hole in road, 30th July</title>
 <link>https://www.fixmystreet.com/report/7952207</link>
@@ -95,6 +140,15 @@
 </item>
 <item>
 <title>TMC - Defects - Kerbs and Channels problem, 29th July</title>
+<link>https://www.fixmystreet.com/report/7950246</link>
+<description>Give and take 28 day please replace x1 broken 900x150x38mm kerb stone  stats required  10x6 number 1 (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7950246&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Kerbs and Channels</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7950246</guid>
+<pubDate>Tue, 29 Jul 2025 15:30:48 +0100</pubDate>
+<georss:point>51.9006639972967 -2.06729259394301</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Kerbs and Channels problem, 29th July</title>
 <link>https://www.fixmystreet.com/report/7950245</link>
 <description>Give and take 28 day please replace x1 broken 900x150x40mm kerb stone  stats required  10x6 number 1 (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7950245&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Kerbs and Channels</category>
@@ -110,15 +164,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/7950244</guid>
 <pubDate>Tue, 29 Jul 2025 15:30:48 +0100</pubDate>
 <georss:point>51.9001018 -2.0662811</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Kerbs and Channels problem, 29th July</title>
-<link>https://www.fixmystreet.com/report/7950246</link>
-<description>Give and take 28 day please replace x1 broken 900x150x38mm kerb stone  stats required  10x6 number 1 (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7950246&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Kerbs and Channels</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7950246</guid>
-<pubDate>Tue, 29 Jul 2025 15:30:48 +0100</pubDate>
-<georss:point>51.9006639972967 -2.06729259394301</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 29th July</title>
@@ -146,51 +191,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/7950048</guid>
 <pubDate>Tue, 29 Jul 2025 14:34:42 +0100</pubDate>
 <georss:point>51.8405168 -2.15380710000001</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 29th July</title>
-<link>https://www.fixmystreet.com/report/7950047</link>
-<description>FW: Edge deteration &amp;#10;1200mmx300mmx29mm&amp;#10;TM: Give and Take &amp;#10;Stats required &amp;#10;Opposite No 111 (FW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7950047&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7950047</guid>
-<pubDate>Tue, 29 Jul 2025 14:34:41 +0100</pubDate>
-<georss:point>51.8409706 -2.1544449</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Vegetation problem, 29th July</title>
-<link>https://www.fixmystreet.com/report/7949797</link>
-<description>Overgrown hedge (Cut Back)&amp;#10;10 Mtrs x 1000mm &amp;#10;TM: Give and Take (Park around the corner)&amp;#10;Opposite Vicarage Court (Overgrown Hedge)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7949797&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Vegetation</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7949797</guid>
-<pubDate>Tue, 29 Jul 2025 14:13:49 +0100</pubDate>
-<georss:point>51.8459055 -2.1594115</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Signs &amp; Street Furniture problem, 29th July</title>
-<link>https://www.fixmystreet.com/report/7949792</link>
-<description>2 HOUR WITH GIVE AND TAKE MAKE SAFE WITH X4 BARRIERS AND X8 SANDBAGS PLACE AROUND DAMAGED DRAINAGE COVER (Damaged Street Furniture)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7949792&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Signs &amp; Street Furniture</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7949792</guid>
-<pubDate>Tue, 29 Jul 2025 14:10:31 +0100</pubDate>
-<georss:point>51.8967713 -2.03980730000164</georss:point>
-</item>
-<item>
-<title>Gap in path from utilty ground works, 29th July</title>
-<link>https://www.fixmystreet.com/report/7949546</link>
-<description>Poor groundwork from unsealed path has an uneven gap. Location is just by lamp No.9 and driveway on Runnymead, up Hatherley, CHELTENHAM. GL513.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/7949546.0.jpeg?271ab9e0&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 14, Runnymede, Hatherley, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7949546&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Other damage to pavement i.e. cobbles, raised mound/surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7949546</guid>
-<pubDate>Tue, 29 Jul 2025 14:02:30 +0100</pubDate>
-<georss:point>51.881938 -2.115722</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 29th July</title>
-<link>https://www.fixmystreet.com/report/7949600</link>
-<description>Road closure needed 28 day carriageway pothole 1300x700x45mm tarmac patch stats required plus x4 NSD (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7949600&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7949600</guid>
-<pubDate>Tue, 29 Jul 2025 13:59:04 +0100</pubDate>
-<georss:point>51.8998181558221 -2.05000978826898</georss:point>
 </item>
 </channel>
 </rss>
