@@ -10,10 +10,10 @@ permalink: /foodbank
 <!-- summary1_marker starts -->
 ## List of needed items in Cheltenham
 
-Last updated: 2025-06-27
+Last updated: 2025-07-30
 
 - Cuppa Soups Or Tinned Soups
-- Shampoo - Ladies And Men's
+- UHT Milk
 - Deodorant - Ladies And Men's
 - Fruit Juice / Squash
 - Tinned Cold Meat
