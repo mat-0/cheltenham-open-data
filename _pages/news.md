@@ -12,14 +12,14 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- 'Dangerous parking' and '1,000 new homes' ([16 minutes ago](https://www.bbc.com/news/articles/cx2qlpqdp5yo?at_medium=RSS&at_campaign=rss))
-- Busy route into city shuts overnight for two weeks ([3 hours ago](https://www.bbc.com/news/articles/c20160nlyg6o?at_medium=RSS&at_campaign=rss))
-- Locals unite to keep treasured field public ([3 hours ago](https://www.bbc.com/news/videos/c80dlr7pz28o?at_medium=RSS&at_campaign=rss))
-- Fraud trial builder has 'learned from mistakes' ([14 hours ago](https://www.bbc.com/news/articles/cly76y04990o?at_medium=RSS&at_campaign=rss))
-- Ex-NHS manager awarded £24,000 for unfair dismissal ([15 hours ago](https://www.bbc.com/news/articles/czjm7ypgmy9o?at_medium=RSS&at_campaign=rss))
-- Hundreds of NHS jobs face the axe in Gloucestershire ([16 hours ago](https://gloucesternewscentre.co.uk/hundreds-of-nhs-jobs-face-the-axe-in-gloucestershire/))
-- Mum's message to anyone thinking of using food bank ([20 hours ago](https://www.bbc.com/news/articles/cly8yv3e1weo?at_medium=RSS&at_campaign=rss))
-- 'Posthumous awards' and 'airport parking scam' ([22 hours ago](https://www.bbc.com/news/articles/c14g83686g6o?at_medium=RSS&at_campaign=rss))
+- 'Dangerous parking' and '1,000 new homes' ([1 hours ago](https://www.bbc.com/news/articles/cx2qlpqdp5yo?at_medium=RSS&at_campaign=rss))
+- Busy route into city shuts overnight for two weeks ([4 hours ago](https://www.bbc.com/news/articles/c20160nlyg6o?at_medium=RSS&at_campaign=rss))
+- Locals unite to keep treasured field public ([4 hours ago](https://www.bbc.com/news/videos/c80dlr7pz28o?at_medium=RSS&at_campaign=rss))
+- Fraud trial builder has 'learned from mistakes' ([15 hours ago](https://www.bbc.com/news/articles/cly76y04990o?at_medium=RSS&at_campaign=rss))
+- Ex-NHS manager awarded £24,000 for unfair dismissal ([16 hours ago](https://www.bbc.com/news/articles/czjm7ypgmy9o?at_medium=RSS&at_campaign=rss))
+- Hundreds of NHS jobs face the axe in Gloucestershire ([17 hours ago](https://gloucesternewscentre.co.uk/hundreds-of-nhs-jobs-face-the-axe-in-gloucestershire/))
+- Mum's message to anyone thinking of using food bank ([21 hours ago](https://www.bbc.com/news/articles/cly8yv3e1weo?at_medium=RSS&at_campaign=rss))
+- 'Posthumous awards' and 'airport parking scam' ([23 hours ago](https://www.bbc.com/news/articles/c14g83686g6o?at_medium=RSS&at_campaign=rss))
 - TV presenter nearly loses hand in boat mishap ([1 days ago](https://www.bbc.com/news/articles/cedv0zwgdyeo?at_medium=RSS&at_campaign=rss))
 - New clubhouse plan for highest point in Cotswolds ([1 days ago](https://www.bbc.com/news/articles/cd7yxy2l50eo?at_medium=RSS&at_campaign=rss))
 - Builder in £2m fraud trial 'spent £28,000 on Rolex' ([1 days ago](https://www.bbc.com/news/articles/c1dx5zd2dvyo?at_medium=RSS&at_campaign=rss))
@@ -66,7 +66,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - HBD secures green light for first phase of landmark £1bn Golden Valley scheme ([25 days ago](https://www.cheltenham.gov.uk/news/article/3030/hbd_secures_green_light_for_first_phase_of_landmark_1bn_golden_valley_scheme))
 - Heat pump roadshow - ask an expert ([25 days ago](https://www.cheltenham.gov.uk/news/article/3029/heat_pump_roadshow_-_ask_an_expert))
 - Cheltenham achieves 6th place ranking in 2025 Climate Emergency UK Scorecards ([27 days ago](https://www.cheltenham.gov.uk/news/article/3028/cheltenham_achieves_6th_place_ranking_in_2025_climate_emergency_uk_scorecards))
-- £2.8m of funding approved to bring more new homes to Cheltenham ([27 days ago](https://www.cheltenham.gov.uk/news/article/3027/28m_of_funding_approved_to_bring_more_new_homes_to_cheltenham))
+- £2.8m of funding approved to bring more new homes to Cheltenham ([28 days ago](https://www.cheltenham.gov.uk/news/article/3027/28m_of_funding_approved_to_bring_more_new_homes_to_cheltenham))
 - New business grant fund supports local carbon reduction and enables cost savings ([29 days ago](https://www.cheltenham.gov.uk/news/article/3026/new_business_grant_fund_supports_local_carbon_reduction_and_enables_cost_savings))
 
 <!-- news_marker ends -->
