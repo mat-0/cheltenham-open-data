@@ -9,10 +9,16 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
-- TMC - Defects - Other FW6  Surface problem, 30th July :- [7952537](https://www.fixmystreet.com/report/7952537)
+- General road markings, lines and stud issues problem, 30th July :- [7952848](https://www.fixmystreet.com/report/7952848)
+- TMC - Defects -other CW6 problem, 30th July :- [7952895](https://www.fixmystreet.com/report/7952895)
+- TMC - Defects -other CW6 problem, 30th July :- [7952896](https://www.fixmystreet.com/report/7952896)
+- TMC - Defects -other CW6 problem, 30th July :- [7952897](https://www.fixmystreet.com/report/7952897)
+- TMC - Defects - Other FW6  Surface problem, 30th July :- [7952861](https://www.fixmystreet.com/report/7952861)
+- TMC - Defects -CW6 Potholes  problem, 30th July :- [7952855](https://www.fixmystreet.com/report/7952855)
+- TMC - Defects - Other FW6  Surface problem, 30th July :- [7952538](https://www.fixmystreet.com/report/7952538)
 - TMC - Defects -CW6 Potholes  problem, 30th July :- [7952536](https://www.fixmystreet.com/report/7952536)
 - TMC - Defects - Other FW6  Surface problem, 30th July :- [7952539](https://www.fixmystreet.com/report/7952539)
-- TMC - Defects - Other FW6  Surface problem, 30th July :- [7952538](https://www.fixmystreet.com/report/7952538)
+- TMC - Defects - Other FW6  Surface problem, 30th July :- [7952537](https://www.fixmystreet.com/report/7952537)
 - Tree is damaged problem, 30th July :- [7952392](https://www.fixmystreet.com/report/7952392)
 - Pot hole in road, 30th July :- [7952207](https://www.fixmystreet.com/report/7952207)
 - Pot hole after just being fixed. Also seems to be water there when it hasn’t rained. Maybe fix it properly, 30th July :- [7952203](https://www.fixmystreet.com/report/7952203)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - 2 traffic cones left behind by contractor fixing road, 29th July :- [7950787](https://www.fixmystreet.com/report/7950787)
 - Valiant Way New Roundabout Roadworks still in place, 29th July :- [7950548](https://www.fixmystreet.com/report/7950548)
 - Sign/waymarker is damaged problem, 29th July :- [7950424](https://www.fixmystreet.com/report/7950424)
-- TMC - Defects - Kerbs and Channels problem, 29th July :- [7950246](https://www.fixmystreet.com/report/7950246)
-- TMC - Defects - Kerbs and Channels problem, 29th July :- [7950245](https://www.fixmystreet.com/report/7950245)
-- TMC - Defects - Kerbs and Channels problem, 29th July :- [7950244](https://www.fixmystreet.com/report/7950244)
-- TMC - Defects - Other FW6  Surface problem, 29th July :- [7950240](https://www.fixmystreet.com/report/7950240)
-- TMC - Defects - Other FW6  Surface problem, 29th July :- [7950063](https://www.fixmystreet.com/report/7950063)
-- TMC - Defects -other CW6 problem, 29th July :- [7950048](https://www.fixmystreet.com/report/7950048)
 
 <!-- fix_marker ends -->
