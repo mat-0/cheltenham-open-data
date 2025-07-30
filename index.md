@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Wednesday, 30 July 2025
 
-- The average temperature today is 15.38˚C,
-- With highs of 15.47˚C and lows of 15.38˚C,
-- It may feel like 15.45˚C with broken clouds
+- The average temperature today is 14.82˚C,
+- With highs of 15.47˚C and lows of 14.82˚C,
+- It may feel like 14.81˚C with broken clouds
 - The wind speed is 1.86m/s and visibility is 10000m
-- The pressure is 1019hPa and humidity is 95%
+- The pressure is 1018hPa and humidity is 94%
 - The sun will rise at 04:27 and set at 20:01
 
 <!-- weather_marker ends -->
