@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Wednesday, 30 July 2025
 
-- The average temperature today is 19.1˚C,
-- With highs of 20.71˚C and lows of 18.3˚C,
-- It may feel like 19.05˚C with scattered clouds
-- The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 1020hPa and humidity is 76%
+- The average temperature today is 20.36˚C,
+- With highs of 21.66˚C and lows of 19.75˚C,
+- It may feel like 20.2˚C with scattered clouds
+- The wind speed is 1.79m/s and visibility is 10000m
+- The pressure is 1020hPa and humidity is 67%
 - The sun will rise at 04:27 and set at 20:01
 
 <!-- weather_marker ends -->
