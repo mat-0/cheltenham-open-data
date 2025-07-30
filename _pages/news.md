@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Fraud trial builder has 'learned from mistakes' ([9 hours ago](https://www.bbc.com/news/articles/cly76y04990o?at_medium=RSS&at_campaign=rss))
-- Ex-NHS manager awarded £24,000 for unfair dismissal ([10 hours ago](https://www.bbc.com/news/articles/czjm7ypgmy9o?at_medium=RSS&at_campaign=rss))
+- Fraud trial builder has 'learned from mistakes' ([10 hours ago](https://www.bbc.com/news/articles/cly76y04990o?at_medium=RSS&at_campaign=rss))
+- Ex-NHS manager awarded £24,000 for unfair dismissal ([11 hours ago](https://www.bbc.com/news/articles/czjm7ypgmy9o?at_medium=RSS&at_campaign=rss))
 - Hundreds of NHS jobs face the axe in Gloucestershire ([11 hours ago](https://gloucesternewscentre.co.uk/hundreds-of-nhs-jobs-face-the-axe-in-gloucestershire/))
-- Mum's message to anyone thinking of using food bank ([15 hours ago](https://www.bbc.com/news/articles/cly8yv3e1weo?at_medium=RSS&at_campaign=rss))
-- 'Posthumous awards' and 'airport parking scam' ([17 hours ago](https://www.bbc.com/news/articles/c14g83686g6o?at_medium=RSS&at_campaign=rss))
+- Mum's message to anyone thinking of using food bank ([16 hours ago](https://www.bbc.com/news/articles/cly8yv3e1weo?at_medium=RSS&at_campaign=rss))
+- 'Posthumous awards' and 'airport parking scam' ([18 hours ago](https://www.bbc.com/news/articles/c14g83686g6o?at_medium=RSS&at_campaign=rss))
 - TV presenter nearly loses hand in boat mishap ([22 hours ago](https://www.bbc.com/news/articles/cedv0zwgdyeo?at_medium=RSS&at_campaign=rss))
 - New clubhouse plan for highest point in Cotswolds ([22 hours ago](https://www.bbc.com/news/articles/cd7yxy2l50eo?at_medium=RSS&at_campaign=rss))
 - Builder in £2m fraud trial 'spent £28,000 on Rolex' ([1 days ago](https://www.bbc.com/news/articles/c1dx5zd2dvyo?at_medium=RSS&at_campaign=rss))
