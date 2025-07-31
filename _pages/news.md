@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Footbridge used by 500 people a day to be replaced ([2 hours ago](https://www.bbc.com/news/articles/clyjd9npy24o?at_medium=RSS&at_campaign=rss))
-- Veterans seek medal for comrades killed 60 years ago ([2 hours ago](https://www.bbc.com/news/articles/c23gjkpyzr0o?at_medium=RSS&at_campaign=rss))
-- Two men in court after body of boar found ([17 hours ago](https://www.bbc.com/news/articles/cgqnykl9lnqo?at_medium=RSS&at_campaign=rss))
-- Business owner says former store 'works a treat' ([18 hours ago](https://www.bbc.com/news/articles/cj3lm5dpxrdo?at_medium=RSS&at_campaign=rss))
-- 'Dangerous parking' and '1,000 new homes' ([23 hours ago](https://www.bbc.com/news/articles/cx2qlpqdp5yo?at_medium=RSS&at_campaign=rss))
+- Footbridge used by 500 people a day to be replaced ([3 hours ago](https://www.bbc.com/news/articles/clyjd9npy24o?at_medium=RSS&at_campaign=rss))
+- Veterans seek medal for comrades killed 60 years ago ([3 hours ago](https://www.bbc.com/news/articles/c23gjkpyzr0o?at_medium=RSS&at_campaign=rss))
+- Two men in court after body of boar found ([18 hours ago](https://www.bbc.com/news/articles/cgqnykl9lnqo?at_medium=RSS&at_campaign=rss))
+- Business owner says former store 'works a treat' ([19 hours ago](https://www.bbc.com/news/articles/cj3lm5dpxrdo?at_medium=RSS&at_campaign=rss))
+- 'Dangerous parking' and '1,000 new homes' ([1 days ago](https://www.bbc.com/news/articles/cx2qlpqdp5yo?at_medium=RSS&at_campaign=rss))
 - Busy route into city shuts overnight for two weeks ([1 days ago](https://www.bbc.com/news/articles/c20160nlyg6o?at_medium=RSS&at_campaign=rss))
 - Ex-foster carers accuse council of 'deceiving' them ([1 days ago](https://www.bbc.com/news/articles/czxygwdn1pyo?at_medium=RSS&at_campaign=rss))
 - Locals unite to keep treasured field public ([1 days ago](https://www.bbc.com/news/videos/c80dlr7pz28o?at_medium=RSS&at_campaign=rss))
@@ -59,13 +59,13 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - David ‘Syd’ Lawrence MBE 1964 – 2025 ([19 days ago](https://www.bbc.co.uk/sounds/play/p0lpkk2r?at_medium=RSS&at_campaign=rss))
 - Wanted appeal issued for Cheltenham man Christopher Hester ([20 days ago](https://gloucesternewscentre.co.uk/wanted-appeal-issued-for-cheltenham-man-christopher-hester/))
 - Council shake-up survey blasted as ‘cynical waste of money’ amid row over devolution ([20 days ago](https://gloucesternewscentre.co.uk/council-shake-up-survey-blasted-as-cynical-waste-of-money-amid-row-over-devolution/))
-- NCLB Party in the Park returns to Pittville Park this summer ([20 days ago](https://www.cheltenham.gov.uk/news/article/3033/nclb_party_in_the_park_returns_to_pittville_park_this_summer))
+- NCLB Party in the Park returns to Pittville Park this summer ([21 days ago](https://www.cheltenham.gov.uk/news/article/3033/nclb_party_in_the_park_returns_to_pittville_park_this_summer))
 - Council chiefs fear there will be a ‘tsunami’ of bids for 20mph limits ([21 days ago](https://gloucesternewscentre.co.uk/council-chiefs-fear-there-will-be-a-tsunami-of-bids-for-20mph-limits/))
 - Keeping Cheltenham town centre safe this summer ([21 days ago](https://www.cheltenham.gov.uk/news/article/3032/keeping_cheltenham_town_centre_safe_this_summer))
 - Horizon Aero Group Ltd named as company set to take Gloucestershire Airport to new heights ([22 days ago](https://www.cheltenham.gov.uk/news/article/3031/horizon_aero_group_ltd_named_as_company_set_to_take_gloucestershire_airport_to_new_heights))
 - HBD secures green light for first phase of landmark £1bn Golden Valley scheme ([26 days ago](https://www.cheltenham.gov.uk/news/article/3030/hbd_secures_green_light_for_first_phase_of_landmark_1bn_golden_valley_scheme))
 - Heat pump roadshow - ask an expert ([26 days ago](https://www.cheltenham.gov.uk/news/article/3029/heat_pump_roadshow_-_ask_an_expert))
-- Cheltenham achieves 6th place ranking in 2025 Climate Emergency UK Scorecards ([27 days ago](https://www.cheltenham.gov.uk/news/article/3028/cheltenham_achieves_6th_place_ranking_in_2025_climate_emergency_uk_scorecards))
+- Cheltenham achieves 6th place ranking in 2025 Climate Emergency UK Scorecards ([28 days ago](https://www.cheltenham.gov.uk/news/article/3028/cheltenham_achieves_6th_place_ranking_in_2025_climate_emergency_uk_scorecards))
 - £2.8m of funding approved to bring more new homes to Cheltenham ([28 days ago](https://www.cheltenham.gov.uk/news/article/3027/28m_of_funding_approved_to_bring_more_new_homes_to_cheltenham))
 
 <!-- news_marker ends -->
