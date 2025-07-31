@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Footbridge used by 500 people a day to be replaced ([44 minutes ago](https://www.bbc.com/news/articles/clyjd9npy24o?at_medium=RSS&at_campaign=rss))
-- Veterans seek medal for comrades killed 60 years ago ([47 minutes ago](https://www.bbc.com/news/articles/c23gjkpyzr0o?at_medium=RSS&at_campaign=rss))
-- Two men in court after body of boar found ([15 hours ago](https://www.bbc.com/news/articles/cgqnykl9lnqo?at_medium=RSS&at_campaign=rss))
-- Business owner says former store 'works a treat' ([16 hours ago](https://www.bbc.com/news/articles/cj3lm5dpxrdo?at_medium=RSS&at_campaign=rss))
-- 'Dangerous parking' and '1,000 new homes' ([21 hours ago](https://www.bbc.com/news/articles/cx2qlpqdp5yo?at_medium=RSS&at_campaign=rss))
+- Footbridge used by 500 people a day to be replaced ([1 hours ago](https://www.bbc.com/news/articles/clyjd9npy24o?at_medium=RSS&at_campaign=rss))
+- Veterans seek medal for comrades killed 60 years ago ([1 hours ago](https://www.bbc.com/news/articles/c23gjkpyzr0o?at_medium=RSS&at_campaign=rss))
+- Two men in court after body of boar found ([16 hours ago](https://www.bbc.com/news/articles/cgqnykl9lnqo?at_medium=RSS&at_campaign=rss))
+- Business owner says former store 'works a treat' ([17 hours ago](https://www.bbc.com/news/articles/cj3lm5dpxrdo?at_medium=RSS&at_campaign=rss))
+- 'Dangerous parking' and '1,000 new homes' ([22 hours ago](https://www.bbc.com/news/articles/cx2qlpqdp5yo?at_medium=RSS&at_campaign=rss))
 - Busy route into city shuts overnight for two weeks ([1 days ago](https://www.bbc.com/news/articles/c20160nlyg6o?at_medium=RSS&at_campaign=rss))
 - Ex-foster carers accuse council of 'deceiving' them ([1 days ago](https://www.bbc.com/news/articles/czxygwdn1pyo?at_medium=RSS&at_campaign=rss))
 - Locals unite to keep treasured field public ([1 days ago](https://www.bbc.com/news/videos/c80dlr7pz28o?at_medium=RSS&at_campaign=rss))
