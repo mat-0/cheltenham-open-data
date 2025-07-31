@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Bed mattress, 31st July :- [7963088](https://www.fixmystreet.com/report/7963088)
 - Large pothole near the roundabout on Telstar way, 31st July :- [7962466](https://www.fixmystreet.com/report/7962466)
 - Fly tipping rubbish, 31st July :- [7962078](https://www.fixmystreet.com/report/7962078)
 - 3 bags rubbish, 31st July :- [7962069](https://www.fixmystreet.com/report/7962069)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Crumbling/collapsing hole around CAT V cover, 31st July :- [7958825](https://www.fixmystreet.com/report/7958825)
 - TMC - Defects - Vegetation problem, 31st July :- [7958986](https://www.fixmystreet.com/report/7958986)
 - TMC - Defects - Vegetation problem, 31st July :- [7958740](https://www.fixmystreet.com/report/7958740)
-- Abandoned large cone, 31st July :- [7958147](https://www.fixmystreet.com/report/7958147)
 
 <!-- fix_marker ends -->
