@@ -12,10 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Footbridge used by 500 people a day to be replaced ([3 hours ago](https://www.bbc.com/news/articles/clyjd9npy24o?at_medium=RSS&at_campaign=rss))
-- Veterans seek medal for comrades killed 60 years ago ([3 hours ago](https://www.bbc.com/news/articles/c23gjkpyzr0o?at_medium=RSS&at_campaign=rss))
-- Two men in court after body of boar found ([18 hours ago](https://www.bbc.com/news/articles/cgqnykl9lnqo?at_medium=RSS&at_campaign=rss))
-- Business owner says former store 'works a treat' ([19 hours ago](https://www.bbc.com/news/articles/cj3lm5dpxrdo?at_medium=RSS&at_campaign=rss))
+- 'Naked dog walker' and night glow bridge closure ([33 minutes ago](https://www.bbc.com/news/articles/cq58llzwj1wo?at_medium=RSS&at_campaign=rss))
+- Footbridge used by 500 people a day to be replaced ([4 hours ago](https://www.bbc.com/news/articles/clyjd9npy24o?at_medium=RSS&at_campaign=rss))
+- Veterans seek medal for comrades killed 60 years ago ([4 hours ago](https://www.bbc.com/news/articles/c23gjkpyzr0o?at_medium=RSS&at_campaign=rss))
+- Two men in court after body of boar found ([19 hours ago](https://www.bbc.com/news/articles/cgqnykl9lnqo?at_medium=RSS&at_campaign=rss))
+- Business owner says former store 'works a treat' ([20 hours ago](https://www.bbc.com/news/articles/cj3lm5dpxrdo?at_medium=RSS&at_campaign=rss))
 - 'Dangerous parking' and '1,000 new homes' ([1 days ago](https://www.bbc.com/news/articles/cx2qlpqdp5yo?at_medium=RSS&at_campaign=rss))
 - Busy route into city shuts overnight for two weeks ([1 days ago](https://www.bbc.com/news/articles/c20160nlyg6o?at_medium=RSS&at_campaign=rss))
 - Ex-foster carers accuse council of 'deceiving' them ([1 days ago](https://www.bbc.com/news/articles/czxygwdn1pyo?at_medium=RSS&at_campaign=rss))
@@ -44,7 +45,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Talks underway over possible reopening of Cheltenham tip ([9 days ago](https://gloucesternewscentre.co.uk/talks-underway-over-possible-reopening-of-cheltenham-tip/))
 - Adult Social Care annual report published ([9 days ago](https://gloucesternewscentre.co.uk/adult-social-care-annual-report-published/))
 - Local music festival hits the high note for Sue Ryder ([12 days ago](https://gloucesternewscentre.co.uk/local-music-festival-hits-the-high-note-for-sue-ryder/))
-- BBC Radio Gloucestershire Special ([12 days ago](https://www.bbc.co.uk/sounds/play/p0lqz0z2?at_medium=RSS&at_campaign=rss))
 - Key road near Cheltenham station to closed in one direction ([13 days ago](https://gloucesternewscentre.co.uk/key-road-near-cheltenham-station-to-closed-in-one-direction/))
 - Decision on David Lloyd club amid odour fears from landfill site ([13 days ago](https://gloucesternewscentre.co.uk/decision-on-david-lloyd-club-amid-odour-fears-from-landfill-site/))
 - 17 Cheltenham projects awarded over £136k from Neighbourhood Fund ([13 days ago](https://gloucesternewscentre.co.uk/17-cheltenham-projects-awarded-over-136k-from-neighbourhood-fund/))
@@ -66,6 +66,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - HBD secures green light for first phase of landmark £1bn Golden Valley scheme ([26 days ago](https://www.cheltenham.gov.uk/news/article/3030/hbd_secures_green_light_for_first_phase_of_landmark_1bn_golden_valley_scheme))
 - Heat pump roadshow - ask an expert ([26 days ago](https://www.cheltenham.gov.uk/news/article/3029/heat_pump_roadshow_-_ask_an_expert))
 - Cheltenham achieves 6th place ranking in 2025 Climate Emergency UK Scorecards ([28 days ago](https://www.cheltenham.gov.uk/news/article/3028/cheltenham_achieves_6th_place_ranking_in_2025_climate_emergency_uk_scorecards))
-- £2.8m of funding approved to bring more new homes to Cheltenham ([28 days ago](https://www.cheltenham.gov.uk/news/article/3027/28m_of_funding_approved_to_bring_more_new_homes_to_cheltenham))
+- £2.8m of funding approved to bring more new homes to Cheltenham ([29 days ago](https://www.cheltenham.gov.uk/news/article/3027/28m_of_funding_approved_to_bring_more_new_homes_to_cheltenham))
 
 <!-- news_marker ends -->
