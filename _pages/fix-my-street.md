@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Unfinished panting of yellow lines, 31st July :- [7960098](https://www.fixmystreet.com/report/7960098)
 - Path erosion, 31st July :- [7959636](https://www.fixmystreet.com/report/7959636)
 - Tree is damaged problem, 31st July :- [7959666](https://www.fixmystreet.com/report/7959666)
 - TMC - Defects - Signs & Street Furniture problem, 31st July :- [7959677](https://www.fixmystreet.com/report/7959677)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Tree is damaged problem, 30th July :- [7955747](https://www.fixmystreet.com/report/7955747)
 - Extensive building works are being undertaken at a property 2 doors down from the church. The builders have cordoned off part of the on street parking for their vehicles. Other contractors mainly park in all the other onstreet parking. 1. One set of contractors 'Belt and Braces Roofing' are repeatedly parking vans on the opposite side of the road on single yellow lines and on the pavement. 2. This is a bus route and due to the narrowing of the road, there is congestion with all these vehicles. Impatient drivers are now mounting the pavement and driving down it to get through the road. The pavement is very well used by pedestrians so there is a risk of someone being hurt and this is a busy 'quiet' cycle route..., 30th July :- [7955637](https://www.fixmystreet.com/report/7955637)
 - Mature Horse Chestnut undermining perimeter wall, 30th July :- [7955539](https://www.fixmystreet.com/report/7955539)
-- Fence falling down into path, 30th July :- [7955473](https://www.fixmystreet.com/report/7955473)
 
 <!-- fix_marker ends -->
