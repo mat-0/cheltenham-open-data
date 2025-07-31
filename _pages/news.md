@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Two men in court after body of boar found ([12 hours ago](https://www.bbc.com/news/articles/cgqnykl9lnqo?at_medium=RSS&at_campaign=rss))
+- Two men in court after body of boar found ([13 hours ago](https://www.bbc.com/news/articles/cgqnykl9lnqo?at_medium=RSS&at_campaign=rss))
 - Business owner says former store 'works a treat' ([13 hours ago](https://www.bbc.com/news/articles/cj3lm5dpxrdo?at_medium=RSS&at_campaign=rss))
-- 'Dangerous parking' and '1,000 new homes' ([17 hours ago](https://www.bbc.com/news/articles/cx2qlpqdp5yo?at_medium=RSS&at_campaign=rss))
-- Busy route into city shuts overnight for two weeks ([20 hours ago](https://www.bbc.com/news/articles/c20160nlyg6o?at_medium=RSS&at_campaign=rss))
-- Ex-foster carers accuse council of 'deceiving' them ([21 hours ago](https://www.bbc.com/news/articles/czxygwdn1pyo?at_medium=RSS&at_campaign=rss))
-- Locals unite to keep treasured field public ([21 hours ago](https://www.bbc.com/news/videos/c80dlr7pz28o?at_medium=RSS&at_campaign=rss))
+- 'Dangerous parking' and '1,000 new homes' ([18 hours ago](https://www.bbc.com/news/articles/cx2qlpqdp5yo?at_medium=RSS&at_campaign=rss))
+- Busy route into city shuts overnight for two weeks ([21 hours ago](https://www.bbc.com/news/articles/c20160nlyg6o?at_medium=RSS&at_campaign=rss))
+- Ex-foster carers accuse council of 'deceiving' them ([22 hours ago](https://www.bbc.com/news/articles/czxygwdn1pyo?at_medium=RSS&at_campaign=rss))
+- Locals unite to keep treasured field public ([22 hours ago](https://www.bbc.com/news/videos/c80dlr7pz28o?at_medium=RSS&at_campaign=rss))
 - Fraud trial builder has 'learned from mistakes' ([1 days ago](https://www.bbc.com/news/articles/cly76y04990o?at_medium=RSS&at_campaign=rss))
 - Ex-NHS manager awarded £24,000 for unfair dismissal ([1 days ago](https://www.bbc.com/news/articles/czjm7ypgmy9o?at_medium=RSS&at_campaign=rss))
 - Hundreds of NHS jobs face the axe in Gloucestershire ([1 days ago](https://gloucesternewscentre.co.uk/hundreds-of-nhs-jobs-face-the-axe-in-gloucestershire/))
