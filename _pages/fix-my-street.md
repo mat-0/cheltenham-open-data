@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large pothole near the roundabout on Telstar way, 31st July :- [7962466](https://www.fixmystreet.com/report/7962466)
 - Fly tipping rubbish, 31st July :- [7962078](https://www.fixmystreet.com/report/7962078)
 - 3 bags rubbish, 31st July :- [7962069](https://www.fixmystreet.com/report/7962069)
 - Gas Cylinders, 31st July :- [7962065](https://www.fixmystreet.com/report/7962065)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 31st July :- [7958986](https://www.fixmystreet.com/report/7958986)
 - TMC - Defects - Vegetation problem, 31st July :- [7958740](https://www.fixmystreet.com/report/7958740)
 - Abandoned large cone, 31st July :- [7958147](https://www.fixmystreet.com/report/7958147)
-- Garden waste crew when entering the road have noticed a tree has fallen blocking access to larger vehicles, 31st July :- [7958070](https://www.fixmystreet.com/report/7958070)
 
 <!-- fix_marker ends -->
