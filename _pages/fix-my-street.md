@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fly tipping rubbish, 31st July :- [7962078](https://www.fixmystreet.com/report/7962078)
+- 3 bags rubbish, 31st July :- [7962069](https://www.fixmystreet.com/report/7962069)
+- Gas Cylinders, 31st July :- [7962065](https://www.fixmystreet.com/report/7962065)
 - Pavement eroded, kerb edge protrudes 1 - 2 inches, 31st July :- [7961976](https://www.fixmystreet.com/report/7961976)
 - The traffic lights are not functioning correctly and are causing massive queues in all directions, 31st July :- [7961679](https://www.fixmystreet.com/report/7961679)
 - H box faded , now being ignored by the garage and being parked across., 31st July :- [7961562](https://www.fixmystreet.com/report/7961562)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 31st July :- [7958740](https://www.fixmystreet.com/report/7958740)
 - Abandoned large cone, 31st July :- [7958147](https://www.fixmystreet.com/report/7958147)
 - Garden waste crew when entering the road have noticed a tree has fallen blocking access to larger vehicles, 31st July :- [7958070](https://www.fixmystreet.com/report/7958070)
-- Mud of shared cycle/foot path, 30th July :- [7957270](https://www.fixmystreet.com/report/7957270)
-- Street Lamp obstructed by tree, 30th July :- [7957252](https://www.fixmystreet.com/report/7957252)
-- Giant hogweed plant in flower, 30th July :- [7957214](https://www.fixmystreet.com/report/7957214)
 
 <!-- fix_marker ends -->
