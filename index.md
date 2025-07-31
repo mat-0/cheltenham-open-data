@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Thursday, 31 July 2025
 
-- The average temperature today is 20.93˚C,
-- With highs of 23.17˚C and lows of 19.98˚C,
-- It may feel like 21.04˚C with broken clouds
+- The average temperature today is 21.1˚C,
+- With highs of 23.32˚C and lows of 19.75˚C,
+- It may feel like 21.3˚C with scattered clouds
 - The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1015hPa and humidity is 75%
+- The pressure is 1015hPa and humidity is 78%
 - The sun will rise at 04:29 and set at 20:00
 
 <!-- weather_marker ends -->

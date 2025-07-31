@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pavement eroded, kerb edge protrudes 1 - 2 inches, 31st July :- [7961976](https://www.fixmystreet.com/report/7961976)
 - The traffic lights are not functioning correctly and are causing massive queues in all directions, 31st July :- [7961679](https://www.fixmystreet.com/report/7961679)
 - H box faded , now being ignored by the garage and being parked across., 31st July :- [7961562](https://www.fixmystreet.com/report/7961562)
 - New cycle path installed not flooded before. Now water all over the road to Hare & Hounds PH. It would appear work done constructing the cycle path is either inadequate or damaged the existing infrastructure. Water was coming out of drains., 31st July :- [7961474](https://www.fixmystreet.com/report/7961474)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Mud of shared cycle/foot path, 30th July :- [7957270](https://www.fixmystreet.com/report/7957270)
 - Street Lamp obstructed by tree, 30th July :- [7957252](https://www.fixmystreet.com/report/7957252)
 - Giant hogweed plant in flower, 30th July :- [7957214](https://www.fixmystreet.com/report/7957214)
-- The publis Highway road is breaking down. The majority of the wearing course has broken away and is hazardous to drive and cycle over., 30th July :- [7956809](https://www.fixmystreet.com/report/7956809)
 
 <!-- fix_marker ends -->
