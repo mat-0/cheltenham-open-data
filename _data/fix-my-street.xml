@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:georss="http://www.georss.org/georss"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
+ xmlns:georss="http://www.georss.org/georss"
 >
 
 <channel>
@@ -12,6 +12,51 @@
 <description>The latest local problems reported by users</description>
 <language>en-gb</language>
 
+<item>
+<title>TMC - Defects - Kerbs and Channels problem, 1st August</title>
+<link>https://www.fixmystreet.com/report/7963566</link>
+<description>28 day with 2 way stop and go plus temporary footway closure please lift and replace x1 broken kerb 500x150x20mm stats required (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7963566&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Kerbs and Channels</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7963566</guid>
+<pubDate>Fri, 01 Aug 2025 08:24:01 +0100</pubDate>
+<georss:point>51.9041138 -2.12013200000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Kerbs and Channels problem, 1st August</title>
+<link>https://www.fixmystreet.com/report/7963565</link>
+<description>28 day with 2 way stop and go plus temporary footway closure please lift and replace x1 broken kerb 900x150x20mm stats required (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7963565&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Kerbs and Channels</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7963565</guid>
+<pubDate>Fri, 01 Aug 2025 08:24:01 +0100</pubDate>
+<georss:point>51.9038775857425 -2.11810972915465</georss:point>
+</item>
+<item>
+<title>Tree is damaged problem, 1st August</title>
+<link>https://www.fixmystreet.com/report/7963551</link>
+<description>Please pass to relevant ahr covering this area. Please send first vegetation letter to St Thomas Catholic Primary school instructing them to cut back overhanging tree branches obstructing the footway along Marsland Road. &#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7963551&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Tree is damaged</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7963551</guid>
+<pubDate>Fri, 01 Aug 2025 08:16:17 +0100</pubDate>
+<georss:point>51.904007 -2.119833</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Vegetation problem, 1st August</title>
+<link>https://www.fixmystreet.com/report/7963562</link>
+<description>28 day with give and take plus temporary footway closure please cut back low hanging tree branches obstructing the footway back to boundary approx 5.5m x 2m x 2.5m (Overgrown Tree)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7963562&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Vegetation</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7963562</guid>
+<pubDate>Fri, 01 Aug 2025 08:12:41 +0100</pubDate>
+<georss:point>51.9039395025107 -2.11950043916215</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Kerbs and Channels problem, 1st August</title>
+<link>https://www.fixmystreet.com/report/7963561</link>
+<description>28 day with give and take plus temporary footway closure please lift and replace x1 broken radius kerb 900x150x20mm stats required (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7963561&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Kerbs and Channels</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7963561</guid>
+<pubDate>Fri, 01 Aug 2025 08:12:41 +0100</pubDate>
+<georss:point>51.9032270302073 -2.11961841179018</georss:point>
+</item>
 <item>
 <title>Multiple defects circular path Caernarvon Park, 1st August</title>
 <link>https://www.fixmystreet.com/report/7963274</link>
@@ -146,51 +191,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/7960098</guid>
 <pubDate>Thu, 31 Jul 2025 12:30:42 +0100</pubDate>
 <georss:point>51.902336 -2.070266</georss:point>
-</item>
-<item>
-<title>Path erosion, 31st July</title>
-<link>https://www.fixmystreet.com/report/7959636</link>
-<description>Location shown in photo attached. It&amp;#39;s along the path across the fields joining the 2 flood defences / reservoirs from Prestbury towards Slad Way and on towards Battledown. It&amp;#39;s at the specific point of the bridge over the stream, there&amp;#39;s a lot of path erosion where dogs run out. There&amp;#39;s so much now that roots are exposed and there are trip hazards near deepish water where it pools. The path is becoming narrower and the sooner it is bolstered the less the cost will be to repair it, which will eventually have to happen. It&amp;#39;s inevitable.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/7959636.0.jpeg?41259bd4&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Bouncers Lane, Lynworth, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7959636&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Parks/landscapes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7959636</guid>
-<pubDate>Thu, 31 Jul 2025 11:32:01 +0100</pubDate>
-<georss:point>51.905908 -2.043361</georss:point>
-</item>
-<item>
-<title>Tree is damaged problem, 31st July</title>
-<link>https://www.fixmystreet.com/report/7959666</link>
-<description>Mature Horse Chestnut undermining perimeter wall&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7959666&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Tree is damaged</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7959666</guid>
-<pubDate>Thu, 31 Jul 2025 11:16:47 +0100</pubDate>
-<georss:point>51.911868 -2.104019</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Signs &amp; Street Furniture problem, 31st July</title>
-<link>https://www.fixmystreet.com/report/7959677</link>
-<description>Take up and Reset Tree protection 1000mm x 600mm &amp;#10;Give and Take TM &amp;#10;Opposite number 2 (Damaged Street Furniture)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7959677&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Signs &amp; Street Furniture</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7959677</guid>
-<pubDate>Thu, 31 Jul 2025 10:45:45 +0100</pubDate>
-<georss:point>51.8832332 -2.1213852</georss:point>
-</item>
-<item>
-<title>Abandoned Roadworks on Pavement, 31st July</title>
-<link>https://www.fixmystreet.com/report/7959262</link>
-<description>Gloucester Road (B4633) - on pavement by St Marks Methodist Chapel.&amp;#10;&amp;#10;You have closed my previous report (7511420) stating that my enquiry has been &amp;#39;addressed&amp;#39;. This is disingenuous by GCC Highways. Three months after having reported this issue (via Fix My Street) I had to involve my GCC Councillor to find out why this obstruction continued to be in place. My councillor (not GCC Highways) informed me that the obstruction is due to Virgin Media (VM) infrastructure causing a trip hazard and GCC Highway&amp;#39;s inability to get VM to fix their infrastructure.&amp;#10;&amp;#10;I will not consider this report to be &amp;#39;addressed&amp;#39; until VM have fixed their infrastructure and this obstruction removed. Please DO NOT close this report until this is the case.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 1-8, Stow Court, Hatherley, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7959262&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Obstruction by unpermitted skip, scaffolding, building material on pavement</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7959262</guid>
-<pubDate>Thu, 31 Jul 2025 10:36:58 +0100</pubDate>
-<georss:point>51.898954 -2.097441</georss:point>
-</item>
-<item>
-<title>Crumbling/collapsing hole around CAT V cover, 31st July</title>
-<link>https://www.fixmystreet.com/report/7958825</link>
-<description>Pavement around CAT V cover directly in front of driveway&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/7958825.0.jpeg?ddfe4067&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 11, South Bank, Wymans Brook, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7958825&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Other damage to pavement i.e. cobbles, raised mound/surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7958825</guid>
-<pubDate>Thu, 31 Jul 2025 09:48:48 +0100</pubDate>
-<georss:point>51.90599 -2.103532</georss:point>
 </item>
 </channel>
 </rss>
