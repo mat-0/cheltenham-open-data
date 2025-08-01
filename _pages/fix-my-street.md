@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- New line markings moving cars to be problem elsewhere, 1st August :- [7966810](https://www.fixmystreet.com/report/7966810)
+- New line markings on everest and hilary rosd causing unsafe and dangerous issues, 1st August :- [7966799](https://www.fixmystreet.com/report/7966799)
+- BT works on Hucclecote Green, 1st August :- [7966711](https://www.fixmystreet.com/report/7966711)
+- Huge pothole on the pavement, crumbling tarmac, and broken cement work near the window which is tripping members of public specially those on mobility scooters., 1st August :- [7966631](https://www.fixmystreet.com/report/7966631)
 - Line marking, 1st August :- [7966179](https://www.fixmystreet.com/report/7966179)
 - TMC - Defects - Vegetation problem, 1st August :- [7966242](https://www.fixmystreet.com/report/7966242)
 - Serious dip/ridge offside wheel, likely to cause accident, 1st August :- [7966101](https://www.fixmystreet.com/report/7966101)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Crack through tarmac, 1st August :- [7965418](https://www.fixmystreet.com/report/7965418)
 - A pothole in pavement problem, 1st August :- [7965640](https://www.fixmystreet.com/report/7965640)
 - Street lamp not working, 1st August :- [7965296](https://www.fixmystreet.com/report/7965296)
-- Area of 'parkland' neglected for several years, 1st August :- [7964931](https://www.fixmystreet.com/report/7964931)
-- TMC - Defects - Vegetation problem, 1st August :- [7965085](https://www.fixmystreet.com/report/7965085)
-- St Marys School boundary hedge, 1st August :- [7964784](https://www.fixmystreet.com/report/7964784)
-- Metal bollard left behind after pavement repair, 1st August :- [7964453](https://www.fixmystreet.com/report/7964453)
 
 <!-- fix_marker ends -->
