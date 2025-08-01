@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Outside 277 priors road, 1st August :- [7963213](https://www.fixmystreet.com/report/7963213)
 - Bed mattress, 31st July :- [7963088](https://www.fixmystreet.com/report/7963088)
 - Large pothole near the roundabout on Telstar way, 31st July :- [7962466](https://www.fixmystreet.com/report/7962466)
 - Fly tipping rubbish, 31st July :- [7962078](https://www.fixmystreet.com/report/7962078)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Abandoned Roadworks on Pavement, 31st July :- [7959262](https://www.fixmystreet.com/report/7959262)
 - Crumbling/collapsing hole around CAT V cover, 31st July :- [7958825](https://www.fixmystreet.com/report/7958825)
 - TMC - Defects - Vegetation problem, 31st July :- [7958986](https://www.fixmystreet.com/report/7958986)
-- TMC - Defects - Vegetation problem, 31st July :- [7958740](https://www.fixmystreet.com/report/7958740)
 
 <!-- fix_marker ends -->
