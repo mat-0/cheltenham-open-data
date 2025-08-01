@@ -12,15 +12,15 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- 'Stranded dolphin' and 'flytipping in city' ([16 minutes ago](https://www.bbc.com/news/articles/cx2p61r21gxo?at_medium=RSS&at_campaign=rss))
-- NHS spent '£100k' fighting 'bullied' manager in court ([4 hours ago](https://www.bbc.com/news/articles/c5yp1kz3zy1o?at_medium=RSS&at_campaign=rss))
-- Eddie the Eagle ate out of bins before Olympics ([4 hours ago](https://www.bbc.com/news/articles/c4gj7p814gro?at_medium=RSS&at_campaign=rss))
-- Mum-of-four starts support group after birth trauma ([4 hours ago](https://www.bbc.com/news/articles/cpv02lngnxyo?at_medium=RSS&at_campaign=rss))
-- Appeal for information after man assaults three males in Cheltenham ([16 hours ago](https://gloucesternewscentre.co.uk/appeal-for-information-after-man-assaults-three-males-in-cheltenham/))
-- New bus routes set to improve in Cheltenham, Gloucester and Stroud ([16 hours ago](https://gloucesternewscentre.co.uk/new-bus-routes-set-to-improve-in-cheltenham-gloucester-and-stroud/))
-- Toddler's death was 'tragic accident', coroner rules ([17 hours ago](https://www.bbc.com/news/articles/cdd36y30y7go?at_medium=RSS&at_campaign=rss))
-- Annual Pride event faces financial struggles ([18 hours ago](https://www.bbc.com/news/articles/c78m5588k52o?at_medium=RSS&at_campaign=rss))
-- Hundreds of appointments cancelled during strike ([23 hours ago](https://www.bbc.com/news/articles/c1ejlld1nepo?at_medium=RSS&at_campaign=rss))
+- 'Stranded dolphin' and 'flytipping in city' ([1 hours ago](https://www.bbc.com/news/articles/cx2p61r21gxo?at_medium=RSS&at_campaign=rss))
+- NHS spent '£100k' fighting 'bullied' manager in court ([5 hours ago](https://www.bbc.com/news/articles/c5yp1kz3zy1o?at_medium=RSS&at_campaign=rss))
+- Eddie the Eagle ate out of bins before Olympics ([5 hours ago](https://www.bbc.com/news/articles/c4gj7p814gro?at_medium=RSS&at_campaign=rss))
+- Mum-of-four starts support group after birth trauma ([5 hours ago](https://www.bbc.com/news/articles/cpv02lngnxyo?at_medium=RSS&at_campaign=rss))
+- Appeal for information after man assaults three males in Cheltenham ([17 hours ago](https://gloucesternewscentre.co.uk/appeal-for-information-after-man-assaults-three-males-in-cheltenham/))
+- New bus routes set to improve in Cheltenham, Gloucester and Stroud ([17 hours ago](https://gloucesternewscentre.co.uk/new-bus-routes-set-to-improve-in-cheltenham-gloucester-and-stroud/))
+- Toddler's death was 'tragic accident', coroner rules ([18 hours ago](https://www.bbc.com/news/articles/cdd36y30y7go?at_medium=RSS&at_campaign=rss))
+- Annual Pride event faces financial struggles ([19 hours ago](https://www.bbc.com/news/articles/c78m5588k52o?at_medium=RSS&at_campaign=rss))
+- Hundreds of appointments cancelled during strike ([1 days ago](https://www.bbc.com/news/articles/c1ejlld1nepo?at_medium=RSS&at_campaign=rss))
 - Future of Cavendish House still unclear in Cheltenham ([1 days ago](https://www.bbc.co.uk/sounds/play/p0lt903y?at_medium=RSS&at_campaign=rss))
 - Footbridge used by 500 people a day to be replaced ([1 days ago](https://www.bbc.com/news/articles/clyjd9npy24o?at_medium=RSS&at_campaign=rss))
 - Veterans seek medal for comrades killed 60 years ago ([1 days ago](https://www.bbc.com/news/articles/c23gjkpyzr0o?at_medium=RSS&at_campaign=rss))
@@ -64,7 +64,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Keeping Cheltenham town centre safe this summer ([22 days ago](https://www.cheltenham.gov.uk/news/article/3032/keeping_cheltenham_town_centre_safe_this_summer))
 - Horizon Aero Group Ltd named as company set to take Gloucestershire Airport to new heights ([23 days ago](https://www.cheltenham.gov.uk/news/article/3031/horizon_aero_group_ltd_named_as_company_set_to_take_gloucestershire_airport_to_new_heights))
 - HBD secures green light for first phase of landmark £1bn Golden Valley scheme ([27 days ago](https://www.cheltenham.gov.uk/news/article/3030/hbd_secures_green_light_for_first_phase_of_landmark_1bn_golden_valley_scheme))
-- Heat pump roadshow - ask an expert ([27 days ago](https://www.cheltenham.gov.uk/news/article/3029/heat_pump_roadshow_-_ask_an_expert))
+- Heat pump roadshow - ask an expert ([28 days ago](https://www.cheltenham.gov.uk/news/article/3029/heat_pump_roadshow_-_ask_an_expert))
 - Cheltenham achieves 6th place ranking in 2025 Climate Emergency UK Scorecards ([29 days ago](https://www.cheltenham.gov.uk/news/article/3028/cheltenham_achieves_6th_place_ranking_in_2025_climate_emergency_uk_scorecards))
 
 <!-- news_marker ends -->
