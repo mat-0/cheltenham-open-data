@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Friday, 01 August 2025
 
-- The average temperature today is 19.6˚C,
-- With highs of 20.55˚C and lows of 19.18˚C,
-- It may feel like 19˚C with scattered clouds
-- The wind speed is 3.13m/s and visibility is 10000m
-- The pressure is 1017hPa and humidity is 53%
+- The average temperature today is 18.96˚C,
+- With highs of 19.75˚C and lows of 18.15˚C,
+- It may feel like 18.27˚C with few clouds
+- The wind speed is 2.24m/s and visibility is 10000m
+- The pressure is 1017hPa and humidity is 52%
 - The sun will rise at 04:30 and set at 19:58
 
 <!-- weather_marker ends -->

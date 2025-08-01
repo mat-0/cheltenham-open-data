@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Traffic control lights, 1st August :- [7967210](https://www.fixmystreet.com/report/7967210)
 - Several pavement slabs broken and/or unstable, 1st August :- [7966836](https://www.fixmystreet.com/report/7966836)
 - Parking issues where new double yellow create parking issues for dispersed traffic from everest road., 1st August :- [7966820](https://www.fixmystreet.com/report/7966820)
 - New line markings moving cars to be problem elsewhere, 1st August :- [7966810](https://www.fixmystreet.com/report/7966810)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Issue with burnt property, 1st August :- [7965493](https://www.fixmystreet.com/report/7965493)
 - Bollard shell is damaged/vandalised problem, 1st August :- [7965643](https://www.fixmystreet.com/report/7965643)
 - TMC - Defects - Signs & Street Furniture problem, 1st August :- [7965649](https://www.fixmystreet.com/report/7965649)
-- Crack through tarmac, 1st August :- [7965418](https://www.fixmystreet.com/report/7965418)
 
 <!-- fix_marker ends -->
