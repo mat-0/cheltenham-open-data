@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Serious dip/ridge offside wheel, likely to cause accident, 1st August :- [7966101](https://www.fixmystreet.com/report/7966101)
+- Following resurfacing the portable toilet delivered and used has not been collected .... neen there for two weeks used, 1st August :- [7965893](https://www.fixmystreet.com/report/7965893)
+- TMC - Defects - Vegetation problem, 1st August :- [7966025](https://www.fixmystreet.com/report/7966025)
+- Tree is damaged problem, 1st August :- [7966014](https://www.fixmystreet.com/report/7966014)
 - Road causing car damage, 1st August :- [7965798](https://www.fixmystreet.com/report/7965798)
 - TMC - Defects -FW6 Potholes problem, 1st August :- [7965829](https://www.fixmystreet.com/report/7965829)
 - Issue with burnt property, 1st August :- [7965493](https://www.fixmystreet.com/report/7965493)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Outside children play area, Cleevelands, 1st August :- [7963920](https://www.fixmystreet.com/report/7963920)
 - TMC - Defects - Kerbs and Channels problem, 1st August :- [7964166](https://www.fixmystreet.com/report/7964166)
 - TMC - Defects - Other FW6  Surface problem, 1st August :- [7963769](https://www.fixmystreet.com/report/7963769)
-- Multiple potholes in the road, 1st August :- [7963715](https://www.fixmystreet.com/report/7963715)
-- Tree is damaged problem, 1st August :- [7963754](https://www.fixmystreet.com/report/7963754)
-- TMC - Defects - Kerbs and Channels problem, 1st August :- [7963566](https://www.fixmystreet.com/report/7963566)
-- TMC - Defects - Kerbs and Channels problem, 1st August :- [7963565](https://www.fixmystreet.com/report/7963565)
 
 <!-- fix_marker ends -->
