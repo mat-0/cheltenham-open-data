@@ -1,17 +1,60 @@
 {
-    "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
-    "meta": {
-        "publisher": "Environment Agency",
-        "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
-        "version": "0.9",
-        "comment": "Status: Beta service",
-        "hasFormat": [
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.csv?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.html?county=Gloucestershire"
-        ]
+  "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
+  "meta": {
+    "publisher": "Environment Agency",
+    "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
+    "version": "0.9",
+    "comment": "Status: Beta service",
+    "hasFormat": [
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.csv",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
+    ]
+  },
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF07Cole",
+      "description": "River Cole, Dorcan Brook and South Marston Brook",
+      "eaAreaName": "Thames",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF07Cole",
+        "county": "Oxfordshire, Swindon",
+        "notation": "061WAF07Cole",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF07Cole/polygon",
+        "riverOrSea": "River Cole"
+      },
+      "floodAreaID": "061WAF07Cole",
+      "isTidal": false,
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-08-01T08:56:00",
+      "timeRaised": "2025-08-01T08:56:18",
+      "timeSeverityChanged": "2025-08-01T08:56:00"
     },
-    "items": []
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF410",
+      "description": "Bridge Road, Emsworth",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF410",
+        "county": "Hampshire",
+        "notation": "065WAF410",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF410/polygon",
+        "riverOrSea": "The West Brook"
+      },
+      "floodAreaID": "065WAF410",
+      "isTidal": false,
+      "message": "Water levels in the West Brook at Emsworth are now falling. \nShowers are forecast over the next couple of hours. This may cause a minor increase in water level, but we do not expect it to cause a significant impact. The weather forecast for Friday and Saturday is dry. We expect water levels to return to normal by tomorrow. \nWe will continue to monitor the river and weather forecast information. \n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-07-31T20:31:00",
+      "timeRaised": "2025-07-31T20:31:42",
+      "timeSeverityChanged": "2025-07-31T20:31:00"
+    }
+  ]
 }
