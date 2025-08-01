@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Kerbs and Channels problem, 1st August :- [7963566](https://www.fixmystreet.com/report/7963566)
+- TMC - Defects - Kerbs and Channels problem, 1st August :- [7963565](https://www.fixmystreet.com/report/7963565)
+- Tree is damaged problem, 1st August :- [7963551](https://www.fixmystreet.com/report/7963551)
+- TMC - Defects - Vegetation problem, 1st August :- [7963562](https://www.fixmystreet.com/report/7963562)
+- TMC - Defects - Kerbs and Channels problem, 1st August :- [7963561](https://www.fixmystreet.com/report/7963561)
+- Multiple defects circular path Caernarvon Park, 1st August :- [7963274](https://www.fixmystreet.com/report/7963274)
 - Outside 277 priors road, 1st August :- [7963213](https://www.fixmystreet.com/report/7963213)
 - Bed mattress, 31st July :- [7963088](https://www.fixmystreet.com/report/7963088)
 - Large pothole near the roundabout on Telstar way, 31st July :- [7962466](https://www.fixmystreet.com/report/7962466)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Signals heads have rotated., 31st July :- [7961115](https://www.fixmystreet.com/report/7961115)
 - Fly tip, 31st July :- [7960980](https://www.fixmystreet.com/report/7960980)
 - Unfinished panting of yellow lines, 31st July :- [7960098](https://www.fixmystreet.com/report/7960098)
-- Path erosion, 31st July :- [7959636](https://www.fixmystreet.com/report/7959636)
-- Tree is damaged problem, 31st July :- [7959666](https://www.fixmystreet.com/report/7959666)
-- TMC - Defects - Signs & Street Furniture problem, 31st July :- [7959677](https://www.fixmystreet.com/report/7959677)
-- Abandoned Roadworks on Pavement, 31st July :- [7959262](https://www.fixmystreet.com/report/7959262)
-- Crumbling/collapsing hole around CAT V cover, 31st July :- [7958825](https://www.fixmystreet.com/report/7958825)
-- TMC - Defects - Vegetation problem, 31st July :- [7958986](https://www.fixmystreet.com/report/7958986)
 
 <!-- fix_marker ends -->
