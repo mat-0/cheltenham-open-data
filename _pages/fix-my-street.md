@@ -9,7 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Line marking, 1st August :- [7966179](https://www.fixmystreet.com/report/7966179)
+- TMC - Defects - Vegetation problem, 1st August :- [7966242](https://www.fixmystreet.com/report/7966242)
 - Serious dip/ridge offside wheel, likely to cause accident, 1st August :- [7966101](https://www.fixmystreet.com/report/7966101)
+- TMC - Defects - Vegetation problem, 1st August :- [7966237](https://www.fixmystreet.com/report/7966237)
+- TMC - Defects - Vegetation problem, 1st August :- [7966236](https://www.fixmystreet.com/report/7966236)
 - Following resurfacing the portable toilet delivered and used has not been collected .... neen there for two weeks used, 1st August :- [7965893](https://www.fixmystreet.com/report/7965893)
 - TMC - Defects - Vegetation problem, 1st August :- [7966025](https://www.fixmystreet.com/report/7966025)
 - Tree is damaged problem, 1st August :- [7966014](https://www.fixmystreet.com/report/7966014)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 1st August :- [7965085](https://www.fixmystreet.com/report/7965085)
 - St Marys School boundary hedge, 1st August :- [7964784](https://www.fixmystreet.com/report/7964784)
 - Metal bollard left behind after pavement repair, 1st August :- [7964453](https://www.fixmystreet.com/report/7964453)
-- TMC - Defects - Vegetation problem, 1st August :- [7964392](https://www.fixmystreet.com/report/7964392)
-- Outside children play area, Cleevelands, 1st August :- [7963920](https://www.fixmystreet.com/report/7963920)
-- TMC - Defects - Kerbs and Channels problem, 1st August :- [7964166](https://www.fixmystreet.com/report/7964166)
-- TMC - Defects - Other FW6  Surface problem, 1st August :- [7963769](https://www.fixmystreet.com/report/7963769)
 
 <!-- fix_marker ends -->
