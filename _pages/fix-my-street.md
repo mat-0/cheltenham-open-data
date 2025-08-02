@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Potholea in the road, 2nd August :- [7970080](https://www.fixmystreet.com/report/7970080)
 - A group of potholes, 2nd August :- [7969733](https://www.fixmystreet.com/report/7969733)
 - Metal drain cover dislodged, 2nd August :- [7969715](https://www.fixmystreet.com/report/7969715)
 - Pothole in road, 2nd August :- [7969642](https://www.fixmystreet.com/report/7969642)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Line marking, 1st August :- [7966179](https://www.fixmystreet.com/report/7966179)
 - TMC - Defects - Vegetation problem, 1st August :- [7966242](https://www.fixmystreet.com/report/7966242)
 - Serious dip/ridge offside wheel, likely to cause accident, 1st August :- [7966101](https://www.fixmystreet.com/report/7966101)
-- TMC - Defects - Vegetation problem, 1st August :- [7966237](https://www.fixmystreet.com/report/7966237)
 
 <!-- fix_marker ends -->
