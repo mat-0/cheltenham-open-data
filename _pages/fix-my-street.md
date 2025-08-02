@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Disgusting public toilets, 2nd August :- [7970542](https://www.fixmystreet.com/report/7970542)
+- Sides of street full of weeds and leaves, 2nd August :- [7970534](https://www.fixmystreet.com/report/7970534)
 - Potholea in the road, 2nd August :- [7970080](https://www.fixmystreet.com/report/7970080)
 - A group of potholes, 2nd August :- [7969733](https://www.fixmystreet.com/report/7969733)
 - Metal drain cover dislodged, 2nd August :- [7969715](https://www.fixmystreet.com/report/7969715)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - BT works on Hucclecote Green, 1st August :- [7966711](https://www.fixmystreet.com/report/7966711)
 - Huge pothole on the pavement, crumbling tarmac, and broken cement work near the window which is tripping members of public specially those on mobility scooters., 1st August :- [7966631](https://www.fixmystreet.com/report/7966631)
 - Line marking, 1st August :- [7966179](https://www.fixmystreet.com/report/7966179)
-- TMC - Defects - Vegetation problem, 1st August :- [7966242](https://www.fixmystreet.com/report/7966242)
-- Serious dip/ridge offside wheel, likely to cause accident, 1st August :- [7966101](https://www.fixmystreet.com/report/7966101)
 
 <!-- fix_marker ends -->
