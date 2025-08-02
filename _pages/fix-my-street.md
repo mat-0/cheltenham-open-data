@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Deep Cracks in the field, 2nd August :- [7969464](https://www.fixmystreet.com/report/7969464)
 - Multiple potholes in the road, 2nd August :- [7969151](https://www.fixmystreet.com/report/7969151)
 - Young growth on tree, 2nd August :- [7968573](https://www.fixmystreet.com/report/7968573)
 - Pathway block by electric fence installed too close to boundry, 2nd August :- [7968163](https://www.fixmystreet.com/report/7968163)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 1st August :- [7966025](https://www.fixmystreet.com/report/7966025)
 - Tree is damaged problem, 1st August :- [7966014](https://www.fixmystreet.com/report/7966014)
 - Road causing car damage, 1st August :- [7965798](https://www.fixmystreet.com/report/7965798)
-- TMC - Defects -FW6 Potholes problem, 1st August :- [7965829](https://www.fixmystreet.com/report/7965829)
 
 <!-- fix_marker ends -->
