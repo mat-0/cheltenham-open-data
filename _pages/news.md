@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Gloucestershire in pictures: Triple joy for sisters ([3 hours ago](https://www.bbc.com/news/articles/cx29nvlld82o?at_medium=RSS&at_campaign=rss))
-- Roman swords found by metal detectorist go on show ([3 hours ago](https://www.bbc.com/news/articles/ce83n0n9x3wo?at_medium=RSS&at_campaign=rss))
-- Gang charged after duo seriously injured in attack ([18 hours ago](https://www.bbc.com/news/articles/c860wxz0nvvo?at_medium=RSS&at_campaign=rss))
-- Man 'grabbed by throat' after row with cyclists ([18 hours ago](https://www.bbc.com/news/articles/cy407z0zz8jo?at_medium=RSS&at_campaign=rss))
-- 'Major changes' announced to county's bus network ([22 hours ago](https://www.bbc.com/news/articles/c5ypvzkevp4o?at_medium=RSS&at_campaign=rss))
-- 'Stranded dolphin' and 'flytipping in city' ([1 days ago](https://www.bbc.com/news/articles/cx2p61r21gxo?at_medium=RSS&at_campaign=rss))
+- Abandoned e-scooters spark safety concerns ([59 minutes ago](https://www.bbc.com/news/articles/cjw64q2dgvyo?at_medium=RSS&at_campaign=rss))
+- Gloucestershire in pictures: Triple joy for sisters ([4 hours ago](https://www.bbc.com/news/articles/cx29nvlld82o?at_medium=RSS&at_campaign=rss))
+- Roman swords found by metal detectorist go on show ([4 hours ago](https://www.bbc.com/news/articles/ce83n0n9x3wo?at_medium=RSS&at_campaign=rss))
+- Gang charged after duo seriously injured in attack ([19 hours ago](https://www.bbc.com/news/articles/c860wxz0nvvo?at_medium=RSS&at_campaign=rss))
+- Man 'grabbed by throat' after row with cyclists ([19 hours ago](https://www.bbc.com/news/articles/cy407z0zz8jo?at_medium=RSS&at_campaign=rss))
+- 'Major changes' announced to county's bus network ([23 hours ago](https://www.bbc.com/news/articles/c5ypvzkevp4o?at_medium=RSS&at_campaign=rss))
 - NHS spent '£100k' fighting 'bullied' manager in court ([1 days ago](https://www.bbc.com/news/articles/c5yp1kz3zy1o?at_medium=RSS&at_campaign=rss))
 - Eddie the Eagle ate out of bins before Olympics ([1 days ago](https://www.bbc.com/news/articles/c4gj7p814gro?at_medium=RSS&at_campaign=rss))
 - Mum-of-four starts support group after birth trauma ([1 days ago](https://www.bbc.com/news/articles/cpv02lngnxyo?at_medium=RSS&at_campaign=rss))
@@ -25,7 +25,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - New bus routes set to improve in Cheltenham, Gloucester and Stroud ([1 days ago](https://gloucesternewscentre.co.uk/new-bus-routes-set-to-improve-in-cheltenham-gloucester-and-stroud/))
 - Toddler's death was 'tragic accident', coroner rules ([1 days ago](https://www.bbc.com/news/articles/cdd36y30y7go?at_medium=RSS&at_campaign=rss))
 - Annual Pride event faces financial struggles ([1 days ago](https://www.bbc.com/news/articles/c78m5588k52o?at_medium=RSS&at_campaign=rss))
-- Hundreds of appointments cancelled during strike ([1 days ago](https://www.bbc.com/news/articles/c1ejlld1nepo?at_medium=RSS&at_campaign=rss))
+- Hundreds of appointments cancelled during strike ([2 days ago](https://www.bbc.com/news/articles/c1ejlld1nepo?at_medium=RSS&at_campaign=rss))
 - Future of Cavendish House still unclear in Cheltenham ([2 days ago](https://www.bbc.co.uk/sounds/play/p0lt903y?at_medium=RSS&at_campaign=rss))
 - Footbridge used by 500 people a day to be replaced ([2 days ago](https://www.bbc.com/news/articles/clyjd9npy24o?at_medium=RSS&at_campaign=rss))
 - Veterans seek medal for comrades killed 60 years ago ([2 days ago](https://www.bbc.com/news/articles/c23gjkpyzr0o?at_medium=RSS&at_campaign=rss))
@@ -64,6 +64,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Keeping Cheltenham town centre safe this summer ([23 days ago](https://www.cheltenham.gov.uk/news/article/3032/keeping_cheltenham_town_centre_safe_this_summer))
 - Horizon Aero Group Ltd named as company set to take Gloucestershire Airport to new heights ([24 days ago](https://www.cheltenham.gov.uk/news/article/3031/horizon_aero_group_ltd_named_as_company_set_to_take_gloucestershire_airport_to_new_heights))
 - HBD secures green light for first phase of landmark £1bn Golden Valley scheme ([28 days ago](https://www.cheltenham.gov.uk/news/article/3030/hbd_secures_green_light_for_first_phase_of_landmark_1bn_golden_valley_scheme))
-- Heat pump roadshow - ask an expert ([28 days ago](https://www.cheltenham.gov.uk/news/article/3029/heat_pump_roadshow_-_ask_an_expert))
+- Heat pump roadshow - ask an expert ([29 days ago](https://www.cheltenham.gov.uk/news/article/3029/heat_pump_roadshow_-_ask_an_expert))
 
 <!-- news_marker ends -->
