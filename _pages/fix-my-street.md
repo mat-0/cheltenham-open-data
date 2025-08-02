@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Young growth on tree, 2nd August :- [7968573](https://www.fixmystreet.com/report/7968573)
 - Pathway block by electric fence installed too close to boundry, 2nd August :- [7968163](https://www.fixmystreet.com/report/7968163)
 - Traffic control lights, 1st August :- [7967210](https://www.fixmystreet.com/report/7967210)
 - Several pavement slabs broken and/or unstable, 1st August :- [7966836](https://www.fixmystreet.com/report/7966836)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Road causing car damage, 1st August :- [7965798](https://www.fixmystreet.com/report/7965798)
 - TMC - Defects -FW6 Potholes problem, 1st August :- [7965829](https://www.fixmystreet.com/report/7965829)
 - Issue with burnt property, 1st August :- [7965493](https://www.fixmystreet.com/report/7965493)
-- Bollard shell is damaged/vandalised problem, 1st August :- [7965643](https://www.fixmystreet.com/report/7965643)
 
 <!-- fix_marker ends -->
