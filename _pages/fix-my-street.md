@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- A group of potholes, 2nd August :- [7969733](https://www.fixmystreet.com/report/7969733)
+- Metal drain cover dislodged, 2nd August :- [7969715](https://www.fixmystreet.com/report/7969715)
 - Pothole in road, 2nd August :- [7969642](https://www.fixmystreet.com/report/7969642)
 - Question on dispute that Barley Road has not been adopted byGCC Highways, 2nd August :- [7969554](https://www.fixmystreet.com/report/7969554)
 - Volunteer litter pick bags ready for collection (2nd August 2025), 2nd August :- [7969529](https://www.fixmystreet.com/report/7969529)
@@ -26,8 +28,6 @@ permalink: /fix-my-street
 - Line marking, 1st August :- [7966179](https://www.fixmystreet.com/report/7966179)
 - TMC - Defects - Vegetation problem, 1st August :- [7966242](https://www.fixmystreet.com/report/7966242)
 - Serious dip/ridge offside wheel, likely to cause accident, 1st August :- [7966101](https://www.fixmystreet.com/report/7966101)
-- TMC - Defects - Vegetation problem, 1st August :- [7966236](https://www.fixmystreet.com/report/7966236)
 - TMC - Defects - Vegetation problem, 1st August :- [7966237](https://www.fixmystreet.com/report/7966237)
-- Following resurfacing the portable toilet delivered and used has not been collected .... neen there for two weeks used, 1st August :- [7965893](https://www.fixmystreet.com/report/7965893)
 
 <!-- fix_marker ends -->
