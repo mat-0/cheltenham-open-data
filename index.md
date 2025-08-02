@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Saturday, 02 August 2025
 
-- The average temperature today is 11.2˚C,
-- With highs of 12.75˚C and lows of 9.18˚C,
-- It may feel like 10.54˚C with scattered clouds
+- The average temperature today is 10.13˚C,
+- With highs of 10.94˚C and lows of 8.25˚C,
+- It may feel like 9.52˚C with clear sky
 - The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1019hPa and humidity is 83%
+- The pressure is 1019hPa and humidity is 89%
 - The sun will rise at 04:32 and set at 19:56
 
 <!-- weather_marker ends -->
