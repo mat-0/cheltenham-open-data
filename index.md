@@ -10,10 +10,10 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Sunday, 03 August 2025
 
-- The average temperature today is 21.33˚C,
-- With highs of 21.75˚C and lows of 21.08˚C,
-- It may feel like 21.5˚C with broken clouds
-- The wind speed is 3.6m/s and visibility is 10000m
+- The average temperature today is 21.65˚C,
+- With highs of 22.75˚C and lows of 21.64˚C,
+- It may feel like 21.86˚C with broken clouds
+- The wind speed is 4.12m/s and visibility is 10000m
 - The pressure is 1017hPa and humidity is 76%
 - The sun will rise at 04:33 and set at 19:55
 
