@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Bushes beginning to obstruct path, 3rd August :- [7972326](https://www.fixmystreet.com/report/7972326)
+- Dead tree, 3rd August :- [7972312](https://www.fixmystreet.com/report/7972312)
+- 2 drains blocked, standing water creating potholes and pedestrians get splashed, 3rd August :- [7972259](https://www.fixmystreet.com/report/7972259)
 - Both sign now been driven over and damaged, removed from original position., 3rd August :- [7971088](https://www.fixmystreet.com/report/7971088)
 - Washpool road, 3rd August :- [7970970](https://www.fixmystreet.com/report/7970970)
 - Washpool road, 3rd August :- [7970941](https://www.fixmystreet.com/report/7970941)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Pathway block by electric fence installed too close to boundry, 2nd August :- [7968163](https://www.fixmystreet.com/report/7968163)
 - Traffic control lights, 1st August :- [7967210](https://www.fixmystreet.com/report/7967210)
 - Several pavement slabs broken and/or unstable, 1st August :- [7966836](https://www.fixmystreet.com/report/7966836)
-- Parking issues where new double yellow create parking issues for dispersed traffic from everest road., 1st August :- [7966820](https://www.fixmystreet.com/report/7966820)
-- New line markings moving cars to be problem elsewhere, 1st August :- [7966810](https://www.fixmystreet.com/report/7966810)
-- New line markings on everest and hilary rosd causing unsafe and dangerous issues, 1st August :- [7966799](https://www.fixmystreet.com/report/7966799)
 
 <!-- fix_marker ends -->
