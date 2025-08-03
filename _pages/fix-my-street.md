@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Broken pipework in council owned grass verge next to public footpath, 3rd August :- [7972475](https://www.fixmystreet.com/report/7972475)
+- Bridge overgrown and in poor repair. New barbed wire fence blocking footpath., 3rd August :- [7972431](https://www.fixmystreet.com/report/7972431)
 - Bushes beginning to obstruct path, 3rd August :- [7972326](https://www.fixmystreet.com/report/7972326)
 - Dead tree, 3rd August :- [7972312](https://www.fixmystreet.com/report/7972312)
 - 2 drains blocked, standing water creating potholes and pedestrians get splashed, 3rd August :- [7972259](https://www.fixmystreet.com/report/7972259)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Multiple potholes in the road, 2nd August :- [7969151](https://www.fixmystreet.com/report/7969151)
 - Young growth on tree, 2nd August :- [7968573](https://www.fixmystreet.com/report/7968573)
 - Pathway block by electric fence installed too close to boundry, 2nd August :- [7968163](https://www.fixmystreet.com/report/7968163)
-- Traffic control lights, 1st August :- [7967210](https://www.fixmystreet.com/report/7967210)
-- Several pavement slabs broken and/or unstable, 1st August :- [7966836](https://www.fixmystreet.com/report/7966836)
 
 <!-- fix_marker ends -->
