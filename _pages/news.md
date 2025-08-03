@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Tumour find led grandma to write book for grandson ([2 hours ago](https://www.bbc.com/news/articles/cpqvdwn1d70o?at_medium=RSS&at_campaign=rss))
-- Headlines: 'Tribute tower' and 'dogs welcome' ([2 hours ago](https://www.bbc.com/news/articles/cpv0z7dw2rdo?at_medium=RSS&at_campaign=rss))
-- Man to Nordic walk 600km in wife's memory ([21 hours ago](https://www.bbc.com/news/articles/cpqvlepg2rdo?at_medium=RSS&at_campaign=rss))
+- Tumour find led grandma to write book for grandson ([3 hours ago](https://www.bbc.com/news/articles/cpqvdwn1d70o?at_medium=RSS&at_campaign=rss))
+- Headlines: 'Tribute tower' and 'dogs welcome' ([3 hours ago](https://www.bbc.com/news/articles/cpv0z7dw2rdo?at_medium=RSS&at_campaign=rss))
+- Man to Nordic walk 600km in wife's memory ([22 hours ago](https://www.bbc.com/news/articles/cpqvlepg2rdo?at_medium=RSS&at_campaign=rss))
 - Abandoned e-scooters spark safety concerns ([23 hours ago](https://www.bbc.com/news/articles/cjw64q2dgvyo?at_medium=RSS&at_campaign=rss))
 - Gloucestershire in pictures: Triple joy for sisters ([1 days ago](https://www.bbc.com/news/articles/cx29nvlld82o?at_medium=RSS&at_campaign=rss))
 - Roman swords found by metal detectorist go on show ([1 days ago](https://www.bbc.com/news/articles/ce83n0n9x3wo?at_medium=RSS&at_campaign=rss))
@@ -52,7 +52,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - 17 Cheltenham projects awarded over £136k from Neighbourhood Fund ([16 days ago](https://gloucesternewscentre.co.uk/17-cheltenham-projects-awarded-over-136k-from-neighbourhood-fund/))
 - 17 Cheltenham projects awarded over £136k from Neighbourhood Fund ([16 days ago](https://www.cheltenham.gov.uk/news/article/3036/17_cheltenham_projects_awarded_over_136k_from_neighbourhood_fund))
 - Independent survey launches to capture resident priorities ([17 days ago](https://www.cheltenham.gov.uk/news/article/3035/independent_survey_launches_to_capture_resident_priorities))
-- Fresh plans to demolish city tower block ([17 days ago](https://www.bbc.co.uk/sounds/play/p0lqdgnz?at_medium=RSS&at_campaign=rss))
+- Fresh plans to demolish city tower block ([18 days ago](https://www.bbc.co.uk/sounds/play/p0lqdgnz?at_medium=RSS&at_campaign=rss))
 - Seven Cheltenham parks and gardens celebrate another year of Green Flag success ([18 days ago](https://www.cheltenham.gov.uk/news/article/3034/seven_cheltenham_parks_and_gardens_celebrate_another_year_of_green_flag_success))
 - Illegal bikes ‘whizzing past people’ spark calls for police crackdown ([19 days ago](https://gloucesternewscentre.co.uk/illegal-bikes-whizzing-past-people-spark-calls-for-police-crackdown/))
 - Council ‘burying head in sand’ over 10 year closure affecting footbridge linked to Gustav Holst ([19 days ago](https://gloucesternewscentre.co.uk/council-burying-head-in-sand-over-10-year-closure-affecting-footbridge-linked-to-gustav-holst/))
