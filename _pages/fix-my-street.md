@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Drain cover exposed above the road level, 3rd August :- [7972966](https://www.fixmystreet.com/report/7972966)
+- Dumped Ringways traffic cone., 3rd August :- [7972930](https://www.fixmystreet.com/report/7972930)
 - Carriage way cover, 3rd August :- [7972662](https://www.fixmystreet.com/report/7972662)
 - Broken pipework in council owned grass verge next to public footpath, 3rd August :- [7972475](https://www.fixmystreet.com/report/7972475)
 - Bridge overgrown and in poor repair. New barbed wire fence blocking footpath., 3rd August :- [7972431](https://www.fixmystreet.com/report/7972431)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Question on dispute that Barley Road has not been adopted byGCC Highways, 2nd August :- [7969554](https://www.fixmystreet.com/report/7969554)
 - Volunteer litter pick bags ready for collection (2nd August 2025), 2nd August :- [7969529](https://www.fixmystreet.com/report/7969529)
 - Deep Cracks in the field, 2nd August :- [7969464](https://www.fixmystreet.com/report/7969464)
-- Multiple potholes in the road, 2nd August :- [7969151](https://www.fixmystreet.com/report/7969151)
-- Young growth on tree, 2nd August :- [7968573](https://www.fixmystreet.com/report/7968573)
 
 <!-- fix_marker ends -->
