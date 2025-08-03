@@ -12,8 +12,8 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Man to Nordic walk 600km in wife's memory ([16 hours ago](https://www.bbc.com/news/articles/cpqvlepg2rdo?at_medium=RSS&at_campaign=rss))
-- Abandoned e-scooters spark safety concerns ([17 hours ago](https://www.bbc.com/news/articles/cjw64q2dgvyo?at_medium=RSS&at_campaign=rss))
+- Man to Nordic walk 600km in wife's memory ([17 hours ago](https://www.bbc.com/news/articles/cpqvlepg2rdo?at_medium=RSS&at_campaign=rss))
+- Abandoned e-scooters spark safety concerns ([18 hours ago](https://www.bbc.com/news/articles/cjw64q2dgvyo?at_medium=RSS&at_campaign=rss))
 - Gloucestershire in pictures: Triple joy for sisters ([21 hours ago](https://www.bbc.com/news/articles/cx29nvlld82o?at_medium=RSS&at_campaign=rss))
 - Roman swords found by metal detectorist go on show ([21 hours ago](https://www.bbc.com/news/articles/ce83n0n9x3wo?at_medium=RSS&at_campaign=rss))
 - Gang charged after duo seriously injured in attack ([1 days ago](https://www.bbc.com/news/articles/c860wxz0nvvo?at_medium=RSS&at_campaign=rss))
