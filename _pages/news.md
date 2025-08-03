@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Police chief pledges to tackle racism within force ([8 hours ago](https://www.bbc.com/news/articles/cq58gnn8w8eo?at_medium=RSS&at_campaign=rss))
-- Hundreds object to solar farm plans ([10 hours ago](https://www.bbc.com/news/articles/c1kzedx187xo?at_medium=RSS&at_campaign=rss))
-- Tumour find led grandma to write book for grandson ([16 hours ago](https://www.bbc.com/news/articles/cpqvdwn1d70o?at_medium=RSS&at_campaign=rss))
-- Headlines: 'Tribute tower' and 'dogs welcome' ([16 hours ago](https://www.bbc.com/news/articles/cpv0z7dw2rdo?at_medium=RSS&at_campaign=rss))
+- Police chief pledges to tackle racism within force ([9 hours ago](https://www.bbc.com/news/articles/cq58gnn8w8eo?at_medium=RSS&at_campaign=rss))
+- Hundreds object to solar farm plans ([11 hours ago](https://www.bbc.com/news/articles/c1kzedx187xo?at_medium=RSS&at_campaign=rss))
+- Tumour find led grandma to write book for grandson ([17 hours ago](https://www.bbc.com/news/articles/cpqvdwn1d70o?at_medium=RSS&at_campaign=rss))
+- Headlines: 'Tribute tower' and 'dogs welcome' ([17 hours ago](https://www.bbc.com/news/articles/cpv0z7dw2rdo?at_medium=RSS&at_campaign=rss))
 - Man to Nordic walk 600km in wife's memory ([1 days ago](https://www.bbc.com/news/articles/cpqvlepg2rdo?at_medium=RSS&at_campaign=rss))
 - Abandoned e-scooters spark safety concerns ([1 days ago](https://www.bbc.com/news/articles/cjw64q2dgvyo?at_medium=RSS&at_campaign=rss))
 - Gloucestershire in pictures: Triple joy for sisters ([1 days ago](https://www.bbc.com/news/articles/cx29nvlld82o?at_medium=RSS&at_campaign=rss))
