@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Tumour find led grandma to write book for grandson ([34 minutes ago](https://www.bbc.com/news/articles/cpqvdwn1d70o?at_medium=RSS&at_campaign=rss))
-- Headlines: 'Tribute tower' and 'dogs welcome' ([36 minutes ago](https://www.bbc.com/news/articles/cpv0z7dw2rdo?at_medium=RSS&at_campaign=rss))
-- Man to Nordic walk 600km in wife's memory ([19 hours ago](https://www.bbc.com/news/articles/cpqvlepg2rdo?at_medium=RSS&at_campaign=rss))
+- Tumour find led grandma to write book for grandson ([1 hours ago](https://www.bbc.com/news/articles/cpqvdwn1d70o?at_medium=RSS&at_campaign=rss))
+- Headlines: 'Tribute tower' and 'dogs welcome' ([1 hours ago](https://www.bbc.com/news/articles/cpv0z7dw2rdo?at_medium=RSS&at_campaign=rss))
+- Man to Nordic walk 600km in wife's memory ([20 hours ago](https://www.bbc.com/news/articles/cpqvlepg2rdo?at_medium=RSS&at_campaign=rss))
 - Abandoned e-scooters spark safety concerns ([21 hours ago](https://www.bbc.com/news/articles/cjw64q2dgvyo?at_medium=RSS&at_campaign=rss))
 - Gloucestershire in pictures: Triple joy for sisters ([1 days ago](https://www.bbc.com/news/articles/cx29nvlld82o?at_medium=RSS&at_campaign=rss))
 - Roman swords found by metal detectorist go on show ([1 days ago](https://www.bbc.com/news/articles/ce83n0n9x3wo?at_medium=RSS&at_campaign=rss))
@@ -62,7 +62,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Wanted appeal issued for Cheltenham man Christopher Hester ([23 days ago](https://gloucesternewscentre.co.uk/wanted-appeal-issued-for-cheltenham-man-christopher-hester/))
 - NCLB Party in the Park returns to Pittville Park this summer ([23 days ago](https://www.cheltenham.gov.uk/news/article/3033/nclb_party_in_the_park_returns_to_pittville_park_this_summer))
 - Keeping Cheltenham town centre safe this summer ([24 days ago](https://www.cheltenham.gov.uk/news/article/3032/keeping_cheltenham_town_centre_safe_this_summer))
-- Horizon Aero Group Ltd named as company set to take Gloucestershire Airport to new heights ([24 days ago](https://www.cheltenham.gov.uk/news/article/3031/horizon_aero_group_ltd_named_as_company_set_to_take_gloucestershire_airport_to_new_heights))
+- Horizon Aero Group Ltd named as company set to take Gloucestershire Airport to new heights ([25 days ago](https://www.cheltenham.gov.uk/news/article/3031/horizon_aero_group_ltd_named_as_company_set_to_take_gloucestershire_airport_to_new_heights))
 - HBD secures green light for first phase of landmark £1bn Golden Valley scheme ([29 days ago](https://www.cheltenham.gov.uk/news/article/3030/hbd_secures_green_light_for_first_phase_of_landmark_1bn_golden_valley_scheme))
 - Heat pump roadshow - ask an expert ([29 days ago](https://www.cheltenham.gov.uk/news/article/3029/heat_pump_roadshow_-_ask_an_expert))
 

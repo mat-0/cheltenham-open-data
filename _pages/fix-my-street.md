@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Washpool road, 3rd August :- [7970941](https://www.fixmystreet.com/report/7970941)
 - Disgusting public toilets, 2nd August :- [7970542](https://www.fixmystreet.com/report/7970542)
 - Sides of street full of weeds and leaves, 2nd August :- [7970534](https://www.fixmystreet.com/report/7970534)
 - Potholea in the road, 2nd August :- [7970080](https://www.fixmystreet.com/report/7970080)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - New line markings on everest and hilary rosd causing unsafe and dangerous issues, 1st August :- [7966799](https://www.fixmystreet.com/report/7966799)
 - BT works on Hucclecote Green, 1st August :- [7966711](https://www.fixmystreet.com/report/7966711)
 - Huge pothole on the pavement, crumbling tarmac, and broken cement work near the window which is tripping members of public specially those on mobility scooters., 1st August :- [7966631](https://www.fixmystreet.com/report/7966631)
-- Line marking, 1st August :- [7966179](https://www.fixmystreet.com/report/7966179)
 
 <!-- fix_marker ends -->
