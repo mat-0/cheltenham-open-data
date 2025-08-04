@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- UK's tallest outdoor climbing wall opens ([2 hours ago](https://www.bbc.com/news/articles/cm2veg37znko?at_medium=RSS&at_campaign=rss))
-- Music Bus helps children 'express themselves' ([2 hours ago](https://www.bbc.com/news/articles/cq58lx4w005o?at_medium=RSS&at_campaign=rss))
-- Police chief pledges to tackle racism within force ([17 hours ago](https://www.bbc.com/news/articles/cq58gnn8w8eo?at_medium=RSS&at_campaign=rss))
-- Hundreds object to solar farm plans ([19 hours ago](https://www.bbc.com/news/articles/c1kzedx187xo?at_medium=RSS&at_campaign=rss))
+- UK's tallest outdoor climbing wall opens ([3 hours ago](https://www.bbc.com/news/articles/cm2veg37znko?at_medium=RSS&at_campaign=rss))
+- Music Bus helps children 'express themselves' ([3 hours ago](https://www.bbc.com/news/articles/cq58lx4w005o?at_medium=RSS&at_campaign=rss))
+- Police chief pledges to tackle racism within force ([18 hours ago](https://www.bbc.com/news/articles/cq58gnn8w8eo?at_medium=RSS&at_campaign=rss))
+- Hundreds object to solar farm plans ([21 hours ago](https://www.bbc.com/news/articles/c1kzedx187xo?at_medium=RSS&at_campaign=rss))
 - Tumour find led grandma to write book for grandson ([1 days ago](https://www.bbc.com/news/articles/cpqvdwn1d70o?at_medium=RSS&at_campaign=rss))
 - Headlines: 'Tribute tower' and 'dogs welcome' ([1 days ago](https://www.bbc.com/news/articles/cpv0z7dw2rdo?at_medium=RSS&at_campaign=rss))
 - Man to Nordic walk 600km in wife's memory ([1 days ago](https://www.bbc.com/news/articles/cpqvlepg2rdo?at_medium=RSS&at_campaign=rss))
@@ -31,7 +31,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Appeal for information after man assaults three males in Cheltenham ([3 days ago](https://gloucesternewscentre.co.uk/appeal-for-information-after-man-assaults-three-males-in-cheltenham/))
 - New bus routes set to improve in Cheltenham, Gloucester and Stroud ([3 days ago](https://gloucesternewscentre.co.uk/new-bus-routes-set-to-improve-in-cheltenham-gloucester-and-stroud/))
 - Toddler's death was 'tragic accident', coroner rules ([3 days ago](https://www.bbc.com/news/articles/cdd36y30y7go?at_medium=RSS&at_campaign=rss))
-- Future of Cavendish House still unclear in Cheltenham ([3 days ago](https://www.bbc.co.uk/sounds/play/p0lt903y?at_medium=RSS&at_campaign=rss))
+- Future of Cavendish House still unclear in Cheltenham ([4 days ago](https://www.bbc.co.uk/sounds/play/p0lt903y?at_medium=RSS&at_campaign=rss))
 - Hundreds of NHS jobs face the axe in Gloucestershire ([5 days ago](https://gloucesternewscentre.co.uk/hundreds-of-nhs-jobs-face-the-axe-in-gloucestershire/))
 - Early success for Safer Street Summer Initiative in Gloucestershire ([6 days ago](https://gloucesternewscentre.co.uk/early-success-for-safer-street-summer-initiative-in-gloucestershire/))
 - Don’t lose your vote - residents urged to check voter registration details ([6 days ago](https://www.cheltenham.gov.uk/news/article/3037/dont_lose_your_vote_-_residents_urged_to_check_voter_registration_details))
@@ -60,7 +60,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Man pleads guilty to drugs possession offences ([23 days ago](https://gloucesternewscentre.co.uk/man-pleads-guilty-to-drugs-possession-offences/))
 - Cheltenham man charged with shoplifting offences ([23 days ago](https://gloucesternewscentre.co.uk/cheltenham-man-charged-with-shoplifting-offences/))
 - Wanted appeal issued for Cheltenham man Christopher Hester ([24 days ago](https://gloucesternewscentre.co.uk/wanted-appeal-issued-for-cheltenham-man-christopher-hester/))
-- NCLB Party in the Park returns to Pittville Park this summer ([24 days ago](https://www.cheltenham.gov.uk/news/article/3033/nclb_party_in_the_park_returns_to_pittville_park_this_summer))
+- NCLB Party in the Park returns to Pittville Park this summer ([25 days ago](https://www.cheltenham.gov.uk/news/article/3033/nclb_party_in_the_park_returns_to_pittville_park_this_summer))
 - Keeping Cheltenham town centre safe this summer ([25 days ago](https://www.cheltenham.gov.uk/news/article/3032/keeping_cheltenham_town_centre_safe_this_summer))
 - Horizon Aero Group Ltd named as company set to take Gloucestershire Airport to new heights ([26 days ago](https://www.cheltenham.gov.uk/news/article/3031/horizon_aero_group_ltd_named_as_company_set_to_take_gloucestershire_airport_to_new_heights))
 
