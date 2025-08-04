@@ -9,10 +9,19 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large quantity of Mirabelle plums on path. Pathway is regularly used by many people, including the elderley. The pathway is dangerous, this time of year. The plum trees need cutting back, they are on a public right of way and not in a private garden., 4th August :- [7974534](https://www.fixmystreet.com/report/7974534)
+- TMC - Defects - Kerbs and Channels problem, 4th August :- [7974392](https://www.fixmystreet.com/report/7974392)
+- TMC - Defects - Footways Slabs problem, 4th August :- [7974396](https://www.fixmystreet.com/report/7974396)
+- TMC - Defects - Kerbs and Channels problem, 4th August :- [7974389](https://www.fixmystreet.com/report/7974389)
+- TMC - Defects - Kerbs and Channels problem, 4th August :- [7974394](https://www.fixmystreet.com/report/7974394)
+- TMC - Defects - Kerbs and Channels problem, 4th August :- [7974393](https://www.fixmystreet.com/report/7974393)
+- TMC - Defects - Footways Slabs problem, 4th August :- [7974395](https://www.fixmystreet.com/report/7974395)
+- TMC - Defects - Other FW6  Surface problem, 4th August :- [7974385](https://www.fixmystreet.com/report/7974385)
+- TMC - Defects - Other FW6  Surface problem, 4th August :- [7974384](https://www.fixmystreet.com/report/7974384)
 - No 30 mph sign, 4th August :- [7974226](https://www.fixmystreet.com/report/7974226)
 - TMC - Defects - Kerbs and Channels problem, 4th August :- [7974231](https://www.fixmystreet.com/report/7974231)
-- TMC - Defects - Kerbs and Channels problem, 4th August :- [7974126](https://www.fixmystreet.com/report/7974126)
 - TMC - Defects - Kerbs and Channels problem, 4th August :- [7974125](https://www.fixmystreet.com/report/7974125)
+- TMC - Defects - Kerbs and Channels problem, 4th August :- [7974126](https://www.fixmystreet.com/report/7974126)
 - Drain cover exposed above the road level, 3rd August :- [7972966](https://www.fixmystreet.com/report/7972966)
 - Dumped Ringways traffic cone., 3rd August :- [7972930](https://www.fixmystreet.com/report/7972930)
 - Carriage way cover, 3rd August :- [7972662](https://www.fixmystreet.com/report/7972662)
@@ -20,14 +29,5 @@ permalink: /fix-my-street
 - Bridge overgrown and in poor repair. New barbed wire fence blocking footpath., 3rd August :- [7972431](https://www.fixmystreet.com/report/7972431)
 - Bushes beginning to obstruct path, 3rd August :- [7972326](https://www.fixmystreet.com/report/7972326)
 - Dead tree, 3rd August :- [7972312](https://www.fixmystreet.com/report/7972312)
-- 2 drains blocked, standing water creating potholes and pedestrians get splashed, 3rd August :- [7972259](https://www.fixmystreet.com/report/7972259)
-- Both sign now been driven over and damaged, removed from original position., 3rd August :- [7971088](https://www.fixmystreet.com/report/7971088)
-- Washpool road, 3rd August :- [7970970](https://www.fixmystreet.com/report/7970970)
-- Washpool road, 3rd August :- [7970941](https://www.fixmystreet.com/report/7970941)
-- Disgusting public toilets, 2nd August :- [7970542](https://www.fixmystreet.com/report/7970542)
-- Sides of street full of weeds and leaves, 2nd August :- [7970534](https://www.fixmystreet.com/report/7970534)
-- Potholea in the road, 2nd August :- [7970080](https://www.fixmystreet.com/report/7970080)
-- A group of potholes, 2nd August :- [7969733](https://www.fixmystreet.com/report/7969733)
-- Metal drain cover dislodged, 2nd August :- [7969715](https://www.fixmystreet.com/report/7969715)
 
 <!-- fix_marker ends -->

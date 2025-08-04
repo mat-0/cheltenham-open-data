@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- UK's tallest outdoor climbing wall opens ([1 hours ago](https://www.bbc.com/news/articles/cm2veg37znko?at_medium=RSS&at_campaign=rss))
-- Music Bus helps children 'express themselves' ([1 hours ago](https://www.bbc.com/news/articles/cq58lx4w005o?at_medium=RSS&at_campaign=rss))
-- Police chief pledges to tackle racism within force ([16 hours ago](https://www.bbc.com/news/articles/cq58gnn8w8eo?at_medium=RSS&at_campaign=rss))
+- UK's tallest outdoor climbing wall opens ([2 hours ago](https://www.bbc.com/news/articles/cm2veg37znko?at_medium=RSS&at_campaign=rss))
+- Music Bus helps children 'express themselves' ([2 hours ago](https://www.bbc.com/news/articles/cq58lx4w005o?at_medium=RSS&at_campaign=rss))
+- Police chief pledges to tackle racism within force ([17 hours ago](https://www.bbc.com/news/articles/cq58gnn8w8eo?at_medium=RSS&at_campaign=rss))
 - Hundreds object to solar farm plans ([19 hours ago](https://www.bbc.com/news/articles/c1kzedx187xo?at_medium=RSS&at_campaign=rss))
 - Tumour find led grandma to write book for grandson ([1 days ago](https://www.bbc.com/news/articles/cpqvdwn1d70o?at_medium=RSS&at_campaign=rss))
 - Headlines: 'Tribute tower' and 'dogs welcome' ([1 days ago](https://www.bbc.com/news/articles/cpv0z7dw2rdo?at_medium=RSS&at_campaign=rss))
@@ -62,6 +62,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Wanted appeal issued for Cheltenham man Christopher Hester ([24 days ago](https://gloucesternewscentre.co.uk/wanted-appeal-issued-for-cheltenham-man-christopher-hester/))
 - NCLB Party in the Park returns to Pittville Park this summer ([24 days ago](https://www.cheltenham.gov.uk/news/article/3033/nclb_party_in_the_park_returns_to_pittville_park_this_summer))
 - Keeping Cheltenham town centre safe this summer ([25 days ago](https://www.cheltenham.gov.uk/news/article/3032/keeping_cheltenham_town_centre_safe_this_summer))
-- Horizon Aero Group Ltd named as company set to take Gloucestershire Airport to new heights ([25 days ago](https://www.cheltenham.gov.uk/news/article/3031/horizon_aero_group_ltd_named_as_company_set_to_take_gloucestershire_airport_to_new_heights))
+- Horizon Aero Group Ltd named as company set to take Gloucestershire Airport to new heights ([26 days ago](https://www.cheltenham.gov.uk/news/article/3031/horizon_aero_group_ltd_named_as_company_set_to_take_gloucestershire_airport_to_new_heights))
 
 <!-- news_marker ends -->

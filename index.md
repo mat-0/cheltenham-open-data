@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Monday, 04 August 2025
 
-- The average temperature today is 18.1˚C,
-- With highs of 18.88˚C and lows of 17.75˚C,
-- It may feel like 18.11˚C with overcast clouds
-- The wind speed is 2.68m/s and visibility is 10000m
-- The pressure is 1014hPa and humidity is 82%
+- The average temperature today is 19.09˚C,
+- With highs of 19.99˚C and lows of 18.49˚C,
+- It may feel like 19.2˚C with light rain
+- The wind speed is 5.66m/s and visibility is 10000m
+- The pressure is 1013hPa and humidity is 82%
 - The sun will rise at 04:35 and set at 19:53
 
 <!-- weather_marker ends -->
