@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Persistent flooding because drain is at HIGH ground, 4th August :- [7978164](https://www.fixmystreet.com/report/7978164)
+- A tree in the grass verge has been identified by a Sky investigating technician as blocking a satellite signal to our receiver dish on our property., 4th August :- [7977934](https://www.fixmystreet.com/report/7977934)
 - Potholes on Corner going uo Aggs Hill and past Lower Laynes Farm, 4th August :- [7977757](https://www.fixmystreet.com/report/7977757)
 - Tree is damaged problem, 4th August :- [7977551](https://www.fixmystreet.com/report/7977551)
 - Tree is damaged problem, 4th August :- [7977549](https://www.fixmystreet.com/report/7977549)
@@ -26,8 +28,6 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 4th August :- [7975835](https://www.fixmystreet.com/report/7975835)
 - TMC - Defects - Vegetation problem, 4th August :- [7975832](https://www.fixmystreet.com/report/7975832)
 - TMC - Defects - Other FW6  Surface problem, 4th August :- [7975831](https://www.fixmystreet.com/report/7975831)
-- TMC - Defects -CW10 Potholes problem, 4th August :- [7975817](https://www.fixmystreet.com/report/7975817)
 - TMC - Defects -CW10 Potholes problem, 4th August :- [7975818](https://www.fixmystreet.com/report/7975818)
-- Birch tree is dead outside 43 Loweswater road on narrow grass verge along Loweswater Road. Branches are falling off onto pavement and road., 4th August :- [7975207](https://www.fixmystreet.com/report/7975207)
 
 <!-- fix_marker ends -->
