@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Drivers warned works may cause delays for months ([1 hours ago](https://www.bbc.com/news/articles/c890y8g1z92o?at_medium=RSS&at_campaign=rss))
-- Walking cricket to be prescribed on NHS ([1 hours ago](https://www.bbc.com/news/articles/cqxg0ylyypzo?at_medium=RSS&at_campaign=rss))
-- Residents' fire fears after green not cut all year ([17 hours ago](https://www.bbc.com/news/articles/cg5029qqvqvo?at_medium=RSS&at_campaign=rss))
-- 'Object thrown at goalkeeper' and 'church break-in' ([19 hours ago](https://www.bbc.com/news/articles/c8ryk3x1yvdo?at_medium=RSS&at_campaign=rss))
+- Drivers warned works may cause delays for months ([2 hours ago](https://www.bbc.com/news/articles/c890y8g1z92o?at_medium=RSS&at_campaign=rss))
+- Walking cricket to be prescribed on NHS ([2 hours ago](https://www.bbc.com/news/articles/cqxg0ylyypzo?at_medium=RSS&at_campaign=rss))
+- Residents' fire fears after green not cut all year ([18 hours ago](https://www.bbc.com/news/articles/cg5029qqvqvo?at_medium=RSS&at_campaign=rss))
+- 'Object thrown at goalkeeper' and 'church break-in' ([20 hours ago](https://www.bbc.com/news/articles/c8ryk3x1yvdo?at_medium=RSS&at_campaign=rss))
 - Road closed after man seriously hurt in crash ([20 hours ago](https://www.bbc.com/news/articles/c3v3w1xqz3ko?at_medium=RSS&at_campaign=rss))
-- 'Good' rating for council's children's services ([21 hours ago](https://www.bbc.com/news/articles/cjr128jdxvlo?at_medium=RSS&at_campaign=rss))
+- 'Good' rating for council's children's services ([22 hours ago](https://www.bbc.com/news/articles/cjr128jdxvlo?at_medium=RSS&at_campaign=rss))
 - UK's tallest outdoor climbing wall opens ([1 days ago](https://www.bbc.com/news/articles/cm2veg37znko?at_medium=RSS&at_campaign=rss))
 - Music Bus helps children 'express themselves' ([1 days ago](https://www.bbc.com/news/articles/cq58lx4w005o?at_medium=RSS&at_campaign=rss))
 - Police chief pledges to tackle racism within force ([1 days ago](https://www.bbc.com/news/articles/cq58gnn8w8eo?at_medium=RSS&at_campaign=rss))
@@ -62,6 +62,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Wanted appeal issued for Cheltenham man Christopher Hester ([25 days ago](https://gloucesternewscentre.co.uk/wanted-appeal-issued-for-cheltenham-man-christopher-hester/))
 - NCLB Party in the Park returns to Pittville Park this summer ([25 days ago](https://www.cheltenham.gov.uk/news/article/3033/nclb_party_in_the_park_returns_to_pittville_park_this_summer))
 - Keeping Cheltenham town centre safe this summer ([26 days ago](https://www.cheltenham.gov.uk/news/article/3032/keeping_cheltenham_town_centre_safe_this_summer))
-- Horizon Aero Group Ltd named as company set to take Gloucestershire Airport to new heights ([26 days ago](https://www.cheltenham.gov.uk/news/article/3031/horizon_aero_group_ltd_named_as_company_set_to_take_gloucestershire_airport_to_new_heights))
+- Horizon Aero Group Ltd named as company set to take Gloucestershire Airport to new heights ([27 days ago](https://www.cheltenham.gov.uk/news/article/3031/horizon_aero_group_ltd_named_as_company_set_to_take_gloucestershire_airport_to_new_heights))
 
 <!-- news_marker ends -->
