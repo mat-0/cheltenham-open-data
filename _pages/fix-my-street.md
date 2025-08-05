@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large trees in small road, 5th August :- [7979976](https://www.fixmystreet.com/report/7979976)
+- Poorly secured pole to lamp post, 5th August :- [7979954](https://www.fixmystreet.com/report/7979954)
 - Blocked gully on A40 Lansdown Road, 4th August :- [7978688](https://www.fixmystreet.com/report/7978688)
 - Possible abandoned or stolen vehicle, 4th August :- [7978628](https://www.fixmystreet.com/report/7978628)
 - Abandoned pink e-scooter, 4th August :- [7978597](https://www.fixmystreet.com/report/7978597)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW10 Potholes problem, 4th August :- [7975848](https://www.fixmystreet.com/report/7975848)
 - TMC - Defects -CW10 Potholes problem, 4th August :- [7975844](https://www.fixmystreet.com/report/7975844)
 - There's a significant amount of mud and sand on the shared cycle/foot path that is next to KFC as you walk towards the underpass., 4th August :- [7975527](https://www.fixmystreet.com/report/7975527)
-- TMC - Defects -CW6 Potholes  problem, 4th August :- [7975834](https://www.fixmystreet.com/report/7975834)
-- TMC - Defects -CW6 Potholes  problem, 4th August :- [7975835](https://www.fixmystreet.com/report/7975835)
 
 <!-- fix_marker ends -->
