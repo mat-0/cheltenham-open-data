@@ -10,10 +10,10 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Tuesday, 05 August 2025
 
-- The average temperature today is 14.01˚C,
-- With highs of 14.84˚C and lows of 13.71˚C,
-- It may feel like 13.35˚C with clear sky
-- The wind speed is 0.89m/s and visibility is 10000m
+- The average temperature today is 13.36˚C,
+- With highs of 13.87˚C and lows of 12.6˚C,
+- It may feel like 12.63˚C with clear sky
+- The wind speed is 2.68m/s and visibility is 10000m
 - The pressure is 1019hPa and humidity is 72%
 - The sun will rise at 04:36 and set at 19:51
 
