@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Residents' fire fears after green not cut all year ([13 hours ago](https://www.bbc.com/news/articles/cg5029qqvqvo?at_medium=RSS&at_campaign=rss))
-- 'Object thrown at goalkeeper' and 'church break-in' ([15 hours ago](https://www.bbc.com/news/articles/c8ryk3x1yvdo?at_medium=RSS&at_campaign=rss))
-- Road closed after man seriously hurt in crash ([15 hours ago](https://www.bbc.com/news/articles/c3v3w1xqz3ko?at_medium=RSS&at_campaign=rss))
-- 'Good' rating for council's children's services ([17 hours ago](https://www.bbc.com/news/articles/cjr128jdxvlo?at_medium=RSS&at_campaign=rss))
+- Residents' fire fears after green not cut all year ([14 hours ago](https://www.bbc.com/news/articles/cg5029qqvqvo?at_medium=RSS&at_campaign=rss))
+- 'Object thrown at goalkeeper' and 'church break-in' ([16 hours ago](https://www.bbc.com/news/articles/c8ryk3x1yvdo?at_medium=RSS&at_campaign=rss))
+- Road closed after man seriously hurt in crash ([16 hours ago](https://www.bbc.com/news/articles/c3v3w1xqz3ko?at_medium=RSS&at_campaign=rss))
+- 'Good' rating for council's children's services ([18 hours ago](https://www.bbc.com/news/articles/cjr128jdxvlo?at_medium=RSS&at_campaign=rss))
 - UK's tallest outdoor climbing wall opens ([21 hours ago](https://www.bbc.com/news/articles/cm2veg37znko?at_medium=RSS&at_campaign=rss))
 - Music Bus helps children 'express themselves' ([21 hours ago](https://www.bbc.com/news/articles/cq58lx4w005o?at_medium=RSS&at_campaign=rss))
 - Police chief pledges to tackle racism within force ([1 days ago](https://www.bbc.com/news/articles/cq58gnn8w8eo?at_medium=RSS&at_campaign=rss))
