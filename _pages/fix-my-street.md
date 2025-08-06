@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Traffic light from Christ Church Road onto Lansdown Road is only 10 seconds, 6th August :- [7989040](https://www.fixmystreet.com/report/7989040)
+- The post nearest to the camera is loose and not fixed in the ground properly., 6th August :- [7988943](https://www.fixmystreet.com/report/7988943)
+- Drain cover missing, 6th August :- [7988895](https://www.fixmystreet.com/report/7988895)
 - Manhole cover loose, 6th August :- [7988813](https://www.fixmystreet.com/report/7988813)
 - 2 pink scooters on pavements in Noverton, 6th August :- [7988804](https://www.fixmystreet.com/report/7988804)
 - Flytipping, 6th August :- [7988684](https://www.fixmystreet.com/report/7988684)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Tree blocking pathway, 6th August :- [7986548](https://www.fixmystreet.com/report/7986548)
 - Repeated dig fouling, 6th August :- [7986403](https://www.fixmystreet.com/report/7986403)
 - TMC - Defects -CW6 Potholes  problem, 6th August :- [7986272](https://www.fixmystreet.com/report/7986272)
-- TMC - Defects -CW6 Potholes  problem, 6th August :- [7986261](https://www.fixmystreet.com/report/7986261)
-- TMC - Defects -CW6 Potholes  problem, 6th August :- [7986245](https://www.fixmystreet.com/report/7986245)
-- TMC - Defects -CW6 Potholes  problem, 6th August :- [7986244](https://www.fixmystreet.com/report/7986244)
 
 <!-- fix_marker ends -->
