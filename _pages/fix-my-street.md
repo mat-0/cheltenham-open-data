@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Deep hole in road. Only appeared very recently., 6th August :- [7989551](https://www.fixmystreet.com/report/7989551)
+- Blocked drain in the road, 6th August :- [7989484](https://www.fixmystreet.com/report/7989484)
 - Traffic light from Christ Church Road onto Lansdown Road is only 10 seconds, 6th August :- [7989040](https://www.fixmystreet.com/report/7989040)
 - The post nearest to the camera is loose and not fixed in the ground properly., 6th August :- [7988943](https://www.fixmystreet.com/report/7988943)
 - Drain cover missing, 6th August :- [7988895](https://www.fixmystreet.com/report/7988895)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Overgrowth, 6th August :- [7986822](https://www.fixmystreet.com/report/7986822)
 - TMC - Defects - Vegetation problem, 6th August :- [7986930](https://www.fixmystreet.com/report/7986930)
 - Tree blocking pathway, 6th August :- [7986548](https://www.fixmystreet.com/report/7986548)
-- Repeated dig fouling, 6th August :- [7986403](https://www.fixmystreet.com/report/7986403)
-- TMC - Defects -CW6 Potholes  problem, 6th August :- [7986272](https://www.fixmystreet.com/report/7986272)
 
 <!-- fix_marker ends -->
