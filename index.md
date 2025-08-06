@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Wednesday, 06 August 2025
 
-- The average temperature today is 22.91˚C,
-- With highs of 24.18˚C and lows of 21.75˚C,
-- It may feel like 22.41˚C with clear sky
-- The wind speed is 3.6m/s and visibility is 10000m
-- The pressure is 1022hPa and humidity is 44%
+- The average temperature today is 22.26˚C,
+- With highs of 23.86˚C and lows of 21.5˚C,
+- It may feel like 21.74˚C with clear sky
+- The wind speed is 4.02m/s and visibility is 10000m
+- The pressure is 1021hPa and humidity is 46%
 - The sun will rise at 04:38 and set at 19:50
 
 <!-- weather_marker ends -->
