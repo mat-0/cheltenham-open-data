@@ -10,12 +10,12 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Wednesday, 06 August 2025
 
-- The average temperature today is 17.21˚C,
-- With highs of 17.69˚C and lows of 17.04˚C,
-- It may feel like 16.71˚C with overcast clouds
-- The wind speed is 2.24m/s and visibility is 10000m
-- The pressure is 1017hPa and humidity is 66%
-- The sun will rise at 04:38 and set at 19:50
+- The average temperature today is 15.56˚C,
+- With highs of 15.56˚C and lows of 15.56˚C,
+- It may feel like 15.16˚C with broken clouds
+- The wind speed is 3.22m/s and visibility is 10000m
+- The pressure is 1017hPa and humidity is 76%
+- The sun will rise at 04:40 and set at 19:48
 
 <!-- weather_marker ends -->
 
