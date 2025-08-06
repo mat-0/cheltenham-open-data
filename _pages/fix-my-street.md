@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large cracks along length of cycle path that could trap a bike wheel and cause accident, 6th August :- [7989769](https://www.fixmystreet.com/report/7989769)
 - Deep hole in road. Only appeared very recently., 6th August :- [7989551](https://www.fixmystreet.com/report/7989551)
 - Blocked drain in the road, 6th August :- [7989484](https://www.fixmystreet.com/report/7989484)
 - Traffic light from Christ Church Road onto Lansdown Road is only 10 seconds, 6th August :- [7989040](https://www.fixmystreet.com/report/7989040)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -FW6 Potholes problem, 6th August :- [7986931](https://www.fixmystreet.com/report/7986931)
 - Overgrowth, 6th August :- [7986822](https://www.fixmystreet.com/report/7986822)
 - TMC - Defects - Vegetation problem, 6th August :- [7986930](https://www.fixmystreet.com/report/7986930)
-- Tree blocking pathway, 6th August :- [7986548](https://www.fixmystreet.com/report/7986548)
 
 <!-- fix_marker ends -->
