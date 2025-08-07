@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fridge freezer dumped, 7th August :- [7993960](https://www.fixmystreet.com/report/7993960)
+- Flytipping of metal shed, 7th August :- [7993944](https://www.fixmystreet.com/report/7993944)
+- The overgrown brambles are pushing the fence down. The fence cannot be replaced until the brambles on public land are removed. The fence urgently needs to be replaced for security reasons due to the back garden backing onto the B4063., 7th August :- [7993746](https://www.fixmystreet.com/report/7993746)
+- Pathway outside sainsburys, 7th August :- [7993647](https://www.fixmystreet.com/report/7993647)
+- TMC - Defects -CW10 Potholes problem, 7th August :- [7993637](https://www.fixmystreet.com/report/7993637)
+- Post or sign leaning slightly (less than 20 degrees) problem, 7th August :- [7993629](https://www.fixmystreet.com/report/7993629)
 - Update on deep pothole - FixMyStreet ref: 7989551., 7th August :- [7993469](https://www.fixmystreet.com/report/7993469)
 - TMC - Defects -FW6 Potholes problem, 7th August :- [7993483](https://www.fixmystreet.com/report/7993483)
 - TMC - Defects - Covers, Gratings & Frames problem, 7th August :- [7993235](https://www.fixmystreet.com/report/7993235)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 7th August :- [7992663](https://www.fixmystreet.com/report/7992663)
 - Surface of footpath has deteriorated over many years. This is near junction of Gloucester Road and Station Road Andoversford. I, 7th August :- [7992539](https://www.fixmystreet.com/report/7992539)
 - Area approx 1m square outside 1 Pittville Circus on bed of road., 7th August :- [7992486](https://www.fixmystreet.com/report/7992486)
-- TMC - Defects -other CW10 problem, 7th August :- [7992471](https://www.fixmystreet.com/report/7992471)
-- TMC - Defects - Other problem, 7th August :- [7992470](https://www.fixmystreet.com/report/7992470)
-- TMC - Defects - Other problem, 7th August :- [7992469](https://www.fixmystreet.com/report/7992469)
-- TMC - Defects - Other problem, 7th August :- [7992468](https://www.fixmystreet.com/report/7992468)
-- TMC - Defects -CW10 Potholes problem, 7th August :- [7992467](https://www.fixmystreet.com/report/7992467)
-- TMC - Defects - Other problem, 7th August :- [7992466](https://www.fixmystreet.com/report/7992466)
 
 <!-- fix_marker ends -->
