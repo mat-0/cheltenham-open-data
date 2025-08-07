@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Locked gate next to bridge blocking access to public right of way, 7th August :- [7995173](https://www.fixmystreet.com/report/7995173)
 - Road sign damaged, 7th August :- [7994974](https://www.fixmystreet.com/report/7994974)
 - Overgrown Brook and Ash trees on Highways side of embankment – Brook outside Old Forge Cottages, Stoke Road, Stoke Orchard GL52 7RY, 7th August :- [7994898](https://www.fixmystreet.com/report/7994898)
 - There must be a burst water pipe as there is a large amount of surface water, 7th August :- [7994654](https://www.fixmystreet.com/report/7994654)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - 30" pothole near highbury cottage, 7th August :- [7992852](https://www.fixmystreet.com/report/7992852)
 - TMC - Defects - Footways Slabs problem, 7th August :- [7992904](https://www.fixmystreet.com/report/7992904)
 - Ugly Remnant of Preserved Tree on Council Land in front of my House, 7th August :- [7992802](https://www.fixmystreet.com/report/7992802)
-- TMC - Defects - Vegetation problem, 7th August :- [7992891](https://www.fixmystreet.com/report/7992891)
 
 <!-- fix_marker ends -->
