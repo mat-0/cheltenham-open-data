@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- There must be a burst water pipe as there is a large amount of surface water, 7th August :- [7994654](https://www.fixmystreet.com/report/7994654)
+- Pot hole immediately beside a street lamp almost joining a pothole on the other side of the lane., 7th August :- [7994609](https://www.fixmystreet.com/report/7994609)
 - Fridge freezer dumped, 7th August :- [7993960](https://www.fixmystreet.com/report/7993960)
 - Flytipping of metal shed, 7th August :- [7993944](https://www.fixmystreet.com/report/7993944)
 - The overgrown brambles are pushing the fence down. The fence cannot be replaced until the brambles on public land are removed. The fence urgently needs to be replaced for security reasons due to the back garden backing onto the B4063., 7th August :- [7993746](https://www.fixmystreet.com/report/7993746)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 7th August :- [7992891](https://www.fixmystreet.com/report/7992891)
 - TMC - Defects -CW6 Potholes  problem, 7th August :- [7992669](https://www.fixmystreet.com/report/7992669)
 - TMC - Defects -CW6 Potholes  problem, 7th August :- [7992663](https://www.fixmystreet.com/report/7992663)
-- Surface of footpath has deteriorated over many years. This is near junction of Gloucester Road and Station Road Andoversford. I, 7th August :- [7992539](https://www.fixmystreet.com/report/7992539)
-- Area approx 1m square outside 1 Pittville Circus on bed of road., 7th August :- [7992486](https://www.fixmystreet.com/report/7992486)
 
 <!-- fix_marker ends -->
