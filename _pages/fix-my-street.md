@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Multiple potholes, 7th August :- [7995532](https://www.fixmystreet.com/report/7995532)
 - Missing 30mph sign on zoons link road., 7th August :- [7995294](https://www.fixmystreet.com/report/7995294)
 - Poor repair to road surface, 7th August :- [7995287](https://www.fixmystreet.com/report/7995287)
 - Locked gate next to bridge blocking access to public right of way, 7th August :- [7995173](https://www.fixmystreet.com/report/7995173)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Tesco trolley, 7th August :- [7993071](https://www.fixmystreet.com/report/7993071)
 - Tree is damaged problem, 7th August :- [7993035](https://www.fixmystreet.com/report/7993035)
 - Propped Against Property on Pavement – Princess Elizabeth Way, 7th August :- [7992926](https://www.fixmystreet.com/report/7992926)
-- 30" pothole near highbury cottage, 7th August :- [7992852](https://www.fixmystreet.com/report/7992852)
 
 <!-- fix_marker ends -->
