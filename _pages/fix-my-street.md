@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Update on deep pothole - FixMyStreet ref: 7989551., 7th August :- [7993469](https://www.fixmystreet.com/report/7993469)
+- TMC - Defects -FW6 Potholes problem, 7th August :- [7993483](https://www.fixmystreet.com/report/7993483)
 - TMC - Defects - Covers, Gratings & Frames problem, 7th August :- [7993235](https://www.fixmystreet.com/report/7993235)
 - Tesco trolley, 7th August :- [7993071](https://www.fixmystreet.com/report/7993071)
 - Tree is damaged problem, 7th August :- [7993035](https://www.fixmystreet.com/report/7993035)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other problem, 7th August :- [7992468](https://www.fixmystreet.com/report/7992468)
 - TMC - Defects -CW10 Potholes problem, 7th August :- [7992467](https://www.fixmystreet.com/report/7992467)
 - TMC - Defects - Other problem, 7th August :- [7992466](https://www.fixmystreet.com/report/7992466)
-- TMC - Defects -other CW10 problem, 7th August :- [7992465](https://www.fixmystreet.com/report/7992465)
-- Fly tipping, 7th August :- [7992206](https://www.fixmystreet.com/report/7992206)
 
 <!-- fix_marker ends -->
