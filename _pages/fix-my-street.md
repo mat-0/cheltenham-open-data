@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Barriers left and signage by the church, 7th August :- [7991222](https://www.fixmystreet.com/report/7991222)
+- Two kerb stones have been replaced incorrectly. They are proud of the existing kerbs and proud of the pavement, 7th August :- [7991188](https://www.fixmystreet.com/report/7991188)
 - ^ cones, a large keep left sign and several large yellow barriers have been left behind after gas works in the area. They have been there for severaL weeks and are very close to the public footpath, 7th August :- [7990983](https://www.fixmystreet.com/report/7990983)
 - Tree overgrowth at junction of college bath road and Keynsham road, 7th August :- [7990865](https://www.fixmystreet.com/report/7990865)
 - Barrier and cone left by new railings that have been fitted in benhall park near to children’s play park as you walk on the path through the middle of the park towards willersley road, 7th August :- [7990562](https://www.fixmystreet.com/report/7990562)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Covers, Gratings & Frames problem, 6th August :- [7987806](https://www.fixmystreet.com/report/7987806)
 - Public right of way gatw padlocked, 6th August :- [7987699](https://www.fixmystreet.com/report/7987699)
 - TMC - Defects -CW6 Potholes  problem, 6th August :- [7987598](https://www.fixmystreet.com/report/7987598)
-- TMC - Defects -CW6 Potholes  problem, 6th August :- [7987597](https://www.fixmystreet.com/report/7987597)
-- TMC - Defects -CW6 Potholes  problem, 6th August :- [7987596](https://www.fixmystreet.com/report/7987596)
 
 <!-- fix_marker ends -->
