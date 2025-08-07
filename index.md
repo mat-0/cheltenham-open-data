@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Thursday, 07 August 2025
 
-- The average temperature today is 14.78˚C,
-- With highs of 14.78˚C and lows of 14.78˚C,
-- It may feel like 14.35˚C with clear sky
-- The wind speed is 2.82m/s and visibility is 10000m
-- The pressure is 1015hPa and humidity is 78%
+- The average temperature today is 15.55˚C,
+- With highs of 15.95˚C and lows of 15.38˚C,
+- It may feel like 15.17˚C with scattered clouds
+- The wind speed is 1.79m/s and visibility is 10000m
+- The pressure is 1014hPa and humidity is 77%
 - The sun will rise at 04:40 and set at 19:48
 
 <!-- weather_marker ends -->
