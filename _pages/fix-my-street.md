@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Road sign damaged, 7th August :- [7994974](https://www.fixmystreet.com/report/7994974)
+- Overgrown Brook and Ash trees on Highways side of embankment – Brook outside Old Forge Cottages, Stoke Road, Stoke Orchard GL52 7RY, 7th August :- [7994898](https://www.fixmystreet.com/report/7994898)
 - There must be a burst water pipe as there is a large amount of surface water, 7th August :- [7994654](https://www.fixmystreet.com/report/7994654)
 - Pot hole immediately beside a street lamp almost joining a pothole on the other side of the lane., 7th August :- [7994609](https://www.fixmystreet.com/report/7994609)
 - Fridge freezer dumped, 7th August :- [7993960](https://www.fixmystreet.com/report/7993960)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Footways Slabs problem, 7th August :- [7992904](https://www.fixmystreet.com/report/7992904)
 - Ugly Remnant of Preserved Tree on Council Land in front of my House, 7th August :- [7992802](https://www.fixmystreet.com/report/7992802)
 - TMC - Defects - Vegetation problem, 7th August :- [7992891](https://www.fixmystreet.com/report/7992891)
-- TMC - Defects -CW6 Potholes  problem, 7th August :- [7992669](https://www.fixmystreet.com/report/7992669)
-- TMC - Defects -CW6 Potholes  problem, 7th August :- [7992663](https://www.fixmystreet.com/report/7992663)
 
 <!-- fix_marker ends -->
