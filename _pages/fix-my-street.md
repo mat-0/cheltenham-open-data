@@ -9,7 +9,14 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Covers, Gratings & Frames problem, 7th August :- [7993235](https://www.fixmystreet.com/report/7993235)
+- Tesco trolley, 7th August :- [7993071](https://www.fixmystreet.com/report/7993071)
+- Tree is damaged problem, 7th August :- [7993035](https://www.fixmystreet.com/report/7993035)
+- Propped Against Property on Pavement – Princess Elizabeth Way, 7th August :- [7992926](https://www.fixmystreet.com/report/7992926)
+- 30" pothole near highbury cottage, 7th August :- [7992852](https://www.fixmystreet.com/report/7992852)
+- TMC - Defects - Footways Slabs problem, 7th August :- [7992904](https://www.fixmystreet.com/report/7992904)
 - Ugly Remnant of Preserved Tree on Council Land in front of my House, 7th August :- [7992802](https://www.fixmystreet.com/report/7992802)
+- TMC - Defects - Vegetation problem, 7th August :- [7992891](https://www.fixmystreet.com/report/7992891)
 - TMC - Defects -CW6 Potholes  problem, 7th August :- [7992669](https://www.fixmystreet.com/report/7992669)
 - TMC - Defects -CW6 Potholes  problem, 7th August :- [7992663](https://www.fixmystreet.com/report/7992663)
 - Surface of footpath has deteriorated over many years. This is near junction of Gloucester Road and Station Road Andoversford. I, 7th August :- [7992539](https://www.fixmystreet.com/report/7992539)
@@ -22,12 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other problem, 7th August :- [7992466](https://www.fixmystreet.com/report/7992466)
 - TMC - Defects -other CW10 problem, 7th August :- [7992465](https://www.fixmystreet.com/report/7992465)
 - Fly tipping, 7th August :- [7992206](https://www.fixmystreet.com/report/7992206)
-- TMC - Defects -CW10 Potholes problem, 7th August :- [7992244](https://www.fixmystreet.com/report/7992244)
-- Fly tipped tyre x1, 7th August :- [7992188](https://www.fixmystreet.com/report/7992188)
-- Tree is damaged problem, 7th August :- [7992229](https://www.fixmystreet.com/report/7992229)
-- TMC - Defects -CW10 Potholes problem, 7th August :- [7992232](https://www.fixmystreet.com/report/7992232)
-- TMC - Defects -other CW6 problem, 7th August :- [7992007](https://www.fixmystreet.com/report/7992007)
-- TMC - Defects -CW6 Potholes  problem, 7th August :- [7992006](https://www.fixmystreet.com/report/7992006)
-- TMC - Defects -other CW6 problem, 7th August :- [7992005](https://www.fixmystreet.com/report/7992005)
 
 <!-- fix_marker ends -->
