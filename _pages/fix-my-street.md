@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- ^ cones, a large keep left sign and several large yellow barriers have been left behind after gas works in the area. They have been there for severaL weeks and are very close to the public footpath, 7th August :- [7990983](https://www.fixmystreet.com/report/7990983)
+- Tree overgrowth at junction of college bath road and Keynsham road, 7th August :- [7990865](https://www.fixmystreet.com/report/7990865)
 - Barrier and cone left by new railings that have been fitted in benhall park near to children’s play park as you walk on the path through the middle of the park towards willersley road, 7th August :- [7990562](https://www.fixmystreet.com/report/7990562)
 - Brambles growing across the pavement.Lasne crescent sign broken, 6th August :- [7989815](https://www.fixmystreet.com/report/7989815)
 - Large cracks along length of cycle path that could trap a bike wheel and cause accident, 6th August :- [7989769](https://www.fixmystreet.com/report/7989769)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 6th August :- [7987598](https://www.fixmystreet.com/report/7987598)
 - TMC - Defects -CW6 Potholes  problem, 6th August :- [7987597](https://www.fixmystreet.com/report/7987597)
 - TMC - Defects -CW6 Potholes  problem, 6th August :- [7987596](https://www.fixmystreet.com/report/7987596)
-- TMC - Defects -FW6 Potholes problem, 6th August :- [7986932](https://www.fixmystreet.com/report/7986932)
-- TMC - Defects -FW6 Potholes problem, 6th August :- [7986931](https://www.fixmystreet.com/report/7986931)
 
 <!-- fix_marker ends -->
