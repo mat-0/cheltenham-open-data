@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Barrier and cone left by new railings that have been fitted in benhall park near to children’s play park as you walk on the path through the middle of the park towards willersley road, 7th August :- [7990562](https://www.fixmystreet.com/report/7990562)
 - Brambles growing across the pavement.Lasne crescent sign broken, 6th August :- [7989815](https://www.fixmystreet.com/report/7989815)
 - Large cracks along length of cycle path that could trap a bike wheel and cause accident, 6th August :- [7989769](https://www.fixmystreet.com/report/7989769)
 - Deep hole in road. Only appeared very recently., 6th August :- [7989551](https://www.fixmystreet.com/report/7989551)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 6th August :- [7987596](https://www.fixmystreet.com/report/7987596)
 - TMC - Defects -FW6 Potholes problem, 6th August :- [7986932](https://www.fixmystreet.com/report/7986932)
 - TMC - Defects -FW6 Potholes problem, 6th August :- [7986931](https://www.fixmystreet.com/report/7986931)
-- Overgrowth, 6th August :- [7986822](https://www.fixmystreet.com/report/7986822)
 
 <!-- fix_marker ends -->
