@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Litter picking bags for collection, 8th August :- [7997917](https://www.fixmystreet.com/report/7997917)
 - Keep Left sign missing, 8th August :- [7997501](https://www.fixmystreet.com/report/7997501)
 - Yellow mat was put in place some 2-3 months ago when inspecting engineer (might be Highways as Severn Trent deny it's theirs!) identified a rusted rainwater soakaway drain was a potential trip hazard to pedestrians. Hazard now fixed by me.., 8th August :- [7997124](https://www.fixmystreet.com/report/7997124)
 - Missing iron water cover - VERY DANGEROUS, 8th August :- [7996961](https://www.fixmystreet.com/report/7996961)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Locked gate next to bridge blocking access to public right of way, 7th August :- [7995173](https://www.fixmystreet.com/report/7995173)
 - Road sign damaged, 7th August :- [7994974](https://www.fixmystreet.com/report/7994974)
 - Overgrown Brook and Ash trees on Highways side of embankment – Brook outside Old Forge Cottages, Stoke Road, Stoke Orchard GL52 7RY, 7th August :- [7994898](https://www.fixmystreet.com/report/7994898)
-- There must be a burst water pipe as there is a large amount of surface water, 7th August :- [7994654](https://www.fixmystreet.com/report/7994654)
 
 <!-- fix_marker ends -->

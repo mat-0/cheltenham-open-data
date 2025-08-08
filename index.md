@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Friday, 08 August 2025
 
-- The average temperature today is 20.04˚C,
-- With highs of 21.64˚C and lows of 19.41˚C,
-- It may feel like 19.59˚C with scattered clouds
-- The wind speed is 2.57m/s and visibility is 10000m
-- The pressure is 1019hPa and humidity is 57%
+- The average temperature today is 22.24˚C,
+- With highs of 23.07˚C and lows of 21.51˚C,
+- It may feel like 21.83˚C with few clouds
+- The wind speed is 2.06m/s and visibility is 10000m
+- The pressure is 1019hPa and humidity is 50%
 - The sun will rise at 04:41 and set at 19:46
 
 <!-- weather_marker ends -->
