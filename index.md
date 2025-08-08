@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Friday, 08 August 2025
 
-- The average temperature today is 14.81˚C,
-- With highs of 15.55˚C and lows of 14.26˚C,
-- It may feel like 14.51˚C with overcast clouds
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1015hPa and humidity is 83%
+- The average temperature today is 14.07˚C,
+- With highs of 14.97˚C and lows of 13.62˚C,
+- It may feel like 13.75˚C with overcast clouds
+- The wind speed is 1.34m/s and visibility is 10000m
+- The pressure is 1016hPa and humidity is 85%
 - The sun will rise at 04:41 and set at 19:46
 
 <!-- weather_marker ends -->
