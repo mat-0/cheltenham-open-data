@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street light out. Very dark along the footpath. Already have a problem with antisocial behaviour. This will not help, 8th August :- [8000448](https://www.fixmystreet.com/report/8000448)
 - Blocked drains, 8th August :- [8000325](https://www.fixmystreet.com/report/8000325)
 - Broken glass, 8th August :- [7999939](https://www.fixmystreet.com/report/7999939)
 - Marking on :Pavement?, 8th August :- [7999491](https://www.fixmystreet.com/report/7999491)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 8th August :- [7996718](https://www.fixmystreet.com/report/7996718)
 - TMC - Defects - Other FW6  Surface problem, 8th August :- [7996527](https://www.fixmystreet.com/report/7996527)
 - Abandoned car, 8th August :- [7996391](https://www.fixmystreet.com/report/7996391)
-- Road repair, 8th August :- [7996316](https://www.fixmystreet.com/report/7996316)
 
 <!-- fix_marker ends -->
