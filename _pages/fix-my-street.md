@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Overgrown tree blocking pavement, 8th August :- [7998906](https://www.fixmystreet.com/report/7998906)
+- Tactile paving on corner of Milsom St is worn, cracked, or missing., 8th August :- [7998874](https://www.fixmystreet.com/report/7998874)
 - Road closed off with no signage, 8th August :- [7998780](https://www.fixmystreet.com/report/7998780)
 - Tactile paving outside Mann's shop is worn; difficult for a blind person to identify it with a long cane., 8th August :- [7998778](https://www.fixmystreet.com/report/7998778)
 - The lighting is to dull and doesn’t give enough light so can you please put orange light bulbs in please just like they got in Milton road, 8th August :- [7998721](https://www.fixmystreet.com/report/7998721)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - There is always a large amount of water at this junction, 8th August :- [7995811](https://www.fixmystreet.com/report/7995811)
 - Drain is blocked causing water to be going all over the road and pavement, 8th August :- [7995806](https://www.fixmystreet.com/report/7995806)
 - Disabled bay and zigzag lines worn, need repainting. When people park in the disabled bay they say it’s hard to read the writing as it’s worn., 8th August :- [7995712](https://www.fixmystreet.com/report/7995712)
-- Multiple potholes, 7th August :- [7995532](https://www.fixmystreet.com/report/7995532)
-- Missing 30mph sign on zoons link road., 7th August :- [7995294](https://www.fixmystreet.com/report/7995294)
 
 <!-- fix_marker ends -->
