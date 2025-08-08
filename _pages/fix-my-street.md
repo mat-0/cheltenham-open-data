@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- There is always a large amount of water at this junction, 8th August :- [7995811](https://www.fixmystreet.com/report/7995811)
+- Drain is blocked causing water to be going all over the road and pavement, 8th August :- [7995806](https://www.fixmystreet.com/report/7995806)
 - Disabled bay and zigzag lines worn, need repainting. When people park in the disabled bay they say it’s hard to read the writing as it’s worn., 8th August :- [7995712](https://www.fixmystreet.com/report/7995712)
 - Multiple potholes, 7th August :- [7995532](https://www.fixmystreet.com/report/7995532)
 - Missing 30mph sign on zoons link road., 7th August :- [7995294](https://www.fixmystreet.com/report/7995294)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Update on deep pothole - FixMyStreet ref: 7989551., 7th August :- [7993469](https://www.fixmystreet.com/report/7993469)
 - TMC - Defects -FW6 Potholes problem, 7th August :- [7993483](https://www.fixmystreet.com/report/7993483)
 - TMC - Defects - Covers, Gratings & Frames problem, 7th August :- [7993235](https://www.fixmystreet.com/report/7993235)
-- Tesco trolley, 7th August :- [7993071](https://www.fixmystreet.com/report/7993071)
-- Tree is damaged problem, 7th August :- [7993035](https://www.fixmystreet.com/report/7993035)
 
 <!-- fix_marker ends -->
