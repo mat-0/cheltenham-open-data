@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Marking on :Pavement?, 8th August :- [7999491](https://www.fixmystreet.com/report/7999491)
 - Blocked & Foul Smelling Kerb Gulley, 8th August :- [7999160](https://www.fixmystreet.com/report/7999160)
 - Overgrown tree blocking pavement, 8th August :- [7998906](https://www.fixmystreet.com/report/7998906)
 - Tactile paving on corner of Milsom St is worn, cracked, or missing., 8th August :- [7998874](https://www.fixmystreet.com/report/7998874)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Road repair, 8th August :- [7996316](https://www.fixmystreet.com/report/7996316)
 - Verges need cutting low down, 8th August :- [7996202](https://www.fixmystreet.com/report/7996202)
 - There is always a large amount of water at this junction, 8th August :- [7995811](https://www.fixmystreet.com/report/7995811)
-- Drain is blocked causing water to be going all over the road and pavement, 8th August :- [7995806](https://www.fixmystreet.com/report/7995806)
 
 <!-- fix_marker ends -->
