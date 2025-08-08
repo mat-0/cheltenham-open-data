@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Broken glass, 8th August :- [7999939](https://www.fixmystreet.com/report/7999939)
 - Marking on :Pavement?, 8th August :- [7999491](https://www.fixmystreet.com/report/7999491)
 - Blocked & Foul Smelling Kerb Gulley, 8th August :- [7999160](https://www.fixmystreet.com/report/7999160)
 - Overgrown tree blocking pavement, 8th August :- [7998906](https://www.fixmystreet.com/report/7998906)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Abandoned car, 8th August :- [7996391](https://www.fixmystreet.com/report/7996391)
 - Road repair, 8th August :- [7996316](https://www.fixmystreet.com/report/7996316)
 - Verges need cutting low down, 8th August :- [7996202](https://www.fixmystreet.com/report/7996202)
-- There is always a large amount of water at this junction, 8th August :- [7995811](https://www.fixmystreet.com/report/7995811)
 
 <!-- fix_marker ends -->
