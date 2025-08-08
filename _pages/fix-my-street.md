@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Missing iron water cover - VERY DANGEROUS, 8th August :- [7996961](https://www.fixmystreet.com/report/7996961)
+- Tree is damaged problem, 8th August :- [7996714](https://www.fixmystreet.com/report/7996714)
+- TMC - Defects - Other FW6  Surface problem, 8th August :- [7996718](https://www.fixmystreet.com/report/7996718)
 - TMC - Defects - Other FW6  Surface problem, 8th August :- [7996527](https://www.fixmystreet.com/report/7996527)
 - Abandoned car, 8th August :- [7996391](https://www.fixmystreet.com/report/7996391)
 - Road repair, 8th August :- [7996316](https://www.fixmystreet.com/report/7996316)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Pot hole immediately beside a street lamp almost joining a pothole on the other side of the lane., 7th August :- [7994609](https://www.fixmystreet.com/report/7994609)
 - Fridge freezer dumped, 7th August :- [7993960](https://www.fixmystreet.com/report/7993960)
 - Flytipping of metal shed, 7th August :- [7993944](https://www.fixmystreet.com/report/7993944)
-- The overgrown brambles are pushing the fence down. The fence cannot be replaced until the brambles on public land are removed. The fence urgently needs to be replaced for security reasons due to the back garden backing onto the B4063., 7th August :- [7993746](https://www.fixmystreet.com/report/7993746)
-- Pathway outside sainsburys, 7th August :- [7993647](https://www.fixmystreet.com/report/7993647)
-- TMC - Defects -CW10 Potholes problem, 7th August :- [7993637](https://www.fixmystreet.com/report/7993637)
 
 <!-- fix_marker ends -->
