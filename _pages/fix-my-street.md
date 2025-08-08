@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Other FW6  Surface problem, 8th August :- [7996527](https://www.fixmystreet.com/report/7996527)
+- Abandoned car, 8th August :- [7996391](https://www.fixmystreet.com/report/7996391)
+- Road repair, 8th August :- [7996316](https://www.fixmystreet.com/report/7996316)
 - Verges need cutting low down, 8th August :- [7996202](https://www.fixmystreet.com/report/7996202)
 - There is always a large amount of water at this junction, 8th August :- [7995811](https://www.fixmystreet.com/report/7995811)
 - Drain is blocked causing water to be going all over the road and pavement, 8th August :- [7995806](https://www.fixmystreet.com/report/7995806)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - The overgrown brambles are pushing the fence down. The fence cannot be replaced until the brambles on public land are removed. The fence urgently needs to be replaced for security reasons due to the back garden backing onto the B4063., 7th August :- [7993746](https://www.fixmystreet.com/report/7993746)
 - Pathway outside sainsburys, 7th August :- [7993647](https://www.fixmystreet.com/report/7993647)
 - TMC - Defects -CW10 Potholes problem, 7th August :- [7993637](https://www.fixmystreet.com/report/7993637)
-- Post or sign leaning slightly (less than 20 degrees) problem, 7th August :- [7993629](https://www.fixmystreet.com/report/7993629)
-- Update on deep pothole - FixMyStreet ref: 7989551., 7th August :- [7993469](https://www.fixmystreet.com/report/7993469)
-- TMC - Defects -FW6 Potholes problem, 7th August :- [7993483](https://www.fixmystreet.com/report/7993483)
 
 <!-- fix_marker ends -->
