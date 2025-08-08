@@ -9,7 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Keep Left sign missing, 8th August :- [7997501](https://www.fixmystreet.com/report/7997501)
+- Yellow mat was put in place some 2-3 months ago when inspecting engineer (might be Highways as Severn Trent deny it's theirs!) identified a rusted rainwater soakaway drain was a potential trip hazard to pedestrians. Hazard now fixed by me.., 8th August :- [7997124](https://www.fixmystreet.com/report/7997124)
 - Missing iron water cover - VERY DANGEROUS, 8th August :- [7996961](https://www.fixmystreet.com/report/7996961)
+- TMC - Defects -CW6 Potholes  problem, 8th August :- [7997362](https://www.fixmystreet.com/report/7997362)
 - Tree is damaged problem, 8th August :- [7996714](https://www.fixmystreet.com/report/7996714)
 - TMC - Defects - Other FW6  Surface problem, 8th August :- [7996718](https://www.fixmystreet.com/report/7996718)
 - TMC - Defects - Other FW6  Surface problem, 8th August :- [7996527](https://www.fixmystreet.com/report/7996527)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Road sign damaged, 7th August :- [7994974](https://www.fixmystreet.com/report/7994974)
 - Overgrown Brook and Ash trees on Highways side of embankment – Brook outside Old Forge Cottages, Stoke Road, Stoke Orchard GL52 7RY, 7th August :- [7994898](https://www.fixmystreet.com/report/7994898)
 - There must be a burst water pipe as there is a large amount of surface water, 7th August :- [7994654](https://www.fixmystreet.com/report/7994654)
-- Pot hole immediately beside a street lamp almost joining a pothole on the other side of the lane., 7th August :- [7994609](https://www.fixmystreet.com/report/7994609)
-- Fridge freezer dumped, 7th August :- [7993960](https://www.fixmystreet.com/report/7993960)
-- Flytipping of metal shed, 7th August :- [7993944](https://www.fixmystreet.com/report/7993944)
 
 <!-- fix_marker ends -->
