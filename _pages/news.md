@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Theatre will be 'state-of-the-art' for reopening ([14 hours ago](https://www.bbc.com/news/articles/c93dl449dnro?at_medium=RSS&at_campaign=rss))
-- Funding to 'breathe new life' into heritage sites ([14 hours ago](https://www.bbc.com/news/articles/cx29q84xel3o?at_medium=RSS&at_campaign=rss))
-- Woman raped by brother urges others to report abuse ([17 hours ago](https://www.bbc.com/news/articles/cy4dv39224go?at_medium=RSS&at_campaign=rss))
+- Theatre will be 'state-of-the-art' for reopening ([15 hours ago](https://www.bbc.com/news/articles/c93dl449dnro?at_medium=RSS&at_campaign=rss))
+- Funding to 'breathe new life' into heritage sites ([15 hours ago](https://www.bbc.com/news/articles/cx29q84xel3o?at_medium=RSS&at_campaign=rss))
+- Woman raped by brother urges others to report abuse ([18 hours ago](https://www.bbc.com/news/articles/cy4dv39224go?at_medium=RSS&at_campaign=rss))
 - 'Fiesta's special balloons' and 'event outbreak' ([18 hours ago](https://www.bbc.com/news/articles/czd0ylj7er3o?at_medium=RSS&at_campaign=rss))
-- 'New tax is putting young people off farming' ([21 hours ago](https://www.bbc.com/news/articles/c776nyen77do?at_medium=RSS&at_campaign=rss))
-- Beef farm's daily YouTube videos keeping it afloat ([21 hours ago](https://www.bbc.com/news/articles/c5y34gevy35o?at_medium=RSS&at_campaign=rss))
+- 'New tax is putting young people off farming' ([22 hours ago](https://www.bbc.com/news/articles/c776nyen77do?at_medium=RSS&at_campaign=rss))
+- Beef farm's daily YouTube videos keeping it afloat ([22 hours ago](https://www.bbc.com/news/articles/c5y34gevy35o?at_medium=RSS&at_campaign=rss))
 - Licences needed for Botox clinics in cosmetics crackdown ([1 days ago](https://www.bbc.com/news/articles/czd03ejd28lo?at_medium=RSS&at_campaign=rss))
 - ‘Beautiful and fitting’ tribute to Cheltenham’s fallen WWI heroes as website tells their stories ([1 days ago](https://gloucesternewscentre.co.uk/beautiful-and-fitting-tribute-to-cheltenhams-fallen-wwi-heroes-as-website-tells-their-stories/))
 - New perennial planting in the Long Gardens supports greater biodiversity ([1 days ago](https://gloucesternewscentre.co.uk/new-perennial-planting-in-the-long-gardens-supports-greater-biodiversity/))
