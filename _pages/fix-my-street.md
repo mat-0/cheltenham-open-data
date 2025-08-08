@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Verges need cutting low down, 8th August :- [7996202](https://www.fixmystreet.com/report/7996202)
 - There is always a large amount of water at this junction, 8th August :- [7995811](https://www.fixmystreet.com/report/7995811)
 - Drain is blocked causing water to be going all over the road and pavement, 8th August :- [7995806](https://www.fixmystreet.com/report/7995806)
 - Disabled bay and zigzag lines worn, need repainting. When people park in the disabled bay they say it’s hard to read the writing as it’s worn., 8th August :- [7995712](https://www.fixmystreet.com/report/7995712)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Post or sign leaning slightly (less than 20 degrees) problem, 7th August :- [7993629](https://www.fixmystreet.com/report/7993629)
 - Update on deep pothole - FixMyStreet ref: 7989551., 7th August :- [7993469](https://www.fixmystreet.com/report/7993469)
 - TMC - Defects -FW6 Potholes problem, 7th August :- [7993483](https://www.fixmystreet.com/report/7993483)
-- TMC - Defects - Covers, Gratings & Frames problem, 7th August :- [7993235](https://www.fixmystreet.com/report/7993235)
 
 <!-- fix_marker ends -->
