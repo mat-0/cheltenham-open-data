@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Road closed off with no signage, 8th August :- [7998780](https://www.fixmystreet.com/report/7998780)
+- Tactile paving outside Mann's shop is worn; difficult for a blind person to identify it with a long cane., 8th August :- [7998778](https://www.fixmystreet.com/report/7998778)
+- The lighting is to dull and doesn’t give enough light so can you please put orange light bulbs in please just like they got in Milton road, 8th August :- [7998721](https://www.fixmystreet.com/report/7998721)
+- A large number of potholes along the length of Crippetts lane, along with stone debris on the road making it slippery, 8th August :- [7998664](https://www.fixmystreet.com/report/7998664)
 - Litter picking bags for collection, 8th August :- [7997917](https://www.fixmystreet.com/report/7997917)
 - Keep Left sign missing, 8th August :- [7997501](https://www.fixmystreet.com/report/7997501)
 - Yellow mat was put in place some 2-3 months ago when inspecting engineer (might be Highways as Severn Trent deny it's theirs!) identified a rusted rainwater soakaway drain was a potential trip hazard to pedestrians. Hazard now fixed by me.., 8th August :- [7997124](https://www.fixmystreet.com/report/7997124)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Disabled bay and zigzag lines worn, need repainting. When people park in the disabled bay they say it’s hard to read the writing as it’s worn., 8th August :- [7995712](https://www.fixmystreet.com/report/7995712)
 - Multiple potholes, 7th August :- [7995532](https://www.fixmystreet.com/report/7995532)
 - Missing 30mph sign on zoons link road., 7th August :- [7995294](https://www.fixmystreet.com/report/7995294)
-- Poor repair to road surface, 7th August :- [7995287](https://www.fixmystreet.com/report/7995287)
-- Locked gate next to bridge blocking access to public right of way, 7th August :- [7995173](https://www.fixmystreet.com/report/7995173)
-- Road sign damaged, 7th August :- [7994974](https://www.fixmystreet.com/report/7994974)
-- Overgrown Brook and Ash trees on Highways side of embankment – Brook outside Old Forge Cottages, Stoke Road, Stoke Orchard GL52 7RY, 7th August :- [7994898](https://www.fixmystreet.com/report/7994898)
 
 <!-- fix_marker ends -->
