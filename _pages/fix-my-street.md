@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Gutters full of rubble outside nos 38/40 & 41/43 Whittington road, 9th August :- [8001416](https://www.fixmystreet.com/report/8001416)
+- Deep pothole around a drain cover on the road, 9th August :- [8001330](https://www.fixmystreet.com/report/8001330)
 - Flytipped trolley, 9th August :- [8001161](https://www.fixmystreet.com/report/8001161)
 - Unpermitted roadworks problem, 9th August :- [8001083](https://www.fixmystreet.com/report/8001083)
 - Flytipped Items, 9th August :- [8000996](https://www.fixmystreet.com/report/8000996)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Litter picking bags for collection, 8th August :- [7997917](https://www.fixmystreet.com/report/7997917)
 - Keep Left sign missing, 8th August :- [7997501](https://www.fixmystreet.com/report/7997501)
 - Yellow mat was put in place some 2-3 months ago when inspecting engineer (might be Highways as Severn Trent deny it's theirs!) identified a rusted rainwater soakaway drain was a potential trip hazard to pedestrians. Hazard now fixed by me.., 8th August :- [7997124](https://www.fixmystreet.com/report/7997124)
-- Missing iron water cover - VERY DANGEROUS, 8th August :- [7996961](https://www.fixmystreet.com/report/7996961)
-- TMC - Defects -CW6 Potholes  problem, 8th August :- [7997362](https://www.fixmystreet.com/report/7997362)
 
 <!-- fix_marker ends -->
