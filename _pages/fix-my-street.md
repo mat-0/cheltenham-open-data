@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipped trolley, 9th August :- [8001161](https://www.fixmystreet.com/report/8001161)
+- Unpermitted roadworks problem, 9th August :- [8001083](https://www.fixmystreet.com/report/8001083)
+- Flytipped Items, 9th August :- [8000996](https://www.fixmystreet.com/report/8000996)
 - 2 large potholes on Bath Road A46, 9th August :- [8000791](https://www.fixmystreet.com/report/8000791)
 - Street light out. Very dark along the footpath. Already have a problem with antisocial behaviour. This will not help, 8th August :- [8000448](https://www.fixmystreet.com/report/8000448)
 - Blocked drains, 8th August :- [8000325](https://www.fixmystreet.com/report/8000325)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Yellow mat was put in place some 2-3 months ago when inspecting engineer (might be Highways as Severn Trent deny it's theirs!) identified a rusted rainwater soakaway drain was a potential trip hazard to pedestrians. Hazard now fixed by me.., 8th August :- [7997124](https://www.fixmystreet.com/report/7997124)
 - Missing iron water cover - VERY DANGEROUS, 8th August :- [7996961](https://www.fixmystreet.com/report/7996961)
 - TMC - Defects -CW6 Potholes  problem, 8th August :- [7997362](https://www.fixmystreet.com/report/7997362)
-- Tree is damaged problem, 8th August :- [7996714](https://www.fixmystreet.com/report/7996714)
-- TMC - Defects - Other FW6  Surface problem, 8th August :- [7996718](https://www.fixmystreet.com/report/7996718)
-- TMC - Defects - Other FW6  Surface problem, 8th August :- [7996527](https://www.fixmystreet.com/report/7996527)
 
 <!-- fix_marker ends -->
