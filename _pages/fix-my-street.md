@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street light is off, 9th August :- [8002933](https://www.fixmystreet.com/report/8002933)
 - Litter pick bags ready for collection, 9th August :- [8002710](https://www.fixmystreet.com/report/8002710)
 - The left turn filter light from Coombe hill Tewkesbury road onto the A38, 9th August :- [8002444](https://www.fixmystreet.com/report/8002444)
 - Speed limit sign covered by foliage and unreadable, 9th August :- [8002429](https://www.fixmystreet.com/report/8002429)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Overgrown tree blocking pavement, 8th August :- [7998906](https://www.fixmystreet.com/report/7998906)
 - Tactile paving on corner of Milsom St is worn, cracked, or missing., 8th August :- [7998874](https://www.fixmystreet.com/report/7998874)
 - Road closed off with no signage, 8th August :- [7998780](https://www.fixmystreet.com/report/7998780)
-- Tactile paving outside Mann's shop is worn; difficult for a blind person to identify it with a long cane., 8th August :- [7998778](https://www.fixmystreet.com/report/7998778)
 
 <!-- fix_marker ends -->
