@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Overgrown path, 9th August :- [8002292](https://www.fixmystreet.com/report/8002292)
 - Post or sign leaning slightly (less than 20 degrees) problem, 9th August :- [8002048](https://www.fixmystreet.com/report/8002048)
 - Gutters full of rubble outside nos 38/40 & 41/43 Whittington road, 9th August :- [8001416](https://www.fixmystreet.com/report/8001416)
 - Deep pothole around a drain cover on the road, 9th August :- [8001330](https://www.fixmystreet.com/report/8001330)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - The lighting is to dull and doesn’t give enough light so can you please put orange light bulbs in please just like they got in Milton road, 8th August :- [7998721](https://www.fixmystreet.com/report/7998721)
 - A large number of potholes along the length of Crippetts lane, along with stone debris on the road making it slippery, 8th August :- [7998664](https://www.fixmystreet.com/report/7998664)
 - Litter picking bags for collection, 8th August :- [7997917](https://www.fixmystreet.com/report/7997917)
-- Keep Left sign missing, 8th August :- [7997501](https://www.fixmystreet.com/report/7997501)
 
 <!-- fix_marker ends -->
