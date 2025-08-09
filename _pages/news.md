@@ -12,13 +12,13 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Warning before new season as football fan gets ban ([10 hours ago](https://www.bbc.com/news/videos/c1ej6wgzgwxo?at_medium=RSS&at_campaign=rss))
+- Warning before new season as football fan gets ban ([11 hours ago](https://www.bbc.com/news/videos/c1ej6wgzgwxo?at_medium=RSS&at_campaign=rss))
 - Charlie Cooper among stars set to appear at history festivals ([13 hours ago](https://www.bbc.com/news/articles/c6279eq2lwpo?at_medium=RSS&at_campaign=rss))
 - Cheltenham to mark 80th anniversary of VJ Day ([15 hours ago](https://www.cheltenham.gov.uk/news/article/3039/cheltenham_to_mark_80th_anniversary_of_vj_day))
 - 'Café burgled three times' and 'rats in empty homes' ([16 hours ago](https://www.bbc.com/news/articles/clyrz80x91yo?at_medium=RSS&at_campaign=rss))
-- Neanderthal tools, mammoths and new species at dig ([21 hours ago](https://www.bbc.com/news/articles/cgjy8l8degvo?at_medium=RSS&at_campaign=rss))
-- Support network helped us to breastfeed, say mums ([21 hours ago](https://www.bbc.com/news/articles/czjmn1lvgl3o?at_medium=RSS&at_campaign=rss))
-- Vandalism at grassroots sport clubs 'heartbreaking' ([21 hours ago](https://www.bbc.com/news/articles/c79l3n3v832o?at_medium=RSS&at_campaign=rss))
+- Neanderthal tools, mammoths and new species at dig ([22 hours ago](https://www.bbc.com/news/articles/cgjy8l8degvo?at_medium=RSS&at_campaign=rss))
+- Support network helped us to breastfeed, say mums ([22 hours ago](https://www.bbc.com/news/articles/czjmn1lvgl3o?at_medium=RSS&at_campaign=rss))
+- Vandalism at grassroots sport clubs 'heartbreaking' ([22 hours ago](https://www.bbc.com/news/articles/c79l3n3v832o?at_medium=RSS&at_campaign=rss))
 - Theatre will be 'state-of-the-art' for reopening ([1 days ago](https://www.bbc.com/news/articles/c93dl449dnro?at_medium=RSS&at_campaign=rss))
 - Funding to 'breathe new life' into heritage sites ([1 days ago](https://www.bbc.com/news/articles/cx29q84xel3o?at_medium=RSS&at_campaign=rss))
 - Woman raped by brother urges others to report abuse ([1 days ago](https://www.bbc.com/news/articles/cy4dv39224go?at_medium=RSS&at_campaign=rss))
