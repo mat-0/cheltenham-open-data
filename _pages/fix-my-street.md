@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The left turn filter light from Coombe hill Tewkesbury road onto the A38, 9th August :- [8002444](https://www.fixmystreet.com/report/8002444)
+- Speed limit sign covered by foliage and unreadable, 9th August :- [8002429](https://www.fixmystreet.com/report/8002429)
 - Overgrown path, 9th August :- [8002292](https://www.fixmystreet.com/report/8002292)
 - Post or sign leaning slightly (less than 20 degrees) problem, 9th August :- [8002048](https://www.fixmystreet.com/report/8002048)
 - Gutters full of rubble outside nos 38/40 & 41/43 Whittington road, 9th August :- [8001416](https://www.fixmystreet.com/report/8001416)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Road closed off with no signage, 8th August :- [7998780](https://www.fixmystreet.com/report/7998780)
 - Tactile paving outside Mann's shop is worn; difficult for a blind person to identify it with a long cane., 8th August :- [7998778](https://www.fixmystreet.com/report/7998778)
 - The lighting is to dull and doesn’t give enough light so can you please put orange light bulbs in please just like they got in Milton road, 8th August :- [7998721](https://www.fixmystreet.com/report/7998721)
-- A large number of potholes along the length of Crippetts lane, along with stone debris on the road making it slippery, 8th August :- [7998664](https://www.fixmystreet.com/report/7998664)
-- Litter picking bags for collection, 8th August :- [7997917](https://www.fixmystreet.com/report/7997917)
 
 <!-- fix_marker ends -->
