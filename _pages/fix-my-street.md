@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 2 large potholes on Bath Road A46, 9th August :- [8000791](https://www.fixmystreet.com/report/8000791)
 - Street light out. Very dark along the footpath. Already have a problem with antisocial behaviour. This will not help, 8th August :- [8000448](https://www.fixmystreet.com/report/8000448)
 - Blocked drains, 8th August :- [8000325](https://www.fixmystreet.com/report/8000325)
 - Broken glass, 8th August :- [7999939](https://www.fixmystreet.com/report/7999939)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Tree is damaged problem, 8th August :- [7996714](https://www.fixmystreet.com/report/7996714)
 - TMC - Defects - Other FW6  Surface problem, 8th August :- [7996718](https://www.fixmystreet.com/report/7996718)
 - TMC - Defects - Other FW6  Surface problem, 8th August :- [7996527](https://www.fixmystreet.com/report/7996527)
-- Abandoned car, 8th August :- [7996391](https://www.fixmystreet.com/report/7996391)
 
 <!-- fix_marker ends -->
