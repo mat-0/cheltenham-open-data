@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Saturday, 09 August 2025
 
-- The average temperature today is 24.19˚C,
-- With highs of 24.99˚C and lows of 23.31˚C,
-- It may feel like 23.76˚C with clear sky
+- The average temperature today is 24.12˚C,
+- With highs of 24.82˚C and lows of 23.3˚C,
+- It may feel like 23.63˚C with clear sky
 - The wind speed is 6.17m/s and visibility is 10000m
-- The pressure is 1020hPa and humidity is 42%
+- The pressure is 1020hPa and humidity is 40%
 - The sun will rise at 04:43 and set at 19:44
 
 <!-- weather_marker ends -->
