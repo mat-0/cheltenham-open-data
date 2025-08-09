@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Dead horse found on side of busy city road ([3 hours ago](https://www.bbc.com/news/articles/c201n8n1x8xo?at_medium=RSS&at_campaign=rss))
-- Librarians told not to express views on cuts ([9 hours ago](https://www.bbc.com/news/articles/cev200y3j3zo?at_medium=RSS&at_campaign=rss))
-- Council apologises for laying down headstones ([10 hours ago](https://www.bbc.com/news/articles/cx23008xn3ko?at_medium=RSS&at_campaign=rss))
-- Man, 71, running 121 miles for granddaughter ([11 hours ago](https://www.bbc.com/news/articles/cx2qed2v5gxo?at_medium=RSS&at_campaign=rss))
-- Gloucestershire in pictures: Hazy days and Farmwatch ([11 hours ago](https://www.bbc.com/news/articles/cy4dkle828yo?at_medium=RSS&at_campaign=rss))
+- Dead horse found on side of busy city road ([4 hours ago](https://www.bbc.com/news/articles/c201n8n1x8xo?at_medium=RSS&at_campaign=rss))
+- Librarians told not to express views on cuts ([10 hours ago](https://www.bbc.com/news/articles/cev200y3j3zo?at_medium=RSS&at_campaign=rss))
+- Council apologises for laying down headstones ([11 hours ago](https://www.bbc.com/news/articles/cx23008xn3ko?at_medium=RSS&at_campaign=rss))
+- Man, 71, running 121 miles for granddaughter ([12 hours ago](https://www.bbc.com/news/articles/cx2qed2v5gxo?at_medium=RSS&at_campaign=rss))
+- Gloucestershire in pictures: Hazy days and Farmwatch ([12 hours ago](https://www.bbc.com/news/articles/cy4dkle828yo?at_medium=RSS&at_campaign=rss))
 - Warning before new season as football fan gets ban ([1 days ago](https://www.bbc.com/news/videos/c1ej6wgzgwxo?at_medium=RSS&at_campaign=rss))
 - River Island allowed to shut shops to stave off collapse ([1 days ago](https://www.bbc.com/news/articles/cr4ez9pn9z6o?at_medium=RSS&at_campaign=rss))
 - Charlie Cooper among stars set to appear at history festivals ([1 days ago](https://www.bbc.com/news/articles/c6279eq2lwpo?at_medium=RSS&at_campaign=rss))
