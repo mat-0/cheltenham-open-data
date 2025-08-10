@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Three dog faeces, 10th August :- [8005873](https://www.fixmystreet.com/report/8005873)
 - Branches have overtaken telephone cables risking breakage, 10th August :- [8004903](https://www.fixmystreet.com/report/8004903)
 - The hedge is overgrown, 10th August :- [8004801](https://www.fixmystreet.com/report/8004801)
 - Racist graffiti on road sign, 10th August :- [8004565](https://www.fixmystreet.com/report/8004565)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Flytipped trolley, 9th August :- [8001161](https://www.fixmystreet.com/report/8001161)
 - Unpermitted roadworks problem, 9th August :- [8001083](https://www.fixmystreet.com/report/8001083)
 - Flytipped Items, 9th August :- [8000996](https://www.fixmystreet.com/report/8000996)
-- 2 large potholes on Bath Road A46, 9th August :- [8000791](https://www.fixmystreet.com/report/8000791)
 
 <!-- fix_marker ends -->
