@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Branches have overtaken telephone cables risking breakage, 10th August :- [8004903](https://www.fixmystreet.com/report/8004903)
+- The hedge is overgrown, 10th August :- [8004801](https://www.fixmystreet.com/report/8004801)
 - Racist graffiti on road sign, 10th August :- [8004565](https://www.fixmystreet.com/report/8004565)
 - The entire upper part of Melville Rd., 10th August :- [8004243](https://www.fixmystreet.com/report/8004243)
 - Public footpath inaccessible due to gate locked with a chain and a padlock., 10th August :- [8004120](https://www.fixmystreet.com/report/8004120)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Unpermitted roadworks problem, 9th August :- [8001083](https://www.fixmystreet.com/report/8001083)
 - Flytipped Items, 9th August :- [8000996](https://www.fixmystreet.com/report/8000996)
 - 2 large potholes on Bath Road A46, 9th August :- [8000791](https://www.fixmystreet.com/report/8000791)
-- Street light out. Very dark along the footpath. Already have a problem with antisocial behaviour. This will not help, 8th August :- [8000448](https://www.fixmystreet.com/report/8000448)
-- Blocked drains, 8th August :- [8000325](https://www.fixmystreet.com/report/8000325)
 
 <!-- fix_marker ends -->
