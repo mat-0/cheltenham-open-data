@@ -10,10 +10,10 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Sunday, 10 August 2025
 
-- The average temperature today is 20.85˚C,
-- With highs of 21.49˚C and lows of 20.85˚C,
-- It may feel like 20.61˚C with clear sky
-- The wind speed is 1.76m/s and visibility is 10000m
+- The average temperature today is 20.12˚C,
+- With highs of 21.08˚C and lows of 18.71˚C,
+- It may feel like 19.81˚C with clear sky
+- The wind speed is 0.45m/s and visibility is 10000m
 - The pressure is 1025hPa and humidity is 62%
 - The sun will rise at 04:44 and set at 19:42
 
