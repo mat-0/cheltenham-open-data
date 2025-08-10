@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The entire upper part of Melville Rd., 10th August :- [8004243](https://www.fixmystreet.com/report/8004243)
 - Public footpath inaccessible due to gate locked with a chain and a padlock., 10th August :- [8004120](https://www.fixmystreet.com/report/8004120)
 - White line markings on Elmbridge Court are in desperate need of repainting. Causes confusion to many drivers who are not familiar with the area. This has/can lead to collisions., 10th August :- [8003274](https://www.fixmystreet.com/report/8003274)
 - White lines and signage on road need repainting. Confusing for drivers not familiar with area, 10th August :- [8003257](https://www.fixmystreet.com/report/8003257)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Street light out. Very dark along the footpath. Already have a problem with antisocial behaviour. This will not help, 8th August :- [8000448](https://www.fixmystreet.com/report/8000448)
 - Blocked drains, 8th August :- [8000325](https://www.fixmystreet.com/report/8000325)
 - Broken glass, 8th August :- [7999939](https://www.fixmystreet.com/report/7999939)
-- Marking on :Pavement?, 8th August :- [7999491](https://www.fixmystreet.com/report/7999491)
 
 <!-- fix_marker ends -->
