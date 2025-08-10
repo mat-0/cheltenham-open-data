@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Public footpath inaccessible due to gate locked with a chain and a padlock., 10th August :- [8004120](https://www.fixmystreet.com/report/8004120)
 - White line markings on Elmbridge Court are in desperate need of repainting. Causes confusion to many drivers who are not familiar with the area. This has/can lead to collisions., 10th August :- [8003274](https://www.fixmystreet.com/report/8003274)
 - White lines and signage on road need repainting. Confusing for drivers not familiar with area, 10th August :- [8003257](https://www.fixmystreet.com/report/8003257)
 - Damage to library perimeter metal fence and waste bin, resulting from RTC., 10th August :- [8003243](https://www.fixmystreet.com/report/8003243)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Blocked drains, 8th August :- [8000325](https://www.fixmystreet.com/report/8000325)
 - Broken glass, 8th August :- [7999939](https://www.fixmystreet.com/report/7999939)
 - Marking on :Pavement?, 8th August :- [7999491](https://www.fixmystreet.com/report/7999491)
-- Blocked & Foul Smelling Kerb Gulley, 8th August :- [7999160](https://www.fixmystreet.com/report/7999160)
 
 <!-- fix_marker ends -->
