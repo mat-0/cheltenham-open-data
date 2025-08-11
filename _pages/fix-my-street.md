@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipped cabinet, 11th August :- [8010619](https://www.fixmystreet.com/report/8010619)
+- Two orange bollards, 11th August :- [8010534](https://www.fixmystreet.com/report/8010534)
+- Pothole around drain and next to drain, 11th August :- [8010489](https://www.fixmystreet.com/report/8010489)
 - Broken or loose drain cover., 11th August :- [8010150](https://www.fixmystreet.com/report/8010150)
 - Tree not replaced, 11th August :- [8009956](https://www.fixmystreet.com/report/8009956)
 - Loose gravel across the road, 11th August :- [8009941](https://www.fixmystreet.com/report/8009941)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Subject: Hedge on Winterbottom Road – urgent request for trimming, 11th August :- [8009074](https://www.fixmystreet.com/report/8009074)
 - TMC - Defects -CW6 Potholes  problem, 11th August :- [8009243](https://www.fixmystreet.com/report/8009243)
 - Pothole formed outside 28 Maple Drive, 11th August :- [8009067](https://www.fixmystreet.com/report/8009067)
-- TMC - Defects -CW6 Potholes  problem, 11th August :- [8009250](https://www.fixmystreet.com/report/8009250)
-- TMC - Defects - Vegetation problem, 11th August :- [8009033](https://www.fixmystreet.com/report/8009033)
-- TMC - Defects - Vegetation problem, 11th August :- [8009032](https://www.fixmystreet.com/report/8009032)
 
 <!-- fix_marker ends -->
