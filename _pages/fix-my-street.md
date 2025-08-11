@@ -9,7 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Broken or loose drain cover., 11th August :- [8010150](https://www.fixmystreet.com/report/8010150)
 - Tree not replaced, 11th August :- [8009956](https://www.fixmystreet.com/report/8009956)
+- Loose gravel across the road, 11th August :- [8009941](https://www.fixmystreet.com/report/8009941)
 - TMC - Defects -CW6 Potholes  problem, 11th August :- [8009670](https://www.fixmystreet.com/report/8009670)
 - TMC - Defects -CW6 Potholes  problem, 11th August :- [8009669](https://www.fixmystreet.com/report/8009669)
 - TMC - Defects -CW6 Potholes  problem, 11th August :- [8009668](https://www.fixmystreet.com/report/8009668)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 11th August :- [8009250](https://www.fixmystreet.com/report/8009250)
 - TMC - Defects - Vegetation problem, 11th August :- [8009033](https://www.fixmystreet.com/report/8009033)
 - TMC - Defects - Vegetation problem, 11th August :- [8009032](https://www.fixmystreet.com/report/8009032)
-- Glass In Car Park, 11th August :- [8008814](https://www.fixmystreet.com/report/8008814)
-- TMC - Defects - Vegetation problem, 11th August :- [8008859](https://www.fixmystreet.com/report/8008859)
 
 <!-- fix_marker ends -->
