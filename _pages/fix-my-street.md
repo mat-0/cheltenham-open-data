@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Right turn arrow not activating, 11th August :- [8011380](https://www.fixmystreet.com/report/8011380)
+- The speed warning sign on Old Bath Road is not working., 11th August :- [8011314](https://www.fixmystreet.com/report/8011314)
 - Rattling manhole cover A435 northbound Bishops Cleeve, 11th August :- [8011077](https://www.fixmystreet.com/report/8011077)
 - Large paint spillage in middle of road, 11th August :- [8010957](https://www.fixmystreet.com/report/8010957)
 - Over grown landscapes, 11th August :- [8010727](https://www.fixmystreet.com/report/8010727)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 11th August :- [8009663](https://www.fixmystreet.com/report/8009663)
 - TMC - Defects -other CW6 problem, 11th August :- [8009662](https://www.fixmystreet.com/report/8009662)
 - A pothole in road problem, 11th August :- [8009658](https://www.fixmystreet.com/report/8009658)
-- Blocked drain, 11th August :- [8009480](https://www.fixmystreet.com/report/8009480)
-- Overhanging tree outside 51 Hazel Way, Lobleys Drive, 11th August :- [8009432](https://www.fixmystreet.com/report/8009432)
 
 <!-- fix_marker ends -->
