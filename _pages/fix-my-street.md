@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Rattling manhole cover A435 northbound Bishops Cleeve, 11th August :- [8011077](https://www.fixmystreet.com/report/8011077)
 - Large paint spillage in middle of road, 11th August :- [8010957](https://www.fixmystreet.com/report/8010957)
 - Over grown landscapes, 11th August :- [8010727](https://www.fixmystreet.com/report/8010727)
 - Flytipped cabinet, 11th August :- [8010619](https://www.fixmystreet.com/report/8010619)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - A pothole in road problem, 11th August :- [8009658](https://www.fixmystreet.com/report/8009658)
 - Blocked drain, 11th August :- [8009480](https://www.fixmystreet.com/report/8009480)
 - Overhanging tree outside 51 Hazel Way, Lobleys Drive, 11th August :- [8009432](https://www.fixmystreet.com/report/8009432)
-- Subject: Hedge on Winterbottom Road – urgent request for trimming, 11th August :- [8009074](https://www.fixmystreet.com/report/8009074)
 
 <!-- fix_marker ends -->
