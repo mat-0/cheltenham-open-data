@@ -9,6 +9,15 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects -FW6 Potholes problem, 11th August :- [8006300](https://www.fixmystreet.com/report/8006300)
+- TMC - Defects -FW6 Potholes problem, 11th August :- [8006298](https://www.fixmystreet.com/report/8006298)
+- TMC - Defects -FW6 Potholes problem, 11th August :- [8006299](https://www.fixmystreet.com/report/8006299)
+- TMC - Defects - Other FW6  Surface problem, 11th August :- [8006297](https://www.fixmystreet.com/report/8006297)
+- TMC - Defects - Vegetation problem, 11th August :- [8006186](https://www.fixmystreet.com/report/8006186)
+- TMC - Defects - Vegetation problem, 11th August :- [8006184](https://www.fixmystreet.com/report/8006184)
+- TMC - Defects - Other FW6  Surface problem, 11th August :- [8006185](https://www.fixmystreet.com/report/8006185)
+- TMC - Defects - Other FW6  Surface problem, 11th August :- [8006130](https://www.fixmystreet.com/report/8006130)
+- TMC - Defects - Other FW6  Surface problem, 11th August :- [8006131](https://www.fixmystreet.com/report/8006131)
 - TMC - Defects - Other FW6  Surface problem, 11th August :- [8006073](https://www.fixmystreet.com/report/8006073)
 - TMC - Defects - Other FW6  Surface problem, 11th August :- [8006072](https://www.fixmystreet.com/report/8006072)
 - Three dog faeces, 10th August :- [8005873](https://www.fixmystreet.com/report/8005873)
@@ -20,14 +29,5 @@ permalink: /fix-my-street
 - White line markings on Elmbridge Court are in desperate need of repainting. Causes confusion to many drivers who are not familiar with the area. This has/can lead to collisions., 10th August :- [8003274](https://www.fixmystreet.com/report/8003274)
 - White lines and signage on road need repainting. Confusing for drivers not familiar with area, 10th August :- [8003257](https://www.fixmystreet.com/report/8003257)
 - Damage to library perimeter metal fence and waste bin, resulting from RTC., 10th August :- [8003243](https://www.fixmystreet.com/report/8003243)
-- Street light is off, 9th August :- [8002933](https://www.fixmystreet.com/report/8002933)
-- Litter pick bags ready for collection, 9th August :- [8002710](https://www.fixmystreet.com/report/8002710)
-- The left turn filter light from Coombe hill Tewkesbury road onto the A38, 9th August :- [8002444](https://www.fixmystreet.com/report/8002444)
-- Speed limit sign covered by foliage and unreadable, 9th August :- [8002429](https://www.fixmystreet.com/report/8002429)
-- Overgrown path, 9th August :- [8002292](https://www.fixmystreet.com/report/8002292)
-- Post or sign leaning slightly (less than 20 degrees) problem, 9th August :- [8002048](https://www.fixmystreet.com/report/8002048)
-- Gutters full of rubble outside nos 38/40 & 41/43 Whittington road, 9th August :- [8001416](https://www.fixmystreet.com/report/8001416)
-- Deep pothole around a drain cover on the road, 9th August :- [8001330](https://www.fixmystreet.com/report/8001330)
-- Flytipped trolley, 9th August :- [8001161](https://www.fixmystreet.com/report/8001161)
 
 <!-- fix_marker ends -->
