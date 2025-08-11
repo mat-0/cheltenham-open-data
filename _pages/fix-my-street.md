@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Other FW6  Surface problem, 11th August :- [8006073](https://www.fixmystreet.com/report/8006073)
+- TMC - Defects - Other FW6  Surface problem, 11th August :- [8006072](https://www.fixmystreet.com/report/8006072)
 - Three dog faeces, 10th August :- [8005873](https://www.fixmystreet.com/report/8005873)
 - Branches have overtaken telephone cables risking breakage, 10th August :- [8004903](https://www.fixmystreet.com/report/8004903)
 - The hedge is overgrown, 10th August :- [8004801](https://www.fixmystreet.com/report/8004801)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Gutters full of rubble outside nos 38/40 & 41/43 Whittington road, 9th August :- [8001416](https://www.fixmystreet.com/report/8001416)
 - Deep pothole around a drain cover on the road, 9th August :- [8001330](https://www.fixmystreet.com/report/8001330)
 - Flytipped trolley, 9th August :- [8001161](https://www.fixmystreet.com/report/8001161)
-- Unpermitted roadworks problem, 9th August :- [8001083](https://www.fixmystreet.com/report/8001083)
-- Flytipped Items, 9th August :- [8000996](https://www.fixmystreet.com/report/8000996)
 
 <!-- fix_marker ends -->
