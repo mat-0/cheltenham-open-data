@@ -12,8 +12,8 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Bleed kits installed in towns to 'prevent tragedy' ([10 hours ago](https://www.bbc.com/news/articles/cdx0l2kxwlro?at_medium=RSS&at_campaign=rss))
-- Arrest after man dies in night-time tractor crash ([17 hours ago](https://www.bbc.com/news/articles/cn0rq01l84jo?at_medium=RSS&at_campaign=rss))
+- Bleed kits installed in towns to 'prevent tragedy' ([11 hours ago](https://www.bbc.com/news/articles/cdx0l2kxwlro?at_medium=RSS&at_campaign=rss))
+- Arrest after man dies in night-time tractor crash ([18 hours ago](https://www.bbc.com/news/articles/cn0rq01l84jo?at_medium=RSS&at_campaign=rss))
 - Fly-tipping crackdown holds homeowners accountable ([21 hours ago](https://www.bbc.com/news/articles/cn840kv32g8o?at_medium=RSS&at_campaign=rss))
 - Headlines: 'Manager furious' and 'nurses punched' ([21 hours ago](https://www.bbc.com/news/articles/cdrk5vm88z3o?at_medium=RSS&at_campaign=rss))
 - Dead horse found on side of busy city road ([1 days ago](https://www.bbc.com/news/articles/c201n8n1x8xo?at_medium=RSS&at_campaign=rss))
