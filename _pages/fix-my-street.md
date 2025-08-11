@@ -9,6 +9,17 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Subject: Hedge on Winterbottom Road – urgent request for trimming, 11th August :- [8009074](https://www.fixmystreet.com/report/8009074)
+- TMC - Defects -CW6 Potholes  problem, 11th August :- [8009243](https://www.fixmystreet.com/report/8009243)
+- Pothole formed outside 28 Maple Drive, 11th August :- [8009067](https://www.fixmystreet.com/report/8009067)
+- TMC - Defects -CW6 Potholes  problem, 11th August :- [8009250](https://www.fixmystreet.com/report/8009250)
+- TMC - Defects - Vegetation problem, 11th August :- [8009033](https://www.fixmystreet.com/report/8009033)
+- TMC - Defects - Vegetation problem, 11th August :- [8009032](https://www.fixmystreet.com/report/8009032)
+- Glass In Car Park, 11th August :- [8008814](https://www.fixmystreet.com/report/8008814)
+- TMC - Defects - Vegetation problem, 11th August :- [8008859](https://www.fixmystreet.com/report/8008859)
+- TMC - Defects - Vegetation problem, 11th August :- [8008855](https://www.fixmystreet.com/report/8008855)
+- TMC - Defects - Kerbs and Channels problem, 11th August :- [8008854](https://www.fixmystreet.com/report/8008854)
+- TMC - Defects - Other problem, 11th August :- [8008858](https://www.fixmystreet.com/report/8008858)
 - Street sign left behind, 11th August :- [8008645](https://www.fixmystreet.com/report/8008645)
 - TMC - Defects - Other problem, 11th August :- [8008567](https://www.fixmystreet.com/report/8008567)
 - TMC - Defects -CW6 Potholes  problem, 11th August :- [8008566](https://www.fixmystreet.com/report/8008566)
@@ -18,16 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 11th August :- [8008570](https://www.fixmystreet.com/report/8008570)
 - TMC - Defects - Vegetation problem, 11th August :- [8008564](https://www.fixmystreet.com/report/8008564)
 - HGVs exceeding weight limit, 11th August :- [8008455](https://www.fixmystreet.com/report/8008455)
-- Noise Pollution, 11th August :- [8008434](https://www.fixmystreet.com/report/8008434)
-- TMC - Defects - Vegetation problem, 11th August :- [8008568](https://www.fixmystreet.com/report/8008568)
-- TMC - Defects -CW6 Potholes  problem, 11th August :- [8008563](https://www.fixmystreet.com/report/8008563)
-- TMC - Defects - Signs & Street Furniture problem, 11th August :- [8008569](https://www.fixmystreet.com/report/8008569)
-- TMC - Defects -CW6 Potholes  problem, 11th August :- [8008561](https://www.fixmystreet.com/report/8008561)
-- Post or sign leaning slightly (less than 20 degrees) problem, 11th August :- [8008318](https://www.fixmystreet.com/report/8008318)
-- 3 small patches of deteriorated tarmac on pavement just as it joins the end of our driveway, 11th August :- [8007902](https://www.fixmystreet.com/report/8007902)
-- TMC - Defects - Other FW6  Surface problem, 11th August :- [8008031](https://www.fixmystreet.com/report/8008031)
-- 7) A large number of potholes along the length of Crippetts lane, along with stone debris on the road making it slippery, 11th August :- [8007772](https://www.fixmystreet.com/report/8007772)
-- 6) A large number of potholes along the length of Crippetts lane, along with stone debris on the road making it slippery, 11th August :- [8007741](https://www.fixmystreet.com/report/8007741)
-- 5) A large number of potholes along the length of Crippetts lane, along with stone debris on the road making it slippery, 11th August :- [8007715](https://www.fixmystreet.com/report/8007715)
 
 <!-- fix_marker ends -->
