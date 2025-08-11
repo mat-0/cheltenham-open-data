@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large paint spillage in middle of road, 11th August :- [8010957](https://www.fixmystreet.com/report/8010957)
+- Over grown landscapes, 11th August :- [8010727](https://www.fixmystreet.com/report/8010727)
 - Flytipped cabinet, 11th August :- [8010619](https://www.fixmystreet.com/report/8010619)
 - Two orange bollards, 11th August :- [8010534](https://www.fixmystreet.com/report/8010534)
 - Pothole around drain and next to drain, 11th August :- [8010489](https://www.fixmystreet.com/report/8010489)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Blocked drain, 11th August :- [8009480](https://www.fixmystreet.com/report/8009480)
 - Overhanging tree outside 51 Hazel Way, Lobleys Drive, 11th August :- [8009432](https://www.fixmystreet.com/report/8009432)
 - Subject: Hedge on Winterbottom Road – urgent request for trimming, 11th August :- [8009074](https://www.fixmystreet.com/report/8009074)
-- TMC - Defects -CW6 Potholes  problem, 11th August :- [8009243](https://www.fixmystreet.com/report/8009243)
-- Pothole formed outside 28 Maple Drive, 11th August :- [8009067](https://www.fixmystreet.com/report/8009067)
 
 <!-- fix_marker ends -->

@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Monday, 11 August 2025
 
-- The average temperature today is 27.01˚C,
-- With highs of 27.76˚C and lows of 26.27˚C,
-- It may feel like 26.92˚C with clear sky
+- The average temperature today is 25.89˚C,
+- With highs of 26.1˚C and lows of 25.29˚C,
+- It may feel like 25.71˚C with clear sky
 - The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1018hPa and humidity is 41%
+- The pressure is 1018hPa and humidity is 45%
 - The sun will rise at 04:46 and set at 19:40
 
 <!-- weather_marker ends -->
