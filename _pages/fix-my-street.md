@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Other FW6  Surface problem, 12th August :- [8012223](https://www.fixmystreet.com/report/8012223)
+- TMC - Defects - Other FW6  Surface problem, 12th August :- [8012214](https://www.fixmystreet.com/report/8012214)
+- 2 bags of waste dumped, 12th August :- [8012166](https://www.fixmystreet.com/report/8012166)
+- TMC - Defects - Other FW6  Surface problem, 12th August :- [8012128](https://www.fixmystreet.com/report/8012128)
 - TMC - Defects - Other FW6  Surface problem, 12th August :- [8012051](https://www.fixmystreet.com/report/8012051)
 - TMC - Defects - Other FW6  Surface problem, 12th August :- [8012050](https://www.fixmystreet.com/report/8012050)
 - Right turn arrow not activating, 11th August :- [8011380](https://www.fixmystreet.com/report/8011380)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 11th August :- [8009670](https://www.fixmystreet.com/report/8009670)
 - TMC - Defects -CW6 Potholes  problem, 11th August :- [8009669](https://www.fixmystreet.com/report/8009669)
 - TMC - Defects -CW6 Potholes  problem, 11th August :- [8009668](https://www.fixmystreet.com/report/8009668)
-- TMC - Defects -CW6 Potholes  problem, 11th August :- [8009667](https://www.fixmystreet.com/report/8009667)
-- TMC - Defects -CW6 Potholes  problem, 11th August :- [8009666](https://www.fixmystreet.com/report/8009666)
-- TMC - Defects -CW6 Potholes  problem, 11th August :- [8009665](https://www.fixmystreet.com/report/8009665)
-- TMC - Defects -CW6 Potholes  problem, 11th August :- [8009663](https://www.fixmystreet.com/report/8009663)
 
 <!-- fix_marker ends -->
