@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Tuesday, 12 August 2025
 
-- The average temperature today is 21.56˚C,
-- With highs of 23.25˚C and lows of 19.84˚C,
-- It may feel like 21.6˚C with broken clouds
-- The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 1014hPa and humidity is 70%
+- The average temperature today is 23.87˚C,
+- With highs of 24.42˚C and lows of 22.62˚C,
+- It may feel like 23.96˚C with overcast clouds
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 1014hPa and humidity is 63%
 - The sun will rise at 04:48 and set at 19:38
 
 <!-- weather_marker ends -->
