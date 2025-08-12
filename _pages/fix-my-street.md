@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Other FW6  Surface problem, 12th August :- [8012551](https://www.fixmystreet.com/report/8012551)
+- TMC - Defects -FW6 Potholes problem, 12th August :- [8012552](https://www.fixmystreet.com/report/8012552)
 - TMC - Defects - Other FW6  Surface problem, 12th August :- [8012223](https://www.fixmystreet.com/report/8012223)
 - TMC - Defects - Other FW6  Surface problem, 12th August :- [8012214](https://www.fixmystreet.com/report/8012214)
 - 2 bags of waste dumped, 12th August :- [8012166](https://www.fixmystreet.com/report/8012166)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Tree not replaced, 11th August :- [8009956](https://www.fixmystreet.com/report/8009956)
 - Loose gravel across the road, 11th August :- [8009941](https://www.fixmystreet.com/report/8009941)
 - TMC - Defects -CW6 Potholes  problem, 11th August :- [8009670](https://www.fixmystreet.com/report/8009670)
-- TMC - Defects -CW6 Potholes  problem, 11th August :- [8009669](https://www.fixmystreet.com/report/8009669)
-- TMC - Defects -CW6 Potholes  problem, 11th August :- [8009668](https://www.fixmystreet.com/report/8009668)
 
 <!-- fix_marker ends -->
