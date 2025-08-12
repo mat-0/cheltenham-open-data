@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole exposing raised ironworks, 12th August :- [8016738](https://www.fixmystreet.com/report/8016738)
 - Over grown grass verge narrowing cycle path down to one lane, 12th August :- [8016619](https://www.fixmystreet.com/report/8016619)
 - Pothole, 12th August :- [8016029](https://www.fixmystreet.com/report/8016029)
 - Large branches down - 50m of path blocked, 12th August :- [8015885](https://www.fixmystreet.com/report/8015885)
@@ -21,13 +22,12 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 12th August :- [8014879](https://www.fixmystreet.com/report/8014879)
 - TMC - Defects -CW6 Potholes  problem, 12th August :- [8014873](https://www.fixmystreet.com/report/8014873)
 - TMC - Defects -CW6 Potholes  problem, 12th August :- [8014877](https://www.fixmystreet.com/report/8014877)
+- TMC - Defects -CW6 Potholes  problem, 12th August :- [8014872](https://www.fixmystreet.com/report/8014872)
 - TMC - Defects -CW6 Potholes  problem, 12th August :- [8014874](https://www.fixmystreet.com/report/8014874)
 - TMC - Defects -CW6 Potholes  problem, 12th August :- [8014876](https://www.fixmystreet.com/report/8014876)
-- TMC - Defects -CW6 Potholes  problem, 12th August :- [8014872](https://www.fixmystreet.com/report/8014872)
 - TMC - Defects -CW6 Potholes  problem, 12th August :- [8014871](https://www.fixmystreet.com/report/8014871)
 - Trees overhanging the road hindering the refuse lorries, 12th August :- [8014691](https://www.fixmystreet.com/report/8014691)
 - TMC - Defects -CW6 Potholes  problem, 12th August :- [8014714](https://www.fixmystreet.com/report/8014714)
 - TMC - Defects -CW6 Potholes  problem, 12th August :- [8014699](https://www.fixmystreet.com/report/8014699)
-- Signs have different distances on them., 12th August :- [8014660](https://www.fixmystreet.com/report/8014660)
 
 <!-- fix_marker ends -->
