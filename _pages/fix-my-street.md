@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Other FW6  Surface problem, 12th August :- [8012051](https://www.fixmystreet.com/report/8012051)
+- TMC - Defects - Other FW6  Surface problem, 12th August :- [8012050](https://www.fixmystreet.com/report/8012050)
 - Right turn arrow not activating, 11th August :- [8011380](https://www.fixmystreet.com/report/8011380)
 - The speed warning sign on Old Bath Road is not working., 11th August :- [8011314](https://www.fixmystreet.com/report/8011314)
 - Rattling manhole cover A435 northbound Bishops Cleeve, 11th August :- [8011077](https://www.fixmystreet.com/report/8011077)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 11th August :- [8009666](https://www.fixmystreet.com/report/8009666)
 - TMC - Defects -CW6 Potholes  problem, 11th August :- [8009665](https://www.fixmystreet.com/report/8009665)
 - TMC - Defects -CW6 Potholes  problem, 11th August :- [8009663](https://www.fixmystreet.com/report/8009663)
-- TMC - Defects -other CW6 problem, 11th August :- [8009662](https://www.fixmystreet.com/report/8009662)
-- A pothole in road problem, 11th August :- [8009658](https://www.fixmystreet.com/report/8009658)
 
 <!-- fix_marker ends -->
