@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Wednesday, 13 August 2025
 
-- The average temperature today is 20.37˚C,
-- With highs of 21.1˚C and lows of 19.82˚C,
-- It may feel like 20.45˚C with overcast clouds
+- The average temperature today is 19.67˚C,
+- With highs of 20.4˚C and lows of 19.26˚C,
+- It may feel like 19.76˚C with broken clouds
 - The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 1014hPa and humidity is 76%
+- The pressure is 1014hPa and humidity is 79%
 - The sun will rise at 04:49 and set at 19:36
 
 <!-- weather_marker ends -->
