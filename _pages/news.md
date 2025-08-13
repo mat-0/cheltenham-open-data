@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Lightning strike hitting house sounded 'like a bomb' ([10 hours ago](https://www.bbc.com/news/articles/ce830zjp865o?at_medium=RSS&at_campaign=rss))
+- Lightning strike hitting house sounded 'like a bomb' ([11 hours ago](https://www.bbc.com/news/articles/ce830zjp865o?at_medium=RSS&at_campaign=rss))
 - Arrest after woman dragged onto M5 motorway ([16 hours ago](https://www.bbc.com/news/articles/cj4wynx8zq0o?at_medium=RSS&at_campaign=rss))
-- Dog mauled at harbourside and fly-tipper caught ([17 hours ago](https://www.bbc.com/news/articles/cn5eqw0dvdko?at_medium=RSS&at_campaign=rss))
+- Dog mauled at harbourside and fly-tipper caught ([18 hours ago](https://www.bbc.com/news/articles/cn5eqw0dvdko?at_medium=RSS&at_campaign=rss))
 - Fire service taken out of special measures ([19 hours ago](https://www.bbc.com/news/articles/c3v3zll0l9do?at_medium=RSS&at_campaign=rss))
-- Parking schemes to be reviewed due to concerns ([22 hours ago](https://www.bbc.com/news/articles/cd7yyw5v142o?at_medium=RSS&at_campaign=rss))
-- Free uniform pop-up 'godsend', mum says ([22 hours ago](https://www.bbc.com/news/articles/c0kz3zlv6pjo?at_medium=RSS&at_campaign=rss))
+- Parking schemes to be reviewed due to concerns ([23 hours ago](https://www.bbc.com/news/articles/cd7yyw5v142o?at_medium=RSS&at_campaign=rss))
+- Free uniform pop-up 'godsend', mum says ([23 hours ago](https://www.bbc.com/news/articles/c0kz3zlv6pjo?at_medium=RSS&at_campaign=rss))
 - Gloucestershire County Council launches ‘Clean Sweep’ initiative ([1 days ago](https://gloucesternewscentre.co.uk/gloucestershire-county-council-launches-clean-sweep-initiative/))
 - Cheltenham Community Allotment Group Hits Record Harvest ([1 days ago](https://gloucesternewscentre.co.uk/cheltenham-community-allotment-group-hits-record-harvest/))
 - Stroud Greens oppose ‘disturbing’ Government proposals to sell off allotments ([1 days ago](https://gloucesternewscentre.co.uk/stroud-greens-oppose-disturbing-government-proposals-to-sell-off-allotments/))
