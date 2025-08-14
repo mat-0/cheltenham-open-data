@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -104,15 +104,6 @@
 </item>
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 13th August</title>
-<link>https://www.fixmystreet.com/report/8019716</link>
-<description>Give and take plus 28 day temporary footway closure footway abrupt level different 2400x600x22mm tarmac patch over tree roots stats required stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8019716&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8019716</guid>
-<pubDate>Wed, 13 Aug 2025 12:54:41 +0100</pubDate>
-<georss:point>51.8987692 -2.0668036</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 13th August</title>
 <link>https://www.fixmystreet.com/report/8019721</link>
 <description>NWD Give and take plus temporary footway closure required footway depression 1000x900x30mm tarmac patch stats required (FW6 Rutting&amp;amp;Depressions)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8019721&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Other FW6  Surface</category>
@@ -137,6 +128,15 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/8019714</guid>
 <pubDate>Wed, 13 Aug 2025 12:54:41 +0100</pubDate>
 <georss:point>51.8978033 -2.06780450000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 13th August</title>
+<link>https://www.fixmystreet.com/report/8019716</link>
+<description>Give and take plus 28 day temporary footway closure footway abrupt level different 2400x600x22mm tarmac patch over tree roots stats required stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8019716&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8019716</guid>
+<pubDate>Wed, 13 Aug 2025 12:54:41 +0100</pubDate>
+<georss:point>51.8987692 -2.0668036</georss:point>
 </item>
 <item>
 <title>Drainage/Pothole 🕳️ Developing, 13th August</title>
@@ -184,13 +184,13 @@
 <georss:point>51.912119 -2.0661548</georss:point>
 </item>
 <item>
-<title>TMC - Defects -CW6 Potholes  problem, 13th August</title>
-<link>https://www.fixmystreet.com/report/8019310</link>
-<description>Road  closure 28 day  carriage way pothole 500x300x40 mm tarmac patch plus x 3 NSD (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8019310&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8019310</guid>
+<title>TMC - Defects - Signs &amp; Street Furniture problem, 13th August</title>
+<link>https://www.fixmystreet.com/report/8019323</link>
+<description>NWD WITH GIVE AND TAKE  X4 BARRIERS AND X4 SANDBAGS PLACE AROUND RAISED FIRE HYDRANT IN GRASS VERGE (Damaged Street Furniture)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8019323&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Signs &amp; Street Furniture</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8019323</guid>
 <pubDate>Wed, 13 Aug 2025 12:00:32 +0100</pubDate>
-<georss:point>51.912093 -2.06638099999999</georss:point>
+<georss:point>51.9121584986754 -2.06596009729474</georss:point>
 </item>
 </channel>
 </rss>
