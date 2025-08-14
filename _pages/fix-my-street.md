@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Right of way completely blocked. Surface is dangerous with deep gully and water erosion., 14th August :- [8027248](https://www.fixmystreet.com/report/8027248)
+- 2 electric scooters dumped in Wymans Brook, 14th August :- [8027198](https://www.fixmystreet.com/report/8027198)
 - Fly tipping on highway land, 14th August :- [8026903](https://www.fixmystreet.com/report/8026903)
 - On Elmbridge Court roundabout on exit to Longford, 14th August :- [8026260](https://www.fixmystreet.com/report/8026260)
 - TMC - Defects - Covers, Gratings & Frames problem, 14th August :- [8026264](https://www.fixmystreet.com/report/8026264)
@@ -21,13 +23,11 @@ permalink: /fix-my-street
 - Post or sign leaning slightly (less than 20 degrees) problem, 14th August :- [8025380](https://www.fixmystreet.com/report/8025380)
 - TMC - Defects -CW6 Potholes  problem, 14th August :- [8025392](https://www.fixmystreet.com/report/8025392)
 - TMC - Defects -CW6 Potholes  problem, 14th August :- [8025395](https://www.fixmystreet.com/report/8025395)
-- TMC - Defects -CW6 Potholes  problem, 14th August :- [8025396](https://www.fixmystreet.com/report/8025396)
-- TMC - Defects -CW6 Potholes  problem, 14th August :- [8025398](https://www.fixmystreet.com/report/8025398)
-- TMC - Defects -CW6 Potholes  problem, 14th August :- [8025391](https://www.fixmystreet.com/report/8025391)
 - TMC - Defects -CW6 Potholes  problem, 14th August :- [8025393](https://www.fixmystreet.com/report/8025393)
 - TMC - Defects -CW6 Potholes  problem, 14th August :- [8025394](https://www.fixmystreet.com/report/8025394)
+- TMC - Defects -CW6 Potholes  problem, 14th August :- [8025391](https://www.fixmystreet.com/report/8025391)
+- TMC - Defects -CW6 Potholes  problem, 14th August :- [8025398](https://www.fixmystreet.com/report/8025398)
+- TMC - Defects -CW6 Potholes  problem, 14th August :- [8025396](https://www.fixmystreet.com/report/8025396)
 - Dead fox on church road Longlevens by leven close, 14th August :- [8025201](https://www.fixmystreet.com/report/8025201)
-- TMC - Defects -other CW10 problem, 14th August :- [8025049](https://www.fixmystreet.com/report/8025049)
-- TMC - Defects -other CW10 problem, 14th August :- [8024844](https://www.fixmystreet.com/report/8024844)
 
 <!-- fix_marker ends -->
