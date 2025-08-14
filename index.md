@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Thursday, 14 August 2025
 
-- The average temperature today is 22.91˚C,
-- With highs of 23.73˚C and lows of 22.61˚C,
-- It may feel like 22.98˚C with few clouds
-- The wind speed is 3.09m/s and visibility is 10000m
-- The pressure is 1020hPa and humidity is 66%
+- The average temperature today is 21.49˚C,
+- With highs of 21.58˚C and lows of 21.49˚C,
+- It may feel like 21.6˚C with clear sky
+- The wind speed is 0.45m/s and visibility is 10000m
+- The pressure is 1021hPa and humidity is 73%
 - The sun will rise at 04:51 and set at 19:34
 
 <!-- weather_marker ends -->
