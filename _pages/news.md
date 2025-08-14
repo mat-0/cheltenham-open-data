@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- 'Batman mural' and 'empty reservoirs' ([3 hours ago](https://www.bbc.com/news/articles/cgr945ndqp5o?at_medium=RSS&at_campaign=rss))
-- Motorway to be closed 10 times for flood work ([3 hours ago](https://www.bbc.com/news/articles/czr6183d68do?at_medium=RSS&at_campaign=rss))
-- Builder denies running business as a Ponzi scheme ([4 hours ago](https://www.bbc.com/news/articles/cg501vy3mlmo?at_medium=RSS&at_campaign=rss))
-- Community group buys outdoor education centre ([8 hours ago](https://www.bbc.com/news/articles/cy988y4v5n4o?at_medium=RSS&at_campaign=rss))
-- MP praises new pharmacy in 'health-deprived' area ([8 hours ago](https://www.bbc.com/news/articles/c4gzz09w4dqo?at_medium=RSS&at_campaign=rss))
-- 'He's a bit of a mouth' - locals react to Vance visit ([20 hours ago](https://www.bbc.com/news/articles/cjdy1vgzvxgo?at_medium=RSS&at_campaign=rss))
+- 'Batman mural' and 'empty reservoirs' ([4 hours ago](https://www.bbc.com/news/articles/cgr945ndqp5o?at_medium=RSS&at_campaign=rss))
+- Motorway to be closed 10 times for flood work ([4 hours ago](https://www.bbc.com/news/articles/czr6183d68do?at_medium=RSS&at_campaign=rss))
+- Builder denies running business as a Ponzi scheme ([5 hours ago](https://www.bbc.com/news/articles/cg501vy3mlmo?at_medium=RSS&at_campaign=rss))
+- Community group buys outdoor education centre ([9 hours ago](https://www.bbc.com/news/articles/cy988y4v5n4o?at_medium=RSS&at_campaign=rss))
+- MP praises new pharmacy in 'health-deprived' area ([9 hours ago](https://www.bbc.com/news/articles/c4gzz09w4dqo?at_medium=RSS&at_campaign=rss))
+- 'He's a bit of a mouth' - locals react to Vance visit ([21 hours ago](https://www.bbc.com/news/articles/cjdy1vgzvxgo?at_medium=RSS&at_campaign=rss))
 - University staff move into former Debenhams ([1 days ago](https://www.bbc.com/news/articles/c4gl702dxkxo?at_medium=RSS&at_campaign=rss))
 - Joanna Lumley and Tulisa confirmed for literature festival ([1 days ago](https://www.bbc.com/news/articles/crr2jppwrklo?at_medium=RSS&at_campaign=rss))
 - Cheltenham families enjoy another successful NCLB Party in the Park ([1 days ago](https://www.cheltenham.gov.uk/news/article/3040/cheltenham_families_enjoy_another_successful_nclb_party_in_the_park))
@@ -60,7 +60,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Key road near Cheltenham station to closed in one direction ([27 days ago](https://gloucesternewscentre.co.uk/key-road-near-cheltenham-station-to-closed-in-one-direction/))
 - Decision on David Lloyd club amid odour fears from landfill site ([27 days ago](https://gloucesternewscentre.co.uk/decision-on-david-lloyd-club-amid-odour-fears-from-landfill-site/))
 - 17 Cheltenham projects awarded over £136k from Neighbourhood Fund ([28 days ago](https://www.cheltenham.gov.uk/news/article/3036/17_cheltenham_projects_awarded_over_136k_from_neighbourhood_fund))
-- Independent survey launches to capture resident priorities ([28 days ago](https://www.cheltenham.gov.uk/news/article/3035/independent_survey_launches_to_capture_resident_priorities))
+- Independent survey launches to capture resident priorities ([29 days ago](https://www.cheltenham.gov.uk/news/article/3035/independent_survey_launches_to_capture_resident_priorities))
 - Fresh plans to demolish city tower block ([29 days ago](https://www.bbc.co.uk/sounds/play/p0lqdgnz?at_medium=RSS&at_campaign=rss))
 
 <!-- news_marker ends -->
