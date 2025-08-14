@@ -9,6 +9,16 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Abandoned moped at Martyn Close play park, 14th August :- [8023610](https://www.fixmystreet.com/report/8023610)
+- TMC - Defects - Other FW6  Surface problem, 14th August :- [8023654](https://www.fixmystreet.com/report/8023654)
+- TMC - Defects - Other FW6  Surface problem, 14th August :- [8023653](https://www.fixmystreet.com/report/8023653)
+- TMC - Defects - Other FW6  Surface problem, 14th August :- [8023646](https://www.fixmystreet.com/report/8023646)
+- TMC - Defects -CW10 Potholes problem, 14th August :- [8023634](https://www.fixmystreet.com/report/8023634)
+- TMC - Defects -CW10 Potholes problem, 14th August :- [8023633](https://www.fixmystreet.com/report/8023633)
+- TMC - Defects -CW10 Potholes problem, 14th August :- [8023632](https://www.fixmystreet.com/report/8023632)
+- Works can on 13/08 dug hole and haven’t replaced properly. Loose cracked slab, incorrect curb placement, significant difference in slab height (lower than rest creating trip hazard), 14th August :- [8023539](https://www.fixmystreet.com/report/8023539)
+- Overhanging trees in neighbouring gardens and broken fence along footpath, 14th August :- [8023538](https://www.fixmystreet.com/report/8023538)
+- Golden Valley bypass - Litter on central reservation & verges, 14th August :- [8023386](https://www.fixmystreet.com/report/8023386)
 - Multiple pot holes and road sinking, 13th August :- [8021471](https://www.fixmystreet.com/report/8021471)
 - Weeds growing out of road gully, 13th August :- [8021310](https://www.fixmystreet.com/report/8021310)
 - No street lighting, 13th August :- [8021075](https://www.fixmystreet.com/report/8021075)
@@ -18,16 +28,6 @@ permalink: /fix-my-street
 - Barrier was broken due to car going into it., 13th August :- [8020226](https://www.fixmystreet.com/report/8020226)
 - Abandoned mattress and chairs, 13th August :- [8020083](https://www.fixmystreet.com/report/8020083)
 - Tree is damaged problem, 13th August :- [8019930](https://www.fixmystreet.com/report/8019930)
-- TMC - Defects - Road Markings problem, 13th August :- [8019707](https://www.fixmystreet.com/report/8019707)
-- TMC - Defects - Other FW6  Surface problem, 13th August :- [8019715](https://www.fixmystreet.com/report/8019715)
-- TMC - Defects - Other FW6  Surface problem, 13th August :- [8019721](https://www.fixmystreet.com/report/8019721)
-- TMC - Defects -FW6 Potholes problem, 13th August :- [8019714](https://www.fixmystreet.com/report/8019714)
 - TMC - Defects - Other FW6  Surface problem, 13th August :- [8019716](https://www.fixmystreet.com/report/8019716)
-- Drainage/Pothole 🕳️ Developing, 13th August :- [8019636](https://www.fixmystreet.com/report/8019636)
-- There are dead branches in the trees along the whole of Sydenham Road North, the trees are also incredibly high and have not been pollarded in years! We are concerned that a branch will break off and fall into our driveway damaging our vehicles, 13th August :- [8019549](https://www.fixmystreet.com/report/8019549)
-- TMC - Defects -other CW6 problem, 13th August :- [8019535](https://www.fixmystreet.com/report/8019535)
-- TMC - Defects -other CW6 problem, 13th August :- [8019311](https://www.fixmystreet.com/report/8019311)
-- TMC - Defects -CW6 Potholes  problem, 13th August :- [8019309](https://www.fixmystreet.com/report/8019309)
-- TMC - Defects -CW6 Potholes  problem, 13th August :- [8019310](https://www.fixmystreet.com/report/8019310)
 
 <!-- fix_marker ends -->
