@@ -9,6 +9,15 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects -other CW10 problem, 14th August :- [8025049](https://www.fixmystreet.com/report/8025049)
+- TMC - Defects -other CW10 problem, 14th August :- [8024844](https://www.fixmystreet.com/report/8024844)
+- TMC - Defects -other CW10 problem, 14th August :- [8024843](https://www.fixmystreet.com/report/8024843)
+- TMC - Defects -other CW10 problem, 14th August :- [8024842](https://www.fixmystreet.com/report/8024842)
+- TMC - Defects -other CW10 problem, 14th August :- [8024849](https://www.fixmystreet.com/report/8024849)
+- TMC - Defects -other CW10 problem, 14th August :- [8024847](https://www.fixmystreet.com/report/8024847)
+- TMC - Defects -CW10 Potholes problem, 14th August :- [8024846](https://www.fixmystreet.com/report/8024846)
+- "lost" barriers, 14th August :- [8024799](https://www.fixmystreet.com/report/8024799)
+- TMC - Defects - Vegetation problem, 14th August :- [8024838](https://www.fixmystreet.com/report/8024838)
 - Stretch of road has defects, 14th August :- [8024669](https://www.fixmystreet.com/report/8024669)
 - Empty beer barrels and wood planks dumped on roadway, 14th August :- [8024589](https://www.fixmystreet.com/report/8024589)
 - This is a 3 way traffic lights. The pedestrian lights do not park and pedestrian cannot see what the traffic lights are on and so unable to know which lane of traffic is moving to be able to cross safely. This junction has become very busy with cars, lorries and buses. The lights haven’ t worked for months ., 14th August :- [8024563](https://www.fixmystreet.com/report/8024563)
@@ -20,14 +29,5 @@ permalink: /fix-my-street
 - Grass has not been cut for 6 months despite being reported a number of times., 14th August :- [8024078](https://www.fixmystreet.com/report/8024078)
 - Blocked drains, 14th August :- [8023993](https://www.fixmystreet.com/report/8023993)
 - TMC - Defects - Covers, Gratings & Frames problem, 14th August :- [8023894](https://www.fixmystreet.com/report/8023894)
-- Abandoned moped at Martyn Close play park, 14th August :- [8023610](https://www.fixmystreet.com/report/8023610)
-- TMC - Defects - Other FW6  Surface problem, 14th August :- [8023654](https://www.fixmystreet.com/report/8023654)
-- TMC - Defects - Other FW6  Surface problem, 14th August :- [8023653](https://www.fixmystreet.com/report/8023653)
-- TMC - Defects - Other FW6  Surface problem, 14th August :- [8023646](https://www.fixmystreet.com/report/8023646)
-- TMC - Defects -CW10 Potholes problem, 14th August :- [8023634](https://www.fixmystreet.com/report/8023634)
-- TMC - Defects -CW10 Potholes problem, 14th August :- [8023633](https://www.fixmystreet.com/report/8023633)
-- TMC - Defects -CW10 Potholes problem, 14th August :- [8023632](https://www.fixmystreet.com/report/8023632)
-- Works can on 13/08 dug hole and haven’t replaced properly. Loose cracked slab, incorrect curb placement, significant difference in slab height (lower than rest creating trip hazard), 14th August :- [8023539](https://www.fixmystreet.com/report/8023539)
-- Overhanging trees in neighbouring gardens and broken fence along footpath, 14th August :- [8023538](https://www.fixmystreet.com/report/8023538)
 
 <!-- fix_marker ends -->
