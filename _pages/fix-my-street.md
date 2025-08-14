@@ -9,6 +9,17 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree is damaged problem, 14th August :- [8025591](https://www.fixmystreet.com/report/8025591)
+- TMC - Defects - Vegetation problem, 14th August :- [8025397](https://www.fixmystreet.com/report/8025397)
+- Post or sign leaning slightly (less than 20 degrees) problem, 14th August :- [8025380](https://www.fixmystreet.com/report/8025380)
+- TMC - Defects -CW6 Potholes  problem, 14th August :- [8025394](https://www.fixmystreet.com/report/8025394)
+- TMC - Defects -CW6 Potholes  problem, 14th August :- [8025396](https://www.fixmystreet.com/report/8025396)
+- TMC - Defects -CW6 Potholes  problem, 14th August :- [8025392](https://www.fixmystreet.com/report/8025392)
+- TMC - Defects -CW6 Potholes  problem, 14th August :- [8025398](https://www.fixmystreet.com/report/8025398)
+- TMC - Defects -CW6 Potholes  problem, 14th August :- [8025395](https://www.fixmystreet.com/report/8025395)
+- TMC - Defects -CW6 Potholes  problem, 14th August :- [8025393](https://www.fixmystreet.com/report/8025393)
+- TMC - Defects -CW6 Potholes  problem, 14th August :- [8025391](https://www.fixmystreet.com/report/8025391)
+- Dead fox on church road Longlevens by leven close, 14th August :- [8025201](https://www.fixmystreet.com/report/8025201)
 - TMC - Defects -other CW10 problem, 14th August :- [8025049](https://www.fixmystreet.com/report/8025049)
 - TMC - Defects -other CW10 problem, 14th August :- [8024844](https://www.fixmystreet.com/report/8024844)
 - TMC - Defects -other CW10 problem, 14th August :- [8024843](https://www.fixmystreet.com/report/8024843)
@@ -18,16 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW10 Potholes problem, 14th August :- [8024846](https://www.fixmystreet.com/report/8024846)
 - "lost" barriers, 14th August :- [8024799](https://www.fixmystreet.com/report/8024799)
 - TMC - Defects - Vegetation problem, 14th August :- [8024838](https://www.fixmystreet.com/report/8024838)
-- Stretch of road has defects, 14th August :- [8024669](https://www.fixmystreet.com/report/8024669)
-- Empty beer barrels and wood planks dumped on roadway, 14th August :- [8024589](https://www.fixmystreet.com/report/8024589)
-- This is a 3 way traffic lights. The pedestrian lights do not park and pedestrian cannot see what the traffic lights are on and so unable to know which lane of traffic is moving to be able to cross safely. This junction has become very busy with cars, lorries and buses. The lights haven’ t worked for months ., 14th August :- [8024563](https://www.fixmystreet.com/report/8024563)
-- TMC - Defects - Covers, Gratings & Frames problem, 14th August :- [8024618](https://www.fixmystreet.com/report/8024618)
-- TMC - Defects - Signs & Street Furniture problem, 14th August :- [8024376](https://www.fixmystreet.com/report/8024376)
-- Pothole, 14th August :- [8024265](https://www.fixmystreet.com/report/8024265)
-- Pothole, 14th August :- [8024255](https://www.fixmystreet.com/report/8024255)
-- White building materials in the bushes next to the road, 14th August :- [8024110](https://www.fixmystreet.com/report/8024110)
-- Grass has not been cut for 6 months despite being reported a number of times., 14th August :- [8024078](https://www.fixmystreet.com/report/8024078)
-- Blocked drains, 14th August :- [8023993](https://www.fixmystreet.com/report/8023993)
-- TMC - Defects - Covers, Gratings & Frames problem, 14th August :- [8023894](https://www.fixmystreet.com/report/8023894)
 
 <!-- fix_marker ends -->
