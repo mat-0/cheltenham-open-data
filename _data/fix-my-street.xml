@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -12,6 +12,105 @@
 <description>The latest local problems reported by users</description>
 <language>en-gb</language>
 
+<item>
+<title>Tree is damaged problem, 14th August</title>
+<link>https://www.fixmystreet.com/report/8025591</link>
+<description>There are dead branches in the trees along the whole of Sydenham Road North, the trees are also incredibly high and have not been pollarded in years! We are concerned that a branch will break off and fall into our driveway damaging our vehicles&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8025591&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Tree is damaged</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8025591</guid>
+<pubDate>Thu, 14 Aug 2025 13:35:22 +0100</pubDate>
+<georss:point>51.896016 -2.061269</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Vegetation problem, 14th August</title>
+<link>https://www.fixmystreet.com/report/8025397</link>
+<description>PLEASE CUT BACK SO SIGN CAN BE CLEARLY SEEN &amp;#10;7m&amp;#10;2 WAY TRAFFIC LIGHTS &amp;#10;NOT MARKED (Overgrown Hedge)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8025397&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Vegetation</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8025397</guid>
+<pubDate>Thu, 14 Aug 2025 13:29:46 +0100</pubDate>
+<georss:point>51.8320131 -2.1128486</georss:point>
+</item>
+<item>
+<title>Post or sign leaning slightly (less than 20 degrees) problem, 14th August</title>
+<link>https://www.fixmystreet.com/report/8025380</link>
+<description>&amp;#10;I am writing as a resident of Gloucester Road, between Churchdown and the Arle Court roundabout, in the section where the Gloucester/Cheltenham cycle lane was recently installed.&amp;#10;&amp;#10;Previously, this stretch of road had a 50mph limit. Following the cycle path installation, the speed limit was reduced to 30mph to improve safety for cyclists and to reflect the narrowing of the road. While the 50mph signs have been removed, no 30mph signs have been installed in their place.&amp;#10;&amp;#10;Although the 30mph limit may be implied by street lighting, most drivers continue to travel at higher speeds. Given that this road has been 50mph for over three decades, its wide layout, and relatively sparse housing, it is easy for drivers to assume a higher speed limit.&amp;#10;&amp;#10;I fully support the cycle lane, which I see used regularly, including by myself. However, the absence of clear 30mph signage is contributing to speeding, creating a real safety risk—particularly at the junction with Bamfurlong Lane. I frequently observe vehicles, including HGVs, exceeding 30mph in this area, endangering cyclists and pedestrians.&amp;#10;&amp;#10;I strongly urge the installation of clear 30mph signage along the stretch between Churchdown and the start of the average speed camera on Gloucester Road, with particular attention to the Bamfurlong Lane junction which where I witness most of the safety hazards. This measure will significantly enhance safety for all road users.&amp;#10;&amp;#10;I would greatly appreciate being kept informed of the progress of this request.&amp;#10;&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8025380&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Post or sign leaning slightly (less than 20 degrees)</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8025380</guid>
+<pubDate>Thu, 14 Aug 2025 13:24:25 +0100</pubDate>
+<georss:point>51.896484 -2.175517</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 14th August</title>
+<link>https://www.fixmystreet.com/report/8025394</link>
+<description>28 day with 2 way stop and go carriageway pothole 1100x500x40mm plus x3 NSD tarmac patch required number 1 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8025394&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8025394</guid>
+<pubDate>Thu, 14 Aug 2025 13:04:03 +0100</pubDate>
+<georss:point>51.8988251607457 -2.04684251603093</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 14th August</title>
+<link>https://www.fixmystreet.com/report/8025396</link>
+<description>28 day with 2 way stop and go carriageway pothole 550x400x40mm tarmac patch required number 3 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8025396&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8025396</guid>
+<pubDate>Thu, 14 Aug 2025 13:04:03 +0100</pubDate>
+<georss:point>51.8988239918986 -2.04669570798334</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 14th August</title>
+<link>https://www.fixmystreet.com/report/8025392</link>
+<description>28 day with 2 way stop and go carriageway pothole 700x500x40mm tarmac patch required (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8025392&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8025392</guid>
+<pubDate>Thu, 14 Aug 2025 13:04:03 +0100</pubDate>
+<georss:point>51.8987234454351 -2.04568118295034</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 14th August</title>
+<link>https://www.fixmystreet.com/report/8025398</link>
+<description>ENWD with 2 way stop and go carriageway pothole 600x450x60mm temporary tarmac required (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8025398&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8025398</guid>
+<pubDate>Thu, 14 Aug 2025 13:04:03 +0100</pubDate>
+<georss:point>51.8987380649902 -2.04541087470999</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 14th August</title>
+<link>https://www.fixmystreet.com/report/8025395</link>
+<description>28 day with 2 way stop and go carriageway pothole 1400x800x40mm plus x3 NSD tarmac patch required number 2 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8025395&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8025395</guid>
+<pubDate>Thu, 14 Aug 2025 13:04:03 +0100</pubDate>
+<georss:point>51.8988178205827 -2.04675306405348</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 14th August</title>
+<link>https://www.fixmystreet.com/report/8025393</link>
+<description>28 day with 2 way stop and go carriageway pothole by gully 650x400x40mm tarmac patch required stats required (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8025393&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8025393</guid>
+<pubDate>Thu, 14 Aug 2025 13:04:03 +0100</pubDate>
+<georss:point>51.8988139847899 -2.04646769121678</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 14th August</title>
+<link>https://www.fixmystreet.com/report/8025391</link>
+<description>28 day with 2 way stop and go carriageway pothole by gully 600x450x60mm tarmac patch required stats required (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8025391&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8025391</guid>
+<pubDate>Thu, 14 Aug 2025 13:04:03 +0100</pubDate>
+<georss:point>51.8987205121592 -2.04545537300047</georss:point>
+</item>
+<item>
+<title>Dead fox on church road Longlevens by leven close, 14th August</title>
+<link>https://www.fixmystreet.com/report/8025201</link>
+<description>Dead fox&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 26, Church Road, Longlevens, Gloucester&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8025201&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Dead animal that needs removing</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8025201</guid>
+<pubDate>Thu, 14 Aug 2025 12:57:57 +0100</pubDate>
+<georss:point>51.875866 -2.211339</georss:point>
+</item>
 <item>
 <title>TMC - Defects -other CW10 problem, 14th August</title>
 <link>https://www.fixmystreet.com/report/8025049</link>
@@ -92,105 +191,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/8024838</guid>
 <pubDate>Thu, 14 Aug 2025 11:46:42 +0100</pubDate>
 <georss:point>51.8783194628335 -2.05835370393018</georss:point>
-</item>
-<item>
-<title>Stretch of road has defects, 14th August</title>
-<link>https://www.fixmystreet.com/report/8024669</link>
-<description>The stretch of road opposite New Dawn housing has defects in the repaired pot holes. Indulations, broken edges, holes. It is not just one pot hole. I’m finding it very dangerous to cycle over and unable to avoid when vehicles pass me. This whole section needs resurfacing!&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 95, Village Road, Kingsditch, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8024669&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in pavement</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8024669</guid>
-<pubDate>Thu, 14 Aug 2025 11:36:44 +0100</pubDate>
-<georss:point>51.913027 -2.106817</georss:point>
-</item>
-<item>
-<title>Empty beer barrels and wood planks dumped on roadway, 14th August</title>
-<link>https://www.fixmystreet.com/report/8024589</link>
-<description>These barrels and wood planks have been dumped on the public highway for many days/a few weeks. There is no sign of intention to clear them off the road.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8024589.0.jpeg?72afb26d&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Back Montpellier Terrace, Montpellier, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8024589&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Flytipping</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8024589</guid>
-<pubDate>Thu, 14 Aug 2025 11:31:51 +0100</pubDate>
-<georss:point>51.893056 -2.078475</georss:point>
-</item>
-<item>
-<title>This is a 3 way traffic lights. The pedestrian lights do not park and pedestrian cannot see what the traffic lights are on and so unable to know which lane of traffic is moving to be able to cross safely. This junction has become very busy with cars, lorries and buses. The lights haven’ t worked for months ., 14th August</title>
-<link>https://www.fixmystreet.com/report/8024563</link>
-<description>The junction of Runnings/Manor road&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8024563.0.jpeg?d8ab1c7c&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Manor Road, Kingsditch, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8024563&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Crossing push buttons not working</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8024563</guid>
-<pubDate>Thu, 14 Aug 2025 11:28:50 +0100</pubDate>
-<georss:point>51.920154 -2.09963</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Covers, Gratings &amp; Frames problem, 14th August</title>
-<link>https://www.fixmystreet.com/report/8024618</link>
-<description>28DAY STATS REQUIRED &amp;#10;PLEASE RESET 1X SUNKEN APPROX 600 X 400MM  COVER AND FRAME TO THE CORRECT LEVEL &amp;#10;GIVE AND TAKE TM (Broken Chamber Cover/Frame)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8024618&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Covers, Gratings &amp; Frames</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8024618</guid>
-<pubDate>Thu, 14 Aug 2025 11:15:03 +0100</pubDate>
-<georss:point>51.9724253 -1.99144580000001</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Signs &amp; Street Furniture problem, 14th August</title>
-<link>https://www.fixmystreet.com/report/8024376</link>
-<description>Scaffolding pole has been attached to street lamp column by 2x cables ties and is a risk of falling. Please remove and dispose of (Damaged Street Furniture)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8024376&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Signs &amp; Street Furniture</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8024376</guid>
-<pubDate>Thu, 14 Aug 2025 10:57:30 +0100</pubDate>
-<georss:point>51.893862829414 -2.11842450684716</georss:point>
-</item>
-<item>
-<title>Pothole, 14th August</title>
-<link>https://www.fixmystreet.com/report/8024265</link>
-<description>Situated along the car parking area of Chosen Drive by the shops nearest John Daniels&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Chosen Drive, Churchdown, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8024265&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8024265</guid>
-<pubDate>Thu, 14 Aug 2025 10:48:28 +0100</pubDate>
-<georss:point>51.878611 -2.179211</georss:point>
-</item>
-<item>
-<title>Pothole, 14th August</title>
-<link>https://www.fixmystreet.com/report/8024255</link>
-<description>Pothole by car parking area of Chosen Drive by the shops&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Chosen Drive, Churchdown, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8024255&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8024255</guid>
-<pubDate>Thu, 14 Aug 2025 10:47:05 +0100</pubDate>
-<georss:point>51.878735 -2.178378</georss:point>
-</item>
-<item>
-<title>White building materials in the bushes next to the road, 14th August</title>
-<link>https://www.fixmystreet.com/report/8024110</link>
-<description>Large white materials and household items including a fridge in the bushes next to the road.&amp;#10;&amp;#10;Popular sight for fly-tipping.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8024110&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Flytipping (NH)</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8024110</guid>
-<pubDate>Thu, 14 Aug 2025 10:30:18 +0100</pubDate>
-<georss:point>51.938203 -2.13018</georss:point>
-</item>
-<item>
-<title>Grass has not been cut for 6 months despite being reported a number of times., 14th August</title>
-<link>https://www.fixmystreet.com/report/8024078</link>
-<description>GL54 5YT Barn Close grass area&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Gretton Road, Gretton, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8024078&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Blocking visibility on road/junction (Grass/verge)</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8024078</guid>
-<pubDate>Thu, 14 Aug 2025 10:27:04 +0100</pubDate>
-<georss:point>51.972331 -1.990567</georss:point>
-</item>
-<item>
-<title>Blocked drains, 14th August</title>
-<link>https://www.fixmystreet.com/report/8023993</link>
-<description>As previously reported a year or so ago following the resurfacing of Prestbury Rd several of the drains are blocked. These drains are on ALL exits of the roundabout of Prestbury Rd, Pittville Circus Rd etc. Following the previous reporting if blockages i was informed that work would and subsequently was carried out to unblock said drains...as you can see that was not quite truthful. Please send another crew out who are up to the task and stop wasting residents time if they&amp;#39;ve taken time out of their day to use your website to inform your relevant departments of issues that need to be looked at and resolved.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 32, Prestbury Road, Lynworth, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8023993&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>The drain is blocked</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8023993</guid>
-<pubDate>Thu, 14 Aug 2025 10:15:33 +0100</pubDate>
-<georss:point>51.904969 -2.066621</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Covers, Gratings &amp; Frames problem, 14th August</title>
-<link>https://www.fixmystreet.com/report/8023894</link>
-<description>28DAY &amp;#10;PLEASE RESET 1X SUNKEN APPROX 500 X 450 X 40MM COVER TO THE CORRECT LEVEL &amp;#10;NO DAMAGE TO FRAME &amp;#10;2 WAY TRAFFIC LIGHTS TM (Broken Chamber Cover/Frame)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8023894&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Covers, Gratings &amp; Frames</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8023894</guid>
-<pubDate>Thu, 14 Aug 2025 09:41:49 +0100</pubDate>
-<georss:point>51.962556 -2.0692305</georss:point>
 </item>
 </channel>
 </rss>
