@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Friday, 15 August 2025
 
-- The average temperature today is 23.01˚C,
-- With highs of 24.91˚C and lows of 22.19˚C,
-- It may feel like 23.09˚C with clear sky
-- The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 1026hPa and humidity is 66%
+- The average temperature today is 24.96˚C,
+- With highs of 26.27˚C and lows of 23.75˚C,
+- It may feel like 25.05˚C with few clouds
+- The wind speed is 2.06m/s and visibility is 10000m
+- The pressure is 1026hPa and humidity is 59%
 - The sun will rise at 04:52 and set at 19:32
 
 <!-- weather_marker ends -->
