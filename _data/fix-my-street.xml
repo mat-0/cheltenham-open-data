@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -158,12 +158,12 @@
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 14th August</title>
-<link>https://www.fixmystreet.com/report/8025398</link>
-<description>ENWD with 2 way stop and go carriageway pothole 600x450x60mm temporary tarmac required (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8025398&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/8025391</link>
+<description>28 day with 2 way stop and go carriageway pothole by gully 600x450x60mm tarmac patch required stats required (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8025391&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8025398</guid>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8025391</guid>
 <pubDate>Thu, 14 Aug 2025 13:04:03 +0100</pubDate>
-<georss:point>51.8987380649902 -2.04541087470999</georss:point>
+<georss:point>51.8987205121592 -2.04545537300047</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 14th August</title>
@@ -176,21 +176,21 @@
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 14th August</title>
-<link>https://www.fixmystreet.com/report/8025391</link>
-<description>28 day with 2 way stop and go carriageway pothole by gully 600x450x60mm tarmac patch required stats required (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8025391&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8025391</guid>
-<pubDate>Thu, 14 Aug 2025 13:04:03 +0100</pubDate>
-<georss:point>51.8987205121592 -2.04545537300047</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 14th August</title>
 <link>https://www.fixmystreet.com/report/8025396</link>
 <description>28 day with 2 way stop and go carriageway pothole 550x400x40mm tarmac patch required number 3 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8025396&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
 <guid isPermaLink="false">https://www.fixmystreet.com/report/8025396</guid>
 <pubDate>Thu, 14 Aug 2025 13:04:03 +0100</pubDate>
 <georss:point>51.8988239918986 -2.04669570798334</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 14th August</title>
+<link>https://www.fixmystreet.com/report/8025394</link>
+<description>28 day with 2 way stop and go carriageway pothole 1100x500x40mm plus x3 NSD tarmac patch required number 1 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8025394&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8025394</guid>
+<pubDate>Thu, 14 Aug 2025 13:04:03 +0100</pubDate>
+<georss:point>51.8988251607457 -2.04684251603093</georss:point>
 </item>
 </channel>
 </rss>
