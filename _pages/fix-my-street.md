@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- X, 15th August :- [8030673](https://www.fixmystreet.com/report/8030673)
 - Abandoned bike, 15th August :- [8030492](https://www.fixmystreet.com/report/8030492)
 - Dig out dirt along kerb and road, 15th August :- [8030485](https://www.fixmystreet.com/report/8030485)
 - Large piece of plyboard, 15th August :- [8030251](https://www.fixmystreet.com/report/8030251)
@@ -16,18 +17,17 @@ permalink: /fix-my-street
 - TMC - Defects -CW10 Potholes problem, 15th August :- [8030284](https://www.fixmystreet.com/report/8030284)
 - TMC - Defects -CW6 Potholes  problem, 15th August :- [8030287](https://www.fixmystreet.com/report/8030287)
 - TMC - Defects - Kerbs and Channels problem, 15th August :- [8030165](https://www.fixmystreet.com/report/8030165)
-- TMC - Defects - Kerbs and Channels problem, 15th August :- [8030164](https://www.fixmystreet.com/report/8030164)
-- TMC - Defects - Kerbs and Channels problem, 15th August :- [8030162](https://www.fixmystreet.com/report/8030162)
 - TMC - Defects - Kerbs and Channels problem, 15th August :- [8030163](https://www.fixmystreet.com/report/8030163)
 - TMC - Defects - Vegetation problem, 15th August :- [8030166](https://www.fixmystreet.com/report/8030166)
+- TMC - Defects - Kerbs and Channels problem, 15th August :- [8030162](https://www.fixmystreet.com/report/8030162)
+- TMC - Defects - Kerbs and Channels problem, 15th August :- [8030164](https://www.fixmystreet.com/report/8030164)
 - Gravel and road dirt, 15th August :- [8029839](https://www.fixmystreet.com/report/8029839)
 - TMC - Defects -CW6 Potholes  problem, 15th August :- [8029801](https://www.fixmystreet.com/report/8029801)
 - TMC - Defects -CW6 Potholes  problem, 15th August :- [8029800](https://www.fixmystreet.com/report/8029800)
 - TMC - Defects -CW6 Potholes  problem, 15th August :- [8029799](https://www.fixmystreet.com/report/8029799)
 - Blocking visibility on road/junction (Grass/verge) problem, 15th August :- [8029794](https://www.fixmystreet.com/report/8029794)
 - Green or amber traffic light is not working problem, 15th August :- [8029608](https://www.fixmystreet.com/report/8029608)
-- TMC - Defects -CW6 Potholes  problem, 15th August :- [8029615](https://www.fixmystreet.com/report/8029615)
-- TMC - Defects -other CW6 problem, 15th August :- [8029613](https://www.fixmystreet.com/report/8029613)
 - TMC - Defects -CW6 Potholes  problem, 15th August :- [8029614](https://www.fixmystreet.com/report/8029614)
+- TMC - Defects -CW6 Potholes  problem, 15th August :- [8029615](https://www.fixmystreet.com/report/8029615)
 
 <!-- fix_marker ends -->
