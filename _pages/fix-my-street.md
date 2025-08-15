@@ -25,9 +25,9 @@ permalink: /fix-my-street
 - Tree is damaged problem, 14th August :- [8025591](https://www.fixmystreet.com/report/8025591)
 - TMC - Defects - Vegetation problem, 14th August :- [8025397](https://www.fixmystreet.com/report/8025397)
 - Post or sign leaning slightly (less than 20 degrees) problem, 14th August :- [8025380](https://www.fixmystreet.com/report/8025380)
-- TMC - Defects -CW6 Potholes  problem, 14th August :- [8025398](https://www.fixmystreet.com/report/8025398)
-- TMC - Defects -CW6 Potholes  problem, 14th August :- [8025393](https://www.fixmystreet.com/report/8025393)
 - TMC - Defects -CW6 Potholes  problem, 14th August :- [8025391](https://www.fixmystreet.com/report/8025391)
+- TMC - Defects -CW6 Potholes  problem, 14th August :- [8025393](https://www.fixmystreet.com/report/8025393)
 - TMC - Defects -CW6 Potholes  problem, 14th August :- [8025396](https://www.fixmystreet.com/report/8025396)
+- TMC - Defects -CW6 Potholes  problem, 14th August :- [8025394](https://www.fixmystreet.com/report/8025394)
 
 <!-- fix_marker ends -->
