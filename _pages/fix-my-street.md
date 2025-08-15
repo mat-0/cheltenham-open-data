@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flyposting at traffic lights on street funiture, 16th August :- [8032204](https://www.fixmystreet.com/report/8032204)
+- Flyposting on traffic lights, 16th August :- [8032201](https://www.fixmystreet.com/report/8032201)
+- Flyposting on traffic lights, 16th August :- [8032200](https://www.fixmystreet.com/report/8032200)
+- More Under the prom fly posting on traffic lights, 16th August :- [8032198](https://www.fixmystreet.com/report/8032198)
 - Dumped car for months, 15th August :- [8031884](https://www.fixmystreet.com/report/8031884)
 - Overgrown vegetation overhanging footpath, 15th August :- [8031719](https://www.fixmystreet.com/report/8031719)
 - Pothole subsidance, 15th August :- [8031631](https://www.fixmystreet.com/report/8031631)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Dig out dirt along kerb and road, 15th August :- [8030485](https://www.fixmystreet.com/report/8030485)
 - Large piece of plyboard, 15th August :- [8030251](https://www.fixmystreet.com/report/8030251)
 - Overgrown vegetation on bus stop, 15th August :- [8030237](https://www.fixmystreet.com/report/8030237)
-- TMC - Defects -CW10 Potholes problem, 15th August :- [8030284](https://www.fixmystreet.com/report/8030284)
-- TMC - Defects -CW6 Potholes  problem, 15th August :- [8030287](https://www.fixmystreet.com/report/8030287)
-- TMC - Defects - Kerbs and Channels problem, 15th August :- [8030162](https://www.fixmystreet.com/report/8030162)
-- TMC - Defects - Kerbs and Channels problem, 15th August :- [8030164](https://www.fixmystreet.com/report/8030164)
 
 <!-- fix_marker ends -->
