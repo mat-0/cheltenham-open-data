@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Overgrown vegetation overhanging footpath, 15th August :- [8031719](https://www.fixmystreet.com/report/8031719)
 - Pothole subsidance, 15th August :- [8031631](https://www.fixmystreet.com/report/8031631)
 - 12 inch Pothole, 1.5 inch deep, 15th August :- [8031437](https://www.fixmystreet.com/report/8031437)
 - Flyposting by Estate Agent, 15th August :- [8031297](https://www.fixmystreet.com/report/8031297)
@@ -25,8 +26,7 @@ permalink: /fix-my-street
 - Overgrown vegetation on bus stop, 15th August :- [8030237](https://www.fixmystreet.com/report/8030237)
 - TMC - Defects -CW10 Potholes problem, 15th August :- [8030284](https://www.fixmystreet.com/report/8030284)
 - TMC - Defects -CW6 Potholes  problem, 15th August :- [8030287](https://www.fixmystreet.com/report/8030287)
-- TMC - Defects - Kerbs and Channels problem, 15th August :- [8030165](https://www.fixmystreet.com/report/8030165)
-- TMC - Defects - Vegetation problem, 15th August :- [8030166](https://www.fixmystreet.com/report/8030166)
+- TMC - Defects - Kerbs and Channels problem, 15th August :- [8030164](https://www.fixmystreet.com/report/8030164)
 - TMC - Defects - Kerbs and Channels problem, 15th August :- [8030162](https://www.fixmystreet.com/report/8030162)
 - TMC - Defects - Kerbs and Channels problem, 15th August :- [8030163](https://www.fixmystreet.com/report/8030163)
 
