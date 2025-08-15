@@ -12,13 +12,13 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Thousands raised to help veterans become pilots ([45 minutes ago](https://www.bbc.com/news/articles/cg50109gv0zo?at_medium=RSS&at_campaign=rss))
-- Girl, 14, in life-threatening condition after crash ([1 hours ago](https://www.bbc.com/news/articles/c987nz7327lo?at_medium=RSS&at_campaign=rss))
-- Police say illegal e-bikes 'may be destroyed' ([2 hours ago](https://www.bbc.com/news/articles/cy7yen56m4vo?at_medium=RSS&at_campaign=rss))
-- Heritage Open Days 2025 ([4 hours ago](https://www.cheltenham.gov.uk/news/article/3041/heritage_open_days_2025))
-- Half-full reservoirs prompt plea over water use ([5 hours ago](https://www.bbc.com/news/articles/c3r4v53wvp2o?at_medium=RSS&at_campaign=rss))
-- Cobbler to close after 19 years in business ([7 hours ago](https://www.bbc.com/news/articles/c8jpm8rlwk8o?at_medium=RSS&at_campaign=rss))
-- Cafe for people living with cancer opens ([7 hours ago](https://www.bbc.com/news/articles/c0r70500yljo?at_medium=RSS&at_campaign=rss))
+- Thousands raised to help veterans become pilots ([1 hours ago](https://www.bbc.com/news/articles/cg50109gv0zo?at_medium=RSS&at_campaign=rss))
+- Girl, 14, in life-threatening condition after crash ([2 hours ago](https://www.bbc.com/news/articles/c987nz7327lo?at_medium=RSS&at_campaign=rss))
+- Police say illegal e-bikes 'may be destroyed' ([3 hours ago](https://www.bbc.com/news/articles/cy7yen56m4vo?at_medium=RSS&at_campaign=rss))
+- Heritage Open Days 2025 ([5 hours ago](https://www.cheltenham.gov.uk/news/article/3041/heritage_open_days_2025))
+- Half-full reservoirs prompt plea over water use ([6 hours ago](https://www.bbc.com/news/articles/c3r4v53wvp2o?at_medium=RSS&at_campaign=rss))
+- Cobbler to close after 19 years in business ([8 hours ago](https://www.bbc.com/news/articles/c8jpm8rlwk8o?at_medium=RSS&at_campaign=rss))
+- Cafe for people living with cancer opens ([8 hours ago](https://www.bbc.com/news/articles/c0r70500yljo?at_medium=RSS&at_campaign=rss))
 - Listed iron footbridge is knocked over by train ([19 hours ago](https://www.bbc.com/news/articles/cgjyd194gp0o?at_medium=RSS&at_campaign=rss))
 - Students excited for future after A-Level success ([22 hours ago](https://www.bbc.com/news/articles/c24zl91enydo?at_medium=RSS&at_campaign=rss))
 - 'Batman mural' and 'empty reservoirs' ([1 days ago](https://www.bbc.com/news/articles/cgr945ndqp5o?at_medium=RSS&at_campaign=rss))
@@ -61,7 +61,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Local music festival hits the high note for Sue Ryder ([27 days ago](https://gloucesternewscentre.co.uk/local-music-festival-hits-the-high-note-for-sue-ryder/))
 - Key road near Cheltenham station to closed in one direction ([28 days ago](https://gloucesternewscentre.co.uk/key-road-near-cheltenham-station-to-closed-in-one-direction/))
 - Decision on David Lloyd club amid odour fears from landfill site ([28 days ago](https://gloucesternewscentre.co.uk/decision-on-david-lloyd-club-amid-odour-fears-from-landfill-site/))
-- 17 Cheltenham projects awarded over £136k from Neighbourhood Fund ([28 days ago](https://www.cheltenham.gov.uk/news/article/3036/17_cheltenham_projects_awarded_over_136k_from_neighbourhood_fund))
+- 17 Cheltenham projects awarded over £136k from Neighbourhood Fund ([29 days ago](https://www.cheltenham.gov.uk/news/article/3036/17_cheltenham_projects_awarded_over_136k_from_neighbourhood_fund))
 - Independent survey launches to capture resident priorities ([29 days ago](https://www.cheltenham.gov.uk/news/article/3035/independent_survey_launches_to_capture_resident_priorities))
 
 <!-- news_marker ends -->
