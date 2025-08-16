@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Restaurant loses licence after illegal worker fine ([5 hours ago](https://www.bbc.com/news/articles/cewyj8y0dzjo?at_medium=RSS&at_campaign=rss))
-- Restaurant loses licence after illegal worker fine ([5 hours ago](https://www.bbc.com/news/articles/cewyj8y0dzjo?at_medium=RSS&at_campaign=rss))
-- Driver's insurer to cover £50k bridge repair costs ([12 hours ago](https://www.bbc.com/news/articles/cjdyr09jg4go?at_medium=RSS&at_campaign=rss))
-- Gloucestershire in Pictures: JD Vance and VJ Day ([14 hours ago](https://www.bbc.com/news/articles/c4gzwn8lg9lo?at_medium=RSS&at_campaign=rss))
-- Thousands test endurance in 'world's best' mud run ([16 hours ago](https://www.bbc.com/news/articles/cpwyvzvjlg1o?at_medium=RSS&at_campaign=rss))
+- Restaurant loses licence after illegal worker fine ([6 hours ago](https://www.bbc.com/news/articles/cewyj8y0dzjo?at_medium=RSS&at_campaign=rss))
+- Restaurant loses licence after illegal worker fine ([6 hours ago](https://www.bbc.com/news/articles/cewyj8y0dzjo?at_medium=RSS&at_campaign=rss))
+- Driver's insurer to cover £50k bridge repair costs ([13 hours ago](https://www.bbc.com/news/articles/cjdyr09jg4go?at_medium=RSS&at_campaign=rss))
+- Gloucestershire in Pictures: JD Vance and VJ Day ([15 hours ago](https://www.bbc.com/news/articles/c4gzwn8lg9lo?at_medium=RSS&at_campaign=rss))
+- Thousands test endurance in 'world's best' mud run ([17 hours ago](https://www.bbc.com/news/articles/cpwyvzvjlg1o?at_medium=RSS&at_campaign=rss))
 - Salutes and flags mark 80 years since VJ Day ([1 days ago](https://www.bbc.com/news/articles/cp947derm8xo?at_medium=RSS&at_campaign=rss))
 - Thousands raised to help veterans become pilots ([1 days ago](https://www.bbc.com/news/articles/cg50109gv0zo?at_medium=RSS&at_campaign=rss))
 - Police say illegal e-bikes 'may be destroyed' ([1 days ago](https://www.bbc.com/news/articles/cy7yen56m4vo?at_medium=RSS&at_campaign=rss))
