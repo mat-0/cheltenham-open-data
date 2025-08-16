@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- "lost" road works signs etc, 16th August :- [8033224](https://www.fixmystreet.com/report/8033224)
 - Fridge, 16th August :- [8032930](https://www.fixmystreet.com/report/8032930)
 - Dumping of loads of bottles, 16th August :- [8032706](https://www.fixmystreet.com/report/8032706)
 - Large pot hole in pavement, 16th August :- [8032417](https://www.fixmystreet.com/report/8032417)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Fly tipping, 15th August :- [8031196](https://www.fixmystreet.com/report/8031196)
 - Wooden foot bridge support beam rotted through, bridge leaning to one side and springy., 15th August :- [8031113](https://www.fixmystreet.com/report/8031113)
 - Most drains blocked along road, 15th August :- [8030982](https://www.fixmystreet.com/report/8030982)
-- Pothole in cycleway, 15th August :- [8030864](https://www.fixmystreet.com/report/8030864)
 
 <!-- fix_marker ends -->
