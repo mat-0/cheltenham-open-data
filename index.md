@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Saturday, 16 August 2025
 
-- The average temperature today is 17.9˚C,
-- With highs of 18.32˚C and lows of 17.04˚C,
-- It may feel like 17.78˚C with clear sky
-- The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 1026hPa and humidity is 78%
+- The average temperature today is 17.1˚C,
+- With highs of 17.75˚C and lows of 16.49˚C,
+- It may feel like 16.98˚C with scattered clouds
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 1026hPa and humidity is 81%
 - The sun will rise at 04:54 and set at 19:30
 
 <!-- weather_marker ends -->
