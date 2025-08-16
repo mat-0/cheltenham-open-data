@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Speed limit sign blocked, 16th August :- [8032211](https://www.fixmystreet.com/report/8032211)
 - Flyposting at traffic lights on street funiture, 16th August :- [8032204](https://www.fixmystreet.com/report/8032204)
 - Flyposting on traffic lights, 16th August :- [8032201](https://www.fixmystreet.com/report/8032201)
 - Flyposting on traffic lights, 16th August :- [8032200](https://www.fixmystreet.com/report/8032200)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Abandoned bike, 15th August :- [8030492](https://www.fixmystreet.com/report/8030492)
 - Dig out dirt along kerb and road, 15th August :- [8030485](https://www.fixmystreet.com/report/8030485)
 - Large piece of plyboard, 15th August :- [8030251](https://www.fixmystreet.com/report/8030251)
-- Overgrown vegetation on bus stop, 15th August :- [8030237](https://www.fixmystreet.com/report/8030237)
 
 <!-- fix_marker ends -->
