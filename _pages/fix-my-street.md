@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dumping of loads of bottles, 16th August :- [8032706](https://www.fixmystreet.com/report/8032706)
 - Large pot hole in pavement, 16th August :- [8032417](https://www.fixmystreet.com/report/8032417)
 - Green light failed, 16th August :- [8032399](https://www.fixmystreet.com/report/8032399)
 - Speed limit sign blocked, 16th August :- [8032211](https://www.fixmystreet.com/report/8032211)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Most drains blocked along road, 15th August :- [8030982](https://www.fixmystreet.com/report/8030982)
 - Pothole in cycleway, 15th August :- [8030864](https://www.fixmystreet.com/report/8030864)
 - X, 15th August :- [8030673](https://www.fixmystreet.com/report/8030673)
-- Abandoned bike, 15th August :- [8030492](https://www.fixmystreet.com/report/8030492)
 
 <!-- fix_marker ends -->
