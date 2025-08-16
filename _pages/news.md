@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Driver's insurer to cover £50k bridge repair costs ([1 hours ago](https://www.bbc.com/news/articles/cjdyr09jg4go?at_medium=RSS&at_campaign=rss))
-- Gloucestershire in Pictures: JD Vance and VJ Day ([3 hours ago](https://www.bbc.com/news/articles/c4gzwn8lg9lo?at_medium=RSS&at_campaign=rss))
-- Thousands test endurance in 'world's best' mud run ([5 hours ago](https://www.bbc.com/news/articles/cpwyvzvjlg1o?at_medium=RSS&at_campaign=rss))
-- Salutes and flags mark 80 years since VJ Day ([18 hours ago](https://www.bbc.com/news/articles/cp947derm8xo?at_medium=RSS&at_campaign=rss))
-- Thousands raised to help veterans become pilots ([23 hours ago](https://www.bbc.com/news/articles/cg50109gv0zo?at_medium=RSS&at_campaign=rss))
+- Driver's insurer to cover £50k bridge repair costs ([3 hours ago](https://www.bbc.com/news/articles/cjdyr09jg4go?at_medium=RSS&at_campaign=rss))
+- Gloucestershire in Pictures: JD Vance and VJ Day ([5 hours ago](https://www.bbc.com/news/articles/c4gzwn8lg9lo?at_medium=RSS&at_campaign=rss))
+- Thousands test endurance in 'world's best' mud run ([7 hours ago](https://www.bbc.com/news/articles/cpwyvzvjlg1o?at_medium=RSS&at_campaign=rss))
+- Salutes and flags mark 80 years since VJ Day ([20 hours ago](https://www.bbc.com/news/articles/cp947derm8xo?at_medium=RSS&at_campaign=rss))
+- Thousands raised to help veterans become pilots ([1 days ago](https://www.bbc.com/news/articles/cg50109gv0zo?at_medium=RSS&at_campaign=rss))
 - Police say illegal e-bikes 'may be destroyed' ([1 days ago](https://www.bbc.com/news/articles/cy7yen56m4vo?at_medium=RSS&at_campaign=rss))
 - Heritage Open Days 2025 ([1 days ago](https://www.cheltenham.gov.uk/news/article/3041/heritage_open_days_2025))
 - Half-full reservoirs prompt plea over water use ([1 days ago](https://www.bbc.com/news/articles/c3r4v53wvp2o?at_medium=RSS&at_campaign=rss))
@@ -45,7 +45,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - New bus routes set to improve in Cheltenham, Gloucester and Stroud ([15 days ago](https://gloucesternewscentre.co.uk/new-bus-routes-set-to-improve-in-cheltenham-gloucester-and-stroud/))
 - Hundreds of NHS jobs face the axe in Gloucestershire ([17 days ago](https://gloucesternewscentre.co.uk/hundreds-of-nhs-jobs-face-the-axe-in-gloucestershire/))
 - Early success for Safer Street Summer Initiative in Gloucestershire ([18 days ago](https://gloucesternewscentre.co.uk/early-success-for-safer-street-summer-initiative-in-gloucestershire/))
-- Don’t lose your vote - residents urged to check voter registration details ([18 days ago](https://www.cheltenham.gov.uk/news/article/3037/dont_lose_your_vote_-_residents_urged_to_check_voter_registration_details))
+- Don’t lose your vote - residents urged to check voter registration details ([19 days ago](https://www.cheltenham.gov.uk/news/article/3037/dont_lose_your_vote_-_residents_urged_to_check_voter_registration_details))
 - Webinars scheduled as thousands have their say on the future of Gloucestershire councils ([21 days ago](https://gloucesternewscentre.co.uk/webinars-scheduled-as-thousands-have-their-say-on-the-future-of-gloucestershire-councils/))
 - Cheltenham man jailed for multiple shoplifting offences ([21 days ago](https://gloucesternewscentre.co.uk/cheltenham-man-jailed-for-multiple-shoplifting-offences/))
 - Libraries secure Heritage Fund grant for project capturing past memories ([22 days ago](https://gloucesternewscentre.co.uk/libraries-secure-heritage-fund-grant-for-project-capturing-past-memories/))
@@ -61,6 +61,5 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Local music festival hits the high note for Sue Ryder ([28 days ago](https://gloucesternewscentre.co.uk/local-music-festival-hits-the-high-note-for-sue-ryder/))
 - Key road near Cheltenham station to closed in one direction ([29 days ago](https://gloucesternewscentre.co.uk/key-road-near-cheltenham-station-to-closed-in-one-direction/))
 - Decision on David Lloyd club amid odour fears from landfill site ([29 days ago](https://gloucesternewscentre.co.uk/decision-on-david-lloyd-club-amid-odour-fears-from-landfill-site/))
-- 17 Cheltenham projects awarded over £136k from Neighbourhood Fund ([29 days ago](https://www.cheltenham.gov.uk/news/article/3036/17_cheltenham_projects_awarded_over_136k_from_neighbourhood_fund))
 
 <!-- news_marker ends -->
