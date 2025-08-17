@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large amount of building blocks/bricks, 17th August :- [8036855](https://www.fixmystreet.com/report/8036855)
 - Flyposting on pavement, 17th August :- [8036746](https://www.fixmystreet.com/report/8036746)
 - Flytipped pedal cycles, 17th August :- [8036738](https://www.fixmystreet.com/report/8036738)
 - For Sale sign on pavement, 17th August :- [8036710](https://www.fixmystreet.com/report/8036710)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Fridge, 16th August :- [8032930](https://www.fixmystreet.com/report/8032930)
 - Dumping of loads of bottles, 16th August :- [8032706](https://www.fixmystreet.com/report/8032706)
 - Large pot hole in pavement, 16th August :- [8032417](https://www.fixmystreet.com/report/8032417)
-- Green light failed, 16th August :- [8032399](https://www.fixmystreet.com/report/8032399)
 
 <!-- fix_marker ends -->
