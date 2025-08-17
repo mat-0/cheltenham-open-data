@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipping in alleyway, 17th August :- [8035626](https://www.fixmystreet.com/report/8035626)
 - Breeze blocks fly tipped, 17th August :- [8035296](https://www.fixmystreet.com/report/8035296)
 - Road markings worn and obscured, 17th August :- [8035253](https://www.fixmystreet.com/report/8035253)
 - Tree branch has fallen, 17th August :- [8035197](https://www.fixmystreet.com/report/8035197)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Pothole subsidance, 15th August :- [8031631](https://www.fixmystreet.com/report/8031631)
 - 12 inch Pothole, 1.5 inch deep, 15th August :- [8031437](https://www.fixmystreet.com/report/8031437)
 - Flyposting by Estate Agent, 15th August :- [8031297](https://www.fixmystreet.com/report/8031297)
-- Estate Agent sign put up on pavement, 15th August :- [8031275](https://www.fixmystreet.com/report/8031275)
 
 <!-- fix_marker ends -->
