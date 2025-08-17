@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Breeze blocks fly tipped, 17th August :- [8035296](https://www.fixmystreet.com/report/8035296)
+- Road markings worn and obscured, 17th August :- [8035253](https://www.fixmystreet.com/report/8035253)
 - Tree branch has fallen, 17th August :- [8035197](https://www.fixmystreet.com/report/8035197)
 - Volunteer litter pick bags ready for collection (16th August 2025), 16th August :- [8034292](https://www.fixmystreet.com/report/8034292)
 - "lost" road works signs etc, 16th August :- [8033224](https://www.fixmystreet.com/report/8033224)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - 12 inch Pothole, 1.5 inch deep, 15th August :- [8031437](https://www.fixmystreet.com/report/8031437)
 - Flyposting by Estate Agent, 15th August :- [8031297](https://www.fixmystreet.com/report/8031297)
 - Estate Agent sign put up on pavement, 15th August :- [8031275](https://www.fixmystreet.com/report/8031275)
-- Flyposters at junction, 15th August :- [8031265](https://www.fixmystreet.com/report/8031265)
-- Fly tipping, 15th August :- [8031196](https://www.fixmystreet.com/report/8031196)
 
 <!-- fix_marker ends -->
