@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Line of narrow trench-like potholes in carriageway - concern about safety of cyclists., 17th August :- [8037816](https://www.fixmystreet.com/report/8037816)
 - Deep pothole on pavement, 17th August :- [8037664](https://www.fixmystreet.com/report/8037664)
 - Pothole in path, 17th August :- [8037661](https://www.fixmystreet.com/report/8037661)
 - Large amount of building blocks/bricks, 17th August :- [8036855](https://www.fixmystreet.com/report/8036855)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Tree branch has fallen, 17th August :- [8035197](https://www.fixmystreet.com/report/8035197)
 - Volunteer litter pick bags ready for collection (16th August 2025), 16th August :- [8034292](https://www.fixmystreet.com/report/8034292)
 - "lost" road works signs etc, 16th August :- [8033224](https://www.fixmystreet.com/report/8033224)
-- Fridge, 16th August :- [8032930](https://www.fixmystreet.com/report/8032930)
 
 <!-- fix_marker ends -->
