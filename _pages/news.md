@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Restaurant loses licence after illegal worker fine ([10 hours ago](https://www.bbc.com/news/articles/cewyj8y0dzjo?at_medium=RSS&at_campaign=rss))
-- Restaurant loses licence after illegal worker fine ([10 hours ago](https://www.bbc.com/news/articles/cewyj8y0dzjo?at_medium=RSS&at_campaign=rss))
-- Driver's insurer to cover £50k bridge repair costs ([16 hours ago](https://www.bbc.com/news/articles/cjdyr09jg4go?at_medium=RSS&at_campaign=rss))
+- Restaurant loses licence after illegal worker fine ([11 hours ago](https://www.bbc.com/news/articles/cewyj8y0dzjo?at_medium=RSS&at_campaign=rss))
+- Restaurant loses licence after illegal worker fine ([11 hours ago](https://www.bbc.com/news/articles/cewyj8y0dzjo?at_medium=RSS&at_campaign=rss))
+- Driver's insurer to cover £50k bridge repair costs ([17 hours ago](https://www.bbc.com/news/articles/cjdyr09jg4go?at_medium=RSS&at_campaign=rss))
 - Gloucestershire in Pictures: JD Vance and VJ Day ([19 hours ago](https://www.bbc.com/news/articles/c4gzwn8lg9lo?at_medium=RSS&at_campaign=rss))
 - Thousands test endurance in 'world's best' mud run ([21 hours ago](https://www.bbc.com/news/articles/cpwyvzvjlg1o?at_medium=RSS&at_campaign=rss))
 - Salutes and flags mark 80 years since VJ Day ([1 days ago](https://www.bbc.com/news/articles/cp947derm8xo?at_medium=RSS&at_campaign=rss))
