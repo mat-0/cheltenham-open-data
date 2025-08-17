@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree branch has fallen, 17th August :- [8035197](https://www.fixmystreet.com/report/8035197)
 - Volunteer litter pick bags ready for collection (16th August 2025), 16th August :- [8034292](https://www.fixmystreet.com/report/8034292)
 - "lost" road works signs etc, 16th August :- [8033224](https://www.fixmystreet.com/report/8033224)
 - Fridge, 16th August :- [8032930](https://www.fixmystreet.com/report/8032930)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Estate Agent sign put up on pavement, 15th August :- [8031275](https://www.fixmystreet.com/report/8031275)
 - Flyposters at junction, 15th August :- [8031265](https://www.fixmystreet.com/report/8031265)
 - Fly tipping, 15th August :- [8031196](https://www.fixmystreet.com/report/8031196)
-- Wooden foot bridge support beam rotted through, bridge leaning to one side and springy., 15th August :- [8031113](https://www.fixmystreet.com/report/8031113)
 
 <!-- fix_marker ends -->
