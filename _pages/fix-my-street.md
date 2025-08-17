@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Snapped of branch in middle maple tree, 17th August :- [8035984](https://www.fixmystreet.com/report/8035984)
+- Lots of areas of road breaking up, sunken, holes, 17th August :- [8035948](https://www.fixmystreet.com/report/8035948)
 - Flytipping in alleyway, 17th August :- [8035626](https://www.fixmystreet.com/report/8035626)
 - Breeze blocks fly tipped, 17th August :- [8035296](https://www.fixmystreet.com/report/8035296)
 - Road markings worn and obscured, 17th August :- [8035253](https://www.fixmystreet.com/report/8035253)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Dumped car for months, 15th August :- [8031884](https://www.fixmystreet.com/report/8031884)
 - Overgrown vegetation overhanging footpath, 15th August :- [8031719](https://www.fixmystreet.com/report/8031719)
 - Pothole subsidance, 15th August :- [8031631](https://www.fixmystreet.com/report/8031631)
-- 12 inch Pothole, 1.5 inch deep, 15th August :- [8031437](https://www.fixmystreet.com/report/8031437)
-- Flyposting by Estate Agent, 15th August :- [8031297](https://www.fixmystreet.com/report/8031297)
 
 <!-- fix_marker ends -->
