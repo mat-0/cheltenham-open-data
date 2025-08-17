@@ -12,8 +12,8 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Town aiming to forge twinning link with Bergerac ([12 hours ago](https://www.bbc.com/news/articles/c4gzv7jmvxjo?at_medium=RSS&at_campaign=rss))
-- 'Oggy the dragon' and 'JD Vance billboard' ([12 hours ago](https://www.bbc.com/news/articles/cjeyz28j3x9o?at_medium=RSS&at_campaign=rss))
+- Town aiming to forge twinning link with Bergerac ([13 hours ago](https://www.bbc.com/news/articles/c4gzv7jmvxjo?at_medium=RSS&at_campaign=rss))
+- 'Oggy the dragon' and 'JD Vance billboard' ([13 hours ago](https://www.bbc.com/news/articles/cjeyz28j3x9o?at_medium=RSS&at_campaign=rss))
 - Restaurant loses licence after illegal worker fine ([1 days ago](https://www.bbc.com/news/articles/cewyj8y0dzjo?at_medium=RSS&at_campaign=rss))
 - Driver's insurer to cover £50k bridge repair costs ([1 days ago](https://www.bbc.com/news/articles/cjdyr09jg4go?at_medium=RSS&at_campaign=rss))
 - Gloucestershire in Pictures: JD Vance and VJ Day ([1 days ago](https://www.bbc.com/news/articles/c4gzwn8lg9lo?at_medium=RSS&at_campaign=rss))
@@ -31,7 +31,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - MP praises new pharmacy in 'health-deprived' area ([3 days ago](https://www.bbc.com/news/articles/c4gzz09w4dqo?at_medium=RSS&at_campaign=rss))
 - University staff move into former Debenhams ([4 days ago](https://www.bbc.com/news/articles/c4gl702dxkxo?at_medium=RSS&at_campaign=rss))
 - Cheltenham families enjoy another successful NCLB Party in the Park ([4 days ago](https://www.cheltenham.gov.uk/news/article/3040/cheltenham_families_enjoy_another_successful_nclb_party_in_the_park))
-- Gloucestershire County Council launches ‘Clean Sweep’ initiative ([5 days ago](https://gloucesternewscentre.co.uk/gloucestershire-county-council-launches-clean-sweep-initiative/))
+- Gloucestershire County Council launches ‘Clean Sweep’ initiative ([6 days ago](https://gloucesternewscentre.co.uk/gloucestershire-county-council-launches-clean-sweep-initiative/))
 - Cheltenham Community Allotment Group Hits Record Harvest ([6 days ago](https://gloucesternewscentre.co.uk/cheltenham-community-allotment-group-hits-record-harvest/))
 - Stroud Greens oppose ‘disturbing’ Government proposals to sell off allotments ([6 days ago](https://gloucesternewscentre.co.uk/stroud-greens-oppose-disturbing-government-proposals-to-sell-off-allotments/))
 - Cheltenham to mark 80th anniversary of VJ Day ([9 days ago](https://www.cheltenham.gov.uk/news/article/3039/cheltenham_to_mark_80th_anniversary_of_vj_day))
