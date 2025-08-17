@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Town aiming to forge twinning link with Bergerac ([7 hours ago](https://www.bbc.com/news/articles/c4gzv7jmvxjo?at_medium=RSS&at_campaign=rss))
-- 'Oggy the dragon' and 'JD Vance billboard' ([7 hours ago](https://www.bbc.com/news/articles/cjeyz28j3x9o?at_medium=RSS&at_campaign=rss))
-- Restaurant loses licence after illegal worker fine ([20 hours ago](https://www.bbc.com/news/articles/cewyj8y0dzjo?at_medium=RSS&at_campaign=rss))
+- Town aiming to forge twinning link with Bergerac ([8 hours ago](https://www.bbc.com/news/articles/c4gzv7jmvxjo?at_medium=RSS&at_campaign=rss))
+- 'Oggy the dragon' and 'JD Vance billboard' ([8 hours ago](https://www.bbc.com/news/articles/cjeyz28j3x9o?at_medium=RSS&at_campaign=rss))
+- Restaurant loses licence after illegal worker fine ([21 hours ago](https://www.bbc.com/news/articles/cewyj8y0dzjo?at_medium=RSS&at_campaign=rss))
 - Driver's insurer to cover £50k bridge repair costs ([1 days ago](https://www.bbc.com/news/articles/cjdyr09jg4go?at_medium=RSS&at_campaign=rss))
 - Gloucestershire in Pictures: JD Vance and VJ Day ([1 days ago](https://www.bbc.com/news/articles/c4gzwn8lg9lo?at_medium=RSS&at_campaign=rss))
 - Thousands test endurance in 'world's best' mud run ([1 days ago](https://www.bbc.com/news/articles/cpwyvzvjlg1o?at_medium=RSS&at_campaign=rss))

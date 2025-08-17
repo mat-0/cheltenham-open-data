@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Location: 68 Nettleton Road. Hanging branch on the tree outside this property on the verge has been damage following recent pavement works. This is likely to fall damaging property or passers by, 17th August :- [8036569](https://www.fixmystreet.com/report/8036569)
+- Flytipped Furniture, 17th August :- [8036540](https://www.fixmystreet.com/report/8036540)
+- Flytipped items, 17th August :- [8036535](https://www.fixmystreet.com/report/8036535)
+- Abandoned barriers and signs on bridge, 17th August :- [8036413](https://www.fixmystreet.com/report/8036413)
 - Green traffic light not working on left hand side of the carriageway, 17th August :- [8036135](https://www.fixmystreet.com/report/8036135)
 - Snapped of branch in middle maple tree, 17th August :- [8035984](https://www.fixmystreet.com/report/8035984)
 - Lots of areas of road breaking up, sunken, holes, 17th August :- [8035948](https://www.fixmystreet.com/report/8035948)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Speed limit sign blocked, 16th August :- [8032211](https://www.fixmystreet.com/report/8032211)
 - Flyposting at traffic lights on street funiture, 16th August :- [8032204](https://www.fixmystreet.com/report/8032204)
 - Flyposting on traffic lights, 16th August :- [8032201](https://www.fixmystreet.com/report/8032201)
-- Flyposting on traffic lights, 16th August :- [8032200](https://www.fixmystreet.com/report/8032200)
-- More Under the prom fly posting on traffic lights, 16th August :- [8032198](https://www.fixmystreet.com/report/8032198)
-- Dumped car for months, 15th August :- [8031884](https://www.fixmystreet.com/report/8031884)
-- Overgrown vegetation overhanging footpath, 15th August :- [8031719](https://www.fixmystreet.com/report/8031719)
 
 <!-- fix_marker ends -->
