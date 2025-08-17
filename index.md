@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Sunday, 17 August 2025
 
-- The average temperature today is 26.68˚C,
-- With highs of 27.61˚C and lows of 25.75˚C,
-- It may feel like 26.46˚C with clear sky
-- The wind speed is 3.6m/s and visibility is 10000m
-- The pressure is 1022hPa and humidity is 36%
+- The average temperature today is 26.81˚C,
+- With highs of 28.15˚C and lows of 25.95˚C,
+- It may feel like 26.59˚C with clear sky
+- The wind speed is 3.09m/s and visibility is 10000m
+- The pressure is 1021hPa and humidity is 37%
 - The sun will rise at 04:56 and set at 19:28
 
 <!-- weather_marker ends -->

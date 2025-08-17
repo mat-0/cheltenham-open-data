@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flyposting on pavement, 17th August :- [8036746](https://www.fixmystreet.com/report/8036746)
+- Flytipped pedal cycles, 17th August :- [8036738](https://www.fixmystreet.com/report/8036738)
+- For Sale sign on pavement, 17th August :- [8036710](https://www.fixmystreet.com/report/8036710)
 - Location: 68 Nettleton Road. Hanging branch on the tree outside this property on the verge has been damage following recent pavement works. This is likely to fall damaging property or passers by, 17th August :- [8036569](https://www.fixmystreet.com/report/8036569)
 - Flytipped Furniture, 17th August :- [8036540](https://www.fixmystreet.com/report/8036540)
 - Flytipped items, 17th August :- [8036535](https://www.fixmystreet.com/report/8036535)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Dumping of loads of bottles, 16th August :- [8032706](https://www.fixmystreet.com/report/8032706)
 - Large pot hole in pavement, 16th August :- [8032417](https://www.fixmystreet.com/report/8032417)
 - Green light failed, 16th August :- [8032399](https://www.fixmystreet.com/report/8032399)
-- Speed limit sign blocked, 16th August :- [8032211](https://www.fixmystreet.com/report/8032211)
-- Flyposting at traffic lights on street funiture, 16th August :- [8032204](https://www.fixmystreet.com/report/8032204)
-- Flyposting on traffic lights, 16th August :- [8032201](https://www.fixmystreet.com/report/8032201)
 
 <!-- fix_marker ends -->
