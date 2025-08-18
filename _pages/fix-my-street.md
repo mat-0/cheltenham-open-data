@@ -9,6 +9,16 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Even more flytipping here, 18th August :- [8038915](https://www.fixmystreet.com/report/8038915)
+- Fallen tree obstructing ABA52, 18th August :- [8038834](https://www.fixmystreet.com/report/8038834)
+- Missing Manhole cover, 18th August :- [8038811](https://www.fixmystreet.com/report/8038811)
+- This has been reported many times by many people, it has been hastily repaired by pouring liquid tar over the holes., 18th August :- [8038768](https://www.fixmystreet.com/report/8038768)
+- Access from road to Public Footpath ABA51 obstructed by thick hedge, no signpost., 18th August :- [8038758](https://www.fixmystreet.com/report/8038758)
+- Rocking slabs just laid outside number 34 Oldfield Road, 18th August :- [8038718](https://www.fixmystreet.com/report/8038718)
+- Illegal parking, 18th August :- [8038494](https://www.fixmystreet.com/report/8038494)
+- Tree is damaged problem, 18th August :- [8038546](https://www.fixmystreet.com/report/8038546)
+- TMC - Defects - Kerbs and Channels problem, 18th August :- [8038368](https://www.fixmystreet.com/report/8038368)
+- TMC - Defects - Vegetation problem, 18th August :- [8038367](https://www.fixmystreet.com/report/8038367)
 - Signs need collecting following line painting, 18th August :- [8038065](https://www.fixmystreet.com/report/8038065)
 - Line of narrow trench-like potholes in carriageway - concern about safety of cyclists., 17th August :- [8037816](https://www.fixmystreet.com/report/8037816)
 - Deep pothole on pavement, 17th August :- [8037664](https://www.fixmystreet.com/report/8037664)
@@ -19,15 +29,5 @@ permalink: /fix-my-street
 - For Sale sign on pavement, 17th August :- [8036710](https://www.fixmystreet.com/report/8036710)
 - Location: 68 Nettleton Road. Hanging branch on the tree outside this property on the verge has been damage following recent pavement works. This is likely to fall damaging property or passers by, 17th August :- [8036569](https://www.fixmystreet.com/report/8036569)
 - Flytipped Furniture, 17th August :- [8036540](https://www.fixmystreet.com/report/8036540)
-- Flytipped items, 17th August :- [8036535](https://www.fixmystreet.com/report/8036535)
-- Abandoned barriers and signs on bridge, 17th August :- [8036413](https://www.fixmystreet.com/report/8036413)
-- Green traffic light not working on left hand side of the carriageway, 17th August :- [8036135](https://www.fixmystreet.com/report/8036135)
-- Snapped of branch in middle maple tree, 17th August :- [8035984](https://www.fixmystreet.com/report/8035984)
-- Lots of areas of road breaking up, sunken, holes, 17th August :- [8035948](https://www.fixmystreet.com/report/8035948)
-- Flytipping in alleyway, 17th August :- [8035626](https://www.fixmystreet.com/report/8035626)
-- Breeze blocks fly tipped, 17th August :- [8035296](https://www.fixmystreet.com/report/8035296)
-- Road markings worn and obscured, 17th August :- [8035253](https://www.fixmystreet.com/report/8035253)
-- Tree branch has fallen, 17th August :- [8035197](https://www.fixmystreet.com/report/8035197)
-- Volunteer litter pick bags ready for collection (16th August 2025), 16th August :- [8034292](https://www.fixmystreet.com/report/8034292)
 
 <!-- fix_marker ends -->
