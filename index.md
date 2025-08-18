@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Monday, 18 August 2025
 
-- The average temperature today is 21.77˚C,
-- With highs of 22.75˚C and lows of 21.4˚C,
-- It may feel like 21.57˚C with broken clouds
-- The wind speed is 6.17m/s and visibility is 10000m
-- The pressure is 1019hPa and humidity is 60%
+- The average temperature today is 22.19˚C,
+- With highs of 23.3˚C and lows of 21.64˚C,
+- It may feel like 21.95˚C with scattered clouds
+- The wind speed is 4.12m/s and visibility is 10000m
+- The pressure is 1019hPa and humidity is 57%
 - The sun will rise at 04:57 and set at 19:26
 
 <!-- weather_marker ends -->
