@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Load of bricks an demolition stuff, 18th August :- [8043036](https://www.fixmystreet.com/report/8043036)
+- Trench fill has sunk across whole carriageway, 18th August :- [8043030](https://www.fixmystreet.com/report/8043030)
+- No sign warning of no entry unless bus or taxi, 18th August :- [8042946](https://www.fixmystreet.com/report/8042946)
 - Pavement collapsing, 18th August :- [8042744](https://www.fixmystreet.com/report/8042744)
 - Multiple deep potholes, 18th August :- [8042733](https://www.fixmystreet.com/report/8042733)
 - Unsafe Road Surface Works, 18th August :- [8042301](https://www.fixmystreet.com/report/8042301)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Green or amber traffic light is not working problem, 18th August :- [8041073](https://www.fixmystreet.com/report/8041073)
 - Tree is damaged problem, 18th August :- [8041075](https://www.fixmystreet.com/report/8041075)
 - TMC - Defects - Vegetation problem, 18th August :- [8040836](https://www.fixmystreet.com/report/8040836)
-- Tree is damaged problem, 18th August :- [8041072](https://www.fixmystreet.com/report/8041072)
-- TMC - Defects -CW10 Potholes problem, 18th August :- [8040832](https://www.fixmystreet.com/report/8040832)
-- TMC - Defects -CW10 Potholes problem, 18th August :- [8040833](https://www.fixmystreet.com/report/8040833)
 
 <!-- fix_marker ends -->
