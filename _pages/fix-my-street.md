@@ -9,7 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Vegetation problem, 18th August :- [8039277](https://www.fixmystreet.com/report/8039277)
+- TMC - Defects - Vegetation problem, 18th August :- [8039274](https://www.fixmystreet.com/report/8039274)
+- Road subsiding next to recent water emergency repair, 18th August :- [8038958](https://www.fixmystreet.com/report/8038958)
 - Even more flytipping here, 18th August :- [8038915](https://www.fixmystreet.com/report/8038915)
+- TMC - Defects -CW10 Potholes problem, 18th August :- [8039237](https://www.fixmystreet.com/report/8039237)
 - Fallen tree obstructing ABA52, 18th August :- [8038834](https://www.fixmystreet.com/report/8038834)
 - Missing Manhole cover, 18th August :- [8038811](https://www.fixmystreet.com/report/8038811)
 - This has been reported many times by many people, it has been hastily repaired by pouring liquid tar over the holes., 18th August :- [8038768](https://www.fixmystreet.com/report/8038768)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Pothole in path, 17th August :- [8037661](https://www.fixmystreet.com/report/8037661)
 - Large amount of building blocks/bricks, 17th August :- [8036855](https://www.fixmystreet.com/report/8036855)
 - Flyposting on pavement, 17th August :- [8036746](https://www.fixmystreet.com/report/8036746)
-- Flytipped pedal cycles, 17th August :- [8036738](https://www.fixmystreet.com/report/8036738)
-- For Sale sign on pavement, 17th August :- [8036710](https://www.fixmystreet.com/report/8036710)
-- Location: 68 Nettleton Road. Hanging branch on the tree outside this property on the verge has been damage following recent pavement works. This is likely to fall damaging property or passers by, 17th August :- [8036569](https://www.fixmystreet.com/report/8036569)
-- Flytipped Furniture, 17th August :- [8036540](https://www.fixmystreet.com/report/8036540)
 
 <!-- fix_marker ends -->
