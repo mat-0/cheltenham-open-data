@@ -25,9 +25,9 @@ permalink: /fix-my-street
 - Tree is damaged problem, 18th August :- [8041075](https://www.fixmystreet.com/report/8041075)
 - TMC - Defects - Vegetation problem, 18th August :- [8040836](https://www.fixmystreet.com/report/8040836)
 - Tree is damaged problem, 18th August :- [8041072](https://www.fixmystreet.com/report/8041072)
-- TMC - Defects -CW10 Potholes problem, 18th August :- [8040832](https://www.fixmystreet.com/report/8040832)
 - TMC - Defects -CW10 Potholes problem, 18th August :- [8040833](https://www.fixmystreet.com/report/8040833)
 - TMC - Defects -CW10 Potholes problem, 18th August :- [8040834](https://www.fixmystreet.com/report/8040834)
+- TMC - Defects -CW10 Potholes problem, 18th August :- [8040832](https://www.fixmystreet.com/report/8040832)
 - TMC - Defects -CW10 Potholes problem, 18th August :- [8040835](https://www.fixmystreet.com/report/8040835)
 
 <!-- fix_marker ends -->
