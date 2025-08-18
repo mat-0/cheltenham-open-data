@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Several roads closed following serious crash ([35 minutes ago](https://www.bbc.com/news/articles/cly79gq6636o?at_medium=RSS&at_campaign=rss))
+- Several roads closed following serious crash ([1 hours ago](https://www.bbc.com/news/articles/cly79gq6636o?at_medium=RSS&at_campaign=rss))
 - Residents worry as bridges to be shut at same time ([2 hours ago](https://www.bbc.com/news/articles/cqxgqj4z0nwo?at_medium=RSS&at_campaign=rss))
-- 'Wildflower meadow' and 'nightmare cat' ([3 hours ago](https://www.bbc.com/news/articles/cjr1zqw37dno?at_medium=RSS&at_campaign=rss))
-- British doctor honoured on stamps for remote islands ([7 hours ago](https://www.bbc.com/news/articles/c207j7l4y8zo?at_medium=RSS&at_campaign=rss))
-- How producer's grief influenced her short film ([7 hours ago](https://www.bbc.com/news/articles/c0l69pzyj35o?at_medium=RSS&at_campaign=rss))
-- Roman army descends on village for festival ([16 hours ago](https://www.bbc.com/news/articles/cq87403jx14o?at_medium=RSS&at_campaign=rss))
+- 'Wildflower meadow' and 'nightmare cat' ([4 hours ago](https://www.bbc.com/news/articles/cjr1zqw37dno?at_medium=RSS&at_campaign=rss))
+- British doctor honoured on stamps for remote islands ([8 hours ago](https://www.bbc.com/news/articles/c207j7l4y8zo?at_medium=RSS&at_campaign=rss))
+- How producer's grief influenced her short film ([8 hours ago](https://www.bbc.com/news/articles/c0l69pzyj35o?at_medium=RSS&at_campaign=rss))
+- Roman army descends on village for festival ([17 hours ago](https://www.bbc.com/news/articles/cq87403jx14o?at_medium=RSS&at_campaign=rss))
 - Town aiming to forge twinning link with Bergerac ([1 days ago](https://www.bbc.com/news/articles/c4gzv7jmvxjo?at_medium=RSS&at_campaign=rss))
 - Restaurant loses licence after illegal worker fine ([1 days ago](https://www.bbc.com/news/articles/cewyj8y0dzjo?at_medium=RSS&at_campaign=rss))
 - Driver's insurer to cover £50k bridge repair costs ([2 days ago](https://www.bbc.com/news/articles/cjdyr09jg4go?at_medium=RSS&at_campaign=rss))
