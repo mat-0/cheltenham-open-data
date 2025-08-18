@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:georss="http://www.georss.org/georss"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
+ xmlns:georss="http://www.georss.org/georss"
 >
 
 <channel>
@@ -158,15 +158,6 @@
 </item>
 <item>
 <title>TMC - Defects -CW10 Potholes problem, 18th August</title>
-<link>https://www.fixmystreet.com/report/8040832</link>
-<description>C/W pothole - 350mm x 500mm x 40mm - 0.18m2 - Stop &amp;amp; Go - 28 days (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8040832&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW10 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8040832</guid>
-<pubDate>Mon, 18 Aug 2025 13:50:14 +0100</pubDate>
-<georss:point>51.878755100642 -2.17855093620765</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW10 Potholes problem, 18th August</title>
 <link>https://www.fixmystreet.com/report/8040833</link>
 <description>C/W pothole - 300mm x 700mm x 40mm - 0.21m2 - 28 days - Stop &amp;amp; Go (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8040833&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW10 Potholes</category>
@@ -182,6 +173,15 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/8040834</guid>
 <pubDate>Mon, 18 Aug 2025 13:50:14 +0100</pubDate>
 <georss:point>51.8787883298936 -2.17850095818012</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 18th August</title>
+<link>https://www.fixmystreet.com/report/8040832</link>
+<description>C/W pothole - 350mm x 500mm x 40mm - 0.18m2 - Stop &amp;amp; Go - 28 days (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8040832&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8040832</guid>
+<pubDate>Mon, 18 Aug 2025 13:50:14 +0100</pubDate>
+<georss:point>51.878755100642 -2.17855093620765</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW10 Potholes problem, 18th August</title>
