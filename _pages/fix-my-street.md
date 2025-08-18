@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pavement collapsing, 18th August :- [8042744](https://www.fixmystreet.com/report/8042744)
+- Multiple deep potholes, 18th August :- [8042733](https://www.fixmystreet.com/report/8042733)
 - Unsafe Road Surface Works, 18th August :- [8042301](https://www.fixmystreet.com/report/8042301)
 - Large gas cannisters fly tipped outside the rugby club entrance by the bench near the road on Mill Lane Brockworth, 18th August :- [8042142](https://www.fixmystreet.com/report/8042142)
 - Bricks and debris on highway from the collapsed wall, 18th August :- [8042087](https://www.fixmystreet.com/report/8042087)
@@ -25,9 +27,7 @@ permalink: /fix-my-street
 - Tree is damaged problem, 18th August :- [8041075](https://www.fixmystreet.com/report/8041075)
 - TMC - Defects - Vegetation problem, 18th August :- [8040836](https://www.fixmystreet.com/report/8040836)
 - Tree is damaged problem, 18th August :- [8041072](https://www.fixmystreet.com/report/8041072)
-- TMC - Defects -CW10 Potholes problem, 18th August :- [8040833](https://www.fixmystreet.com/report/8040833)
-- TMC - Defects -CW10 Potholes problem, 18th August :- [8040834](https://www.fixmystreet.com/report/8040834)
 - TMC - Defects -CW10 Potholes problem, 18th August :- [8040832](https://www.fixmystreet.com/report/8040832)
-- TMC - Defects -CW10 Potholes problem, 18th August :- [8040835](https://www.fixmystreet.com/report/8040835)
+- TMC - Defects -CW10 Potholes problem, 18th August :- [8040833](https://www.fixmystreet.com/report/8040833)
 
 <!-- fix_marker ends -->
