@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -13,40 +13,67 @@
 <language>en-gb</language>
 
 <item>
-<title>TMC - Defects -CW6 Potholes  problem, 19th August</title>
-<link>https://www.fixmystreet.com/report/8045987</link>
-<description>28 day with road closure due to numerous defects carriageway pothole 1000x800x45mm tarmac patch required number 3 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8045987&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8045987</guid>
-<pubDate>Tue, 19 Aug 2025 12:30:34 +0100</pubDate>
-<georss:point>51.9417246720805 -2.02308298238459</georss:point>
+<title>TMC - Defects - Other FW6  Surface problem, 19th August</title>
+<link>https://www.fixmystreet.com/report/8046627</link>
+<description>F/W depression patch - 400mm x 1800mm x 25mm - 0.72m2 - 28 days - F/W closure signage (FW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8046627&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8046627</guid>
+<pubDate>Tue, 19 Aug 2025 13:46:40 +0100</pubDate>
+<georss:point>51.8937758971385 -2.06153750029197</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Vegetation problem, 19th August</title>
+<link>https://www.fixmystreet.com/report/8046484</link>
+<description>F/W closure &amp;#10;Cut back 2 large hedges encroaching onto footpath - ENWD - F/W closure (Overgrown Hedge)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8046484&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Vegetation</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8046484</guid>
+<pubDate>Tue, 19 Aug 2025 13:30:45 +0100</pubDate>
+<georss:point>51.9017958950284 -2.06982326261656</georss:point>
+</item>
+<item>
+<title>TMC - Defects -FW6 Potholes problem, 19th August</title>
+<link>https://www.fixmystreet.com/report/8046483</link>
+<description>2 hour with give an take make safe footway pothole 300x400x50mm (FW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8046483&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -FW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8046483</guid>
+<pubDate>Tue, 19 Aug 2025 13:25:05 +0100</pubDate>
+<georss:point>51.8964996831188 -2.07297581932173</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Vegetation problem, 19th August</title>
+<link>https://www.fixmystreet.com/report/8046481</link>
+<description>Give and take plus temporary footway closure required  28 day  please cut back overgrown tree growth from base of tree back to boundary approximately 2 metres x3 metres (Overgrown Tree)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8046481&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Vegetation</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8046481</guid>
+<pubDate>Tue, 19 Aug 2025 13:11:29 +0100</pubDate>
+<georss:point>51.9040334872573 -2.06969784497716</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Vegetation problem, 19th August</title>
+<link>https://www.fixmystreet.com/report/8046480</link>
+<description>Give and take plus temporary footway closure required  28 day  please cut back overgrown tree growth from base of tree back to boundary approximately 3 metres x3 metres (Overgrown Tree)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8046480&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Vegetation</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8046480</guid>
+<pubDate>Tue, 19 Aug 2025 13:10:27 +0100</pubDate>
+<georss:point>51.9041109965644 -2.07035610808185</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Vegetation problem, 19th August</title>
+<link>https://www.fixmystreet.com/report/8046479</link>
+<description>Give and take plus temporary footway closure required  28 day  please cut back overgrown tree growth from base of tree back to boundary approximately 3 metres x3 metres (Overgrown Tree)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8046479&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Vegetation</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8046479</guid>
+<pubDate>Tue, 19 Aug 2025 13:10:16 +0100</pubDate>
+<georss:point>51.9041073 -2.0700374</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 19th August</title>
-<link>https://www.fixmystreet.com/report/8046003</link>
-<description>28 day with road closure due to numerous defects carriageway pothole 900x700x50mm plus x1 NSD tarmac patch required number 20 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8046003&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/8046000</link>
+<description>28 day with road closure due to numerous defects carriageway pothole 700x450x40mm tarmac patch required number 17 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8046000&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8046003</guid>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8046000</guid>
 <pubDate>Tue, 19 Aug 2025 12:30:34 +0100</pubDate>
-<georss:point>51.9426244 -2.0254338</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 19th August</title>
-<link>https://www.fixmystreet.com/report/8046001</link>
-<description>28 day with road closure due to numerous defects carriageway pothole 700x600x40mm plus x3 NSD tarmac patch required number 18 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8046001&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8046001</guid>
-<pubDate>Tue, 19 Aug 2025 12:30:34 +0100</pubDate>
-<georss:point>51.9425488941245 -2.02476364533506</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 19th August</title>
-<link>https://www.fixmystreet.com/report/8045989</link>
-<description>28 day with road closure due to numerous defects carriageway pothole 650x650x45mm plus x1 NSD tarmac patch required number 1 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8045989&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8045989</guid>
-<pubDate>Tue, 19 Aug 2025 12:30:34 +0100</pubDate>
-<georss:point>51.9418113261912 -2.02313840838181</georss:point>
+<georss:point>51.9425679 -2.02481229999999</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 19th August</title>
@@ -59,48 +86,21 @@
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 19th August</title>
-<link>https://www.fixmystreet.com/report/8046000</link>
-<description>28 day with road closure due to numerous defects carriageway pothole 700x450x40mm tarmac patch required number 17 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8046000&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/8046003</link>
+<description>28 day with road closure due to numerous defects carriageway pothole 900x700x50mm plus x1 NSD tarmac patch required number 20 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8046003&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8046000</guid>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8046003</guid>
 <pubDate>Tue, 19 Aug 2025 12:30:34 +0100</pubDate>
-<georss:point>51.9425679 -2.02481229999999</georss:point>
+<georss:point>51.9426244 -2.0254338</georss:point>
 </item>
 <item>
 <title>TMC - Defects -other CW6 problem, 19th August</title>
-<link>https://www.fixmystreet.com/report/8045997</link>
-<description>28 day with road closure due to numerous defects carriageway edge deterioration 3100x40x50mm tarmac patch required number 14 (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8045997&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/8045996</link>
+<description>28 day with road closure due to numerous defects carriageway edge deterioration 1400x350x40mm tarmac patch required number 13 (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8045996&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -other CW6</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8045997</guid>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8045996</guid>
 <pubDate>Tue, 19 Aug 2025 12:30:34 +0100</pubDate>
-<georss:point>51.9424843082105 -2.02436471943476</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 19th August</title>
-<link>https://www.fixmystreet.com/report/8045990</link>
-<description>28 day with road closure due to numerous defects carriageway pothole 2600x600x45mm plus x2 NSD tarmac patch required number 8 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8045990&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8045990</guid>
-<pubDate>Tue, 19 Aug 2025 12:30:34 +0100</pubDate>
-<georss:point>51.9419756 -2.02322359999998</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 19th August</title>
-<link>https://www.fixmystreet.com/report/8045985</link>
-<description>28 day with road closure due to numerous defects carriageway pothole 1100x700x45mm plus x3 NSD tarmac patch required number 5 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8045985&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8045985</guid>
-<pubDate>Tue, 19 Aug 2025 12:30:34 +0100</pubDate>
-<georss:point>51.9418681994407 -2.02317453238375</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 19th August</title>
-<link>https://www.fixmystreet.com/report/8045986</link>
-<description>28 day with road closure due to numerous defects carriageway pothole 350x300x40mm tarmac patch required number 4 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8045986&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8045986</guid>
-<pubDate>Tue, 19 Aug 2025 12:30:34 +0100</pubDate>
-<georss:point>51.9418283187932 -2.02310812538407</georss:point>
+<georss:point>51.9425208949841 -2.02430038364062</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 19th August</title>
@@ -110,6 +110,24 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/8045988</guid>
 <pubDate>Tue, 19 Aug 2025 12:30:34 +0100</pubDate>
 <georss:point>51.9418231301655 -2.02311711032098</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 19th August</title>
+<link>https://www.fixmystreet.com/report/8045998</link>
+<description>28 day with road closure due to numerous defects carriageway pothole 1600x450x40mm plus x4 NSD tarmac patch required number 15 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8045998&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8045998</guid>
+<pubDate>Tue, 19 Aug 2025 12:30:34 +0100</pubDate>
+<georss:point>51.9425421949681 -2.02444475041093</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 19th August</title>
+<link>https://www.fixmystreet.com/report/8045990</link>
+<description>28 day with road closure due to numerous defects carriageway pothole 2600x600x45mm plus x2 NSD tarmac patch required number 8 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8045990&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8045990</guid>
+<pubDate>Tue, 19 Aug 2025 12:30:34 +0100</pubDate>
+<georss:point>51.9419756 -2.02322359999998</georss:point>
 </item>
 <item>
 <title>TMC - Defects -other CW6 problem, 19th August</title>
@@ -131,30 +149,12 @@
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 19th August</title>
-<link>https://www.fixmystreet.com/report/8045998</link>
-<description>28 day with road closure due to numerous defects carriageway pothole 1600x450x40mm plus x4 NSD tarmac patch required number 15 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8045998&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/8045985</link>
+<description>28 day with road closure due to numerous defects carriageway pothole 1100x700x45mm plus x3 NSD tarmac patch required number 5 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8045985&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8045998</guid>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8045985</guid>
 <pubDate>Tue, 19 Aug 2025 12:30:34 +0100</pubDate>
-<georss:point>51.9425421949681 -2.02444475041093</georss:point>
-</item>
-<item>
-<title>TMC - Defects -other CW6 problem, 19th August</title>
-<link>https://www.fixmystreet.com/report/8045999</link>
-<description>28 day with road closure due to numerous defects carriageway edge deterioration 1600x600x50mm plus x2 NSD tarmac patch required number 16 (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8045999&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -other CW6</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8045999</guid>
-<pubDate>Tue, 19 Aug 2025 12:30:34 +0100</pubDate>
-<georss:point>51.942560303897 -2.02455282759348</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 19th August</title>
-<link>https://www.fixmystreet.com/report/8045993</link>
-<description>28 day with road closure due to numerous defects carriageway pothole 600x400x40mm tarmac patch required number 9 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8045993&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8045993</guid>
-<pubDate>Tue, 19 Aug 2025 12:30:34 +0100</pubDate>
-<georss:point>51.9424168068435 -2.02400481583626</georss:point>
+<georss:point>51.9418681994407 -2.02317453238375</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 19th August</title>
@@ -167,30 +167,30 @@
 </item>
 <item>
 <title>TMC - Defects -other CW6 problem, 19th August</title>
-<link>https://www.fixmystreet.com/report/8045992</link>
-<description>28 day with road closure due to numerous defects carriageway edge deterioration 1900x350x45mm tarmac patch required number 10 (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8045992&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/8045997</link>
+<description>28 day with road closure due to numerous defects carriageway edge deterioration 3100x40x50mm tarmac patch required number 14 (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8045997&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -other CW6</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8045992</guid>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8045997</guid>
 <pubDate>Tue, 19 Aug 2025 12:30:34 +0100</pubDate>
-<georss:point>51.9424355 -2.02406659999998</georss:point>
-</item>
-<item>
-<title>TMC - Defects -other CW6 problem, 19th August</title>
-<link>https://www.fixmystreet.com/report/8045996</link>
-<description>28 day with road closure due to numerous defects carriageway edge deterioration 1400x350x40mm tarmac patch required number 13 (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8045996&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -other CW6</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8045996</guid>
-<pubDate>Tue, 19 Aug 2025 12:30:34 +0100</pubDate>
-<georss:point>51.9425208949841 -2.02430038364062</georss:point>
+<georss:point>51.9424843082105 -2.02436471943476</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 19th August</title>
-<link>https://www.fixmystreet.com/report/8046004</link>
-<description>28 day with road closure due to numerous defects carriageway pothole 1000x700x50mm tarmac patch required number 21 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8046004&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/8045993</link>
+<description>28 day with road closure due to numerous defects carriageway pothole 600x400x40mm tarmac patch required number 9 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8045993&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8046004</guid>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8045993</guid>
 <pubDate>Tue, 19 Aug 2025 12:30:34 +0100</pubDate>
-<georss:point>51.9426182248007 -2.0255690646175</georss:point>
+<georss:point>51.9424168068435 -2.02400481583626</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 19th August</title>
+<link>https://www.fixmystreet.com/report/8046001</link>
+<description>28 day with road closure due to numerous defects carriageway pothole 700x600x40mm plus x3 NSD tarmac patch required number 18 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8046001&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8046001</guid>
+<pubDate>Tue, 19 Aug 2025 12:30:34 +0100</pubDate>
+<georss:point>51.9425488941245 -2.02476364533506</georss:point>
 </item>
 </channel>
 </rss>
