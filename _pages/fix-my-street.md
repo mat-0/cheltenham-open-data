@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street light out, 19th August :- [8048629](https://www.fixmystreet.com/report/8048629)
+- Graffiti is present, 19th August :- [8048582](https://www.fixmystreet.com/report/8048582)
+- Overflowing bin, 19th August :- [8048577](https://www.fixmystreet.com/report/8048577)
 - Tipping of waste garden cuttings and branches, 19th August :- [8048559](https://www.fixmystreet.com/report/8048559)
 - Pothole on pavement trip hazzard, 19th August :- [8048347](https://www.fixmystreet.com/report/8048347)
 - Potentially dangerous tree, 19th August :- [8047973](https://www.fixmystreet.com/report/8047973)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 19th August :- [8046481](https://www.fixmystreet.com/report/8046481)
 - TMC - Defects - Vegetation problem, 19th August :- [8046480](https://www.fixmystreet.com/report/8046480)
 - TMC - Defects - Vegetation problem, 19th August :- [8046479](https://www.fixmystreet.com/report/8046479)
-- TMC - Defects -other CW6 problem, 19th August :- [8045999](https://www.fixmystreet.com/report/8045999)
-- TMC - Defects -other CW6 problem, 19th August :- [8045992](https://www.fixmystreet.com/report/8045992)
-- TMC - Defects -CW6 Potholes  problem, 19th August :- [8045985](https://www.fixmystreet.com/report/8045985)
 
 <!-- fix_marker ends -->
