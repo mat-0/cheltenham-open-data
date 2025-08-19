@@ -11,6 +11,7 @@ permalink: /fix-my-street
 
 - Badly parked vehicles need urgent attention, 19th August :- [8047340](https://www.fixmystreet.com/report/8047340)
 - Car wheel and tyre, 19th August :- [8047324](https://www.fixmystreet.com/report/8047324)
+- TMC - Defects - Vegetation problem, 19th August :- [8047374](https://www.fixmystreet.com/report/8047374)
 - Overgrown hedgerow, 19th August :- [8047145](https://www.fixmystreet.com/report/8047145)
 - TMC - Defects -FW6 Potholes problem, 19th August :- [8047197](https://www.fixmystreet.com/report/8047197)
 - TMC - Defects -other CW6 problem, 19th August :- [8047000](https://www.fixmystreet.com/report/8047000)
@@ -22,12 +23,11 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 19th August :- [8046481](https://www.fixmystreet.com/report/8046481)
 - TMC - Defects - Vegetation problem, 19th August :- [8046480](https://www.fixmystreet.com/report/8046480)
 - TMC - Defects - Vegetation problem, 19th August :- [8046479](https://www.fixmystreet.com/report/8046479)
-- TMC - Defects -other CW6 problem, 19th August :- [8045997](https://www.fixmystreet.com/report/8045997)
 - TMC - Defects -other CW6 problem, 19th August :- [8045996](https://www.fixmystreet.com/report/8045996)
-- TMC - Defects -CW6 Potholes  problem, 19th August :- [8045986](https://www.fixmystreet.com/report/8045986)
-- TMC - Defects -CW6 Potholes  problem, 19th August :- [8045994](https://www.fixmystreet.com/report/8045994)
+- TMC - Defects -CW6 Potholes  problem, 19th August :- [8046000](https://www.fixmystreet.com/report/8046000)
 - TMC - Defects -CW6 Potholes  problem, 19th August :- [8045985](https://www.fixmystreet.com/report/8045985)
+- TMC - Defects -other CW6 problem, 19th August :- [8045992](https://www.fixmystreet.com/report/8045992)
+- TMC - Defects -other CW6 problem, 19th August :- [8045999](https://www.fixmystreet.com/report/8045999)
 - TMC - Defects -CW6 Potholes  problem, 19th August :- [8045988](https://www.fixmystreet.com/report/8045988)
-- TMC - Defects -CW6 Potholes  problem, 19th August :- [8045989](https://www.fixmystreet.com/report/8045989)
 
 <!-- fix_marker ends -->
