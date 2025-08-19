@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tipping of waste garden cuttings and branches, 19th August :- [8048559](https://www.fixmystreet.com/report/8048559)
 - Pothole on pavement trip hazzard, 19th August :- [8048347](https://www.fixmystreet.com/report/8048347)
 - Potentially dangerous tree, 19th August :- [8047973](https://www.fixmystreet.com/report/8047973)
 - Badly parked vehicles need urgent attention, 19th August :- [8047340](https://www.fixmystreet.com/report/8047340)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -other CW6 problem, 19th August :- [8045999](https://www.fixmystreet.com/report/8045999)
 - TMC - Defects -other CW6 problem, 19th August :- [8045992](https://www.fixmystreet.com/report/8045992)
 - TMC - Defects -CW6 Potholes  problem, 19th August :- [8045985](https://www.fixmystreet.com/report/8045985)
-- TMC - Defects -other CW6 problem, 19th August :- [8045996](https://www.fixmystreet.com/report/8045996)
 
 <!-- fix_marker ends -->
