@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 50mph/red warning sign demolished, 19th August :- [8043669](https://www.fixmystreet.com/report/8043669)
 - Curb stone sank to road level, 19th August :- [8043639](https://www.fixmystreet.com/report/8043639)
 - Its getting deeper as days go by its a huge dip accross the, 19th August :- [8043637](https://www.fixmystreet.com/report/8043637)
 - Fly tipping under bridge, 18th August :- [8043161](https://www.fixmystreet.com/report/8043161)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -FW6 Potholes problem, 18th August :- [8041304](https://www.fixmystreet.com/report/8041304)
 - TMC - Defects - Signs & Street Furniture problem, 18th August :- [8041303](https://www.fixmystreet.com/report/8041303)
 - TMC - Defects - Covers, Gratings & Frames problem, 18th August :- [8041084](https://www.fixmystreet.com/report/8041084)
-- A pothole in road problem, 18th August :- [8041074](https://www.fixmystreet.com/report/8041074)
 
 <!-- fix_marker ends -->
