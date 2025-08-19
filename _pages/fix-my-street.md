@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dead deer under A46 bridge on A417, 19th August :- [8043893](https://www.fixmystreet.com/report/8043893)
+- Large distracting road sign, 19th August :- [8043880](https://www.fixmystreet.com/report/8043880)
 - 50mph/red warning sign demolished, 19th August :- [8043669](https://www.fixmystreet.com/report/8043669)
 - Curb stone sank to road level, 19th August :- [8043639](https://www.fixmystreet.com/report/8043639)
 - Its getting deeper as days go by its a huge dip accross the, 19th August :- [8043637](https://www.fixmystreet.com/report/8043637)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Damaged Access Cover, 18th August :- [8041379](https://www.fixmystreet.com/report/8041379)
 - TMC - Defects - Other FW6  Surface problem, 18th August :- [8041333](https://www.fixmystreet.com/report/8041333)
 - TMC - Defects -FW6 Potholes problem, 18th August :- [8041304](https://www.fixmystreet.com/report/8041304)
-- TMC - Defects - Signs & Street Furniture problem, 18th August :- [8041303](https://www.fixmystreet.com/report/8041303)
-- TMC - Defects - Covers, Gratings & Frames problem, 18th August :- [8041084](https://www.fixmystreet.com/report/8041084)
 
 <!-- fix_marker ends -->
