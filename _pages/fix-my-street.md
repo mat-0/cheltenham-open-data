@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Its getting deeper as days go by its a huge dip accross the, 19th August :- [8043637](https://www.fixmystreet.com/report/8043637)
 - Fly tipping under bridge, 18th August :- [8043161](https://www.fixmystreet.com/report/8043161)
 - Load of bricks an demolition stuff, 18th August :- [8043036](https://www.fixmystreet.com/report/8043036)
 - Trench fill has sunk across whole carriageway, 18th August :- [8043030](https://www.fixmystreet.com/report/8043030)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Covers, Gratings & Frames problem, 18th August :- [8041084](https://www.fixmystreet.com/report/8041084)
 - A pothole in road problem, 18th August :- [8041074](https://www.fixmystreet.com/report/8041074)
 - Green or amber traffic light is not working problem, 18th August :- [8041073](https://www.fixmystreet.com/report/8041073)
-- Tree is damaged problem, 18th August :- [8041075](https://www.fixmystreet.com/report/8041075)
 
 <!-- fix_marker ends -->
