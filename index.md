@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Tuesday, 19 August 2025
 
-- The average temperature today is 16˚C,
-- With highs of 16.66˚C and lows of 15.38˚C,
-- It may feel like 15.67˚C with broken clouds
-- The wind speed is 2.68m/s and visibility is 10000m
-- The pressure is 1017hPa and humidity is 77%
+- The average temperature today is 15.19˚C,
+- With highs of 16.27˚C and lows of 14.73˚C,
+- It may feel like 14.83˚C with overcast clouds
+- The wind speed is 1.79m/s and visibility is 10000m
+- The pressure is 1017hPa and humidity is 79%
 - The sun will rise at 04:59 and set at 19:24
 
 <!-- weather_marker ends -->

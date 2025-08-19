@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Roadworks with traffic lights. No permit showing., 19th August :- [8048946](https://www.fixmystreet.com/report/8048946)
 - Street light out, 19th August :- [8048629](https://www.fixmystreet.com/report/8048629)
 - Graffiti is present, 19th August :- [8048582](https://www.fixmystreet.com/report/8048582)
 - Overflowing bin, 19th August :- [8048577](https://www.fixmystreet.com/report/8048577)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -FW6 Potholes problem, 19th August :- [8046483](https://www.fixmystreet.com/report/8046483)
 - TMC - Defects - Vegetation problem, 19th August :- [8046481](https://www.fixmystreet.com/report/8046481)
 - TMC - Defects - Vegetation problem, 19th August :- [8046480](https://www.fixmystreet.com/report/8046480)
-- TMC - Defects - Vegetation problem, 19th August :- [8046479](https://www.fixmystreet.com/report/8046479)
 
 <!-- fix_marker ends -->
