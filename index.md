@@ -12,9 +12,9 @@ seo: Menu
 
 - The average temperature today is 15.75˚C,
 - With highs of 15.75˚C and lows of 15.75˚C,
-- It may feel like 15.39˚C with broken clouds
-- The wind speed is 4.12m/s and visibility is 10000m
-- The pressure is 1017hPa and humidity is 77%
+- It may feel like 15.26˚C with broken clouds
+- The wind speed is 5.14m/s and visibility is 10000m
+- The pressure is 1017hPa and humidity is 72%
 - The sun will rise at 05:01 and set at 19:22
 
 <!-- weather_marker ends -->
