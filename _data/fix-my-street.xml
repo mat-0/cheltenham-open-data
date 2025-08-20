@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -13,184 +13,184 @@
 <language>en-gb</language>
 
 <item>
-<title>TMC - Defects -CW6 Potholes  problem, 20th August</title>
-<link>https://www.fixmystreet.com/report/8051231</link>
-<description>CWPH &amp;#10;400 X 300 X 60mm &amp;#10;ROAD CLOSURE &amp;#10;MARKED AS NUMBER 6&amp;#10;PLUS 2 X NSD (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8051231&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8051231</guid>
-<pubDate>Wed, 20 Aug 2025 12:22:37 +0100</pubDate>
-<georss:point>51.810422 -2.04973910000001</georss:point>
+<title>TMC - Defects - Other FW6  Surface problem, 20th August</title>
+<link>https://www.fixmystreet.com/report/8051802</link>
+<description>Give and take  28 day plus temporary footway closure footway abrupt level different  please remove x1 raised 750x600x20mm slab replace with tarmac patch due to tree roots damage stats required number4 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8051802&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8051802</guid>
+<pubDate>Wed, 20 Aug 2025 13:49:23 +0100</pubDate>
+<georss:point>51.9032244 -2.06104990000002</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 20th August</title>
-<link>https://www.fixmystreet.com/report/8051229</link>
-<description>Give and take  28 day plus temporary footway closure please lift and replace  broken x1 sunken 750x300x20mm slab number 1 cutting will be required stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8051229&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/8051800</link>
+<description>Give and take  28 day plus temporary footway closure footway abrupt level different  please remove x1 raised 900x600x20mm slab replace with tarmac patch due to tree roots damage stats required number2 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8051800&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8051229</guid>
-<pubDate>Wed, 20 Aug 2025 12:13:11 +0100</pubDate>
-<georss:point>51.9078062 -2.07597969999998</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8051800</guid>
+<pubDate>Wed, 20 Aug 2025 13:49:23 +0100</pubDate>
+<georss:point>51.9032473299226 -2.06098877197239</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 20th August</title>
-<link>https://www.fixmystreet.com/report/8051230</link>
-<description>Give and take  28 day plus temporary footway closure footway abrupt level different around catv 400x250x25mm concrete fillet (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8051230&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/8051801</link>
+<description>Give and take  28 day plus temporary footway closure footway abrupt level different  please remove x1 raised 750x600x20mm slab replace with tarmac patch due to tree roots damage stats required number3 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8051801&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8051230</guid>
-<pubDate>Wed, 20 Aug 2025 12:13:11 +0100</pubDate>
-<georss:point>51.9083247 -2.07569319999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Road Markings problem, 20th August</title>
-<link>https://www.fixmystreet.com/report/8051228</link>
-<description>Road closure 28 day please refresh faded give way markings approximately 16  600x250mm dot&amp;#39;s plus x 2 3 metres lines (Faded Road Markings)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8051228&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Road Markings</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8051228</guid>
-<pubDate>Wed, 20 Aug 2025 12:13:11 +0100</pubDate>
-<georss:point>51.9076127 -2.07614910000002</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8051801</guid>
+<pubDate>Wed, 20 Aug 2025 13:49:23 +0100</pubDate>
+<georss:point>51.9032650580372 -2.06100520484959</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 20th August</title>
-<link>https://www.fixmystreet.com/report/8051227</link>
-<description>Give and take  28 day plus temporary footway closure please lift and replace  broken x1 sunken 900x600x20mm slab number 1 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8051227&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/8051786</link>
+<description>Give and take  28 day plus temporary footway closure footway abrupt level different  please remove x1 raised 900x600x20mm slab replace with tarmac patch due to tree roots damage stats required number1 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8051786&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8051227</guid>
-<pubDate>Wed, 20 Aug 2025 12:13:10 +0100</pubDate>
-<georss:point>51.9066442329629 -2.0767130064076</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8051786</guid>
+<pubDate>Wed, 20 Aug 2025 13:49:22 +0100</pubDate>
+<georss:point>51.9032341321297 -2.0609948207307</georss:point>
 </item>
 <item>
-<title>TMC - Defects - Other problem, 20th August</title>
-<link>https://www.fixmystreet.com/report/8051224</link>
-<description>PLANINGS REQUIRED &amp;#10;18m X 400 X 70mm &amp;#10;ROAD CLOSURE &amp;#10;MARKED AS NUMBER 5 (CW Over-Riding)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8051224&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8051224</guid>
-<pubDate>Wed, 20 Aug 2025 12:10:59 +0100</pubDate>
-<georss:point>51.8183839 -2.04837249999999</georss:point>
-</item>
-<item>
-<title>Tree is damaged problem, 20th August</title>
-<link>https://www.fixmystreet.com/report/8051187</link>
-<description>Several branches in lower crown of these trees appear bare and with some visible disease. Customer concerned they may be dead and will fall off.&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8051187&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Tree is damaged</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8051187</guid>
-<pubDate>Wed, 20 Aug 2025 12:07:57 +0100</pubDate>
-<georss:point>51.895767 -2.076721</georss:point>
+<title>TMC - Defects - Other FW6  Surface problem, 20th August</title>
+<link>https://www.fixmystreet.com/report/8051791</link>
+<description>Give and take  28 day plus temporary footway closure footway abrupt level different  please remove x1 raised 900x600x20mm slab replace with tarmac patch due to tree roots damage stats required number2 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8051791&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8051791</guid>
+<pubDate>Wed, 20 Aug 2025 13:49:22 +0100</pubDate>
+<georss:point>51.9034984609645 -2.06081286327661</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 20th August</title>
-<link>https://www.fixmystreet.com/report/8051212</link>
-<description>Give and take  28 days carriage way pothole 1200x 600x40mm tarmac patch stats required number 1 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8051212&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/8051785</link>
+<description>GIVE AND TAKE PLUS TEMPORARY 15  MINUTES DELAY BOARDS CARRIAGEWAY POTHOLE 1000X500X45MM TARMAC PATCH STATS REQUIRED (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8051785&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8051212</guid>
-<pubDate>Wed, 20 Aug 2025 12:04:54 +0100</pubDate>
-<georss:point>51.9090468875021 -2.07972871239997</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 20th August</title>
-<link>https://www.fixmystreet.com/report/8051215</link>
-<description>Give and take  28 days carriage way pothole 700x 300x40mm tarmac patch stats required number 4 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8051215&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8051215</guid>
-<pubDate>Wed, 20 Aug 2025 12:04:54 +0100</pubDate>
-<georss:point>51.9091186160584 -2.07998779140003</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 20th August</title>
-<link>https://www.fixmystreet.com/report/8051214</link>
-<description>Give and take  28 days carriage way pothole 700x 400x44mm tarmac patch stats required number 2 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8051214&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8051214</guid>
-<pubDate>Wed, 20 Aug 2025 12:04:54 +0100</pubDate>
-<georss:point>51.909127007132 -2.07987822808843</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8051785</guid>
+<pubDate>Wed, 20 Aug 2025 13:49:22 +0100</pubDate>
+<georss:point>51.903295598274 -2.06102215364373</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 20th August</title>
-<link>https://www.fixmystreet.com/report/8051217</link>
-<description>Give and take  28 day plus temporary footway closure footway abrupt level different  1800x1000x25mm  tarmac patch stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8051217&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/8051796</link>
+<description>Give and take  28 day plus temporary footway closure footway abrupt level different  please remove x1 raised 900x600x20mm slab replace with tarmac patch due to tree roots damage stats required number1 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8051796&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8051217</guid>
-<pubDate>Wed, 20 Aug 2025 12:04:54 +0100</pubDate>
-<georss:point>51.9085654 -2.07783880000001</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8051796</guid>
+<pubDate>Wed, 20 Aug 2025 13:49:22 +0100</pubDate>
+<georss:point>51.9033687859088 -2.06090165880398</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 20th August</title>
+<link>https://www.fixmystreet.com/report/8051798</link>
+<description>Give and take  28 day plus temporary footway closure footway abrupt level different  please remove x1 raised  600x600x20mm slab replace with tarmac patch due to tree roots damage stats required number 3 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8051798&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8051798</guid>
+<pubDate>Wed, 20 Aug 2025 13:49:22 +0100</pubDate>
+<georss:point>51.9033855 -2.06091870000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 20th August</title>
+<link>https://www.fixmystreet.com/report/8051793</link>
+<description>Give and take  28 day plus temporary footway closure footway abrupt level different  please remove x1 raised 900x600x20mm slab replace with tarmac patch due to tree roots damage stats required number4 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8051793&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8051793</guid>
+<pubDate>Wed, 20 Aug 2025 13:49:22 +0100</pubDate>
+<georss:point>51.9035026285039 -2.06083983973575</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 20th August</title>
+<link>https://www.fixmystreet.com/report/8051797</link>
+<description>Give and take  28 day plus temporary footway closure footway abrupt level different  please remove x1 raised broken 600x600x20mm slab replace with tarmac patch due to tree roots damage stats required number2 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8051797&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8051797</guid>
+<pubDate>Wed, 20 Aug 2025 13:49:22 +0100</pubDate>
+<georss:point>51.9033872922209 -2.06092598395763</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 20th August</title>
+<link>https://www.fixmystreet.com/report/8051795</link>
+<description>Give and take  28 day plus temporary footway closure footway abrupt level different  please remove x1 raised 750x600x20mm slab replace with tarmac patch due to tree roots damage stats required number 6 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8051795&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8051795</guid>
+<pubDate>Wed, 20 Aug 2025 13:49:22 +0100</pubDate>
+<georss:point>51.9035179377458 -2.06084578389714</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 20th August</title>
+<link>https://www.fixmystreet.com/report/8051789</link>
+<description>Give and take  28 day plus temporary footway closure footway abrupt level different  please remove x1 sunken 750x600x20mm slab replace with tarmac patch due to tree roots damage stats required number7 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8051789&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8051789</guid>
+<pubDate>Wed, 20 Aug 2025 13:49:22 +0100</pubDate>
+<georss:point>51.9035336618566 -2.0608414041938</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 20th August</title>
+<link>https://www.fixmystreet.com/report/8051794</link>
+<description>Give and take  28 day plus temporary footway closure footway abrupt level different  please remove x1 raised 750x600x20mm slab replace with tarmac patch due to tree roots damage stats required number5 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8051794&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8051794</guid>
+<pubDate>Wed, 20 Aug 2025 13:49:22 +0100</pubDate>
+<georss:point>51.9034952617857 -2.0608351079561</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 20th August</title>
+<link>https://www.fixmystreet.com/report/8051790</link>
+<description>Give and take  28 day plus temporary footway closure footway abrupt level different  please remove x1 sunken 900x600x20mm slab replace with tarmac patch due to tree roots damage stats required number1 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8051790&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8051790</guid>
+<pubDate>Wed, 20 Aug 2025 13:49:22 +0100</pubDate>
+<georss:point>51.9035202099822 -2.06081935581192</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 20th August</title>
+<link>https://www.fixmystreet.com/report/8051783</link>
+<description>NWD Give and take   plus temporary footway closure footway abrupt level different  in grass verge 2000x2000x50mm top soil needed (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8051783&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8051783</guid>
+<pubDate>Wed, 20 Aug 2025 13:49:22 +0100</pubDate>
+<georss:point>51.9033140575561 -2.06095454490713</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 20th August</title>
-<link>https://www.fixmystreet.com/report/8051216</link>
-<description>Give and take  28 days carriage way pothole 1700x 300x40mm tarmac patch stats required number 5 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8051216&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/8051787</link>
+<description>Give and take  28 days carriage way pothole 3000x600x40mm tarmac patch number 1 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8051787&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8051216</guid>
-<pubDate>Wed, 20 Aug 2025 12:04:54 +0100</pubDate>
-<georss:point>51.909122 -2.0800911</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8051787</guid>
+<pubDate>Wed, 20 Aug 2025 13:49:22 +0100</pubDate>
+<georss:point>51.9035622 -2.0608417</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 20th August</title>
-<link>https://www.fixmystreet.com/report/8051211</link>
-<description>Give and take  plus temporary footway closure  footway abrupt level different  1100x1100x30mm tarmac patch stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8051211&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/8051792</link>
+<description>Give and take  28 day plus temporary footway closure footway abrupt level different  please remove x1 raised 900x600x20mm slab replace with tarmac patch due to tree roots damage stats required number3 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8051792&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8051211</guid>
-<pubDate>Wed, 20 Aug 2025 12:04:54 +0100</pubDate>
-<georss:point>51.9089765019644 -2.07938718755571</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8051792</guid>
+<pubDate>Wed, 20 Aug 2025 13:49:22 +0100</pubDate>
+<georss:point>51.9035058090039 -2.06081575380722</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 20th August</title>
+<link>https://www.fixmystreet.com/report/8051799</link>
+<description>Give and take  28 day plus temporary footway closure footway abrupt level different  please remove x1 raised 750x600x20mm slab replace with tarmac patch due to tree roots damage stats required number 4 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8051799&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8051799</guid>
+<pubDate>Wed, 20 Aug 2025 13:49:22 +0100</pubDate>
+<georss:point>51.9033811 -2.06090920000001</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 20th August</title>
-<link>https://www.fixmystreet.com/report/8051213</link>
-<description>Give and take  28 days carriage way pothole 3400x 300x42mm tarmac patch stats required number 2 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8051213&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/8051788</link>
+<description>Give and take  28 days carriage way pothole 1800x600x40mm tarmac patch number 2 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8051788&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8051213</guid>
-<pubDate>Wed, 20 Aug 2025 12:04:54 +0100</pubDate>
-<georss:point>51.909065065025 -2.07976767437222</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8051788</guid>
+<pubDate>Wed, 20 Aug 2025 13:49:22 +0100</pubDate>
+<georss:point>51.9035897688876 -2.06086954912133</georss:point>
 </item>
 <item>
-<title>TMC - Defects - Footways Slabs problem, 20th August</title>
-<link>https://www.fixmystreet.com/report/8051210</link>
-<description>Give and take  28 day plus temporary footway closure footway abrupt level different  please remove x1 rocking   broken 600x600x25mm slab replace with tarmac patch stats required number 1 (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8051210&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Footways Slabs</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8051210</guid>
-<pubDate>Wed, 20 Aug 2025 12:04:20 +0100</pubDate>
-<georss:point>51.9065055612002 -2.07463078024722</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Road Markings problem, 20th August</title>
-<link>https://www.fixmystreet.com/report/8051205</link>
-<description>Road closure needed  28 day please refresh give way markings approximately  x23 600x250 dots and x2 3 metres lines (Faded Road Markings)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8051205&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Road Markings</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8051205</guid>
-<pubDate>Wed, 20 Aug 2025 12:04:20 +0100</pubDate>
-<georss:point>51.9061371 -2.0749489</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Kerbs and Channels problem, 20th August</title>
-<link>https://www.fixmystreet.com/report/8051201</link>
-<description>Give and take  28 days  please replace x1 broken sunken semi dropped right angle kerb stone 150x900x40mm stats required 10x5 (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8051201&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Kerbs and Channels</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8051201</guid>
-<pubDate>Wed, 20 Aug 2025 12:04:20 +0100</pubDate>
-<georss:point>51.9057772 -2.07513220000001</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 20th August</title>
-<link>https://www.fixmystreet.com/report/8051208</link>
-<description>Give and take  28 day plus temporary footway closure footway abrupt level different  please relay x 40  sunken blocks 1500x700x25mm  stats required number 2 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8051208&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8051208</guid>
-<pubDate>Wed, 20 Aug 2025 12:04:20 +0100</pubDate>
-<georss:point>51.9073736584755 -2.07405389991901</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Kerbs and Channels problem, 20th August</title>
-<link>https://www.fixmystreet.com/report/8051209</link>
-<description>Give and take  28 days  please replace x1 broken sunken kerb stone 150x900x42mm stats required (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8051209&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Kerbs and Channels</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8051209</guid>
-<pubDate>Wed, 20 Aug 2025 12:04:20 +0100</pubDate>
-<georss:point>51.9065478 -2.07461569999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 20th August</title>
-<link>https://www.fixmystreet.com/report/8051206</link>
-<description>Give and take  28 day plus temporary footway closure footway abrupt level different  600x300x28mm concrete fillet needed stats required number 1 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8051206&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8051206</guid>
-<pubDate>Wed, 20 Aug 2025 12:04:20 +0100</pubDate>
-<georss:point>51.9060094365288 -2.07494512121375</georss:point>
+<title>TMC - Defects -CW6 Potholes  problem, 20th August</title>
+<link>https://www.fixmystreet.com/report/8051784</link>
+<description>GIVE AND TAKE PLUS TEMPORARY 15  MINUTES DELAY BOARDS CARRIAGEWAY POTHOLE 600X400X60MM TARMAC PATCH STATS REQUIRED (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8051784&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8051784</guid>
+<pubDate>Wed, 20 Aug 2025 13:49:22 +0100</pubDate>
+<georss:point>51.9032653 -2.06102720000001</georss:point>
 </item>
 </channel>
 </rss>
