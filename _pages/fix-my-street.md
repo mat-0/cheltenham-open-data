@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Kerbs and Channels problem, 20th August :- [8049125](https://www.fixmystreet.com/report/8049125)
+- TMC - Defects - Other FW6  Surface problem, 20th August :- [8049124](https://www.fixmystreet.com/report/8049124)
 - Roadworks with traffic lights. No permit showing., 19th August :- [8048946](https://www.fixmystreet.com/report/8048946)
 - Street light out, 19th August :- [8048629](https://www.fixmystreet.com/report/8048629)
 - Graffiti is present, 19th August :- [8048582](https://www.fixmystreet.com/report/8048582)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 19th August :- [8046627](https://www.fixmystreet.com/report/8046627)
 - TMC - Defects - Vegetation problem, 19th August :- [8046484](https://www.fixmystreet.com/report/8046484)
 - TMC - Defects -FW6 Potholes problem, 19th August :- [8046483](https://www.fixmystreet.com/report/8046483)
-- TMC - Defects - Vegetation problem, 19th August :- [8046481](https://www.fixmystreet.com/report/8046481)
-- TMC - Defects - Vegetation problem, 19th August :- [8046480](https://www.fixmystreet.com/report/8046480)
 
 <!-- fix_marker ends -->
