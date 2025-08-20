@@ -10,10 +10,10 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Wednesday, 20 August 2025
 
-- The average temperature today is 13.91˚C,
-- With highs of 14.98˚C and lows of 13.07˚C,
-- It may feel like 13.24˚C with few clouds
-- The wind speed is 0.89m/s and visibility is 10000m
+- The average temperature today is 13.29˚C,
+- With highs of 13.29˚C and lows of 13.29˚C,
+- It may feel like 12.55˚C with scattered clouds
+- The wind speed is 3.45m/s and visibility is 10000m
 - The pressure is 1018hPa and humidity is 72%
 - The sun will rise at 05:01 and set at 19:22
 
