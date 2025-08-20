@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Massive open cracked pavement and lots of others along the same public path, 20th August :- [8053419](https://www.fixmystreet.com/report/8053419)
 - Incomplete/abandoned park, 20th August :- [8053301](https://www.fixmystreet.com/report/8053301)
 - The Footpath is fully blocked by a Maize crop, 20th August :- [8053168](https://www.fixmystreet.com/report/8053168)
 - Barriers , signs and cones on the pavement, 20th August :- [8053143](https://www.fixmystreet.com/report/8053143)
@@ -26,7 +27,6 @@ permalink: /fix-my-street
 - Post or sign leaning slightly (less than 20 degrees) problem, 20th August :- [8052372](https://www.fixmystreet.com/report/8052372)
 - TMC - Defects -CW6 Potholes  problem, 20th August :- [8052395](https://www.fixmystreet.com/report/8052395)
 - TMC - Defects -CW6 Potholes  problem, 20th August :- [8052396](https://www.fixmystreet.com/report/8052396)
-- TMC - Defects -CW6 Potholes  problem, 20th August :- [8052397](https://www.fixmystreet.com/report/8052397)
 - TMC - Defects -CW6 Potholes  problem, 20th August :- [8052393](https://www.fixmystreet.com/report/8052393)
 - TMC - Defects -CW6 Potholes  problem, 20th August :- [8052394](https://www.fixmystreet.com/report/8052394)
 
