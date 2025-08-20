@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -12,6 +12,51 @@
 <description>The latest local problems reported by users</description>
 <language>en-gb</language>
 
+<item>
+<title>TMC - Defects - Vegetation problem, 20th August</title>
+<link>https://www.fixmystreet.com/report/8050326</link>
+<description>Overgrown Hedge FW 10m  x 1m &amp;#10;Give and take TM With Temporary FW Closure &amp;#10;By 21&amp;#10;Clear off FW (Overgrown Hedge)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8050326&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Vegetation</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8050326</guid>
+<pubDate>Wed, 20 Aug 2025 10:11:57 +0100</pubDate>
+<georss:point>51.8470234 -2.18871010000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 20th August</title>
+<link>https://www.fixmystreet.com/report/8050321</link>
+<description>CW pothole 500mm x 400mm x 40mm &amp;#10;Give and Take TM &amp;#10;Just before number 43 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8050321&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8050321</guid>
+<pubDate>Wed, 20 Aug 2025 10:09:22 +0100</pubDate>
+<georss:point>51.9505443 -2.0606467</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 20th August</title>
+<link>https://www.fixmystreet.com/report/8050322</link>
+<description>CW pothole 500mm x 400mm x 40mm &amp;#10;Temporary Road Closure 15min db &amp;#10;Outside number 41 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8050322&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8050322</guid>
+<pubDate>Wed, 20 Aug 2025 10:09:22 +0100</pubDate>
+<georss:point>51.9506914 -2.0601991</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 20th August</title>
+<link>https://www.fixmystreet.com/report/8050102</link>
+<description>CW pothole 400mm x 300mm x 50mm &amp;#10;Temporary Road Closure 15min db &amp;#10;Outside Fresh Fields (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8050102&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8050102</guid>
+<pubDate>Wed, 20 Aug 2025 09:58:24 +0100</pubDate>
+<georss:point>51.949033 -2.05991179999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 20th August</title>
+<link>https://www.fixmystreet.com/report/8050095</link>
+<description>CW pothole 400mm x 400mm x 40mm &amp;#10;Temporary Road Closure 15min db &amp;#10;Outside number 40 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8050095&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8050095</guid>
+<pubDate>Wed, 20 Aug 2025 09:48:38 +0100</pubDate>
+<georss:point>51.94799 -2.05186610000001</georss:point>
+</item>
 <item>
 <title>2 Voi e scooters on pavement, 20th August</title>
 <link>https://www.fixmystreet.com/report/8049930</link>
@@ -22,6 +67,33 @@
 <georss:point>51.911657 -2.034338</georss:point>
 </item>
 <item>
+<title>TMC - Defects -CW6 Potholes  problem, 20th August</title>
+<link>https://www.fixmystreet.com/report/8050090</link>
+<description>CW pothole 600mm x 300mm x 40mm &amp;#10;Give and Take TM &amp;#10;Outside number 53 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8050090&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8050090</guid>
+<pubDate>Wed, 20 Aug 2025 09:39:15 +0100</pubDate>
+<georss:point>51.9448919 -2.0541202</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 20th August</title>
+<link>https://www.fixmystreet.com/report/8050089</link>
+<description>CW pothole 1000mm x 300mm x 40mm &amp;#10;Temporary Road Closure 15min db &amp;#10;Outside number 47 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8050089&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8050089</guid>
+<pubDate>Wed, 20 Aug 2025 09:39:15 +0100</pubDate>
+<georss:point>51.9449422 -2.0545539</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 20th August</title>
+<link>https://www.fixmystreet.com/report/8050088</link>
+<description>CW pothole 500mm x 400mm x 50mm &amp;#10;1 NSD &amp;#10;Stop and go TM &amp;#10;Junction of Fieldgate Road (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8050088&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8050088</guid>
+<pubDate>Wed, 20 Aug 2025 09:39:15 +0100</pubDate>
+<georss:point>51.9460196 -2.05661000000001</georss:point>
+</item>
+<item>
 <title>Large mirror to be put on cycle path at corner as blind spot, 20th August</title>
 <link>https://www.fixmystreet.com/report/8049837</link>
 <description>Blind spot on cycle path. A number of near misses with cyclists etc Even with going really slowly&amp;#10;&amp;#10;I believe a large mirror is needed so everyone can see at this corner Blind spot&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Liddington Road, Elmbridge, Gloucester&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8049837&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
@@ -29,6 +101,51 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/8049837</guid>
 <pubDate>Wed, 20 Aug 2025 09:33:52 +0100</pubDate>
 <georss:point>51.871807 -2.198797</georss:point>
+</item>
+<item>
+<title>TMC - Defects -other CW10 problem, 20th August</title>
+<link>https://www.fixmystreet.com/report/8050075</link>
+<description>Give and take  28 day  please lift and relay 22 sunken blocks 1200x1300x40mm stats required (CW10 Abrupt Level Differences )&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8050075&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -other CW10</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8050075</guid>
+<pubDate>Wed, 20 Aug 2025 09:25:41 +0100</pubDate>
+<georss:point>51.9092938 -2.07838559999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 20th August</title>
+<link>https://www.fixmystreet.com/report/8050079</link>
+<description>GIVE AND TAKE PLUS  15  MINUTES DELAY BOARDS carriage way pothole 300x 300x70mm tarmac patch stats required number 1 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8050079&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8050079</guid>
+<pubDate>Wed, 20 Aug 2025 09:25:41 +0100</pubDate>
+<georss:point>51.909096578698 -2.07766946619453</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Kerbs and Channels problem, 20th August</title>
+<link>https://www.fixmystreet.com/report/8050077</link>
+<description>Give and take  28 days  please replace x1 broken rocking kerb stone 150x900x30mm stats required (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8050077&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Kerbs and Channels</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8050077</guid>
+<pubDate>Wed, 20 Aug 2025 09:25:41 +0100</pubDate>
+<georss:point>51.9091819130012 -2.07789535522786</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 20th August</title>
+<link>https://www.fixmystreet.com/report/8050078</link>
+<description>NWD WITH GIVE AND TAKE PLUS  15  MINUTES DELAY BOARDS carriage way pothole 300x 300x70mm tarmac patch stats required number 1 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8050078&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8050078</guid>
+<pubDate>Wed, 20 Aug 2025 09:25:41 +0100</pubDate>
+<georss:point>51.9091104330406 -2.07762488180007</georss:point>
+</item>
+<item>
+<title>TMC - Defects -other CW10 problem, 20th August</title>
+<link>https://www.fixmystreet.com/report/8050076</link>
+<description>Give and take  28 day  please lift and relay 6 sunken blocks 900x600x40mm stats required (CW10 Abrupt Level Differences )&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8050076&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -other CW10</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8050076</guid>
+<pubDate>Wed, 20 Aug 2025 09:25:41 +0100</pubDate>
+<georss:point>51.9093210469722 -2.07826229246684</georss:point>
 </item>
 <item>
 <title>Under the by-pass on left hand side going towards Cheltenham rd - from Cheltenham rd East, 20th August</title>
@@ -74,123 +191,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/8049491</guid>
 <pubDate>Wed, 20 Aug 2025 08:19:22 +0100</pubDate>
 <georss:point>51.9121838 -2.07867940000001</georss:point>
-</item>
-<item>
-<title>No 10 light in Glenfall Way is out, 20th August</title>
-<link>https://www.fixmystreet.com/report/8049398</link>
-<description>Opposite entrance to hartlebury Way&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Glenfall Way, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8049398&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Street light is permanently out</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8049398</guid>
-<pubDate>Wed, 20 Aug 2025 08:16:43 +0100</pubDate>
-<georss:point>51.88603 -2.045509</georss:point>
-</item>
-<item>
-<title>Abandoned Van, 20th August</title>
-<link>https://www.fixmystreet.com/report/8049191</link>
-<description>The local garage seems to use the public carriageway as their personal storage area, this one has been here at least a week.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8049191.0.jpeg?b09553ea&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Churchill Road, Naunton, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8049191&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Abandoned vehicles</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8049191</guid>
-<pubDate>Wed, 20 Aug 2025 07:09:01 +0100</pubDate>
-<georss:point>51.883785 -2.073756</georss:point>
-</item>
-<item>
-<title>Abandoned Unlocked Car, 20th August</title>
-<link>https://www.fixmystreet.com/report/8049182</link>
-<description>Car has been here for at least a week and appears abandoned.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8049182.0.jpeg?31a50e97&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Churchill Road, Leckhampton, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8049182&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Abandoned vehicles</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8049182</guid>
-<pubDate>Wed, 20 Aug 2025 07:06:18 +0100</pubDate>
-<georss:point>51.884569 -2.073695</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 20th August</title>
-<link>https://www.fixmystreet.com/report/8049171</link>
-<description>FW ABRUPT LEVEL DIFFERENCE &amp;#10;STATS REQUIRED &amp;#10;PLEASE MAKE SAFE &amp;#10;150 X150 X 45mm&amp;#10;MARKED (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8049171&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8049171</guid>
-<pubDate>Wed, 20 Aug 2025 06:35:07 +0100</pubDate>
-<georss:point>51.8271367 -2.10512160000001</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Kerbs and Channels problem, 20th August</title>
-<link>https://www.fixmystreet.com/report/8049125</link>
-<description>15DB &amp;#10;PLEASE RESET KERB &amp;#10;STATS REQUIRED &amp;#10;X1&amp;#10;MARKED (FW Kerbing Defects)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8049125&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Kerbs and Channels</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8049125</guid>
-<pubDate>Wed, 20 Aug 2025 06:29:06 +0100</pubDate>
-<georss:point>51.8271352866912 -2.1051621137481</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 20th August</title>
-<link>https://www.fixmystreet.com/report/8049124</link>
-<description>FW DEPRESSION &amp;#10;STATS REQUIRED AROUND IRONWORKS &amp;#10;400 X 400 X 35mm&amp;#10;FOOTWAY CLOSURE &amp;#10;MARKED AS NUMBER 1 (FW6 Rutting&amp;amp;Depressions)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8049124&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8049124</guid>
-<pubDate>Wed, 20 Aug 2025 06:23:25 +0100</pubDate>
-<georss:point>51.82678 -2.10473100000001</georss:point>
-</item>
-<item>
-<title>Roadworks with traffic lights. No permit showing., 19th August</title>
-<link>https://www.fixmystreet.com/report/8048946</link>
-<description>Along Moorend Park Road.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 20, Moorend Park Road, Warden Hill, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8048946&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Unpermitted roadworks</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8048946</guid>
-<pubDate>Tue, 19 Aug 2025 23:16:42 +0100</pubDate>
-<georss:point>51.883884 -2.085394</georss:point>
-</item>
-<item>
-<title>Street light out, 19th August</title>
-<link>https://www.fixmystreet.com/report/8048629</link>
-<description>Street light directly outside no. 15 Oldbury road. hasn&amp;#39;t been working for 2 nights&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8048629.0.jpeg?25fa48fe&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 17, Oldbury Road, Kingsditch, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8048629&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Street light is permanently out</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8048629</guid>
-<pubDate>Tue, 19 Aug 2025 21:16:04 +0100</pubDate>
-<georss:point>51.907391 -2.116054</georss:point>
-</item>
-<item>
-<title>Graffiti is present, 19th August</title>
-<link>https://www.fixmystreet.com/report/8048582</link>
-<description>On the shelter&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8048582.0.jpeg?e8d17577&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 215, Hucclecote Road, Brockworth, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8048582&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Bus stop/shelter issue</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8048582</guid>
-<pubDate>Tue, 19 Aug 2025 20:59:04 +0100</pubDate>
-<georss:point>51.848803 -2.168128</georss:point>
-</item>
-<item>
-<title>Overflowing bin, 19th August</title>
-<link>https://www.fixmystreet.com/report/8048577</link>
-<description>Overflowing bin no lid&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8048577.0.jpeg?c5a56f2c&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 215, Hucclecote Road, Brockworth, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8048577&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Rubbish (refuse and recycling)</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8048577</guid>
-<pubDate>Tue, 19 Aug 2025 20:57:49 +0100</pubDate>
-<georss:point>51.848803 -2.168128</georss:point>
-</item>
-<item>
-<title>Tipping of waste garden cuttings and branches, 19th August</title>
-<link>https://www.fixmystreet.com/report/8048559</link>
-<description>Wellington Lane outside Rosehill House and behind Anlaby Court garages. I can not get my car out of my garage due this obstructing the road. It is also blowing around now and some of it is in the road and in front of my garage. Please can this be removed as last time this happened it was followed by more as people just see it as a dumping place. It has been there for over two weeks now and the more it dries out the more is blowing around. There are rats there as well and I don’t want them nesting outside my gate where my dog might get bitten.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8048559.0.jpeg?0baa8ced&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Wellington Lane, Marle Hill, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8048559&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Flytipping</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8048559</guid>
-<pubDate>Tue, 19 Aug 2025 20:50:45 +0100</pubDate>
-<georss:point>51.907101 -2.070387</georss:point>
-</item>
-<item>
-<title>Pothole on pavement trip hazzard, 19th August</title>
-<link>https://www.fixmystreet.com/report/8048347</link>
-<description>By 26 st Michael’s road&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8048347.0.jpeg?d093c935&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 26, Saint Michaels Road, Warden Hill, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8048347&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in pavement</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8048347</guid>
-<pubDate>Tue, 19 Aug 2025 19:44:31 +0100</pubDate>
-<georss:point>51.882908 -2.094234</georss:point>
-</item>
-<item>
-<title>Potentially dangerous tree, 19th August</title>
-<link>https://www.fixmystreet.com/report/8047973</link>
-<description>At the junction between Hatherley Lane and Wade Court there is a small wooded area with mature trees. One of those trees has today had a large branch split off and fall into my garden. The tree itself seems very unsteady, and I am worried that it might be in danger of falling. It also touches the side of my house&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Hatherley Lane, Hatherley, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8047973&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Trees</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8047973</guid>
-<pubDate>Tue, 19 Aug 2025 18:16:27 +0100</pubDate>
-<georss:point>51.891084 -2.126391</georss:point>
 </item>
 </channel>
 </rss>
