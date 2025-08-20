@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 2 Voi e scooters on pavement, 20th August :- [8049930](https://www.fixmystreet.com/report/8049930)
+- Large mirror to be put on cycle path at corner as blind spot, 20th August :- [8049837](https://www.fixmystreet.com/report/8049837)
+- Under the by-pass on left hand side going towards Cheltenham rd - from Cheltenham rd East, 20th August :- [8049737](https://www.fixmystreet.com/report/8049737)
+- Vehicle abandoned for several months, 20th August :- [8049657](https://www.fixmystreet.com/report/8049657)
 - Pathway is worn down in several places, 20th August :- [8049576](https://www.fixmystreet.com/report/8049576)
 - Street light number 12 is not working, 20th August :- [8049474](https://www.fixmystreet.com/report/8049474)
 - TMC - Defects - Vegetation problem, 20th August :- [8049491](https://www.fixmystreet.com/report/8049491)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Tipping of waste garden cuttings and branches, 19th August :- [8048559](https://www.fixmystreet.com/report/8048559)
 - Pothole on pavement trip hazzard, 19th August :- [8048347](https://www.fixmystreet.com/report/8048347)
 - Potentially dangerous tree, 19th August :- [8047973](https://www.fixmystreet.com/report/8047973)
-- Badly parked vehicles need urgent attention, 19th August :- [8047340](https://www.fixmystreet.com/report/8047340)
-- Car wheel and tyre, 19th August :- [8047324](https://www.fixmystreet.com/report/8047324)
-- TMC - Defects - Vegetation problem, 19th August :- [8047374](https://www.fixmystreet.com/report/8047374)
-- Overgrown hedgerow, 19th August :- [8047145](https://www.fixmystreet.com/report/8047145)
 
 <!-- fix_marker ends -->
