@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pathway is worn down in several places, 20th August :- [8049576](https://www.fixmystreet.com/report/8049576)
+- Street light number 12 is not working, 20th August :- [8049474](https://www.fixmystreet.com/report/8049474)
+- TMC - Defects - Vegetation problem, 20th August :- [8049491](https://www.fixmystreet.com/report/8049491)
+- No 10 light in Glenfall Way is out, 20th August :- [8049398](https://www.fixmystreet.com/report/8049398)
 - Abandoned Van, 20th August :- [8049191](https://www.fixmystreet.com/report/8049191)
 - Abandoned Unlocked Car, 20th August :- [8049182](https://www.fixmystreet.com/report/8049182)
 - TMC - Defects - Other FW6  Surface problem, 20th August :- [8049171](https://www.fixmystreet.com/report/8049171)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Car wheel and tyre, 19th August :- [8047324](https://www.fixmystreet.com/report/8047324)
 - TMC - Defects - Vegetation problem, 19th August :- [8047374](https://www.fixmystreet.com/report/8047374)
 - Overgrown hedgerow, 19th August :- [8047145](https://www.fixmystreet.com/report/8047145)
-- TMC - Defects -FW6 Potholes problem, 19th August :- [8047197](https://www.fixmystreet.com/report/8047197)
-- TMC - Defects -other CW6 problem, 19th August :- [8047001](https://www.fixmystreet.com/report/8047001)
-- TMC - Defects -other CW6 problem, 19th August :- [8047000](https://www.fixmystreet.com/report/8047000)
-- TMC - Defects - Covers, Gratings & Frames problem, 19th August :- [8046847](https://www.fixmystreet.com/report/8046847)
 
 <!-- fix_marker ends -->
