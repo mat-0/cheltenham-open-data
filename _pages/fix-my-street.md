@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Abandoned Van, 20th August :- [8049191](https://www.fixmystreet.com/report/8049191)
+- Abandoned Unlocked Car, 20th August :- [8049182](https://www.fixmystreet.com/report/8049182)
+- TMC - Defects - Other FW6  Surface problem, 20th August :- [8049171](https://www.fixmystreet.com/report/8049171)
 - TMC - Defects - Kerbs and Channels problem, 20th August :- [8049125](https://www.fixmystreet.com/report/8049125)
 - TMC - Defects - Other FW6  Surface problem, 20th August :- [8049124](https://www.fixmystreet.com/report/8049124)
 - Roadworks with traffic lights. No permit showing., 19th August :- [8048946](https://www.fixmystreet.com/report/8048946)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -other CW6 problem, 19th August :- [8047001](https://www.fixmystreet.com/report/8047001)
 - TMC - Defects -other CW6 problem, 19th August :- [8047000](https://www.fixmystreet.com/report/8047000)
 - TMC - Defects - Covers, Gratings & Frames problem, 19th August :- [8046847](https://www.fixmystreet.com/report/8046847)
-- TMC - Defects - Other FW6  Surface problem, 19th August :- [8046627](https://www.fixmystreet.com/report/8046627)
-- TMC - Defects - Vegetation problem, 19th August :- [8046484](https://www.fixmystreet.com/report/8046484)
-- TMC - Defects -FW6 Potholes problem, 19th August :- [8046483](https://www.fixmystreet.com/report/8046483)
 
 <!-- fix_marker ends -->
