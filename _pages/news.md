@@ -12,14 +12,14 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Aid worker returns to base where he hid from bullets ([9 hours ago](https://www.bbc.com/news/articles/cly4v487vk7o?at_medium=RSS&at_campaign=rss))
-- Builder accused of fraud told 'barefaced lies' ([9 hours ago](https://www.bbc.com/news/articles/cx29g3jy1j1o?at_medium=RSS&at_campaign=rss))
+- Aid worker returns to base where he hid from bullets ([10 hours ago](https://www.bbc.com/news/articles/cly4v487vk7o?at_medium=RSS&at_campaign=rss))
+- Builder accused of fraud told 'barefaced lies' ([10 hours ago](https://www.bbc.com/news/articles/cx29g3jy1j1o?at_medium=RSS&at_campaign=rss))
 - Cheltenham man launches ‘Miles for Katy’ year of challenges in memory of wife ([11 hours ago](https://gloucesternewscentre.co.uk/cheltenham-man-launches-miles-for-katy-year-of-challenges-in-memory-of-wife/))
 - Thumbs up for Bishop’s Cleeve Aldi plans ([11 hours ago](https://gloucesternewscentre.co.uk/thumbs-up-for-bishops-cleeve-aldi-plans/))
-- Wellbeing walking maps to encourage green travel ([13 hours ago](https://www.bbc.com/news/articles/cdxyzkrj7vgo?at_medium=RSS&at_campaign=rss))
+- Wellbeing walking maps to encourage green travel ([14 hours ago](https://www.bbc.com/news/articles/cdxyzkrj7vgo?at_medium=RSS&at_campaign=rss))
 - Late summer bank holiday waste and recycling collections ([15 hours ago](https://www.cheltenham.gov.uk/news/article/3042/late_summer_bank_holiday_waste_and_recycling_collections))
 - 'Police seize e-scooter' and 'overflowing student bins' ([15 hours ago](https://www.bbc.com/news/articles/c79l53058gyo?at_medium=RSS&at_campaign=rss))
-- Police using drones to hunt down illegal e-scooters ([18 hours ago](https://www.bbc.com/news/articles/ceqyzp87dj9o?at_medium=RSS&at_campaign=rss))
+- Police using drones to hunt down illegal e-scooters ([19 hours ago](https://www.bbc.com/news/articles/ceqyzp87dj9o?at_medium=RSS&at_campaign=rss))
 - What next for this deprived community in Gloucester? ([22 hours ago](https://www.bbc.com/news/articles/cj4w1rg9gg5o?at_medium=RSS&at_campaign=rss))
 - Art charity 'buzzing' about opening of new £75m campus ([1 days ago](https://www.bbc.com/news/articles/c8rym6jxlggo?at_medium=RSS&at_campaign=rss))
 - Council launches £400k fund to support local community projects ([1 days ago](https://gloucesternewscentre.co.uk/council-launches-400k-fund-to-support-local-community-projects/))
