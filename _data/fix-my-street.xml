@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -122,19 +122,19 @@
 </item>
 <item>
 <title>TMC - Defects -other CW6 problem, 19th August</title>
-<link>https://www.fixmystreet.com/report/8047000</link>
-<description>NWD Give and take PLUS  15. MINUTES DELAY BOARDS   carriage way depression 1000x 600x 60 mm tarmac patch make safe (CW6 Rutting&amp;amp;Depressions)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8047000&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/8047001</link>
+<description>Lane closure    28 day carriage way depression 1000x 600x 60 mm tarmac patch stats required (CW6 Rutting&amp;amp;Depressions)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8047001&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -other CW6</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8047000</guid>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8047001</guid>
 <pubDate>Tue, 19 Aug 2025 14:45:07 +0100</pubDate>
 <georss:point>51.8986087 -2.0776817</georss:point>
 </item>
 <item>
 <title>TMC - Defects -other CW6 problem, 19th August</title>
-<link>https://www.fixmystreet.com/report/8047001</link>
-<description>Lane closure    28 day carriage way depression 1000x 600x 60 mm tarmac patch stats required (CW6 Rutting&amp;amp;Depressions)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8047001&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/8047000</link>
+<description>NWD Give and take PLUS  15. MINUTES DELAY BOARDS   carriage way depression 1000x 600x 60 mm tarmac patch make safe (CW6 Rutting&amp;amp;Depressions)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8047000&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -other CW6</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8047001</guid>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8047000</guid>
 <pubDate>Tue, 19 Aug 2025 14:45:07 +0100</pubDate>
 <georss:point>51.8986087 -2.0776817</georss:point>
 </item>
