@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Thames dries up just miles from Cotswolds source ([4 hours ago](https://www.bbc.com/news/articles/crev0gy87njo?at_medium=RSS&at_campaign=rss))
-- Foodbank manager surprised at high demand for service ([8 hours ago](https://www.bbc.com/news/articles/cjw6z53wl1lo?at_medium=RSS&at_campaign=rss))
-- Fire service refills penguin pools after heatwave ([9 hours ago](https://www.bbc.com/news/articles/cm2v8d497evo?at_medium=RSS&at_campaign=rss))
-- 'Donkey funeral procession' and 'tandem skydives' ([11 hours ago](https://www.bbc.com/news/articles/cgjyze2j5n4o?at_medium=RSS&at_campaign=rss))
-- Historic Charterist village at risk of development ([17 hours ago](https://www.bbc.com/news/articles/cn721dx1p5xo?at_medium=RSS&at_campaign=rss))
-- Young carers discover love for planes at aviation day ([17 hours ago](https://www.bbc.com/news/articles/c5ykq0w1jxko?at_medium=RSS&at_campaign=rss))
+- Thames dries up just miles from Cotswolds source ([5 hours ago](https://www.bbc.com/news/articles/crev0gy87njo?at_medium=RSS&at_campaign=rss))
+- Foodbank manager surprised at high demand for service ([9 hours ago](https://www.bbc.com/news/articles/cjw6z53wl1lo?at_medium=RSS&at_campaign=rss))
+- Fire service refills penguin pools after heatwave ([10 hours ago](https://www.bbc.com/news/articles/cm2v8d497evo?at_medium=RSS&at_campaign=rss))
+- 'Donkey funeral procession' and 'tandem skydives' ([12 hours ago](https://www.bbc.com/news/articles/cgjyze2j5n4o?at_medium=RSS&at_campaign=rss))
+- Historic Charterist village at risk of development ([18 hours ago](https://www.bbc.com/news/articles/cn721dx1p5xo?at_medium=RSS&at_campaign=rss))
+- Young carers discover love for planes at aviation day ([18 hours ago](https://www.bbc.com/news/articles/c5ykq0w1jxko?at_medium=RSS&at_campaign=rss))
 - Aid worker returns to base where he hid from bullets ([1 days ago](https://www.bbc.com/news/articles/cly4v487vk7o?at_medium=RSS&at_campaign=rss))
 - Builder accused of fraud told 'barefaced lies' ([1 days ago](https://www.bbc.com/news/articles/cx29g3jy1j1o?at_medium=RSS&at_campaign=rss))
 - Ex-Gloucester winger left NFL after 'wasting his talent' ([1 days ago](https://www.bbc.com/sport/rugby-union/articles/cdx0g0z0xp0o?at_medium=RSS&at_campaign=rss))
