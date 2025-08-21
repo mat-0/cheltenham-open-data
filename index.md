@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Thursday, 21 August 2025
 
-- The average temperature today is 19.96˚C,
-- With highs of 20.54˚C and lows of 19.28˚C,
-- It may feel like 19.21˚C with scattered clouds
-- The wind speed is 2.68m/s and visibility is 10000m
-- The pressure is 1019hPa and humidity is 46%
+- The average temperature today is 20.21˚C,
+- With highs of 21.09˚C and lows of 19.73˚C,
+- It may feel like 19.46˚C with few clouds
+- The wind speed is 2.57m/s and visibility is 10000m
+- The pressure is 1019hPa and humidity is 45%
 - The sun will rise at 05:02 and set at 19:20
 
 <!-- weather_marker ends -->

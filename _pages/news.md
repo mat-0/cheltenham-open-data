@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Community was 'reason to keep going' after lorry crash - councillor ([3 hours ago](https://www.bbc.com/news/articles/cvgv82ln4xmo?at_medium=RSS&at_campaign=rss))
-- 'Hedgehogs with heatstroke' and 'Miss KFC's funeral' ([4 hours ago](https://www.bbc.com/news/articles/c30zrzllq6eo?at_medium=RSS&at_campaign=rss))
-- 'Enormous' shopping outlet car park plan rejected ([8 hours ago](https://www.bbc.com/news/articles/cj3l2dk6j24o?at_medium=RSS&at_campaign=rss))
-- 'Martial arts help me cope with Parkinson's' ([8 hours ago](https://www.bbc.com/news/articles/c0j9d9631lxo?at_medium=RSS&at_campaign=rss))
-- Thames dries up just miles from Cotswolds source ([19 hours ago](https://www.bbc.com/news/articles/crev0gy87njo?at_medium=RSS&at_campaign=rss))
-- Foodbank manager surprised at high demand for service ([23 hours ago](https://www.bbc.com/news/articles/cjw6z53wl1lo?at_medium=RSS&at_campaign=rss))
+- Community was 'reason to keep going' after lorry crash - councillor ([4 hours ago](https://www.bbc.com/news/articles/cvgv82ln4xmo?at_medium=RSS&at_campaign=rss))
+- 'Hedgehogs with heatstroke' and 'Miss KFC's funeral' ([5 hours ago](https://www.bbc.com/news/articles/c30zrzllq6eo?at_medium=RSS&at_campaign=rss))
+- 'Enormous' shopping outlet car park plan rejected ([9 hours ago](https://www.bbc.com/news/articles/cj3l2dk6j24o?at_medium=RSS&at_campaign=rss))
+- 'Martial arts help me cope with Parkinson's' ([9 hours ago](https://www.bbc.com/news/articles/c0j9d9631lxo?at_medium=RSS&at_campaign=rss))
+- Thames dries up just miles from Cotswolds source ([20 hours ago](https://www.bbc.com/news/articles/crev0gy87njo?at_medium=RSS&at_campaign=rss))
+- Foodbank manager surprised at high demand for service ([1 days ago](https://www.bbc.com/news/articles/cjw6z53wl1lo?at_medium=RSS&at_campaign=rss))
 - Fire service refills penguin pools after heatwave ([1 days ago](https://www.bbc.com/news/articles/cm2v8d497evo?at_medium=RSS&at_campaign=rss))
 - 'Donkey funeral procession' and 'tandem skydives' ([1 days ago](https://www.bbc.com/news/articles/cgjyze2j5n4o?at_medium=RSS&at_campaign=rss))
 - Historic Charterist village at risk of development ([1 days ago](https://www.bbc.com/news/articles/cn721dx1p5xo?at_medium=RSS&at_campaign=rss))
