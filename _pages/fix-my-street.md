@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Lamp post is not working, 21st August :- [8058453](https://www.fixmystreet.com/report/8058453)
 - Graffiti on cream wall at side of a house, 21st August :- [8058439](https://www.fixmystreet.com/report/8058439)
 - Flytipping of builders waste, 21st August :- [8058433](https://www.fixmystreet.com/report/8058433)
 - Rusted round road works sign left propped up against the wall on the pavement of Barnwood Road opposite bus stop going towards Longlevens., 21st August :- [8058390](https://www.fixmystreet.com/report/8058390)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Other damage to pavement i.e. cobbles, raised mound/surface problem, 21st August :- [8057233](https://www.fixmystreet.com/report/8057233)
 - Pot hole near to kerbside, 21st August :- [8057148](https://www.fixmystreet.com/report/8057148)
 - Over grown hedges, 21st August :- [8057124](https://www.fixmystreet.com/report/8057124)
-- Weeds all along road and pathways, 21st August :- [8056986](https://www.fixmystreet.com/report/8056986)
 
 <!-- fix_marker ends -->
