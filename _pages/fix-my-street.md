@@ -9,10 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pollution from local Landry, 21st August :- [8054861](https://www.fixmystreet.com/report/8054861)
 - Various broken slabs also a severe dip in the pavement making it dangerous for walking, 21st August :- [8054718](https://www.fixmystreet.com/report/8054718)
 - TMC - Defects - Signs & Street Furniture problem, 21st August :- [8054687](https://www.fixmystreet.com/report/8054687)
-- TMC - Defects -CW6 Potholes  problem, 21st August :- [8054683](https://www.fixmystreet.com/report/8054683)
 - TMC - Defects -CW6 Potholes  problem, 21st August :- [8054682](https://www.fixmystreet.com/report/8054682)
+- TMC - Defects -CW6 Potholes  problem, 21st August :- [8054683](https://www.fixmystreet.com/report/8054683)
 - TMC - Defects -CW6 Potholes  problem, 21st August :- [8054681](https://www.fixmystreet.com/report/8054681)
 - Flytipping at entrance to park Hanover St, 21st August :- [8054564](https://www.fixmystreet.com/report/8054564)
 - Flag tied to streetlight, 21st August :- [8054551](https://www.fixmystreet.com/report/8054551)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Multiple wide potholes on Shakespeare road, 20th August :- [8052927](https://www.fixmystreet.com/report/8052927)
 - Abandoned upturned road works sign, 20th August :- [8052915](https://www.fixmystreet.com/report/8052915)
 - Broken green roadside box, 20th August :- [8052901](https://www.fixmystreet.com/report/8052901)
-- Gas cylinder, 20th August :- [8052733](https://www.fixmystreet.com/report/8052733)
 
 <!-- fix_marker ends -->
