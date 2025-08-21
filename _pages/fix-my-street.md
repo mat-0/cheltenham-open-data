@@ -9,10 +9,15 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Traffic light is green for less than 1 second, 21st August :- [8057826](https://www.fixmystreet.com/report/8057826)
+- Traffic Light is green for approx 2 seconds. Only 1 car can get through before turning red. Tailbacks to the other end of Christchurch road because of it. People are going through on red and accident waiting to happen, 21st August :- [8057812](https://www.fixmystreet.com/report/8057812)
+- Subsidence Ryeworth Road, 21st August :- [8057788](https://www.fixmystreet.com/report/8057788)
+- Pavement damaged, 21st August :- [8057688](https://www.fixmystreet.com/report/8057688)
 - Several black litter bags outside the gate to Hucclecote Meadows SSSI, 21st August :- [8057625](https://www.fixmystreet.com/report/8057625)
 - Tree very large, 21st August :- [8057614](https://www.fixmystreet.com/report/8057614)
 - Damaged drain cover, 21st August :- [8057587](https://www.fixmystreet.com/report/8057587)
 - The condition of the road surface in Church Lane is exceptionally poor. It is more than just potholes, and the whole surface is now crumbling and breaking., 21st August :- [8057436](https://www.fixmystreet.com/report/8057436)
+- Blocking visibility on road/junction (Grass/verge) problem, 21st August :- [8057709](https://www.fixmystreet.com/report/8057709)
 - Waymarker removed from gate and path obstructed, 21st August :- [8057219](https://www.fixmystreet.com/report/8057219)
 - The whole stretch of Brockhampton Lane from the barriers to The Hyde lane end is in a terrible state. The road is extremely uneven. The most recent repairs are pathetic. There’s a length of tarmac been placed which in itself is extremely uneven, the edges have given way already and the huge dip beyond was untouched and the repair finished to that., 21st August :- [8057195](https://www.fixmystreet.com/report/8057195)
 - Tarmac Path needs cracks filling, 21st August :- [8057176](https://www.fixmystreet.com/report/8057176)
@@ -22,12 +27,7 @@ permalink: /fix-my-street
 - Over grown hedges, 21st August :- [8057124](https://www.fixmystreet.com/report/8057124)
 - Weeds all along road and pathways, 21st August :- [8056986](https://www.fixmystreet.com/report/8056986)
 - Unpermitted roadworks problem, 21st August :- [8057052](https://www.fixmystreet.com/report/8057052)
-- TMC - Defects - Other FW6  Surface problem, 21st August :- [8057064](https://www.fixmystreet.com/report/8057064)
 - TMC - Defects - Other FW6  Surface problem, 21st August :- [8057065](https://www.fixmystreet.com/report/8057065)
-- TMC - Defects - Vegetation problem, 21st August :- [8056743](https://www.fixmystreet.com/report/8056743)
-- Bike Lane not fit for pupose, 21st August :- [8056626](https://www.fixmystreet.com/report/8056626)
-- Broken sign, 21st August :- [8056366](https://www.fixmystreet.com/report/8056366)
-- Unpermitted roadworks problem, 21st August :- [8056405](https://www.fixmystreet.com/report/8056405)
-- Whole road surface in an unsafe condition, 21st August :- [8056004](https://www.fixmystreet.com/report/8056004)
+- TMC - Defects - Other FW6  Surface problem, 21st August :- [8057064](https://www.fixmystreet.com/report/8057064)
 
 <!-- fix_marker ends -->
