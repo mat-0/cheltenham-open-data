@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Weeds all along road and pathways, 21st August :- [8056986](https://www.fixmystreet.com/report/8056986)
 - TMC - Defects - Vegetation problem, 21st August :- [8056743](https://www.fixmystreet.com/report/8056743)
 - Bike Lane not fit for pupose, 21st August :- [8056626](https://www.fixmystreet.com/report/8056626)
 - Broken sign, 21st August :- [8056366](https://www.fixmystreet.com/report/8056366)
@@ -23,11 +24,10 @@ permalink: /fix-my-street
 - Many potholes in arkle close turning point, 21st August :- [8055711](https://www.fixmystreet.com/report/8055711)
 - The drain is blocked problem, 21st August :- [8055621](https://www.fixmystreet.com/report/8055621)
 - TMC - Defects -CW6 Potholes  problem, 21st August :- [8055628](https://www.fixmystreet.com/report/8055628)
+- TMC - Defects -CW6 Potholes  problem, 21st August :- [8055625](https://www.fixmystreet.com/report/8055625)
 - TMC - Defects -CW6 Potholes  problem, 21st August :- [8055623](https://www.fixmystreet.com/report/8055623)
 - TMC - Defects -CW6 Potholes  problem, 21st August :- [8055624](https://www.fixmystreet.com/report/8055624)
-- TMC - Defects -CW6 Potholes  problem, 21st August :- [8055625](https://www.fixmystreet.com/report/8055625)
-- TMC - Defects -CW6 Potholes  problem, 21st August :- [8055389](https://www.fixmystreet.com/report/8055389)
 - TMC - Defects -other CW6 problem, 21st August :- [8055392](https://www.fixmystreet.com/report/8055392)
-- TMC - Defects -other CW6 problem, 21st August :- [8055391](https://www.fixmystreet.com/report/8055391)
+- TMC - Defects -CW6 Potholes  problem, 21st August :- [8055390](https://www.fixmystreet.com/report/8055390)
 
 <!-- fix_marker ends -->
