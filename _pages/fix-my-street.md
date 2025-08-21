@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Graffiti on cream wall at side of a house, 21st August :- [8058439](https://www.fixmystreet.com/report/8058439)
+- Flytipping of builders waste, 21st August :- [8058433](https://www.fixmystreet.com/report/8058433)
+- Rusted round road works sign left propped up against the wall on the pavement of Barnwood Road opposite bus stop going towards Longlevens., 21st August :- [8058390](https://www.fixmystreet.com/report/8058390)
 - Traffic light is green for less than 1 second, 21st August :- [8057826](https://www.fixmystreet.com/report/8057826)
 - Traffic Light is green for approx 2 seconds. Only 1 car can get through before turning red. Tailbacks to the other end of Christchurch road because of it. People are going through on red and accident waiting to happen, 21st August :- [8057812](https://www.fixmystreet.com/report/8057812)
 - Subsidence Ryeworth Road, 21st August :- [8057788](https://www.fixmystreet.com/report/8057788)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Pot hole near to kerbside, 21st August :- [8057148](https://www.fixmystreet.com/report/8057148)
 - Over grown hedges, 21st August :- [8057124](https://www.fixmystreet.com/report/8057124)
 - Weeds all along road and pathways, 21st August :- [8056986](https://www.fixmystreet.com/report/8056986)
-- Unpermitted roadworks problem, 21st August :- [8057052](https://www.fixmystreet.com/report/8057052)
-- TMC - Defects - Other FW6  Surface problem, 21st August :- [8057065](https://www.fixmystreet.com/report/8057065)
-- TMC - Defects - Other FW6  Surface problem, 21st August :- [8057064](https://www.fixmystreet.com/report/8057064)
 
 <!-- fix_marker ends -->
