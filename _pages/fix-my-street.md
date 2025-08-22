@@ -9,16 +9,17 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- A st Georges Cross has been painted over the mini roundabout and on the approach chevronss, 22nd August :- [8061672](https://www.fixmystreet.com/report/8061672)
 - 4 barriers abandoned by contractors, 22nd August :- [8061611](https://www.fixmystreet.com/report/8061611)
 - Overgrown footpath, 22nd August :- [8061563](https://www.fixmystreet.com/report/8061563)
 - TMC - Defects - Kerbs and Channels problem, 22nd August :- [8061511](https://www.fixmystreet.com/report/8061511)
 - TMC - Defects - Kerbs and Channels problem, 22nd August :- [8061509](https://www.fixmystreet.com/report/8061509)
-- TMC - Defects - Kerbs and Channels problem, 22nd August :- [8061503](https://www.fixmystreet.com/report/8061503)
 - TMC - Defects - Kerbs and Channels problem, 22nd August :- [8061502](https://www.fixmystreet.com/report/8061502)
-- TMC - Defects - Kerbs and Channels problem, 22nd August :- [8061506](https://www.fixmystreet.com/report/8061506)
+- TMC - Defects - Kerbs and Channels problem, 22nd August :- [8061503](https://www.fixmystreet.com/report/8061503)
 - TMC - Defects - Kerbs and Channels problem, 22nd August :- [8061507](https://www.fixmystreet.com/report/8061507)
-- TMC - Defects - Kerbs and Channels problem, 22nd August :- [8061504](https://www.fixmystreet.com/report/8061504)
 - TMC - Defects - Kerbs and Channels problem, 22nd August :- [8061505](https://www.fixmystreet.com/report/8061505)
+- TMC - Defects - Kerbs and Channels problem, 22nd August :- [8061504](https://www.fixmystreet.com/report/8061504)
+- TMC - Defects - Kerbs and Channels problem, 22nd August :- [8061506](https://www.fixmystreet.com/report/8061506)
 - TMC - Defects - Kerbs and Channels problem, 22nd August :- [8061497](https://www.fixmystreet.com/report/8061497)
 - TMC - Defects - Kerbs and Channels problem, 22nd August :- [8061498](https://www.fixmystreet.com/report/8061498)
 - TMC - Defects - Kerbs and Channels problem, 22nd August :- [8061496](https://www.fixmystreet.com/report/8061496)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Road Markings problem, 22nd August :- [8061187](https://www.fixmystreet.com/report/8061187)
 - TMC - Defects - Other FW6  Surface problem, 22nd August :- [8061183](https://www.fixmystreet.com/report/8061183)
 - TMC - Defects - Kerbs and Channels problem, 22nd August :- [8061182](https://www.fixmystreet.com/report/8061182)
-- TMC - Defects - Other FW6  Surface problem, 22nd August :- [8061184](https://www.fixmystreet.com/report/8061184)
 
 <!-- fix_marker ends -->
