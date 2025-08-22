@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree replacement, 22nd August :- [8059679](https://www.fixmystreet.com/report/8059679)
+- Tree replacement required, 22nd August :- [8059637](https://www.fixmystreet.com/report/8059637)
 - Bollard on traffic island not working, 22nd August :- [8059249](https://www.fixmystreet.com/report/8059249)
 - 20MPH sign not illuminated, 22nd August :- [8059233](https://www.fixmystreet.com/report/8059233)
 - Outside number 7, 22nd August :- [8059136](https://www.fixmystreet.com/report/8059136)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - The condition of the road surface in Church Lane is exceptionally poor. It is more than just potholes, and the whole surface is now crumbling and breaking., 21st August :- [8057436](https://www.fixmystreet.com/report/8057436)
 - Blocking visibility on road/junction (Grass/verge) problem, 21st August :- [8057709](https://www.fixmystreet.com/report/8057709)
 - Waymarker removed from gate and path obstructed, 21st August :- [8057219](https://www.fixmystreet.com/report/8057219)
-- The whole stretch of Brockhampton Lane from the barriers to The Hyde lane end is in a terrible state. The road is extremely uneven. The most recent repairs are pathetic. There’s a length of tarmac been placed which in itself is extremely uneven, the edges have given way already and the huge dip beyond was untouched and the repair finished to that., 21st August :- [8057195](https://www.fixmystreet.com/report/8057195)
-- Tarmac Path needs cracks filling, 21st August :- [8057176](https://www.fixmystreet.com/report/8057176)
 
 <!-- fix_marker ends -->
