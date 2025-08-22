@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Kerb protrudes as pavement is eroded - tripping hazard, 22nd August :- [8059937](https://www.fixmystreet.com/report/8059937)
+- Litter spread along verges, 22nd August :- [8059873](https://www.fixmystreet.com/report/8059873)
+- TMC - Defects - Signs & Street Furniture problem, 22nd August :- [8059826](https://www.fixmystreet.com/report/8059826)
 - Tree replacement, 22nd August :- [8059679](https://www.fixmystreet.com/report/8059679)
 - Tree replacement required, 22nd August :- [8059637](https://www.fixmystreet.com/report/8059637)
 - Bollard on traffic island not working, 22nd August :- [8059249](https://www.fixmystreet.com/report/8059249)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Several black litter bags outside the gate to Hucclecote Meadows SSSI, 21st August :- [8057625](https://www.fixmystreet.com/report/8057625)
 - Tree very large, 21st August :- [8057614](https://www.fixmystreet.com/report/8057614)
 - Damaged drain cover, 21st August :- [8057587](https://www.fixmystreet.com/report/8057587)
-- The condition of the road surface in Church Lane is exceptionally poor. It is more than just potholes, and the whole surface is now crumbling and breaking., 21st August :- [8057436](https://www.fixmystreet.com/report/8057436)
-- Blocking visibility on road/junction (Grass/verge) problem, 21st August :- [8057709](https://www.fixmystreet.com/report/8057709)
-- Waymarker removed from gate and path obstructed, 21st August :- [8057219](https://www.fixmystreet.com/report/8057219)
 
 <!-- fix_marker ends -->
