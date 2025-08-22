@@ -9,6 +9,16 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- In wrong location, 22nd August :- [8060558](https://www.fixmystreet.com/report/8060558)
+- TMC - Defects - Kerbs and Channels problem, 22nd August :- [8060398](https://www.fixmystreet.com/report/8060398)
+- TMC - Defects - Kerbs and Channels problem, 22nd August :- [8060402](https://www.fixmystreet.com/report/8060402)
+- TMC - Defects - Signs & Street Furniture problem, 22nd August :- [8060397](https://www.fixmystreet.com/report/8060397)
+- TMC - Defects - Kerbs and Channels problem, 22nd August :- [8060400](https://www.fixmystreet.com/report/8060400)
+- TMC - Defects - Kerbs and Channels problem, 22nd August :- [8060404](https://www.fixmystreet.com/report/8060404)
+- TMC - Defects - Kerbs and Channels problem, 22nd August :- [8060401](https://www.fixmystreet.com/report/8060401)
+- TMC - Defects - Kerbs and Channels problem, 22nd August :- [8060399](https://www.fixmystreet.com/report/8060399)
+- TMC - Defects - Other FW6  Surface problem, 22nd August :- [8060403](https://www.fixmystreet.com/report/8060403)
+- Outside 138A, 22nd August :- [8060211](https://www.fixmystreet.com/report/8060211)
 - Kerb protrudes as pavement is eroded - tripping hazard, 22nd August :- [8059937](https://www.fixmystreet.com/report/8059937)
 - Litter spread along verges, 22nd August :- [8059873](https://www.fixmystreet.com/report/8059873)
 - TMC - Defects - Signs & Street Furniture problem, 22nd August :- [8059826](https://www.fixmystreet.com/report/8059826)
@@ -19,15 +29,5 @@ permalink: /fix-my-street
 - Outside number 7, 22nd August :- [8059136](https://www.fixmystreet.com/report/8059136)
 - TMC - Defects - Signs & Street Furniture problem, 22nd August :- [8059231](https://www.fixmystreet.com/report/8059231)
 - Lamp post is not working, 21st August :- [8058453](https://www.fixmystreet.com/report/8058453)
-- Graffiti on cream wall at side of a house, 21st August :- [8058439](https://www.fixmystreet.com/report/8058439)
-- Flytipping of builders waste, 21st August :- [8058433](https://www.fixmystreet.com/report/8058433)
-- Rusted round road works sign left propped up against the wall on the pavement of Barnwood Road opposite bus stop going towards Longlevens., 21st August :- [8058390](https://www.fixmystreet.com/report/8058390)
-- Traffic light is green for less than 1 second, 21st August :- [8057826](https://www.fixmystreet.com/report/8057826)
-- Traffic Light is green for approx 2 seconds. Only 1 car can get through before turning red. Tailbacks to the other end of Christchurch road because of it. People are going through on red and accident waiting to happen, 21st August :- [8057812](https://www.fixmystreet.com/report/8057812)
-- Subsidence Ryeworth Road, 21st August :- [8057788](https://www.fixmystreet.com/report/8057788)
-- Pavement damaged, 21st August :- [8057688](https://www.fixmystreet.com/report/8057688)
-- Several black litter bags outside the gate to Hucclecote Meadows SSSI, 21st August :- [8057625](https://www.fixmystreet.com/report/8057625)
-- Tree very large, 21st August :- [8057614](https://www.fixmystreet.com/report/8057614)
-- Damaged drain cover, 21st August :- [8057587](https://www.fixmystreet.com/report/8057587)
 
 <!-- fix_marker ends -->
