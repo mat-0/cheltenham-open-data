@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Friday, 22 August 2025
 
-- The average temperature today is 21.5˚C,
-- With highs of 22.21˚C and lows of 20.4˚C,
-- It may feel like 21.01˚C with clear sky
-- The wind speed is 2.06m/s and visibility is 10000m
-- The pressure is 1019hPa and humidity is 50%
+- The average temperature today is 18.07˚C,
+- With highs of 19.26˚C and lows of 18.07˚C,
+- It may feel like 17.58˚C with broken clouds
+- The wind speed is 2.72m/s and visibility is 10000m
+- The pressure is 1020hPa and humidity is 63%
 - The sun will rise at 05:04 and set at 19:18
 
 <!-- weather_marker ends -->
