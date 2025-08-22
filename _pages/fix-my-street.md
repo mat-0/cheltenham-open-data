@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Mini rounabout marked with red paint, 22nd August :- [8062449](https://www.fixmystreet.com/report/8062449)
+- Zebra crossing marked with red paint crosses, 22nd August :- [8062446](https://www.fixmystreet.com/report/8062446)
+- Painted with St Georges flag, 22nd August :- [8062439](https://www.fixmystreet.com/report/8062439)
+- Saw a dead deer at the junction 11 coming out of Cheltenham towards M5, 22nd August :- [8062438](https://www.fixmystreet.com/report/8062438)
 - Light sensor is not detecting vehicles problem, 22nd August :- [8062113](https://www.fixmystreet.com/report/8062113)
 - Severely raised paving slab and doming of entire pavement., 22nd August :- [8062024](https://www.fixmystreet.com/report/8062024)
 - A pothole in road problem, 22nd August :- [8061958](https://www.fixmystreet.com/report/8061958)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Kerbs and Channels problem, 22nd August :- [8061506](https://www.fixmystreet.com/report/8061506)
 - TMC - Defects - Kerbs and Channels problem, 22nd August :- [8061497](https://www.fixmystreet.com/report/8061497)
 - TMC - Defects - Kerbs and Channels problem, 22nd August :- [8061498](https://www.fixmystreet.com/report/8061498)
-- TMC - Defects - Kerbs and Channels problem, 22nd August :- [8061496](https://www.fixmystreet.com/report/8061496)
-- The road surface is totally degraded and the yellow makings are in some areas, obliterated making traffic wardens job impossible, 22nd August :- [8061367](https://www.fixmystreet.com/report/8061367)
-- Huge banner advertising Majestic India Dining on corner railing, 22nd August :- [8061271](https://www.fixmystreet.com/report/8061271)
-- TMC - Defects - Kerbs and Channels problem, 22nd August :- [8061332](https://www.fixmystreet.com/report/8061332)
 
 <!-- fix_marker ends -->
