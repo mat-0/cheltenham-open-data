@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- It long difficult to see for cyclist no light, 23rd August :- [8064758](https://www.fixmystreet.com/report/8064758)
 - Furniture left on street, 23rd August :- [8064287](https://www.fixmystreet.com/report/8064287)
 - Rubbish left on street, 23rd August :- [8064284](https://www.fixmystreet.com/report/8064284)
 - Mattresses and other furniture, 23rd August :- [8064261](https://www.fixmystreet.com/report/8064261)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Saw a dead deer at the junction 11 coming out of Cheltenham towards M5, 22nd August :- [8062438](https://www.fixmystreet.com/report/8062438)
 - Light sensor is not detecting vehicles problem, 22nd August :- [8062113](https://www.fixmystreet.com/report/8062113)
 - Severely raised paving slab and doming of entire pavement., 22nd August :- [8062024](https://www.fixmystreet.com/report/8062024)
-- A pothole in road problem, 22nd August :- [8061958](https://www.fixmystreet.com/report/8061958)
 
 <!-- fix_marker ends -->
