@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Road closed sign, 23rd August :- [8065269](https://www.fixmystreet.com/report/8065269)
 - Car parked on accessible drop curb, 23rd August :- [8065112](https://www.fixmystreet.com/report/8065112)
 - Large pothole outside number 8a Willowleaze, 23rd August :- [8065064](https://www.fixmystreet.com/report/8065064)
 - Abandoned vehicle fire damaged, 23rd August :- [8064902](https://www.fixmystreet.com/report/8064902)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Potholes and cracks opening up down the entire length of lane, 22nd August :- [8062948](https://www.fixmystreet.com/report/8062948)
 - The new cycle path here is shared, however I have personally nearly been knocked over by cyclists at high speed travelling on the inside of the pavement. The exit for pedestrians from Sandycroft Road is blind and the cyclist have no view of pedestrians to warn them with a bell. Can it please be possible to put a small sign on the pavement to indicate pedestrians to use the inner part of the pavement and cyclists the outer by the road like the rest of the cycle path. I feel that this is an accident waiting to happen. I am one of the few that actually agree with the implementation of the cycle path but this particular part is very dangerous., 22nd August :- [8062656](https://www.fixmystreet.com/report/8062656)
 - Tree needs cutting back, 22nd August :- [8062654](https://www.fixmystreet.com/report/8062654)
-- Mini rounabout marked with red paint, 22nd August :- [8062449](https://www.fixmystreet.com/report/8062449)
 
 <!-- fix_marker ends -->
