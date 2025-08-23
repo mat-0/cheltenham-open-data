@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Furniture left on street, 23rd August :- [8064287](https://www.fixmystreet.com/report/8064287)
+- Rubbish left on street, 23rd August :- [8064284](https://www.fixmystreet.com/report/8064284)
+- Mattresses and other furniture, 23rd August :- [8064261](https://www.fixmystreet.com/report/8064261)
+- Flyposter on central island at traffic lights, 23rd August :- [8064217](https://www.fixmystreet.com/report/8064217)
 - Flyposter on lamppost, 23rd August :- [8064208](https://www.fixmystreet.com/report/8064208)
 - Amazing, 23rd August :- [8063855](https://www.fixmystreet.com/report/8063855)
 - Signs and bollards left propped against tree, 23rd August :- [8063490](https://www.fixmystreet.com/report/8063490)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Light sensor is not detecting vehicles problem, 22nd August :- [8062113](https://www.fixmystreet.com/report/8062113)
 - Severely raised paving slab and doming of entire pavement., 22nd August :- [8062024](https://www.fixmystreet.com/report/8062024)
 - A pothole in road problem, 22nd August :- [8061958](https://www.fixmystreet.com/report/8061958)
-- A st Georges Cross has been painted over the mini roundabout and on the approach chevronss, 22nd August :- [8061672](https://www.fixmystreet.com/report/8061672)
-- 4 barriers abandoned by contractors, 22nd August :- [8061611](https://www.fixmystreet.com/report/8061611)
-- Overgrown footpath, 22nd August :- [8061563](https://www.fixmystreet.com/report/8061563)
-- TMC - Defects - Kerbs and Channels problem, 22nd August :- [8061511](https://www.fixmystreet.com/report/8061511)
 
 <!-- fix_marker ends -->
