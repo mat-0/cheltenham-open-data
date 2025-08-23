@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Signs and bollards left propped against tree, 23rd August :- [8063490](https://www.fixmystreet.com/report/8063490)
 - HUGE pothole, very dangerous on dual carriageway, 22nd August :- [8063123](https://www.fixmystreet.com/report/8063123)
 - Flytipping, 22nd August :- [8063104](https://www.fixmystreet.com/report/8063104)
 - OAP stroller fly tipped, 22nd August :- [8063075](https://www.fixmystreet.com/report/8063075)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Kerbs and Channels problem, 22nd August :- [8061511](https://www.fixmystreet.com/report/8061511)
 - TMC - Defects - Kerbs and Channels problem, 22nd August :- [8061509](https://www.fixmystreet.com/report/8061509)
 - TMC - Defects - Kerbs and Channels problem, 22nd August :- [8061502](https://www.fixmystreet.com/report/8061502)
-- TMC - Defects - Kerbs and Channels problem, 22nd August :- [8061506](https://www.fixmystreet.com/report/8061506)
 
 <!-- fix_marker ends -->
