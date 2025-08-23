@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Abandoned vehicle fire damaged, 23rd August :- [8064902](https://www.fixmystreet.com/report/8064902)
+- Road surface along a large section of road appalling, 23rd August :- [8064835](https://www.fixmystreet.com/report/8064835)
+- Broken bottle, 23rd August :- [8064809](https://www.fixmystreet.com/report/8064809)
 - It long difficult to see for cyclist no light, 23rd August :- [8064758](https://www.fixmystreet.com/report/8064758)
 - Furniture left on street, 23rd August :- [8064287](https://www.fixmystreet.com/report/8064287)
 - Rubbish left on street, 23rd August :- [8064284](https://www.fixmystreet.com/report/8064284)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Mini rounabout marked with red paint, 22nd August :- [8062449](https://www.fixmystreet.com/report/8062449)
 - Zebra crossing marked with red paint crosses, 22nd August :- [8062446](https://www.fixmystreet.com/report/8062446)
 - Painted with St Georges flag, 22nd August :- [8062439](https://www.fixmystreet.com/report/8062439)
-- Saw a dead deer at the junction 11 coming out of Cheltenham towards M5, 22nd August :- [8062438](https://www.fixmystreet.com/report/8062438)
-- Light sensor is not detecting vehicles problem, 22nd August :- [8062113](https://www.fixmystreet.com/report/8062113)
-- Severely raised paving slab and doming of entire pavement., 22nd August :- [8062024](https://www.fixmystreet.com/report/8062024)
 
 <!-- fix_marker ends -->
