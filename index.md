@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Saturday, 23 August 2025
 
-- The average temperature today is 13.67˚C,
-- With highs of 14.98˚C and lows of 12.04˚C,
-- It may feel like 13.13˚C with overcast clouds
+- The average temperature today is 13.53˚C,
+- With highs of 14.42˚C and lows of 11.58˚C,
+- It may feel like 13.03˚C with overcast clouds
 - The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1020hPa and humidity is 78%
+- The pressure is 1020hPa and humidity is 80%
 - The sun will rise at 05:05 and set at 19:16
 
 <!-- weather_marker ends -->
