@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Red crosses painted on zebra crossing, 24th August :- [8065925](https://www.fixmystreet.com/report/8065925)
+- Red cross painted on white road markings, 24th August :- [8065919](https://www.fixmystreet.com/report/8065919)
 - Street light outside our house flickers intermittently, 23rd August :- [8065682](https://www.fixmystreet.com/report/8065682)
 - Volunteer litter pick bags ready for collection (23rd August 2025), 23rd August :- [8065657](https://www.fixmystreet.com/report/8065657)
 - Fallen tree encroaching over highway, 23rd August :- [8065477](https://www.fixmystreet.com/report/8065477)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Mattresses and other furniture, 23rd August :- [8064261](https://www.fixmystreet.com/report/8064261)
 - Flyposter on central island at traffic lights, 23rd August :- [8064217](https://www.fixmystreet.com/report/8064217)
 - Flyposter on lamppost, 23rd August :- [8064208](https://www.fixmystreet.com/report/8064208)
-- Amazing, 23rd August :- [8063855](https://www.fixmystreet.com/report/8063855)
-- Signs and bollards left propped against tree, 23rd August :- [8063490](https://www.fixmystreet.com/report/8063490)
 
 <!-- fix_marker ends -->
