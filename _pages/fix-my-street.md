@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fallen tree encroaching over highway, 23rd August :- [8065477](https://www.fixmystreet.com/report/8065477)
 - Pink scooters on pavements, 23rd August :- [8065312](https://www.fixmystreet.com/report/8065312)
 - Footpath ZCH1 totally overgrown, 23rd August :- [8065307](https://www.fixmystreet.com/report/8065307)
 - No Dogs Allowed signs missing, 23rd August :- [8065305](https://www.fixmystreet.com/report/8065305)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Signs and bollards left propped against tree, 23rd August :- [8063490](https://www.fixmystreet.com/report/8063490)
 - HUGE pothole, very dangerous on dual carriageway, 22nd August :- [8063123](https://www.fixmystreet.com/report/8063123)
 - Flytipping, 22nd August :- [8063104](https://www.fixmystreet.com/report/8063104)
-- OAP stroller fly tipped, 22nd August :- [8063075](https://www.fixmystreet.com/report/8063075)
 
 <!-- fix_marker ends -->
