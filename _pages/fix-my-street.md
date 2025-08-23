@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flyposter on lamppost, 23rd August :- [8064208](https://www.fixmystreet.com/report/8064208)
 - Amazing, 23rd August :- [8063855](https://www.fixmystreet.com/report/8063855)
 - Signs and bollards left propped against tree, 23rd August :- [8063490](https://www.fixmystreet.com/report/8063490)
 - HUGE pothole, very dangerous on dual carriageway, 22nd August :- [8063123](https://www.fixmystreet.com/report/8063123)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - 4 barriers abandoned by contractors, 22nd August :- [8061611](https://www.fixmystreet.com/report/8061611)
 - Overgrown footpath, 22nd August :- [8061563](https://www.fixmystreet.com/report/8061563)
 - TMC - Defects - Kerbs and Channels problem, 22nd August :- [8061511](https://www.fixmystreet.com/report/8061511)
-- TMC - Defects - Kerbs and Channels problem, 22nd August :- [8061509](https://www.fixmystreet.com/report/8061509)
 
 <!-- fix_marker ends -->
