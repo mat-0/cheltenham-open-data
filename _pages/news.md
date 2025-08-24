@@ -13,8 +13,8 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
 - Memorial to honour airmen killed in WW2 crash ([14 hours ago](https://www.bbc.com/news/articles/c39d2pymj12o?at_medium=RSS&at_campaign=rss))
-- Garlick completes takeover of Cheltenham Town ([14 hours ago](https://www.bbc.com/sport/football/articles/clymmvjj263o?at_medium=RSS&at_campaign=rss))
-- Estate residents warned of bacteria in water ([17 hours ago](https://www.bbc.com/news/articles/cqjypg9kg40o?at_medium=RSS&at_campaign=rss))
+- Garlick completes takeover of Cheltenham Town ([15 hours ago](https://www.bbc.com/sport/football/articles/clymmvjj263o?at_medium=RSS&at_campaign=rss))
+- Estate residents warned of bacteria in water ([18 hours ago](https://www.bbc.com/news/articles/cqjypg9kg40o?at_medium=RSS&at_campaign=rss))
 - Lock closed because of low water levels ([20 hours ago](https://www.bbc.com/news/articles/cvgpl0lv051o?at_medium=RSS&at_campaign=rss))
 - End of man's 3,600 mile charity walk in sight ([20 hours ago](https://www.bbc.com/news/articles/cm21kjzg1x1o?at_medium=RSS&at_campaign=rss))
 - 'Amazing' bird of prey makes very rare visit to UK ([1 days ago](https://www.bbc.com/news/articles/c14g20k203no?at_medium=RSS&at_campaign=rss))
