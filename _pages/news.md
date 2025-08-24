@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Memorial honours airmen killed in WW2 crash ([54 minutes ago](https://www.bbc.com/news/articles/c39d2pymj12o?at_medium=RSS&at_campaign=rss))
-- Gloucestershire in Pictures: A step back in time ([4 hours ago](https://www.bbc.com/news/articles/cpdjy77n083o?at_medium=RSS&at_campaign=rss))
-- Headlines: Love locks, GCSEs and early cider harvest ([4 hours ago](https://www.bbc.com/news/articles/czd070ny8gyo?at_medium=RSS&at_campaign=rss))
-- Garlick completes takeover of Cheltenham Town ([22 hours ago](https://www.bbc.com/sport/football/articles/clymmvjj263o?at_medium=RSS&at_campaign=rss))
+- Memorial honours airmen killed in WW2 crash ([1 hours ago](https://www.bbc.com/news/articles/c39d2pymj12o?at_medium=RSS&at_campaign=rss))
+- Gloucestershire in Pictures: A step back in time ([5 hours ago](https://www.bbc.com/news/articles/cpdjy77n083o?at_medium=RSS&at_campaign=rss))
+- Headlines: Love locks, GCSEs and early cider harvest ([5 hours ago](https://www.bbc.com/news/articles/czd070ny8gyo?at_medium=RSS&at_campaign=rss))
+- Garlick completes takeover of Cheltenham Town ([23 hours ago](https://www.bbc.com/sport/football/articles/clymmvjj263o?at_medium=RSS&at_campaign=rss))
 - Estate residents warned of bacteria in water ([1 days ago](https://www.bbc.com/news/articles/cqjypg9kg40o?at_medium=RSS&at_campaign=rss))
 - Lock closed because of low water levels ([1 days ago](https://www.bbc.com/news/articles/cvgpl0lv051o?at_medium=RSS&at_campaign=rss))
 - End of man's 3,600 mile charity walk in sight ([1 days ago](https://www.bbc.com/news/articles/cm21kjzg1x1o?at_medium=RSS&at_campaign=rss))
@@ -48,7 +48,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Gloucestershire County Council launches ‘Clean Sweep’ initiative ([12 days ago](https://gloucesternewscentre.co.uk/gloucestershire-county-council-launches-clean-sweep-initiative/))
 - Cheltenham Community Allotment Group Hits Record Harvest ([12 days ago](https://gloucesternewscentre.co.uk/cheltenham-community-allotment-group-hits-record-harvest/))
 - Stroud Greens oppose ‘disturbing’ Government proposals to sell off allotments ([12 days ago](https://gloucesternewscentre.co.uk/stroud-greens-oppose-disturbing-government-proposals-to-sell-off-allotments/))
-- Cheltenham to mark 80th anniversary of VJ Day ([15 days ago](https://www.cheltenham.gov.uk/news/article/3039/cheltenham_to_mark_80th_anniversary_of_vj_day))
+- Cheltenham to mark 80th anniversary of VJ Day ([16 days ago](https://www.cheltenham.gov.uk/news/article/3039/cheltenham_to_mark_80th_anniversary_of_vj_day))
 - ‘Beautiful and fitting’ tribute to Cheltenham’s fallen WWI heroes as website tells their stories ([17 days ago](https://gloucesternewscentre.co.uk/beautiful-and-fitting-tribute-to-cheltenhams-fallen-wwi-heroes-as-website-tells-their-stories/))
 - New perennial planting in the Long Gardens supports greater biodiversity ([17 days ago](https://gloucesternewscentre.co.uk/new-perennial-planting-in-the-long-gardens-supports-greater-biodiversity/))
 - Concerns benefits of Golden Valley plans near GCHQ ‘are being eroded’ ([17 days ago](https://gloucesternewscentre.co.uk/concerns-benefits-of-golden-valley-plans-near-gchq-are-being-eroded/))

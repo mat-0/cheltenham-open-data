@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Cracks along footpath on the green at top of Lavender Road / Bluebell Road, 24th August :- [8066945](https://www.fixmystreet.com/report/8066945)
 - Electric Scooters - Parking completely blocking footpath, 24th August :- [8066513](https://www.fixmystreet.com/report/8066513)
 - Graffiti on road marking, 24th August :- [8066319](https://www.fixmystreet.com/report/8066319)
 - Red crosses painted on zebra crossing, 24th August :- [8065925](https://www.fixmystreet.com/report/8065925)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - It long difficult to see for cyclist no light, 23rd August :- [8064758](https://www.fixmystreet.com/report/8064758)
 - Furniture left on street, 23rd August :- [8064287](https://www.fixmystreet.com/report/8064287)
 - Rubbish left on street, 23rd August :- [8064284](https://www.fixmystreet.com/report/8064284)
-- Mattresses and other furniture, 23rd August :- [8064261](https://www.fixmystreet.com/report/8064261)
 
 <!-- fix_marker ends -->
