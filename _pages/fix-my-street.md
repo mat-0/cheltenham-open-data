@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Broken glass, 24th August :- [8067435](https://www.fixmystreet.com/report/8067435)
+- Red paint on give way arrow, 24th August :- [8067425](https://www.fixmystreet.com/report/8067425)
+- Red paint on mini rounabout, 24th August :- [8067417](https://www.fixmystreet.com/report/8067417)
+- 5 tyres in the ditch, 24th August :- [8067346](https://www.fixmystreet.com/report/8067346)
 - Cracks along footpath on the green at top of Lavender Road / Bluebell Road, 24th August :- [8066945](https://www.fixmystreet.com/report/8066945)
 - Electric Scooters - Parking completely blocking footpath, 24th August :- [8066513](https://www.fixmystreet.com/report/8066513)
 - Graffiti on road marking, 24th August :- [8066319](https://www.fixmystreet.com/report/8066319)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Large pothole outside number 8a Willowleaze, 23rd August :- [8065064](https://www.fixmystreet.com/report/8065064)
 - Abandoned vehicle fire damaged, 23rd August :- [8064902](https://www.fixmystreet.com/report/8064902)
 - Road surface along a large section of road appalling, 23rd August :- [8064835](https://www.fixmystreet.com/report/8064835)
-- Broken bottle, 23rd August :- [8064809](https://www.fixmystreet.com/report/8064809)
-- It long difficult to see for cyclist no light, 23rd August :- [8064758](https://www.fixmystreet.com/report/8064758)
-- Furniture left on street, 23rd August :- [8064287](https://www.fixmystreet.com/report/8064287)
-- Rubbish left on street, 23rd August :- [8064284](https://www.fixmystreet.com/report/8064284)
 
 <!-- fix_marker ends -->
