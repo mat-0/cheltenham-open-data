@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Sunday, 24 August 2025
 
-- The average temperature today is 25.25˚C,
-- With highs of 26.1˚C and lows of 23.8˚C,
-- It may feel like 24.98˚C with scattered clouds
-- The wind speed is 3.09m/s and visibility is 10000m
-- The pressure is 1019hPa and humidity is 44%
+- The average temperature today is 25.85˚C,
+- With highs of 26.49˚C and lows of 24.75˚C,
+- It may feel like 25.59˚C with clear sky
+- The wind speed is 4.02m/s and visibility is 10000m
+- The pressure is 1018hPa and humidity is 42%
 - The sun will rise at 05:07 and set at 19:14
 
 <!-- weather_marker ends -->
