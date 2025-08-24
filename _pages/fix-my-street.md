@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- No soap or water in gents' toilets, 24th August :- [8068313](https://www.fixmystreet.com/report/8068313)
 - Roadwork Signs Incorrectly Placed and Wrong Information, 24th August :- [8067973](https://www.fixmystreet.com/report/8067973)
 - Lovely art spoiled by offensive message, 24th August :- [8067681](https://www.fixmystreet.com/report/8067681)
 - Broken glass, 24th August :- [8067435](https://www.fixmystreet.com/report/8067435)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - No Dogs Allowed signs missing, 23rd August :- [8065305](https://www.fixmystreet.com/report/8065305)
 - Road closed sign, 23rd August :- [8065269](https://www.fixmystreet.com/report/8065269)
 - Car parked on accessible drop curb, 23rd August :- [8065112](https://www.fixmystreet.com/report/8065112)
-- Large pothole outside number 8a Willowleaze, 23rd August :- [8065064](https://www.fixmystreet.com/report/8065064)
 
 <!-- fix_marker ends -->
