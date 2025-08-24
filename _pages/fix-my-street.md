@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Graffiti on road marking, 24th August :- [8066319](https://www.fixmystreet.com/report/8066319)
 - Red crosses painted on zebra crossing, 24th August :- [8065925](https://www.fixmystreet.com/report/8065925)
 - Red cross painted on white road markings, 24th August :- [8065919](https://www.fixmystreet.com/report/8065919)
 - Street light outside our house flickers intermittently, 23rd August :- [8065682](https://www.fixmystreet.com/report/8065682)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Rubbish left on street, 23rd August :- [8064284](https://www.fixmystreet.com/report/8064284)
 - Mattresses and other furniture, 23rd August :- [8064261](https://www.fixmystreet.com/report/8064261)
 - Flyposter on central island at traffic lights, 23rd August :- [8064217](https://www.fixmystreet.com/report/8064217)
-- Flyposter on lamppost, 23rd August :- [8064208](https://www.fixmystreet.com/report/8064208)
 
 <!-- fix_marker ends -->
