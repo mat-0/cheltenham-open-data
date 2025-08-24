@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Gloucestershire in Pictures: A step back in time ([3 hours ago](https://www.bbc.com/news/articles/cpdjy77n083o?at_medium=RSS&at_campaign=rss))
-- Headlines: Love locks, GCSEs and early cider harvest ([3 hours ago](https://www.bbc.com/news/articles/czd070ny8gyo?at_medium=RSS&at_campaign=rss))
-- Memorial to honour airmen killed in WW2 crash ([21 hours ago](https://www.bbc.com/news/articles/c39d2pymj12o?at_medium=RSS&at_campaign=rss))
-- Garlick completes takeover of Cheltenham Town ([21 hours ago](https://www.bbc.com/sport/football/articles/clymmvjj263o?at_medium=RSS&at_campaign=rss))
+- Memorial honours airmen killed in WW2 crash ([54 minutes ago](https://www.bbc.com/news/articles/c39d2pymj12o?at_medium=RSS&at_campaign=rss))
+- Gloucestershire in Pictures: A step back in time ([4 hours ago](https://www.bbc.com/news/articles/cpdjy77n083o?at_medium=RSS&at_campaign=rss))
+- Headlines: Love locks, GCSEs and early cider harvest ([4 hours ago](https://www.bbc.com/news/articles/czd070ny8gyo?at_medium=RSS&at_campaign=rss))
+- Garlick completes takeover of Cheltenham Town ([22 hours ago](https://www.bbc.com/sport/football/articles/clymmvjj263o?at_medium=RSS&at_campaign=rss))
 - Estate residents warned of bacteria in water ([1 days ago](https://www.bbc.com/news/articles/cqjypg9kg40o?at_medium=RSS&at_campaign=rss))
 - Lock closed because of low water levels ([1 days ago](https://www.bbc.com/news/articles/cvgpl0lv051o?at_medium=RSS&at_campaign=rss))
 - End of man's 3,600 mile charity walk in sight ([1 days ago](https://www.bbc.com/news/articles/cm21kjzg1x1o?at_medium=RSS&at_campaign=rss))
@@ -35,7 +35,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Local councils not considering legal action against asylum hotels ([2 days ago](https://gloucesternewscentre.co.uk/local-councils-not-considering-legal-action-against-asylum-hotels/))
 - Noise and safety concerns over music festival at Cheltenham Racecourse ([2 days ago](https://gloucesternewscentre.co.uk/noise-and-safety-concerns-over-music-festival-at-cheltenham-racecourse/))
 - Man jailed after pleading guilty to supplying class A drugs in Cheltenham ([2 days ago](https://gloucesternewscentre.co.uk/man-jailed-after-pleading-guilty-to-supplying-class-a-drugs-in-cheltenham/))
-- Community was 'reason to keep going' after lorry crash - councillor ([2 days ago](https://www.bbc.com/news/articles/cvgv82ln4xmo?at_medium=RSS&at_campaign=rss))
+- Community was 'reason to keep going' after lorry crash - councillor ([3 days ago](https://www.bbc.com/news/articles/cvgv82ln4xmo?at_medium=RSS&at_campaign=rss))
 - 'Enormous' shopping outlet car park plan rejected ([3 days ago](https://www.bbc.com/news/articles/cj3l2dk6j24o?at_medium=RSS&at_campaign=rss))
 - Cheltenham man launches ‘Miles for Katy’ year of challenges in memory of wife ([4 days ago](https://gloucesternewscentre.co.uk/cheltenham-man-launches-miles-for-katy-year-of-challenges-in-memory-of-wife/))
 - Thumbs up for Bishop’s Cleeve Aldi plans ([4 days ago](https://gloucesternewscentre.co.uk/thumbs-up-for-bishops-cleeve-aldi-plans/))

@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Electric Scooters - Parking completely blocking footpath, 24th August :- [8066513](https://www.fixmystreet.com/report/8066513)
 - Graffiti on road marking, 24th August :- [8066319](https://www.fixmystreet.com/report/8066319)
 - Red crosses painted on zebra crossing, 24th August :- [8065925](https://www.fixmystreet.com/report/8065925)
 - Red cross painted on white road markings, 24th August :- [8065919](https://www.fixmystreet.com/report/8065919)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Furniture left on street, 23rd August :- [8064287](https://www.fixmystreet.com/report/8064287)
 - Rubbish left on street, 23rd August :- [8064284](https://www.fixmystreet.com/report/8064284)
 - Mattresses and other furniture, 23rd August :- [8064261](https://www.fixmystreet.com/report/8064261)
-- Flyposter on central island at traffic lights, 23rd August :- [8064217](https://www.fixmystreet.com/report/8064217)
 
 <!-- fix_marker ends -->
