@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Glass in entrance to children's park, 25th August :- [8069883](https://www.fixmystreet.com/report/8069883)
+- Significant branch in road on Cowley side of road causing drivers to swerve, 25th August :- [8069869](https://www.fixmystreet.com/report/8069869)
 - Flags attached to street lights, making me feel unsafe, 25th August :- [8069640](https://www.fixmystreet.com/report/8069640)
 - 2 potholes outside The Nurseries, Cherringtons development., 25th August :- [8069505](https://www.fixmystreet.com/report/8069505)
 - 2 x flyposters attached to lampposts, 25th August :- [8069340](https://www.fixmystreet.com/report/8069340)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - 5 tyres in the ditch, 24th August :- [8067346](https://www.fixmystreet.com/report/8067346)
 - Cracks along footpath on the green at top of Lavender Road / Bluebell Road, 24th August :- [8066945](https://www.fixmystreet.com/report/8066945)
 - Electric Scooters - Parking completely blocking footpath, 24th August :- [8066513](https://www.fixmystreet.com/report/8066513)
-- Graffiti on road marking, 24th August :- [8066319](https://www.fixmystreet.com/report/8066319)
-- Red crosses painted on zebra crossing, 24th August :- [8065925](https://www.fixmystreet.com/report/8065925)
 
 <!-- fix_marker ends -->
