@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Blocked drain, 25th August :- [8070207](https://www.fixmystreet.com/report/8070207)
+- Street lamp, 25th August :- [8070117](https://www.fixmystreet.com/report/8070117)
 - Glass in entrance to children's park, 25th August :- [8069883](https://www.fixmystreet.com/report/8069883)
 - Significant branch in road on Cowley side of road causing drivers to swerve, 25th August :- [8069869](https://www.fixmystreet.com/report/8069869)
 - Flags attached to street lights, making me feel unsafe, 25th August :- [8069640](https://www.fixmystreet.com/report/8069640)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Red paint on give way arrow, 24th August :- [8067425](https://www.fixmystreet.com/report/8067425)
 - Red paint on mini rounabout, 24th August :- [8067417](https://www.fixmystreet.com/report/8067417)
 - 5 tyres in the ditch, 24th August :- [8067346](https://www.fixmystreet.com/report/8067346)
-- Cracks along footpath on the green at top of Lavender Road / Bluebell Road, 24th August :- [8066945](https://www.fixmystreet.com/report/8066945)
-- Electric Scooters - Parking completely blocking footpath, 24th August :- [8066513](https://www.fixmystreet.com/report/8066513)
 
 <!-- fix_marker ends -->
