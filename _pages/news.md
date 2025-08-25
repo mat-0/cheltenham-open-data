@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Trains diverted or delayed due to blocked line ([10 hours ago](https://www.bbc.com/news/articles/cwy1lw4n545o?at_medium=RSS&at_campaign=rss))
-- A-road closure extended for two weeks ([13 hours ago](https://www.bbc.com/news/articles/cpqv3lynex4o?at_medium=RSS&at_campaign=rss))
-- Memorial honours airmen killed in WW2 crash ([15 hours ago](https://www.bbc.com/news/articles/c39d2pymj12o?at_medium=RSS&at_campaign=rss))
-- Gloucestershire in Pictures: A step back in time ([18 hours ago](https://www.bbc.com/news/articles/cpdjy77n083o?at_medium=RSS&at_campaign=rss))
-- Headlines: Love locks, GCSEs and early cider harvest ([18 hours ago](https://www.bbc.com/news/articles/czd070ny8gyo?at_medium=RSS&at_campaign=rss))
+- Trains diverted or delayed due to blocked line ([11 hours ago](https://www.bbc.com/news/articles/cwy1lw4n545o?at_medium=RSS&at_campaign=rss))
+- A-road closure extended for two weeks ([14 hours ago](https://www.bbc.com/news/articles/cpqv3lynex4o?at_medium=RSS&at_campaign=rss))
+- Memorial honours airmen killed in WW2 crash ([16 hours ago](https://www.bbc.com/news/articles/c39d2pymj12o?at_medium=RSS&at_campaign=rss))
+- Gloucestershire in Pictures: A step back in time ([19 hours ago](https://www.bbc.com/news/articles/cpdjy77n083o?at_medium=RSS&at_campaign=rss))
+- Headlines: Love locks, GCSEs and early cider harvest ([20 hours ago](https://www.bbc.com/news/articles/czd070ny8gyo?at_medium=RSS&at_campaign=rss))
 - Garlick completes takeover of Cheltenham Town ([1 days ago](https://www.bbc.com/sport/football/articles/clymmvjj263o?at_medium=RSS&at_campaign=rss))
 - Estate residents warned of bacteria in water ([1 days ago](https://www.bbc.com/news/articles/cqjypg9kg40o?at_medium=RSS&at_campaign=rss))
 - Lock closed because of low water levels ([1 days ago](https://www.bbc.com/news/articles/cvgpl0lv051o?at_medium=RSS&at_campaign=rss))
