@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Temp traffic lights not working, 25th August :- [8070774](https://www.fixmystreet.com/report/8070774)
+- Crossover not constructed properly last month and has dangerously subsided, 25th August :- [8070678](https://www.fixmystreet.com/report/8070678)
 - Unauthorised flags attached to lamp posts, 25th August :- [8070518](https://www.fixmystreet.com/report/8070518)
 - Right of way gate padlocked. No notices to indicate reason., 25th August :- [8070437](https://www.fixmystreet.com/report/8070437)
 - The proper device for securing this tree is broken. I have been using string to try and keep it upright but I fear it isn’t strong enough and this tree will break, 25th August :- [8070425](https://www.fixmystreet.com/report/8070425)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Overflowing dog bin, 24th August :- [8068610](https://www.fixmystreet.com/report/8068610)
 - No soap or water in gents' toilets, 24th August :- [8068313](https://www.fixmystreet.com/report/8068313)
 - Roadwork Signs Incorrectly Placed and Wrong Information, 24th August :- [8067973](https://www.fixmystreet.com/report/8067973)
-- Lovely art spoiled by offensive message, 24th August :- [8067681](https://www.fixmystreet.com/report/8067681)
-- Broken glass, 24th August :- [8067435](https://www.fixmystreet.com/report/8067435)
 
 <!-- fix_marker ends -->
