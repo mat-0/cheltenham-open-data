@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Unauthorised flags attached to lamp posts, 25th August :- [8070518](https://www.fixmystreet.com/report/8070518)
+- Right of way gate padlocked. No notices to indicate reason., 25th August :- [8070437](https://www.fixmystreet.com/report/8070437)
+- The proper device for securing this tree is broken. I have been using string to try and keep it upright but I fear it isn’t strong enough and this tree will break, 25th August :- [8070425](https://www.fixmystreet.com/report/8070425)
 - Blocked drain, 25th August :- [8070207](https://www.fixmystreet.com/report/8070207)
 - Street lamp, 25th August :- [8070117](https://www.fixmystreet.com/report/8070117)
 - Glass in entrance to children's park, 25th August :- [8069883](https://www.fixmystreet.com/report/8069883)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Roadwork Signs Incorrectly Placed and Wrong Information, 24th August :- [8067973](https://www.fixmystreet.com/report/8067973)
 - Lovely art spoiled by offensive message, 24th August :- [8067681](https://www.fixmystreet.com/report/8067681)
 - Broken glass, 24th August :- [8067435](https://www.fixmystreet.com/report/8067435)
-- Red paint on give way arrow, 24th August :- [8067425](https://www.fixmystreet.com/report/8067425)
-- Red paint on mini rounabout, 24th August :- [8067417](https://www.fixmystreet.com/report/8067417)
-- 5 tyres in the ditch, 24th August :- [8067346](https://www.fixmystreet.com/report/8067346)
 
 <!-- fix_marker ends -->
