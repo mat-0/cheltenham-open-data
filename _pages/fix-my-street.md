@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Please arrange for this bin to be emptied?, 25th August :- [8071234](https://www.fixmystreet.com/report/8071234)
+- Vandalised mini roundabout, 25th August :- [8071216](https://www.fixmystreet.com/report/8071216)
 - Water is STILL running down the side of the road from the top of the hill. It has NOT been fixed, 25th August :- [8071174](https://www.fixmystreet.com/report/8071174)
 - Temp traffic lights not working, 25th August :- [8070774](https://www.fixmystreet.com/report/8070774)
 - Crossover not constructed properly last month and has dangerously subsided, 25th August :- [8070678](https://www.fixmystreet.com/report/8070678)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Flyposter for Luxury Travel on railing, 25th August :- [8069314](https://www.fixmystreet.com/report/8069314)
 - Mini roundabout painted over with England flag, 25th August :- [8069297](https://www.fixmystreet.com/report/8069297)
 - Weed that is turning into a bush growing out of the kerb starting to take over the pathway, 25th August :- [8068842](https://www.fixmystreet.com/report/8068842)
-- Overflowing dog bin, 24th August :- [8068610](https://www.fixmystreet.com/report/8068610)
-- No soap or water in gents' toilets, 24th August :- [8068313](https://www.fixmystreet.com/report/8068313)
 
 <!-- fix_marker ends -->
