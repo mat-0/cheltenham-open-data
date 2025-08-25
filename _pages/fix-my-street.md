@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Weed that is turning into a bush growing out of the kerb starting to take over the pathway, 25th August :- [8068842](https://www.fixmystreet.com/report/8068842)
 - Overflowing dog bin, 24th August :- [8068610](https://www.fixmystreet.com/report/8068610)
 - No soap or water in gents' toilets, 24th August :- [8068313](https://www.fixmystreet.com/report/8068313)
 - Roadwork Signs Incorrectly Placed and Wrong Information, 24th August :- [8067973](https://www.fixmystreet.com/report/8067973)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Pink scooters on pavements, 23rd August :- [8065312](https://www.fixmystreet.com/report/8065312)
 - Footpath ZCH1 totally overgrown, 23rd August :- [8065307](https://www.fixmystreet.com/report/8065307)
 - No Dogs Allowed signs missing, 23rd August :- [8065305](https://www.fixmystreet.com/report/8065305)
-- Road closed sign, 23rd August :- [8065269](https://www.fixmystreet.com/report/8065269)
 
 <!-- fix_marker ends -->
