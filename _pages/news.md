@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Train disruption expected due to improvement works ([2 hours ago](https://www.bbc.com/news/articles/cx29e22y4l5o?at_medium=RSS&at_campaign=rss))
-- 'We were rehearsing in barns and sheds - but within six months had a record deal' ([2 hours ago](https://www.bbc.com/news/articles/c80dj0142e5o?at_medium=RSS&at_campaign=rss))
-- A-road closure extended for two weeks ([21 hours ago](https://www.bbc.com/news/articles/cpqv3lynex4o?at_medium=RSS&at_campaign=rss))
-- Memorial honours airmen killed in WW2 crash ([22 hours ago](https://www.bbc.com/news/articles/c39d2pymj12o?at_medium=RSS&at_campaign=rss))
+- Train disruption expected due to improvement works ([3 hours ago](https://www.bbc.com/news/articles/cx29e22y4l5o?at_medium=RSS&at_campaign=rss))
+- 'We were rehearsing in barns and sheds - but within six months had a record deal' ([3 hours ago](https://www.bbc.com/news/articles/c80dj0142e5o?at_medium=RSS&at_campaign=rss))
+- A-road closure extended for two weeks ([22 hours ago](https://www.bbc.com/news/articles/cpqv3lynex4o?at_medium=RSS&at_campaign=rss))
+- Memorial honours airmen killed in WW2 crash ([23 hours ago](https://www.bbc.com/news/articles/c39d2pymj12o?at_medium=RSS&at_campaign=rss))
 - Gloucestershire in Pictures: A step back in time ([1 days ago](https://www.bbc.com/news/articles/cpdjy77n083o?at_medium=RSS&at_campaign=rss))
 - Headlines: Love locks, GCSEs and early cider harvest ([1 days ago](https://www.bbc.com/news/articles/czd070ny8gyo?at_medium=RSS&at_campaign=rss))
 - Garlick completes takeover of Cheltenham Town ([1 days ago](https://www.bbc.com/sport/football/articles/clymmvjj263o?at_medium=RSS&at_campaign=rss))
@@ -53,7 +53,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - New perennial planting in the Long Gardens supports greater biodiversity ([18 days ago](https://gloucesternewscentre.co.uk/new-perennial-planting-in-the-long-gardens-supports-greater-biodiversity/))
 - Concerns benefits of Golden Valley plans near GCHQ ‘are being eroded’ ([18 days ago](https://gloucesternewscentre.co.uk/concerns-benefits-of-golden-valley-plans-near-gchq-are-being-eroded/))
 - Sadness as 131 Promenade ‘precedent’ used by justify more town centre plans ([18 days ago](https://gloucesternewscentre.co.uk/sadness-as-131-promenade-precedent-used-by-justify-more-town-centre-plans/))
-- New perennial planting in the Long Gardens supports greater biodiversity ([19 days ago](https://www.cheltenham.gov.uk/news/article/3038/new_perennial_planting_in_the_long_gardens_supports_greater_biodiversity))
+- New perennial planting in the Long Gardens supports greater biodiversity ([20 days ago](https://www.cheltenham.gov.uk/news/article/3038/new_perennial_planting_in_the_long_gardens_supports_greater_biodiversity))
 - Appeal for information after man assaults three males in Cheltenham ([24 days ago](https://gloucesternewscentre.co.uk/appeal-for-information-after-man-assaults-three-males-in-cheltenham/))
 - New bus routes set to improve in Cheltenham, Gloucester and Stroud ([24 days ago](https://gloucesternewscentre.co.uk/new-bus-routes-set-to-improve-in-cheltenham-gloucester-and-stroud/))
 - Hundreds of NHS jobs face the axe in Gloucestershire ([26 days ago](https://gloucesternewscentre.co.uk/hundreds-of-nhs-jobs-face-the-axe-in-gloucestershire/))
