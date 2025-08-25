@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Water is STILL running down the side of the road from the top of the hill. It has NOT been fixed, 25th August :- [8071174](https://www.fixmystreet.com/report/8071174)
 - Temp traffic lights not working, 25th August :- [8070774](https://www.fixmystreet.com/report/8070774)
 - Crossover not constructed properly last month and has dangerously subsided, 25th August :- [8070678](https://www.fixmystreet.com/report/8070678)
 - Unauthorised flags attached to lamp posts, 25th August :- [8070518](https://www.fixmystreet.com/report/8070518)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Weed that is turning into a bush growing out of the kerb starting to take over the pathway, 25th August :- [8068842](https://www.fixmystreet.com/report/8068842)
 - Overflowing dog bin, 24th August :- [8068610](https://www.fixmystreet.com/report/8068610)
 - No soap or water in gents' toilets, 24th August :- [8068313](https://www.fixmystreet.com/report/8068313)
-- Roadwork Signs Incorrectly Placed and Wrong Information, 24th August :- [8067973](https://www.fixmystreet.com/report/8067973)
 
 <!-- fix_marker ends -->
