@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Sign has faded cannot be read, 25th August :- [8071914](https://www.fixmystreet.com/report/8071914)
+- Abandoned cones Ermin Way, 25th August :- [8071890](https://www.fixmystreet.com/report/8071890)
+- Abandoned signs - Ermin Way jct Green Lane, Little Witcombe, 25th August :- [8071888](https://www.fixmystreet.com/report/8071888)
+- Bus shelter - damage and graffiti, 25th August :- [8071867](https://www.fixmystreet.com/report/8071867)
+- Abandoned sign, 25th August :- [8071859](https://www.fixmystreet.com/report/8071859)
 - Street Light Not Working, 25th August :- [8071542](https://www.fixmystreet.com/report/8071542)
 - Cleeve View Road - Speed Bumps, 25th August :- [8071470](https://www.fixmystreet.com/report/8071470)
 - Please arrange for this bin to be emptied?, 25th August :- [8071234](https://www.fixmystreet.com/report/8071234)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Glass in entrance to children's park, 25th August :- [8069883](https://www.fixmystreet.com/report/8069883)
 - Significant branch in road on Cowley side of road causing drivers to swerve, 25th August :- [8069869](https://www.fixmystreet.com/report/8069869)
 - Flags attached to street lights, making me feel unsafe, 25th August :- [8069640](https://www.fixmystreet.com/report/8069640)
-- 2 potholes outside The Nurseries, Cherringtons development., 25th August :- [8069505](https://www.fixmystreet.com/report/8069505)
-- 2 x flyposters attached to lampposts, 25th August :- [8069340](https://www.fixmystreet.com/report/8069340)
-- Flyposted banners x 2 on central reservation, 25th August :- [8069328](https://www.fixmystreet.com/report/8069328)
-- Flyposter, 25th August :- [8069321](https://www.fixmystreet.com/report/8069321)
-- Flyposter for Luxury Travel on railing, 25th August :- [8069314](https://www.fixmystreet.com/report/8069314)
 
 <!-- fix_marker ends -->
