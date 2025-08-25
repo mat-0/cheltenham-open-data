@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flags attached to street lights, making me feel unsafe, 25th August :- [8069640](https://www.fixmystreet.com/report/8069640)
 - 2 potholes outside The Nurseries, Cherringtons development., 25th August :- [8069505](https://www.fixmystreet.com/report/8069505)
 - 2 x flyposters attached to lampposts, 25th August :- [8069340](https://www.fixmystreet.com/report/8069340)
 - Flyposted banners x 2 on central reservation, 25th August :- [8069328](https://www.fixmystreet.com/report/8069328)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Electric Scooters - Parking completely blocking footpath, 24th August :- [8066513](https://www.fixmystreet.com/report/8066513)
 - Graffiti on road marking, 24th August :- [8066319](https://www.fixmystreet.com/report/8066319)
 - Red crosses painted on zebra crossing, 24th August :- [8065925](https://www.fixmystreet.com/report/8065925)
-- Red cross painted on white road markings, 24th August :- [8065919](https://www.fixmystreet.com/report/8065919)
 
 <!-- fix_marker ends -->

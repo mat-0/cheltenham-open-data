@@ -12,10 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Train disruption expected due to improvement works ([3 hours ago](https://www.bbc.com/news/articles/cx29e22y4l5o?at_medium=RSS&at_campaign=rss))
-- 'We were rehearsing in barns and sheds - but within six months had a record deal' ([3 hours ago](https://www.bbc.com/news/articles/c80dj0142e5o?at_medium=RSS&at_campaign=rss))
-- A-road closure extended for two weeks ([22 hours ago](https://www.bbc.com/news/articles/cpqv3lynex4o?at_medium=RSS&at_campaign=rss))
-- Memorial honours airmen killed in WW2 crash ([23 hours ago](https://www.bbc.com/news/articles/c39d2pymj12o?at_medium=RSS&at_campaign=rss))
+- Road closed after crash between car and motorbike ([35 minutes ago](https://www.bbc.com/news/articles/c9vd22kp732o?at_medium=RSS&at_campaign=rss))
+- Train disruption expected due to improvement works ([4 hours ago](https://www.bbc.com/news/articles/cx29e22y4l5o?at_medium=RSS&at_campaign=rss))
+- 'We were rehearsing in barns and sheds - but within six months had a record deal' ([4 hours ago](https://www.bbc.com/news/articles/c80dj0142e5o?at_medium=RSS&at_campaign=rss))
+- A-road closure extended for two weeks ([23 hours ago](https://www.bbc.com/news/articles/cpqv3lynex4o?at_medium=RSS&at_campaign=rss))
+- Memorial honours airmen killed in WW2 crash ([1 days ago](https://www.bbc.com/news/articles/c39d2pymj12o?at_medium=RSS&at_campaign=rss))
 - Gloucestershire in Pictures: A step back in time ([1 days ago](https://www.bbc.com/news/articles/cpdjy77n083o?at_medium=RSS&at_campaign=rss))
 - Headlines: Love locks, GCSEs and early cider harvest ([1 days ago](https://www.bbc.com/news/articles/czd070ny8gyo?at_medium=RSS&at_campaign=rss))
 - Garlick completes takeover of Cheltenham Town ([1 days ago](https://www.bbc.com/sport/football/articles/clymmvjj263o?at_medium=RSS&at_campaign=rss))
@@ -31,7 +32,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - 'No plans' for councils to block asylum hotels ([2 days ago](https://www.bbc.com/news/articles/cn85d87lw8xo?at_medium=RSS&at_campaign=rss))
 - Events in the West this bank holiday weekend ([3 days ago](https://www.bbc.com/news/articles/cvgn1yk973po?at_medium=RSS&at_campaign=rss))
 - Tribute bands festival facing council opposition ([3 days ago](https://www.bbc.com/news/articles/cr4e1qzxp55o?at_medium=RSS&at_campaign=rss))
-- 'Significant' bank holiday travel delays expected ([3 days ago](https://www.bbc.com/news/articles/cn72j55m2y2o?at_medium=RSS&at_campaign=rss))
 - 'Significant' bank holiday travel delays expected ([3 days ago](https://www.bbc.com/news/articles/cn72j55m2y2o?at_medium=RSS&at_campaign=rss))
 - A435 closure to be extended by two weeks ([3 days ago](https://gloucesternewscentre.co.uk/a435-closure-to-be-extended-by-two-weeks/))
 - Local councils not considering legal action against asylum hotels ([3 days ago](https://gloucesternewscentre.co.uk/local-councils-not-considering-legal-action-against-asylum-hotels/))
