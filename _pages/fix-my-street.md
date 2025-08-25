@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street Light Not Working, 25th August :- [8071542](https://www.fixmystreet.com/report/8071542)
+- Cleeve View Road - Speed Bumps, 25th August :- [8071470](https://www.fixmystreet.com/report/8071470)
 - Please arrange for this bin to be emptied?, 25th August :- [8071234](https://www.fixmystreet.com/report/8071234)
 - Vandalised mini roundabout, 25th August :- [8071216](https://www.fixmystreet.com/report/8071216)
 - Water is STILL running down the side of the road from the top of the hill. It has NOT been fixed, 25th August :- [8071174](https://www.fixmystreet.com/report/8071174)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Flyposted banners x 2 on central reservation, 25th August :- [8069328](https://www.fixmystreet.com/report/8069328)
 - Flyposter, 25th August :- [8069321](https://www.fixmystreet.com/report/8069321)
 - Flyposter for Luxury Travel on railing, 25th August :- [8069314](https://www.fixmystreet.com/report/8069314)
-- Mini roundabout painted over with England flag, 25th August :- [8069297](https://www.fixmystreet.com/report/8069297)
-- Weed that is turning into a bush growing out of the kerb starting to take over the pathway, 25th August :- [8068842](https://www.fixmystreet.com/report/8068842)
 
 <!-- fix_marker ends -->

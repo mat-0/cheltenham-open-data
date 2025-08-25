@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Monday, 25 August 2025
 
-- The average temperature today is 24.4˚C,
-- With highs of 24.84˚C and lows of 24.18˚C,
-- It may feel like 24.02˚C with clear sky
-- The wind speed is 4.63m/s and visibility is 10000m
-- The pressure is 1010hPa and humidity is 43%
+- The average temperature today is 21.42˚C,
+- With highs of 21.42˚C and lows of 21.42˚C,
+- It may feel like 20.87˚C with clear sky
+- The wind speed is 3.53m/s and visibility is 10000m
+- The pressure is 1011hPa and humidity is 48%
 - The sun will rise at 05:09 and set at 19:12
 
 <!-- weather_marker ends -->
