@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Water main burst, 26th August :- [8072210](https://www.fixmystreet.com/report/8072210)
+- Tree Overhanging Road, 26th August :- [8072164](https://www.fixmystreet.com/report/8072164)
 - Sign has faded cannot be read, 25th August :- [8071914](https://www.fixmystreet.com/report/8071914)
 - Abandoned cones Ermin Way, 25th August :- [8071890](https://www.fixmystreet.com/report/8071890)
 - Abandoned signs - Ermin Way jct Green Lane, Little Witcombe, 25th August :- [8071888](https://www.fixmystreet.com/report/8071888)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Blocked drain, 25th August :- [8070207](https://www.fixmystreet.com/report/8070207)
 - Street lamp, 25th August :- [8070117](https://www.fixmystreet.com/report/8070117)
 - Glass in entrance to children's park, 25th August :- [8069883](https://www.fixmystreet.com/report/8069883)
-- Significant branch in road on Cowley side of road causing drivers to swerve, 25th August :- [8069869](https://www.fixmystreet.com/report/8069869)
-- Flags attached to street lights, making me feel unsafe, 25th August :- [8069640](https://www.fixmystreet.com/report/8069640)
 
 <!-- fix_marker ends -->
