@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Not exactly a pothole but once again another area along this particular road with a traffic calming area where the bricks are loose and flying up., 26th August :- [8072477](https://www.fixmystreet.com/report/8072477)
+- Sink hole on pelican/pedestrian crossing, 26th August :- [8072284](https://www.fixmystreet.com/report/8072284)
 - Water main burst, 26th August :- [8072210](https://www.fixmystreet.com/report/8072210)
 - Tree Overhanging Road, 26th August :- [8072164](https://www.fixmystreet.com/report/8072164)
 - Sign has faded cannot be read, 25th August :- [8071914](https://www.fixmystreet.com/report/8071914)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Right of way gate padlocked. No notices to indicate reason., 25th August :- [8070437](https://www.fixmystreet.com/report/8070437)
 - The proper device for securing this tree is broken. I have been using string to try and keep it upright but I fear it isn’t strong enough and this tree will break, 25th August :- [8070425](https://www.fixmystreet.com/report/8070425)
 - Blocked drain, 25th August :- [8070207](https://www.fixmystreet.com/report/8070207)
-- Street lamp, 25th August :- [8070117](https://www.fixmystreet.com/report/8070117)
-- Glass in entrance to children's park, 25th August :- [8069883](https://www.fixmystreet.com/report/8069883)
 
 <!-- fix_marker ends -->

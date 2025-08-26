@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Residents 'walking to end of garden' to use phones ([1 hours ago](https://www.bbc.com/news/articles/crlz151r2r8o?at_medium=RSS&at_campaign=rss))
-- West's councils sell assets as debts rise by £241m ([1 hours ago](https://www.bbc.com/news/articles/cglnp2x7p50o?at_medium=RSS&at_campaign=rss))
-- Splashes and silliness at river football match ([11 hours ago](https://www.bbc.com/news/articles/c8e1201lgedo?at_medium=RSS&at_campaign=rss))
-- Woman in her 20s dies in motorcycle crash with car ([15 hours ago](https://www.bbc.com/news/articles/c9vd22kp732o?at_medium=RSS&at_campaign=rss))
-- Teen competes for Britain in barefoot waterskiing ([19 hours ago](https://www.bbc.com/news/articles/cn5e9p31yg4o?at_medium=RSS&at_campaign=rss))
+- Residents 'walking to end of garden' to use phones ([2 hours ago](https://www.bbc.com/news/articles/crlz151r2r8o?at_medium=RSS&at_campaign=rss))
+- West's councils sell assets as debts rise by £241m ([2 hours ago](https://www.bbc.com/news/articles/cglnp2x7p50o?at_medium=RSS&at_campaign=rss))
+- Splashes and silliness at river football match ([12 hours ago](https://www.bbc.com/news/articles/c8e1201lgedo?at_medium=RSS&at_campaign=rss))
+- Woman in her 20s dies in motorcycle crash with car ([16 hours ago](https://www.bbc.com/news/articles/c9vd22kp732o?at_medium=RSS&at_campaign=rss))
+- Teen competes for Britain in barefoot waterskiing ([20 hours ago](https://www.bbc.com/news/articles/cn5e9p31yg4o?at_medium=RSS&at_campaign=rss))
 - Train disruption expected due to improvement works ([1 days ago](https://www.bbc.com/news/articles/cx29e22y4l5o?at_medium=RSS&at_campaign=rss))
 - 'We were rehearsing in barns and sheds - but within six months had a record deal' ([1 days ago](https://www.bbc.com/news/articles/c80dj0142e5o?at_medium=RSS&at_campaign=rss))
 - A-road closure extended for two weeks ([1 days ago](https://www.bbc.com/news/articles/cpqv3lynex4o?at_medium=RSS&at_campaign=rss))
