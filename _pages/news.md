@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Splashes and silliness at river football match ([5 hours ago](https://www.bbc.com/news/articles/c8e1201lgedo?at_medium=RSS&at_campaign=rss))
-- Woman in her 20s dies in motorcycle crash with car ([9 hours ago](https://www.bbc.com/news/articles/c9vd22kp732o?at_medium=RSS&at_campaign=rss))
-- Teen competes for Britain in barefoot waterskiing ([13 hours ago](https://www.bbc.com/news/articles/cn5e9p31yg4o?at_medium=RSS&at_campaign=rss))
-- Train disruption expected due to improvement works ([19 hours ago](https://www.bbc.com/news/articles/cx29e22y4l5o?at_medium=RSS&at_campaign=rss))
-- 'We were rehearsing in barns and sheds - but within six months had a record deal' ([19 hours ago](https://www.bbc.com/news/articles/c80dj0142e5o?at_medium=RSS&at_campaign=rss))
+- Splashes and silliness at river football match ([6 hours ago](https://www.bbc.com/news/articles/c8e1201lgedo?at_medium=RSS&at_campaign=rss))
+- Woman in her 20s dies in motorcycle crash with car ([10 hours ago](https://www.bbc.com/news/articles/c9vd22kp732o?at_medium=RSS&at_campaign=rss))
+- Teen competes for Britain in barefoot waterskiing ([14 hours ago](https://www.bbc.com/news/articles/cn5e9p31yg4o?at_medium=RSS&at_campaign=rss))
+- Train disruption expected due to improvement works ([20 hours ago](https://www.bbc.com/news/articles/cx29e22y4l5o?at_medium=RSS&at_campaign=rss))
+- 'We were rehearsing in barns and sheds - but within six months had a record deal' ([20 hours ago](https://www.bbc.com/news/articles/c80dj0142e5o?at_medium=RSS&at_campaign=rss))
 - A-road closure extended for two weeks ([1 days ago](https://www.bbc.com/news/articles/cpqv3lynex4o?at_medium=RSS&at_campaign=rss))
 - Memorial honours airmen killed in WW2 crash ([1 days ago](https://www.bbc.com/news/articles/c39d2pymj12o?at_medium=RSS&at_campaign=rss))
 - Gloucestershire in Pictures: A step back in time ([1 days ago](https://www.bbc.com/news/articles/cpdjy77n083o?at_medium=RSS&at_campaign=rss))
