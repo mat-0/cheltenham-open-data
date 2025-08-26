@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- West's councils sell assets as debts rise by £241m ([3 minutes ago](https://www.bbc.com/news/articles/cglnp2x7p50o?at_medium=RSS&at_campaign=rss))
-- 'Strange clouds' and 'random acts of kindness' ([3 hours ago](https://www.bbc.com/news/articles/c206j1ml5lyo?at_medium=RSS&at_campaign=rss))
-- Residents 'walking to end of garden' to use phones ([7 hours ago](https://www.bbc.com/news/articles/crlz151r2r8o?at_medium=RSS&at_campaign=rss))
-- Splashes and silliness at river football match ([17 hours ago](https://www.bbc.com/news/articles/c8e1201lgedo?at_medium=RSS&at_campaign=rss))
-- Woman in her 20s dies in motorcycle crash with car ([21 hours ago](https://www.bbc.com/news/articles/c9vd22kp732o?at_medium=RSS&at_campaign=rss))
+- West's councils sell assets as debts rise by £241m ([53 minutes ago](https://www.bbc.com/news/articles/cglnp2x7p50o?at_medium=RSS&at_campaign=rss))
+- 'Strange clouds' and 'random acts of kindness' ([4 hours ago](https://www.bbc.com/news/articles/c206j1ml5lyo?at_medium=RSS&at_campaign=rss))
+- Residents 'walking to end of garden' to use phones ([8 hours ago](https://www.bbc.com/news/articles/crlz151r2r8o?at_medium=RSS&at_campaign=rss))
+- Splashes and silliness at river football match ([18 hours ago](https://www.bbc.com/news/articles/c8e1201lgedo?at_medium=RSS&at_campaign=rss))
+- Woman in her 20s dies in motorcycle crash with car ([22 hours ago](https://www.bbc.com/news/articles/c9vd22kp732o?at_medium=RSS&at_campaign=rss))
 - Teen competes for Britain in barefoot waterskiing ([1 days ago](https://www.bbc.com/news/articles/cn5e9p31yg4o?at_medium=RSS&at_campaign=rss))
 - Train disruption expected due to improvement works ([1 days ago](https://www.bbc.com/news/articles/cx29e22y4l5o?at_medium=RSS&at_campaign=rss))
 - 'We were rehearsing in barns and sheds - but within six months had a record deal' ([1 days ago](https://www.bbc.com/news/articles/c80dj0142e5o?at_medium=RSS&at_campaign=rss))
