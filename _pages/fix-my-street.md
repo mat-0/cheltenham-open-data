@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flyposter on road furniture at junction, 26th August :- [8072975](https://www.fixmystreet.com/report/8072975)
+- Flyposter on pavement, 26th August :- [8072958](https://www.fixmystreet.com/report/8072958)
+- Broken glass under circular baby swing in play area in Greyhound Gardens, 26th August :- [8072894](https://www.fixmystreet.com/report/8072894)
+- Pavement sunk and now trip hazard, 26th August :- [8072885](https://www.fixmystreet.com/report/8072885)
+- TMC - Defects - Other FW6  Surface problem, 26th August :- [8072646](https://www.fixmystreet.com/report/8072646)
+- TMC - Defects - Road Markings problem, 26th August :- [8072641](https://www.fixmystreet.com/report/8072641)
 - Not exactly a pothole but once again another area along this particular road with a traffic calming area where the bricks are loose and flying up., 26th August :- [8072477](https://www.fixmystreet.com/report/8072477)
 - Sink hole on pelican/pedestrian crossing, 26th August :- [8072284](https://www.fixmystreet.com/report/8072284)
 - Water main burst, 26th August :- [8072210](https://www.fixmystreet.com/report/8072210)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Please arrange for this bin to be emptied?, 25th August :- [8071234](https://www.fixmystreet.com/report/8071234)
 - Vandalised mini roundabout, 25th August :- [8071216](https://www.fixmystreet.com/report/8071216)
 - Water is STILL running down the side of the road from the top of the hill. It has NOT been fixed, 25th August :- [8071174](https://www.fixmystreet.com/report/8071174)
-- Temp traffic lights not working, 25th August :- [8070774](https://www.fixmystreet.com/report/8070774)
-- Crossover not constructed properly last month and has dangerously subsided, 25th August :- [8070678](https://www.fixmystreet.com/report/8070678)
-- Unauthorised flags attached to lamp posts, 25th August :- [8070518](https://www.fixmystreet.com/report/8070518)
-- Right of way gate padlocked. No notices to indicate reason., 25th August :- [8070437](https://www.fixmystreet.com/report/8070437)
-- The proper device for securing this tree is broken. I have been using string to try and keep it upright but I fear it isn’t strong enough and this tree will break, 25th August :- [8070425](https://www.fixmystreet.com/report/8070425)
-- Blocked drain, 25th August :- [8070207](https://www.fixmystreet.com/report/8070207)
 
 <!-- fix_marker ends -->
