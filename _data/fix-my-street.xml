@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:georss="http://www.georss.org/georss"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
+ xmlns:georss="http://www.georss.org/georss"
 >
 
 <channel>
@@ -12,6 +12,78 @@
 <description>The latest local problems reported by users</description>
 <language>en-gb</language>
 
+<item>
+<title>TMC - Defects - Vegetation problem, 26th August</title>
+<link>https://www.fixmystreet.com/report/8073335</link>
+<description>2 Road closure needed please cut back overgrown hedge an vegetation and brambles back to boundary approximately 200 metres x 3 metres (Overgrown Hedge)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8073335&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Vegetation</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8073335</guid>
+<pubDate>Tue, 26 Aug 2025 10:20:42 +0100</pubDate>
+<georss:point>51.904918 -2.11832760000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Vegetation problem, 26th August</title>
+<link>https://www.fixmystreet.com/report/8073334</link>
+<description>2 Road closure needed please cut back overgrown hedge an vegetation and brambles back to boundary approximately 210 metres x 3 metres (Overgrown Hedge)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8073334&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Vegetation</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8073334</guid>
+<pubDate>Tue, 26 Aug 2025 10:20:18 +0100</pubDate>
+<georss:point>51.9056954 -2.1199818</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Signs &amp; Street Furniture problem, 26th August</title>
+<link>https://www.fixmystreet.com/report/8073359</link>
+<description>Damaged Street Furniture FW ENWD ( Fencing bolts protruding  )&amp;#10;Give and take TM &amp;#10;Use pinpoint &amp;#10;MAKE SAFE WITH BARRIERS 10M TOTAL LENGTH &amp;#10;Enquiry will be raised for AHR to investigate. (Damaged Street Furniture)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8073359&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Signs &amp; Street Furniture</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8073359</guid>
+<pubDate>Tue, 26 Aug 2025 10:03:17 +0100</pubDate>
+<georss:point>51.9137113 -2.21106449999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 26th August</title>
+<link>https://www.fixmystreet.com/report/8073089</link>
+<description>Give and take plus temporary footway closure  28 day  footway abrupt level different slightly ramp up  to cover 1600x1200x30mm tarmac patch stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8073089&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8073089</guid>
+<pubDate>Tue, 26 Aug 2025 09:59:51 +0100</pubDate>
+<georss:point>51.9094823 -2.12296900000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 26th August</title>
+<link>https://www.fixmystreet.com/report/8073090</link>
+<description>Give and take plus temporary footway closure  28 day  footway abrupt level different around stw cover 1000x700x21mm tarmac patch stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8073090&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8073090</guid>
+<pubDate>Tue, 26 Aug 2025 09:59:51 +0100</pubDate>
+<georss:point>51.9094894 -2.12296849999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 26th August</title>
+<link>https://www.fixmystreet.com/report/8073093</link>
+<description>Give and take plus temporary footway closure  28 day  footway abrupt level different  in grass verge 1600x800x30 mm top soil needed number 3 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8073093&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8073093</guid>
+<pubDate>Tue, 26 Aug 2025 09:59:51 +0100</pubDate>
+<georss:point>51.9092955949272 -2.12256739277761</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 26th August</title>
+<link>https://www.fixmystreet.com/report/8073091</link>
+<description>Give and take plus temporary footway closure  28 day  footway abrupt level different around stw cover 2000x1900x25 mm tarmac patch stats required number 1 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8073091&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8073091</guid>
+<pubDate>Tue, 26 Aug 2025 09:59:51 +0100</pubDate>
+<georss:point>51.9092918 -2.12258930000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 26th August</title>
+<link>https://www.fixmystreet.com/report/8073092</link>
+<description>Give and take plus temporary footway closure  28 day  footway abrupt level different around stw cover 1600x700x28 mm tarmac patch stats required number 2 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8073092&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8073092</guid>
+<pubDate>Tue, 26 Aug 2025 09:59:51 +0100</pubDate>
+<georss:point>51.9092904137203 -2.12256932884923</georss:point>
+</item>
 <item>
 <title>Flyposter on road furniture at junction, 26th August</title>
 <link>https://www.fixmystreet.com/report/8072975</link>
@@ -29,6 +101,24 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/8072958</guid>
 <pubDate>Tue, 26 Aug 2025 09:48:14 +0100</pubDate>
 <georss:point>51.901025 -2.065204</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Signs &amp; Street Furniture problem, 26th August</title>
+<link>https://www.fixmystreet.com/report/8073094</link>
+<description>NWD with give and take 500x400x30mm temporary tarmac to make safe  sticking up metal  please cut metal and tarmac over damaged concrete bollard base cutting will be required (Damaged Street Furniture)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8073094&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Signs &amp; Street Furniture</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8073094</guid>
+<pubDate>Tue, 26 Aug 2025 09:39:52 +0100</pubDate>
+<georss:point>51.905489196058 -2.12266898761792</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 26th August</title>
+<link>https://www.fixmystreet.com/report/8073082</link>
+<description>Give and take plus temporary footway closure  28 day  footway abrupt level different 1100x800x21mm tarmac patch stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8073082&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8073082</guid>
+<pubDate>Tue, 26 Aug 2025 09:39:52 +0100</pubDate>
+<georss:point>51.9055829 -2.1228412</georss:point>
 </item>
 <item>
 <title>Broken glass under circular baby swing in play area in Greyhound Gardens, 26th August</title>
@@ -101,96 +191,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/8072164</guid>
 <pubDate>Tue, 26 Aug 2025 07:26:10 +0100</pubDate>
 <georss:point>51.888461 -2.090819</georss:point>
-</item>
-<item>
-<title>Sign has faded cannot be read, 25th August</title>
-<link>https://www.fixmystreet.com/report/8071914</link>
-<description>The upper sign has faded and needs to be replaced&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8071914.0.jpeg?58a3dcfa&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Cheltenham Road, Coberley, Cotswold&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8071914&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Sign plate is missing (Non illuminating sign)</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8071914</guid>
-<pubDate>Mon, 25 Aug 2025 23:39:52 +0100</pubDate>
-<georss:point>51.838107 -2.046042</georss:point>
-</item>
-<item>
-<title>Abandoned cones Ermin Way, 25th August</title>
-<link>https://www.fixmystreet.com/report/8071890</link>
-<description>Abandoned cones on Ermin Way, bottom of hill&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8071890.0.jpeg?cbad0ae2&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Ermin Way, Badgeworth, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8071890&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Signs &amp; Barriers left behind by Contractor</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8071890</guid>
-<pubDate>Mon, 25 Aug 2025 23:26:59 +0100</pubDate>
-<georss:point>51.836503 -2.131579</georss:point>
-</item>
-<item>
-<title>Abandoned signs - Ermin Way jct Green Lane, Little Witcombe, 25th August</title>
-<link>https://www.fixmystreet.com/report/8071888</link>
-<description>Abandoned signs left at side of road.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8071888.0.jpeg?5ada36d6&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Ermin Way, Badgeworth, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8071888&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Signs &amp; Barriers left behind by Contractor</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8071888</guid>
-<pubDate>Mon, 25 Aug 2025 23:24:45 +0100</pubDate>
-<georss:point>51.837402 -2.134168</georss:point>
-</item>
-<item>
-<title>Bus shelter - damage and graffiti, 25th August</title>
-<link>https://www.fixmystreet.com/report/8071867</link>
-<description>Panel looks to have been damaged and there is graffiti on the shelter&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8071867.0.jpeg?a342f99a&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Park Place, Warden Hill, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8071867&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Bus stop/shelter issue</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8071867</guid>
-<pubDate>Mon, 25 Aug 2025 23:10:33 +0100</pubDate>
-<georss:point>51.888044 -2.090852</georss:point>
-</item>
-<item>
-<title>Abandoned sign, 25th August</title>
-<link>https://www.fixmystreet.com/report/8071859</link>
-<description>Sign has been abandoned on the crest of the hill heading north&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8071859.0.jpeg?27b23260&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Cheltenham Road, Coberley, Cotswold&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8071859&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Sign has been vandalised (Non illuminating sign)</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8071859</guid>
-<pubDate>Mon, 25 Aug 2025 23:06:13 +0100</pubDate>
-<georss:point>51.844301 -2.047286</georss:point>
-</item>
-<item>
-<title>Street Light Not Working, 25th August</title>
-<link>https://www.fixmystreet.com/report/8071542</link>
-<description>The light outside NO 14 St Nicholas Drive has been off for several days making that end of the Col de Sac like the Blackout&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 14, St Nicholas Drive, Marle Hill, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8071542&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Street light is permanently out</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8071542</guid>
-<pubDate>Mon, 25 Aug 2025 20:35:46 +0100</pubDate>
-<georss:point>51.915584 -2.077834</georss:point>
-</item>
-<item>
-<title>Cleeve View Road - Speed Bumps, 25th August</title>
-<link>https://www.fixmystreet.com/report/8071470</link>
-<description>Request for traffic calming measures, speed bumps and/or lowering of speed limit to 20mph on Cleeve View Road.&amp;#10;&amp;#10;Vehicles frequently drive down the road at excessive speed. Since parking is on both sides of the street, excessive speed presents a significant risk to pedestrians crossing the street, and to other road users.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 39, Cleeve View Road, Lynworth, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8071470&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>General road markings, lines and stud issues</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8071470</guid>
-<pubDate>Mon, 25 Aug 2025 20:15:09 +0100</pubDate>
-<georss:point>51.903234 -2.057155</georss:point>
-</item>
-<item>
-<title>Please arrange for this bin to be emptied?, 25th August</title>
-<link>https://www.fixmystreet.com/report/8071234</link>
-<description>Thank you&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8071234.0.jpeg?20ec4808&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): St Judes Walk, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8071234&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Rubbish (refuse and recycling)</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8071234</guid>
-<pubDate>Mon, 25 Aug 2025 19:11:50 +0100</pubDate>
-<georss:point>51.887351 -2.0618</georss:point>
-</item>
-<item>
-<title>Vandalised mini roundabout, 25th August</title>
-<link>https://www.fixmystreet.com/report/8071216</link>
-<description>Someone has painted the mini roundabout at the junction of Swindon Lane and Windyridge Road&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Swindon Lane, Kingsditch, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8071216&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>General road markings, lines and stud issues</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8071216</guid>
-<pubDate>Mon, 25 Aug 2025 19:06:59 +0100</pubDate>
-<georss:point>51.918861 -2.083564</georss:point>
-</item>
-<item>
-<title>Water is STILL running down the side of the road from the top of the hill. It has NOT been fixed, 25th August</title>
-<link>https://www.fixmystreet.com/report/8071174</link>
-<description>New Road approaching Woodmancote. Top of hill opposite entrance to former Haymes Mushroom Farm. Grid Ref.: 972267. NOT at the cross roads with Gambles Lane and Two Hedges Road. Could be a field drain which is malfunctioning.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): New Road, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8071174&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>The drain is damaged</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8071174</guid>
-<pubDate>Mon, 25 Aug 2025 18:54:06 +0100</pubDate>
-<georss:point>51.938151 -2.044054</georss:point>
 </item>
 </channel>
 </rss>
