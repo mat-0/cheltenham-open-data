@@ -9,6 +9,15 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Significant vegetation had to be cut back to replace a damaged fence (caused by the vegetation). Please can you arrange for someone to pick the green waste up as there is no way to dispose of it, 26th August :- [8075208](https://www.fixmystreet.com/report/8075208)
+- Temporary lights, 26th August :- [8075153](https://www.fixmystreet.com/report/8075153)
+- Cracks in cyclepath near here - read on, 26th August :- [8075129](https://www.fixmystreet.com/report/8075129)
+- There is a long longitudinal crack in the road, 26th August :- [8075075](https://www.fixmystreet.com/report/8075075)
+- Household waste dumped, 26th August :- [8075058](https://www.fixmystreet.com/report/8075058)
+- TMC - Defects - Vegetation problem, 26th August :- [8074957](https://www.fixmystreet.com/report/8074957)
+- TMC - Defects - Footways Slabs problem, 26th August :- [8074963](https://www.fixmystreet.com/report/8074963)
+- TMC - Defects -CW6 Potholes  problem, 26th August :- [8074950](https://www.fixmystreet.com/report/8074950)
+- Pavement surface has broken away, 26th August :- [8074505](https://www.fixmystreet.com/report/8074505)
 - TMC - Defects -FW6 Potholes problem, 26th August :- [8074484](https://www.fixmystreet.com/report/8074484)
 - TMC - Defects -FW6 Potholes problem, 26th August :- [8074485](https://www.fixmystreet.com/report/8074485)
 - Red paint on mini roudabout and give way triangles, 26th August :- [8074377](https://www.fixmystreet.com/report/8074377)
@@ -20,14 +29,5 @@ permalink: /fix-my-street
 - Protective net ripped meaning basketball has come over the fence and damaged a roof on our building, 26th August :- [8074053](https://www.fixmystreet.com/report/8074053)
 - Why when the Evesham Road is closed you have decided to do works on the Prestbury Winchcombe Road close to Prestbury. This has made Southam village almost a no go area which will be made considerably worse when the schools go back next week. Why is their no coordination regarding roadworks so traffic can at least flow when the Prestbury Road is now the only route due the Evesham Road closure.your comments would be appreciated, 26th August :- [8073990](https://www.fixmystreet.com/report/8073990)
 - TMC - Defects -CW6 Potholes  problem, 26th August :- [8074238](https://www.fixmystreet.com/report/8074238)
-- Badly uneven pavement , very poor surface, trip hazard / potentially dangerous, 26th August :- [8073958](https://www.fixmystreet.com/report/8073958)
-- TMC - Defects -CW6 Potholes  problem, 26th August :- [8074236](https://www.fixmystreet.com/report/8074236)
-- TMC - Defects - Signs & Street Furniture problem, 26th August :- [8073925](https://www.fixmystreet.com/report/8073925)
-- TMC - Defects -CW6 Potholes  problem, 26th August :- [8073922](https://www.fixmystreet.com/report/8073922)
-- TMC - Defects - Other FW6  Surface problem, 26th August :- [8073911](https://www.fixmystreet.com/report/8073911)
-- TMC - Defects - Other FW6  Surface problem, 26th August :- [8073616](https://www.fixmystreet.com/report/8073616)
-- TMC - Defects -other CW6 problem, 26th August :- [8073618](https://www.fixmystreet.com/report/8073618)
-- TMC - Defects - Other FW6  Surface problem, 26th August :- [8073612](https://www.fixmystreet.com/report/8073612)
-- TMC - Defects - Other FW6  Surface problem, 26th August :- [8073611](https://www.fixmystreet.com/report/8073611)
 
 <!-- fix_marker ends -->
