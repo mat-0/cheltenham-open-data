@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Tuesday, 26 August 2025
 
-- The average temperature today is 19.62˚C,
-- With highs of 20.55˚C and lows of 19.26˚C,
-- It may feel like 19˚C with few clouds
-- The wind speed is 4.12m/s and visibility is 10000m
-- The pressure is 1006hPa and humidity is 52%
+- The average temperature today is 19.42˚C,
+- With highs of 19.42˚C and lows of 18.16˚C,
+- It may feel like 18.91˚C with overcast clouds
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 1007hPa and humidity is 57%
 - The sun will rise at 05:10 and set at 19:09
 
 <!-- weather_marker ends -->
