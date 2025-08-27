@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Wednesday, 27 August 2025
 
-- The average temperature today is 14.26˚C,
-- With highs of 14.84˚C and lows of 13.8˚C,
-- It may feel like 13.8˚C with broken clouds
-- The wind speed is 3.25m/s and visibility is 10000m
-- The pressure is 1005hPa and humidity is 79%
+- The average temperature today is 14.73˚C,
+- With highs of 14.73˚C and lows of 13.25˚C,
+- It may feel like 14.45˚C with broken clouds
+- The wind speed is 3.48m/s and visibility is 10000m
+- The pressure is 1004hPa and humidity is 84%
 - The sun will rise at 05:12 and set at 19:07
 
 <!-- weather_marker ends -->
