@@ -9,6 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects -CW6 Potholes  problem, 27th August :- [8081554](https://www.fixmystreet.com/report/8081554)
+- General road markings, lines and stud issues problem, 27th August :- [8081544](https://www.fixmystreet.com/report/8081544)
+- Path on map just ends, does it continue down Folly Lane to St Pauls?, 27th August :- [8081358](https://www.fixmystreet.com/report/8081358)
+- General road markings, lines and stud issues problem, 27th August :- [8081543](https://www.fixmystreet.com/report/8081543)
+- TMC - Defects -CW6 Potholes  problem, 27th August :- [8081555](https://www.fixmystreet.com/report/8081555)
+- TMC - Defects -CW6 Potholes  problem, 27th August :- [8081553](https://www.fixmystreet.com/report/8081553)
+- General road markings, lines and stud issues problem, 27th August :- [8081542](https://www.fixmystreet.com/report/8081542)
 - Graffiti on zebra crossing, 27th August :- [8081260](https://www.fixmystreet.com/report/8081260)
 - St George’s cross painted over road markings, 27th August :- [8081235](https://www.fixmystreet.com/report/8081235)
 - Constant damage to dropped curb and pavement and large hgv parking on front of dropped curbs, on single yellow lines and double yellow lines which means there is dangerous overtaken for cars etc to get past all the hgv, 27th August :- [8081225](https://www.fixmystreet.com/report/8081225)
@@ -22,12 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 27th August :- [8080989](https://www.fixmystreet.com/report/8080989)
 - TMC - Defects - Vegetation problem, 27th August :- [8080983](https://www.fixmystreet.com/report/8080983)
 - Flags placed on street lights, 27th August :- [8080762](https://www.fixmystreet.com/report/8080762)
-- Tree is damaged problem, 27th August :- [8080772](https://www.fixmystreet.com/report/8080772)
-- TMC - Defects -CW10 Potholes problem, 27th August :- [8080798](https://www.fixmystreet.com/report/8080798)
-- TMC - Defects -CW10 Potholes problem, 27th August :- [8080796](https://www.fixmystreet.com/report/8080796)
-- TMC - Defects -CW10 Potholes problem, 27th August :- [8080797](https://www.fixmystreet.com/report/8080797)
-- Fly tipping on cheltenham road, 27th August :- [8080541](https://www.fixmystreet.com/report/8080541)
-- TMC - Defects - Vegetation problem, 27th August :- [8080416](https://www.fixmystreet.com/report/8080416)
-- TMC - Defects - Other FW6  Surface problem, 27th August :- [8080412](https://www.fixmystreet.com/report/8080412)
 
 <!-- fix_marker ends -->
