@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Signs left on pavement, 27th August :- [8082772](https://www.fixmystreet.com/report/8082772)
 - Abandoned barriers and road signs, 27th August :- [8082281](https://www.fixmystreet.com/report/8082281)
 - Tyre dumped, 27th August :- [8082246](https://www.fixmystreet.com/report/8082246)
 - Severe uneven road surface, 27th August :- [8082038](https://www.fixmystreet.com/report/8082038)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - St George’s cross painted over road markings, 27th August :- [8081235](https://www.fixmystreet.com/report/8081235)
 - Constant damage to dropped curb and pavement and large hgv parking on front of dropped curbs, on single yellow lines and double yellow lines which means there is dangerous overtaken for cars etc to get past all the hgv, 27th August :- [8081225](https://www.fixmystreet.com/report/8081225)
 - TMC - Defects - Other FW6  Surface problem, 27th August :- [8081204](https://www.fixmystreet.com/report/8081204)
-- TMC - Defects -other CW6 problem, 27th August :- [8081203](https://www.fixmystreet.com/report/8081203)
 
 <!-- fix_marker ends -->
