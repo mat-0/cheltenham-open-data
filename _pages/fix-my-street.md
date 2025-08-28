@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Graffiti defacing roundabout, 28th August :- [8086876](https://www.fixmystreet.com/report/8086876)
+- Graffiti defacing roundabout, 28th August :- [8086863](https://www.fixmystreet.com/report/8086863)
+- Graffiti defacing roundabout, 28th August :- [8086843](https://www.fixmystreet.com/report/8086843)
+- Road markings from openreach, 28th August :- [8086770](https://www.fixmystreet.com/report/8086770)
+- Large weeds growing on pavement and curb side, 28th August :- [8086727](https://www.fixmystreet.com/report/8086727)
 - Numerous illegal flags mounted on lamppsts causing dangerous distraction to motorists on a very busy road, 28th August :- [8086446](https://www.fixmystreet.com/report/8086446)
 - Excess amounts of litter on the verges, 28th August :- [8086413](https://www.fixmystreet.com/report/8086413)
 - Unpermitted roadworks problem, 28th August :- [8085975](https://www.fixmystreet.com/report/8085975)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Barriers and signs left behind by contractor by the traffic lights at the round about, 28th August :- [8084680](https://www.fixmystreet.com/report/8084680)
 - TMC - Defects - Vegetation problem, 28th August :- [8084607](https://www.fixmystreet.com/report/8084607)
 - Bridal bridge is extremely dangerous, with rotting boards, overgrown and spring on gate broken. No horse and rider would safely be able to cross, 28th August :- [8084527](https://www.fixmystreet.com/report/8084527)
-- TMC - Defects - Other FW6  Surface problem, 28th August :- [8084414](https://www.fixmystreet.com/report/8084414)
-- TMC - Defects -FW6 Potholes problem, 28th August :- [8084402](https://www.fixmystreet.com/report/8084402)
-- St George's flag graffitied on mini roundabout at junction between Leckhampton Road and Church Road, also at Leckhampton road and Charlton Lane, 28th August :- [8084210](https://www.fixmystreet.com/report/8084210)
-- Large pot hole, 28th August :- [8084184](https://www.fixmystreet.com/report/8084184)
-- Flags fixed to street lighting on Tewkesbury Road, 28th August :- [8084157](https://www.fixmystreet.com/report/8084157)
 
 <!-- fix_marker ends -->
