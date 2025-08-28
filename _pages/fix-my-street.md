@@ -9,7 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Gas cannister in plastic bag flytipped on pavement at 100 Laynes Road, 28th August :- [8085323](https://www.fixmystreet.com/report/8085323)
 - Clearing of rubbish from road, 28th August :- [8084981](https://www.fixmystreet.com/report/8084981)
+- Unpermitted roadworks problem, 28th August :- [8085049](https://www.fixmystreet.com/report/8085049)
+- Tree is damaged problem, 28th August :- [8085048](https://www.fixmystreet.com/report/8085048)
 - TMC - Defects - Other FW6  Surface problem, 28th August :- [8084794](https://www.fixmystreet.com/report/8084794)
 - TMC - Defects - Other FW6  Surface problem, 28th August :- [8084793](https://www.fixmystreet.com/report/8084793)
 - Barriers and signs left behind by contractor by the traffic lights at the round about, 28th August :- [8084680](https://www.fixmystreet.com/report/8084680)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Signs left on pavement, 27th August :- [8082772](https://www.fixmystreet.com/report/8082772)
 - Abandoned barriers and road signs, 27th August :- [8082281](https://www.fixmystreet.com/report/8082281)
 - Tyre dumped, 27th August :- [8082246](https://www.fixmystreet.com/report/8082246)
-- Severe uneven road surface, 27th August :- [8082038](https://www.fixmystreet.com/report/8082038)
-- Large pothole, 27th August :- [8081999](https://www.fixmystreet.com/report/8081999)
-- Large pothole, 27th August :- [8081865](https://www.fixmystreet.com/report/8081865)
 
 <!-- fix_marker ends -->

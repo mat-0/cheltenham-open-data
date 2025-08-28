@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Thursday, 28 August 2025
 
-- The average temperature today is 18.82˚C,
-- With highs of 19.73˚C and lows of 17.94˚C,
-- It may feel like 18.4˚C with scattered clouds
-- The wind speed is 5.14m/s and visibility is 10000m
-- The pressure is 1001hPa and humidity is 63%
+- The average temperature today is 19.66˚C,
+- With highs of 20.38˚C and lows of 17.94˚C,
+- It may feel like 19.25˚C with scattered clouds
+- The wind speed is 5.36m/s and visibility is 10000m
+- The pressure is 1000hPa and humidity is 60%
 - The sun will rise at 05:14 and set at 19:05
 
 <!-- weather_marker ends -->
