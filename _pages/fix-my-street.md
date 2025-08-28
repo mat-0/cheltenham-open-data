@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Sever lack of safety for cyclists, 28th August :- [8087226](https://www.fixmystreet.com/report/8087226)
+- The triangle and circle signs are obscured with dirt., 28th August :- [8087035](https://www.fixmystreet.com/report/8087035)
+- Dog fouling again, 28th August :- [8086959](https://www.fixmystreet.com/report/8086959)
 - Graffiti defacing roundabout, 28th August :- [8086876](https://www.fixmystreet.com/report/8086876)
 - Graffiti defacing roundabout, 28th August :- [8086863](https://www.fixmystreet.com/report/8086863)
 - Graffiti defacing roundabout, 28th August :- [8086843](https://www.fixmystreet.com/report/8086843)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Tree is damaged problem, 28th August :- [8085048](https://www.fixmystreet.com/report/8085048)
 - TMC - Defects - Other FW6  Surface problem, 28th August :- [8084794](https://www.fixmystreet.com/report/8084794)
 - TMC - Defects - Other FW6  Surface problem, 28th August :- [8084793](https://www.fixmystreet.com/report/8084793)
-- Barriers and signs left behind by contractor by the traffic lights at the round about, 28th August :- [8084680](https://www.fixmystreet.com/report/8084680)
-- TMC - Defects - Vegetation problem, 28th August :- [8084607](https://www.fixmystreet.com/report/8084607)
-- Bridal bridge is extremely dangerous, with rotting boards, overgrown and spring on gate broken. No horse and rider would safely be able to cross, 28th August :- [8084527](https://www.fixmystreet.com/report/8084527)
 
 <!-- fix_marker ends -->
