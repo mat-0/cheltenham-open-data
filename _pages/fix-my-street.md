@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Signs left behind, 28th August :- [8083763](https://www.fixmystreet.com/report/8083763)
 - Mini roundabout painted with flag of St George, 27th August :- [8083377](https://www.fixmystreet.com/report/8083377)
 - Signs left on pavement, 27th August :- [8082772](https://www.fixmystreet.com/report/8082772)
 - Abandoned barriers and road signs, 27th August :- [8082281](https://www.fixmystreet.com/report/8082281)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - General road markings, lines and stud issues problem, 27th August :- [8081542](https://www.fixmystreet.com/report/8081542)
 - Graffiti on zebra crossing, 27th August :- [8081260](https://www.fixmystreet.com/report/8081260)
 - St George’s cross painted over road markings, 27th August :- [8081235](https://www.fixmystreet.com/report/8081235)
-- Constant damage to dropped curb and pavement and large hgv parking on front of dropped curbs, on single yellow lines and double yellow lines which means there is dangerous overtaken for cars etc to get past all the hgv, 27th August :- [8081225](https://www.fixmystreet.com/report/8081225)
 
 <!-- fix_marker ends -->
