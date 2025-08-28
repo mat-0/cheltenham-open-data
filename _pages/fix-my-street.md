@@ -9,9 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Numerous illegal flags mounted on lamppsts causing dangerous distraction to motorists on a very busy road, 28th August :- [8086446](https://www.fixmystreet.com/report/8086446)
+- Excess amounts of litter on the verges, 28th August :- [8086413](https://www.fixmystreet.com/report/8086413)
 - Unpermitted roadworks problem, 28th August :- [8085975](https://www.fixmystreet.com/report/8085975)
 - Highways Morons, 28th August :- [8085700](https://www.fixmystreet.com/report/8085700)
 - General road markings, lines and stud issues problem, 28th August :- [8085718](https://www.fixmystreet.com/report/8085718)
+- No revised speed limit signs, 28th August :- [8085634](https://www.fixmystreet.com/report/8085634)
 - Gas cannister in plastic bag flytipped on pavement at 100 Laynes Road, 28th August :- [8085323](https://www.fixmystreet.com/report/8085323)
 - Clearing of rubbish from road, 28th August :- [8084981](https://www.fixmystreet.com/report/8084981)
 - Unpermitted roadworks problem, 28th August :- [8085049](https://www.fixmystreet.com/report/8085049)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - St George's flag graffitied on mini roundabout at junction between Leckhampton Road and Church Road, also at Leckhampton road and Charlton Lane, 28th August :- [8084210](https://www.fixmystreet.com/report/8084210)
 - Large pot hole, 28th August :- [8084184](https://www.fixmystreet.com/report/8084184)
 - Flags fixed to street lighting on Tewkesbury Road, 28th August :- [8084157](https://www.fixmystreet.com/report/8084157)
-- Metal roadwork sign thrown in hedgerow, 28th August :- [8083856](https://www.fixmystreet.com/report/8083856)
-- Signs left behind, 28th August :- [8083763](https://www.fixmystreet.com/report/8083763)
-- Mini roundabout painted with flag of St George, 27th August :- [8083377](https://www.fixmystreet.com/report/8083377)
 
 <!-- fix_marker ends -->
