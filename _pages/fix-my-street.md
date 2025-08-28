@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Highways Morons, 28th August :- [8085700](https://www.fixmystreet.com/report/8085700)
+- General road markings, lines and stud issues problem, 28th August :- [8085718](https://www.fixmystreet.com/report/8085718)
 - Gas cannister in plastic bag flytipped on pavement at 100 Laynes Road, 28th August :- [8085323](https://www.fixmystreet.com/report/8085323)
 - Clearing of rubbish from road, 28th August :- [8084981](https://www.fixmystreet.com/report/8084981)
 - Unpermitted roadworks problem, 28th August :- [8085049](https://www.fixmystreet.com/report/8085049)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Signs left behind, 28th August :- [8083763](https://www.fixmystreet.com/report/8083763)
 - Mini roundabout painted with flag of St George, 27th August :- [8083377](https://www.fixmystreet.com/report/8083377)
 - Signs left on pavement, 27th August :- [8082772](https://www.fixmystreet.com/report/8082772)
-- Abandoned barriers and road signs, 27th August :- [8082281](https://www.fixmystreet.com/report/8082281)
-- Tyre dumped, 27th August :- [8082246](https://www.fixmystreet.com/report/8082246)
 
 <!-- fix_marker ends -->
