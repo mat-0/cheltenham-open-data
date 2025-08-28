@@ -13,12 +13,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
 - Council warned over unsafe water '18 months ago' ([10 hours ago](https://www.bbc.com/news/articles/ckge4gqjykeo?at_medium=RSS&at_campaign=rss))
-- Beauty spot to close for weeks due to erosion ([10 hours ago](https://www.bbc.com/news/articles/c93d53dwwzpo?at_medium=RSS&at_campaign=rss))
-- Cambray Carnival brings free fun for young people ([14 hours ago](https://gloucesternewscentre.co.uk/cambray-carnival-brings-free-fun-for-young-people/))
+- Beauty spot to close for weeks due to erosion ([11 hours ago](https://www.bbc.com/news/articles/c93d53dwwzpo?at_medium=RSS&at_campaign=rss))
+- Cambray Carnival brings free fun for young people ([15 hours ago](https://gloucesternewscentre.co.uk/cambray-carnival-brings-free-fun-for-young-people/))
 - Cambray Carnival brings free fun for young people to Cheltenham town centre ([16 hours ago](https://www.cheltenham.gov.uk/news/article/3043/cambray_carnival_brings_free_fun_for_young_people_to_cheltenham_town_centre))
-- 'Flags spreading across city' and 'save our pub' ([16 hours ago](https://www.bbc.com/news/articles/cx2pk31p5v6o?at_medium=RSS&at_campaign=rss))
-- Gloucestershire to spend £3.3m on facilities refurb ([18 hours ago](https://www.bbc.com/sport/cricket/articles/c15lxez8y0wo?at_medium=RSS&at_campaign=rss))
-- Hospital radio hopes to go online to grow audience ([20 hours ago](https://www.bbc.com/news/articles/czr6j870z3zo?at_medium=RSS&at_campaign=rss))
+- 'Flags spreading across city' and 'save our pub' ([17 hours ago](https://www.bbc.com/news/articles/cx2pk31p5v6o?at_medium=RSS&at_campaign=rss))
+- Gloucestershire to spend £3.3m on facilities refurb ([19 hours ago](https://www.bbc.com/sport/cricket/articles/c15lxez8y0wo?at_medium=RSS&at_campaign=rss))
+- Hospital radio hopes to go online to grow audience ([21 hours ago](https://www.bbc.com/news/articles/czr6j870z3zo?at_medium=RSS&at_campaign=rss))
 - Exhibition celebrates life of influential blacksmith ([21 hours ago](https://www.bbc.com/news/articles/ckgepvd0q4po?at_medium=RSS&at_campaign=rss))
 - Man 'threatened to burn families' homes down' ([1 days ago](https://www.bbc.com/news/articles/cqlexk421qgo?at_medium=RSS&at_campaign=rss))
 - West's councils sell assets as debts rise by £245m ([1 days ago](https://www.bbc.com/news/articles/cglnp2x7p50o?at_medium=RSS&at_campaign=rss))
