@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Footpath and bridleway obliterated by ploughing, 28th August :- [8087425](https://www.fixmystreet.com/report/8087425)
+- Flags left on side of bridge on Old Gloucester Road, not securely tied, could fall onto M5, 28th August :- [8087417](https://www.fixmystreet.com/report/8087417)
+- A Dead tree 🌲 in park, 28th August :- [8087329](https://www.fixmystreet.com/report/8087329)
 - Sever lack of safety for cyclists, 28th August :- [8087226](https://www.fixmystreet.com/report/8087226)
 - The triangle and circle signs are obscured with dirt., 28th August :- [8087035](https://www.fixmystreet.com/report/8087035)
 - Dog fouling again, 28th August :- [8086959](https://www.fixmystreet.com/report/8086959)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Gas cannister in plastic bag flytipped on pavement at 100 Laynes Road, 28th August :- [8085323](https://www.fixmystreet.com/report/8085323)
 - Clearing of rubbish from road, 28th August :- [8084981](https://www.fixmystreet.com/report/8084981)
 - Unpermitted roadworks problem, 28th August :- [8085049](https://www.fixmystreet.com/report/8085049)
-- Tree is damaged problem, 28th August :- [8085048](https://www.fixmystreet.com/report/8085048)
-- TMC - Defects - Other FW6  Surface problem, 28th August :- [8084794](https://www.fixmystreet.com/report/8084794)
-- TMC - Defects - Other FW6  Surface problem, 28th August :- [8084793](https://www.fixmystreet.com/report/8084793)
 
 <!-- fix_marker ends -->
