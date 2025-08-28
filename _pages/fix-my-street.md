@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Clearing of rubbish from road, 28th August :- [8084981](https://www.fixmystreet.com/report/8084981)
+- TMC - Defects - Other FW6  Surface problem, 28th August :- [8084794](https://www.fixmystreet.com/report/8084794)
+- TMC - Defects - Other FW6  Surface problem, 28th August :- [8084793](https://www.fixmystreet.com/report/8084793)
+- Barriers and signs left behind by contractor by the traffic lights at the round about, 28th August :- [8084680](https://www.fixmystreet.com/report/8084680)
+- TMC - Defects - Vegetation problem, 28th August :- [8084607](https://www.fixmystreet.com/report/8084607)
 - Bridal bridge is extremely dangerous, with rotting boards, overgrown and spring on gate broken. No horse and rider would safely be able to cross, 28th August :- [8084527](https://www.fixmystreet.com/report/8084527)
 - TMC - Defects - Other FW6  Surface problem, 28th August :- [8084414](https://www.fixmystreet.com/report/8084414)
 - TMC - Defects -FW6 Potholes problem, 28th August :- [8084402](https://www.fixmystreet.com/report/8084402)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Severe uneven road surface, 27th August :- [8082038](https://www.fixmystreet.com/report/8082038)
 - Large pothole, 27th August :- [8081999](https://www.fixmystreet.com/report/8081999)
 - Large pothole, 27th August :- [8081865](https://www.fixmystreet.com/report/8081865)
-- Road sign left over from work, 27th August :- [8081744](https://www.fixmystreet.com/report/8081744)
-- Litter all along the A38 through Norton, 27th August :- [8081726](https://www.fixmystreet.com/report/8081726)
-- TMC - Defects - Vegetation problem, 27th August :- [8081757](https://www.fixmystreet.com/report/8081757)
-- TMC - Defects -CW6 Potholes  problem, 27th August :- [8081554](https://www.fixmystreet.com/report/8081554)
-- General road markings, lines and stud issues problem, 27th August :- [8081544](https://www.fixmystreet.com/report/8081544)
 
 <!-- fix_marker ends -->
