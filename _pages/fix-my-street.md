@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Metal roadwork sign thrown in hedgerow, 28th August :- [8083856](https://www.fixmystreet.com/report/8083856)
 - Signs left behind, 28th August :- [8083763](https://www.fixmystreet.com/report/8083763)
 - Mini roundabout painted with flag of St George, 27th August :- [8083377](https://www.fixmystreet.com/report/8083377)
 - Signs left on pavement, 27th August :- [8082772](https://www.fixmystreet.com/report/8082772)
@@ -24,10 +25,9 @@ permalink: /fix-my-street
 - General road markings, lines and stud issues problem, 27th August :- [8081544](https://www.fixmystreet.com/report/8081544)
 - Path on map just ends, does it continue down Folly Lane to St Pauls?, 27th August :- [8081358](https://www.fixmystreet.com/report/8081358)
 - General road markings, lines and stud issues problem, 27th August :- [8081543](https://www.fixmystreet.com/report/8081543)
-- TMC - Defects -CW6 Potholes  problem, 27th August :- [8081555](https://www.fixmystreet.com/report/8081555)
 - TMC - Defects -CW6 Potholes  problem, 27th August :- [8081553](https://www.fixmystreet.com/report/8081553)
+- TMC - Defects -CW6 Potholes  problem, 27th August :- [8081555](https://www.fixmystreet.com/report/8081555)
 - General road markings, lines and stud issues problem, 27th August :- [8081542](https://www.fixmystreet.com/report/8081542)
 - Graffiti on zebra crossing, 27th August :- [8081260](https://www.fixmystreet.com/report/8081260)
-- St George’s cross painted over road markings, 27th August :- [8081235](https://www.fixmystreet.com/report/8081235)
 
 <!-- fix_marker ends -->
