@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Line painting/bike lane needs redoing along Hall road, 29th August :- [8092871](https://www.fixmystreet.com/report/8092871)
+- Bin not emptied & overflowing, 29th August :- [8092818](https://www.fixmystreet.com/report/8092818)
+- The advertising sign takes up half of the pavement and on occasion I have had to walk on the high street with cars turning right on to St James Rd., 29th August :- [8092653](https://www.fixmystreet.com/report/8092653)
 - Damaged pavement, 29th August :- [8092214](https://www.fixmystreet.com/report/8092214)
 - Flooding blocking the pedestrian crossing, 29th August :- [8092088](https://www.fixmystreet.com/report/8092088)
 - Maize crop planted and path not reinstated., 29th August :- [8092049](https://www.fixmystreet.com/report/8092049)
@@ -24,10 +27,7 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 29th August :- [8090877](https://www.fixmystreet.com/report/8090877)
 - Tree is damaged problem, 29th August :- [8090865](https://www.fixmystreet.com/report/8090865)
 - Dog dirt, 29th August :- [8090293](https://www.fixmystreet.com/report/8090293)
-- TMC - Defects - Other FW6  Surface problem, 29th August :- [8090405](https://www.fixmystreet.com/report/8090405)
 - TMC - Defects - Other FW6  Surface problem, 29th August :- [8090404](https://www.fixmystreet.com/report/8090404)
-- Curb is sticking in to road coming away, 29th August :- [8090166](https://www.fixmystreet.com/report/8090166)
-- TMC - Defects - Other FW6  Surface problem, 29th August :- [8090102](https://www.fixmystreet.com/report/8090102)
-- TMC - Defects - Other FW6  Surface problem, 29th August :- [8090100](https://www.fixmystreet.com/report/8090100)
+- TMC - Defects - Other FW6  Surface problem, 29th August :- [8090405](https://www.fixmystreet.com/report/8090405)
 
 <!-- fix_marker ends -->
