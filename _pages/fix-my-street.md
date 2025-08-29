@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dog dirt, 29th August :- [8090293](https://www.fixmystreet.com/report/8090293)
+- Curb is sticking in to road coming away, 29th August :- [8090166](https://www.fixmystreet.com/report/8090166)
+- TMC - Defects - Other FW6  Surface problem, 29th August :- [8090102](https://www.fixmystreet.com/report/8090102)
+- TMC - Defects - Other FW6  Surface problem, 29th August :- [8090100](https://www.fixmystreet.com/report/8090100)
 - Gullies need cleaning., 29th August :- [8089617](https://www.fixmystreet.com/report/8089617)
 - Road is raising and stopping water getting to manhole, 29th August :- [8089504](https://www.fixmystreet.com/report/8089504)
 - Complaint, 29th August :- [8089498](https://www.fixmystreet.com/report/8089498)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Graffiti defacing roundabout, 28th August :- [8086843](https://www.fixmystreet.com/report/8086843)
 - Road markings from openreach, 28th August :- [8086770](https://www.fixmystreet.com/report/8086770)
 - Large weeds growing on pavement and curb side, 28th August :- [8086727](https://www.fixmystreet.com/report/8086727)
-- Numerous illegal flags mounted on lamppsts causing dangerous distraction to motorists on a very busy road, 28th August :- [8086446](https://www.fixmystreet.com/report/8086446)
-- Excess amounts of litter on the verges, 28th August :- [8086413](https://www.fixmystreet.com/report/8086413)
-- Unpermitted roadworks problem, 28th August :- [8085975](https://www.fixmystreet.com/report/8085975)
-- Highways Morons, 28th August :- [8085700](https://www.fixmystreet.com/report/8085700)
 
 <!-- fix_marker ends -->
