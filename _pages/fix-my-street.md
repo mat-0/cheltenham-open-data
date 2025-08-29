@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Speed limit sign is obscured by branches of tree, 29th August :- [8088910](https://www.fixmystreet.com/report/8088910)
 - Tree blocking footpath since December 2024, 28th August :- [8087661](https://www.fixmystreet.com/report/8087661)
 - Footpath and bridleway obliterated by ploughing, 28th August :- [8087425](https://www.fixmystreet.com/report/8087425)
 - Flags left on side of bridge on Old Gloucester Road, not securely tied, could fall onto M5, 28th August :- [8087417](https://www.fixmystreet.com/report/8087417)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - General road markings, lines and stud issues problem, 28th August :- [8085718](https://www.fixmystreet.com/report/8085718)
 - No revised speed limit signs, 28th August :- [8085634](https://www.fixmystreet.com/report/8085634)
 - Gas cannister in plastic bag flytipped on pavement at 100 Laynes Road, 28th August :- [8085323](https://www.fixmystreet.com/report/8085323)
-- Clearing of rubbish from road, 28th August :- [8084981](https://www.fixmystreet.com/report/8084981)
 
 <!-- fix_marker ends -->
