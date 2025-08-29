@@ -10,6 +10,8 @@ permalink: /fix-my-street
 <!-- fix_marker starts -->
 
 - Dog dirt, 29th August :- [8090293](https://www.fixmystreet.com/report/8090293)
+- TMC - Defects - Other FW6  Surface problem, 29th August :- [8090404](https://www.fixmystreet.com/report/8090404)
+- TMC - Defects - Other FW6  Surface problem, 29th August :- [8090405](https://www.fixmystreet.com/report/8090405)
 - Curb is sticking in to road coming away, 29th August :- [8090166](https://www.fixmystreet.com/report/8090166)
 - TMC - Defects - Other FW6  Surface problem, 29th August :- [8090102](https://www.fixmystreet.com/report/8090102)
 - TMC - Defects - Other FW6  Surface problem, 29th August :- [8090100](https://www.fixmystreet.com/report/8090100)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Graffiti defacing roundabout, 28th August :- [8086876](https://www.fixmystreet.com/report/8086876)
 - Graffiti defacing roundabout, 28th August :- [8086863](https://www.fixmystreet.com/report/8086863)
 - Graffiti defacing roundabout, 28th August :- [8086843](https://www.fixmystreet.com/report/8086843)
-- Road markings from openreach, 28th August :- [8086770](https://www.fixmystreet.com/report/8086770)
-- Large weeds growing on pavement and curb side, 28th August :- [8086727](https://www.fixmystreet.com/report/8086727)
 
 <!-- fix_marker ends -->
