@@ -1,17 +1,123 @@
 {
-    "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
-    "meta": {
-        "publisher": "Environment Agency",
-        "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
-        "version": "0.9",
-        "comment": "Status: Beta service",
-        "hasFormat": [
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.csv?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.html?county=Gloucestershire"
-        ]
+  "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
+  "meta": {
+    "publisher": "Environment Agency",
+    "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
+    "version": "0.9",
+    "comment": "Status: Beta service",
+    "hasFormat": [
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.csv",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
+    ]
+  },
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF7ShutCray",
+      "description": "Shuttle and Cray",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF7ShutCray",
+        "county": "Bexley, Bromley, Greater London, Kent",
+        "notation": "064WAF7ShutCray",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF7ShutCray/polygon",
+        "riverOrSea": "Shuttle, Cray"
+      },
+      "floodAreaID": "064WAF7ShutCray",
+      "isTidal": false,
+      "message": "Rising river levels this morning may lead to flooding.\nFlooding of roads and low lying land is possible, property flooding is not expected.\nFlooding is possible when river levels are at their highest from 9:04 AM on 29/08/2025.\nFlooding is forecast to affect locations near the Shuttle/ Cray, with low lying land and roads expected to be most affected, particularly around low lying land and roads along the river. / low lying land and roads along the River Shuttle particularly in and around Bexley.\nFurther rainfall is forecast this afternoon but no further flooding is expected.\nWe are closely monitoring the situation and monitoring rainfall and river levels.\nTake care and avoid walking, cycling or driving through flood water.\nAvoid using low lying footpaths and any bridges near local watercourses.\nThis message will be updated by 9:05 AM on 30/08/2025, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-08-29T09:26:00",
+      "timeRaised": "2025-08-29T09:27:08",
+      "timeSeverityChanged": "2025-08-29T09:26:00"
     },
-    "items": []
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF415",
+      "description": "Aldingbourne and Barnham Rifes",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF415",
+        "county": "West Sussex",
+        "notation": "065WAF415",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF415/polygon",
+        "riverOrSea": "Aldingbourne and Barnham Rifes"
+      },
+      "floodAreaID": "065WAF415",
+      "isTidal": false,
+      "message": "River levels have fallen in Barnham following Friday mornings rain. In Bersted river levels are a little higher than normal but are not expected to rise much higher. Further scattered showers are expected this afternoon (29/08/2025) and Saturday but we are not expecting this to cause any flooding impacts. We will continue to monitor the situation and will issue further alerts or warnings if necessary.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-08-29T12:32:00",
+      "timeRaised": "2025-08-29T12:33:07",
+      "timeSeverityChanged": "2025-08-29T12:32:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF440",
+      "description": "Scrase Bridge and West Common Streams",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF440",
+        "county": "West Sussex",
+        "notation": "065WAF440",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF440/polygon",
+        "riverOrSea": "Scrase Bridge Stream, West Common Stream"
+      },
+      "floodAreaID": "065WAF440",
+      "isTidal": false,
+      "message": "River levels have fallen following Friday mornings rain. Scattered showers are expected this afternoon (29/08/2025) and Saturday but we are not expecting this to cause any flooding impacts. We will continue to monitor the situation and will issue further alerts or warnings if necessary.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-08-29T12:29:00",
+      "timeRaised": "2025-08-29T12:30:04",
+      "timeSeverityChanged": "2025-08-29T12:29:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114FWF1F2AA00",
+      "description": "River Pol and Langreek Stream at Polperro",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114FWF1F2AA00",
+        "county": "Cornwall",
+        "notation": "114FWF1F2AA00",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114FWF1F2AA00/polygon",
+        "riverOrSea": "River Pol, Langreek Stream"
+      },
+      "floodAreaID": "114FWF1F2AA00",
+      "isTidal": false,
+      "message": " The risk of flooding from the River Pol and Langreek Stream has now reduced, and river levels are falling below levels of concern. No further flooding is expected on Friday, however further rainfall is forecast on Saturday which may lead to further flooding.\n ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-08-29T10:49:00",
+      "timeRaised": "2025-08-29T10:49:15",
+      "timeSeverityChanged": "2025-08-29T10:49:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF215",
+      "description": "Western Yar",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF215",
+        "county": "Isle of Wight",
+        "notation": "065WAF215",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF215/polygon",
+        "riverOrSea": "Western Yar"
+      },
+      "floodAreaID": "065WAF215",
+      "isTidal": false,
+      "message": "Water levels in the Western Yar at Freshwater have now fallen.  40mm of rain fell in 3 hours up to 06:00 this morning, Friday (29/08/25). Further short showers are expected throughout the day, but river levels are not expected to rise significantly again.  We continue to monitor the forecast and will issue further advice if the situation changes.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-08-29T08:15:00",
+      "timeRaised": "2025-08-29T08:15:22",
+      "timeSeverityChanged": "2025-08-29T08:15:00"
+    }
+  ]
 }
