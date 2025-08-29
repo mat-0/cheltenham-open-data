@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Long term skip causing blight and antisocial issues, 29th August :- [8093215](https://www.fixmystreet.com/report/8093215)
+- Over-tall trees are dangerous in high winds, 29th August :- [8093117](https://www.fixmystreet.com/report/8093117)
 - Vehicles are mounting the kerb to pass each other and damaging the kerbs and grass verges, 29th August :- [8093071](https://www.fixmystreet.com/report/8093071)
 - Dangerous parking on the Mead Road/Churchill Road junction, 29th August :- [8093050](https://www.fixmystreet.com/report/8093050)
 - Tall trees dangerous in high winds on Mead Rd path, 29th August :- [8092997](https://www.fixmystreet.com/report/8092997)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Dog mess on pavement, 29th August :- [8091552](https://www.fixmystreet.com/report/8091552)
 - Tree overhanging footpath, 29th August :- [8091165](https://www.fixmystreet.com/report/8091165)
 - TMC - Defects - Other FW6  Surface problem, 29th August :- [8090876](https://www.fixmystreet.com/report/8090876)
-- TMC - Defects - Other FW6  Surface problem, 29th August :- [8090877](https://www.fixmystreet.com/report/8090877)
-- Tree is damaged problem, 29th August :- [8090865](https://www.fixmystreet.com/report/8090865)
 
 <!-- fix_marker ends -->
