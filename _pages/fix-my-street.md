@@ -9,9 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree overhanging footpath, 29th August :- [8091165](https://www.fixmystreet.com/report/8091165)
+- TMC - Defects - Other FW6  Surface problem, 29th August :- [8090876](https://www.fixmystreet.com/report/8090876)
+- TMC - Defects - Other FW6  Surface problem, 29th August :- [8090877](https://www.fixmystreet.com/report/8090877)
+- Tree is damaged problem, 29th August :- [8090865](https://www.fixmystreet.com/report/8090865)
 - Dog dirt, 29th August :- [8090293](https://www.fixmystreet.com/report/8090293)
-- TMC - Defects - Other FW6  Surface problem, 29th August :- [8090404](https://www.fixmystreet.com/report/8090404)
 - TMC - Defects - Other FW6  Surface problem, 29th August :- [8090405](https://www.fixmystreet.com/report/8090405)
+- TMC - Defects - Other FW6  Surface problem, 29th August :- [8090404](https://www.fixmystreet.com/report/8090404)
 - Curb is sticking in to road coming away, 29th August :- [8090166](https://www.fixmystreet.com/report/8090166)
 - TMC - Defects - Other FW6  Surface problem, 29th August :- [8090102](https://www.fixmystreet.com/report/8090102)
 - TMC - Defects - Other FW6  Surface problem, 29th August :- [8090100](https://www.fixmystreet.com/report/8090100)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - A Dead tree 🌲 in park, 28th August :- [8087329](https://www.fixmystreet.com/report/8087329)
 - Sever lack of safety for cyclists, 28th August :- [8087226](https://www.fixmystreet.com/report/8087226)
 - The triangle and circle signs are obscured with dirt., 28th August :- [8087035](https://www.fixmystreet.com/report/8087035)
-- Dog fouling again, 28th August :- [8086959](https://www.fixmystreet.com/report/8086959)
-- Graffiti defacing roundabout, 28th August :- [8086876](https://www.fixmystreet.com/report/8086876)
-- Graffiti defacing roundabout, 28th August :- [8086863](https://www.fixmystreet.com/report/8086863)
-- Graffiti defacing roundabout, 28th August :- [8086843](https://www.fixmystreet.com/report/8086843)
 
 <!-- fix_marker ends -->
