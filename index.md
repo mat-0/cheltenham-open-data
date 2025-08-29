@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Friday, 29 August 2025
 
-- The average temperature today is 18.76˚C,
-- With highs of 21.08˚C and lows of 17.69˚C,
-- It may feel like 18.6˚C with light rain
-- The wind speed is 1.03m/s and visibility is 10000m
-- The pressure is 995hPa and humidity is 73%
+- The average temperature today is 20.67˚C,
+- With highs of 22.21˚C and lows of 19.75˚C,
+- It may feel like 20.46˚C with scattered clouds
+- The wind speed is 2.57m/s and visibility is 10000m
+- The pressure is 995hPa and humidity is 64%
 - The sun will rise at 05:15 and set at 19:03
 
 <!-- weather_marker ends -->
