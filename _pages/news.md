@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Gloucestershire in Pictures: Spot the ball ([4 hours ago](https://www.bbc.com/news/articles/cd0d8575jxzo?at_medium=RSS&at_campaign=rss))
-- Empty children's home could become GP surgery ([4 hours ago](https://www.bbc.com/news/articles/cz60ze32w81o?at_medium=RSS&at_campaign=rss))
-- Pair jailed after 'mistaken identity' shooting ([17 hours ago](https://www.bbc.com/news/articles/cvgv781jeg1o?at_medium=RSS&at_campaign=rss))
-- Dog put down after 'worst case of animal cruelty' ([21 hours ago](https://www.bbc.com/news/articles/c3ezl8w55wpo?at_medium=RSS&at_campaign=rss))
+- Gloucestershire in Pictures: Spot the ball ([5 hours ago](https://www.bbc.com/news/articles/cd0d8575jxzo?at_medium=RSS&at_campaign=rss))
+- Empty children's home could become GP surgery ([5 hours ago](https://www.bbc.com/news/articles/cz60ze32w81o?at_medium=RSS&at_campaign=rss))
+- Pair jailed after 'mistaken identity' shooting ([18 hours ago](https://www.bbc.com/news/articles/cvgv781jeg1o?at_medium=RSS&at_campaign=rss))
+- Dog put down after 'worst case of animal cruelty' ([22 hours ago](https://www.bbc.com/news/articles/c3ezl8w55wpo?at_medium=RSS&at_campaign=rss))
 - 'Crash at gorge' and 'runner's 100th marathon' ([1 days ago](https://www.bbc.com/news/articles/cvg3r4x1x4ko?at_medium=RSS&at_campaign=rss))
 - Abbey's verger dogs to retire after two years ([1 days ago](https://www.bbc.com/news/articles/cj3l418v5lvo?at_medium=RSS&at_campaign=rss))
 - New abuse report at notorious school investigated ([1 days ago](https://www.bbc.com/news/articles/cvgnq2rqz73o?at_medium=RSS&at_campaign=rss))
@@ -53,7 +53,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Gloucestershire County Council launches ‘Clean Sweep’ initiative ([18 days ago](https://gloucesternewscentre.co.uk/gloucestershire-county-council-launches-clean-sweep-initiative/))
 - Cheltenham Community Allotment Group Hits Record Harvest ([18 days ago](https://gloucesternewscentre.co.uk/cheltenham-community-allotment-group-hits-record-harvest/))
 - Stroud Greens oppose ‘disturbing’ Government proposals to sell off allotments ([18 days ago](https://gloucesternewscentre.co.uk/stroud-greens-oppose-disturbing-government-proposals-to-sell-off-allotments/))
-- Cheltenham to mark 80th anniversary of VJ Day ([21 days ago](https://www.cheltenham.gov.uk/news/article/3039/cheltenham_to_mark_80th_anniversary_of_vj_day))
+- Cheltenham to mark 80th anniversary of VJ Day ([22 days ago](https://www.cheltenham.gov.uk/news/article/3039/cheltenham_to_mark_80th_anniversary_of_vj_day))
 - ‘Beautiful and fitting’ tribute to Cheltenham’s fallen WWI heroes as website tells their stories ([23 days ago](https://gloucesternewscentre.co.uk/beautiful-and-fitting-tribute-to-cheltenhams-fallen-wwi-heroes-as-website-tells-their-stories/))
 - New perennial planting in the Long Gardens supports greater biodiversity ([23 days ago](https://gloucesternewscentre.co.uk/new-perennial-planting-in-the-long-gardens-supports-greater-biodiversity/))
 - Concerns benefits of Golden Valley plans near GCHQ ‘are being eroded’ ([23 days ago](https://gloucesternewscentre.co.uk/concerns-benefits-of-golden-valley-plans-near-gchq-are-being-eroded/))

@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Graffiti on pelican crossing white lines, 30th August :- [8095166](https://www.fixmystreet.com/report/8095166)
+- Dog dirt on pavement, 30th August :- [8094965](https://www.fixmystreet.com/report/8094965)
 - Vandalised roundabout, 30th August :- [8094904](https://www.fixmystreet.com/report/8094904)
 - White central circle for roundabout defaced with red paint, 30th August :- [8094902](https://www.fixmystreet.com/report/8094902)
 - Dumped fridge, 30th August :- [8094699](https://www.fixmystreet.com/report/8094699)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - The advertising sign takes up half of the pavement and on occasion I have had to walk on the high street with cars turning right on to St James Rd., 29th August :- [8092653](https://www.fixmystreet.com/report/8092653)
 - Damaged pavement, 29th August :- [8092214](https://www.fixmystreet.com/report/8092214)
 - Flooding blocking the pedestrian crossing, 29th August :- [8092088](https://www.fixmystreet.com/report/8092088)
-- Maize crop planted and path not reinstated., 29th August :- [8092049](https://www.fixmystreet.com/report/8092049)
-- Red painted crosses on roundabouts and crossings, 29th August :- [8092042](https://www.fixmystreet.com/report/8092042)
 
 <!-- fix_marker ends -->
