@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Vandalised roundabout, 30th August :- [8094904](https://www.fixmystreet.com/report/8094904)
+- White central circle for roundabout defaced with red paint, 30th August :- [8094902](https://www.fixmystreet.com/report/8094902)
+- Dumped fridge, 30th August :- [8094699](https://www.fixmystreet.com/report/8094699)
+- Flags still not removed from lamp posts, 30th August :- [8094684](https://www.fixmystreet.com/report/8094684)
 - The hedge is overgrown, 30th August :- [8094311](https://www.fixmystreet.com/report/8094311)
 - White Ford Transit Van, 30th August :- [8094091](https://www.fixmystreet.com/report/8094091)
 - Green filter left turn light onto St George’s Road is not working again, 30th August :- [8094078](https://www.fixmystreet.com/report/8094078)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Flooding blocking the pedestrian crossing, 29th August :- [8092088](https://www.fixmystreet.com/report/8092088)
 - Maize crop planted and path not reinstated., 29th August :- [8092049](https://www.fixmystreet.com/report/8092049)
 - Red painted crosses on roundabouts and crossings, 29th August :- [8092042](https://www.fixmystreet.com/report/8092042)
-- Tree is damaged problem, 29th August :- [8091788](https://www.fixmystreet.com/report/8091788)
-- TMC - Defects - Other FW6  Surface problem, 29th August :- [8091607](https://www.fixmystreet.com/report/8091607)
-- Red lines have been painted on the white Road markings. This is offensive and illegal.., 29th August :- [8091564](https://www.fixmystreet.com/report/8091564)
-- Flyposter on pedestrian crossing lights, 29th August :- [8091563](https://www.fixmystreet.com/report/8091563)
 
 <!-- fix_marker ends -->
