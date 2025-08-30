@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Saturday, 30 August 2025
 
-- The average temperature today is 19.76˚C,
-- With highs of 20.55˚C and lows of 18.8˚C,
-- It may feel like 19.59˚C with broken clouds
-- The wind speed is 6.69m/s and visibility is 10000m
-- The pressure is 1000hPa and humidity is 69%
+- The average temperature today is 18.41˚C,
+- With highs of 19.43˚C and lows of 17.75˚C,
+- It may feel like 18.37˚C with light rain
+- The wind speed is 6.69m/s and visibility is 9000m
+- The pressure is 1000hPa and humidity is 79%
 - The sun will rise at 05:17 and set at 19:01
 
 <!-- weather_marker ends -->
