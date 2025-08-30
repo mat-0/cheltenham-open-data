@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The hedge is overgrown, 30th August :- [8094311](https://www.fixmystreet.com/report/8094311)
+- White Ford Transit Van, 30th August :- [8094091](https://www.fixmystreet.com/report/8094091)
+- Green filter left turn light onto St George’s Road is not working again, 30th August :- [8094078](https://www.fixmystreet.com/report/8094078)
+- Gaps in Redthorne Way foot path need filling., 30th August :- [8094045](https://www.fixmystreet.com/report/8094045)
 - Long term skip causing blight and antisocial issues, 29th August :- [8093215](https://www.fixmystreet.com/report/8093215)
 - Over-tall trees are dangerous in high winds, 29th August :- [8093117](https://www.fixmystreet.com/report/8093117)
 - Vehicles are mounting the kerb to pass each other and damaging the kerbs and grass verges, 29th August :- [8093071](https://www.fixmystreet.com/report/8093071)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 29th August :- [8091607](https://www.fixmystreet.com/report/8091607)
 - Red lines have been painted on the white Road markings. This is offensive and illegal.., 29th August :- [8091564](https://www.fixmystreet.com/report/8091564)
 - Flyposter on pedestrian crossing lights, 29th August :- [8091563](https://www.fixmystreet.com/report/8091563)
-- Flyposter on pavement, 29th August :- [8091560](https://www.fixmystreet.com/report/8091560)
-- Dog mess on pavement, 29th August :- [8091552](https://www.fixmystreet.com/report/8091552)
-- Tree overhanging footpath, 29th August :- [8091165](https://www.fixmystreet.com/report/8091165)
-- TMC - Defects - Other FW6  Surface problem, 29th August :- [8090876](https://www.fixmystreet.com/report/8090876)
 
 <!-- fix_marker ends -->
