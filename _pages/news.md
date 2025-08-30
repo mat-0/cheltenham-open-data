@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Climbing centre makes its mark with first festival ([3 hours ago](https://www.bbc.com/news/articles/cvg3rj25l04o?at_medium=RSS&at_campaign=rss))
-- Demo and counter-demo protest near migrant hotel ([6 hours ago](https://www.bbc.com/news/articles/c860z29p5j6o?at_medium=RSS&at_campaign=rss))
-- Gloucestershire in Pictures: Spot the ball ([14 hours ago](https://www.bbc.com/news/articles/cd0d8575jxzo?at_medium=RSS&at_campaign=rss))
-- Empty children's home could become GP surgery ([14 hours ago](https://www.bbc.com/news/articles/cz60ze32w81o?at_medium=RSS&at_campaign=rss))
+- Climbing centre makes its mark with first festival ([4 hours ago](https://www.bbc.com/news/articles/cvg3rj25l04o?at_medium=RSS&at_campaign=rss))
+- Demo and counter-demo protest near migrant hotel ([7 hours ago](https://www.bbc.com/news/articles/c860z29p5j6o?at_medium=RSS&at_campaign=rss))
+- Gloucestershire in Pictures: Spot the ball ([15 hours ago](https://www.bbc.com/news/articles/cd0d8575jxzo?at_medium=RSS&at_campaign=rss))
+- Empty children's home could become GP surgery ([15 hours ago](https://www.bbc.com/news/articles/cz60ze32w81o?at_medium=RSS&at_campaign=rss))
 - Pair jailed after 'mistaken identity' shooting ([1 days ago](https://www.bbc.com/news/articles/cvgv781jeg1o?at_medium=RSS&at_campaign=rss))
 - Dog put down after 'worst case of animal cruelty' ([1 days ago](https://www.bbc.com/news/articles/c3ezl8w55wpo?at_medium=RSS&at_campaign=rss))
 - 'Crash at gorge' and 'runner's 100th marathon' ([1 days ago](https://www.bbc.com/news/articles/cvg3r4x1x4ko?at_medium=RSS&at_campaign=rss))
