@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Climbing centre makes its mark with first festival ([2 hours ago](https://www.bbc.com/news/articles/cvg3rj25l04o?at_medium=RSS&at_campaign=rss))
-- Demo and counter-demo protest near migrant hotel ([5 hours ago](https://www.bbc.com/news/articles/c860z29p5j6o?at_medium=RSS&at_campaign=rss))
-- Gloucestershire in Pictures: Spot the ball ([13 hours ago](https://www.bbc.com/news/articles/cd0d8575jxzo?at_medium=RSS&at_campaign=rss))
-- Empty children's home could become GP surgery ([13 hours ago](https://www.bbc.com/news/articles/cz60ze32w81o?at_medium=RSS&at_campaign=rss))
+- Climbing centre makes its mark with first festival ([3 hours ago](https://www.bbc.com/news/articles/cvg3rj25l04o?at_medium=RSS&at_campaign=rss))
+- Demo and counter-demo protest near migrant hotel ([6 hours ago](https://www.bbc.com/news/articles/c860z29p5j6o?at_medium=RSS&at_campaign=rss))
+- Gloucestershire in Pictures: Spot the ball ([14 hours ago](https://www.bbc.com/news/articles/cd0d8575jxzo?at_medium=RSS&at_campaign=rss))
+- Empty children's home could become GP surgery ([14 hours ago](https://www.bbc.com/news/articles/cz60ze32w81o?at_medium=RSS&at_campaign=rss))
 - Pair jailed after 'mistaken identity' shooting ([1 days ago](https://www.bbc.com/news/articles/cvgv781jeg1o?at_medium=RSS&at_campaign=rss))
 - Dog put down after 'worst case of animal cruelty' ([1 days ago](https://www.bbc.com/news/articles/c3ezl8w55wpo?at_medium=RSS&at_campaign=rss))
 - 'Crash at gorge' and 'runner's 100th marathon' ([1 days ago](https://www.bbc.com/news/articles/cvg3r4x1x4ko?at_medium=RSS&at_campaign=rss))
@@ -54,10 +54,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Cheltenham Community Allotment Group Hits Record Harvest ([19 days ago](https://gloucesternewscentre.co.uk/cheltenham-community-allotment-group-hits-record-harvest/))
 - Stroud Greens oppose ‘disturbing’ Government proposals to sell off allotments ([19 days ago](https://gloucesternewscentre.co.uk/stroud-greens-oppose-disturbing-government-proposals-to-sell-off-allotments/))
 - Cheltenham to mark 80th anniversary of VJ Day ([22 days ago](https://www.cheltenham.gov.uk/news/article/3039/cheltenham_to_mark_80th_anniversary_of_vj_day))
-- ‘Beautiful and fitting’ tribute to Cheltenham’s fallen WWI heroes as website tells their stories ([23 days ago](https://gloucesternewscentre.co.uk/beautiful-and-fitting-tribute-to-cheltenhams-fallen-wwi-heroes-as-website-tells-their-stories/))
-- New perennial planting in the Long Gardens supports greater biodiversity ([23 days ago](https://gloucesternewscentre.co.uk/new-perennial-planting-in-the-long-gardens-supports-greater-biodiversity/))
-- Concerns benefits of Golden Valley plans near GCHQ ‘are being eroded’ ([23 days ago](https://gloucesternewscentre.co.uk/concerns-benefits-of-golden-valley-plans-near-gchq-are-being-eroded/))
-- Sadness as 131 Promenade ‘precedent’ used by justify more town centre plans ([23 days ago](https://gloucesternewscentre.co.uk/sadness-as-131-promenade-precedent-used-by-justify-more-town-centre-plans/))
+- ‘Beautiful and fitting’ tribute to Cheltenham’s fallen WWI heroes as website tells their stories ([24 days ago](https://gloucesternewscentre.co.uk/beautiful-and-fitting-tribute-to-cheltenhams-fallen-wwi-heroes-as-website-tells-their-stories/))
+- New perennial planting in the Long Gardens supports greater biodiversity ([24 days ago](https://gloucesternewscentre.co.uk/new-perennial-planting-in-the-long-gardens-supports-greater-biodiversity/))
+- Concerns benefits of Golden Valley plans near GCHQ ‘are being eroded’ ([24 days ago](https://gloucesternewscentre.co.uk/concerns-benefits-of-golden-valley-plans-near-gchq-are-being-eroded/))
+- Sadness as 131 Promenade ‘precedent’ used by justify more town centre plans ([24 days ago](https://gloucesternewscentre.co.uk/sadness-as-131-promenade-precedent-used-by-justify-more-town-centre-plans/))
 - New perennial planting in the Long Gardens supports greater biodiversity ([25 days ago](https://www.cheltenham.gov.uk/news/article/3038/new_perennial_planting_in_the_long_gardens_supports_greater_biodiversity))
 
 <!-- news_marker ends -->
