@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Poor road repair to granite sets, 30th August :- [8095388](https://www.fixmystreet.com/report/8095388)
+- In the middle of the road, 30th August :- [8095262](https://www.fixmystreet.com/report/8095262)
 - Graffiti on pelican crossing white lines, 30th August :- [8095166](https://www.fixmystreet.com/report/8095166)
 - Dog dirt on pavement, 30th August :- [8094965](https://www.fixmystreet.com/report/8094965)
 - Vandalised roundabout, 30th August :- [8094904](https://www.fixmystreet.com/report/8094904)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Line painting/bike lane needs redoing along Hall road, 29th August :- [8092871](https://www.fixmystreet.com/report/8092871)
 - Bin not emptied & overflowing, 29th August :- [8092818](https://www.fixmystreet.com/report/8092818)
 - The advertising sign takes up half of the pavement and on occasion I have had to walk on the high street with cars turning right on to St James Rd., 29th August :- [8092653](https://www.fixmystreet.com/report/8092653)
-- Damaged pavement, 29th August :- [8092214](https://www.fixmystreet.com/report/8092214)
-- Flooding blocking the pedestrian crossing, 29th August :- [8092088](https://www.fixmystreet.com/report/8092088)
 
 <!-- fix_marker ends -->
