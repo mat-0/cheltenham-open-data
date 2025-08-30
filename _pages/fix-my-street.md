@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- General rubbish dump in a small triangle grass section, 30th August :- [8095817](https://www.fixmystreet.com/report/8095817)
+- Large amount of corrugated cardboard, 30th August :- [8095815](https://www.fixmystreet.com/report/8095815)
+- The whole length of the A40, is a litter tip awful message and the one bin provided halfway down was over flowing ., 30th August :- [8095773](https://www.fixmystreet.com/report/8095773)
 - Poor road repair to granite sets, 30th August :- [8095388](https://www.fixmystreet.com/report/8095388)
 - In the middle of the road, 30th August :- [8095262](https://www.fixmystreet.com/report/8095262)
 - Graffiti on pelican crossing white lines, 30th August :- [8095166](https://www.fixmystreet.com/report/8095166)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Vehicles are mounting the kerb to pass each other and damaging the kerbs and grass verges, 29th August :- [8093071](https://www.fixmystreet.com/report/8093071)
 - Dangerous parking on the Mead Road/Churchill Road junction, 29th August :- [8093050](https://www.fixmystreet.com/report/8093050)
 - Tall trees dangerous in high winds on Mead Rd path, 29th August :- [8092997](https://www.fixmystreet.com/report/8092997)
-- Line painting/bike lane needs redoing along Hall road, 29th August :- [8092871](https://www.fixmystreet.com/report/8092871)
-- Bin not emptied & overflowing, 29th August :- [8092818](https://www.fixmystreet.com/report/8092818)
-- The advertising sign takes up half of the pavement and on occasion I have had to walk on the high street with cars turning right on to St James Rd., 29th August :- [8092653](https://www.fixmystreet.com/report/8092653)
 
 <!-- fix_marker ends -->
