@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Gloucestershire in Pictures: Spot the ball ([2 hours ago](https://www.bbc.com/news/articles/cd0d8575jxzo?at_medium=RSS&at_campaign=rss))
-- Empty children's home could become GP surgery ([2 hours ago](https://www.bbc.com/news/articles/cz60ze32w81o?at_medium=RSS&at_campaign=rss))
-- Pair jailed after 'mistaken identity' shooting ([15 hours ago](https://www.bbc.com/news/articles/cvgv781jeg1o?at_medium=RSS&at_campaign=rss))
-- Dog put down after 'worst case of animal cruelty' ([19 hours ago](https://www.bbc.com/news/articles/c3ezl8w55wpo?at_medium=RSS&at_campaign=rss))
-- 'Crash at gorge' and 'runner's 100th marathon' ([22 hours ago](https://www.bbc.com/news/articles/cvg3r4x1x4ko?at_medium=RSS&at_campaign=rss))
-- Abbey's verger dogs to retire after two years ([22 hours ago](https://www.bbc.com/news/articles/cj3l418v5lvo?at_medium=RSS&at_campaign=rss))
+- Gloucestershire in Pictures: Spot the ball ([3 hours ago](https://www.bbc.com/news/articles/cd0d8575jxzo?at_medium=RSS&at_campaign=rss))
+- Empty children's home could become GP surgery ([3 hours ago](https://www.bbc.com/news/articles/cz60ze32w81o?at_medium=RSS&at_campaign=rss))
+- Pair jailed after 'mistaken identity' shooting ([16 hours ago](https://www.bbc.com/news/articles/cvgv781jeg1o?at_medium=RSS&at_campaign=rss))
+- Dog put down after 'worst case of animal cruelty' ([20 hours ago](https://www.bbc.com/news/articles/c3ezl8w55wpo?at_medium=RSS&at_campaign=rss))
+- 'Crash at gorge' and 'runner's 100th marathon' ([23 hours ago](https://www.bbc.com/news/articles/cvg3r4x1x4ko?at_medium=RSS&at_campaign=rss))
+- Abbey's verger dogs to retire after two years ([23 hours ago](https://www.bbc.com/news/articles/cj3l418v5lvo?at_medium=RSS&at_campaign=rss))
 - New abuse report at notorious school investigated ([1 days ago](https://www.bbc.com/news/articles/cvgnq2rqz73o?at_medium=RSS&at_campaign=rss))
 - Crematorium planned near motorway despite concerns ([1 days ago](https://www.bbc.com/news/articles/c62nm6z8202o?at_medium=RSS&at_campaign=rss))
 - Tribute band festival cancelled at short notice ([1 days ago](https://www.bbc.com/news/articles/cz71znl0nnpo?at_medium=RSS&at_campaign=rss))
@@ -58,7 +58,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - New perennial planting in the Long Gardens supports greater biodiversity ([23 days ago](https://gloucesternewscentre.co.uk/new-perennial-planting-in-the-long-gardens-supports-greater-biodiversity/))
 - Concerns benefits of Golden Valley plans near GCHQ ‘are being eroded’ ([23 days ago](https://gloucesternewscentre.co.uk/concerns-benefits-of-golden-valley-plans-near-gchq-are-being-eroded/))
 - Sadness as 131 Promenade ‘precedent’ used by justify more town centre plans ([23 days ago](https://gloucesternewscentre.co.uk/sadness-as-131-promenade-precedent-used-by-justify-more-town-centre-plans/))
-- New perennial planting in the Long Gardens supports greater biodiversity ([24 days ago](https://www.cheltenham.gov.uk/news/article/3038/new_perennial_planting_in_the_long_gardens_supports_greater_biodiversity))
+- New perennial planting in the Long Gardens supports greater biodiversity ([25 days ago](https://www.cheltenham.gov.uk/news/article/3038/new_perennial_planting_in_the_long_gardens_supports_greater_biodiversity))
 - Appeal for information after man assaults three males in Cheltenham ([29 days ago](https://gloucesternewscentre.co.uk/appeal-for-information-after-man-assaults-three-males-in-cheltenham/))
 - New bus routes set to improve in Cheltenham, Gloucester and Stroud ([29 days ago](https://gloucesternewscentre.co.uk/new-bus-routes-set-to-improve-in-cheltenham-gloucester-and-stroud/))
 
