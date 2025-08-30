@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- At juntion to carlyle grove. 1.2m x .0.25m, 30th August :- [8096297](https://www.fixmystreet.com/report/8096297)
+- Pavement is crumbling away, 30th August :- [8096227](https://www.fixmystreet.com/report/8096227)
 - General rubbish dump in a small triangle grass section, 30th August :- [8095817](https://www.fixmystreet.com/report/8095817)
 - Large amount of corrugated cardboard, 30th August :- [8095815](https://www.fixmystreet.com/report/8095815)
 - The whole length of the A40, is a litter tip awful message and the one bin provided halfway down was over flowing ., 30th August :- [8095773](https://www.fixmystreet.com/report/8095773)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Long term skip causing blight and antisocial issues, 29th August :- [8093215](https://www.fixmystreet.com/report/8093215)
 - Over-tall trees are dangerous in high winds, 29th August :- [8093117](https://www.fixmystreet.com/report/8093117)
 - Vehicles are mounting the kerb to pass each other and damaging the kerbs and grass verges, 29th August :- [8093071](https://www.fixmystreet.com/report/8093071)
-- Dangerous parking on the Mead Road/Churchill Road junction, 29th August :- [8093050](https://www.fixmystreet.com/report/8093050)
-- Tall trees dangerous in high winds on Mead Rd path, 29th August :- [8092997](https://www.fixmystreet.com/report/8092997)
 
 <!-- fix_marker ends -->

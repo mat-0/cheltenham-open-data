@@ -12,10 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Demo and counter-demo protest near migrant hotel ([2 hours ago](https://www.bbc.com/news/articles/c860z29p5j6o?at_medium=RSS&at_campaign=rss))
-- Gloucestershire in Pictures: Spot the ball ([10 hours ago](https://www.bbc.com/news/articles/cd0d8575jxzo?at_medium=RSS&at_campaign=rss))
-- Empty children's home could become GP surgery ([10 hours ago](https://www.bbc.com/news/articles/cz60ze32w81o?at_medium=RSS&at_campaign=rss))
-- Pair jailed after 'mistaken identity' shooting ([23 hours ago](https://www.bbc.com/news/articles/cvgv781jeg1o?at_medium=RSS&at_campaign=rss))
+- Climbing centre makes its mark with first festival ([50 minutes ago](https://www.bbc.com/news/articles/cvg3rj25l04o?at_medium=RSS&at_campaign=rss))
+- Demo and counter-demo protest near migrant hotel ([3 hours ago](https://www.bbc.com/news/articles/c860z29p5j6o?at_medium=RSS&at_campaign=rss))
+- Gloucestershire in Pictures: Spot the ball ([11 hours ago](https://www.bbc.com/news/articles/cd0d8575jxzo?at_medium=RSS&at_campaign=rss))
+- Empty children's home could become GP surgery ([11 hours ago](https://www.bbc.com/news/articles/cz60ze32w81o?at_medium=RSS&at_campaign=rss))
+- Pair jailed after 'mistaken identity' shooting ([1 days ago](https://www.bbc.com/news/articles/cvgv781jeg1o?at_medium=RSS&at_campaign=rss))
 - Dog put down after 'worst case of animal cruelty' ([1 days ago](https://www.bbc.com/news/articles/c3ezl8w55wpo?at_medium=RSS&at_campaign=rss))
 - 'Crash at gorge' and 'runner's 100th marathon' ([1 days ago](https://www.bbc.com/news/articles/cvg3r4x1x4ko?at_medium=RSS&at_campaign=rss))
 - Abbey's verger dogs to retire after two years ([1 days ago](https://www.bbc.com/news/articles/cj3l418v5lvo?at_medium=RSS&at_campaign=rss))
@@ -25,7 +26,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Men plead guilty after 'mistaken identity' shooting ([1 days ago](https://www.bbc.com/news/articles/cq58x9x2xzwo?at_medium=RSS&at_campaign=rss))
 - Everyman Theatre announces first cast members for 2025 pantomime ([2 days ago](https://gloucesternewscentre.co.uk/everyman-theatre-announces-first-cast-members-for-2025-pantomime/))
 - Gloucestershire gears up for Cycle September ([2 days ago](https://gloucesternewscentre.co.uk/gloucestershire-gears-up-for-cycle-september/))
-- Dry weather means no winter feed for farmer's cows ([2 days ago](https://www.bbc.com/news/articles/cpqv0jg220vo?at_medium=RSS&at_campaign=rss))
 - Man who took on four council jobs at once jailed ([2 days ago](https://www.bbc.com/news/articles/c3dp7m4yv2xo?at_medium=RSS&at_campaign=rss))
 - 'We're proud to spend £200 to put up flags' ([2 days ago](https://www.bbc.com/news/articles/czxpel6dwr0o?at_medium=RSS&at_campaign=rss))
 - Pieces of cathedral go on sale to fund restoration ([2 days ago](https://www.bbc.com/news/articles/c4gqvnpnz3go?at_medium=RSS&at_campaign=rss))
@@ -59,7 +59,5 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Concerns benefits of Golden Valley plans near GCHQ ‘are being eroded’ ([23 days ago](https://gloucesternewscentre.co.uk/concerns-benefits-of-golden-valley-plans-near-gchq-are-being-eroded/))
 - Sadness as 131 Promenade ‘precedent’ used by justify more town centre plans ([23 days ago](https://gloucesternewscentre.co.uk/sadness-as-131-promenade-precedent-used-by-justify-more-town-centre-plans/))
 - New perennial planting in the Long Gardens supports greater biodiversity ([25 days ago](https://www.cheltenham.gov.uk/news/article/3038/new_perennial_planting_in_the_long_gardens_supports_greater_biodiversity))
-- Appeal for information after man assaults three males in Cheltenham ([29 days ago](https://gloucesternewscentre.co.uk/appeal-for-information-after-man-assaults-three-males-in-cheltenham/))
-- New bus routes set to improve in Cheltenham, Gloucester and Stroud ([29 days ago](https://gloucesternewscentre.co.uk/new-bus-routes-set-to-improve-in-cheltenham-gloucester-and-stroud/))
 
 <!-- news_marker ends -->
