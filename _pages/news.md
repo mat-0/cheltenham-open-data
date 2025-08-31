@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- 'Lifeline' bus replaced after residents' campaign ([4 hours ago](https://www.bbc.com/news/articles/c7760xlgzl8o?at_medium=RSS&at_campaign=rss))
-- 'Flag displays' and 'man with four council jobs' ([4 hours ago](https://www.bbc.com/news/articles/cy4d59nd01qo?at_medium=RSS&at_campaign=rss))
-- Climbing centre makes its mark with first festival ([17 hours ago](https://www.bbc.com/news/articles/cvg3rj25l04o?at_medium=RSS&at_campaign=rss))
-- Demo and counter-demo protest near migrant hotel ([20 hours ago](https://www.bbc.com/news/articles/c860z29p5j6o?at_medium=RSS&at_campaign=rss))
+- 'Lifeline' bus replaced after residents' campaign ([5 hours ago](https://www.bbc.com/news/articles/c7760xlgzl8o?at_medium=RSS&at_campaign=rss))
+- 'Flag displays' and 'man with four council jobs' ([5 hours ago](https://www.bbc.com/news/articles/cy4d59nd01qo?at_medium=RSS&at_campaign=rss))
+- Climbing centre makes its mark with first festival ([18 hours ago](https://www.bbc.com/news/articles/cvg3rj25l04o?at_medium=RSS&at_campaign=rss))
+- Demo and counter-demo protest near migrant hotel ([21 hours ago](https://www.bbc.com/news/articles/c860z29p5j6o?at_medium=RSS&at_campaign=rss))
 - Gloucestershire in Pictures: Spot the ball ([1 days ago](https://www.bbc.com/news/articles/cd0d8575jxzo?at_medium=RSS&at_campaign=rss))
 - Empty children's home could become GP surgery ([1 days ago](https://www.bbc.com/news/articles/cz60ze32w81o?at_medium=RSS&at_campaign=rss))
 - Pair jailed after 'mistaken identity' shooting ([1 days ago](https://www.bbc.com/news/articles/cvgv781jeg1o?at_medium=RSS&at_campaign=rss))
@@ -53,7 +53,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Gloucestershire County Council launches ‘Clean Sweep’ initiative ([19 days ago](https://gloucesternewscentre.co.uk/gloucestershire-county-council-launches-clean-sweep-initiative/))
 - Cheltenham Community Allotment Group Hits Record Harvest ([19 days ago](https://gloucesternewscentre.co.uk/cheltenham-community-allotment-group-hits-record-harvest/))
 - Stroud Greens oppose ‘disturbing’ Government proposals to sell off allotments ([19 days ago](https://gloucesternewscentre.co.uk/stroud-greens-oppose-disturbing-government-proposals-to-sell-off-allotments/))
-- Cheltenham to mark 80th anniversary of VJ Day ([22 days ago](https://www.cheltenham.gov.uk/news/article/3039/cheltenham_to_mark_80th_anniversary_of_vj_day))
+- Cheltenham to mark 80th anniversary of VJ Day ([23 days ago](https://www.cheltenham.gov.uk/news/article/3039/cheltenham_to_mark_80th_anniversary_of_vj_day))
 - ‘Beautiful and fitting’ tribute to Cheltenham’s fallen WWI heroes as website tells their stories ([24 days ago](https://gloucesternewscentre.co.uk/beautiful-and-fitting-tribute-to-cheltenhams-fallen-wwi-heroes-as-website-tells-their-stories/))
 - New perennial planting in the Long Gardens supports greater biodiversity ([24 days ago](https://gloucesternewscentre.co.uk/new-perennial-planting-in-the-long-gardens-supports-greater-biodiversity/))
 - Concerns benefits of Golden Valley plans near GCHQ ‘are being eroded’ ([24 days ago](https://gloucesternewscentre.co.uk/concerns-benefits-of-golden-valley-plans-near-gchq-are-being-eroded/))

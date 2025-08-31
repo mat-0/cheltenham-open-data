@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Constant buses and lorries get stuck due to bad parking on opposite side of the road. Double yellow lines needed. Bus has been stuck there this morning for an hour, blocked roads both ways, police called, frustrating residents and passengers and driver of bus., 31st August :- [8097861](https://www.fixmystreet.com/report/8097861)
+- Signs and cone left behind, 31st August :- [8097835](https://www.fixmystreet.com/report/8097835)
+- 1 small bag for collect, 31st August :- [8097822](https://www.fixmystreet.com/report/8097822)
+- A Signs & Barriers left behind by Contractor problem has been found, 31st August :- [8097820](https://www.fixmystreet.com/report/8097820)
 - Cavity opening under tarmac., 31st August :- [8097705](https://www.fixmystreet.com/report/8097705)
 - Rubbish needs collecting, 31st August :- [8097635](https://www.fixmystreet.com/report/8097635)
 - Caravan blocking shared access of driveway, 31st August :- [8096841](https://www.fixmystreet.com/report/8096841)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Dog dirt on pavement, 30th August :- [8094965](https://www.fixmystreet.com/report/8094965)
 - Vandalised roundabout, 30th August :- [8094904](https://www.fixmystreet.com/report/8094904)
 - White central circle for roundabout defaced with red paint, 30th August :- [8094902](https://www.fixmystreet.com/report/8094902)
-- Dumped fridge, 30th August :- [8094699](https://www.fixmystreet.com/report/8094699)
-- Flags still not removed from lamp posts, 30th August :- [8094684](https://www.fixmystreet.com/report/8094684)
-- The hedge is overgrown, 30th August :- [8094311](https://www.fixmystreet.com/report/8094311)
-- White Ford Transit Van, 30th August :- [8094091](https://www.fixmystreet.com/report/8094091)
 
 <!-- fix_marker ends -->
