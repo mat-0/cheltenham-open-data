@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- You have not cleared the path, 31st August :- [8099938](https://www.fixmystreet.com/report/8099938)
 - Blocked drains / bad smells, 31st August :- [8099836](https://www.fixmystreet.com/report/8099836)
 - Overgrown brambles near school garden, 31st August :- [8099801](https://www.fixmystreet.com/report/8099801)
 - Graffiti on roundabout, 31st August :- [8099546](https://www.fixmystreet.com/report/8099546)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Cavity opening under tarmac., 31st August :- [8097705](https://www.fixmystreet.com/report/8097705)
 - Rubbish needs collecting, 31st August :- [8097635](https://www.fixmystreet.com/report/8097635)
 - Caravan blocking shared access of driveway, 31st August :- [8096841](https://www.fixmystreet.com/report/8096841)
-- Circa 12 inch pothole and broken road around it and the adjacent road gulley. The road gulley is also blocked and needs clearing., 30th August :- [8096438](https://www.fixmystreet.com/report/8096438)
 
 <!-- fix_marker ends -->

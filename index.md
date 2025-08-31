@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Sunday, 31 August 2025
 
-- The average temperature today is 15.94˚C,
-- With highs of 16.66˚C and lows of 15.38˚C,
-- It may feel like 15.44˚C with clear sky
-- The wind speed is 3.58m/s and visibility is 10000m
-- The pressure is 1001hPa and humidity is 71%
+- The average temperature today is 15.38˚C,
+- With highs of 16.1˚C and lows of 14.82˚C,
+- It may feel like 14.91˚C with clear sky
+- The wind speed is 4.47m/s and visibility is 10000m
+- The pressure is 1001hPa and humidity is 74%
 - The sun will rise at 05:18 and set at 18:58
 
 <!-- weather_marker ends -->
