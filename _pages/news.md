@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- 'Lifeline' bus replaced after residents' campaign ([2 hours ago](https://www.bbc.com/news/articles/c7760xlgzl8o?at_medium=RSS&at_campaign=rss))
-- 'Flag displays' and 'man with four council jobs' ([2 hours ago](https://www.bbc.com/news/articles/cy4d59nd01qo?at_medium=RSS&at_campaign=rss))
-- Climbing centre makes its mark with first festival ([15 hours ago](https://www.bbc.com/news/articles/cvg3rj25l04o?at_medium=RSS&at_campaign=rss))
-- Demo and counter-demo protest near migrant hotel ([18 hours ago](https://www.bbc.com/news/articles/c860z29p5j6o?at_medium=RSS&at_campaign=rss))
+- 'Lifeline' bus replaced after residents' campaign ([3 hours ago](https://www.bbc.com/news/articles/c7760xlgzl8o?at_medium=RSS&at_campaign=rss))
+- 'Flag displays' and 'man with four council jobs' ([3 hours ago](https://www.bbc.com/news/articles/cy4d59nd01qo?at_medium=RSS&at_campaign=rss))
+- Climbing centre makes its mark with first festival ([16 hours ago](https://www.bbc.com/news/articles/cvg3rj25l04o?at_medium=RSS&at_campaign=rss))
+- Demo and counter-demo protest near migrant hotel ([19 hours ago](https://www.bbc.com/news/articles/c860z29p5j6o?at_medium=RSS&at_campaign=rss))
 - Gloucestershire in Pictures: Spot the ball ([1 days ago](https://www.bbc.com/news/articles/cd0d8575jxzo?at_medium=RSS&at_campaign=rss))
 - Empty children's home could become GP surgery ([1 days ago](https://www.bbc.com/news/articles/cz60ze32w81o?at_medium=RSS&at_campaign=rss))
 - Pair jailed after 'mistaken identity' shooting ([1 days ago](https://www.bbc.com/news/articles/cvgv781jeg1o?at_medium=RSS&at_campaign=rss))
@@ -58,6 +58,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - New perennial planting in the Long Gardens supports greater biodiversity ([24 days ago](https://gloucesternewscentre.co.uk/new-perennial-planting-in-the-long-gardens-supports-greater-biodiversity/))
 - Concerns benefits of Golden Valley plans near GCHQ ‘are being eroded’ ([24 days ago](https://gloucesternewscentre.co.uk/concerns-benefits-of-golden-valley-plans-near-gchq-are-being-eroded/))
 - Sadness as 131 Promenade ‘precedent’ used by justify more town centre plans ([24 days ago](https://gloucesternewscentre.co.uk/sadness-as-131-promenade-precedent-used-by-justify-more-town-centre-plans/))
-- New perennial planting in the Long Gardens supports greater biodiversity ([25 days ago](https://www.cheltenham.gov.uk/news/article/3038/new_perennial_planting_in_the_long_gardens_supports_greater_biodiversity))
+- New perennial planting in the Long Gardens supports greater biodiversity ([26 days ago](https://www.cheltenham.gov.uk/news/article/3038/new_perennial_planting_in_the_long_gardens_supports_greater_biodiversity))
 
 <!-- news_marker ends -->
