@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Cavity opening under tarmac., 31st August :- [8097705](https://www.fixmystreet.com/report/8097705)
+- Rubbish needs collecting, 31st August :- [8097635](https://www.fixmystreet.com/report/8097635)
 - Caravan blocking shared access of driveway, 31st August :- [8096841](https://www.fixmystreet.com/report/8096841)
 - Circa 12 inch pothole and broken road around it and the adjacent road gulley. The road gulley is also blocked and needs clearing., 30th August :- [8096438](https://www.fixmystreet.com/report/8096438)
 - 2 single mattresses left by bin, 30th August :- [8096382](https://www.fixmystreet.com/report/8096382)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Flags still not removed from lamp posts, 30th August :- [8094684](https://www.fixmystreet.com/report/8094684)
 - The hedge is overgrown, 30th August :- [8094311](https://www.fixmystreet.com/report/8094311)
 - White Ford Transit Van, 30th August :- [8094091](https://www.fixmystreet.com/report/8094091)
-- Green filter left turn light onto St George’s Road is not working again, 30th August :- [8094078](https://www.fixmystreet.com/report/8094078)
-- Gaps in Redthorne Way foot path need filling., 30th August :- [8094045](https://www.fixmystreet.com/report/8094045)
 
 <!-- fix_marker ends -->
