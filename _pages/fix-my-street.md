@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Abandoned sign, 31st August :- [8099435](https://www.fixmystreet.com/report/8099435)
+- Gas bottle, 31st August :- [8099423](https://www.fixmystreet.com/report/8099423)
+- Gas bottles, 31st August :- [8099414](https://www.fixmystreet.com/report/8099414)
 - Two drains blocked and adjacent potholes on New Rd, Southam GL523NX, 31st August :- [8099128](https://www.fixmystreet.com/report/8099128)
 - Volunteer litter pick bags ready for collection (31st August 25), 31st August :- [8099103](https://www.fixmystreet.com/report/8099103)
 - Significant litter problem (Old Gloucester Road, B4634), 31st August :- [8098615](https://www.fixmystreet.com/report/8098615)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - 2 single mattresses left by bin, 30th August :- [8096382](https://www.fixmystreet.com/report/8096382)
 - At juntion to carlyle grove. 1.2m x .0.25m, 30th August :- [8096297](https://www.fixmystreet.com/report/8096297)
 - Pavement is crumbling away, 30th August :- [8096227](https://www.fixmystreet.com/report/8096227)
-- General rubbish dump in a small triangle grass section, 30th August :- [8095817](https://www.fixmystreet.com/report/8095817)
-- Large amount of corrugated cardboard, 30th August :- [8095815](https://www.fixmystreet.com/report/8095815)
-- The whole length of the A40, is a litter tip awful message and the one bin provided halfway down was over flowing ., 30th August :- [8095773](https://www.fixmystreet.com/report/8095773)
 
 <!-- fix_marker ends -->
