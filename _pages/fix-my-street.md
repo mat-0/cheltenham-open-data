@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Blocked drains / bad smells, 31st August :- [8099836](https://www.fixmystreet.com/report/8099836)
+- Overgrown brambles near school garden, 31st August :- [8099801](https://www.fixmystreet.com/report/8099801)
+- Graffiti on roundabout, 31st August :- [8099546](https://www.fixmystreet.com/report/8099546)
 - Abandoned sign, 31st August :- [8099435](https://www.fixmystreet.com/report/8099435)
 - Gas bottle, 31st August :- [8099423](https://www.fixmystreet.com/report/8099423)
 - Gas bottles, 31st August :- [8099414](https://www.fixmystreet.com/report/8099414)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Rubbish needs collecting, 31st August :- [8097635](https://www.fixmystreet.com/report/8097635)
 - Caravan blocking shared access of driveway, 31st August :- [8096841](https://www.fixmystreet.com/report/8096841)
 - Circa 12 inch pothole and broken road around it and the adjacent road gulley. The road gulley is also blocked and needs clearing., 30th August :- [8096438](https://www.fixmystreet.com/report/8096438)
-- 2 single mattresses left by bin, 30th August :- [8096382](https://www.fixmystreet.com/report/8096382)
-- At juntion to carlyle grove. 1.2m x .0.25m, 30th August :- [8096297](https://www.fixmystreet.com/report/8096297)
-- Pavement is crumbling away, 30th August :- [8096227](https://www.fixmystreet.com/report/8096227)
 
 <!-- fix_marker ends -->
