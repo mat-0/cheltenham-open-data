@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Significant litter along B4634 Old Gloucester Road between M5 flyover and Tewkesbury Road, 31st August :- [8100167](https://www.fixmystreet.com/report/8100167)
 - You have not cleared the path, 31st August :- [8099938](https://www.fixmystreet.com/report/8099938)
 - Blocked drains / bad smells, 31st August :- [8099836](https://www.fixmystreet.com/report/8099836)
 - Overgrown brambles near school garden, 31st August :- [8099801](https://www.fixmystreet.com/report/8099801)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - A Signs & Barriers left behind by Contractor problem has been found, 31st August :- [8097820](https://www.fixmystreet.com/report/8097820)
 - Cavity opening under tarmac., 31st August :- [8097705](https://www.fixmystreet.com/report/8097705)
 - Rubbish needs collecting, 31st August :- [8097635](https://www.fixmystreet.com/report/8097635)
-- Caravan blocking shared access of driveway, 31st August :- [8096841](https://www.fixmystreet.com/report/8096841)
 
 <!-- fix_marker ends -->
