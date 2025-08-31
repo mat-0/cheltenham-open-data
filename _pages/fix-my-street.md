@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Two drains blocked and adjacent potholes on New Rd, Southam GL523NX, 31st August :- [8099128](https://www.fixmystreet.com/report/8099128)
+- Volunteer litter pick bags ready for collection (31st August 25), 31st August :- [8099103](https://www.fixmystreet.com/report/8099103)
 - Significant litter problem (Old Gloucester Road, B4634), 31st August :- [8098615](https://www.fixmystreet.com/report/8098615)
 - Concrete blocks obstructing bridleway, 31st August :- [8098365](https://www.fixmystreet.com/report/8098365)
 - Graffiti of a red cross on mini roundabout caused to spread racial hatred, 31st August :- [8098278](https://www.fixmystreet.com/report/8098278)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - General rubbish dump in a small triangle grass section, 30th August :- [8095817](https://www.fixmystreet.com/report/8095817)
 - Large amount of corrugated cardboard, 30th August :- [8095815](https://www.fixmystreet.com/report/8095815)
 - The whole length of the A40, is a litter tip awful message and the one bin provided halfway down was over flowing ., 30th August :- [8095773](https://www.fixmystreet.com/report/8095773)
-- Poor road repair to granite sets, 30th August :- [8095388](https://www.fixmystreet.com/report/8095388)
-- In the middle of the road, 30th August :- [8095262](https://www.fixmystreet.com/report/8095262)
 
 <!-- fix_marker ends -->
