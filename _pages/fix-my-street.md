@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Concrete blocks obstructing bridleway, 31st August :- [8098365](https://www.fixmystreet.com/report/8098365)
 - Graffiti of a red cross on mini roundabout caused to spread racial hatred, 31st August :- [8098278](https://www.fixmystreet.com/report/8098278)
 - Roundabouts vandalised with red paint for the second time in a week, 31st August :- [8098126](https://www.fixmystreet.com/report/8098126)
 - Constant buses and lorries get stuck due to bad parking on opposite side of the road. Double yellow lines needed. Bus has been stuck there this morning for an hour, blocked roads both ways, police called, frustrating residents and passengers and driver of bus., 31st August :- [8097861](https://www.fixmystreet.com/report/8097861)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Poor road repair to granite sets, 30th August :- [8095388](https://www.fixmystreet.com/report/8095388)
 - In the middle of the road, 30th August :- [8095262](https://www.fixmystreet.com/report/8095262)
 - Graffiti on pelican crossing white lines, 30th August :- [8095166](https://www.fixmystreet.com/report/8095166)
-- Dog dirt on pavement, 30th August :- [8094965](https://www.fixmystreet.com/report/8094965)
 
 <!-- fix_marker ends -->
