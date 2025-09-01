@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Graffiti on roundabout, 1st September :- [8100815](https://www.fixmystreet.com/report/8100815)
 - St George’s Cross vandalism painted on mini roundaboit, 1st September :- [8100772](https://www.fixmystreet.com/report/8100772)
 - Offensive flag hung over bridge, 1st September :- [8100465](https://www.fixmystreet.com/report/8100465)
 - This has been evaluated for repair upto April 2026, 1st September :- [8100377](https://www.fixmystreet.com/report/8100377)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Roundabouts vandalised with red paint for the second time in a week, 31st August :- [8098126](https://www.fixmystreet.com/report/8098126)
 - Constant buses and lorries get stuck due to bad parking on opposite side of the road. Double yellow lines needed. Bus has been stuck there this morning for an hour, blocked roads both ways, police called, frustrating residents and passengers and driver of bus., 31st August :- [8097861](https://www.fixmystreet.com/report/8097861)
 - Signs and cone left behind, 31st August :- [8097835](https://www.fixmystreet.com/report/8097835)
-- 1 small bag for collect, 31st August :- [8097822](https://www.fixmystreet.com/report/8097822)
 
 <!-- fix_marker ends -->
