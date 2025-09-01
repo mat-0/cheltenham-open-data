@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- St George’s Cross vandalism painted on mini roundaboit, 1st September :- [8100772](https://www.fixmystreet.com/report/8100772)
 - Offensive flag hung over bridge, 1st September :- [8100465](https://www.fixmystreet.com/report/8100465)
 - This has been evaluated for repair upto April 2026, 1st September :- [8100377](https://www.fixmystreet.com/report/8100377)
 - Significant litter along B4634 Old Gloucester Road between M5 flyover and Tewkesbury Road, 31st August :- [8100167](https://www.fixmystreet.com/report/8100167)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Constant buses and lorries get stuck due to bad parking on opposite side of the road. Double yellow lines needed. Bus has been stuck there this morning for an hour, blocked roads both ways, police called, frustrating residents and passengers and driver of bus., 31st August :- [8097861](https://www.fixmystreet.com/report/8097861)
 - Signs and cone left behind, 31st August :- [8097835](https://www.fixmystreet.com/report/8097835)
 - 1 small bag for collect, 31st August :- [8097822](https://www.fixmystreet.com/report/8097822)
-- A Signs & Barriers left behind by Contractor problem has been found, 31st August :- [8097820](https://www.fixmystreet.com/report/8097820)
 
 <!-- fix_marker ends -->

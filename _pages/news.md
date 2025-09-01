@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Road closed for three months to fix damaged bridge ([1 hours ago](https://www.bbc.com/news/articles/c3ezl4l7qz8o?at_medium=RSS&at_campaign=rss))
-- Legendary pedal-power sound system in its 35th year ([1 hours ago](https://www.bbc.com/news/videos/cj9wk04yrgjo?at_medium=RSS&at_campaign=rss))
+- Road closed for three months to fix damaged bridge ([2 hours ago](https://www.bbc.com/news/articles/c3ezl4l7qz8o?at_medium=RSS&at_campaign=rss))
+- Legendary pedal-power sound system in its 35th year ([2 hours ago](https://www.bbc.com/news/videos/cj9wk04yrgjo?at_medium=RSS&at_campaign=rss))
 - Demo and counter-demo protest near migrant hotel ([14 hours ago](https://www.bbc.com/news/articles/c860z29p5j6o?at_medium=RSS&at_campaign=rss))
-- Theatre reopens after vibrant makeover ([16 hours ago](https://www.bbc.com/news/articles/cn920yz7evyo?at_medium=RSS&at_campaign=rss))
+- Theatre reopens after vibrant makeover ([17 hours ago](https://www.bbc.com/news/articles/cn920yz7evyo?at_medium=RSS&at_campaign=rss))
 - 'Lifeline' bus replaced after residents' campaign ([1 days ago](https://www.bbc.com/news/articles/c7760xlgzl8o?at_medium=RSS&at_campaign=rss))
 - 'Flag displays' and 'man with four council jobs' ([1 days ago](https://www.bbc.com/news/articles/cy4d59nd01qo?at_medium=RSS&at_campaign=rss))
 - Climbing centre makes its mark with first festival ([1 days ago](https://www.bbc.com/news/articles/cvg3rj25l04o?at_medium=RSS&at_campaign=rss))
