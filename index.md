@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Monday, 01 September 2025
 
-- The average temperature today is 19.87˚C,
-- With highs of 20.75˚C and lows of 19.41˚C,
-- It may feel like 19.45˚C with scattered clouds
-- The wind speed is 6.26m/s and visibility is 10000m
-- The pressure is 1001hPa and humidity is 59%
+- The average temperature today is 18.69˚C,
+- With highs of 19.84˚C and lows of 18.15˚C,
+- It may feel like 18.18˚C with scattered clouds
+- The wind speed is 5.36m/s and visibility is 10000m
+- The pressure is 1002hPa and humidity is 60%
 - The sun will rise at 05:20 and set at 18:56
 
 <!-- weather_marker ends -->
