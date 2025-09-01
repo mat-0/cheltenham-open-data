@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street light on Pittville Circus stopped working a few days ago. It’s the one on Tresmere side of Circus. It’s very dark at night making walking on the pavement dangerous., 1st September :- [8105865](https://www.fixmystreet.com/report/8105865)
+- Roundabout vandalised, 1st September :- [8105860](https://www.fixmystreet.com/report/8105860)
 - Street light not working, 1st September :- [8105718](https://www.fixmystreet.com/report/8105718)
 - Big flags not secure on lamposts causing distraction and danger to drivers, 1st September :- [8105431](https://www.fixmystreet.com/report/8105431)
 - Large pothole in the road, 1st September :- [8105265](https://www.fixmystreet.com/report/8105265)
@@ -23,11 +25,9 @@ permalink: /fix-my-street
 - Lots of debris on the cycle path (gravel/leaves etc), 1st September :- [8104005](https://www.fixmystreet.com/report/8104005)
 - Hanging branches frequently get knocked off by passing high vehicles or fall during high winds. Not only is there no pavement in this area, a regularly used footpath from Byfield Close emerges onto Gambles Lane at this point and there is no option but to walk in the road. Should branch(es) fall, serious damage could be caused to passing pedestrians (many of whom are schoolchildren) or vehicles. Furthermore, although I have always picked up and disposed (recycled) fallen branches, in my mid-80s I am less inclined or able to do this. In my view, serious consideration needs to be given as to whether this particular tree is appropriate for this location., 1st September :- [8103976](https://www.fixmystreet.com/report/8103976)
 - Path ends abruptly, 1st September :- [8103719](https://www.fixmystreet.com/report/8103719)
+- TMC - Defects - Other FW6  Surface problem, 1st September :- [8103827](https://www.fixmystreet.com/report/8103827)
 - TMC - Defects - Other FW6  Surface problem, 1st September :- [8103826](https://www.fixmystreet.com/report/8103826)
 - TMC - Defects - Other FW6  Surface problem, 1st September :- [8103825](https://www.fixmystreet.com/report/8103825)
-- TMC - Defects - Other FW6  Surface problem, 1st September :- [8103827](https://www.fixmystreet.com/report/8103827)
 - TMC - Defects - Other FW6  Surface problem, 1st September :- [8103824](https://www.fixmystreet.com/report/8103824)
-- TMC - Defects - Kerbs and Channels problem, 1st September :- [8103819](https://www.fixmystreet.com/report/8103819)
-- TMC - Defects - Kerbs and Channels problem, 1st September :- [8103823](https://www.fixmystreet.com/report/8103823)
 
 <!-- fix_marker ends -->
