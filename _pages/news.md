@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Bridge closures and hedgehog rescue charity saved ([16 minutes ago](https://www.bbc.com/news/articles/cly3leq23l6o?at_medium=RSS&at_campaign=rss))
-- Road closed for three months to fix damaged bridge ([3 hours ago](https://www.bbc.com/news/articles/c3ezl4l7qz8o?at_medium=RSS&at_campaign=rss))
-- Legendary pedal-power sound system in its 35th year ([3 hours ago](https://www.bbc.com/news/videos/cj9wk04yrgjo?at_medium=RSS&at_campaign=rss))
+- Bridge closures and hedgehog rescue charity saved ([1 hours ago](https://www.bbc.com/news/articles/cly3leq23l6o?at_medium=RSS&at_campaign=rss))
+- Road closed for three months to fix damaged bridge ([4 hours ago](https://www.bbc.com/news/articles/c3ezl4l7qz8o?at_medium=RSS&at_campaign=rss))
+- Legendary pedal-power sound system in its 35th year ([4 hours ago](https://www.bbc.com/news/videos/cj9wk04yrgjo?at_medium=RSS&at_campaign=rss))
 - Demo and counter-demo protest near migrant hotel ([16 hours ago](https://www.bbc.com/news/articles/c860z29p5j6o?at_medium=RSS&at_campaign=rss))
-- Theatre reopens after vibrant makeover ([18 hours ago](https://www.bbc.com/news/articles/cn920yz7evyo?at_medium=RSS&at_campaign=rss))
+- Theatre reopens after vibrant makeover ([19 hours ago](https://www.bbc.com/news/articles/cn920yz7evyo?at_medium=RSS&at_campaign=rss))
 - 'Lifeline' bus replaced after residents' campaign ([1 days ago](https://www.bbc.com/news/articles/c7760xlgzl8o?at_medium=RSS&at_campaign=rss))
 - 'Flag displays' and 'man with four council jobs' ([1 days ago](https://www.bbc.com/news/articles/cy4d59nd01qo?at_medium=RSS&at_campaign=rss))
 - Climbing centre makes its mark with first festival ([1 days ago](https://www.bbc.com/news/articles/cvg3rj25l04o?at_medium=RSS&at_campaign=rss))
@@ -58,6 +58,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - New perennial planting in the Long Gardens supports greater biodiversity ([25 days ago](https://gloucesternewscentre.co.uk/new-perennial-planting-in-the-long-gardens-supports-greater-biodiversity/))
 - Concerns benefits of Golden Valley plans near GCHQ ‘are being eroded’ ([25 days ago](https://gloucesternewscentre.co.uk/concerns-benefits-of-golden-valley-plans-near-gchq-are-being-eroded/))
 - Sadness as 131 Promenade ‘precedent’ used by justify more town centre plans ([25 days ago](https://gloucesternewscentre.co.uk/sadness-as-131-promenade-precedent-used-by-justify-more-town-centre-plans/))
-- New perennial planting in the Long Gardens supports greater biodiversity ([26 days ago](https://www.cheltenham.gov.uk/news/article/3038/new_perennial_planting_in_the_long_gardens_supports_greater_biodiversity))
+- New perennial planting in the Long Gardens supports greater biodiversity ([27 days ago](https://www.cheltenham.gov.uk/news/article/3038/new_perennial_planting_in_the_long_gardens_supports_greater_biodiversity))
 
 <!-- news_marker ends -->
