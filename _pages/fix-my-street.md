@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Offensive flag hung over bridge, 1st September :- [8100465](https://www.fixmystreet.com/report/8100465)
+- This has been evaluated for repair upto April 2026, 1st September :- [8100377](https://www.fixmystreet.com/report/8100377)
 - Significant litter along B4634 Old Gloucester Road between M5 flyover and Tewkesbury Road, 31st August :- [8100167](https://www.fixmystreet.com/report/8100167)
 - You have not cleared the path, 31st August :- [8099938](https://www.fixmystreet.com/report/8099938)
 - Blocked drains / bad smells, 31st August :- [8099836](https://www.fixmystreet.com/report/8099836)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Signs and cone left behind, 31st August :- [8097835](https://www.fixmystreet.com/report/8097835)
 - 1 small bag for collect, 31st August :- [8097822](https://www.fixmystreet.com/report/8097822)
 - A Signs & Barriers left behind by Contractor problem has been found, 31st August :- [8097820](https://www.fixmystreet.com/report/8097820)
-- Cavity opening under tarmac., 31st August :- [8097705](https://www.fixmystreet.com/report/8097705)
-- Rubbish needs collecting, 31st August :- [8097635](https://www.fixmystreet.com/report/8097635)
 
 <!-- fix_marker ends -->
