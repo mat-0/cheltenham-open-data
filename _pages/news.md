@@ -13,9 +13,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
 - Demo and counter-demo protest near migrant hotel ([11 hours ago](https://www.bbc.com/news/articles/c860z29p5j6o?at_medium=RSS&at_campaign=rss))
-- Theatre reopens after vibrant makeover ([13 hours ago](https://www.bbc.com/news/articles/cn920yz7evyo?at_medium=RSS&at_campaign=rss))
-- 'Lifeline' bus replaced after residents' campaign ([21 hours ago](https://www.bbc.com/news/articles/c7760xlgzl8o?at_medium=RSS&at_campaign=rss))
-- 'Flag displays' and 'man with four council jobs' ([21 hours ago](https://www.bbc.com/news/articles/cy4d59nd01qo?at_medium=RSS&at_campaign=rss))
+- Theatre reopens after vibrant makeover ([14 hours ago](https://www.bbc.com/news/articles/cn920yz7evyo?at_medium=RSS&at_campaign=rss))
+- 'Lifeline' bus replaced after residents' campaign ([22 hours ago](https://www.bbc.com/news/articles/c7760xlgzl8o?at_medium=RSS&at_campaign=rss))
+- 'Flag displays' and 'man with four council jobs' ([22 hours ago](https://www.bbc.com/news/articles/cy4d59nd01qo?at_medium=RSS&at_campaign=rss))
 - Climbing centre makes its mark with first festival ([1 days ago](https://www.bbc.com/news/articles/cvg3rj25l04o?at_medium=RSS&at_campaign=rss))
 - Gloucestershire in Pictures: Spot the ball ([1 days ago](https://www.bbc.com/news/articles/cd0d8575jxzo?at_medium=RSS&at_campaign=rss))
 - Empty children's home could become GP surgery ([1 days ago](https://www.bbc.com/news/articles/cz60ze32w81o?at_medium=RSS&at_campaign=rss))
