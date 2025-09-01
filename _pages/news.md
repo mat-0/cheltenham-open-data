@@ -12,8 +12,8 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Demo and counter-demo protest near migrant hotel ([9 hours ago](https://www.bbc.com/news/articles/c860z29p5j6o?at_medium=RSS&at_campaign=rss))
-- Theatre reopens after vibrant makeover ([11 hours ago](https://www.bbc.com/news/articles/cn920yz7evyo?at_medium=RSS&at_campaign=rss))
+- Demo and counter-demo protest near migrant hotel ([10 hours ago](https://www.bbc.com/news/articles/c860z29p5j6o?at_medium=RSS&at_campaign=rss))
+- Theatre reopens after vibrant makeover ([12 hours ago](https://www.bbc.com/news/articles/cn920yz7evyo?at_medium=RSS&at_campaign=rss))
 - 'Lifeline' bus replaced after residents' campaign ([20 hours ago](https://www.bbc.com/news/articles/c7760xlgzl8o?at_medium=RSS&at_campaign=rss))
 - 'Flag displays' and 'man with four council jobs' ([20 hours ago](https://www.bbc.com/news/articles/cy4d59nd01qo?at_medium=RSS&at_campaign=rss))
 - Climbing centre makes its mark with first festival ([1 days ago](https://www.bbc.com/news/articles/cvg3rj25l04o?at_medium=RSS&at_campaign=rss))
