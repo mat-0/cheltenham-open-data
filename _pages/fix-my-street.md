@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The westbound tarmac where Charlton Lane meets Old Bath Road has been cratered for a 5m stretch up to the junction. Too rough to ride on for a cycle. Road is closed 15 Sept. Add this to list., 2nd September :- [8106031](https://www.fixmystreet.com/report/8106031)
+- 5 m stretch of tarmac surface has been stripped. Leading to potholes in Eastbound road outside 14 Greenhills Road entrance. Two pathetic repairs done on 21 Feb 2025 and 24 Feb 2025. Long history of inadequate patching. The westbound road opposite now has a 5 foot patch of stripped surface. Road is closed on 15. Sept. These must be fixed properly then., 2nd September :- [8106026](https://www.fixmystreet.com/report/8106026)
 - Street light on Pittville Circus stopped working a few days ago. It’s the one on Tresmere side of Circus. It’s very dark at night making walking on the pavement dangerous., 1st September :- [8105865](https://www.fixmystreet.com/report/8105865)
 - Roundabout vandalised, 1st September :- [8105860](https://www.fixmystreet.com/report/8105860)
 - Street light not working, 1st September :- [8105718](https://www.fixmystreet.com/report/8105718)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Path ends abruptly, 1st September :- [8103719](https://www.fixmystreet.com/report/8103719)
 - TMC - Defects - Other FW6  Surface problem, 1st September :- [8103827](https://www.fixmystreet.com/report/8103827)
 - TMC - Defects - Other FW6  Surface problem, 1st September :- [8103826](https://www.fixmystreet.com/report/8103826)
-- TMC - Defects - Other FW6  Surface problem, 1st September :- [8103825](https://www.fixmystreet.com/report/8103825)
-- TMC - Defects - Other FW6  Surface problem, 1st September :- [8103824](https://www.fixmystreet.com/report/8103824)
 
 <!-- fix_marker ends -->
