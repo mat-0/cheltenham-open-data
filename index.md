@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Tuesday, 02 September 2025
 
-- The average temperature today is 18.17˚C,
-- With highs of 18.88˚C and lows of 17.51˚C,
-- It may feel like 18.16˚C with scattered clouds
+- The average temperature today is 17.74˚C,
+- With highs of 18.32˚C and lows of 16.96˚C,
+- It may feel like 17.74˚C with scattered clouds
 - The wind speed is 3.09m/s and visibility is 10000m
-- The pressure is 999hPa and humidity is 81%
+- The pressure is 999hPa and humidity is 83%
 - The sun will rise at 05:22 and set at 18:54
 
 <!-- weather_marker ends -->
