@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Metal Spike Protruding, 2nd September :- [8106106](https://www.fixmystreet.com/report/8106106)
 - The westbound tarmac where Charlton Lane meets Old Bath Road has been cratered for a 5m stretch up to the junction. Too rough to ride on for a cycle. Road is closed 15 Sept. Add this to list., 2nd September :- [8106031](https://www.fixmystreet.com/report/8106031)
 - 5 m stretch of tarmac surface has been stripped. Leading to potholes in Eastbound road outside 14 Greenhills Road entrance. Two pathetic repairs done on 21 Feb 2025 and 24 Feb 2025. Long history of inadequate patching. The westbound road opposite now has a 5 foot patch of stripped surface. Road is closed on 15. Sept. These must be fixed properly then., 2nd September :- [8106026](https://www.fixmystreet.com/report/8106026)
 - Street light on Pittville Circus stopped working a few days ago. It’s the one on Tresmere side of Circus. It’s very dark at night making walking on the pavement dangerous., 1st September :- [8105865](https://www.fixmystreet.com/report/8105865)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Hanging branches frequently get knocked off by passing high vehicles or fall during high winds. Not only is there no pavement in this area, a regularly used footpath from Byfield Close emerges onto Gambles Lane at this point and there is no option but to walk in the road. Should branch(es) fall, serious damage could be caused to passing pedestrians (many of whom are schoolchildren) or vehicles. Furthermore, although I have always picked up and disposed (recycled) fallen branches, in my mid-80s I am less inclined or able to do this. In my view, serious consideration needs to be given as to whether this particular tree is appropriate for this location., 1st September :- [8103976](https://www.fixmystreet.com/report/8103976)
 - Path ends abruptly, 1st September :- [8103719](https://www.fixmystreet.com/report/8103719)
 - TMC - Defects - Other FW6  Surface problem, 1st September :- [8103827](https://www.fixmystreet.com/report/8103827)
-- TMC - Defects - Other FW6  Surface problem, 1st September :- [8103826](https://www.fixmystreet.com/report/8103826)
 
 <!-- fix_marker ends -->
