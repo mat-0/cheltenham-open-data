@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Edge of Churchdown to Hucclecote carriageway, 2nd September :- [8110617](https://www.fixmystreet.com/report/8110617)
+- Large 'dip' in road that has recently been resurfaced. Located Hucclecote side of bridge and just before 30mph limit, 2nd September :- [8110609](https://www.fixmystreet.com/report/8110609)
+- The 30mph road sign is facing away from the road so can't be seen, 2nd September :- [8110592](https://www.fixmystreet.com/report/8110592)
+- Trough going across the length of the road near Asda Petrol Station, 2nd September :- [8110565](https://www.fixmystreet.com/report/8110565)
 - Mutiple defects in the road surface, 2nd September :- [8110327](https://www.fixmystreet.com/report/8110327)
 - Wooden panels damaged, 2nd September :- [8110303](https://www.fixmystreet.com/report/8110303)
 - This is a ramp from AGO6 to AGO 12 made from scalpings that has now given away with light usage. A serious trip / fall hazard., 2nd September :- [8110281](https://www.fixmystreet.com/report/8110281)
@@ -19,15 +23,11 @@ permalink: /fix-my-street
 - Man hole cover pumping out wager, 2nd September :- [8109716](https://www.fixmystreet.com/report/8109716)
 - Very large pothole on edge of road, 2nd September :- [8109513](https://www.fixmystreet.com/report/8109513)
 - TMC - Defects - Road Markings problem, 2nd September :- [8109275](https://www.fixmystreet.com/report/8109275)
-- TMC - Defects - Road Markings problem, 2nd September :- [8109276](https://www.fixmystreet.com/report/8109276)
 - TMC - Defects - Road Markings problem, 2nd September :- [8109274](https://www.fixmystreet.com/report/8109274)
+- TMC - Defects - Road Markings problem, 2nd September :- [8109276](https://www.fixmystreet.com/report/8109276)
 - TMC - Defects - Kerbs and Channels problem, 2nd September :- [8109273](https://www.fixmystreet.com/report/8109273)
 - TMC - Defects -CW6 Potholes  problem, 2nd September :- [8109272](https://www.fixmystreet.com/report/8109272)
 - TMC - Defects -CW6 Potholes  problem, 2nd September :- [8109110](https://www.fixmystreet.com/report/8109110)
 - TMC - Defects - Kerbs and Channels problem, 2nd September :- [8109111](https://www.fixmystreet.com/report/8109111)
-- TMC - Defects -CW6 Potholes  problem, 2nd September :- [8109109](https://www.fixmystreet.com/report/8109109)
-- TMC - Defects - Other problem, 2nd September :- [8109112](https://www.fixmystreet.com/report/8109112)
-- TMC - Defects - Kerbs and Channels problem, 2nd September :- [8109108](https://www.fixmystreet.com/report/8109108)
-- TMC - Defects - Kerbs and Channels problem, 2nd September :- [8109107](https://www.fixmystreet.com/report/8109107)
 
 <!-- fix_marker ends -->
