@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Cheltenham multi-storey car park closed until further notice ([7 hours ago](https://gloucesternewscentre.co.uk/cheltenham-multi-storey-car-park-closed-until-further-notice/))
-- Swing bridge closes despite traffic concerns ([8 hours ago](https://www.bbc.com/news/articles/cg7jll01p3go?at_medium=RSS&at_campaign=rss))
-- Boy stabbed teen in attempted bike robbery ([8 hours ago](https://www.bbc.com/news/articles/clyvynmmldjo?at_medium=RSS&at_campaign=rss))
-- Tax change could make Cotswolds farms 'unviable' ([12 hours ago](https://www.bbc.com/news/articles/c3r45x0rvjxo?at_medium=RSS&at_campaign=rss))
-- Bridge closures and hedgehog rescue charity saved ([17 hours ago](https://www.bbc.com/news/articles/cly3leq23l6o?at_medium=RSS&at_campaign=rss))
+- Cheltenham multi-storey car park closed until further notice ([8 hours ago](https://gloucesternewscentre.co.uk/cheltenham-multi-storey-car-park-closed-until-further-notice/))
+- Swing bridge closes despite traffic concerns ([9 hours ago](https://www.bbc.com/news/articles/cg7jll01p3go?at_medium=RSS&at_campaign=rss))
+- Boy stabbed teen in attempted bike robbery ([9 hours ago](https://www.bbc.com/news/articles/clyvynmmldjo?at_medium=RSS&at_campaign=rss))
+- Tax change could make Cotswolds farms 'unviable' ([13 hours ago](https://www.bbc.com/news/articles/c3r45x0rvjxo?at_medium=RSS&at_campaign=rss))
+- Bridge closures and hedgehog rescue charity saved ([18 hours ago](https://www.bbc.com/news/articles/cly3leq23l6o?at_medium=RSS&at_campaign=rss))
 - Road closed for three months to fix damaged bridge ([21 hours ago](https://www.bbc.com/news/articles/c3ezl4l7qz8o?at_medium=RSS&at_campaign=rss))
 - Legendary pedal-power sound system in its 35th year ([21 hours ago](https://www.bbc.com/news/videos/cj9wk04yrgjo?at_medium=RSS&at_campaign=rss))
 - Demo and counter-demo protest near migrant hotel ([1 days ago](https://www.bbc.com/news/articles/c860z29p5j6o?at_medium=RSS&at_campaign=rss))
