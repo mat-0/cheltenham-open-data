@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Wednesday, 03 September 2025
 
-- The average temperature today is 17.93˚C,
-- With highs of 19.91˚C and lows of 17.05˚C,
-- It may feel like 17.95˚C with light rain
+- The average temperature today is 19.23˚C,
+- With highs of 20.29˚C and lows of 18.75˚C,
+- It may feel like 19.3˚C with scattered clouds
 - The wind speed is 5.81m/s and visibility is 10000m
-- The pressure is 993hPa and humidity is 83%
+- The pressure is 994hPa and humidity is 80%
 - The sun will rise at 05:23 and set at 18:52
 
 <!-- weather_marker ends -->
