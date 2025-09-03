@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Drain blockage, 3rd September :- [8114987](https://www.fixmystreet.com/report/8114987)
 - Innsworth lane and rookery road junction zebra crossing missing, 3rd September :- [8114834](https://www.fixmystreet.com/report/8114834)
 - A40 roadworks/diversion, 3rd September :- [8114709](https://www.fixmystreet.com/report/8114709)
 - Tree damaging fence with neighbour, 3rd September :- [8114615](https://www.fixmystreet.com/report/8114615)
@@ -26,7 +27,6 @@ permalink: /fix-my-street
 - Previous Work Causing Flooding, 3rd September :- [8114147](https://www.fixmystreet.com/report/8114147)
 - Increased use of access only road due to London rd closure, 3rd September :- [8114055](https://www.fixmystreet.com/report/8114055)
 - Both drains either side of the entrance to Castle Street are blocked resulting in flooding further down the Castle Street, 3rd September :- [8114031](https://www.fixmystreet.com/report/8114031)
-- TMC - Defects -CW6 Potholes  problem, 3rd September :- [8114115](https://www.fixmystreet.com/report/8114115)
 - TMC - Defects -CW6 Potholes  problem, 3rd September :- [8114114](https://www.fixmystreet.com/report/8114114)
 - TMC - Defects -CW6 Potholes  problem, 3rd September :- [8114116](https://www.fixmystreet.com/report/8114116)
 
