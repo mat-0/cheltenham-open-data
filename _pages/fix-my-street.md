@@ -9,7 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dead tree stump, major trip hazard, 3rd September :- [8111524](https://www.fixmystreet.com/report/8111524)
 - A40 london road closure, 3rd September :- [8111446](https://www.fixmystreet.com/report/8111446)
+- TMC - Defects - Other FW6  Surface problem, 3rd September :- [8111534](https://www.fixmystreet.com/report/8111534)
+- TMC - Defects - Other FW6  Surface problem, 3rd September :- [8111535](https://www.fixmystreet.com/report/8111535)
+- TMC - Defects - Other FW6  Surface problem, 3rd September :- [8111532](https://www.fixmystreet.com/report/8111532)
 - Graffiti, 3rd September :- [8111368](https://www.fixmystreet.com/report/8111368)
 - Several potholes outside house, 3rd September :- [8111196](https://www.fixmystreet.com/report/8111196)
 - How are pedestrians supposed to navigate a busy road?, 3rd September :- [8111177](https://www.fixmystreet.com/report/8111177)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - I believe the barriers on question were originally placed around the large tree in the pavement as its roots are destabilising the pavement. However they appear to have been moved into the path which as you can see will cause an obstacle to prams and wheelchair users, 2nd September :- [8109914](https://www.fixmystreet.com/report/8109914)
 - Uneven pavement surface and paving around driveway, 2nd September :- [8109842](https://www.fixmystreet.com/report/8109842)
 - Grass verges are not being maintained as in the past, 2nd September :- [8109765](https://www.fixmystreet.com/report/8109765)
-- Man hole cover pumping out wager, 2nd September :- [8109716](https://www.fixmystreet.com/report/8109716)
-- Very large pothole on edge of road, 2nd September :- [8109513](https://www.fixmystreet.com/report/8109513)
-- TMC - Defects - Road Markings problem, 2nd September :- [8109275](https://www.fixmystreet.com/report/8109275)
-- TMC - Defects - Road Markings problem, 2nd September :- [8109274](https://www.fixmystreet.com/report/8109274)
 
 <!-- fix_marker ends -->
