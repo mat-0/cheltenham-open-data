@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Multiple potholes, 3rd September :- [8116345](https://www.fixmystreet.com/report/8116345)
 - Ratting ironwork outside Rockatech / by bus stop, 3rd September :- [8115814](https://www.fixmystreet.com/report/8115814)
 - Gridlock traffic and inappropriate vehicles diverting through village. Much too large to do so and causing major traffic issues at all hours of the day. Road by pub and Chinese takeaway is too narrow for both directions of traffic let alone with added diversions, 3rd September :- [8115813](https://www.fixmystreet.com/report/8115813)
 - Water not draining away creating large puddle, 3rd September :- [8115633](https://www.fixmystreet.com/report/8115633)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Tree is damaged problem, 3rd September :- [8114493](https://www.fixmystreet.com/report/8114493)
 - Drain blocked, 3rd September :- [8114355](https://www.fixmystreet.com/report/8114355)
 - Flooding caused by blocked drains, 3rd September :- [8114218](https://www.fixmystreet.com/report/8114218)
-- Life-threatening traffic incidents, 3rd September :- [8114207](https://www.fixmystreet.com/report/8114207)
 
 <!-- fix_marker ends -->
