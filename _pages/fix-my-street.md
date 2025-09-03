@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Several potholes outside house, 3rd September :- [8111196](https://www.fixmystreet.com/report/8111196)
+- How are pedestrians supposed to navigate a busy road?, 3rd September :- [8111177](https://www.fixmystreet.com/report/8111177)
 - Flytipping on Cold Pool Lane, 3rd September :- [8110932](https://www.fixmystreet.com/report/8110932)
 - Edge of Churchdown to Hucclecote carriageway, 2nd September :- [8110617](https://www.fixmystreet.com/report/8110617)
 - Large 'dip' in road that has recently been resurfaced. Located Hucclecote side of bridge and just before 30mph limit, 2nd September :- [8110609](https://www.fixmystreet.com/report/8110609)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Road Markings problem, 2nd September :- [8109274](https://www.fixmystreet.com/report/8109274)
 - TMC - Defects - Road Markings problem, 2nd September :- [8109276](https://www.fixmystreet.com/report/8109276)
 - TMC - Defects - Kerbs and Channels problem, 2nd September :- [8109273](https://www.fixmystreet.com/report/8109273)
-- TMC - Defects -CW6 Potholes  problem, 2nd September :- [8109272](https://www.fixmystreet.com/report/8109272)
-- TMC - Defects -CW6 Potholes  problem, 2nd September :- [8109110](https://www.fixmystreet.com/report/8109110)
 
 <!-- fix_marker ends -->
