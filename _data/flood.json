@@ -1,165 +1,17 @@
 {
-  "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
-  "meta": {
-    "publisher": "Environment Agency",
-    "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-    "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
-    "version": "0.9",
-    "comment": "Status: Beta service",
-    "hasFormat": [
-      "http://environment.data.gov.uk/flood-monitoring/id/floods.csv",
-      "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf",
-      "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl",
-      "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
-    ]
-  },
-  "items": [
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WABTW09",
-      "description": "River Axe area",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WABTW09",
-        "county": "Devon, Dorset Council, Somerset",
-        "notation": "113WABTW09",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WABTW09/polygon",
-        "riverOrSea": "River Coly, River Yarty, Umborne Brook"
-      },
-      "floodAreaID": "113WABTW09",
-      "isTidal": false,
-      "message": " Flooding is possible overnight on Tuesday and into Wednesday morning.\nA band of heavy rain is forecasted during Tuesday night and Wednesday morning causing river levels to rise in the River Axe area.\nFlooding to low lying land and roads close to rivers is possible from the early hours of Wednesday morning.\nWe expect rivers to remain high throughout Wednesday.\nTake care near the areas of concern and monitor your local weather conditions.\nWe are constantly monitoring river levels and have staff in the area checking for and clearing blockages in this location. This message will be updated on Wednesday evening or earlier if the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-09-02T16:13:00",
-      "timeRaised": "2025-09-02T16:13:50",
-      "timeSeverityChanged": "2025-09-02T16:13:00"
+    "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
+    "meta": {
+        "publisher": "Environment Agency",
+        "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
+        "version": "0.9",
+        "comment": "Status: Beta service",
+        "hasFormat": [
+            "http://environment.data.gov.uk/flood-monitoring/id/floods.csv?county=Gloucestershire",
+            "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf?county=Gloucestershire",
+            "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl?county=Gloucestershire",
+            "http://environment.data.gov.uk/flood-monitoring/id/floods.html?county=Gloucestershire"
+        ]
     },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WAFTW13",
-      "description": "River Teign area",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WAFTW13",
-        "county": "Devon, Torbay",
-        "notation": "113WAFTW13",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WAFTW13/polygon",
-        "riverOrSea": "River Teign, River Bovey, River Lemon, River Kenn"
-      },
-      "floodAreaID": "113WAFTW13",
-      "isTidal": false,
-      "message": "Flooding is possible overnight on Tuesday and into Wednesday morning.\n\nA band of heavy rain is forecasted during Tuesday night and Wednesday morning causing river levels to rise in the River Teign area.\n\nFlooding to low lying land and roads close to rivers is possible from the early hours of Wednesday morning.\n\nWe expect rivers to remain high throughout Wednesday.\n\nTake care near the areas of concern and monitor your local weather conditions.\n\nWe are constantly monitoring river levels and have staff in the area checking for and clearing blockages in this location. This message will be updated on Wednesday evening or earlier if the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-09-02T16:29:00",
-      "timeRaised": "2025-09-02T16:30:20",
-      "timeSeverityChanged": "2025-09-02T16:29:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WABTW08",
-      "description": "Rivers Otter and Sid, and Exmouth area",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WABTW08",
-        "county": "Devon, Somerset",
-        "notation": "113WABTW08",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WABTW08/polygon",
-        "riverOrSea": "River Otter, River Sid"
-      },
-      "floodAreaID": "113WABTW08",
-      "isTidal": false,
-      "message": " Flooding is possible overnight on Tuesday and into Wednesday morning.\nA band of heavy rain is forecasted during Tuesday night and Wednesday morning causing river levels to rise in the Otter, Sid and Exmouth area.\nFlooding to low lying land and roads close to rivers is possible from the early hours of Wednesday morning.\nWe expect rivers to remain high throughout Wednesday.\nTake care near the areas of concern and monitor your local weather conditions.\nWe are constantly monitoring river levels and have staff in the area checking for and clearing blockages in this location. This message will be updated on Wednesday evening or earlier if the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-09-02T16:22:00",
-      "timeRaised": "2025-09-02T16:22:53",
-      "timeSeverityChanged": "2025-09-02T16:22:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WAFT1W12A00",
-      "description": "River Plym and Tory Brook",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W12A00",
-        "county": "Devon, Plymouth",
-        "notation": "114WAFT1W12A00",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W12A00/polygon",
-        "riverOrSea": "River Plym, Tory Brook, Long Brook"
-      },
-      "floodAreaID": "114WAFT1W12A00",
-      "isTidal": false,
-      "message": "Flooding is possible during the daytime of Wednesday 3rd September and into the early hours of Thursday morning. Over the last 12 hours, we have seen heavy rain and river levels in the River Plym and Tory Brook have started to rise. Further heavy rain and thunderstorms are forecast today from midday until this evening, with totals expected of up to 25mm. Forecast levels suggest there could be flooding to low lying land and roads close to the rivers. We expect the rivers to remain high. \n\nTake care near the areas of concern and monitor your local weather conditions. We are monitoring river levels and have staff in the area checking for and clearing blockages. This message will be updated on by midday on Thursday or earlier if the situation changes. ",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-09-03T11:50:00",
-      "timeRaised": "2025-09-03T11:50:20",
-      "timeSeverityChanged": "2025-09-02T17:31:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WAFT1W13A00",
-      "description": "River Yealm",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W13A00",
-        "county": "Devon, Plymouth",
-        "notation": "114WAFT1W13A00",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W13A00/polygon",
-        "riverOrSea": "River Yealm"
-      },
-      "floodAreaID": "114WAFT1W13A00",
-      "isTidal": false,
-      "message": "Flooding is possible during the daytime of Wednesday 3rd September and into the early hours of Thursday morning. Over the last 12 hours, we have seen heavy rain and river levels in the River Yealm have responded. Further heavy rain and thunderstorms are forecast today from midday until this evening, with totals expected of up to 25mm. Forecast levels suggest there could be flooding to low lying land and roads close to the rivers. We expect the rivers to remain high. \n\nTake care near the areas of concern and monitor your local weather conditions. We are monitoring river levels and have staff in the area checking for and clearing blockages. This message will be updated on by midday on Thursday or earlier if the situation changes. ",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-09-03T11:50:00",
-      "timeRaised": "2025-09-03T11:50:15",
-      "timeSeverityChanged": "2025-09-02T17:31:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WABTW15",
-      "description": "South Devon Rivers",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WABTW15",
-        "county": "Devon",
-        "notation": "113WABTW15",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WABTW15/polygon",
-        "riverOrSea": "River Avon, River Erme, River Harbourne"
-      },
-      "floodAreaID": "113WABTW15",
-      "isTidal": false,
-      "message": "Flooding is possible overnight on Tuesday and into Wednesday morning.\n\nA band of heavy rain is forecasted during Tuesday night and Wednesday morning causing river levels to rise in the South Devon area.\n\nFlooding to low lying land and roads close to rivers is possible from the early hours of Wednesday morning.\n\nWe expect rivers to remain high throughout Wednesday.\n\nTake care near the areas of concern and monitor your local weather conditions.\n\nWe are constantly monitoring river levels and have staff in the area checking for and clearing blockages in this location. This message will be updated on Wednesday evening or earlier if the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-09-02T16:18:00",
-      "timeRaised": "2025-09-02T16:19:04",
-      "timeSeverityChanged": "2025-09-02T16:18:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF440",
-      "description": "Scrase Bridge and West Common Streams",
-      "eaAreaName": "Solent and South Downs",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF440",
-        "county": "West Sussex",
-        "notation": "065WAF440",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF440/polygon",
-        "riverOrSea": "Scrase Bridge Stream, West Common Stream"
-      },
-      "floodAreaID": "065WAF440",
-      "isTidal": false,
-      "message": "The Scrase Bridge and West Common Streams are high and rising. 15mm of rain has been recorded at Haywards Heath in the last two hours. From 13:30 minor flooding could affect a small number of commercial properties on Bridge Road and residential properties on West Common Road. Minor flooding could affect properties near the Witch Inn, along Hickmans Lane and Blackthorns. Odd numbered properties from 29 to 47 on Meadow Drive could be affected by flooding. A further 5-10mm of rain is possible over the next 6 hours. The river should begin to fall by 14:30 on 03/09/2025, and return to normal from 16:00. Flood impacts should ease as river levels fall. There is 10-20mm of rainfall possible tomorrow, Thursday 04/09/2025. If you see a blockage affecting the flow in the river on Bridge Road or Hickmans Lane, please call our incident hotline on 0800 80 70 60. We are clearing debris from grilles through Lindfield, including the Builders Centre and Witch Inn, to help keep the river flowing freely and reduce flood risk. We will update this message by 19:00 03/09/2025.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-09-03T13:50:00",
-      "timeRaised": "2025-09-03T13:50:35",
-      "timeSeverityChanged": "2025-09-03T13:50:00"
-    }
-  ]
+    "items": []
 }
