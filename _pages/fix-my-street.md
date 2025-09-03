@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Ratting ironwork outside Rockatech / by bus stop, 3rd September :- [8115814](https://www.fixmystreet.com/report/8115814)
+- Gridlock traffic and inappropriate vehicles diverting through village. Much too large to do so and causing major traffic issues at all hours of the day. Road by pub and Chinese takeaway is too narrow for both directions of traffic let alone with added diversions, 3rd September :- [8115813](https://www.fixmystreet.com/report/8115813)
 - Water not draining away creating large puddle, 3rd September :- [8115633](https://www.fixmystreet.com/report/8115633)
 - After heavy showers, the gutter along the south side of Langdon road is flooded with water to the extent that is is encroaching over pavement where there is a dropped kerb outside no 15, 3rd September :- [8115282](https://www.fixmystreet.com/report/8115282)
 - Very dangerous situation! We live on Church street, on the one way road around St Mary’s church, in Charlton Kings village. I have seen all day, the chaos that is prevailing in this area, including lorry’s mounting pavements, lorry’s going the wrong way because they are unable to get around the church, due to heavy vehicles and huge traffic using the village local traffic route, instead of the Cirencester Road diversion due to the A40 Charlton kings road works. Three schools are on this route, someone is going to get killed. Please sort better diversion signage, and this needs to be policed., 3rd September :- [8115235](https://www.fixmystreet.com/report/8115235)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Drain blocked, 3rd September :- [8114355](https://www.fixmystreet.com/report/8114355)
 - Flooding caused by blocked drains, 3rd September :- [8114218](https://www.fixmystreet.com/report/8114218)
 - Life-threatening traffic incidents, 3rd September :- [8114207](https://www.fixmystreet.com/report/8114207)
-- Blocked drain, 3rd September :- [8114200](https://www.fixmystreet.com/report/8114200)
-- Bin overflowing, 3rd September :- [8114188](https://www.fixmystreet.com/report/8114188)
 
 <!-- fix_marker ends -->
