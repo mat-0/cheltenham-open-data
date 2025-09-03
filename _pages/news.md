@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Environment Agency warns people of flood risks ([2 hours ago](https://www.bbc.com/news/articles/c5y2ydmrgj6o?at_medium=RSS&at_campaign=rss))
-- Council finds £1.5m overspend after cyber attack ([5 hours ago](https://www.bbc.com/news/articles/c20900gpl6ro?at_medium=RSS&at_campaign=rss))
-- Pensioner fined by airport and colourful new murals ([10 hours ago](https://www.bbc.com/news/articles/c3wnwwn94p8o?at_medium=RSS&at_campaign=rss))
-- 'She is the best advocate any patient could want' ([12 hours ago](https://www.bbc.com/news/articles/c4gzgve3lmeo?at_medium=RSS&at_campaign=rss))
-- Festival line-up features top actors and historians ([14 hours ago](https://www.bbc.com/news/articles/cn43k87vznro?at_medium=RSS&at_campaign=rss))
-- Dedicated support given for radiotherapy effects ([14 hours ago](https://www.bbc.com/news/articles/c78m8m77l9go?at_medium=RSS&at_campaign=rss))
+- Environment Agency warns people of flood risks ([3 hours ago](https://www.bbc.com/news/articles/c5y2ydmrgj6o?at_medium=RSS&at_campaign=rss))
+- Council finds £1.5m overspend after cyber attack ([6 hours ago](https://www.bbc.com/news/articles/c20900gpl6ro?at_medium=RSS&at_campaign=rss))
+- Pensioner fined by airport and colourful new murals ([11 hours ago](https://www.bbc.com/news/articles/c3wnwwn94p8o?at_medium=RSS&at_campaign=rss))
+- 'She is the best advocate any patient could want' ([13 hours ago](https://www.bbc.com/news/articles/c4gzgve3lmeo?at_medium=RSS&at_campaign=rss))
+- Festival line-up features top actors and historians ([15 hours ago](https://www.bbc.com/news/articles/cn43k87vznro?at_medium=RSS&at_campaign=rss))
+- Dedicated support given for radiotherapy effects ([15 hours ago](https://www.bbc.com/news/articles/c78m8m77l9go?at_medium=RSS&at_campaign=rss))
 - Fears grow over future of Gloucestershire Airport ([1 days ago](https://gloucesternewscentre.co.uk/fears-grow-over-future-of-gloucestershire-airport/))
 - Stores in Gloucestershire sold knives and vapes to under-18s ([1 days ago](https://gloucesternewscentre.co.uk/stores-in-gloucestershire-sold-knives-and-vapes-to-under-18s/))
 - Church buildings to get cash to pay for repairs ([1 days ago](https://www.bbc.com/news/articles/cpdjd2vvv2vo?at_medium=RSS&at_campaign=rss))
@@ -57,10 +57,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Cheltenham Community Allotment Group Hits Record Harvest ([23 days ago](https://gloucesternewscentre.co.uk/cheltenham-community-allotment-group-hits-record-harvest/))
 - Stroud Greens oppose ‘disturbing’ Government proposals to sell off allotments ([23 days ago](https://gloucesternewscentre.co.uk/stroud-greens-oppose-disturbing-government-proposals-to-sell-off-allotments/))
 - Cheltenham to mark 80th anniversary of VJ Day ([26 days ago](https://www.cheltenham.gov.uk/news/article/3039/cheltenham_to_mark_80th_anniversary_of_vj_day))
-- ‘Beautiful and fitting’ tribute to Cheltenham’s fallen WWI heroes as website tells their stories ([27 days ago](https://gloucesternewscentre.co.uk/beautiful-and-fitting-tribute-to-cheltenhams-fallen-wwi-heroes-as-website-tells-their-stories/))
-- New perennial planting in the Long Gardens supports greater biodiversity ([27 days ago](https://gloucesternewscentre.co.uk/new-perennial-planting-in-the-long-gardens-supports-greater-biodiversity/))
-- Concerns benefits of Golden Valley plans near GCHQ ‘are being eroded’ ([27 days ago](https://gloucesternewscentre.co.uk/concerns-benefits-of-golden-valley-plans-near-gchq-are-being-eroded/))
-- Sadness as 131 Promenade ‘precedent’ used by justify more town centre plans ([27 days ago](https://gloucesternewscentre.co.uk/sadness-as-131-promenade-precedent-used-by-justify-more-town-centre-plans/))
+- ‘Beautiful and fitting’ tribute to Cheltenham’s fallen WWI heroes as website tells their stories ([28 days ago](https://gloucesternewscentre.co.uk/beautiful-and-fitting-tribute-to-cheltenhams-fallen-wwi-heroes-as-website-tells-their-stories/))
+- New perennial planting in the Long Gardens supports greater biodiversity ([28 days ago](https://gloucesternewscentre.co.uk/new-perennial-planting-in-the-long-gardens-supports-greater-biodiversity/))
+- Concerns benefits of Golden Valley plans near GCHQ ‘are being eroded’ ([28 days ago](https://gloucesternewscentre.co.uk/concerns-benefits-of-golden-valley-plans-near-gchq-are-being-eroded/))
+- Sadness as 131 Promenade ‘precedent’ used by justify more town centre plans ([28 days ago](https://gloucesternewscentre.co.uk/sadness-as-131-promenade-precedent-used-by-justify-more-town-centre-plans/))
 - New perennial planting in the Long Gardens supports greater biodiversity ([29 days ago](https://www.cheltenham.gov.uk/news/article/3038/new_perennial_planting_in_the_long_gardens_supports_greater_biodiversity))
 
 <!-- news_marker ends -->
