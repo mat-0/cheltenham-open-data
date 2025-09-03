@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- A40 london road closure, 3rd September :- [8111446](https://www.fixmystreet.com/report/8111446)
+- Graffiti, 3rd September :- [8111368](https://www.fixmystreet.com/report/8111368)
 - Several potholes outside house, 3rd September :- [8111196](https://www.fixmystreet.com/report/8111196)
 - How are pedestrians supposed to navigate a busy road?, 3rd September :- [8111177](https://www.fixmystreet.com/report/8111177)
 - Flytipping on Cold Pool Lane, 3rd September :- [8110932](https://www.fixmystreet.com/report/8110932)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Very large pothole on edge of road, 2nd September :- [8109513](https://www.fixmystreet.com/report/8109513)
 - TMC - Defects - Road Markings problem, 2nd September :- [8109275](https://www.fixmystreet.com/report/8109275)
 - TMC - Defects - Road Markings problem, 2nd September :- [8109274](https://www.fixmystreet.com/report/8109274)
-- TMC - Defects - Road Markings problem, 2nd September :- [8109276](https://www.fixmystreet.com/report/8109276)
-- TMC - Defects - Kerbs and Channels problem, 2nd September :- [8109273](https://www.fixmystreet.com/report/8109273)
 
 <!-- fix_marker ends -->
