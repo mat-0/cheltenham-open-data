@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Public pathway sign missing, 4th September :- [8119547](https://www.fixmystreet.com/report/8119547)
+- A40 Road Closure - traffic diverted through East End Road, 4th September :- [8119501](https://www.fixmystreet.com/report/8119501)
+- Drain not sufficient for road, gets blocked every time there is heavy rain and then our church hall has been flooded last year, we had to clear this today to prevent another flood, of which we are still recovering from last years downpour., 4th September :- [8119471](https://www.fixmystreet.com/report/8119471)
+- Two deep potholes on eastbound side of Church Road opposite Waverley, 4th September :- [8119392](https://www.fixmystreet.com/report/8119392)
+- Construction barriers left on Copt Elm Road, 4th September :- [8119348](https://www.fixmystreet.com/report/8119348)
+- Potential blockage, manhole lifted out of position with debris, appears to be wetwipes, sanitary towels etc Lawsons Glade, 4th September :- [8119292](https://www.fixmystreet.com/report/8119292)
 - Flooding WILL cause accidents with children at crossing, 4th September :- [8119165](https://www.fixmystreet.com/report/8119165)
 - TMC - Defects -CW6 Potholes  problem, 4th September :- [8119200](https://www.fixmystreet.com/report/8119200)
 - TMC - Defects -CW6 Potholes  problem, 4th September :- [8119006](https://www.fixmystreet.com/report/8119006)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Bollard shell is damaged/vandalised (Non illuminating bollard or post) problem, 4th September :- [8118540](https://www.fixmystreet.com/report/8118540)
 - TMC - Defects -CW6 Potholes  problem, 4th September :- [8118548](https://www.fixmystreet.com/report/8118548)
 - Rain finished 1.5 hours ago., 4th September :- [8118318](https://www.fixmystreet.com/report/8118318)
-- TMC - Defects - Other FW6  Surface problem, 4th September :- [8118351](https://www.fixmystreet.com/report/8118351)
-- TMC - Defects - Other problem, 4th September :- [8118350](https://www.fixmystreet.com/report/8118350)
-- Possible groundwater escape?, 4th September :- [8118294](https://www.fixmystreet.com/report/8118294)
-- TMC - Defects - Other problem, 4th September :- [8118345](https://www.fixmystreet.com/report/8118345)
-- TMC - Defects - Other problem, 4th September :- [8118342](https://www.fixmystreet.com/report/8118342)
-- TMC - Defects - Other problem, 4th September :- [8118338](https://www.fixmystreet.com/report/8118338)
 
 <!-- fix_marker ends -->
