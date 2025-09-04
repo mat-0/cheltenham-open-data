@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipped furniture and large TV packaging/box, 4th September :- [8121118](https://www.fixmystreet.com/report/8121118)
+- All the road drains are blocked, 4th September :- [8120973](https://www.fixmystreet.com/report/8120973)
+- Replace tree trunk - plant new tree, 4th September :- [8120968](https://www.fixmystreet.com/report/8120968)
 - 2 areas of road break up. One deep enough and in a position to potentially present an issue for cyclists, 4th September :- [8120737](https://www.fixmystreet.com/report/8120737)
 - Foot path is missing partway across field to cross railway, 4th September :- [8120646](https://www.fixmystreet.com/report/8120646)
 - Drains either side of road hump unable to cope with heavy rain. Sep '24 No.17 flooded for the third time because of this issue., 4th September :- [8120630](https://www.fixmystreet.com/report/8120630)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 4th September :- [8119200](https://www.fixmystreet.com/report/8119200)
 - TMC - Defects -CW6 Potholes  problem, 4th September :- [8119006](https://www.fixmystreet.com/report/8119006)
 - Road breaking up, 4th September :- [8118956](https://www.fixmystreet.com/report/8118956)
-- Poor repairs to.paving and stones left, 4th September :- [8118943](https://www.fixmystreet.com/report/8118943)
-- Damage to verge and slippery mud on pavement, 4th September :- [8118743](https://www.fixmystreet.com/report/8118743)
-- Green or amber traffic light is not working problem, 4th September :- [8118791](https://www.fixmystreet.com/report/8118791)
 
 <!-- fix_marker ends -->
