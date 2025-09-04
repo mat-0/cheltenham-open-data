@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dangerous Traffic Through Church Street, 4th September :- [8116661](https://www.fixmystreet.com/report/8116661)
+- Timings have changed, 4th September :- [8116651](https://www.fixmystreet.com/report/8116651)
 - Grafitti on the mini roundabout, 4th September :- [8116395](https://www.fixmystreet.com/report/8116395)
 - Multiple potholes, 3rd September :- [8116345](https://www.fixmystreet.com/report/8116345)
 - Ratting ironwork outside Rockatech / by bus stop, 3rd September :- [8115814](https://www.fixmystreet.com/report/8115814)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Water Level in the drain seems High, 3rd September :- [8114528](https://www.fixmystreet.com/report/8114528)
 - Flooded road, 3rd September :- [8114453](https://www.fixmystreet.com/report/8114453)
 - Paving slab sticking up, 3rd September :- [8114425](https://www.fixmystreet.com/report/8114425)
-- Tree is damaged problem, 3rd September :- [8114493](https://www.fixmystreet.com/report/8114493)
-- Drain blocked, 3rd September :- [8114355](https://www.fixmystreet.com/report/8114355)
 
 <!-- fix_marker ends -->
