@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flooding at the end of the road due to blocked drain. Not going down, 4th September :- [8116714](https://www.fixmystreet.com/report/8116714)
 - Dangerous Traffic Through Church Street, 4th September :- [8116661](https://www.fixmystreet.com/report/8116661)
 - Timings have changed, 4th September :- [8116651](https://www.fixmystreet.com/report/8116651)
 - Grafitti on the mini roundabout, 4th September :- [8116395](https://www.fixmystreet.com/report/8116395)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Blocked drain, 3rd September :- [8114591](https://www.fixmystreet.com/report/8114591)
 - Water Level in the drain seems High, 3rd September :- [8114528](https://www.fixmystreet.com/report/8114528)
 - Flooded road, 3rd September :- [8114453](https://www.fixmystreet.com/report/8114453)
-- Paving slab sticking up, 3rd September :- [8114425](https://www.fixmystreet.com/report/8114425)
 
 <!-- fix_marker ends -->
