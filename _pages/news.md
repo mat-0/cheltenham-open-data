@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Environment Agency warns people of flood risks ([8 hours ago](https://www.bbc.com/news/articles/c5y2ydmrgj6o?at_medium=RSS&at_campaign=rss))
+- Environment Agency warns people of flood risks ([9 hours ago](https://www.bbc.com/news/articles/c5y2ydmrgj6o?at_medium=RSS&at_campaign=rss))
 - Council finds £1.5m overspend after cyber attack ([12 hours ago](https://www.bbc.com/news/articles/c20900gpl6ro?at_medium=RSS&at_campaign=rss))
-- Pensioner fined by airport and colourful new murals ([16 hours ago](https://www.bbc.com/news/articles/c3wnwwn94p8o?at_medium=RSS&at_campaign=rss))
-- 'She is the best advocate any patient could want' ([19 hours ago](https://www.bbc.com/news/articles/c4gzgve3lmeo?at_medium=RSS&at_campaign=rss))
+- Pensioner fined by airport and colourful new murals ([17 hours ago](https://www.bbc.com/news/articles/c3wnwwn94p8o?at_medium=RSS&at_campaign=rss))
+- 'She is the best advocate any patient could want' ([20 hours ago](https://www.bbc.com/news/articles/c4gzgve3lmeo?at_medium=RSS&at_campaign=rss))
 - Festival line-up features top actors and historians ([21 hours ago](https://www.bbc.com/news/articles/cn43k87vznro?at_medium=RSS&at_campaign=rss))
 - Dedicated support given for radiotherapy effects ([21 hours ago](https://www.bbc.com/news/articles/c78m8m77l9go?at_medium=RSS&at_campaign=rss))
 - Fears grow over future of Gloucestershire Airport ([1 days ago](https://gloucesternewscentre.co.uk/fears-grow-over-future-of-gloucestershire-airport/))
