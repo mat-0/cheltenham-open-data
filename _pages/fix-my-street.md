@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Foot path is missing partway across field to cross railway, 4th September :- [8120646](https://www.fixmystreet.com/report/8120646)
+- Drains either side of road hump unable to cope with heavy rain. Sep '24 No.17 flooded for the third time because of this issue., 4th September :- [8120630](https://www.fixmystreet.com/report/8120630)
 - Weeds between road and footpath, 4th September :- [8120334](https://www.fixmystreet.com/report/8120334)
 - Gulley blocked, 4th September :- [8120134](https://www.fixmystreet.com/report/8120134)
 - Blocking emergency bollards constantly. These were installed so the fire service etc could access roads more easily but people park here and block it constantly. Signage or yellow lines are needed., 4th September :- [8120001](https://www.fixmystreet.com/report/8120001)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Damage to verge and slippery mud on pavement, 4th September :- [8118743](https://www.fixmystreet.com/report/8118743)
 - Green or amber traffic light is not working problem, 4th September :- [8118791](https://www.fixmystreet.com/report/8118791)
 - Bollard shell is damaged/vandalised (Non illuminating bollard or post) problem, 4th September :- [8118790](https://www.fixmystreet.com/report/8118790)
-- TMC - Defects - Other FW6  Surface problem, 4th September :- [8118792](https://www.fixmystreet.com/report/8118792)
-- TMC - Defects -CW6 Potholes  problem, 4th September :- [8118552](https://www.fixmystreet.com/report/8118552)
 
 <!-- fix_marker ends -->
