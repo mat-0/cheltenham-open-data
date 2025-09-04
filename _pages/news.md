@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Arrest made after boy sexually assaulted in park ([47 minutes ago](https://www.bbc.com/news/articles/c5yvpq5nq9jo?at_medium=RSS&at_campaign=rss))
-- Hemlock warning after cattle deaths ([3 hours ago](https://www.bbc.com/news/articles/c20708yzq3no?at_medium=RSS&at_campaign=rss))
-- 'I'm lucky to be alive after catching meningitis' ([3 hours ago](https://www.bbc.com/news/articles/c0r7rpxnlwjo?at_medium=RSS&at_campaign=rss))
-- Environment Agency warns people of flood risks ([15 hours ago](https://www.bbc.com/news/articles/c5y2ydmrgj6o?at_medium=RSS&at_campaign=rss))
-- Council finds £1.5m overspend after cyber attack ([18 hours ago](https://www.bbc.com/news/articles/c20900gpl6ro?at_medium=RSS&at_campaign=rss))
-- Pensioner fined by airport and colourful new murals ([23 hours ago](https://www.bbc.com/news/articles/c3wnwwn94p8o?at_medium=RSS&at_campaign=rss))
+- Arrest made after boy sexually assaulted in park ([1 hours ago](https://www.bbc.com/news/articles/c5yvpq5nq9jo?at_medium=RSS&at_campaign=rss))
+- Hemlock warning after cattle deaths ([4 hours ago](https://www.bbc.com/news/articles/c20708yzq3no?at_medium=RSS&at_campaign=rss))
+- 'I'm lucky to be alive after catching meningitis' ([4 hours ago](https://www.bbc.com/news/articles/c0r7rpxnlwjo?at_medium=RSS&at_campaign=rss))
+- Environment Agency warns people of flood risks ([16 hours ago](https://www.bbc.com/news/articles/c5y2ydmrgj6o?at_medium=RSS&at_campaign=rss))
+- Council finds £1.5m overspend after cyber attack ([19 hours ago](https://www.bbc.com/news/articles/c20900gpl6ro?at_medium=RSS&at_campaign=rss))
+- Pensioner fined by airport and colourful new murals ([1 days ago](https://www.bbc.com/news/articles/c3wnwwn94p8o?at_medium=RSS&at_campaign=rss))
 - 'She is the best advocate any patient could want' ([1 days ago](https://www.bbc.com/news/articles/c4gzgve3lmeo?at_medium=RSS&at_campaign=rss))
 - Festival line-up features top actors and historians ([1 days ago](https://www.bbc.com/news/articles/cn43k87vznro?at_medium=RSS&at_campaign=rss))
 - Dedicated support given for radiotherapy effects ([1 days ago](https://www.bbc.com/news/articles/c78m8m77l9go?at_medium=RSS&at_campaign=rss))
@@ -27,7 +27,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Town open for business after extended road closure ([1 days ago](https://www.bbc.com/news/articles/cj0y04q453zo?at_medium=RSS&at_campaign=rss))
 - Teens sold knives and vapes in undercover operation ([1 days ago](https://www.bbc.com/news/articles/cwy3ywkyw49o?at_medium=RSS&at_campaign=rss))
 - Headlines: 'Poppy memorial' and 'rare bat' ([1 days ago](https://www.bbc.com/news/articles/c99m9mk7dpzo?at_medium=RSS&at_campaign=rss))
-- Firms fear preferred buyers will break up airport ([1 days ago](https://www.bbc.com/news/articles/cz71x91qw9no?at_medium=RSS&at_campaign=rss))
+- Firms fear preferred buyers will break up airport ([2 days ago](https://www.bbc.com/news/articles/cz71x91qw9no?at_medium=RSS&at_campaign=rss))
 - Nuclear research centre plans submitted ([2 days ago](https://www.bbc.com/news/articles/c98l85569yjo?at_medium=RSS&at_campaign=rss))
 - Cheltenham multi-storey car park closed until further notice ([2 days ago](https://gloucesternewscentre.co.uk/cheltenham-multi-storey-car-park-closed-until-further-notice/))
 - Boy stabbed teen in attempted bike robbery ([2 days ago](https://www.bbc.com/news/articles/clyvynmmldjo?at_medium=RSS&at_campaign=rss))
@@ -61,6 +61,5 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - New perennial planting in the Long Gardens supports greater biodiversity ([28 days ago](https://gloucesternewscentre.co.uk/new-perennial-planting-in-the-long-gardens-supports-greater-biodiversity/))
 - Concerns benefits of Golden Valley plans near GCHQ ‘are being eroded’ ([28 days ago](https://gloucesternewscentre.co.uk/concerns-benefits-of-golden-valley-plans-near-gchq-are-being-eroded/))
 - Sadness as 131 Promenade ‘precedent’ used by justify more town centre plans ([28 days ago](https://gloucesternewscentre.co.uk/sadness-as-131-promenade-precedent-used-by-justify-more-town-centre-plans/))
-- New perennial planting in the Long Gardens supports greater biodiversity ([29 days ago](https://www.cheltenham.gov.uk/news/article/3038/new_perennial_planting_in_the_long_gardens_supports_greater_biodiversity))
 
 <!-- news_marker ends -->
