@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flood in road that doesn’t usually flood., 4th September :- [8119889](https://www.fixmystreet.com/report/8119889)
 - Public pathway sign missing, 4th September :- [8119547](https://www.fixmystreet.com/report/8119547)
 - A40 Road Closure - traffic diverted through East End Road, 4th September :- [8119501](https://www.fixmystreet.com/report/8119501)
 - Drain not sufficient for road, gets blocked every time there is heavy rain and then our church hall has been flooded last year, we had to clear this today to prevent another flood, of which we are still recovering from last years downpour., 4th September :- [8119471](https://www.fixmystreet.com/report/8119471)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 4th September :- [8118551](https://www.fixmystreet.com/report/8118551)
 - Bollard shell is damaged/vandalised (Non illuminating bollard or post) problem, 4th September :- [8118540](https://www.fixmystreet.com/report/8118540)
 - TMC - Defects -CW6 Potholes  problem, 4th September :- [8118548](https://www.fixmystreet.com/report/8118548)
-- Rain finished 1.5 hours ago., 4th September :- [8118318](https://www.fixmystreet.com/report/8118318)
 
 <!-- fix_marker ends -->
