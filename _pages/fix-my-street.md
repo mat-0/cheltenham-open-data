@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Weeding of the pavements overdue, 4th September :- [8121167](https://www.fixmystreet.com/report/8121167)
 - Flytipped furniture and large TV packaging/box, 4th September :- [8121118](https://www.fixmystreet.com/report/8121118)
 - All the road drains are blocked, 4th September :- [8120973](https://www.fixmystreet.com/report/8120973)
 - Replace tree trunk - plant new tree, 4th September :- [8120968](https://www.fixmystreet.com/report/8120968)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Flooding WILL cause accidents with children at crossing, 4th September :- [8119165](https://www.fixmystreet.com/report/8119165)
 - TMC - Defects -CW6 Potholes  problem, 4th September :- [8119200](https://www.fixmystreet.com/report/8119200)
 - TMC - Defects -CW6 Potholes  problem, 4th September :- [8119006](https://www.fixmystreet.com/report/8119006)
-- Road breaking up, 4th September :- [8118956](https://www.fixmystreet.com/report/8118956)
 
 <!-- fix_marker ends -->
