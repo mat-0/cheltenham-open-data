@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Weeds between road and footpath, 4th September :- [8120334](https://www.fixmystreet.com/report/8120334)
+- Gulley blocked, 4th September :- [8120134](https://www.fixmystreet.com/report/8120134)
+- Blocking emergency bollards constantly. These were installed so the fire service etc could access roads more easily but people park here and block it constantly. Signage or yellow lines are needed., 4th September :- [8120001](https://www.fixmystreet.com/report/8120001)
 - Flood in road that doesn’t usually flood., 4th September :- [8119889](https://www.fixmystreet.com/report/8119889)
 - Public pathway sign missing, 4th September :- [8119547](https://www.fixmystreet.com/report/8119547)
 - A40 Road Closure - traffic diverted through East End Road, 4th September :- [8119501](https://www.fixmystreet.com/report/8119501)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Bollard shell is damaged/vandalised (Non illuminating bollard or post) problem, 4th September :- [8118790](https://www.fixmystreet.com/report/8118790)
 - TMC - Defects - Other FW6  Surface problem, 4th September :- [8118792](https://www.fixmystreet.com/report/8118792)
 - TMC - Defects -CW6 Potholes  problem, 4th September :- [8118552](https://www.fixmystreet.com/report/8118552)
-- TMC - Defects - Vegetation problem, 4th September :- [8118551](https://www.fixmystreet.com/report/8118551)
-- Bollard shell is damaged/vandalised (Non illuminating bollard or post) problem, 4th September :- [8118540](https://www.fixmystreet.com/report/8118540)
-- TMC - Defects -CW6 Potholes  problem, 4th September :- [8118548](https://www.fixmystreet.com/report/8118548)
 
 <!-- fix_marker ends -->
