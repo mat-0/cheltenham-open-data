@@ -10,16 +10,13 @@ permalink: /foodbank
 <!-- summary1_marker starts -->
 ## List of needed items in Cheltenham
 
-Last updated: 2025-08-22
+Last updated: 2025-09-05
 
-- Cuppa Soups
-- Tinned Soups
+- Cuppa Soups Or Tinned Soups
+- Tinned Hot And Cold Meat
 - Washing Up Liquid
 - UHT Milk
-- Fruit Juice
-- Squash
-- Tinned Hot Meat
-- Tinned Cold Meat
+- Fruit Juice / Squash
 - Snacks
 <!-- summary1_marker ends -->
 

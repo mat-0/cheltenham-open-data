@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Van left in road in dangerous position, 5th September :- [8125783](https://www.fixmystreet.com/report/8125783)
 - Water pipe leak, 5th September :- [8125674](https://www.fixmystreet.com/report/8125674)
 - The length of the road has failed, 5th September :- [8125655](https://www.fixmystreet.com/report/8125655)
 - Recent excavation by Wales & West has subsided, about 6’x2’, 5th September :- [8125505](https://www.fixmystreet.com/report/8125505)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Cycle path, 5th September :- [8123269](https://www.fixmystreet.com/report/8123269)
 - TMC - Defects -CW6 Potholes  problem, 5th September :- [8123420](https://www.fixmystreet.com/report/8123420)
 - Road breaking up and becoming loose stone, 5th September :- [8123031](https://www.fixmystreet.com/report/8123031)
-- TMC - Defects -CW6 Potholes  problem, 5th September :- [8122754](https://www.fixmystreet.com/report/8122754)
 
 <!-- fix_marker ends -->
