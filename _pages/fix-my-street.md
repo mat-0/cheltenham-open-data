@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects -CW6 Potholes  problem, 5th September :- [8122754](https://www.fixmystreet.com/report/8122754)
+- The drain is blocked problem, 5th September :- [8122735](https://www.fixmystreet.com/report/8122735)
+- I doction loop not working, 5th September :- [8122417](https://www.fixmystreet.com/report/8122417)
 - Bollards removed Arle Avenue, 5th September :- [8122366](https://www.fixmystreet.com/report/8122366)
 - TMC - Defects - Other problem, 5th September :- [8122279](https://www.fixmystreet.com/report/8122279)
 - Fence panels damaged and fallen down, 5th September :- [8122108](https://www.fixmystreet.com/report/8122108)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Drains either side of road hump unable to cope with heavy rain. Sep '24 No.17 flooded for the third time because of this issue., 4th September :- [8120630](https://www.fixmystreet.com/report/8120630)
 - Weeds between road and footpath, 4th September :- [8120334](https://www.fixmystreet.com/report/8120334)
 - Gulley blocked, 4th September :- [8120134](https://www.fixmystreet.com/report/8120134)
-- Blocking emergency bollards constantly. These were installed so the fire service etc could access roads more easily but people park here and block it constantly. Signage or yellow lines are needed., 4th September :- [8120001](https://www.fixmystreet.com/report/8120001)
-- Flood in road that doesn’t usually flood., 4th September :- [8119889](https://www.fixmystreet.com/report/8119889)
-- Public pathway sign missing, 4th September :- [8119547](https://www.fixmystreet.com/report/8119547)
 
 <!-- fix_marker ends -->
