@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Huge potholes causing huge issues with access, 5th September :- [8126674](https://www.fixmystreet.com/report/8126674)
 - School warning flashing light out, 5th September :- [8126581](https://www.fixmystreet.com/report/8126581)
 - Flooding on main Road, 5th September :- [8125996](https://www.fixmystreet.com/report/8125996)
 - Van left in road in dangerous position, 5th September :- [8125783](https://www.fixmystreet.com/report/8125783)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Large banner flyposted on uprights in park, 5th September :- [8123310](https://www.fixmystreet.com/report/8123310)
 - Flyosters of various cafes/businesses on public verge, 5th September :- [8123298](https://www.fixmystreet.com/report/8123298)
 - Flyposting on railing at entrance to Montpellier Park, 5th September :- [8123277](https://www.fixmystreet.com/report/8123277)
-- Cycle path, 5th September :- [8123269](https://www.fixmystreet.com/report/8123269)
 
 <!-- fix_marker ends -->
