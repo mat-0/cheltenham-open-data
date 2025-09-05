@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Traffic light, 5th September :- [8121883](https://www.fixmystreet.com/report/8121883)
 - Broken access point, 4th September :- [8121572](https://www.fixmystreet.com/report/8121572)
 - Sign needed to warn of deer, 4th September :- [8121375](https://www.fixmystreet.com/report/8121375)
 - Weeding of the pavements overdue, 4th September :- [8121167](https://www.fixmystreet.com/report/8121167)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Two deep potholes on eastbound side of Church Road opposite Waverley, 4th September :- [8119392](https://www.fixmystreet.com/report/8119392)
 - Construction barriers left on Copt Elm Road, 4th September :- [8119348](https://www.fixmystreet.com/report/8119348)
 - Potential blockage, manhole lifted out of position with debris, appears to be wetwipes, sanitary towels etc Lawsons Glade, 4th September :- [8119292](https://www.fixmystreet.com/report/8119292)
-- Flooding WILL cause accidents with children at crossing, 4th September :- [8119165](https://www.fixmystreet.com/report/8119165)
 
 <!-- fix_marker ends -->
