@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Bollards removed Arle Avenue, 5th September :- [8122366](https://www.fixmystreet.com/report/8122366)
+- TMC - Defects - Other problem, 5th September :- [8122279](https://www.fixmystreet.com/report/8122279)
 - Fence panels damaged and fallen down, 5th September :- [8122108](https://www.fixmystreet.com/report/8122108)
 - Previous repair sinking, 5th September :- [8122047](https://www.fixmystreet.com/report/8122047)
 - Street light out, 5th September :- [8122040](https://www.fixmystreet.com/report/8122040)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Blocking emergency bollards constantly. These were installed so the fire service etc could access roads more easily but people park here and block it constantly. Signage or yellow lines are needed., 4th September :- [8120001](https://www.fixmystreet.com/report/8120001)
 - Flood in road that doesn’t usually flood., 4th September :- [8119889](https://www.fixmystreet.com/report/8119889)
 - Public pathway sign missing, 4th September :- [8119547](https://www.fixmystreet.com/report/8119547)
-- A40 Road Closure - traffic diverted through East End Road, 4th September :- [8119501](https://www.fixmystreet.com/report/8119501)
-- Drain not sufficient for road, gets blocked every time there is heavy rain and then our church hall has been flooded last year, we had to clear this today to prevent another flood, of which we are still recovering from last years downpour., 4th September :- [8119471](https://www.fixmystreet.com/report/8119471)
 
 <!-- fix_marker ends -->
