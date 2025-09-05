@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Deep and dangerous pothole in roundabout., 6th September :- [8126872](https://www.fixmystreet.com/report/8126872)
 - Huge potholes causing huge issues with access, 5th September :- [8126674](https://www.fixmystreet.com/report/8126674)
 - School warning flashing light out, 5th September :- [8126581](https://www.fixmystreet.com/report/8126581)
 - Flooding on main Road, 5th September :- [8125996](https://www.fixmystreet.com/report/8125996)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Estate sign attached to actual street sign, 5th September :- [8123356](https://www.fixmystreet.com/report/8123356)
 - Large banner flyposted on uprights in park, 5th September :- [8123310](https://www.fixmystreet.com/report/8123310)
 - Flyosters of various cafes/businesses on public verge, 5th September :- [8123298](https://www.fixmystreet.com/report/8123298)
-- Flyposting on railing at entrance to Montpellier Park, 5th September :- [8123277](https://www.fixmystreet.com/report/8123277)
 
 <!-- fix_marker ends -->
