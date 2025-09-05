@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- School warning flashing light out, 5th September :- [8126581](https://www.fixmystreet.com/report/8126581)
 - Flooding on main Road, 5th September :- [8125996](https://www.fixmystreet.com/report/8125996)
 - Van left in road in dangerous position, 5th September :- [8125783](https://www.fixmystreet.com/report/8125783)
 - Water pipe leak, 5th September :- [8125674](https://www.fixmystreet.com/report/8125674)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Flyosters of various cafes/businesses on public verge, 5th September :- [8123298](https://www.fixmystreet.com/report/8123298)
 - Flyposting on railing at entrance to Montpellier Park, 5th September :- [8123277](https://www.fixmystreet.com/report/8123277)
 - Cycle path, 5th September :- [8123269](https://www.fixmystreet.com/report/8123269)
-- TMC - Defects -CW6 Potholes  problem, 5th September :- [8123420](https://www.fixmystreet.com/report/8123420)
 
 <!-- fix_marker ends -->

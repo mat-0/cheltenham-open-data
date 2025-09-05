@@ -12,13 +12,13 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Maternity unit to stay shut for foreseeable future ([1 hours ago](https://www.bbc.com/news/articles/cgq4873q2q4o?at_medium=RSS&at_campaign=rss))
-- Bid to do half-marathons in different wheelchairs ([2 hours ago](https://www.bbc.com/news/articles/cge2dzy2l1eo?at_medium=RSS&at_campaign=rss))
-- Hutchinson abuse 'disgraceful' - Rovers boss Clarke ([3 hours ago](https://www.bbc.com/sport/football/articles/cdern208n8lo?at_medium=RSS&at_campaign=rss))
-- 'Bear with me' and 'bailiff mix-up' ([7 hours ago](https://www.bbc.com/news/articles/c931pngw1z7o?at_medium=RSS&at_campaign=rss))
-- Firms illegally destroyed water vole habitat ([10 hours ago](https://www.bbc.com/news/articles/cgj147qzn44o?at_medium=RSS&at_campaign=rss))
-- Dogs being used to stop sewage entering rivers ([11 hours ago](https://www.bbc.com/news/articles/c2knjdplyxgo?at_medium=RSS&at_campaign=rss))
-- Farming university boosted by 'Clarkson effect' ([14 hours ago](https://www.bbc.com/news/articles/c4gmgkypdepo?at_medium=RSS&at_campaign=rss))
+- Maternity unit to stay shut for foreseeable future ([2 hours ago](https://www.bbc.com/news/articles/cgq4873q2q4o?at_medium=RSS&at_campaign=rss))
+- Bid to do half-marathons in different wheelchairs ([3 hours ago](https://www.bbc.com/news/articles/cge2dzy2l1eo?at_medium=RSS&at_campaign=rss))
+- Hutchinson abuse 'disgraceful' - Rovers boss Clarke ([4 hours ago](https://www.bbc.com/sport/football/articles/cdern208n8lo?at_medium=RSS&at_campaign=rss))
+- 'Bear with me' and 'bailiff mix-up' ([8 hours ago](https://www.bbc.com/news/articles/c931pngw1z7o?at_medium=RSS&at_campaign=rss))
+- Firms illegally destroyed water vole habitat ([11 hours ago](https://www.bbc.com/news/articles/cgj147qzn44o?at_medium=RSS&at_campaign=rss))
+- Dogs being used to stop sewage entering rivers ([12 hours ago](https://www.bbc.com/news/articles/c2knjdplyxgo?at_medium=RSS&at_campaign=rss))
+- Farming university boosted by 'Clarkson effect' ([15 hours ago](https://www.bbc.com/news/articles/c4gmgkypdepo?at_medium=RSS&at_campaign=rss))
 - School appeals must regard children more, says mum ([1 days ago](https://www.bbc.com/news/articles/clydnv8rdxxo?at_medium=RSS&at_campaign=rss))
 - Battle of Britain commemoration service in Cheltenham ([1 days ago](https://gloucesternewscentre.co.uk/battle-of-britain-commemoration-service-in-cheltenham/))
 - Cheltenham’s compliance crackdown on illegal knife sales to minors ([1 days ago](https://gloucesternewscentre.co.uk/cheltenhams-compliance-crackdown-on-illegal-knife-sales-to-minors/))
@@ -61,7 +61,5 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Cheltenham Community Allotment Group Hits Record Harvest ([25 days ago](https://gloucesternewscentre.co.uk/cheltenham-community-allotment-group-hits-record-harvest/))
 - Stroud Greens oppose ‘disturbing’ Government proposals to sell off allotments ([25 days ago](https://gloucesternewscentre.co.uk/stroud-greens-oppose-disturbing-government-proposals-to-sell-off-allotments/))
 - Cheltenham to mark 80th anniversary of VJ Day ([28 days ago](https://www.cheltenham.gov.uk/news/article/3039/cheltenham_to_mark_80th_anniversary_of_vj_day))
-- ‘Beautiful and fitting’ tribute to Cheltenham’s fallen WWI heroes as website tells their stories ([29 days ago](https://gloucesternewscentre.co.uk/beautiful-and-fitting-tribute-to-cheltenhams-fallen-wwi-heroes-as-website-tells-their-stories/))
-- New perennial planting in the Long Gardens supports greater biodiversity ([29 days ago](https://gloucesternewscentre.co.uk/new-perennial-planting-in-the-long-gardens-supports-greater-biodiversity/))
 
 <!-- news_marker ends -->
