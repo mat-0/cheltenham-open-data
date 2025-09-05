@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Blocked Street Drains, 5th September :- [8124657](https://www.fixmystreet.com/report/8124657)
+- Large tree growing on verge outside of 45 Courtiers Drive, 5th September :- [8124528](https://www.fixmystreet.com/report/8124528)
+- General road markings, lines and stud issues problem, 5th September :- [8124454](https://www.fixmystreet.com/report/8124454)
+- Street light is permanently out problem, 5th September :- [8124453](https://www.fixmystreet.com/report/8124453)
+- TMC - Defects -CW6 Potholes  problem, 5th September :- [8124471](https://www.fixmystreet.com/report/8124471)
 - The disabled wording outside Hartley Court in Pittville Circus Road is badly scuffed and is very difficult to read. It needs repainting, 5th September :- [8123639](https://www.fixmystreet.com/report/8123639)
 - Gravel on road following flood, 5th September :- [8123527](https://www.fixmystreet.com/report/8123527)
 - This has been like this for months, 5th September :- [8123457](https://www.fixmystreet.com/report/8123457)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - I doction loop not working, 5th September :- [8122417](https://www.fixmystreet.com/report/8122417)
 - Bollards removed Arle Avenue, 5th September :- [8122366](https://www.fixmystreet.com/report/8122366)
 - TMC - Defects - Other problem, 5th September :- [8122279](https://www.fixmystreet.com/report/8122279)
-- Fence panels damaged and fallen down, 5th September :- [8122108](https://www.fixmystreet.com/report/8122108)
-- Previous repair sinking, 5th September :- [8122047](https://www.fixmystreet.com/report/8122047)
-- Street light out, 5th September :- [8122040](https://www.fixmystreet.com/report/8122040)
-- Traffic light, 5th September :- [8121883](https://www.fixmystreet.com/report/8121883)
-- Broken access point, 4th September :- [8121572](https://www.fixmystreet.com/report/8121572)
 
 <!-- fix_marker ends -->
