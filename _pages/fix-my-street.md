@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Broken street sign at the top of Bloomsbury Street, Cheltenham, 5th September :- [8124856](https://www.fixmystreet.com/report/8124856)
 - Blocked Street Drains, 5th September :- [8124657](https://www.fixmystreet.com/report/8124657)
 - Large tree growing on verge outside of 45 Courtiers Drive, 5th September :- [8124528](https://www.fixmystreet.com/report/8124528)
 - General road markings, lines and stud issues problem, 5th September :- [8124454](https://www.fixmystreet.com/report/8124454)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - The drain is blocked problem, 5th September :- [8122735](https://www.fixmystreet.com/report/8122735)
 - I doction loop not working, 5th September :- [8122417](https://www.fixmystreet.com/report/8122417)
 - Bollards removed Arle Avenue, 5th September :- [8122366](https://www.fixmystreet.com/report/8122366)
-- TMC - Defects - Other problem, 5th September :- [8122279](https://www.fixmystreet.com/report/8122279)
 
 <!-- fix_marker ends -->
