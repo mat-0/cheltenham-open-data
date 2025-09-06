@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Excess hanging over footpath at low level of 4ft, 6th September :- [8129380](https://www.fixmystreet.com/report/8129380)
 - Flytipped bed frame Brunswick St, 6th September :- [8129142](https://www.fixmystreet.com/report/8129142)
 - Large amount of broken glass, 6th September :- [8128832](https://www.fixmystreet.com/report/8128832)
 - Drain outside Parkway completely blocked, 6th September :- [8128742](https://www.fixmystreet.com/report/8128742)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Recent excavation by Wales & West has subsided, about 6’x2’, 5th September :- [8125505](https://www.fixmystreet.com/report/8125505)
 - Broken street sign at the top of Bloomsbury Street, Cheltenham, 5th September :- [8124856](https://www.fixmystreet.com/report/8124856)
 - Blocked Street Drains, 5th September :- [8124657](https://www.fixmystreet.com/report/8124657)
-- Large tree growing on verge outside of 45 Courtiers Drive, 5th September :- [8124528](https://www.fixmystreet.com/report/8124528)
 
 <!-- fix_marker ends -->
