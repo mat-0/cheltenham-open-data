@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Crossing too loud, 6th September :- [8129581](https://www.fixmystreet.com/report/8129581)
+- Pedestrian crossing lights are stuck 'on' so are changing to red constantly, 6th September :- [8129533](https://www.fixmystreet.com/report/8129533)
+- Tree growing and leaning onto building, 6th September :- [8129508](https://www.fixmystreet.com/report/8129508)
 - Excess hanging over footpath at low level of 4ft, 6th September :- [8129380](https://www.fixmystreet.com/report/8129380)
 - Flytipped bed frame Brunswick St, 6th September :- [8129142](https://www.fixmystreet.com/report/8129142)
 - Large amount of broken glass, 6th September :- [8128832](https://www.fixmystreet.com/report/8128832)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Van left in road in dangerous position, 5th September :- [8125783](https://www.fixmystreet.com/report/8125783)
 - Water pipe leak, 5th September :- [8125674](https://www.fixmystreet.com/report/8125674)
 - The length of the road has failed, 5th September :- [8125655](https://www.fixmystreet.com/report/8125655)
-- Recent excavation by Wales & West has subsided, about 6’x2’, 5th September :- [8125505](https://www.fixmystreet.com/report/8125505)
-- Broken street sign at the top of Bloomsbury Street, Cheltenham, 5th September :- [8124856](https://www.fixmystreet.com/report/8124856)
-- Blocked Street Drains, 5th September :- [8124657](https://www.fixmystreet.com/report/8124657)
 
 <!-- fix_marker ends -->

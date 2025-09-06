@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Commuters face six months of delays on major route ([4 hours ago](https://www.bbc.com/news/articles/cm2zy77xwn1o?at_medium=RSS&at_campaign=rss))
-- TikTok tourists ruining village, says councillor ([9 hours ago](https://www.bbc.com/news/articles/c3e792xlk0wo?at_medium=RSS&at_campaign=rss))
-- Gloucester Day parade celebrates city's legacy ([12 hours ago](https://www.bbc.com/news/articles/c2dng2kj9k2o?at_medium=RSS&at_campaign=rss))
-- Gloucestershire in pictures: Rainbow skies and views from up high ([12 hours ago](https://www.bbc.com/news/articles/ckgejp4npzro?at_medium=RSS&at_campaign=rss))
+- Commuters face six months of delays on major route ([5 hours ago](https://www.bbc.com/news/articles/cm2zy77xwn1o?at_medium=RSS&at_campaign=rss))
+- TikTok tourists ruining village, says councillor ([10 hours ago](https://www.bbc.com/news/articles/c3e792xlk0wo?at_medium=RSS&at_campaign=rss))
+- Gloucester Day parade celebrates city's legacy ([13 hours ago](https://www.bbc.com/news/articles/c2dng2kj9k2o?at_medium=RSS&at_campaign=rss))
+- Gloucestershire in pictures: Rainbow skies and views from up high ([13 hours ago](https://www.bbc.com/news/articles/ckgejp4npzro?at_medium=RSS&at_campaign=rss))
 - Maternity unit to stay shut for foreseeable future ([1 days ago](https://www.bbc.com/news/articles/cgq4873q2q4o?at_medium=RSS&at_campaign=rss))
 - Bid to do half-marathons in different wheelchairs ([1 days ago](https://www.bbc.com/news/articles/cge2dzy2l1eo?at_medium=RSS&at_campaign=rss))
 - Hutchinson abuse 'disgraceful' - Rovers boss Clarke ([1 days ago](https://www.bbc.com/sport/football/articles/cdern208n8lo?at_medium=RSS&at_campaign=rss))
@@ -57,7 +57,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Council launches £400k fund to support local community projects ([19 days ago](https://gloucesternewscentre.co.uk/council-launches-400k-fund-to-support-local-community-projects/))
 - Heritage Open Days 2025 ([22 days ago](https://www.cheltenham.gov.uk/news/article/3041/heritage_open_days_2025))
 - Cheltenham families enjoy another successful NCLB Party in the Park ([24 days ago](https://www.cheltenham.gov.uk/news/article/3040/cheltenham_families_enjoy_another_successful_nclb_party_in_the_park))
-- Gloucestershire County Council launches ‘Clean Sweep’ initiative ([25 days ago](https://gloucesternewscentre.co.uk/gloucestershire-county-council-launches-clean-sweep-initiative/))
+- Gloucestershire County Council launches ‘Clean Sweep’ initiative ([26 days ago](https://gloucesternewscentre.co.uk/gloucestershire-county-council-launches-clean-sweep-initiative/))
 - Cheltenham Community Allotment Group Hits Record Harvest ([26 days ago](https://gloucesternewscentre.co.uk/cheltenham-community-allotment-group-hits-record-harvest/))
 - Stroud Greens oppose ‘disturbing’ Government proposals to sell off allotments ([26 days ago](https://gloucesternewscentre.co.uk/stroud-greens-oppose-disturbing-government-proposals-to-sell-off-allotments/))
 - Cheltenham to mark 80th anniversary of VJ Day ([29 days ago](https://www.cheltenham.gov.uk/news/article/3039/cheltenham_to_mark_80th_anniversary_of_vj_day))
