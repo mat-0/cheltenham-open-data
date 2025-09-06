@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Saturday, 06 September 2025
 
-- The average temperature today is 21.85˚C,
-- With highs of 22.77˚C and lows of 21.4˚C,
-- It may feel like 21.24˚C with clear sky
-- The wind speed is 7.2m/s and visibility is 10000m
-- The pressure is 1012hPa and humidity is 44%
+- The average temperature today is 20.56˚C,
+- With highs of 21.1˚C and lows of 20.29˚C,
+- It may feel like 20.06˚C with clear sky
+- The wind speed is 3.58m/s and visibility is 10000m
+- The pressure is 1012hPa and humidity is 53%
 - The sun will rise at 05:28 and set at 18:45
 
 <!-- weather_marker ends -->
