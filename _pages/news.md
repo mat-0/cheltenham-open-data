@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- TikTok tourists ruining village, says councillor ([3 hours ago](https://www.bbc.com/news/articles/c3e792xlk0wo?at_medium=RSS&at_campaign=rss))
-- Gloucester Day parade celebrates city's legacy ([6 hours ago](https://www.bbc.com/news/articles/c2dng2kj9k2o?at_medium=RSS&at_campaign=rss))
-- Gloucestershire in pictures: Rainbow skies and views from up high ([6 hours ago](https://www.bbc.com/news/articles/ckgejp4npzro?at_medium=RSS&at_campaign=rss))
-- Maternity unit to stay shut for foreseeable future ([18 hours ago](https://www.bbc.com/news/articles/cgq4873q2q4o?at_medium=RSS&at_campaign=rss))
-- Bid to do half-marathons in different wheelchairs ([19 hours ago](https://www.bbc.com/news/articles/cge2dzy2l1eo?at_medium=RSS&at_campaign=rss))
-- Hutchinson abuse 'disgraceful' - Rovers boss Clarke ([20 hours ago](https://www.bbc.com/sport/football/articles/cdern208n8lo?at_medium=RSS&at_campaign=rss))
+- TikTok tourists ruining village, says councillor ([4 hours ago](https://www.bbc.com/news/articles/c3e792xlk0wo?at_medium=RSS&at_campaign=rss))
+- Gloucester Day parade celebrates city's legacy ([7 hours ago](https://www.bbc.com/news/articles/c2dng2kj9k2o?at_medium=RSS&at_campaign=rss))
+- Gloucestershire in pictures: Rainbow skies and views from up high ([7 hours ago](https://www.bbc.com/news/articles/ckgejp4npzro?at_medium=RSS&at_campaign=rss))
+- Maternity unit to stay shut for foreseeable future ([19 hours ago](https://www.bbc.com/news/articles/cgq4873q2q4o?at_medium=RSS&at_campaign=rss))
+- Bid to do half-marathons in different wheelchairs ([20 hours ago](https://www.bbc.com/news/articles/cge2dzy2l1eo?at_medium=RSS&at_campaign=rss))
+- Hutchinson abuse 'disgraceful' - Rovers boss Clarke ([21 hours ago](https://www.bbc.com/sport/football/articles/cdern208n8lo?at_medium=RSS&at_campaign=rss))
 - 'Bear with me' and 'bailiff mix-up' ([1 days ago](https://www.bbc.com/news/articles/c931pngw1z7o?at_medium=RSS&at_campaign=rss))
 - Firms illegally destroyed water vole habitat ([1 days ago](https://www.bbc.com/news/articles/cgj147qzn44o?at_medium=RSS&at_campaign=rss))
 - Dogs being used to stop sewage entering rivers ([1 days ago](https://www.bbc.com/news/articles/c2knjdplyxgo?at_medium=RSS&at_campaign=rss))

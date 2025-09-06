@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pavement out no 15 Benhall Avenue, is starting to sink and the slabs are beginning to lift up causing a trip hazard. My be subsidence under slabs, 6th September :- [8128600](https://www.fixmystreet.com/report/8128600)
 - Unstable Flagstobne outside 76 Promenade, 6th September :- [8127721](https://www.fixmystreet.com/report/8127721)
 - Idiots painting road signs on roundabout signage, 6th September :- [8127539](https://www.fixmystreet.com/report/8127539)
 - Fly tipping that has been there for a month, 6th September :- [8127457](https://www.fixmystreet.com/report/8127457)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - General road markings, lines and stud issues problem, 5th September :- [8124454](https://www.fixmystreet.com/report/8124454)
 - Street light is permanently out problem, 5th September :- [8124453](https://www.fixmystreet.com/report/8124453)
 - TMC - Defects -CW6 Potholes  problem, 5th September :- [8124471](https://www.fixmystreet.com/report/8124471)
-- The disabled wording outside Hartley Court in Pittville Circus Road is badly scuffed and is very difficult to read. It needs repainting, 5th September :- [8123639](https://www.fixmystreet.com/report/8123639)
 
 <!-- fix_marker ends -->
