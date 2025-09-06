@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Commuters face six months of delays on major route ([8 hours ago](https://www.bbc.com/news/articles/cm2zy77xwn1o?at_medium=RSS&at_campaign=rss))
-- TikTok tourists ruining village, says councillor ([13 hours ago](https://www.bbc.com/news/articles/c3e792xlk0wo?at_medium=RSS&at_campaign=rss))
-- Gloucester Day parade celebrates city's legacy ([16 hours ago](https://www.bbc.com/news/articles/c2dng2kj9k2o?at_medium=RSS&at_campaign=rss))
-- Gloucestershire in pictures: Rainbow skies and views from up high ([16 hours ago](https://www.bbc.com/news/articles/ckgejp4npzro?at_medium=RSS&at_campaign=rss))
+- Commuters face six months of delays on major route ([9 hours ago](https://www.bbc.com/news/articles/cm2zy77xwn1o?at_medium=RSS&at_campaign=rss))
+- TikTok tourists ruining village, says councillor ([14 hours ago](https://www.bbc.com/news/articles/c3e792xlk0wo?at_medium=RSS&at_campaign=rss))
+- Gloucester Day parade celebrates city's legacy ([17 hours ago](https://www.bbc.com/news/articles/c2dng2kj9k2o?at_medium=RSS&at_campaign=rss))
+- Gloucestershire in pictures: Rainbow skies and views from up high ([17 hours ago](https://www.bbc.com/news/articles/ckgejp4npzro?at_medium=RSS&at_campaign=rss))
 - Maternity unit to stay shut for foreseeable future ([1 days ago](https://www.bbc.com/news/articles/cgq4873q2q4o?at_medium=RSS&at_campaign=rss))
 - Bid to do half-marathons in different wheelchairs ([1 days ago](https://www.bbc.com/news/articles/cge2dzy2l1eo?at_medium=RSS&at_campaign=rss))
 - Hutchinson abuse 'disgraceful' - Rovers boss Clarke ([1 days ago](https://www.bbc.com/sport/football/articles/cdern208n8lo?at_medium=RSS&at_campaign=rss))

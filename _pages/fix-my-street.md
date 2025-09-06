@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Double yellow lines, 7th September :- [8129912](https://www.fixmystreet.com/report/8129912)
+- Damaged and missing, 7th September :- [8129909](https://www.fixmystreet.com/report/8129909)
+- Sunken manhole, 7th September :- [8129906](https://www.fixmystreet.com/report/8129906)
+- The road surface around the roundabout is so badly broken it’s dangerous to cycle around., 7th September :- [8129900](https://www.fixmystreet.com/report/8129900)
 - Traffic lights are beeping every 15-30seconds and are very irritating, 6th September :- [8129718](https://www.fixmystreet.com/report/8129718)
 - Crossing too loud, 6th September :- [8129581](https://www.fixmystreet.com/report/8129581)
 - Pedestrian crossing lights are stuck 'on' so are changing to red constantly, 6th September :- [8129533](https://www.fixmystreet.com/report/8129533)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Graffiti on roundabout, 6th September :- [8126894](https://www.fixmystreet.com/report/8126894)
 - Deep and dangerous pothole in roundabout., 6th September :- [8126872](https://www.fixmystreet.com/report/8126872)
 - Huge potholes causing huge issues with access, 5th September :- [8126674](https://www.fixmystreet.com/report/8126674)
-- School warning flashing light out, 5th September :- [8126581](https://www.fixmystreet.com/report/8126581)
-- Flooding on main Road, 5th September :- [8125996](https://www.fixmystreet.com/report/8125996)
-- Van left in road in dangerous position, 5th September :- [8125783](https://www.fixmystreet.com/report/8125783)
-- Water pipe leak, 5th September :- [8125674](https://www.fixmystreet.com/report/8125674)
 
 <!-- fix_marker ends -->
