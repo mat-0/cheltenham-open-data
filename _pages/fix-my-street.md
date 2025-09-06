@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Graffiti on roundabout, 6th September :- [8126894](https://www.fixmystreet.com/report/8126894)
 - Deep and dangerous pothole in roundabout., 6th September :- [8126872](https://www.fixmystreet.com/report/8126872)
 - Huge potholes causing huge issues with access, 5th September :- [8126674](https://www.fixmystreet.com/report/8126674)
 - School warning flashing light out, 5th September :- [8126581](https://www.fixmystreet.com/report/8126581)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - This has been like this for months, 5th September :- [8123457](https://www.fixmystreet.com/report/8123457)
 - Estate sign attached to actual street sign, 5th September :- [8123356](https://www.fixmystreet.com/report/8123356)
 - Large banner flyposted on uprights in park, 5th September :- [8123310](https://www.fixmystreet.com/report/8123310)
-- Flyosters of various cafes/businesses on public verge, 5th September :- [8123298](https://www.fixmystreet.com/report/8123298)
 
 <!-- fix_marker ends -->
