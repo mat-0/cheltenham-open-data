@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Idiots painting road signs on roundabout signage, 6th September :- [8127539](https://www.fixmystreet.com/report/8127539)
+- Fly tipping that has been there for a month, 6th September :- [8127457](https://www.fixmystreet.com/report/8127457)
 - Pavement failing, 6th September :- [8127146](https://www.fixmystreet.com/report/8127146)
 - Graffiti on roundabout, 6th September :- [8126894](https://www.fixmystreet.com/report/8126894)
 - Deep and dangerous pothole in roundabout., 6th September :- [8126872](https://www.fixmystreet.com/report/8126872)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 5th September :- [8124471](https://www.fixmystreet.com/report/8124471)
 - The disabled wording outside Hartley Court in Pittville Circus Road is badly scuffed and is very difficult to read. It needs repainting, 5th September :- [8123639](https://www.fixmystreet.com/report/8123639)
 - Gravel on road following flood, 5th September :- [8123527](https://www.fixmystreet.com/report/8123527)
-- This has been like this for months, 5th September :- [8123457](https://www.fixmystreet.com/report/8123457)
-- Estate sign attached to actual street sign, 5th September :- [8123356](https://www.fixmystreet.com/report/8123356)
 
 <!-- fix_marker ends -->
