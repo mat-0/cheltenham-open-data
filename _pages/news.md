@@ -12,13 +12,13 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- TikTok tourists ruining village, says councillor ([1 hours ago](https://www.bbc.com/news/articles/c3e792xlk0wo?at_medium=RSS&at_campaign=rss))
-- Gloucester Day parade celebrates city's legacy ([4 hours ago](https://www.bbc.com/news/articles/c2dng2kj9k2o?at_medium=RSS&at_campaign=rss))
-- Gloucestershire in pictures: Rainbow skies and views from up high ([4 hours ago](https://www.bbc.com/news/articles/ckgejp4npzro?at_medium=RSS&at_campaign=rss))
-- Maternity unit to stay shut for foreseeable future ([16 hours ago](https://www.bbc.com/news/articles/cgq4873q2q4o?at_medium=RSS&at_campaign=rss))
-- Bid to do half-marathons in different wheelchairs ([17 hours ago](https://www.bbc.com/news/articles/cge2dzy2l1eo?at_medium=RSS&at_campaign=rss))
-- Hutchinson abuse 'disgraceful' - Rovers boss Clarke ([18 hours ago](https://www.bbc.com/sport/football/articles/cdern208n8lo?at_medium=RSS&at_campaign=rss))
-- 'Bear with me' and 'bailiff mix-up' ([22 hours ago](https://www.bbc.com/news/articles/c931pngw1z7o?at_medium=RSS&at_campaign=rss))
+- TikTok tourists ruining village, says councillor ([2 hours ago](https://www.bbc.com/news/articles/c3e792xlk0wo?at_medium=RSS&at_campaign=rss))
+- Gloucester Day parade celebrates city's legacy ([5 hours ago](https://www.bbc.com/news/articles/c2dng2kj9k2o?at_medium=RSS&at_campaign=rss))
+- Gloucestershire in pictures: Rainbow skies and views from up high ([5 hours ago](https://www.bbc.com/news/articles/ckgejp4npzro?at_medium=RSS&at_campaign=rss))
+- Maternity unit to stay shut for foreseeable future ([17 hours ago](https://www.bbc.com/news/articles/cgq4873q2q4o?at_medium=RSS&at_campaign=rss))
+- Bid to do half-marathons in different wheelchairs ([18 hours ago](https://www.bbc.com/news/articles/cge2dzy2l1eo?at_medium=RSS&at_campaign=rss))
+- Hutchinson abuse 'disgraceful' - Rovers boss Clarke ([19 hours ago](https://www.bbc.com/sport/football/articles/cdern208n8lo?at_medium=RSS&at_campaign=rss))
+- 'Bear with me' and 'bailiff mix-up' ([23 hours ago](https://www.bbc.com/news/articles/c931pngw1z7o?at_medium=RSS&at_campaign=rss))
 - Firms illegally destroyed water vole habitat ([1 days ago](https://www.bbc.com/news/articles/cgj147qzn44o?at_medium=RSS&at_campaign=rss))
 - Dogs being used to stop sewage entering rivers ([1 days ago](https://www.bbc.com/news/articles/c2knjdplyxgo?at_medium=RSS&at_campaign=rss))
 - Farming university boosted by 'Clarkson effect' ([1 days ago](https://www.bbc.com/news/articles/c4gmgkypdepo?at_medium=RSS&at_campaign=rss))
@@ -36,7 +36,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Fears grow over future of Gloucestershire Airport ([3 days ago](https://gloucesternewscentre.co.uk/fears-grow-over-future-of-gloucestershire-airport/))
 - Stores in Gloucestershire sold knives and vapes to under-18s ([3 days ago](https://gloucesternewscentre.co.uk/stores-in-gloucestershire-sold-knives-and-vapes-to-under-18s/))
 - Cheltenham multi-storey car park closed until further notice ([4 days ago](https://gloucesternewscentre.co.uk/cheltenham-multi-storey-car-park-closed-until-further-notice/))
-- Council urges Treasury to rethink farm tax changes ([4 days ago](https://www.bbc.co.uk/sounds/play/p0m063k7?at_medium=RSS&at_campaign=rss))
+- Council urges Treasury to rethink farm tax changes ([5 days ago](https://www.bbc.co.uk/sounds/play/p0m063k7?at_medium=RSS&at_campaign=rss))
 - Everyman Theatre announces first cast members for 2025 pantomime ([8 days ago](https://gloucesternewscentre.co.uk/everyman-theatre-announces-first-cast-members-for-2025-pantomime/))
 - Gloucestershire gears up for Cycle September ([8 days ago](https://gloucesternewscentre.co.uk/gloucestershire-gears-up-for-cycle-september/))
 - Cambray Carnival brings free fun for young people ([9 days ago](https://gloucesternewscentre.co.uk/cambray-carnival-brings-free-fun-for-young-people/))
@@ -60,6 +60,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Gloucestershire County Council launches ‘Clean Sweep’ initiative ([25 days ago](https://gloucesternewscentre.co.uk/gloucestershire-county-council-launches-clean-sweep-initiative/))
 - Cheltenham Community Allotment Group Hits Record Harvest ([25 days ago](https://gloucesternewscentre.co.uk/cheltenham-community-allotment-group-hits-record-harvest/))
 - Stroud Greens oppose ‘disturbing’ Government proposals to sell off allotments ([25 days ago](https://gloucesternewscentre.co.uk/stroud-greens-oppose-disturbing-government-proposals-to-sell-off-allotments/))
-- Cheltenham to mark 80th anniversary of VJ Day ([28 days ago](https://www.cheltenham.gov.uk/news/article/3039/cheltenham_to_mark_80th_anniversary_of_vj_day))
+- Cheltenham to mark 80th anniversary of VJ Day ([29 days ago](https://www.cheltenham.gov.uk/news/article/3039/cheltenham_to_mark_80th_anniversary_of_vj_day))
 
 <!-- news_marker ends -->

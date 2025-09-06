@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Unstable Flagstobne outside 76 Promenade, 6th September :- [8127721](https://www.fixmystreet.com/report/8127721)
 - Idiots painting road signs on roundabout signage, 6th September :- [8127539](https://www.fixmystreet.com/report/8127539)
 - Fly tipping that has been there for a month, 6th September :- [8127457](https://www.fixmystreet.com/report/8127457)
 - Pavement failing, 6th September :- [8127146](https://www.fixmystreet.com/report/8127146)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Street light is permanently out problem, 5th September :- [8124453](https://www.fixmystreet.com/report/8124453)
 - TMC - Defects -CW6 Potholes  problem, 5th September :- [8124471](https://www.fixmystreet.com/report/8124471)
 - The disabled wording outside Hartley Court in Pittville Circus Road is badly scuffed and is very difficult to read. It needs repainting, 5th September :- [8123639](https://www.fixmystreet.com/report/8123639)
-- Gravel on road following flood, 5th September :- [8123527](https://www.fixmystreet.com/report/8123527)
 
 <!-- fix_marker ends -->
