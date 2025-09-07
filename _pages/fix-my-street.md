@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 2 tents and items from camping abandoned. One tent has been burnt the other is collapsed., 7th September :- [8130609](https://www.fixmystreet.com/report/8130609)
 - Pedestrian crossing is broken, 7th September :- [8130237](https://www.fixmystreet.com/report/8130237)
 - Double yellow lines, 7th September :- [8129912](https://www.fixmystreet.com/report/8129912)
 - Damaged and missing, 7th September :- [8129909](https://www.fixmystreet.com/report/8129909)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Fly tipping that has been there for a month, 6th September :- [8127457](https://www.fixmystreet.com/report/8127457)
 - Pavement failing, 6th September :- [8127146](https://www.fixmystreet.com/report/8127146)
 - Graffiti on roundabout, 6th September :- [8126894](https://www.fixmystreet.com/report/8126894)
-- Deep and dangerous pothole in roundabout., 6th September :- [8126872](https://www.fixmystreet.com/report/8126872)
 
 <!-- fix_marker ends -->
