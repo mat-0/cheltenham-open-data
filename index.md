@@ -10,12 +10,12 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Sunday, 07 September 2025
 
-- The average temperature today is 15.2˚C,
-- With highs of 15.55˚C and lows of 14.26˚C,
-- It may feel like 15˚C with few clouds
+- The average temperature today is 14.77˚C,
+- With highs of 14.98˚C and lows of 14.27˚C,
+- It may feel like 14.55˚C with few clouds
 - The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 1011hPa and humidity is 85%
-- The sun will rise at 05:30 and set at 18:42
+- The pressure is 1011hPa and humidity is 86%
+- The sun will rise at 05:31 and set at 18:40
 
 <!-- weather_marker ends -->
 
