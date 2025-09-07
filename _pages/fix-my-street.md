@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Barbecue dumped in underpass, 7th September :- [8132820](https://www.fixmystreet.com/report/8132820)
+- Blocked drain by 40 Hewlett road, 7th September :- [8132694](https://www.fixmystreet.com/report/8132694)
+- Leaves/ mud on pavement making it slippery, 7th September :- [8132687](https://www.fixmystreet.com/report/8132687)
 - Blocked drain, 7th September :- [8132681](https://www.fixmystreet.com/report/8132681)
 - Blocked footpath, 7th September :- [8132564](https://www.fixmystreet.com/report/8132564)
 - Speed restriction has not been removed post works, 7th September :- [8132555](https://www.fixmystreet.com/report/8132555)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Pink scooter in middle of pavement, 7th September :- [8130902](https://www.fixmystreet.com/report/8130902)
 - Sunken metal work, 7th September :- [8130743](https://www.fixmystreet.com/report/8130743)
 - St George’s cross painted on roundabout, 7th September :- [8130722](https://www.fixmystreet.com/report/8130722)
-- 2 tents and items from camping abandoned. One tent has been burnt the other is collapsed., 7th September :- [8130609](https://www.fixmystreet.com/report/8130609)
-- Pedestrian crossing is broken, 7th September :- [8130237](https://www.fixmystreet.com/report/8130237)
-- Double yellow lines, 7th September :- [8129912](https://www.fixmystreet.com/report/8129912)
 
 <!-- fix_marker ends -->
