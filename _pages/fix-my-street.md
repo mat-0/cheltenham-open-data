@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pedestrian crossing is broken, 7th September :- [8130237](https://www.fixmystreet.com/report/8130237)
 - Double yellow lines, 7th September :- [8129912](https://www.fixmystreet.com/report/8129912)
 - Damaged and missing, 7th September :- [8129909](https://www.fixmystreet.com/report/8129909)
 - Sunken manhole, 7th September :- [8129906](https://www.fixmystreet.com/report/8129906)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Pavement failing, 6th September :- [8127146](https://www.fixmystreet.com/report/8127146)
 - Graffiti on roundabout, 6th September :- [8126894](https://www.fixmystreet.com/report/8126894)
 - Deep and dangerous pothole in roundabout., 6th September :- [8126872](https://www.fixmystreet.com/report/8126872)
-- Huge potholes causing huge issues with access, 5th September :- [8126674](https://www.fixmystreet.com/report/8126674)
 
 <!-- fix_marker ends -->
