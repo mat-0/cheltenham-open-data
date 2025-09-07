@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street light out opposite No.33, 7th September :- [8133185](https://www.fixmystreet.com/report/8133185)
+- Expanding pothole, 7th September :- [8133092](https://www.fixmystreet.com/report/8133092)
 - Roundabout vandalised, 7th September :- [8132946](https://www.fixmystreet.com/report/8132946)
 - Barbecue dumped in underpass, 7th September :- [8132820](https://www.fixmystreet.com/report/8132820)
 - Blocked drain by 40 Hewlett road, 7th September :- [8132694](https://www.fixmystreet.com/report/8132694)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - A number of potholes in the road, 7th September :- [8131677](https://www.fixmystreet.com/report/8131677)
 - Location is West Down Carpark - Flytipping, 7th September :- [8131401](https://www.fixmystreet.com/report/8131401)
 - Spray paint graffiti on roundabout, racist, 7th September :- [8131053](https://www.fixmystreet.com/report/8131053)
-- Pink scooter in middle of pavement, 7th September :- [8130902](https://www.fixmystreet.com/report/8130902)
-- Sunken metal work, 7th September :- [8130743](https://www.fixmystreet.com/report/8130743)
 
 <!-- fix_marker ends -->
