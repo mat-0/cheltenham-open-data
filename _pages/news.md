@@ -12,12 +12,15 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Publican determined to fend off new development bid for inn ([2 minutes ago](https://gloucesternewscentre.co.uk/publican-determined-to-fend-off-new-development-bid-for-inn/))
-- Woman bitten by dog in Bishop’s Cleeve ([11 minutes ago](https://gloucesternewscentre.co.uk/woman-bitten-by-dog-in-bishops-cleeve/))
-- Commuters face six months of delays on major route ([15 hours ago](https://www.bbc.com/news/articles/cm2zy77xwn1o?at_medium=RSS&at_campaign=rss))
-- TikTok tourists ruining village, says councillor ([20 hours ago](https://www.bbc.com/news/articles/c3e792xlk0wo?at_medium=RSS&at_campaign=rss))
-- Gloucester Day parade celebrates city's legacy ([23 hours ago](https://www.bbc.com/news/articles/c2dng2kj9k2o?at_medium=RSS&at_campaign=rss))
-- Gloucestershire in pictures: Rainbow skies and views from up high ([23 hours ago](https://www.bbc.com/news/articles/ckgejp4npzro?at_medium=RSS&at_campaign=rss))
+- Grant to expand on-demand rural bus service ([44 minutes ago](https://www.bbc.com/news/articles/cp8j1mr17lvo?at_medium=RSS&at_campaign=rss))
+- Headlines: 'Prisoner inquest' and 'theatre facade' ([49 minutes ago](https://www.bbc.com/news/articles/cy4jyw74qdwo?at_medium=RSS&at_campaign=rss))
+- Maternity unit to remain closed for the foreseable despite midwife recruitment ([57 minutes ago](https://gloucesternewscentre.co.uk/maternity-unit-to-remain-closed-for-the-foreseable-despite-midwife-recruitment/))
+- Publican determined to fend off new development bid for inn ([1 hours ago](https://gloucesternewscentre.co.uk/publican-determined-to-fend-off-new-development-bid-for-inn/))
+- Woman bitten by dog in Bishop’s Cleeve ([1 hours ago](https://gloucesternewscentre.co.uk/woman-bitten-by-dog-in-bishops-cleeve/))
+- Commuters face six months of delays on major route ([16 hours ago](https://www.bbc.com/news/articles/cm2zy77xwn1o?at_medium=RSS&at_campaign=rss))
+- TikTok tourists ruining village, says councillor ([21 hours ago](https://www.bbc.com/news/articles/c3e792xlk0wo?at_medium=RSS&at_campaign=rss))
+- Gloucester Day parade celebrates city's legacy ([1 days ago](https://www.bbc.com/news/articles/c2dng2kj9k2o?at_medium=RSS&at_campaign=rss))
+- Gloucestershire in pictures: Rainbow skies and views from up high ([1 days ago](https://www.bbc.com/news/articles/ckgejp4npzro?at_medium=RSS&at_campaign=rss))
 - Maternity unit to stay shut for foreseeable future ([1 days ago](https://www.bbc.com/news/articles/cgq4873q2q4o?at_medium=RSS&at_campaign=rss))
 - Bid to do half-marathons in different wheelchairs ([1 days ago](https://www.bbc.com/news/articles/cge2dzy2l1eo?at_medium=RSS&at_campaign=rss))
 - Hutchinson abuse 'disgraceful' - Rovers boss Clarke ([1 days ago](https://www.bbc.com/sport/football/articles/cdern208n8lo?at_medium=RSS&at_campaign=rss))
@@ -33,8 +36,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Rugby fans give Gloucester-Hartpury film thumbs up ([2 days ago](https://www.bbc.com/news/articles/ce9rzgrzep0o?at_medium=RSS&at_campaign=rss))
 - Battle of Britain commemoration service ([2 days ago](https://www.cheltenham.gov.uk/news/article/3044/battle_of_britain_commemoration_service))
 - Arrest made after boy sexually assaulted in park ([2 days ago](https://www.bbc.com/news/articles/c5yvpq5nq9jo?at_medium=RSS&at_campaign=rss))
-- 'I'm lucky to be alive after catching meningitis' ([3 days ago](https://www.bbc.com/news/articles/c0r7rpxnlwjo?at_medium=RSS&at_campaign=rss))
-- Environment Agency warns people of flood risks ([3 days ago](https://www.bbc.com/news/articles/c5y2ydmrgj6o?at_medium=RSS&at_campaign=rss))
 - Fears grow over future of Gloucestershire Airport ([4 days ago](https://gloucesternewscentre.co.uk/fears-grow-over-future-of-gloucestershire-airport/))
 - Stores in Gloucestershire sold knives and vapes to under-18s ([4 days ago](https://gloucesternewscentre.co.uk/stores-in-gloucestershire-sold-knives-and-vapes-to-under-18s/))
 - Cheltenham multi-storey car park closed until further notice ([5 days ago](https://gloucesternewscentre.co.uk/cheltenham-multi-storey-car-park-closed-until-further-notice/))
@@ -61,7 +62,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Cheltenham families enjoy another successful NCLB Party in the Park ([24 days ago](https://www.cheltenham.gov.uk/news/article/3040/cheltenham_families_enjoy_another_successful_nclb_party_in_the_park))
 - Gloucestershire County Council launches ‘Clean Sweep’ initiative ([26 days ago](https://gloucesternewscentre.co.uk/gloucestershire-county-council-launches-clean-sweep-initiative/))
 - Cheltenham Community Allotment Group Hits Record Harvest ([26 days ago](https://gloucesternewscentre.co.uk/cheltenham-community-allotment-group-hits-record-harvest/))
-- Stroud Greens oppose ‘disturbing’ Government proposals to sell off allotments ([26 days ago](https://gloucesternewscentre.co.uk/stroud-greens-oppose-disturbing-government-proposals-to-sell-off-allotments/))
 - Cheltenham to mark 80th anniversary of VJ Day ([29 days ago](https://www.cheltenham.gov.uk/news/article/3039/cheltenham_to_mark_80th_anniversary_of_vj_day))
 
 <!-- news_marker ends -->
