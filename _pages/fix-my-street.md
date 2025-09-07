@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Blocked drain, 7th September :- [8132681](https://www.fixmystreet.com/report/8132681)
+- Blocked footpath, 7th September :- [8132564](https://www.fixmystreet.com/report/8132564)
+- Speed restriction has not been removed post works, 7th September :- [8132555](https://www.fixmystreet.com/report/8132555)
 - Uneven Road Surface, 7th September :- [8132345](https://www.fixmystreet.com/report/8132345)
 - #cleanseeep - Cones left behind, 7th September :- [8132320](https://www.fixmystreet.com/report/8132320)
 - Big Road Clean Up - Road Closed Sign, 7th September :- [8132304](https://www.fixmystreet.com/report/8132304)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - 2 tents and items from camping abandoned. One tent has been burnt the other is collapsed., 7th September :- [8130609](https://www.fixmystreet.com/report/8130609)
 - Pedestrian crossing is broken, 7th September :- [8130237](https://www.fixmystreet.com/report/8130237)
 - Double yellow lines, 7th September :- [8129912](https://www.fixmystreet.com/report/8129912)
-- Damaged and missing, 7th September :- [8129909](https://www.fixmystreet.com/report/8129909)
-- Sunken manhole, 7th September :- [8129906](https://www.fixmystreet.com/report/8129906)
-- The road surface around the roundabout is so badly broken it’s dangerous to cycle around., 7th September :- [8129900](https://www.fixmystreet.com/report/8129900)
 
 <!-- fix_marker ends -->
