@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- A number of potholes in the road, 7th September :- [8131677](https://www.fixmystreet.com/report/8131677)
 - Location is West Down Carpark - Flytipping, 7th September :- [8131401](https://www.fixmystreet.com/report/8131401)
 - Spray paint graffiti on roundabout, racist, 7th September :- [8131053](https://www.fixmystreet.com/report/8131053)
 - Pink scooter in middle of pavement, 7th September :- [8130902](https://www.fixmystreet.com/report/8130902)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Flytipped bed frame Brunswick St, 6th September :- [8129142](https://www.fixmystreet.com/report/8129142)
 - Large amount of broken glass, 6th September :- [8128832](https://www.fixmystreet.com/report/8128832)
 - Drain outside Parkway completely blocked, 6th September :- [8128742](https://www.fixmystreet.com/report/8128742)
-- Pavement out no 15 Benhall Avenue, is starting to sink and the slabs are beginning to lift up causing a trip hazard. My be subsidence under slabs, 6th September :- [8128600](https://www.fixmystreet.com/report/8128600)
 
 <!-- fix_marker ends -->
