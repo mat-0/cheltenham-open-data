@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pink scooter in middle of pavement, 7th September :- [8130902](https://www.fixmystreet.com/report/8130902)
+- Sunken metal work, 7th September :- [8130743](https://www.fixmystreet.com/report/8130743)
+- St George’s cross painted on roundabout, 7th September :- [8130722](https://www.fixmystreet.com/report/8130722)
 - 2 tents and items from camping abandoned. One tent has been burnt the other is collapsed., 7th September :- [8130609](https://www.fixmystreet.com/report/8130609)
 - Pedestrian crossing is broken, 7th September :- [8130237](https://www.fixmystreet.com/report/8130237)
 - Double yellow lines, 7th September :- [8129912](https://www.fixmystreet.com/report/8129912)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Pavement out no 15 Benhall Avenue, is starting to sink and the slabs are beginning to lift up causing a trip hazard. My be subsidence under slabs, 6th September :- [8128600](https://www.fixmystreet.com/report/8128600)
 - Unstable Flagstobne outside 76 Promenade, 6th September :- [8127721](https://www.fixmystreet.com/report/8127721)
 - Idiots painting road signs on roundabout signage, 6th September :- [8127539](https://www.fixmystreet.com/report/8127539)
-- Fly tipping that has been there for a month, 6th September :- [8127457](https://www.fixmystreet.com/report/8127457)
-- Pavement failing, 6th September :- [8127146](https://www.fixmystreet.com/report/8127146)
-- Graffiti on roundabout, 6th September :- [8126894](https://www.fixmystreet.com/report/8126894)
 
 <!-- fix_marker ends -->
