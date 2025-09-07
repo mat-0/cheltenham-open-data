@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tarmac subsided around telephone access cover in pathway, next to 39 minetts ave driveway wall, 7th September :- [8132089](https://www.fixmystreet.com/report/8132089)
+- Street light lancaster yewtree junction, 7th September :- [8131989](https://www.fixmystreet.com/report/8131989)
+- Pothole not filled in correctly, 7th September :- [8131704](https://www.fixmystreet.com/report/8131704)
 - A number of potholes in the road, 7th September :- [8131677](https://www.fixmystreet.com/report/8131677)
 - Location is West Down Carpark - Flytipping, 7th September :- [8131401](https://www.fixmystreet.com/report/8131401)
 - Spray paint graffiti on roundabout, racist, 7th September :- [8131053](https://www.fixmystreet.com/report/8131053)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Pedestrian crossing lights are stuck 'on' so are changing to red constantly, 6th September :- [8129533](https://www.fixmystreet.com/report/8129533)
 - Tree growing and leaning onto building, 6th September :- [8129508](https://www.fixmystreet.com/report/8129508)
 - Excess hanging over footpath at low level of 4ft, 6th September :- [8129380](https://www.fixmystreet.com/report/8129380)
-- Flytipped bed frame Brunswick St, 6th September :- [8129142](https://www.fixmystreet.com/report/8129142)
-- Large amount of broken glass, 6th September :- [8128832](https://www.fixmystreet.com/report/8128832)
-- Drain outside Parkway completely blocked, 6th September :- [8128742](https://www.fixmystreet.com/report/8128742)
 
 <!-- fix_marker ends -->
