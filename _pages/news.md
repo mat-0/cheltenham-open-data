@@ -12,13 +12,13 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- LGBTQ hub to open 'after 10-year gap' ([10 hours ago](https://www.bbc.com/news/articles/crmez3y8vveo?at_medium=RSS&at_campaign=rss))
-- Nurse given prestigious title for care work ([11 hours ago](https://www.bbc.com/news/articles/cm2dze3jv89o?at_medium=RSS&at_campaign=rss))
-- Grant to expand on-demand rural bus service ([12 hours ago](https://www.bbc.com/news/articles/cp8j1mr17lvo?at_medium=RSS&at_campaign=rss))
-- Headlines: 'Prisoner inquest' and 'theatre facade' ([12 hours ago](https://www.bbc.com/news/articles/cy4jyw74qdwo?at_medium=RSS&at_campaign=rss))
-- Maternity unit to remain closed for the foreseable despite midwife recruitment ([12 hours ago](https://gloucesternewscentre.co.uk/maternity-unit-to-remain-closed-for-the-foreseable-despite-midwife-recruitment/))
-- Publican determined to fend off new development bid for inn ([13 hours ago](https://gloucesternewscentre.co.uk/publican-determined-to-fend-off-new-development-bid-for-inn/))
-- Woman bitten by dog in Bishop’s Cleeve ([13 hours ago](https://gloucesternewscentre.co.uk/woman-bitten-by-dog-in-bishops-cleeve/))
+- LGBTQ hub to open 'after 10-year gap' ([11 hours ago](https://www.bbc.com/news/articles/crmez3y8vveo?at_medium=RSS&at_campaign=rss))
+- Nurse given prestigious title for care work ([12 hours ago](https://www.bbc.com/news/articles/cm2dze3jv89o?at_medium=RSS&at_campaign=rss))
+- Grant to expand on-demand rural bus service ([13 hours ago](https://www.bbc.com/news/articles/cp8j1mr17lvo?at_medium=RSS&at_campaign=rss))
+- Headlines: 'Prisoner inquest' and 'theatre facade' ([13 hours ago](https://www.bbc.com/news/articles/cy4jyw74qdwo?at_medium=RSS&at_campaign=rss))
+- Maternity unit to remain closed for the foreseable despite midwife recruitment ([13 hours ago](https://gloucesternewscentre.co.uk/maternity-unit-to-remain-closed-for-the-foreseable-despite-midwife-recruitment/))
+- Publican determined to fend off new development bid for inn ([14 hours ago](https://gloucesternewscentre.co.uk/publican-determined-to-fend-off-new-development-bid-for-inn/))
+- Woman bitten by dog in Bishop’s Cleeve ([14 hours ago](https://gloucesternewscentre.co.uk/woman-bitten-by-dog-in-bishops-cleeve/))
 - Commuters face six months of delays on major route ([1 days ago](https://www.bbc.com/news/articles/cm2zy77xwn1o?at_medium=RSS&at_campaign=rss))
 - TikTok tourists ruining village, says councillor ([1 days ago](https://www.bbc.com/news/articles/c3e792xlk0wo?at_medium=RSS&at_campaign=rss))
 - Gloucester Day parade celebrates city's legacy ([1 days ago](https://www.bbc.com/news/articles/c2dng2kj9k2o?at_medium=RSS&at_campaign=rss))
@@ -60,7 +60,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Council launches £400k fund to support local community projects ([20 days ago](https://gloucesternewscentre.co.uk/council-launches-400k-fund-to-support-local-community-projects/))
 - Heritage Open Days 2025 ([23 days ago](https://www.cheltenham.gov.uk/news/article/3041/heritage_open_days_2025))
 - Cheltenham families enjoy another successful NCLB Party in the Park ([25 days ago](https://www.cheltenham.gov.uk/news/article/3040/cheltenham_families_enjoy_another_successful_nclb_party_in_the_park))
-- Gloucestershire County Council launches ‘Clean Sweep’ initiative ([26 days ago](https://gloucesternewscentre.co.uk/gloucestershire-county-council-launches-clean-sweep-initiative/))
+- Gloucestershire County Council launches ‘Clean Sweep’ initiative ([27 days ago](https://gloucesternewscentre.co.uk/gloucestershire-county-council-launches-clean-sweep-initiative/))
 - Cheltenham Community Allotment Group Hits Record Harvest ([27 days ago](https://gloucesternewscentre.co.uk/cheltenham-community-allotment-group-hits-record-harvest/))
 
 <!-- news_marker ends -->

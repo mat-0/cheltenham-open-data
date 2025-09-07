@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Roundabout vandalised, 7th September :- [8132946](https://www.fixmystreet.com/report/8132946)
 - Barbecue dumped in underpass, 7th September :- [8132820](https://www.fixmystreet.com/report/8132820)
 - Blocked drain by 40 Hewlett road, 7th September :- [8132694](https://www.fixmystreet.com/report/8132694)
 - Leaves/ mud on pavement making it slippery, 7th September :- [8132687](https://www.fixmystreet.com/report/8132687)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Spray paint graffiti on roundabout, racist, 7th September :- [8131053](https://www.fixmystreet.com/report/8131053)
 - Pink scooter in middle of pavement, 7th September :- [8130902](https://www.fixmystreet.com/report/8130902)
 - Sunken metal work, 7th September :- [8130743](https://www.fixmystreet.com/report/8130743)
-- St George’s cross painted on roundabout, 7th September :- [8130722](https://www.fixmystreet.com/report/8130722)
 
 <!-- fix_marker ends -->
