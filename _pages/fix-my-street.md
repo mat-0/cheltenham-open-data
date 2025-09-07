@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Uneven Road Surface, 7th September :- [8132345](https://www.fixmystreet.com/report/8132345)
+- #cleanseeep - Cones left behind, 7th September :- [8132320](https://www.fixmystreet.com/report/8132320)
+- Big Road Clean Up - Road Closed Sign, 7th September :- [8132304](https://www.fixmystreet.com/report/8132304)
+- Uneven and broken pavement, caused serious fall, 7th September :- [8132256](https://www.fixmystreet.com/report/8132256)
+- Pedestrian crossing beeping all day, 7th September :- [8132220](https://www.fixmystreet.com/report/8132220)
 - Tarmac subsided around telephone access cover in pathway, next to 39 minetts ave driveway wall, 7th September :- [8132089](https://www.fixmystreet.com/report/8132089)
 - Street light lancaster yewtree junction, 7th September :- [8131989](https://www.fixmystreet.com/report/8131989)
 - Pothole not filled in correctly, 7th September :- [8131704](https://www.fixmystreet.com/report/8131704)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Damaged and missing, 7th September :- [8129909](https://www.fixmystreet.com/report/8129909)
 - Sunken manhole, 7th September :- [8129906](https://www.fixmystreet.com/report/8129906)
 - The road surface around the roundabout is so badly broken it’s dangerous to cycle around., 7th September :- [8129900](https://www.fixmystreet.com/report/8129900)
-- Traffic lights are beeping every 15-30seconds and are very irritating, 6th September :- [8129718](https://www.fixmystreet.com/report/8129718)
-- Crossing too loud, 6th September :- [8129581](https://www.fixmystreet.com/report/8129581)
-- Pedestrian crossing lights are stuck 'on' so are changing to red constantly, 6th September :- [8129533](https://www.fixmystreet.com/report/8129533)
-- Tree growing and leaning onto building, 6th September :- [8129508](https://www.fixmystreet.com/report/8129508)
-- Excess hanging over footpath at low level of 4ft, 6th September :- [8129380](https://www.fixmystreet.com/report/8129380)
 
 <!-- fix_marker ends -->
