@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Spray paint graffiti on roundabout, racist, 7th September :- [8131053](https://www.fixmystreet.com/report/8131053)
 - Pink scooter in middle of pavement, 7th September :- [8130902](https://www.fixmystreet.com/report/8130902)
 - Sunken metal work, 7th September :- [8130743](https://www.fixmystreet.com/report/8130743)
 - St George’s cross painted on roundabout, 7th September :- [8130722](https://www.fixmystreet.com/report/8130722)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Drain outside Parkway completely blocked, 6th September :- [8128742](https://www.fixmystreet.com/report/8128742)
 - Pavement out no 15 Benhall Avenue, is starting to sink and the slabs are beginning to lift up causing a trip hazard. My be subsidence under slabs, 6th September :- [8128600](https://www.fixmystreet.com/report/8128600)
 - Unstable Flagstobne outside 76 Promenade, 6th September :- [8127721](https://www.fixmystreet.com/report/8127721)
-- Idiots painting road signs on roundabout signage, 6th September :- [8127539](https://www.fixmystreet.com/report/8127539)
 
 <!-- fix_marker ends -->

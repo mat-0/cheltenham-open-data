@@ -11,9 +11,9 @@ seo: Menu
 ## On Sunday, 07 September 2025
 
 - The average temperature today is 16.75˚C,
-- With highs of 18.73˚C and lows of 16.75˚C,
-- It may feel like 16.93˚C with thunderstorm with heavy rain
-- The wind speed is 1.54m/s and visibility is 5000m
+- With highs of 17.38˚C and lows of 16.75˚C,
+- It may feel like 16.93˚C with scattered clouds
+- The wind speed is 0m/s and visibility is 7000m
 - The pressure is 1005hPa and humidity is 94%
 - The sun will rise at 05:30 and set at 18:42
 
