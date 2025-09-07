@@ -1,17 +1,81 @@
 {
-    "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
-    "meta": {
-        "publisher": "Environment Agency",
-        "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
-        "version": "0.9",
-        "comment": "Status: Beta service",
-        "hasFormat": [
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.csv?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.html?county=Gloucestershire"
-        ]
+  "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
+  "meta": {
+    "publisher": "Environment Agency",
+    "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
+    "version": "0.9",
+    "comment": "Status: Beta service",
+    "hasFormat": [
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.csv",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
+    ]
+  },
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
+      "description": "North Sea coast at Bridlington",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC954",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC954",
+      "isTidal": true,
+      "message": "High tides, strong winds and large waves today may lead to flooding. Flooding is possible around the high tide between 5:30 - 8:30pm on Sunday 07/09/2025.\n\nAreas most at risk are coastal roads and footpaths and frontages around South Pier and the Lifeboat Station in Bridlington.\n\nWe are closely monitoring the situation and do not expect the situation to escalate. Be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.\n.\nThis message will be updated by 8:00am on 08/09/2025, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-09-07T07:43:00",
+      "timeRaised": "2025-09-07T07:44:07",
+      "timeSeverityChanged": "2025-09-06T11:04:00"
     },
-    "items": []
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WATFALEST1",
+      "description": "Tidal Fal Estuary",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WATFALEST1",
+        "county": "Cornwall",
+        "notation": "114WATFALEST1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WATFALEST1/polygon",
+        "riverOrSea": "South Cornwall Coast, Tidal Fal Estuary"
+      },
+      "floodAreaID": "114WATFALEST1",
+      "isTidal": true,
+      "message": "Flooding is possible over the high tide on Sunday evening. High water at Falmouth is at 6:00pm, times of high water will vary along the coast. \n\nHigh water levels are forecast to cause flooding between 5.00pm and 7:00pm. \n\nLocations particularly at risk include low lying areas in Falmouth, Penryn, Flushing, Mylor Bridge and the A39 at Perranarworthal. \n\nWaterside locations and roads along the estuary may be flooded. Do not walk or drive through flood water.   \n\nCoastal conditions should ease for Monday morning's high tide, however, conditions are forecast to worsen from Tuesday evening, bringing a further risk of flooding. Flood alerts and warnings will be issued if required. \n\nWe are monitoring the situation and will update this information by midday Monday, or if the situation changes. The tidal gates at Flushing have been closed. \n\nDetailed tidal information; The forecast high tide at Falmouth is 2.55 mAOD. Expect tide levels to be around 0.2m above tide table level. Strong force 5 southwesterly winds and offshore waves of up to 2m are forecast over the high tide. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-09-07T10:47:00",
+      "timeRaised": "2025-09-07T10:47:37",
+      "timeSeverityChanged": "2025-09-07T10:47:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF312",
+      "description": "River Sow and River Penk",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF312",
+        "county": "Staffordshire, Wolverhampton",
+        "notation": "033WAF312",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF312/polygon",
+        "riverOrSea": "Sandyford Brook, Ridings Brook, Saredon Brook"
+      },
+      "floodAreaID": "033WAF312",
+      "isTidal": false,
+      "message": "River levels have risen at the Stafford river gauge as a result of heavy rainfall. Consequently, flooding of roads and farmland is possible this afternoon and evening, 07/09/25. Flooding is affecting low-lying land and roads adjacent to the River Sow between Great Bridgeford and Shugborough, the River Penk between Coven and Stafford, the Sandyford Brook, the Rising Brook, the Ridings Brook and the Saredon Brook. Further light rainfall is forecast over the next 24 hours. We are closely monitoring the situation. Our incident response staff are actively checking river levels and the weather forecast. Please avoid using low lying footpaths and bridges near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. This message will be updated by 12:00 on 08/09/25, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-09-07T13:16:00",
+      "timeRaised": "2025-09-07T13:16:58",
+      "timeSeverityChanged": "2025-09-07T13:16:00"
+    }
+  ]
 }
