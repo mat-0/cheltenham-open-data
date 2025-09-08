@@ -1,39 +1,270 @@
 {
-    "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
-    "meta": {
-        "publisher": "Environment Agency",
-        "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
-        "version": "0.9",
-        "comment": "Status: Beta service",
-        "hasFormat": [
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.csv?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.html?county=Gloucestershire"
-        ]
-    },
-    "items": [
-        {
-            "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAT122",
-            "description": "Wye Estuary in Gloucestershire",
-            "eaAreaName": "West Midlands",
-            "eaRegionName": "No longer used",
-            "floodArea": {
-                "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAT122",
-                "county": "Gloucestershire",
-                "notation": "031WAT122",
-                "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAT122/polygon",
-                "riverOrSea": "Wye Estuary"
-            },
-            "floodAreaID": "031WAT122",
-            "isTidal": true,
-            "message": "A flood alert has been issued as a result of an upcoming period of high tides. Tides will be at their highest between 20:45 today, 08/09/25 and 21:45 Wednesday, 10/09/25. Flooding to roads and low lying land adjacent the Wye Estuary from Redbrook to Chepstow is expected at the times of high tides, however conditions may apply a few hours either side of the high tides.\nPredicted peaks at Newport 7.2m at 20:45 on 08/09 and 7.1m at 09:00 on 09/09.  \nWe are closely monitoring the situation.\nPlease avoid using low lying footpaths near local watercourses.  \nThis message will be updated by 13:00 on 09/09/25, or as the situation changes.",
-            "severity": "Flood alert",
-            "severityLevel": 3,
-            "timeMessageChanged": "2025-09-08T12:26:00",
-            "timeRaised": "2025-09-08T12:26:28",
-            "timeSeverityChanged": "2025-09-08T12:26:00"
-        }
+  "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
+  "meta": {
+    "publisher": "Environment Agency",
+    "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
+    "version": "0.9",
+    "comment": "Status: Beta service",
+    "hasFormat": [
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.csv",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
     ]
+  },
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
+      "description": "North Sea coast at Bridlington",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC954",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC954",
+      "isTidal": true,
+      "message": "The tides have now passed and no further flooding is expected. We will continue to monitor the situation closely.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-09-08T08:08:00",
+      "timeRaised": "2025-09-08T08:08:19",
+      "timeSeverityChanged": "2025-09-08T08:08:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WACT1T1CA00",
+      "description": "South Cornwall coast from Gribbin Head to Rame Head",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T1CA00",
+        "county": "Cornwall",
+        "notation": "114WACT1T1CA00",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T1CA00/polygon",
+        "riverOrSea": "South Cornwall Coast"
+      },
+      "floodAreaID": "114WACT1T1CA00",
+      "isTidal": true,
+      "message": "Flooding is possible over the high tide on Monday evening. High water at Plymouth is at 19:13, times of high water will vary along the coast. High water levels are forecast to cause flooding between 18:00 and 20:00.\nLocations particularly at risk include low lying areas including Fore Street, Town Quay, Albert Quay and Caffa Mill Car park at Fowey, Quay Street and Recreation ground at Lostwithiel, Polperro Harbour, Quay Road and The Quay at Looe and the B3247 at Seaton \nDo not walk or drive through flood water or waves.\nCoastal conditions should ease for Tuesday morning's high tide, however, conditions are forecast to worsen from Tuesday evenings tide, bringing a further risk of flooding. Flood alerts and warnings will be issued if required.\nWe are monitoring the situation and will update this information by midday on Tuesday, or if the situation changes.  \nDetailed tidal information: The forecast high tide at Plymouth is 2.67 mAOD. Expect tide levels to be around 0.1m above tide table level. Force 4 SW winds and offshore wave heights of over 1.4m are forecast over the high tide.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-09-08T11:59:00",
+      "timeRaised": "2025-09-08T11:59:55",
+      "timeSeverityChanged": "2025-09-08T11:59:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WACT1T1BA00",
+      "description": "South Cornwall coast from Lizard Point to Gribbin Head excluding the Tidal Fal Estuary",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T1BA00",
+        "county": "Cornwall",
+        "notation": "114WACT1T1BA00",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T1BA00/polygon",
+        "riverOrSea": "South Cornwall Coast"
+      },
+      "floodAreaID": "114WACT1T1BA00",
+      "isTidal": true,
+      "message": "Flooding is possible over the high tide on Monday evening. High water at Falmouth is at 18:37, times of high water will vary along the coast. \nHigh water levels are forecast to cause flooding between 17:30 and 19:30. \nLocations particularly at risk include low lying coastal communities including Cadgwith and Coverack, Porthallow, the tidal Helford Estuary, Maenporth and Swanpool, St.Mawes, East Portholland, Gorran Haven,  Portmellon, Mevagissey, Pentewan and Par \nDo not walk or drive through flood water or waves.   \nCoastal conditions should ease for Tuesday morning's high tide, however, conditions are forecast to worsen from Tuesday evenings tide, bringing a further risk of flooding. Flood alerts and warnings may be required. \nWe are monitoring the situation and will update this information by midday on Tuesday, or earlier if the situation changes. \nDetailed tidal information; The forecast high tide level at Falmouth is 2.61 mAOD. Expect tide levels to be around 0.1m above tide table level.  Force 4 SW winds and offshore wave heights of over 1.3m are forecast over the high tide.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-09-08T11:59:00",
+      "timeRaised": "2025-09-08T11:59:39",
+      "timeSeverityChanged": "2025-09-08T11:59:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WATFALEST1",
+      "description": "Tidal Fal Estuary",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WATFALEST1",
+        "county": "Cornwall",
+        "notation": "114WATFALEST1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WATFALEST1/polygon",
+        "riverOrSea": "South Cornwall Coast, Tidal Fal Estuary"
+      },
+      "floodAreaID": "114WATFALEST1",
+      "isTidal": true,
+      "message": "Flooding is possible over the high tide on Monday evening. High water at Falmouth is at 18:37, times of high water will vary along the coast.\n \nSpring tides may cause some flooding over Monday evenings high tide.\n\nCoastal conditions should ease for Tuesday morning's high tide, however, conditions are forecast to worsen from Tuesday evenings tide, bringing a further risk of flooding.  Flood alerts and warnings may be issued.\n\nLocations at risk may include low lying areas in Falmouth, Penryn, Flushing, Mylor Bridge and the A39 at Perranarworthal.\n \nWaterside locations and roads along the estuary may be flooded. Do not walk or drive through flood water.  \n\nWe are monitoring the situation and will update this information by midday Tuesday, or if the situation changes. The tidal gates at Flushing have been closed.\n\nDetailed tidal information; The forecast high tide level at Falmouth is 2.61 mAOD. Expect tide levels to be around 0.1m above tide table level.  Force 4 SW winds and offshore wave heights of over 1.3m are forecast over the high tide.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-09-08T12:03:00",
+      "timeRaised": "2025-09-08T12:03:47",
+      "timeSeverityChanged": "2025-09-07T10:47:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WATMEW",
+      "description": "Mersey Estuary at Warrington",
+      "eaAreaName": "Greater Manchester, Merseyside and Cheshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WATMEW",
+        "county": "Halton, Warrington",
+        "notation": "013WATMEW",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WATMEW/polygon",
+        "riverOrSea": "Mersey Estuary"
+      },
+      "floodAreaID": "013WATMEW",
+      "isTidal": true,
+      "message": "This Flood Alert has been issued due to the high tide forecast this afternoon, 08/09/2025. \nWe do not anticipate the flood alert level to be met during this afternoon’s high tide, but flooding is still possible at low lying lands and roads from 12:45 PM on 08/09/2025 at the following locations: \nFiddlers Ferry, peaking around 1:15 PM \nEastford Road, peaking around 1:30 PM \nArpley Bridge, peaking around 1:45 PM \nIt is possible that river levels may affect Arpley Road under the railway bridge. \nWe currently anticipate the Flood Alert level to be met during the next high tide during the early hours of tomorrow morning, 09/09/2025. \nOur incident rooms are on standby and we are closely monitoring the situation.   \nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. \nThis message will be updated this afternoon, 08/09/2025, by 5:00 PM, or as the situation changes. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-09-08T08:59:00",
+      "timeRaised": "2025-09-08T08:59:42",
+      "timeSeverityChanged": "2025-09-07T15:27:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WACN6",
+      "description": "Coast at North Morecambe Bay",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WACN6",
+        "county": "Lancashire, Westmorland and Furness",
+        "notation": "011WACN6",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WACN6/polygon",
+        "riverOrSea": "Irish Sea"
+      },
+      "floodAreaID": "011WACN6",
+      "isTidal": true,
+      "message": " The lunchtime tide on Monday, 8 September 2025, is not expected to meet the flood alert criteria. However, the following three tides (Monday evening and the two high tides on Tuesday) are expected to do so, as we move towards the peak anticipated on Thursday, 11 September. None of these high tides are currently forecast to cause property flooding.\nPlease avoid driving through flood water and do not put yourself or others at risk.\nWe will re-issue the flood alert by 3pm this afternoon, or sooner if the situation changes. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-09-08T10:00:00",
+      "timeRaised": "2025-09-08T10:01:07",
+      "timeSeverityChanged": "2025-09-07T14:02:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WATWE",
+      "description": "Wyre estuary from Fleetwood and Knott End to Little Eccleston",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATWE",
+        "county": "Lancashire",
+        "notation": "012WATWE",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATWE/polygon",
+        "riverOrSea": "Wyre Estuary"
+      },
+      "floodAreaID": "012WATWE",
+      "isTidal": true,
+      "message": "High tides overnight may lead to flooding.\nHighest tide level is expected to be at Tiger's Tail, Wyre Dock, Burrow's Marsh, Burn Naze, Thornton, Trunnah, Stanah, Poulton-le-Fylde, Skippool, Hambleton, Cold Row, Little Singleton, Little Eccleston and Crow Woods at 12:00 midnight on 08/09/2025. Flooding is possible 2 hours either side of this time.\n\nAreas most at risk are low lying land and roads near rivers or on the coast.\nFurther flooding is possible tomorrow due to higher than normal tides at midday 09/09/2025 and the following midnight.\n\nWe are closely monitoring the situation and liaising with emergency services and local authorities.\nStay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals.\nThis message will be updated by 10:00 AM on 09/09/2025, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-09-08T14:24:00",
+      "timeRaised": "2025-09-08T14:24:43",
+      "timeSeverityChanged": "2025-09-07T14:14:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WATLE",
+      "description": "Lune estuary south west of Lancaster",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATLE",
+        "county": "Lancashire",
+        "notation": "012WATLE",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATLE/polygon",
+        "riverOrSea": "Lune estuary"
+      },
+      "floodAreaID": "012WATLE",
+      "isTidal": true,
+      "message": "High tides overnight may lead to flooding.\nFlooding is possible around the high tide between 11:00 PM on 08/09/2025 and 1:00 AM on 09/09/2025.\n\nAreas most at risk include Aldcliffe Marsh, Heaton Marsh, Marsh, Greyhound Bridge, Skerton Bridge, Newton, Overton, Middleton, Glasson, Conder Green, Conder Bridge and Thurnham Moss.\nWe do not expect the high tide tomorrow around midday to reach Flood Alert levels but the following midnight tide will.\n\nWe are closely monitoring the situation and liaising with emergency services and local authorities.\nBe careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.\nStay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals.\nThis message will be updated by 10:00 AM on 09/09/2025, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-09-08T14:41:00",
+      "timeRaised": "2025-09-08T14:41:48",
+      "timeSeverityChanged": "2025-09-08T14:41:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF312",
+      "description": "River Sow and River Penk",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF312",
+        "county": "Staffordshire, Wolverhampton",
+        "notation": "033WAF312",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF312/polygon",
+        "riverOrSea": "Sandyford Brook, Ridings Brook, Saredon Brook"
+      },
+      "floodAreaID": "033WAF312",
+      "isTidal": false,
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-09-07T19:07:00",
+      "timeRaised": "2025-09-07T19:07:59",
+      "timeSeverityChanged": "2025-09-07T19:07:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051WACDV4C",
+      "description": "The Essex coast from Clacton to and including, St Peters Flat and the Colne and Blackwater estuaries",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WACDV4C",
+        "county": "Essex",
+        "notation": "051WACDV4C",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WACDV4C/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "051WACDV4C",
+      "isTidal": true,
+      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely between 00:30 and 02:30 tomorrow morning, Tuesday 9 September.  Tides are expected to be higher than usual, due to the forecast weather conditions during spring tides.  Clacton Promenade, Lee-over-Sands and Brightlingsea sea front may see some wave overtopping and spray.  The Strood at Mersea Island, Coast Road and car parks on the front at West Mersea, and the Hythe and Promenade at Maldon may be flooded.  The detailed forecast for those that use it is for a peak level at Clacton of 3.00 mAODN at 01:30am, on Tuesday 9 September, which is 0.27m above tide tables, wind Force 4, Westerly (mAODN is height above average sea level, for more info refer to local tide tables).  Be ready to take action to protect your property if flooding is expected.  We are monitoring the situation and not expecting the situation to escalate.  We will update this message by 10am tomorrow, Tuesday 9 September, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-09-08T14:36:00",
+      "timeRaised": "2025-09-08T14:37:22",
+      "timeSeverityChanged": "2025-09-08T14:36:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAT122",
+      "description": "Wye Estuary in Gloucestershire",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAT122",
+        "county": "Gloucestershire",
+        "notation": "031WAT122",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAT122/polygon",
+        "riverOrSea": "Wye Estuary"
+      },
+      "floodAreaID": "031WAT122",
+      "isTidal": true,
+      "message": "A flood alert has been issued as a result of an upcoming period of high tides. Tides will be at their highest between 20:45 today, 08/09/25 and 21:45 Wednesday, 10/09/25. Flooding to roads and low lying land adjacent the Wye Estuary from Redbrook to Chepstow is expected at the times of high tides, however conditions may apply a few hours either side of the high tides.\nPredicted peaks at Newport 7.2m at 20:45 on 08/09 and 7.1m at 09:00 on 09/09.  \nWe are closely monitoring the situation.\nPlease avoid using low lying footpaths near local watercourses.  \nThis message will be updated by 13:00 on 09/09/25, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-09-08T12:26:00",
+      "timeRaised": "2025-09-08T12:26:28",
+      "timeSeverityChanged": "2025-09-08T12:26:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051WACDV4D",
+      "description": "The Essex coast from St Peters Flat to and including Shoeburyness and the Crouch and Roach estuaries",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WACDV4D",
+        "county": "Essex, Southend-on-Sea",
+        "notation": "051WACDV4D",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WACDV4D/polygon",
+        "riverOrSea": "River Crouch, River Roach, North Sea"
+      },
+      "floodAreaID": "051WACDV4D",
+      "isTidal": true,
+      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely  between 00:30am and 02:30am tomorrow morning, Tuesday 9th September. Tides are expected to be higher than usual, due to the forecast weather conditions during spring tides. Tide levels will be high at Battlesbrigde, and Hullbridge riversides. Creeksea Ferry Road onto Wallasea Island may be flooded. The detailed forecast for those that use it is for a peak level at Clacton of 3.00mAODN at 01:30am, on Tuesday 9th September, which is 0.27m above tide tables, wind Force 4, Westerly. (mAODN is height above average sea level, for more info refer to local tide tables). Be ready to take action to protect your property if flooding is expected. We are monitoring the situation and not expecting the situation to escalate. We will update this message by 10am tomorrow, Tuesday 9th September, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-09-08T14:39:00",
+      "timeRaised": "2025-09-08T14:40:10",
+      "timeSeverityChanged": "2025-09-08T14:39:00"
+    }
+  ]
 }
