@@ -12,9 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
+- Stone bus shelter destroyed after car crash ([41 minutes ago](https://www.bbc.com/news/articles/cwyw9ykd07mo?at_medium=RSS&at_campaign=rss))
 - 'It's getting harder and harder to run a pub' ([1 hours ago](https://www.bbc.com/news/articles/crme2jr3j2vo?at_medium=RSS&at_campaign=rss))
 - 'Supertramp singer dies' and 'dentist queues' ([3 hours ago](https://www.bbc.com/news/articles/cgkn1l1ky58o?at_medium=RSS&at_campaign=rss))
-- Veteran, 100, gets medal thanks to specialist team ([7 hours ago](https://www.bbc.com/news/articles/ckgej35pnpyo?at_medium=RSS&at_campaign=rss))
+- Veteran, 100, gets medal thanks to specialist team ([8 hours ago](https://www.bbc.com/news/articles/ckgej35pnpyo?at_medium=RSS&at_campaign=rss))
 - Cancer treatment times halved with new injection ([8 hours ago](https://www.bbc.com/news/articles/clyjlxzlky0o?at_medium=RSS&at_campaign=rss))
 - LGBTQ hub to open 'after 10-year gap' ([1 days ago](https://www.bbc.com/news/articles/crmez3y8vveo?at_medium=RSS&at_campaign=rss))
 - Nurse given prestigious title for care work ([1 days ago](https://www.bbc.com/news/articles/cm2dze3jv89o?at_medium=RSS&at_campaign=rss))
@@ -29,7 +30,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Maternity unit to stay shut for foreseeable future ([2 days ago](https://www.bbc.com/news/articles/cgq4873q2q4o?at_medium=RSS&at_campaign=rss))
 - Bid to do half-marathons in different wheelchairs ([2 days ago](https://www.bbc.com/news/articles/cge2dzy2l1eo?at_medium=RSS&at_campaign=rss))
 - Hutchinson abuse 'disgraceful' - Rovers boss Clarke ([2 days ago](https://www.bbc.com/sport/football/articles/cdern208n8lo?at_medium=RSS&at_campaign=rss))
-- 'Bear with me' and 'bailiff mix-up' ([3 days ago](https://www.bbc.com/news/articles/c931pngw1z7o?at_medium=RSS&at_campaign=rss))
 - Firms illegally destroyed water vole habitat ([3 days ago](https://www.bbc.com/news/articles/cgj147qzn44o?at_medium=RSS&at_campaign=rss))
 - Dogs being used to stop sewage entering rivers ([3 days ago](https://www.bbc.com/news/articles/c2knjdplyxgo?at_medium=RSS&at_campaign=rss))
 - Battle of Britain commemoration service in Cheltenham ([3 days ago](https://gloucesternewscentre.co.uk/battle-of-britain-commemoration-service-in-cheltenham/))
