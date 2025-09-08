@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Drain flooded several times in the last few days, 8th September :- [8139039](https://www.fixmystreet.com/report/8139039)
+- Cyclepath drains blocked, 8th September :- [8139001](https://www.fixmystreet.com/report/8139001)
 - Bed left on pavement, 8th September :- [8138494](https://www.fixmystreet.com/report/8138494)
 - Signs left for weeks, 8th September :- [8138490](https://www.fixmystreet.com/report/8138490)
 - Extractor fan left in pavement, 8th September :- [8138315](https://www.fixmystreet.com/report/8138315)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - The drain is blocked problem, 8th September :- [8136975](https://www.fixmystreet.com/report/8136975)
 - TMC - Defects - Signs & Street Furniture problem, 8th September :- [8136980](https://www.fixmystreet.com/report/8136980)
 - TMC - Defects -CW6 Potholes  problem, 8th September :- [8136589](https://www.fixmystreet.com/report/8136589)
-- TMC - Defects -FW6 Potholes problem, 8th September :- [8136590](https://www.fixmystreet.com/report/8136590)
-- TMC - Defects - Vegetation problem, 8th September :- [8136587](https://www.fixmystreet.com/report/8136587)
 
 <!-- fix_marker ends -->
