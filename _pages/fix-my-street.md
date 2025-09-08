@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Extractor fan left in pavement, 8th September :- [8138315](https://www.fixmystreet.com/report/8138315)
+- Bed base left on pavement, 8th September :- [8138223](https://www.fixmystreet.com/report/8138223)
+- Furniture left on pavement, 8th September :- [8138216](https://www.fixmystreet.com/report/8138216)
 - Flooding across cycle lane and highway outside 44 SMR, 8th September :- [8138039](https://www.fixmystreet.com/report/8138039)
 - Water not draining away, 8th September :- [8137871](https://www.fixmystreet.com/report/8137871)
 - A tree has fallen over the footpath and is resting on the trees/hedge on the far side., 8th September :- [8137368](https://www.fixmystreet.com/report/8137368)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 8th September :- [8136587](https://www.fixmystreet.com/report/8136587)
 - TMC - Defects -FW6 Potholes problem, 8th September :- [8136586](https://www.fixmystreet.com/report/8136586)
 - TMC - Defects - Other FW6  Surface problem, 8th September :- [8136585](https://www.fixmystreet.com/report/8136585)
-- Horse Chestnut tree branch in urgent need of removal, 8th September :- [8136405](https://www.fixmystreet.com/report/8136405)
-- TMC - Defects - Other FW6  Surface problem, 8th September :- [8136375](https://www.fixmystreet.com/report/8136375)
-- TMC - Defects - Other FW6  Surface problem, 8th September :- [8136374](https://www.fixmystreet.com/report/8136374)
 
 <!-- fix_marker ends -->
