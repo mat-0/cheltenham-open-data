@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flooding across cycle lane and highway outside 44 SMR, 8th September :- [8138039](https://www.fixmystreet.com/report/8138039)
+- Water not draining away, 8th September :- [8137871](https://www.fixmystreet.com/report/8137871)
 - A tree has fallen over the footpath and is resting on the trees/hedge on the far side., 8th September :- [8137368](https://www.fixmystreet.com/report/8137368)
 - Water pools on road surface, 8th September :- [8137334](https://www.fixmystreet.com/report/8137334)
 - General road markings, lines and stud issues problem, 8th September :- [8137210](https://www.fixmystreet.com/report/8137210)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Horse Chestnut tree branch in urgent need of removal, 8th September :- [8136405](https://www.fixmystreet.com/report/8136405)
 - TMC - Defects - Other FW6  Surface problem, 8th September :- [8136375](https://www.fixmystreet.com/report/8136375)
 - TMC - Defects - Other FW6  Surface problem, 8th September :- [8136374](https://www.fixmystreet.com/report/8136374)
-- TMC - Defects -other CW10 problem, 8th September :- [8136371](https://www.fixmystreet.com/report/8136371)
-- TMC - Defects - Vegetation problem, 8th September :- [8136368](https://www.fixmystreet.com/report/8136368)
 
 <!-- fix_marker ends -->
