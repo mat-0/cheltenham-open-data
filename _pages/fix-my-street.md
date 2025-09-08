@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects -CW6 Potholes  problem, 8th September :- [8134031](https://www.fixmystreet.com/report/8134031)
 - Street light out opposite No.33, 7th September :- [8133185](https://www.fixmystreet.com/report/8133185)
 - Expanding pothole, 7th September :- [8133092](https://www.fixmystreet.com/report/8133092)
 - Roundabout vandalised, 7th September :- [8132946](https://www.fixmystreet.com/report/8132946)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Pothole not filled in correctly, 7th September :- [8131704](https://www.fixmystreet.com/report/8131704)
 - A number of potholes in the road, 7th September :- [8131677](https://www.fixmystreet.com/report/8131677)
 - Location is West Down Carpark - Flytipping, 7th September :- [8131401](https://www.fixmystreet.com/report/8131401)
-- Spray paint graffiti on roundabout, racist, 7th September :- [8131053](https://www.fixmystreet.com/report/8131053)
 
 <!-- fix_marker ends -->
