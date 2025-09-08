@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole in road plus emerging crack across the road, 8th September :- [8135110](https://www.fixmystreet.com/report/8135110)
+- This is the edge of the rd. right side of rd if facing golf course. The side of the rd is full of potholes and the edge is very uneven due to car erosion. The tarmac needs to be wider and the rd resurfaced., 8th September :- [8135002](https://www.fixmystreet.com/report/8135002)
+- Washing Machines Dumped for Months, 8th September :- [8134881](https://www.fixmystreet.com/report/8134881)
+- General road markings, lines and stud issues problem, 8th September :- [8134943](https://www.fixmystreet.com/report/8134943)
+- The drain is blocked problem, 8th September :- [8134705](https://www.fixmystreet.com/report/8134705)
 - TMC - Defects -CW6 Potholes  problem, 8th September :- [8134031](https://www.fixmystreet.com/report/8134031)
 - Street light out opposite No.33, 7th September :- [8133185](https://www.fixmystreet.com/report/8133185)
 - Expanding pothole, 7th September :- [8133092](https://www.fixmystreet.com/report/8133092)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Big Road Clean Up - Road Closed Sign, 7th September :- [8132304](https://www.fixmystreet.com/report/8132304)
 - Uneven and broken pavement, caused serious fall, 7th September :- [8132256](https://www.fixmystreet.com/report/8132256)
 - Pedestrian crossing beeping all day, 7th September :- [8132220](https://www.fixmystreet.com/report/8132220)
-- Tarmac subsided around telephone access cover in pathway, next to 39 minetts ave driveway wall, 7th September :- [8132089](https://www.fixmystreet.com/report/8132089)
-- Street light lancaster yewtree junction, 7th September :- [8131989](https://www.fixmystreet.com/report/8131989)
-- Pothole not filled in correctly, 7th September :- [8131704](https://www.fixmystreet.com/report/8131704)
-- A number of potholes in the road, 7th September :- [8131677](https://www.fixmystreet.com/report/8131677)
-- Location is West Down Carpark - Flytipping, 7th September :- [8131401](https://www.fixmystreet.com/report/8131401)
 
 <!-- fix_marker ends -->
