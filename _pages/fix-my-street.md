@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Green traffic light not working, 8th September :- [8135767](https://www.fixmystreet.com/report/8135767)
+- TMC - Defects -other CW10 problem, 8th September :- [8135679](https://www.fixmystreet.com/report/8135679)
+- TMC - Defects - Footways Slabs problem, 8th September :- [8135674](https://www.fixmystreet.com/report/8135674)
 - TMC - Defects - Signs & Street Furniture problem, 8th September :- [8135418](https://www.fixmystreet.com/report/8135418)
 - Mud and mulch needs to be cleaned off drain outside Parkway, 8th September :- [8135194](https://www.fixmystreet.com/report/8135194)
 - Street sign for Ansdell Drive missing, 8th September :- [8135160](https://www.fixmystreet.com/report/8135160)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Roundabout vandalised, 7th September :- [8132946](https://www.fixmystreet.com/report/8132946)
 - Barbecue dumped in underpass, 7th September :- [8132820](https://www.fixmystreet.com/report/8132820)
 - Blocked drain by 40 Hewlett road, 7th September :- [8132694](https://www.fixmystreet.com/report/8132694)
-- Leaves/ mud on pavement making it slippery, 7th September :- [8132687](https://www.fixmystreet.com/report/8132687)
-- Blocked drain, 7th September :- [8132681](https://www.fixmystreet.com/report/8132681)
-- Blocked footpath, 7th September :- [8132564](https://www.fixmystreet.com/report/8132564)
 
 <!-- fix_marker ends -->

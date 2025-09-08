@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- 'It's getting harder and harder to run a pub' ([28 minutes ago](https://www.bbc.com/news/articles/crme2jr3j2vo?at_medium=RSS&at_campaign=rss))
-- 'Supertramp singer dies' and 'dentist queues' ([51 minutes ago](https://www.bbc.com/news/articles/cgkn1l1ky58o?at_medium=RSS&at_campaign=rss))
-- Veteran, 100, gets medal thanks to specialist team ([5 hours ago](https://www.bbc.com/news/articles/ckgej35pnpyo?at_medium=RSS&at_campaign=rss))
-- Cancer treatment times halved with new injection ([5 hours ago](https://www.bbc.com/news/articles/clyjlxzlky0o?at_medium=RSS&at_campaign=rss))
+- 'It's getting harder and harder to run a pub' ([1 hours ago](https://www.bbc.com/news/articles/crme2jr3j2vo?at_medium=RSS&at_campaign=rss))
+- 'Supertramp singer dies' and 'dentist queues' ([1 hours ago](https://www.bbc.com/news/articles/cgkn1l1ky58o?at_medium=RSS&at_campaign=rss))
+- Veteran, 100, gets medal thanks to specialist team ([6 hours ago](https://www.bbc.com/news/articles/ckgej35pnpyo?at_medium=RSS&at_campaign=rss))
+- Cancer treatment times halved with new injection ([6 hours ago](https://www.bbc.com/news/articles/clyjlxzlky0o?at_medium=RSS&at_campaign=rss))
 - LGBTQ hub to open 'after 10-year gap' ([1 days ago](https://www.bbc.com/news/articles/crmez3y8vveo?at_medium=RSS&at_campaign=rss))
 - Nurse given prestigious title for care work ([1 days ago](https://www.bbc.com/news/articles/cm2dze3jv89o?at_medium=RSS&at_campaign=rss))
 - Grant to expand on-demand rural bus service ([1 days ago](https://www.bbc.com/news/articles/cp8j1mr17lvo?at_medium=RSS&at_campaign=rss))
@@ -39,7 +39,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Fears grow over future of Gloucestershire Airport ([5 days ago](https://gloucesternewscentre.co.uk/fears-grow-over-future-of-gloucestershire-airport/))
 - Stores in Gloucestershire sold knives and vapes to under-18s ([5 days ago](https://gloucesternewscentre.co.uk/stores-in-gloucestershire-sold-knives-and-vapes-to-under-18s/))
 - Cheltenham multi-storey car park closed until further notice ([6 days ago](https://gloucesternewscentre.co.uk/cheltenham-multi-storey-car-park-closed-until-further-notice/))
-- Council urges Treasury to rethink farm tax changes ([6 days ago](https://www.bbc.co.uk/sounds/play/p0m063k7?at_medium=RSS&at_campaign=rss))
+- Council urges Treasury to rethink farm tax changes ([7 days ago](https://www.bbc.co.uk/sounds/play/p0m063k7?at_medium=RSS&at_campaign=rss))
 - Everyman Theatre announces first cast members for 2025 pantomime ([10 days ago](https://gloucesternewscentre.co.uk/everyman-theatre-announces-first-cast-members-for-2025-pantomime/))
 - Gloucestershire gears up for Cycle September ([10 days ago](https://gloucesternewscentre.co.uk/gloucestershire-gears-up-for-cycle-september/))
 - Cambray Carnival brings free fun for young people ([11 days ago](https://gloucesternewscentre.co.uk/cambray-carnival-brings-free-fun-for-young-people/))
