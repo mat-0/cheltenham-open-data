@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Monday, 08 September 2025
 
-- The average temperature today is 18.79˚C,
-- With highs of 19.97˚C and lows of 17.75˚C,
-- It may feel like 18.19˚C with scattered clouds
-- The wind speed is 3.6m/s and visibility is 10000m
-- The pressure is 1016hPa and humidity is 56%
+- The average temperature today is 20.01˚C,
+- With highs of 20.85˚C and lows of 18.86˚C,
+- It may feel like 19.32˚C with few clouds
+- The wind speed is 5.81m/s and visibility is 10000m
+- The pressure is 1015hPa and humidity is 48%
 - The sun will rise at 05:31 and set at 18:40
 
 <!-- weather_marker ends -->
