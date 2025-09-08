@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Bed left on pavement, 8th September :- [8138494](https://www.fixmystreet.com/report/8138494)
+- Signs left for weeks, 8th September :- [8138490](https://www.fixmystreet.com/report/8138490)
 - Extractor fan left in pavement, 8th September :- [8138315](https://www.fixmystreet.com/report/8138315)
 - Bed base left on pavement, 8th September :- [8138223](https://www.fixmystreet.com/report/8138223)
 - Furniture left on pavement, 8th September :- [8138216](https://www.fixmystreet.com/report/8138216)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 8th September :- [8136589](https://www.fixmystreet.com/report/8136589)
 - TMC - Defects -FW6 Potholes problem, 8th September :- [8136590](https://www.fixmystreet.com/report/8136590)
 - TMC - Defects - Vegetation problem, 8th September :- [8136587](https://www.fixmystreet.com/report/8136587)
-- TMC - Defects -FW6 Potholes problem, 8th September :- [8136586](https://www.fixmystreet.com/report/8136586)
-- TMC - Defects - Other FW6  Surface problem, 8th September :- [8136585](https://www.fixmystreet.com/report/8136585)
 
 <!-- fix_marker ends -->
