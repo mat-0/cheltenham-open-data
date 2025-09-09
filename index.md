@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Tuesday, 09 September 2025
 
-- The average temperature today is 18.43˚C,
-- With highs of 19.43˚C and lows of 17.38˚C,
-- It may feel like 17.87˚C with light rain
-- The wind speed is 4.63m/s and visibility is 10000m
-- The pressure is 1012hPa and humidity is 59%
+- The average temperature today is 17.85˚C,
+- With highs of 18.25˚C and lows of 17.38˚C,
+- It may feel like 17.1˚C with few clouds
+- The wind speed is 4.12m/s and visibility is 10000m
+- The pressure is 1012hPa and humidity is 54%
 - The sun will rise at 05:33 and set at 18:38
 
 <!-- weather_marker ends -->

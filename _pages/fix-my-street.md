@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Gulley blocked., 9th September :- [8143320](https://www.fixmystreet.com/report/8143320)
 - Abandoned road signs and other junk, 9th September :- [8143007](https://www.fixmystreet.com/report/8143007)
 - Sandbag on the verge, 9th September :- [8142989](https://www.fixmystreet.com/report/8142989)
 - Sandbag on verge, 9th September :- [8142983](https://www.fixmystreet.com/report/8142983)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW10 Potholes problem, 9th September :- [8141957](https://www.fixmystreet.com/report/8141957)
 - TMC - Defects -CW10 Potholes problem, 9th September :- [8141956](https://www.fixmystreet.com/report/8141956)
 - This stretch of road has had water running down it for months, 9th September :- [8141788](https://www.fixmystreet.com/report/8141788)
-- TMC - Defects - Vegetation problem, 9th September :- [8141954](https://www.fixmystreet.com/report/8141954)
 
 <!-- fix_marker ends -->
