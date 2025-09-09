@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Footways Slabs problem, 9th September :- [8139458](https://www.fixmystreet.com/report/8139458)
+- TMC - Defects - Footways Slabs problem, 9th September :- [8139457](https://www.fixmystreet.com/report/8139457)
 - Drain flooded several times in the last few days, 8th September :- [8139039](https://www.fixmystreet.com/report/8139039)
 - Cyclepath drains blocked, 8th September :- [8139001](https://www.fixmystreet.com/report/8139001)
 - Bed left on pavement, 8th September :- [8138494](https://www.fixmystreet.com/report/8138494)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 8th September :- [8136997](https://www.fixmystreet.com/report/8136997)
 - TMC - Defects - Vegetation problem, 8th September :- [8136992](https://www.fixmystreet.com/report/8136992)
 - The drain is blocked problem, 8th September :- [8136975](https://www.fixmystreet.com/report/8136975)
-- TMC - Defects - Signs & Street Furniture problem, 8th September :- [8136980](https://www.fixmystreet.com/report/8136980)
-- TMC - Defects -CW6 Potholes  problem, 8th September :- [8136589](https://www.fixmystreet.com/report/8136589)
 
 <!-- fix_marker ends -->
