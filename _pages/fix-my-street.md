@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Blocked drain, 9th September :- [8142737](https://www.fixmystreet.com/report/8142737)
+- Car driving over kerb and causing damage to verge, especially when wet weather arrives. I have reported this before . Located at 5 Howards place. Not sure if they had planning permission to turn front garden in to a car park., 9th September :- [8142639](https://www.fixmystreet.com/report/8142639)
 - Increase in traffic using School Road as a quick way to get to London Road, especially now with the road closure has been significant! This is an access road only for residents, 9th September :- [8142379](https://www.fixmystreet.com/report/8142379)
 - Blocked drain outside the Old Bakery, School Road, 9th September :- [8142316](https://www.fixmystreet.com/report/8142316)
 - Pothole, 9th September :- [8142212](https://www.fixmystreet.com/report/8142212)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 9th September :- [8141780](https://www.fixmystreet.com/report/8141780)
 - TMC - Defects - Covers, Gratings & Frames problem, 9th September :- [8141775](https://www.fixmystreet.com/report/8141775)
 - TMC - Defects -CW6 Potholes  problem, 9th September :- [8141774](https://www.fixmystreet.com/report/8141774)
-- TMC - Defects -other CW6 problem, 9th September :- [8141773](https://www.fixmystreet.com/report/8141773)
-- TMC - Defects -CW6 Potholes  problem, 9th September :- [8141770](https://www.fixmystreet.com/report/8141770)
 
 <!-- fix_marker ends -->
