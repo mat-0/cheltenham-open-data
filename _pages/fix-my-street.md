@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- There is an abandoned shopping trolley left in the phone booth, 9th September :- [8144124](https://www.fixmystreet.com/report/8144124)
+- No street lighting over a month, 9th September :- [8144014](https://www.fixmystreet.com/report/8144014)
 - Graffiti, 9th September :- [8143593](https://www.fixmystreet.com/report/8143593)
 - Fly tipping, 9th September :- [8143563](https://www.fixmystreet.com/report/8143563)
 - No dog waste bins available, 9th September :- [8143546](https://www.fixmystreet.com/report/8143546)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Covers, Gratings & Frames problem, 9th September :- [8142345](https://www.fixmystreet.com/report/8142345)
 - Overgrowth stopping access and flytipping, 9th September :- [8142186](https://www.fixmystreet.com/report/8142186)
 - TMC - Defects -other CW10 problem, 9th September :- [8141960](https://www.fixmystreet.com/report/8141960)
-- TMC - Defects -CW10 Potholes problem, 9th September :- [8141959](https://www.fixmystreet.com/report/8141959)
-- TMC - Defects -other CW10 problem, 9th September :- [8141958](https://www.fixmystreet.com/report/8141958)
 
 <!-- fix_marker ends -->
