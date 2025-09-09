@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Graffiti, 9th September :- [8143593](https://www.fixmystreet.com/report/8143593)
+- Fly tipping, 9th September :- [8143563](https://www.fixmystreet.com/report/8143563)
+- No dog waste bins available, 9th September :- [8143546](https://www.fixmystreet.com/report/8143546)
 - Gulley blocked., 9th September :- [8143320](https://www.fixmystreet.com/report/8143320)
 - Abandoned road signs and other junk, 9th September :- [8143007](https://www.fixmystreet.com/report/8143007)
 - Sandbag on the verge, 9th September :- [8142989](https://www.fixmystreet.com/report/8142989)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -other CW10 problem, 9th September :- [8141960](https://www.fixmystreet.com/report/8141960)
 - TMC - Defects -CW10 Potholes problem, 9th September :- [8141959](https://www.fixmystreet.com/report/8141959)
 - TMC - Defects -other CW10 problem, 9th September :- [8141958](https://www.fixmystreet.com/report/8141958)
-- TMC - Defects -CW10 Potholes problem, 9th September :- [8141957](https://www.fixmystreet.com/report/8141957)
-- TMC - Defects -CW10 Potholes problem, 9th September :- [8141956](https://www.fixmystreet.com/report/8141956)
-- This stretch of road has had water running down it for months, 9th September :- [8141788](https://www.fixmystreet.com/report/8141788)
 
 <!-- fix_marker ends -->
