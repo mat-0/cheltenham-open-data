@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Abandoned road signs and other junk, 9th September :- [8143007](https://www.fixmystreet.com/report/8143007)
+- Sandbag on the verge, 9th September :- [8142989](https://www.fixmystreet.com/report/8142989)
+- Sandbag on verge, 9th September :- [8142983](https://www.fixmystreet.com/report/8142983)
+- Sandbags and old sign board, 9th September :- [8142967](https://www.fixmystreet.com/report/8142967)
+- Flood sign abandoned, 9th September :- [8142920](https://www.fixmystreet.com/report/8142920)
+- DANGER to public. Broken fence with exposed barbed wire, next to public path., 9th September :- [8142914](https://www.fixmystreet.com/report/8142914)
 - Blocked drain, 9th September :- [8142737](https://www.fixmystreet.com/report/8142737)
 - Car driving over kerb and causing damage to verge, especially when wet weather arrives. I have reported this before . Located at 5 Howards place. Not sure if they had planning permission to turn front garden in to a car park., 9th September :- [8142639](https://www.fixmystreet.com/report/8142639)
 - Increase in traffic using School Road as a quick way to get to London Road, especially now with the road closure has been significant! This is an access road only for residents, 9th September :- [8142379](https://www.fixmystreet.com/report/8142379)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW10 Potholes problem, 9th September :- [8141956](https://www.fixmystreet.com/report/8141956)
 - This stretch of road has had water running down it for months, 9th September :- [8141788](https://www.fixmystreet.com/report/8141788)
 - TMC - Defects - Vegetation problem, 9th September :- [8141954](https://www.fixmystreet.com/report/8141954)
-- TMC - Defects -CW6 Potholes  problem, 9th September :- [8141782](https://www.fixmystreet.com/report/8141782)
-- Roundabout vandalised with graffiti, 9th September :- [8141749](https://www.fixmystreet.com/report/8141749)
-- TMC - Defects -CW6 Potholes  problem, 9th September :- [8141781](https://www.fixmystreet.com/report/8141781)
-- TMC - Defects -CW6 Potholes  problem, 9th September :- [8141780](https://www.fixmystreet.com/report/8141780)
-- TMC - Defects - Covers, Gratings & Frames problem, 9th September :- [8141775](https://www.fixmystreet.com/report/8141775)
-- TMC - Defects -CW6 Potholes  problem, 9th September :- [8141774](https://www.fixmystreet.com/report/8141774)
 
 <!-- fix_marker ends -->
