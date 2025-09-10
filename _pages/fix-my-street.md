@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Vegetation blocking path, 10th September :- [8144775](https://www.fixmystreet.com/report/8144775)
 - There is an abandoned shopping trolley left in the phone booth, 9th September :- [8144124](https://www.fixmystreet.com/report/8144124)
 - No street lighting over a month, 9th September :- [8144014](https://www.fixmystreet.com/report/8144014)
 - Graffiti, 9th September :- [8143593](https://www.fixmystreet.com/report/8143593)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Pothole, 9th September :- [8142212](https://www.fixmystreet.com/report/8142212)
 - TMC - Defects - Covers, Gratings & Frames problem, 9th September :- [8142345](https://www.fixmystreet.com/report/8142345)
 - Overgrowth stopping access and flytipping, 9th September :- [8142186](https://www.fixmystreet.com/report/8142186)
-- TMC - Defects -other CW10 problem, 9th September :- [8141960](https://www.fixmystreet.com/report/8141960)
 
 <!-- fix_marker ends -->
