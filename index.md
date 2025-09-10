@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Wednesday, 10 September 2025
 
-- The average temperature today is 17.73˚C,
-- With highs of 18.16˚C and lows of 17.06˚C,
-- It may feel like 17.44˚C with scattered clouds
-- The wind speed is 5.14m/s and visibility is 10000m
-- The pressure is 1001hPa and humidity is 72%
+- The average temperature today is 17.31˚C,
+- With highs of 18.32˚C and lows of 16.64˚C,
+- It may feel like 17.08˚C with broken clouds
+- The wind speed is 5.66m/s and visibility is 10000m
+- The pressure is 1000hPa and humidity is 76%
 - The sun will rise at 05:35 and set at 18:35
 
 <!-- weather_marker ends -->
