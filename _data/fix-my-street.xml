@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:georss="http://www.georss.org/georss"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
+ xmlns:georss="http://www.georss.org/georss"
 >
 
 <channel>
@@ -12,6 +12,159 @@
 <description>The latest local problems reported by users</description>
 <language>en-gb</language>
 
+<item>
+<title>TMC - Defects -other CW10 problem, 10th September</title>
+<link>https://www.fixmystreet.com/report/8146931</link>
+<description>15MDB &amp;#10;RUTTING AND DEPRESSION &amp;#10;2000 X 400 X 40MM&amp;#10;MARKED AS NUMBER 65 (CW10 Rutting&amp;amp;Depressions)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8146931&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -other CW10</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8146931</guid>
+<pubDate>Wed, 10 Sep 2025 12:27:01 +0100</pubDate>
+<georss:point>51.8646038 -2.09122840000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 10th September</title>
+<link>https://www.fixmystreet.com/report/8146930</link>
+<description>15MDB &amp;#10;CWPH &amp;#10;400 X 400 X 40mm&amp;#10;MARKED AS NUMBER 64 (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8146930&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8146930</guid>
+<pubDate>Wed, 10 Sep 2025 12:26:13 +0100</pubDate>
+<georss:point>51.8646262 -2.09125460000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 10th September</title>
+<link>https://www.fixmystreet.com/report/8146929</link>
+<description>Give and take plus 15  minutes delay boards carriage way pothole 300x300x40mm tarmac patch (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8146929&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8146929</guid>
+<pubDate>Wed, 10 Sep 2025 12:24:47 +0100</pubDate>
+<georss:point>51.8955955 -2.06028959999998</georss:point>
+</item>
+<item>
+<title>TMC - Defects -other CW10 problem, 10th September</title>
+<link>https://www.fixmystreet.com/report/8146928</link>
+<description>15MDB &amp;#10;RUTTING AND DEPRESSION &amp;#10;3000 X 600 X 41MM&amp;#10;MARKED AS NUMBER 63 (CW10 Rutting&amp;amp;Depressions)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8146928&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -other CW10</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8146928</guid>
+<pubDate>Wed, 10 Sep 2025 12:22:59 +0100</pubDate>
+<georss:point>51.8644382434778 -2.09153977379245</georss:point>
+</item>
+<item>
+<title>TMC - Defects -other CW10 problem, 10th September</title>
+<link>https://www.fixmystreet.com/report/8146926</link>
+<description>15MDB &amp;#10;RUTTING AND DEPRESSION &amp;#10;1200 X 600 X 43MM&amp;#10;MARKED AS NUMBER 62 (CW10 Rutting&amp;amp;Depressions)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8146926&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -other CW10</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8146926</guid>
+<pubDate>Wed, 10 Sep 2025 12:21:36 +0100</pubDate>
+<georss:point>51.8644 -2.0916308</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Footways Slabs problem, 10th September</title>
+<link>https://www.fixmystreet.com/report/8146925</link>
+<description>Unstable Slabs&amp;#10;Please Re-level&amp;#10;Not Marked (Directly Outside #15)&amp;#10;Standard TM - Footway Closure - Alternative Footway Available (FW Rocking/Unstable Slab)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8146925&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8146925</guid>
+<pubDate>Wed, 10 Sep 2025 12:20:03 +0100</pubDate>
+<georss:point>51.8954907 -2.11750339999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 10th September</title>
+<link>https://www.fixmystreet.com/report/8146924</link>
+<description>15MDB &amp;#10;CWPH &amp;#10;2500 X 800 X 40mm&amp;#10;MARKED AS NUMBER 61 (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8146924&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8146924</guid>
+<pubDate>Wed, 10 Sep 2025 12:15:53 +0100</pubDate>
+<georss:point>51.8631465 -2.09363269999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 10th September</title>
+<link>https://www.fixmystreet.com/report/8146922</link>
+<description>15MDB &amp;#10;CWPH &amp;#10;300 X 300 X 40mm&amp;#10;MARKED AS NUMBER 60 (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8146922&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8146922</guid>
+<pubDate>Wed, 10 Sep 2025 12:12:13 +0100</pubDate>
+<georss:point>51.8632377 -2.09476540000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 10th September</title>
+<link>https://www.fixmystreet.com/report/8146919</link>
+<description>15MDB &amp;#10;CWPH &amp;#10;1200 X 300 X 40mm&amp;#10;MARKED AS NUMBER 59 (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8146919&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8146919</guid>
+<pubDate>Wed, 10 Sep 2025 12:10:07 +0100</pubDate>
+<georss:point>51.8628638 -2.09559459999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 10th September</title>
+<link>https://www.fixmystreet.com/report/8146918</link>
+<description>15MDB &amp;#10;CWPH &amp;#10;300 X 300 X 40mm&amp;#10;MARKED AS NUMBER 59&amp;#10;1 X nsd (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8146918&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8146918</guid>
+<pubDate>Wed, 10 Sep 2025 12:07:19 +0100</pubDate>
+<georss:point>51.8622222 -2.09568380000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 10th September</title>
+<link>https://www.fixmystreet.com/report/8146917</link>
+<description>15MDB &amp;#10;CWPH &amp;#10;3500 X 400 X 40mm&amp;#10;MARKED AS NUMBER 58 (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8146917&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8146917</guid>
+<pubDate>Wed, 10 Sep 2025 12:05:58 +0100</pubDate>
+<georss:point>51.8621203 -2.09569960000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -other CW10 problem, 10th September</title>
+<link>https://www.fixmystreet.com/report/8146916</link>
+<description>15MDB &amp;#10;RUTTING AND DEPRESSION &amp;#10;4000 X 1000 X 43MM&amp;#10;MARKED AS NUMBER 57 (CW10 Rutting&amp;amp;Depressions)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8146916&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -other CW10</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8146916</guid>
+<pubDate>Wed, 10 Sep 2025 12:02:12 +0100</pubDate>
+<georss:point>51.8617523 -2.0957931</georss:point>
+</item>
+<item>
+<title>Drain blocked on Armstrong Road, 10th September</title>
+<link>https://www.fixmystreet.com/report/8146681</link>
+<description>A drain by a footpath on Armstrong Road, is blocked. The drain is approximately 5 metres south of 2 Zura Drive.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8146681.0.jpeg?522e577a&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Armstrong Road, Stoke Orchard, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8146681&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>The drain is blocked</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8146681</guid>
+<pubDate>Wed, 10 Sep 2025 12:01:31 +0100</pubDate>
+<georss:point>51.955305 -2.118754</georss:point>
+</item>
+<item>
+<title>TMC - Defects -other CW10 problem, 10th September</title>
+<link>https://www.fixmystreet.com/report/8146745</link>
+<description>15MDB &amp;#10;RUTTING AND DEPRESSION &amp;#10;2000 X 2000 X 43MM&amp;#10;MARKED AS NUMBER 56 (CW10 Rutting&amp;amp;Depressions)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8146745&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -other CW10</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8146745</guid>
+<pubDate>Wed, 10 Sep 2025 12:00:32 +0100</pubDate>
+<georss:point>51.8617088 -2.09582840000001</georss:point>
+</item>
+<item>
+<title>Bin overflowing, 10th September</title>
+<link>https://www.fixmystreet.com/report/8146676</link>
+<description>This bin is overflowing, all the nearby bins also seem to be full&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8146676.0.jpeg?13103164&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 364, London Road, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8146676&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Rubbish (refuse and recycling)</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8146676</guid>
+<pubDate>Wed, 10 Sep 2025 12:00:27 +0100</pubDate>
+<georss:point>51.883369 -2.039986</georss:point>
+</item>
+<item>
+<title>TMC - Defects -other CW10 problem, 10th September</title>
+<link>https://www.fixmystreet.com/report/8146744</link>
+<description>15MDB &amp;#10;RUTTING AND DEPRESSION &amp;#10;7000 X 2000 X 43MM&amp;#10;MARKED AS NUMBER 55 (CW10 Rutting&amp;amp;Depressions)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8146744&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -other CW10</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8146744</guid>
+<pubDate>Wed, 10 Sep 2025 11:58:43 +0100</pubDate>
+<georss:point>51.8616799 -2.0958455</georss:point>
+</item>
+<item>
+<title>TMC - Defects -other CW10 problem, 10th September</title>
+<link>https://www.fixmystreet.com/report/8146723</link>
+<description>15MDB &amp;#10;RUTTING AND DEPRESSION &amp;#10;3500 X 1000 X 43MM&amp;#10;MARKED AS NUMBER 54 (CW10 Rutting&amp;amp;Depressions)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8146723&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -other CW10</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8146723</guid>
+<pubDate>Wed, 10 Sep 2025 11:50:52 +0100</pubDate>
+<georss:point>51.8614159 -2.0962572</georss:point>
+</item>
 <item>
 <title>Drain blocked, 10th September</title>
 <link>https://www.fixmystreet.com/report/8146609</link>
@@ -22,175 +175,22 @@
 <georss:point>51.955397 -2.118912</georss:point>
 </item>
 <item>
-<title>Street light is not working, it was attended to last week but would like an update. and, 10th September</title>
-<link>https://www.fixmystreet.com/report/8146579</link>
-<description>Outside number 9&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 9, Fir Tree Close, Lynworth, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8146579&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Street light is permanently out</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8146579</guid>
-<pubDate>Wed, 10 Sep 2025 11:45:20 +0100</pubDate>
-<georss:point>51.910059 -2.053686</georss:point>
+<title>TMC - Defects -CW10 Potholes problem, 10th September</title>
+<link>https://www.fixmystreet.com/report/8146720</link>
+<description>15MDB &amp;#10;CWPH &amp;#10;1300 X 300 X 40mm&amp;#10;MARKED AS NUMBER 53 (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8146720&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8146720</guid>
+<pubDate>Wed, 10 Sep 2025 11:48:37 +0100</pubDate>
+<georss:point>51.8614304 -2.0962531</georss:point>
 </item>
 <item>
 <title>TMC - Defects -other CW10 problem, 10th September</title>
-<link>https://www.fixmystreet.com/report/8146472</link>
-<description>15MDB &amp;#10;RUTTING AND DEPRESSION &amp;#10;5000 X 1000 X 42MM&amp;#10;MARKED AS NUMBER 45 (CW10 Rutting&amp;amp;Depressions)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8146472&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/8146719</link>
+<description>15MDB &amp;#10;RUTTING AND DEPRESSION &amp;#10;5000 X 2000 X 43MM&amp;#10;MARKED AS NUMBER 52 (CW10 Rutting&amp;amp;Depressions)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8146719&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -other CW10</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8146472</guid>
-<pubDate>Wed, 10 Sep 2025 11:30:59 +0100</pubDate>
-<georss:point>51.8610195 -2.09687329999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW10 Potholes problem, 10th September</title>
-<link>https://www.fixmystreet.com/report/8146470</link>
-<description>15MDB &amp;#10;CWPH &amp;#10;1000 X 300 X 40mm&amp;#10;MARKED AS NUMBER 44 (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8146470&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW10 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8146470</guid>
-<pubDate>Wed, 10 Sep 2025 11:28:21 +0100</pubDate>
-<georss:point>51.8609803 -2.0969007</georss:point>
-</item>
-<item>
-<title>TMC - Defects -other CW10 problem, 10th September</title>
-<link>https://www.fixmystreet.com/report/8146468</link>
-<description>15MDB &amp;#10;CWED &amp;#10;3000 X 300 X 45mm&amp;#10;MARKED AS NUMBER 42 (CW10 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8146468&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -other CW10</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8146468</guid>
-<pubDate>Wed, 10 Sep 2025 11:26:59 +0100</pubDate>
-<georss:point>51.8609568 -2.09696589999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects -other CW10 problem, 10th September</title>
-<link>https://www.fixmystreet.com/report/8146467</link>
-<description>15MDB &amp;#10;CWED &amp;#10;2200 X 300 X 45mm&amp;#10;MARKED AS NUMBER 42 (CW10 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8146467&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -other CW10</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8146467</guid>
-<pubDate>Wed, 10 Sep 2025 11:25:27 +0100</pubDate>
-<georss:point>51.860841 -2.09709890000001</georss:point>
-</item>
-<item>
-<title>Blocking visibility on road/junction (Grass/verge) problem, 10th September</title>
-<link>https://www.fixmystreet.com/report/8146433</link>
-<description>parking issues and cars damaging verges &#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8146433&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Blocking visibility on road/junction (Grass/verge)</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8146433</guid>
-<pubDate>Wed, 10 Sep 2025 11:24:20 +0100</pubDate>
-<georss:point>51.886181 -2.210822</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW10 Potholes problem, 10th September</title>
-<link>https://www.fixmystreet.com/report/8146466</link>
-<description>15MDB &amp;#10;CWPH &amp;#10;3500 X 600 X 40mm ave&amp;#10;MARKED AS NUMBER 41&amp;#10;2 X nsd (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8146466&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW10 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8146466</guid>
-<pubDate>Wed, 10 Sep 2025 11:23:44 +0100</pubDate>
-<georss:point>51.8607209 -2.0973518</georss:point>
-</item>
-<item>
-<title>TMC - Defects -other CW10 problem, 10th September</title>
-<link>https://www.fixmystreet.com/report/8146465</link>
-<description>15MDB &amp;#10;CWED &amp;#10;1500 X 200 X 45mm&amp;#10;MARKED AS NUMBER 40 (CW10 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8146465&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -other CW10</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8146465</guid>
-<pubDate>Wed, 10 Sep 2025 11:21:07 +0100</pubDate>
-<georss:point>51.8606739 -2.09741109999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects -other CW10 problem, 10th September</title>
-<link>https://www.fixmystreet.com/report/8146464</link>
-<description>15MDB &amp;#10;CWED &amp;#10;3000 X 300 X 45mm&amp;#10;MARKED AS NUMBER 39 (CW10 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8146464&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -other CW10</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8146464</guid>
-<pubDate>Wed, 10 Sep 2025 11:19:07 +0100</pubDate>
-<georss:point>51.8604793 -2.0977217</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW10 Potholes problem, 10th September</title>
-<link>https://www.fixmystreet.com/report/8146462</link>
-<description>15MDB &amp;#10;CWPH &amp;#10;400 X 400 X 40mm&amp;#10;MARKED AS NUMBER 38 (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8146462&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW10 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8146462</guid>
-<pubDate>Wed, 10 Sep 2025 11:17:29 +0100</pubDate>
-<georss:point>51.8603585 -2.09786110000001</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW10 Potholes problem, 10th September</title>
-<link>https://www.fixmystreet.com/report/8146460</link>
-<description>15MDB &amp;#10;CWPH &amp;#10;400 X 300 X 40mm&amp;#10;MARKED AS NUMBER 37&amp;#10;2 X nsd (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8146460&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW10 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8146460</guid>
-<pubDate>Wed, 10 Sep 2025 11:16:54 +0100</pubDate>
-<georss:point>51.8603547 -2.09788950000001</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW10 Potholes problem, 10th September</title>
-<link>https://www.fixmystreet.com/report/8146459</link>
-<description>15MDB &amp;#10;CWPH &amp;#10;1200 X 300 X 40mm&amp;#10;MARKED AS NUMBER 36 (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8146459&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW10 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8146459</guid>
-<pubDate>Wed, 10 Sep 2025 11:15:07 +0100</pubDate>
-<georss:point>51.8603062 -2.09793100000001</georss:point>
-</item>
-<item>
-<title>TMC - Defects -other CW10 problem, 10th September</title>
-<link>https://www.fixmystreet.com/report/8146458</link>
-<description>15MDB &amp;#10;CWED &amp;#10;5000 X 300 X 45mm&amp;#10;MARKED AS NUMBER 35 (CW10 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8146458&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -other CW10</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8146458</guid>
-<pubDate>Wed, 10 Sep 2025 11:13:58 +0100</pubDate>
-<georss:point>51.8602309 -2.09803699999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW10 Potholes problem, 10th September</title>
-<link>https://www.fixmystreet.com/report/8146453</link>
-<description>15MDB &amp;#10;CWPH &amp;#10;1200 X 300 X 40mm&amp;#10;MARKED AS NUMBER 35&amp;#10;2 X nsd (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8146453&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW10 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8146453</guid>
-<pubDate>Wed, 10 Sep 2025 11:12:24 +0100</pubDate>
-<georss:point>51.8601809 -2.09810719999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Footways Slabs problem, 10th September</title>
-<link>https://www.fixmystreet.com/report/8146446</link>
-<description>Give and take  28 days  plus temporary footway closure  please replace x1 sunken broken 900x600x20 mm slab  stats required number 1 (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8146446&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Footways Slabs</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8146446</guid>
-<pubDate>Wed, 10 Sep 2025 11:11:12 +0100</pubDate>
-<georss:point>51.8984619725694 -2.06258997850579</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Footways Slabs problem, 10th September</title>
-<link>https://www.fixmystreet.com/report/8146447</link>
-<description>Give and take  28 days  plus temporary footway closure  please replace x1 sunken broken 750x500x20 mm slab  stats required number 2 (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8146447&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Footways Slabs</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8146447</guid>
-<pubDate>Wed, 10 Sep 2025 11:11:12 +0100</pubDate>
-<georss:point>51.8984468394911 -2.06255959783535</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Footways Slabs problem, 10th September</title>
-<link>https://www.fixmystreet.com/report/8146445</link>
-<description>Give and take  28 days  plus temporary footway closure  please replace x1 sunken broken 750x500x20 mm slab  stats required number 1. Cutting will be required (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8146445&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Footways Slabs</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8146445</guid>
-<pubDate>Wed, 10 Sep 2025 11:11:12 +0100</pubDate>
-<georss:point>51.8980885454103 -2.06295345861268</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Footways Slabs problem, 10th September</title>
-<link>https://www.fixmystreet.com/report/8146444</link>
-<description>Give and take  28 days  plus temporary footway closure  please replace x1 sunken broken 900x600x20 mm slab  stats required number 1 (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8146444&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Footways Slabs</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8146444</guid>
-<pubDate>Wed, 10 Sep 2025 11:11:12 +0100</pubDate>
-<georss:point>51.898052 -2.0629616</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 10th September</title>
-<link>https://www.fixmystreet.com/report/8146448</link>
-<description>Give and take  28 days  plus temporary footway closure  please footway abrupt level different  700x800x21 mm  tarmac  patch stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8146448&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8146448</guid>
-<pubDate>Wed, 10 Sep 2025 11:11:12 +0100</pubDate>
-<georss:point>51.8979713 -2.06297270000001</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8146719</guid>
+<pubDate>Wed, 10 Sep 2025 11:47:17 +0100</pubDate>
+<georss:point>51.8613706 -2.09632590000001</georss:point>
 </item>
 </channel>
 </rss>
