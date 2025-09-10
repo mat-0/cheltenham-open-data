@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Huge pothole - you filled the wrong one!!, 10th September :- [8145099](https://www.fixmystreet.com/report/8145099)
+- The pavement exactly outside 57 Naunton Way, 10th September :- [8145062](https://www.fixmystreet.com/report/8145062)
+- Lights not staying on green long enough causing huge tail back, 10th September :- [8144790](https://www.fixmystreet.com/report/8144790)
 - Vegetation blocking path, 10th September :- [8144775](https://www.fixmystreet.com/report/8144775)
 - There is an abandoned shopping trolley left in the phone booth, 9th September :- [8144124](https://www.fixmystreet.com/report/8144124)
 - No street lighting over a month, 9th September :- [8144014](https://www.fixmystreet.com/report/8144014)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Car driving over kerb and causing damage to verge, especially when wet weather arrives. I have reported this before . Located at 5 Howards place. Not sure if they had planning permission to turn front garden in to a car park., 9th September :- [8142639](https://www.fixmystreet.com/report/8142639)
 - Increase in traffic using School Road as a quick way to get to London Road, especially now with the road closure has been significant! This is an access road only for residents, 9th September :- [8142379](https://www.fixmystreet.com/report/8142379)
 - Blocked drain outside the Old Bakery, School Road, 9th September :- [8142316](https://www.fixmystreet.com/report/8142316)
-- Pothole, 9th September :- [8142212](https://www.fixmystreet.com/report/8142212)
-- TMC - Defects - Covers, Gratings & Frames problem, 9th September :- [8142345](https://www.fixmystreet.com/report/8142345)
-- Overgrowth stopping access and flytipping, 9th September :- [8142186](https://www.fixmystreet.com/report/8142186)
 
 <!-- fix_marker ends -->
