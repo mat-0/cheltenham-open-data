@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Bus stop has been installed in the incorrect location, 10th September :- [8145535](https://www.fixmystreet.com/report/8145535)
+- Traffic cones and planks blocking valuable parking spaces in Hamilton Street, 10th September :- [8145471](https://www.fixmystreet.com/report/8145471)
+- Raised slabs on footpath, 10th September :- [8145434](https://www.fixmystreet.com/report/8145434)
 - Huge pothole - you filled the wrong one!!, 10th September :- [8145099](https://www.fixmystreet.com/report/8145099)
 - The pavement exactly outside 57 Naunton Way, 10th September :- [8145062](https://www.fixmystreet.com/report/8145062)
 - Lights not staying on green long enough causing huge tail back, 10th September :- [8144790](https://www.fixmystreet.com/report/8144790)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Flood sign abandoned, 9th September :- [8142920](https://www.fixmystreet.com/report/8142920)
 - DANGER to public. Broken fence with exposed barbed wire, next to public path., 9th September :- [8142914](https://www.fixmystreet.com/report/8142914)
 - Blocked drain, 9th September :- [8142737](https://www.fixmystreet.com/report/8142737)
-- Car driving over kerb and causing damage to verge, especially when wet weather arrives. I have reported this before . Located at 5 Howards place. Not sure if they had planning permission to turn front garden in to a car park., 9th September :- [8142639](https://www.fixmystreet.com/report/8142639)
-- Increase in traffic using School Road as a quick way to get to London Road, especially now with the road closure has been significant! This is an access road only for residents, 9th September :- [8142379](https://www.fixmystreet.com/report/8142379)
-- Blocked drain outside the Old Bakery, School Road, 9th September :- [8142316](https://www.fixmystreet.com/report/8142316)
 
 <!-- fix_marker ends -->
