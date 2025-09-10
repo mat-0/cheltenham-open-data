@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Abandoned shopping trolley, 10th September :- [8148969](https://www.fixmystreet.com/report/8148969)
 - Flytipping, 10th September :- [8148737](https://www.fixmystreet.com/report/8148737)
 - Beds dumped, 10th September :- [8148710](https://www.fixmystreet.com/report/8148710)
 - Barriers left behind, 10th September :- [8148570](https://www.fixmystreet.com/report/8148570)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 10th September :- [8148052](https://www.fixmystreet.com/report/8148052)
 - TMC - Defects - Kerbs and Channels problem, 10th September :- [8148051](https://www.fixmystreet.com/report/8148051)
 - TMC - Defects - Kerbs and Channels problem, 10th September :- [8148050](https://www.fixmystreet.com/report/8148050)
-- TMC - Defects -CW6 Potholes  problem, 10th September :- [8147879](https://www.fixmystreet.com/report/8147879)
 
 <!-- fix_marker ends -->
