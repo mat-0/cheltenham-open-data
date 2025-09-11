@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Collapsed repair of previous pothole, 11th September :- [8154556](https://www.fixmystreet.com/report/8154556)
+- Street lights number 3, 8 and 1, 11th September :- [8154487](https://www.fixmystreet.com/report/8154487)
 - Illegal flag attached to lamppost, 11th September :- [8154396](https://www.fixmystreet.com/report/8154396)
 - Overgrown trees, 11th September :- [8154345](https://www.fixmystreet.com/report/8154345)
 - Sign dumped on drain cover, 11th September :- [8154333](https://www.fixmystreet.com/report/8154333)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW10 Potholes problem, 11th September :- [8152644](https://www.fixmystreet.com/report/8152644)
 - 30 MPH Repeater sign is very faded, overgrown vegetation and leaning, 11th September :- [8152407](https://www.fixmystreet.com/report/8152407)
 - School sign leaning across pavement, 11th September :- [8152404](https://www.fixmystreet.com/report/8152404)
-- School Crossing Patrol Signal almost completely obscured by overgrown vegetation, 11th September :- [8152342](https://www.fixmystreet.com/report/8152342)
-- Flags attached to street lighting along Tewkesbury Road, near gallagher retail park, 11th September :- [8152207](https://www.fixmystreet.com/report/8152207)
 
 <!-- fix_marker ends -->
