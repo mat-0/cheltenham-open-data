@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Calls for cuts to adoption support to be reversed ([8 hours ago](https://www.bbc.com/news/articles/cgl19k02148o?at_medium=RSS&at_campaign=rss))
-- Action taken to tackle rise in ‘abandoned’ e-scooters in county ([10 hours ago](https://gloucesternewscentre.co.uk/action-taken-to-tackle-rise-in-abandoned-e-scooters-in-county/))
-- Dog walker 'grabbed by throat' by motorcyclist ([11 hours ago](https://www.bbc.com/news/articles/ckgennww950o?at_medium=RSS&at_campaign=rss))
-- Tourists' litter puts village 'under pressure' ([13 hours ago](https://www.bbc.com/news/articles/c15kz318zy5o?at_medium=RSS&at_campaign=rss))
-- Headlines: 'Crowded cat shelters' and 'surprise gift' ([16 hours ago](https://www.bbc.com/news/articles/cvg04w05gz5o?at_medium=RSS&at_campaign=rss))
+- Calls for cuts to adoption support to be reversed ([9 hours ago](https://www.bbc.com/news/articles/cgl19k02148o?at_medium=RSS&at_campaign=rss))
+- Action taken to tackle rise in ‘abandoned’ e-scooters in county ([11 hours ago](https://gloucesternewscentre.co.uk/action-taken-to-tackle-rise-in-abandoned-e-scooters-in-county/))
+- Dog walker 'grabbed by throat' by motorcyclist ([12 hours ago](https://www.bbc.com/news/articles/ckgennww950o?at_medium=RSS&at_campaign=rss))
+- Tourists' litter puts village 'under pressure' ([14 hours ago](https://www.bbc.com/news/articles/c15kz318zy5o?at_medium=RSS&at_campaign=rss))
+- Headlines: 'Crowded cat shelters' and 'surprise gift' ([17 hours ago](https://www.bbc.com/news/articles/cvg04w05gz5o?at_medium=RSS&at_campaign=rss))
 - Funding gap for new M5 junction project hits £110m ([21 hours ago](https://www.bbc.com/news/articles/c78n5j0zxx1o?at_medium=RSS&at_campaign=rss))
 - Castles and stately homes among sites opening up ([21 hours ago](https://www.bbc.com/news/articles/cqlz53eyv0ro?at_medium=RSS&at_campaign=rss))
 - Residents say bridge closures leave them cut off ([1 days ago](https://www.bbc.com/news/articles/c8rvj1p6zllo?at_medium=RSS&at_campaign=rss))
