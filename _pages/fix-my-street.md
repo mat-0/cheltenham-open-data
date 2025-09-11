@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Junction frequently blocked by queueing traffic, 11th September :- [8150279](https://www.fixmystreet.com/report/8150279)
+- TMC - Defects -CW6 Potholes  problem, 11th September :- [8150289](https://www.fixmystreet.com/report/8150289)
+- TMC - Defects - Road Markings problem, 11th September :- [8150287](https://www.fixmystreet.com/report/8150287)
+- Pothole and broken up tarmac a bit further up the road from another pothole reported, 11th September :- [8150169](https://www.fixmystreet.com/report/8150169)
 - Large area of tarmac all broken up and now rapidly disappearing making cars swerve onto the wrong side of the lane, 11th September :- [8150020](https://www.fixmystreet.com/report/8150020)
 - Massive Pothole on the approach of the Roundabout, 11th September :- [8149914](https://www.fixmystreet.com/report/8149914)
 - Street light is not on at all, 10th September :- [8149456](https://www.fixmystreet.com/report/8149456)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Roundabout sign is missing from illuminated sign on junction coming from all saints rd to the roundabout, 10th September :- [8148328](https://www.fixmystreet.com/report/8148328)
 - No entry sign at 45 degree angle, 10th September :- [8148181](https://www.fixmystreet.com/report/8148181)
 - Lighting issue, 10th September :- [8148095](https://www.fixmystreet.com/report/8148095)
-- Leckhampton Road, uneven, flooded dangerous walkway., 10th September :- [8148070](https://www.fixmystreet.com/report/8148070)
-- Bollard shell is damaged/vandalised problem, 10th September :- [8148048](https://www.fixmystreet.com/report/8148048)
-- TMC - Defects - Other FW6  Surface problem, 10th September :- [8148052](https://www.fixmystreet.com/report/8148052)
-- TMC - Defects - Footways Slabs problem, 10th September :- [8148058](https://www.fixmystreet.com/report/8148058)
 
 <!-- fix_marker ends -->
