@@ -10,6 +10,7 @@ permalink: /fix-my-street
 <!-- fix_marker starts -->
 
 - Gate locked: main route for children cycling to Leckhampton High School now blocked, 11th September :- [8151675](https://www.fixmystreet.com/report/8151675)
+- TMC - Defects - Road Markings problem, 11th September :- [8151719](https://www.fixmystreet.com/report/8151719)
 - TMC - Defects - Road Markings problem, 11th September :- [8151535](https://www.fixmystreet.com/report/8151535)
 - The traffic light when you’re facing the park campus has been clipped and is facing towards the other lane., 11th September :- [8151450](https://www.fixmystreet.com/report/8151450)
 - The road has sunk and is quite a bump to drive over. There are a couple more towards stoke orchard, 11th September :- [8151404](https://www.fixmystreet.com/report/8151404)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Road Markings problem, 11th September :- [8150913](https://www.fixmystreet.com/report/8150913)
 - TMC - Defects -CW10 Potholes problem, 11th September :- [8150912](https://www.fixmystreet.com/report/8150912)
 - TMC - Defects - Road Markings problem, 11th September :- [8150894](https://www.fixmystreet.com/report/8150894)
-- TMC - Defects - Road Markings problem, 11th September :- [8150887](https://www.fixmystreet.com/report/8150887)
 
 <!-- fix_marker ends -->
