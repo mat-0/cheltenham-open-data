@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Over grown tree, 11th September :- [8153630](https://www.fixmystreet.com/report/8153630)
 - Flooding footpath after / during rain preventing access, 11th September :- [8153420](https://www.fixmystreet.com/report/8153420)
 - Follow up work required ?, 11th September :- [8153385](https://www.fixmystreet.com/report/8153385)
 - Road repair dangerous, 11th September :- [8153255](https://www.fixmystreet.com/report/8153255)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -FW6 Potholes problem, 11th September :- [8152105](https://www.fixmystreet.com/report/8152105)
 - TMC - Defects -FW6 Potholes problem, 11th September :- [8152104](https://www.fixmystreet.com/report/8152104)
 - TMC - Defects -FW6 Potholes problem, 11th September :- [8152102](https://www.fixmystreet.com/report/8152102)
-- TMC - Defects -FW6 Potholes problem, 11th September :- [8152113](https://www.fixmystreet.com/report/8152113)
 
 <!-- fix_marker ends -->
