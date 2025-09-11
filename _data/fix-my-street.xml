@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -20,6 +20,15 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/8151675</guid>
 <pubDate>Thu, 11 Sep 2025 11:55:29 +0100</pubDate>
 <georss:point>51.875784 -2.086133</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Road Markings problem, 11th September</title>
+<link>https://www.fixmystreet.com/report/8151719</link>
+<description>ENWD&amp;#10;FADED ROAD MARKINGS &amp;#10;PLEASE PUT OUT NO ROAD MARKINGS BOARD &amp;#10;STANDARD TM (Faded Road Markings)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8151719&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Road Markings</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8151719</guid>
+<pubDate>Thu, 11 Sep 2025 11:33:16 +0100</pubDate>
+<georss:point>51.9265381 -2.1348031</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Road Markings problem, 11th September</title>
@@ -182,15 +191,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/8150894</guid>
 <pubDate>Thu, 11 Sep 2025 09:13:44 +0100</pubDate>
 <georss:point>51.8689167 -2.075932</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Road Markings problem, 11th September</title>
-<link>https://www.fixmystreet.com/report/8150887</link>
-<description>FADED ROAD MARKINGS PLEASE REPAINT &amp;#10;9 X DOUBLE DOTS &amp;#10;10 X SINGLE DOTS &amp;#10; 2 X CENTRE LINES &amp;#10;STOP AND GO (Faded Road Markings)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8150887&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Road Markings</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8150887</guid>
-<pubDate>Thu, 11 Sep 2025 09:08:08 +0100</pubDate>
-<georss:point>51.8689465493722 -2.07597179413889</georss:point>
 </item>
 </channel>
 </rss>
