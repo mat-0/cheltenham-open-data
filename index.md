@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Thursday, 11 September 2025
 
-- The average temperature today is 14.18˚C,
-- With highs of 16.1˚C and lows of 13.15˚C,
-- It may feel like 13.66˚C with scattered clouds
-- The wind speed is 5.14m/s and visibility is 10000m
-- The pressure is 1002hPa and humidity is 77%
+- The average temperature today is 13.61˚C,
+- With highs of 14.99˚C and lows of 12.75˚C,
+- It may feel like 13.19˚C with scattered clouds
+- The wind speed is 5.66m/s and visibility is 10000m
+- The pressure is 1001hPa and humidity is 83%
 - The sun will rise at 05:36 and set at 18:33
 
 <!-- weather_marker ends -->
