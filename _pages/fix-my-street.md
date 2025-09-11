@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Road Markings problem, 11th September :- [8152980](https://www.fixmystreet.com/report/8152980)
+- Fly tipped broken furniture - previously reported over a week ago, 11th September :- [8152846](https://www.fixmystreet.com/report/8152846)
+- TMC - Defects - Vegetation problem, 11th September :- [8152807](https://www.fixmystreet.com/report/8152807)
 - TMC - Defects -CW10 Potholes problem, 11th September :- [8152649](https://www.fixmystreet.com/report/8152649)
 - TMC - Defects -CW10 Potholes problem, 11th September :- [8152648](https://www.fixmystreet.com/report/8152648)
 - TMC - Defects -CW10 Potholes problem, 11th September :- [8152645](https://www.fixmystreet.com/report/8152645)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -FW6 Potholes problem, 11th September :- [8152112](https://www.fixmystreet.com/report/8152112)
 - TMC - Defects -FW6 Potholes problem, 11th September :- [8152111](https://www.fixmystreet.com/report/8152111)
 - Gate locked: main route for children cycling to Leckhampton High School now blocked, 11th September :- [8151675](https://www.fixmystreet.com/report/8151675)
-- TMC - Defects - Road Markings problem, 11th September :- [8151719](https://www.fixmystreet.com/report/8151719)
-- TMC - Defects - Road Markings problem, 11th September :- [8151535](https://www.fixmystreet.com/report/8151535)
-- The traffic light when you’re facing the park campus has been clipped and is facing towards the other lane., 11th September :- [8151450](https://www.fixmystreet.com/report/8151450)
 
 <!-- fix_marker ends -->
