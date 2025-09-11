@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -184,11 +184,11 @@
 <georss:point>51.901866941167 -2.05497059866184</georss:point>
 </item>
 <item>
-<title>TMC - Defects - Signs &amp; Street Furniture problem, 10th September</title>
-<link>https://www.fixmystreet.com/report/8148053</link>
-<description>Give and take plus temporary footway closure please reset x1 bollard 1000x500x30mm stats required (Damaged Bollard)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8148053&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Signs &amp; Street Furniture</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8148053</guid>
+<title>TMC - Defects - Other FW6  Surface problem, 10th September</title>
+<link>https://www.fixmystreet.com/report/8148052</link>
+<description>Give and take  28 days  plus temporary footway closure  please footway abrupt level different  600x600x20 mm  tarmac  patch stats required stats required number 1 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8148052&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8148052</guid>
 <pubDate>Wed, 10 Sep 2025 15:09:03 +0100</pubDate>
 <georss:point>51.9015106 -2.05521479999999</georss:point>
 </item>
