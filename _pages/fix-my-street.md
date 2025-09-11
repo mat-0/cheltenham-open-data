@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flooding footpath after / during rain preventing access, 11th September :- [8153420](https://www.fixmystreet.com/report/8153420)
+- Follow up work required ?, 11th September :- [8153385](https://www.fixmystreet.com/report/8153385)
+- Road repair dangerous, 11th September :- [8153255](https://www.fixmystreet.com/report/8153255)
 - TMC - Defects - Road Markings problem, 11th September :- [8152980](https://www.fixmystreet.com/report/8152980)
 - Fly tipped broken furniture - previously reported over a week ago, 11th September :- [8152846](https://www.fixmystreet.com/report/8152846)
 - TMC - Defects - Vegetation problem, 11th September :- [8152807](https://www.fixmystreet.com/report/8152807)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -FW6 Potholes problem, 11th September :- [8152104](https://www.fixmystreet.com/report/8152104)
 - TMC - Defects -FW6 Potholes problem, 11th September :- [8152102](https://www.fixmystreet.com/report/8152102)
 - TMC - Defects -FW6 Potholes problem, 11th September :- [8152113](https://www.fixmystreet.com/report/8152113)
-- TMC - Defects -FW6 Potholes problem, 11th September :- [8152112](https://www.fixmystreet.com/report/8152112)
-- TMC - Defects -FW6 Potholes problem, 11th September :- [8152111](https://www.fixmystreet.com/report/8152111)
-- Gate locked: main route for children cycling to Leckhampton High School now blocked, 11th September :- [8151675](https://www.fixmystreet.com/report/8151675)
 
 <!-- fix_marker ends -->
