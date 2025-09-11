@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects -CW10 Potholes problem, 11th September :- [8152649](https://www.fixmystreet.com/report/8152649)
+- TMC - Defects -CW10 Potholes problem, 11th September :- [8152648](https://www.fixmystreet.com/report/8152648)
+- TMC - Defects -CW10 Potholes problem, 11th September :- [8152645](https://www.fixmystreet.com/report/8152645)
+- TMC - Defects -CW10 Potholes problem, 11th September :- [8152644](https://www.fixmystreet.com/report/8152644)
 - 30 MPH Repeater sign is very faded, overgrown vegetation and leaning, 11th September :- [8152407](https://www.fixmystreet.com/report/8152407)
 - School sign leaning across pavement, 11th September :- [8152404](https://www.fixmystreet.com/report/8152404)
 - School Crossing Patrol Signal almost completely obscured by overgrown vegetation, 11th September :- [8152342](https://www.fixmystreet.com/report/8152342)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Road Markings problem, 11th September :- [8151719](https://www.fixmystreet.com/report/8151719)
 - TMC - Defects - Road Markings problem, 11th September :- [8151535](https://www.fixmystreet.com/report/8151535)
 - The traffic light when you’re facing the park campus has been clipped and is facing towards the other lane., 11th September :- [8151450](https://www.fixmystreet.com/report/8151450)
-- The road has sunk and is quite a bump to drive over. There are a couple more towards stoke orchard, 11th September :- [8151404](https://www.fixmystreet.com/report/8151404)
-- TMC - Defects -CW10 Potholes problem, 11th September :- [8151532](https://www.fixmystreet.com/report/8151532)
-- TMC - Defects -CW10 Potholes problem, 11th September :- [8151529](https://www.fixmystreet.com/report/8151529)
-- TMC - Defects -CW10 Potholes problem, 11th September :- [8151528](https://www.fixmystreet.com/report/8151528)
 
 <!-- fix_marker ends -->

@@ -20,10 +20,11 @@ This project fetches flood warning data for the Gloucestershire area and publish
 
 <!-- flood_marker starts -->
 - Flood alert: Tidal River Avon at Bristol, Pill and Shirehampton
-- Higher than normal spring tides are forecast over the coming days. Flooding of roads and low-lying land is possible, property flooding is not expected.
-First forecast high-water is 9:00 PM on 10/09/25 with a level of 7.86 mAOD,  a Force 5 westerley direction and second forecast high-water is 9:15 AM on 11/09/25 with a level of 7.38 mAOD and a Force 4 South-westerly wind. Times are local and refer to the high-water time at Avonmouth, mAOD is height above average sea level. Conditions may apply one to two hours either side of the high tide. 
-Areas most at risk include the tidal River Avon from Sea Mills to Conham in Bristol and between the Avonmouth Bridge and Shirehampton Park including Pill and Shirehampton.
-Further flooding is possible at high-water until Thursday due to higher than normal tides. We are closely monitoring the situation and will be closing flood gates at Pill and Shirehampton.
+-  Higher than normal spring tides are forecast over the coming days. Flooding of roads and low-lying land is possible, property flooding is not expected.
+Forecast high-water is 9:45 PM on 11/09/25 with a level of 7.37 mAOD,  a Force 6 south westerley direction. Times are local and refer to the high-water time at Avonmouth, mAOD is height above average sea level. Conditions may apply one to two hours either side of the high tide.
+ 
+Areas most at risk include the tidal River Avon from Sea Mills to Conham in Bristol and between the Avonmouth Bridge and Shirehampton Park including Pill and Shirehampton. We are closely monitoring the situation and will be closing flood gates at Pill and Shirehampton.
+
 Please be careful along beaches, promenades, coastal footpaths and roads where conditions may be hazardous.
 This message will be updated by 4:00 PM on 11/09/2025, or as the situation changes.
 
