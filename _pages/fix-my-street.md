@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large area of tarmac all broken up and now rapidly disappearing making cars swerve onto the wrong side of the lane, 11th September :- [8150020](https://www.fixmystreet.com/report/8150020)
 - Massive Pothole on the approach of the Roundabout, 11th September :- [8149914](https://www.fixmystreet.com/report/8149914)
 - Street light is not on at all, 10th September :- [8149456](https://www.fixmystreet.com/report/8149456)
 - Temporary Traffic Lights but work has finished, 10th September :- [8149422](https://www.fixmystreet.com/report/8149422)
@@ -26,8 +27,7 @@ permalink: /fix-my-street
 - Lighting issue, 10th September :- [8148095](https://www.fixmystreet.com/report/8148095)
 - Leckhampton Road, uneven, flooded dangerous walkway., 10th September :- [8148070](https://www.fixmystreet.com/report/8148070)
 - Bollard shell is damaged/vandalised problem, 10th September :- [8148048](https://www.fixmystreet.com/report/8148048)
-- TMC - Defects - Other FW6  Surface problem, 10th September :- [8148057](https://www.fixmystreet.com/report/8148057)
-- TMC - Defects - Other FW6  Surface problem, 10th September :- [8148054](https://www.fixmystreet.com/report/8148054)
-- TMC - Defects - Kerbs and Channels problem, 10th September :- [8148059](https://www.fixmystreet.com/report/8148059)
+- TMC - Defects - Other FW6  Surface problem, 10th September :- [8148052](https://www.fixmystreet.com/report/8148052)
+- TMC - Defects - Footways Slabs problem, 10th September :- [8148058](https://www.fixmystreet.com/report/8148058)
 
 <!-- fix_marker ends -->
