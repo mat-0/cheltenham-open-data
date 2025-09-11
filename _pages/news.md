@@ -12,13 +12,13 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- 'Being a carer takes a massive toll on your childhood' ([2 hours ago](https://www.bbc.com/news/articles/cz7r35q8r3xo?at_medium=RSS&at_campaign=rss))
-- Lion sculptures to be auctioned for cancer appeal ([2 hours ago](https://www.bbc.com/news/articles/ce32lk7vk10o?at_medium=RSS&at_campaign=rss))
-- Calls for cuts to adoption support to be reversed ([14 hours ago](https://www.bbc.com/news/articles/cgl19k02148o?at_medium=RSS&at_campaign=rss))
-- Action taken to tackle rise in ‘abandoned’ e-scooters in county ([16 hours ago](https://gloucesternewscentre.co.uk/action-taken-to-tackle-rise-in-abandoned-e-scooters-in-county/))
-- Dog walker 'grabbed by throat' by motorcyclist ([16 hours ago](https://www.bbc.com/news/articles/ckgennww950o?at_medium=RSS&at_campaign=rss))
-- Tourists' litter puts village 'under pressure' ([18 hours ago](https://www.bbc.com/news/articles/c15kz318zy5o?at_medium=RSS&at_campaign=rss))
-- Headlines: 'Crowded cat shelters' and 'surprise gift' ([22 hours ago](https://www.bbc.com/news/articles/cvg04w05gz5o?at_medium=RSS&at_campaign=rss))
+- 'Being a carer takes a massive toll on your childhood' ([3 hours ago](https://www.bbc.com/news/articles/cz7r35q8r3xo?at_medium=RSS&at_campaign=rss))
+- Lion sculptures to be auctioned for cancer appeal ([3 hours ago](https://www.bbc.com/news/articles/ce32lk7vk10o?at_medium=RSS&at_campaign=rss))
+- Calls for cuts to adoption support to be reversed ([15 hours ago](https://www.bbc.com/news/articles/cgl19k02148o?at_medium=RSS&at_campaign=rss))
+- Action taken to tackle rise in ‘abandoned’ e-scooters in county ([17 hours ago](https://gloucesternewscentre.co.uk/action-taken-to-tackle-rise-in-abandoned-e-scooters-in-county/))
+- Dog walker 'grabbed by throat' by motorcyclist ([17 hours ago](https://www.bbc.com/news/articles/ckgennww950o?at_medium=RSS&at_campaign=rss))
+- Tourists' litter puts village 'under pressure' ([19 hours ago](https://www.bbc.com/news/articles/c15kz318zy5o?at_medium=RSS&at_campaign=rss))
+- Headlines: 'Crowded cat shelters' and 'surprise gift' ([23 hours ago](https://www.bbc.com/news/articles/cvg04w05gz5o?at_medium=RSS&at_campaign=rss))
 - Funding gap for new M5 junction project hits £110m ([1 days ago](https://www.bbc.com/news/articles/c78n5j0zxx1o?at_medium=RSS&at_campaign=rss))
 - Castles and stately homes among sites opening up ([1 days ago](https://www.bbc.com/news/articles/cqlz53eyv0ro?at_medium=RSS&at_campaign=rss))
 - Residents say bridge closures leave them cut off ([1 days ago](https://www.bbc.com/news/articles/c8rvj1p6zllo?at_medium=RSS&at_campaign=rss))
@@ -61,7 +61,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Local councils not considering legal action against asylum hotels ([20 days ago](https://gloucesternewscentre.co.uk/local-councils-not-considering-legal-action-against-asylum-hotels/))
 - Seven years waiting for leisure centre at five acres ([20 days ago](https://www.bbc.co.uk/sounds/play/p0ly5g42?at_medium=RSS&at_campaign=rss))
 - Late summer bank holiday waste and recycling collections ([22 days ago](https://www.cheltenham.gov.uk/news/article/3042/late_summer_bank_holiday_waste_and_recycling_collections))
-- Heritage Open Days 2025 ([26 days ago](https://www.cheltenham.gov.uk/news/article/3041/heritage_open_days_2025))
-- Cheltenham families enjoy another successful NCLB Party in the Park ([28 days ago](https://www.cheltenham.gov.uk/news/article/3040/cheltenham_families_enjoy_another_successful_nclb_party_in_the_park))
+- Heritage Open Days 2025 ([27 days ago](https://www.cheltenham.gov.uk/news/article/3041/heritage_open_days_2025))
+- Cheltenham families enjoy another successful NCLB Party in the Park ([29 days ago](https://www.cheltenham.gov.uk/news/article/3040/cheltenham_families_enjoy_another_successful_nclb_party_in_the_park))
 
 <!-- news_marker ends -->
