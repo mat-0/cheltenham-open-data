@@ -28,6 +28,6 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 10th September :- [8148057](https://www.fixmystreet.com/report/8148057)
 - TMC - Defects - Kerbs and Channels problem, 10th September :- [8148059](https://www.fixmystreet.com/report/8148059)
 - TMC - Defects - Other FW6  Surface problem, 10th September :- [8148056](https://www.fixmystreet.com/report/8148056)
-- TMC - Defects - Signs & Street Furniture problem, 10th September :- [8148053](https://www.fixmystreet.com/report/8148053)
+- TMC - Defects - Other FW6  Surface problem, 10th September :- [8148052](https://www.fixmystreet.com/report/8148052)
 
 <!-- fix_marker ends -->
