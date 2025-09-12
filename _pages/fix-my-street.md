@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fly tipping, 12th September :- [8154877](https://www.fixmystreet.com/report/8154877)
 - Congestion at pinch point of road and increased pollution, 11th September :- [8154632](https://www.fixmystreet.com/report/8154632)
 - Collapsed repair of previous pothole, 11th September :- [8154556](https://www.fixmystreet.com/report/8154556)
 - Street lights number 3, 8 and 1, 11th September :- [8154487](https://www.fixmystreet.com/report/8154487)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW10 Potholes problem, 11th September :- [8152648](https://www.fixmystreet.com/report/8152648)
 - TMC - Defects -CW10 Potholes problem, 11th September :- [8152645](https://www.fixmystreet.com/report/8152645)
 - TMC - Defects -CW10 Potholes problem, 11th September :- [8152644](https://www.fixmystreet.com/report/8152644)
-- 30 MPH Repeater sign is very faded, overgrown vegetation and leaning, 11th September :- [8152407](https://www.fixmystreet.com/report/8152407)
 
 <!-- fix_marker ends -->
