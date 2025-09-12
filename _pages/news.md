@@ -12,15 +12,15 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Why council docks building has not been sold yet ([11 minutes ago](https://www.bbc.com/news/articles/cqlzyd675ypo?at_medium=RSS&at_campaign=rss))
-- 'Extraordinary' Einstein violin could fetch £300k ([2 hours ago](https://www.bbc.com/news/articles/cg42ze6nq6vo?at_medium=RSS&at_campaign=rss))
-- Severn Bridge HGV ban may be lifted by next autumn ([15 hours ago](https://www.bbc.com/news/articles/cx2rp35ypjno?at_medium=RSS&at_campaign=rss))
-- Inquiry into unexpected £1.5m council overspend ([15 hours ago](https://www.bbc.com/news/articles/czdjl2gq34zo?at_medium=RSS&at_campaign=rss))
-- Rail hub to make capacity for hundreds more trains ([18 hours ago](https://www.bbc.com/news/articles/cd72xg7500go?at_medium=RSS&at_campaign=rss))
-- Councillors clash over asylum hotels amid racism row ([19 hours ago](https://gloucesternewscentre.co.uk/councillors-clash-over-asylum-hotels-amid-racism-row/))
-- Golden Valley launches new cyber skills initiative at  House of Commons event ([20 hours ago](https://www.cheltenham.gov.uk/news/article/3047/golden_valley_launches_new_cyber_skills_initiative_at_house_of_commons_event))
-- Locals support plans to demolish city tower block ([21 hours ago](https://www.bbc.com/news/articles/c931l7qxdx5o?at_medium=RSS&at_campaign=rss))
-- Man denies murder charge in triple stabbing attack ([21 hours ago](https://www.bbc.com/news/articles/cly14xnndvpo?at_medium=RSS&at_campaign=rss))
+- Why council docks building has not been sold yet ([1 hours ago](https://www.bbc.com/news/articles/cqlzyd675ypo?at_medium=RSS&at_campaign=rss))
+- 'Extraordinary' Einstein violin could fetch £300k ([3 hours ago](https://www.bbc.com/news/articles/cg42ze6nq6vo?at_medium=RSS&at_campaign=rss))
+- Severn Bridge HGV ban may be lifted by next autumn ([16 hours ago](https://www.bbc.com/news/articles/cx2rp35ypjno?at_medium=RSS&at_campaign=rss))
+- Inquiry into unexpected £1.5m council overspend ([16 hours ago](https://www.bbc.com/news/articles/czdjl2gq34zo?at_medium=RSS&at_campaign=rss))
+- Rail hub to make capacity for hundreds more trains ([19 hours ago](https://www.bbc.com/news/articles/cd72xg7500go?at_medium=RSS&at_campaign=rss))
+- Councillors clash over asylum hotels amid racism row ([20 hours ago](https://gloucesternewscentre.co.uk/councillors-clash-over-asylum-hotels-amid-racism-row/))
+- Golden Valley launches new cyber skills initiative at  House of Commons event ([21 hours ago](https://www.cheltenham.gov.uk/news/article/3047/golden_valley_launches_new_cyber_skills_initiative_at_house_of_commons_event))
+- Locals support plans to demolish city tower block ([22 hours ago](https://www.bbc.com/news/articles/c931l7qxdx5o?at_medium=RSS&at_campaign=rss))
+- Man denies murder charge in triple stabbing attack ([22 hours ago](https://www.bbc.com/news/articles/cly14xnndvpo?at_medium=RSS&at_campaign=rss))
 - 'Being a carer takes a massive toll on your childhood' ([1 days ago](https://www.bbc.com/news/articles/cz7r35q8r3xo?at_medium=RSS&at_campaign=rss))
 - Lion sculptures to be auctioned for cancer appeal ([1 days ago](https://www.bbc.com/news/articles/ce32lk7vk10o?at_medium=RSS&at_campaign=rss))
 - Calls for cuts to adoption support to be reversed ([1 days ago](https://www.bbc.com/news/articles/cgl19k02148o?at_medium=RSS&at_campaign=rss))
@@ -62,7 +62,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - A435 closure to be extended by two weeks ([21 days ago](https://gloucesternewscentre.co.uk/a435-closure-to-be-extended-by-two-weeks/))
 - Seven years waiting for leisure centre at five acres ([21 days ago](https://www.bbc.co.uk/sounds/play/p0ly5g42?at_medium=RSS&at_campaign=rss))
 - Late summer bank holiday waste and recycling collections ([23 days ago](https://www.cheltenham.gov.uk/news/article/3042/late_summer_bank_holiday_waste_and_recycling_collections))
-- Heritage Open Days 2025 ([27 days ago](https://www.cheltenham.gov.uk/news/article/3041/heritage_open_days_2025))
-- Cheltenham families enjoy another successful NCLB Party in the Park ([29 days ago](https://www.cheltenham.gov.uk/news/article/3040/cheltenham_families_enjoy_another_successful_nclb_party_in_the_park))
+- Heritage Open Days 2025 ([28 days ago](https://www.cheltenham.gov.uk/news/article/3041/heritage_open_days_2025))
 
 <!-- news_marker ends -->
