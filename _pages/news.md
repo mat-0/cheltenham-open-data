@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- This Country stars go ghost hunting in new series ([4 hours ago](https://www.bbc.com/news/articles/crrjdjerkp2o?at_medium=RSS&at_campaign=rss))
-- 'Huge amount' of silt keeps lock shut after summer ([6 hours ago](https://www.bbc.com/news/articles/cn0xjqjlpyeo?at_medium=RSS&at_campaign=rss))
-- Unease after village crowned world's most beautiful ([11 hours ago](https://www.bbc.com/news/articles/c9qn445j8qgo?at_medium=RSS&at_campaign=rss))
-- 'Union flags raised' and 'yellow weather warning' ([12 hours ago](https://www.bbc.com/news/articles/cp8jyypg37jo?at_medium=RSS&at_campaign=rss))
-- Why council docks building has not been sold yet ([15 hours ago](https://www.bbc.com/news/articles/cqlzyd675ypo?at_medium=RSS&at_campaign=rss))
-- 'Extraordinary' Einstein violin could fetch £300k ([17 hours ago](https://www.bbc.com/news/articles/cg42ze6nq6vo?at_medium=RSS&at_campaign=rss))
+- This Country stars go ghost hunting in new series ([5 hours ago](https://www.bbc.com/news/articles/crrjdjerkp2o?at_medium=RSS&at_campaign=rss))
+- 'Huge amount' of silt keeps lock shut after summer ([7 hours ago](https://www.bbc.com/news/articles/cn0xjqjlpyeo?at_medium=RSS&at_campaign=rss))
+- Unease after village crowned world's most beautiful ([12 hours ago](https://www.bbc.com/news/articles/c9qn445j8qgo?at_medium=RSS&at_campaign=rss))
+- 'Union flags raised' and 'yellow weather warning' ([13 hours ago](https://www.bbc.com/news/articles/cp8jyypg37jo?at_medium=RSS&at_campaign=rss))
+- Why council docks building has not been sold yet ([16 hours ago](https://www.bbc.com/news/articles/cqlzyd675ypo?at_medium=RSS&at_campaign=rss))
+- 'Extraordinary' Einstein violin could fetch £300k ([18 hours ago](https://www.bbc.com/news/articles/cg42ze6nq6vo?at_medium=RSS&at_campaign=rss))
 - Severn Bridge HGV ban may be lifted by next autumn ([1 days ago](https://www.bbc.com/news/articles/cx2rp35ypjno?at_medium=RSS&at_campaign=rss))
 - Inquiry into unexpected £1.5m council overspend ([1 days ago](https://www.bbc.com/news/articles/czdjl2gq34zo?at_medium=RSS&at_campaign=rss))
 - Rail hub to make capacity for hundreds more trains ([1 days ago](https://www.bbc.com/news/articles/cd72xg7500go?at_medium=RSS&at_campaign=rss))
