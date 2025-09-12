@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Friday, 12 September 2025
 
-- The average temperature today is 14.92˚C,
-- With highs of 16.64˚C and lows of 14.36˚C,
-- It may feel like 14.45˚C with few clouds
+- The average temperature today is 13.67˚C,
+- With highs of 15.95˚C and lows of 13.15˚C,
+- It may feel like 13.26˚C with light rain
 - The wind speed is 5.66m/s and visibility is 10000m
-- The pressure is 1009hPa and humidity is 76%
+- The pressure is 1009hPa and humidity is 83%
 - The sun will rise at 05:38 and set at 18:31
 
 <!-- weather_marker ends -->

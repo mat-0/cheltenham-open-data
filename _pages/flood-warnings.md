@@ -28,8 +28,6 @@ Areas most at risk include the tidal River Avon from Sea Mills to Conham in Bris
 Please be careful along beaches, promenades, coastal footpaths and roads where conditions may be hazardous.
 This message will be updated by 4:00 PM on 11/09/2025, or as the situation changes.
 
-- Warning no longer in force: Severn estuary from Gloucester to Sharpness
--  The Flood Alert for the area has now been removed. Peak tides are now forecast to fall below the flood risk threshold. We continue to monitor the situation.
 - Flood alert: Wye Estuary in Gloucestershire
 -  A flood alert has been issued as a result of an ongoing period of high tides. Flooding to roads and low lying land adjacent the Wye Estuary from Redbrook to Chepstow is expected at the times of high tides, however conditions may apply a few hours either side of the high tides.
 
@@ -41,9 +39,5 @@ Please avoid using low lying footpaths near local watercourses.
 
 This message will be updated by 13:00 on 12/09/25, or as the situation changes.
 
-- Warning no longer in force: Wye Estuary at Brockweir
-- This Flood Warning has been removed. However, a Flood Alert remains in force. Tidal peaks are now beginning to recede. We continue to monitor the situation. Our incident response staff are checking the condition of defences. Please avoid contact with flood water.
-- Warning no longer in force: Wye Estuary at Elmdale, Chepstow
-- This Flood Warning has been removed. The Flood Warning for the area has now been removed. However, a Flood Alert remains in force for the wider area, so flooding may still affect roads and low lying land. We continue to monitor the situation.
 
 <!-- flood_marker ends -->
