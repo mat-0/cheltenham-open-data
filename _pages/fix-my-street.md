@@ -9,6 +9,15 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects -CW10 Potholes problem, 12th September :- [8157309](https://www.fixmystreet.com/report/8157309)
+- TMC - Defects - Other problem, 12th September :- [8157308](https://www.fixmystreet.com/report/8157308)
+- TMC - Defects -CW10 Potholes problem, 12th September :- [8157310](https://www.fixmystreet.com/report/8157310)
+- TMC - Defects -CW10 Potholes problem, 12th September :- [8157306](https://www.fixmystreet.com/report/8157306)
+- Tree on verge causing visibility, 12th September :- [8157191](https://www.fixmystreet.com/report/8157191)
+- TMC - Defects -CW6 Potholes  problem, 12th September :- [8157322](https://www.fixmystreet.com/report/8157322)
+- TMC - Defects -CW6 Potholes  problem, 12th September :- [8157330](https://www.fixmystreet.com/report/8157330)
+- Street light out, 12th September :- [8157078](https://www.fixmystreet.com/report/8157078)
+- TMC - Defects - Vegetation problem, 12th September :- [8157131](https://www.fixmystreet.com/report/8157131)
 - Rework to road surface is worse than before!!, 12th September :- [8156887](https://www.fixmystreet.com/report/8156887)
 - TMC - Defects - Covers, Gratings & Frames problem, 12th September :- [8156758](https://www.fixmystreet.com/report/8156758)
 - TMC - Defects - Other FW6  Surface problem, 12th September :- [8156598](https://www.fixmystreet.com/report/8156598)
@@ -20,14 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other problem, 12th September :- [8156386](https://www.fixmystreet.com/report/8156386)
 - TMC - Defects -CW6 Potholes  problem, 12th September :- [8156384](https://www.fixmystreet.com/report/8156384)
 - TMC - Defects - Covers, Gratings & Frames problem, 12th September :- [8156191](https://www.fixmystreet.com/report/8156191)
-- TMC - Defects - Covers, Gratings & Frames problem, 12th September :- [8156166](https://www.fixmystreet.com/report/8156166)
-- TMC - Defects - Covers, Gratings & Frames problem, 12th September :- [8155950](https://www.fixmystreet.com/report/8155950)
-- Still failure to put up any signage since removing 40mph signs. No 30s have been put up to alert users of new speeds. However a bloody hedge hog sign has appeared. What’s more important the safety of our children crossing the roads or hedgehogs, 12th September :- [8155669](https://www.fixmystreet.com/report/8155669)
-- TMC - Defects - Other FW6  Surface problem, 12th September :- [8155688](https://www.fixmystreet.com/report/8155688)
-- TMC - Defects - Other FW6  Surface problem, 12th September :- [8155687](https://www.fixmystreet.com/report/8155687)
-- TMC - Defects - Other FW6  Surface problem, 12th September :- [8155686](https://www.fixmystreet.com/report/8155686)
-- TMC - Defects - Other FW6  Surface problem, 12th September :- [8155683](https://www.fixmystreet.com/report/8155683)
-- TMC - Defects - Other FW6  Surface problem, 12th September :- [8155685](https://www.fixmystreet.com/report/8155685)
-- TMC - Defects - Other FW6  Surface problem, 12th September :- [8155684](https://www.fixmystreet.com/report/8155684)
 
 <!-- fix_marker ends -->
