@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Construction signs obstruct view of approaching traffic, 12th September :- [8158041](https://www.fixmystreet.com/report/8158041)
+- Multiple potholes in Westbourne Drive where at least a few have been made worse by shoddy repairs . The whole road is a mess with multiple bumps and potholes, 12th September :- [8157919](https://www.fixmystreet.com/report/8157919)
 - Potholes dig out again, 12th September :- [8157787](https://www.fixmystreet.com/report/8157787)
 - Illegal Parking, 12th September :- [8157780](https://www.fixmystreet.com/report/8157780)
 - Drain is completely blocked, 12th September :- [8157680](https://www.fixmystreet.com/report/8157680)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -other CW10 problem, 12th September :- [8157466](https://www.fixmystreet.com/report/8157466)
 - TMC - Defects -other CW10 problem, 12th September :- [8157465](https://www.fixmystreet.com/report/8157465)
 - TMC - Defects -other CW10 problem, 12th September :- [8157464](https://www.fixmystreet.com/report/8157464)
-- TMC - Defects -CW10 Potholes problem, 12th September :- [8157463](https://www.fixmystreet.com/report/8157463)
-- TMC - Defects - Other problem, 12th September :- [8157308](https://www.fixmystreet.com/report/8157308)
 
 <!-- fix_marker ends -->
