@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flooded left hand lane, 13th September :- [8160748](https://www.fixmystreet.com/report/8160748)
+- Flytipped large items, 13th September :- [8160727](https://www.fixmystreet.com/report/8160727)
+- Flytipped items and trolley, 13th September :- [8160721](https://www.fixmystreet.com/report/8160721)
 - Fly tipped rubbish, 13th September :- [8160503](https://www.fixmystreet.com/report/8160503)
 - Lakes forming in cycleway, 13th September :- [8160461](https://www.fixmystreet.com/report/8160461)
 - Volunteer litter pick bags ready for collection (13th September), 13th September :- [8160304](https://www.fixmystreet.com/report/8160304)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW10 Potholes problem, 12th September :- [8157648](https://www.fixmystreet.com/report/8157648)
 - TMC - Defects -CW10 Potholes problem, 12th September :- [8157647](https://www.fixmystreet.com/report/8157647)
 - TMC - Defects -CW10 Potholes problem, 12th September :- [8157646](https://www.fixmystreet.com/report/8157646)
-- TMC - Defects -CW6 Potholes  problem, 12th September :- [8157645](https://www.fixmystreet.com/report/8157645)
-- TMC - Defects -other CW6 problem, 12th September :- [8157654](https://www.fixmystreet.com/report/8157654)
-- TMC - Defects -CW6 Potholes  problem, 12th September :- [8157653](https://www.fixmystreet.com/report/8157653)
 
 <!-- fix_marker ends -->
