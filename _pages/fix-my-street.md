@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Shopping trolly, 13th September :- [8161131](https://www.fixmystreet.com/report/8161131)
 - Flooded left hand lane, 13th September :- [8160748](https://www.fixmystreet.com/report/8160748)
 - Flytipped large items, 13th September :- [8160727](https://www.fixmystreet.com/report/8160727)
 - Flytipped items and trolley, 13th September :- [8160721](https://www.fixmystreet.com/report/8160721)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW10 Potholes problem, 12th September :- [8157649](https://www.fixmystreet.com/report/8157649)
 - TMC - Defects -CW10 Potholes problem, 12th September :- [8157648](https://www.fixmystreet.com/report/8157648)
 - TMC - Defects -CW10 Potholes problem, 12th September :- [8157647](https://www.fixmystreet.com/report/8157647)
-- TMC - Defects -CW10 Potholes problem, 12th September :- [8157646](https://www.fixmystreet.com/report/8157646)
 
 <!-- fix_marker ends -->
