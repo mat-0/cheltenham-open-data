@@ -19,9 +19,5 @@ This project fetches flood warning data for the Gloucestershire area and publish
 ## Latest
 
 <!-- flood_marker starts -->
-- Warning no longer in force: Tidal River Avon at Bristol, Pill and Shirehampton
--  
-- Warning no longer in force: Wye Estuary in Gloucestershire
--  The Flood Alert for the area has now been removed. Peak tides are now forecast to fall below the flood risk threshold. We continue to monitor the situation.
 
 <!-- flood_marker ends -->
