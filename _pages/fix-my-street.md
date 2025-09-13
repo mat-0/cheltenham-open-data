@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dangerous traffic on Church Street, Charlton Kings, 13th September :- [8161451](https://www.fixmystreet.com/report/8161451)
 - Shopping trolly, 13th September :- [8161131](https://www.fixmystreet.com/report/8161131)
 - Flooded left hand lane, 13th September :- [8160748](https://www.fixmystreet.com/report/8160748)
 - Flytipped large items, 13th September :- [8160727](https://www.fixmystreet.com/report/8160727)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 12th September :- [8157650](https://www.fixmystreet.com/report/8157650)
 - TMC - Defects -CW10 Potholes problem, 12th September :- [8157649](https://www.fixmystreet.com/report/8157649)
 - TMC - Defects -CW10 Potholes problem, 12th September :- [8157648](https://www.fixmystreet.com/report/8157648)
-- TMC - Defects -CW10 Potholes problem, 12th September :- [8157647](https://www.fixmystreet.com/report/8157647)
 
 <!-- fix_marker ends -->
