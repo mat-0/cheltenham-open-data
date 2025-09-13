@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Awards celebrate volunteers, neighbours and a dog ([4 hours ago](https://www.bbc.com/news/articles/c80gev9z249o?at_medium=RSS&at_campaign=rss))
-- Swing bridge reopens after emergency repairs ([14 hours ago](https://www.bbc.com/news/articles/cly63xp2rj3o?at_medium=RSS&at_campaign=rss))
-- Brass band 'excited' for national competition ([16 hours ago](https://www.bbc.com/news/articles/ced5nevz032o?at_medium=RSS&at_campaign=rss))
-- University opens doors to celebrate 180th birthday ([16 hours ago](https://www.bbc.com/news/articles/cq8eky13dk3o?at_medium=RSS&at_campaign=rss))
-- Sepsis survivor to finish 102-mile Cotswold walk ([16 hours ago](https://www.bbc.com/news/articles/crkje15x81eo?at_medium=RSS&at_campaign=rss))
+- Awards celebrate volunteers, neighbours and a dog ([5 hours ago](https://www.bbc.com/news/articles/c80gev9z249o?at_medium=RSS&at_campaign=rss))
+- Swing bridge reopens after emergency repairs ([15 hours ago](https://www.bbc.com/news/articles/cly63xp2rj3o?at_medium=RSS&at_campaign=rss))
+- Brass band 'excited' for national competition ([17 hours ago](https://www.bbc.com/news/articles/ced5nevz032o?at_medium=RSS&at_campaign=rss))
+- University opens doors to celebrate 180th birthday ([17 hours ago](https://www.bbc.com/news/articles/cq8eky13dk3o?at_medium=RSS&at_campaign=rss))
+- Sepsis survivor to finish 102-mile Cotswold walk ([17 hours ago](https://www.bbc.com/news/articles/crkje15x81eo?at_medium=RSS&at_campaign=rss))
 - This Country stars go ghost hunting in new series ([1 days ago](https://www.bbc.com/news/articles/crrjdjerkp2o?at_medium=RSS&at_campaign=rss))
 - 'Huge amount' of silt keeps lock shut after summer ([1 days ago](https://www.bbc.com/news/articles/cn0xjqjlpyeo?at_medium=RSS&at_campaign=rss))
 - Unease after village crowned world's most beautiful ([1 days ago](https://www.bbc.com/news/articles/c9qn445j8qgo?at_medium=RSS&at_campaign=rss))
