@@ -12,13 +12,14 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Brass band 'excited' for national competition ([1 hours ago](https://www.bbc.com/news/articles/ced5nevz032o?at_medium=RSS&at_campaign=rss))
-- University opens doors to celebrate 180th birthday ([1 hours ago](https://www.bbc.com/news/articles/cq8eky13dk3o?at_medium=RSS&at_campaign=rss))
-- Sepsis survivor to finish 102-mile Cotswold walk ([1 hours ago](https://www.bbc.com/news/articles/crkje15x81eo?at_medium=RSS&at_campaign=rss))
-- This Country stars go ghost hunting in new series ([13 hours ago](https://www.bbc.com/news/articles/crrjdjerkp2o?at_medium=RSS&at_campaign=rss))
-- 'Huge amount' of silt keeps lock shut after summer ([15 hours ago](https://www.bbc.com/news/articles/cn0xjqjlpyeo?at_medium=RSS&at_campaign=rss))
-- Unease after village crowned world's most beautiful ([20 hours ago](https://www.bbc.com/news/articles/c9qn445j8qgo?at_medium=RSS&at_campaign=rss))
-- 'Union flags raised' and 'yellow weather warning' ([21 hours ago](https://www.bbc.com/news/articles/cp8jyypg37jo?at_medium=RSS&at_campaign=rss))
+- Swing bridge reopens after emergency repairs ([3 minutes ago](https://www.bbc.com/news/articles/cly63xp2rj3o?at_medium=RSS&at_campaign=rss))
+- Brass band 'excited' for national competition ([2 hours ago](https://www.bbc.com/news/articles/ced5nevz032o?at_medium=RSS&at_campaign=rss))
+- University opens doors to celebrate 180th birthday ([2 hours ago](https://www.bbc.com/news/articles/cq8eky13dk3o?at_medium=RSS&at_campaign=rss))
+- Sepsis survivor to finish 102-mile Cotswold walk ([2 hours ago](https://www.bbc.com/news/articles/crkje15x81eo?at_medium=RSS&at_campaign=rss))
+- This Country stars go ghost hunting in new series ([14 hours ago](https://www.bbc.com/news/articles/crrjdjerkp2o?at_medium=RSS&at_campaign=rss))
+- 'Huge amount' of silt keeps lock shut after summer ([16 hours ago](https://www.bbc.com/news/articles/cn0xjqjlpyeo?at_medium=RSS&at_campaign=rss))
+- Unease after village crowned world's most beautiful ([21 hours ago](https://www.bbc.com/news/articles/c9qn445j8qgo?at_medium=RSS&at_campaign=rss))
+- 'Union flags raised' and 'yellow weather warning' ([22 hours ago](https://www.bbc.com/news/articles/cp8jyypg37jo?at_medium=RSS&at_campaign=rss))
 - Why council docks building has not been sold yet ([1 days ago](https://www.bbc.com/news/articles/cqlzyd675ypo?at_medium=RSS&at_campaign=rss))
 - 'Extraordinary' Einstein violin could fetch £300k ([1 days ago](https://www.bbc.com/news/articles/cg42ze6nq6vo?at_medium=RSS&at_campaign=rss))
 - Severn Bridge HGV ban may be lifted by next autumn ([1 days ago](https://www.bbc.com/news/articles/cx2rp35ypjno?at_medium=RSS&at_campaign=rss))
@@ -31,7 +32,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - 'Being a carer takes a massive toll on your childhood' ([2 days ago](https://www.bbc.com/news/articles/cz7r35q8r3xo?at_medium=RSS&at_campaign=rss))
 - Lion sculptures to be auctioned for cancer appeal ([2 days ago](https://www.bbc.com/news/articles/ce32lk7vk10o?at_medium=RSS&at_campaign=rss))
 - Action taken to tackle rise in ‘abandoned’ e-scooters in county ([2 days ago](https://gloucesternewscentre.co.uk/action-taken-to-tackle-rise-in-abandoned-e-scooters-in-county/))
-- Dog walker 'grabbed by throat' by motorcyclist ([2 days ago](https://www.bbc.com/news/articles/ckgennww950o?at_medium=RSS&at_campaign=rss))
 - Registration for Charity’s First Ever Reindeer Run is Live! ([3 days ago](https://gloucesternewscentre.co.uk/registration-for-charitys-first-ever-reindeer-run-is-live/))
 - Sustainability success stories: How three businesses thrived with CheltenhamZero grant funding ([3 days ago](https://www.cheltenham.gov.uk/news/article/3046/sustainability_success_stories_how_three_businesses_thrived_with_cheltenhamzero_grant_funding))
 - MP calls on Cavendish House owners to create ‘landmark Cheltenham can be proud of’ ([4 days ago](https://gloucesternewscentre.co.uk/mp-calls-on-cavendish-house-owners-to-create-landmark-cheltenham-can-be-proud-of/))
@@ -62,6 +62,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - A435 closure to be extended by two weeks ([22 days ago](https://gloucesternewscentre.co.uk/a435-closure-to-be-extended-by-two-weeks/))
 - Seven years waiting for leisure centre at five acres ([22 days ago](https://www.bbc.co.uk/sounds/play/p0ly5g42?at_medium=RSS&at_campaign=rss))
 - Late summer bank holiday waste and recycling collections ([24 days ago](https://www.cheltenham.gov.uk/news/article/3042/late_summer_bank_holiday_waste_and_recycling_collections))
-- Heritage Open Days 2025 ([28 days ago](https://www.cheltenham.gov.uk/news/article/3041/heritage_open_days_2025))
+- Heritage Open Days 2025 ([29 days ago](https://www.cheltenham.gov.uk/news/article/3041/heritage_open_days_2025))
 
 <!-- news_marker ends -->
