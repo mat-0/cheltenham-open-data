@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Under ground drain blocked water coming up trough tarmac flooding field, 13th September :- [8159866](https://www.fixmystreet.com/report/8159866)
 - Sharp remnants of a snapped off sign, 13th September :- [8159322](https://www.fixmystreet.com/report/8159322)
 - Red paint on roundabout, 12th September :- [8158741](https://www.fixmystreet.com/report/8158741)
 - Construction signs obstruct view of approaching traffic, 12th September :- [8158041](https://www.fixmystreet.com/report/8158041)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -other CW10 problem, 12th September :- [8157472](https://www.fixmystreet.com/report/8157472)
 - TMC - Defects -CW10 Potholes problem, 12th September :- [8157468](https://www.fixmystreet.com/report/8157468)
 - TMC - Defects -CW10 Potholes problem, 12th September :- [8157467](https://www.fixmystreet.com/report/8157467)
-- TMC - Defects -other CW10 problem, 12th September :- [8157466](https://www.fixmystreet.com/report/8157466)
 
 <!-- fix_marker ends -->
