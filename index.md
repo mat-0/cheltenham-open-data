@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Saturday, 13 September 2025
 
-- The average temperature today is 10.92˚C,
-- With highs of 11.64˚C and lows of 9.83˚C,
-- It may feel like 10.37˚C with scattered clouds
-- The wind speed is 2.68m/s and visibility is 10000m
-- The pressure is 1007hPa and humidity is 88%
+- The average temperature today is 12.63˚C,
+- With highs of 13.62˚C and lows of 11.75˚C,
+- It may feel like 12.14˚C with few clouds
+- The wind speed is 4.12m/s and visibility is 10000m
+- The pressure is 1007hPa and humidity is 84%
 - The sun will rise at 05:39 and set at 18:28
 
 <!-- weather_marker ends -->
