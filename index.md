@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Sunday, 14 September 2025
 
-- The average temperature today is 12.59˚C,
-- With highs of 13.32˚C and lows of 12.05˚C,
-- It may feel like 11.99˚C with clear sky
-- The wind speed is 4.12m/s and visibility is 10000m
-- The pressure is 1010hPa and humidity is 80%
+- The average temperature today is 12.85˚C,
+- With highs of 13.17˚C and lows of 12.61˚C,
+- It may feel like 12.31˚C with broken clouds
+- The wind speed is 4.63m/s and visibility is 10000m
+- The pressure is 1009hPa and humidity is 81%
 - The sun will rise at 05:41 and set at 18:26
 
 <!-- weather_marker ends -->

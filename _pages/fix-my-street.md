@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Poor repair of granite sets, 14th September :- [8162328](https://www.fixmystreet.com/report/8162328)
+- Huge potholes all along this road, 14th September :- [8162289](https://www.fixmystreet.com/report/8162289)
 - Dangerous graffiti, 14th September :- [8162213](https://www.fixmystreet.com/report/8162213)
 - Fly tipping at the end of the lane, 14th September :- [8162201](https://www.fixmystreet.com/report/8162201)
 - Bins overflowing, 14th September :- [8162191](https://www.fixmystreet.com/report/8162191)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Red paint on roundabout, 12th September :- [8158741](https://www.fixmystreet.com/report/8158741)
 - Construction signs obstruct view of approaching traffic, 12th September :- [8158041](https://www.fixmystreet.com/report/8158041)
 - Multiple potholes in Westbourne Drive where at least a few have been made worse by shoddy repairs . The whole road is a mess with multiple bumps and potholes, 12th September :- [8157919](https://www.fixmystreet.com/report/8157919)
-- Potholes dig out again, 12th September :- [8157787](https://www.fixmystreet.com/report/8157787)
-- Illegal Parking, 12th September :- [8157780](https://www.fixmystreet.com/report/8157780)
 
 <!-- fix_marker ends -->
