@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Indentations in the road from a previous repair., 14th September :- [8162665](https://www.fixmystreet.com/report/8162665)
+- Loose gravel and potholes, 14th September :- [8162592](https://www.fixmystreet.com/report/8162592)
+- Road is uneven, 14th September :- [8162552](https://www.fixmystreet.com/report/8162552)
+- Foul water going down Mill street as far as Church Court Cottages from Southam Road, 14th September :- [8162501](https://www.fixmystreet.com/report/8162501)
 - Poor repair of granite sets, 14th September :- [8162328](https://www.fixmystreet.com/report/8162328)
 - Huge potholes all along this road, 14th September :- [8162289](https://www.fixmystreet.com/report/8162289)
 - Dangerous graffiti, 14th September :- [8162213](https://www.fixmystreet.com/report/8162213)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Volunteer litter pick bags ready for collection (13th September), 13th September :- [8160304](https://www.fixmystreet.com/report/8160304)
 - Top surface coming away causing a trip hazard, 13th September :- [8160216](https://www.fixmystreet.com/report/8160216)
 - Under ground drain blocked water coming up trough tarmac flooding field, 13th September :- [8159866](https://www.fixmystreet.com/report/8159866)
-- Sharp remnants of a snapped off sign, 13th September :- [8159322](https://www.fixmystreet.com/report/8159322)
-- Red paint on roundabout, 12th September :- [8158741](https://www.fixmystreet.com/report/8158741)
-- Construction signs obstruct view of approaching traffic, 12th September :- [8158041](https://www.fixmystreet.com/report/8158041)
-- Multiple potholes in Westbourne Drive where at least a few have been made worse by shoddy repairs . The whole road is a mess with multiple bumps and potholes, 12th September :- [8157919](https://www.fixmystreet.com/report/8157919)
 
 <!-- fix_marker ends -->
