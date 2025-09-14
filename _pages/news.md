@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- 'Harness Red Roses impact to inspire more girls' ([2 hours ago](https://www.bbc.com/news/articles/cx2xgqq17jyo?at_medium=RSS&at_campaign=rss))
-- Gloucestershire in Pictures: Big cats and black skies ([6 hours ago](https://www.bbc.com/news/articles/cwyne23yl4xo?at_medium=RSS&at_campaign=rss))
-- 'Missing Jack reward' and 'TikTok tourists' ([6 hours ago](https://www.bbc.com/news/articles/c9wd50wn9x2o?at_medium=RSS&at_campaign=rss))
-- Awards celebrate volunteers, neighbours and a dog ([18 hours ago](https://www.bbc.com/news/articles/c80gev9z249o?at_medium=RSS&at_campaign=rss))
+- 'Harness Red Roses impact to inspire more girls' ([3 hours ago](https://www.bbc.com/news/articles/cx2xgqq17jyo?at_medium=RSS&at_campaign=rss))
+- Gloucestershire in Pictures: Big cats and black skies ([7 hours ago](https://www.bbc.com/news/articles/cwyne23yl4xo?at_medium=RSS&at_campaign=rss))
+- 'Missing Jack reward' and 'TikTok tourists' ([7 hours ago](https://www.bbc.com/news/articles/c9wd50wn9x2o?at_medium=RSS&at_campaign=rss))
+- Awards celebrate volunteers, neighbours and a dog ([19 hours ago](https://www.bbc.com/news/articles/c80gev9z249o?at_medium=RSS&at_campaign=rss))
 - Swing bridge reopens after emergency repairs ([1 days ago](https://www.bbc.com/news/articles/cly63xp2rj3o?at_medium=RSS&at_campaign=rss))
 - Brass band 'excited' for national competition ([1 days ago](https://www.bbc.com/news/articles/ced5nevz032o?at_medium=RSS&at_campaign=rss))
 - University opens doors to celebrate 180th birthday ([1 days ago](https://www.bbc.com/news/articles/cq8eky13dk3o?at_medium=RSS&at_campaign=rss))
@@ -28,7 +28,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - 'Extraordinary' Einstein violin could fetch £300k ([2 days ago](https://www.bbc.com/news/articles/cg42ze6nq6vo?at_medium=RSS&at_campaign=rss))
 - Severn Bridge HGV ban may be lifted by next autumn ([2 days ago](https://www.bbc.com/news/articles/cx2rp35ypjno?at_medium=RSS&at_campaign=rss))
 - Inquiry into unexpected £1.5m council overspend ([2 days ago](https://www.bbc.com/news/articles/czdjl2gq34zo?at_medium=RSS&at_campaign=rss))
-- Rail hub to make capacity for hundreds more trains ([2 days ago](https://www.bbc.com/news/articles/cd72xg7500go?at_medium=RSS&at_campaign=rss))
+- Rail hub to make capacity for hundreds more trains ([3 days ago](https://www.bbc.com/news/articles/cd72xg7500go?at_medium=RSS&at_campaign=rss))
 - Councillors clash over asylum hotels amid racism row ([3 days ago](https://gloucesternewscentre.co.uk/councillors-clash-over-asylum-hotels-amid-racism-row/))
 - Golden Valley launches new cyber skills initiative at  House of Commons event ([3 days ago](https://www.cheltenham.gov.uk/news/article/3047/golden_valley_launches_new_cyber_skills_initiative_at_house_of_commons_event))
 - Action taken to tackle rise in ‘abandoned’ e-scooters in county ([3 days ago](https://gloucesternewscentre.co.uk/action-taken-to-tackle-rise-in-abandoned-e-scooters-in-county/))
