@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Gloucestershire in Pictures: Big cats and black skies ([38 minutes ago](https://www.bbc.com/news/articles/cwyne23yl4xo?at_medium=RSS&at_campaign=rss))
-- 'Missing Jack reward' and 'TikTok tourists' ([41 minutes ago](https://www.bbc.com/news/articles/c9wd50wn9x2o?at_medium=RSS&at_campaign=rss))
-- Awards celebrate volunteers, neighbours and a dog ([12 hours ago](https://www.bbc.com/news/articles/c80gev9z249o?at_medium=RSS&at_campaign=rss))
-- Swing bridge reopens after emergency repairs ([22 hours ago](https://www.bbc.com/news/articles/cly63xp2rj3o?at_medium=RSS&at_campaign=rss))
+- Gloucestershire in Pictures: Big cats and black skies ([1 hours ago](https://www.bbc.com/news/articles/cwyne23yl4xo?at_medium=RSS&at_campaign=rss))
+- 'Missing Jack reward' and 'TikTok tourists' ([1 hours ago](https://www.bbc.com/news/articles/c9wd50wn9x2o?at_medium=RSS&at_campaign=rss))
+- Awards celebrate volunteers, neighbours and a dog ([13 hours ago](https://www.bbc.com/news/articles/c80gev9z249o?at_medium=RSS&at_campaign=rss))
+- Swing bridge reopens after emergency repairs ([23 hours ago](https://www.bbc.com/news/articles/cly63xp2rj3o?at_medium=RSS&at_campaign=rss))
 - Brass band 'excited' for national competition ([1 days ago](https://www.bbc.com/news/articles/ced5nevz032o?at_medium=RSS&at_campaign=rss))
 - University opens doors to celebrate 180th birthday ([1 days ago](https://www.bbc.com/news/articles/cq8eky13dk3o?at_medium=RSS&at_campaign=rss))
 - Sepsis survivor to finish 102-mile Cotswold walk ([1 days ago](https://www.bbc.com/news/articles/crkje15x81eo?at_medium=RSS&at_campaign=rss))
@@ -23,7 +23,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - 'Huge amount' of silt keeps lock shut after summer ([1 days ago](https://www.bbc.com/news/articles/cn0xjqjlpyeo?at_medium=RSS&at_campaign=rss))
 - Unease after village crowned world's most beautiful ([1 days ago](https://www.bbc.com/news/articles/c9qn445j8qgo?at_medium=RSS&at_campaign=rss))
 - 'Union flags raised' and 'yellow weather warning' ([1 days ago](https://www.bbc.com/news/articles/cp8jyypg37jo?at_medium=RSS&at_campaign=rss))
-- Why council docks building has not been sold yet ([1 days ago](https://www.bbc.com/news/articles/cqlzyd675ypo?at_medium=RSS&at_campaign=rss))
+- Why council docks building has not been sold yet ([2 days ago](https://www.bbc.com/news/articles/cqlzyd675ypo?at_medium=RSS&at_campaign=rss))
 - 'Extraordinary' Einstein violin could fetch £300k ([2 days ago](https://www.bbc.com/news/articles/cg42ze6nq6vo?at_medium=RSS&at_campaign=rss))
 - Severn Bridge HGV ban may be lifted by next autumn ([2 days ago](https://www.bbc.com/news/articles/cx2rp35ypjno?at_medium=RSS&at_campaign=rss))
 - Inquiry into unexpected £1.5m council overspend ([2 days ago](https://www.bbc.com/news/articles/czdjl2gq34zo?at_medium=RSS&at_campaign=rss))
