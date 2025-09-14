@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Gloucestershire in Pictures: Big cats and black skies ([2 hours ago](https://www.bbc.com/news/articles/cwyne23yl4xo?at_medium=RSS&at_campaign=rss))
-- 'Missing Jack reward' and 'TikTok tourists' ([2 hours ago](https://www.bbc.com/news/articles/c9wd50wn9x2o?at_medium=RSS&at_campaign=rss))
-- Awards celebrate volunteers, neighbours and a dog ([14 hours ago](https://www.bbc.com/news/articles/c80gev9z249o?at_medium=RSS&at_campaign=rss))
+- Gloucestershire in Pictures: Big cats and black skies ([3 hours ago](https://www.bbc.com/news/articles/cwyne23yl4xo?at_medium=RSS&at_campaign=rss))
+- 'Missing Jack reward' and 'TikTok tourists' ([3 hours ago](https://www.bbc.com/news/articles/c9wd50wn9x2o?at_medium=RSS&at_campaign=rss))
+- Awards celebrate volunteers, neighbours and a dog ([15 hours ago](https://www.bbc.com/news/articles/c80gev9z249o?at_medium=RSS&at_campaign=rss))
 - Swing bridge reopens after emergency repairs ([1 days ago](https://www.bbc.com/news/articles/cly63xp2rj3o?at_medium=RSS&at_campaign=rss))
 - Brass band 'excited' for national competition ([1 days ago](https://www.bbc.com/news/articles/ced5nevz032o?at_medium=RSS&at_campaign=rss))
 - University opens doors to celebrate 180th birthday ([1 days ago](https://www.bbc.com/news/articles/cq8eky13dk3o?at_medium=RSS&at_campaign=rss))
@@ -60,7 +60,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Go-ahead for new Scout hut in Leckhampton ([22 days ago](https://gloucesternewscentre.co.uk/go-ahead-for-new-scout-hut-in-leckhampton/))
 - Go-ahead for new stables amid fears its ‘aim is to block view to future development behind it’ ([22 days ago](https://gloucesternewscentre.co.uk/go-ahead-for-new-stables-amid-fears-its-aim-is-to-block-view-to-future-development-behind-it/))
 - A435 closure to be extended by two weeks ([23 days ago](https://gloucesternewscentre.co.uk/a435-closure-to-be-extended-by-two-weeks/))
-- Seven years waiting for leisure centre at five acres ([23 days ago](https://www.bbc.co.uk/sounds/play/p0ly5g42?at_medium=RSS&at_campaign=rss))
+- Seven years waiting for leisure centre at five acres ([24 days ago](https://www.bbc.co.uk/sounds/play/p0ly5g42?at_medium=RSS&at_campaign=rss))
 - Late summer bank holiday waste and recycling collections ([25 days ago](https://www.cheltenham.gov.uk/news/article/3042/late_summer_bank_holiday_waste_and_recycling_collections))
 
 <!-- news_marker ends -->

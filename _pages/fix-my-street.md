@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dangerous graffiti, 14th September :- [8162213](https://www.fixmystreet.com/report/8162213)
+- Fly tipping at the end of the lane, 14th September :- [8162201](https://www.fixmystreet.com/report/8162201)
+- Bins overflowing, 14th September :- [8162191](https://www.fixmystreet.com/report/8162191)
 - Street light out on lobleys drive / yew tree, 14th September :- [8161800](https://www.fixmystreet.com/report/8161800)
 - Dangerous traffic on Church Street, Charlton Kings, 13th September :- [8161451](https://www.fixmystreet.com/report/8161451)
 - Shopping trolly, 13th September :- [8161131](https://www.fixmystreet.com/report/8161131)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Multiple potholes in Westbourne Drive where at least a few have been made worse by shoddy repairs . The whole road is a mess with multiple bumps and potholes, 12th September :- [8157919](https://www.fixmystreet.com/report/8157919)
 - Potholes dig out again, 12th September :- [8157787](https://www.fixmystreet.com/report/8157787)
 - Illegal Parking, 12th September :- [8157780](https://www.fixmystreet.com/report/8157780)
-- Drain is completely blocked, 12th September :- [8157680](https://www.fixmystreet.com/report/8157680)
-- TMC - Defects -CW6 Potholes  problem, 12th September :- [8157650](https://www.fixmystreet.com/report/8157650)
-- TMC - Defects -CW10 Potholes problem, 12th September :- [8157649](https://www.fixmystreet.com/report/8157649)
 
 <!-- fix_marker ends -->
