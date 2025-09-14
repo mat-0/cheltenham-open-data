@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large wooden structure built over public pavement blocking access, 14th September :- [8164024](https://www.fixmystreet.com/report/8164024)
 - Indentations in the road from a previous repair., 14th September :- [8162665](https://www.fixmystreet.com/report/8162665)
 - Loose gravel and potholes, 14th September :- [8162592](https://www.fixmystreet.com/report/8162592)
 - Road is uneven, 14th September :- [8162552](https://www.fixmystreet.com/report/8162552)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Lakes forming in cycleway, 13th September :- [8160461](https://www.fixmystreet.com/report/8160461)
 - Volunteer litter pick bags ready for collection (13th September), 13th September :- [8160304](https://www.fixmystreet.com/report/8160304)
 - Top surface coming away causing a trip hazard, 13th September :- [8160216](https://www.fixmystreet.com/report/8160216)
-- Under ground drain blocked water coming up trough tarmac flooding field, 13th September :- [8159866](https://www.fixmystreet.com/report/8159866)
 
 <!-- fix_marker ends -->
