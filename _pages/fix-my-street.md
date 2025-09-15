@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Huge Pothole near Sudeley Castle, 15th September :- [8165782](https://www.fixmystreet.com/report/8165782)
+- Constantly running water, 15th September :- [8165679](https://www.fixmystreet.com/report/8165679)
+- Other damage to pavement i.e. cobbles, raised mound/surface problem, 15th September :- [8165584](https://www.fixmystreet.com/report/8165584)
 - This drain on the junction with the no-through-road in Whittington has blocked. We have dug out some material but it is too deep for us to clear and is causing a problem for the heavy traffic flow caused by the closure of the London Road in Charlton Kings., 15th September :- [8165467](https://www.fixmystreet.com/report/8165467)
 - TMC - Defects -CW6 Potholes  problem, 15th September :- [8165402](https://www.fixmystreet.com/report/8165402)
 - TMC - Defects -CW6 Potholes  problem, 15th September :- [8165394](https://www.fixmystreet.com/report/8165394)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Defaced/abused road markings, 14th September :- [8164235](https://www.fixmystreet.com/report/8164235)
 - Large wooden structure built over public pavement blocking access, 14th September :- [8164024](https://www.fixmystreet.com/report/8164024)
 - Indentations in the road from a previous repair., 14th September :- [8162665](https://www.fixmystreet.com/report/8162665)
-- Loose gravel and potholes, 14th September :- [8162592](https://www.fixmystreet.com/report/8162592)
-- Road is uneven, 14th September :- [8162552](https://www.fixmystreet.com/report/8162552)
-- Foul water going down Mill street as far as Church Court Cottages from Southam Road, 14th September :- [8162501](https://www.fixmystreet.com/report/8162501)
 
 <!-- fix_marker ends -->
