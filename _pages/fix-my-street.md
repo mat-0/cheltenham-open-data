@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree overhanging cycle path on way down to underpass, 15th September :- [8164760](https://www.fixmystreet.com/report/8164760)
+- Gravel and rubble all over road, 15th September :- [8164755](https://www.fixmystreet.com/report/8164755)
+- Tree branches hanging over cycleway causing cyclists to hit their helmets on them, 15th September :- [8164753](https://www.fixmystreet.com/report/8164753)
 - Street lights not working, 15th September :- [8164371](https://www.fixmystreet.com/report/8164371)
 - Defaced/abused road markings, 14th September :- [8164235](https://www.fixmystreet.com/report/8164235)
 - Large wooden structure built over public pavement blocking access, 14th September :- [8164024](https://www.fixmystreet.com/report/8164024)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Shopping trolly, 13th September :- [8161131](https://www.fixmystreet.com/report/8161131)
 - Flooded left hand lane, 13th September :- [8160748](https://www.fixmystreet.com/report/8160748)
 - Flytipped large items, 13th September :- [8160727](https://www.fixmystreet.com/report/8160727)
-- Flytipped items and trolley, 13th September :- [8160721](https://www.fixmystreet.com/report/8160721)
-- Fly tipped rubbish, 13th September :- [8160503](https://www.fixmystreet.com/report/8160503)
-- Lakes forming in cycleway, 13th September :- [8160461](https://www.fixmystreet.com/report/8160461)
 
 <!-- fix_marker ends -->
