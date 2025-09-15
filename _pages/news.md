@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Man completes 3,700 mile walk in teenager's memory ([9 hours ago](https://www.bbc.com/news/articles/c9304x9rr99o?at_medium=RSS&at_campaign=rss))
-- 'Harness Red Roses impact to inspire more girls' ([14 hours ago](https://www.bbc.com/news/articles/cx2xgqq17jyo?at_medium=RSS&at_campaign=rss))
-- Gloucestershire in Pictures: Big cats and black skies ([19 hours ago](https://www.bbc.com/news/articles/cwyne23yl4xo?at_medium=RSS&at_campaign=rss))
-- 'Missing Jack reward' and 'TikTok tourists' ([19 hours ago](https://www.bbc.com/news/articles/c9wd50wn9x2o?at_medium=RSS&at_campaign=rss))
+- Man completes 3,700 mile walk in teenager's memory ([10 hours ago](https://www.bbc.com/news/articles/c9304x9rr99o?at_medium=RSS&at_campaign=rss))
+- 'Harness Red Roses impact to inspire more girls' ([15 hours ago](https://www.bbc.com/news/articles/cx2xgqq17jyo?at_medium=RSS&at_campaign=rss))
+- Gloucestershire in Pictures: Big cats and black skies ([20 hours ago](https://www.bbc.com/news/articles/cwyne23yl4xo?at_medium=RSS&at_campaign=rss))
+- 'Missing Jack reward' and 'TikTok tourists' ([20 hours ago](https://www.bbc.com/news/articles/c9wd50wn9x2o?at_medium=RSS&at_campaign=rss))
 - Awards celebrate volunteers, neighbours and a dog ([1 days ago](https://www.bbc.com/news/articles/c80gev9z249o?at_medium=RSS&at_campaign=rss))
 - Swing bridge reopens after emergency repairs ([1 days ago](https://www.bbc.com/news/articles/cly63xp2rj3o?at_medium=RSS&at_campaign=rss))
 - Brass band 'excited' for national competition ([1 days ago](https://www.bbc.com/news/articles/ced5nevz032o?at_medium=RSS&at_campaign=rss))
