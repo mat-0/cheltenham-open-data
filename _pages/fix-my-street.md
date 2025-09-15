@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Signs & Street Furniture problem, 15th September :- [8164990](https://www.fixmystreet.com/report/8164990)
 - Tree overhanging cycle path on way down to underpass, 15th September :- [8164760](https://www.fixmystreet.com/report/8164760)
 - Gravel and rubble all over road, 15th September :- [8164755](https://www.fixmystreet.com/report/8164755)
 - Tree branches hanging over cycleway causing cyclists to hit their helmets on them, 15th September :- [8164753](https://www.fixmystreet.com/report/8164753)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Dangerous traffic on Church Street, Charlton Kings, 13th September :- [8161451](https://www.fixmystreet.com/report/8161451)
 - Shopping trolly, 13th September :- [8161131](https://www.fixmystreet.com/report/8161131)
 - Flooded left hand lane, 13th September :- [8160748](https://www.fixmystreet.com/report/8160748)
-- Flytipped large items, 13th September :- [8160727](https://www.fixmystreet.com/report/8160727)
 
 <!-- fix_marker ends -->
