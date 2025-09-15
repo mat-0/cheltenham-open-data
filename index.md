@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Monday, 15 September 2025
 
-- The average temperature today is 13.59˚C,
-- With highs of 14.43˚C and lows of 13.15˚C,
-- It may feel like 13.2˚C with overcast clouds
-- The wind speed is 7.6m/s and visibility is 10000m
-- The pressure is 998hPa and humidity is 84%
+- The average temperature today is 13.57˚C,
+- With highs of 14.43˚C and lows of 13.16˚C,
+- It may feel like 13.15˚C with overcast clouds
+- The wind speed is 5.36m/s and visibility is 10000m
+- The pressure is 999hPa and humidity is 83%
 - The sun will rise at 05:43 and set at 18:24
 
 <!-- weather_marker ends -->
