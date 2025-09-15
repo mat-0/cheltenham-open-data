@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Low hanging branches on trees which are at face level and branches sprouting out of the base of many trees on arle road which is restricting a view of traffic movement when trying to ge off driveways along the road both ways. it needs sorting ASAP before a child on their way to school is killed or injured.P, 15th September :- [8169447](https://www.fixmystreet.com/report/8169447)
 - Pedestrian crossing, 15th September :- [8169085](https://www.fixmystreet.com/report/8169085)
 - The tarmac in this area has gone showing gravel, 15th September :- [8168494](https://www.fixmystreet.com/report/8168494)
 - St George's Flag painted badly on the roundabout., 15th September :- [8168464](https://www.fixmystreet.com/report/8168464)
@@ -17,17 +18,16 @@ permalink: /fix-my-street
 - Crossing not working, 15th September :- [8168133](https://www.fixmystreet.com/report/8168133)
 - TMC - Defects - Covers, Gratings & Frames problem, 15th September :- [8168226](https://www.fixmystreet.com/report/8168226)
 - TMC - Defects - Other FW6  Surface problem, 15th September :- [8168066](https://www.fixmystreet.com/report/8168066)
-- TMC - Defects - Kerbs and Channels problem, 15th September :- [8168064](https://www.fixmystreet.com/report/8168064)
-- TMC - Defects - Kerbs and Channels problem, 15th September :- [8168061](https://www.fixmystreet.com/report/8168061)
 - TMC - Defects - Kerbs and Channels problem, 15th September :- [8168063](https://www.fixmystreet.com/report/8168063)
-- TMC - Defects - Other FW6  Surface problem, 15th September :- [8168065](https://www.fixmystreet.com/report/8168065)
 - TMC - Defects - Kerbs and Channels problem, 15th September :- [8168062](https://www.fixmystreet.com/report/8168062)
+- TMC - Defects - Kerbs and Channels problem, 15th September :- [8168061](https://www.fixmystreet.com/report/8168061)
+- TMC - Defects - Other FW6  Surface problem, 15th September :- [8168065](https://www.fixmystreet.com/report/8168065)
+- TMC - Defects - Kerbs and Channels problem, 15th September :- [8168064](https://www.fixmystreet.com/report/8168064)
 - TMC - Defects - Covers, Gratings & Frames problem, 15th September :- [8168060](https://www.fixmystreet.com/report/8168060)
 - General road markings, lines and stud issues problem, 15th September :- [8168050](https://www.fixmystreet.com/report/8168050)
 - The drain is blocked problem, 15th September :- [8168051](https://www.fixmystreet.com/report/8168051)
 - TMC - Defects -CW6 Potholes  problem, 15th September :- [8168057](https://www.fixmystreet.com/report/8168057)
 - TMC - Defects -CW10 Potholes problem, 15th September :- [8168054](https://www.fixmystreet.com/report/8168054)
 - Between 26 and 25 cutsdean close, 15th September :- [8167725](https://www.fixmystreet.com/report/8167725)
-- TMC - Defects - Other FW6  Surface problem, 15th September :- [8167821](https://www.fixmystreet.com/report/8167821)
 
 <!-- fix_marker ends -->
