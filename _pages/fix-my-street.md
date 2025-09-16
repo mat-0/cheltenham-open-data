@@ -9,7 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Mulitple potholes and rough surface, 16th September :- [8174527](https://www.fixmystreet.com/report/8174527)
+- Looks like a previous repair done badly, 16th September :- [8174524](https://www.fixmystreet.com/report/8174524)
+- Small but dangerous sink hole in road, 16th September :- [8174512](https://www.fixmystreet.com/report/8174512)
 - Man hole grill had fallen into the manhole, 16th September :- [8174166](https://www.fixmystreet.com/report/8174166)
+- Fallen tree, obstructing the pavement,, 16th September :- [8174105](https://www.fixmystreet.com/report/8174105)
 - Beware multiple cars have now had flat tyres, 16th September :- [8174068](https://www.fixmystreet.com/report/8174068)
 - Bin full, 16th September :- [8174037](https://www.fixmystreet.com/report/8174037)
 - Tree is damaged problem, 16th September :- [8174023](https://www.fixmystreet.com/report/8174023)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 16th September :- [8173345](https://www.fixmystreet.com/report/8173345)
 - TMC - Defects - Vegetation problem, 16th September :- [8173156](https://www.fixmystreet.com/report/8173156)
 - TMC - Defects - Vegetation problem, 16th September :- [8173155](https://www.fixmystreet.com/report/8173155)
-- TMC - Defects - Other FW6  Surface problem, 16th September :- [8173154](https://www.fixmystreet.com/report/8173154)
-- TMC - Defects - Kerbs and Channels problem, 16th September :- [8173153](https://www.fixmystreet.com/report/8173153)
-- TMC - Defects - Kerbs and Channels problem, 16th September :- [8173148](https://www.fixmystreet.com/report/8173148)
-- TMC - Defects - Kerbs and Channels problem, 16th September :- [8173147](https://www.fixmystreet.com/report/8173147)
 
 <!-- fix_marker ends -->
