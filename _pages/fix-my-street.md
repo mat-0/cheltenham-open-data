@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Feint Gloucester/Gloucestershire signs M5 N&S, 16th September :- [8170752](https://www.fixmystreet.com/report/8170752)
+- Deep hole in path, 16th September :- [8170751](https://www.fixmystreet.com/report/8170751)
+- Several potholes at junction, 16th September :- [8170653](https://www.fixmystreet.com/report/8170653)
+- Previous repair has failed, 16th September :- [8170613](https://www.fixmystreet.com/report/8170613)
+- TMC - Defects - Road Markings problem, 16th September :- [8170635](https://www.fixmystreet.com/report/8170635)
 - Around drain, 16th September :- [8170283](https://www.fixmystreet.com/report/8170283)
 - Sunken manhole, 16th September :- [8170251](https://www.fixmystreet.com/report/8170251)
 - Old tree stump and sunken hole around it on pavement, 16th September :- [8170184](https://www.fixmystreet.com/report/8170184)
@@ -23,11 +28,6 @@ permalink: /fix-my-street
 - TMC - Defects - Covers, Gratings & Frames problem, 15th September :- [8168226](https://www.fixmystreet.com/report/8168226)
 - TMC - Defects - Other FW6  Surface problem, 15th September :- [8168066](https://www.fixmystreet.com/report/8168066)
 - TMC - Defects - Kerbs and Channels problem, 15th September :- [8168064](https://www.fixmystreet.com/report/8168064)
-- TMC - Defects - Other FW6  Surface problem, 15th September :- [8168065](https://www.fixmystreet.com/report/8168065)
 - TMC - Defects - Kerbs and Channels problem, 15th September :- [8168062](https://www.fixmystreet.com/report/8168062)
-- TMC - Defects - Kerbs and Channels problem, 15th September :- [8168063](https://www.fixmystreet.com/report/8168063)
-- TMC - Defects - Kerbs and Channels problem, 15th September :- [8168061](https://www.fixmystreet.com/report/8168061)
-- TMC - Defects - Covers, Gratings & Frames problem, 15th September :- [8168060](https://www.fixmystreet.com/report/8168060)
-- General road markings, lines and stud issues problem, 15th September :- [8168050](https://www.fixmystreet.com/report/8168050)
 
 <!-- fix_marker ends -->
