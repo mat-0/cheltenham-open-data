@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Tuesday, 16 September 2025
 
-- The average temperature today is 17.36˚C,
-- With highs of 18.32˚C and lows of 16.64˚C,
-- It may feel like 16.64˚C with broken clouds
-- The wind speed is 4.92m/s and visibility is 10000m
-- The pressure is 1018hPa and humidity is 57%
+- The average temperature today is 17.91˚C,
+- With highs of 18.71˚C and lows of 17.14˚C,
+- It may feel like 17.24˚C with scattered clouds
+- The wind speed is 6.69m/s and visibility is 10000m
+- The pressure is 1017hPa and humidity is 57%
 - The sun will rise at 05:44 and set at 18:21
 
 <!-- weather_marker ends -->
