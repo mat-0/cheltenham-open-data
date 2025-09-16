@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Headlines: A saved swan and welcome messages replace flags ([2 hours ago](https://www.bbc.com/news/articles/cr4qzknezn0o?at_medium=RSS&at_campaign=rss))
-- Circus and safari back to normal after strong winds ([4 hours ago](https://www.bbc.com/news/articles/c62z6d4xw59o?at_medium=RSS&at_campaign=rss))
-- Forum is 'a statement of confidence in Gloucester' ([7 hours ago](https://www.bbc.com/news/articles/c5ykew71zxro?at_medium=RSS&at_campaign=rss))
-- Gloucestershire 'super council' timeline revealed ([7 hours ago](https://www.bbc.com/news/articles/ce32ndr356vo?at_medium=RSS&at_campaign=rss))
-- Veterans and wives honoured at care home ceremony ([21 hours ago](https://www.bbc.com/news/articles/c864wvxpl3do?at_medium=RSS&at_campaign=rss))
+- 'A saved swan' and 'welcome messages replace flags' ([3 hours ago](https://www.bbc.com/news/articles/cr4qzknezn0o?at_medium=RSS&at_campaign=rss))
+- Circus and safari back to normal after strong winds ([5 hours ago](https://www.bbc.com/news/articles/c62z6d4xw59o?at_medium=RSS&at_campaign=rss))
+- Forum is 'a statement of confidence in Gloucester' ([8 hours ago](https://www.bbc.com/news/articles/c5ykew71zxro?at_medium=RSS&at_campaign=rss))
+- Gloucestershire 'super council' timeline revealed ([8 hours ago](https://www.bbc.com/news/articles/ce32ndr356vo?at_medium=RSS&at_campaign=rss))
+- Veterans and wives honoured at care home ceremony ([22 hours ago](https://www.bbc.com/news/articles/c864wvxpl3do?at_medium=RSS&at_campaign=rss))
 - 'Delivery driver hero' and 'algae blooms' ([1 days ago](https://www.bbc.com/news/articles/c78n0lejxr1o?at_medium=RSS&at_campaign=rss))
 - Frustration over temporary lights up for two years ([1 days ago](https://www.bbc.com/news/articles/cn839v209l7o?at_medium=RSS&at_campaign=rss))
 - Maternity care to be investigated over 'failures' ([1 days ago](https://www.bbc.com/news/articles/ckg6xj1vz70o?at_medium=RSS&at_campaign=rss))
