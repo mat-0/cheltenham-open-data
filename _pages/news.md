@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Veterans and wives honoured at care home ceremony ([10 hours ago](https://www.bbc.com/news/articles/c864wvxpl3do?at_medium=RSS&at_campaign=rss))
+- Veterans and wives honoured at care home ceremony ([11 hours ago](https://www.bbc.com/news/articles/c864wvxpl3do?at_medium=RSS&at_campaign=rss))
 - Circus and safari among events closed due to winds ([14 hours ago](https://www.bbc.com/news/articles/c62z6d4xw59o?at_medium=RSS&at_campaign=rss))
-- 'Delivery driver hero' and 'algae blooms' ([15 hours ago](https://www.bbc.com/news/articles/c78n0lejxr1o?at_medium=RSS&at_campaign=rss))
+- 'Delivery driver hero' and 'algae blooms' ([16 hours ago](https://www.bbc.com/news/articles/c78n0lejxr1o?at_medium=RSS&at_campaign=rss))
 - Frustration over temporary lights up for two years ([16 hours ago](https://www.bbc.com/news/articles/cn839v209l7o?at_medium=RSS&at_campaign=rss))
 - Maternity care to be investigated over 'failures' ([18 hours ago](https://www.bbc.com/news/articles/ckg6xj1vz70o?at_medium=RSS&at_campaign=rss))
 - Much-loved Labradors retiring from jobs at abbey ([21 hours ago](https://www.bbc.com/news/videos/cx2r941k2y6o?at_medium=RSS&at_campaign=rss))
