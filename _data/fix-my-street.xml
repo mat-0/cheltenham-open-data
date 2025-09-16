@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -12,6 +12,51 @@
 <description>The latest local problems reported by users</description>
 <language>en-gb</language>
 
+<item>
+<title>TMC - Defects - Vegetation problem, 16th September</title>
+<link>https://www.fixmystreet.com/report/8173354</link>
+<description>NWD WITH GIVE AND TAKE PLUS TEMPORARY FOOTWAY CLOSURE PLEASE CUT BACK OVERGROWN OVER HANGING HEDGE WHICH DOSE BELONG TO THE SCHOOL BUT IS OBSTRUCTIVE TO FOOTWAY approximately 2 metres x4 metres (Overgrown Hedge)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8173354&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Vegetation</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8173354</guid>
+<pubDate>Tue, 16 Sep 2025 14:30:55 +0100</pubDate>
+<georss:point>51.912553571926 -2.12225856715494</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Footways Slabs problem, 16th September</title>
+<link>https://www.fixmystreet.com/report/8173353</link>
+<description>F/W closure signage &amp;#10;Please reset 3 QTY rocking slab next to each other - 1800mm x 900mm x 25mm - 1.62m2 Patch - ENWD - F/W closure signage (FW Rocking/Unstable Slab)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8173353&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8173353</guid>
+<pubDate>Tue, 16 Sep 2025 14:23:31 +0100</pubDate>
+<georss:point>51.9068646738937 -2.04980257243784</georss:point>
+</item>
+<item>
+<title>Post or sign leaning slightly (less than 20 degrees) problem, 16th September</title>
+<link>https://www.fixmystreet.com/report/8173341</link>
+<description>Damaged School direction sign, been removed on 2hr Emergency.  Can you please pass on to the relevant AHR to arrange reinstatement. &#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8173341&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Post or sign leaning slightly (less than 20 degrees)</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8173341</guid>
+<pubDate>Tue, 16 Sep 2025 14:21:46 +0100</pubDate>
+<georss:point>51.88437 -2.046288</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 16th September</title>
+<link>https://www.fixmystreet.com/report/8173346</link>
+<description>28 day with give and take plus temporary footway closure footway abrupt level difference 550x500x25mm tarmac patch required stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8173346&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8173346</guid>
+<pubDate>Tue, 16 Sep 2025 14:16:03 +0100</pubDate>
+<georss:point>51.8810707653371 -2.09593445419392</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 16th September</title>
+<link>https://www.fixmystreet.com/report/8173345</link>
+<description>28 day with give and take carriageway pothole 600x350x40mm plus x2 NSD tarmac patch required (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8173345&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8173345</guid>
+<pubDate>Tue, 16 Sep 2025 14:16:03 +0100</pubDate>
+<georss:point>51.8818115 -2.0978435</georss:point>
+</item>
 <item>
 <title>TMC - Defects - Vegetation problem, 16th September</title>
 <link>https://www.fixmystreet.com/report/8173156</link>
@@ -68,21 +113,21 @@
 </item>
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 16th September</title>
+<link>https://www.fixmystreet.com/report/8173152</link>
+<description>28 day with give and take plus temporary footway closure footway abrupt level difference around CATV cover 300x100x25mm tarmac patch required stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8173152&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8173152</guid>
+<pubDate>Tue, 16 Sep 2025 13:47:16 +0100</pubDate>
+<georss:point>51.8827857 -2.09329350000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 16th September</title>
 <link>https://www.fixmystreet.com/report/8173150</link>
 <description>28 day with give and take plus temporary footway closure footway abrupt level difference 1000x350x20mm tarmac patch required stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8173150&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Other FW6  Surface</category>
 <guid isPermaLink="false">https://www.fixmystreet.com/report/8173150</guid>
 <pubDate>Tue, 16 Sep 2025 13:47:16 +0100</pubDate>
 <georss:point>51.882239 -2.0927326</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Kerbs and Channels problem, 16th September</title>
-<link>https://www.fixmystreet.com/report/8173153</link>
-<description>28 day with give and take plus temporary footway closure please lift and replace x1 broken kerb 900x150x20mm stats required. (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8173153&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Kerbs and Channels</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8173153</guid>
-<pubDate>Tue, 16 Sep 2025 13:47:16 +0100</pubDate>
-<georss:point>51.8828612232108 -2.09362277919695</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Kerbs and Channels problem, 16th September</title>
@@ -94,58 +139,13 @@
 <georss:point>51.8824062 -2.0928247</georss:point>
 </item>
 <item>
-<title>TMC - Defects - Other FW6  Surface problem, 16th September</title>
-<link>https://www.fixmystreet.com/report/8173152</link>
-<description>28 day with give and take plus temporary footway closure footway abrupt level difference around CATV cover 300x100x25mm tarmac patch required stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8173152&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8173152</guid>
+<title>TMC - Defects - Kerbs and Channels problem, 16th September</title>
+<link>https://www.fixmystreet.com/report/8173153</link>
+<description>28 day with give and take plus temporary footway closure please lift and replace x1 broken kerb 900x150x20mm stats required. (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8173153&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Kerbs and Channels</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8173153</guid>
 <pubDate>Tue, 16 Sep 2025 13:47:16 +0100</pubDate>
-<georss:point>51.8827857 -2.09329350000001</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Kerbs and Channels problem, 16th September</title>
-<link>https://www.fixmystreet.com/report/8173145</link>
-<description>28 day with give and take plus temporary footway closure please lift and replace x1 broken kerb above gully 900x150x20mm stats required. (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8173145&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Kerbs and Channels</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8173145</guid>
-<pubDate>Tue, 16 Sep 2025 13:47:15 +0100</pubDate>
-<georss:point>51.882851 -2.09381790000002</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Covers, Gratings &amp; Frames problem, 16th September</title>
-<link>https://www.fixmystreet.com/report/8173136</link>
-<description>28 day with give and take plus temporary footway closure please lift and reset damaged gully approx 800x600x40mm stats required. No parking cones required prior to works (Broken Chamber Cover/Frame)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8173136&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Covers, Gratings &amp; Frames</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8173136</guid>
-<pubDate>Tue, 16 Sep 2025 13:47:15 +0100</pubDate>
-<georss:point>51.8830226481916 -2.09586689999438</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Kerbs and Channels problem, 16th September</title>
-<link>https://www.fixmystreet.com/report/8173142</link>
-<description>28 day with give and take plus temporary footway closure please lift and relay x1 sunken left hand dropper kerb 900x150x20mm stats required. (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8173142&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Kerbs and Channels</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8173142</guid>
-<pubDate>Tue, 16 Sep 2025 13:47:15 +0100</pubDate>
-<georss:point>51.8831474 -2.09501270000001</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Kerbs and Channels problem, 16th September</title>
-<link>https://www.fixmystreet.com/report/8173143</link>
-<description>28 day with give and take plus temporary footway closure please lift and replace x1 broken right hand dropper kerb 900x150x20mm stats required. (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8173143&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Kerbs and Channels</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8173143</guid>
-<pubDate>Tue, 16 Sep 2025 13:47:15 +0100</pubDate>
-<georss:point>51.8830485 -2.094787</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Kerbs and Channels problem, 16th September</title>
-<link>https://www.fixmystreet.com/report/8173139</link>
-<description>28 day with give and take plus temporary footway closure please lift and replace x1 broken right hand dropper kerb 900x150x20mm stats required. (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8173139&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Kerbs and Channels</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8173139</guid>
-<pubDate>Tue, 16 Sep 2025 13:47:15 +0100</pubDate>
-<georss:point>51.8831241 -2.09536170000001</georss:point>
+<georss:point>51.8828612232108 -2.09362277919695</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 16th September</title>
@@ -158,39 +158,39 @@
 </item>
 <item>
 <title>TMC - Defects - Kerbs and Channels problem, 16th September</title>
+<link>https://www.fixmystreet.com/report/8173139</link>
+<description>28 day with give and take plus temporary footway closure please lift and replace x1 broken right hand dropper kerb 900x150x20mm stats required. (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8173139&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Kerbs and Channels</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8173139</guid>
+<pubDate>Tue, 16 Sep 2025 13:47:15 +0100</pubDate>
+<georss:point>51.8831241 -2.09536170000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Kerbs and Channels problem, 16th September</title>
+<link>https://www.fixmystreet.com/report/8173142</link>
+<description>28 day with give and take plus temporary footway closure please lift and relay x1 sunken left hand dropper kerb 900x150x20mm stats required. (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8173142&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Kerbs and Channels</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8173142</guid>
+<pubDate>Tue, 16 Sep 2025 13:47:15 +0100</pubDate>
+<georss:point>51.8831474 -2.09501270000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Kerbs and Channels problem, 16th September</title>
+<link>https://www.fixmystreet.com/report/8173145</link>
+<description>28 day with give and take plus temporary footway closure please lift and replace x1 broken kerb above gully 900x150x20mm stats required. (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8173145&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Kerbs and Channels</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8173145</guid>
+<pubDate>Tue, 16 Sep 2025 13:47:15 +0100</pubDate>
+<georss:point>51.882851 -2.09381790000002</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Kerbs and Channels problem, 16th September</title>
 <link>https://www.fixmystreet.com/report/8173137</link>
 <description>28 day with give and take plus temporary footway closure please lift and replace x1 broken right hand dropper kerb 900x150x20mm stats required. (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8173137&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Kerbs and Channels</category>
 <guid isPermaLink="false">https://www.fixmystreet.com/report/8173137</guid>
 <pubDate>Tue, 16 Sep 2025 13:47:15 +0100</pubDate>
 <georss:point>51.883037 -2.09581159999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 16th September</title>
-<link>https://www.fixmystreet.com/report/8173144</link>
-<description>28 day with give and take plus temporary footway closure footway abrupt level difference 1100x600x20mm tarmac patch required stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8173144&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8173144</guid>
-<pubDate>Tue, 16 Sep 2025 13:47:15 +0100</pubDate>
-<georss:point>51.8829707 -2.0944614</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Kerbs and Channels problem, 16th September</title>
-<link>https://www.fixmystreet.com/report/8173138</link>
-<description>28 day with give and take plus temporary footway closure please lift and replace x1 broken kerb above gully 900x150x20mm stats required. (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8173138&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Kerbs and Channels</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8173138</guid>
-<pubDate>Tue, 16 Sep 2025 13:47:15 +0100</pubDate>
-<georss:point>51.8831414 -2.09545060000002</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 16th September</title>
-<link>https://www.fixmystreet.com/report/8173141</link>
-<description>28 day with give and take plus temporary footway closure footway abrupt level difference 1800x600x20mm tarmac patch required stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8173141&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8173141</guid>
-<pubDate>Tue, 16 Sep 2025 13:47:15 +0100</pubDate>
-<georss:point>51.8830932 -2.09503630000001</georss:point>
 </item>
 </channel>
 </rss>
