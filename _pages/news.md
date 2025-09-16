@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Circus and safari back to normal after strong winds ([5 minutes ago](https://www.bbc.com/news/articles/c62z6d4xw59o?at_medium=RSS&at_campaign=rss))
-- Forum is 'a statement of confidence in Gloucester' ([3 hours ago](https://www.bbc.com/news/articles/c5ykew71zxro?at_medium=RSS&at_campaign=rss))
-- Gloucestershire 'super council' timeline revealed ([3 hours ago](https://www.bbc.com/news/articles/ce32ndr356vo?at_medium=RSS&at_campaign=rss))
-- Veterans and wives honoured at care home ceremony ([17 hours ago](https://www.bbc.com/news/articles/c864wvxpl3do?at_medium=RSS&at_campaign=rss))
-- 'Delivery driver hero' and 'algae blooms' ([22 hours ago](https://www.bbc.com/news/articles/c78n0lejxr1o?at_medium=RSS&at_campaign=rss))
-- Frustration over temporary lights up for two years ([22 hours ago](https://www.bbc.com/news/articles/cn839v209l7o?at_medium=RSS&at_campaign=rss))
+- Circus and safari back to normal after strong winds ([1 hours ago](https://www.bbc.com/news/articles/c62z6d4xw59o?at_medium=RSS&at_campaign=rss))
+- Forum is 'a statement of confidence in Gloucester' ([4 hours ago](https://www.bbc.com/news/articles/c5ykew71zxro?at_medium=RSS&at_campaign=rss))
+- Gloucestershire 'super council' timeline revealed ([4 hours ago](https://www.bbc.com/news/articles/ce32ndr356vo?at_medium=RSS&at_campaign=rss))
+- Veterans and wives honoured at care home ceremony ([18 hours ago](https://www.bbc.com/news/articles/c864wvxpl3do?at_medium=RSS&at_campaign=rss))
+- 'Delivery driver hero' and 'algae blooms' ([23 hours ago](https://www.bbc.com/news/articles/c78n0lejxr1o?at_medium=RSS&at_campaign=rss))
+- Frustration over temporary lights up for two years ([23 hours ago](https://www.bbc.com/news/articles/cn839v209l7o?at_medium=RSS&at_campaign=rss))
 - Maternity care to be investigated over 'failures' ([1 days ago](https://www.bbc.com/news/articles/ckg6xj1vz70o?at_medium=RSS&at_campaign=rss))
 - Much-loved Labradors retiring from jobs at abbey ([1 days ago](https://www.bbc.com/news/videos/cx2r941k2y6o?at_medium=RSS&at_campaign=rss))
 - Arts venue could close within six months ([1 days ago](https://www.bbc.com/news/articles/cg42kklywrgo?at_medium=RSS&at_campaign=rss))
@@ -60,7 +60,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Go-ahead for new Scout hut in Leckhampton ([24 days ago](https://gloucesternewscentre.co.uk/go-ahead-for-new-scout-hut-in-leckhampton/))
 - Go-ahead for new stables amid fears its ‘aim is to block view to future development behind it’ ([24 days ago](https://gloucesternewscentre.co.uk/go-ahead-for-new-stables-amid-fears-its-aim-is-to-block-view-to-future-development-behind-it/))
 - A435 closure to be extended by two weeks ([25 days ago](https://gloucesternewscentre.co.uk/a435-closure-to-be-extended-by-two-weeks/))
-- Seven years waiting for leisure centre at five acres ([25 days ago](https://www.bbc.co.uk/sounds/play/p0ly5g42?at_medium=RSS&at_campaign=rss))
+- Seven years waiting for leisure centre at five acres ([26 days ago](https://www.bbc.co.uk/sounds/play/p0ly5g42?at_medium=RSS&at_campaign=rss))
 - Late summer bank holiday waste and recycling collections ([27 days ago](https://www.cheltenham.gov.uk/news/article/3042/late_summer_bank_holiday_waste_and_recycling_collections))
 
 <!-- news_marker ends -->
