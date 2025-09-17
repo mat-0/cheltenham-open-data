@@ -1,17 +1,375 @@
 {
-    "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
-    "meta": {
-        "publisher": "Environment Agency",
-        "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
-        "version": "0.9",
-        "comment": "Status: Beta service",
-        "hasFormat": [
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.csv?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.html?county=Gloucestershire"
-        ]
+  "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
+  "meta": {
+    "publisher": "Environment Agency",
+    "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
+    "version": "0.9",
+    "comment": "Status: Beta service",
+    "hasFormat": [
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.csv",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
+    ]
+  },
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WAFT1W10A00",
+      "description": "Upper River Tamar",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W10A00",
+        "county": "Cornwall, Devon",
+        "notation": "114WAFT1W10A00",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W10A00/polygon",
+        "riverOrSea": "River Tamar, River Strat, River Neet, River Ottery, River Kensey"
+      },
+      "floodAreaID": "114WAFT1W10A00",
+      "isTidal": false,
+      "message": " Flooding is possible on Tuesday the 16th in the evening and Wednesday the 17th in the morning. Heavy rain is expected overnight with the Upper River Tamar expected to peak around 4 am on Wednesday morning. Levels within rivers Neet and Strat are expected to rise also, but to a lesser extent. Expected levels suggest that there will be flooding to low lying land and roads close to the river.  We expect the river to remain high throughout Wednesday, though no flooding to properties is currently forecast.  Take care and monitor your local weather conditions.  We are monitoring river levels and have staff in the area checking for and clearing blockages. This message will be updated on Wednesday afternoon or earlier if the situation changes. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-09-16T14:52:00",
+      "timeRaised": "2025-09-16T14:53:09",
+      "timeSeverityChanged": "2025-09-16T14:52:00"
     },
-    "items": []
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WAFTW05",
+      "description": "Exmoor Rivers",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WAFTW05",
+        "county": "Devon, Somerset",
+        "notation": "113WAFTW05",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WAFTW05/polygon",
+        "riverOrSea": "River Barle, River Exe, River Lyn, River Mole, River Bray"
+      },
+      "floodAreaID": "113WAFTW05",
+      "isTidal": false,
+      "message": "Flooding is possible on Tuesday the 16th in the evening and Wednesday the 17th in the morning. Heavy rain is expected overnight over Exmoor. The heaviest rain will be around 2am through to 6am, Wednesday morning. We expect river levels to remain high throughout Wednesday, though no flooding to properties is currently forecast. Take care and monitor your local weather conditions. We are constantly monitoring river levels. This message will be updated on Wednesday afternoon or earlier if the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-09-16T15:57:00",
+      "timeRaised": "2025-09-16T15:58:31",
+      "timeSeverityChanged": "2025-09-16T15:57:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WAFLL",
+      "description": "Lower River Lune and Conder",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFLL",
+        "county": "Lancashire, North Yorkshire, Westmorland and Furness",
+        "notation": "012WAFLL",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFLL/polygon",
+        "riverOrSea": "River Lune"
+      },
+      "floodAreaID": "012WAFLL",
+      "isTidal": false,
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-09-16T09:48:00",
+      "timeRaised": "2025-09-16T09:48:24",
+      "timeSeverityChanged": "2025-09-16T09:48:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF939",
+      "description": "Upper River Ure",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF939",
+        "county": "North Yorkshire",
+        "notation": "122WAF939",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF939/polygon",
+        "riverOrSea": "River Ure"
+      },
+      "floodAreaID": "122WAF939",
+      "isTidal": false,
+      "message": "This Flood Alert has been removed.\nRiver levels have fallen below the flood risk threshold. We will continue to monitor the forecast and re-issue this alert if necessary.  \nTake care on waterside roads and footpaths and don't put yourself in unnecessary danger.\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-09-16T09:07:00",
+      "timeRaised": "2025-09-16T09:08:00",
+      "timeSeverityChanged": "2025-09-16T09:07:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFKB",
+      "description": "Rivers Kent and Bela",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFKB",
+        "county": "Lancashire, Westmorland and Furness",
+        "notation": "011WAFKB",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFKB/polygon",
+        "riverOrSea": "River Kent, River Bela"
+      },
+      "floodAreaID": "011WAFKB",
+      "isTidal": false,
+      "message": "High River levels this evening may lead to flooding. \nAreas most at risk include Rivers Kent and Bela and other watercourses, from Kentmere to Silverdale including low lying areas around Staveley, Burneside, Kendal, Milnthorpe and Beetham.\nRainfall is forecast to continue overnight. \nAvoid using low lying footpaths and any bridges near local watercourses.\nThis message will be updated by 10:00 AM on 17/09/2025, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-09-16T15:44:00",
+      "timeRaised": "2025-09-16T15:44:36",
+      "timeSeverityChanged": "2025-09-15T18:01:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF942",
+      "description": "Upper River Wharfe",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF942",
+        "county": "Bradford, Leeds, North Yorkshire",
+        "notation": "122WAF942",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF942/polygon",
+        "riverOrSea": "River Wharfe"
+      },
+      "floodAreaID": "122WAF942",
+      "isTidal": false,
+      "message": "This Flood Alert has been removed.\nRiver levels have fallen below the flood risk threshold. We will continue to monitor the forecast and re-issue this alert if necessary.  \nTake care on waterside roads and footpaths and don't put yourself in unnecessary danger.\n\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-09-16T09:07:00",
+      "timeRaised": "2025-09-16T09:07:47",
+      "timeSeverityChanged": "2025-09-16T09:07:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFLE",
+      "description": "Lower River Eden",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFLE",
+        "county": "Cumberland, Westmorland and Furness",
+        "notation": "011WAFLE",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFLE/polygon",
+        "riverOrSea": "River Eden"
+      },
+      "floodAreaID": "011WAFLE",
+      "isTidal": false,
+      "message": "Weather conditions are expected to improve this morning and no further flooding is expected.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-09-16T09:18:00",
+      "timeRaised": "2025-09-16T09:18:15",
+      "timeSeverityChanged": "2025-09-16T09:18:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFEI",
+      "description": "Rivers Esk and Irthing",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFEI",
+        "county": "Cumberland, Northumberland, Westmorland and Furness",
+        "notation": "011WAFEI",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFEI/polygon",
+        "riverOrSea": "River Esk, River Irthing"
+      },
+      "floodAreaID": "011WAFEI",
+      "isTidal": false,
+      "message": "Weather conditions are expected to improve this morning and no further flooding is expected.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-09-16T09:18:00",
+      "timeRaised": "2025-09-16T09:18:09",
+      "timeSeverityChanged": "2025-09-16T09:18:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF940",
+      "description": "Lower River Ure",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF940",
+        "county": "North Yorkshire",
+        "notation": "122WAF940",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF940/polygon",
+        "riverOrSea": "River Ure, Swinney Beck, Bishop Monkton Beck, River Skell, River Laver, River Tutt, Stainley Beck"
+      },
+      "floodAreaID": "122WAF940",
+      "isTidal": false,
+      "message": "This Flood Alert has been removed.\nRiver levels have fallen below the flood risk threshold. We will continue to monitor the forecast and re-issue this alert if necessary.  \nTake care on waterside roads and footpaths and don't put yourself in unnecessary danger.\n\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-09-16T09:07:00",
+      "timeRaised": "2025-09-16T09:07:52",
+      "timeSeverityChanged": "2025-09-16T09:07:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFBR",
+      "description": "Rivers Brathay, Rothay and Winster",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFBR",
+        "county": "Westmorland and Furness",
+        "notation": "011WAFBR",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFBR/polygon",
+        "riverOrSea": "River Brathay, River Rothay, River Winster"
+      },
+      "floodAreaID": "011WAFBR",
+      "isTidal": false,
+      "message": " Rainfall overnight has caused rising river and lake levels which may lead to flooding of land and road. \n\nAreas most at risk include Rivers Brathay, Rothay and Winster and other watercourses, from Grasmere to Grange-over-Sands including low lying areas around Ambleside, Skelwith Bridge, Windermere, Hawkshead, Newby Bridge, Backbarrow, Cark and Cartmel.\n\nShowers are expected to continue throughout the evening.\n\nTake care and avoid walking, cycling or driving through flood water.\n\nThis message will be updated by 10:00 AM on 17/09/2025, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-09-16T15:44:00",
+      "timeRaised": "2025-09-16T15:44:13",
+      "timeSeverityChanged": "2025-09-15T14:31:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDW",
+      "description": "Upper River Derwent, Stonethwaite Beck and Derwent Water",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFDW",
+        "county": "Cumberland",
+        "notation": "011WAFDW",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFDW/polygon",
+        "riverOrSea": "Derwent, Stonethwaite Beck"
+      },
+      "floodAreaID": "011WAFDW",
+      "isTidal": false,
+      "message": "Flooding of roads and low lying land is possible, property flooding is not expected.\nFlooding is forecast to affect locations near the Upper River Derwent, Stonethwaite Beck and Derwent Water, with low lying land and roads expected to be most affected, particularly around The Upper Derwent from Seathwaite to Derwent Water.\nFurther flooding is possible this evening as river and lake levels are remaining high due to heavy rainfall.\nAvoid using low lying footpaths and any bridges near local watercourses.\nTake care and avoid walking, cycling or driving through flood water.\nThis message will be updated by 10:00 AM on 17/09/2025, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-09-16T15:46:00",
+      "timeRaised": "2025-09-16T15:46:29",
+      "timeSeverityChanged": "2025-09-15T07:25:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WAFTW04",
+      "description": "Barnstaple, Braunton, Ilfracombe and Combe Martin area",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WAFTW04",
+        "county": "Devon",
+        "notation": "113WAFTW04",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WAFTW04/polygon",
+        "riverOrSea": "River Caen, Bradiford Water, River Yeo"
+      },
+      "floodAreaID": "113WAFTW04",
+      "isTidal": false,
+      "message": " Flooding is possible from the evening of Tuesday 16th September into the morning of Wednesday 17th. Heavy rainfall is expected overnight in the Barnstaple, Braunton, Ilfracombe and Combe Martin area. We expect river levels to remain high throughout Wednesday, though no flooding to properties is currently forecast. Take care and monitor your local weather conditions. We are constantly monitoring river levels. This message will be updated on Wednesday afternoon or earlier if the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-09-16T15:57:00",
+      "timeRaised": "2025-09-16T15:57:49",
+      "timeSeverityChanged": "2025-09-16T15:57:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WAFUR",
+      "description": "Upper River Ribble, Hodder",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFUR",
+        "county": "Lancashire, North Yorkshire",
+        "notation": "012WAFUR",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFUR/polygon",
+        "riverOrSea": "River Ribble"
+      },
+      "floodAreaID": "012WAFUR",
+      "isTidal": false,
+      "message": "Recent rainfall has caused river levels to remain high and flooding is possible.\n\nThis message will be updated by 10AM on 17/09/2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-09-16T14:19:00",
+      "timeRaised": "2025-09-16T14:19:48",
+      "timeSeverityChanged": "2025-09-15T17:46:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF943",
+      "description": "Lower River Wharfe",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF943",
+        "county": "Leeds, North Yorkshire",
+        "notation": "122WAF943",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF943/polygon",
+        "riverOrSea": "River Wharfe, Kel Beck, Town Beck, Collingham Beck, Fir Green Beck, Bramham Beck"
+      },
+      "floodAreaID": "122WAF943",
+      "isTidal": false,
+      "message": "This Flood Alert has been removed.\nRiver levels have fallen below the flood risk threshold. We will continue to monitor the forecast and re-issue this alert if necessary.  \nTake care on waterside roads and footpaths and don't put yourself in unnecessary danger.\n\n\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-09-16T09:07:00",
+      "timeRaised": "2025-09-16T09:07:45",
+      "timeSeverityChanged": "2025-09-16T09:07:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011FWFNC6KC",
+      "description": "Keswick Campsite",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011FWFNC6KC",
+        "county": "Cumberland",
+        "notation": "011FWFNC6KC",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011FWFNC6KC/polygon",
+        "riverOrSea": "Derwentwater"
+      },
+      "floodAreaID": "011FWFNC6KC",
+      "isTidal": false,
+      "message": "High river and lake levels are causing flooding this afternoon.\n\nAreas most at risk include low lying areas bordering the shores of Derwent Water and the frontage of the Keswick Camping and Caravan Club Site .\n\nFurther showers are forecast this evening and overnight tonight. We will continue to monitor rainfall, river, and lake levels. \n\nTake care and avoid walking, cycling or driving through flood water, and avoid using low lying footpaths and any bridges near local watercourses.\n\nThis message will be updated by 09:00 AM on 17/09/2025, or as the situation changes.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2025-09-16T15:45:00",
+      "timeRaised": "2025-09-16T15:45:29",
+      "timeSeverityChanged": "2025-09-15T16:38:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFWE",
+      "description": "Rivers Wampool and Ellen",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFWE",
+        "county": "Cumberland",
+        "notation": "011WAFWE",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFWE/polygon",
+        "riverOrSea": "River Wampool, River Ellen"
+      },
+      "floodAreaID": "011WAFWE",
+      "isTidal": false,
+      "message": "Weather conditions are expected to improve this morning and no further flooding is expected.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-09-16T09:17:00",
+      "timeRaised": "2025-09-16T09:18:02",
+      "timeSeverityChanged": "2025-09-16T09:17:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFGB",
+      "description": "Rivers Greta, St Johns Beck and Bassenthwaite Lake",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFGB",
+        "county": "Cumberland, Westmorland and Furness",
+        "notation": "011WAFGB",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFGB/polygon",
+        "riverOrSea": "River Greta, St Johns Beck, Glendermackin"
+      },
+      "floodAreaID": "011WAFGB",
+      "isTidal": false,
+      "message": "Weather conditions are expected to improve this morning and no further flooding is expected.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-09-16T09:17:00",
+      "timeRaised": "2025-09-16T09:17:57",
+      "timeSeverityChanged": "2025-09-16T09:17:00"
+    }
+  ]
 }
