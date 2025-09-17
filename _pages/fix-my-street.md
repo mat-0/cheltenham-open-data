@@ -10,8 +10,11 @@ permalink: /fix-my-street
 <!-- fix_marker starts -->
 
 - Grass, 17th September :- [8177288](https://www.fixmystreet.com/report/8177288)
+- TMC - Defects -CW6 Potholes  problem, 17th September :- [8177373](https://www.fixmystreet.com/report/8177373)
 - Cracks in Pavement, 17th September :- [8177235](https://www.fixmystreet.com/report/8177235)
 - Road signs lying on their side on the pavement at the crossroads by the main crossroads with traffic lights on the corner of Cheltenham college. Not sure if they are abandoned or blown in the wind or if they should be standing to guide traffic, 17th September :- [8177159](https://www.fixmystreet.com/report/8177159)
+- TMC - Defects -CW6 Potholes  problem, 17th September :- [8177369](https://www.fixmystreet.com/report/8177369)
+- TMC - Defects -CW6 Potholes  problem, 17th September :- [8177370](https://www.fixmystreet.com/report/8177370)
 - TMC - Defects -CW6 Potholes  problem, 17th September :- [8177164](https://www.fixmystreet.com/report/8177164)
 - Buddleia growing from under pavement and obstructing access, 17th September :- [8176725](https://www.fixmystreet.com/report/8176725)
 - Post or sign leaning slightly (less than 20 degrees) problem, 17th September :- [8176717](https://www.fixmystreet.com/report/8176717)
@@ -23,11 +26,8 @@ permalink: /fix-my-street
 - Tree is damaged problem, 17th September :- [8176474](https://www.fixmystreet.com/report/8176474)
 - TMC - Defects -CW10 Potholes problem, 17th September :- [8176475](https://www.fixmystreet.com/report/8176475)
 - Tree is damaged problem, 17th September :- [8176275](https://www.fixmystreet.com/report/8176275)
-- TMC - Defects -CW6 Potholes  problem, 17th September :- [8176281](https://www.fixmystreet.com/report/8176281)
 - TMC - Defects -CW6 Potholes  problem, 17th September :- [8176283](https://www.fixmystreet.com/report/8176283)
+- TMC - Defects -CW6 Potholes  problem, 17th September :- [8176281](https://www.fixmystreet.com/report/8176281)
 - TMC - Defects - Fences & Barriers problem, 17th September :- [8176279](https://www.fixmystreet.com/report/8176279)
-- Work putting in pavements on A435 alongside the new building site at Nortenham Allotments has been completed fir many months but a long line of traffic cones are still on the main road for no apparent reason., 17th September :- [8175776](https://www.fixmystreet.com/report/8175776)
-- Please reply to my email query, 17th September :- [8175516](https://www.fixmystreet.com/report/8175516)
-- Street light mot working 3 wendercliff road, 17th September :- [8175398](https://www.fixmystreet.com/report/8175398)
 
 <!-- fix_marker ends -->
