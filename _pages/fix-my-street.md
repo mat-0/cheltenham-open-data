@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pavement is very uneven, 17th September :- [8179249](https://www.fixmystreet.com/report/8179249)
+- Flytipping, 17th September :- [8179112](https://www.fixmystreet.com/report/8179112)
 - Flytipped sofa, 17th September :- [8179015](https://www.fixmystreet.com/report/8179015)
 - Fly tipping of microwave and packaging, 17th September :- [8178982](https://www.fixmystreet.com/report/8178982)
 - This is the edge of the road. It is causing traffic to pull out around it and it is already a narrow rd., 17th September :- [8178881](https://www.fixmystreet.com/report/8178881)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - There is a Tesco shopping trolley in the next driveway to us ..has been dumped here which is annoying., 17th September :- [8178056](https://www.fixmystreet.com/report/8178056)
 - Flyposting on railings, 17th September :- [8178043](https://www.fixmystreet.com/report/8178043)
 - TMC - Defects - Other FW6  Surface problem, 17th September :- [8178110](https://www.fixmystreet.com/report/8178110)
-- Blocked gutter, 17th September :- [8177852](https://www.fixmystreet.com/report/8177852)
-- TMC - Defects -CW6 Potholes  problem, 17th September :- [8177946](https://www.fixmystreet.com/report/8177946)
 
 <!-- fix_marker ends -->
