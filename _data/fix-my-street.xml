@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:georss="http://www.georss.org/georss"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
+ xmlns:georss="http://www.georss.org/georss"
 >
 
 <channel>
@@ -140,21 +140,21 @@
 </item>
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 16th September</title>
-<link>https://www.fixmystreet.com/report/8173524</link>
-<description>Abrupt Level Difference FW ENWD 900mm  x 600mm x 40mm &amp;#10;Give and take TM With Temporary FW Closure &amp;#10;Next to PGR &amp;#10;MAKE SAFE WITH BARRIERS AROUND TREE STUMP ONLY&amp;#10;Enquiry will be raised (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8173524&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8173524</guid>
-<pubDate>Tue, 16 Sep 2025 14:54:57 +0100</pubDate>
-<georss:point>51.8841149128285 -2.05321289764601</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 16th September</title>
 <link>https://www.fixmystreet.com/report/8173525</link>
 <description>Abrupt Level Difference FW ENWD 900mm  x 600mm  x 35mm &amp;#10;Give and take TM With Temporary FW Closure &amp;#10;Near Lamp Column 14 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8173525&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Other FW6  Surface</category>
 <guid isPermaLink="false">https://www.fixmystreet.com/report/8173525</guid>
 <pubDate>Tue, 16 Sep 2025 14:54:57 +0100</pubDate>
 <georss:point>51.8840067 -2.0531757</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 16th September</title>
+<link>https://www.fixmystreet.com/report/8173524</link>
+<description>Abrupt Level Difference FW ENWD 900mm  x 600mm x 40mm &amp;#10;Give and take TM With Temporary FW Closure &amp;#10;Next to PGR &amp;#10;MAKE SAFE WITH BARRIERS AROUND TREE STUMP ONLY&amp;#10;Enquiry will be raised (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8173524&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8173524</guid>
+<pubDate>Tue, 16 Sep 2025 14:54:57 +0100</pubDate>
+<georss:point>51.8841149128285 -2.05321289764601</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Vegetation problem, 16th September</title>
@@ -184,13 +184,13 @@
 <georss:point>51.88437 -2.046288</georss:point>
 </item>
 <item>
-<title>TMC - Defects -CW6 Potholes  problem, 16th September</title>
-<link>https://www.fixmystreet.com/report/8173345</link>
-<description>28 day with give and take carriageway pothole 600x350x40mm plus x2 NSD tarmac patch required (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8173345&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8173345</guid>
+<title>TMC - Defects - Other FW6  Surface problem, 16th September</title>
+<link>https://www.fixmystreet.com/report/8173346</link>
+<description>28 day with give and take plus temporary footway closure footway abrupt level difference 550x500x25mm tarmac patch required stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8173346&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8173346</guid>
 <pubDate>Tue, 16 Sep 2025 14:16:03 +0100</pubDate>
-<georss:point>51.8818115 -2.0978435</georss:point>
+<georss:point>51.8810707653371 -2.09593445419392</georss:point>
 </item>
 </channel>
 </rss>
