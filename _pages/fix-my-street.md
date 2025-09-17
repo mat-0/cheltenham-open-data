@@ -9,6 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Multiple flags attached to street lights, 17th September :- [8178074](https://www.fixmystreet.com/report/8178074)
+- TMC - Defects - Vegetation problem, 17th September :- [8178115](https://www.fixmystreet.com/report/8178115)
+- There is a Tesco shopping trolley in the next driveway to us ..has been dumped here which is annoying., 17th September :- [8178056](https://www.fixmystreet.com/report/8178056)
+- Flyposting on railings, 17th September :- [8178043](https://www.fixmystreet.com/report/8178043)
+- TMC - Defects - Other FW6  Surface problem, 17th September :- [8178110](https://www.fixmystreet.com/report/8178110)
+- Blocked gutter, 17th September :- [8177852](https://www.fixmystreet.com/report/8177852)
+- TMC - Defects -CW6 Potholes  problem, 17th September :- [8177946](https://www.fixmystreet.com/report/8177946)
 - Grass, 17th September :- [8177288](https://www.fixmystreet.com/report/8177288)
 - TMC - Defects -CW6 Potholes  problem, 17th September :- [8177373](https://www.fixmystreet.com/report/8177373)
 - Cracks in Pavement, 17th September :- [8177235](https://www.fixmystreet.com/report/8177235)
@@ -22,12 +29,5 @@ permalink: /fix-my-street
 - Table dumped, 17th September :- [8176522](https://www.fixmystreet.com/report/8176522)
 - Blocked Drains Pine Needles - Cheltenham Road B4632, 17th September :- [8176455](https://www.fixmystreet.com/report/8176455)
 - Wide pothole much larger than dinner plate, 3-4cm deep near drain cover opposite Pickering Close entrance. When buses or heavy vehicles pass, our house (1 Orchard Rd) actually shakes., 17th September :- [8176443](https://www.fixmystreet.com/report/8176443)
-- The drain is clearly blocked and even full of weeds and has been so for years as is the drain kerbs in the road., 17th September :- [8176405](https://www.fixmystreet.com/report/8176405)
-- Tree is damaged problem, 17th September :- [8176474](https://www.fixmystreet.com/report/8176474)
-- TMC - Defects -CW10 Potholes problem, 17th September :- [8176475](https://www.fixmystreet.com/report/8176475)
-- Tree is damaged problem, 17th September :- [8176275](https://www.fixmystreet.com/report/8176275)
-- TMC - Defects -CW6 Potholes  problem, 17th September :- [8176283](https://www.fixmystreet.com/report/8176283)
-- TMC - Defects -CW6 Potholes  problem, 17th September :- [8176281](https://www.fixmystreet.com/report/8176281)
-- TMC - Defects - Fences & Barriers problem, 17th September :- [8176279](https://www.fixmystreet.com/report/8176279)
 
 <!-- fix_marker ends -->
