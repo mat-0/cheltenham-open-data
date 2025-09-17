@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Double pothole on the main rd A436. There has been a pothole here in the past and it has been filled in the past., 17th September :- [8178693](https://www.fixmystreet.com/report/8178693)
 - Relatively deep pothole at entrance of pilley lane, 17th September :- [8178402](https://www.fixmystreet.com/report/8178402)
 - A 1 foot-long piece of concrete forming part of the manhole cover housing has come loose and is protruding above the level of the pavement by about an inch – trip hazard for pedestrians., 17th September :- [8178321](https://www.fixmystreet.com/report/8178321)
 - Tree now overgrown enough to block pavement, 17th September :- [8178192](https://www.fixmystreet.com/report/8178192)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Road signs lying on their side on the pavement at the crossroads by the main crossroads with traffic lights on the corner of Cheltenham college. Not sure if they are abandoned or blown in the wind or if they should be standing to guide traffic, 17th September :- [8177159](https://www.fixmystreet.com/report/8177159)
 - TMC - Defects -CW6 Potholes  problem, 17th September :- [8177370](https://www.fixmystreet.com/report/8177370)
 - TMC - Defects -CW6 Potholes  problem, 17th September :- [8177369](https://www.fixmystreet.com/report/8177369)
-- TMC - Defects -CW6 Potholes  problem, 17th September :- [8177164](https://www.fixmystreet.com/report/8177164)
 
 <!-- fix_marker ends -->
