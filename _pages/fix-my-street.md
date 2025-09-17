@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The drain is clearly blocked and even full of weeds and has been so for years as is the drain kerbs in the road., 17th September :- [8176405](https://www.fixmystreet.com/report/8176405)
+- Tree is damaged problem, 17th September :- [8176275](https://www.fixmystreet.com/report/8176275)
+- TMC - Defects -CW6 Potholes  problem, 17th September :- [8176283](https://www.fixmystreet.com/report/8176283)
+- TMC - Defects -CW6 Potholes  problem, 17th September :- [8176281](https://www.fixmystreet.com/report/8176281)
+- TMC - Defects - Fences & Barriers problem, 17th September :- [8176279](https://www.fixmystreet.com/report/8176279)
 - Work putting in pavements on A435 alongside the new building site at Nortenham Allotments has been completed fir many months but a long line of traffic cones are still on the main road for no apparent reason., 17th September :- [8175776](https://www.fixmystreet.com/report/8175776)
 - Please reply to my email query, 17th September :- [8175516](https://www.fixmystreet.com/report/8175516)
 - Street light mot working 3 wendercliff road, 17th September :- [8175398](https://www.fixmystreet.com/report/8175398)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Tree is damaged problem, 16th September :- [8174023](https://www.fixmystreet.com/report/8174023)
 - Drains all the way down Cirencester Road from golf course to bridge are still blocked . Next time we have heavy rain it will flood again. It’s now doing to our property including our wall so we will have to claim, 16th September :- [8173746](https://www.fixmystreet.com/report/8173746)
 - Worrying situation, 16th September :- [8173727](https://www.fixmystreet.com/report/8173727)
-- Bin full again, 16th September :- [8173724](https://www.fixmystreet.com/report/8173724)
-- TMC - Defects - Other FW6  Surface problem, 16th September :- [8173524](https://www.fixmystreet.com/report/8173524)
-- TMC - Defects - Other FW6  Surface problem, 16th September :- [8173525](https://www.fixmystreet.com/report/8173525)
-- TMC - Defects - Vegetation problem, 16th September :- [8173354](https://www.fixmystreet.com/report/8173354)
-- TMC - Defects - Footways Slabs problem, 16th September :- [8173353](https://www.fixmystreet.com/report/8173353)
 
 <!-- fix_marker ends -->
