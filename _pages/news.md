@@ -12,14 +12,14 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Art exploring identity featured in new exhibition ([3 hours ago](https://www.bbc.com/news/articles/ckgy9exj7g9o?at_medium=RSS&at_campaign=rss))
-- Chip shop cuts costs by using AI to take orders ([3 hours ago](https://www.bbc.com/news/articles/c62lqve087zo?at_medium=RSS&at_campaign=rss))
-- Two Labour MPs denied entry to Israel ([10 hours ago](https://www.bbc.com/news/articles/cge2gweqzjno?at_medium=RSS&at_campaign=rss))
-- Road reopens after car crashes into pizza shop ([13 hours ago](https://www.bbc.com/news/articles/c8xrgwr1zl2o?at_medium=RSS&at_campaign=rss))
-- Villages interested in new 20mph zones reaches 150 ([17 hours ago](https://www.bbc.com/news/articles/c147k5dydmpo?at_medium=RSS&at_campaign=rss))
-- Volunteers upcycling donated clothes for charity shop ([18 hours ago](https://www.bbc.com/news/articles/cqlz2493ee0o?at_medium=RSS&at_campaign=rss))
-- 'A saved swan' and 'welcome messages replace flags' ([22 hours ago](https://www.bbc.com/news/articles/cr4qzknezn0o?at_medium=RSS&at_campaign=rss))
-- Temporary closure of Changing Places facility at Montpellier toilets ([23 hours ago](https://www.cheltenham.gov.uk/news/article/3048/temporary_closure_of_changing_places_facility_at_montpellier_toilets))
+- 'By-election petition' and 'Victorian pier saved' ([1 hours ago](https://www.bbc.com/news/articles/c749z50l034o?at_medium=RSS&at_campaign=rss))
+- Art exploring identity featured in new exhibition ([4 hours ago](https://www.bbc.com/news/articles/ckgy9exj7g9o?at_medium=RSS&at_campaign=rss))
+- Chip shop cuts costs by using AI to take orders ([4 hours ago](https://www.bbc.com/news/articles/c62lqve087zo?at_medium=RSS&at_campaign=rss))
+- Two Labour MPs denied entry to Israel ([11 hours ago](https://www.bbc.com/news/articles/cge2gweqzjno?at_medium=RSS&at_campaign=rss))
+- Road reopens after car crashes into pizza shop ([14 hours ago](https://www.bbc.com/news/articles/c8xrgwr1zl2o?at_medium=RSS&at_campaign=rss))
+- Villages interested in new 20mph zones reaches 150 ([18 hours ago](https://www.bbc.com/news/articles/c147k5dydmpo?at_medium=RSS&at_campaign=rss))
+- Volunteers upcycling donated clothes for charity shop ([19 hours ago](https://www.bbc.com/news/articles/cqlz2493ee0o?at_medium=RSS&at_campaign=rss))
+- Temporary closure of Changing Places facility at Montpellier toilets ([1 days ago](https://www.cheltenham.gov.uk/news/article/3048/temporary_closure_of_changing_places_facility_at_montpellier_toilets))
 - Circus and safari back to normal after strong winds ([1 days ago](https://www.bbc.com/news/articles/c62z6d4xw59o?at_medium=RSS&at_campaign=rss))
 - Forum is 'a statement of confidence in Gloucester' ([1 days ago](https://www.bbc.com/news/articles/c5ykew71zxro?at_medium=RSS&at_campaign=rss))
 - Gloucestershire 'super council' timeline revealed ([1 days ago](https://www.bbc.com/news/articles/ce32ndr356vo?at_medium=RSS&at_campaign=rss))
@@ -61,7 +61,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Go-ahead for new Scout hut in Leckhampton ([25 days ago](https://gloucesternewscentre.co.uk/go-ahead-for-new-scout-hut-in-leckhampton/))
 - Go-ahead for new stables amid fears its ‘aim is to block view to future development behind it’ ([25 days ago](https://gloucesternewscentre.co.uk/go-ahead-for-new-stables-amid-fears-its-aim-is-to-block-view-to-future-development-behind-it/))
 - A435 closure to be extended by two weeks ([26 days ago](https://gloucesternewscentre.co.uk/a435-closure-to-be-extended-by-two-weeks/))
-- Seven years waiting for leisure centre at five acres ([26 days ago](https://www.bbc.co.uk/sounds/play/p0ly5g42?at_medium=RSS&at_campaign=rss))
+- Seven years waiting for leisure centre at five acres ([27 days ago](https://www.bbc.co.uk/sounds/play/p0ly5g42?at_medium=RSS&at_campaign=rss))
 - Late summer bank holiday waste and recycling collections ([28 days ago](https://www.cheltenham.gov.uk/news/article/3042/late_summer_bank_holiday_waste_and_recycling_collections))
 
 <!-- news_marker ends -->
