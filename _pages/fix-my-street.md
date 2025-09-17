@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Please reply to my email query, 17th September :- [8175516](https://www.fixmystreet.com/report/8175516)
 - Street light mot working 3 wendercliff road, 17th September :- [8175398](https://www.fixmystreet.com/report/8175398)
 - Path blocked by crops, hedge and fences, 16th September :- [8175097](https://www.fixmystreet.com/report/8175097)
 - The public footpath is completely blocked by a fence and hedge, 16th September :- [8175089](https://www.fixmystreet.com/report/8175089)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 16th September :- [8173354](https://www.fixmystreet.com/report/8173354)
 - TMC - Defects - Footways Slabs problem, 16th September :- [8173353](https://www.fixmystreet.com/report/8173353)
 - Post or sign leaning slightly (less than 20 degrees) problem, 16th September :- [8173341](https://www.fixmystreet.com/report/8173341)
-- TMC - Defects - Other FW6  Surface problem, 16th September :- [8173346](https://www.fixmystreet.com/report/8173346)
 
 <!-- fix_marker ends -->
