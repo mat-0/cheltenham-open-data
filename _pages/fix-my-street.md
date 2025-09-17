@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipped sofa, 17th September :- [8179015](https://www.fixmystreet.com/report/8179015)
+- Fly tipping of microwave and packaging, 17th September :- [8178982](https://www.fixmystreet.com/report/8178982)
+- This is the edge of the road. It is causing traffic to pull out around it and it is already a narrow rd., 17th September :- [8178881](https://www.fixmystreet.com/report/8178881)
+- Returning potholes, 17th September :- [8178870](https://www.fixmystreet.com/report/8178870)
+- Collapsing road, 17th September :- [8178846](https://www.fixmystreet.com/report/8178846)
+- Post or sign leaning slightly (less than 20 degrees) problem, 17th September :- [8178966](https://www.fixmystreet.com/report/8178966)
 - Double pothole on the main rd A436. There has been a pothole here in the past and it has been filled in the past., 17th September :- [8178693](https://www.fixmystreet.com/report/8178693)
 - Relatively deep pothole at entrance of pilley lane, 17th September :- [8178402](https://www.fixmystreet.com/report/8178402)
 - A 1 foot-long piece of concrete forming part of the manhole cover housing has come loose and is protruding above the level of the pavement by about an inch – trip hazard for pedestrians., 17th September :- [8178321](https://www.fixmystreet.com/report/8178321)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 17th September :- [8178110](https://www.fixmystreet.com/report/8178110)
 - Blocked gutter, 17th September :- [8177852](https://www.fixmystreet.com/report/8177852)
 - TMC - Defects -CW6 Potholes  problem, 17th September :- [8177946](https://www.fixmystreet.com/report/8177946)
-- Grass, 17th September :- [8177288](https://www.fixmystreet.com/report/8177288)
-- TMC - Defects -CW6 Potholes  problem, 17th September :- [8177373](https://www.fixmystreet.com/report/8177373)
-- Cracks in Pavement, 17th September :- [8177235](https://www.fixmystreet.com/report/8177235)
-- Road signs lying on their side on the pavement at the crossroads by the main crossroads with traffic lights on the corner of Cheltenham college. Not sure if they are abandoned or blown in the wind or if they should be standing to guide traffic, 17th September :- [8177159](https://www.fixmystreet.com/report/8177159)
-- TMC - Defects -CW6 Potholes  problem, 17th September :- [8177370](https://www.fixmystreet.com/report/8177370)
-- TMC - Defects -CW6 Potholes  problem, 17th September :- [8177369](https://www.fixmystreet.com/report/8177369)
 
 <!-- fix_marker ends -->
