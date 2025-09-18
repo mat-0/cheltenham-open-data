@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Debris from RTA on verge, 18th September :- [8184201](https://www.fixmystreet.com/report/8184201)
+- Tree growing adjacent to my boundary wall (Crendon House), 18th September :- [8184191](https://www.fixmystreet.com/report/8184191)
 - TMC - Defects - Kerbs and Channels problem, 18th September :- [8183904](https://www.fixmystreet.com/report/8183904)
 - Sunken cover, 18th September :- [8183642](https://www.fixmystreet.com/report/8183642)
 - As shown in photos job was not complete, 18th September :- [8183473](https://www.fixmystreet.com/report/8183473)
@@ -24,10 +26,8 @@ permalink: /fix-my-street
 - Cars ignoring Parking Restrictions, 18th September :- [8182687](https://www.fixmystreet.com/report/8182687)
 - Push button gets stuck, 18th September :- [8182670](https://www.fixmystreet.com/report/8182670)
 - Light sensor is not detecting vehicles problem, 18th September :- [8182582](https://www.fixmystreet.com/report/8182582)
-- TMC - Defects - Kerbs and Channels problem, 18th September :- [8182589](https://www.fixmystreet.com/report/8182589)
 - TMC - Defects - Other problem, 18th September :- [8182587](https://www.fixmystreet.com/report/8182587)
+- TMC - Defects - Kerbs and Channels problem, 18th September :- [8182589](https://www.fixmystreet.com/report/8182589)
 - TMC - Defects - Kerbs and Channels problem, 18th September :- [8182588](https://www.fixmystreet.com/report/8182588)
-- TMC - Defects - Kerbs and Channels problem, 18th September :- [8182585](https://www.fixmystreet.com/report/8182585)
-- TMC - Defects - Kerbs and Channels problem, 18th September :- [8182586](https://www.fixmystreet.com/report/8182586)
 
 <!-- fix_marker ends -->
