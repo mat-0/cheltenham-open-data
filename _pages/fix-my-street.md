@@ -9,10 +9,16 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Collapsing pavement, 18th September :- [8182318](https://www.fixmystreet.com/report/8182318)
+- Road speed hump breaking up L/H side South. Can easily break a front left car suspension spring, 18th September :- [8182317](https://www.fixmystreet.com/report/8182317)
+- Van parked on edge of road, limiting drivers' visibility and causing traffic, 18th September :- [8182125](https://www.fixmystreet.com/report/8182125)
+- Out of Sequence, 18th September :- [8182082](https://www.fixmystreet.com/report/8182082)
+- Unpermitted roadworks problem, 18th September :- [8182190](https://www.fixmystreet.com/report/8182190)
+- Other damage to pavement i.e. cobbles, raised mound/surface problem, 18th September :- [8181959](https://www.fixmystreet.com/report/8181959)
 - Post or sign leaning slightly (less than 20 degrees) problem, 18th September :- [8181745](https://www.fixmystreet.com/report/8181745)
 - TMC - Defects - Kerbs and Channels problem, 18th September :- [8181582](https://www.fixmystreet.com/report/8181582)
-- TMC - Defects - Other FW6  Surface problem, 18th September :- [8181566](https://www.fixmystreet.com/report/8181566)
 - TMC - Defects - Kerbs and Channels problem, 18th September :- [8181565](https://www.fixmystreet.com/report/8181565)
+- TMC - Defects - Other FW6  Surface problem, 18th September :- [8181566](https://www.fixmystreet.com/report/8181566)
 - Street light is permanently out problem, 18th September :- [8181420](https://www.fixmystreet.com/report/8181420)
 - Bollard shell is damaged/vandalised problem, 18th September :- [8181254](https://www.fixmystreet.com/report/8181254)
 - TMC - Defects - Kerbs and Channels problem, 18th September :- [8181257](https://www.fixmystreet.com/report/8181257)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Street light out, 17th September :- [8180025](https://www.fixmystreet.com/report/8180025)
 - Fly posting on street light, 17th September :- [8179995](https://www.fixmystreet.com/report/8179995)
 - Double yellow lines worn away, 17th September :- [8179965](https://www.fixmystreet.com/report/8179965)
-- Grass and vegetation out of control a pathways and roadside, 17th September :- [8179791](https://www.fixmystreet.com/report/8179791)
-- Pavement is very uneven, 17th September :- [8179249](https://www.fixmystreet.com/report/8179249)
-- Flytipping, 17th September :- [8179112](https://www.fixmystreet.com/report/8179112)
-- Flytipped sofa, 17th September :- [8179015](https://www.fixmystreet.com/report/8179015)
-- Fly tipping of microwave and packaging, 17th September :- [8178982](https://www.fixmystreet.com/report/8178982)
-- This is the edge of the road. It is causing traffic to pull out around it and it is already a narrow rd., 17th September :- [8178881](https://www.fixmystreet.com/report/8178881)
 
 <!-- fix_marker ends -->
