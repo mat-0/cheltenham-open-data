@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Public invited to have their say on police force ([7 hours ago](https://www.bbc.com/news/articles/crl50k7ez51o?at_medium=RSS&at_campaign=rss))
-- Horizon Aero Group outlines bold social value commitments for Gloucestershire Airport ([10 hours ago](https://www.cheltenham.gov.uk/news/article/3050/horizon_aero_group_outlines_bold_social_value_commitments_for_gloucestershire_airport))
-- Investigation after swan 'strangled' at beauty spot ([13 hours ago](https://www.bbc.com/news/articles/cp8j6v55kejo?at_medium=RSS&at_campaign=rss))
-- Man in van exposes himself to teenage girl ([14 hours ago](https://www.bbc.com/news/articles/crl50kgeg4do?at_medium=RSS&at_campaign=rss))
-- 'By-election petition' and 'Victorian pier saved' ([17 hours ago](https://www.bbc.com/news/articles/c749z50l034o?at_medium=RSS&at_campaign=rss))
+- Public invited to have their say on police force ([8 hours ago](https://www.bbc.com/news/articles/crl50k7ez51o?at_medium=RSS&at_campaign=rss))
+- Horizon Aero Group outlines bold social value commitments for Gloucestershire Airport ([11 hours ago](https://www.cheltenham.gov.uk/news/article/3050/horizon_aero_group_outlines_bold_social_value_commitments_for_gloucestershire_airport))
+- Investigation after swan 'strangled' at beauty spot ([14 hours ago](https://www.bbc.com/news/articles/cp8j6v55kejo?at_medium=RSS&at_campaign=rss))
+- Man in van exposes himself to teenage girl ([15 hours ago](https://www.bbc.com/news/articles/crl50kgeg4do?at_medium=RSS&at_campaign=rss))
+- 'By-election petition' and 'Victorian pier saved' ([18 hours ago](https://www.bbc.com/news/articles/c749z50l034o?at_medium=RSS&at_campaign=rss))
 - Art exploring identity featured in new exhibition ([21 hours ago](https://www.bbc.com/news/articles/ckgy9exj7g9o?at_medium=RSS&at_campaign=rss))
 - Chip shop cuts costs by using AI to take orders ([21 hours ago](https://www.bbc.com/news/articles/c62lqve087zo?at_medium=RSS&at_campaign=rss))
 - Two Labour MPs denied entry to Israel ([1 days ago](https://www.bbc.com/news/articles/cge2gweqzjno?at_medium=RSS&at_campaign=rss))
