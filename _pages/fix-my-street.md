@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Vandalised zebra crossing, 18th September :- [8185228](https://www.fixmystreet.com/report/8185228)
 - Rubbish and some furniture on the pavement, 18th September :- [8185117](https://www.fixmystreet.com/report/8185117)
 - Large Potholes on Langdale Road, 18th September :- [8185114](https://www.fixmystreet.com/report/8185114)
 - A void underneath pavement , cables on show, 18th September :- [8185080](https://www.fixmystreet.com/report/8185080)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Street lights out to the north and south of the roundabout, 18th September :- [8182955](https://www.fixmystreet.com/report/8182955)
 - The sign for University of Gloucestershire Park Campus has been twisted through 90° so it points South down Shurdington Road instead of indicating the left turn down Moorend Park Road at the traffic lights, 18th September :- [8182938](https://www.fixmystreet.com/report/8182938)
 - TMC - Defects -CW6 Potholes  problem, 18th September :- [8182970](https://www.fixmystreet.com/report/8182970)
-- TMC - Defects - Kerbs and Channels problem, 18th September :- [8182767](https://www.fixmystreet.com/report/8182767)
 
 <!-- fix_marker ends -->
