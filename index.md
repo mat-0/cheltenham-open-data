@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Thursday, 18 September 2025
 
-- The average temperature today is 20.21˚C,
-- With highs of 21.64˚C and lows of 19.27˚C,
-- It may feel like 20.38˚C with broken clouds
-- The wind speed is 5.66m/s and visibility is 10000m
-- The pressure is 1017hPa and humidity is 80%
+- The average temperature today is 19.29˚C,
+- With highs of 21.08˚C and lows of 18.72˚C,
+- It may feel like 19.47˚C with broken clouds
+- The wind speed is 6.17m/s and visibility is 10000m
+- The pressure is 1017hPa and humidity is 84%
 - The sun will rise at 05:47 and set at 18:17
 
 <!-- weather_marker ends -->

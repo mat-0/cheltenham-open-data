@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Sunken cover, 18th September :- [8183642](https://www.fixmystreet.com/report/8183642)
+- As shown in photos job was not complete, 18th September :- [8183473](https://www.fixmystreet.com/report/8183473)
+- Flyposting on lamppost by New Dawn Homes, 18th September :- [8183396](https://www.fixmystreet.com/report/8183396)
 - Dog fouling by lamppost on inside pavement, 18th September :- [8183204](https://www.fixmystreet.com/report/8183204)
 - The street drain is completely full of debris and weeds. And the cross road rain catcher is also full of debris., 18th September :- [8183175](https://www.fixmystreet.com/report/8183175)
 - There is no sign here, 18th September :- [8183146](https://www.fixmystreet.com/report/8183146)
@@ -20,14 +23,11 @@ permalink: /fix-my-street
 - Cars ignoring Parking Restrictions, 18th September :- [8182687](https://www.fixmystreet.com/report/8182687)
 - Push button gets stuck, 18th September :- [8182670](https://www.fixmystreet.com/report/8182670)
 - Light sensor is not detecting vehicles problem, 18th September :- [8182582](https://www.fixmystreet.com/report/8182582)
+- TMC - Defects - Kerbs and Channels problem, 18th September :- [8182588](https://www.fixmystreet.com/report/8182588)
 - TMC - Defects - Other problem, 18th September :- [8182587](https://www.fixmystreet.com/report/8182587)
 - TMC - Defects - Kerbs and Channels problem, 18th September :- [8182589](https://www.fixmystreet.com/report/8182589)
-- TMC - Defects - Kerbs and Channels problem, 18th September :- [8182588](https://www.fixmystreet.com/report/8182588)
 - TMC - Defects - Kerbs and Channels problem, 18th September :- [8182586](https://www.fixmystreet.com/report/8182586)
 - TMC - Defects - Kerbs and Channels problem, 18th September :- [8182585](https://www.fixmystreet.com/report/8182585)
 - Collapsing pavement, 18th September :- [8182318](https://www.fixmystreet.com/report/8182318)
-- Road speed hump breaking up L/H side South. Can easily break a front left car suspension spring, 18th September :- [8182317](https://www.fixmystreet.com/report/8182317)
-- Van parked on edge of road, limiting drivers' visibility and causing traffic, 18th September :- [8182125](https://www.fixmystreet.com/report/8182125)
-- Out of Sequence, 18th September :- [8182082](https://www.fixmystreet.com/report/8182082)
 
 <!-- fix_marker ends -->
