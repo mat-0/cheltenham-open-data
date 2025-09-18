@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Rubbish and some furniture on the pavement, 18th September :- [8185117](https://www.fixmystreet.com/report/8185117)
+- Large Potholes on Langdale Road, 18th September :- [8185114](https://www.fixmystreet.com/report/8185114)
+- A void underneath pavement , cables on show, 18th September :- [8185080](https://www.fixmystreet.com/report/8185080)
+- Broken glass on road, 18th September :- [8185036](https://www.fixmystreet.com/report/8185036)
 - Large pot hole at edge of road, 18th September :- [8184898](https://www.fixmystreet.com/report/8184898)
 - Road markers fallen over, 18th September :- [8184645](https://www.fixmystreet.com/report/8184645)
 - Debris from RTA on verge, 18th September :- [8184201](https://www.fixmystreet.com/report/8184201)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - The sign for University of Gloucestershire Park Campus has been twisted through 90° so it points South down Shurdington Road instead of indicating the left turn down Moorend Park Road at the traffic lights, 18th September :- [8182938](https://www.fixmystreet.com/report/8182938)
 - TMC - Defects -CW6 Potholes  problem, 18th September :- [8182970](https://www.fixmystreet.com/report/8182970)
 - TMC - Defects - Kerbs and Channels problem, 18th September :- [8182767](https://www.fixmystreet.com/report/8182767)
-- Large tree getting very close to property and telephone wires, 18th September :- [8182742](https://www.fixmystreet.com/report/8182742)
-- Cars ignoring Parking Restrictions, 18th September :- [8182687](https://www.fixmystreet.com/report/8182687)
-- Push button gets stuck, 18th September :- [8182670](https://www.fixmystreet.com/report/8182670)
-- Light sensor is not detecting vehicles problem, 18th September :- [8182582](https://www.fixmystreet.com/report/8182582)
 
 <!-- fix_marker ends -->
