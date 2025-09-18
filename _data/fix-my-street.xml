@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:georss="http://www.georss.org/georss"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
+ xmlns:georss="http://www.georss.org/georss"
 >
 
 <channel>
@@ -12,6 +12,15 @@
 <description>The latest local problems reported by users</description>
 <language>en-gb</language>
 
+<item>
+<title>TMC - Defects - Kerbs and Channels problem, 18th September</title>
+<link>https://www.fixmystreet.com/report/8183904</link>
+<description>ENWD with give and take plus temporary footway closure please lift and relay x1 sunken kerb above gully 900x150x50mm stats required (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8183904&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Kerbs and Channels</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8183904</guid>
+<pubDate>Thu, 18 Sep 2025 16:07:22 +0100</pubDate>
+<georss:point>51.8811225507628 -2.10124163020089</georss:point>
+</item>
 <item>
 <title>Sunken cover, 18th September</title>
 <link>https://www.fixmystreet.com/report/8183642</link>
@@ -140,12 +149,12 @@
 </item>
 <item>
 <title>TMC - Defects - Kerbs and Channels problem, 18th September</title>
-<link>https://www.fixmystreet.com/report/8182588</link>
-<description>28 day with give and take plus temporary footway closure please lift and replace x1 broken kerb 900x150x20mm stats required. No parking cones required prior to works. Please note road narrows in nearby vicinity to defect. (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8182588&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/8182589</link>
+<description>28 day with give and take plus temporary footway closure please lift and replace x1 broken kerb above gully 900x150x20mm stats required. No parking cones required prior to works. (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8182589&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Kerbs and Channels</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8182588</guid>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8182589</guid>
 <pubDate>Thu, 18 Sep 2025 12:05:43 +0100</pubDate>
-<georss:point>51.8963217 -2.0742978</georss:point>
+<georss:point>51.8961553084078 -2.07443834386496</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Other problem, 18th September</title>
@@ -158,21 +167,12 @@
 </item>
 <item>
 <title>TMC - Defects - Kerbs and Channels problem, 18th September</title>
-<link>https://www.fixmystreet.com/report/8182589</link>
-<description>28 day with give and take plus temporary footway closure please lift and replace x1 broken kerb above gully 900x150x20mm stats required. No parking cones required prior to works. (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8182589&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/8182588</link>
+<description>28 day with give and take plus temporary footway closure please lift and replace x1 broken kerb 900x150x20mm stats required. No parking cones required prior to works. Please note road narrows in nearby vicinity to defect. (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8182588&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Kerbs and Channels</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8182589</guid>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8182588</guid>
 <pubDate>Thu, 18 Sep 2025 12:05:43 +0100</pubDate>
-<georss:point>51.8961553084078 -2.07443834386496</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Kerbs and Channels problem, 18th September</title>
-<link>https://www.fixmystreet.com/report/8182586</link>
-<description>28 day with give and take plus temporary footway closure please lift and replace x1 broken kerb 900x150x20mm stats required. 2 x bus stops close to defect. (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8182586&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Kerbs and Channels</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8182586</guid>
-<pubDate>Thu, 18 Sep 2025 12:05:31 +0100</pubDate>
-<georss:point>51.8935553 -2.07917889999999</georss:point>
+<georss:point>51.8963217 -2.0742978</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Kerbs and Channels problem, 18th September</title>
@@ -184,13 +184,13 @@
 <georss:point>51.8937023 -2.07953859999999</georss:point>
 </item>
 <item>
-<title>Collapsing pavement, 18th September</title>
-<link>https://www.fixmystreet.com/report/8182318</link>
-<description>Drive entrance outside 93 Ravensgate road.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8182318.0.jpeg?18955e4b&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 91, Ravensgate Road, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8182318&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in pavement</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8182318</guid>
-<pubDate>Thu, 18 Sep 2025 11:48:27 +0100</pubDate>
-<georss:point>51.876668 -2.045432</georss:point>
+<title>TMC - Defects - Kerbs and Channels problem, 18th September</title>
+<link>https://www.fixmystreet.com/report/8182586</link>
+<description>28 day with give and take plus temporary footway closure please lift and replace x1 broken kerb 900x150x20mm stats required. 2 x bus stops close to defect. (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8182586&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Kerbs and Channels</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8182586</guid>
+<pubDate>Thu, 18 Sep 2025 12:05:31 +0100</pubDate>
+<georss:point>51.8935553 -2.07917889999999</georss:point>
 </item>
 </channel>
 </rss>
