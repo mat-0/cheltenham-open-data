@@ -9,6 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pavement floods forcing pedestrians to walk in the road., 17th September :- [8180554](https://www.fixmystreet.com/report/8180554)
+- Large puddle in road with pedestrians getting soaked by passing car., 17th September :- [8180544](https://www.fixmystreet.com/report/8180544)
+- A number of large potholes when exiting longlevens driving towards Churchdown on the roundabout, 17th September :- [8180176](https://www.fixmystreet.com/report/8180176)
+- Street light out, 17th September :- [8180025](https://www.fixmystreet.com/report/8180025)
+- Fly posting on street light, 17th September :- [8179995](https://www.fixmystreet.com/report/8179995)
+- Double yellow lines worn away, 17th September :- [8179965](https://www.fixmystreet.com/report/8179965)
+- Grass and vegetation out of control a pathways and roadside, 17th September :- [8179791](https://www.fixmystreet.com/report/8179791)
 - Pavement is very uneven, 17th September :- [8179249](https://www.fixmystreet.com/report/8179249)
 - Flytipping, 17th September :- [8179112](https://www.fixmystreet.com/report/8179112)
 - Flytipped sofa, 17th September :- [8179015](https://www.fixmystreet.com/report/8179015)
@@ -22,12 +29,5 @@ permalink: /fix-my-street
 - A 1 foot-long piece of concrete forming part of the manhole cover housing has come loose and is protruding above the level of the pavement by about an inch – trip hazard for pedestrians., 17th September :- [8178321](https://www.fixmystreet.com/report/8178321)
 - Tree now overgrown enough to block pavement, 17th September :- [8178192](https://www.fixmystreet.com/report/8178192)
 - TMC - Defects - Vegetation problem, 17th September :- [8178292](https://www.fixmystreet.com/report/8178292)
-- Barrier and signage left behind by contractors, 17th September :- [8178148](https://www.fixmystreet.com/report/8178148)
-- There is a bed base dumped opposite 3 Cromwell Rd Cheltenham which is dangerous..it tips over and obstructs the pavement. It has been there at least a month. Most annoying..an eyesore., 17th September :- [8178147](https://www.fixmystreet.com/report/8178147)
-- Multiple flags attached to street lights, 17th September :- [8178074](https://www.fixmystreet.com/report/8178074)
-- TMC - Defects - Vegetation problem, 17th September :- [8178115](https://www.fixmystreet.com/report/8178115)
-- There is a Tesco shopping trolley in the next driveway to us ..has been dumped here which is annoying., 17th September :- [8178056](https://www.fixmystreet.com/report/8178056)
-- Flyposting on railings, 17th September :- [8178043](https://www.fixmystreet.com/report/8178043)
-- TMC - Defects - Other FW6  Surface problem, 17th September :- [8178110](https://www.fixmystreet.com/report/8178110)
 
 <!-- fix_marker ends -->
