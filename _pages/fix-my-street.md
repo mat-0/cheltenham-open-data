@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street light is permanently out problem, 18th September :- [8181420](https://www.fixmystreet.com/report/8181420)
+- Bollard shell is damaged/vandalised problem, 18th September :- [8181254](https://www.fixmystreet.com/report/8181254)
+- TMC - Defects - Kerbs and Channels problem, 18th September :- [8181257](https://www.fixmystreet.com/report/8181257)
 - Obstruction to narrow section of shared use path, 18th September :- [8180667](https://www.fixmystreet.com/report/8180667)
 - Pavement floods forcing pedestrians to walk in the road., 17th September :- [8180554](https://www.fixmystreet.com/report/8180554)
 - Large puddle in road with pedestrians getting soaked by passing car., 17th September :- [8180544](https://www.fixmystreet.com/report/8180544)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Collapsing road, 17th September :- [8178846](https://www.fixmystreet.com/report/8178846)
 - Post or sign leaning slightly (less than 20 degrees) problem, 17th September :- [8178966](https://www.fixmystreet.com/report/8178966)
 - Double pothole on the main rd A436. There has been a pothole here in the past and it has been filled in the past., 17th September :- [8178693](https://www.fixmystreet.com/report/8178693)
-- Relatively deep pothole at entrance of pilley lane, 17th September :- [8178402](https://www.fixmystreet.com/report/8178402)
-- A 1 foot-long piece of concrete forming part of the manhole cover housing has come loose and is protruding above the level of the pavement by about an inch – trip hazard for pedestrians., 17th September :- [8178321](https://www.fixmystreet.com/report/8178321)
-- Tree now overgrown enough to block pavement, 17th September :- [8178192](https://www.fixmystreet.com/report/8178192)
 
 <!-- fix_marker ends -->
