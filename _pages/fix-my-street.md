@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Post or sign leaning slightly (less than 20 degrees) problem, 18th September :- [8181745](https://www.fixmystreet.com/report/8181745)
+- TMC - Defects - Kerbs and Channels problem, 18th September :- [8181582](https://www.fixmystreet.com/report/8181582)
+- TMC - Defects - Other FW6  Surface problem, 18th September :- [8181566](https://www.fixmystreet.com/report/8181566)
+- TMC - Defects - Kerbs and Channels problem, 18th September :- [8181565](https://www.fixmystreet.com/report/8181565)
 - Street light is permanently out problem, 18th September :- [8181420](https://www.fixmystreet.com/report/8181420)
 - Bollard shell is damaged/vandalised problem, 18th September :- [8181254](https://www.fixmystreet.com/report/8181254)
 - TMC - Defects - Kerbs and Channels problem, 18th September :- [8181257](https://www.fixmystreet.com/report/8181257)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Flytipped sofa, 17th September :- [8179015](https://www.fixmystreet.com/report/8179015)
 - Fly tipping of microwave and packaging, 17th September :- [8178982](https://www.fixmystreet.com/report/8178982)
 - This is the edge of the road. It is causing traffic to pull out around it and it is already a narrow rd., 17th September :- [8178881](https://www.fixmystreet.com/report/8178881)
-- Returning potholes, 17th September :- [8178870](https://www.fixmystreet.com/report/8178870)
-- Collapsing road, 17th September :- [8178846](https://www.fixmystreet.com/report/8178846)
-- Post or sign leaning slightly (less than 20 degrees) problem, 17th September :- [8178966](https://www.fixmystreet.com/report/8178966)
-- Double pothole on the main rd A436. There has been a pothole here in the past and it has been filled in the past., 17th September :- [8178693](https://www.fixmystreet.com/report/8178693)
 
 <!-- fix_marker ends -->
