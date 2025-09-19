@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street cleaning ineffective, 19th September :- [8186139](https://www.fixmystreet.com/report/8186139)
+- Tree stump not replaced, 19th September :- [8186013](https://www.fixmystreet.com/report/8186013)
+- Wooden Safety barrier still not repaired, 19th September :- [8185941](https://www.fixmystreet.com/report/8185941)
+- Broken slabs trip hazard, gas pipe cover?, 19th September :- [8185761](https://www.fixmystreet.com/report/8185761)
 - TMC - Defects -other CW6 problem, 19th September :- [8185642](https://www.fixmystreet.com/report/8185642)
 - Drains still blocked, 19th September :- [8185542](https://www.fixmystreet.com/report/8185542)
 - Tree and fence blocking visibility splay., 19th September :- [8185351](https://www.fixmystreet.com/report/8185351)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Kerbs and Channels problem, 18th September :- [8183904](https://www.fixmystreet.com/report/8183904)
 - Sunken cover, 18th September :- [8183642](https://www.fixmystreet.com/report/8183642)
 - As shown in photos job was not complete, 18th September :- [8183473](https://www.fixmystreet.com/report/8183473)
-- Flyposting on lamppost by New Dawn Homes, 18th September :- [8183396](https://www.fixmystreet.com/report/8183396)
-- Dog fouling by lamppost on inside pavement, 18th September :- [8183204](https://www.fixmystreet.com/report/8183204)
-- The street drain is completely full of debris and weeds. And the cross road rain catcher is also full of debris., 18th September :- [8183175](https://www.fixmystreet.com/report/8183175)
-- There is no sign here, 18th September :- [8183146](https://www.fixmystreet.com/report/8183146)
 
 <!-- fix_marker ends -->

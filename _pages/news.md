@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Venue makes first profit since charity take over ([2 hours ago](https://www.bbc.com/news/articles/c4gjngg8w1po?at_medium=RSS&at_campaign=rss))
-- All you need to know to visit Cheltenham Lit Fest ([2 hours ago](https://www.bbc.com/news/articles/cdxqn2rpzn1o?at_medium=RSS&at_campaign=rss))
-- Four arrested after knifepoint robbery of e-bike ([14 hours ago](https://www.bbc.com/news/articles/c1dqnvr2z3wo?at_medium=RSS&at_campaign=rss))
-- Officer shot by police firearm during knife arrest ([16 hours ago](https://www.bbc.com/news/articles/cly68pppne7o?at_medium=RSS&at_campaign=rss))
-- Airport boss to stand down as new owners announce ‘bold’ vision for growth ([16 hours ago](https://gloucesternewscentre.co.uk/airport-boss-to-stand-down-as-new-owners-announce-bold-vision-for-growth/))
-- Clown helps launch £1m theatre refurb appeal ([17 hours ago](https://www.bbc.com/news/articles/cvgr4815ln4o?at_medium=RSS&at_campaign=rss))
+- Venue makes first profit since charity take over ([3 hours ago](https://www.bbc.com/news/articles/c4gjngg8w1po?at_medium=RSS&at_campaign=rss))
+- All you need to know to visit Cheltenham Lit Fest ([3 hours ago](https://www.bbc.com/news/articles/cdxqn2rpzn1o?at_medium=RSS&at_campaign=rss))
+- Four arrested after knifepoint robbery of e-bike ([15 hours ago](https://www.bbc.com/news/articles/c1dqnvr2z3wo?at_medium=RSS&at_campaign=rss))
+- Officer shot by police firearm during knife arrest ([17 hours ago](https://www.bbc.com/news/articles/cly68pppne7o?at_medium=RSS&at_campaign=rss))
+- Airport boss to stand down as new owners announce ‘bold’ vision for growth ([17 hours ago](https://gloucesternewscentre.co.uk/airport-boss-to-stand-down-as-new-owners-announce-bold-vision-for-growth/))
+- Clown helps launch £1m theatre refurb appeal ([18 hours ago](https://www.bbc.com/news/articles/cvgr4815ln4o?at_medium=RSS&at_campaign=rss))
 - Deer attacked and killed by two dogs say police ([1 days ago](https://www.bbc.com/news/articles/cq5j3plv9qjo?at_medium=RSS&at_campaign=rss))
 - Council to allocate £1.1m for grassroots projects ([1 days ago](https://gloucesternewscentre.co.uk/council-to-allocate-1-1m-for-grassroots-projects/))
 - Man exposes himself to teenage girl in Cheltenham ([1 days ago](https://gloucesternewscentre.co.uk/man-exposes-himself-to-teenage-girl-in-cheltenham/))
