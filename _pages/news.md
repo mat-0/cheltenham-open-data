@@ -13,12 +13,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
 - Four arrested after knifepoint robbery of e-bike ([9 hours ago](https://www.bbc.com/news/articles/c1dqnvr2z3wo?at_medium=RSS&at_campaign=rss))
-- Officer shot by police firearm during knife arrest ([10 hours ago](https://www.bbc.com/news/articles/cly68pppne7o?at_medium=RSS&at_campaign=rss))
+- Officer shot by police firearm during knife arrest ([11 hours ago](https://www.bbc.com/news/articles/cly68pppne7o?at_medium=RSS&at_campaign=rss))
 - Airport boss to stand down as new owners announce ‘bold’ vision for growth ([11 hours ago](https://gloucesternewscentre.co.uk/airport-boss-to-stand-down-as-new-owners-announce-bold-vision-for-growth/))
 - Clown helps launch £1m theatre refurb appeal ([12 hours ago](https://www.bbc.com/news/articles/cvgr4815ln4o?at_medium=RSS&at_campaign=rss))
-- Deer attacked and killed by two dogs say police ([18 hours ago](https://www.bbc.com/news/articles/cq5j3plv9qjo?at_medium=RSS&at_campaign=rss))
-- Council to allocate £1.1m for grassroots projects ([18 hours ago](https://gloucesternewscentre.co.uk/council-to-allocate-1-1m-for-grassroots-projects/))
-- Man exposes himself to teenage girl in Cheltenham ([18 hours ago](https://gloucesternewscentre.co.uk/man-exposes-himself-to-teenage-girl-in-cheltenham/))
+- Deer attacked and killed by two dogs say police ([19 hours ago](https://www.bbc.com/news/articles/cq5j3plv9qjo?at_medium=RSS&at_campaign=rss))
+- Council to allocate £1.1m for grassroots projects ([19 hours ago](https://gloucesternewscentre.co.uk/council-to-allocate-1-1m-for-grassroots-projects/))
+- Man exposes himself to teenage girl in Cheltenham ([19 hours ago](https://gloucesternewscentre.co.uk/man-exposes-himself-to-teenage-girl-in-cheltenham/))
 - Appeal for witnesses after elderly woman was subjected to racial abuse in Cheltenham ([19 hours ago](https://gloucesternewscentre.co.uk/appeal-for-witnesses-after-elderly-woman-was-subjected-to-racial-abuse-in-cheltenham/))
 - Businesses frustrated over M5 junction delays ([21 hours ago](https://www.bbc.com/news/articles/cn0rz480gklo?at_medium=RSS&at_campaign=rss))
 - Radiation a 'hidden bullet' says testing veteran ([21 hours ago](https://www.bbc.com/news/articles/cm2d3krpm1no?at_medium=RSS&at_campaign=rss))
