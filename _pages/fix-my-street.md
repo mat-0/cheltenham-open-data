@@ -11,7 +11,10 @@ permalink: /fix-my-street
 
 - Pothole opposite 43 Parton Road, 19th September :- [8186534](https://www.fixmystreet.com/report/8186534)
 - Play area overgrown with weeds, 19th September :- [8186521](https://www.fixmystreet.com/report/8186521)
+- TMC - Defects -CW6 Potholes  problem, 19th September :- [8186602](https://www.fixmystreet.com/report/8186602)
 - Street light is not working making it very difficult to walk in that area after dark!, 19th September :- [8186490](https://www.fixmystreet.com/report/8186490)
+- TMC - Defects - Other problem, 19th September :- [8186596](https://www.fixmystreet.com/report/8186596)
+- Blocking visibility on road/junction (Grass/verge) problem, 19th September :- [8186589](https://www.fixmystreet.com/report/8186589)
 - Road signs blocking walkway, 19th September :- [8186379](https://www.fixmystreet.com/report/8186379)
 - Deep pothole on St Michaels Avenue, 19th September :- [8186288](https://www.fixmystreet.com/report/8186288)
 - Street cleaning. NOT, 19th September :- [8186278](https://www.fixmystreet.com/report/8186278)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Vandalised zebra crossing, 18th September :- [8185228](https://www.fixmystreet.com/report/8185228)
 - Rubbish and some furniture on the pavement, 18th September :- [8185117](https://www.fixmystreet.com/report/8185117)
 - Large Potholes on Langdale Road, 18th September :- [8185114](https://www.fixmystreet.com/report/8185114)
-- A void underneath pavement , cables on show, 18th September :- [8185080](https://www.fixmystreet.com/report/8185080)
-- Broken glass on road, 18th September :- [8185036](https://www.fixmystreet.com/report/8185036)
-- Large pot hole at edge of road, 18th September :- [8184898](https://www.fixmystreet.com/report/8184898)
 
 <!-- fix_marker ends -->
