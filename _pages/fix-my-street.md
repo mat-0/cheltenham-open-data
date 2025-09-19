@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Nuisance parking at school open evening, 19th September :- [8189441](https://www.fixmystreet.com/report/8189441)
+- Dangerous paving., 19th September :- [8189414](https://www.fixmystreet.com/report/8189414)
 - Street light not working, 19th September :- [8189259](https://www.fixmystreet.com/report/8189259)
 - A long thin 2 foot gorge shaped pothole on the nearside going north., 19th September :- [8189161](https://www.fixmystreet.com/report/8189161)
 - Three pothole cluster on New Road north bound, 19th September :- [8189148](https://www.fixmystreet.com/report/8189148)
@@ -26,8 +28,6 @@ permalink: /fix-my-street
 - Directly at bottom of my garden on public road, 19th September :- [8188334](https://www.fixmystreet.com/report/8188334)
 - TMC - Defects - Kerbs and Channels problem, 19th September :- [8188199](https://www.fixmystreet.com/report/8188199)
 - TMC - Defects - Other FW6  Surface problem, 19th September :- [8188200](https://www.fixmystreet.com/report/8188200)
-- TMC - Defects - Kerbs and Channels problem, 19th September :- [8188197](https://www.fixmystreet.com/report/8188197)
 - TMC - Defects - Kerbs and Channels problem, 19th September :- [8188198](https://www.fixmystreet.com/report/8188198)
-- TMC - Defects - Other FW6  Surface problem, 19th September :- [8188196](https://www.fixmystreet.com/report/8188196)
 
 <!-- fix_marker ends -->
