@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fly Tipping and More, 19th September :- [8187231](https://www.fixmystreet.com/report/8187231)
+- TMC - Defects -other CW6 problem, 19th September :- [8187172](https://www.fixmystreet.com/report/8187172)
+- A pothole in road problem, 19th September :- [8187016](https://www.fixmystreet.com/report/8187016)
 - Pothole opposite 43 Parton Road, 19th September :- [8186534](https://www.fixmystreet.com/report/8186534)
 - Play area overgrown with weeds, 19th September :- [8186521](https://www.fixmystreet.com/report/8186521)
 - TMC - Defects -CW6 Potholes  problem, 19th September :- [8186602](https://www.fixmystreet.com/report/8186602)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -other CW6 problem, 19th September :- [8185642](https://www.fixmystreet.com/report/8185642)
 - Drains still blocked, 19th September :- [8185542](https://www.fixmystreet.com/report/8185542)
 - Tree and fence blocking visibility splay., 19th September :- [8185351](https://www.fixmystreet.com/report/8185351)
-- Vandalised zebra crossing, 18th September :- [8185228](https://www.fixmystreet.com/report/8185228)
-- Rubbish and some furniture on the pavement, 18th September :- [8185117](https://www.fixmystreet.com/report/8185117)
-- Large Potholes on Langdale Road, 18th September :- [8185114](https://www.fixmystreet.com/report/8185114)
 
 <!-- fix_marker ends -->
