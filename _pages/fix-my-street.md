@@ -9,7 +9,14 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole opposite 43 Parton Road, 19th September :- [8186534](https://www.fixmystreet.com/report/8186534)
+- Play area overgrown with weeds, 19th September :- [8186521](https://www.fixmystreet.com/report/8186521)
+- Street light is not working making it very difficult to walk in that area after dark!, 19th September :- [8186490](https://www.fixmystreet.com/report/8186490)
+- Road signs blocking walkway, 19th September :- [8186379](https://www.fixmystreet.com/report/8186379)
+- Deep pothole on St Michaels Avenue, 19th September :- [8186288](https://www.fixmystreet.com/report/8186288)
+- Street cleaning. NOT, 19th September :- [8186278](https://www.fixmystreet.com/report/8186278)
 - Street cleaning ineffective, 19th September :- [8186139](https://www.fixmystreet.com/report/8186139)
+- Street light is permanently out problem, 19th September :- [8186208](https://www.fixmystreet.com/report/8186208)
 - Tree stump not replaced, 19th September :- [8186013](https://www.fixmystreet.com/report/8186013)
 - Wooden Safety barrier still not repaired, 19th September :- [8185941](https://www.fixmystreet.com/report/8185941)
 - Broken slabs trip hazard, gas pipe cover?, 19th September :- [8185761](https://www.fixmystreet.com/report/8185761)
@@ -22,12 +29,5 @@ permalink: /fix-my-street
 - A void underneath pavement , cables on show, 18th September :- [8185080](https://www.fixmystreet.com/report/8185080)
 - Broken glass on road, 18th September :- [8185036](https://www.fixmystreet.com/report/8185036)
 - Large pot hole at edge of road, 18th September :- [8184898](https://www.fixmystreet.com/report/8184898)
-- Road markers fallen over, 18th September :- [8184645](https://www.fixmystreet.com/report/8184645)
-- Debris from RTA on verge, 18th September :- [8184201](https://www.fixmystreet.com/report/8184201)
-- Tree growing adjacent to my boundary wall (Crendon House), 18th September :- [8184191](https://www.fixmystreet.com/report/8184191)
-- Potholes in the ford. HGVs using the road even though the sign says no HGVS., 18th September :- [8184017](https://www.fixmystreet.com/report/8184017)
-- TMC - Defects - Kerbs and Channels problem, 18th September :- [8183904](https://www.fixmystreet.com/report/8183904)
-- Sunken cover, 18th September :- [8183642](https://www.fixmystreet.com/report/8183642)
-- As shown in photos job was not complete, 18th September :- [8183473](https://www.fixmystreet.com/report/8183473)
 
 <!-- fix_marker ends -->
