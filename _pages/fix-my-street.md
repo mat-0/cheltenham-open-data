@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Caravan left unattended, 19th September :- [8189504](https://www.fixmystreet.com/report/8189504)
 - Nuisance parking at school open evening, 19th September :- [8189441](https://www.fixmystreet.com/report/8189441)
 - Dangerous paving., 19th September :- [8189414](https://www.fixmystreet.com/report/8189414)
 - Street light not working, 19th September :- [8189259](https://www.fixmystreet.com/report/8189259)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Directly at bottom of my garden on public road, 19th September :- [8188334](https://www.fixmystreet.com/report/8188334)
 - TMC - Defects - Kerbs and Channels problem, 19th September :- [8188199](https://www.fixmystreet.com/report/8188199)
 - TMC - Defects - Other FW6  Surface problem, 19th September :- [8188200](https://www.fixmystreet.com/report/8188200)
-- TMC - Defects - Kerbs and Channels problem, 19th September :- [8188198](https://www.fixmystreet.com/report/8188198)
 
 <!-- fix_marker ends -->
