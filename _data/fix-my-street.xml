@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:georss="http://www.georss.org/georss"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
+ xmlns:georss="http://www.georss.org/georss"
 >
 
 <channel>
@@ -12,6 +12,123 @@
 <description>The latest local problems reported by users</description>
 <language>en-gb</language>
 
+<item>
+<title>TMC - Defects - Kerbs and Channels problem, 19th September</title>
+<link>https://www.fixmystreet.com/report/8187717</link>
+<description>28day with 3 way traffic lights plus temporary footway closure please lift and relay x1 sunken dropped kerb 900x150x20mm stats required number 3 (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8187717&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Kerbs and Channels</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8187717</guid>
+<pubDate>Fri, 19 Sep 2025 13:52:44 +0100</pubDate>
+<georss:point>51.9143988026468 -2.05766206411941</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Kerbs and Channels problem, 19th September</title>
+<link>https://www.fixmystreet.com/report/8187716</link>
+<description>28day with 3 way traffic lights plus temporary footway closure please lift and relay x1 sunken kerb 900x150x20mm stats required number 2 (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8187716&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Kerbs and Channels</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8187716</guid>
+<pubDate>Fri, 19 Sep 2025 13:52:44 +0100</pubDate>
+<georss:point>51.9144153 -2.05776399999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Kerbs and Channels problem, 19th September</title>
+<link>https://www.fixmystreet.com/report/8187715</link>
+<description>28day with 3 way traffic lights plus temporary footway closure please lift and relay x1 sunken kerb 900x150x20mm stats required number 1 (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8187715&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Kerbs and Channels</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8187715</guid>
+<pubDate>Fri, 19 Sep 2025 13:52:44 +0100</pubDate>
+<georss:point>51.9144104 -2.05770829999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Kerbs and Channels problem, 19th September</title>
+<link>https://www.fixmystreet.com/report/8187718</link>
+<description>28 day with give and take plus temporary footway closure please lift and relay x1 sunken kerb 900x150x20mm stats required (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8187718&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Kerbs and Channels</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8187718</guid>
+<pubDate>Fri, 19 Sep 2025 13:52:44 +0100</pubDate>
+<georss:point>51.9152055 -2.0655316</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 19th September</title>
+<link>https://www.fixmystreet.com/report/8187712</link>
+<description>28 day with 2 way stop and go carriageway pothole 550x500x90mm tarmac patch required. (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8187712&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8187712</guid>
+<pubDate>Fri, 19 Sep 2025 13:50:47 +0100</pubDate>
+<georss:point>51.9134155 -2.04161720000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 19th September</title>
+<link>https://www.fixmystreet.com/report/8187713</link>
+<description>28 day with 2 way stop and go carriageway pothole 500x300x50mm tarmac patch required. Unmarked and sizes approximate due to traffic volume. (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8187713&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8187713</guid>
+<pubDate>Fri, 19 Sep 2025 13:50:47 +0100</pubDate>
+<georss:point>51.9134943122997 -2.0418597451692</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Kerbs and Channels problem, 19th September</title>
+<link>https://www.fixmystreet.com/report/8187564</link>
+<description>28 day with 3 way stop and go plus temporary footway closure please lift and replace x1 broken sunken kerb 900x150x20mm stats required. (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8187564&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Kerbs and Channels</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8187564</guid>
+<pubDate>Fri, 19 Sep 2025 13:31:19 +0100</pubDate>
+<georss:point>51.9472231676156 -2.05828886457578</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Kerbs and Channels problem, 19th September</title>
+<link>https://www.fixmystreet.com/report/8187563</link>
+<description>28 day with 2 way stop and go plus temporary footway closure please lift and replace x1 broken sunken kerb 900x150x20mm stats required. (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8187563&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Kerbs and Channels</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8187563</guid>
+<pubDate>Fri, 19 Sep 2025 13:31:09 +0100</pubDate>
+<georss:point>51.9473883 -2.06142259999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Kerbs and Channels problem, 19th September</title>
+<link>https://www.fixmystreet.com/report/8187562</link>
+<description>28 day with 2 way stop and go plus temporary footway closure please lift and replace x1 broken kerb 900x150x20mm stats required. (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8187562&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Kerbs and Channels</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8187562</guid>
+<pubDate>Fri, 19 Sep 2025 13:31:09 +0100</pubDate>
+<georss:point>51.947358 -2.0605232</georss:point>
+</item>
+<item>
+<title>Fly Tipping andFlooding., 19th September</title>
+<link>https://www.fixmystreet.com/report/8187473</link>
+<description>Elmbridge Court ,A417 / A40 ,subways in poor state of repairs broken drain covers ,dirty walls ,graffiti over grown trees and weeds, and this is part of the Flagship £48 million cycle route between Gloucester and Cheltenham , over 50,0000 cyclists, pedestrians Mobility scooters users will travel these subways needs sorting ASAP ,&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8187473.0.jpeg?09088012&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Cheltenham Road, Elmbridge, Gloucester&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8187473&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Pavement/footpath/cycleway/bridleway issue (NH)</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8187473</guid>
+<pubDate>Fri, 19 Sep 2025 13:20:27 +0100</pubDate>
+<georss:point>51.87823 -2.200632</georss:point>
+</item>
+<item>
+<title>Drain blocked with mud, 19th September</title>
+<link>https://www.fixmystreet.com/report/8187390</link>
+<description>Drain blocked with mud This area regularly floods in the winter Can this drain please be cleared before we see more flooding?&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8187390.0.jpeg?d5b7db8f&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 8, Malleson Road, Gotherington, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8187390&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>The drain is blocked</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8187390</guid>
+<pubDate>Fri, 19 Sep 2025 13:09:33 +0100</pubDate>
+<georss:point>51.964661 -2.053405</georss:point>
+</item>
+<item>
+<title>Drain blocked with mud, 19th September</title>
+<link>https://www.fixmystreet.com/report/8187352</link>
+<description>Drain blocked with mud which has now filled the drain This area regularly floods in the winter Can this drain please be cleared before we see more flooding?&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8187352.0.jpeg?e3cf02ab&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 5, Gretton Road, Gotherington, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8187352&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>The drain is blocked</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8187352</guid>
+<pubDate>Fri, 19 Sep 2025 13:07:40 +0100</pubDate>
+<georss:point>51.964555 -2.052585</georss:point>
+</item>
+<item>
+<title>Drain blocked with mud, 19th September</title>
+<link>https://www.fixmystreet.com/report/8187314</link>
+<description>Drain blocked with mud to the extent that vegetation is growing through the drain This area regularly floods in the winter Can this drain please be cleared before we see more flooding?&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8187314.0.jpeg?7d60810b&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Cleeve Road, Gotherington, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8187314&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>The drain is blocked</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8187314</guid>
+<pubDate>Fri, 19 Sep 2025 13:03:16 +0100</pubDate>
+<georss:point>51.964489 -2.053051</georss:point>
+</item>
 <item>
 <title>Fly Tipping and More, 19th September</title>
 <link>https://www.fixmystreet.com/report/8187231</link>
@@ -74,123 +191,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/8186490</guid>
 <pubDate>Fri, 19 Sep 2025 10:43:32 +0100</pubDate>
 <georss:point>51.840906 -2.179131</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other problem, 19th September</title>
-<link>https://www.fixmystreet.com/report/8186596</link>
-<description>PLEASE REMOVE DEBRIS FROM CARRIAGEWAY &amp;#10;8M X 1M X 65mm&amp;#10;ROAD CLOSURE &amp;#10;NOT MARKED (Debris/Obstruction in CW)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8186596&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8186596</guid>
-<pubDate>Fri, 19 Sep 2025 10:35:07 +0100</pubDate>
-<georss:point>51.8266608 -2.04618610000001</georss:point>
-</item>
-<item>
-<title>Blocking visibility on road/junction (Grass/verge) problem, 19th September</title>
-<link>https://www.fixmystreet.com/report/8186589</link>
-<description>Grass on reservation is overgrown and blocks visibility of traffic pulling out of the lane, happens every year and we get it done&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8186589&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Blocking visibility on road/junction (Grass/verge)</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8186589</guid>
-<pubDate>Fri, 19 Sep 2025 10:32:48 +0100</pubDate>
-<georss:point>51.841041 -2.137471</georss:point>
-</item>
-<item>
-<title>Road signs blocking walkway, 19th September</title>
-<link>https://www.fixmystreet.com/report/8186379</link>
-<description>No idea what this is but it has fallen over and is blocking the walkway&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8186379.0.jpeg?16194cc4&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 170-172, Leckhampton Road, Leckhampton, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8186379&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Signs &amp; Barriers left behind by Contractor</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8186379</guid>
-<pubDate>Fri, 19 Sep 2025 10:24:25 +0100</pubDate>
-<georss:point>51.876776 -2.076679</georss:point>
-</item>
-<item>
-<title>Deep pothole on St Michaels Avenue, 19th September</title>
-<link>https://www.fixmystreet.com/report/8186288</link>
-<description>What 3 Words location moods.outer.pulse&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8186288.0.jpeg?61a04204&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): St Michaels Avenue, Bishop&#39;s Cleeve&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8186288&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8186288</guid>
-<pubDate>Fri, 19 Sep 2025 10:07:35 +0100</pubDate>
-<georss:point>51.943263 -2.055669</georss:point>
-</item>
-<item>
-<title>Street cleaning. NOT, 19th September</title>
-<link>https://www.fixmystreet.com/report/8186278</link>
-<description>This was the result of your road sweeper so say cleaning the streets and roads of Benhall. Looks more like he is dumping debris&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8186278.0.jpeg?68a68f1c&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 28, Coberley Road, Hatherley, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8186278&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Street cleaning</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8186278</guid>
-<pubDate>Fri, 19 Sep 2025 10:06:13 +0100</pubDate>
-<georss:point>51.895128 -2.120014</georss:point>
-</item>
-<item>
-<title>Street cleaning ineffective, 19th September</title>
-<link>https://www.fixmystreet.com/report/8186139</link>
-<description>The road sweeper came today to clean the streets of Benhall and this is the mess he left . All the roads are in the same condition.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8186139.0.jpeg?63165f0d&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 27-31, Benhall Avenue, Hatherley, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8186139&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Street cleaning</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8186139</guid>
-<pubDate>Fri, 19 Sep 2025 09:50:02 +0100</pubDate>
-<georss:point>51.894249 -2.11813</georss:point>
-</item>
-<item>
-<title>Street light is permanently out problem, 19th September</title>
-<link>https://www.fixmystreet.com/report/8186208</link>
-<description>Customer has called in and has mentioned that the lights have been out for a for a while. &#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8186208&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Street light is permanently out</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8186208</guid>
-<pubDate>Fri, 19 Sep 2025 09:40:01 +0100</pubDate>
-<georss:point>51.891878 -2.086732</georss:point>
-</item>
-<item>
-<title>Tree stump not replaced, 19th September</title>
-<link>https://www.fixmystreet.com/report/8186013</link>
-<description>Tree stump not replaced outside No 2 Fairfield Park Rd&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8186013.0.jpeg?6aba94e3&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 7, Leckhampton Place, Leckhampton, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8186013&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Trees</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8186013</guid>
-<pubDate>Fri, 19 Sep 2025 09:33:15 +0100</pubDate>
-<georss:point>51.882095 -2.076134</georss:point>
-</item>
-<item>
-<title>Wooden Safety barrier still not repaired, 19th September</title>
-<link>https://www.fixmystreet.com/report/8185941</link>
-<description>This is just a quick email to enquire about the damage to the wooden safety barrier on Station Road, Churchdown. It’s been damaged for over a year now (may be even two years!) and still hasn’t been replaced/repaired? To be fair, I wonder if it’s ever been reported before, but I remain hopeful that you may have news that it’s nearing the top of the list and being repaired very soon?&amp;#10;&amp;#10;I remember some rail/gas engineers moved the damaged barrier to the side many moons ago and it’s not moved since! There have been a number of engineering activities at that bridge over the last year or so, but none of them have come back to repair it! It’s quite unsightly.&amp;#10;&amp;#10;I’ve attached some photos and sharing a what3words address to help you find this specific location. ///flocking.blurs.station&amp;#10;&amp;#10;Hopefully hear from you very soon.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8185941.0.jpeg?70ca5e57&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Station Road, Churchdown, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8185941&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Parks/landscapes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8185941</guid>
-<pubDate>Fri, 19 Sep 2025 09:22:09 +0100</pubDate>
-<georss:point>51.880835 -2.168575</georss:point>
-</item>
-<item>
-<title>Broken slabs trip hazard, gas pipe cover?, 19th September</title>
-<link>https://www.fixmystreet.com/report/8185761</link>
-<description>Outside 21 Greet Road&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8185761.0.jpeg?937ed6a4&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Greet Road, Winchcombe, Winchcombe&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8185761&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Missing/broken/rocking/unstable slab</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8185761</guid>
-<pubDate>Fri, 19 Sep 2025 08:57:41 +0100</pubDate>
-<georss:point>51.957828 -1.964928</georss:point>
-</item>
-<item>
-<title>TMC - Defects -other CW6 problem, 19th September</title>
-<link>https://www.fixmystreet.com/report/8185642</link>
-<description>ENWD &amp;#10;CWED &amp;#10;7M X 400 X 75MM&amp;#10;4 WAY TRAFFIC LIGHTS &amp;#10;MARKED X&amp;#10;RECOMMEND OUT OF HOURS (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8185642&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -other CW6</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8185642</guid>
-<pubDate>Fri, 19 Sep 2025 08:10:06 +0100</pubDate>
-<georss:point>51.8672015812823 -1.99049022877282</georss:point>
-</item>
-<item>
-<title>Drains still blocked, 19th September</title>
-<link>https://www.fixmystreet.com/report/8185542</link>
-<description>Drains still blocked repeatedly reported and ignored&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8185542.0.jpeg?6c4bb474&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Innsworth Lane, Innsworth, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8185542&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>The drain is blocked</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8185542</guid>
-<pubDate>Fri, 19 Sep 2025 08:01:36 +0100</pubDate>
-<georss:point>51.885293 -2.214021</georss:point>
-</item>
-<item>
-<title>Tree and fence blocking visibility splay., 19th September</title>
-<link>https://www.fixmystreet.com/report/8185351</link>
-<description>Tree in between 72A and 74 Evesham Road located on Highways land is blocking the visibility splay when exiting 72A Evesham Road. The tree is covered in ivy and other climbing plants, as well as sprouting new growth. It is also encroaching onto the public footpath. The fence is also blocking the visibility splay and contrary to TBC planning permission.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8185351.0.jpeg?e9de3ef8&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 72, Evesham Road, Bishop&#39;s Cleeve&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8185351&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Tree blocking visibility on road/junction</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8185351</guid>
-<pubDate>Fri, 19 Sep 2025 06:45:09 +0100</pubDate>
-<georss:point>51.953779 -2.064511</georss:point>
 </item>
 </channel>
 </rss>
