@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- A long thin 2 foot gorge shaped pothole on the nearside going north., 19th September :- [8189161](https://www.fixmystreet.com/report/8189161)
+- Three pothole cluster on New Road north bound, 19th September :- [8189148](https://www.fixmystreet.com/report/8189148)
 - Overgrown bush across path, 19th September :- [8188949](https://www.fixmystreet.com/report/8188949)
 - Fly tipping, 19th September :- [8188943](https://www.fixmystreet.com/report/8188943)
 - Fly tipping, 19th September :- [8188933](https://www.fixmystreet.com/report/8188933)
@@ -21,13 +23,11 @@ permalink: /fix-my-street
 - Stile has fallen apart/rotted, 19th September :- [8188427](https://www.fixmystreet.com/report/8188427)
 - 10inch pothole near junction with Glenfall Way and Sandhurst Road, 19th September :- [8188422](https://www.fixmystreet.com/report/8188422)
 - Directly at bottom of my garden on public road, 19th September :- [8188334](https://www.fixmystreet.com/report/8188334)
-- TMC - Defects - Kerbs and Channels problem, 19th September :- [8188199](https://www.fixmystreet.com/report/8188199)
 - TMC - Defects - Other FW6  Surface problem, 19th September :- [8188200](https://www.fixmystreet.com/report/8188200)
+- TMC - Defects - Kerbs and Channels problem, 19th September :- [8188199](https://www.fixmystreet.com/report/8188199)
 - TMC - Defects - Kerbs and Channels problem, 19th September :- [8188198](https://www.fixmystreet.com/report/8188198)
-- TMC - Defects - Other FW6  Surface problem, 19th September :- [8188196](https://www.fixmystreet.com/report/8188196)
 - TMC - Defects - Kerbs and Channels problem, 19th September :- [8188197](https://www.fixmystreet.com/report/8188197)
+- TMC - Defects - Other FW6  Surface problem, 19th September :- [8188196](https://www.fixmystreet.com/report/8188196)
 - Cones left outside Deep Space Works on Hamilton Street causing an obstruction, 19th September :- [8188107](https://www.fixmystreet.com/report/8188107)
-- I write again to request that the double yellow lines at the junction of Charlton Park Drive and Old Bath Road in Cheltenham be cleaned and repainted., 19th September :- [8187850](https://www.fixmystreet.com/report/8187850)
-- TMC - Defects -CW6 Potholes  problem, 19th September :- [8187884](https://www.fixmystreet.com/report/8187884)
 
 <!-- fix_marker ends -->

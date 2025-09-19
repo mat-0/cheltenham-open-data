@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Friday, 19 September 2025
 
-- The average temperature today is 19.56˚C,
-- With highs of 20.4˚C and lows of 18.86˚C,
-- It may feel like 19.45˚C with few clouds
-- The wind speed is 2.57m/s and visibility is 10000m
-- The pressure is 1014hPa and humidity is 72%
+- The average temperature today is 18˚C,
+- With highs of 18.75˚C and lows of 17.6˚C,
+- It may feel like 17.89˚C with few clouds
+- The wind speed is 3.09m/s and visibility is 10000m
+- The pressure is 1014hPa and humidity is 78%
 - The sun will rise at 05:49 and set at 18:14
 
 <!-- weather_marker ends -->
