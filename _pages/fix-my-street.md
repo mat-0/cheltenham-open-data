@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street light out on the corner by the railway bridge, 20th September :- [8189760](https://www.fixmystreet.com/report/8189760)
 - Caravan left unattended, 19th September :- [8189504](https://www.fixmystreet.com/report/8189504)
 - Nuisance parking at school open evening, 19th September :- [8189441](https://www.fixmystreet.com/report/8189441)
 - Dangerous paving., 19th September :- [8189414](https://www.fixmystreet.com/report/8189414)
@@ -27,7 +28,6 @@ permalink: /fix-my-street
 - Stile has fallen apart/rotted, 19th September :- [8188427](https://www.fixmystreet.com/report/8188427)
 - 10inch pothole near junction with Glenfall Way and Sandhurst Road, 19th September :- [8188422](https://www.fixmystreet.com/report/8188422)
 - Directly at bottom of my garden on public road, 19th September :- [8188334](https://www.fixmystreet.com/report/8188334)
-- TMC - Defects - Kerbs and Channels problem, 19th September :- [8188199](https://www.fixmystreet.com/report/8188199)
 - TMC - Defects - Other FW6  Surface problem, 19th September :- [8188200](https://www.fixmystreet.com/report/8188200)
 
 <!-- fix_marker ends -->
