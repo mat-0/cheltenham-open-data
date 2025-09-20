@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- A40 Lansdown Road, 20th September :- [8190744](https://www.fixmystreet.com/report/8190744)
 - Potholes, 20th September :- [8190615](https://www.fixmystreet.com/report/8190615)
 - TMC - Defects - Vegetation problem, 20th September :- [8190142](https://www.fixmystreet.com/report/8190142)
 - TMC - Defects -CW6 Potholes  problem, 20th September :- [8189968](https://www.fixmystreet.com/report/8189968)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Junction of Stockwell Lane and the B4632, 19th September :- [8188846](https://www.fixmystreet.com/report/8188846)
 - Fallen tree blocking Bridleway, 19th September :- [8188666](https://www.fixmystreet.com/report/8188666)
 - Several potholes on beeches road, 19th September :- [8188648](https://www.fixmystreet.com/report/8188648)
-- Stile has fallen apart/rotted, 19th September :- [8188427](https://www.fixmystreet.com/report/8188427)
 
 <!-- fix_marker ends -->
