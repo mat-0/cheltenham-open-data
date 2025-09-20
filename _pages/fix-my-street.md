@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Volunteer litter pick bags ready for collection, 20th September :- [8191066](https://www.fixmystreet.com/report/8191066)
+- Roadside drain blocked with silt and stones following recent heavy rainfall., 20th September :- [8191022](https://www.fixmystreet.com/report/8191022)
 - A40 Lansdown Road, 20th September :- [8190744](https://www.fixmystreet.com/report/8190744)
 - Potholes, 20th September :- [8190615](https://www.fixmystreet.com/report/8190615)
 - TMC - Defects - Vegetation problem, 20th September :- [8190142](https://www.fixmystreet.com/report/8190142)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Fly tipping, 19th September :- [8188899](https://www.fixmystreet.com/report/8188899)
 - Trees leaning precariously top section Stockwell Lane and the B4632, 19th September :- [8188854](https://www.fixmystreet.com/report/8188854)
 - Junction of Stockwell Lane and the B4632, 19th September :- [8188846](https://www.fixmystreet.com/report/8188846)
-- Fallen tree blocking Bridleway, 19th September :- [8188666](https://www.fixmystreet.com/report/8188666)
-- Several potholes on beeches road, 19th September :- [8188648](https://www.fixmystreet.com/report/8188648)
 
 <!-- fix_marker ends -->
