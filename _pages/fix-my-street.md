@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Grass verge alongside of Tern Court., 20th September :- [8191941](https://www.fixmystreet.com/report/8191941)
 - Roadwork signage stashed behind road name board, 20th September :- [8191541](https://www.fixmystreet.com/report/8191541)
 - A pot hole in fairly new tarmac opposite the building site on the Cheltenham bound side of the road between Farm Lane and Church Lane, MAIN ROAD, SHURDINGTON., 20th September :- [8191399](https://www.fixmystreet.com/report/8191399)
 - St. George's cross painted on roundabout, 20th September :- [8191312](https://www.fixmystreet.com/report/8191312)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - A long thin 2 foot gorge shaped pothole on the nearside going north., 19th September :- [8189161](https://www.fixmystreet.com/report/8189161)
 - Three pothole cluster on New Road north bound, 19th September :- [8189148](https://www.fixmystreet.com/report/8189148)
 - Overgrown bush across path, 19th September :- [8188949](https://www.fixmystreet.com/report/8188949)
-- Fly tipping, 19th September :- [8188943](https://www.fixmystreet.com/report/8188943)
 
 <!-- fix_marker ends -->
