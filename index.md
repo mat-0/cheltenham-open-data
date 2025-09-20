@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Saturday, 20 September 2025
 
-- The average temperature today is 15.54˚C,
-- With highs of 16.1˚C and lows of 14.83˚C,
-- It may feel like 15.42˚C with overcast clouds
-- The wind speed is 1.79m/s and visibility is 10000m
-- The pressure is 1009hPa and humidity is 87%
+- The average temperature today is 15.65˚C,
+- With highs of 15.95˚C and lows of 14.91˚C,
+- It may feel like 15.52˚C with scattered clouds
+- The wind speed is 3.6m/s and visibility is 10000m
+- The pressure is 1008hPa and humidity is 86%
 - The sun will rise at 05:51 and set at 18:12
 
 <!-- weather_marker ends -->
