@@ -12,10 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Tesco seeks to open third Express store in Cheltenham town centre ([23 minutes ago](https://gloucesternewscentre.co.uk/tesco-seeks-to-open-third-express-store-in-cheltenham-town-centre/))
-- Homes given go-ahead after sewage concerns ([6 hours ago](https://www.bbc.com/news/articles/cly6v0j1lkzo?at_medium=RSS&at_campaign=rss))
-- Gloucestershire in pictures: Cheese, trees and battles ([9 hours ago](https://www.bbc.com/news/articles/c20vx4d24n8o?at_medium=RSS&at_campaign=rss))
-- Events celebrate 80 years of Thomas the Tank Engine ([9 hours ago](https://www.bbc.com/news/articles/czjvkelglypo?at_medium=RSS&at_campaign=rss))
+- Care home residents compete in cheese rolling event ([3 minutes ago](https://www.bbc.com/news/articles/c9311p4vzv0o?at_medium=RSS&at_campaign=rss))
+- Tesco seeks to open third Express store in Cheltenham town centre ([1 hours ago](https://gloucesternewscentre.co.uk/tesco-seeks-to-open-third-express-store-in-cheltenham-town-centre/))
+- Homes given go-ahead after sewage concerns ([7 hours ago](https://www.bbc.com/news/articles/cly6v0j1lkzo?at_medium=RSS&at_campaign=rss))
+- Gloucestershire in pictures: Cheese, trees and battles ([10 hours ago](https://www.bbc.com/news/articles/c20vx4d24n8o?at_medium=RSS&at_campaign=rss))
+- Events celebrate 80 years of Thomas the Tank Engine ([10 hours ago](https://www.bbc.com/news/articles/czjvkelglypo?at_medium=RSS&at_campaign=rss))
 - Airport boss stands down amid sale by councils ([1 days ago](https://www.bbc.com/news/articles/cwyl0l7lwwgo?at_medium=RSS&at_campaign=rss))
 - Ambulance workers arrested after six people die ([1 days ago](https://www.bbc.com/news/articles/cvgvnvnm0vro?at_medium=RSS&at_campaign=rss))
 - Pedestrian canal bridge reopens after five months ([1 days ago](https://www.bbc.com/news/articles/cdr6kkyvyk7o?at_medium=RSS&at_campaign=rss))
@@ -33,7 +34,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Appeal for witnesses after elderly woman was subjected to racial abuse in Cheltenham ([2 days ago](https://gloucesternewscentre.co.uk/appeal-for-witnesses-after-elderly-woman-was-subjected-to-racial-abuse-in-cheltenham/))
 - Businesses frustrated over M5 junction delays ([2 days ago](https://www.bbc.com/news/articles/cn0rz480gklo?at_medium=RSS&at_campaign=rss))
 - Radiation a 'hidden bullet' says testing veteran ([2 days ago](https://www.bbc.com/news/articles/cm2d3krpm1no?at_medium=RSS&at_campaign=rss))
-- Virtual reality tech helping autistic drivers ([2 days ago](https://www.bbc.com/news/articles/c62l833z620o?at_medium=RSS&at_campaign=rss))
 - Horizon Aero Group outlines bold social value commitments for Gloucestershire Airport ([3 days ago](https://www.cheltenham.gov.uk/news/article/3050/horizon_aero_group_outlines_bold_social_value_commitments_for_gloucestershire_airport))
 - Temporary closure of Changing Places facility at Montpellier toilets ([4 days ago](https://www.cheltenham.gov.uk/news/article/3048/temporary_closure_of_changing_places_facility_at_montpellier_toilets))
 - Councillors clash over asylum hotels amid racism row ([9 days ago](https://gloucesternewscentre.co.uk/councillors-clash-over-asylum-hotels-amid-racism-row/))
@@ -61,6 +61,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Gloucestershire gears up for Cycle September ([23 days ago](https://gloucesternewscentre.co.uk/gloucestershire-gears-up-for-cycle-september/))
 - Cambray Carnival brings free fun for young people ([24 days ago](https://gloucesternewscentre.co.uk/cambray-carnival-brings-free-fun-for-young-people/))
 - Cambray Carnival brings free fun for young people to Cheltenham town centre ([24 days ago](https://www.cheltenham.gov.uk/news/article/3043/cambray_carnival_brings_free_fun_for_young_people_to_cheltenham_town_centre))
-- Dog bites child in Cheltenham ([24 days ago](https://gloucesternewscentre.co.uk/dog-bites-child-in-cheltenham/))
+- Dog bites child in Cheltenham ([25 days ago](https://gloucesternewscentre.co.uk/dog-bites-child-in-cheltenham/))
 
 <!-- news_marker ends -->
