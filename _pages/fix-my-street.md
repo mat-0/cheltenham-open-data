@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Vegetation problem, 20th September :- [8190142](https://www.fixmystreet.com/report/8190142)
 - TMC - Defects -CW6 Potholes  problem, 20th September :- [8189968](https://www.fixmystreet.com/report/8189968)
 - Street light out on the corner by the railway bridge, 20th September :- [8189760](https://www.fixmystreet.com/report/8189760)
 - Caravan left unattended, 19th September :- [8189504](https://www.fixmystreet.com/report/8189504)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Several potholes on beeches road, 19th September :- [8188648](https://www.fixmystreet.com/report/8188648)
 - Stile has fallen apart/rotted, 19th September :- [8188427](https://www.fixmystreet.com/report/8188427)
 - 10inch pothole near junction with Glenfall Way and Sandhurst Road, 19th September :- [8188422](https://www.fixmystreet.com/report/8188422)
-- Directly at bottom of my garden on public road, 19th September :- [8188334](https://www.fixmystreet.com/report/8188334)
 
 <!-- fix_marker ends -->
