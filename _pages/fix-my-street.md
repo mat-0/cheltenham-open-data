@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree branches fallen and blocking shared path, 20th September :- [8192312](https://www.fixmystreet.com/report/8192312)
 - All the street lights in Midwinter Avenue GL51 9JF have failed , 4th night now in a row, 20th September :- [8192111](https://www.fixmystreet.com/report/8192111)
 - Grass verge alongside of Tern Court., 20th September :- [8191941](https://www.fixmystreet.com/report/8191941)
 - Roadwork signage stashed behind road name board, 20th September :- [8191541](https://www.fixmystreet.com/report/8191541)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Dangerous paving., 19th September :- [8189414](https://www.fixmystreet.com/report/8189414)
 - Street light not working, 19th September :- [8189259](https://www.fixmystreet.com/report/8189259)
 - A long thin 2 foot gorge shaped pothole on the nearside going north., 19th September :- [8189161](https://www.fixmystreet.com/report/8189161)
-- Three pothole cluster on New Road north bound, 19th September :- [8189148](https://www.fixmystreet.com/report/8189148)
 
 <!-- fix_marker ends -->
