@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- A pot hole in fairly new tarmac opposite the building site on the Cheltenham bound side of the road between Farm Lane and Church Lane, MAIN ROAD, SHURDINGTON., 20th September :- [8191399](https://www.fixmystreet.com/report/8191399)
+- St. George's cross painted on roundabout, 20th September :- [8191312](https://www.fixmystreet.com/report/8191312)
 - Innsworth lane slip road 240- 220 has numerous ever growing potholes. There are also two major areas developing on the Innsworth lane (main road) leading up to the road about at Frog furlong lane, 20th September :- [8191181](https://www.fixmystreet.com/report/8191181)
 - Volunteer litter pick bags ready for collection, 20th September :- [8191066](https://www.fixmystreet.com/report/8191066)
 - Roadside drain blocked with silt and stones following recent heavy rainfall., 20th September :- [8191022](https://www.fixmystreet.com/report/8191022)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Fly tipping, 19th September :- [8188943](https://www.fixmystreet.com/report/8188943)
 - Fly tipping, 19th September :- [8188933](https://www.fixmystreet.com/report/8188933)
 - Fly tipping, 19th September :- [8188915](https://www.fixmystreet.com/report/8188915)
-- Fly tipping, 19th September :- [8188899](https://www.fixmystreet.com/report/8188899)
-- Trees leaning precariously top section Stockwell Lane and the B4632, 19th September :- [8188854](https://www.fixmystreet.com/report/8188854)
 
 <!-- fix_marker ends -->
