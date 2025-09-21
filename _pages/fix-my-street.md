@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Potholes all down Old Reddings Road., 21st September :- [8192889](https://www.fixmystreet.com/report/8192889)
+- Tree branch hanging across path; appears to have dropped, 21st September :- [8192847](https://www.fixmystreet.com/report/8192847)
 - Tree branches fallen and blocking shared path, 20th September :- [8192312](https://www.fixmystreet.com/report/8192312)
 - All the street lights in Midwinter Avenue GL51 9JF have failed , 4th night now in a row, 20th September :- [8192111](https://www.fixmystreet.com/report/8192111)
 - Grass verge alongside of Tern Court., 20th September :- [8191941](https://www.fixmystreet.com/report/8191941)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Caravan left unattended, 19th September :- [8189504](https://www.fixmystreet.com/report/8189504)
 - Nuisance parking at school open evening, 19th September :- [8189441](https://www.fixmystreet.com/report/8189441)
 - Dangerous paving., 19th September :- [8189414](https://www.fixmystreet.com/report/8189414)
-- Street light not working, 19th September :- [8189259](https://www.fixmystreet.com/report/8189259)
-- A long thin 2 foot gorge shaped pothole on the nearside going north., 19th September :- [8189161](https://www.fixmystreet.com/report/8189161)
 
 <!-- fix_marker ends -->
