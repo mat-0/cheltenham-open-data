@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Sunday, 21 September 2025
 
-- The average temperature today is 11.83˚C,
-- With highs of 13.3˚C and lows of 11.08˚C,
-- It may feel like 10.92˚C with few clouds
+- The average temperature today is 13˚C,
+- With highs of 14.43˚C and lows of 12.19˚C,
+- It may feel like 12.05˚C with scattered clouds
 - The wind speed is 5.14m/s and visibility is 10000m
-- The pressure is 1019hPa and humidity is 71%
+- The pressure is 1019hPa and humidity is 65%
 - The sun will rise at 05:52 and set at 18:10
 
 <!-- weather_marker ends -->
