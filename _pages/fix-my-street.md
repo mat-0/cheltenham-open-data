@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 3 of the 4 illuminated bollards have no covers. The covers are in the bushes by the Taylor Wimpey sign., 21st September :- [8195064](https://www.fixmystreet.com/report/8195064)
+- Tree stump left after removal of tree, 21st September :- [8195020](https://www.fixmystreet.com/report/8195020)
 - Gulley lid is rattling, 21st September :- [8194585](https://www.fixmystreet.com/report/8194585)
 - Abandoned sign - been here about 9 months, 21st September :- [8194509](https://www.fixmystreet.com/report/8194509)
 - Abandoned sign, 21st September :- [8194469](https://www.fixmystreet.com/report/8194469)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Grass verge alongside of Tern Court., 20th September :- [8191941](https://www.fixmystreet.com/report/8191941)
 - Roadwork signage stashed behind road name board, 20th September :- [8191541](https://www.fixmystreet.com/report/8191541)
 - A pot hole in fairly new tarmac opposite the building site on the Cheltenham bound side of the road between Farm Lane and Church Lane, MAIN ROAD, SHURDINGTON., 20th September :- [8191399](https://www.fixmystreet.com/report/8191399)
-- St. George's cross painted on roundabout, 20th September :- [8191312](https://www.fixmystreet.com/report/8191312)
-- Mattress dumped on footpath, Malvern Road, outside Lansdown Court, 20th September :- [8191235](https://www.fixmystreet.com/report/8191235)
 
 <!-- fix_marker ends -->
