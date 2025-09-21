@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Abandoned sign - been here about 9 months, 21st September :- [8194509](https://www.fixmystreet.com/report/8194509)
+- Abandoned sign, 21st September :- [8194469](https://www.fixmystreet.com/report/8194469)
+- Abandoned sign, 21st September :- [8194456](https://www.fixmystreet.com/report/8194456)
+- Abandoned sign, 21st September :- [8194451](https://www.fixmystreet.com/report/8194451)
+- Tree appears dead on side of road ? Ash, 21st September :- [8194423](https://www.fixmystreet.com/report/8194423)
+- Flytipping Marle Hill Road, 21st September :- [8194362](https://www.fixmystreet.com/report/8194362)
 - Substantial crack running along the shared path parallel to Cleeve Road, 21st September :- [8194162](https://www.fixmystreet.com/report/8194162)
 - Public footpath marker is missing, 21st September :- [8193801](https://www.fixmystreet.com/report/8193801)
 - Highways England literally throwing their signage at the side of the road, 21st September :- [8193489](https://www.fixmystreet.com/report/8193489)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - St. George's cross painted on roundabout, 20th September :- [8191312](https://www.fixmystreet.com/report/8191312)
 - Mattress dumped on footpath, Malvern Road, outside Lansdown Court, 20th September :- [8191235](https://www.fixmystreet.com/report/8191235)
 - Innsworth lane slip road 240- 220 has numerous ever growing potholes. There are also two major areas developing on the Innsworth lane (main road) leading up to the road about at Frog furlong lane, 20th September :- [8191181](https://www.fixmystreet.com/report/8191181)
-- Volunteer litter pick bags ready for collection, 20th September :- [8191066](https://www.fixmystreet.com/report/8191066)
-- Roadside drain blocked with silt and stones following recent heavy rainfall., 20th September :- [8191022](https://www.fixmystreet.com/report/8191022)
-- A40 Lansdown Road, 20th September :- [8190744](https://www.fixmystreet.com/report/8190744)
-- Potholes, 20th September :- [8190615](https://www.fixmystreet.com/report/8190615)
-- TMC - Defects - Vegetation problem, 20th September :- [8190142](https://www.fixmystreet.com/report/8190142)
-- TMC - Defects -CW6 Potholes  problem, 20th September :- [8189968](https://www.fixmystreet.com/report/8189968)
 
 <!-- fix_marker ends -->
