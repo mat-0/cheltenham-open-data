@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Public footpath marker is missing, 21st September :- [8193801](https://www.fixmystreet.com/report/8193801)
 - Highways England literally throwing their signage at the side of the road, 21st September :- [8193489](https://www.fixmystreet.com/report/8193489)
 - Tree blocking cycle path, 21st September :- [8193140](https://www.fixmystreet.com/report/8193140)
 - Potholes all down Old Reddings Road., 21st September :- [8192889](https://www.fixmystreet.com/report/8192889)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 20th September :- [8190142](https://www.fixmystreet.com/report/8190142)
 - TMC - Defects -CW6 Potholes  problem, 20th September :- [8189968](https://www.fixmystreet.com/report/8189968)
 - Street light out on the corner by the railway bridge, 20th September :- [8189760](https://www.fixmystreet.com/report/8189760)
-- Caravan left unattended, 19th September :- [8189504](https://www.fixmystreet.com/report/8189504)
 
 <!-- fix_marker ends -->
