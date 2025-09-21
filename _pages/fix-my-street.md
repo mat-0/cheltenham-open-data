@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Gulley lid is rattling, 21st September :- [8194585](https://www.fixmystreet.com/report/8194585)
 - Abandoned sign - been here about 9 months, 21st September :- [8194509](https://www.fixmystreet.com/report/8194509)
 - Abandoned sign, 21st September :- [8194469](https://www.fixmystreet.com/report/8194469)
 - Abandoned sign, 21st September :- [8194456](https://www.fixmystreet.com/report/8194456)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - A pot hole in fairly new tarmac opposite the building site on the Cheltenham bound side of the road between Farm Lane and Church Lane, MAIN ROAD, SHURDINGTON., 20th September :- [8191399](https://www.fixmystreet.com/report/8191399)
 - St. George's cross painted on roundabout, 20th September :- [8191312](https://www.fixmystreet.com/report/8191312)
 - Mattress dumped on footpath, Malvern Road, outside Lansdown Court, 20th September :- [8191235](https://www.fixmystreet.com/report/8191235)
-- Innsworth lane slip road 240- 220 has numerous ever growing potholes. There are also two major areas developing on the Innsworth lane (main road) leading up to the road about at Frog furlong lane, 20th September :- [8191181](https://www.fixmystreet.com/report/8191181)
 
 <!-- fix_marker ends -->
