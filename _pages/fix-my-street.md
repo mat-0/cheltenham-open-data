@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Substantial crack running along the shared path parallel to Cleeve Road, 21st September :- [8194162](https://www.fixmystreet.com/report/8194162)
 - Public footpath marker is missing, 21st September :- [8193801](https://www.fixmystreet.com/report/8193801)
 - Highways England literally throwing their signage at the side of the road, 21st September :- [8193489](https://www.fixmystreet.com/report/8193489)
 - Tree blocking cycle path, 21st September :- [8193140](https://www.fixmystreet.com/report/8193140)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Potholes, 20th September :- [8190615](https://www.fixmystreet.com/report/8190615)
 - TMC - Defects - Vegetation problem, 20th September :- [8190142](https://www.fixmystreet.com/report/8190142)
 - TMC - Defects -CW6 Potholes  problem, 20th September :- [8189968](https://www.fixmystreet.com/report/8189968)
-- Street light out on the corner by the railway bridge, 20th September :- [8189760](https://www.fixmystreet.com/report/8189760)
 
 <!-- fix_marker ends -->
