@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Bottom of table Cheltenham sack Flynn ([5 hours ago](https://www.bbc.com/sport/football/articles/c9qy95x83xgo?at_medium=RSS&at_campaign=rss))
-- Care home residents compete in cheese rolling event ([7 hours ago](https://www.bbc.com/news/articles/c9311p4vzv0o?at_medium=RSS&at_campaign=rss))
-- Tesco seeks to open third Express store in Cheltenham town centre ([8 hours ago](https://gloucesternewscentre.co.uk/tesco-seeks-to-open-third-express-store-in-cheltenham-town-centre/))
-- Homes given go-ahead after sewage concerns ([14 hours ago](https://www.bbc.com/news/articles/cly6v0j1lkzo?at_medium=RSS&at_campaign=rss))
-- Gloucestershire in pictures: Cheese, trees and battles ([17 hours ago](https://www.bbc.com/news/articles/c20vx4d24n8o?at_medium=RSS&at_campaign=rss))
-- Events celebrate 80 years of Thomas the Tank Engine ([17 hours ago](https://www.bbc.com/news/articles/czjvkelglypo?at_medium=RSS&at_campaign=rss))
+- Bottom of table Cheltenham sack Flynn ([7 hours ago](https://www.bbc.com/sport/football/articles/c9qy95x83xgo?at_medium=RSS&at_campaign=rss))
+- Care home residents compete in cheese rolling event ([8 hours ago](https://www.bbc.com/news/articles/c9311p4vzv0o?at_medium=RSS&at_campaign=rss))
+- Tesco seeks to open third Express store in Cheltenham town centre ([9 hours ago](https://gloucesternewscentre.co.uk/tesco-seeks-to-open-third-express-store-in-cheltenham-town-centre/))
+- Homes given go-ahead after sewage concerns ([15 hours ago](https://www.bbc.com/news/articles/cly6v0j1lkzo?at_medium=RSS&at_campaign=rss))
+- Gloucestershire in pictures: Cheese, trees and battles ([18 hours ago](https://www.bbc.com/news/articles/c20vx4d24n8o?at_medium=RSS&at_campaign=rss))
+- Events celebrate 80 years of Thomas the Tank Engine ([18 hours ago](https://www.bbc.com/news/articles/czjvkelglypo?at_medium=RSS&at_campaign=rss))
 - Airport boss stands down amid sale by councils ([1 days ago](https://www.bbc.com/news/articles/cwyl0l7lwwgo?at_medium=RSS&at_campaign=rss))
 - Ambulance workers arrested after six people die ([1 days ago](https://www.bbc.com/news/articles/cvgvnvnm0vro?at_medium=RSS&at_campaign=rss))
 - Pedestrian canal bridge reopens after five months ([1 days ago](https://www.bbc.com/news/articles/cdr6kkyvyk7o?at_medium=RSS&at_campaign=rss))
