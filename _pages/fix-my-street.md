@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street light not working, 21st September :- [8195317](https://www.fixmystreet.com/report/8195317)
 - 4 large bags of rubbish dumped, 21st September :- [8195078](https://www.fixmystreet.com/report/8195078)
 - 3 of the 4 illuminated bollards have no covers. The covers are in the bushes by the Taylor Wimpey sign., 21st September :- [8195064](https://www.fixmystreet.com/report/8195064)
 - Tree stump left after removal of tree, 21st September :- [8195020](https://www.fixmystreet.com/report/8195020)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Tree branches fallen and blocking shared path, 20th September :- [8192312](https://www.fixmystreet.com/report/8192312)
 - All the street lights in Midwinter Avenue GL51 9JF have failed , 4th night now in a row, 20th September :- [8192111](https://www.fixmystreet.com/report/8192111)
 - Grass verge alongside of Tern Court., 20th September :- [8191941](https://www.fixmystreet.com/report/8191941)
-- Roadwork signage stashed behind road name board, 20th September :- [8191541](https://www.fixmystreet.com/report/8191541)
 
 <!-- fix_marker ends -->
