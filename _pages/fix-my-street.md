@@ -9,6 +9,15 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects -CW6 Potholes  problem, 22nd September :- [8195806](https://www.fixmystreet.com/report/8195806)
+- TMC - Defects - Road Markings problem, 22nd September :- [8195805](https://www.fixmystreet.com/report/8195805)
+- TMC - Defects - Other problem, 22nd September :- [8195804](https://www.fixmystreet.com/report/8195804)
+- TMC - Defects -CW10 Potholes problem, 22nd September :- [8195802](https://www.fixmystreet.com/report/8195802)
+- TMC - Defects -CW10 Potholes problem, 22nd September :- [8195801](https://www.fixmystreet.com/report/8195801)
+- TMC - Defects -CW10 Potholes problem, 22nd September :- [8195800](https://www.fixmystreet.com/report/8195800)
+- TMC - Defects -CW10 Potholes problem, 22nd September :- [8195799](https://www.fixmystreet.com/report/8195799)
+- TMC - Defects -CW10 Potholes problem, 22nd September :- [8195798](https://www.fixmystreet.com/report/8195798)
+- TMC - Defects -CW10 Potholes problem, 22nd September :- [8195797](https://www.fixmystreet.com/report/8195797)
 - Tree down - blocking cyclepath, 22nd September :- [8195515](https://www.fixmystreet.com/report/8195515)
 - Tree down - practically blocking cyclpath, 22nd September :- [8195507](https://www.fixmystreet.com/report/8195507)
 - Pothole on Bamfurlong Lane., 22nd September :- [8195439](https://www.fixmystreet.com/report/8195439)
@@ -20,14 +29,5 @@ permalink: /fix-my-street
 - Gulley lid is rattling, 21st September :- [8194585](https://www.fixmystreet.com/report/8194585)
 - Abandoned sign - been here about 9 months, 21st September :- [8194509](https://www.fixmystreet.com/report/8194509)
 - Abandoned sign, 21st September :- [8194469](https://www.fixmystreet.com/report/8194469)
-- Abandoned sign, 21st September :- [8194456](https://www.fixmystreet.com/report/8194456)
-- Abandoned sign, 21st September :- [8194451](https://www.fixmystreet.com/report/8194451)
-- Tree appears dead on side of road ? Ash, 21st September :- [8194423](https://www.fixmystreet.com/report/8194423)
-- Flytipping Marle Hill Road, 21st September :- [8194362](https://www.fixmystreet.com/report/8194362)
-- Substantial crack running along the shared path parallel to Cleeve Road, 21st September :- [8194162](https://www.fixmystreet.com/report/8194162)
-- Public footpath marker is missing, 21st September :- [8193801](https://www.fixmystreet.com/report/8193801)
-- Highways England literally throwing their signage at the side of the road, 21st September :- [8193489](https://www.fixmystreet.com/report/8193489)
-- Tree blocking cycle path, 21st September :- [8193140](https://www.fixmystreet.com/report/8193140)
-- Potholes all down Old Reddings Road., 21st September :- [8192889](https://www.fixmystreet.com/report/8192889)
 
 <!-- fix_marker ends -->
