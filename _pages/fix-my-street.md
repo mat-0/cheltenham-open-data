@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Https://photos.app.goo.gl/hC8jWTsuoGXHMhdw7, 22nd September :- [8198602](https://www.fixmystreet.com/report/8198602)
 - TMC - Defects -CW10 Potholes problem, 22nd September :- [8198348](https://www.fixmystreet.com/report/8198348)
 - TMC - Defects -FW6 Potholes problem, 22nd September :- [8198347](https://www.fixmystreet.com/report/8198347)
 - TMC - Defects -FW6 Potholes problem, 22nd September :- [8198346](https://www.fixmystreet.com/report/8198346)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Tree is damaged problem, 22nd September :- [8198092](https://www.fixmystreet.com/report/8198092)
 - Damaged Tree Limb Leaning Into Road, 22nd September :- [8197804](https://www.fixmystreet.com/report/8197804)
 - TMC - Defects - Signs & Street Furniture problem, 22nd September :- [8197886](https://www.fixmystreet.com/report/8197886)
-- Traffic lights stuck on red, 22nd September :- [8197656](https://www.fixmystreet.com/report/8197656)
 
 <!-- fix_marker ends -->
