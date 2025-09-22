@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole on Bamfurlong Lane., 22nd September :- [8195439](https://www.fixmystreet.com/report/8195439)
+- Bollards in drainage ditch need to be repositioned, 22nd September :- [8195438](https://www.fixmystreet.com/report/8195438)
 - Street light not working, 21st September :- [8195317](https://www.fixmystreet.com/report/8195317)
 - 4 large bags of rubbish dumped, 21st September :- [8195078](https://www.fixmystreet.com/report/8195078)
 - 3 of the 4 illuminated bollards have no covers. The covers are in the bushes by the Taylor Wimpey sign., 21st September :- [8195064](https://www.fixmystreet.com/report/8195064)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Potholes all down Old Reddings Road., 21st September :- [8192889](https://www.fixmystreet.com/report/8192889)
 - Tree branch hanging across path; appears to have dropped, 21st September :- [8192847](https://www.fixmystreet.com/report/8192847)
 - Tree branches fallen and blocking shared path, 20th September :- [8192312](https://www.fixmystreet.com/report/8192312)
-- All the street lights in Midwinter Avenue GL51 9JF have failed , 4th night now in a row, 20th September :- [8192111](https://www.fixmystreet.com/report/8192111)
-- Grass verge alongside of Tern Court., 20th September :- [8191941](https://www.fixmystreet.com/report/8191941)
 
 <!-- fix_marker ends -->
