@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree down - blocking cyclepath, 22nd September :- [8195515](https://www.fixmystreet.com/report/8195515)
 - Tree down - practically blocking cyclpath, 22nd September :- [8195507](https://www.fixmystreet.com/report/8195507)
 - Pothole on Bamfurlong Lane., 22nd September :- [8195439](https://www.fixmystreet.com/report/8195439)
 - Bollards in drainage ditch need to be repositioned, 22nd September :- [8195438](https://www.fixmystreet.com/report/8195438)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Highways England literally throwing their signage at the side of the road, 21st September :- [8193489](https://www.fixmystreet.com/report/8193489)
 - Tree blocking cycle path, 21st September :- [8193140](https://www.fixmystreet.com/report/8193140)
 - Potholes all down Old Reddings Road., 21st September :- [8192889](https://www.fixmystreet.com/report/8192889)
-- Tree branch hanging across path; appears to have dropped, 21st September :- [8192847](https://www.fixmystreet.com/report/8192847)
 
 <!-- fix_marker ends -->
