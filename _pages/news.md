@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Residents left with no water after main bursts ([7 hours ago](https://www.bbc.com/news/articles/cg7ddyzpy8go?at_medium=RSS&at_campaign=rss))
-- Gates costing £80k 'turn area into ghost town' ([14 hours ago](https://www.bbc.com/news/articles/cgknnz6n1d0o?at_medium=RSS&at_campaign=rss))
-- Monuments 'deserve to be preserved for the future' ([18 hours ago](https://www.bbc.com/news/articles/cj6x1r6ree6o?at_medium=RSS&at_campaign=rss))
-- Headlines: 'Bus strikes' and 'weather warning' ([19 hours ago](https://www.bbc.com/news/articles/c2kn15qkkj1o?at_medium=RSS&at_campaign=rss))
-- Gloucester woman celebrates 103rd birthday in style ([19 hours ago](https://gloucesternewscentre.co.uk/gloucester-woman-celebrates-103rd-birthday-in-style/))
+- Residents left with no water after main bursts ([8 hours ago](https://www.bbc.com/news/articles/cg7ddyzpy8go?at_medium=RSS&at_campaign=rss))
+- Gates costing £80k 'turn area into ghost town' ([15 hours ago](https://www.bbc.com/news/articles/cgknnz6n1d0o?at_medium=RSS&at_campaign=rss))
+- Monuments 'deserve to be preserved for the future' ([19 hours ago](https://www.bbc.com/news/articles/cj6x1r6ree6o?at_medium=RSS&at_campaign=rss))
+- Headlines: 'Bus strikes' and 'weather warning' ([20 hours ago](https://www.bbc.com/news/articles/c2kn15qkkj1o?at_medium=RSS&at_campaign=rss))
+- Gloucester woman celebrates 103rd birthday in style ([20 hours ago](https://gloucesternewscentre.co.uk/gloucester-woman-celebrates-103rd-birthday-in-style/))
 - Bottom of table Cheltenham sack Flynn ([1 days ago](https://www.bbc.com/sport/football/articles/c9qy95x83xgo?at_medium=RSS&at_campaign=rss))
 - Care home residents compete in cheese rolling event ([1 days ago](https://www.bbc.com/news/articles/c9311p4vzv0o?at_medium=RSS&at_campaign=rss))
 - Tesco seeks to open third Express store in Cheltenham town centre ([1 days ago](https://gloucesternewscentre.co.uk/tesco-seeks-to-open-third-express-store-in-cheltenham-town-centre/))
