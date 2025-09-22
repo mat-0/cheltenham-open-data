@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree needs to be cut in half, 23rd September :- [8200701](https://www.fixmystreet.com/report/8200701)
+- Council tree branch just left, 23rd September :- [8200699](https://www.fixmystreet.com/report/8200699)
 - Deep pot hole in a old trench across the width of road, 22nd September :- [8200520](https://www.fixmystreet.com/report/8200520)
 - Packhorse Bridge, Corndean Lane, Winchcombe, 22nd September :- [8200483](https://www.fixmystreet.com/report/8200483)
 - You have failed to fix the first pothole which has grown to twice the size. A second hole has opened up beyond the first and it is growing each time it rains., 22nd September :- [8200373](https://www.fixmystreet.com/report/8200373)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW10 Potholes problem, 22nd September :- [8198730](https://www.fixmystreet.com/report/8198730)
 - TMC - Defects - Other FW6  Surface problem, 22nd September :- [8198725](https://www.fixmystreet.com/report/8198725)
 - TMC - Defects - Other FW6  Surface problem, 22nd September :- [8198723](https://www.fixmystreet.com/report/8198723)
-- TMC - Defects -CW10 Potholes problem, 22nd September :- [8198722](https://www.fixmystreet.com/report/8198722)
-- TMC - Defects - Vegetation problem, 22nd September :- [8198714](https://www.fixmystreet.com/report/8198714)
 
 <!-- fix_marker ends -->
