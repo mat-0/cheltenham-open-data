@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Monday, 22 September 2025
 
-- The average temperature today is 11.45˚C,
-- With highs of 13.3˚C and lows of 10.93˚C,
-- It may feel like 10.5˚C with clear sky
-- The wind speed is 1.79m/s and visibility is 10000m
-- The pressure is 1029hPa and humidity is 71%
+- The average temperature today is 13.2˚C,
+- With highs of 14.41˚C and lows of 12.75˚C,
+- It may feel like 12.17˚C with clear sky
+- The wind speed is 2.68m/s and visibility is 10000m
+- The pressure is 1029hPa and humidity is 61%
 - The sun will rise at 05:54 and set at 18:07
 
 <!-- weather_marker ends -->
