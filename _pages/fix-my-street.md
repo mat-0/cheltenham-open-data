@@ -9,12 +9,14 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Broken furniture and bags full of rubbish dumped outside no 15 Russell Street., 22nd September :- [8200100](https://www.fixmystreet.com/report/8200100)
+- Intimidating signage to deter people from using bridlepath, 22nd September :- [8199957](https://www.fixmystreet.com/report/8199957)
 - Barriers left behind by Contractors, 22nd September :- [8199647](https://www.fixmystreet.com/report/8199647)
 - Footpath has not been reinstated after ploughing., 22nd September :- [8199527](https://www.fixmystreet.com/report/8199527)
 - The pavement has disintegrated over our frontage at both the kerb and pavement edges with one kerb piece broken. the tarmac has largely disappeared and exposed the base material., 22nd September :- [8199276](https://www.fixmystreet.com/report/8199276)
-- TMC - Defects - Footways Slabs problem, 22nd September :- [8198880](https://www.fixmystreet.com/report/8198880)
 - TMC - Defects - Footways Slabs problem, 22nd September :- [8198879](https://www.fixmystreet.com/report/8198879)
 - TMC - Defects - Footways Slabs problem, 22nd September :- [8198881](https://www.fixmystreet.com/report/8198881)
+- TMC - Defects - Footways Slabs problem, 22nd September :- [8198880](https://www.fixmystreet.com/report/8198880)
 - Https://photos.app.goo.gl/hC8jWTsuoGXHMhdw7, 22nd September :- [8198602](https://www.fixmystreet.com/report/8198602)
 - TMC - Defects -CW10 Potholes problem, 22nd September :- [8198730](https://www.fixmystreet.com/report/8198730)
 - TMC - Defects - Other FW6  Surface problem, 22nd September :- [8198725](https://www.fixmystreet.com/report/8198725)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -FW6 Potholes problem, 22nd September :- [8198346](https://www.fixmystreet.com/report/8198346)
 - TMC - Defects -other CW6 problem, 22nd September :- [8198345](https://www.fixmystreet.com/report/8198345)
 - TMC - Defects -CW10 Potholes problem, 22nd September :- [8198304](https://www.fixmystreet.com/report/8198304)
-- Blocked drains on the enrty to the bridge over the M5 along Bamfurlong Lane ., 22nd September :- [8198175](https://www.fixmystreet.com/report/8198175)
-- TMC - Defects -CW10 Potholes problem, 22nd September :- [8198298](https://www.fixmystreet.com/report/8198298)
 
 <!-- fix_marker ends -->
