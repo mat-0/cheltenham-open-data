@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street lights out for a large section of the road, 23rd September :- [8200767](https://www.fixmystreet.com/report/8200767)
 - Tree needs to be cut in half, 23rd September :- [8200701](https://www.fixmystreet.com/report/8200701)
 - Council tree branch just left, 23rd September :- [8200699](https://www.fixmystreet.com/report/8200699)
 - Deep pot hole in a old trench across the width of road, 22nd September :- [8200520](https://www.fixmystreet.com/report/8200520)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Https://photos.app.goo.gl/hC8jWTsuoGXHMhdw7, 22nd September :- [8198602](https://www.fixmystreet.com/report/8198602)
 - TMC - Defects -CW10 Potholes problem, 22nd September :- [8198730](https://www.fixmystreet.com/report/8198730)
 - TMC - Defects - Other FW6  Surface problem, 22nd September :- [8198725](https://www.fixmystreet.com/report/8198725)
-- TMC - Defects - Other FW6  Surface problem, 22nd September :- [8198723](https://www.fixmystreet.com/report/8198723)
 
 <!-- fix_marker ends -->
