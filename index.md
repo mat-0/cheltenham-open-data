@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Tuesday, 23 September 2025
 
-- The average temperature today is 4.09˚C,
-- With highs of 5.55˚C and lows of 3.07˚C,
-- It may feel like 4.09˚C with scattered clouds
-- The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1028hPa and humidity is 90%
+- The average temperature today is 3.75˚C,
+- With highs of 4.99˚C and lows of 3.07˚C,
+- It may feel like 3.75˚C with scattered clouds
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 1028hPa and humidity is 91%
 - The sun will rise at 05:56 and set at 18:05
 
 <!-- weather_marker ends -->

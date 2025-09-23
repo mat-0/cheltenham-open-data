@@ -12,14 +12,14 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Council backs plan to transform unused city shops ([7 hours ago](https://www.bbc.com/news/articles/ce9rrjrk08lo?at_medium=RSS&at_campaign=rss))
+- Council backs plan to transform unused city shops ([8 hours ago](https://www.bbc.com/news/articles/ce9rrjrk08lo?at_medium=RSS&at_campaign=rss))
 - New indoor golf venue to open in Cheltenham this week ([10 hours ago](https://gloucesternewscentre.co.uk/new-indoor-golf-venue-to-open-in-cheltenham-this-week/))
 - Developer appointed to deliver first phase of Golden Valley Development ([10 hours ago](https://gloucesternewscentre.co.uk/developer-appointed-to-deliver-first-phase-of-golden-valley-development/))
 - Traffic concerns fears over Dowty sports and social site redevelopment ([12 hours ago](https://gloucesternewscentre.co.uk/traffic-concerns-fears-over-dowty-sports-and-social-site-redevelopment/))
-- Trial set after officer shot with police firearm ([12 hours ago](https://www.bbc.com/news/articles/c306vn8v128o?at_medium=RSS&at_campaign=rss))
+- Trial set after officer shot with police firearm ([13 hours ago](https://www.bbc.com/news/articles/c306vn8v128o?at_medium=RSS&at_campaign=rss))
 - Rugby star was over limit when car washed away ([13 hours ago](https://www.bbc.com/news/articles/cj4y1vkpqrgo?at_medium=RSS&at_campaign=rss))
-- Recycle Week: Cheltenham is joining the ‘2025 Rescue Me! Recycle’ campaign ([16 hours ago](https://www.cheltenham.gov.uk/news/article/3051/recycle_week_cheltenham_is_joining_the_2025_rescue_me_recycle_campaign))
-- Headlines: 'Magic roundabout' and 'Robbie Savage' ([17 hours ago](https://www.bbc.com/news/articles/c75q16265rdo?at_medium=RSS&at_campaign=rss))
+- Recycle Week: Cheltenham is joining the ‘2025 Rescue Me! Recycle’ campaign ([17 hours ago](https://www.cheltenham.gov.uk/news/article/3051/recycle_week_cheltenham_is_joining_the_2025_rescue_me_recycle_campaign))
+- Headlines: 'Magic roundabout' and 'Robbie Savage' ([18 hours ago](https://www.bbc.com/news/articles/c75q16265rdo?at_medium=RSS&at_campaign=rss))
 - Burst main repaired after people left without water ([19 hours ago](https://www.bbc.com/news/articles/cn4lj7p1md2o?at_medium=RSS&at_campaign=rss))
 - Interactive 'tactile' art exhibition opens ([21 hours ago](https://www.bbc.com/news/articles/c62lww2lz50o?at_medium=RSS&at_campaign=rss))
 - Salon jobs hard to find for new hairdressers ([21 hours ago](https://www.bbc.com/news/articles/c147klkg4ypo?at_medium=RSS&at_campaign=rss))
