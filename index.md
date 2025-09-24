@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Wednesday, 24 September 2025
 
-- The average temperature today is 9.04˚C,
-- With highs of 9.99˚C and lows of 8.71˚C,
-- It may feel like 7.88˚C with few clouds
-- The wind speed is 2.24m/s and visibility is 10000m
-- The pressure is 1029hPa and humidity is 91%
+- The average temperature today is 9.43˚C,
+- With highs of 10.55˚C and lows of 8.71˚C,
+- It may feel like 8.71˚C with scattered clouds
+- The wind speed is 1.79m/s and visibility is 10000m
+- The pressure is 1029hPa and humidity is 92%
 - The sun will rise at 05:57 and set at 18:03
 
 <!-- weather_marker ends -->
