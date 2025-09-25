@@ -9,6 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Frame of old roadworks sign left on grassy triangle of ground, 25th September :- [8212355](https://www.fixmystreet.com/report/8212355)
+- The sign & cone in the photo has been sitting at the bottom of Upper Park Street for a long time, 25th September :- [8212134](https://www.fixmystreet.com/report/8212134)
+- Nazi symbol sprayed on road sign, 25th September :- [8212016](https://www.fixmystreet.com/report/8212016)
+- TMC - Defects - Other problem, 25th September :- [8212070](https://www.fixmystreet.com/report/8212070)
+- Post or sign leaning slightly (less than 20 degrees) problem, 25th September :- [8212030](https://www.fixmystreet.com/report/8212030)
+- TMC - Defects -CW6 Potholes  problem, 25th September :- [8212042](https://www.fixmystreet.com/report/8212042)
+- TMC - Defects -CW6 Potholes  problem, 25th September :- [8212040](https://www.fixmystreet.com/report/8212040)
 - A large pot hole outside my house., 25th September :- [8211445](https://www.fixmystreet.com/report/8211445)
 - Graffiti on village sign, 25th September :- [8211202](https://www.fixmystreet.com/report/8211202)
 - Offensive (hate) graffiti, 25th September :- [8211197](https://www.fixmystreet.com/report/8211197)
@@ -22,12 +29,5 @@ permalink: /fix-my-street
 - Cones and barriers on by pass been there 6 weeks blocking live lane, 24th September :- [8209833](https://www.fixmystreet.com/report/8209833)
 - Fallen tree obstructing pavement, 24th September :- [8209784](https://www.fixmystreet.com/report/8209784)
 - Pothole, loose gravel, danger to cyclists, 24th September :- [8209697](https://www.fixmystreet.com/report/8209697)
-- No audible safe to cross sound at Pedestrian l crossing lights, 24th September :- [8209453](https://www.fixmystreet.com/report/8209453)
-- The whole of Carlton Street from no 1 to no 60 needs resurfacing it is dangerous, 24th September :- [8209386](https://www.fixmystreet.com/report/8209386)
-- Unstable bench, 24th September :- [8208989](https://www.fixmystreet.com/report/8208989)
-- Constant issue with school traffic, 24th September :- [8208956](https://www.fixmystreet.com/report/8208956)
-- TMC - Defects - Other FW6  Surface problem, 24th September :- [8208816](https://www.fixmystreet.com/report/8208816)
-- TMC - Defects - Kerbs and Channels problem, 24th September :- [8208814](https://www.fixmystreet.com/report/8208814)
-- TMC - Defects - Other FW6  Surface problem, 24th September :- [8208817](https://www.fixmystreet.com/report/8208817)
 
 <!-- fix_marker ends -->
