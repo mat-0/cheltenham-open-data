@@ -10,9 +10,9 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Thursday, 25 September 2025
 
-- The average temperature today is 5.64˚C,
-- With highs of 7.21˚C and lows of 4.27˚C,
-- It may feel like 5.64˚C with clear sky
+- The average temperature today is 5.46˚C,
+- With highs of 7.14˚C and lows of 4.41˚C,
+- It may feel like 5.46˚C with clear sky
 - The wind speed is 0.45m/s and visibility is 10000m
 - The pressure is 1027hPa and humidity is 87%
 - The sun will rise at 05:59 and set at 18:00
