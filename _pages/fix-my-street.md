@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fridge dumped, 25th September :- [8214738](https://www.fixmystreet.com/report/8214738)
 - There is no ‘road ahead closed’ sign at a suitable point ahead of the road being closed meaning people are having to do a u turn in the road by the nursery, 25th September :- [8214555](https://www.fixmystreet.com/report/8214555)
 - Recently repaired , now worse than before. Loud bang when traveling from hucclecote to churchdown., 25th September :- [8214492](https://www.fixmystreet.com/report/8214492)
 - Recently repaired speed hump is now worse than before it was "fixed"., 25th September :- [8214463](https://www.fixmystreet.com/report/8214463)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Tree is damaged problem, 25th September :- [8213471](https://www.fixmystreet.com/report/8213471)
 - TMC - Defects - Vegetation problem, 25th September :- [8213335](https://www.fixmystreet.com/report/8213335)
 - TMC - Defects -CW6 Potholes  problem, 25th September :- [8213334](https://www.fixmystreet.com/report/8213334)
-- TMC - Defects -CW6 Potholes  problem, 25th September :- [8213333](https://www.fixmystreet.com/report/8213333)
 
 <!-- fix_marker ends -->
