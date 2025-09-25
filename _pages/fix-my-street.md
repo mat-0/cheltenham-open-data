@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large branch fallen and on pavement, 25th September :- [8213538](https://www.fixmystreet.com/report/8213538)
+- Post or sign leaning slightly (less than 20 degrees) problem, 25th September :- [8213475](https://www.fixmystreet.com/report/8213475)
+- Tree is damaged problem, 25th September :- [8213473](https://www.fixmystreet.com/report/8213473)
+- TMC - Defects -CW6 Potholes  problem, 25th September :- [8213492](https://www.fixmystreet.com/report/8213492)
+- Tree is damaged problem, 25th September :- [8213471](https://www.fixmystreet.com/report/8213471)
 - TMC - Defects - Vegetation problem, 25th September :- [8213335](https://www.fixmystreet.com/report/8213335)
 - TMC - Defects -CW6 Potholes  problem, 25th September :- [8213334](https://www.fixmystreet.com/report/8213334)
 - TMC - Defects -CW6 Potholes  problem, 25th September :- [8213333](https://www.fixmystreet.com/report/8213333)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Tree is damaged problem, 25th September :- [8212720](https://www.fixmystreet.com/report/8212720)
 - Mattresses general rubbish, 25th September :- [8212632](https://www.fixmystreet.com/report/8212632)
 - Nazi symbol on road sign, 25th September :- [8212617](https://www.fixmystreet.com/report/8212617)
-- TMC - Defects - Vegetation problem, 25th September :- [8212737](https://www.fixmystreet.com/report/8212737)
-- TMC - Defects -other CW6 problem, 25th September :- [8212734](https://www.fixmystreet.com/report/8212734)
-- TMC - Defects -other CW6 problem, 25th September :- [8212735](https://www.fixmystreet.com/report/8212735)
-- Frame of old roadworks sign left on grassy triangle of ground, 25th September :- [8212355](https://www.fixmystreet.com/report/8212355)
-- The sign & cone in the photo has been sitting at the bottom of Upper Park Street for a long time, 25th September :- [8212134](https://www.fixmystreet.com/report/8212134)
 
 <!-- fix_marker ends -->
