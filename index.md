@@ -10,10 +10,10 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Friday, 26 September 2025
 
-- The average temperature today is 15.39˚C,
-- With highs of 15.39˚C and lows of 15.39˚C,
-- It may feel like 14.58˚C with clear sky
-- The wind speed is 3.9m/s and visibility is 10000m
+- The average temperature today is 15.26˚C,
+- With highs of 16.66˚C and lows of 14.75˚C,
+- It may feel like 14.43˚C with few clouds
+- The wind speed is 3.09m/s and visibility is 10000m
 - The pressure is 1021hPa and humidity is 61%
 - The sun will rise at 06:00 and set at 17:58
 
