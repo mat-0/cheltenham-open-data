@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Green light on the west, facing Cheltenham, 26th September :- [8220054](https://www.fixmystreet.com/report/8220054)
 - Street lamp is not working for weeks!, 26th September :- [8219916](https://www.fixmystreet.com/report/8219916)
 - Road edges are failing, causing road to narrow with no run off. Risk of damage to cars., 26th September :- [8219894](https://www.fixmystreet.com/report/8219894)
 - Abandoned Signs and Barriers, 26th September :- [8219883](https://www.fixmystreet.com/report/8219883)
@@ -19,15 +20,14 @@ permalink: /fix-my-street
 - Newly fitted street lamp permanently off. Very dark and hazardous for road and pavement users., 26th September :- [8219114](https://www.fixmystreet.com/report/8219114)
 - A car hit a tree on the verge and it is now laying at 45 degrees to the verge. It could be saved if it was replanted upright quickly and would address the Health and Safety issue which currently prevails., 26th September :- [8219098](https://www.fixmystreet.com/report/8219098)
 - TMC - Defects - Vegetation problem, 26th September :- [8218909](https://www.fixmystreet.com/report/8218909)
-- TMC - Defects - Vegetation problem, 26th September :- [8218901](https://www.fixmystreet.com/report/8218901)
 - TMC - Defects - Vegetation problem, 26th September :- [8218900](https://www.fixmystreet.com/report/8218900)
+- TMC - Defects - Vegetation problem, 26th September :- [8218901](https://www.fixmystreet.com/report/8218901)
 - Red barriers around some old metal stumps blocking pavement formonths, 26th September :- [8218785](https://www.fixmystreet.com/report/8218785)
 - A pothole in road problem, 26th September :- [8218709](https://www.fixmystreet.com/report/8218709)
-- TMC - Defects -FW6 Potholes problem, 26th September :- [8218718](https://www.fixmystreet.com/report/8218718)
 - TMC - Defects -FW6 Potholes problem, 26th September :- [8218717](https://www.fixmystreet.com/report/8218717)
+- TMC - Defects -FW6 Potholes problem, 26th September :- [8218718](https://www.fixmystreet.com/report/8218718)
 - A pothole in road problem, 26th September :- [8218708](https://www.fixmystreet.com/report/8218708)
-- TMC - Defects -CW6 Potholes  problem, 26th September :- [8218713](https://www.fixmystreet.com/report/8218713)
-- TMC - Defects -CW6 Potholes  problem, 26th September :- [8218715](https://www.fixmystreet.com/report/8218715)
 - TMC - Defects -CW6 Potholes  problem, 26th September :- [8218714](https://www.fixmystreet.com/report/8218714)
+- TMC - Defects -CW6 Potholes  problem, 26th September :- [8218715](https://www.fixmystreet.com/report/8218715)
 
 <!-- fix_marker ends -->
