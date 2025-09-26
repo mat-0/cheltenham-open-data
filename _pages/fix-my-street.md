@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Lots of potholes yet again. You need to re tarmac the whole road, 26th September :- [8220307](https://www.fixmystreet.com/report/8220307)
 - Jessop Avenue. Leaf litter removal, 26th September :- [8220123](https://www.fixmystreet.com/report/8220123)
 - Green light on the west, facing Cheltenham, 26th September :- [8220054](https://www.fixmystreet.com/report/8220054)
 - Street lamp is not working for weeks!, 26th September :- [8219916](https://www.fixmystreet.com/report/8219916)
@@ -25,9 +26,8 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 26th September :- [8218901](https://www.fixmystreet.com/report/8218901)
 - Red barriers around some old metal stumps blocking pavement formonths, 26th September :- [8218785](https://www.fixmystreet.com/report/8218785)
 - A pothole in road problem, 26th September :- [8218709](https://www.fixmystreet.com/report/8218709)
-- TMC - Defects -FW6 Potholes problem, 26th September :- [8218717](https://www.fixmystreet.com/report/8218717)
 - TMC - Defects -FW6 Potholes problem, 26th September :- [8218718](https://www.fixmystreet.com/report/8218718)
+- TMC - Defects -FW6 Potholes problem, 26th September :- [8218717](https://www.fixmystreet.com/report/8218717)
 - A pothole in road problem, 26th September :- [8218708](https://www.fixmystreet.com/report/8218708)
-- TMC - Defects -CW6 Potholes  problem, 26th September :- [8218714](https://www.fixmystreet.com/report/8218714)
 
 <!-- fix_marker ends -->
