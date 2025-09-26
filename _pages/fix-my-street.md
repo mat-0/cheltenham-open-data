@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Jessop Avenue. Leaf litter removal, 26th September :- [8220123](https://www.fixmystreet.com/report/8220123)
 - Green light on the west, facing Cheltenham, 26th September :- [8220054](https://www.fixmystreet.com/report/8220054)
 - Street lamp is not working for weeks!, 26th September :- [8219916](https://www.fixmystreet.com/report/8219916)
 - Road edges are failing, causing road to narrow with no run off. Risk of damage to cars., 26th September :- [8219894](https://www.fixmystreet.com/report/8219894)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -FW6 Potholes problem, 26th September :- [8218718](https://www.fixmystreet.com/report/8218718)
 - A pothole in road problem, 26th September :- [8218708](https://www.fixmystreet.com/report/8218708)
 - TMC - Defects -CW6 Potholes  problem, 26th September :- [8218714](https://www.fixmystreet.com/report/8218714)
-- TMC - Defects -CW6 Potholes  problem, 26th September :- [8218715](https://www.fixmystreet.com/report/8218715)
 
 <!-- fix_marker ends -->
