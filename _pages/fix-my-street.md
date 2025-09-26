@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dog fouling around public fields, 26th September :- [8217876](https://www.fixmystreet.com/report/8217876)
+- TMC - Defects -CW6 Potholes  problem, 26th September :- [8217990](https://www.fixmystreet.com/report/8217990)
+- TMC - Defects -CW6 Potholes  problem, 26th September :- [8217988](https://www.fixmystreet.com/report/8217988)
+- TMC - Defects -CW6 Potholes  problem, 26th September :- [8217991](https://www.fixmystreet.com/report/8217991)
 - Large suspended flag interfering with lamp light in windy conditions on a sharp, tight corner, 26th September :- [8217488](https://www.fixmystreet.com/report/8217488)
 - Street light not working for over a month, 26th September :- [8217148](https://www.fixmystreet.com/report/8217148)
 - Light in passage has been out for over a month, 26th September :- [8217030](https://www.fixmystreet.com/report/8217030)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - There is no ‘road ahead closed’ sign at a suitable point ahead of the road being closed meaning people are having to do a u turn in the road by the nursery, 25th September :- [8214555](https://www.fixmystreet.com/report/8214555)
 - Recently repaired , now worse than before. Loud bang when traveling from hucclecote to churchdown., 25th September :- [8214492](https://www.fixmystreet.com/report/8214492)
 - Recently repaired speed hump is now worse than before it was "fixed"., 25th September :- [8214463](https://www.fixmystreet.com/report/8214463)
-- Elmbridge court roundabout, 25th September :- [8214005](https://www.fixmystreet.com/report/8214005)
-- On the path, 25th September :- [8213938](https://www.fixmystreet.com/report/8213938)
-- Sunk road, 25th September :- [8213925](https://www.fixmystreet.com/report/8213925)
-- TMC - Defects -FW6 Potholes problem, 25th September :- [8213870](https://www.fixmystreet.com/report/8213870)
 
 <!-- fix_marker ends -->
