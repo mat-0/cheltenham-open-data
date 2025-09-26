@@ -9,7 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Overflowing bin and surrounding rubbish, 26th September :- [8216647](https://www.fixmystreet.com/report/8216647)
 - Vehicle abandoned 8 weeks ago., 26th September :- [8216218](https://www.fixmystreet.com/report/8216218)
+- Blocking visibility on road/junction (Grass/verge) problem, 26th September :- [8216298](https://www.fixmystreet.com/report/8216298)
 - Tree branch ready to fall onto road, 26th September :- [8215932](https://www.fixmystreet.com/report/8215932)
 - I have asked Cheltenham Borough Council several times for an annual street clean & been told this is delayed due to availability of GCC contractors & lack of resources, response., 26th September :- [8215868](https://www.fixmystreet.com/report/8215868)
 - Street light does not work, 26th September :- [8215865](https://www.fixmystreet.com/report/8215865)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -FW6 Potholes problem, 25th September :- [8213689](https://www.fixmystreet.com/report/8213689)
 - Large branch fallen and on pavement, 25th September :- [8213538](https://www.fixmystreet.com/report/8213538)
 - TMC - Defects - Other problem, 25th September :- [8213657](https://www.fixmystreet.com/report/8213657)
-- Post or sign leaning slightly (less than 20 degrees) problem, 25th September :- [8213475](https://www.fixmystreet.com/report/8213475)
-- Tree is damaged problem, 25th September :- [8213473](https://www.fixmystreet.com/report/8213473)
 
 <!-- fix_marker ends -->
