@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street light not working for over a month, 26th September :- [8217148](https://www.fixmystreet.com/report/8217148)
+- Light in passage has been out for over a month, 26th September :- [8217030](https://www.fixmystreet.com/report/8217030)
+- Tree is damaged problem, 26th September :- [8217076](https://www.fixmystreet.com/report/8217076)
+- Greenery across bus shelter, 26th September :- [8216986](https://www.fixmystreet.com/report/8216986)
+- General road markings, lines and stud issues problem, 26th September :- [8217074](https://www.fixmystreet.com/report/8217074)
 - Overflowing bin and surrounding rubbish, 26th September :- [8216647](https://www.fixmystreet.com/report/8216647)
 - Vehicle abandoned 8 weeks ago., 26th September :- [8216218](https://www.fixmystreet.com/report/8216218)
 - Blocking visibility on road/junction (Grass/verge) problem, 26th September :- [8216298](https://www.fixmystreet.com/report/8216298)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Sunk road, 25th September :- [8213925](https://www.fixmystreet.com/report/8213925)
 - TMC - Defects -FW6 Potholes problem, 25th September :- [8213870](https://www.fixmystreet.com/report/8213870)
 - TMC - Defects - Other FW6  Surface problem, 25th September :- [8213867](https://www.fixmystreet.com/report/8213867)
-- Crumbling pavement at end of drive, 25th September :- [8213646](https://www.fixmystreet.com/report/8213646)
-- TMC - Defects -FW6 Potholes problem, 25th September :- [8213690](https://www.fixmystreet.com/report/8213690)
-- TMC - Defects -FW6 Potholes problem, 25th September :- [8213689](https://www.fixmystreet.com/report/8213689)
-- Large branch fallen and on pavement, 25th September :- [8213538](https://www.fixmystreet.com/report/8213538)
-- TMC - Defects - Other problem, 25th September :- [8213657](https://www.fixmystreet.com/report/8213657)
 
 <!-- fix_marker ends -->
