@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street lamp is not working for weeks!, 26th September :- [8219916](https://www.fixmystreet.com/report/8219916)
+- Road edges are failing, causing road to narrow with no run off. Risk of damage to cars., 26th September :- [8219894](https://www.fixmystreet.com/report/8219894)
+- Abandoned Signs and Barriers, 26th September :- [8219883](https://www.fixmystreet.com/report/8219883)
 - Pothole in road, very uneven patch of road, never been fixed, 26th September :- [8219346](https://www.fixmystreet.com/report/8219346)
 - Street light is permanently out problem, 26th September :- [8219374](https://www.fixmystreet.com/report/8219374)
 - Following work done by Telent on behalf of Openreach 24/25 Sep 2025 the public pavement has been damaged (Telent Job number 5003517773), 26th September :- [8219141](https://www.fixmystreet.com/report/8219141)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 26th September :- [8218713](https://www.fixmystreet.com/report/8218713)
 - TMC - Defects -CW6 Potholes  problem, 26th September :- [8218715](https://www.fixmystreet.com/report/8218715)
 - TMC - Defects -CW6 Potholes  problem, 26th September :- [8218714](https://www.fixmystreet.com/report/8218714)
-- Tree is damaged problem, 26th September :- [8218535](https://www.fixmystreet.com/report/8218535)
-- Drainage pipes are damaged, 26th September :- [8218503](https://www.fixmystreet.com/report/8218503)
-- TMC - Defects - Vegetation problem, 26th September :- [8218543](https://www.fixmystreet.com/report/8218543)
 
 <!-- fix_marker ends -->
