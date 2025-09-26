@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large suspended flag interfering with lamp light in windy conditions on a sharp, tight corner, 26th September :- [8217488](https://www.fixmystreet.com/report/8217488)
 - Street light not working for over a month, 26th September :- [8217148](https://www.fixmystreet.com/report/8217148)
 - Light in passage has been out for over a month, 26th September :- [8217030](https://www.fixmystreet.com/report/8217030)
 - Tree is damaged problem, 26th September :- [8217076](https://www.fixmystreet.com/report/8217076)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - On the path, 25th September :- [8213938](https://www.fixmystreet.com/report/8213938)
 - Sunk road, 25th September :- [8213925](https://www.fixmystreet.com/report/8213925)
 - TMC - Defects -FW6 Potholes problem, 25th September :- [8213870](https://www.fixmystreet.com/report/8213870)
-- TMC - Defects - Other FW6  Surface problem, 25th September :- [8213867](https://www.fixmystreet.com/report/8213867)
 
 <!-- fix_marker ends -->
