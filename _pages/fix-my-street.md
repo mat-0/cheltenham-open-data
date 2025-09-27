@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Is car parking allowed?, 27th September :- [8222875](https://www.fixmystreet.com/report/8222875)
+- Drain is raised, 27th September :- [8222863](https://www.fixmystreet.com/report/8222863)
 - Along Cheltenham Road East near BJ kennels, 27th September :- [8222818](https://www.fixmystreet.com/report/8222818)
 - Water leak, 27th September :- [8222723](https://www.fixmystreet.com/report/8222723)
 - No street sign for Inkerman lane, it has been blank for years., 27th September :- [8222492](https://www.fixmystreet.com/report/8222492)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Lots of potholes yet again. You need to re tarmac the whole road, 26th September :- [8220307](https://www.fixmystreet.com/report/8220307)
 - Jessop Avenue. Leaf litter removal, 26th September :- [8220123](https://www.fixmystreet.com/report/8220123)
 - Green light on the west, facing Cheltenham, 26th September :- [8220054](https://www.fixmystreet.com/report/8220054)
-- Street lamp is not working for weeks!, 26th September :- [8219916](https://www.fixmystreet.com/report/8219916)
-- Road edges are failing, causing road to narrow with no run off. Risk of damage to cars., 26th September :- [8219894](https://www.fixmystreet.com/report/8219894)
 
 <!-- fix_marker ends -->
