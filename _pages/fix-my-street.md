@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Broken Metal Kerb Drain, 27th September :- [8220981](https://www.fixmystreet.com/report/8220981)
 - Lots of potholes yet again. You need to re tarmac the whole road, 26th September :- [8220307](https://www.fixmystreet.com/report/8220307)
 - Jessop Avenue. Leaf litter removal, 26th September :- [8220123](https://www.fixmystreet.com/report/8220123)
 - Green light on the west, facing Cheltenham, 26th September :- [8220054](https://www.fixmystreet.com/report/8220054)
@@ -26,8 +27,7 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 26th September :- [8218901](https://www.fixmystreet.com/report/8218901)
 - Red barriers around some old metal stumps blocking pavement formonths, 26th September :- [8218785](https://www.fixmystreet.com/report/8218785)
 - A pothole in road problem, 26th September :- [8218709](https://www.fixmystreet.com/report/8218709)
-- TMC - Defects -FW6 Potholes problem, 26th September :- [8218718](https://www.fixmystreet.com/report/8218718)
 - TMC - Defects -FW6 Potholes problem, 26th September :- [8218717](https://www.fixmystreet.com/report/8218717)
-- A pothole in road problem, 26th September :- [8218708](https://www.fixmystreet.com/report/8218708)
+- TMC - Defects -FW6 Potholes problem, 26th September :- [8218718](https://www.fixmystreet.com/report/8218718)
 
 <!-- fix_marker ends -->
