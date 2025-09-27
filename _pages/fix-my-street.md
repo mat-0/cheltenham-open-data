@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Japanese knotweed present on Honeybourne line, 27th September :- [8222131](https://www.fixmystreet.com/report/8222131)
 - Broken glass on children's play equipment, 27th September :- [8221958](https://www.fixmystreet.com/report/8221958)
 - Large Quantity recycling ♻️ Materials Dumped, 27th September :- [8221790](https://www.fixmystreet.com/report/8221790)
 - Drivers ignoring road closure signs, 27th September :- [8221672](https://www.fixmystreet.com/report/8221672)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Pothole in road, very uneven patch of road, never been fixed, 26th September :- [8219346](https://www.fixmystreet.com/report/8219346)
 - Street light is permanently out problem, 26th September :- [8219374](https://www.fixmystreet.com/report/8219374)
 - Following work done by Telent on behalf of Openreach 24/25 Sep 2025 the public pavement has been damaged (Telent Job number 5003517773), 26th September :- [8219141](https://www.fixmystreet.com/report/8219141)
-- There is a concrete bollard in the path which has been hit twice in the last couple of weeks. The bollard is now leaning at a very jaunty angle onto the pavement and the tarmac surrounding it is now lifted and broken representing a Health and Safety trip hazard, 26th September :- [8219122](https://www.fixmystreet.com/report/8219122)
 
 <!-- fix_marker ends -->
