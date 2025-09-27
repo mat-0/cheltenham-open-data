@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- No street sign for Inkerman lane, it has been blank for years., 27th September :- [8222492](https://www.fixmystreet.com/report/8222492)
 - Abandoned road closed sign., 27th September :- [8222307](https://www.fixmystreet.com/report/8222307)
 - Japanese knotweed present on Honeybourne line, 27th September :- [8222131](https://www.fixmystreet.com/report/8222131)
 - Broken glass on children's play equipment, 27th September :- [8221958](https://www.fixmystreet.com/report/8221958)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Road edges are failing, causing road to narrow with no run off. Risk of damage to cars., 26th September :- [8219894](https://www.fixmystreet.com/report/8219894)
 - Abandoned Signs and Barriers, 26th September :- [8219883](https://www.fixmystreet.com/report/8219883)
 - Pothole in road, very uneven patch of road, never been fixed, 26th September :- [8219346](https://www.fixmystreet.com/report/8219346)
-- Street light is permanently out problem, 26th September :- [8219374](https://www.fixmystreet.com/report/8219374)
 
 <!-- fix_marker ends -->
