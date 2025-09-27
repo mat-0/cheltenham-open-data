@@ -3,8 +3,8 @@
 
 <rss version="2.0"
  xmlns:atom="http://www.w3.org/2005/Atom"
- xmlns:georss="http://www.georss.org/georss"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
+ xmlns:georss="http://www.georss.org/georss"
 >
 
 <channel>
@@ -142,21 +142,21 @@
 </item>
 <item>
 <title>TMC - Defects - Vegetation problem, 26th September</title>
-<link>https://www.fixmystreet.com/report/8218900</link>
-<description>Overgrown Verge FW 20m x 1m &amp;#10;Give and take TM With Temporary FW Closure &amp;#10;From PGR &amp;#10;Cut back to clear FW (Embankment &amp;amp; Cuttings)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8218900&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Vegetation</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8218900</guid>
-<pubDate>Fri, 26 Sep 2025 14:45:01 +0100</pubDate>
-<georss:point>51.9434353 -2.06457720000001</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Vegetation problem, 26th September</title>
 <link>https://www.fixmystreet.com/report/8218901</link>
 <description>Overgrown Verge FW 20m x 1m &amp;#10;Give and take TM With Temporary FW Closure &amp;#10;From PGR &amp;#10;Cut back to clear FW (Embankment &amp;amp; Cuttings)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8218901&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Vegetation</category>
 <guid isPermaLink="false">https://www.fixmystreet.com/report/8218901</guid>
 <pubDate>Fri, 26 Sep 2025 14:45:01 +0100</pubDate>
 <georss:point>51.9433792 -2.0645381</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Vegetation problem, 26th September</title>
+<link>https://www.fixmystreet.com/report/8218900</link>
+<description>Overgrown Verge FW 20m x 1m &amp;#10;Give and take TM With Temporary FW Closure &amp;#10;From PGR &amp;#10;Cut back to clear FW (Embankment &amp;amp; Cuttings)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8218900&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Vegetation</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8218900</guid>
+<pubDate>Fri, 26 Sep 2025 14:45:01 +0100</pubDate>
+<georss:point>51.9434353 -2.06457720000001</georss:point>
 </item>
 <item>
 <title>Red barriers around some old metal stumps blocking pavement formonths, 26th September</title>
