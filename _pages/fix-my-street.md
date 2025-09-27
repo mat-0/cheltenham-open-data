@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large Quantity recycling ♻️ Materials Dumped, 27th September :- [8221790](https://www.fixmystreet.com/report/8221790)
+- Drivers ignoring road closure signs, 27th September :- [8221672](https://www.fixmystreet.com/report/8221672)
 - Dog mess, 27th September :- [8221500](https://www.fixmystreet.com/report/8221500)
 - Blocked drain, 27th September :- [8221305](https://www.fixmystreet.com/report/8221305)
 - Flytipped trike, 27th September :- [8221294](https://www.fixmystreet.com/report/8221294)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Following work done by Telent on behalf of Openreach 24/25 Sep 2025 the public pavement has been damaged (Telent Job number 5003517773), 26th September :- [8219141](https://www.fixmystreet.com/report/8219141)
 - There is a concrete bollard in the path which has been hit twice in the last couple of weeks. The bollard is now leaning at a very jaunty angle onto the pavement and the tarmac surrounding it is now lifted and broken representing a Health and Safety trip hazard, 26th September :- [8219122](https://www.fixmystreet.com/report/8219122)
 - Newly fitted street lamp permanently off. Very dark and hazardous for road and pavement users., 26th September :- [8219114](https://www.fixmystreet.com/report/8219114)
-- A car hit a tree on the verge and it is now laying at 45 degrees to the verge. It could be saved if it was replanted upright quickly and would address the Health and Safety issue which currently prevails., 26th September :- [8219098](https://www.fixmystreet.com/report/8219098)
-- TMC - Defects - Vegetation problem, 26th September :- [8218909](https://www.fixmystreet.com/report/8218909)
 
 <!-- fix_marker ends -->
