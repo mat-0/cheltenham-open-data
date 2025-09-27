@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Along Cheltenham Road East near BJ kennels, 27th September :- [8222818](https://www.fixmystreet.com/report/8222818)
+- Water leak, 27th September :- [8222723](https://www.fixmystreet.com/report/8222723)
 - No street sign for Inkerman lane, it has been blank for years., 27th September :- [8222492](https://www.fixmystreet.com/report/8222492)
 - Abandoned road closed sign., 27th September :- [8222307](https://www.fixmystreet.com/report/8222307)
 - Japanese knotweed present on Honeybourne line, 27th September :- [8222131](https://www.fixmystreet.com/report/8222131)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Green light on the west, facing Cheltenham, 26th September :- [8220054](https://www.fixmystreet.com/report/8220054)
 - Street lamp is not working for weeks!, 26th September :- [8219916](https://www.fixmystreet.com/report/8219916)
 - Road edges are failing, causing road to narrow with no run off. Risk of damage to cars., 26th September :- [8219894](https://www.fixmystreet.com/report/8219894)
-- Abandoned Signs and Barriers, 26th September :- [8219883](https://www.fixmystreet.com/report/8219883)
-- Pothole in road, very uneven patch of road, never been fixed, 26th September :- [8219346](https://www.fixmystreet.com/report/8219346)
 
 <!-- fix_marker ends -->
