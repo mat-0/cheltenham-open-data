@@ -12,13 +12,13 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- New service to keep vulnerable people safe at home ([11 minutes ago](https://www.bbc.com/news/articles/cqxzyxxewjqo?at_medium=RSS&at_campaign=rss))
-- Illegal e-bikes seized and arrests made as part of Police Day of Action ([3 hours ago](https://gloucesternewscentre.co.uk/illegal-e-bikes-seized-and-arrests-made-as-part-of-police-day-of-action/))
-- Overnight closure warning for 'Missing Link' work ([3 hours ago](https://www.bbc.com/news/articles/c04q1r44pxvo?at_medium=RSS&at_campaign=rss))
-- Heritage trust wins award for saving UK perry pears ([3 hours ago](https://www.bbc.com/news/articles/c2lxv7wv2kwo?at_medium=RSS&at_campaign=rss))
-- Redevelopment delays spark concerns road could be resurfaced just to be dug up ([3 hours ago](https://gloucesternewscentre.co.uk/redevelopment-delays-spark-concerns-road-could-be-resurfaced-just-to-be-dug-up/))
-- Firefighters dispute ended after 'intensive' talks ([18 hours ago](https://www.bbc.com/news/articles/c99gkg3dkeyo?at_medium=RSS&at_campaign=rss))
-- Gardener's 38ft tall luffa plant sets world record ([21 hours ago](https://www.bbc.com/news/articles/cn0xyxdkrpro?at_medium=RSS&at_campaign=rss))
+- New service to keep vulnerable people safe at home ([1 hours ago](https://www.bbc.com/news/articles/cqxzyxxewjqo?at_medium=RSS&at_campaign=rss))
+- Illegal e-bikes seized and arrests made as part of Police Day of Action ([4 hours ago](https://gloucesternewscentre.co.uk/illegal-e-bikes-seized-and-arrests-made-as-part-of-police-day-of-action/))
+- Overnight closure warning for 'Missing Link' work ([4 hours ago](https://www.bbc.com/news/articles/c04q1r44pxvo?at_medium=RSS&at_campaign=rss))
+- Heritage trust wins award for saving UK perry pears ([4 hours ago](https://www.bbc.com/news/articles/c2lxv7wv2kwo?at_medium=RSS&at_campaign=rss))
+- Redevelopment delays spark concerns road could be resurfaced just to be dug up ([4 hours ago](https://gloucesternewscentre.co.uk/redevelopment-delays-spark-concerns-road-could-be-resurfaced-just-to-be-dug-up/))
+- Firefighters dispute ended after 'intensive' talks ([19 hours ago](https://www.bbc.com/news/articles/c99gkg3dkeyo?at_medium=RSS&at_campaign=rss))
+- Gardener's 38ft tall luffa plant sets world record ([22 hours ago](https://www.bbc.com/news/articles/cn0xyxdkrpro?at_medium=RSS&at_campaign=rss))
 - 'Rare pine martin spotted' and 'football player tribute' ([1 days ago](https://www.bbc.com/news/articles/cqxzy2v017xo?at_medium=RSS&at_campaign=rss))
 - Extra £20m funding agreed for M5 Junction 10 upgrade ([1 days ago](https://gloucesternewscentre.co.uk/extra-20m-funding-agreed-for-m5-junction-10-upgrade/))
 - Nigel Farage on course to be next prime minister, mega poll projects ([1 days ago](https://gloucesternewscentre.co.uk/nigel-farage-on-course-to-be-next-prime-minister-mega-poll-projects/))
@@ -58,10 +58,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Golden Valley launches new cyber skills initiative at  House of Commons event ([15 days ago](https://www.cheltenham.gov.uk/news/article/3047/golden_valley_launches_new_cyber_skills_initiative_at_house_of_commons_event))
 - Action taken to tackle rise in ‘abandoned’ e-scooters in county ([16 days ago](https://gloucesternewscentre.co.uk/action-taken-to-tackle-rise-in-abandoned-e-scooters-in-county/))
 - Registration for Charity’s First Ever Reindeer Run is Live! ([17 days ago](https://gloucesternewscentre.co.uk/registration-for-charitys-first-ever-reindeer-run-is-live/))
-- Sustainability success stories: How three businesses thrived with CheltenhamZero grant funding ([17 days ago](https://www.cheltenham.gov.uk/news/article/3046/sustainability_success_stories_how_three_businesses_thrived_with_cheltenhamzero_grant_funding))
+- Sustainability success stories: How three businesses thrived with CheltenhamZero grant funding ([18 days ago](https://www.cheltenham.gov.uk/news/article/3046/sustainability_success_stories_how_three_businesses_thrived_with_cheltenhamzero_grant_funding))
 - MP calls on Cavendish House owners to create ‘landmark Cheltenham can be proud of’ ([18 days ago](https://gloucesternewscentre.co.uk/mp-calls-on-cavendish-house-owners-to-create-landmark-cheltenham-can-be-proud-of/))
 - Cheltenham's compliance crackdown on illegal knife sales to minors ([22 days ago](https://www.cheltenham.gov.uk/news/article/3045/cheltenhams_compliance_crackdown_on_illegal_knife_sales_to_minors))
-- Battle of Britain commemoration service ([22 days ago](https://www.cheltenham.gov.uk/news/article/3044/battle_of_britain_commemoration_service))
+- Battle of Britain commemoration service ([23 days ago](https://www.cheltenham.gov.uk/news/article/3044/battle_of_britain_commemoration_service))
 - Council urges Treasury to rethink farm tax changes ([25 days ago](https://www.bbc.co.uk/sounds/play/p0m063k7?at_medium=RSS&at_campaign=rss))
 
 <!-- news_marker ends -->
