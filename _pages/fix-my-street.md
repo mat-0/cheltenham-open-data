@@ -9,10 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dog mess, 27th September :- [8221500](https://www.fixmystreet.com/report/8221500)
 - Blocked drain, 27th September :- [8221305](https://www.fixmystreet.com/report/8221305)
 - Flytipped trike, 27th September :- [8221294](https://www.fixmystreet.com/report/8221294)
 - Gas canisters fly tipped moves off road, 27th September :- [8221281](https://www.fixmystreet.com/report/8221281)
 - Rubbish on street, 27th September :- [8221209](https://www.fixmystreet.com/report/8221209)
+- N20 Cannisters & Packaging Fly Tipped, 27th September :- [8221104](https://www.fixmystreet.com/report/8221104)
 - Broken Metal Kerb Drain, 27th September :- [8220981](https://www.fixmystreet.com/report/8220981)
 - Lots of potholes yet again. You need to re tarmac the whole road, 26th September :- [8220307](https://www.fixmystreet.com/report/8220307)
 - Jessop Avenue. Leaf litter removal, 26th September :- [8220123](https://www.fixmystreet.com/report/8220123)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Newly fitted street lamp permanently off. Very dark and hazardous for road and pavement users., 26th September :- [8219114](https://www.fixmystreet.com/report/8219114)
 - A car hit a tree on the verge and it is now laying at 45 degrees to the verge. It could be saved if it was replanted upright quickly and would address the Health and Safety issue which currently prevails., 26th September :- [8219098](https://www.fixmystreet.com/report/8219098)
 - TMC - Defects - Vegetation problem, 26th September :- [8218909](https://www.fixmystreet.com/report/8218909)
-- TMC - Defects - Vegetation problem, 26th September :- [8218900](https://www.fixmystreet.com/report/8218900)
-- TMC - Defects - Vegetation problem, 26th September :- [8218901](https://www.fixmystreet.com/report/8218901)
 
 <!-- fix_marker ends -->
