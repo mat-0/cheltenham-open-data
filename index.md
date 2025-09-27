@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Saturday, 27 September 2025
 
-- The average temperature today is 14.65˚C,
-- With highs of 15.52˚C and lows of 14.27˚C,
-- It may feel like 14.02˚C with scattered clouds
-- The wind speed is 5.66m/s and visibility is 10000m
-- The pressure is 1017hPa and humidity is 71%
+- The average temperature today is 16.03˚C,
+- With highs of 16.03˚C and lows of 16.03˚C,
+- It may feel like 15.52˚C with overcast clouds
+- The wind speed is 6.57m/s and visibility is 10000m
+- The pressure is 1017hPa and humidity is 70%
 - The sun will rise at 06:02 and set at 17:55
 
 <!-- weather_marker ends -->
