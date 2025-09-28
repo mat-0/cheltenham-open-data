@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Gloucestershire in Pictures: Pumpkins and landmarks ([1 hours ago](https://www.bbc.com/news/articles/c2ejm0zzy9ko?at_medium=RSS&at_campaign=rss))
-- 'Ambulance deaths' and 'ghost town' ([2 hours ago](https://www.bbc.com/news/articles/cpq54qv22y2o?at_medium=RSS&at_campaign=rss))
-- Community group aims to buy building from church ([15 hours ago](https://www.bbc.com/news/articles/cly0z2kpwxro?at_medium=RSS&at_campaign=rss))
-- Fireworks Displays in Gloucestershire 2025 – the full guide! ([16 hours ago](https://gloucesternewscentre.co.uk/fireworks-displays-in-gloucestershire-2025-the-full-guide/))
-- New service to keep vulnerable people safe at home ([22 hours ago](https://www.bbc.com/news/articles/cqxzyxxewjqo?at_medium=RSS&at_campaign=rss))
+- Gloucestershire in Pictures: Pumpkins and landmarks ([2 hours ago](https://www.bbc.com/news/articles/c2ejm0zzy9ko?at_medium=RSS&at_campaign=rss))
+- 'Ambulance deaths' and 'ghost town' ([3 hours ago](https://www.bbc.com/news/articles/cpq54qv22y2o?at_medium=RSS&at_campaign=rss))
+- Community group aims to buy building from church ([16 hours ago](https://www.bbc.com/news/articles/cly0z2kpwxro?at_medium=RSS&at_campaign=rss))
+- Fireworks Displays in Gloucestershire 2025 – the full guide! ([17 hours ago](https://gloucesternewscentre.co.uk/fireworks-displays-in-gloucestershire-2025-the-full-guide/))
+- New service to keep vulnerable people safe at home ([23 hours ago](https://www.bbc.com/news/articles/cqxzyxxewjqo?at_medium=RSS&at_campaign=rss))
 - Illegal e-bikes seized and arrests made as part of Police Day of Action ([1 days ago](https://gloucesternewscentre.co.uk/illegal-e-bikes-seized-and-arrests-made-as-part-of-police-day-of-action/))
 - Overnight closure warning for 'Missing Link' work ([1 days ago](https://www.bbc.com/news/articles/c04q1r44pxvo?at_medium=RSS&at_campaign=rss))
 - Heritage trust wins award for saving UK perry pears ([1 days ago](https://www.bbc.com/news/articles/c2lxv7wv2kwo?at_medium=RSS&at_campaign=rss))

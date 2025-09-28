@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Sunday, 28 September 2025
 
-- The average temperature today is 12.2˚C,
-- With highs of 12.2˚C and lows of 12.2˚C,
-- It may feel like 11.85˚C with broken clouds
-- The wind speed is 1.92m/s and visibility is 10000m
-- The pressure is 1019hPa and humidity is 91%
+- The average temperature today is 11.88˚C,
+- With highs of 14.05˚C and lows of 10.75˚C,
+- It may feel like 11.58˚C with broken clouds
+- The wind speed is 3.09m/s and visibility is 10000m
+- The pressure is 1020hPa and humidity is 94%
 - The sun will rise at 06:04 and set at 17:53
 
 <!-- weather_marker ends -->
