@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Overgrown bridleway gate, 28th September :- [8225530](https://www.fixmystreet.com/report/8225530)
 - Poor condition doga waste bin, 28th September :- [8225082](https://www.fixmystreet.com/report/8225082)
 - Huge weeds growing through the tarmac. Tarmac damaged, pavement uneven. Have to walk in the road if walking with a pram/buggy, 28th September :- [8225073](https://www.fixmystreet.com/report/8225073)
 - Abandoned traffic cone, 28th September :- [8224593](https://www.fixmystreet.com/report/8224593)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Dangerous part-fallen tree leaning across path leaning on much smaller tree., 28th September :- [8222352](https://www.fixmystreet.com/report/8222352)
 - Abandoned road closed sign., 27th September :- [8222307](https://www.fixmystreet.com/report/8222307)
 - Japanese knotweed present on Honeybourne line, 27th September :- [8222131](https://www.fixmystreet.com/report/8222131)
-- Broken glass on children's play equipment, 27th September :- [8221958](https://www.fixmystreet.com/report/8221958)
 
 <!-- fix_marker ends -->
