@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Poor condition doga waste bin, 28th September :- [8225082](https://www.fixmystreet.com/report/8225082)
+- Huge weeds growing through the tarmac. Tarmac damaged, pavement uneven. Have to walk in the road if walking with a pram/buggy, 28th September :- [8225073](https://www.fixmystreet.com/report/8225073)
 - Abandoned traffic cone, 28th September :- [8224593](https://www.fixmystreet.com/report/8224593)
 - Flytipping multiple Northfield Passage, 28th September :- [8224581](https://www.fixmystreet.com/report/8224581)
 - Double mattress by communal bins, 28th September :- [8224468](https://www.fixmystreet.com/report/8224468)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Abandoned road closed sign., 27th September :- [8222307](https://www.fixmystreet.com/report/8222307)
 - Japanese knotweed present on Honeybourne line, 27th September :- [8222131](https://www.fixmystreet.com/report/8222131)
 - Broken glass on children's play equipment, 27th September :- [8221958](https://www.fixmystreet.com/report/8221958)
-- Large Quantity recycling ♻️ Materials Dumped, 27th September :- [8221790](https://www.fixmystreet.com/report/8221790)
-- Drivers ignoring road closure signs, 27th September :- [8221672](https://www.fixmystreet.com/report/8221672)
 
 <!-- fix_marker ends -->

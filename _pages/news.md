@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Recovering addicts urge others to seek help ([53 minutes ago](https://www.bbc.com/news/articles/c9qnpxynxzxo?at_medium=RSS&at_campaign=rss))
-- Red Roses victory honoured with GWR train tribute ([7 hours ago](https://www.bbc.com/news/articles/cy4jwqvzppdo?at_medium=RSS&at_campaign=rss))
-- Gloucestershire in Pictures: Pumpkins and landmarks ([10 hours ago](https://www.bbc.com/news/articles/c2ejm0zzy9ko?at_medium=RSS&at_campaign=rss))
-- 'Ambulance deaths' and 'ghost town' ([11 hours ago](https://www.bbc.com/news/articles/cpq54qv22y2o?at_medium=RSS&at_campaign=rss))
+- Recovering addicts urge others to seek help ([1 hours ago](https://www.bbc.com/news/articles/c9qnpxynxzxo?at_medium=RSS&at_campaign=rss))
+- Red Roses victory honoured with GWR train tribute ([8 hours ago](https://www.bbc.com/news/articles/cy4jwqvzppdo?at_medium=RSS&at_campaign=rss))
+- Gloucestershire in Pictures: Pumpkins and landmarks ([11 hours ago](https://www.bbc.com/news/articles/c2ejm0zzy9ko?at_medium=RSS&at_campaign=rss))
+- 'Ambulance deaths' and 'ghost town' ([12 hours ago](https://www.bbc.com/news/articles/cpq54qv22y2o?at_medium=RSS&at_campaign=rss))
 - Community group aims to buy building from church ([1 days ago](https://www.bbc.com/news/articles/cly0z2kpwxro?at_medium=RSS&at_campaign=rss))
 - Fireworks Displays in Gloucestershire 2025 – the full guide! ([1 days ago](https://gloucesternewscentre.co.uk/fireworks-displays-in-gloucestershire-2025-the-full-guide/))
 - New service to keep vulnerable people safe at home ([1 days ago](https://www.bbc.com/news/articles/cqxzyxxewjqo?at_medium=RSS&at_campaign=rss))
