@@ -13,8 +13,8 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
 - Community group aims to buy building from church ([11 hours ago](https://www.bbc.com/news/articles/cly0z2kpwxro?at_medium=RSS&at_campaign=rss))
-- Fireworks Displays in Gloucestershire 2025 – the full guide! ([11 hours ago](https://gloucesternewscentre.co.uk/fireworks-displays-in-gloucestershire-2025-the-full-guide/))
-- New service to keep vulnerable people safe at home ([17 hours ago](https://www.bbc.com/news/articles/cqxzyxxewjqo?at_medium=RSS&at_campaign=rss))
+- Fireworks Displays in Gloucestershire 2025 – the full guide! ([12 hours ago](https://gloucesternewscentre.co.uk/fireworks-displays-in-gloucestershire-2025-the-full-guide/))
+- New service to keep vulnerable people safe at home ([18 hours ago](https://www.bbc.com/news/articles/cqxzyxxewjqo?at_medium=RSS&at_campaign=rss))
 - Illegal e-bikes seized and arrests made as part of Police Day of Action ([21 hours ago](https://gloucesternewscentre.co.uk/illegal-e-bikes-seized-and-arrests-made-as-part-of-police-day-of-action/))
 - Overnight closure warning for 'Missing Link' work ([21 hours ago](https://www.bbc.com/news/articles/c04q1r44pxvo?at_medium=RSS&at_campaign=rss))
 - Heritage trust wins award for saving UK perry pears ([21 hours ago](https://www.bbc.com/news/articles/c2lxv7wv2kwo?at_medium=RSS&at_campaign=rss))
