@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Red Roses victory honoured with GWR train tribute ([45 minutes ago](https://www.bbc.com/news/articles/cy4jwqvzppdo?at_medium=RSS&at_campaign=rss))
-- Gloucestershire in Pictures: Pumpkins and landmarks ([3 hours ago](https://www.bbc.com/news/articles/c2ejm0zzy9ko?at_medium=RSS&at_campaign=rss))
-- 'Ambulance deaths' and 'ghost town' ([4 hours ago](https://www.bbc.com/news/articles/cpq54qv22y2o?at_medium=RSS&at_campaign=rss))
-- Community group aims to buy building from church ([17 hours ago](https://www.bbc.com/news/articles/cly0z2kpwxro?at_medium=RSS&at_campaign=rss))
-- Fireworks Displays in Gloucestershire 2025 – the full guide! ([18 hours ago](https://gloucesternewscentre.co.uk/fireworks-displays-in-gloucestershire-2025-the-full-guide/))
+- Red Roses victory honoured with GWR train tribute ([1 hours ago](https://www.bbc.com/news/articles/cy4jwqvzppdo?at_medium=RSS&at_campaign=rss))
+- Gloucestershire in Pictures: Pumpkins and landmarks ([4 hours ago](https://www.bbc.com/news/articles/c2ejm0zzy9ko?at_medium=RSS&at_campaign=rss))
+- 'Ambulance deaths' and 'ghost town' ([5 hours ago](https://www.bbc.com/news/articles/cpq54qv22y2o?at_medium=RSS&at_campaign=rss))
+- Community group aims to buy building from church ([18 hours ago](https://www.bbc.com/news/articles/cly0z2kpwxro?at_medium=RSS&at_campaign=rss))
+- Fireworks Displays in Gloucestershire 2025 – the full guide! ([19 hours ago](https://gloucesternewscentre.co.uk/fireworks-displays-in-gloucestershire-2025-the-full-guide/))
 - New service to keep vulnerable people safe at home ([1 days ago](https://www.bbc.com/news/articles/cqxzyxxewjqo?at_medium=RSS&at_campaign=rss))
 - Illegal e-bikes seized and arrests made as part of Police Day of Action ([1 days ago](https://gloucesternewscentre.co.uk/illegal-e-bikes-seized-and-arrests-made-as-part-of-police-day-of-action/))
 - Overnight closure warning for 'Missing Link' work ([1 days ago](https://www.bbc.com/news/articles/c04q1r44pxvo?at_medium=RSS&at_campaign=rss))
@@ -60,8 +60,8 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Golden Valley launches new cyber skills initiative at  House of Commons event ([16 days ago](https://www.cheltenham.gov.uk/news/article/3047/golden_valley_launches_new_cyber_skills_initiative_at_house_of_commons_event))
 - Action taken to tackle rise in ‘abandoned’ e-scooters in county ([17 days ago](https://gloucesternewscentre.co.uk/action-taken-to-tackle-rise-in-abandoned-e-scooters-in-county/))
 - Registration for Charity’s First Ever Reindeer Run is Live! ([18 days ago](https://gloucesternewscentre.co.uk/registration-for-charitys-first-ever-reindeer-run-is-live/))
-- Sustainability success stories: How three businesses thrived with CheltenhamZero grant funding ([18 days ago](https://www.cheltenham.gov.uk/news/article/3046/sustainability_success_stories_how_three_businesses_thrived_with_cheltenhamzero_grant_funding))
+- Sustainability success stories: How three businesses thrived with CheltenhamZero grant funding ([19 days ago](https://www.cheltenham.gov.uk/news/article/3046/sustainability_success_stories_how_three_businesses_thrived_with_cheltenhamzero_grant_funding))
 - Cheltenham's compliance crackdown on illegal knife sales to minors ([23 days ago](https://www.cheltenham.gov.uk/news/article/3045/cheltenhams_compliance_crackdown_on_illegal_knife_sales_to_minors))
-- Battle of Britain commemoration service ([23 days ago](https://www.cheltenham.gov.uk/news/article/3044/battle_of_britain_commemoration_service))
+- Battle of Britain commemoration service ([24 days ago](https://www.cheltenham.gov.uk/news/article/3044/battle_of_britain_commemoration_service))
 
 <!-- news_marker ends -->

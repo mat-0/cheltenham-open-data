@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fence, 28th September :- [8223621](https://www.fixmystreet.com/report/8223621)
 - Graffiti on wall by temporary roundabout, 28th September :- [8223495](https://www.fixmystreet.com/report/8223495)
 - Is car parking allowed?, 27th September :- [8222875](https://www.fixmystreet.com/report/8222875)
 - Drain is raised, 27th September :- [8222863](https://www.fixmystreet.com/report/8222863)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Rubbish on street, 27th September :- [8221209](https://www.fixmystreet.com/report/8221209)
 - N20 Cannisters & Packaging Fly Tipped, 27th September :- [8221104](https://www.fixmystreet.com/report/8221104)
 - Broken Metal Kerb Drain, 27th September :- [8220981](https://www.fixmystreet.com/report/8220981)
-- Lots of potholes yet again. You need to re tarmac the whole road, 26th September :- [8220307](https://www.fixmystreet.com/report/8220307)
 
 <!-- fix_marker ends -->
