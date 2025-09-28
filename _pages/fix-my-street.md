@@ -9,11 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Graffiti on wall by temporary roundabout, 28th September :- [8223495](https://www.fixmystreet.com/report/8223495)
 - Is car parking allowed?, 27th September :- [8222875](https://www.fixmystreet.com/report/8222875)
 - Drain is raised, 27th September :- [8222863](https://www.fixmystreet.com/report/8222863)
 - Along Cheltenham Road East near BJ kennels, 27th September :- [8222818](https://www.fixmystreet.com/report/8222818)
 - Water leak, 27th September :- [8222723](https://www.fixmystreet.com/report/8222723)
 - No street sign for Inkerman lane, it has been blank for years., 27th September :- [8222492](https://www.fixmystreet.com/report/8222492)
+- Dangerous part-fallen tree leaning across path leaning on much smaller tree., 28th September :- [8222352](https://www.fixmystreet.com/report/8222352)
 - Abandoned road closed sign., 27th September :- [8222307](https://www.fixmystreet.com/report/8222307)
 - Japanese knotweed present on Honeybourne line, 27th September :- [8222131](https://www.fixmystreet.com/report/8222131)
 - Broken glass on children's play equipment, 27th September :- [8221958](https://www.fixmystreet.com/report/8221958)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - N20 Cannisters & Packaging Fly Tipped, 27th September :- [8221104](https://www.fixmystreet.com/report/8221104)
 - Broken Metal Kerb Drain, 27th September :- [8220981](https://www.fixmystreet.com/report/8220981)
 - Lots of potholes yet again. You need to re tarmac the whole road, 26th September :- [8220307](https://www.fixmystreet.com/report/8220307)
-- Jessop Avenue. Leaf litter removal, 26th September :- [8220123](https://www.fixmystreet.com/report/8220123)
-- Green light on the west, facing Cheltenham, 26th September :- [8220054](https://www.fixmystreet.com/report/8220054)
 
 <!-- fix_marker ends -->
