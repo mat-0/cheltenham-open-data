@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The pothole is on the PUBLIC FOOTPATH between St Mary's Junior and Infant Schools, 28th September :- [8224338](https://www.fixmystreet.com/report/8224338)
 - Water rising from underneath the new tarmac which was laid last week, 28th September :- [8224164](https://www.fixmystreet.com/report/8224164)
 - Resurfacing finished on Friday but the no parking line is too long and extends beyond dropped kerb. Knock on effect is that we have lost a parking space on the roadside, 28th September :- [8224155](https://www.fixmystreet.com/report/8224155)
 - Pedestrian barrier damage, 28th September :- [8223903](https://www.fixmystreet.com/report/8223903)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Dog mess, 27th September :- [8221500](https://www.fixmystreet.com/report/8221500)
 - Blocked drain, 27th September :- [8221305](https://www.fixmystreet.com/report/8221305)
 - Flytipped trike, 27th September :- [8221294](https://www.fixmystreet.com/report/8221294)
-- Gas canisters fly tipped moves off road, 27th September :- [8221281](https://www.fixmystreet.com/report/8221281)
 
 <!-- fix_marker ends -->
