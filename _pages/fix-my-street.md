@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pedestrian barrier damage, 28th September :- [8223903](https://www.fixmystreet.com/report/8223903)
 - Fence, 28th September :- [8223621](https://www.fixmystreet.com/report/8223621)
 - Graffiti on wall by temporary roundabout, 28th September :- [8223495](https://www.fixmystreet.com/report/8223495)
 - Is car parking allowed?, 27th September :- [8222875](https://www.fixmystreet.com/report/8222875)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Gas canisters fly tipped moves off road, 27th September :- [8221281](https://www.fixmystreet.com/report/8221281)
 - Rubbish on street, 27th September :- [8221209](https://www.fixmystreet.com/report/8221209)
 - N20 Cannisters & Packaging Fly Tipped, 27th September :- [8221104](https://www.fixmystreet.com/report/8221104)
-- Broken Metal Kerb Drain, 27th September :- [8220981](https://www.fixmystreet.com/report/8220981)
 
 <!-- fix_marker ends -->
