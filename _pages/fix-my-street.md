@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Abandoned traffic cone, 28th September :- [8224593](https://www.fixmystreet.com/report/8224593)
+- Flytipping multiple Northfield Passage, 28th September :- [8224581](https://www.fixmystreet.com/report/8224581)
+- Double mattress by communal bins, 28th September :- [8224468](https://www.fixmystreet.com/report/8224468)
 - The pothole is on the PUBLIC FOOTPATH between St Mary's Junior and Infant Schools, 28th September :- [8224338](https://www.fixmystreet.com/report/8224338)
 - Water rising from underneath the new tarmac which was laid last week, 28th September :- [8224164](https://www.fixmystreet.com/report/8224164)
 - Resurfacing finished on Friday but the no parking line is too long and extends beyond dropped kerb. Knock on effect is that we have lost a parking space on the roadside, 28th September :- [8224155](https://www.fixmystreet.com/report/8224155)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Broken glass on children's play equipment, 27th September :- [8221958](https://www.fixmystreet.com/report/8221958)
 - Large Quantity recycling ♻️ Materials Dumped, 27th September :- [8221790](https://www.fixmystreet.com/report/8221790)
 - Drivers ignoring road closure signs, 27th September :- [8221672](https://www.fixmystreet.com/report/8221672)
-- Dog mess, 27th September :- [8221500](https://www.fixmystreet.com/report/8221500)
-- Blocked drain, 27th September :- [8221305](https://www.fixmystreet.com/report/8221305)
-- Flytipped trike, 27th September :- [8221294](https://www.fixmystreet.com/report/8221294)
 
 <!-- fix_marker ends -->

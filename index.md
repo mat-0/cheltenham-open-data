@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Sunday, 28 September 2025
 
-- The average temperature today is 17.48˚C,
-- With highs of 18.86˚C and lows of 16.49˚C,
-- It may feel like 16.8˚C with scattered clouds
-- The wind speed is 3.6m/s and visibility is 10000m
-- The pressure is 1020hPa and humidity is 58%
+- The average temperature today is 17.5˚C,
+- With highs of 18.86˚C and lows of 16.75˚C,
+- It may feel like 16.74˚C with scattered clouds
+- The wind speed is 2.06m/s and visibility is 10000m
+- The pressure is 1021hPa and humidity is 55%
 - The sun will rise at 06:04 and set at 17:53
 
 <!-- weather_marker ends -->
