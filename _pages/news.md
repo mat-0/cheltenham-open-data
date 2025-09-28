@@ -12,13 +12,15 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Community group aims to buy building from church ([13 hours ago](https://www.bbc.com/news/articles/cly0z2kpwxro?at_medium=RSS&at_campaign=rss))
-- Fireworks Displays in Gloucestershire 2025 – the full guide! ([14 hours ago](https://gloucesternewscentre.co.uk/fireworks-displays-in-gloucestershire-2025-the-full-guide/))
-- New service to keep vulnerable people safe at home ([20 hours ago](https://www.bbc.com/news/articles/cqxzyxxewjqo?at_medium=RSS&at_campaign=rss))
-- Illegal e-bikes seized and arrests made as part of Police Day of Action ([23 hours ago](https://gloucesternewscentre.co.uk/illegal-e-bikes-seized-and-arrests-made-as-part-of-police-day-of-action/))
-- Overnight closure warning for 'Missing Link' work ([23 hours ago](https://www.bbc.com/news/articles/c04q1r44pxvo?at_medium=RSS&at_campaign=rss))
-- Heritage trust wins award for saving UK perry pears ([23 hours ago](https://www.bbc.com/news/articles/c2lxv7wv2kwo?at_medium=RSS&at_campaign=rss))
-- Redevelopment delays spark concerns road could be resurfaced just to be dug up ([23 hours ago](https://gloucesternewscentre.co.uk/redevelopment-delays-spark-concerns-road-could-be-resurfaced-just-to-be-dug-up/))
+- Gloucestershire in Pictures: Pumpkins and landmarks ([51 minutes ago](https://www.bbc.com/news/articles/c2ejm0zzy9ko?at_medium=RSS&at_campaign=rss))
+- 'Ambulance deaths' and 'ghost town' ([1 hours ago](https://www.bbc.com/news/articles/cpq54qv22y2o?at_medium=RSS&at_campaign=rss))
+- Community group aims to buy building from church ([14 hours ago](https://www.bbc.com/news/articles/cly0z2kpwxro?at_medium=RSS&at_campaign=rss))
+- Fireworks Displays in Gloucestershire 2025 – the full guide! ([15 hours ago](https://gloucesternewscentre.co.uk/fireworks-displays-in-gloucestershire-2025-the-full-guide/))
+- New service to keep vulnerable people safe at home ([21 hours ago](https://www.bbc.com/news/articles/cqxzyxxewjqo?at_medium=RSS&at_campaign=rss))
+- Illegal e-bikes seized and arrests made as part of Police Day of Action ([1 days ago](https://gloucesternewscentre.co.uk/illegal-e-bikes-seized-and-arrests-made-as-part-of-police-day-of-action/))
+- Overnight closure warning for 'Missing Link' work ([1 days ago](https://www.bbc.com/news/articles/c04q1r44pxvo?at_medium=RSS&at_campaign=rss))
+- Heritage trust wins award for saving UK perry pears ([1 days ago](https://www.bbc.com/news/articles/c2lxv7wv2kwo?at_medium=RSS&at_campaign=rss))
+- Redevelopment delays spark concerns road could be resurfaced just to be dug up ([1 days ago](https://gloucesternewscentre.co.uk/redevelopment-delays-spark-concerns-road-could-be-resurfaced-just-to-be-dug-up/))
 - Firefighters dispute ended after 'intensive' talks ([1 days ago](https://www.bbc.com/news/articles/c99gkg3dkeyo?at_medium=RSS&at_campaign=rss))
 - Gardener's 38ft tall luffa plant sets world record ([1 days ago](https://www.bbc.com/news/articles/cn0xyxdkrpro?at_medium=RSS&at_campaign=rss))
 - 'Rare pine martin spotted' and 'football player tribute' ([1 days ago](https://www.bbc.com/news/articles/cqxzy2v017xo?at_medium=RSS&at_campaign=rss))
@@ -36,7 +38,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Festive stars Santa and Craig Revel Horwood to light up Cheltenham Racecourse ([3 days ago](https://gloucesternewscentre.co.uk/festive-stars-santa-and-craig-revel-horwood-to-light-up-cheltenham-racecourse/))
 - Decision on ‘overbearing’ Cheltenham home extension amid privacy fears ([3 days ago](https://gloucesternewscentre.co.uk/decision-on-overbearing-cheltenham-home-extension-amid-privacy-fears/))
 - Cheltenham’s Ask Italian restaurant closes permanently ([3 days ago](https://gloucesternewscentre.co.uk/cheltenhams-ask-italian-restaurant-closes-permanently/))
-- Person held over BBL death faces no further action ([3 days ago](https://www.bbc.com/news/articles/cwywv3n18jmo?at_medium=RSS&at_campaign=rss))
 - Decision on Cheltenham’s Pittville Pump Room upgrade ([3 days ago](https://gloucesternewscentre.co.uk/decision-on-cheltenhams-pittville-pump-room-upgrade/))
 - Heritage rail firm to close after 50 years ([3 days ago](https://www.bbc.com/news/articles/c9dx9jyp942o?at_medium=RSS&at_campaign=rss))
 - Three taken to hospital after A417 crash ([3 days ago](https://gloucesternewscentre.co.uk/three-taken-to-hospital-after-a417-crash/))
@@ -62,6 +63,5 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Sustainability success stories: How three businesses thrived with CheltenhamZero grant funding ([18 days ago](https://www.cheltenham.gov.uk/news/article/3046/sustainability_success_stories_how_three_businesses_thrived_with_cheltenhamzero_grant_funding))
 - Cheltenham's compliance crackdown on illegal knife sales to minors ([23 days ago](https://www.cheltenham.gov.uk/news/article/3045/cheltenhams_compliance_crackdown_on_illegal_knife_sales_to_minors))
 - Battle of Britain commemoration service ([23 days ago](https://www.cheltenham.gov.uk/news/article/3044/battle_of_britain_commemoration_service))
-- Council urges Treasury to rethink farm tax changes ([26 days ago](https://www.bbc.co.uk/sounds/play/p0m063k7?at_medium=RSS&at_campaign=rss))
 
 <!-- news_marker ends -->
