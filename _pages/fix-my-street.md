@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Water rising from underneath the new tarmac which was laid last week, 28th September :- [8224164](https://www.fixmystreet.com/report/8224164)
+- Resurfacing finished on Friday but the no parking line is too long and extends beyond dropped kerb. Knock on effect is that we have lost a parking space on the roadside, 28th September :- [8224155](https://www.fixmystreet.com/report/8224155)
 - Pedestrian barrier damage, 28th September :- [8223903](https://www.fixmystreet.com/report/8223903)
 - Fence, 28th September :- [8223621](https://www.fixmystreet.com/report/8223621)
 - Graffiti on wall by temporary roundabout, 28th September :- [8223495](https://www.fixmystreet.com/report/8223495)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Blocked drain, 27th September :- [8221305](https://www.fixmystreet.com/report/8221305)
 - Flytipped trike, 27th September :- [8221294](https://www.fixmystreet.com/report/8221294)
 - Gas canisters fly tipped moves off road, 27th September :- [8221281](https://www.fixmystreet.com/report/8221281)
-- Rubbish on street, 27th September :- [8221209](https://www.fixmystreet.com/report/8221209)
-- N20 Cannisters & Packaging Fly Tipped, 27th September :- [8221104](https://www.fixmystreet.com/report/8221104)
 
 <!-- fix_marker ends -->
