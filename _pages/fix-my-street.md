@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Graffiti on roundabout, 29th September :- [8230746](https://www.fixmystreet.com/report/8230746)
+- Dip in road, 29th September :- [8230733](https://www.fixmystreet.com/report/8230733)
 - Very dark corner as street light is engulfed in tree, 29th September :- [8230637](https://www.fixmystreet.com/report/8230637)
 - Flytipping of laminate flooring, 29th September :- [8230458](https://www.fixmystreet.com/report/8230458)
 - Deep pothole by 42 swallow crescent, 29th September :- [8230029](https://www.fixmystreet.com/report/8230029)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW10 Potholes problem, 29th September :- [8229117](https://www.fixmystreet.com/report/8229117)
 - TMC - Defects -CW10 Potholes problem, 29th September :- [8229120](https://www.fixmystreet.com/report/8229120)
 - TMC - Defects - Other FW6  Surface problem, 29th September :- [8229116](https://www.fixmystreet.com/report/8229116)
-- TMC - Defects - Other FW6  Surface problem, 29th September :- [8229112](https://www.fixmystreet.com/report/8229112)
-- TMC - Defects - Other FW6  Surface problem, 29th September :- [8229113](https://www.fixmystreet.com/report/8229113)
 
 <!-- fix_marker ends -->
