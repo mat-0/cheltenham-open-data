@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Monday, 29 September 2025
 
-- The average temperature today is 5.55˚C,
-- With highs of 6.65˚C and lows of 4.27˚C,
-- It may feel like 4.79˚C with clear sky
-- The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 1025hPa and humidity is 91%
+- The average temperature today is 6.07˚C,
+- With highs of 6.65˚C and lows of 4.97˚C,
+- It may feel like 6.07˚C with clear sky
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 1025hPa and humidity is 88%
 - The sun will rise at 06:05 and set at 17:51
 
 <!-- weather_marker ends -->
