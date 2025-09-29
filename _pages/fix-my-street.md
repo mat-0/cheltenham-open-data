@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fly posting in Minster Churchyard, 29th September :- [8226977](https://www.fixmystreet.com/report/8226977)
+- TMC - Defects - Other FW6  Surface problem, 29th September :- [8226973](https://www.fixmystreet.com/report/8226973)
+- TMC - Defects - Other FW6  Surface problem, 29th September :- [8226972](https://www.fixmystreet.com/report/8226972)
+- TMC - Defects -other CW10 problem, 29th September :- [8226735](https://www.fixmystreet.com/report/8226735)
+- TMC - Defects -CW10 Potholes problem, 29th September :- [8226734](https://www.fixmystreet.com/report/8226734)
+- TMC - Defects - Road Markings problem, 29th September :- [8226733](https://www.fixmystreet.com/report/8226733)
 - TMC - Defects -CW10 Potholes problem, 29th September :- [8226574](https://www.fixmystreet.com/report/8226574)
 - Pot holes, 29th September :- [8226499](https://www.fixmystreet.com/report/8226499)
 - TMC - Defects -CW10 Potholes problem, 29th September :- [8226556](https://www.fixmystreet.com/report/8226556)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -FW6 Potholes problem, 29th September :- [8226121](https://www.fixmystreet.com/report/8226121)
 - TMC - Defects - Kerbs and Channels problem, 29th September :- [8226120](https://www.fixmystreet.com/report/8226120)
 - TMC - Defects - Kerbs and Channels problem, 29th September :- [8226119](https://www.fixmystreet.com/report/8226119)
-- TMC - Defects - Kerbs and Channels problem, 29th September :- [8226118](https://www.fixmystreet.com/report/8226118)
-- TMC - Defects - Other FW6  Surface problem, 29th September :- [8226117](https://www.fixmystreet.com/report/8226117)
-- TMC - Defects - Other FW6  Surface problem, 29th September :- [8226116](https://www.fixmystreet.com/report/8226116)
-- All the street lights are out, 29th September :- [8225745](https://www.fixmystreet.com/report/8225745)
-- Overgrown bridleway gate, 28th September :- [8225530](https://www.fixmystreet.com/report/8225530)
-- Poor condition doga waste bin, 28th September :- [8225082](https://www.fixmystreet.com/report/8225082)
 
 <!-- fix_marker ends -->
