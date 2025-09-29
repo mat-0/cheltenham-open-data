@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
  xmlns:atom="http://www.w3.org/2005/Atom"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -15,6 +15,87 @@
 <atom:link href="https://www.fixmystreet.com/rss/l/51.897991,-2.071308/10" rel="self" type="application/rss+xml"/>
 
 <item>
+<title>The drain is blocked problem, 29th September</title>
+<link>https://www.fixmystreet.com/report/8228643</link>
+<description>Blocked Gulley CW. Can you please pass on to the relevant AHR to arrange clearing. &#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8228643&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>The drain is blocked</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8228643</guid>
+<pubDate>Mon, 29 Sep 2025 13:57:25 +0100</pubDate>
+<georss:point>51.943831 -2.039919</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 29th September</title>
+<link>https://www.fixmystreet.com/report/8228672</link>
+<description>28DAY &amp;#10;STATS REQUIRED &amp;#10;FW ABRUPT LEVEL DIFFERENCES APPROX 1200 X 500 X 25MM &amp;#10;GIVE AND TAKE WITH TEMPORARY FW CLOSURE BOARDS TM (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8228672&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8228672</guid>
+<pubDate>Mon, 29 Sep 2025 13:56:27 +0100</pubDate>
+<georss:point>51.8795386 -2.07750819999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 29th September</title>
+<link>https://www.fixmystreet.com/report/8228671</link>
+<description>Stats Required &amp;#10;FW Depression &amp;#10;800 x 600 x 30mm&amp;#10;Not Marked &amp;#10;Standard TM - Footway Closure - Alternative Footway Available (FW6 Rutting&amp;amp;Depressions)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8228671&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8228671</guid>
+<pubDate>Mon, 29 Sep 2025 13:56:07 +0100</pubDate>
+<georss:point>51.915762851252 -2.08452818448568</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 29th September</title>
+<link>https://www.fixmystreet.com/report/8228670</link>
+<description>Stats Required &amp;#10;FW Abrupt Level Difference &amp;#10;1200 x 100 x 20mm&amp;#10;Not Marked &amp;#10;Standard TM - Footway Closure - Alternative Footway Available (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8228670&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8228670</guid>
+<pubDate>Mon, 29 Sep 2025 13:54:49 +0100</pubDate>
+<georss:point>51.9157535882984 -2.08460698330903</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 29th September</title>
+<link>https://www.fixmystreet.com/report/8228669</link>
+<description>FW Depression &amp;#10;800 x 600 x 30mm&amp;#10;Not Marked &amp;#10;Standard TM - Footway Closure - Alternative Footway Available (FW6 Rutting&amp;amp;Depressions)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8228669&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8228669</guid>
+<pubDate>Mon, 29 Sep 2025 13:52:32 +0100</pubDate>
+<georss:point>51.9157662867348 -2.08450304418111</georss:point>
+</item>
+<item>
+<title>The drain is blocked problem, 29th September</title>
+<link>https://www.fixmystreet.com/report/8228642</link>
+<description>Blocked gulley on CW.  Please pass on to the relevant AHR to arrange clearing &#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8228642&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>The drain is blocked</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8228642</guid>
+<pubDate>Mon, 29 Sep 2025 13:48:46 +0100</pubDate>
+<georss:point>51.93213 -2.041516</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 29th September</title>
+<link>https://www.fixmystreet.com/report/8228453</link>
+<description>28DAY &amp;#10;CW POTHOLE APPROX 500 X 500 X 45MM &amp;#10;GIVE AND TAKE TM &amp;#10;15XNSD&amp;#39;S (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8228453&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8228453</guid>
+<pubDate>Mon, 29 Sep 2025 13:27:13 +0100</pubDate>
+<georss:point>51.8779036707697 -2.04306797185003</georss:point>
+</item>
+<item>
+<title>Unlevel surface trip hazard, 29th September</title>
+<link>https://www.fixmystreet.com/report/8228398</link>
+<description>The footpath directly outside my house is damaged and in need of repair. There are large cracks in the tarmac and this is causing issues when my elderly mother visits as she has Parkinsons.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8228398.0.jpeg?2c8e9f36&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Aggs Lane, Gotherington, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8228398&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Other damage to pavement i.e. cobbles, raised mound/surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8228398</guid>
+<pubDate>Mon, 29 Sep 2025 13:27:00 +0100</pubDate>
+<georss:point>51.965158 -2.057128</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 29th September</title>
+<link>https://www.fixmystreet.com/report/8228239</link>
+<description>Small hole to be filled with tarmac. Barriers to be removed from site on completion (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8228239&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8228239</guid>
+<pubDate>Mon, 29 Sep 2025 12:50:20 +0100</pubDate>
+<georss:point>51.9090711721998 -2.10987647963545</georss:point>
+</item>
+<item>
 <title>Dumped sofa cushions, 29th September</title>
 <link>https://www.fixmystreet.com/report/8228127</link>
 <description>These have been dumped here, presumably by residents of 202 as there are more out the front&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8228127.0.jpeg?a55e6392&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 16, Welland Drive, Lynworth, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8228127&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
@@ -22,6 +103,60 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/8228127</guid>
 <pubDate>Mon, 29 Sep 2025 12:48:03 +0100</pubDate>
 <georss:point>51.909548 -2.058774</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 29th September</title>
+<link>https://www.fixmystreet.com/report/8228238</link>
+<description>Give and take  28 days carriage way pothole 800x400x40 mm tarmac patch number stats required plus x1 NSD (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8228238&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8228238</guid>
+<pubDate>Mon, 29 Sep 2025 12:45:59 +0100</pubDate>
+<georss:point>51.8952819 -2.1194872</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Vegetation problem, 29th September</title>
+<link>https://www.fixmystreet.com/report/8228237</link>
+<description>Give and take 28 days plus temporary footway closure required please cut back overgrown tree branches hanging over footway  approximately 4 metres x 3 metres (Overgrown Tree)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8228237&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Vegetation</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8228237</guid>
+<pubDate>Mon, 29 Sep 2025 12:45:52 +0100</pubDate>
+<georss:point>51.8945585420096 -2.12085910000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 29th September</title>
+<link>https://www.fixmystreet.com/report/8228235</link>
+<description>28DAY &amp;#10;STATS REQUIRED &amp;#10;FW ABRUPT LEVEL DIFFERENCES APPROX APPROX 900 X 400 X 20MM &amp;#10;GIVE AND TAKE WITH TEMPORARY FW CLOSURE BOARDS TM (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8228235&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8228235</guid>
+<pubDate>Mon, 29 Sep 2025 12:44:05 +0100</pubDate>
+<georss:point>51.8936253 -2.05361330000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 29th September</title>
+<link>https://www.fixmystreet.com/report/8228236</link>
+<description>28DAY &amp;#10;STATS REQUIRED &amp;#10;FW ABRUPT LEVEL DIFFERENCES APPROX APPROX 1200 X 400 X 28MM &amp;#10;GIVE AND TAKE WITH TEMPORARY FW CLOSURE BOARDS TM (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8228236&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8228236</guid>
+<pubDate>Mon, 29 Sep 2025 12:44:05 +0100</pubDate>
+<georss:point>51.8936312756181 -2.05364790496411</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Kerbs and Channels problem, 29th September</title>
+<link>https://www.fixmystreet.com/report/8228234</link>
+<description>28DAY &amp;#10;STATS REQUIRED &amp;#10;PLEASE TAKE UP AND RENEW 1X 915 X 100MM DAMAGED/CHIPPED LEFTHAND DROPPER KERBSTONE TO THE CORRECT LEVEL&amp;#10;GIVE AND TAKE TM (FW Kerbing Defects)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8228234&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Kerbs and Channels</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8228234</guid>
+<pubDate>Mon, 29 Sep 2025 12:44:04 +0100</pubDate>
+<georss:point>51.8936041 -2.05370200000001</georss:point>
+</item>
+<item>
+<title>The drain is blocked problem, 29th September</title>
+<link>https://www.fixmystreet.com/report/8228222</link>
+<description>Customer reports that the drain/gulley is entirely blocked at the location. They request that it is cleared as they have concerns that their property will be flooded in heavy rain.&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8228222&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>The drain is blocked</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8228222</guid>
+<pubDate>Mon, 29 Sep 2025 12:37:16 +0100</pubDate>
+<georss:point>51.904438 -2.085349</georss:point>
 </item>
 <item>
 <title>Flytipping, 29th September</title>
@@ -58,141 +193,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/8227508</guid>
 <pubDate>Mon, 29 Sep 2025 11:22:43 +0100</pubDate>
 <georss:point>51.8870545 -2.0617054</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 29th September</title>
-<link>https://www.fixmystreet.com/report/8227507</link>
-<description>28DAY &amp;#10;STATS REQUIRED &amp;#10;FW ABRUPT LEVEL DIFFERENCES APPROX APPROX 1800 X 500 X 23MM &amp;#10;GIVE AND TAKE WITH TEMPORARY FW CLOSURE BOARDS TM (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8227507&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8227507</guid>
-<pubDate>Mon, 29 Sep 2025 11:22:38 +0100</pubDate>
-<georss:point>51.8870096 -2.06171859999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 29th September</title>
-<link>https://www.fixmystreet.com/report/8227506</link>
-<description>28DAY &amp;#10;STATS REQUIRED &amp;#10;FW ABRUPT LEVEL DIFFERENCES APPROX APPROX 10000 X 300 X 20MM &amp;#10;GIVE AND TAKE WITH TEMPORARY FW CLOSURE BOARDS TM (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8227506&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8227506</guid>
-<pubDate>Mon, 29 Sep 2025 11:22:31 +0100</pubDate>
-<georss:point>51.8866253 -2.061924</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 29th September</title>
-<link>https://www.fixmystreet.com/report/8227505</link>
-<description>28DAY &amp;#10;STATS REQUIRED &amp;#10;FW ABRUPT LEVEL DIFFERENCES APPROX APPROX 800 X 500 X 22MM &amp;#10;GIVE AND TAKE WITH TEMPORARY FW CLOSURE BOARDS TM (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8227505&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8227505</guid>
-<pubDate>Mon, 29 Sep 2025 11:22:24 +0100</pubDate>
-<georss:point>51.8862079 -2.0624779</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 29th September</title>
-<link>https://www.fixmystreet.com/report/8227504</link>
-<description>28DAY &amp;#10;STATS REQUIRED &amp;#10;FW ABRUPT LEVEL DIFFERENCES APPROX APPROX 20000 X 300 X 25MM &amp;#10;GIVE AND TAKE WITH TEMPORARY FW CLOSURE BOARDS TM (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8227504&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8227504</guid>
-<pubDate>Mon, 29 Sep 2025 11:22:17 +0100</pubDate>
-<georss:point>51.8861805 -2.0626685</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 29th September</title>
-<link>https://www.fixmystreet.com/report/8227503</link>
-<description>28DAY &amp;#10;STATS REQUIRED &amp;#10;FW ABRUPT LEVEL DIFFERENCES APPROX APPROX 500 X 400 X 25MM &amp;#10;GIVE AND TAKE WITH TEMPORARY FW CLOSURE BOARDS TM (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8227503&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8227503</guid>
-<pubDate>Mon, 29 Sep 2025 11:22:11 +0100</pubDate>
-<georss:point>51.8868824 -2.06180379999998</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 29th September</title>
-<link>https://www.fixmystreet.com/report/8227502</link>
-<description>28DAY &amp;#10;STATS REQUIRED &amp;#10;FW ABRUPT LEVEL DIFFERENCES APPROX APPROX 3000 X 300 X 20MM &amp;#10;GIVE AND TAKE WITH TEMPORARY FW CLOSURE BOARDS TM (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8227502&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8227502</guid>
-<pubDate>Mon, 29 Sep 2025 11:22:04 +0100</pubDate>
-<georss:point>51.888128 -2.06223620000001</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 29th September</title>
-<link>https://www.fixmystreet.com/report/8227501</link>
-<description>28DAY &amp;#10;STATS REQUIRED &amp;#10;FW ABRUPT LEVEL DIFFERENCES APPROX APPROX 1500 X 200 X 20MM &amp;#10;GIVE AND TAKE WITH TEMPORARY FW CLOSURE BOARDS TM (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8227501&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8227501</guid>
-<pubDate>Mon, 29 Sep 2025 11:21:40 +0100</pubDate>
-<georss:point>51.8881092 -2.0621444</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 29th September</title>
-<link>https://www.fixmystreet.com/report/8227500</link>
-<description>28DAY &amp;#10;STATS REQUIRED &amp;#10;FW RUTTING AND DEPRESSION APPROX 2500 X 200 X 20MM &amp;#10;GIVE AND TAKE WITH TEMPORARY FW CLOSURE BOARDS TM (FW6 Rutting&amp;amp;Depressions)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8227500&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8227500</guid>
-<pubDate>Mon, 29 Sep 2025 11:21:34 +0100</pubDate>
-<georss:point>51.8881406283166 -2.06223746952863</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Vegetation problem, 29th September</title>
-<link>https://www.fixmystreet.com/report/8227499</link>
-<description>Give and take 28 days plus temporary footway closure required please cut back overgrown tree branches hanging over footway and carriage way approximately 3 metres x 3 metres (Overgrown Tree)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8227499&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Vegetation</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8227499</guid>
-<pubDate>Mon, 29 Sep 2025 11:17:14 +0100</pubDate>
-<georss:point>51.8847284 -2.07810520000001</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Kerbs and Channels problem, 29th September</title>
-<link>https://www.fixmystreet.com/report/8227256</link>
-<description>Please reinstate 2 x 900mm kerb that has have dipped and use concrete post mix on chipped edge - Standard TM - 28 days (FW Kerbing Defects)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8227256&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Kerbs and Channels</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8227256</guid>
-<pubDate>Mon, 29 Sep 2025 11:01:56 +0100</pubDate>
-<georss:point>51.84671292 -2.1493665</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Signs &amp; Street Furniture problem, 29th September</title>
-<link>https://www.fixmystreet.com/report/8227234</link>
-<description>Reinstate concrete bollard in in ground with crement - bollard not damaged. 28 days - Standard TM (Damaged Bollard)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8227234&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Signs &amp; Street Furniture</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8227234</guid>
-<pubDate>Mon, 29 Sep 2025 10:55:49 +0100</pubDate>
-<georss:point>51.8461352494643 -2.15177559727536</georss:point>
-</item>
-<item>
-<title>TMC - Defects -other CW10 problem, 29th September</title>
-<link>https://www.fixmystreet.com/report/8227219</link>
-<description>C/W depression patch 1000mm x 1000mm x 45mm - 1m2 - Standard TM with 15 min boards - 28 days (CW10 Rutting&amp;amp;Depressions)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8227219&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -other CW10</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8227219</guid>
-<pubDate>Mon, 29 Sep 2025 10:37:51 +0100</pubDate>
-<georss:point>51.8389660483003 -2.13056346663034</georss:point>
-</item>
-<item>
-<title>Fly posting in Minster Churchyard, 29th September</title>
-<link>https://www.fixmystreet.com/report/8226977</link>
-<description>This is a Heritage Site!! The flyposters are advertising an event at 14 Regent Street Cheltenham GL50 1HE. This is illegal and the perpetrators should be fined.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8226977.0.jpeg?0589a7d3&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Chester Walk, Ewens Farm, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8226977&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Flyposting</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8226977</guid>
-<pubDate>Mon, 29 Sep 2025 10:36:08 +0100</pubDate>
-<georss:point>51.901519 -2.077192</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 29th September</title>
-<link>https://www.fixmystreet.com/report/8226973</link>
-<description>Give and take  28 days with temporary footway closure footway abrupt level different 1500x500x30mm tarmac patch stats required number 2 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8226973&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8226973</guid>
-<pubDate>Mon, 29 Sep 2025 10:23:55 +0100</pubDate>
-<georss:point>51.9150098146957 -2.0865023644988</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 29th September</title>
-<link>https://www.fixmystreet.com/report/8226972</link>
-<description>Give and take  28 days with temporary footway closure footway abrupt level different 1400x900x30mm tarmac patch stats required number 1 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8226972&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8226972</guid>
-<pubDate>Mon, 29 Sep 2025 10:23:55 +0100</pubDate>
-<georss:point>51.9150247 -2.086476</georss:point>
 </item>
 </channel>
 </rss>
