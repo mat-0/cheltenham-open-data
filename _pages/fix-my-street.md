@@ -9,6 +9,15 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Hidden hole in ground covered in leaves, 29th September :- [8226059](https://www.fixmystreet.com/report/8226059)
+- TMC - Defects - Vegetation problem, 29th September :- [8226123](https://www.fixmystreet.com/report/8226123)
+- TMC - Defects - Other FW6  Surface problem, 29th September :- [8226122](https://www.fixmystreet.com/report/8226122)
+- TMC - Defects -FW6 Potholes problem, 29th September :- [8226121](https://www.fixmystreet.com/report/8226121)
+- TMC - Defects - Kerbs and Channels problem, 29th September :- [8226120](https://www.fixmystreet.com/report/8226120)
+- TMC - Defects - Kerbs and Channels problem, 29th September :- [8226119](https://www.fixmystreet.com/report/8226119)
+- TMC - Defects - Kerbs and Channels problem, 29th September :- [8226118](https://www.fixmystreet.com/report/8226118)
+- TMC - Defects - Other FW6  Surface problem, 29th September :- [8226117](https://www.fixmystreet.com/report/8226117)
+- TMC - Defects - Other FW6  Surface problem, 29th September :- [8226116](https://www.fixmystreet.com/report/8226116)
 - All the street lights are out, 29th September :- [8225745](https://www.fixmystreet.com/report/8225745)
 - Overgrown bridleway gate, 28th September :- [8225530](https://www.fixmystreet.com/report/8225530)
 - Poor condition doga waste bin, 28th September :- [8225082](https://www.fixmystreet.com/report/8225082)
@@ -20,14 +29,5 @@ permalink: /fix-my-street
 - Water rising from underneath the new tarmac which was laid last week, 28th September :- [8224164](https://www.fixmystreet.com/report/8224164)
 - Resurfacing finished on Friday but the no parking line is too long and extends beyond dropped kerb. Knock on effect is that we have lost a parking space on the roadside, 28th September :- [8224155](https://www.fixmystreet.com/report/8224155)
 - Pedestrian barrier damage, 28th September :- [8223903](https://www.fixmystreet.com/report/8223903)
-- Fence, 28th September :- [8223621](https://www.fixmystreet.com/report/8223621)
-- Graffiti on wall by temporary roundabout, 28th September :- [8223495](https://www.fixmystreet.com/report/8223495)
-- Is car parking allowed?, 27th September :- [8222875](https://www.fixmystreet.com/report/8222875)
-- Drain is raised, 27th September :- [8222863](https://www.fixmystreet.com/report/8222863)
-- Along Cheltenham Road East near BJ kennels, 27th September :- [8222818](https://www.fixmystreet.com/report/8222818)
-- Water leak, 27th September :- [8222723](https://www.fixmystreet.com/report/8222723)
-- No street sign for Inkerman lane, it has been blank for years., 27th September :- [8222492](https://www.fixmystreet.com/report/8222492)
-- Dangerous part-fallen tree leaning across path leaning on much smaller tree., 28th September :- [8222352](https://www.fixmystreet.com/report/8222352)
-- Abandoned road closed sign., 27th September :- [8222307](https://www.fixmystreet.com/report/8222307)
 
 <!-- fix_marker ends -->
