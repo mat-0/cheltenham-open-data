@@ -12,10 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Bowler with no hands uses metal cradle to play ([2 hours ago](https://www.bbc.com/news/articles/cvgn5v5zy5eo?at_medium=RSS&at_campaign=rss))
-- 'My dumped parcel was taken away with the rubbish' ([2 hours ago](https://www.bbc.com/news/articles/c15kng089n2o?at_medium=RSS&at_campaign=rss))
-- Recovering addicts urge others to seek help ([15 hours ago](https://www.bbc.com/news/articles/c9qnpxynxzxo?at_medium=RSS&at_campaign=rss))
-- Red Roses victory honoured with GWR train tribute ([22 hours ago](https://www.bbc.com/news/articles/cy4jwqvzppdo?at_medium=RSS&at_campaign=rss))
+- Ceiling collapses on diners at Toby Carvery ([58 minutes ago](https://www.bbc.com/news/articles/cp98vz9zd0lo?at_medium=RSS&at_campaign=rss))
+- Bowler with no hands uses metal cradle to play ([3 hours ago](https://www.bbc.com/news/articles/cvgn5v5zy5eo?at_medium=RSS&at_campaign=rss))
+- 'My dumped parcel was taken away with the rubbish' ([3 hours ago](https://www.bbc.com/news/articles/c15kng089n2o?at_medium=RSS&at_campaign=rss))
+- Recovering addicts urge others to seek help ([16 hours ago](https://www.bbc.com/news/articles/c9qnpxynxzxo?at_medium=RSS&at_campaign=rss))
+- Red Roses victory honoured with GWR train tribute ([23 hours ago](https://www.bbc.com/news/articles/cy4jwqvzppdo?at_medium=RSS&at_campaign=rss))
 - Gloucestershire in Pictures: Pumpkins and landmarks ([1 days ago](https://www.bbc.com/news/articles/c2ejm0zzy9ko?at_medium=RSS&at_campaign=rss))
 - 'Ambulance deaths' and 'ghost town' ([1 days ago](https://www.bbc.com/news/articles/cpq54qv22y2o?at_medium=RSS&at_campaign=rss))
 - Community group aims to buy building from church ([1 days ago](https://www.bbc.com/news/articles/cly0z2kpwxro?at_medium=RSS&at_campaign=rss))
@@ -33,7 +34,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - 'Important step' forward for M5 upgrade ([3 days ago](https://www.bbc.com/news/articles/c7081j777e0o?at_medium=RSS&at_campaign=rss))
 - 'I'll be living off vegetables' - people fear rising food costs ([3 days ago](https://www.bbc.com/news/articles/c77dzm681ygo?at_medium=RSS&at_campaign=rss))
 - Group of men rob man in Cheltenham ([3 days ago](https://gloucesternewscentre.co.uk/group-of-men-rob-man-in-cheltenham/))
-- Disruption as 'chaotic' roadworks continue ([3 days ago](https://www.bbc.com/news/articles/cy9n53eeq8yo?at_medium=RSS&at_campaign=rss))
 - Nine-day train disruption starts this weekend ([4 days ago](https://www.bbc.com/news/articles/c8exykl580zo?at_medium=RSS&at_campaign=rss))
 - Festive stars Santa and Craig Revel Horwood to light up Cheltenham Racecourse ([4 days ago](https://gloucesternewscentre.co.uk/festive-stars-santa-and-craig-revel-horwood-to-light-up-cheltenham-racecourse/))
 - Decision on ‘overbearing’ Cheltenham home extension amid privacy fears ([4 days ago](https://gloucesternewscentre.co.uk/decision-on-overbearing-cheltenham-home-extension-amid-privacy-fears/))
