@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Other FW6  Surface problem, 29th September :- [8228889](https://www.fixmystreet.com/report/8228889)
+- TMC - Defects -FW6 Potholes problem, 29th September :- [8228888](https://www.fixmystreet.com/report/8228888)
+- TMC - Defects - Other FW6  Surface problem, 29th September :- [8228887](https://www.fixmystreet.com/report/8228887)
+- TMC - Defects - Other FW6  Surface problem, 29th September :- [8228885](https://www.fixmystreet.com/report/8228885)
+- TMC - Defects - Vegetation problem, 29th September :- [8228884](https://www.fixmystreet.com/report/8228884)
 - The drain is blocked problem, 29th September :- [8228643](https://www.fixmystreet.com/report/8228643)
 - TMC - Defects - Other FW6  Surface problem, 29th September :- [8228672](https://www.fixmystreet.com/report/8228672)
 - TMC - Defects - Other FW6  Surface problem, 29th September :- [8228671](https://www.fixmystreet.com/report/8228671)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 29th September :- [8228235](https://www.fixmystreet.com/report/8228235)
 - TMC - Defects - Other FW6  Surface problem, 29th September :- [8228236](https://www.fixmystreet.com/report/8228236)
 - TMC - Defects - Kerbs and Channels problem, 29th September :- [8228234](https://www.fixmystreet.com/report/8228234)
-- The drain is blocked problem, 29th September :- [8228222](https://www.fixmystreet.com/report/8228222)
-- Flytipping, 29th September :- [8227904](https://www.fixmystreet.com/report/8227904)
-- Flytipped mattress entrance to New Rutland Court, 29th September :- [8227652](https://www.fixmystreet.com/report/8227652)
-- TMC - Defects - Other FW6  Surface problem, 29th September :- [8227509](https://www.fixmystreet.com/report/8227509)
-- TMC - Defects - Other FW6  Surface problem, 29th September :- [8227508](https://www.fixmystreet.com/report/8227508)
 
 <!-- fix_marker ends -->
