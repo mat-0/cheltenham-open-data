@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:atom="http://www.w3.org/2005/Atom"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -14,6 +14,15 @@
 <language>en-gb</language>
 <atom:link href="https://www.fixmystreet.com/rss/l/51.897991,-2.071308/10" rel="self" type="application/rss+xml"/>
 
+<item>
+<title>Gate is damaged/missing/locked problem, 30th September</title>
+<link>https://www.fixmystreet.com/report/8232663</link>
+<description>Customer reporting the gate post is rotted damaged, and the gate can&amp;#39;t be closed anymore (hangs open)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8232663&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Gate is damaged/missing/locked</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8232663</guid>
+<pubDate>Tue, 30 Sep 2025 11:23:50 +0100</pubDate>
+<georss:point>51.890194 -1.987422</georss:point>
+</item>
 <item>
 <title>Bridleway to stream and passing bay fenced off by developer, 30th September</title>
 <link>https://www.fixmystreet.com/report/8232323</link>
@@ -184,15 +193,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/8229305</guid>
 <pubDate>Mon, 29 Sep 2025 15:10:51 +0100</pubDate>
 <georss:point>51.9460169 -2.0759921</georss:point>
-</item>
-<item>
-<title>TMC - Defects -other CW10 problem, 29th September</title>
-<link>https://www.fixmystreet.com/report/8229123</link>
-<description>Road closure needed Carriageway depression 1900x2000x50mm tarmac patch stats required (CW10 Rutting&amp;amp;Depressions)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8229123&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -other CW10</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8229123</guid>
-<pubDate>Mon, 29 Sep 2025 14:58:38 +0100</pubDate>
-<georss:point>51.882964 -2.07415220000001</georss:point>
 </item>
 </channel>
 </rss>
