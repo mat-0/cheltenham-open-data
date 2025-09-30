@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Gate is damaged/missing/locked problem, 30th September :- [8232663](https://www.fixmystreet.com/report/8232663)
 - Bridleway to stream and passing bay fenced off by developer, 30th September :- [8232323](https://www.fixmystreet.com/report/8232323)
 - General road markings, lines and stud issues problem, 30th September :- [8232250](https://www.fixmystreet.com/report/8232250)
 - Many potholes, damages cars, dangerous for cyclists, 30th September :- [8232088](https://www.fixmystreet.com/report/8232088)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - St george flag on bridge, 29th September :- [8229525](https://www.fixmystreet.com/report/8229525)
 - Broken glass bottle, 29th September :- [8229253](https://www.fixmystreet.com/report/8229253)
 - TMC - Defects - Other problem, 29th September :- [8229305](https://www.fixmystreet.com/report/8229305)
-- TMC - Defects -other CW10 problem, 29th September :- [8229123](https://www.fixmystreet.com/report/8229123)
 
 <!-- fix_marker ends -->
