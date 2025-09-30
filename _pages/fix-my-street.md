@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Drain cover, 30th September :- [8232869](https://www.fixmystreet.com/report/8232869)
+- The drain is blocked problem, 30th September :- [8232854](https://www.fixmystreet.com/report/8232854)
 - Gate is damaged/missing/locked problem, 30th September :- [8232663](https://www.fixmystreet.com/report/8232663)
 - Bridleway to stream and passing bay fenced off by developer, 30th September :- [8232323](https://www.fixmystreet.com/report/8232323)
 - General road markings, lines and stud issues problem, 30th September :- [8232250](https://www.fixmystreet.com/report/8232250)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Multiple potholes near junction with Sandy Lane, 29th September :- [8229833](https://www.fixmystreet.com/report/8229833)
 - Pedestrian lights 2 and 4 the push button for wait are not working, 29th September :- [8229653](https://www.fixmystreet.com/report/8229653)
 - St george flag on bridge, 29th September :- [8229525](https://www.fixmystreet.com/report/8229525)
-- Broken glass bottle, 29th September :- [8229253](https://www.fixmystreet.com/report/8229253)
-- TMC - Defects - Other problem, 29th September :- [8229305](https://www.fixmystreet.com/report/8229305)
 
 <!-- fix_marker ends -->
