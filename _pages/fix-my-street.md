@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Bridleway to stream and passing bay fenced off by developer, 30th September :- [8232323](https://www.fixmystreet.com/report/8232323)
+- General road markings, lines and stud issues problem, 30th September :- [8232250](https://www.fixmystreet.com/report/8232250)
+- Many potholes, damages cars, dangerous for cyclists, 30th September :- [8232088](https://www.fixmystreet.com/report/8232088)
+- Many potholes along Pheasant Lane, From Arle Ct Roundabout, 30th September :- [8232029](https://www.fixmystreet.com/report/8232029)
+- Large brach fallen into the road after big lorry went through and hit the beaches overhead., 30th September :- [8231785](https://www.fixmystreet.com/report/8231785)
 - The walkway/path leading from King Arthur Close into Cox's Meadow has sinkage due to excessive water run off, when drain blocks., 30th September :- [8231581](https://www.fixmystreet.com/report/8231581)
 - Flytipping, 30th September :- [8231314](https://www.fixmystreet.com/report/8231314)
 - Brambles suffocating trees, 30th September :- [8231181](https://www.fixmystreet.com/report/8231181)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Broken glass bottle, 29th September :- [8229253](https://www.fixmystreet.com/report/8229253)
 - TMC - Defects - Other problem, 29th September :- [8229305](https://www.fixmystreet.com/report/8229305)
 - TMC - Defects -other CW10 problem, 29th September :- [8229123](https://www.fixmystreet.com/report/8229123)
-- West edge of number 51 Symphony Road on Beni Close, 29th September :- [8229067](https://www.fixmystreet.com/report/8229067)
-- TMC - Defects -other CW6 problem, 29th September :- [8229121](https://www.fixmystreet.com/report/8229121)
-- TMC - Defects -other CW6 problem, 29th September :- [8229122](https://www.fixmystreet.com/report/8229122)
-- TMC - Defects -CW10 Potholes problem, 29th September :- [8229117](https://www.fixmystreet.com/report/8229117)
-- TMC - Defects -CW10 Potholes problem, 29th September :- [8229119](https://www.fixmystreet.com/report/8229119)
 
 <!-- fix_marker ends -->
