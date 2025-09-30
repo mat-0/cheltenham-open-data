@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Brambles suffocating trees, 30th September :- [8231181](https://www.fixmystreet.com/report/8231181)
 - Graffiti on roundabout, 29th September :- [8230746](https://www.fixmystreet.com/report/8230746)
 - Dip in road, 29th September :- [8230733](https://www.fixmystreet.com/report/8230733)
 - Very dark corner as street light is engulfed in tree, 29th September :- [8230637](https://www.fixmystreet.com/report/8230637)
@@ -24,10 +25,9 @@ permalink: /fix-my-street
 - West edge of number 51 Symphony Road on Beni Close, 29th September :- [8229067](https://www.fixmystreet.com/report/8229067)
 - TMC - Defects -other CW6 problem, 29th September :- [8229121](https://www.fixmystreet.com/report/8229121)
 - TMC - Defects -other CW6 problem, 29th September :- [8229122](https://www.fixmystreet.com/report/8229122)
+- TMC - Defects -CW10 Potholes problem, 29th September :- [8229117](https://www.fixmystreet.com/report/8229117)
 - TMC - Defects -CW10 Potholes problem, 29th September :- [8229119](https://www.fixmystreet.com/report/8229119)
 - TMC - Defects -CW10 Potholes problem, 29th September :- [8229118](https://www.fixmystreet.com/report/8229118)
-- TMC - Defects -CW10 Potholes problem, 29th September :- [8229117](https://www.fixmystreet.com/report/8229117)
 - TMC - Defects -CW10 Potholes problem, 29th September :- [8229120](https://www.fixmystreet.com/report/8229120)
-- TMC - Defects - Other FW6  Surface problem, 29th September :- [8229116](https://www.fixmystreet.com/report/8229116)
 
 <!-- fix_marker ends -->
