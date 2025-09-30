@@ -10,10 +10,10 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Tuesday, 30 September 2025
 
-- The average temperature today is 7.85˚C,
-- With highs of 8.31˚C and lows of 6.96˚C,
-- It may feel like 7.85˚C with overcast clouds
-- The wind speed is 0.89m/s and visibility is 10000m
+- The average temperature today is 9.33˚C,
+- With highs of 9.33˚C and lows of 9.33˚C,
+- It may feel like 8.77˚C with broken clouds
+- The wind speed is 1.61m/s and visibility is 10000m
 - The pressure is 1026hPa and humidity is 88%
 - The sun will rise at 06:07 and set at 17:48
 
