@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Man suffers bleed on brain after attack ([11 hours ago](https://www.bbc.com/news/articles/c749vpy1x8do?at_medium=RSS&at_campaign=rss))
-- Migrant jailed for attacks at asylum hotel ([12 hours ago](https://www.bbc.com/news/articles/c4gzxv7lxw8o?at_medium=RSS&at_campaign=rss))
+- Man suffers bleed on brain after attack ([12 hours ago](https://www.bbc.com/news/articles/c749vpy1x8do?at_medium=RSS&at_campaign=rss))
+- Migrant jailed for attacks at asylum hotel ([13 hours ago](https://www.bbc.com/news/articles/c4gzxv7lxw8o?at_medium=RSS&at_campaign=rss))
 - Steve Cotterill returns as Cheltenham Town manager ([15 hours ago](https://gloucesternewscentre.co.uk/steve-cotterill-returns-as-cheltenham-town-manager/))
-- Masked thieves steal £13k Rolex watch from man ([15 hours ago](https://www.bbc.com/news/articles/ckgyedn2r12o?at_medium=RSS&at_campaign=rss))
+- Masked thieves steal £13k Rolex watch from man ([16 hours ago](https://www.bbc.com/news/articles/ckgyedn2r12o?at_medium=RSS&at_campaign=rss))
 - Cotterill makes Cheltenham return as manager ([18 hours ago](https://www.bbc.com/sport/football/articles/ckg6zx2k67po?at_medium=RSS&at_campaign=rss))
-- 'Covid variant symptoms' and 'New night club' ([18 hours ago](https://www.bbc.com/news/articles/cre51pgp3j8o?at_medium=RSS&at_campaign=rss))
+- 'Covid variant symptoms' and 'New night club' ([19 hours ago](https://www.bbc.com/news/articles/cre51pgp3j8o?at_medium=RSS&at_campaign=rss))
 - Inside the decades-old signal box being upgraded ([22 hours ago](https://www.bbc.com/news/videos/c99g5n35vexo?at_medium=RSS&at_campaign=rss))
 - Warning as 'scammers tamper with car' ([22 hours ago](https://www.bbc.com/news/articles/cy8r1xn7j8no?at_medium=RSS&at_campaign=rss))
 - Derelict pub to undergo major transformation ([1 days ago](https://www.bbc.com/news/articles/cwywdn3wxxwo?at_medium=RSS&at_campaign=rss))
