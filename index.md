@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Wednesday, 01 October 2025
 
-- The average temperature today is 18.37˚C,
-- With highs of 18.37˚C and lows of 18.37˚C,
-- It may feel like 17.86˚C with overcast clouds
-- The wind speed is 4.63m/s and visibility is 10000m
-- The pressure is 1025hPa and humidity is 61%
+- The average temperature today is 18.02˚C,
+- With highs of 18.02˚C and lows of 18.02˚C,
+- It may feel like 17.5˚C with overcast clouds
+- The wind speed is 3.87m/s and visibility is 10000m
+- The pressure is 1025hPa and humidity is 62%
 - The sun will rise at 06:09 and set at 17:46
 
 <!-- weather_marker ends -->

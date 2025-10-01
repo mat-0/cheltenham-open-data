@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipped items, 1st October :- [8239489](https://www.fixmystreet.com/report/8239489)
+- Flytipped Items, 1st October :- [8239442](https://www.fixmystreet.com/report/8239442)
 - Unknown parked car, 1st October :- [8239269](https://www.fixmystreet.com/report/8239269)
 - TMC - Defects - Signs & Street Furniture problem, 1st October :- [8239247](https://www.fixmystreet.com/report/8239247)
 - Blocked drain, 1st October :- [8239111](https://www.fixmystreet.com/report/8239111)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 1st October :- [8238862](https://www.fixmystreet.com/report/8238862)
 - TMC - Defects -CW6 Potholes  problem, 1st October :- [8238852](https://www.fixmystreet.com/report/8238852)
 - Area causing not only water ingress but is now a tripping hazard, 1st October :- [8238748](https://www.fixmystreet.com/report/8238748)
-- TMC - Defects - Covers, Gratings & Frames problem, 1st October :- [8238685](https://www.fixmystreet.com/report/8238685)
-- TMC - Defects - Vegetation problem, 1st October :- [8238684](https://www.fixmystreet.com/report/8238684)
 
 <!-- fix_marker ends -->
