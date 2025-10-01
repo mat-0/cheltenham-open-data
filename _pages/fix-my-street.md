@@ -9,9 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large pothole where heavy lorry has mounted pavement, 1st October :- [8240460](https://www.fixmystreet.com/report/8240460)
 - Street light out, 1st October :- [8240132](https://www.fixmystreet.com/report/8240132)
 - Street light not working, 1st October :- [8240063](https://www.fixmystreet.com/report/8240063)
 - Street lights not working, 1st October :- [8240001](https://www.fixmystreet.com/report/8240001)
+- Flytipping of furniture, 1st October :- [8239855](https://www.fixmystreet.com/report/8239855)
 - Street light is on 24 hours, 1st October :- [8239828](https://www.fixmystreet.com/report/8239828)
 - Flytipped items, 1st October :- [8239489](https://www.fixmystreet.com/report/8239489)
 - Flytipped Items, 1st October :- [8239442](https://www.fixmystreet.com/report/8239442)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Kerbs and Channels problem, 1st October :- [8239059](https://www.fixmystreet.com/report/8239059)
 - TMC - Defects -CW6 Potholes  problem, 1st October :- [8239058](https://www.fixmystreet.com/report/8239058)
 - TMC - Defects -CW6 Potholes  problem, 1st October :- [8239056](https://www.fixmystreet.com/report/8239056)
-- TMC - Defects -CW6 Potholes  problem, 1st October :- [8239055](https://www.fixmystreet.com/report/8239055)
-- TMC - Defects -CW6 Potholes  problem, 1st October :- [8239057](https://www.fixmystreet.com/report/8239057)
 
 <!-- fix_marker ends -->
