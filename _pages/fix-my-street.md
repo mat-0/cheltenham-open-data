@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Other FW6  Surface problem, 1st October :- [8236833](https://www.fixmystreet.com/report/8236833)
+- TMC - Defects - Other FW6  Surface problem, 1st October :- [8236832](https://www.fixmystreet.com/report/8236832)
+- Post or sign leaning slightly (less than 20 degrees) problem, 1st October :- [8236818](https://www.fixmystreet.com/report/8236818)
+- Bridge is damaged/missing problem, 1st October :- [8236816](https://www.fixmystreet.com/report/8236816)
+- TMC - Defects - Other FW6  Surface problem, 1st October :- [8236824](https://www.fixmystreet.com/report/8236824)
+- No pedestrian crossing, 1st October :- [8236573](https://www.fixmystreet.com/report/8236573)
 - TMC - Defects - Vegetation problem, 1st October :- [8236290](https://www.fixmystreet.com/report/8236290)
 - TMC - Defects - Other FW6  Surface problem, 1st October :- [8236194](https://www.fixmystreet.com/report/8236194)
 - Broken traffic light, 30th September :- [8235968](https://www.fixmystreet.com/report/8235968)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Obstruction caused by tree problem, 30th September :- [8234635](https://www.fixmystreet.com/report/8234635)
 - Tree is damaged problem, 30th September :- [8234634](https://www.fixmystreet.com/report/8234634)
 - Blocking visibility on road/junction (Grass/verge) problem, 30th September :- [8234633](https://www.fixmystreet.com/report/8234633)
-- Approx 12" pothole on the edge of the road, 30th September :- [8234309](https://www.fixmystreet.com/report/8234309)
-- Huge pothole has caused immense financial distress, 30th September :- [8234308](https://www.fixmystreet.com/report/8234308)
-- Its not a pothole but a very disguised/hidden dip., 30th September :- [8234281](https://www.fixmystreet.com/report/8234281)
-- TMC - Defects - Other FW6  Surface problem, 30th September :- [8234267](https://www.fixmystreet.com/report/8234267)
-- TMC - Defects - Other FW6  Surface problem, 30th September :- [8234268](https://www.fixmystreet.com/report/8234268)
-- TMC - Defects - Footways Slabs problem, 30th September :- [8234264](https://www.fixmystreet.com/report/8234264)
 
 <!-- fix_marker ends -->
