@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street light is on 24 hours, 1st October :- [8239828](https://www.fixmystreet.com/report/8239828)
 - Flytipped items, 1st October :- [8239489](https://www.fixmystreet.com/report/8239489)
 - Flytipped Items, 1st October :- [8239442](https://www.fixmystreet.com/report/8239442)
 - Unknown parked car, 1st October :- [8239269](https://www.fixmystreet.com/report/8239269)
@@ -22,12 +23,11 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 1st October :- [8239061](https://www.fixmystreet.com/report/8239061)
 - TMC - Defects - Kerbs and Channels problem, 1st October :- [8239059](https://www.fixmystreet.com/report/8239059)
 - TMC - Defects -CW6 Potholes  problem, 1st October :- [8239058](https://www.fixmystreet.com/report/8239058)
-- TMC - Defects -CW6 Potholes  problem, 1st October :- [8239054](https://www.fixmystreet.com/report/8239054)
 - TMC - Defects -CW6 Potholes  problem, 1st October :- [8239056](https://www.fixmystreet.com/report/8239056)
+- TMC - Defects -CW6 Potholes  problem, 1st October :- [8239054](https://www.fixmystreet.com/report/8239054)
 - TMC - Defects -CW6 Potholes  problem, 1st October :- [8239057](https://www.fixmystreet.com/report/8239057)
 - TMC - Defects -CW6 Potholes  problem, 1st October :- [8239055](https://www.fixmystreet.com/report/8239055)
 - TMC - Defects - Vegetation problem, 1st October :- [8238862](https://www.fixmystreet.com/report/8238862)
 - TMC - Defects -CW6 Potholes  problem, 1st October :- [8238852](https://www.fixmystreet.com/report/8238852)
-- Area causing not only water ingress but is now a tripping hazard, 1st October :- [8238748](https://www.fixmystreet.com/report/8238748)
 
 <!-- fix_marker ends -->
