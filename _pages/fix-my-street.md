@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street light out, 1st October :- [8240132](https://www.fixmystreet.com/report/8240132)
+- Street light not working, 1st October :- [8240063](https://www.fixmystreet.com/report/8240063)
+- Street lights not working, 1st October :- [8240001](https://www.fixmystreet.com/report/8240001)
 - Street light is on 24 hours, 1st October :- [8239828](https://www.fixmystreet.com/report/8239828)
 - Flytipped items, 1st October :- [8239489](https://www.fixmystreet.com/report/8239489)
 - Flytipped Items, 1st October :- [8239442](https://www.fixmystreet.com/report/8239442)
@@ -24,10 +27,7 @@ permalink: /fix-my-street
 - TMC - Defects - Kerbs and Channels problem, 1st October :- [8239059](https://www.fixmystreet.com/report/8239059)
 - TMC - Defects -CW6 Potholes  problem, 1st October :- [8239058](https://www.fixmystreet.com/report/8239058)
 - TMC - Defects -CW6 Potholes  problem, 1st October :- [8239056](https://www.fixmystreet.com/report/8239056)
-- TMC - Defects -CW6 Potholes  problem, 1st October :- [8239054](https://www.fixmystreet.com/report/8239054)
-- TMC - Defects -CW6 Potholes  problem, 1st October :- [8239057](https://www.fixmystreet.com/report/8239057)
 - TMC - Defects -CW6 Potholes  problem, 1st October :- [8239055](https://www.fixmystreet.com/report/8239055)
-- TMC - Defects - Vegetation problem, 1st October :- [8238862](https://www.fixmystreet.com/report/8238862)
-- TMC - Defects -CW6 Potholes  problem, 1st October :- [8238852](https://www.fixmystreet.com/report/8238852)
+- TMC - Defects -CW6 Potholes  problem, 1st October :- [8239057](https://www.fixmystreet.com/report/8239057)
 
 <!-- fix_marker ends -->
