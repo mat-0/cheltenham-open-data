@@ -9,7 +9,17 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Trees from Appleton Way to 59 Green Lane, 2nd October :- [8244494](https://www.fixmystreet.com/report/8244494)
+- Cars grounding out over a 50-60 Yards section, 2nd October :- [8244478](https://www.fixmystreet.com/report/8244478)
+- Unpermitted roadworks problem, 2nd October :- [8244530](https://www.fixmystreet.com/report/8244530)
+- TMC - Defects -CW6 Potholes  problem, 2nd October :- [8244366](https://www.fixmystreet.com/report/8244366)
+- TMC - Defects -CW6 Potholes  problem, 2nd October :- [8244368](https://www.fixmystreet.com/report/8244368)
+- TMC - Defects -CW6 Potholes  problem, 2nd October :- [8244367](https://www.fixmystreet.com/report/8244367)
+- Condition of the road after recent repair work., 2nd October :- [8244324](https://www.fixmystreet.com/report/8244324)
 - Huge pothole blew tyre wall, 2nd October :- [8244277](https://www.fixmystreet.com/report/8244277)
+- TMC - Defects -CW6 Potholes  problem, 2nd October :- [8244356](https://www.fixmystreet.com/report/8244356)
+- TMC - Defects -CW6 Potholes  problem, 2nd October :- [8244357](https://www.fixmystreet.com/report/8244357)
+- TMC - Defects - Vegetation problem, 2nd October :- [8244355](https://www.fixmystreet.com/report/8244355)
 - Rubbish not being collected back of Bendall House- problem with rats, 2nd October :- [8244202](https://www.fixmystreet.com/report/8244202)
 - TMC - Defects - Other problem, 2nd October :- [8244174](https://www.fixmystreet.com/report/8244174)
 - TMC - Defects - Other problem, 2nd October :- [8244175](https://www.fixmystreet.com/report/8244175)
@@ -17,17 +27,7 @@ permalink: /fix-my-street
 - TMC - Defects - Kerbs and Channels problem, 2nd October :- [8244172](https://www.fixmystreet.com/report/8244172)
 - Giant Hogweed, 2nd October :- [8243587](https://www.fixmystreet.com/report/8243587)
 - TMC - Defects - Signs & Street Furniture problem, 2nd October :- [8243546](https://www.fixmystreet.com/report/8243546)
-- TMC - Defects -CW6 Potholes  problem, 2nd October :- [8243545](https://www.fixmystreet.com/report/8243545)
 - TMC - Defects -CW6 Potholes  problem, 2nd October :- [8243544](https://www.fixmystreet.com/report/8243544)
-- TMC - Defects -CW6 Potholes  problem, 2nd October :- [8243117](https://www.fixmystreet.com/report/8243117)
-- TMC - Defects -CW6 Potholes  problem, 2nd October :- [8243118](https://www.fixmystreet.com/report/8243118)
-- TMC - Defects -CW6 Potholes  problem, 2nd October :- [8243115](https://www.fixmystreet.com/report/8243115)
-- TMC - Defects -CW6 Potholes  problem, 2nd October :- [8243116](https://www.fixmystreet.com/report/8243116)
-- TMC - Defects -CW6 Potholes  problem, 2nd October :- [8243112](https://www.fixmystreet.com/report/8243112)
-- TMC - Defects - Covers, Gratings & Frames problem, 2nd October :- [8243113](https://www.fixmystreet.com/report/8243113)
-- TMC - Defects -CW6 Potholes  problem, 2nd October :- [8243110](https://www.fixmystreet.com/report/8243110)
-- TMC - Defects -CW6 Potholes  problem, 2nd October :- [8243114](https://www.fixmystreet.com/report/8243114)
-- TMC - Defects -other CW6 problem, 2nd October :- [8243111](https://www.fixmystreet.com/report/8243111)
-- TMC - Defects -other CW6 problem, 2nd October :- [8243108](https://www.fixmystreet.com/report/8243108)
+- TMC - Defects -CW6 Potholes  problem, 2nd October :- [8243545](https://www.fixmystreet.com/report/8243545)
 
 <!-- fix_marker ends -->

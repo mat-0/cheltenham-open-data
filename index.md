@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Thursday, 02 October 2025
 
-- The average temperature today is 17.23˚C,
-- With highs of 17.62˚C and lows of 16.58˚C,
-- It may feel like 16.86˚C with clear sky
-- The wind speed is 4.12m/s and visibility is 10000m
-- The pressure is 1019hPa and humidity is 71%
+- The average temperature today is 18.02˚C,
+- With highs of 18.02˚C and lows of 18.02˚C,
+- It may feel like 17.71˚C with overcast clouds
+- The wind speed is 6.41m/s and visibility is 10000m
+- The pressure is 1018hPa and humidity is 70%
 - The sun will rise at 06:10 and set at 17:44
 
 <!-- weather_marker ends -->
