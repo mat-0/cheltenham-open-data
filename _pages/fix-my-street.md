@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dead trees footpath between noverton estate and bouncers lane, 2nd October :- [8245651](https://www.fixmystreet.com/report/8245651)
 - Litter on slip road coming off J10 M5, 2nd October :- [8245028](https://www.fixmystreet.com/report/8245028)
 - Disabled parking bay needs remarking as paint is so faded., 2nd October :- [8244896](https://www.fixmystreet.com/report/8244896)
 - Tree limbs overhanging road and property. Regularly damaged by high sided vehicles and refuse lorry. Branches fall onto roof of my summerhouse, 2nd October :- [8244829](https://www.fixmystreet.com/report/8244829)
@@ -16,9 +17,9 @@ permalink: /fix-my-street
 - Trees from Appleton Way to 59 Green Lane, 2nd October :- [8244494](https://www.fixmystreet.com/report/8244494)
 - Cars grounding out over a 50-60 Yards section, 2nd October :- [8244478](https://www.fixmystreet.com/report/8244478)
 - Unpermitted roadworks problem, 2nd October :- [8244530](https://www.fixmystreet.com/report/8244530)
-- TMC - Defects -CW6 Potholes  problem, 2nd October :- [8244366](https://www.fixmystreet.com/report/8244366)
-- TMC - Defects -CW6 Potholes  problem, 2nd October :- [8244367](https://www.fixmystreet.com/report/8244367)
 - TMC - Defects -CW6 Potholes  problem, 2nd October :- [8244368](https://www.fixmystreet.com/report/8244368)
+- TMC - Defects -CW6 Potholes  problem, 2nd October :- [8244367](https://www.fixmystreet.com/report/8244367)
+- TMC - Defects -CW6 Potholes  problem, 2nd October :- [8244366](https://www.fixmystreet.com/report/8244366)
 - Condition of the road after recent repair work., 2nd October :- [8244324](https://www.fixmystreet.com/report/8244324)
 - Huge pothole blew tyre wall, 2nd October :- [8244277](https://www.fixmystreet.com/report/8244277)
 - TMC - Defects -CW6 Potholes  problem, 2nd October :- [8244356](https://www.fixmystreet.com/report/8244356)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other problem, 2nd October :- [8244174](https://www.fixmystreet.com/report/8244174)
 - TMC - Defects - Other problem, 2nd October :- [8244175](https://www.fixmystreet.com/report/8244175)
 - TMC - Defects - Kerbs and Channels problem, 2nd October :- [8244173](https://www.fixmystreet.com/report/8244173)
-- TMC - Defects - Kerbs and Channels problem, 2nd October :- [8244172](https://www.fixmystreet.com/report/8244172)
 
 <!-- fix_marker ends -->
