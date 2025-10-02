@@ -9,6 +9,19 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large road cones (7) left on pavement after Cheltenham Run 2 weeks ago, 2nd October :- [8242091](https://www.fixmystreet.com/report/8242091)
+- TMC - Defects - Footways Slabs problem, 2nd October :- [8242025](https://www.fixmystreet.com/report/8242025)
+- Previously Repaired Man hole cover has sunken again, 2nd October :- [8241946](https://www.fixmystreet.com/report/8241946)
+- TMC - Defects - Other FW6  Surface problem, 2nd October :- [8242020](https://www.fixmystreet.com/report/8242020)
+- TMC - Defects - Other FW6  Surface problem, 2nd October :- [8242021](https://www.fixmystreet.com/report/8242021)
+- TMC - Defects - Kerbs and Channels problem, 2nd October :- [8242022](https://www.fixmystreet.com/report/8242022)
+- TMC - Defects - Other FW6  Surface problem, 2nd October :- [8242007](https://www.fixmystreet.com/report/8242007)
+- TMC - Defects - Kerbs and Channels problem, 2nd October :- [8242006](https://www.fixmystreet.com/report/8242006)
+- TMC - Defects - Kerbs and Channels problem, 2nd October :- [8242008](https://www.fixmystreet.com/report/8242008)
+- TMC - Defects - Kerbs and Channels problem, 2nd October :- [8242009](https://www.fixmystreet.com/report/8242009)
+- Matress, 2nd October :- [8241894](https://www.fixmystreet.com/report/8241894)
+- Bollards signed, 2nd October :- [8241834](https://www.fixmystreet.com/report/8241834)
+- TMC - Defects - Other problem, 2nd October :- [8241999](https://www.fixmystreet.com/report/8241999)
 - TMC - Defects - Other FW6  Surface problem, 2nd October :- [8241590](https://www.fixmystreet.com/report/8241590)
 - Overgrown tree needs cutting back, 2nd October :- [8241159](https://www.fixmystreet.com/report/8241159)
 - Large pothole where heavy lorry has mounted pavement, 1st October :- [8240460](https://www.fixmystreet.com/report/8240460)
@@ -16,18 +29,5 @@ permalink: /fix-my-street
 - Street light not working, 1st October :- [8240063](https://www.fixmystreet.com/report/8240063)
 - Street lights not working, 1st October :- [8240001](https://www.fixmystreet.com/report/8240001)
 - Flytipping of furniture, 1st October :- [8239855](https://www.fixmystreet.com/report/8239855)
-- Street light is on 24 hours, 1st October :- [8239828](https://www.fixmystreet.com/report/8239828)
-- Flytipped items, 1st October :- [8239489](https://www.fixmystreet.com/report/8239489)
-- Flytipped Items, 1st October :- [8239442](https://www.fixmystreet.com/report/8239442)
-- Unknown parked car, 1st October :- [8239269](https://www.fixmystreet.com/report/8239269)
-- TMC - Defects - Signs & Street Furniture problem, 1st October :- [8239247](https://www.fixmystreet.com/report/8239247)
-- Blocked drain, 1st October :- [8239111](https://www.fixmystreet.com/report/8239111)
-- Numerous pot holes and surface cracks along bike wheel line, 1st October :- [8239049](https://www.fixmystreet.com/report/8239049)
-- Pavement coming away, 1st October :- [8239037](https://www.fixmystreet.com/report/8239037)
-- TMC - Defects - Vegetation problem, 1st October :- [8239074](https://www.fixmystreet.com/report/8239074)
-- Drainage ditch/channel adjacent/ parallel to Pittville School playing field is blocked by caved in large stone blocks where the banks have collapsed. Just before it enters Wymans Brook. Potential flooding problem on Albert Road. Please note extensive drainage works on Pittville School playing field will exacerbate future drainage issues., 1st October :- [8239031](https://www.fixmystreet.com/report/8239031)
-- Various potholes the length of this road getting bigger, 1st October :- [8238925](https://www.fixmystreet.com/report/8238925)
-- TMC - Defects - Vegetation problem, 1st October :- [8239061](https://www.fixmystreet.com/report/8239061)
-- TMC - Defects - Kerbs and Channels problem, 1st October :- [8239059](https://www.fixmystreet.com/report/8239059)
 
 <!-- fix_marker ends -->
