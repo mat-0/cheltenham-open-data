@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Safety fence moved, 2nd October :- [8245876](https://www.fixmystreet.com/report/8245876)
 - Dead trees footpath between noverton estate and bouncers lane, 2nd October :- [8245651](https://www.fixmystreet.com/report/8245651)
 - Litter on slip road coming off J10 M5, 2nd October :- [8245028](https://www.fixmystreet.com/report/8245028)
 - Disabled parking bay needs remarking as paint is so faded., 2nd October :- [8244896](https://www.fixmystreet.com/report/8244896)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Rubbish not being collected back of Bendall House- problem with rats, 2nd October :- [8244202](https://www.fixmystreet.com/report/8244202)
 - TMC - Defects - Other problem, 2nd October :- [8244174](https://www.fixmystreet.com/report/8244174)
 - TMC - Defects - Other problem, 2nd October :- [8244175](https://www.fixmystreet.com/report/8244175)
-- TMC - Defects - Kerbs and Channels problem, 2nd October :- [8244173](https://www.fixmystreet.com/report/8244173)
 
 <!-- fix_marker ends -->
