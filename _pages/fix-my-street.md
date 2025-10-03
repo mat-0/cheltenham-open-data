@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dumped garden gate and garden waste, 3rd October :- [8247915](https://www.fixmystreet.com/report/8247915)
+- Green or amber traffic light is not working problem, 3rd October :- [8247966](https://www.fixmystreet.com/report/8247966)
 - Lots of pot holes along this road , road in a very poor staight, 3rd October :- [8247586](https://www.fixmystreet.com/report/8247586)
 - Abandoned shopping trolley, 3rd October :- [8247470](https://www.fixmystreet.com/report/8247470)
 - Blocked drain, beginning to flood road, 3rd October :- [8247417](https://www.fixmystreet.com/report/8247417)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Trees from Appleton Way to 59 Green Lane, 2nd October :- [8244494](https://www.fixmystreet.com/report/8244494)
 - Cars grounding out over a 50-60 Yards section, 2nd October :- [8244478](https://www.fixmystreet.com/report/8244478)
 - Unpermitted roadworks problem, 2nd October :- [8244530](https://www.fixmystreet.com/report/8244530)
-- TMC - Defects -CW6 Potholes  problem, 2nd October :- [8244368](https://www.fixmystreet.com/report/8244368)
-- TMC - Defects -CW6 Potholes  problem, 2nd October :- [8244367](https://www.fixmystreet.com/report/8244367)
 
 <!-- fix_marker ends -->
