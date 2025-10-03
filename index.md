@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Friday, 03 October 2025
 
-- The average temperature today is 17.27˚C,
-- With highs of 17.75˚C and lows of 16.58˚C,
-- It may feel like 17.32˚C with light rain
-- The wind speed is 8.23m/s and visibility is 10000m
-- The pressure is 1004hPa and humidity is 87%
+- The average temperature today is 16.5˚C,
+- With highs of 17.06˚C and lows of 15.93˚C,
+- It may feel like 16.53˚C with moderate rain
+- The wind speed is 7.2m/s and visibility is 10000m
+- The pressure is 1003hPa and humidity is 89%
 - The sun will rise at 06:12 and set at 17:42
 
 <!-- weather_marker ends -->

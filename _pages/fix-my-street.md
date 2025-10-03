@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- A pothole in road problem, 3rd October :- [8248569](https://www.fixmystreet.com/report/8248569)
 - TMC - Defects - Covers, Gratings & Frames problem, 3rd October :- [8248274](https://www.fixmystreet.com/report/8248274)
 - The drain is blocked problem, 3rd October :- [8248116](https://www.fixmystreet.com/report/8248116)
 - Dumped garden gate and garden waste, 3rd October :- [8247915](https://www.fixmystreet.com/report/8247915)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Disabled parking bay needs remarking as paint is so faded., 2nd October :- [8244896](https://www.fixmystreet.com/report/8244896)
 - Tree limbs overhanging road and property. Regularly damaged by high sided vehicles and refuse lorry. Branches fall onto roof of my summerhouse, 2nd October :- [8244829](https://www.fixmystreet.com/report/8244829)
 - Tree is damaged problem, 2nd October :- [8244843](https://www.fixmystreet.com/report/8244843)
-- Trees from Appleton Way to 59 Green Lane, 2nd October :- [8244494](https://www.fixmystreet.com/report/8244494)
 
 <!-- fix_marker ends -->
