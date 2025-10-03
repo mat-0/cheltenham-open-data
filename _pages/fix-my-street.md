@@ -9,12 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large, deep pothole that is extremely dangerous for motorcycles/bicycles. Heightened by being difficult to see as it comes just after a kink in the road and tree cover., 3rd October :- [8249817](https://www.fixmystreet.com/report/8249817)
 - Large dead tree branch overhanging pavement and driveway. Risk of falling in strong winds., 3rd October :- [8249509](https://www.fixmystreet.com/report/8249509)
 - Street light is permanently not working, 3rd October :- [8249191](https://www.fixmystreet.com/report/8249191)
 - A sunken gulley is a danger to cyclists, 3rd October :- [8249029](https://www.fixmystreet.com/report/8249029)
-- TMC - Defects - Road Markings problem, 3rd October :- [8248748](https://www.fixmystreet.com/report/8248748)
-- TMC - Defects - Kerbs and Channels problem, 3rd October :- [8248745](https://www.fixmystreet.com/report/8248745)
 - TMC - Defects -CW6 Potholes  problem, 3rd October :- [8248746](https://www.fixmystreet.com/report/8248746)
+- TMC - Defects - Kerbs and Channels problem, 3rd October :- [8248745](https://www.fixmystreet.com/report/8248745)
+- TMC - Defects - Road Markings problem, 3rd October :- [8248748](https://www.fixmystreet.com/report/8248748)
 - TMC - Defects - Road Markings problem, 3rd October :- [8248749](https://www.fixmystreet.com/report/8248749)
 - TMC - Defects -CW6 Potholes  problem, 3rd October :- [8248747](https://www.fixmystreet.com/report/8248747)
 - A pothole in road problem, 3rd October :- [8248569](https://www.fixmystreet.com/report/8248569)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - A pothole in road problem, 3rd October :- [8247489](https://www.fixmystreet.com/report/8247489)
 - Unpermitted roadworks problem, 3rd October :- [8247288](https://www.fixmystreet.com/report/8247288)
 - Road / cycle path design change, 3rd October :- [8247057](https://www.fixmystreet.com/report/8247057)
-- Road closure sign (5 October) but no information, 3rd October :- [8246951](https://www.fixmystreet.com/report/8246951)
 
 <!-- fix_marker ends -->
