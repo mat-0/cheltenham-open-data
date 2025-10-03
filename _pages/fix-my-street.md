@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Blocked drain, beginning to flood road, 3rd October :- [8247417](https://www.fixmystreet.com/report/8247417)
+- Unpermitted roadworks problem, 3rd October :- [8247288](https://www.fixmystreet.com/report/8247288)
 - Road / cycle path design change, 3rd October :- [8247057](https://www.fixmystreet.com/report/8247057)
 - Road closure sign (5 October) but no information, 3rd October :- [8246951](https://www.fixmystreet.com/report/8246951)
 - Signs still dumped, 3rd October :- [8246431](https://www.fixmystreet.com/report/8246431)
@@ -22,12 +24,10 @@ permalink: /fix-my-street
 - Trees from Appleton Way to 59 Green Lane, 2nd October :- [8244494](https://www.fixmystreet.com/report/8244494)
 - Cars grounding out over a 50-60 Yards section, 2nd October :- [8244478](https://www.fixmystreet.com/report/8244478)
 - Unpermitted roadworks problem, 2nd October :- [8244530](https://www.fixmystreet.com/report/8244530)
-- TMC - Defects -CW6 Potholes  problem, 2nd October :- [8244366](https://www.fixmystreet.com/report/8244366)
-- TMC - Defects -CW6 Potholes  problem, 2nd October :- [8244368](https://www.fixmystreet.com/report/8244368)
 - TMC - Defects -CW6 Potholes  problem, 2nd October :- [8244367](https://www.fixmystreet.com/report/8244367)
+- TMC - Defects -CW6 Potholes  problem, 2nd October :- [8244368](https://www.fixmystreet.com/report/8244368)
+- TMC - Defects -CW6 Potholes  problem, 2nd October :- [8244366](https://www.fixmystreet.com/report/8244366)
 - Condition of the road after recent repair work., 2nd October :- [8244324](https://www.fixmystreet.com/report/8244324)
 - Huge pothole blew tyre wall, 2nd October :- [8244277](https://www.fixmystreet.com/report/8244277)
-- TMC - Defects -CW6 Potholes  problem, 2nd October :- [8244356](https://www.fixmystreet.com/report/8244356)
-- TMC - Defects -CW6 Potholes  problem, 2nd October :- [8244357](https://www.fixmystreet.com/report/8244357)
 
 <!-- fix_marker ends -->
