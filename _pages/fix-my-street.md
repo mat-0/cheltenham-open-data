@@ -9,12 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street light is permanently not working, 3rd October :- [8249191](https://www.fixmystreet.com/report/8249191)
 - A sunken gulley is a danger to cyclists, 3rd October :- [8249029](https://www.fixmystreet.com/report/8249029)
-- TMC - Defects - Road Markings problem, 3rd October :- [8248749](https://www.fixmystreet.com/report/8248749)
-- TMC - Defects - Road Markings problem, 3rd October :- [8248748](https://www.fixmystreet.com/report/8248748)
-- TMC - Defects -CW6 Potholes  problem, 3rd October :- [8248746](https://www.fixmystreet.com/report/8248746)
 - TMC - Defects -CW6 Potholes  problem, 3rd October :- [8248747](https://www.fixmystreet.com/report/8248747)
 - TMC - Defects - Kerbs and Channels problem, 3rd October :- [8248745](https://www.fixmystreet.com/report/8248745)
+- TMC - Defects -CW6 Potholes  problem, 3rd October :- [8248746](https://www.fixmystreet.com/report/8248746)
+- TMC - Defects - Road Markings problem, 3rd October :- [8248748](https://www.fixmystreet.com/report/8248748)
+- TMC - Defects - Road Markings problem, 3rd October :- [8248749](https://www.fixmystreet.com/report/8248749)
 - A pothole in road problem, 3rd October :- [8248569](https://www.fixmystreet.com/report/8248569)
 - TMC - Defects - Covers, Gratings & Frames problem, 3rd October :- [8248274](https://www.fixmystreet.com/report/8248274)
 - The drain is blocked problem, 3rd October :- [8248116](https://www.fixmystreet.com/report/8248116)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Road / cycle path design change, 3rd October :- [8247057](https://www.fixmystreet.com/report/8247057)
 - Road closure sign (5 October) but no information, 3rd October :- [8246951](https://www.fixmystreet.com/report/8246951)
 - Signs still dumped, 3rd October :- [8246431](https://www.fixmystreet.com/report/8246431)
-- Road surfaced damaged causing vibration inside neighbouring property, 3rd October :- [8246391](https://www.fixmystreet.com/report/8246391)
 
 <!-- fix_marker ends -->
