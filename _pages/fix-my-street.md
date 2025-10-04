@@ -9,7 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Apparently abandoned vehicle, 4th October :- [8252860](https://www.fixmystreet.com/report/8252860)
 - Door 39, 4th October :- [8252697](https://www.fixmystreet.com/report/8252697)
+- Ditch with cables not filled in many months ago, 4th October :- [8252513](https://www.fixmystreet.com/report/8252513)
 - Cycle path closed/cyclists dismount here signs - but cycle lane clearly open, 4th October :- [8252485](https://www.fixmystreet.com/report/8252485)
 - Tree branch broken and hanging over Beeches playground, 4th October :- [8252373](https://www.fixmystreet.com/report/8252373)
 - Request for Extension of Yellow Line Markings to Improve Safety and Emergency Access, 4th October :- [8252336](https://www.fixmystreet.com/report/8252336)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Three potholes near the riding school area, 3rd October :- [8250112](https://www.fixmystreet.com/report/8250112)
 - Cars skidding when manoeuvring, and noticeable bump when driving onto/off road, 3rd October :- [8249926](https://www.fixmystreet.com/report/8249926)
 - Large, deep pothole that is extremely dangerous for motorcycles/bicycles. Heightened by being difficult to see as it comes just after a kink in the road and tree cover., 3rd October :- [8249817](https://www.fixmystreet.com/report/8249817)
-- Council tree not been trimmed for over 5 years, 4th October :- [8249763](https://www.fixmystreet.com/report/8249763)
-- Large dead tree branch overhanging pavement and driveway. Risk of falling in strong winds., 3rd October :- [8249509](https://www.fixmystreet.com/report/8249509)
 
 <!-- fix_marker ends -->

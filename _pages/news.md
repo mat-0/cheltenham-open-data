@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Grants available to increase city's arts events ([2 hours ago](https://www.bbc.com/news/articles/cy85epwxdy2o?at_medium=RSS&at_campaign=rss))
-- Farmer fined over slurry pollution in brook ([6 hours ago](https://www.bbc.com/news/articles/cy8rm90rdrpo?at_medium=RSS&at_campaign=rss))
-- Public urged to 'donate a dinner' to animal centres ([10 hours ago](https://www.bbc.com/news/articles/c3dr2pzykmpo?at_medium=RSS&at_campaign=rss))
-- Parents says new childcare support doesn't cover costs ([10 hours ago](https://www.bbc.com/news/articles/cy85pw0yw6lo?at_medium=RSS&at_campaign=rss))
-- Jewish community 'in shock' over synagogue attack ([20 hours ago](https://www.bbc.com/news/articles/c701yjegre6o?at_medium=RSS&at_campaign=rss))
+- Grants available to increase city's arts events ([3 hours ago](https://www.bbc.com/news/articles/cy85epwxdy2o?at_medium=RSS&at_campaign=rss))
+- Farmer fined over slurry pollution in brook ([7 hours ago](https://www.bbc.com/news/articles/cy8rm90rdrpo?at_medium=RSS&at_campaign=rss))
+- Public urged to 'donate a dinner' to animal centres ([11 hours ago](https://www.bbc.com/news/articles/c3dr2pzykmpo?at_medium=RSS&at_campaign=rss))
+- Parents says new childcare support doesn't cover costs ([11 hours ago](https://www.bbc.com/news/articles/cy85pw0yw6lo?at_medium=RSS&at_campaign=rss))
+- Jewish community 'in shock' over synagogue attack ([21 hours ago](https://www.bbc.com/news/articles/c701yjegre6o?at_medium=RSS&at_campaign=rss))
 - Child rapist jailed for 'horrendous' abuse ([1 days ago](https://www.bbc.com/news/articles/c3drym59gn1o?at_medium=RSS&at_campaign=rss))
 - 'Shocking' levels of sewage prompts council vote ([1 days ago](https://www.bbc.com/news/articles/cm2d08x8vkro?at_medium=RSS&at_campaign=rss))
 - Council prosecutes driver for illegal taxi activity during race week ([1 days ago](https://gloucesternewscentre.co.uk/council-prosecutes-driver-for-illegal-taxi-activity-during-race-week/))
