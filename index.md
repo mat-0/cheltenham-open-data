@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Saturday, 04 October 2025
 
-- The average temperature today is 13.11˚C,
-- With highs of 13.86˚C and lows of 12.6˚C,
-- It may feel like 12.51˚C with broken clouds
-- The wind speed is 4.02m/s and visibility is 10000m
-- The pressure is 996hPa and humidity is 78%
+- The average temperature today is 12.59˚C,
+- With highs of 13.49˚C and lows of 12.04˚C,
+- It may feel like 11.81˚C with broken clouds
+- The wind speed is 7.15m/s and visibility is 10000m
+- The pressure is 996hPa and humidity is 73%
 - The sun will rise at 06:14 and set at 17:39
 
 <!-- weather_marker ends -->
