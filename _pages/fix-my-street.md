@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Rubbish tipped in Winston Churchill Memorial Gardens, 4th October :- [8251585](https://www.fixmystreet.com/report/8251585)
 - Two large hessian rugs, 4th October :- [8250741](https://www.fixmystreet.com/report/8250741)
 - Full litter bin, 4th October :- [8250734](https://www.fixmystreet.com/report/8250734)
 - Pointed trees Park Street just as turned in on your left, 4th October :- [8250628](https://www.fixmystreet.com/report/8250628)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 3rd October :- [8248746](https://www.fixmystreet.com/report/8248746)
 - A pothole in road problem, 3rd October :- [8248569](https://www.fixmystreet.com/report/8248569)
 - TMC - Defects - Covers, Gratings & Frames problem, 3rd October :- [8248274](https://www.fixmystreet.com/report/8248274)
-- The drain is blocked problem, 3rd October :- [8248116](https://www.fixmystreet.com/report/8248116)
 
 <!-- fix_marker ends -->
