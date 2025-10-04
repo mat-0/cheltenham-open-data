@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Cycle path closed/cyclists dismount here signs - but cycle lane clearly open, 4th October :- [8252485](https://www.fixmystreet.com/report/8252485)
+- Tree branch broken and hanging over Beeches playground, 4th October :- [8252373](https://www.fixmystreet.com/report/8252373)
+- Request for Extension of Yellow Line Markings to Improve Safety and Emergency Access, 4th October :- [8252336](https://www.fixmystreet.com/report/8252336)
+- Park gate needs adjustment, 4th October :- [8252299](https://www.fixmystreet.com/report/8252299)
 - Drain blocked, 4th October :- [8252255](https://www.fixmystreet.com/report/8252255)
 - Lowered pavement not lowered enough for wheelchair use and my son was tipped out of her wheelchair causing pain to injured toes, 4th October :- [8251970](https://www.fixmystreet.com/report/8251970)
 - Large tree branch damaged by the wind and hanging down., 4th October :- [8251963](https://www.fixmystreet.com/report/8251963)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Council tree not been trimmed for over 5 years, 4th October :- [8249763](https://www.fixmystreet.com/report/8249763)
 - Large dead tree branch overhanging pavement and driveway. Risk of falling in strong winds., 3rd October :- [8249509](https://www.fixmystreet.com/report/8249509)
 - Street light is permanently not working, 3rd October :- [8249191](https://www.fixmystreet.com/report/8249191)
-- A sunken gulley is a danger to cyclists, 3rd October :- [8249029](https://www.fixmystreet.com/report/8249029)
-- TMC - Defects - Road Markings problem, 3rd October :- [8248748](https://www.fixmystreet.com/report/8248748)
-- TMC - Defects - Road Markings problem, 3rd October :- [8248749](https://www.fixmystreet.com/report/8248749)
-- TMC - Defects -CW6 Potholes  problem, 3rd October :- [8248747](https://www.fixmystreet.com/report/8248747)
 
 <!-- fix_marker ends -->
