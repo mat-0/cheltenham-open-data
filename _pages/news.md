@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Grants available to increase city's arts events ([7 hours ago](https://www.bbc.com/news/articles/cy85epwxdy2o?at_medium=RSS&at_campaign=rss))
-- Farmer fined over slurry pollution in brook ([11 hours ago](https://www.bbc.com/news/articles/cy8rm90rdrpo?at_medium=RSS&at_campaign=rss))
-- Public urged to 'donate a dinner' to animal centres ([15 hours ago](https://www.bbc.com/news/articles/c3dr2pzykmpo?at_medium=RSS&at_campaign=rss))
-- Parents says new childcare support doesn't cover costs ([15 hours ago](https://www.bbc.com/news/articles/cy85pw0yw6lo?at_medium=RSS&at_campaign=rss))
+- Grants available to increase city's arts events ([8 hours ago](https://www.bbc.com/news/articles/cy85epwxdy2o?at_medium=RSS&at_campaign=rss))
+- Farmer fined over slurry pollution in brook ([12 hours ago](https://www.bbc.com/news/articles/cy8rm90rdrpo?at_medium=RSS&at_campaign=rss))
+- Public urged to 'donate a dinner' to animal centres ([16 hours ago](https://www.bbc.com/news/articles/c3dr2pzykmpo?at_medium=RSS&at_campaign=rss))
+- Parents says new childcare support doesn't cover costs ([16 hours ago](https://www.bbc.com/news/articles/cy85pw0yw6lo?at_medium=RSS&at_campaign=rss))
 - Jewish community 'in shock' over synagogue attack ([1 days ago](https://www.bbc.com/news/articles/c701yjegre6o?at_medium=RSS&at_campaign=rss))
 - Child rapist jailed for 'horrendous' abuse ([1 days ago](https://www.bbc.com/news/articles/c3drym59gn1o?at_medium=RSS&at_campaign=rss))
 - 'Shocking' levels of sewage prompts council vote ([1 days ago](https://www.bbc.com/news/articles/cm2d08x8vkro?at_medium=RSS&at_campaign=rss))
