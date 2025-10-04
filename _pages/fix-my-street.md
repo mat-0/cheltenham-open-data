@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Lowered pavement not lowered enough for wheelchair use and my son was tipped out of her wheelchair causing pain to injured toes, 4th October :- [8251970](https://www.fixmystreet.com/report/8251970)
+- Large tree branch damaged by the wind and hanging down., 4th October :- [8251963](https://www.fixmystreet.com/report/8251963)
+- Volunteer litter pick bags ready for collection (4th October), 4th October :- [8251940](https://www.fixmystreet.com/report/8251940)
 - Rubbish tipped in Winston Churchill Memorial Gardens, 4th October :- [8251585](https://www.fixmystreet.com/report/8251585)
 - Two large hessian rugs, 4th October :- [8250741](https://www.fixmystreet.com/report/8250741)
 - Full litter bin, 4th October :- [8250734](https://www.fixmystreet.com/report/8250734)
@@ -22,12 +25,9 @@ permalink: /fix-my-street
 - Large dead tree branch overhanging pavement and driveway. Risk of falling in strong winds., 3rd October :- [8249509](https://www.fixmystreet.com/report/8249509)
 - Street light is permanently not working, 3rd October :- [8249191](https://www.fixmystreet.com/report/8249191)
 - A sunken gulley is a danger to cyclists, 3rd October :- [8249029](https://www.fixmystreet.com/report/8249029)
-- TMC - Defects - Road Markings problem, 3rd October :- [8248748](https://www.fixmystreet.com/report/8248748)
-- TMC - Defects -CW6 Potholes  problem, 3rd October :- [8248747](https://www.fixmystreet.com/report/8248747)
-- TMC - Defects - Road Markings problem, 3rd October :- [8248749](https://www.fixmystreet.com/report/8248749)
 - TMC - Defects - Kerbs and Channels problem, 3rd October :- [8248745](https://www.fixmystreet.com/report/8248745)
 - TMC - Defects -CW6 Potholes  problem, 3rd October :- [8248746](https://www.fixmystreet.com/report/8248746)
-- A pothole in road problem, 3rd October :- [8248569](https://www.fixmystreet.com/report/8248569)
-- TMC - Defects - Covers, Gratings & Frames problem, 3rd October :- [8248274](https://www.fixmystreet.com/report/8248274)
+- TMC - Defects -CW6 Potholes  problem, 3rd October :- [8248747](https://www.fixmystreet.com/report/8248747)
+- TMC - Defects - Road Markings problem, 3rd October :- [8248749](https://www.fixmystreet.com/report/8248749)
 
 <!-- fix_marker ends -->
