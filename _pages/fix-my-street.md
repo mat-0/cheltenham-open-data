@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Cones left on corner of road (now on path), 5th October :- [8255886](https://www.fixmystreet.com/report/8255886)
+- Pavement is breaking up into pieces, 5th October :- [8255841](https://www.fixmystreet.com/report/8255841)
+- Hole with loose gravel at bottom, 5th October :- [8255794](https://www.fixmystreet.com/report/8255794)
 - Smashed glass over car park, 5th October :- [8255659](https://www.fixmystreet.com/report/8255659)
 - Nitrous oxide canisters and boxes in stream just through the entrance to the park off pecked lane, 5th October :- [8255646](https://www.fixmystreet.com/report/8255646)
 - Big pothole, 5th October :- [8255131](https://www.fixmystreet.com/report/8255131)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - A car was parked on the very edge of the start of the yellow lines, however we were still forced to go on the opposite side of the island as would not have fit through, in an average size vehicle, 4th October :- [8252979](https://www.fixmystreet.com/report/8252979)
 - Yellow lines stop too close to pedestrian island meaning cars and emergency services cannot pass without going the other side of the road, 4th October :- [8252975](https://www.fixmystreet.com/report/8252975)
 - Apparently abandoned vehicle, 4th October :- [8252860](https://www.fixmystreet.com/report/8252860)
-- Door 39, 4th October :- [8252697](https://www.fixmystreet.com/report/8252697)
-- Ditch with cables not filled in many months ago, 4th October :- [8252513](https://www.fixmystreet.com/report/8252513)
-- Cycle path closed/cyclists dismount here signs - but cycle lane clearly open, 4th October :- [8252485](https://www.fixmystreet.com/report/8252485)
 
 <!-- fix_marker ends -->
