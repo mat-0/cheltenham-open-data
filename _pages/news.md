@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- 'Unique piece of transport history' marks 50 years ([1 hours ago](https://www.bbc.com/news/articles/c4gwyqw0nr1o?at_medium=RSS&at_campaign=rss))
-- Cotswold new paint rules and solar farm plans ([1 hours ago](https://www.bbc.com/news/articles/cn0rp2wj6k1o?at_medium=RSS&at_campaign=rss))
-- Grants available to increase city's arts events ([17 hours ago](https://www.bbc.com/news/articles/cy85epwxdy2o?at_medium=RSS&at_campaign=rss))
-- Farmer fined over slurry pollution in brook ([21 hours ago](https://www.bbc.com/news/articles/cy8rm90rdrpo?at_medium=RSS&at_campaign=rss))
+- 'Unique piece of transport history' marks 50 years ([2 hours ago](https://www.bbc.com/news/articles/c4gwyqw0nr1o?at_medium=RSS&at_campaign=rss))
+- Cotswold new paint rules and solar farm plans ([2 hours ago](https://www.bbc.com/news/articles/cn0rp2wj6k1o?at_medium=RSS&at_campaign=rss))
+- Grants available to increase city's arts events ([18 hours ago](https://www.bbc.com/news/articles/cy85epwxdy2o?at_medium=RSS&at_campaign=rss))
+- Farmer fined over slurry pollution in brook ([22 hours ago](https://www.bbc.com/news/articles/cy8rm90rdrpo?at_medium=RSS&at_campaign=rss))
 - Public urged to 'donate a dinner' to animal centres ([1 days ago](https://www.bbc.com/news/articles/c3dr2pzykmpo?at_medium=RSS&at_campaign=rss))
 - Parents says new childcare support doesn't cover costs ([1 days ago](https://www.bbc.com/news/articles/cy85pw0yw6lo?at_medium=RSS&at_campaign=rss))
 - Jewish community 'in shock' over synagogue attack ([1 days ago](https://www.bbc.com/news/articles/c701yjegre6o?at_medium=RSS&at_campaign=rss))
