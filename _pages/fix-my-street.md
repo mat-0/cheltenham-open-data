@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Double mattress left near communal bin store, 5th October :- [8255995](https://www.fixmystreet.com/report/8255995)
+- 2 street lights out, 5th October :- [8255986](https://www.fixmystreet.com/report/8255986)
+- Sofa dumped by the side of the road, 5th October :- [8255975](https://www.fixmystreet.com/report/8255975)
+- Street light out, 5th October :- [8255969](https://www.fixmystreet.com/report/8255969)
 - Cones left on corner of road (now on path), 5th October :- [8255886](https://www.fixmystreet.com/report/8255886)
 - Pavement is breaking up into pieces, 5th October :- [8255841](https://www.fixmystreet.com/report/8255841)
 - Hole with loose gravel at bottom, 5th October :- [8255794](https://www.fixmystreet.com/report/8255794)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Leaning over silver birch tree (routine inspection needed), 5th October :- [8253898](https://www.fixmystreet.com/report/8253898)
 - Multiple graffiti on a utility box and a fence nearby., 5th October :- [8253804](https://www.fixmystreet.com/report/8253804)
 - There are several street lights not working in the GL51 6HT area. It is obviously very dark in the local area and is a concern for local residents., 4th October :- [8253035](https://www.fixmystreet.com/report/8253035)
-- There are several street lights not working in the GL51 6HT area. It is obviously very dark in the local area and is a concern for local residents., 4th October :- [8253034](https://www.fixmystreet.com/report/8253034)
-- A car was parked on the very edge of the start of the yellow lines, however we were still forced to go on the opposite side of the island as would not have fit through, in an average size vehicle, 4th October :- [8252979](https://www.fixmystreet.com/report/8252979)
-- Yellow lines stop too close to pedestrian island meaning cars and emergency services cannot pass without going the other side of the road, 4th October :- [8252975](https://www.fixmystreet.com/report/8252975)
-- Apparently abandoned vehicle, 4th October :- [8252860](https://www.fixmystreet.com/report/8252860)
 
 <!-- fix_marker ends -->
