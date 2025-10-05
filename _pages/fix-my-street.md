@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Smashed glass over car park, 5th October :- [8255659](https://www.fixmystreet.com/report/8255659)
+- Nitrous oxide canisters and boxes in stream just through the entrance to the park off pecked lane, 5th October :- [8255646](https://www.fixmystreet.com/report/8255646)
 - Big pothole, 5th October :- [8255131](https://www.fixmystreet.com/report/8255131)
 - The speed activated sign is broken, 5th October :- [8255013](https://www.fixmystreet.com/report/8255013)
 - Outside 48 Gretton Road, Winchcombe, 5th October :- [8254798](https://www.fixmystreet.com/report/8254798)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Door 39, 4th October :- [8252697](https://www.fixmystreet.com/report/8252697)
 - Ditch with cables not filled in many months ago, 4th October :- [8252513](https://www.fixmystreet.com/report/8252513)
 - Cycle path closed/cyclists dismount here signs - but cycle lane clearly open, 4th October :- [8252485](https://www.fixmystreet.com/report/8252485)
-- Tree branch broken and hanging over Beeches playground, 4th October :- [8252373](https://www.fixmystreet.com/report/8252373)
-- Request for Extension of Yellow Line Markings to Improve Safety and Emergency Access, 4th October :- [8252336](https://www.fixmystreet.com/report/8252336)
 
 <!-- fix_marker ends -->
