@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Outside 48 Gretton Road, Winchcombe, 5th October :- [8254798](https://www.fixmystreet.com/report/8254798)
 - Bush, 5th October :- [8254614](https://www.fixmystreet.com/report/8254614)
 - Red Cross graffiti on mini roundabout, 5th October :- [8254590](https://www.fixmystreet.com/report/8254590)
 - Tree overhanging public footpath to recreation field and Scout Headquarters roof, 5th October :- [8254426](https://www.fixmystreet.com/report/8254426)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Request for Extension of Yellow Line Markings to Improve Safety and Emergency Access, 4th October :- [8252336](https://www.fixmystreet.com/report/8252336)
 - Park gate needs adjustment, 4th October :- [8252299](https://www.fixmystreet.com/report/8252299)
 - Drain blocked, 4th October :- [8252255](https://www.fixmystreet.com/report/8252255)
-- Lowered pavement not lowered enough for wheelchair use and my son was tipped out of her wheelchair causing pain to injured toes, 4th October :- [8251970](https://www.fixmystreet.com/report/8251970)
 
 <!-- fix_marker ends -->
