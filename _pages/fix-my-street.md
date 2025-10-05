@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Footpath overgrown - impassable, 6th October :- [8256181](https://www.fixmystreet.com/report/8256181)
+- No HGV sign missing, 6th October :- [8256173](https://www.fixmystreet.com/report/8256173)
 - Racist Graffiti on a public highway, 5th October :- [8256133](https://www.fixmystreet.com/report/8256133)
 - Double mattress left near communal bin store, 5th October :- [8255995](https://www.fixmystreet.com/report/8255995)
 - 2 street lights out, 5th October :- [8255986](https://www.fixmystreet.com/report/8255986)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Tree overhanging public footpath to recreation field and Scout Headquarters roof, 5th October :- [8254426](https://www.fixmystreet.com/report/8254426)
 - Graffiti on Bus Shelter, 5th October :- [8254163](https://www.fixmystreet.com/report/8254163)
 - Push buttons at pedestrian crossing outside Morrisons not working on one side of the road., 5th October :- [8253971](https://www.fixmystreet.com/report/8253971)
-- Leaning over silver birch tree (routine inspection needed), 5th October :- [8253898](https://www.fixmystreet.com/report/8253898)
-- Multiple graffiti on a utility box and a fence nearby., 5th October :- [8253804](https://www.fixmystreet.com/report/8253804)
 
 <!-- fix_marker ends -->
