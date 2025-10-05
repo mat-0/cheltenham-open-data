@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Big pothole, 5th October :- [8255131](https://www.fixmystreet.com/report/8255131)
+- The speed activated sign is broken, 5th October :- [8255013](https://www.fixmystreet.com/report/8255013)
 - Outside 48 Gretton Road, Winchcombe, 5th October :- [8254798](https://www.fixmystreet.com/report/8254798)
 - Bush, 5th October :- [8254614](https://www.fixmystreet.com/report/8254614)
 - Red Cross graffiti on mini roundabout, 5th October :- [8254590](https://www.fixmystreet.com/report/8254590)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Cycle path closed/cyclists dismount here signs - but cycle lane clearly open, 4th October :- [8252485](https://www.fixmystreet.com/report/8252485)
 - Tree branch broken and hanging over Beeches playground, 4th October :- [8252373](https://www.fixmystreet.com/report/8252373)
 - Request for Extension of Yellow Line Markings to Improve Safety and Emergency Access, 4th October :- [8252336](https://www.fixmystreet.com/report/8252336)
-- Park gate needs adjustment, 4th October :- [8252299](https://www.fixmystreet.com/report/8252299)
-- Drain blocked, 4th October :- [8252255](https://www.fixmystreet.com/report/8252255)
 
 <!-- fix_marker ends -->
