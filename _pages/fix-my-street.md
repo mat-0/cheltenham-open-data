@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Racist Graffiti on a public highway, 5th October :- [8256133](https://www.fixmystreet.com/report/8256133)
 - Double mattress left near communal bin store, 5th October :- [8255995](https://www.fixmystreet.com/report/8255995)
 - 2 street lights out, 5th October :- [8255986](https://www.fixmystreet.com/report/8255986)
 - Sofa dumped by the side of the road, 5th October :- [8255975](https://www.fixmystreet.com/report/8255975)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Push buttons at pedestrian crossing outside Morrisons not working on one side of the road., 5th October :- [8253971](https://www.fixmystreet.com/report/8253971)
 - Leaning over silver birch tree (routine inspection needed), 5th October :- [8253898](https://www.fixmystreet.com/report/8253898)
 - Multiple graffiti on a utility box and a fence nearby., 5th October :- [8253804](https://www.fixmystreet.com/report/8253804)
-- There are several street lights not working in the GL51 6HT area. It is obviously very dark in the local area and is a concern for local residents., 4th October :- [8253035](https://www.fixmystreet.com/report/8253035)
 
 <!-- fix_marker ends -->
