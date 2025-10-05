@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- 'Unique piece of transport history' marks 50 years ([41 minutes ago](https://www.bbc.com/news/articles/c4gwyqw0nr1o?at_medium=RSS&at_campaign=rss))
-- Cotswold new paint rules and solar farm plans ([43 minutes ago](https://www.bbc.com/news/articles/cn0rp2wj6k1o?at_medium=RSS&at_campaign=rss))
-- Grants available to increase city's arts events ([16 hours ago](https://www.bbc.com/news/articles/cy85epwxdy2o?at_medium=RSS&at_campaign=rss))
-- Farmer fined over slurry pollution in brook ([20 hours ago](https://www.bbc.com/news/articles/cy8rm90rdrpo?at_medium=RSS&at_campaign=rss))
+- 'Unique piece of transport history' marks 50 years ([1 hours ago](https://www.bbc.com/news/articles/c4gwyqw0nr1o?at_medium=RSS&at_campaign=rss))
+- Cotswold new paint rules and solar farm plans ([1 hours ago](https://www.bbc.com/news/articles/cn0rp2wj6k1o?at_medium=RSS&at_campaign=rss))
+- Grants available to increase city's arts events ([17 hours ago](https://www.bbc.com/news/articles/cy85epwxdy2o?at_medium=RSS&at_campaign=rss))
+- Farmer fined over slurry pollution in brook ([21 hours ago](https://www.bbc.com/news/articles/cy8rm90rdrpo?at_medium=RSS&at_campaign=rss))
 - Public urged to 'donate a dinner' to animal centres ([1 days ago](https://www.bbc.com/news/articles/c3dr2pzykmpo?at_medium=RSS&at_campaign=rss))
 - Parents says new childcare support doesn't cover costs ([1 days ago](https://www.bbc.com/news/articles/cy85pw0yw6lo?at_medium=RSS&at_campaign=rss))
 - Jewish community 'in shock' over synagogue attack ([1 days ago](https://www.bbc.com/news/articles/c701yjegre6o?at_medium=RSS&at_campaign=rss))
@@ -48,7 +48,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Illegal e-bikes seized and arrests made as part of Police Day of Action ([8 days ago](https://gloucesternewscentre.co.uk/illegal-e-bikes-seized-and-arrests-made-as-part-of-police-day-of-action/))
 - Redevelopment delays spark concerns road could be resurfaced just to be dug up ([8 days ago](https://gloucesternewscentre.co.uk/redevelopment-delays-spark-concerns-road-could-be-resurfaced-just-to-be-dug-up/))
 - Extra £20m funding agreed for M5 Junction 10 upgrade ([8 days ago](https://gloucesternewscentre.co.uk/extra-20m-funding-agreed-for-m5-junction-10-upgrade/))
-- Nigel Farage on course to be next prime minister, mega poll projects ([8 days ago](https://gloucesternewscentre.co.uk/nigel-farage-on-course-to-be-next-prime-minister-mega-poll-projects/))
+- Nigel Farage on course to be next prime minister, mega poll projects ([9 days ago](https://gloucesternewscentre.co.uk/nigel-farage-on-course-to-be-next-prime-minister-mega-poll-projects/))
 - Group of men rob man in Cheltenham ([9 days ago](https://gloucesternewscentre.co.uk/group-of-men-rob-man-in-cheltenham/))
 - Festive stars Santa and Craig Revel Horwood to light up Cheltenham Racecourse ([10 days ago](https://gloucesternewscentre.co.uk/festive-stars-santa-and-craig-revel-horwood-to-light-up-cheltenham-racecourse/))
 - Decision on ‘overbearing’ Cheltenham home extension amid privacy fears ([10 days ago](https://gloucesternewscentre.co.uk/decision-on-overbearing-cheltenham-home-extension-amid-privacy-fears/))
