@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Multiple graffiti on a utility box and a fence nearby., 5th October :- [8253804](https://www.fixmystreet.com/report/8253804)
 - There are several street lights not working in the GL51 6HT area. It is obviously very dark in the local area and is a concern for local residents., 4th October :- [8253035](https://www.fixmystreet.com/report/8253035)
 - There are several street lights not working in the GL51 6HT area. It is obviously very dark in the local area and is a concern for local residents., 4th October :- [8253034](https://www.fixmystreet.com/report/8253034)
 - A car was parked on the very edge of the start of the yellow lines, however we were still forced to go on the opposite side of the island as would not have fit through, in an average size vehicle, 4th October :- [8252979](https://www.fixmystreet.com/report/8252979)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Two large hessian rugs, 4th October :- [8250741](https://www.fixmystreet.com/report/8250741)
 - Full litter bin, 4th October :- [8250734](https://www.fixmystreet.com/report/8250734)
 - Pointed trees Park Street just as turned in on your left, 4th October :- [8250628](https://www.fixmystreet.com/report/8250628)
-- Door 57, 4th October :- [8250598](https://www.fixmystreet.com/report/8250598)
 
 <!-- fix_marker ends -->
