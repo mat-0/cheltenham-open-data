@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Graffiti on Bus Shelter, 5th October :- [8254163](https://www.fixmystreet.com/report/8254163)
 - Push buttons at pedestrian crossing outside Morrisons not working on one side of the road., 5th October :- [8253971](https://www.fixmystreet.com/report/8253971)
 - Leaning over silver birch tree (routine inspection needed), 5th October :- [8253898](https://www.fixmystreet.com/report/8253898)
 - Multiple graffiti on a utility box and a fence nearby., 5th October :- [8253804](https://www.fixmystreet.com/report/8253804)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Large tree branch damaged by the wind and hanging down., 4th October :- [8251963](https://www.fixmystreet.com/report/8251963)
 - Volunteer litter pick bags ready for collection (4th October), 4th October :- [8251940](https://www.fixmystreet.com/report/8251940)
 - Rubbish tipped in Winston Churchill Memorial Gardens, 4th October :- [8251585](https://www.fixmystreet.com/report/8251585)
-- Two large hessian rugs, 4th October :- [8250741](https://www.fixmystreet.com/report/8250741)
 
 <!-- fix_marker ends -->
