@@ -12,10 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- 'Unique piece of transport history' marks 50 years ([3 hours ago](https://www.bbc.com/news/articles/c4gwyqw0nr1o?at_medium=RSS&at_campaign=rss))
-- Cotswold new paint rules and solar farm plans ([3 hours ago](https://www.bbc.com/news/articles/cn0rp2wj6k1o?at_medium=RSS&at_campaign=rss))
-- Grants available to increase city's arts events ([19 hours ago](https://www.bbc.com/news/articles/cy85epwxdy2o?at_medium=RSS&at_campaign=rss))
-- Farmer fined over slurry pollution in brook ([23 hours ago](https://www.bbc.com/news/articles/cy8rm90rdrpo?at_medium=RSS&at_campaign=rss))
+- Police look for man who showed child a knife ([8 minutes ago](https://www.bbc.com/news/articles/c1ed120p4lzo?at_medium=RSS&at_campaign=rss))
+- 'Unique piece of transport history' marks 50 years ([4 hours ago](https://www.bbc.com/news/articles/c4gwyqw0nr1o?at_medium=RSS&at_campaign=rss))
+- Cotswold new paint rules and solar farm plans ([4 hours ago](https://www.bbc.com/news/articles/cn0rp2wj6k1o?at_medium=RSS&at_campaign=rss))
+- Grants available to increase city's arts events ([20 hours ago](https://www.bbc.com/news/articles/cy85epwxdy2o?at_medium=RSS&at_campaign=rss))
+- Farmer fined over slurry pollution in brook ([1 days ago](https://www.bbc.com/news/articles/cy8rm90rdrpo?at_medium=RSS&at_campaign=rss))
 - Public urged to 'donate a dinner' to animal centres ([1 days ago](https://www.bbc.com/news/articles/c3dr2pzykmpo?at_medium=RSS&at_campaign=rss))
 - Parents says new childcare support doesn't cover costs ([1 days ago](https://www.bbc.com/news/articles/cy85pw0yw6lo?at_medium=RSS&at_campaign=rss))
 - Jewish community 'in shock' over synagogue attack ([1 days ago](https://www.bbc.com/news/articles/c701yjegre6o?at_medium=RSS&at_campaign=rss))
@@ -23,7 +24,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - 'Shocking' levels of sewage prompts council vote ([1 days ago](https://www.bbc.com/news/articles/cm2d08x8vkro?at_medium=RSS&at_campaign=rss))
 - Council prosecutes driver for illegal taxi activity during race week ([1 days ago](https://gloucesternewscentre.co.uk/council-prosecutes-driver-for-illegal-taxi-activity-during-race-week/))
 - Two men arrested following police pursuit in Cheltenham ([1 days ago](https://gloucesternewscentre.co.uk/two-men-arrested-following-police-pursuit-in-cheltenham/))
-- Media release: More new affordable homes for Cheltenham residents at Regents Village ([1 days ago](https://www.cheltenham.gov.uk/news/article/3055/media_release_more_new_affordable_homes_for_cheltenham_residents_at_regents_village))
+- Media release: More new affordable homes for Cheltenham residents at Regents Village ([2 days ago](https://www.cheltenham.gov.uk/news/article/3055/media_release_more_new_affordable_homes_for_cheltenham_residents_at_regents_village))
 - Historic Wales and England crossing shut to traffic ([2 days ago](https://www.bbc.com/news/articles/c89d21xjldqo?at_medium=RSS&at_campaign=rss))
 - 'Gromit Unleashed auction' and 'bike thefts' ([2 days ago](https://www.bbc.com/news/articles/c147ypn1717o?at_medium=RSS&at_campaign=rss))
 - Out of area private hire driver successfully prosecuted for illegal operations by Cheltenham Borough Council ([2 days ago](https://www.cheltenham.gov.uk/news/article/3054/out_of_area_private_hire_driver_successfully_prosecuted_for_illegal_operations_by_cheltenham_borough_council))
@@ -34,7 +35,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Missed bin collections 'blighting' communities ([2 days ago](https://www.bbc.com/news/articles/c0jq6958w0qo?at_medium=RSS&at_campaign=rss))
 - Appeal to locate missing 86-year-old man from Prestbury ([2 days ago](https://gloucesternewscentre.co.uk/appeal-to-locate-missing-86-year-old-man-from-prestbury/))
 - Duvet covers used to bag up suspected cannabis ([2 days ago](https://www.bbc.com/news/articles/cg42p4p72wwo?at_medium=RSS&at_campaign=rss))
-- Driver to face no charges over damaged bridge ([2 days ago](https://www.bbc.com/news/articles/cly6pdldxkvo?at_medium=RSS&at_campaign=rss))
 - Man charged in connection with knifepoint robbery at a Cheltenham shop ([2 days ago](https://gloucesternewscentre.co.uk/man-charged-in-connection-with-knifepoint-robbery-at-a-cheltenham-shop/))
 - Community Pride 2025: Funding available for local projects ([3 days ago](https://www.cheltenham.gov.uk/news/article/3053/community_pride_2025_funding_available_for_local_projects))
 - Cheltenham MP Max Wilkinson named Lib Dem Home Affairs Spokesperson ([3 days ago](https://gloucesternewscentre.co.uk/cheltenham-mp-max-wilkinson-named-lib-dem-home-affairs-spokesperson/))
@@ -64,6 +64,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Junction 10 upgrade costs soar to £363m ([17 days ago](https://www.bbc.co.uk/sounds/play/p0m3b7xf?at_medium=RSS&at_campaign=rss))
 - Temporary closure of Changing Places facility at Montpellier toilets ([19 days ago](https://www.cheltenham.gov.uk/news/article/3048/temporary_closure_of_changing_places_facility_at_montpellier_toilets))
 - Golden Valley launches new cyber skills initiative at  House of Commons event ([23 days ago](https://www.cheltenham.gov.uk/news/article/3047/golden_valley_launches_new_cyber_skills_initiative_at_house_of_commons_event))
-- Sustainability success stories: How three businesses thrived with CheltenhamZero grant funding ([25 days ago](https://www.cheltenham.gov.uk/news/article/3046/sustainability_success_stories_how_three_businesses_thrived_with_cheltenhamzero_grant_funding))
+- Sustainability success stories: How three businesses thrived with CheltenhamZero grant funding ([26 days ago](https://www.cheltenham.gov.uk/news/article/3046/sustainability_success_stories_how_three_businesses_thrived_with_cheltenhamzero_grant_funding))
 
 <!-- news_marker ends -->

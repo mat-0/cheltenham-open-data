@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Push buttons at pedestrian crossing outside Morrisons not working on one side of the road., 5th October :- [8253971](https://www.fixmystreet.com/report/8253971)
+- Leaning over silver birch tree (routine inspection needed), 5th October :- [8253898](https://www.fixmystreet.com/report/8253898)
 - Multiple graffiti on a utility box and a fence nearby., 5th October :- [8253804](https://www.fixmystreet.com/report/8253804)
 - There are several street lights not working in the GL51 6HT area. It is obviously very dark in the local area and is a concern for local residents., 4th October :- [8253035](https://www.fixmystreet.com/report/8253035)
 - There are several street lights not working in the GL51 6HT area. It is obviously very dark in the local area and is a concern for local residents., 4th October :- [8253034](https://www.fixmystreet.com/report/8253034)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Volunteer litter pick bags ready for collection (4th October), 4th October :- [8251940](https://www.fixmystreet.com/report/8251940)
 - Rubbish tipped in Winston Churchill Memorial Gardens, 4th October :- [8251585](https://www.fixmystreet.com/report/8251585)
 - Two large hessian rugs, 4th October :- [8250741](https://www.fixmystreet.com/report/8250741)
-- Full litter bin, 4th October :- [8250734](https://www.fixmystreet.com/report/8250734)
-- Pointed trees Park Street just as turned in on your left, 4th October :- [8250628](https://www.fixmystreet.com/report/8250628)
 
 <!-- fix_marker ends -->
