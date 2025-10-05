@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Bush, 5th October :- [8254614](https://www.fixmystreet.com/report/8254614)
+- Red Cross graffiti on mini roundabout, 5th October :- [8254590](https://www.fixmystreet.com/report/8254590)
+- Tree overhanging public footpath to recreation field and Scout Headquarters roof, 5th October :- [8254426](https://www.fixmystreet.com/report/8254426)
 - Graffiti on Bus Shelter, 5th October :- [8254163](https://www.fixmystreet.com/report/8254163)
 - Push buttons at pedestrian crossing outside Morrisons not working on one side of the road., 5th October :- [8253971](https://www.fixmystreet.com/report/8253971)
 - Leaning over silver birch tree (routine inspection needed), 5th October :- [8253898](https://www.fixmystreet.com/report/8253898)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Park gate needs adjustment, 4th October :- [8252299](https://www.fixmystreet.com/report/8252299)
 - Drain blocked, 4th October :- [8252255](https://www.fixmystreet.com/report/8252255)
 - Lowered pavement not lowered enough for wheelchair use and my son was tipped out of her wheelchair causing pain to injured toes, 4th October :- [8251970](https://www.fixmystreet.com/report/8251970)
-- Large tree branch damaged by the wind and hanging down., 4th October :- [8251963](https://www.fixmystreet.com/report/8251963)
-- Volunteer litter pick bags ready for collection (4th October), 4th October :- [8251940](https://www.fixmystreet.com/report/8251940)
-- Rubbish tipped in Winston Churchill Memorial Gardens, 4th October :- [8251585](https://www.fixmystreet.com/report/8251585)
 
 <!-- fix_marker ends -->
