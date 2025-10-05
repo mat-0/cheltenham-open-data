@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Anti-migration protesters gather at council office ([4 hours ago](https://www.bbc.com/news/articles/cvgq94j728go?at_medium=RSS&at_campaign=rss))
-- Gloucestershire in Pictures: Statues galore ([8 hours ago](https://www.bbc.com/news/articles/c3dr2d8z2kzo?at_medium=RSS&at_campaign=rss))
-- Police look for man who showed child a knife ([10 hours ago](https://www.bbc.com/news/articles/c1ed120p4lzo?at_medium=RSS&at_campaign=rss))
-- 'Unique piece of transport history' marks 50 years ([14 hours ago](https://www.bbc.com/news/articles/c4gwyqw0nr1o?at_medium=RSS&at_campaign=rss))
-- Cotswold new paint rules and solar farm plans ([14 hours ago](https://www.bbc.com/news/articles/cn0rp2wj6k1o?at_medium=RSS&at_campaign=rss))
+- Anti-migration protesters gather at council office ([5 hours ago](https://www.bbc.com/news/articles/cvgq94j728go?at_medium=RSS&at_campaign=rss))
+- Gloucestershire in Pictures: Statues galore ([9 hours ago](https://www.bbc.com/news/articles/c3dr2d8z2kzo?at_medium=RSS&at_campaign=rss))
+- Police look for man who showed child a knife ([11 hours ago](https://www.bbc.com/news/articles/c1ed120p4lzo?at_medium=RSS&at_campaign=rss))
+- 'Unique piece of transport history' marks 50 years ([15 hours ago](https://www.bbc.com/news/articles/c4gwyqw0nr1o?at_medium=RSS&at_campaign=rss))
+- Cotswold new paint rules and solar farm plans ([15 hours ago](https://www.bbc.com/news/articles/cn0rp2wj6k1o?at_medium=RSS&at_campaign=rss))
 - Grants available to increase city's arts events ([1 days ago](https://www.bbc.com/news/articles/cy85epwxdy2o?at_medium=RSS&at_campaign=rss))
 - Farmer fined over slurry pollution in brook ([1 days ago](https://www.bbc.com/news/articles/cy8rm90rdrpo?at_medium=RSS&at_campaign=rss))
 - Public urged to 'donate a dinner' to animal centres ([1 days ago](https://www.bbc.com/news/articles/c3dr2pzykmpo?at_medium=RSS&at_campaign=rss))
