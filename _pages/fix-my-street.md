@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Deep pot holes on pavement, 6th October :- [8256686](https://www.fixmystreet.com/report/8256686)
+- Another missed bin, 6th October :- [8256550](https://www.fixmystreet.com/report/8256550)
+- Beech tree seeds and pods, known as masts, are covering Drews Close road surface. They have dropped from the protected vicarage overhanging trees., 6th October :- [8256486](https://www.fixmystreet.com/report/8256486)
+- TMC - Defects - Signs & Street Furniture problem, 6th October :- [8256477](https://www.fixmystreet.com/report/8256477)
 - Footpath overgrown - impassable, 6th October :- [8256181](https://www.fixmystreet.com/report/8256181)
 - No HGV sign missing, 6th October :- [8256173](https://www.fixmystreet.com/report/8256173)
 - Racist Graffiti on a public highway, 5th October :- [8256133](https://www.fixmystreet.com/report/8256133)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - The speed activated sign is broken, 5th October :- [8255013](https://www.fixmystreet.com/report/8255013)
 - Outside 48 Gretton Road, Winchcombe, 5th October :- [8254798](https://www.fixmystreet.com/report/8254798)
 - Bush, 5th October :- [8254614](https://www.fixmystreet.com/report/8254614)
-- Red Cross graffiti on mini roundabout, 5th October :- [8254590](https://www.fixmystreet.com/report/8254590)
-- Tree overhanging public footpath to recreation field and Scout Headquarters roof, 5th October :- [8254426](https://www.fixmystreet.com/report/8254426)
-- Graffiti on Bus Shelter, 5th October :- [8254163](https://www.fixmystreet.com/report/8254163)
-- Push buttons at pedestrian crossing outside Morrisons not working on one side of the road., 5th October :- [8253971](https://www.fixmystreet.com/report/8253971)
 
 <!-- fix_marker ends -->
