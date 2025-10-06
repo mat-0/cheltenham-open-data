@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- A number of holes and damaged repairs, 6th October :- [8261158](https://www.fixmystreet.com/report/8261158)
 - Part of road sign hanging off., 6th October :- [8261082](https://www.fixmystreet.com/report/8261082)
 - Abandoned traffic signs, 6th October :- [8261000](https://www.fixmystreet.com/report/8261000)
 - Very bad broken road surface from outside the sports field back to Meadoway, 6th October :- [8260802](https://www.fixmystreet.com/report/8260802)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 6th October :- [8258975](https://www.fixmystreet.com/report/8258975)
 - TMC - Defects -FW6 Potholes problem, 6th October :- [8258972](https://www.fixmystreet.com/report/8258972)
 - TMC - Defects - Other FW6  Surface problem, 6th October :- [8258974](https://www.fixmystreet.com/report/8258974)
-- TMC - Defects -FW6 Potholes problem, 6th October :- [8258973](https://www.fixmystreet.com/report/8258973)
 
 <!-- fix_marker ends -->
