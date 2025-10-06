@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Monday, 06 October 2025
 
-- The average temperature today is 10.88˚C,
-- With highs of 10.88˚C and lows of 10.88˚C,
-- It may feel like 10.24˚C with overcast clouds
-- The wind speed is 2.65m/s and visibility is 10000m
-- The pressure is 1022hPa and humidity is 85%
+- The average temperature today is 12.1˚C,
+- With highs of 12.94˚C and lows of 11.5˚C,
+- It may feel like 11.51˚C with broken clouds
+- The wind speed is 2.68m/s and visibility is 10000m
+- The pressure is 1022hPa and humidity is 82%
 - The sun will rise at 06:17 and set at 17:35
 
 <!-- weather_marker ends -->
