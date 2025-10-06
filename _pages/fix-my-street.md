@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Road an footbridge under train line, 6th October :- [8260650](https://www.fixmystreet.com/report/8260650)
 - Wire and plastic, 6th October :- [8260361](https://www.fixmystreet.com/report/8260361)
 - Giant fungus has lifted the paving just outside our property., 6th October :- [8260171](https://www.fixmystreet.com/report/8260171)
 - Wheel left dumped after joyriders returned to fix wheel and drive off., 6th October :- [8260073](https://www.fixmystreet.com/report/8260073)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - The pothole is right at the entrance to Highwood Avenue as you come in from Shurdington Road. It is impossible to avoid as you turn into Highwood Avenue, 6th October :- [8258786](https://www.fixmystreet.com/report/8258786)
 - Flyposter on street furniture at traffic lights, 6th October :- [8258699](https://www.fixmystreet.com/report/8258699)
 - Please can you get the temporary traffic lights removed from the junction of manor road and runnings road cheltenham. They are not needed and are constantly holding traffic up. Second to this they keep breaking down. The junction worked perfectly fine before. The new traffic lights that have cost the tax payers money, have now not been commissioned for nearly a year so there must be a fault or the clueless installation team forgot the cables or something as stupid as. Again these are a waste of time, money and electricity. A simple roundabout would have kept the traffic moving, no hold ups and would have been far cheaper to maintain and caused less inconvenience., 6th October :- [8258672](https://www.fixmystreet.com/report/8258672)
-- TMC - Defects - Footways Slabs problem, 6th October :- [8258774](https://www.fixmystreet.com/report/8258774)
 
 <!-- fix_marker ends -->
