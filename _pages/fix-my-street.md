@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Part of road sign hanging off., 6th October :- [8261082](https://www.fixmystreet.com/report/8261082)
+- Abandoned traffic signs, 6th October :- [8261000](https://www.fixmystreet.com/report/8261000)
 - Very bad broken road surface from outside the sports field back to Meadoway, 6th October :- [8260802](https://www.fixmystreet.com/report/8260802)
 - Outside 81b Station Rd. Bishops cleeve, 6th October :- [8260753](https://www.fixmystreet.com/report/8260753)
 - Road an footbridge under train line, 6th October :- [8260650](https://www.fixmystreet.com/report/8260650)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -FW6 Potholes problem, 6th October :- [8258972](https://www.fixmystreet.com/report/8258972)
 - TMC - Defects - Other FW6  Surface problem, 6th October :- [8258974](https://www.fixmystreet.com/report/8258974)
 - TMC - Defects -FW6 Potholes problem, 6th October :- [8258973](https://www.fixmystreet.com/report/8258973)
-- TMC - Defects - Covers, Gratings & Frames problem, 6th October :- [8258971](https://www.fixmystreet.com/report/8258971)
-- The pothole is right at the entrance to Highwood Avenue as you come in from Shurdington Road. It is impossible to avoid as you turn into Highwood Avenue, 6th October :- [8258786](https://www.fixmystreet.com/report/8258786)
 
 <!-- fix_marker ends -->
