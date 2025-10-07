@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Metal drain/outflow damaged, danger to car tyres being ripped., 7th October :- [8265437](https://www.fixmystreet.com/report/8265437)
+- Missing bollards, 7th October :- [8265325](https://www.fixmystreet.com/report/8265325)
+- Trees that are overgrown and neglected, 7th October :- [8265273](https://www.fixmystreet.com/report/8265273)
+- Cycle path very rutted and bumpy, 7th October :- [8265260](https://www.fixmystreet.com/report/8265260)
+- Flytipping, 7th October :- [8265233](https://www.fixmystreet.com/report/8265233)
 - Just opened up and caused damage to car, 7th October :- [8265219](https://www.fixmystreet.com/report/8265219)
 - The whole road has holes, 7th October :- [8264980](https://www.fixmystreet.com/report/8264980)
 - Previous road repair failing, 7th October :- [8264917](https://www.fixmystreet.com/report/8264917)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 7th October :- [8264119](https://www.fixmystreet.com/report/8264119)
 - TMC - Defects - Covers, Gratings & Frames problem, 7th October :- [8264125](https://www.fixmystreet.com/report/8264125)
 - TMC - Defects - Other FW6  Surface problem, 7th October :- [8263929](https://www.fixmystreet.com/report/8263929)
-- TMC - Defects -FW6 Potholes problem, 7th October :- [8263927](https://www.fixmystreet.com/report/8263927)
-- TMC - Defects -FW6 Potholes problem, 7th October :- [8263928](https://www.fixmystreet.com/report/8263928)
-- TMC - Defects -FW6 Potholes problem, 7th October :- [8263926](https://www.fixmystreet.com/report/8263926)
-- TMC - Defects -FW6 Potholes problem, 7th October :- [8263925](https://www.fixmystreet.com/report/8263925)
-- TMC - Defects -CW10 Potholes problem, 7th October :- [8263771](https://www.fixmystreet.com/report/8263771)
 
 <!-- fix_marker ends -->
