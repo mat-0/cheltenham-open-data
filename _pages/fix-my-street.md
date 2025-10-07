@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Laxton Walk needs a clean again., 7th October :- [8262419](https://www.fixmystreet.com/report/8262419)
+- Ash tree needs pruning, 7th October :- [8262333](https://www.fixmystreet.com/report/8262333)
+- Flytipped mattress and wood, 7th October :- [8262314](https://www.fixmystreet.com/report/8262314)
+- Post or sign leaning slightly (less than 20 degrees) problem, 7th October :- [8262281](https://www.fixmystreet.com/report/8262281)
+- TMC - Defects - Covers, Gratings & Frames problem, 7th October :- [8262033](https://www.fixmystreet.com/report/8262033)
 - Non stop alarm, 7th October :- [8261811](https://www.fixmystreet.com/report/8261811)
 - TMC - Defects -CW6 Potholes  problem, 7th October :- [8261840](https://www.fixmystreet.com/report/8261840)
 - Outside 55, 7th October :- [8261593](https://www.fixmystreet.com/report/8261593)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Wheel left dumped after joyriders returned to fix wheel and drive off., 6th October :- [8260073](https://www.fixmystreet.com/report/8260073)
 - A pothole in road problem, 6th October :- [8259584](https://www.fixmystreet.com/report/8259584)
 - A pothole in road problem, 6th October :- [8259583](https://www.fixmystreet.com/report/8259583)
-- Potholes, 6th October :- [8259487](https://www.fixmystreet.com/report/8259487)
-- Tree is damaged problem, 6th October :- [8259582](https://www.fixmystreet.com/report/8259582)
-- Abandone Vehicle in dangerous location, 6th October :- [8259242](https://www.fixmystreet.com/report/8259242)
-- TMC - Defects - Signs & Street Furniture problem, 6th October :- [8259190](https://www.fixmystreet.com/report/8259190)
-- Skip, cabin, 6th October :- [8259106](https://www.fixmystreet.com/report/8259106)
 
 <!-- fix_marker ends -->
