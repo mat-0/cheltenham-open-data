@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Alarm, 7th October :- [8265996](https://www.fixmystreet.com/report/8265996)
+- Tarmac breaking up and loose about 2ft square, 7th October :- [8265962](https://www.fixmystreet.com/report/8265962)
 - Raised inspiration cover and tarmac degraded, 7th October :- [8265812](https://www.fixmystreet.com/report/8265812)
 - Numerous pot holes in road., 7th October :- [8265705](https://www.fixmystreet.com/report/8265705)
 - Metal drain/outflow damaged, danger to car tyres being ripped., 7th October :- [8265437](https://www.fixmystreet.com/report/8265437)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - The drain is blocked problem, 7th October :- [8264307](https://www.fixmystreet.com/report/8264307)
 - Over hanging scrubs/vegetations, 7th October :- [8264166](https://www.fixmystreet.com/report/8264166)
 - TMC - Defects - Vegetation problem, 7th October :- [8264314](https://www.fixmystreet.com/report/8264314)
-- TMC - Defects - Other problem, 7th October :- [8264316](https://www.fixmystreet.com/report/8264316)
-- TMC - Defects - Vegetation problem, 7th October :- [8264119](https://www.fixmystreet.com/report/8264119)
 
 <!-- fix_marker ends -->
