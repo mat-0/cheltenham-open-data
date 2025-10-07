@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Tuesday, 07 October 2025
 
-- The average temperature today is 12.83˚C,
-- With highs of 13.3˚C and lows of 12.6˚C,
-- It may feel like 12.39˚C with broken clouds
-- The wind speed is 2.68m/s and visibility is 10000m
-- The pressure is 1024hPa and humidity is 85%
+- The average temperature today is 12.13˚C,
+- With highs of 12.13˚C and lows of 12.13˚C,
+- It may feel like 11.75˚C with overcast clouds
+- The wind speed is 2.94m/s and visibility is 10000m
+- The pressure is 1024hPa and humidity is 90%
 - The sun will rise at 06:19 and set at 17:32
 
 <!-- weather_marker ends -->
