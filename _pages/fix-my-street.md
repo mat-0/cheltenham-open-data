@@ -9,11 +9,17 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects -CW10 Potholes problem, 7th October :- [8263586](https://www.fixmystreet.com/report/8263586)
+- Fallen tree in layby, 7th October :- [8263312](https://www.fixmystreet.com/report/8263312)
+- TMC - Defects - Other FW6  Surface problem, 7th October :- [8263358](https://www.fixmystreet.com/report/8263358)
+- TMC - Defects - Other FW6  Surface problem, 7th October :- [8263355](https://www.fixmystreet.com/report/8263355)
 - Numerous potholes in road, 7th October :- [8263246](https://www.fixmystreet.com/report/8263246)
+- TMC - Defects - Other FW6  Surface problem, 7th October :- [8263354](https://www.fixmystreet.com/report/8263354)
+- TMC - Defects - Other FW6  Surface problem, 7th October :- [8263353](https://www.fixmystreet.com/report/8263353)
 - Bin bags split, 7th October :- [8263044](https://www.fixmystreet.com/report/8263044)
 - Tree branch overhanging road, 7th October :- [8262857](https://www.fixmystreet.com/report/8262857)
-- TMC - Defects - Other FW6  Surface problem, 7th October :- [8262944](https://www.fixmystreet.com/report/8262944)
 - TMC - Defects - Other FW6  Surface problem, 7th October :- [8262945](https://www.fixmystreet.com/report/8262945)
+- TMC - Defects - Other FW6  Surface problem, 7th October :- [8262944](https://www.fixmystreet.com/report/8262944)
 - TMC - Defects - Other FW6  Surface problem, 7th October :- [8262940](https://www.fixmystreet.com/report/8262940)
 - TMC - Defects -CW6 Potholes  problem, 7th October :- [8262937](https://www.fixmystreet.com/report/8262937)
 - TMC - Defects - Kerbs and Channels problem, 7th October :- [8262938](https://www.fixmystreet.com/report/8262938)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Laxton Walk needs a clean again., 7th October :- [8262419](https://www.fixmystreet.com/report/8262419)
 - Ash tree needs pruning, 7th October :- [8262333](https://www.fixmystreet.com/report/8262333)
 - Flytipped mattress and wood, 7th October :- [8262314](https://www.fixmystreet.com/report/8262314)
-- Post or sign leaning slightly (less than 20 degrees) problem, 7th October :- [8262281](https://www.fixmystreet.com/report/8262281)
-- TMC - Defects - Covers, Gratings & Frames problem, 7th October :- [8262033](https://www.fixmystreet.com/report/8262033)
-- Non stop alarm, 7th October :- [8261811](https://www.fixmystreet.com/report/8261811)
-- TMC - Defects -CW6 Potholes  problem, 7th October :- [8261840](https://www.fixmystreet.com/report/8261840)
-- Outside 55, 7th October :- [8261593](https://www.fixmystreet.com/report/8261593)
-- Outside 41, 7th October :- [8261588](https://www.fixmystreet.com/report/8261588)
 
 <!-- fix_marker ends -->
