@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Raised inspiration cover and tarmac degraded, 7th October :- [8265812](https://www.fixmystreet.com/report/8265812)
+- Numerous pot holes in road., 7th October :- [8265705](https://www.fixmystreet.com/report/8265705)
 - Metal drain/outflow damaged, danger to car tyres being ripped., 7th October :- [8265437](https://www.fixmystreet.com/report/8265437)
 - Missing bollards, 7th October :- [8265325](https://www.fixmystreet.com/report/8265325)
 - Trees that are overgrown and neglected, 7th October :- [8265273](https://www.fixmystreet.com/report/8265273)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 7th October :- [8264314](https://www.fixmystreet.com/report/8264314)
 - TMC - Defects - Other problem, 7th October :- [8264316](https://www.fixmystreet.com/report/8264316)
 - TMC - Defects - Vegetation problem, 7th October :- [8264119](https://www.fixmystreet.com/report/8264119)
-- TMC - Defects - Covers, Gratings & Frames problem, 7th October :- [8264125](https://www.fixmystreet.com/report/8264125)
-- TMC - Defects - Other FW6  Surface problem, 7th October :- [8263929](https://www.fixmystreet.com/report/8263929)
 
 <!-- fix_marker ends -->
