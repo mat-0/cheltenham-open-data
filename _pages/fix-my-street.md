@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Just opened up and caused damage to car, 7th October :- [8265219](https://www.fixmystreet.com/report/8265219)
+- The whole road has holes, 7th October :- [8264980](https://www.fixmystreet.com/report/8264980)
+- Previous road repair failing, 7th October :- [8264917](https://www.fixmystreet.com/report/8264917)
 - Huge crack in tree, 7th October :- [8264499](https://www.fixmystreet.com/report/8264499)
 - TMC - Defects -CW6 Potholes  problem, 7th October :- [8264517](https://www.fixmystreet.com/report/8264517)
 - TMC - Defects -CW6 Potholes  problem, 7th October :- [8264516](https://www.fixmystreet.com/report/8264516)
@@ -21,13 +24,10 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 7th October :- [8264119](https://www.fixmystreet.com/report/8264119)
 - TMC - Defects - Covers, Gratings & Frames problem, 7th October :- [8264125](https://www.fixmystreet.com/report/8264125)
 - TMC - Defects - Other FW6  Surface problem, 7th October :- [8263929](https://www.fixmystreet.com/report/8263929)
-- TMC - Defects -FW6 Potholes problem, 7th October :- [8263928](https://www.fixmystreet.com/report/8263928)
 - TMC - Defects -FW6 Potholes problem, 7th October :- [8263927](https://www.fixmystreet.com/report/8263927)
+- TMC - Defects -FW6 Potholes problem, 7th October :- [8263928](https://www.fixmystreet.com/report/8263928)
 - TMC - Defects -FW6 Potholes problem, 7th October :- [8263926](https://www.fixmystreet.com/report/8263926)
 - TMC - Defects -FW6 Potholes problem, 7th October :- [8263925](https://www.fixmystreet.com/report/8263925)
 - TMC - Defects -CW10 Potholes problem, 7th October :- [8263771](https://www.fixmystreet.com/report/8263771)
-- TMC - Defects -CW10 Potholes problem, 7th October :- [8263586](https://www.fixmystreet.com/report/8263586)
-- Fallen tree in layby, 7th October :- [8263312](https://www.fixmystreet.com/report/8263312)
-- TMC - Defects - Other FW6  Surface problem, 7th October :- [8263358](https://www.fixmystreet.com/report/8263358)
 
 <!-- fix_marker ends -->
