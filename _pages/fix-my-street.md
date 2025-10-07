@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree branch overhanging road, 7th October :- [8262857](https://www.fixmystreet.com/report/8262857)
+- Roadworks sign left behind by VM after they finally completed their repair work reported under Fix My Street reports 7511420, 7674119, 7934039 and 7959262. It has taken more than 7 months for GCC to get VM to undertake these repairs. Please get them to remove this sign ASAP so that we can finally have an obstructed pavement., 7th October :- [8262475](https://www.fixmystreet.com/report/8262475)
+- TMC - Defects - Other FW6  Surface problem, 7th October :- [8262524](https://www.fixmystreet.com/report/8262524)
 - Laxton Walk needs a clean again., 7th October :- [8262419](https://www.fixmystreet.com/report/8262419)
 - Ash tree needs pruning, 7th October :- [8262333](https://www.fixmystreet.com/report/8262333)
 - Flytipped mattress and wood, 7th October :- [8262314](https://www.fixmystreet.com/report/8262314)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Road an footbridge under train line, 6th October :- [8260650](https://www.fixmystreet.com/report/8260650)
 - Wire and plastic, 6th October :- [8260361](https://www.fixmystreet.com/report/8260361)
 - Giant fungus has lifted the paving just outside our property., 6th October :- [8260171](https://www.fixmystreet.com/report/8260171)
-- Wheel left dumped after joyriders returned to fix wheel and drive off., 6th October :- [8260073](https://www.fixmystreet.com/report/8260073)
-- A pothole in road problem, 6th October :- [8259584](https://www.fixmystreet.com/report/8259584)
-- A pothole in road problem, 6th October :- [8259583](https://www.fixmystreet.com/report/8259583)
 
 <!-- fix_marker ends -->
