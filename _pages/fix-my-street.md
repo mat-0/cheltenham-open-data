@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Advertising opposite Edgegrove, Southam Lane, Doutham, 7th October :- [8264409](https://www.fixmystreet.com/report/8264409)
+- Advertising cut flowers opposite Lark Rise, Southam Lane, 7th October :- [8264391](https://www.fixmystreet.com/report/8264391)
+- The drain is blocked problem, 7th October :- [8264307](https://www.fixmystreet.com/report/8264307)
+- Over hanging scrubs/vegetations, 7th October :- [8264166](https://www.fixmystreet.com/report/8264166)
+- TMC - Defects - Vegetation problem, 7th October :- [8264314](https://www.fixmystreet.com/report/8264314)
+- TMC - Defects - Other problem, 7th October :- [8264316](https://www.fixmystreet.com/report/8264316)
 - TMC - Defects - Vegetation problem, 7th October :- [8264119](https://www.fixmystreet.com/report/8264119)
 - TMC - Defects - Covers, Gratings & Frames problem, 7th October :- [8264125](https://www.fixmystreet.com/report/8264125)
 - TMC - Defects - Other FW6  Surface problem, 7th October :- [8263929](https://www.fixmystreet.com/report/8263929)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 7th October :- [8263355](https://www.fixmystreet.com/report/8263355)
 - Numerous potholes in road, 7th October :- [8263246](https://www.fixmystreet.com/report/8263246)
 - TMC - Defects - Other FW6  Surface problem, 7th October :- [8263353](https://www.fixmystreet.com/report/8263353)
-- TMC - Defects - Other FW6  Surface problem, 7th October :- [8263354](https://www.fixmystreet.com/report/8263354)
-- Bin bags split, 7th October :- [8263044](https://www.fixmystreet.com/report/8263044)
-- Tree branch overhanging road, 7th October :- [8262857](https://www.fixmystreet.com/report/8262857)
-- TMC - Defects - Other FW6  Surface problem, 7th October :- [8262945](https://www.fixmystreet.com/report/8262945)
-- TMC - Defects - Other FW6  Surface problem, 7th October :- [8262944](https://www.fixmystreet.com/report/8262944)
-- TMC - Defects - Other FW6  Surface problem, 7th October :- [8262940](https://www.fixmystreet.com/report/8262940)
 
 <!-- fix_marker ends -->
