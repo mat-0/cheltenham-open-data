@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Looks to be several inches deep about 12 inches by 9 inches oval pothole, 8th October :- [8269793](https://www.fixmystreet.com/report/8269793)
+- TMC - Defects - Other FW6  Surface problem, 8th October :- [8269714](https://www.fixmystreet.com/report/8269714)
+- TMC - Defects - Footways Slabs problem, 8th October :- [8269704](https://www.fixmystreet.com/report/8269704)
+- TMC - Defects - Vegetation problem, 8th October :- [8269713](https://www.fixmystreet.com/report/8269713)
 - Parking bay causes congestion, 8th October :- [8269271](https://www.fixmystreet.com/report/8269271)
 - TMC - Defects -CW6 Potholes  problem, 8th October :- [8269324](https://www.fixmystreet.com/report/8269324)
 - TMC - Defects -CW6 Potholes  problem, 8th October :- [8269323](https://www.fixmystreet.com/report/8269323)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -other CW6 problem, 8th October :- [8268816](https://www.fixmystreet.com/report/8268816)
 - The road has weeds growing in cracks half the length of the road, there are many holes and a large dip!, 8th October :- [8268626](https://www.fixmystreet.com/report/8268626)
 - TMC - Defects - Other FW6  Surface problem, 8th October :- [8268594](https://www.fixmystreet.com/report/8268594)
-- TMC - Defects - Other FW6  Surface problem, 8th October :- [8268593](https://www.fixmystreet.com/report/8268593)
-- TMC - Defects - Other FW6  Surface problem, 8th October :- [8268343](https://www.fixmystreet.com/report/8268343)
-- TMC - Defects - Kerbs and Channels problem, 8th October :- [8268342](https://www.fixmystreet.com/report/8268342)
-- TMC - Defects - Road Markings problem, 8th October :- [8268338](https://www.fixmystreet.com/report/8268338)
 
 <!-- fix_marker ends -->
