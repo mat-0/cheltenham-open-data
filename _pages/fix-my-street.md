@@ -9,7 +9,18 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Parking bay causes congestion, 8th October :- [8269271](https://www.fixmystreet.com/report/8269271)
+- TMC - Defects -CW6 Potholes  problem, 8th October :- [8269324](https://www.fixmystreet.com/report/8269324)
+- TMC - Defects -CW6 Potholes  problem, 8th October :- [8269323](https://www.fixmystreet.com/report/8269323)
+- The drain is blocked problem, 8th October :- [8269310](https://www.fixmystreet.com/report/8269310)
+- TMC - Defects -FW6 Potholes problem, 8th October :- [8269313](https://www.fixmystreet.com/report/8269313)
+- TMC - Defects - Other FW6  Surface problem, 8th October :- [8269315](https://www.fixmystreet.com/report/8269315)
+- TMC - Defects -FW6 Potholes problem, 8th October :- [8269314](https://www.fixmystreet.com/report/8269314)
+- TMC - Defects - Other FW6  Surface problem, 8th October :- [8269312](https://www.fixmystreet.com/report/8269312)
+- TMC - Defects -CW6 Potholes  problem, 8th October :- [8269328](https://www.fixmystreet.com/report/8269328)
+- TMC - Defects -CW6 Potholes  problem, 8th October :- [8269311](https://www.fixmystreet.com/report/8269311)
 - Glencairn Park Road - street "cleaning", 8th October :- [8269065](https://www.fixmystreet.com/report/8269065)
+- TMC - Defects -CW6 Potholes  problem, 8th October :- [8269171](https://www.fixmystreet.com/report/8269171)
 - TMC - Defects -FW6 Potholes problem, 8th October :- [8269011](https://www.fixmystreet.com/report/8269011)
 - TMC - Defects -other CW6 problem, 8th October :- [8268816](https://www.fixmystreet.com/report/8268816)
 - The road has weeds growing in cracks half the length of the road, there are many holes and a large dip!, 8th October :- [8268626](https://www.fixmystreet.com/report/8268626)
@@ -18,16 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 8th October :- [8268343](https://www.fixmystreet.com/report/8268343)
 - TMC - Defects - Kerbs and Channels problem, 8th October :- [8268342](https://www.fixmystreet.com/report/8268342)
 - TMC - Defects - Road Markings problem, 8th October :- [8268338](https://www.fixmystreet.com/report/8268338)
-- Roebock cottages end of Nailsworth terrace, 8th October :- [8268152](https://www.fixmystreet.com/report/8268152)
-- TMC - Defects - Footways Slabs problem, 8th October :- [8268332](https://www.fixmystreet.com/report/8268332)
-- TMC - Defects -other CW6 problem, 8th October :- [8268333](https://www.fixmystreet.com/report/8268333)
-- TMC - Defects - Footways Slabs problem, 8th October :- [8268057](https://www.fixmystreet.com/report/8268057)
-- TMC - Defects - Footways Slabs problem, 8th October :- [8268060](https://www.fixmystreet.com/report/8268060)
-- TMC - Defects - Other FW6  Surface problem, 8th October :- [8268056](https://www.fixmystreet.com/report/8268056)
-- TMC - Defects - Footways Slabs problem, 8th October :- [8268061](https://www.fixmystreet.com/report/8268061)
-- TMC - Defects - Footways Slabs problem, 8th October :- [8268080](https://www.fixmystreet.com/report/8268080)
-- TMC - Defects - Footways Slabs problem, 8th October :- [8268059](https://www.fixmystreet.com/report/8268059)
-- TMC - Defects -CW6 Potholes  problem, 8th October :- [8267834](https://www.fixmystreet.com/report/8267834)
-- TMC - Defects -CW6 Potholes  problem, 8th October :- [8267821](https://www.fixmystreet.com/report/8267821)
 
 <!-- fix_marker ends -->

@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Wednesday, 08 October 2025
 
-- The average temperature today is 16.07˚C,
-- With highs of 16.65˚C and lows of 15.38˚C,
-- It may feel like 15.77˚C with broken clouds
-- The wind speed is 1.03m/s and visibility is 10000m
-- The pressure is 1024hPa and humidity is 78%
+- The average temperature today is 16.97˚C,
+- With highs of 17.76˚C and lows of 16.4˚C,
+- It may feel like 16.6˚C with scattered clouds
+- The wind speed is 1.54m/s and visibility is 10000m
+- The pressure is 1023hPa and humidity is 72%
 - The sun will rise at 06:20 and set at 17:30
 
 <!-- weather_marker ends -->
