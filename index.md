@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Wednesday, 08 October 2025
 
-- The average temperature today is 13.48˚C,
-- With highs of 14.6˚C and lows of 13.15˚C,
-- It may feel like 13.05˚C with overcast clouds
-- The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 1022hPa and humidity is 83%
+- The average temperature today is 12.55˚C,
+- With highs of 12.55˚C and lows of 12.55˚C,
+- It may feel like 12.08˚C with overcast clouds
+- The wind speed is 2.11m/s and visibility is 10000m
+- The pressure is 1022hPa and humidity is 85%
 - The sun will rise at 06:20 and set at 17:30
 
 <!-- weather_marker ends -->
