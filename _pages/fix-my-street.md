@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Van there last two days in a passing place, 8th October :- [8271143](https://www.fixmystreet.com/report/8271143)
 - Overhanging trees in Green Lane Hucclecote, 8th October :- [8270861](https://www.fixmystreet.com/report/8270861)
 - Flytipped supermarket trolley full of bin bags, 8th October :- [8270581](https://www.fixmystreet.com/report/8270581)
 - Drop kerbs/safety/accessibility, 8th October :- [8270144](https://www.fixmystreet.com/report/8270144)
@@ -25,9 +26,8 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 8th October :- [8269323](https://www.fixmystreet.com/report/8269323)
 - The drain is blocked problem, 8th October :- [8269310](https://www.fixmystreet.com/report/8269310)
 - TMC - Defects - Other FW6  Surface problem, 8th October :- [8269315](https://www.fixmystreet.com/report/8269315)
-- TMC - Defects - Other FW6  Surface problem, 8th October :- [8269312](https://www.fixmystreet.com/report/8269312)
 - TMC - Defects -FW6 Potholes problem, 8th October :- [8269314](https://www.fixmystreet.com/report/8269314)
 - TMC - Defects -FW6 Potholes problem, 8th October :- [8269313](https://www.fixmystreet.com/report/8269313)
-- TMC - Defects -CW6 Potholes  problem, 8th October :- [8269311](https://www.fixmystreet.com/report/8269311)
+- TMC - Defects - Other FW6  Surface problem, 8th October :- [8269312](https://www.fixmystreet.com/report/8269312)
 
 <!-- fix_marker ends -->
