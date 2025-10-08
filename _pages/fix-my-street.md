@@ -9,6 +9,15 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Roebock cottages end of Nailsworth terrace, 8th October :- [8268152](https://www.fixmystreet.com/report/8268152)
+- TMC - Defects - Footways Slabs problem, 8th October :- [8268060](https://www.fixmystreet.com/report/8268060)
+- TMC - Defects - Footways Slabs problem, 8th October :- [8268057](https://www.fixmystreet.com/report/8268057)
+- TMC - Defects - Footways Slabs problem, 8th October :- [8268059](https://www.fixmystreet.com/report/8268059)
+- TMC - Defects - Other FW6  Surface problem, 8th October :- [8268056](https://www.fixmystreet.com/report/8268056)
+- TMC - Defects - Footways Slabs problem, 8th October :- [8268080](https://www.fixmystreet.com/report/8268080)
+- TMC - Defects - Footways Slabs problem, 8th October :- [8268061](https://www.fixmystreet.com/report/8268061)
+- TMC - Defects -CW6 Potholes  problem, 8th October :- [8267821](https://www.fixmystreet.com/report/8267821)
+- TMC - Defects -CW6 Potholes  problem, 8th October :- [8267834](https://www.fixmystreet.com/report/8267834)
 - A tent strewn up in trees the woods, 8th October :- [8267668](https://www.fixmystreet.com/report/8267668)
 - Abandoned caravan in layby, 8th October :- [8266843](https://www.fixmystreet.com/report/8266843)
 - Outside 6, 8th October :- [8266814](https://www.fixmystreet.com/report/8266814)
@@ -20,14 +29,5 @@ permalink: /fix-my-street
 - Tarmac breaking up and loose about 2ft square, 7th October :- [8265962](https://www.fixmystreet.com/report/8265962)
 - Raised inspiration cover and tarmac degraded, 7th October :- [8265812](https://www.fixmystreet.com/report/8265812)
 - Numerous pot holes in road., 7th October :- [8265705](https://www.fixmystreet.com/report/8265705)
-- Metal drain/outflow damaged, danger to car tyres being ripped., 7th October :- [8265437](https://www.fixmystreet.com/report/8265437)
-- Missing bollards, 7th October :- [8265325](https://www.fixmystreet.com/report/8265325)
-- Trees that are overgrown and neglected, 7th October :- [8265273](https://www.fixmystreet.com/report/8265273)
-- Cycle path very rutted and bumpy, 7th October :- [8265260](https://www.fixmystreet.com/report/8265260)
-- Flytipping, 7th October :- [8265233](https://www.fixmystreet.com/report/8265233)
-- Just opened up and caused damage to car, 7th October :- [8265219](https://www.fixmystreet.com/report/8265219)
-- The whole road has holes, 7th October :- [8264980](https://www.fixmystreet.com/report/8264980)
-- Previous road repair failing, 7th October :- [8264917](https://www.fixmystreet.com/report/8264917)
-- Huge crack in tree, 7th October :- [8264499](https://www.fixmystreet.com/report/8264499)
 
 <!-- fix_marker ends -->
