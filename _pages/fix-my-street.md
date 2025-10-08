@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- A tent strewn up in trees the woods, 8th October :- [8267668](https://www.fixmystreet.com/report/8267668)
 - Abandoned caravan in layby, 8th October :- [8266843](https://www.fixmystreet.com/report/8266843)
 - Outside 6, 8th October :- [8266814](https://www.fixmystreet.com/report/8266814)
 - Near junction, 8th October :- [8266802](https://www.fixmystreet.com/report/8266802)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - The whole road has holes, 7th October :- [8264980](https://www.fixmystreet.com/report/8264980)
 - Previous road repair failing, 7th October :- [8264917](https://www.fixmystreet.com/report/8264917)
 - Huge crack in tree, 7th October :- [8264499](https://www.fixmystreet.com/report/8264499)
-- TMC - Defects -CW6 Potholes  problem, 7th October :- [8264517](https://www.fixmystreet.com/report/8264517)
 
 <!-- fix_marker ends -->
