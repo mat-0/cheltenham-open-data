@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Abandoned caravan in layby, 8th October :- [8266843](https://www.fixmystreet.com/report/8266843)
+- Outside 6, 8th October :- [8266814](https://www.fixmystreet.com/report/8266814)
+- Near junction, 8th October :- [8266802](https://www.fixmystreet.com/report/8266802)
 - Missing Bollards, 8th October :- [8266709](https://www.fixmystreet.com/report/8266709)
 - Subsidence of road., 8th October :- [8266687](https://www.fixmystreet.com/report/8266687)
 - GCH had a trench dug and a pipe laid across Innsworth Lane from Rookery Road and the entire width of the repair across the road is now a pothole. This was a vert poor reinstatement job performed by whoever GCH had do the work., 8th October :- [8266626](https://www.fixmystreet.com/report/8266626)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Previous road repair failing, 7th October :- [8264917](https://www.fixmystreet.com/report/8264917)
 - Huge crack in tree, 7th October :- [8264499](https://www.fixmystreet.com/report/8264499)
 - TMC - Defects -CW6 Potholes  problem, 7th October :- [8264517](https://www.fixmystreet.com/report/8264517)
-- TMC - Defects -CW6 Potholes  problem, 7th October :- [8264516](https://www.fixmystreet.com/report/8264516)
-- Advertising opposite Edgegrove, Southam Lane, Doutham, 7th October :- [8264409](https://www.fixmystreet.com/report/8264409)
-- Advertising cut flowers opposite Lark Rise, Southam Lane, 7th October :- [8264391](https://www.fixmystreet.com/report/8264391)
 
 <!-- fix_marker ends -->
