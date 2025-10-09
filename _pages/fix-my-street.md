@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Traffic lights on Westfield Rd, 9th October :- [8275807](https://www.fixmystreet.com/report/8275807)
+- Damaged footpath, 9th October :- [8275697](https://www.fixmystreet.com/report/8275697)
 - Green light not working on the traffic signals, 9th October :- [8275651](https://www.fixmystreet.com/report/8275651)
 - The right hand filter light doesn’t come on, 9th October :- [8275556](https://www.fixmystreet.com/report/8275556)
 - Poor road finish which will breakdown and cause issues., 9th October :- [8275076](https://www.fixmystreet.com/report/8275076)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 9th October :- [8274622](https://www.fixmystreet.com/report/8274622)
 - TMC - Defects - Other problem, 9th October :- [8274457](https://www.fixmystreet.com/report/8274457)
 - TMC - Defects - Vegetation problem, 9th October :- [8274456](https://www.fixmystreet.com/report/8274456)
-- Pothole, 9th October :- [8274341](https://www.fixmystreet.com/report/8274341)
-- TMC - Defects - Other FW6  Surface problem, 9th October :- [8274316](https://www.fixmystreet.com/report/8274316)
 
 <!-- fix_marker ends -->
