@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TARMAC Replaces Slab, 9th October :- [8271893](https://www.fixmystreet.com/report/8271893)
 - This should be replaced like for like - it was a paving slab NOT Tarmac - this is a conservation area, 8th October :- [8271391](https://www.fixmystreet.com/report/8271391)
 - There are now 5 streetlights out, 8th October :- [8271326](https://www.fixmystreet.com/report/8271326)
 - Van there last two days in a passing place, 8th October :- [8271143](https://www.fixmystreet.com/report/8271143)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 8th October :- [8269323](https://www.fixmystreet.com/report/8269323)
 - The drain is blocked problem, 8th October :- [8269310](https://www.fixmystreet.com/report/8269310)
 - TMC - Defects - Other FW6  Surface problem, 8th October :- [8269315](https://www.fixmystreet.com/report/8269315)
-- TMC - Defects -FW6 Potholes problem, 8th October :- [8269314](https://www.fixmystreet.com/report/8269314)
 
 <!-- fix_marker ends -->
