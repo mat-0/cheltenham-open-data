@@ -9,7 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects -CW6 Potholes  problem, 9th October :- [8273154](https://www.fixmystreet.com/report/8273154)
+- TMC - Defects - Vegetation problem, 9th October :- [8273153](https://www.fixmystreet.com/report/8273153)
 - Pedestrian crossing between Sandford Parks takes very long to change, 9th October :- [8272849](https://www.fixmystreet.com/report/8272849)
+- TMC - Defects - Vegetation problem, 9th October :- [8272918](https://www.fixmystreet.com/report/8272918)
+- TMC - Defects - Vegetation problem, 9th October :- [8272916](https://www.fixmystreet.com/report/8272916)
+- TMC - Defects - Vegetation problem, 9th October :- [8272917](https://www.fixmystreet.com/report/8272917)
 - TMC - Defects - Kerbs and Channels problem, 9th October :- [8272713](https://www.fixmystreet.com/report/8272713)
 - TMC - Defects -CW6 Potholes  problem, 9th October :- [8272706](https://www.fixmystreet.com/report/8272706)
 - TMC - Defects -CW6 Potholes  problem, 9th October :- [8272500](https://www.fixmystreet.com/report/8272500)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Tree is damaged problem, 8th October :- [8270055](https://www.fixmystreet.com/report/8270055)
 - TMC - Defects -CW6 Potholes  problem, 8th October :- [8269902](https://www.fixmystreet.com/report/8269902)
 - Large branch fallen over fence into ditch, 8th October :- [8269866](https://www.fixmystreet.com/report/8269866)
-- Looks to be several inches deep about 12 inches by 9 inches oval pothole, 8th October :- [8269793](https://www.fixmystreet.com/report/8269793)
-- TMC - Defects - Kerbs and Channels problem, 8th October :- [8269896](https://www.fixmystreet.com/report/8269896)
-- TMC - Defects - Other FW6  Surface problem, 8th October :- [8269714](https://www.fixmystreet.com/report/8269714)
-- TMC - Defects - Footways Slabs problem, 8th October :- [8269704](https://www.fixmystreet.com/report/8269704)
-- TMC - Defects - Vegetation problem, 8th October :- [8269713](https://www.fixmystreet.com/report/8269713)
 
 <!-- fix_marker ends -->
