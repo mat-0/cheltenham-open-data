@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Green light not working on the traffic signals, 9th October :- [8275651](https://www.fixmystreet.com/report/8275651)
+- The right hand filter light doesn’t come on, 9th October :- [8275556](https://www.fixmystreet.com/report/8275556)
 - Poor road finish which will breakdown and cause issues., 9th October :- [8275076](https://www.fixmystreet.com/report/8275076)
 - Verge of Churchtown Road from A417 Overbridge to hucclecote footpath 5 is obstructed by vegetation, 9th October :- [8275026](https://www.fixmystreet.com/report/8275026)
 - Verge of Churchdown Road from Perrybrook Road to A417 over bridge is overgrown, 9th October :- [8275011](https://www.fixmystreet.com/report/8275011)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 9th October :- [8274456](https://www.fixmystreet.com/report/8274456)
 - Pothole, 9th October :- [8274341](https://www.fixmystreet.com/report/8274341)
 - TMC - Defects - Other FW6  Surface problem, 9th October :- [8274316](https://www.fixmystreet.com/report/8274316)
-- TMC - Defects - Other FW6  Surface problem, 9th October :- [8274318](https://www.fixmystreet.com/report/8274318)
-- Missing sign (Parking) problem, 9th October :- [8274309](https://www.fixmystreet.com/report/8274309)
 
 <!-- fix_marker ends -->
