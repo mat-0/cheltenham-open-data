@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fridge dumped, 9th October :- [8276136](https://www.fixmystreet.com/report/8276136)
+- 2 x Potholes, 9th October :- [8276134](https://www.fixmystreet.com/report/8276134)
 - Traffic lights on Westfield Rd, 9th October :- [8275807](https://www.fixmystreet.com/report/8275807)
 - Damaged footpath, 9th October :- [8275697](https://www.fixmystreet.com/report/8275697)
 - Green light not working on the traffic signals, 9th October :- [8275651](https://www.fixmystreet.com/report/8275651)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Post or sign leaning slightly (less than 20 degrees) problem, 9th October :- [8274618](https://www.fixmystreet.com/report/8274618)
 - Obstruction to PROM, a barrier, rope and electric fence, 9th October :- [8274541](https://www.fixmystreet.com/report/8274541)
 - TMC - Defects - Vegetation problem, 9th October :- [8274622](https://www.fixmystreet.com/report/8274622)
-- TMC - Defects - Other problem, 9th October :- [8274457](https://www.fixmystreet.com/report/8274457)
-- TMC - Defects - Vegetation problem, 9th October :- [8274456](https://www.fixmystreet.com/report/8274456)
 
 <!-- fix_marker ends -->
