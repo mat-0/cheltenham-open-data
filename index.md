@@ -10,12 +10,12 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Thursday, 09 October 2025
 
-- The average temperature today is 13.3˚C,
-- With highs of 13.31˚C and lows of 13.15˚C,
-- It may feel like 12.77˚C with scattered clouds
-- The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 1031hPa and humidity is 80%
-- The sun will rise at 06:22 and set at 17:28
+- The average temperature today is 12.02˚C,
+- With highs of 12.02˚C and lows of 12.02˚C,
+- It may feel like 11.55˚C with scattered clouds
+- The wind speed is 0.62m/s and visibility is 10000m
+- The pressure is 1032hPa and humidity is 87%
+- The sun will rise at 06:24 and set at 17:26
 
 <!-- weather_marker ends -->
 
