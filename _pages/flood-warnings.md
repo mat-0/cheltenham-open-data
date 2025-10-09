@@ -28,6 +28,11 @@ Please be careful along low-lying land near watercourses where conditions may be
 This message will be updated by 2:00 PM on 09/10/2025, or as the situation changes.
 
 - Flood alert: Wye Estuary in Gloucestershire
--  A flood alert has been issued due to a period of high tides. Tides will be at their highest around 20:15 this evening 07/10/25 and between 08:30 and 08:45 on Wednesday 08/10/25. Flooding to roads and low-lying land adjacent the Wye Estuary from Redbrook to Chepstow is expected at the time of high tides, however conditions may apply a few hours either side of the high tides. Predicted peaks at Newport 7.1m to 7.3m and Avonmouth 7.5m to 7.7m around 20:15 this evening Tuesday 07/10/25. Wednesday morning tide peaks Newport 6.9m to 7.2m and Avonmouth 7.4m to 7.6m. We are closely monitoring the situation. Please avoid using low lying footpaths near local watercourses. This message will be updated by 11:00 on 08/10/25, or as the situation changes.
+- A flood alert has been issued due to a period of high tides. 
+Tides will be at their highest around 21:30 this evening 09/10/25 and at 09:45 on Friday morning 10/10/25. Flooding of roads and low-lying land adjacent to the Wye Estuary from Redbrook to Chepstow is expected at the time of high tides, however conditions may apply a few hours either side of the high tides. 
+Predicted peaks this evening Thursday 09/10/25: Newport 6.9m to 7.3m around 21:30 and Avonmouth 7.3m to 7.6m around 21:45. 
+Predicted peaks tomorrow morning Friday 09/10/25: Newport 6.6m to 6.9m around 09:45 and Avonmouth 7.0m to 7.2m around 10:00. 
+We are closely monitoring the situation. Please avoid using low lying footpaths near local watercourses. This message will be updated by 11:00 on 10/10/25, or as the situation changes.
+
 
 <!-- flood_marker ends -->

@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pedestrian crossing between Sandford Parks takes very long to change, 9th October :- [8272849](https://www.fixmystreet.com/report/8272849)
+- TMC - Defects - Kerbs and Channels problem, 9th October :- [8272713](https://www.fixmystreet.com/report/8272713)
+- TMC - Defects -CW6 Potholes  problem, 9th October :- [8272706](https://www.fixmystreet.com/report/8272706)
+- TMC - Defects -CW6 Potholes  problem, 9th October :- [8272500](https://www.fixmystreet.com/report/8272500)
 - TMC - Defects -CW6 Potholes  problem, 9th October :- [8272341](https://www.fixmystreet.com/report/8272341)
 - TARMAC Replaces Slab, 9th October :- [8271893](https://www.fixmystreet.com/report/8271893)
 - This should be replaced like for like - it was a paving slab NOT Tarmac - this is a conservation area, 8th October :- [8271391](https://www.fixmystreet.com/report/8271391)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 8th October :- [8269714](https://www.fixmystreet.com/report/8269714)
 - TMC - Defects - Footways Slabs problem, 8th October :- [8269704](https://www.fixmystreet.com/report/8269704)
 - TMC - Defects - Vegetation problem, 8th October :- [8269713](https://www.fixmystreet.com/report/8269713)
-- Parking bay causes congestion, 8th October :- [8269271](https://www.fixmystreet.com/report/8269271)
-- TMC - Defects -CW6 Potholes  problem, 8th October :- [8269324](https://www.fixmystreet.com/report/8269324)
-- TMC - Defects -CW6 Potholes  problem, 8th October :- [8269323](https://www.fixmystreet.com/report/8269323)
-- The drain is blocked problem, 8th October :- [8269310](https://www.fixmystreet.com/report/8269310)
 
 <!-- fix_marker ends -->
