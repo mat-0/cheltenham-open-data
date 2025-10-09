@@ -9,9 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Vegetation problem, 9th October :- [8273971](https://www.fixmystreet.com/report/8273971)
 - Paint on Pavement from resurfacing, 9th October :- [8273703](https://www.fixmystreet.com/report/8273703)
-- TMC - Defects - Footways Slabs problem, 9th October :- [8273550](https://www.fixmystreet.com/report/8273550)
+- TMC - Defects -CW6 Potholes  problem, 9th October :- [8273766](https://www.fixmystreet.com/report/8273766)
 - TMC - Defects - Footways Slabs problem, 9th October :- [8273552](https://www.fixmystreet.com/report/8273552)
+- TMC - Defects - Footways Slabs problem, 9th October :- [8273550](https://www.fixmystreet.com/report/8273550)
 - TMC - Defects -other CW6 problem, 9th October :- [8273551](https://www.fixmystreet.com/report/8273551)
 - TMC - Defects - Road Markings problem, 9th October :- [8273547](https://www.fixmystreet.com/report/8273547)
 - TMC - Defects - Other FW6  Surface problem, 9th October :- [8273549](https://www.fixmystreet.com/report/8273549)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 9th October :- [8272500](https://www.fixmystreet.com/report/8272500)
 - TMC - Defects -CW6 Potholes  problem, 9th October :- [8272341](https://www.fixmystreet.com/report/8272341)
 - TARMAC Replaces Slab, 9th October :- [8271893](https://www.fixmystreet.com/report/8271893)
-- This should be replaced like for like - it was a paving slab NOT Tarmac - this is a conservation area, 8th October :- [8271391](https://www.fixmystreet.com/report/8271391)
-- There are now 5 streetlights out, 8th October :- [8271326](https://www.fixmystreet.com/report/8271326)
 
 <!-- fix_marker ends -->
