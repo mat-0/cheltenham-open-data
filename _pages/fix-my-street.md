@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Swallow crescent name sign is broke, 10th October :- [8280655](https://www.fixmystreet.com/report/8280655)
+- An area just of the roundabout going onto the a40 towards longford, 10th October :- [8280648](https://www.fixmystreet.com/report/8280648)
+- Large wide pothole, 10th October :- [8280634](https://www.fixmystreet.com/report/8280634)
+- Around 3 potholes on ward avenue innsworth all potholes that was repaired not to long ago on the left as your heading to mottershead drive, 10th October :- [8280623](https://www.fixmystreet.com/report/8280623)
 - Flytipping, 10th October :- [8280591](https://www.fixmystreet.com/report/8280591)
 - Just below bridle path, 10th October :- [8280381](https://www.fixmystreet.com/report/8280381)
 - Pothole causes traffic to avoid it and kerb has therefore been tilted., 10th October :- [8280341](https://www.fixmystreet.com/report/8280341)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 10th October :- [8278955](https://www.fixmystreet.com/report/8278955)
 - Manhole cover sinking, 10th October :- [8278693](https://www.fixmystreet.com/report/8278693)
 - No timetables on new Bus Stops., 10th October :- [8278641](https://www.fixmystreet.com/report/8278641)
-- Potholes and degradation of road surface along entirety of Park Lane. Shoddy patching work earlier this year a compete waste of taxpayer money! Repairs urgently needed, 10th October :- [8278529](https://www.fixmystreet.com/report/8278529)
-- Abandoned traffic lights and signs., 10th October :- [8278366](https://www.fixmystreet.com/report/8278366)
-- Lights in the Garden do not work, 10th October :- [8278282](https://www.fixmystreet.com/report/8278282)
-- Pile of rubbish, 10th October :- [8278228](https://www.fixmystreet.com/report/8278228)
 
 <!-- fix_marker ends -->
