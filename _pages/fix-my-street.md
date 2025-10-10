@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Ringway barriers on the pavement, 10th October :- [8277613](https://www.fixmystreet.com/report/8277613)
+- The signpost is loose in the pavement & leaning. It could fall on a passing pedestrian., 10th October :- [8277351](https://www.fixmystreet.com/report/8277351)
+- Subsidence affecting road and pavement, 10th October :- [8277197](https://www.fixmystreet.com/report/8277197)
 - Walk way an lake, 10th October :- [8276797](https://www.fixmystreet.com/report/8276797)
 - Flytipping on pavement - blocking access to pavement, 10th October :- [8276760](https://www.fixmystreet.com/report/8276760)
 - Fridge dumped, 9th October :- [8276136](https://www.fixmystreet.com/report/8276136)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Traffic light head been moved, 9th October :- [8274707](https://www.fixmystreet.com/report/8274707)
 - TMC - Defects -CW6 Potholes  problem, 9th October :- [8274769](https://www.fixmystreet.com/report/8274769)
 - Broken cycle sign., 9th October :- [8274659](https://www.fixmystreet.com/report/8274659)
-- TMC - Defects -CW6 Potholes  problem, 9th October :- [8274771](https://www.fixmystreet.com/report/8274771)
-- Cross on small white roundabout ,, 9th October :- [8274602](https://www.fixmystreet.com/report/8274602)
-- Post or sign leaning slightly (less than 20 degrees) problem, 9th October :- [8274618](https://www.fixmystreet.com/report/8274618)
 
 <!-- fix_marker ends -->
