@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Blocking crossings, 10th October :- [8279103](https://www.fixmystreet.com/report/8279103)
+- Abandoned barriers, 10th October :- [8278977](https://www.fixmystreet.com/report/8278977)
+- TMC - Defects -CW6 Potholes  problem, 10th October :- [8278955](https://www.fixmystreet.com/report/8278955)
 - Manhole cover sinking, 10th October :- [8278693](https://www.fixmystreet.com/report/8278693)
 - No timetables on new Bus Stops., 10th October :- [8278641](https://www.fixmystreet.com/report/8278641)
 - Potholes and degradation of road surface along entirety of Park Lane. Shoddy patching work earlier this year a compete waste of taxpayer money! Repairs urgently needed, 10th October :- [8278529](https://www.fixmystreet.com/report/8278529)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Traffic lights on Westfield Rd, 9th October :- [8275807](https://www.fixmystreet.com/report/8275807)
 - Damaged footpath, 9th October :- [8275697](https://www.fixmystreet.com/report/8275697)
 - Green light not working on the traffic signals, 9th October :- [8275651](https://www.fixmystreet.com/report/8275651)
-- The right hand filter light doesn’t come on, 9th October :- [8275556](https://www.fixmystreet.com/report/8275556)
-- Poor road finish which will breakdown and cause issues., 9th October :- [8275076](https://www.fixmystreet.com/report/8275076)
-- Verge of Churchtown Road from A417 Overbridge to hucclecote footpath 5 is obstructed by vegetation, 9th October :- [8275026](https://www.fixmystreet.com/report/8275026)
 
 <!-- fix_marker ends -->
