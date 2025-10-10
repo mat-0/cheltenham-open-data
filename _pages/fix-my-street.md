@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Manhole cover sinking, 10th October :- [8278693](https://www.fixmystreet.com/report/8278693)
+- No timetables on new Bus Stops., 10th October :- [8278641](https://www.fixmystreet.com/report/8278641)
+- Potholes and degradation of road surface along entirety of Park Lane. Shoddy patching work earlier this year a compete waste of taxpayer money! Repairs urgently needed, 10th October :- [8278529](https://www.fixmystreet.com/report/8278529)
 - Abandoned traffic lights and signs., 10th October :- [8278366](https://www.fixmystreet.com/report/8278366)
 - Lights in the Garden do not work, 10th October :- [8278282](https://www.fixmystreet.com/report/8278282)
 - Pile of rubbish, 10th October :- [8278228](https://www.fixmystreet.com/report/8278228)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - The right hand filter light doesn’t come on, 9th October :- [8275556](https://www.fixmystreet.com/report/8275556)
 - Poor road finish which will breakdown and cause issues., 9th October :- [8275076](https://www.fixmystreet.com/report/8275076)
 - Verge of Churchtown Road from A417 Overbridge to hucclecote footpath 5 is obstructed by vegetation, 9th October :- [8275026](https://www.fixmystreet.com/report/8275026)
-- Verge of Churchdown Road from Perrybrook Road to A417 over bridge is overgrown, 9th October :- [8275011](https://www.fixmystreet.com/report/8275011)
-- Flytipping, 9th October :- [8274902](https://www.fixmystreet.com/report/8274902)
-- Flytipping, 9th October :- [8274885](https://www.fixmystreet.com/report/8274885)
 
 <!-- fix_marker ends -->
