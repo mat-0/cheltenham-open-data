@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipping, 10th October :- [8280591](https://www.fixmystreet.com/report/8280591)
+- Just below bridle path, 10th October :- [8280381](https://www.fixmystreet.com/report/8280381)
+- Pothole causes traffic to avoid it and kerb has therefore been tilted., 10th October :- [8280341](https://www.fixmystreet.com/report/8280341)
 - Sunken paving slab, 10th October :- [8279999](https://www.fixmystreet.com/report/8279999)
 - 2 pot holes approx one car width wide., 10th October :- [8279776](https://www.fixmystreet.com/report/8279776)
 - This appears to be a "rat hole". Very deep and growing slightly in diameter over the past few days., 10th October :- [8279614](https://www.fixmystreet.com/report/8279614)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Abandoned traffic lights and signs., 10th October :- [8278366](https://www.fixmystreet.com/report/8278366)
 - Lights in the Garden do not work, 10th October :- [8278282](https://www.fixmystreet.com/report/8278282)
 - Pile of rubbish, 10th October :- [8278228](https://www.fixmystreet.com/report/8278228)
-- Street light is permanently out problem, 10th October :- [8277838](https://www.fixmystreet.com/report/8277838)
-- Ringway barriers on the pavement, 10th October :- [8277613](https://www.fixmystreet.com/report/8277613)
-- The signpost is loose in the pavement & leaning. It could fall on a passing pedestrian., 10th October :- [8277351](https://www.fixmystreet.com/report/8277351)
 
 <!-- fix_marker ends -->
