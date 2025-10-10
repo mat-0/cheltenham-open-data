@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Man jailed for three years for assaulting man in unprovoked attack ([8 hours ago](https://gloucesternewscentre.co.uk/man-jailed-for-three-years-for-assaulting-man-in-unprovoked-attack/))
-- Rugby players to be scanned pitchside for injuries ([10 hours ago](https://www.bbc.com/news/articles/c0m4d0y3lm9o?at_medium=RSS&at_campaign=rss))
-- Beauty spot villages face the brunt of housing plan ([14 hours ago](https://www.bbc.com/news/articles/cvg9d7560v7o?at_medium=RSS&at_campaign=rss))
-- Work to fix drains after homes flooded delayed ([15 hours ago](https://www.bbc.com/news/articles/c5y8n2kl17go?at_medium=RSS&at_campaign=rss))
-- 'Adventurous cat' and 'Wallace and Gromit lanterns' ([16 hours ago](https://www.bbc.com/news/articles/c1jz3j838ego?at_medium=RSS&at_campaign=rss))
+- Man jailed for three years for assaulting man in unprovoked attack ([9 hours ago](https://gloucesternewscentre.co.uk/man-jailed-for-three-years-for-assaulting-man-in-unprovoked-attack/))
+- Rugby players to be scanned pitchside for injuries ([11 hours ago](https://www.bbc.com/news/articles/c0m4d0y3lm9o?at_medium=RSS&at_campaign=rss))
+- Beauty spot villages face the brunt of housing plan ([15 hours ago](https://www.bbc.com/news/articles/cvg9d7560v7o?at_medium=RSS&at_campaign=rss))
+- Work to fix drains after homes flooded delayed ([16 hours ago](https://www.bbc.com/news/articles/c5y8n2kl17go?at_medium=RSS&at_campaign=rss))
+- 'Adventurous cat' and 'Wallace and Gromit lanterns' ([17 hours ago](https://www.bbc.com/news/articles/c1jz3j838ego?at_medium=RSS&at_campaign=rss))
 - Plans submitted for new university dental surgery ([21 hours ago](https://www.bbc.com/news/articles/cnvrp44dp3yo?at_medium=RSS&at_campaign=rss))
 - Council changes to 'break cycle' of homelessness ([21 hours ago](https://www.bbc.com/news/articles/c9312pg4xz4o?at_medium=RSS&at_campaign=rss))
 - Defence firm fenced off during 200-person protest ([1 days ago](https://www.bbc.com/news/articles/c3drjnv3xp0o?at_medium=RSS&at_campaign=rss))
