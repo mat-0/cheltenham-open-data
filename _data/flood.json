@@ -1,312 +1,60 @@
 {
-  "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
-  "meta": {
-    "publisher": "Environment Agency",
-    "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-    "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
-    "version": "0.9",
-    "comment": "Status: Beta service",
-    "hasFormat": [
-      "http://environment.data.gov.uk/flood-monitoring/id/floods.csv",
-      "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf",
-      "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl",
-      "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
+    "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
+    "meta": {
+        "publisher": "Environment Agency",
+        "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
+        "version": "0.9",
+        "comment": "Status: Beta service",
+        "hasFormat": [
+            "http://environment.data.gov.uk/flood-monitoring/id/floods.csv?county=Gloucestershire",
+            "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf?county=Gloucestershire",
+            "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl?county=Gloucestershire",
+            "http://environment.data.gov.uk/flood-monitoring/id/floods.html?county=Gloucestershire"
+        ]
+    },
+    "items": [
+        {
+            "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATAVN1",
+            "description": "Tidal River Avon at Bristol, Pill and Shirehampton",
+            "eaAreaName": "Wessex",
+            "eaRegionName": "No longer used",
+            "floodArea": {
+                "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATAVN1",
+                "county": "City of Bristol, North Somerset, South Gloucestershire",
+                "notation": "112WATAVN1",
+                "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATAVN1/polygon",
+                "riverOrSea": "River Avon"
+            },
+            "floodAreaID": "112WATAVN1",
+            "isTidal": true,
+            "message": "This flood alert is no longer in force as tides are now falling and no longer pose a risk of flooding.\n",
+            "severity": "Warning no longer in force",
+            "severityLevel": 4,
+            "timeMessageChanged": "2025-10-10T09:20:00",
+            "timeRaised": "2025-10-10T09:20:53",
+            "timeSeverityChanged": "2025-10-10T09:20:00"
+        },
+        {
+            "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAT122",
+            "description": "Wye Estuary in Gloucestershire",
+            "eaAreaName": "West Midlands",
+            "eaRegionName": "No longer used",
+            "floodArea": {
+                "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAT122",
+                "county": "Gloucestershire",
+                "notation": "031WAT122",
+                "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAT122/polygon",
+                "riverOrSea": "Wye Estuary"
+            },
+            "floodAreaID": "031WAT122",
+            "isTidal": true,
+            "message": " This Flood Alert has been removed.  Tidal forecasts are now below the flooding threshold.\n      \nWe continue to monitor the situation.  ",
+            "severity": "Warning no longer in force",
+            "severityLevel": 4,
+            "timeMessageChanged": "2025-10-10T10:24:00",
+            "timeRaised": "2025-10-10T10:24:43",
+            "timeSeverityChanged": "2025-10-10T10:24:00"
+        }
     ]
-  },
-  "items": [
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT1",
-      "description": "The tidal Rivers Bure, Ant and Thurne",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1",
-        "county": "Norfolk",
-        "notation": "054WATBT1",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1/polygon",
-        "riverOrSea": "Bure, Ant, Thurne"
-      },
-      "floodAreaID": "054WATBT1",
-      "isTidal": true,
-      "message": "This message has been issued because some minor flooding to riverside roads and footpaths is likely between approximately 12:30 and 2pm this afternoon, Friday 10th October.  This is due to tidal water moving up the rivers from Great Yarmouth and creating a natural tide locking effect. This will restrict the normal drainage of the Broads river system out to sea at low tide. We expect to see high water levels around Potter Heigham, Wroxham boat yards and Ferry Road in Horning.   We are not currently expecting the situation to escalate, or to issue any further warning messages at this time. Take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting the situation to escalate.  We will update this message by 5pm today, Friday 10th October.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-10-10T08:46:00",
-      "timeRaised": "2025-10-10T08:46:29",
-      "timeSeverityChanged": "2025-10-10T08:46:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV4A",
-      "description": "The tidal Deben estuary",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV4A",
-        "county": "Suffolk",
-        "notation": "054WACDV4A",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV4A/polygon",
-        "riverOrSea": "River Deben, North Sea"
-      },
-      "floodAreaID": "054WACDV4A",
-      "isTidal": true,
-      "message": "Levels are now well below the flood risk thresholds.  There may still be some areas where flood water is present until it can naturally drain away. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-10-09T16:04:00",
-      "timeRaised": "2025-10-09T16:04:48",
-      "timeSeverityChanged": "2025-10-09T16:04:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV4B",
-      "description": "The Suffolk and Essex coast from Felixstowe to Clacton including Orwell and Stour estuaries",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV4B",
-        "county": "Essex, Suffolk",
-        "notation": "054WACDV4B",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV4B/polygon",
-        "riverOrSea": "North Sea, River Orwell, River Deben"
-      },
-      "floodAreaID": "054WACDV4B",
-      "isTidal": true,
-      "message": "Levels are now well below the flood risk thresholds.  There may still be some areas where flood water is present until it can naturally drain away. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-10-09T16:04:00",
-      "timeRaised": "2025-10-09T16:04:44",
-      "timeSeverityChanged": "2025-10-09T16:04:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
-      "description": "Tidal Thames riverside from Putney Bridge to Teddington Weir",
-      "eaAreaName": "Kent, South London and East Sussex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West",
-        "county": "Greater London, Hammersmith and Fulham, Hounslow, Richmond upon Thames, Wandsworth",
-        "notation": "063WAT23West",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West/polygon",
-        "riverOrSea": "River Thames"
-      },
-      "floodAreaID": "063WAT23West",
-      "isTidal": true,
-      "message": "River levels are expected to be high as a result of spring tides.\n\nThe forecast high tide at Richmond is 4.60mAOD at 17:30 on 10/10/2025.\n\nFlooding of low-lying roads and footpaths is expected, which may exist for one to two hours either side of high tide. Flooding of properties is not expected.\n\nWe believe there is a possibility of flooding for Putney Embankment (SW15), Chiswick Mall and Strand on the Green (W4), Thames Bank at Mortlake (SW14), Ranelagh Drive (TW1), Friars Lane and Water Lane (TW9), Riverside and The Embankment at Twickenham, and the Towpath below Teddington Lock. \n\nAstronomical tide levels are falling. The river flow at Teddington Weir is low for this time of year at 17 cubic metres per second and is steady. We anticipate the flows to remain low for the next five days.\n\nWe are closely monitoring the situation.\n\nThis message will be updated by 19:00 on 10/10/2025, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-10-10T08:00:00",
-      "timeRaised": "2025-10-10T08:01:01",
-      "timeSeverityChanged": "2025-10-04T19:02:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATAVN1",
-      "description": "Tidal River Avon at Bristol, Pill and Shirehampton",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATAVN1",
-        "county": "City of Bristol, North Somerset, South Gloucestershire",
-        "notation": "112WATAVN1",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATAVN1/polygon",
-        "riverOrSea": "River Avon"
-      },
-      "floodAreaID": "112WATAVN1",
-      "isTidal": true,
-      "message": "This flood alert is no longer in force as tides are now falling and no longer pose a risk of flooding.\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-10-10T09:20:00",
-      "timeRaised": "2025-10-10T09:20:53",
-      "timeSeverityChanged": "2025-10-10T09:20:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WATMEW",
-      "description": "Mersey Estuary at Warrington",
-      "eaAreaName": "Greater Manchester, Merseyside and Cheshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WATMEW",
-        "county": "Halton, Warrington",
-        "notation": "013WATMEW",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WATMEW/polygon",
-        "riverOrSea": "Mersey Estuary"
-      },
-      "floodAreaID": "013WATMEW",
-      "isTidal": true,
-      "message": "Levels are now below the flood risk thresholds. There may still be some areas where flood water is present until it can naturally drain away. Continue to take care on waterside roads and footpaths. We will continue to monitor levels closely.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-10-10T08:53:00",
-      "timeRaised": "2025-10-10T08:53:50",
-      "timeSeverityChanged": "2025-10-10T08:53:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WACN6",
-      "description": "Coast at North Morecambe Bay",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WACN6",
-        "county": "Lancashire, Westmorland and Furness",
-        "notation": "011WACN6",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WACN6/polygon",
-        "riverOrSea": "Irish Sea"
-      },
-      "floodAreaID": "011WACN6",
-      "isTidal": true,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-10-10T09:03:00",
-      "timeRaised": "2025-10-10T09:03:10",
-      "timeSeverityChanged": "2025-10-10T09:03:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WATWE",
-      "description": "Wyre estuary from Fleetwood and Knott End to Little Eccleston",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATWE",
-        "county": "Lancashire",
-        "notation": "012WATWE",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATWE/polygon",
-        "riverOrSea": "Wyre Estuary"
-      },
-      "floodAreaID": "012WATWE",
-      "isTidal": true,
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain.\nThe previous tide of concern overnight has now passed, the weather is more settled and no flooding is expected.\nWe do not expect to see similar impacts from the high tide this afternoon.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-10-10T08:25:00",
-      "timeRaised": "2025-10-10T08:25:23",
-      "timeSeverityChanged": "2025-10-10T08:25:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAT913",
-      "description": "Tyne estuary",
-      "eaAreaName": "North East",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAT913",
-        "county": "Gateshead, Newcastle upon Tyne, North Tyneside, South Tyneside",
-        "notation": "121WAT913",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAT913/polygon",
-        "riverOrSea": "River Tyne"
-      },
-      "floodAreaID": "121WAT913",
-      "isTidal": true,
-      "message": "From this point (08:50 on 10/10/2025) forwards high tides not forecast to pose a risk of flooding and therefore the flood alert has been removed.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-10-10T08:52:00",
-      "timeRaised": "2025-10-10T08:52:22",
-      "timeSeverityChanged": "2025-10-10T08:52:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051WACDV4C",
-      "description": "The Essex coast from Clacton to and including, St Peters Flat and the Colne and Blackwater estuaries",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WACDV4C",
-        "county": "Essex",
-        "notation": "051WACDV4C",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WACDV4C/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "051WACDV4C",
-      "isTidal": true,
-      "message": "Levels are now well below the flood risk thresholds.  There may still be some areas where flood water is present until it can naturally drain away. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-10-09T16:10:00",
-      "timeRaised": "2025-10-09T16:10:34",
-      "timeSeverityChanged": "2025-10-09T16:10:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAT122",
-      "description": "Wye Estuary in Gloucestershire",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAT122",
-        "county": "Gloucestershire",
-        "notation": "031WAT122",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAT122/polygon",
-        "riverOrSea": "Wye Estuary"
-      },
-      "floodAreaID": "031WAT122",
-      "isTidal": true,
-      "message": " This Flood Alert has been removed.  Tidal forecasts are now below the flooding threshold.\n      \nWe continue to monitor the situation.  ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-10-10T10:24:00",
-      "timeRaised": "2025-10-10T10:24:43",
-      "timeSeverityChanged": "2025-10-10T10:24:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051WACDV5B3a",
-      "description": "The Essex coast at Coalhouse Fort",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WACDV5B3a",
-        "county": "Thurrock",
-        "notation": "051WACDV5B3a",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WACDV5B3a/polygon",
-        "riverOrSea": "Thames Estuary"
-      },
-      "floodAreaID": "051WACDV5B3a",
-      "isTidal": true,
-      "message": "Levels are now well below the flood risk thresholds.  There may still be some areas where flood water is present until it can naturally drain away. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-10-09T16:32:00",
-      "timeRaised": "2025-10-09T16:33:05",
-      "timeSeverityChanged": "2025-10-09T16:32:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051WACDV4D",
-      "description": "The Essex coast from St Peters Flat to and including Shoeburyness and the Crouch and Roach estuaries",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WACDV4D",
-        "county": "Essex, Southend-on-Sea",
-        "notation": "051WACDV4D",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WACDV4D/polygon",
-        "riverOrSea": "River Crouch, River Roach, North Sea"
-      },
-      "floodAreaID": "051WACDV4D",
-      "isTidal": true,
-      "message": "Levels are now well below the flood risk thresholds. There may still be some areas where flood water is present until it can naturally drain away. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-10-09T16:10:00",
-      "timeRaised": "2025-10-09T16:10:22",
-      "timeSeverityChanged": "2025-10-09T16:10:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM1",
-      "description": "Somerset coast at Porlock Weir",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1",
-        "county": "Somerset",
-        "notation": "112WATSOM1",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1/polygon",
-        "riverOrSea": "Bristol Channel"
-      },
-      "floodAreaID": "112WATSOM1",
-      "isTidal": true,
-      "message": "Spring tide heights are now dropping, the weather is more settled and no flooding is expected.\n\nWe will continue to monitor the situation.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-10-10T12:10:00",
-      "timeRaised": "2025-10-10T12:10:41",
-      "timeSeverityChanged": "2025-10-10T12:10:00"
-    }
-  ]
 }

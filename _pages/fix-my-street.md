@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- This appears to be a "rat hole". Very deep and growing slightly in diameter over the past few days., 10th October :- [8279614](https://www.fixmystreet.com/report/8279614)
+- Rubbish dumped illegally, 10th October :- [8279607](https://www.fixmystreet.com/report/8279607)
+- Drainage gullies full of detritus, 10th October :- [8279586](https://www.fixmystreet.com/report/8279586)
+- Bins left on pavement blocking pavement for pedestrians, wheelchairs, prams and everything in between., 10th October :- [8279462](https://www.fixmystreet.com/report/8279462)
 - Pothole in road, Elderly father fell in the road and required a visit to A&E, 10th October :- [8279246](https://www.fixmystreet.com/report/8279246)
 - Wobbling paving slab caused elderly woman to fall and require trip to hospital (Cheltenham A&E) on 10th October, 10th October :- [8279139](https://www.fixmystreet.com/report/8279139)
 - Blocking crossings, 10th October :- [8279103](https://www.fixmystreet.com/report/8279103)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - The signpost is loose in the pavement & leaning. It could fall on a passing pedestrian., 10th October :- [8277351](https://www.fixmystreet.com/report/8277351)
 - Subsidence affecting road and pavement, 10th October :- [8277197](https://www.fixmystreet.com/report/8277197)
 - Walk way an lake, 10th October :- [8276797](https://www.fixmystreet.com/report/8276797)
-- Flytipping on pavement - blocking access to pavement, 10th October :- [8276760](https://www.fixmystreet.com/report/8276760)
-- Fridge dumped, 9th October :- [8276136](https://www.fixmystreet.com/report/8276136)
-- 2 x Potholes, 9th October :- [8276134](https://www.fixmystreet.com/report/8276134)
-- Traffic lights on Westfield Rd, 9th October :- [8275807](https://www.fixmystreet.com/report/8275807)
 
 <!-- fix_marker ends -->
