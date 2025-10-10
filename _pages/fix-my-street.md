@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Walk way an lake, 10th October :- [8276797](https://www.fixmystreet.com/report/8276797)
+- Flytipping on pavement - blocking access to pavement, 10th October :- [8276760](https://www.fixmystreet.com/report/8276760)
 - Fridge dumped, 9th October :- [8276136](https://www.fixmystreet.com/report/8276136)
 - 2 x Potholes, 9th October :- [8276134](https://www.fixmystreet.com/report/8276134)
 - Traffic lights on Westfield Rd, 9th October :- [8275807](https://www.fixmystreet.com/report/8275807)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 9th October :- [8274771](https://www.fixmystreet.com/report/8274771)
 - Cross on small white roundabout ,, 9th October :- [8274602](https://www.fixmystreet.com/report/8274602)
 - Post or sign leaning slightly (less than 20 degrees) problem, 9th October :- [8274618](https://www.fixmystreet.com/report/8274618)
-- Obstruction to PROM, a barrier, rope and electric fence, 9th October :- [8274541](https://www.fixmystreet.com/report/8274541)
-- TMC - Defects - Vegetation problem, 9th October :- [8274622](https://www.fixmystreet.com/report/8274622)
 
 <!-- fix_marker ends -->
