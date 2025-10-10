@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street light is permanently out problem, 10th October :- [8277838](https://www.fixmystreet.com/report/8277838)
 - Ringway barriers on the pavement, 10th October :- [8277613](https://www.fixmystreet.com/report/8277613)
 - The signpost is loose in the pavement & leaning. It could fall on a passing pedestrian., 10th October :- [8277351](https://www.fixmystreet.com/report/8277351)
 - Subsidence affecting road and pavement, 10th October :- [8277197](https://www.fixmystreet.com/report/8277197)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - A pothole in road problem, 9th October :- [8274955](https://www.fixmystreet.com/report/8274955)
 - Traffic light head been moved, 9th October :- [8274707](https://www.fixmystreet.com/report/8274707)
 - TMC - Defects -CW6 Potholes  problem, 9th October :- [8274769](https://www.fixmystreet.com/report/8274769)
-- Broken cycle sign., 9th October :- [8274659](https://www.fixmystreet.com/report/8274659)
 
 <!-- fix_marker ends -->

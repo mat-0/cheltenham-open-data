@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Friday, 10 October 2025
 
-- The average temperature today is 13.57˚C,
-- With highs of 14.43˚C and lows of 13.16˚C,
-- It may feel like 13.18˚C with broken clouds
+- The average temperature today is 13.93˚C,
+- With highs of 14.97˚C and lows of 13.3˚C,
+- It may feel like 13.52˚C with broken clouds
 - The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 1034hPa and humidity is 84%
+- The pressure is 1034hPa and humidity is 82%
 - The sun will rise at 06:24 and set at 17:26
 
 <!-- weather_marker ends -->
