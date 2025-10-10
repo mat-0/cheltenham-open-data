@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole in road, Elderly father fell in the road and required a visit to A&E, 10th October :- [8279246](https://www.fixmystreet.com/report/8279246)
+- Wobbling paving slab caused elderly woman to fall and require trip to hospital (Cheltenham A&E) on 10th October, 10th October :- [8279139](https://www.fixmystreet.com/report/8279139)
 - Blocking crossings, 10th October :- [8279103](https://www.fixmystreet.com/report/8279103)
 - Abandoned barriers, 10th October :- [8278977](https://www.fixmystreet.com/report/8278977)
 - TMC - Defects -CW6 Potholes  problem, 10th October :- [8278955](https://www.fixmystreet.com/report/8278955)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Fridge dumped, 9th October :- [8276136](https://www.fixmystreet.com/report/8276136)
 - 2 x Potholes, 9th October :- [8276134](https://www.fixmystreet.com/report/8276134)
 - Traffic lights on Westfield Rd, 9th October :- [8275807](https://www.fixmystreet.com/report/8275807)
-- Damaged footpath, 9th October :- [8275697](https://www.fixmystreet.com/report/8275697)
-- Green light not working on the traffic signals, 9th October :- [8275651](https://www.fixmystreet.com/report/8275651)
 
 <!-- fix_marker ends -->
