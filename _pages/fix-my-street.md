@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Abandoned traffic lights and signs., 10th October :- [8278366](https://www.fixmystreet.com/report/8278366)
+- Lights in the Garden do not work, 10th October :- [8278282](https://www.fixmystreet.com/report/8278282)
+- Pile of rubbish, 10th October :- [8278228](https://www.fixmystreet.com/report/8278228)
 - Street light is permanently out problem, 10th October :- [8277838](https://www.fixmystreet.com/report/8277838)
 - Ringway barriers on the pavement, 10th October :- [8277613](https://www.fixmystreet.com/report/8277613)
 - The signpost is loose in the pavement & leaning. It could fall on a passing pedestrian., 10th October :- [8277351](https://www.fixmystreet.com/report/8277351)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Verge of Churchdown Road from Perrybrook Road to A417 over bridge is overgrown, 9th October :- [8275011](https://www.fixmystreet.com/report/8275011)
 - Flytipping, 9th October :- [8274902](https://www.fixmystreet.com/report/8274902)
 - Flytipping, 9th October :- [8274885](https://www.fixmystreet.com/report/8274885)
-- A pothole in road problem, 9th October :- [8274955](https://www.fixmystreet.com/report/8274955)
-- Traffic light head been moved, 9th October :- [8274707](https://www.fixmystreet.com/report/8274707)
-- TMC - Defects -CW6 Potholes  problem, 9th October :- [8274769](https://www.fixmystreet.com/report/8274769)
 
 <!-- fix_marker ends -->
