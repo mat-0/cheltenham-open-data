@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Drop kerb tarmac deteriorated and hazardous, 10th October :- [8281032](https://www.fixmystreet.com/report/8281032)
 - Swallow crescent name sign is broke, 10th October :- [8280655](https://www.fixmystreet.com/report/8280655)
 - An area just of the roundabout going onto the a40 towards longford, 10th October :- [8280648](https://www.fixmystreet.com/report/8280648)
 - Large wide pothole, 10th October :- [8280634](https://www.fixmystreet.com/report/8280634)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Abandoned barriers, 10th October :- [8278977](https://www.fixmystreet.com/report/8278977)
 - TMC - Defects -CW6 Potholes  problem, 10th October :- [8278955](https://www.fixmystreet.com/report/8278955)
 - Manhole cover sinking, 10th October :- [8278693](https://www.fixmystreet.com/report/8278693)
-- No timetables on new Bus Stops., 10th October :- [8278641](https://www.fixmystreet.com/report/8278641)
 
 <!-- fix_marker ends -->
