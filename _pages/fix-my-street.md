@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Sunken paving slab, 10th October :- [8279999](https://www.fixmystreet.com/report/8279999)
+- 2 pot holes approx one car width wide., 10th October :- [8279776](https://www.fixmystreet.com/report/8279776)
 - This appears to be a "rat hole". Very deep and growing slightly in diameter over the past few days., 10th October :- [8279614](https://www.fixmystreet.com/report/8279614)
 - Rubbish dumped illegally, 10th October :- [8279607](https://www.fixmystreet.com/report/8279607)
 - Drainage gullies full of detritus, 10th October :- [8279586](https://www.fixmystreet.com/report/8279586)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Street light is permanently out problem, 10th October :- [8277838](https://www.fixmystreet.com/report/8277838)
 - Ringway barriers on the pavement, 10th October :- [8277613](https://www.fixmystreet.com/report/8277613)
 - The signpost is loose in the pavement & leaning. It could fall on a passing pedestrian., 10th October :- [8277351](https://www.fixmystreet.com/report/8277351)
-- Subsidence affecting road and pavement, 10th October :- [8277197](https://www.fixmystreet.com/report/8277197)
-- Walk way an lake, 10th October :- [8276797](https://www.fixmystreet.com/report/8276797)
 
 <!-- fix_marker ends -->
