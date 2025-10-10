@@ -97,11 +97,11 @@
     }
   },
   "need": {
-    "id": "475f4770",
+    "id": "8861dbf5-6b6b-4189-927b-9e230026c0a3",
     "needs": "Cuppa Soups Or Tinned Soups\nTinned Hot And Cold Meat\nWashing Up Liquid\nUHT Milk\nFruit Juice / Squash\nSnacks",
     "excess": "Nappies In Most Sizes\nSanitary Products\nBaby Food\nPulses\nTeabags\nTinned Veg",
     "created": "2025-09-05T15:55:49.566",
-    "self": "https://www.givefood.org.uk/api/2/need/475f4770/"
+    "self": "https://www.givefood.org.uk/api/2/need/8861dbf5-6b6b-4189-927b-9e230026c0a3/"
   },
   "nearby_foodbanks": [
     {
