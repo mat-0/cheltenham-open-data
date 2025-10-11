@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Soil and plants on pavement, 11th October :- [8281301](https://www.fixmystreet.com/report/8281301)
+- Divan bed fly tipped, 11th October :- [8281289](https://www.fixmystreet.com/report/8281289)
 - Destruction of hedgrow, 11th October :- [8281259](https://www.fixmystreet.com/report/8281259)
 - Pavement outside of 6 Alstone Lane, 11th October :- [8281189](https://www.fixmystreet.com/report/8281189)
 - Old 50 legacy sign still in place ?, 10th October :- [8281130](https://www.fixmystreet.com/report/8281130)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Drainage gullies full of detritus, 10th October :- [8279586](https://www.fixmystreet.com/report/8279586)
 - Bins left on pavement blocking pavement for pedestrians, wheelchairs, prams and everything in between., 10th October :- [8279462](https://www.fixmystreet.com/report/8279462)
 - Pothole in road, Elderly father fell in the road and required a visit to A&E, 10th October :- [8279246](https://www.fixmystreet.com/report/8279246)
-- Wobbling paving slab caused elderly woman to fall and require trip to hospital (Cheltenham A&E) on 10th October, 10th October :- [8279139](https://www.fixmystreet.com/report/8279139)
-- Blocking crossings, 10th October :- [8279103](https://www.fixmystreet.com/report/8279103)
 
 <!-- fix_marker ends -->
