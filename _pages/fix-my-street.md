@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Destruction of hedgrow, 11th October :- [8281259](https://www.fixmystreet.com/report/8281259)
 - Pavement outside of 6 Alstone Lane, 11th October :- [8281189](https://www.fixmystreet.com/report/8281189)
 - Old 50 legacy sign still in place ?, 10th October :- [8281130](https://www.fixmystreet.com/report/8281130)
 - Drop kerb tarmac deteriorated and hazardous, 10th October :- [8281032](https://www.fixmystreet.com/report/8281032)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Pothole in road, Elderly father fell in the road and required a visit to A&E, 10th October :- [8279246](https://www.fixmystreet.com/report/8279246)
 - Wobbling paving slab caused elderly woman to fall and require trip to hospital (Cheltenham A&E) on 10th October, 10th October :- [8279139](https://www.fixmystreet.com/report/8279139)
 - Blocking crossings, 10th October :- [8279103](https://www.fixmystreet.com/report/8279103)
-- Abandoned barriers, 10th October :- [8278977](https://www.fixmystreet.com/report/8278977)
 
 <!-- fix_marker ends -->
