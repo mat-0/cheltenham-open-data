@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Volunteer litter pick bags ready for collection, 11th October :- [8282614](https://www.fixmystreet.com/report/8282614)
+- 2 problems. 1) grown so large the telephone/internet wires are in the branches. 2) overhanging branches have dropped onto car in high winds., 11th October :- [8282595](https://www.fixmystreet.com/report/8282595)
 - Cable is very loose - looks like it’s been pulled out, 11th October :- [8281729](https://www.fixmystreet.com/report/8281729)
 - All of a sudden (last 6 months) ? Road is sinking, 11th October :- [8281680](https://www.fixmystreet.com/report/8281680)
 - Abandoned sofa cushion on Kings Road, 11th October :- [8281638](https://www.fixmystreet.com/report/8281638)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Just below bridle path, 10th October :- [8280381](https://www.fixmystreet.com/report/8280381)
 - Pothole causes traffic to avoid it and kerb has therefore been tilted., 10th October :- [8280341](https://www.fixmystreet.com/report/8280341)
 - Sunken paving slab, 10th October :- [8279999](https://www.fixmystreet.com/report/8279999)
-- 2 pot holes approx one car width wide., 10th October :- [8279776](https://www.fixmystreet.com/report/8279776)
-- This appears to be a "rat hole". Very deep and growing slightly in diameter over the past few days., 10th October :- [8279614](https://www.fixmystreet.com/report/8279614)
 
 <!-- fix_marker ends -->
