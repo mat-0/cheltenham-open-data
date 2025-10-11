@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Abandoned sofa cushion on Kings Road, 11th October :- [8281638](https://www.fixmystreet.com/report/8281638)
+- Height restriction sign rotated and not clearly visible to oncoming traffic, 11th October :- [8281484](https://www.fixmystreet.com/report/8281484)
 - Soil and plants on pavement, 11th October :- [8281301](https://www.fixmystreet.com/report/8281301)
 - Divan bed fly tipped, 11th October :- [8281289](https://www.fixmystreet.com/report/8281289)
 - Destruction of hedgrow, 11th October :- [8281259](https://www.fixmystreet.com/report/8281259)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - This appears to be a "rat hole". Very deep and growing slightly in diameter over the past few days., 10th October :- [8279614](https://www.fixmystreet.com/report/8279614)
 - Rubbish dumped illegally, 10th October :- [8279607](https://www.fixmystreet.com/report/8279607)
 - Drainage gullies full of detritus, 10th October :- [8279586](https://www.fixmystreet.com/report/8279586)
-- Bins left on pavement blocking pavement for pedestrians, wheelchairs, prams and everything in between., 10th October :- [8279462](https://www.fixmystreet.com/report/8279462)
-- Pothole in road, Elderly father fell in the road and required a visit to A&E, 10th October :- [8279246](https://www.fixmystreet.com/report/8279246)
 
 <!-- fix_marker ends -->
