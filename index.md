@@ -10,10 +10,10 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Saturday, 11 October 2025
 
-- The average temperature today is 9.52˚C,
-- With highs of 10.55˚C and lows of 8.71˚C,
-- It may feel like 9.52˚C with overcast clouds
-- The wind speed is 0.45m/s and visibility is 10000m
+- The average temperature today is 9.71˚C,
+- With highs of 10.55˚C and lows of 9.26˚C,
+- It may feel like 9.71˚C with overcast clouds
+- The wind speed is 0.89m/s and visibility is 10000m
 - The pressure is 1034hPa and humidity is 92%
 - The sun will rise at 06:25 and set at 17:23
 
