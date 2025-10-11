@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dangerous tree infected with Ash dieback, 11th October :- [8283502](https://www.fixmystreet.com/report/8283502)
 - Broken glass, 11th October :- [8282925](https://www.fixmystreet.com/report/8282925)
 - Broken glass, 11th October :- [8282915](https://www.fixmystreet.com/report/8282915)
 - Roadwork signs left behind, 11th October :- [8282900](https://www.fixmystreet.com/report/8282900)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - An area just of the roundabout going onto the a40 towards longford, 10th October :- [8280648](https://www.fixmystreet.com/report/8280648)
 - Large wide pothole, 10th October :- [8280634](https://www.fixmystreet.com/report/8280634)
 - Around 3 potholes on ward avenue innsworth all potholes that was repaired not to long ago on the left as your heading to mottershead drive, 10th October :- [8280623](https://www.fixmystreet.com/report/8280623)
-- Flytipping, 10th October :- [8280591](https://www.fixmystreet.com/report/8280591)
 
 <!-- fix_marker ends -->
