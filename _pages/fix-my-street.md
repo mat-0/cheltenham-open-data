@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Broken glass, 11th October :- [8282925](https://www.fixmystreet.com/report/8282925)
+- Broken glass, 11th October :- [8282915](https://www.fixmystreet.com/report/8282915)
+- Roadwork signs left behind, 11th October :- [8282900](https://www.fixmystreet.com/report/8282900)
 - Volunteer litter pick bags ready for collection, 11th October :- [8282614](https://www.fixmystreet.com/report/8282614)
 - 2 problems. 1) grown so large the telephone/internet wires are in the branches. 2) overhanging branches have dropped onto car in high winds., 11th October :- [8282595](https://www.fixmystreet.com/report/8282595)
 - Cable is very loose - looks like it’s been pulled out, 11th October :- [8281729](https://www.fixmystreet.com/report/8281729)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Large wide pothole, 10th October :- [8280634](https://www.fixmystreet.com/report/8280634)
 - Around 3 potholes on ward avenue innsworth all potholes that was repaired not to long ago on the left as your heading to mottershead drive, 10th October :- [8280623](https://www.fixmystreet.com/report/8280623)
 - Flytipping, 10th October :- [8280591](https://www.fixmystreet.com/report/8280591)
-- Just below bridle path, 10th October :- [8280381](https://www.fixmystreet.com/report/8280381)
-- Pothole causes traffic to avoid it and kerb has therefore been tilted., 10th October :- [8280341](https://www.fixmystreet.com/report/8280341)
-- Sunken paving slab, 10th October :- [8279999](https://www.fixmystreet.com/report/8279999)
 
 <!-- fix_marker ends -->
