@@ -19,9 +19,5 @@ This project fetches flood warning data for the Gloucestershire area and publish
 ## Latest
 
 <!-- flood_marker starts -->
-- Warning no longer in force: Wye Estuary in Gloucestershire
--  This Flood Alert has been removed.  Tidal forecasts are now below the flooding threshold.
-      
-We continue to monitor the situation.  
 
 <!-- flood_marker ends -->
