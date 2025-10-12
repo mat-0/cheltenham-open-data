@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Outside number 8 & 10 there are a couple of loose paving slabs which move when walking over & could cause a trip hazard as they protrude from the other slabs, 12th October :- [8286299](https://www.fixmystreet.com/report/8286299)
 - Multiple potholes on road about, 12th October :- [8285778](https://www.fixmystreet.com/report/8285778)
 - Pavement crumbling and obstructed, 12th October :- [8285722](https://www.fixmystreet.com/report/8285722)
 - Bafflingly insufficient repair left dangerous cracks in cycleway, 12th October :- [8285672](https://www.fixmystreet.com/report/8285672)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - 2 problems. 1) grown so large the telephone/internet wires are in the branches. 2) overhanging branches have dropped onto car in high winds., 11th October :- [8282595](https://www.fixmystreet.com/report/8282595)
 - Cable is very loose - looks like it’s been pulled out, 11th October :- [8281729](https://www.fixmystreet.com/report/8281729)
 - All of a sudden (last 6 months) ? Road is sinking, 11th October :- [8281680](https://www.fixmystreet.com/report/8281680)
-- Abandoned sofa cushion on Kings Road, 11th October :- [8281638](https://www.fixmystreet.com/report/8281638)
 
 <!-- fix_marker ends -->

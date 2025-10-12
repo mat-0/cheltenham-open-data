@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Arts in the Forest could 'flourish' with funding ([2 hours ago](https://www.bbc.com/news/articles/cn76738x772o?at_medium=RSS&at_campaign=rss))
-- Gloucestershire in Pictures: Scarecrows and halos ([8 hours ago](https://www.bbc.com/news/articles/cr5qyr208vgo?at_medium=RSS&at_campaign=rss))
-- School worker denies sexual relationship with teenage boy ([11 hours ago](https://gloucesternewscentre.co.uk/school-worker-denies-sexual-relationship-with-teenage-boy/))
-- Hospital staff mark 200th day of strike in long-running pay dispute ([11 hours ago](https://gloucesternewscentre.co.uk/hospital-staff-mark-200th-day-of-strike-in-long-running-pay-dispute/))
-- Longest strike in NHS history reaches 200 days ([12 hours ago](https://www.bbc.com/news/articles/c3e7qn4z23eo?at_medium=RSS&at_campaign=rss))
-- 'AI scammers lure shoppers' and 'cat's 100-mile trip' ([12 hours ago](https://www.bbc.com/news/articles/c93105yg8vgo?at_medium=RSS&at_campaign=rss))
+- Arts in the Forest could 'flourish' with funding ([3 hours ago](https://www.bbc.com/news/articles/cn76738x772o?at_medium=RSS&at_campaign=rss))
+- Gloucestershire in Pictures: Scarecrows and halos ([9 hours ago](https://www.bbc.com/news/articles/cr5qyr208vgo?at_medium=RSS&at_campaign=rss))
+- School worker denies sexual relationship with teenage boy ([12 hours ago](https://gloucesternewscentre.co.uk/school-worker-denies-sexual-relationship-with-teenage-boy/))
+- Hospital staff mark 200th day of strike in long-running pay dispute ([12 hours ago](https://gloucesternewscentre.co.uk/hospital-staff-mark-200th-day-of-strike-in-long-running-pay-dispute/))
+- Longest strike in NHS history reaches 200 days ([13 hours ago](https://www.bbc.com/news/articles/c3e7qn4z23eo?at_medium=RSS&at_campaign=rss))
+- 'AI scammers lure shoppers' and 'cat's 100-mile trip' ([13 hours ago](https://www.bbc.com/news/articles/c93105yg8vgo?at_medium=RSS&at_campaign=rss))
 - Why trees could have the 'best autumn colours' this year ([1 days ago](https://www.bbc.com/news/articles/cvgjg1925z4o?at_medium=RSS&at_campaign=rss))
 - Town's air quality improves 'after 20mph speed limit' ([1 days ago](https://www.bbc.com/news/articles/c0r0rn5j5qno?at_medium=RSS&at_campaign=rss))
 - Carer says visa changes are 'tearing' families apart ([1 days ago](https://www.bbc.com/news/articles/cd6345q1p3go?at_medium=RSS&at_campaign=rss))
