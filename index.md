@@ -10,12 +10,12 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Sunday, 12 October 2025
 
-- The average temperature today is 10.09˚C,
-- With highs of 11.1˚C and lows of 9.27˚C,
-- It may feel like 9.48˚C with few clouds
-- The wind speed is 0.89m/s and visibility is 10000m
+- The average temperature today is 10.46˚C,
+- With highs of 11.1˚C and lows of 9.83˚C,
+- It may feel like 9.89˚C with few clouds
+- The wind speed is 1.79m/s and visibility is 10000m
 - The pressure is 1031hPa and humidity is 89%
-- The sun will rise at 06:27 and set at 17:21
+- The sun will rise at 06:29 and set at 17:19
 
 <!-- weather_marker ends -->
 
