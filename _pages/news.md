@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Why trees could have the 'best autumn colours' this year ([12 hours ago](https://www.bbc.com/news/articles/cvgjg1925z4o?at_medium=RSS&at_campaign=rss))
-- Town's air quality improves 'after 20mph speed limit' ([16 hours ago](https://www.bbc.com/news/articles/c0r0rn5j5qno?at_medium=RSS&at_campaign=rss))
-- Carer says visa changes are 'tearing' families apart ([21 hours ago](https://www.bbc.com/news/articles/cd6345q1p3go?at_medium=RSS&at_campaign=rss))
-- 'Black history should be taught all the time' ([21 hours ago](https://www.bbc.com/news/articles/c0q727lzy34o?at_medium=RSS&at_campaign=rss))
-- Cheltenham youngster wins at global math competition ([22 hours ago](https://gloucesternewscentre.co.uk/cheltenham-youngster-wins-at-global-math-competition/))
+- Why trees could have the 'best autumn colours' this year ([13 hours ago](https://www.bbc.com/news/articles/cvgjg1925z4o?at_medium=RSS&at_campaign=rss))
+- Town's air quality improves 'after 20mph speed limit' ([17 hours ago](https://www.bbc.com/news/articles/c0r0rn5j5qno?at_medium=RSS&at_campaign=rss))
+- Carer says visa changes are 'tearing' families apart ([22 hours ago](https://www.bbc.com/news/articles/cd6345q1p3go?at_medium=RSS&at_campaign=rss))
+- 'Black history should be taught all the time' ([22 hours ago](https://www.bbc.com/news/articles/c0q727lzy34o?at_medium=RSS&at_campaign=rss))
+- Cheltenham youngster wins at global math competition ([23 hours ago](https://gloucesternewscentre.co.uk/cheltenham-youngster-wins-at-global-math-competition/))
 - Trail hunters call sport 'vital' amid ban threat ([1 days ago](https://www.bbc.com/news/articles/cy7pr2yvzvyo?at_medium=RSS&at_campaign=rss))
 - More than 200 toys seized over safety concerns ([1 days ago](https://www.bbc.com/news/articles/czx0922g933o?at_medium=RSS&at_campaign=rss))
 - 'Dinosaurs' and 'digital ID opposition' ([1 days ago](https://www.bbc.com/news/articles/cqxz5dwj245o?at_medium=RSS&at_campaign=rss))
