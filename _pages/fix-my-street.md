@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Broken side of the road where I had a tyre damaged in an unmarked area of the road which is going to be patched up on the 13th of October, 12th October :- [8284308](https://www.fixmystreet.com/report/8284308)
+- The potholes have just been repaired, for the umpteenth time, and because they were not done properly, there is already water pooling in and they will need to be done again in a couple of months. Why the whole area either side of the ford can’t be done properly without continuously patching up the potholes?, 12th October :- [8284289](https://www.fixmystreet.com/report/8284289)
 - Bus shelter discussing state, 12th October :- [8284173](https://www.fixmystreet.com/report/8284173)
 - 2 potholes, 12th October :- [8284060](https://www.fixmystreet.com/report/8284060)
 - Now the evenings are darker this lamp is obscured, 12th October :- [8284039](https://www.fixmystreet.com/report/8284039)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Divan bed fly tipped, 11th October :- [8281289](https://www.fixmystreet.com/report/8281289)
 - Destruction of hedgrow, 11th October :- [8281259](https://www.fixmystreet.com/report/8281259)
 - Pavement outside of 6 Alstone Lane, 11th October :- [8281189](https://www.fixmystreet.com/report/8281189)
-- Old 50 legacy sign still in place ?, 10th October :- [8281130](https://www.fixmystreet.com/report/8281130)
-- Drop kerb tarmac deteriorated and hazardous, 10th October :- [8281032](https://www.fixmystreet.com/report/8281032)
 
 <!-- fix_marker ends -->
