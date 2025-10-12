@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Electric fence all round field preventing use of footpath, 12th October :- [8284588](https://www.fixmystreet.com/report/8284588)
 - Broken side of the road where I had a tyre damaged in an unmarked area of the road which is going to be patched up on the 13th of October, 12th October :- [8284308](https://www.fixmystreet.com/report/8284308)
 - The potholes have just been repaired, for the umpteenth time, and because they were not done properly, there is already water pooling in and they will need to be done again in a couple of months. Why the whole area either side of the ford can’t be done properly without continuously patching up the potholes?, 12th October :- [8284289](https://www.fixmystreet.com/report/8284289)
 - Bus shelter discussing state, 12th October :- [8284173](https://www.fixmystreet.com/report/8284173)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Soil and plants on pavement, 11th October :- [8281301](https://www.fixmystreet.com/report/8281301)
 - Divan bed fly tipped, 11th October :- [8281289](https://www.fixmystreet.com/report/8281289)
 - Destruction of hedgrow, 11th October :- [8281259](https://www.fixmystreet.com/report/8281259)
-- Pavement outside of 6 Alstone Lane, 11th October :- [8281189](https://www.fixmystreet.com/report/8281189)
 
 <!-- fix_marker ends -->
