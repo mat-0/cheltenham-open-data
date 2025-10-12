@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Bafflingly insufficient repair left dangerous cracks in cycleway, 12th October :- [8285672](https://www.fixmystreet.com/report/8285672)
 - Hedgerow in parking area of evergreen walk, 12th October :- [8285117](https://www.fixmystreet.com/report/8285117)
 - Electric fence all round field preventing use of footpath, 12th October :- [8284588](https://www.fixmystreet.com/report/8284588)
 - Broken side of the road where I had a tyre damaged in an unmarked area of the road which is going to be patched up on the 13th of October, 12th October :- [8284308](https://www.fixmystreet.com/report/8284308)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Abandoned sofa cushion on Kings Road, 11th October :- [8281638](https://www.fixmystreet.com/report/8281638)
 - Height restriction sign rotated and not clearly visible to oncoming traffic, 11th October :- [8281484](https://www.fixmystreet.com/report/8281484)
 - Soil and plants on pavement, 11th October :- [8281301](https://www.fixmystreet.com/report/8281301)
-- Divan bed fly tipped, 11th October :- [8281289](https://www.fixmystreet.com/report/8281289)
 
 <!-- fix_marker ends -->
