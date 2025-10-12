@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Bus shelter discussing state, 12th October :- [8284173](https://www.fixmystreet.com/report/8284173)
+- 2 potholes, 12th October :- [8284060](https://www.fixmystreet.com/report/8284060)
 - Now the evenings are darker this lamp is obscured, 12th October :- [8284039](https://www.fixmystreet.com/report/8284039)
 - Several potholes on the corner both sides of the road, 12th October :- [8284022](https://www.fixmystreet.com/report/8284022)
 - Dangerous tree infected with Ash dieback, 11th October :- [8283502](https://www.fixmystreet.com/report/8283502)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Pavement outside of 6 Alstone Lane, 11th October :- [8281189](https://www.fixmystreet.com/report/8281189)
 - Old 50 legacy sign still in place ?, 10th October :- [8281130](https://www.fixmystreet.com/report/8281130)
 - Drop kerb tarmac deteriorated and hazardous, 10th October :- [8281032](https://www.fixmystreet.com/report/8281032)
-- Swallow crescent name sign is broke, 10th October :- [8280655](https://www.fixmystreet.com/report/8280655)
-- An area just of the roundabout going onto the a40 towards longford, 10th October :- [8280648](https://www.fixmystreet.com/report/8280648)
 
 <!-- fix_marker ends -->
