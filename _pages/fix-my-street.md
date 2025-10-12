@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Now the evenings are darker this lamp is obscured, 12th October :- [8284039](https://www.fixmystreet.com/report/8284039)
+- Several potholes on the corner both sides of the road, 12th October :- [8284022](https://www.fixmystreet.com/report/8284022)
 - Dangerous tree infected with Ash dieback, 11th October :- [8283502](https://www.fixmystreet.com/report/8283502)
 - Broken glass, 11th October :- [8282925](https://www.fixmystreet.com/report/8282925)
 - Broken glass, 11th October :- [8282915](https://www.fixmystreet.com/report/8282915)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Drop kerb tarmac deteriorated and hazardous, 10th October :- [8281032](https://www.fixmystreet.com/report/8281032)
 - Swallow crescent name sign is broke, 10th October :- [8280655](https://www.fixmystreet.com/report/8280655)
 - An area just of the roundabout going onto the a40 towards longford, 10th October :- [8280648](https://www.fixmystreet.com/report/8280648)
-- Large wide pothole, 10th October :- [8280634](https://www.fixmystreet.com/report/8280634)
-- Around 3 potholes on ward avenue innsworth all potholes that was repaired not to long ago on the left as your heading to mottershead drive, 10th October :- [8280623](https://www.fixmystreet.com/report/8280623)
 
 <!-- fix_marker ends -->
