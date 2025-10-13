@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street light out, 13th October :- [8291445](https://www.fixmystreet.com/report/8291445)
 - Deep pothole on Winchcombe Road, after railway bridge, 13th October :- [8291246](https://www.fixmystreet.com/report/8291246)
 - Graffiti on roundabout signs, 13th October :- [8291014](https://www.fixmystreet.com/report/8291014)
 - Street light out, 13th October :- [8291005](https://www.fixmystreet.com/report/8291005)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 13th October :- [8289153](https://www.fixmystreet.com/report/8289153)
 - TMC - Defects - Covers, Gratings & Frames problem, 13th October :- [8289150](https://www.fixmystreet.com/report/8289150)
 - TMC - Defects -other CW6 problem, 13th October :- [8289149](https://www.fixmystreet.com/report/8289149)
-- TMC - Defects -other CW6 problem, 13th October :- [8288698](https://www.fixmystreet.com/report/8288698)
 
 <!-- fix_marker ends -->
