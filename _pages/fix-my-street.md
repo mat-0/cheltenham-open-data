@@ -9,9 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Drain blocked with leaves., 13th October :- [8289794](https://www.fixmystreet.com/report/8289794)
 - TMC - Defects - Vegetation problem, 13th October :- [8289374](https://www.fixmystreet.com/report/8289374)
-- TMC - Defects - Other FW6  Surface problem, 13th October :- [8289369](https://www.fixmystreet.com/report/8289369)
 - TMC - Defects - Other FW6  Surface problem, 13th October :- [8289368](https://www.fixmystreet.com/report/8289368)
+- TMC - Defects - Other FW6  Surface problem, 13th October :- [8289369](https://www.fixmystreet.com/report/8289369)
 - TMC - Defects -CW6 Potholes  problem, 13th October :- [8289367](https://www.fixmystreet.com/report/8289367)
 - TMC - Defects -CW6 Potholes  problem, 13th October :- [8289366](https://www.fixmystreet.com/report/8289366)
 - TMC - Defects - Footways Slabs problem, 13th October :- [8289156](https://www.fixmystreet.com/report/8289156)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - The drain is blocked problem, 13th October :- [8288685](https://www.fixmystreet.com/report/8288685)
 - TMC - Defects - Vegetation problem, 13th October :- [8288448](https://www.fixmystreet.com/report/8288448)
 - Green or amber traffic light is not working problem, 13th October :- [8288428](https://www.fixmystreet.com/report/8288428)
-- TMC - Defects -other CW6 problem, 13th October :- [8288442](https://www.fixmystreet.com/report/8288442)
 
 <!-- fix_marker ends -->
