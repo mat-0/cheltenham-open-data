@@ -11,8 +11,8 @@ permalink: /fix-my-street
 
 - Multiple Potholes Dangerous to Cyclists, 13th October :- [8290356](https://www.fixmystreet.com/report/8290356)
 - Street light not working, 13th October :- [8290136](https://www.fixmystreet.com/report/8290136)
-- TMC - Defects -CW6 Potholes  problem, 13th October :- [8290098](https://www.fixmystreet.com/report/8290098)
 - TMC - Defects -CW6 Potholes  problem, 13th October :- [8290097](https://www.fixmystreet.com/report/8290097)
+- TMC - Defects -CW6 Potholes  problem, 13th October :- [8290098](https://www.fixmystreet.com/report/8290098)
 - Possible Infected Silver Birch Tree, 13th October :- [8289941](https://www.fixmystreet.com/report/8289941)
 - Drain blocked with leaves., 13th October :- [8289794](https://www.fixmystreet.com/report/8289794)
 - TMC - Defects - Vegetation problem, 13th October :- [8289374](https://www.fixmystreet.com/report/8289374)
