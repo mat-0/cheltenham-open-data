@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:atom="http://www.w3.org/2005/Atom"
  xmlns:georss="http://www.georss.org/georss"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -14,6 +14,159 @@
 <language>en-gb</language>
 <atom:link href="https://www.fixmystreet.com/rss/l/51.897991,-2.071308/10" rel="self" type="application/rss+xml"/>
 
+<item>
+<title>TMC - Defects - Footways Slabs problem, 13th October</title>
+<link>https://www.fixmystreet.com/report/8287963</link>
+<description>STATS REQUIRED &amp;#10;Sunken slab please reseat &amp;#10;Trip hazard &amp;#10;SLAB CAN BE REUSED &amp;#10;STANDARD TM ALTERNATIVE FOOTWAY (FW Rocking/Unstable Slab)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8287963&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8287963</guid>
+<pubDate>Mon, 13 Oct 2025 10:26:43 +0100</pubDate>
+<georss:point>51.9008876 -2.07243050000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 13th October</title>
+<link>https://www.fixmystreet.com/report/8287950</link>
+<description>3 way stop and go 28 day carriage way pothole 600x300x42mm tarmac patch (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8287950&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8287950</guid>
+<pubDate>Mon, 13 Oct 2025 10:23:47 +0100</pubDate>
+<georss:point>51.8991367 -2.078995</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Footways Slabs problem, 13th October</title>
+<link>https://www.fixmystreet.com/report/8287957</link>
+<description>Give and take plus temporary footway closure   28 day  please lift and relay x1 rocking raised  450x450x25mm slab number 2 (FW Rocking/Unstable Slab)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8287957&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8287957</guid>
+<pubDate>Mon, 13 Oct 2025 10:23:47 +0100</pubDate>
+<georss:point>51.8994808 -2.0797512</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Kerbs and Channels problem, 13th October</title>
+<link>https://www.fixmystreet.com/report/8287955</link>
+<description>Give and take  28. Day please lift and relay x1 rocking raised dropped 900x100x40mm kerb stone stats required number 2 (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8287955&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Kerbs and Channels</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8287955</guid>
+<pubDate>Mon, 13 Oct 2025 10:23:47 +0100</pubDate>
+<georss:point>51.8992482053398 -2.07933847422871</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Footways Slabs problem, 13th October</title>
+<link>https://www.fixmystreet.com/report/8287959</link>
+<description>Give and take plus temporary footway closure   28 day  please lift and replace x1 rocking broken  450x450x20mm slab number 1 (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8287959&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8287959</guid>
+<pubDate>Mon, 13 Oct 2025 10:23:47 +0100</pubDate>
+<georss:point>51.8995565 -2.07982100000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Footways Slabs problem, 13th October</title>
+<link>https://www.fixmystreet.com/report/8287956</link>
+<description>Give and take plus temporary footway closure   28 day  please lift and relay x1 rocking raised  450x450x20mm slab number 1 (FW Rocking/Unstable Slab)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8287956&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8287956</guid>
+<pubDate>Mon, 13 Oct 2025 10:23:47 +0100</pubDate>
+<georss:point>51.8994557366104 -2.07977635535325</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Kerbs and Channels problem, 13th October</title>
+<link>https://www.fixmystreet.com/report/8287954</link>
+<description>Give and take  28. Day please lift and relay x1 rocking raised dropped 900x100x35mm kerb stone stats required (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8287954&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Kerbs and Channels</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8287954</guid>
+<pubDate>Mon, 13 Oct 2025 10:23:47 +0100</pubDate>
+<georss:point>51.8992059594381 -2.07920436065022</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 13th October</title>
+<link>https://www.fixmystreet.com/report/8287952</link>
+<description>3 way stop and go 28 day carriage way pothole 300x300x40mm tarmac patch number 2 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8287952&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8287952</guid>
+<pubDate>Mon, 13 Oct 2025 10:23:47 +0100</pubDate>
+<georss:point>51.8990952249167 -2.0791041483206</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 13th October</title>
+<link>https://www.fixmystreet.com/report/8287953</link>
+<description>3 way stop and go 28 day carriage way pothole 300x300x40mm tarmac patch number 3 plus x1 NSD (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8287953&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8287953</guid>
+<pubDate>Mon, 13 Oct 2025 10:23:47 +0100</pubDate>
+<georss:point>51.8990781670174 -2.07912586772255</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Footways Slabs problem, 13th October</title>
+<link>https://www.fixmystreet.com/report/8287958</link>
+<description>Give and take plus temporary footway closure   28 day  please lift and relay x1 rocking raised  450x450x25mm slab number 3 (FW Rocking/Unstable Slab)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8287958&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8287958</guid>
+<pubDate>Mon, 13 Oct 2025 10:23:47 +0100</pubDate>
+<georss:point>51.8994752 -2.07976009999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Kerbs and Channels problem, 13th October</title>
+<link>https://www.fixmystreet.com/report/8287951</link>
+<description>Give and take  28. Day please lift and relay x1 rocking raised dropped 900x100x30mm kerb stone stats required (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8287951&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Kerbs and Channels</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8287951</guid>
+<pubDate>Mon, 13 Oct 2025 10:23:47 +0100</pubDate>
+<georss:point>51.8991746 -2.07908519999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Footways Slabs problem, 13th October</title>
+<link>https://www.fixmystreet.com/report/8287948</link>
+<description>STATS REQUIRED &amp;#10;LOOSE CONCRETE REPAIR PLEASE RESEAT rocking &amp;#10;STANDARD TM ALTERNATIVE FOOTWAY (FW Rocking/Unstable Slab)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8287948&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8287948</guid>
+<pubDate>Mon, 13 Oct 2025 10:13:20 +0100</pubDate>
+<georss:point>51.8945647 -2.0732956</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Footways Slabs problem, 13th October</title>
+<link>https://www.fixmystreet.com/report/8287944</link>
+<description>Give and take plus temporary footway closure   28 day  please lift and relay x1 rocking raised  450x450x25mm slab number 1 (FW Rocking/Unstable Slab)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8287944&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8287944</guid>
+<pubDate>Mon, 13 Oct 2025 10:06:48 +0100</pubDate>
+<georss:point>51.9019 -2.07797130000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Footways Slabs problem, 13th October</title>
+<link>https://www.fixmystreet.com/report/8287945</link>
+<description>Give and take plus temporary footway closure   28 day  please lift and relay x1 rocking sunken  450x450x25mm slab number 1 (FW Rocking/Unstable Slab)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8287945&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8287945</guid>
+<pubDate>Mon, 13 Oct 2025 10:06:48 +0100</pubDate>
+<georss:point>51.9020562 -2.0778085</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 13th October</title>
+<link>https://www.fixmystreet.com/report/8287943</link>
+<description>Give and take plus temporary footway closure footway abrupt level different 400x300x22mm stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8287943&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8287943</guid>
+<pubDate>Mon, 13 Oct 2025 10:06:48 +0100</pubDate>
+<georss:point>51.9002287 -2.0797407</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 13th October</title>
+<link>https://www.fixmystreet.com/report/8287942</link>
+<description>Give and take plus temporary footway closure footway abrupt level different 710x400x21mm stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8287942&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8287942</guid>
+<pubDate>Mon, 13 Oct 2025 10:06:48 +0100</pubDate>
+<georss:point>51.9001467 -2.0798496</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 13th October</title>
+<link>https://www.fixmystreet.com/report/8287946</link>
+<description>Road closure 28 day carriage way pothole 2100x600x40mm tarmac patch number stats required (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8287946&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8287946</guid>
+<pubDate>Mon, 13 Oct 2025 10:06:48 +0100</pubDate>
+<georss:point>51.9008654 -2.07910749999999</georss:point>
+</item>
 <item>
 <title>Site compound set up on residential street for use of highways workers living in street, 13th October</title>
 <link>https://www.fixmystreet.com/report/8287224</link>
@@ -40,159 +193,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/8287208</guid>
 <pubDate>Mon, 13 Oct 2025 08:49:24 +0100</pubDate>
 <georss:point>51.880691 -2.067497</georss:point>
-</item>
-<item>
-<title>Street light not working been like it for approx 2 years, 13th October</title>
-<link>https://www.fixmystreet.com/report/8287116</link>
-<description>I reported a street light not working outside Bowbridge House Bowbridge lane Prestbury I reported it last year and nothing has been done . There are only 3 lights in Bowbridge Lane Prestbury and at night I fell unsafe without this light . I am over 80yesrs of age and you fix this immediately as it is unsafe for people like myself . Please help .&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Bowbridge Lane, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8287116&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Street light is permanently out</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8287116</guid>
-<pubDate>Mon, 13 Oct 2025 08:33:22 +0100</pubDate>
-<georss:point>51.916885 -2.048749</georss:point>
-</item>
-<item>
-<title>Traffic lights are rapid changing and not staying on long enough, 13th October</title>
-<link>https://www.fixmystreet.com/report/8286949</link>
-<description>Phasing of the lights has changed whereby all junctions are changes lights even when no cars waiting. Long delays for those waiting.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): B4213, Deerhurst, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8286949&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Green or amber traffic light is not working</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8286949</guid>
-<pubDate>Mon, 13 Oct 2025 07:53:20 +0100</pubDate>
-<georss:point>51.957148 -2.157569</georss:point>
-</item>
-<item>
-<title>Road works signs left behind by contracror, 12th October</title>
-<link>https://www.fixmystreet.com/report/8286548</link>
-<description>In Oldacre Drive approaching T junction with Gotherington Lane. Works were completed about a month ago but three signs remain on the pathway. One has already been kicked over and it&amp;#39;s only a matter of time before they are thrown in someone&amp;#39;s garden or in the brook.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 1,2,3,4,5,6, Oldacre Drive, Bishop&#39;s Cleeve&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8286548&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Signs &amp; Barriers left behind by Contractor</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8286548</guid>
-<pubDate>Sun, 12 Oct 2025 22:07:18 +0100</pubDate>
-<georss:point>51.950687 -2.056166</georss:point>
-</item>
-<item>
-<title>Outside number 8 &amp; 10 there are a couple of loose paving slabs which move when walking over &amp; could cause a trip hazard as they protrude from the other slabs, 12th October</title>
-<link>https://www.fixmystreet.com/report/8286299</link>
-<description>Outside number 8 &amp;amp; number 10&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 12, Pickering Road, Leckhampton, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8286299&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Missing/broken/rocking/unstable slab</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8286299</guid>
-<pubDate>Sun, 12 Oct 2025 20:27:09 +0100</pubDate>
-<georss:point>51.883426 -2.083021</georss:point>
-</item>
-<item>
-<title>Multiple potholes on road about, 12th October</title>
-<link>https://www.fixmystreet.com/report/8285778</link>
-<description>The roundabout outside Cosshands Toby carvery in Brockworth GL3 4PH&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8285778.0.jpeg?46094cbf&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Crosshands Roundabout, Brockworth, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8285778&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8285778</guid>
-<pubDate>Sun, 12 Oct 2025 17:25:03 +0100</pubDate>
-<georss:point>51.84246 -2.149317</georss:point>
-</item>
-<item>
-<title>Pavement crumbling and obstructed, 12th October</title>
-<link>https://www.fixmystreet.com/report/8285722</link>
-<description>By tree root. Makes navigation difficult for people in wheelchairs or with walkers.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8285722.0.jpeg?65449b81&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 21, Pilley Lane, Leckhampton, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8285722&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Other damage to pavement i.e. cobbles, raised mound/surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8285722</guid>
-<pubDate>Sun, 12 Oct 2025 17:09:48 +0100</pubDate>
-<georss:point>51.877098 -2.074618</georss:point>
-</item>
-<item>
-<title>Bafflingly insufficient repair left dangerous cracks in cycleway, 12th October</title>
-<link>https://www.fixmystreet.com/report/8285672</link>
-<description>The shared cycleway and footpath that runs from Liddington Road to the Premier Inn Barnwood.&amp;#10;&amp;#10;The previous repair only addressed a small proportion of the cracking, leaving the vast majority of cracks that could trap a road bike wheel and cause an accident.&amp;#10;&amp;#10;There are patches of wide cracks along the *entire length* of this path.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8285672.0.jpeg?1f9eba7d&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): A417, Elmbridge, Gloucester&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8285672&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in pavement</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8285672</guid>
-<pubDate>Sun, 12 Oct 2025 16:55:57 +0100</pubDate>
-<georss:point>51.870476 -2.197836</georss:point>
-</item>
-<item>
-<title>Hedgerow in parking area of evergreen walk, 12th October</title>
-<link>https://www.fixmystreet.com/report/8285117</link>
-<description>Two chairs, basketball hoop and food bin have all been dumped in hedgerow. They have been there since August&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8285117.0.jpeg?49ed1a51&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Evergreen Walk, Longlevens, Gloucester&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8285117&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Flytipping (not witnessed and no evidence likely)</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8285117</guid>
-<pubDate>Sun, 12 Oct 2025 14:22:17 +0100</pubDate>
-<georss:point>51.883178 -2.206768</georss:point>
-</item>
-<item>
-<title>Electric fence all round field preventing use of footpath, 12th October</title>
-<link>https://www.fixmystreet.com/report/8284588</link>
-<description>Exactly as map location provided&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): A40, Shipton, Cotswold&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8284588&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Obstruction caused by fence</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8284588</guid>
-<pubDate>Sun, 12 Oct 2025 11:47:39 +0100</pubDate>
-<georss:point>51.853652 -1.945882</georss:point>
-</item>
-<item>
-<title>Broken side of the road where I had a tyre damaged in an unmarked area of the road which is going to be patched up on the 13th of October, 12th October</title>
-<link>https://www.fixmystreet.com/report/8284308</link>
-<description>Left side on your way to Syreford from Brockhampton, 100 meters before T junction&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8284308.0.jpeg?46a55177&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Syreford Road, Cotswold&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8284308&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8284308</guid>
-<pubDate>Sun, 12 Oct 2025 10:30:26 +0100</pubDate>
-<georss:point>51.884982 -1.960504</georss:point>
-</item>
-<item>
-<title>The potholes have just been repaired, for the umpteenth time, and because they were not done properly, there is already water pooling in and they will need to be done again in a couple of months. Why the whole area either side of the ford can’t be done properly without continuously patching up the potholes?, 12th October</title>
-<link>https://www.fixmystreet.com/report/8284289</link>
-<description>Between the ford and the postbox&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8284289.0.jpeg?add52c70&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Sevenhampton, Cotswold&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8284289&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8284289</guid>
-<pubDate>Sun, 12 Oct 2025 10:24:34 +0100</pubDate>
-<georss:point>51.891239 -1.952572</georss:point>
-</item>
-<item>
-<title>Bus shelter discussing state, 12th October</title>
-<link>https://www.fixmystreet.com/report/8284173</link>
-<description>Shelter on corner of Winchester Way + Salisbury Ave. Badly needs cleaning. Why is the now disused shelter by St Christopher Church still being washed down, while this one has not been done for years??&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Lansdown Road, Warden Hill, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8284173&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Bus stop/shelter issue</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8284173</guid>
-<pubDate>Sun, 12 Oct 2025 09:41:06 +0100</pubDate>
-<georss:point>51.893979 -2.095517</georss:point>
-</item>
-<item>
-<title>2 potholes, 12th October</title>
-<link>https://www.fixmystreet.com/report/8284060</link>
-<description>2 potholes on approach to/from traffic lights (crossroads)&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8284060.0.jpeg?7211731b&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 113;115, Bath Road, Naunton, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8284060&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8284060</guid>
-<pubDate>Sun, 12 Oct 2025 09:29:33 +0100</pubDate>
-<georss:point>51.890603 -2.077943</georss:point>
-</item>
-<item>
-<title>Now the evenings are darker this lamp is obscured, 12th October</title>
-<link>https://www.fixmystreet.com/report/8284039</link>
-<description>Left hand side of the lane two thirds of the way down - as marked on the map&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8284039.0.jpeg?87d10f3e&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Sunnyfield Lane, Hatherley, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8284039&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Light is obscured by vegetation</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8284039</guid>
-<pubDate>Sun, 12 Oct 2025 08:53:05 +0100</pubDate>
-<georss:point>51.88106 -2.12631</georss:point>
-</item>
-<item>
-<title>Several potholes on the corner both sides of the road, 12th October</title>
-<link>https://www.fixmystreet.com/report/8284022</link>
-<description>The location is the bend in the road just past the farm on the left hand side going up the hill. There are potholes on both the left and right of the site and both further down and up of the marker.&amp;#10;&amp;#10;This means avoidance both up and down Aggs Hill puts vehicles in the middle of the road - which is quite busy currently as traffic is avoiding the closure on the A40.&amp;#10;&amp;#10;Please can these be filled in&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Aggs Hill, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8284022&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8284022</guid>
-<pubDate>Sun, 12 Oct 2025 08:42:04 +0100</pubDate>
-<georss:point>51.89938 -2.033461</georss:point>
-</item>
-<item>
-<title>Dangerous tree infected with Ash dieback, 11th October</title>
-<link>https://www.fixmystreet.com/report/8283502</link>
-<description>The tree is on the Cotswold way oath behind my house (Grafton House) and the tall tree looks like it could fall over our house.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8283502.0.jpeg?f76d0568&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Green Street, Brockworth, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8283502&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Ash Tree located on Highway land</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8283502</guid>
-<pubDate>Sat, 11 Oct 2025 19:33:57 +0100</pubDate>
-<georss:point>51.830789 -2.155066</georss:point>
-</item>
-<item>
-<title>Broken glass, 11th October</title>
-<link>https://www.fixmystreet.com/report/8282925</link>
-<description>Further down path and by tree&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8282925.0.jpeg?a85c0f24&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 4 Trelawn Court, Rodney Road, Montpellier, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8282925&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Street cleaning</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8282925</guid>
-<pubDate>Sat, 11 Oct 2025 15:54:14 +0100</pubDate>
-<georss:point>51.89817 -2.074872</georss:point>
 </item>
 </channel>
 </rss>
