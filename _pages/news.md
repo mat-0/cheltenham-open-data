@@ -13,10 +13,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 <!-- news_marker starts -->
 - Arts in the Forest could 'flourish' with funding ([11 hours ago](https://www.bbc.com/news/articles/cn76738x772o?at_medium=RSS&at_campaign=rss))
-- Gloucestershire in Pictures: Scarecrows and halos ([16 hours ago](https://www.bbc.com/news/articles/cr5qyr208vgo?at_medium=RSS&at_campaign=rss))
+- Gloucestershire in Pictures: Scarecrows and halos ([17 hours ago](https://www.bbc.com/news/articles/cr5qyr208vgo?at_medium=RSS&at_campaign=rss))
 - School worker denies sexual relationship with teenage boy ([20 hours ago](https://gloucesternewscentre.co.uk/school-worker-denies-sexual-relationship-with-teenage-boy/))
 - Hospital staff mark 200th day of strike in long-running pay dispute ([20 hours ago](https://gloucesternewscentre.co.uk/hospital-staff-mark-200th-day-of-strike-in-long-running-pay-dispute/))
-- Longest strike in NHS history reaches 200 days ([20 hours ago](https://www.bbc.com/news/articles/c3e7qn4z23eo?at_medium=RSS&at_campaign=rss))
+- Longest strike in NHS history reaches 200 days ([21 hours ago](https://www.bbc.com/news/articles/c3e7qn4z23eo?at_medium=RSS&at_campaign=rss))
 - 'AI scammers lure shoppers' and 'cat's 100-mile trip' ([21 hours ago](https://www.bbc.com/news/articles/c93105yg8vgo?at_medium=RSS&at_campaign=rss))
 - Why trees could have the 'best autumn colours' this year ([1 days ago](https://www.bbc.com/news/articles/cvgjg1925z4o?at_medium=RSS&at_campaign=rss))
 - Town's air quality improves 'after 20mph speed limit' ([1 days ago](https://www.bbc.com/news/articles/c0r0rn5j5qno?at_medium=RSS&at_campaign=rss))
@@ -41,7 +41,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - A417 speed warning in Gloucestershire after 13,000 drivers get tickets ([5 days ago](https://gloucesternewscentre.co.uk/a417-speed-warning-in-gloucestershire-after-13000-drivers-get-tickets/))
 - Nominations now open for the No Child Left Behind Awards 2025 ([5 days ago](https://www.cheltenham.gov.uk/news/article/3057/nominations_now_open_for_the_no_child_left_behind_awards_2025))
 - Gloucestershire families urged to share views in SEND survey ([6 days ago](https://gloucesternewscentre.co.uk/gloucestershire-families-urged-to-share-views-in-send-survey/))
-- Public likely to be barred from Gloucestershire Airport council meeting ([6 days ago](https://gloucesternewscentre.co.uk/public-likely-to-be-barred-from-gloucestershire-airport-council-meeting/))
+- Public likely to be barred from Gloucestershire Airport council meeting ([7 days ago](https://gloucesternewscentre.co.uk/public-likely-to-be-barred-from-gloucestershire-airport-council-meeting/))
 - Council prosecutes driver for illegal taxi activity during race week ([9 days ago](https://gloucesternewscentre.co.uk/council-prosecutes-driver-for-illegal-taxi-activity-during-race-week/))
 - Two men arrested following police pursuit in Cheltenham ([9 days ago](https://gloucesternewscentre.co.uk/two-men-arrested-following-police-pursuit-in-cheltenham/))
 - Media release: More new affordable homes for Cheltenham residents at Regents Village ([9 days ago](https://www.cheltenham.gov.uk/news/article/3055/media_release_more_new_affordable_homes_for_cheltenham_residents_at_regents_village))
