@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Site compound set up on residential street for use of highways workers living in street, 13th October :- [8287224](https://www.fixmystreet.com/report/8287224)
+- Cracks in pavement, 13th October :- [8287223](https://www.fixmystreet.com/report/8287223)
+- Outstanding GL53 potholes repairs scheduled for Sept 2025, 13th October :- [8287208](https://www.fixmystreet.com/report/8287208)
+- Street light not working been like it for approx 2 years, 13th October :- [8287116](https://www.fixmystreet.com/report/8287116)
 - Traffic lights are rapid changing and not staying on long enough, 13th October :- [8286949](https://www.fixmystreet.com/report/8286949)
 - Road works signs left behind by contracror, 12th October :- [8286548](https://www.fixmystreet.com/report/8286548)
 - Outside number 8 & 10 there are a couple of loose paving slabs which move when walking over & could cause a trip hazard as they protrude from the other slabs, 12th October :- [8286299](https://www.fixmystreet.com/report/8286299)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Several potholes on the corner both sides of the road, 12th October :- [8284022](https://www.fixmystreet.com/report/8284022)
 - Dangerous tree infected with Ash dieback, 11th October :- [8283502](https://www.fixmystreet.com/report/8283502)
 - Broken glass, 11th October :- [8282925](https://www.fixmystreet.com/report/8282925)
-- Broken glass, 11th October :- [8282915](https://www.fixmystreet.com/report/8282915)
-- Roadwork signs left behind, 11th October :- [8282900](https://www.fixmystreet.com/report/8282900)
-- Volunteer litter pick bags ready for collection, 11th October :- [8282614](https://www.fixmystreet.com/report/8282614)
-- 2 problems. 1) grown so large the telephone/internet wires are in the branches. 2) overhanging branches have dropped onto car in high winds., 11th October :- [8282595](https://www.fixmystreet.com/report/8282595)
 
 <!-- fix_marker ends -->
