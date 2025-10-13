@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
  xmlns:atom="http://www.w3.org/2005/Atom"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -34,19 +34,19 @@
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 13th October</title>
-<link>https://www.fixmystreet.com/report/8290098</link>
-<description>4 way traffic lights 28 day  carriageway pothole approximately 600x400x40mm tarmac patch stats required number 2 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8290098&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/8290097</link>
+<description>4 way traffic lights 28 day  carriageway pothole approximately 600x400x40mm tarmac patch stats required number 2 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8290097&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8290098</guid>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8290097</guid>
 <pubDate>Mon, 13 Oct 2025 15:04:23 +0100</pubDate>
 <georss:point>51.8425534 -2.1493875</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 13th October</title>
-<link>https://www.fixmystreet.com/report/8290097</link>
-<description>4 way traffic lights 28 day  carriageway pothole approximately 600x400x40mm tarmac patch stats required number 2 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8290097&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/8290098</link>
+<description>4 way traffic lights 28 day  carriageway pothole approximately 600x400x40mm tarmac patch stats required number 2 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8290098&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8290097</guid>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8290098</guid>
 <pubDate>Mon, 13 Oct 2025 15:04:23 +0100</pubDate>
 <georss:point>51.8425534 -2.1493875</georss:point>
 </item>
