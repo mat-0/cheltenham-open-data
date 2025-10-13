@@ -3,8 +3,8 @@
 
 <rss version="2.0"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
- xmlns:atom="http://www.w3.org/2005/Atom"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:atom="http://www.w3.org/2005/Atom"
 >
 
 <channel>
@@ -15,6 +15,51 @@
 <atom:link href="https://www.fixmystreet.com/rss/l/51.897991,-2.071308/10" rel="self" type="application/rss+xml"/>
 
 <item>
+<title>TMC - Defects - Vegetation problem, 13th October</title>
+<link>https://www.fixmystreet.com/report/8288448</link>
+<description>Overgrown Hedge FW 8m x 1m&amp;#10;Give and take TM With Temporary FW Closure &amp;#10;Use pinpoint (Overgrown Hedge)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8288448&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Vegetation</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8288448</guid>
+<pubDate>Mon, 13 Oct 2025 11:28:05 +0100</pubDate>
+<georss:point>51.9489097 -2.0648391</georss:point>
+</item>
+<item>
+<title>Green or amber traffic light is not working problem, 13th October</title>
+<link>https://www.fixmystreet.com/report/8288428</link>
+<description>The traffic lights are missing reflective strips around the lights themselves. &#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8288428&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Green or amber traffic light is not working</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8288428</guid>
+<pubDate>Mon, 13 Oct 2025 11:04:15 +0100</pubDate>
+<georss:point>51.859061 -2.198254</georss:point>
+</item>
+<item>
+<title>TMC - Defects -other CW6 problem, 13th October</title>
+<link>https://www.fixmystreet.com/report/8288441</link>
+<description>Edge deterioration CW 1350mm x 320mm x 46mm &amp;#10;Stop and go TM &amp;#10;Opposite The Folly (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8288441&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -other CW6</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8288441</guid>
+<pubDate>Mon, 13 Oct 2025 11:00:39 +0100</pubDate>
+<georss:point>51.9683891 -2.0376877</georss:point>
+</item>
+<item>
+<title>TMC - Defects -other CW6 problem, 13th October</title>
+<link>https://www.fixmystreet.com/report/8288442</link>
+<description>Edge deterioration CW 900mm x 370mm x 40mm &amp;#10;Stop and go TM &amp;#10;Opposite The Folly (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8288442&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -other CW6</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8288442</guid>
+<pubDate>Mon, 13 Oct 2025 11:00:39 +0100</pubDate>
+<georss:point>51.9683567 -2.03786229999998</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Footways Slabs problem, 13th October</title>
+<link>https://www.fixmystreet.com/report/8288437</link>
+<description>Give and take plus temporary footway closure   28 day  please lift and replace x1 rocking broken sunken  750x600x20mm slab number 1 (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8288437&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8288437</guid>
+<pubDate>Mon, 13 Oct 2025 10:54:45 +0100</pubDate>
+<georss:point>51.8885716942223 -2.09100421111097</georss:point>
+</item>
+<item>
 <title>TMC - Defects - Footways Slabs problem, 13th October</title>
 <link>https://www.fixmystreet.com/report/8287963</link>
 <description>STATS REQUIRED &amp;#10;Sunken slab please reseat &amp;#10;Trip hazard &amp;#10;SLAB CAN BE REUSED &amp;#10;STANDARD TM ALTERNATIVE FOOTWAY (FW Rocking/Unstable Slab)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8287963&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
@@ -24,15 +69,6 @@
 <georss:point>51.9008876 -2.07243050000001</georss:point>
 </item>
 <item>
-<title>TMC - Defects -CW6 Potholes  problem, 13th October</title>
-<link>https://www.fixmystreet.com/report/8287950</link>
-<description>3 way stop and go 28 day carriage way pothole 600x300x42mm tarmac patch (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8287950&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8287950</guid>
-<pubDate>Mon, 13 Oct 2025 10:23:47 +0100</pubDate>
-<georss:point>51.8991367 -2.078995</georss:point>
-</item>
-<item>
 <title>TMC - Defects - Footways Slabs problem, 13th October</title>
 <link>https://www.fixmystreet.com/report/8287957</link>
 <description>Give and take plus temporary footway closure   28 day  please lift and relay x1 rocking raised  450x450x25mm slab number 2 (FW Rocking/Unstable Slab)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8287957&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
@@ -40,6 +76,24 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/8287957</guid>
 <pubDate>Mon, 13 Oct 2025 10:23:47 +0100</pubDate>
 <georss:point>51.8994808 -2.0797512</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 13th October</title>
+<link>https://www.fixmystreet.com/report/8287953</link>
+<description>3 way stop and go 28 day carriage way pothole 300x300x40mm tarmac patch number 3 plus x1 NSD (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8287953&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8287953</guid>
+<pubDate>Mon, 13 Oct 2025 10:23:47 +0100</pubDate>
+<georss:point>51.8990781670174 -2.07912586772255</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Kerbs and Channels problem, 13th October</title>
+<link>https://www.fixmystreet.com/report/8287951</link>
+<description>Give and take  28. Day please lift and relay x1 rocking raised dropped 900x100x30mm kerb stone stats required (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8287951&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Kerbs and Channels</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8287951</guid>
+<pubDate>Mon, 13 Oct 2025 10:23:47 +0100</pubDate>
+<georss:point>51.8991746 -2.07908519999999</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Kerbs and Channels problem, 13th October</title>
@@ -69,15 +123,6 @@
 <georss:point>51.8994557366104 -2.07977635535325</georss:point>
 </item>
 <item>
-<title>TMC - Defects - Kerbs and Channels problem, 13th October</title>
-<link>https://www.fixmystreet.com/report/8287954</link>
-<description>Give and take  28. Day please lift and relay x1 rocking raised dropped 900x100x35mm kerb stone stats required (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8287954&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Kerbs and Channels</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8287954</guid>
-<pubDate>Mon, 13 Oct 2025 10:23:47 +0100</pubDate>
-<georss:point>51.8992059594381 -2.07920436065022</georss:point>
-</item>
-<item>
 <title>TMC - Defects -CW6 Potholes  problem, 13th October</title>
 <link>https://www.fixmystreet.com/report/8287952</link>
 <description>3 way stop and go 28 day carriage way pothole 300x300x40mm tarmac patch number 2 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8287952&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
@@ -85,15 +130,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/8287952</guid>
 <pubDate>Mon, 13 Oct 2025 10:23:47 +0100</pubDate>
 <georss:point>51.8990952249167 -2.0791041483206</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 13th October</title>
-<link>https://www.fixmystreet.com/report/8287953</link>
-<description>3 way stop and go 28 day carriage way pothole 300x300x40mm tarmac patch number 3 plus x1 NSD (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8287953&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8287953</guid>
-<pubDate>Mon, 13 Oct 2025 10:23:47 +0100</pubDate>
-<georss:point>51.8990781670174 -2.07912586772255</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Footways Slabs problem, 13th October</title>
@@ -105,13 +141,22 @@
 <georss:point>51.8994752 -2.07976009999999</georss:point>
 </item>
 <item>
-<title>TMC - Defects - Kerbs and Channels problem, 13th October</title>
-<link>https://www.fixmystreet.com/report/8287951</link>
-<description>Give and take  28. Day please lift and relay x1 rocking raised dropped 900x100x30mm kerb stone stats required (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8287951&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Kerbs and Channels</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8287951</guid>
+<title>TMC - Defects -CW6 Potholes  problem, 13th October</title>
+<link>https://www.fixmystreet.com/report/8287950</link>
+<description>3 way stop and go 28 day carriage way pothole 600x300x42mm tarmac patch (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8287950&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8287950</guid>
 <pubDate>Mon, 13 Oct 2025 10:23:47 +0100</pubDate>
-<georss:point>51.8991746 -2.07908519999999</georss:point>
+<georss:point>51.8991367 -2.078995</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Kerbs and Channels problem, 13th October</title>
+<link>https://www.fixmystreet.com/report/8287954</link>
+<description>Give and take  28. Day please lift and relay x1 rocking raised dropped 900x100x35mm kerb stone stats required (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8287954&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Kerbs and Channels</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8287954</guid>
+<pubDate>Mon, 13 Oct 2025 10:23:47 +0100</pubDate>
+<georss:point>51.8992059594381 -2.07920436065022</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Footways Slabs problem, 13th October</title>
@@ -123,22 +168,13 @@
 <georss:point>51.8945647 -2.0732956</georss:point>
 </item>
 <item>
-<title>TMC - Defects - Footways Slabs problem, 13th October</title>
-<link>https://www.fixmystreet.com/report/8287944</link>
-<description>Give and take plus temporary footway closure   28 day  please lift and relay x1 rocking raised  450x450x25mm slab number 1 (FW Rocking/Unstable Slab)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8287944&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Footways Slabs</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8287944</guid>
+<title>TMC - Defects - Other FW6  Surface problem, 13th October</title>
+<link>https://www.fixmystreet.com/report/8287942</link>
+<description>Give and take plus temporary footway closure footway abrupt level different 710x400x21mm stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8287942&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8287942</guid>
 <pubDate>Mon, 13 Oct 2025 10:06:48 +0100</pubDate>
-<georss:point>51.9019 -2.07797130000001</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Footways Slabs problem, 13th October</title>
-<link>https://www.fixmystreet.com/report/8287945</link>
-<description>Give and take plus temporary footway closure   28 day  please lift and relay x1 rocking sunken  450x450x25mm slab number 1 (FW Rocking/Unstable Slab)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8287945&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Footways Slabs</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8287945</guid>
-<pubDate>Mon, 13 Oct 2025 10:06:48 +0100</pubDate>
-<georss:point>51.9020562 -2.0778085</georss:point>
+<georss:point>51.9001467 -2.0798496</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 13th October</title>
@@ -150,49 +186,13 @@
 <georss:point>51.9002287 -2.0797407</georss:point>
 </item>
 <item>
-<title>TMC - Defects - Other FW6  Surface problem, 13th October</title>
-<link>https://www.fixmystreet.com/report/8287942</link>
-<description>Give and take plus temporary footway closure footway abrupt level different 710x400x21mm stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8287942&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8287942</guid>
+<title>TMC - Defects - Footways Slabs problem, 13th October</title>
+<link>https://www.fixmystreet.com/report/8287945</link>
+<description>Give and take plus temporary footway closure   28 day  please lift and relay x1 rocking sunken  450x450x25mm slab number 1 (FW Rocking/Unstable Slab)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8287945&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8287945</guid>
 <pubDate>Mon, 13 Oct 2025 10:06:48 +0100</pubDate>
-<georss:point>51.9001467 -2.0798496</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 13th October</title>
-<link>https://www.fixmystreet.com/report/8287946</link>
-<description>Road closure 28 day carriage way pothole 2100x600x40mm tarmac patch number stats required (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8287946&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8287946</guid>
-<pubDate>Mon, 13 Oct 2025 10:06:48 +0100</pubDate>
-<georss:point>51.9008654 -2.07910749999999</georss:point>
-</item>
-<item>
-<title>Site compound set up on residential street for use of highways workers living in street, 13th October</title>
-<link>https://www.fixmystreet.com/report/8287224</link>
-<description>Site directly outside 12 Napier Drive GL34UE. Obstructing emergency services turning point and residential street access. Allowing work storage materials on residential street&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8287224.0.jpeg?daa97a93&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Napier Drive, Brockworth, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8287224&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Abandoned materials</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8287224</guid>
-<pubDate>Mon, 13 Oct 2025 08:52:28 +0100</pubDate>
-<georss:point>51.838874 -2.17978</georss:point>
-</item>
-<item>
-<title>Cracks in pavement, 13th October</title>
-<link>https://www.fixmystreet.com/report/8287223</link>
-<description>Between Waterton Close and Grierson Close. I have fallen twice while walking my dog and had to be helped up. Others have told me about similar problems. If this is not fixed urgently then someone could be seriously injured which could lead to the department being sued.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8287223.0.jpeg?ad7b754d&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Folland Avenue, Hucclecote, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8287223&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in pavement</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8287223</guid>
-<pubDate>Mon, 13 Oct 2025 08:52:49 +0100</pubDate>
-<georss:point>51.849712 -2.178355</georss:point>
-</item>
-<item>
-<title>Outstanding GL53 potholes repairs scheduled for Sept 2025, 13th October</title>
-<link>https://www.fixmystreet.com/report/8287208</link>
-<description>When will the potholes in front of 110 and 112 charlton lane cheltenham gl53 be repaired? This work was scheduled for mid last but was cancelled for unknown reasons. It needs to be done before winter sets in; its still dangerous for car and bike users. Thank you.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 1, Greenhills Road, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8287208&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Poor repairs (reinstatement)</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8287208</guid>
-<pubDate>Mon, 13 Oct 2025 08:49:24 +0100</pubDate>
-<georss:point>51.880691 -2.067497</georss:point>
+<georss:point>51.9020562 -2.0778085</georss:point>
 </item>
 </channel>
 </rss>
