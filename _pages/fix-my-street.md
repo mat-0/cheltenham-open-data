@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street light not working, 13th October :- [8290136](https://www.fixmystreet.com/report/8290136)
+- TMC - Defects -CW6 Potholes  problem, 13th October :- [8290098](https://www.fixmystreet.com/report/8290098)
+- TMC - Defects -CW6 Potholes  problem, 13th October :- [8290097](https://www.fixmystreet.com/report/8290097)
+- Possible Infected Silver Birch Tree, 13th October :- [8289941](https://www.fixmystreet.com/report/8289941)
 - Drain blocked with leaves., 13th October :- [8289794](https://www.fixmystreet.com/report/8289794)
 - TMC - Defects - Vegetation problem, 13th October :- [8289374](https://www.fixmystreet.com/report/8289374)
 - TMC - Defects - Other FW6  Surface problem, 13th October :- [8289368](https://www.fixmystreet.com/report/8289368)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 13th October :- [8288695](https://www.fixmystreet.com/report/8288695)
 - TMC - Defects - Vegetation problem, 13th October :- [8288694](https://www.fixmystreet.com/report/8288694)
 - TMC - Defects - Vegetation problem, 13th October :- [8288691](https://www.fixmystreet.com/report/8288691)
-- TMC - Defects -CW6 Potholes  problem, 13th October :- [8288692](https://www.fixmystreet.com/report/8288692)
-- The drain is blocked problem, 13th October :- [8288685](https://www.fixmystreet.com/report/8288685)
-- TMC - Defects - Vegetation problem, 13th October :- [8288448](https://www.fixmystreet.com/report/8288448)
-- Green or amber traffic light is not working problem, 13th October :- [8288428](https://www.fixmystreet.com/report/8288428)
 
 <!-- fix_marker ends -->
