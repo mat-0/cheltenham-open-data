@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Monday, 13 October 2025
 
-- The average temperature today is 11.15˚C,
-- With highs of 11.96˚C and lows of 10.75˚C,
-- It may feel like 10.78˚C with mist
-- The wind speed is 2.06m/s and visibility is 2400m
-- The pressure is 1030hPa and humidity is 94%
+- The average temperature today is 12.15˚C,
+- With highs of 13.07˚C and lows of 10.95˚C,
+- It may feel like 11.82˚C with light intensity drizzle
+- The wind speed is 3.09m/s and visibility is 3000m
+- The pressure is 1030hPa and humidity is 92%
 - The sun will rise at 06:29 and set at 17:19
 
 <!-- weather_marker ends -->
