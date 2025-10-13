@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Multiple Potholes Dangerous to Cyclists, 13th October :- [8290356](https://www.fixmystreet.com/report/8290356)
 - Street light not working, 13th October :- [8290136](https://www.fixmystreet.com/report/8290136)
 - TMC - Defects -CW6 Potholes  problem, 13th October :- [8290098](https://www.fixmystreet.com/report/8290098)
 - TMC - Defects -CW6 Potholes  problem, 13th October :- [8290097](https://www.fixmystreet.com/report/8290097)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW10 Potholes problem, 13th October :- [8288696](https://www.fixmystreet.com/report/8288696)
 - TMC - Defects - Vegetation problem, 13th October :- [8288695](https://www.fixmystreet.com/report/8288695)
 - TMC - Defects - Vegetation problem, 13th October :- [8288694](https://www.fixmystreet.com/report/8288694)
-- TMC - Defects - Vegetation problem, 13th October :- [8288691](https://www.fixmystreet.com/report/8288691)
 
 <!-- fix_marker ends -->
