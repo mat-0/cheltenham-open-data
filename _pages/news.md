@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- More than £780k spent on gagging orders by Gloucestershire councils ([2 hours ago](https://gloucesternewscentre.co.uk/more-than-780k-spent-on-gagging-orders-by-gloucestershire-councils/))
-- Woman dropped sex assault case after court delays ([2 hours ago](https://www.bbc.com/news/articles/cy50zp3dvxro?at_medium=RSS&at_campaign=rss))
-- Warning as rail workers' strike set to cause 'significant disruption' ([2 hours ago](https://www.bbc.com/news/articles/c2knl98j3pdo?at_medium=RSS&at_campaign=rss))
-- Arts in the Forest could 'flourish' with funding ([15 hours ago](https://www.bbc.com/news/articles/cn76738x772o?at_medium=RSS&at_campaign=rss))
-- Gloucestershire in Pictures: Scarecrows and halos ([21 hours ago](https://www.bbc.com/news/articles/cr5qyr208vgo?at_medium=RSS&at_campaign=rss))
+- More than £780k spent on gagging orders by Gloucestershire councils ([3 hours ago](https://gloucesternewscentre.co.uk/more-than-780k-spent-on-gagging-orders-by-gloucestershire-councils/))
+- Woman dropped sex assault case after court delays ([3 hours ago](https://www.bbc.com/news/articles/cy50zp3dvxro?at_medium=RSS&at_campaign=rss))
+- Warning as rail workers' strike set to cause 'significant disruption' ([3 hours ago](https://www.bbc.com/news/articles/c2knl98j3pdo?at_medium=RSS&at_campaign=rss))
+- Arts in the Forest could 'flourish' with funding ([16 hours ago](https://www.bbc.com/news/articles/cn76738x772o?at_medium=RSS&at_campaign=rss))
+- Gloucestershire in Pictures: Scarecrows and halos ([22 hours ago](https://www.bbc.com/news/articles/cr5qyr208vgo?at_medium=RSS&at_campaign=rss))
 - School worker denies sexual relationship with teenage boy ([1 days ago](https://gloucesternewscentre.co.uk/school-worker-denies-sexual-relationship-with-teenage-boy/))
 - Hospital staff mark 200th day of strike in long-running pay dispute ([1 days ago](https://gloucesternewscentre.co.uk/hospital-staff-mark-200th-day-of-strike-in-long-running-pay-dispute/))
 - Longest strike in NHS history reaches 200 days ([1 days ago](https://www.bbc.com/news/articles/c3e7qn4z23eo?at_medium=RSS&at_campaign=rss))
