@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:atom="http://www.w3.org/2005/Atom"
  xmlns:georss="http://www.georss.org/georss"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -15,6 +15,87 @@
 <atom:link href="https://www.fixmystreet.com/rss/l/51.897991,-2.071308/10" rel="self" type="application/rss+xml"/>
 
 <item>
+<title>TMC - Defects -CW6 Potholes  problem, 14th October</title>
+<link>https://www.fixmystreet.com/report/8292669</link>
+<description>NWD stop and go carriageway pothole approximately 500x400x70mm tarmac  patch (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8292669&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8292669</guid>
+<pubDate>Tue, 14 Oct 2025 09:32:14 +0100</pubDate>
+<georss:point>51.9129635 -2.1067797</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Kerbs and Channels problem, 14th October</title>
+<link>https://www.fixmystreet.com/report/8292671</link>
+<description>Give and take 28 days  please lift an relay x1 raised   rocking 900x100x40mm  dropped kerb stone stats required (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8292671&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Kerbs and Channels</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8292671</guid>
+<pubDate>Tue, 14 Oct 2025 09:32:14 +0100</pubDate>
+<georss:point>51.9106783 -2.10923580000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 14th October</title>
+<link>https://www.fixmystreet.com/report/8292670</link>
+<description>2 way stop and go 28 day carriageway pothole approximately 500x400x70mm tarmac  patch (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8292670&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8292670</guid>
+<pubDate>Tue, 14 Oct 2025 09:32:14 +0100</pubDate>
+<georss:point>51.9130076427072 -2.10677908983641</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Kerbs and Channels problem, 14th October</title>
+<link>https://www.fixmystreet.com/report/8292666</link>
+<description>2 way  stop and go 28 days  please lift an replace x1 sunken broken 900x100x42mm kerb stone stats required 10x6 (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8292666&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Kerbs and Channels</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8292666</guid>
+<pubDate>Tue, 14 Oct 2025 09:29:48 +0100</pubDate>
+<georss:point>51.9111958 -2.1142825</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 14th October</title>
+<link>https://www.fixmystreet.com/report/8292668</link>
+<description>Give and take 28 day plus temporary footway closure footway abrupt level different 800x660x41mm stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8292668&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8292668</guid>
+<pubDate>Tue, 14 Oct 2025 09:29:48 +0100</pubDate>
+<georss:point>51.9122271 -2.11266659999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 14th October</title>
+<link>https://www.fixmystreet.com/report/8292667</link>
+<description>NWD Give and take plus temporary footway closure footway abrupt level different 800x660x41mm stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8292667&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8292667</guid>
+<pubDate>Tue, 14 Oct 2025 09:29:48 +0100</pubDate>
+<georss:point>51.9122179 -2.11267200000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 14th October</title>
+<link>https://www.fixmystreet.com/report/8292665</link>
+<description>Give and take plus temporary footway closure footway abrupt level different 1100x1000x25mm stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8292665&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8292665</guid>
+<pubDate>Tue, 14 Oct 2025 09:29:32 +0100</pubDate>
+<georss:point>51.9082434 -2.11855430000001</georss:point>
+</item>
+<item>
+<title>Fallen tree blocking footpath, 14th October</title>
+<link>https://www.fixmystreet.com/report/8292573</link>
+<description>Gypsy Lane postcode GL51 4UH about 150m from Badgeworth Lane.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Orchard Drive, Badgeworth, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8292573&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Obstruction caused by tree</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8292573</guid>
+<pubDate>Tue, 14 Oct 2025 09:18:39 +0100</pubDate>
+<georss:point>51.863084 -2.130027</georss:point>
+</item>
+<item>
+<title>Illegal flags attached to street furniture, 14th October</title>
+<link>https://www.fixmystreet.com/report/8292559</link>
+<description>The flags have been in place for months and still not removed. Not only are they illegally placed on street furniture, they are known to be making a political statement. They should be removed&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Tewkesbury Road, Kingsditch, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8292559&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Flyposting</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8292559</guid>
+<pubDate>Tue, 14 Oct 2025 09:16:20 +0100</pubDate>
+<georss:point>51.917351 -2.106546</georss:point>
+</item>
+<item>
 <title>Need for yellow boxes, 14th October</title>
 <link>https://www.fixmystreet.com/report/8292403</link>
 <description>The roundabout nr GCHQ desperately needs yellow boxes to stop the lanes getting clogged up. When busy, this roundabout becomes dangerous where you have cars from all angles trying to use the roundabout &amp;amp; often narrowly crossing paths, enraging drivers. It gets to a point all roads surrounding the roundabout are at a standstill. Please put yellow boxes on the section heading towards Cheltenham so traffic taking the second exit can flow&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Arle Court Roundabout, Hatherley, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8292403&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
@@ -22,6 +103,15 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/8292403</guid>
 <pubDate>Tue, 14 Oct 2025 08:54:14 +0100</pubDate>
 <georss:point>51.894924 -2.129641</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Road Markings problem, 14th October</title>
+<link>https://www.fixmystreet.com/report/8292485</link>
+<description>ROAD CLOSURE  28 DAY  PLEASE REFRESH  STOP MARKINGS APPROXIMATELY 7 METERS LINE PLUS X 2 3 METER LINES (Faded Road Markings)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8292485&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Road Markings</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8292485</guid>
+<pubDate>Tue, 14 Oct 2025 08:45:42 +0100</pubDate>
+<georss:point>51.9161944 -2.10475519999999</georss:point>
 </item>
 <item>
 <title>Large rocks placed on public pavement outside 47 Sandyleaze, 14th October</title>
@@ -103,96 +193,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/8291909</guid>
 <pubDate>Tue, 14 Oct 2025 06:09:31 +0100</pubDate>
 <georss:point>51.890632 -2.116841</georss:point>
-</item>
-<item>
-<title>Numerous potholes, 14th October</title>
-<link>https://www.fixmystreet.com/report/8291887</link>
-<description>I have riden my bike through Albany Road,through to Dagmar Road and then through to Tivoli street. The whole area is an absolute disgrace to Cheltenham. Numerous potholes and uneven roads are constant through those roads. With cars parked on both sides its very dangerous for cyclists like myself.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 19, Albany Road, Warden Hill, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8291887&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8291887</guid>
-<pubDate>Tue, 14 Oct 2025 05:16:14 +0100</pubDate>
-<georss:point>51.889699 -2.089531</georss:point>
-</item>
-<item>
-<title>Incomplete repairs, 13th October</title>
-<link>https://www.fixmystreet.com/report/8291612</link>
-<description>There were a line of three pot holes in the centre of the road (Harp Hill), outside Cleeve View property. All three were painted white. Two were repaired (after several chasers). The third remains untouched. It has been so long that the white paint has come off, and yet no repair. It is making cars rattle and shaking the house as they hit it at speed.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8291612.0.jpeg?a8524af4&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Harp Hill, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8291612&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8291612</guid>
-<pubDate>Mon, 13 Oct 2025 21:41:13 +0100</pubDate>
-<georss:point>51.899805 -2.050087</georss:point>
-</item>
-<item>
-<title>All street lights are out on road, 13th October</title>
-<link>https://www.fixmystreet.com/report/8291528</link>
-<description>Francis Street, GL53 7NY. All street lights on Francis Street.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 38, Francis Street, Naunton, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8291528&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Street light is permanently out</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8291528</guid>
-<pubDate>Mon, 13 Oct 2025 21:05:49 +0100</pubDate>
-<georss:point>51.887809 -2.078865</georss:point>
-</item>
-<item>
-<title>Street light out, 13th October</title>
-<link>https://www.fixmystreet.com/report/8291445</link>
-<description>This is on the left hand side of the road as you drive towards haymakers Road just above where the pavement starts. It’s been out for a long time.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 12, Vale Road, Bishop&#39;s Cleeve&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8291445&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Street light is permanently out</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8291445</guid>
-<pubDate>Mon, 13 Oct 2025 20:48:18 +0100</pubDate>
-<georss:point>51.953982 -2.062508</georss:point>
-</item>
-<item>
-<title>Deep pothole on Winchcombe Road, after railway bridge, 13th October</title>
-<link>https://www.fixmystreet.com/report/8291246</link>
-<description>A previously repaired pothole opposite ‘The old parsonage’ on the main road through Gretton has opened back up and entire filling has been removed. The pothole is quite deep and needs re-filling as cars are having to cross on to the other side of the road to avoid it. I first spotted the issue last Wednesday, and it does not appear to have been reported already / there is no paint around it.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Gretton Road, Gretton, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8291246&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8291246</guid>
-<pubDate>Mon, 13 Oct 2025 19:50:48 +0100</pubDate>
-<georss:point>51.972408 -1.991276</georss:point>
-</item>
-<item>
-<title>Graffiti on roundabout signs, 13th October</title>
-<link>https://www.fixmystreet.com/report/8291014</link>
-<description>All the signs on the roundabout have been vandalised&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Evesham Road, Bishop&#39;s Cleeve&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8291014&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Graffiti</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8291014</guid>
-<pubDate>Mon, 13 Oct 2025 18:42:41 +0100</pubDate>
-<georss:point>51.953123 -2.063702</georss:point>
-</item>
-<item>
-<title>Street light out, 13th October</title>
-<link>https://www.fixmystreet.com/report/8291005</link>
-<description>On Vale Road in between where cowslip drive joins vale road and haymakers road&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 12, Vale Road, Bishop&#39;s Cleeve&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8291005&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Street light is permanently out</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8291005</guid>
-<pubDate>Mon, 13 Oct 2025 18:40:22 +0100</pubDate>
-<georss:point>51.953958 -2.062492</georss:point>
-</item>
-<item>
-<title>Missing 30 mph warning sign - there were originally two signs (one on each side of the road): there is only one now., 13th October</title>
-<link>https://www.fixmystreet.com/report/8290956</link>
-<description>Between no. 26 and 29, Harvey&amp;#39;s Lane&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Harvey&#39;s Lane, Winchcombe, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8290956&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>General road markings, lines and stud issues</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8290956</guid>
-<pubDate>Mon, 13 Oct 2025 18:29:51 +0100</pubDate>
-<georss:point>51.95318 -1.976072</georss:point>
-</item>
-<item>
-<title>Multiple Potholes Dangerous to Cyclists, 13th October</title>
-<link>https://www.fixmystreet.com/report/8290356</link>
-<description>On entering Pittville Circus from Prestbury Road Roundabout, on the corner there are multiple patched potholes with the surrounding tarmac deteriorating and forming new potholes. This is a busy road and when cycling it is difficult to safely pick a smooth route through the rough tarmac and patched potholes whilst also sharing the busy road with cars. Please could this piece of road be resurfaced with a continuous and smooth road surface for the safety of cyclists. Thank you.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8290356.0.jpeg?fb61f22c&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Pittville Circus, Marle Hill, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8290356&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8290356</guid>
-<pubDate>Mon, 13 Oct 2025 16:22:42 +0100</pubDate>
-<georss:point>51.904656 -2.066431</georss:point>
-</item>
-<item>
-<title>Street light not working, 13th October</title>
-<link>https://www.fixmystreet.com/report/8290136</link>
-<description>Lamppost No. 23&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Golden Vale, Churchdown, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8290136&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Street light is permanently out</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8290136</guid>
-<pubDate>Mon, 13 Oct 2025 15:37:26 +0100</pubDate>
-<georss:point>51.885334 -2.17947</georss:point>
 </item>
 </channel>
 </rss>
