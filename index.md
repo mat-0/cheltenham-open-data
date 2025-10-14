@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Tuesday, 14 October 2025
 
-- The average temperature today is 12.97˚C,
-- With highs of 13.32˚C and lows of 12.69˚C,
-- It may feel like 12.46˚C with overcast clouds
-- The wind speed is 3.6m/s and visibility is 9000m
-- The pressure is 1030hPa and humidity is 82%
+- The average temperature today is 12.84˚C,
+- With highs of 13.32˚C and lows of 12.6˚C,
+- It may feel like 12.35˚C with overcast clouds
+- The wind speed is 2.57m/s and visibility is 10000m
+- The pressure is 1030hPa and humidity is 83%
 - The sun will rise at 06:31 and set at 17:17
 
 <!-- weather_marker ends -->
