@@ -23,11 +23,11 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 14th October :- [8295095](https://www.fixmystreet.com/report/8295095)
 - TMC - Defects -other CW6 problem, 14th October :- [8295096](https://www.fixmystreet.com/report/8295096)
 - A pothole in road problem, 14th October :- [8294947](https://www.fixmystreet.com/report/8294947)
-- TMC - Defects - Kerbs and Channels problem, 14th October :- [8294953](https://www.fixmystreet.com/report/8294953)
-- TMC - Defects - Kerbs and Channels problem, 14th October :- [8294954](https://www.fixmystreet.com/report/8294954)
-- TMC - Defects - Kerbs and Channels problem, 14th October :- [8294952](https://www.fixmystreet.com/report/8294952)
-- TMC - Defects - Kerbs and Channels problem, 14th October :- [8294951](https://www.fixmystreet.com/report/8294951)
 - TMC - Defects - Kerbs and Channels problem, 14th October :- [8294950](https://www.fixmystreet.com/report/8294950)
+- TMC - Defects - Kerbs and Channels problem, 14th October :- [8294952](https://www.fixmystreet.com/report/8294952)
+- TMC - Defects - Kerbs and Channels problem, 14th October :- [8294954](https://www.fixmystreet.com/report/8294954)
+- TMC - Defects - Kerbs and Channels problem, 14th October :- [8294953](https://www.fixmystreet.com/report/8294953)
+- TMC - Defects - Kerbs and Channels problem, 14th October :- [8294951](https://www.fixmystreet.com/report/8294951)
 - Obstruction caused by tree problem, 14th October :- [8294792](https://www.fixmystreet.com/report/8294792)
 
 <!-- fix_marker ends -->
