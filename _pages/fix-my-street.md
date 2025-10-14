@@ -9,11 +9,14 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
-- TMC - Defects -CW6 Potholes  problem, 14th October :- [8292669](https://www.fixmystreet.com/report/8292669)
+- Roadworks poor traffic flow, 14th October :- [8292978](https://www.fixmystreet.com/report/8292978)
+- TMC - Defects -CW10 Potholes problem, 14th October :- [8293068](https://www.fixmystreet.com/report/8293068)
+- TMC - Defects -FW6 Potholes problem, 14th October :- [8293067](https://www.fixmystreet.com/report/8293067)
 - TMC - Defects - Kerbs and Channels problem, 14th October :- [8292671](https://www.fixmystreet.com/report/8292671)
 - TMC - Defects -CW6 Potholes  problem, 14th October :- [8292670](https://www.fixmystreet.com/report/8292670)
-- TMC - Defects - Kerbs and Channels problem, 14th October :- [8292666](https://www.fixmystreet.com/report/8292666)
+- TMC - Defects -CW6 Potholes  problem, 14th October :- [8292669](https://www.fixmystreet.com/report/8292669)
 - TMC - Defects - Other FW6  Surface problem, 14th October :- [8292668](https://www.fixmystreet.com/report/8292668)
+- TMC - Defects - Kerbs and Channels problem, 14th October :- [8292666](https://www.fixmystreet.com/report/8292666)
 - TMC - Defects - Other FW6  Surface problem, 14th October :- [8292667](https://www.fixmystreet.com/report/8292667)
 - TMC - Defects - Other FW6  Surface problem, 14th October :- [8292665](https://www.fixmystreet.com/report/8292665)
 - Fallen tree blocking footpath, 14th October :- [8292573](https://www.fixmystreet.com/report/8292573)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 14th October :- [8292286](https://www.fixmystreet.com/report/8292286)
 - TMC - Defects - Kerbs and Channels problem, 14th October :- [8292281](https://www.fixmystreet.com/report/8292281)
 - Roadworks left causing obstruction despite minor repair being carried out over a week ago, 14th October :- [8292030](https://www.fixmystreet.com/report/8292030)
-- No lane markings, 14th October :- [8291927](https://www.fixmystreet.com/report/8291927)
-- Resident reports fungus at base, 14th October :- [8291911](https://www.fixmystreet.com/report/8291911)
-- Streetlight out, 14th October :- [8291909](https://www.fixmystreet.com/report/8291909)
 
 <!-- fix_marker ends -->
