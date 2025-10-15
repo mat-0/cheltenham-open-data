@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Both lights over Sidney Street council car park do not work, 15th October :- [8301058](https://www.fixmystreet.com/report/8301058)
 - Double streetlight out, 15th October :- [8300832](https://www.fixmystreet.com/report/8300832)
 - Double lightpost is out, 15th October :- [8300830](https://www.fixmystreet.com/report/8300830)
 - Drains completely blocked., 15th October :- [8300663](https://www.fixmystreet.com/report/8300663)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Kerbs and Channels problem, 15th October :- [8299811](https://www.fixmystreet.com/report/8299811)
 - TMC - Defects - Other FW6  Surface problem, 15th October :- [8299810](https://www.fixmystreet.com/report/8299810)
 - TMC - Defects - Other FW6  Surface problem, 15th October :- [8299809](https://www.fixmystreet.com/report/8299809)
-- TMC - Defects - Other FW6  Surface problem, 15th October :- [8299808](https://www.fixmystreet.com/report/8299808)
 
 <!-- fix_marker ends -->
