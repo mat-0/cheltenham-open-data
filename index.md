@@ -10,9 +10,9 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Wednesday, 15 October 2025
 
-- The average temperature today is 9.79˚C,
-- With highs of 10.55˚C and lows of 9.27˚C,
-- It may feel like 8.21˚C with overcast clouds
+- The average temperature today is 9.95˚C,
+- With highs of 10.4˚C and lows of 9.6˚C,
+- It may feel like 8.4˚C with overcast clouds
 - The wind speed is 3.09m/s and visibility is 10000m
 - The pressure is 1031hPa and humidity is 84%
 - The sun will rise at 06:32 and set at 17:15
