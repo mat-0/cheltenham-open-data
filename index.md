@@ -12,8 +12,8 @@ seo: Menu
 
 - The average temperature today is 9.79˚C,
 - With highs of 10.55˚C and lows of 9.27˚C,
-- It may feel like 9.58˚C with overcast clouds
-- The wind speed is 1.34m/s and visibility is 10000m
+- It may feel like 8.21˚C with overcast clouds
+- The wind speed is 3.09m/s and visibility is 10000m
 - The pressure is 1031hPa and humidity is 84%
 - The sun will rise at 06:32 and set at 17:15
 
