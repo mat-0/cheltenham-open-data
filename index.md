@@ -12,9 +12,9 @@ seo: Menu
 
 - The average temperature today is 9.91˚C,
 - With highs of 9.91˚C and lows of 9.91˚C,
-- It may feel like 8.91˚C with broken clouds
-- The wind speed is 2.23m/s and visibility is 10000m
-- The pressure is 1031hPa and humidity is 84%
+- It may feel like 8.93˚C with broken clouds
+- The wind speed is 2.2m/s and visibility is 10000m
+- The pressure is 1030hPa and humidity is 82%
 - The sun will rise at 06:32 and set at 17:15
 
 <!-- weather_marker ends -->
