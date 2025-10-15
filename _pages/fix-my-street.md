@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Double streetlight out, 15th October :- [8300832](https://www.fixmystreet.com/report/8300832)
+- Double lightpost is out, 15th October :- [8300830](https://www.fixmystreet.com/report/8300830)
 - Drains completely blocked., 15th October :- [8300663](https://www.fixmystreet.com/report/8300663)
 - Street light by juniper court has been off for a while now., 15th October :- [8300556](https://www.fixmystreet.com/report/8300556)
 - Road markings, particularly gyratory lines almost gone!, 15th October :- [8300401](https://www.fixmystreet.com/report/8300401)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 15th October :- [8299810](https://www.fixmystreet.com/report/8299810)
 - TMC - Defects - Other FW6  Surface problem, 15th October :- [8299809](https://www.fixmystreet.com/report/8299809)
 - TMC - Defects - Other FW6  Surface problem, 15th October :- [8299808](https://www.fixmystreet.com/report/8299808)
-- TMC - Defects - Other FW6  Surface problem, 15th October :- [8299807](https://www.fixmystreet.com/report/8299807)
-- TMC - Defects - Other FW6  Surface problem, 15th October :- [8299806](https://www.fixmystreet.com/report/8299806)
 
 <!-- fix_marker ends -->
