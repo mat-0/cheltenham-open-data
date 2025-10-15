@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Road markings, particularly gyratory lines almost gone!, 15th October :- [8300401](https://www.fixmystreet.com/report/8300401)
+- 'Bodged' road repair worse than before., 15th October :- [8300379](https://www.fixmystreet.com/report/8300379)
+- Fly tipped fridge and wardrobe in layby on a40, 15th October :- [8300361](https://www.fixmystreet.com/report/8300361)
+- Road has been repaired to a very poor standard, better than the first attempt but still not suitable for the speed of the road, 15th October :- [8300259](https://www.fixmystreet.com/report/8300259)
 - We have a tree outside the front of the house that looks increasingly vulnerable, leaning toward the house and very top heavy It is on public land and would appreciate if someone could come have a look to judge what to do with it Many thanks, 15th October :- [8299997](https://www.fixmystreet.com/report/8299997)
 - Littering under the car, 15th October :- [8299830](https://www.fixmystreet.com/report/8299830)
 - Missing street name by No22, 15th October :- [8299759](https://www.fixmystreet.com/report/8299759)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 15th October :- [8299806](https://www.fixmystreet.com/report/8299806)
 - TMC - Defects - Other FW6  Surface problem, 15th October :- [8299805](https://www.fixmystreet.com/report/8299805)
 - TMC - Defects - Other FW6  Surface problem, 15th October :- [8299804](https://www.fixmystreet.com/report/8299804)
-- TMC - Defects - Other FW6  Surface problem, 15th October :- [8299802](https://www.fixmystreet.com/report/8299802)
-- TMC - Defects - Other FW6  Surface problem, 15th October :- [8299801](https://www.fixmystreet.com/report/8299801)
-- TMC - Defects - Other FW6  Surface problem, 15th October :- [8299800](https://www.fixmystreet.com/report/8299800)
-- TMC - Defects - Kerbs and Channels problem, 15th October :- [8299799](https://www.fixmystreet.com/report/8299799)
 
 <!-- fix_marker ends -->
