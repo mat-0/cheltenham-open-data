@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Drains completely blocked., 15th October :- [8300663](https://www.fixmystreet.com/report/8300663)
+- Street light by juniper court has been off for a while now., 15th October :- [8300556](https://www.fixmystreet.com/report/8300556)
 - Road markings, particularly gyratory lines almost gone!, 15th October :- [8300401](https://www.fixmystreet.com/report/8300401)
 - 'Bodged' road repair worse than before., 15th October :- [8300379](https://www.fixmystreet.com/report/8300379)
 - Fly tipped fridge and wardrobe in layby on a40, 15th October :- [8300361](https://www.fixmystreet.com/report/8300361)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 15th October :- [8299808](https://www.fixmystreet.com/report/8299808)
 - TMC - Defects - Other FW6  Surface problem, 15th October :- [8299807](https://www.fixmystreet.com/report/8299807)
 - TMC - Defects - Other FW6  Surface problem, 15th October :- [8299806](https://www.fixmystreet.com/report/8299806)
-- TMC - Defects - Other FW6  Surface problem, 15th October :- [8299805](https://www.fixmystreet.com/report/8299805)
-- TMC - Defects - Other FW6  Surface problem, 15th October :- [8299804](https://www.fixmystreet.com/report/8299804)
 
 <!-- fix_marker ends -->
