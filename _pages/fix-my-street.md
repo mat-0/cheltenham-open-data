@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Road sign damaged, 16th October :- [8305725](https://www.fixmystreet.com/report/8305725)
+- Large potholes in footpath, 16th October :- [8305719](https://www.fixmystreet.com/report/8305719)
 - Tree growing around lamp post makes terrible noise when windy, 16th October :- [8305318](https://www.fixmystreet.com/report/8305318)
 - Traffic light timing, 16th October :- [8305209](https://www.fixmystreet.com/report/8305209)
 - Large pot hole, ground underneath pavemnet has caved in, 16th October :- [8304850](https://www.fixmystreet.com/report/8304850)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Street lighting not working, 16th October :- [8304039](https://www.fixmystreet.com/report/8304039)
 - TMC - Defects - Other problem, 16th October :- [8304154](https://www.fixmystreet.com/report/8304154)
 - TMC - Defects - Other problem, 16th October :- [8304151](https://www.fixmystreet.com/report/8304151)
-- TMC - Defects - Covers, Gratings & Frames problem, 16th October :- [8304145](https://www.fixmystreet.com/report/8304145)
-- Deep Pothole appeared on Blacksmith`s Lane, The Leigh, 16th October :- [8303873](https://www.fixmystreet.com/report/8303873)
 
 <!-- fix_marker ends -->
