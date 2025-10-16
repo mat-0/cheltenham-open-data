@@ -9,6 +9,16 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Miserden Road signs spray painted, 16th October :- [8302392](https://www.fixmystreet.com/report/8302392)
+- TMC - Defects -other CW6 problem, 16th October :- [8302251](https://www.fixmystreet.com/report/8302251)
+- TMC - Defects -other CW6 problem, 16th October :- [8302247](https://www.fixmystreet.com/report/8302247)
+- TMC - Defects -other CW6 problem, 16th October :- [8302241](https://www.fixmystreet.com/report/8302241)
+- TMC - Defects - Other problem, 16th October :- [8302238](https://www.fixmystreet.com/report/8302238)
+- TMC - Defects -other CW6 problem, 16th October :- [8301999](https://www.fixmystreet.com/report/8301999)
+- TMC - Defects -CW6 Potholes  problem, 16th October :- [8301995](https://www.fixmystreet.com/report/8301995)
+- TMC - Defects -CW6 Potholes  problem, 16th October :- [8301994](https://www.fixmystreet.com/report/8301994)
+- Post or sign leaning slightly (less than 20 degrees) problem, 16th October :- [8301991](https://www.fixmystreet.com/report/8301991)
+- TMC - Defects -CW6 Potholes  problem, 16th October :- [8301992](https://www.fixmystreet.com/report/8301992)
 - Street light not working, 16th October :- [8301667](https://www.fixmystreet.com/report/8301667)
 - Loose grating on Ironbridge end of bridge, 15th October :- [8301256](https://www.fixmystreet.com/report/8301256)
 - Both lights over Sidney Street council car park do not work, 15th October :- [8301058](https://www.fixmystreet.com/report/8301058)
@@ -19,15 +29,5 @@ permalink: /fix-my-street
 - Road markings, particularly gyratory lines almost gone!, 15th October :- [8300401](https://www.fixmystreet.com/report/8300401)
 - 'Bodged' road repair worse than before., 15th October :- [8300379](https://www.fixmystreet.com/report/8300379)
 - Fly tipped fridge and wardrobe in layby on a40, 15th October :- [8300361](https://www.fixmystreet.com/report/8300361)
-- Road has been repaired to a very poor standard, better than the first attempt but still not suitable for the speed of the road, 15th October :- [8300259](https://www.fixmystreet.com/report/8300259)
-- We have a tree outside the front of the house that looks increasingly vulnerable, leaning toward the house and very top heavy It is on public land and would appreciate if someone could come have a look to judge what to do with it Many thanks, 15th October :- [8299997](https://www.fixmystreet.com/report/8299997)
-- Littering under the car, 15th October :- [8299830](https://www.fixmystreet.com/report/8299830)
-- Missing street name by No22, 15th October :- [8299759](https://www.fixmystreet.com/report/8299759)
-- TMC - Defects -CW6 Potholes  problem, 15th October :- [8299942](https://www.fixmystreet.com/report/8299942)
-- TMC - Defects -CW6 Potholes  problem, 15th October :- [8299941](https://www.fixmystreet.com/report/8299941)
-- TMC - Defects - Kerbs and Channels problem, 15th October :- [8299814](https://www.fixmystreet.com/report/8299814)
-- TMC - Defects - Other FW6  Surface problem, 15th October :- [8299813](https://www.fixmystreet.com/report/8299813)
-- TMC - Defects - Other FW6  Surface problem, 15th October :- [8299812](https://www.fixmystreet.com/report/8299812)
-- TMC - Defects - Kerbs and Channels problem, 15th October :- [8299811](https://www.fixmystreet.com/report/8299811)
 
 <!-- fix_marker ends -->
