@@ -9,10 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pavement is falling apart exposed subsurface, 16th October :- [8304558](https://www.fixmystreet.com/report/8304558)
+- Tree is damaged problem, 16th October :- [8304506](https://www.fixmystreet.com/report/8304506)
+- TMC - Defects - Other problem, 16th October :- [8304342](https://www.fixmystreet.com/report/8304342)
 - Large mature tree posing significant safety risk to property and pedestrians, 16th October :- [8304253](https://www.fixmystreet.com/report/8304253)
 - TMC - Defects -CW6 Potholes  problem, 16th October :- [8304162](https://www.fixmystreet.com/report/8304162)
-- TMC - Defects -CW6 Potholes  problem, 16th October :- [8304163](https://www.fixmystreet.com/report/8304163)
 - TMC - Defects -CW6 Potholes  problem, 16th October :- [8304161](https://www.fixmystreet.com/report/8304161)
+- TMC - Defects -CW6 Potholes  problem, 16th October :- [8304163](https://www.fixmystreet.com/report/8304163)
 - TMC - Defects -CW6 Potholes  problem, 16th October :- [8304159](https://www.fixmystreet.com/report/8304159)
 - Riad sign for "run Cheltenham" on pavement, 16th October :- [8304067](https://www.fixmystreet.com/report/8304067)
 - Street lighting not working, 16th October :- [8304039](https://www.fixmystreet.com/report/8304039)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Underneath explosion using trees, 16th October :- [8303579](https://www.fixmystreet.com/report/8303579)
 - TMC - Defects - Kerbs and Channels problem, 16th October :- [8303589](https://www.fixmystreet.com/report/8303589)
 - TMC - Defects - Kerbs and Channels problem, 16th October :- [8303588](https://www.fixmystreet.com/report/8303588)
-- Once again I'm reporting the problem with the rattling inspection cover, 16th October :- [8303445](https://www.fixmystreet.com/report/8303445)
-- TMC - Defects -FW6 Potholes problem, 16th October :- [8303239](https://www.fixmystreet.com/report/8303239)
-- TMC - Defects -FW6 Potholes problem, 16th October :- [8303237](https://www.fixmystreet.com/report/8303237)
 
 <!-- fix_marker ends -->
