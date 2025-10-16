@@ -8,13 +8,13 @@ seo: Menu
 ![Logo](/images/logo.jpg){:width="832px"}
 
 <!-- weather_marker starts -->
-## On Wednesday, 15 October 2025
+## On Thursday, 16 October 2025
 
-- The average temperature today is 11.14˚C,
-- With highs of 11.4˚C and lows of 10.93˚C,
-- It may feel like 10.45˚C with clear sky
-- The wind speed is 2.24m/s and visibility is 10000m
-- The pressure is 1029hPa and humidity is 82%
+- The average temperature today is 10.76˚C,
+- With highs of 11.09˚C and lows of 10.39˚C,
+- It may feel like 10.01˚C with overcast clouds
+- The wind speed is 1.34m/s and visibility is 10000m
+- The pressure is 1028hPa and humidity is 81%
 - The sun will rise at 06:34 and set at 17:12
 
 <!-- weather_marker ends -->
