@@ -9,7 +9,18 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- No road resurface, 16th October :- [8302708](https://www.fixmystreet.com/report/8302708)
+- Shoddy road repair, 16th October :- [8302701](https://www.fixmystreet.com/report/8302701)
+- Shoddy road repair, 16th October :- [8302686](https://www.fixmystreet.com/report/8302686)
+- Damaged Surface, 16th October :- [8302553](https://www.fixmystreet.com/report/8302553)
+- The storm drain directly outside my property has a loose grate cover. It makes a loud clanking noise every time a vehicle passes over it. This has been reported before, but the issue persists. The grate clearly moves when under load, suggesting it is not properly seated in its frame. The noise is disruptive and may indicate the structure is deteriorating, posing a safety risk if ignored. Please ensure the site is inspected during live traffic conditions, as the problem only occurs when vehicles drive over it, 16th October :- [8302537](https://www.fixmystreet.com/report/8302537)
+- TMC - Defects -other CW6 problem, 16th October :- [8302650](https://www.fixmystreet.com/report/8302650)
+- TMC - Defects - Other problem, 16th October :- [8302452](https://www.fixmystreet.com/report/8302452)
+- TMC - Defects -other CW6 problem, 16th October :- [8302448](https://www.fixmystreet.com/report/8302448)
 - Miserden Road signs spray painted, 16th October :- [8302392](https://www.fixmystreet.com/report/8302392)
+- TMC - Defects -CW6 Potholes  problem, 16th October :- [8302445](https://www.fixmystreet.com/report/8302445)
+- TMC - Defects -CW6 Potholes  problem, 16th October :- [8302444](https://www.fixmystreet.com/report/8302444)
+- TMC - Defects - Signs & Street Furniture problem, 16th October :- [8302438](https://www.fixmystreet.com/report/8302438)
 - TMC - Defects -other CW6 problem, 16th October :- [8302251](https://www.fixmystreet.com/report/8302251)
 - TMC - Defects -other CW6 problem, 16th October :- [8302247](https://www.fixmystreet.com/report/8302247)
 - TMC - Defects -other CW6 problem, 16th October :- [8302241](https://www.fixmystreet.com/report/8302241)
@@ -18,16 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 16th October :- [8301995](https://www.fixmystreet.com/report/8301995)
 - TMC - Defects -CW6 Potholes  problem, 16th October :- [8301994](https://www.fixmystreet.com/report/8301994)
 - Post or sign leaning slightly (less than 20 degrees) problem, 16th October :- [8301991](https://www.fixmystreet.com/report/8301991)
-- TMC - Defects -CW6 Potholes  problem, 16th October :- [8301992](https://www.fixmystreet.com/report/8301992)
-- Street light not working, 16th October :- [8301667](https://www.fixmystreet.com/report/8301667)
-- Loose grating on Ironbridge end of bridge, 15th October :- [8301256](https://www.fixmystreet.com/report/8301256)
-- Both lights over Sidney Street council car park do not work, 15th October :- [8301058](https://www.fixmystreet.com/report/8301058)
-- Double streetlight out, 15th October :- [8300832](https://www.fixmystreet.com/report/8300832)
-- Double lightpost is out, 15th October :- [8300830](https://www.fixmystreet.com/report/8300830)
-- Drains completely blocked., 15th October :- [8300663](https://www.fixmystreet.com/report/8300663)
-- Street light by juniper court has been off for a while now., 15th October :- [8300556](https://www.fixmystreet.com/report/8300556)
-- Road markings, particularly gyratory lines almost gone!, 15th October :- [8300401](https://www.fixmystreet.com/report/8300401)
-- 'Bodged' road repair worse than before., 15th October :- [8300379](https://www.fixmystreet.com/report/8300379)
-- Fly tipped fridge and wardrobe in layby on a40, 15th October :- [8300361](https://www.fixmystreet.com/report/8300361)
 
 <!-- fix_marker ends -->
