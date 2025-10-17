@@ -11,10 +11,10 @@ seo: Menu
 ## On Friday, 17 October 2025
 
 - The average temperature today is 12.2˚C,
-- With highs of 12.75˚C and lows of 12.04˚C,
-- It may feel like 11.46˚C with overcast clouds
+- With highs of 12.51˚C and lows of 11.58˚C,
+- It may feel like 11.49˚C with overcast clouds
 - The wind speed is 2.24m/s and visibility is 10000m
-- The pressure is 1025hPa and humidity is 76%
+- The pressure is 1025hPa and humidity is 77%
 - The sun will rise at 06:36 and set at 17:10
 
 <!-- weather_marker ends -->
