@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dead badger, 17th October :- [8306244](https://www.fixmystreet.com/report/8306244)
 - Worn yellow lines and exposed old parking marks, 16th October :- [8305829](https://www.fixmystreet.com/report/8305829)
 - No parking restrictions/lines driveways of no. 20 & 18 regularly blocked, 16th October :- [8305822](https://www.fixmystreet.com/report/8305822)
 - Road sign damaged, 16th October :- [8305725](https://www.fixmystreet.com/report/8305725)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 16th October :- [8304159](https://www.fixmystreet.com/report/8304159)
 - TMC - Defects -CW6 Potholes  problem, 16th October :- [8304161](https://www.fixmystreet.com/report/8304161)
 - Riad sign for "run Cheltenham" on pavement, 16th October :- [8304067](https://www.fixmystreet.com/report/8304067)
-- Street lighting not working, 16th October :- [8304039](https://www.fixmystreet.com/report/8304039)
 
 <!-- fix_marker ends -->
