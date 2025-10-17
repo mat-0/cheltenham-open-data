@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Portable toilet left after recent resurfacing work. Begining to smell. Health hazard, 17th October :- [8308601](https://www.fixmystreet.com/report/8308601)
 - Fly tipping in Gardners Lane near School and the Folley plus bushes need trimming back Shelter, 17th October :- [8308437](https://www.fixmystreet.com/report/8308437)
 - Street light is permanently out problem, 17th October :- [8308455](https://www.fixmystreet.com/report/8308455)
 - Broken road surface, 17th October :- [8308182](https://www.fixmystreet.com/report/8308182)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 17th October :- [8307568](https://www.fixmystreet.com/report/8307568)
 - TMC - Defects - Other FW6  Surface problem, 17th October :- [8307180](https://www.fixmystreet.com/report/8307180)
 - The 98 bus stop at Chargrove Lane is very dangerous, there is no pavement to step onto, just a narrow verge of brambles, mud and nettles. Somebody will slip and fall under the bus, 17th October :- [8307050](https://www.fixmystreet.com/report/8307050)
-- TMC - Defects - Other FW6  Surface problem, 17th October :- [8307178](https://www.fixmystreet.com/report/8307178)
 
 <!-- fix_marker ends -->
