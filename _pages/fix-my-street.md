@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Two street lights not working on symphony road, 17th October :- [8309824](https://www.fixmystreet.com/report/8309824)
 - Excessive parking on path causing path to break up and crumble. Trip hassard, 17th October :- [8309606](https://www.fixmystreet.com/report/8309606)
 - Street light not working, 17th October :- [8309534](https://www.fixmystreet.com/report/8309534)
 - Flags attached to lampposts illegally with racist motivations. This is a serious issue and it is concerning that the council have allowed these flags to stay up for so long. If the flags were placed there by the council for an event this could be understood however it was done by vandals with racist motivations during protests across the country. Please respond to this quickly., 17th October :- [8309403](https://www.fixmystreet.com/report/8309403)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Fly tipping in Gardners Lane near School and the Folley plus bushes need trimming back Shelter, 17th October :- [8308437](https://www.fixmystreet.com/report/8308437)
 - Street light is permanently out problem, 17th October :- [8308455](https://www.fixmystreet.com/report/8308455)
 - Broken road surface, 17th October :- [8308182](https://www.fixmystreet.com/report/8308182)
-- TMC - Defects - Other FW6  Surface problem, 17th October :- [8308125](https://www.fixmystreet.com/report/8308125)
 
 <!-- fix_marker ends -->
