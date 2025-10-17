@@ -25,8 +25,8 @@ permalink: /fix-my-street
 - Large mature tree posing significant safety risk to property and pedestrians, 16th October :- [8304253](https://www.fixmystreet.com/report/8304253)
 - TMC - Defects -CW6 Potholes  problem, 16th October :- [8304163](https://www.fixmystreet.com/report/8304163)
 - TMC - Defects -CW6 Potholes  problem, 16th October :- [8304162](https://www.fixmystreet.com/report/8304162)
-- TMC - Defects -CW6 Potholes  problem, 16th October :- [8304161](https://www.fixmystreet.com/report/8304161)
 - TMC - Defects -CW6 Potholes  problem, 16th October :- [8304159](https://www.fixmystreet.com/report/8304159)
+- TMC - Defects -CW6 Potholes  problem, 16th October :- [8304161](https://www.fixmystreet.com/report/8304161)
 - Riad sign for "run Cheltenham" on pavement, 16th October :- [8304067](https://www.fixmystreet.com/report/8304067)
 - Street lighting not working, 16th October :- [8304039](https://www.fixmystreet.com/report/8304039)
 
