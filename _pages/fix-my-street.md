@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- One Way sign is misaligned, has been rotated by lorry going wrong way up street., 17th October :- [8307979](https://www.fixmystreet.com/report/8307979)
+- The bus stop is on Up Hatherley Way by Chargrove Lane, 17th October :- [8307850](https://www.fixmystreet.com/report/8307850)
+- No street lighting in Langdon Road and part of Fairfield Parade, 17th October :- [8307789](https://www.fixmystreet.com/report/8307789)
 - Unpermitted roadworks problem, 17th October :- [8307559](https://www.fixmystreet.com/report/8307559)
 - TMC - Defects - Other FW6  Surface problem, 17th October :- [8307582](https://www.fixmystreet.com/report/8307582)
 - TMC - Defects -CW6 Potholes  problem, 17th October :- [8307577](https://www.fixmystreet.com/report/8307577)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Overhanging Trees, 17th October :- [8306951](https://www.fixmystreet.com/report/8306951)
 - TMC - Defects -FW6 Potholes problem, 17th October :- [8306990](https://www.fixmystreet.com/report/8306990)
 - Gravel and debris on cycle path, 17th October :- [8306886](https://www.fixmystreet.com/report/8306886)
-- Multiple potholes in the turning circle at end of close, 17th October :- [8306863](https://www.fixmystreet.com/report/8306863)
-- TMC - Defects - Other FW6  Surface problem, 17th October :- [8306984](https://www.fixmystreet.com/report/8306984)
-- Dead badger, 17th October :- [8306244](https://www.fixmystreet.com/report/8306244)
 
 <!-- fix_marker ends -->
