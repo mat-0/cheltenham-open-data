@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Gravel and debris on cycle path, 17th October :- [8306886](https://www.fixmystreet.com/report/8306886)
+- Multiple potholes in the turning circle at end of close, 17th October :- [8306863](https://www.fixmystreet.com/report/8306863)
 - Dead badger, 17th October :- [8306244](https://www.fixmystreet.com/report/8306244)
 - Worn yellow lines and exposed old parking marks, 16th October :- [8305829](https://www.fixmystreet.com/report/8305829)
 - No parking restrictions/lines driveways of no. 20 & 18 regularly blocked, 16th October :- [8305822](https://www.fixmystreet.com/report/8305822)
@@ -26,8 +28,6 @@ permalink: /fix-my-street
 - Large mature tree posing significant safety risk to property and pedestrians, 16th October :- [8304253](https://www.fixmystreet.com/report/8304253)
 - TMC - Defects -CW6 Potholes  problem, 16th October :- [8304163](https://www.fixmystreet.com/report/8304163)
 - TMC - Defects -CW6 Potholes  problem, 16th October :- [8304162](https://www.fixmystreet.com/report/8304162)
-- TMC - Defects -CW6 Potholes  problem, 16th October :- [8304161](https://www.fixmystreet.com/report/8304161)
 - TMC - Defects -CW6 Potholes  problem, 16th October :- [8304159](https://www.fixmystreet.com/report/8304159)
-- Riad sign for "run Cheltenham" on pavement, 16th October :- [8304067](https://www.fixmystreet.com/report/8304067)
 
 <!-- fix_marker ends -->
