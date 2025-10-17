@@ -9,8 +9,17 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Other FW6  Surface problem, 17th October :- [8307180](https://www.fixmystreet.com/report/8307180)
+- The 98 bus stop at Chargrove Lane is very dangerous, there is no pavement to step onto, just a narrow verge of brambles, mud and nettles. Somebody will slip and fall under the bus, 17th October :- [8307050](https://www.fixmystreet.com/report/8307050)
+- TMC - Defects - Other FW6  Surface problem, 17th October :- [8307178](https://www.fixmystreet.com/report/8307178)
+- TMC - Defects - Other FW6  Surface problem, 17th October :- [8307177](https://www.fixmystreet.com/report/8307177)
+- TMC - Defects - Other FW6  Surface problem, 17th October :- [8307176](https://www.fixmystreet.com/report/8307176)
+- TMC - Defects - Other FW6  Surface problem, 17th October :- [8307175](https://www.fixmystreet.com/report/8307175)
+- Overhanging Trees, 17th October :- [8306951](https://www.fixmystreet.com/report/8306951)
+- TMC - Defects -FW6 Potholes problem, 17th October :- [8306990](https://www.fixmystreet.com/report/8306990)
 - Gravel and debris on cycle path, 17th October :- [8306886](https://www.fixmystreet.com/report/8306886)
 - Multiple potholes in the turning circle at end of close, 17th October :- [8306863](https://www.fixmystreet.com/report/8306863)
+- TMC - Defects - Other FW6  Surface problem, 17th October :- [8306984](https://www.fixmystreet.com/report/8306984)
 - Dead badger, 17th October :- [8306244](https://www.fixmystreet.com/report/8306244)
 - Worn yellow lines and exposed old parking marks, 16th October :- [8305829](https://www.fixmystreet.com/report/8305829)
 - No parking restrictions/lines driveways of no. 20 & 18 regularly blocked, 16th October :- [8305822](https://www.fixmystreet.com/report/8305822)
@@ -20,14 +29,5 @@ permalink: /fix-my-street
 - Traffic light timing, 16th October :- [8305209](https://www.fixmystreet.com/report/8305209)
 - Large pot hole, ground underneath pavemnet has caved in, 16th October :- [8304850](https://www.fixmystreet.com/report/8304850)
 - Tree is damaged problem, 16th October :- [8304799](https://www.fixmystreet.com/report/8304799)
-- Fly tipping, 16th October :- [8304648](https://www.fixmystreet.com/report/8304648)
-- The drain is blocked problem, 16th October :- [8304666](https://www.fixmystreet.com/report/8304666)
-- Pavement is falling apart exposed subsurface, 16th October :- [8304558](https://www.fixmystreet.com/report/8304558)
-- Tree is damaged problem, 16th October :- [8304506](https://www.fixmystreet.com/report/8304506)
-- TMC - Defects - Other problem, 16th October :- [8304342](https://www.fixmystreet.com/report/8304342)
-- Large mature tree posing significant safety risk to property and pedestrians, 16th October :- [8304253](https://www.fixmystreet.com/report/8304253)
-- TMC - Defects -CW6 Potholes  problem, 16th October :- [8304163](https://www.fixmystreet.com/report/8304163)
-- TMC - Defects -CW6 Potholes  problem, 16th October :- [8304162](https://www.fixmystreet.com/report/8304162)
-- TMC - Defects -CW6 Potholes  problem, 16th October :- [8304159](https://www.fixmystreet.com/report/8304159)
 
 <!-- fix_marker ends -->
