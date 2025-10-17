@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street light not working, 17th October :- [8309534](https://www.fixmystreet.com/report/8309534)
+- Flags attached to lampposts illegally with racist motivations. This is a serious issue and it is concerning that the council have allowed these flags to stay up for so long. If the flags were placed there by the council for an event this could be understood however it was done by vandals with racist motivations during protests across the country. Please respond to this quickly., 17th October :- [8309403](https://www.fixmystreet.com/report/8309403)
+- Difficulty getting out of Goldsmith Road/Pirton Fields., 17th October :- [8309391](https://www.fixmystreet.com/report/8309391)
+- Flags attached to lampposts along Tewksbury road illegally, 17th October :- [8309388](https://www.fixmystreet.com/report/8309388)
 - Multiple potholes which caused puncture when cycling, 17th October :- [8309304](https://www.fixmystreet.com/report/8309304)
 - Multiple potholes and inadequately repaired surface., 17th October :- [8309287](https://www.fixmystreet.com/report/8309287)
 - Damaged footpath/verge, 17th October :- [8309275](https://www.fixmystreet.com/report/8309275)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Broken road surface, 17th October :- [8308182](https://www.fixmystreet.com/report/8308182)
 - TMC - Defects - Other FW6  Surface problem, 17th October :- [8308125](https://www.fixmystreet.com/report/8308125)
 - TMC - Defects - Other FW6  Surface problem, 17th October :- [8308123](https://www.fixmystreet.com/report/8308123)
-- TMC - Defects - Other FW6  Surface problem, 17th October :- [8308124](https://www.fixmystreet.com/report/8308124)
-- One Way sign is misaligned, has been rotated by lorry going wrong way up street., 17th October :- [8307979](https://www.fixmystreet.com/report/8307979)
-- The bus stop is on Up Hatherley Way by Chargrove Lane, 17th October :- [8307850](https://www.fixmystreet.com/report/8307850)
-- No street lighting in Langdon Road and part of Fairfield Parade, 17th October :- [8307789](https://www.fixmystreet.com/report/8307789)
 
 <!-- fix_marker ends -->
