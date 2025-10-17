@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Multiple potholes which caused puncture when cycling, 17th October :- [8309304](https://www.fixmystreet.com/report/8309304)
+- Multiple potholes and inadequately repaired surface., 17th October :- [8309287](https://www.fixmystreet.com/report/8309287)
+- Damaged footpath/verge, 17th October :- [8309275](https://www.fixmystreet.com/report/8309275)
+- The pavement is significantly raised and is therefore very dangerous for pedestrians, 17th October :- [8309262](https://www.fixmystreet.com/report/8309262)
+- Traffic light sequence, 17th October :- [8309136](https://www.fixmystreet.com/report/8309136)
+- Large hole on Hewlett Road, 17th October :- [8309075](https://www.fixmystreet.com/report/8309075)
 - At least 2 feet wide left hand side as you drive to churchdown, 17th October :- [8308859](https://www.fixmystreet.com/report/8308859)
 - 10" pot hole near curb, 17th October :- [8308840](https://www.fixmystreet.com/report/8308840)
 - At least 10" allotment side, 17th October :- [8308824](https://www.fixmystreet.com/report/8308824)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - One Way sign is misaligned, has been rotated by lorry going wrong way up street., 17th October :- [8307979](https://www.fixmystreet.com/report/8307979)
 - The bus stop is on Up Hatherley Way by Chargrove Lane, 17th October :- [8307850](https://www.fixmystreet.com/report/8307850)
 - No street lighting in Langdon Road and part of Fairfield Parade, 17th October :- [8307789](https://www.fixmystreet.com/report/8307789)
-- Unpermitted roadworks problem, 17th October :- [8307559](https://www.fixmystreet.com/report/8307559)
-- TMC - Defects - Other FW6  Surface problem, 17th October :- [8307582](https://www.fixmystreet.com/report/8307582)
-- TMC - Defects -CW6 Potholes  problem, 17th October :- [8307577](https://www.fixmystreet.com/report/8307577)
-- TMC - Defects -CW6 Potholes  problem, 17th October :- [8307576](https://www.fixmystreet.com/report/8307576)
-- Missing sign (Parking) problem, 17th October :- [8307558](https://www.fixmystreet.com/report/8307558)
-- TMC - Defects - Other FW6  Surface problem, 17th October :- [8307572](https://www.fixmystreet.com/report/8307572)
 
 <!-- fix_marker ends -->
