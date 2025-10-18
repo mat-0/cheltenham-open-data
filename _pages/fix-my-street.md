@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tesco trolley, 18th October :- [8310914](https://www.fixmystreet.com/report/8310914)
 - Turning right from Gloucester Road into St Geoges Road the right turn arrow doesn't always work. This causes big problems when so many people jump the traffic lights meaning right turners stuck in the middle of the road, 18th October :- [8310711](https://www.fixmystreet.com/report/8310711)
 - Barriers left by contractors, 18th October :- [8310680](https://www.fixmystreet.com/report/8310680)
 - Blocked drain near the crossing at entrance to Tesco, 17th October :- [8310013](https://www.fixmystreet.com/report/8310013)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - At least 2 feet wide left hand side as you drive to churchdown, 17th October :- [8308859](https://www.fixmystreet.com/report/8308859)
 - 10" pot hole near curb, 17th October :- [8308840](https://www.fixmystreet.com/report/8308840)
 - At least 10" allotment side, 17th October :- [8308824](https://www.fixmystreet.com/report/8308824)
-- Approx. 10" on allotment side, 17th October :- [8308641](https://www.fixmystreet.com/report/8308641)
 
 <!-- fix_marker ends -->
