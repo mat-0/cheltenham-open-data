@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 2 bus stop signs are missing along Delavale Road Winchcombe, The first one is about half w, 18th October :- [8311953](https://www.fixmystreet.com/report/8311953)
+- Large pothole in lane, 18th October :- [8311952](https://www.fixmystreet.com/report/8311952)
+- Volunteer litter pick bags ready for collection, 18th October :- [8311853](https://www.fixmystreet.com/report/8311853)
+- Audible sound not working, 18th October :- [8311838](https://www.fixmystreet.com/report/8311838)
 - Advertising banner attached to railings, 18th October :- [8311728](https://www.fixmystreet.com/report/8311728)
 - Bus shelter needs cleaning, 18th October :- [8311717](https://www.fixmystreet.com/report/8311717)
 - Remnants of metal post sticking out of pavement, 18th October :- [8311642](https://www.fixmystreet.com/report/8311642)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Excessive parking on path causing path to break up and crumble. Trip hassard, 17th October :- [8309606](https://www.fixmystreet.com/report/8309606)
 - Street light not working, 17th October :- [8309534](https://www.fixmystreet.com/report/8309534)
 - Flags attached to lampposts illegally with racist motivations. This is a serious issue and it is concerning that the council have allowed these flags to stay up for so long. If the flags were placed there by the council for an event this could be understood however it was done by vandals with racist motivations during protests across the country. Please respond to this quickly., 17th October :- [8309403](https://www.fixmystreet.com/report/8309403)
-- Difficulty getting out of Goldsmith Road/Pirton Fields., 17th October :- [8309391](https://www.fixmystreet.com/report/8309391)
-- Flags attached to lampposts along Tewksbury road illegally, 17th October :- [8309388](https://www.fixmystreet.com/report/8309388)
-- Multiple potholes which caused puncture when cycling, 17th October :- [8309304](https://www.fixmystreet.com/report/8309304)
-- Multiple potholes and inadequately repaired surface., 17th October :- [8309287](https://www.fixmystreet.com/report/8309287)
 
 <!-- fix_marker ends -->
