@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Blocked drain near the crossing at entrance to Tesco, 17th October :- [8310013](https://www.fixmystreet.com/report/8310013)
+- Cul de sac sign has fallen, 17th October :- [8310004](https://www.fixmystreet.com/report/8310004)
 - Two street lights not working on symphony road, 17th October :- [8309824](https://www.fixmystreet.com/report/8309824)
 - Excessive parking on path causing path to break up and crumble. Trip hassard, 17th October :- [8309606](https://www.fixmystreet.com/report/8309606)
 - Street light not working, 17th October :- [8309534](https://www.fixmystreet.com/report/8309534)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Approx. 10" on allotment side, 17th October :- [8308641](https://www.fixmystreet.com/report/8308641)
 - Portable toilet left after recent resurfacing work. Begining to smell. Health hazard, 17th October :- [8308601](https://www.fixmystreet.com/report/8308601)
 - Fly tipping in Gardners Lane near School and the Folley plus bushes need trimming back Shelter, 17th October :- [8308437](https://www.fixmystreet.com/report/8308437)
-- Street light is permanently out problem, 17th October :- [8308455](https://www.fixmystreet.com/report/8308455)
-- Broken road surface, 17th October :- [8308182](https://www.fixmystreet.com/report/8308182)
 
 <!-- fix_marker ends -->
