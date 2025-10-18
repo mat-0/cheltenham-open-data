@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Blocked drain, 18th October :- [8312153](https://www.fixmystreet.com/report/8312153)
+- Large pot hole in the middle of the road down to the hard core, 18th October :- [8312037](https://www.fixmystreet.com/report/8312037)
 - 2 bus stop signs are missing along Delavale Road Winchcombe, The first one is about half w, 18th October :- [8311953](https://www.fixmystreet.com/report/8311953)
 - Large pothole in lane, 18th October :- [8311952](https://www.fixmystreet.com/report/8311952)
 - Volunteer litter pick bags ready for collection, 18th October :- [8311853](https://www.fixmystreet.com/report/8311853)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Cul de sac sign has fallen, 17th October :- [8310004](https://www.fixmystreet.com/report/8310004)
 - Two street lights not working on symphony road, 17th October :- [8309824](https://www.fixmystreet.com/report/8309824)
 - Excessive parking on path causing path to break up and crumble. Trip hassard, 17th October :- [8309606](https://www.fixmystreet.com/report/8309606)
-- Street light not working, 17th October :- [8309534](https://www.fixmystreet.com/report/8309534)
-- Flags attached to lampposts illegally with racist motivations. This is a serious issue and it is concerning that the council have allowed these flags to stay up for so long. If the flags were placed there by the council for an event this could be understood however it was done by vandals with racist motivations during protests across the country. Please respond to this quickly., 17th October :- [8309403](https://www.fixmystreet.com/report/8309403)
 
 <!-- fix_marker ends -->
