@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Turning right from Gloucester Road into St Geoges Road the right turn arrow doesn't always work. This causes big problems when so many people jump the traffic lights meaning right turners stuck in the middle of the road, 18th October :- [8310711](https://www.fixmystreet.com/report/8310711)
+- Barriers left by contractors, 18th October :- [8310680](https://www.fixmystreet.com/report/8310680)
 - Blocked drain near the crossing at entrance to Tesco, 17th October :- [8310013](https://www.fixmystreet.com/report/8310013)
 - Cul de sac sign has fallen, 17th October :- [8310004](https://www.fixmystreet.com/report/8310004)
 - Two street lights not working on symphony road, 17th October :- [8309824](https://www.fixmystreet.com/report/8309824)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - 10" pot hole near curb, 17th October :- [8308840](https://www.fixmystreet.com/report/8308840)
 - At least 10" allotment side, 17th October :- [8308824](https://www.fixmystreet.com/report/8308824)
 - Approx. 10" on allotment side, 17th October :- [8308641](https://www.fixmystreet.com/report/8308641)
-- Portable toilet left after recent resurfacing work. Begining to smell. Health hazard, 17th October :- [8308601](https://www.fixmystreet.com/report/8308601)
-- Fly tipping in Gardners Lane near School and the Folley plus bushes need trimming back Shelter, 17th October :- [8308437](https://www.fixmystreet.com/report/8308437)
 
 <!-- fix_marker ends -->
