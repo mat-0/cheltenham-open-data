@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Man,19, dies in lorry crash ([7 hours ago](https://www.bbc.com/news/articles/cqjwzqyq59wo?at_medium=RSS&at_campaign=rss))
-- Hospital tower block revamp could take four years ([8 hours ago](https://www.bbc.com/news/articles/cj9703410nxo?at_medium=RSS&at_campaign=rss))
-- Memorial garden offers 'ringside' seat for veterans ([14 hours ago](https://www.bbc.com/news/articles/cly47dejg32o?at_medium=RSS&at_campaign=rss))
-- Social media fuelling pumpkin patch craze ([14 hours ago](https://www.bbc.com/news/articles/c9313ew8980o?at_medium=RSS&at_campaign=rss))
+- Man,19, dies in lorry crash ([8 hours ago](https://www.bbc.com/news/articles/cqjwzqyq59wo?at_medium=RSS&at_campaign=rss))
+- Hospital tower block revamp could take four years ([9 hours ago](https://www.bbc.com/news/articles/cj9703410nxo?at_medium=RSS&at_campaign=rss))
+- Memorial garden offers 'ringside' seat for veterans ([15 hours ago](https://www.bbc.com/news/articles/cly47dejg32o?at_medium=RSS&at_campaign=rss))
+- Social media fuelling pumpkin patch craze ([15 hours ago](https://www.bbc.com/news/articles/c9313ew8980o?at_medium=RSS&at_campaign=rss))
 - We're furious the 'Lip King' is selling weight-loss jabs, say dead mother's family ([1 days ago](https://www.bbc.com/news/articles/c4gk0w95jyjo?at_medium=RSS&at_campaign=rss))
 - Three charged with human trafficking offences ([1 days ago](https://www.bbc.com/news/articles/cqx3wp5de9do?at_medium=RSS&at_campaign=rss))
 - Go-ahead for food and drink trailer at popular Cheltenham park ([1 days ago](https://gloucesternewscentre.co.uk/go-ahead-for-food-and-drink-trailer-at-popular-cheltenham-park/))
@@ -25,7 +25,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Open letter on future of Cavendish House from our leader ([1 days ago](https://www.cheltenham.gov.uk/news/article/3058/open_letter_on_future_of_cavendish_house_from_our_leader))
 - 'It's just a shame mum couldn't see us meet' ([1 days ago](https://www.bbc.com/news/articles/cvg7lp7n11no?at_medium=RSS&at_campaign=rss))
 - Send students share nerve-wracking journey planning life after college ([1 days ago](https://www.bbc.com/news/articles/cpq1zwwjlezo?at_medium=RSS&at_campaign=rss))
-- Tractor driver killed in single vehicle collision ([1 days ago](https://www.bbc.com/news/articles/cp3x5kr2y79o?at_medium=RSS&at_campaign=rss))
+- Tractor driver killed in single vehicle collision ([2 days ago](https://www.bbc.com/news/articles/cp3x5kr2y79o?at_medium=RSS&at_campaign=rss))
 - Police appeal for information after spate of burglaries in Cheltenham ([2 days ago](https://gloucesternewscentre.co.uk/police-appeal-for-information-after-spate-of-burglaries-in-cheltenham-2/))
 - Concerns over rough sleeping in Cheltenham ([2 days ago](https://gloucesternewscentre.co.uk/concerns-over-rough-sleeping-in-cheltenham/))
 - Reform surge could reshape Gloucestershire’s political map, mega-poll shows ([2 days ago](https://gloucesternewscentre.co.uk/reform-surge-could-reshape-gloucestershires-political-map-mega-poll-shows/))
