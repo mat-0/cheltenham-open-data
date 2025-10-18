@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Advertising banner attached to railings, 18th October :- [8311728](https://www.fixmystreet.com/report/8311728)
+- Bus shelter needs cleaning, 18th October :- [8311717](https://www.fixmystreet.com/report/8311717)
 - Remnants of metal post sticking out of pavement, 18th October :- [8311642](https://www.fixmystreet.com/report/8311642)
 - 2 tyres by underpass, 18th October :- [8311630](https://www.fixmystreet.com/report/8311630)
 - New pedestrian/cycle crossing lights do not change to red when pressed, 18th October :- [8311499](https://www.fixmystreet.com/report/8311499)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Flags attached to lampposts along Tewksbury road illegally, 17th October :- [8309388](https://www.fixmystreet.com/report/8309388)
 - Multiple potholes which caused puncture when cycling, 17th October :- [8309304](https://www.fixmystreet.com/report/8309304)
 - Multiple potholes and inadequately repaired surface., 17th October :- [8309287](https://www.fixmystreet.com/report/8309287)
-- Damaged footpath/verge, 17th October :- [8309275](https://www.fixmystreet.com/report/8309275)
-- The pavement is significantly raised and is therefore very dangerous for pedestrians, 17th October :- [8309262](https://www.fixmystreet.com/report/8309262)
 
 <!-- fix_marker ends -->
