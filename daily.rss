@@ -2,7 +2,7 @@
       ---
       {% assign contents_of_page = site.pages | where: "name", "news.md" | first %}
       {% assign pub_date = site.time | date_to_rfc822 %} 
-      {% assign guid_date = site.time | date: "%Y-%m-%d" %}
+      {% assign guid = site.time | date: "%Y-%m-%d" %}
       <?xml version="1.0" encoding="UTF-8" ?>
       <rss version="2.0">
         <channel>
@@ -11,9 +11,9 @@
            <description>List of open issues for insure.thechels.uk</description>
           <item>
             <title>Daily Rundown for {{ pub_date }}</title>
-            <link>https://cod.thechels.uk/news/#{{ guid_date }}</link>
-            <guid isPermaLink="false">Daily Summary for {{ guid_date }}</guid>
-            <pubDate>{{ guid_date }}</pubDate>
+            <link>https://cod.thechels.uk/news/#{{ guid }}</link>
+            <guid isPermaLink="false">Daily Summary for {{ guid }}</guid>
+            <pubDate>{{ pub_date }}</pubDate>
             <description>
             <![CDATA[ {{ contents_of_page.content | markdownify }} ]]>
             </description>
