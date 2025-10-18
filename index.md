@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Saturday, 18 October 2025
 
-- The average temperature today is 11.17˚C,
-- With highs of 11.66˚C and lows of 10.47˚C,
-- It may feel like 10.46˚C with light rain
-- The wind speed is 5.36m/s and visibility is 10000m
-- The pressure is 1015hPa and humidity is 81%
+- The average temperature today is 11.44˚C,
+- With highs of 12.21˚C and lows of 10.47˚C,
+- It may feel like 10.75˚C with overcast clouds
+- The wind speed is 4.92m/s and visibility is 10000m
+- The pressure is 1013hPa and humidity is 81%
 - The sun will rise at 06:37 and set at 17:08
 
 <!-- weather_marker ends -->

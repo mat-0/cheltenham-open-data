@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Lights out on Village Road, 18th October :- [8312614](https://www.fixmystreet.com/report/8312614)
+- Need to review the repair at the top of the hill, 18th October :- [8312611](https://www.fixmystreet.com/report/8312611)
 - Repaired patch needs repairing once again, 18th October :- [8312605](https://www.fixmystreet.com/report/8312605)
 - Multiple crashes on junction, 18th October :- [8312591](https://www.fixmystreet.com/report/8312591)
 - Blocked drain, 18th October :- [8312153](https://www.fixmystreet.com/report/8312153)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Tesco trolley, 18th October :- [8310914](https://www.fixmystreet.com/report/8310914)
 - Turning right from Gloucester Road into St Geoges Road the right turn arrow doesn't always work. This causes big problems when so many people jump the traffic lights meaning right turners stuck in the middle of the road, 18th October :- [8310711](https://www.fixmystreet.com/report/8310711)
 - Barriers left by contractors, 18th October :- [8310680](https://www.fixmystreet.com/report/8310680)
-- Blocked drain near the crossing at entrance to Tesco, 17th October :- [8310013](https://www.fixmystreet.com/report/8310013)
-- Cul de sac sign has fallen, 17th October :- [8310004](https://www.fixmystreet.com/report/8310004)
 
 <!-- fix_marker ends -->
