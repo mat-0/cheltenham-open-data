@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Remnants of metal post sticking out of pavement, 18th October :- [8311642](https://www.fixmystreet.com/report/8311642)
+- 2 tyres by underpass, 18th October :- [8311630](https://www.fixmystreet.com/report/8311630)
+- New pedestrian/cycle crossing lights do not change to red when pressed, 18th October :- [8311499](https://www.fixmystreet.com/report/8311499)
 - Willow tree belonging to no17 overhanging/blocking pathway, 18th October :- [8311486](https://www.fixmystreet.com/report/8311486)
 - Blocked drains in.and around corner of 3 Pittville Crescent Lane, 18th October :- [8311279](https://www.fixmystreet.com/report/8311279)
 - Tesco trolley, 18th October :- [8310914](https://www.fixmystreet.com/report/8310914)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Multiple potholes and inadequately repaired surface., 17th October :- [8309287](https://www.fixmystreet.com/report/8309287)
 - Damaged footpath/verge, 17th October :- [8309275](https://www.fixmystreet.com/report/8309275)
 - The pavement is significantly raised and is therefore very dangerous for pedestrians, 17th October :- [8309262](https://www.fixmystreet.com/report/8309262)
-- Traffic light sequence, 17th October :- [8309136](https://www.fixmystreet.com/report/8309136)
-- Large hole on Hewlett Road, 17th October :- [8309075](https://www.fixmystreet.com/report/8309075)
-- At least 2 feet wide left hand side as you drive to churchdown, 17th October :- [8308859](https://www.fixmystreet.com/report/8308859)
 
 <!-- fix_marker ends -->
