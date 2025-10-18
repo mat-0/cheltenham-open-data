@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Man,19, dies in lorry crash ([6 hours ago](https://www.bbc.com/news/articles/cqjwzqyq59wo?at_medium=RSS&at_campaign=rss))
-- Hospital tower block revamp could take four years ([7 hours ago](https://www.bbc.com/news/articles/cj9703410nxo?at_medium=RSS&at_campaign=rss))
-- Memorial garden offers 'ringside' seat for veterans ([13 hours ago](https://www.bbc.com/news/articles/cly47dejg32o?at_medium=RSS&at_campaign=rss))
-- Social media fuelling pumpkin patch craze ([13 hours ago](https://www.bbc.com/news/articles/c9313ew8980o?at_medium=RSS&at_campaign=rss))
+- Man,19, dies in lorry crash ([7 hours ago](https://www.bbc.com/news/articles/cqjwzqyq59wo?at_medium=RSS&at_campaign=rss))
+- Hospital tower block revamp could take four years ([8 hours ago](https://www.bbc.com/news/articles/cj9703410nxo?at_medium=RSS&at_campaign=rss))
+- Memorial garden offers 'ringside' seat for veterans ([14 hours ago](https://www.bbc.com/news/articles/cly47dejg32o?at_medium=RSS&at_campaign=rss))
+- Social media fuelling pumpkin patch craze ([14 hours ago](https://www.bbc.com/news/articles/c9313ew8980o?at_medium=RSS&at_campaign=rss))
 - We're furious the 'Lip King' is selling weight-loss jabs, say dead mother's family ([1 days ago](https://www.bbc.com/news/articles/c4gk0w95jyjo?at_medium=RSS&at_campaign=rss))
 - Three charged with human trafficking offences ([1 days ago](https://www.bbc.com/news/articles/cqx3wp5de9do?at_medium=RSS&at_campaign=rss))
 - Go-ahead for food and drink trailer at popular Cheltenham park ([1 days ago](https://gloucesternewscentre.co.uk/go-ahead-for-food-and-drink-trailer-at-popular-cheltenham-park/))
@@ -35,7 +35,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Concerns over nudity and public defecation ([2 days ago](https://www.bbc.com/news/articles/c70j44p69lko?at_medium=RSS&at_campaign=rss))
 - 'Financial risk' as work begins on M5 upgrade ([2 days ago](https://www.bbc.com/news/articles/cwyplv5nd8vo?at_medium=RSS&at_campaign=rss))
 - Parents of Send children at 'breaking point' ([2 days ago](https://www.bbc.com/news/articles/ce3xzg6l5k5o?at_medium=RSS&at_campaign=rss))
-- Couple accused over groundsman's quad bike death ([2 days ago](https://www.bbc.com/news/articles/cvgkl35d2m2o?at_medium=RSS&at_campaign=rss))
+- Couple accused over groundsman's quad bike death ([3 days ago](https://www.bbc.com/news/articles/cvgkl35d2m2o?at_medium=RSS&at_campaign=rss))
 - Fears civic chiefs are being ‘softened up’ before permanent birth centre closure ([3 days ago](https://gloucesternewscentre.co.uk/fears-civic-chiefs-are-being-softened-up-before-permanent-birth-centre-closure/))
 - ‘Bonkers’ move to phase out fire co-responders criticised ([3 days ago](https://gloucesternewscentre.co.uk/bonkers-move-to-phase-out-fire-co-responders-criticised/))
 - Valuables and bank cards stolen in Leckhampton burglary ([3 days ago](https://gloucesternewscentre.co.uk/valuables-and-bank-cards-stolen-in-leckhampton-burglary/))
