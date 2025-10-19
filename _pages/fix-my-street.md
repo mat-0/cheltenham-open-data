@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Continued reported street clean not taking place, 19th October :- [8314701](https://www.fixmystreet.com/report/8314701)
 - There is a wide expanse of broken tarmac, 19th October :- [8314497](https://www.fixmystreet.com/report/8314497)
 - Manhole still not draining, 19th October :- [8314493](https://www.fixmystreet.com/report/8314493)
 - Sign post damaged, 19th October :- [8314467](https://www.fixmystreet.com/report/8314467)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Need to review the repair at the top of the hill, 18th October :- [8312611](https://www.fixmystreet.com/report/8312611)
 - Repaired patch needs repairing once again, 18th October :- [8312605](https://www.fixmystreet.com/report/8312605)
 - Multiple crashes on junction, 18th October :- [8312591](https://www.fixmystreet.com/report/8312591)
-- Blocked drain, 18th October :- [8312153](https://www.fixmystreet.com/report/8312153)
 
 <!-- fix_marker ends -->

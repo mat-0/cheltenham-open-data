@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Savage wants action on 'vile abuse' directed at him ([7 hours ago](https://www.bbc.com/sport/football/articles/c8r0jzj5p2vo?at_medium=RSS&at_campaign=rss))
-- Gloucestershire in pictures: Bats, books and full moons ([8 hours ago](https://www.bbc.com/news/articles/c205g430z56o?at_medium=RSS&at_campaign=rss))
-- 'When more people know CPR, more people survive' ([11 hours ago](https://www.bbc.com/news/articles/clylg2z6pv1o?at_medium=RSS&at_campaign=rss))
-- 'B&Q travellers' and 'naked rough sleepers' ([11 hours ago](https://www.bbc.com/news/articles/ceq0xgrz8gno?at_medium=RSS&at_campaign=rss))
+- Savage wants action on 'vile abuse' directed at him ([8 hours ago](https://www.bbc.com/sport/football/articles/c8r0jzj5p2vo?at_medium=RSS&at_campaign=rss))
+- Gloucestershire in pictures: Bats, books and full moons ([9 hours ago](https://www.bbc.com/news/articles/c205g430z56o?at_medium=RSS&at_campaign=rss))
+- 'When more people know CPR, more people survive' ([12 hours ago](https://www.bbc.com/news/articles/clylg2z6pv1o?at_medium=RSS&at_campaign=rss))
+- 'B&Q travellers' and 'naked rough sleepers' ([12 hours ago](https://www.bbc.com/news/articles/ceq0xgrz8gno?at_medium=RSS&at_campaign=rss))
 - Man,19, dies in lorry crash ([1 days ago](https://www.bbc.com/news/articles/cqjwzqyq59wo?at_medium=RSS&at_campaign=rss))
 - Hospital tower block revamp could take four years ([1 days ago](https://www.bbc.com/news/articles/cj9703410nxo?at_medium=RSS&at_campaign=rss))
 - Memorial garden offers 'ringside' seat for veterans ([1 days ago](https://www.bbc.com/news/articles/cly47dejg32o?at_medium=RSS&at_campaign=rss))
@@ -30,7 +30,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - 'It's just a shame mum couldn't see us meet' ([2 days ago](https://www.bbc.com/news/articles/cvg7lp7n11no?at_medium=RSS&at_campaign=rss))
 - Send students share nerve-wracking journey planning life after college ([2 days ago](https://www.bbc.com/news/articles/cpq1zwwjlezo?at_medium=RSS&at_campaign=rss))
 - Tractor driver killed in single vehicle collision ([2 days ago](https://www.bbc.com/news/articles/cp3x5kr2y79o?at_medium=RSS&at_campaign=rss))
-- Police appeal for information after spate of burglaries in Cheltenham ([2 days ago](https://gloucesternewscentre.co.uk/police-appeal-for-information-after-spate-of-burglaries-in-cheltenham-2/))
+- Police appeal for information after spate of burglaries in Cheltenham ([3 days ago](https://gloucesternewscentre.co.uk/police-appeal-for-information-after-spate-of-burglaries-in-cheltenham-2/))
 - Concerns over rough sleeping in Cheltenham ([3 days ago](https://gloucesternewscentre.co.uk/concerns-over-rough-sleeping-in-cheltenham/))
 - Reform surge could reshape Gloucestershire’s political map, mega-poll shows ([3 days ago](https://gloucesternewscentre.co.uk/reform-surge-could-reshape-gloucestershires-political-map-mega-poll-shows/))
 - New engagement for the Strategic and Local Plan goes live ([3 days ago](https://www.cheltenham.gov.uk/news/article/3059/new_engagement_for_the_strategic_and_local_plan_goes_live))
