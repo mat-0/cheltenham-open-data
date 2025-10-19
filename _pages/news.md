@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Savage wants action on 'vile abuse' directed at him ([2 hours ago](https://www.bbc.com/sport/football/articles/c8r0jzj5p2vo?at_medium=RSS&at_campaign=rss))
-- Gloucestershire in pictures: Bats, books and full moons ([3 hours ago](https://www.bbc.com/news/articles/c205g430z56o?at_medium=RSS&at_campaign=rss))
-- 'When more people know CPR, more people survive' ([6 hours ago](https://www.bbc.com/news/articles/clylg2z6pv1o?at_medium=RSS&at_campaign=rss))
-- 'B&Q travellers' and 'naked rough sleepers' ([6 hours ago](https://www.bbc.com/news/articles/ceq0xgrz8gno?at_medium=RSS&at_campaign=rss))
-- Man,19, dies in lorry crash ([23 hours ago](https://www.bbc.com/news/articles/cqjwzqyq59wo?at_medium=RSS&at_campaign=rss))
+- Savage wants action on 'vile abuse' directed at him ([3 hours ago](https://www.bbc.com/sport/football/articles/c8r0jzj5p2vo?at_medium=RSS&at_campaign=rss))
+- Gloucestershire in pictures: Bats, books and full moons ([4 hours ago](https://www.bbc.com/news/articles/c205g430z56o?at_medium=RSS&at_campaign=rss))
+- 'When more people know CPR, more people survive' ([7 hours ago](https://www.bbc.com/news/articles/clylg2z6pv1o?at_medium=RSS&at_campaign=rss))
+- 'B&Q travellers' and 'naked rough sleepers' ([7 hours ago](https://www.bbc.com/news/articles/ceq0xgrz8gno?at_medium=RSS&at_campaign=rss))
+- Man,19, dies in lorry crash ([1 days ago](https://www.bbc.com/news/articles/cqjwzqyq59wo?at_medium=RSS&at_campaign=rss))
 - Hospital tower block revamp could take four years ([1 days ago](https://www.bbc.com/news/articles/cj9703410nxo?at_medium=RSS&at_campaign=rss))
 - Memorial garden offers 'ringside' seat for veterans ([1 days ago](https://www.bbc.com/news/articles/cly47dejg32o?at_medium=RSS&at_campaign=rss))
 - Social media fuelling pumpkin patch craze ([1 days ago](https://www.bbc.com/news/articles/c9313ew8980o?at_medium=RSS&at_campaign=rss))
@@ -35,7 +35,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Reform surge could reshape Gloucestershire’s political map, mega-poll shows ([2 days ago](https://gloucesternewscentre.co.uk/reform-surge-could-reshape-gloucestershires-political-map-mega-poll-shows/))
 - New engagement for the Strategic and Local Plan goes live ([2 days ago](https://www.cheltenham.gov.uk/news/article/3059/new_engagement_for_the_strategic_and_local_plan_goes_live))
 - Man, 80, jailed for abusing teenager 30 years ago ([2 days ago](https://www.bbc.com/news/articles/c78zd94zlk7o?at_medium=RSS&at_campaign=rss))
-- Questions over how much Gloucestershire matters to ambulance top boss ([2 days ago](https://gloucesternewscentre.co.uk/questions-over-how-much-gloucestershire-matters-to-ambulance-top-boss/))
+- Questions over how much Gloucestershire matters to ambulance top boss ([3 days ago](https://gloucesternewscentre.co.uk/questions-over-how-much-gloucestershire-matters-to-ambulance-top-boss/))
 - Fears civic chiefs are being ‘softened up’ before permanent birth centre closure ([3 days ago](https://gloucesternewscentre.co.uk/fears-civic-chiefs-are-being-softened-up-before-permanent-birth-centre-closure/))
 - ‘Bonkers’ move to phase out fire co-responders criticised ([3 days ago](https://gloucesternewscentre.co.uk/bonkers-move-to-phase-out-fire-co-responders-criticised/))
 - Valuables and bank cards stolen in Leckhampton burglary ([4 days ago](https://gloucesternewscentre.co.uk/valuables-and-bank-cards-stolen-in-leckhampton-burglary/))
@@ -60,7 +60,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Media release: More new affordable homes for Cheltenham residents at Regents Village ([16 days ago](https://www.cheltenham.gov.uk/news/article/3055/media_release_more_new_affordable_homes_for_cheltenham_residents_at_regents_village))
 - Out of area private hire driver successfully prosecuted for illegal operations by Cheltenham Borough Council ([16 days ago](https://www.cheltenham.gov.uk/news/article/3054/out_of_area_private_hire_driver_successfully_prosecuted_for_illegal_operations_by_cheltenham_borough_council))
 - Community Pride 2025: Funding available for local projects ([17 days ago](https://www.cheltenham.gov.uk/news/article/3053/community_pride_2025_funding_available_for_local_projects))
-- HBD appoints contractor for landmark £1bn Golden Valley scheme ([25 days ago](https://www.cheltenham.gov.uk/news/article/3052/hbd_appoints_contractor_for_landmark_1bn_golden_valley_scheme))
+- HBD appoints contractor for landmark £1bn Golden Valley scheme ([26 days ago](https://www.cheltenham.gov.uk/news/article/3052/hbd_appoints_contractor_for_landmark_1bn_golden_valley_scheme))
 - Recycle Week: Cheltenham is joining the ‘2025 Rescue Me! Recycle’ campaign ([27 days ago](https://www.cheltenham.gov.uk/news/article/3051/recycle_week_cheltenham_is_joining_the_2025_rescue_me_recycle_campaign))
 
 <!-- news_marker ends -->
