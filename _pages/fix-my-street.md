@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 2 deep and sharp potholes in the road, close to the metal covers, 19th October :- [8314135](https://www.fixmystreet.com/report/8314135)
+- The green filter light is not working, 19th October :- [8314118](https://www.fixmystreet.com/report/8314118)
 - Large deep pothole on Porchester road, 19th October :- [8313789](https://www.fixmystreet.com/report/8313789)
 - Road sign broken and stolen from corner of The Lawns, 19th October :- [8313345](https://www.fixmystreet.com/report/8313345)
 - All slips roads and roundabout covered in litter and rubbish, 19th October :- [8313115](https://www.fixmystreet.com/report/8313115)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Large pot hole in the middle of the road down to the hard core, 18th October :- [8312037](https://www.fixmystreet.com/report/8312037)
 - 2 bus stop signs are missing along Delavale Road Winchcombe, The first one is about half w, 18th October :- [8311953](https://www.fixmystreet.com/report/8311953)
 - Large pothole in lane, 18th October :- [8311952](https://www.fixmystreet.com/report/8311952)
-- Volunteer litter pick bags ready for collection, 18th October :- [8311853](https://www.fixmystreet.com/report/8311853)
-- Audible sound not working, 18th October :- [8311838](https://www.fixmystreet.com/report/8311838)
 
 <!-- fix_marker ends -->
