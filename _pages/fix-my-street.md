@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Road sign broken and stolen from corner of The Lawns, 19th October :- [8313345](https://www.fixmystreet.com/report/8313345)
 - All slips roads and roundabout covered in litter and rubbish, 19th October :- [8313115](https://www.fixmystreet.com/report/8313115)
 - Rubbish and litter along entire corridor of Gloucester Road., 19th October :- [8313099](https://www.fixmystreet.com/report/8313099)
 - Orange safety barriers in front of highways signage, 19th October :- [8313083](https://www.fixmystreet.com/report/8313083)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Volunteer litter pick bags ready for collection, 18th October :- [8311853](https://www.fixmystreet.com/report/8311853)
 - Audible sound not working, 18th October :- [8311838](https://www.fixmystreet.com/report/8311838)
 - Advertising banner attached to railings, 18th October :- [8311728](https://www.fixmystreet.com/report/8311728)
-- Bus shelter needs cleaning, 18th October :- [8311717](https://www.fixmystreet.com/report/8311717)
 
 <!-- fix_marker ends -->
