@@ -10,9 +10,9 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Sunday, 19 October 2025
 
-- The average temperature today is 12.6˚C,
-- With highs of 13.8˚C and lows of 12.04˚C,
-- It may feel like 12.34˚C with broken clouds
+- The average temperature today is 11.84˚C,
+- With highs of 12.77˚C and lows of 11.4˚C,
+- It may feel like 11.51˚C with scattered clouds
 - The wind speed is 0.89m/s and visibility is 10000m
 - The pressure is 994hPa and humidity is 93%
 - The sun will rise at 06:39 and set at 17:06
