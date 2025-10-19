@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street light by juniper court has been off nearly 3 weeks now, 19th October :- [8314941](https://www.fixmystreet.com/report/8314941)
 - Damaged bin, 19th October :- [8314883](https://www.fixmystreet.com/report/8314883)
 - Continued reported street clean not taking place, 19th October :- [8314701](https://www.fixmystreet.com/report/8314701)
 - There is a wide expanse of broken tarmac, 19th October :- [8314497](https://www.fixmystreet.com/report/8314497)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Tree fallen over both sides of stile at field boundary, 19th October :- [8312884](https://www.fixmystreet.com/report/8312884)
 - Lights out on Village Road, 18th October :- [8312614](https://www.fixmystreet.com/report/8312614)
 - Need to review the repair at the top of the hill, 18th October :- [8312611](https://www.fixmystreet.com/report/8312611)
-- Repaired patch needs repairing once again, 18th October :- [8312605](https://www.fixmystreet.com/report/8312605)
 
 <!-- fix_marker ends -->
