@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- All slips roads and roundabout covered in litter and rubbish, 19th October :- [8313115](https://www.fixmystreet.com/report/8313115)
+- Rubbish and litter along entire corridor of Gloucester Road., 19th October :- [8313099](https://www.fixmystreet.com/report/8313099)
+- Orange safety barriers in front of highways signage, 19th October :- [8313083](https://www.fixmystreet.com/report/8313083)
+- Damage material and detritus from previous car crash, 19th October :- [8313070](https://www.fixmystreet.com/report/8313070)
+- Unrepaired crash barrier highways signs, 19th October :- [8313058](https://www.fixmystreet.com/report/8313058)
+- Circa 8ft fallen tree branch on driveway of 42 Boverton Drive, 19th October :- [8313017](https://www.fixmystreet.com/report/8313017)
 - Overgrowed and dying tree on Dunster Road, with dead branches hanging down, posing a risk to the electric generator and nearby garage and cars. Overgrowing roots are lifting the pedestrian pathway which is a trip hazard., 19th October :- [8312895](https://www.fixmystreet.com/report/8312895)
 - Tree fallen over both sides of stile at field boundary, 19th October :- [8312884](https://www.fixmystreet.com/report/8312884)
 - Lights out on Village Road, 18th October :- [8312614](https://www.fixmystreet.com/report/8312614)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Audible sound not working, 18th October :- [8311838](https://www.fixmystreet.com/report/8311838)
 - Advertising banner attached to railings, 18th October :- [8311728](https://www.fixmystreet.com/report/8311728)
 - Bus shelter needs cleaning, 18th October :- [8311717](https://www.fixmystreet.com/report/8311717)
-- Remnants of metal post sticking out of pavement, 18th October :- [8311642](https://www.fixmystreet.com/report/8311642)
-- 2 tyres by underpass, 18th October :- [8311630](https://www.fixmystreet.com/report/8311630)
-- New pedestrian/cycle crossing lights do not change to red when pressed, 18th October :- [8311499](https://www.fixmystreet.com/report/8311499)
-- Willow tree belonging to no17 overhanging/blocking pathway, 18th October :- [8311486](https://www.fixmystreet.com/report/8311486)
-- Blocked drains in.and around corner of 3 Pittville Crescent Lane, 18th October :- [8311279](https://www.fixmystreet.com/report/8311279)
-- Tesco trolley, 18th October :- [8310914](https://www.fixmystreet.com/report/8310914)
 
 <!-- fix_marker ends -->
