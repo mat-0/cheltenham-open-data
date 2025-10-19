@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- There is a wide expanse of broken tarmac, 19th October :- [8314497](https://www.fixmystreet.com/report/8314497)
+- Manhole still not draining, 19th October :- [8314493](https://www.fixmystreet.com/report/8314493)
+- Sign post damaged, 19th October :- [8314467](https://www.fixmystreet.com/report/8314467)
 - 2 deep and sharp potholes in the road, close to the metal covers, 19th October :- [8314135](https://www.fixmystreet.com/report/8314135)
 - The green filter light is not working, 19th October :- [8314118](https://www.fixmystreet.com/report/8314118)
 - Large deep pothole on Porchester road, 19th October :- [8313789](https://www.fixmystreet.com/report/8313789)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Repaired patch needs repairing once again, 18th October :- [8312605](https://www.fixmystreet.com/report/8312605)
 - Multiple crashes on junction, 18th October :- [8312591](https://www.fixmystreet.com/report/8312591)
 - Blocked drain, 18th October :- [8312153](https://www.fixmystreet.com/report/8312153)
-- Large pot hole in the middle of the road down to the hard core, 18th October :- [8312037](https://www.fixmystreet.com/report/8312037)
-- 2 bus stop signs are missing along Delavale Road Winchcombe, The first one is about half w, 18th October :- [8311953](https://www.fixmystreet.com/report/8311953)
-- Large pothole in lane, 18th October :- [8311952](https://www.fixmystreet.com/report/8311952)
 
 <!-- fix_marker ends -->
