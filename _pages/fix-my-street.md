@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large deep pothole on Porchester road, 19th October :- [8313789](https://www.fixmystreet.com/report/8313789)
 - Road sign broken and stolen from corner of The Lawns, 19th October :- [8313345](https://www.fixmystreet.com/report/8313345)
 - All slips roads and roundabout covered in litter and rubbish, 19th October :- [8313115](https://www.fixmystreet.com/report/8313115)
 - Rubbish and litter along entire corridor of Gloucester Road., 19th October :- [8313099](https://www.fixmystreet.com/report/8313099)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Large pothole in lane, 18th October :- [8311952](https://www.fixmystreet.com/report/8311952)
 - Volunteer litter pick bags ready for collection, 18th October :- [8311853](https://www.fixmystreet.com/report/8311853)
 - Audible sound not working, 18th October :- [8311838](https://www.fixmystreet.com/report/8311838)
-- Advertising banner attached to railings, 18th October :- [8311728](https://www.fixmystreet.com/report/8311728)
 
 <!-- fix_marker ends -->
