@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Man,19, dies in lorry crash ([11 hours ago](https://www.bbc.com/news/articles/cqjwzqyq59wo?at_medium=RSS&at_campaign=rss))
-- Hospital tower block revamp could take four years ([12 hours ago](https://www.bbc.com/news/articles/cj9703410nxo?at_medium=RSS&at_campaign=rss))
-- Memorial garden offers 'ringside' seat for veterans ([19 hours ago](https://www.bbc.com/news/articles/cly47dejg32o?at_medium=RSS&at_campaign=rss))
-- Social media fuelling pumpkin patch craze ([19 hours ago](https://www.bbc.com/news/articles/c9313ew8980o?at_medium=RSS&at_campaign=rss))
+- Man,19, dies in lorry crash ([12 hours ago](https://www.bbc.com/news/articles/cqjwzqyq59wo?at_medium=RSS&at_campaign=rss))
+- Hospital tower block revamp could take four years ([13 hours ago](https://www.bbc.com/news/articles/cj9703410nxo?at_medium=RSS&at_campaign=rss))
+- Memorial garden offers 'ringside' seat for veterans ([20 hours ago](https://www.bbc.com/news/articles/cly47dejg32o?at_medium=RSS&at_campaign=rss))
+- Social media fuelling pumpkin patch craze ([20 hours ago](https://www.bbc.com/news/articles/c9313ew8980o?at_medium=RSS&at_campaign=rss))
 - We're furious the 'Lip King' is selling weight-loss jabs, say dead mother's family ([1 days ago](https://www.bbc.com/news/articles/c4gk0w95jyjo?at_medium=RSS&at_campaign=rss))
 - Three charged with human trafficking offences ([1 days ago](https://www.bbc.com/news/articles/cqx3wp5de9do?at_medium=RSS&at_campaign=rss))
 - Go-ahead for food and drink trailer at popular Cheltenham park ([1 days ago](https://gloucesternewscentre.co.uk/go-ahead-for-food-and-drink-trailer-at-popular-cheltenham-park/))
