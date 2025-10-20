@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Savage wants action on 'vile abuse' directed at him ([15 hours ago](https://www.bbc.com/sport/football/articles/c8r0jzj5p2vo?at_medium=RSS&at_campaign=rss))
-- Gloucestershire in pictures: Bats, books and full moons ([17 hours ago](https://www.bbc.com/news/articles/c205g430z56o?at_medium=RSS&at_campaign=rss))
-- 'When more people know CPR, more people survive' ([19 hours ago](https://www.bbc.com/news/articles/clylg2z6pv1o?at_medium=RSS&at_campaign=rss))
-- 'B&Q travellers' and 'naked rough sleepers' ([19 hours ago](https://www.bbc.com/news/articles/ceq0xgrz8gno?at_medium=RSS&at_campaign=rss))
+- Savage wants action on 'vile abuse' directed at him ([16 hours ago](https://www.bbc.com/sport/football/articles/c8r0jzj5p2vo?at_medium=RSS&at_campaign=rss))
+- Gloucestershire in pictures: Bats, books and full moons ([18 hours ago](https://www.bbc.com/news/articles/c205g430z56o?at_medium=RSS&at_campaign=rss))
+- 'When more people know CPR, more people survive' ([20 hours ago](https://www.bbc.com/news/articles/clylg2z6pv1o?at_medium=RSS&at_campaign=rss))
+- 'B&Q travellers' and 'naked rough sleepers' ([20 hours ago](https://www.bbc.com/news/articles/ceq0xgrz8gno?at_medium=RSS&at_campaign=rss))
 - Man,19, dies in lorry crash ([1 days ago](https://www.bbc.com/news/articles/cqjwzqyq59wo?at_medium=RSS&at_campaign=rss))
 - Hospital tower block revamp could take four years ([1 days ago](https://www.bbc.com/news/articles/cj9703410nxo?at_medium=RSS&at_campaign=rss))
 - Memorial garden offers 'ringside' seat for veterans ([1 days ago](https://www.bbc.com/news/articles/cly47dejg32o?at_medium=RSS&at_campaign=rss))
