@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Monday, 20 October 2025
 
-- The average temperature today is 14.37˚C,
-- With highs of 14.97˚C and lows of 14.18˚C,
-- It may feel like 14.08˚C with light rain
+- The average temperature today is 13.92˚C,
+- With highs of 14.99˚C and lows of 13.3˚C,
+- It may feel like 13.72˚C with light intensity shower rain
 - The wind speed is 4.12m/s and visibility is 10000m
-- The pressure is 985hPa and humidity is 85%
+- The pressure is 984hPa and humidity is 90%
 - The sun will rise at 06:41 and set at 17:04
 
 <!-- weather_marker ends -->
