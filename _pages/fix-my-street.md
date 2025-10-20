@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street light not working at end of Kingsmead Road on left towards village road, 20th October :- [8316161](https://www.fixmystreet.com/report/8316161)
+- TMC - Defects - Other problem, 20th October :- [8316229](https://www.fixmystreet.com/report/8316229)
+- TMC - Defects - Other FW6  Surface problem, 20th October :- [8316227](https://www.fixmystreet.com/report/8316227)
+- TMC - Defects - Footways Slabs problem, 20th October :- [8316226](https://www.fixmystreet.com/report/8316226)
 - TMC - Defects -CW6 Potholes  problem, 20th October :- [8315832](https://www.fixmystreet.com/report/8315832)
 - TMC - Defects -other CW6 problem, 20th October :- [8315833](https://www.fixmystreet.com/report/8315833)
 - TMC - Defects - Other FW6  Surface problem, 20th October :- [8315660](https://www.fixmystreet.com/report/8315660)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Sign post damaged, 19th October :- [8314467](https://www.fixmystreet.com/report/8314467)
 - 2 deep and sharp potholes in the road, close to the metal covers, 19th October :- [8314135](https://www.fixmystreet.com/report/8314135)
 - The green filter light is not working, 19th October :- [8314118](https://www.fixmystreet.com/report/8314118)
-- Large deep pothole on Porchester road, 19th October :- [8313789](https://www.fixmystreet.com/report/8313789)
-- Road sign broken and stolen from corner of The Lawns, 19th October :- [8313345](https://www.fixmystreet.com/report/8313345)
-- All slips roads and roundabout covered in litter and rubbish, 19th October :- [8313115](https://www.fixmystreet.com/report/8313115)
-- Rubbish and litter along entire corridor of Gloucester Road., 19th October :- [8313099](https://www.fixmystreet.com/report/8313099)
 
 <!-- fix_marker ends -->
