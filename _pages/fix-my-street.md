@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Cycle and footpath in Centre Severn closed, 20th October :- [8318810](https://www.fixmystreet.com/report/8318810)
+- 10 inch poth hole on Gambles Lane, 20th October :- [8318659](https://www.fixmystreet.com/report/8318659)
 - Water not draining away outside school again., 20th October :- [8318312](https://www.fixmystreet.com/report/8318312)
 - Diversion signs left on verge, 20th October :- [8318261](https://www.fixmystreet.com/report/8318261)
 - Unpermitted roadworks problem, 20th October :- [8318313](https://www.fixmystreet.com/report/8318313)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 20th October :- [8317636](https://www.fixmystreet.com/report/8317636)
 - A pothole in road problem, 20th October :- [8317628](https://www.fixmystreet.com/report/8317628)
 - TMC - Defects -CW6 Potholes  problem, 20th October :- [8317629](https://www.fixmystreet.com/report/8317629)
-- TMC - Defects -CW6 Potholes  problem, 20th October :- [8317630](https://www.fixmystreet.com/report/8317630)
-- Dog Poo on Pavements, 20th October :- [8317406](https://www.fixmystreet.com/report/8317406)
 
 <!-- fix_marker ends -->
