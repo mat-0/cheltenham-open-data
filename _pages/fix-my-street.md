@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree branch has come down, 20th October :- [8315458](https://www.fixmystreet.com/report/8315458)
+- Vehicle that has been dumped, 20th October :- [8315433](https://www.fixmystreet.com/report/8315433)
 - Street lights spontaneously coming on and turning off, 20th October :- [8315213](https://www.fixmystreet.com/report/8315213)
 - Street light by juniper court has been off nearly 3 weeks now, 19th October :- [8314941](https://www.fixmystreet.com/report/8314941)
 - Damaged bin, 19th October :- [8314883](https://www.fixmystreet.com/report/8314883)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Unrepaired crash barrier highways signs, 19th October :- [8313058](https://www.fixmystreet.com/report/8313058)
 - Circa 8ft fallen tree branch on driveway of 42 Boverton Drive, 19th October :- [8313017](https://www.fixmystreet.com/report/8313017)
 - Overgrowed and dying tree on Dunster Road, with dead branches hanging down, posing a risk to the electric generator and nearby garage and cars. Overgrowing roots are lifting the pedestrian pathway which is a trip hazard., 19th October :- [8312895](https://www.fixmystreet.com/report/8312895)
-- Tree fallen over both sides of stile at field boundary, 19th October :- [8312884](https://www.fixmystreet.com/report/8312884)
-- Lights out on Village Road, 18th October :- [8312614](https://www.fixmystreet.com/report/8312614)
 
 <!-- fix_marker ends -->
