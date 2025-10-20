@@ -1,144 +1,17 @@
 {
-  "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
-  "meta": {
-    "publisher": "Environment Agency",
-    "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-    "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
-    "version": "0.9",
-    "comment": "Status: Beta service",
-    "hasFormat": [
-      "http://environment.data.gov.uk/flood-monitoring/id/floods.csv",
-      "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf",
-      "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl",
-      "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
-    ]
-  },
-  "items": [
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFAVOL",
-      "description": "Lower Avon and tributaries",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFAVOL",
-        "county": "Bournemouth, Christchurch and Poole, Dorset Council, Hampshire",
-        "notation": "111WAFAVOL",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFAVOL/polygon",
-        "riverOrSea": "Avon"
-      },
-      "floodAreaID": "111WAFAVOL",
-      "isTidal": false,
-      "message": "Rising river levels this afternoon may lead to flooding in the area of Moyles Court.\nNo property flooding is expected.\nFlooding is possible from 12:20 PM on 20/10/2025. \nAreas at risk are low lying land and roads near rivers.\nWeather conditions are expected to improve throughout the evening and no further flooding is expected.\nWe are monitoring rainfall and river levels.\nTake care and avoid walking, cycling or driving through flood water.\nMonitor local water levels and weather conditions.\nThis message will be updated by 5:00 PM on 20/10/2025, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-10-20T13:06:00",
-      "timeRaised": "2025-10-20T13:06:58",
-      "timeSeverityChanged": "2025-10-20T13:06:00"
+    "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
+    "meta": {
+        "publisher": "Environment Agency",
+        "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
+        "version": "0.9",
+        "comment": "Status: Beta service",
+        "hasFormat": [
+            "http://environment.data.gov.uk/flood-monitoring/id/floods.csv?county=Gloucestershire",
+            "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf?county=Gloucestershire",
+            "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl?county=Gloucestershire",
+            "http://environment.data.gov.uk/flood-monitoring/id/floods.html?county=Gloucestershire"
+        ]
     },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC404",
-      "description": "Climping Seafront",
-      "eaAreaName": "Solent and South Downs",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC404",
-        "county": "West Sussex",
-        "notation": "065WAC404",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC404/polygon",
-        "riverOrSea": "English Channel"
-      },
-      "floodAreaID": "065WAC404",
-      "isTidal": true,
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. Coastal conditions are expected to improve and no flooding is expected. We will continue to monitor the situation and work with emergency services and local authorities. Stay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals. Never drive through flood water, just 30cm of fast flowing water is enough to move your car.\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-10-20T13:24:00",
-      "timeRaised": "2025-10-20T13:25:04",
-      "timeSeverityChanged": "2025-10-20T13:24:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WACT1T1CA00",
-      "description": "South Cornwall coast from Gribbin Head to Rame Head",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T1CA00",
-        "county": "Cornwall",
-        "notation": "114WACT1T1CA00",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T1CA00/polygon",
-        "riverOrSea": "South Cornwall Coast"
-      },
-      "floodAreaID": "114WACT1T1CA00",
-      "isTidal": true,
-      "message": "Flooding is possible over the high tide on Monday evening.  High water at Plymouth is at 18:06 pm, times of high water will vary along the coast.\n\nStrong winds and large waves are forecast to cause flooding between 17:00pm and 19:00pm.\n\nLocations particularly at risk include low lying areas including Fore Street, Town Quay, Albert Quay and Caffa Mill Car park at Fowey, Quay Street and Recreation ground at Lostwithiel, Polperro Harbour, Quay Road and The Quay at Looe and the B3247 at Seaton\n\nLarge waves and spray are likely so take care near the coast. Do not walk or drive through flood water or waves.  \n\nCoastal conditions should ease for Tuesday morning's high tide.  \n\nWe are monitoring the situation and will update this information by 10:00am on Tuesday, or if the situation changes. \n\nDetailed tidal information; The forecast high tide level at Plymouth is 2.50 mAOD.  Expect tide levels along to coast to be between 0.20 and 0.22 metres above tide table level.  Strong  Force 6  Westerly winds and offshore wave heights of over 2.8m are forecast over the high tide.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-10-20T10:49:00",
-      "timeRaised": "2025-10-20T10:49:12",
-      "timeSeverityChanged": "2025-10-19T14:16:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WATCHXH",
-      "description": "Christchurch Harbour",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WATCHXH",
-        "county": "Bournemouth, Christchurch and Poole",
-        "notation": "111WATCHXH",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WATCHXH/polygon",
-        "riverOrSea": "English Channel"
-      },
-      "floodAreaID": "111WATCHXH",
-      "isTidal": true,
-      "message": "The flood forecast has changed significantly. As a result, there is no longer a risk of flooding in the area.\nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.\nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-10-20T09:52:00",
-      "timeRaised": "2025-10-20T09:52:10",
-      "timeSeverityChanged": "2025-10-20T09:52:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF305",
-      "description": "Bourne Brook (Tamworth)",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF305",
-        "county": "Staffordshire, Walsall",
-        "notation": "033WAF305",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF305/polygon",
-        "riverOrSea": "Bourne Brook"
-      },
-      "floodAreaID": "033WAF305",
-      "isTidal": false,
-      "message": " This Flood Alert has been removed.  \nRiver levels have now fallen below the flood risk threshold.  There is no longer a threat of flooding, though standing water and debris may still remain.    \nWe continue to monitor the situation.  Our incident response staff are actively monitoring river levels and the weather forecast.  \nPlease avoid contact with flood water.\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-10-20T10:56:00",
-      "timeRaised": "2025-10-20T10:57:06",
-      "timeSeverityChanged": "2025-10-20T10:56:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF123",
-      "description": "Monks Brook",
-      "eaAreaName": "Solent and South Downs",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF123",
-        "county": "Hampshire, Southampton",
-        "notation": "065WAF123",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF123/polygon",
-        "riverOrSea": "Monks Brook"
-      },
-      "floodAreaID": "065WAF123",
-      "isTidal": false,
-      "message": "Water levels in the Monks Brook are now falling. Small amounts of rain are forecast for the remainder of this afternoon. This evening and tomorrow, the weather is forecast to be fairly dry. We expect water levels to return to normal tomorrow. Any minor flood impacts should reduce by tomorrow. Further unsettled weather is forecast on Wednesday and Thursday. We will continue to monitor the river and weather forecast information.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-10-20T15:55:00",
-      "timeRaised": "2025-10-20T15:55:12",
-      "timeSeverityChanged": "2025-10-20T15:55:00"
-    }
-  ]
+    "items": []
 }

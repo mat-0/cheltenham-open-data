@@ -9,7 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Water not draining away outside school again., 20th October :- [8318312](https://www.fixmystreet.com/report/8318312)
 - Diversion signs left on verge, 20th October :- [8318261](https://www.fixmystreet.com/report/8318261)
+- Unpermitted roadworks problem, 20th October :- [8318313](https://www.fixmystreet.com/report/8318313)
 - It’s a large area req special big truck was told by person fixing pot hole, 20th October :- [8318203](https://www.fixmystreet.com/report/8318203)
 - TMC - Defects - Vegetation problem, 20th October :- [8318159](https://www.fixmystreet.com/report/8318159)
 - TMC - Defects -FW6 Potholes problem, 20th October :- [8317972](https://www.fixmystreet.com/report/8317972)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 20th October :- [8317629](https://www.fixmystreet.com/report/8317629)
 - TMC - Defects -CW6 Potholes  problem, 20th October :- [8317630](https://www.fixmystreet.com/report/8317630)
 - Dog Poo on Pavements, 20th October :- [8317406](https://www.fixmystreet.com/report/8317406)
-- TMC - Defects -CW6 Potholes  problem, 20th October :- [8317435](https://www.fixmystreet.com/report/8317435)
-- TMC - Defects -CW6 Potholes  problem, 20th October :- [8317433](https://www.fixmystreet.com/report/8317433)
 
 <!-- fix_marker ends -->
