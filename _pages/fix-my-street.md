@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Overflowing bin, 20th October :- [8319413](https://www.fixmystreet.com/report/8319413)
+- Blocked drain and cover bouncing loose, 20th October :- [8319409](https://www.fixmystreet.com/report/8319409)
+- Overflowing bin, 20th October :- [8319408](https://www.fixmystreet.com/report/8319408)
 - Street light not working, 20th October :- [8319209](https://www.fixmystreet.com/report/8319209)
 - Sunken drain cover, 20th October :- [8319120](https://www.fixmystreet.com/report/8319120)
 - Cycle and footpath in Centre Severn closed, 20th October :- [8318810](https://www.fixmystreet.com/report/8318810)
@@ -18,16 +21,13 @@ permalink: /fix-my-street
 - Unpermitted roadworks problem, 20th October :- [8318313](https://www.fixmystreet.com/report/8318313)
 - It’s a large area req special big truck was told by person fixing pot hole, 20th October :- [8318203](https://www.fixmystreet.com/report/8318203)
 - TMC - Defects - Vegetation problem, 20th October :- [8318159](https://www.fixmystreet.com/report/8318159)
-- TMC - Defects -FW6 Potholes problem, 20th October :- [8317971](https://www.fixmystreet.com/report/8317971)
 - TMC - Defects -FW6 Potholes problem, 20th October :- [8317972](https://www.fixmystreet.com/report/8317972)
+- TMC - Defects -FW6 Potholes problem, 20th October :- [8317971](https://www.fixmystreet.com/report/8317971)
 - Fly Tipping blowing into Wymans Brook, 20th October :- [8317914](https://www.fixmystreet.com/report/8317914)
 - Water drain blocked by leaf fall at the end of Cox's way GL45LF, 20th October :- [8317904](https://www.fixmystreet.com/report/8317904)
 - Post or sign leaning slightly (less than 20 degrees) problem, 20th October :- [8317809](https://www.fixmystreet.com/report/8317809)
 - TMC - Defects -other CW6 problem, 20th October :- [8317816](https://www.fixmystreet.com/report/8317816)
 - Post or sign leaning slightly (less than 20 degrees) problem, 20th October :- [8317808](https://www.fixmystreet.com/report/8317808)
 - TMC - Defects - Kerbs and Channels problem, 20th October :- [8317813](https://www.fixmystreet.com/report/8317813)
-- A pothole in road problem, 20th October :- [8317807](https://www.fixmystreet.com/report/8317807)
-- TMC - Defects -CW6 Potholes  problem, 20th October :- [8317810](https://www.fixmystreet.com/report/8317810)
-- TMC - Defects -CW6 Potholes  problem, 20th October :- [8317636](https://www.fixmystreet.com/report/8317636)
 
 <!-- fix_marker ends -->
