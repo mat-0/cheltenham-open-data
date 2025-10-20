@@ -8,13 +8,13 @@ seo: Menu
 ![Logo](/images/logo.jpg){:width="832px"}
 
 <!-- weather_marker starts -->
-## On Sunday, 19 October 2025
+## On Monday, 20 October 2025
 
-- The average temperature today is 11.58˚C,
-- With highs of 12.21˚C and lows of 10.93˚C,
-- It may feel like 11.22˚C with scattered clouds
-- The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 993hPa and humidity is 93%
+- The average temperature today is 12.23˚C,
+- With highs of 12.77˚C and lows of 11.49˚C,
+- It may feel like 11.91˚C with scattered clouds
+- The wind speed is 2.68m/s and visibility is 10000m
+- The pressure is 992hPa and humidity is 92%
 - The sun will rise at 06:41 and set at 17:04
 
 <!-- weather_marker ends -->

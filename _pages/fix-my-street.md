@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street lights spontaneously coming on and turning off, 20th October :- [8315213](https://www.fixmystreet.com/report/8315213)
 - Street light by juniper court has been off nearly 3 weeks now, 19th October :- [8314941](https://www.fixmystreet.com/report/8314941)
 - Damaged bin, 19th October :- [8314883](https://www.fixmystreet.com/report/8314883)
 - Continued reported street clean not taking place, 19th October :- [8314701](https://www.fixmystreet.com/report/8314701)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Overgrowed and dying tree on Dunster Road, with dead branches hanging down, posing a risk to the electric generator and nearby garage and cars. Overgrowing roots are lifting the pedestrian pathway which is a trip hazard., 19th October :- [8312895](https://www.fixmystreet.com/report/8312895)
 - Tree fallen over both sides of stile at field boundary, 19th October :- [8312884](https://www.fixmystreet.com/report/8312884)
 - Lights out on Village Road, 18th October :- [8312614](https://www.fixmystreet.com/report/8312614)
-- Need to review the repair at the top of the hill, 18th October :- [8312611](https://www.fixmystreet.com/report/8312611)
 
 <!-- fix_marker ends -->
