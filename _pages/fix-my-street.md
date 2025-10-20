@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Diversion signs left on verge, 20th October :- [8318261](https://www.fixmystreet.com/report/8318261)
+- It’s a large area req special big truck was told by person fixing pot hole, 20th October :- [8318203](https://www.fixmystreet.com/report/8318203)
+- TMC - Defects - Vegetation problem, 20th October :- [8318159](https://www.fixmystreet.com/report/8318159)
+- TMC - Defects -FW6 Potholes problem, 20th October :- [8317972](https://www.fixmystreet.com/report/8317972)
+- TMC - Defects -FW6 Potholes problem, 20th October :- [8317971](https://www.fixmystreet.com/report/8317971)
 - Fly Tipping blowing into Wymans Brook, 20th October :- [8317914](https://www.fixmystreet.com/report/8317914)
 - Water drain blocked by leaf fall at the end of Cox's way GL45LF, 20th October :- [8317904](https://www.fixmystreet.com/report/8317904)
 - Post or sign leaning slightly (less than 20 degrees) problem, 20th October :- [8317809](https://www.fixmystreet.com/report/8317809)
@@ -23,11 +28,6 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 20th October :- [8317630](https://www.fixmystreet.com/report/8317630)
 - Dog Poo on Pavements, 20th October :- [8317406](https://www.fixmystreet.com/report/8317406)
 - TMC - Defects -CW6 Potholes  problem, 20th October :- [8317435](https://www.fixmystreet.com/report/8317435)
-- TMC - Defects -CW6 Potholes  problem, 20th October :- [8317430](https://www.fixmystreet.com/report/8317430)
 - TMC - Defects -CW6 Potholes  problem, 20th October :- [8317433](https://www.fixmystreet.com/report/8317433)
-- TMC - Defects -CW6 Potholes  problem, 20th October :- [8317432](https://www.fixmystreet.com/report/8317432)
-- Drain blocked causing flooding, 20th October :- [8317194](https://www.fixmystreet.com/report/8317194)
-- TMC - Defects - Other problem, 20th October :- [8317127](https://www.fixmystreet.com/report/8317127)
-- TMC - Defects -CW6 Potholes  problem, 20th October :- [8317125](https://www.fixmystreet.com/report/8317125)
 
 <!-- fix_marker ends -->

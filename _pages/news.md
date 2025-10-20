@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Hundreds of homes planned at former cattle market ([1 hours ago](https://www.bbc.com/news/articles/c2lp1lzrznyo?at_medium=RSS&at_campaign=rss))
-- Son of ex-England footballer dies in tractor crash ([1 hours ago](https://www.bbc.com/news/articles/cly949187xeo?at_medium=RSS&at_campaign=rss))
-- Delays to project cost taxpayers £450k ([2 hours ago](https://www.bbc.com/news/articles/c9q1jyplr39o?at_medium=RSS&at_campaign=rss))
-- 'Fight for pub' and 'boa constrictor found in park' ([3 hours ago](https://www.bbc.com/news/articles/c1d0gndpn75o?at_medium=RSS&at_campaign=rss))
-- Heritage railway to offer 'hands-on experience' ([8 hours ago](https://www.bbc.com/news/articles/cly42pr95n8o?at_medium=RSS&at_campaign=rss))
-- 'Stewards' of historic bookshop celebrate 75 years ([8 hours ago](https://www.bbc.com/news/articles/czdr1grlv63o?at_medium=RSS&at_campaign=rss))
+- Son of ex-England footballer dies in tractor crash ([33 minutes ago](https://www.bbc.com/news/articles/cly949187xeo?at_medium=RSS&at_campaign=rss))
+- Hundreds of homes planned at former cattle market ([2 hours ago](https://www.bbc.com/news/articles/c2lp1lzrznyo?at_medium=RSS&at_campaign=rss))
+- Delays to project cost taxpayers £450k ([3 hours ago](https://www.bbc.com/news/articles/c9q1jyplr39o?at_medium=RSS&at_campaign=rss))
+- 'Fight for pub' and 'boa constrictor found in park' ([4 hours ago](https://www.bbc.com/news/articles/c1d0gndpn75o?at_medium=RSS&at_campaign=rss))
+- Heritage railway to offer 'hands-on experience' ([9 hours ago](https://www.bbc.com/news/articles/cly42pr95n8o?at_medium=RSS&at_campaign=rss))
+- 'Stewards' of historic bookshop celebrate 75 years ([9 hours ago](https://www.bbc.com/news/articles/czdr1grlv63o?at_medium=RSS&at_campaign=rss))
 - Savage wants action on 'vile abuse' directed at him ([1 days ago](https://www.bbc.com/sport/football/articles/c8r0jzj5p2vo?at_medium=RSS&at_campaign=rss))
 - Gloucestershire in pictures: Bats, books and full moons ([1 days ago](https://www.bbc.com/news/articles/c205g430z56o?at_medium=RSS&at_campaign=rss))
 - 'When more people know CPR, more people survive' ([1 days ago](https://www.bbc.com/news/articles/clylg2z6pv1o?at_medium=RSS&at_campaign=rss))
