@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Heritage railway to offer 'hands-on experience' ([2 hours ago](https://www.bbc.com/news/articles/cly42pr95n8o?at_medium=RSS&at_campaign=rss))
-- 'Stewards' of historic bookshop celebrate 75 years ([2 hours ago](https://www.bbc.com/news/articles/czdr1grlv63o?at_medium=RSS&at_campaign=rss))
-- Savage wants action on 'vile abuse' directed at him ([21 hours ago](https://www.bbc.com/sport/football/articles/c8r0jzj5p2vo?at_medium=RSS&at_campaign=rss))
-- Gloucestershire in pictures: Bats, books and full moons ([22 hours ago](https://www.bbc.com/news/articles/c205g430z56o?at_medium=RSS&at_campaign=rss))
+- Heritage railway to offer 'hands-on experience' ([3 hours ago](https://www.bbc.com/news/articles/cly42pr95n8o?at_medium=RSS&at_campaign=rss))
+- 'Stewards' of historic bookshop celebrate 75 years ([3 hours ago](https://www.bbc.com/news/articles/czdr1grlv63o?at_medium=RSS&at_campaign=rss))
+- Savage wants action on 'vile abuse' directed at him ([22 hours ago](https://www.bbc.com/sport/football/articles/c8r0jzj5p2vo?at_medium=RSS&at_campaign=rss))
+- Gloucestershire in pictures: Bats, books and full moons ([23 hours ago](https://www.bbc.com/news/articles/c205g430z56o?at_medium=RSS&at_campaign=rss))
 - 'When more people know CPR, more people survive' ([1 days ago](https://www.bbc.com/news/articles/clylg2z6pv1o?at_medium=RSS&at_campaign=rss))
 - 'B&Q travellers' and 'naked rough sleepers' ([1 days ago](https://www.bbc.com/news/articles/ceq0xgrz8gno?at_medium=RSS&at_campaign=rss))
 - Man,19, dies in lorry crash ([1 days ago](https://www.bbc.com/news/articles/cqjwzqyq59wo?at_medium=RSS&at_campaign=rss))
