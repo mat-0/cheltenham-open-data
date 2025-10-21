@@ -9,6 +9,14 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Vegetation problem, 21st October :- [8320066](https://www.fixmystreet.com/report/8320066)
+- TMC - Defects - Vegetation problem, 21st October :- [8320067](https://www.fixmystreet.com/report/8320067)
+- TMC - Defects - Vegetation problem, 21st October :- [8320064](https://www.fixmystreet.com/report/8320064)
+- TMC - Defects - Vegetation problem, 21st October :- [8320068](https://www.fixmystreet.com/report/8320068)
+- TMC - Defects - Vegetation problem, 21st October :- [8320070](https://www.fixmystreet.com/report/8320070)
+- TMC - Defects - Vegetation problem, 21st October :- [8320063](https://www.fixmystreet.com/report/8320063)
+- TMC - Defects - Vegetation problem, 21st October :- [8320065](https://www.fixmystreet.com/report/8320065)
+- TMC - Defects - Other FW6  Surface problem, 21st October :- [8320062](https://www.fixmystreet.com/report/8320062)
 - Traffic light not detecting traffic, 21st October :- [8319833](https://www.fixmystreet.com/report/8319833)
 - Overflowing bin, 20th October :- [8319413](https://www.fixmystreet.com/report/8319413)
 - Blocked drain and cover bouncing loose, 20th October :- [8319409](https://www.fixmystreet.com/report/8319409)
@@ -21,13 +29,5 @@ permalink: /fix-my-street
 - Diversion signs left on verge, 20th October :- [8318261](https://www.fixmystreet.com/report/8318261)
 - Unpermitted roadworks problem, 20th October :- [8318313](https://www.fixmystreet.com/report/8318313)
 - It’s a large area req special big truck was told by person fixing pot hole, 20th October :- [8318203](https://www.fixmystreet.com/report/8318203)
-- TMC - Defects - Vegetation problem, 20th October :- [8318159](https://www.fixmystreet.com/report/8318159)
-- TMC - Defects -FW6 Potholes problem, 20th October :- [8317972](https://www.fixmystreet.com/report/8317972)
-- TMC - Defects -FW6 Potholes problem, 20th October :- [8317971](https://www.fixmystreet.com/report/8317971)
-- Fly Tipping blowing into Wymans Brook, 20th October :- [8317914](https://www.fixmystreet.com/report/8317914)
-- Water drain blocked by leaf fall at the end of Cox's way GL45LF, 20th October :- [8317904](https://www.fixmystreet.com/report/8317904)
-- Post or sign leaning slightly (less than 20 degrees) problem, 20th October :- [8317809](https://www.fixmystreet.com/report/8317809)
-- TMC - Defects -other CW6 problem, 20th October :- [8317816](https://www.fixmystreet.com/report/8317816)
-- Post or sign leaning slightly (less than 20 degrees) problem, 20th October :- [8317808](https://www.fixmystreet.com/report/8317808)
 
 <!-- fix_marker ends -->
