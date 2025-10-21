@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipping - car tyres, 21st October :- [8323224](https://www.fixmystreet.com/report/8323224)
+- Drain has been blocked for well over a year. Now causes water to enter nearing properties and frequently splashes residents and property., 21st October :- [8323165](https://www.fixmystreet.com/report/8323165)
+- The tree in Caernarfon close has not been looked after and park of the branches has snapped off,, 21st October :- [8323155](https://www.fixmystreet.com/report/8323155)
 - Low hanging brambles and hedges, 21st October :- [8323029](https://www.fixmystreet.com/report/8323029)
 - Drain is blocked which is causing water to build up there. Water not reducing throughout day., 21st October :- [8323005](https://www.fixmystreet.com/report/8323005)
 - TMC - Defects - Other problem, 21st October :- [8323022](https://www.fixmystreet.com/report/8323022)
@@ -19,15 +22,12 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 21st October :- [8322585](https://www.fixmystreet.com/report/8322585)
 - TMC - Defects -CW6 Potholes  problem, 21st October :- [8322583](https://www.fixmystreet.com/report/8322583)
 - Pothole caused personal injury, 21st October :- [8322433](https://www.fixmystreet.com/report/8322433)
-- TMC - Defects -CW6 Potholes  problem, 21st October :- [8322579](https://www.fixmystreet.com/report/8322579)
-- TMC - Defects -CW6 Potholes  problem, 21st October :- [8322580](https://www.fixmystreet.com/report/8322580)
 - TMC - Defects -CW6 Potholes  problem, 21st October :- [8322581](https://www.fixmystreet.com/report/8322581)
+- TMC - Defects -CW6 Potholes  problem, 21st October :- [8322580](https://www.fixmystreet.com/report/8322580)
+- TMC - Defects -CW6 Potholes  problem, 21st October :- [8322579](https://www.fixmystreet.com/report/8322579)
 - TMC - Defects - Other problem, 21st October :- [8322414](https://www.fixmystreet.com/report/8322414)
 - TMC - Defects -CW10 Potholes problem, 21st October :- [8322413](https://www.fixmystreet.com/report/8322413)
-- TMC - Defects - Footways Slabs problem, 21st October :- [8322404](https://www.fixmystreet.com/report/8322404)
 - TMC - Defects - Footways Slabs problem, 21st October :- [8322407](https://www.fixmystreet.com/report/8322407)
-- TMC - Defects - Footways Slabs problem, 21st October :- [8322406](https://www.fixmystreet.com/report/8322406)
-- TMC - Defects - Footways Slabs problem, 21st October :- [8322405](https://www.fixmystreet.com/report/8322405)
-- TMC - Defects - Other FW6  Surface problem, 21st October :- [8322408](https://www.fixmystreet.com/report/8322408)
+- TMC - Defects - Footways Slabs problem, 21st October :- [8322404](https://www.fixmystreet.com/report/8322404)
 
 <!-- fix_marker ends -->
