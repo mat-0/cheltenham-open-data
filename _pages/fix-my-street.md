@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Traffic light not detecting traffic, 21st October :- [8319833](https://www.fixmystreet.com/report/8319833)
 - Overflowing bin, 20th October :- [8319413](https://www.fixmystreet.com/report/8319413)
 - Blocked drain and cover bouncing loose, 20th October :- [8319409](https://www.fixmystreet.com/report/8319409)
 - Overflowing bin, 20th October :- [8319408](https://www.fixmystreet.com/report/8319408)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Post or sign leaning slightly (less than 20 degrees) problem, 20th October :- [8317809](https://www.fixmystreet.com/report/8317809)
 - TMC - Defects -other CW6 problem, 20th October :- [8317816](https://www.fixmystreet.com/report/8317816)
 - Post or sign leaning slightly (less than 20 degrees) problem, 20th October :- [8317808](https://www.fixmystreet.com/report/8317808)
-- TMC - Defects - Kerbs and Channels problem, 20th October :- [8317813](https://www.fixmystreet.com/report/8317813)
 
 <!-- fix_marker ends -->
