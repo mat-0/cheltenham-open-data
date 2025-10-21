@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Unstable paving slab, 21st October :- [8324130](https://www.fixmystreet.com/report/8324130)
 - By pub, stoke road, sunken drain, 21st October :- [8323917](https://www.fixmystreet.com/report/8323917)
 - Pothole next to 55 Hewlett Rd, 21st October :- [8323666](https://www.fixmystreet.com/report/8323666)
 - Flytipping - car tyres, 21st October :- [8323224](https://www.fixmystreet.com/report/8323224)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 21st October :- [8322580](https://www.fixmystreet.com/report/8322580)
 - TMC - Defects -CW6 Potholes  problem, 21st October :- [8322581](https://www.fixmystreet.com/report/8322581)
 - TMC - Defects -CW6 Potholes  problem, 21st October :- [8322579](https://www.fixmystreet.com/report/8322579)
-- TMC - Defects - Other problem, 21st October :- [8322414](https://www.fixmystreet.com/report/8322414)
 
 <!-- fix_marker ends -->

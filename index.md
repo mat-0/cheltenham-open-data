@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Tuesday, 21 October 2025
 
-- The average temperature today is 11.18˚C,
-- With highs of 12.21˚C and lows of 10.39˚C,
-- It may feel like 10.63˚C with scattered clouds
-- The wind speed is 1.79m/s and visibility is 10000m
-- The pressure is 995hPa and humidity is 87%
+- The average temperature today is 11.1˚C,
+- With highs of 11.4˚C and lows of 10.93˚C,
+- It may feel like 10.51˚C with scattered clouds
+- The wind speed is 1.34m/s and visibility is 10000m
+- The pressure is 995hPa and humidity is 86%
 - The sun will rise at 06:43 and set at 17:02
 
 <!-- weather_marker ends -->
