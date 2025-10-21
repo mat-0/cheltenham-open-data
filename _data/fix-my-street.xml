@@ -3,8 +3,8 @@
 
 <rss version="2.0"
  xmlns:atom="http://www.w3.org/2005/Atom"
- xmlns:georss="http://www.georss.org/georss"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
+ xmlns:georss="http://www.georss.org/georss"
 >
 
 <channel>
@@ -14,6 +14,33 @@
 <language>en-gb</language>
 <atom:link href="https://www.fixmystreet.com/rss/l/51.897991,-2.071308/10" rel="self" type="application/rss+xml"/>
 
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 21st October</title>
+<link>https://www.fixmystreet.com/report/8322227</link>
+<description>Give and take    28 days Carriageway pothole  550x500x40mm tarmac patch plus x1 NSD (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8322227&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8322227</guid>
+<pubDate>Tue, 21 Oct 2025 13:46:15 +0100</pubDate>
+<georss:point>51.8755103 -2.06352380000311</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 21st October</title>
+<link>https://www.fixmystreet.com/report/8322060</link>
+<description>Give and take 28 day plus  15  minutes delay boards  plus   Carriageway pothole  1100x400x70mm tarmac patch plus x2 NSD (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8322060&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8322060</guid>
+<pubDate>Tue, 21 Oct 2025 13:25:31 +0100</pubDate>
+<georss:point>51.9014631011556 -2.0601095449182</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 21st October</title>
+<link>https://www.fixmystreet.com/report/8322059</link>
+<description>NWD Give and take plus  15  minutes delay boards  plus   Carriageway pothole  1100x400x70mm tarmac patch (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8322059&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8322059</guid>
+<pubDate>Tue, 21 Oct 2025 13:25:31 +0100</pubDate>
+<georss:point>51.9014633587055 -2.06011043853792</georss:point>
+</item>
 <item>
 <title>Update ref No 8279103, 21st October</title>
 <link>https://www.fixmystreet.com/report/8321774</link>
@@ -87,6 +114,24 @@
 <georss:point>51.8995198053397 -2.11102503369142</georss:point>
 </item>
 <item>
+<title>TMC - Defects -CW6 Potholes  problem, 21st October</title>
+<link>https://www.fixmystreet.com/report/8321524</link>
+<description>2 way stop and go 28 day plus   Carriageway pothole  1500x900x40mm tarmac patch (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8321524&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8321524</guid>
+<pubDate>Tue, 21 Oct 2025 11:38:30 +0100</pubDate>
+<georss:point>51.9015185 -2.11578759999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects -FW6 Potholes problem, 21st October</title>
+<link>https://www.fixmystreet.com/report/8321530</link>
+<description>Give and take  28 days  footway pothole net to traffic signal box 300x120x30mm tarmac patch stats required (FW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8321530&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -FW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8321530</guid>
+<pubDate>Tue, 21 Oct 2025 11:38:30 +0100</pubDate>
+<georss:point>51.9016692 -2.1163614</georss:point>
+</item>
+<item>
 <title>TMC - Defects - Footways Slabs problem, 21st October</title>
 <link>https://www.fixmystreet.com/report/8321522</link>
 <description>Give and take plus temporary footway closure required please lift and relay x1 rocking  tactile slab 400x400x18mm number 8 (FW Rocking/Unstable Slab)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8321522&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
@@ -115,30 +160,21 @@
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 21st October</title>
-<link>https://www.fixmystreet.com/report/8321524</link>
-<description>2 way stop and go 28 day plus   Carriageway pothole  1500x900x40mm tarmac patch (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8321524&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/8321527</link>
+<description>Give and take  28 day plus  15  minutes delay boards Carriageway pothole  300x300x40mm  tarmac patch  unable to mark up due to traffic size is approximately number 2 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8321527&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8321524</guid>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8321527</guid>
 <pubDate>Tue, 21 Oct 2025 11:38:30 +0100</pubDate>
-<georss:point>51.9015185 -2.11578759999999</georss:point>
+<georss:point>51.9016976 -2.1164835</georss:point>
 </item>
 <item>
-<title>TMC - Defects -FW6 Potholes problem, 21st October</title>
-<link>https://www.fixmystreet.com/report/8321530</link>
-<description>Give and take  28 days  footway pothole net to traffic signal box 300x120x30mm tarmac patch stats required (FW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8321530&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -FW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8321530</guid>
+<title>TMC - Defects - Road Markings problem, 21st October</title>
+<link>https://www.fixmystreet.com/report/8321529</link>
+<description>Road closure  please refresh faded stop markings approximately 3 metres x200mm plus x2 3 metres lines (Faded Road Markings)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8321529&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Road Markings</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8321529</guid>
 <pubDate>Tue, 21 Oct 2025 11:38:30 +0100</pubDate>
-<georss:point>51.9016692 -2.1163614</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Footways Slabs problem, 21st October</title>
-<link>https://www.fixmystreet.com/report/8321520</link>
-<description>Give and take plus temporary footway closure required please lift and relay x1 rocking  tactile slab 400x300x15mm number 6 (FW Rocking/Unstable Slab)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8321520&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Footways Slabs</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8321520</guid>
-<pubDate>Tue, 21 Oct 2025 11:38:30 +0100</pubDate>
-<georss:point>51.8995428463716 -2.11107118969201</georss:point>
+<georss:point>51.9016971 -2.116408</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Footways Slabs problem, 21st October</title>
@@ -157,42 +193,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/8321523</guid>
 <pubDate>Tue, 21 Oct 2025 11:38:30 +0100</pubDate>
 <georss:point>51.9015063 -2.11555679999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Road Markings problem, 21st October</title>
-<link>https://www.fixmystreet.com/report/8321529</link>
-<description>Road closure  please refresh faded stop markings approximately 3 metres x200mm plus x2 3 metres lines (Faded Road Markings)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8321529&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Road Markings</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8321529</guid>
-<pubDate>Tue, 21 Oct 2025 11:38:30 +0100</pubDate>
-<georss:point>51.9016971 -2.116408</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 21st October</title>
-<link>https://www.fixmystreet.com/report/8321528</link>
-<description>Give and take  28 day plus  15  minutes delay boards Carriageway pothole  700x300x40mm  tarmac patch  unable to mark up due to traffic size is approximately number 3 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8321528&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8321528</guid>
-<pubDate>Tue, 21 Oct 2025 11:38:30 +0100</pubDate>
-<georss:point>51.9017201 -2.11646239999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 21st October</title>
-<link>https://www.fixmystreet.com/report/8321527</link>
-<description>Give and take  28 day plus  15  minutes delay boards Carriageway pothole  300x300x40mm  tarmac patch  unable to mark up due to traffic size is approximately number 2 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8321527&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8321527</guid>
-<pubDate>Tue, 21 Oct 2025 11:38:30 +0100</pubDate>
-<georss:point>51.9016976 -2.1164835</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Footways Slabs problem, 21st October</title>
-<link>https://www.fixmystreet.com/report/8321521</link>
-<description>Give and take plus temporary footway closure required please lift and relay x1 rocking  tactile slab 400x400x15mm number 7 (FW Rocking/Unstable Slab)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8321521&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Footways Slabs</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8321521</guid>
-<pubDate>Tue, 21 Oct 2025 11:38:30 +0100</pubDate>
-<georss:point>51.8995439078438 -2.11107038061586</georss:point>
 </item>
 </channel>
 </rss>
