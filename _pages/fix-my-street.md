@@ -9,7 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Grass verge, 22nd October :- [8327466](https://www.fixmystreet.com/report/8327466)
 - Overflowing Bin, 22nd October :- [8327217](https://www.fixmystreet.com/report/8327217)
+- A pothole in road problem, 22nd October :- [8327282](https://www.fixmystreet.com/report/8327282)
 - Fence blocking route in several places, 22nd October :- [8327116](https://www.fixmystreet.com/report/8327116)
 - Trench sinking leaving massive potholes, 22nd October :- [8327010](https://www.fixmystreet.com/report/8327010)
 - TMC - Defects - Vegetation problem, 22nd October :- [8326958](https://www.fixmystreet.com/report/8326958)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - A pothole in road problem, 22nd October :- [8326434](https://www.fixmystreet.com/report/8326434)
 - A pothole in road problem, 22nd October :- [8326433](https://www.fixmystreet.com/report/8326433)
 - Tree roots growing through pavement causing damage and a hazard risk to the public, 22nd October :- [8326241](https://www.fixmystreet.com/report/8326241)
-- Light sensor is not detecting vehicles problem, 22nd October :- [8326263](https://www.fixmystreet.com/report/8326263)
-- Depression in road surface, 22nd October :- [8326019](https://www.fixmystreet.com/report/8326019)
 
 <!-- fix_marker ends -->
