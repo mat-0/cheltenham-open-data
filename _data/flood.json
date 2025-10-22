@@ -1,17 +1,291 @@
 {
-    "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
-    "meta": {
-        "publisher": "Environment Agency",
-        "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
-        "version": "0.9",
-        "comment": "Status: Beta service",
-        "hasFormat": [
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.csv?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.html?county=Gloucestershire"
-        ]
+  "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
+  "meta": {
+    "publisher": "Environment Agency",
+    "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
+    "version": "0.9",
+    "comment": "Status: Beta service",
+    "hasFormat": [
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.csv",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
+    ]
+  },
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT1",
+      "description": "The tidal Rivers Bure, Ant and Thurne",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1",
+        "county": "Norfolk",
+        "notation": "054WATBT1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1/polygon",
+        "riverOrSea": "Bure, Ant, Thurne"
+      },
+      "floodAreaID": "054WATBT1",
+      "isTidal": true,
+      "message": "Higher than normal tides over the next three days may lead to flooding. \nFlooding is possible from today, Wednesday 22 October, and for the next three days. \nWe expect to see high water levels around Potter Heigham, Wroxham boat yards and Ferry Road in Horning.  The Broads and river levels will remain high over the next couple of days due to tide locking from the current spring tides and surge from a low pressure system. \nWe are liaising with emergency services and local authorities . \nAvoid low lying roads near rivers, which may be flooded . \nThis message will be updated by 9:00AM on 23 October 2025 or as the situation changes.\n\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-10-22T14:17:00",
+      "timeRaised": "2025-10-22T14:17:48",
+      "timeSeverityChanged": "2025-10-22T14:17:00"
     },
-    "items": []
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV4A",
+      "description": "The tidal Deben estuary",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV4A",
+        "county": "Suffolk",
+        "notation": "054WACDV4A",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV4A/polygon",
+        "riverOrSea": "River Deben, North Sea"
+      },
+      "floodAreaID": "054WACDV4A",
+      "isTidal": true,
+      "message": "High tides and forecast weather conditions throughout the evening may lead to flooding. \nFlooding is possible from 00:15 to 02:15 on Thursday 23 October. \nTide levels will be high around the boat yard in Felixstowe Ferry hamlet at the end of Ferry Road, and along riverside areas in Woodbridge and Waldringfield, as well as in surrounding marshland. The detailed forecast is for a peak level at  Harwich of 2.63 mAODN at 1:15am, tomorrow Thursday 23 October, which is 0.63m above tide tables, Wind Force 6, Easterly. Tides are expected to be higher than usual, due to the forecast weather conditions during spring tides. \nWe are closing locks and flood gates . \nAvoid coastal roads, footpaths and carparks, which may be flooded . \nThis message will be updated by 8:00AM on 23 October 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-10-22T14:40:00",
+      "timeRaised": "2025-10-22T14:40:44",
+      "timeSeverityChanged": "2025-10-22T14:40:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV4B",
+      "description": "The Suffolk and Essex coast from Felixstowe to Clacton including Orwell and Stour estuaries",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV4B",
+        "county": "Essex, Suffolk",
+        "notation": "054WACDV4B",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV4B/polygon",
+        "riverOrSea": "North Sea, River Orwell, River Deben"
+      },
+      "floodAreaID": "054WACDV4B",
+      "isTidal": true,
+      "message": "High tides and forecast weather conditions throughout the evening may lead to flooding. \nFlooding is possible Flooding is possible from 00:15am to 02:15am on Thursday 23 October. \nThe flood gates at Felixstowe seafront will be closed. The waterfront at Pin Mill, and The Strand at Wherstead under the Orwell Bridge may be flooded.  Water may be on the quay at Mistley. The detailed forecast is for a peak level at Harwich of 2.63mAODN at 1:15am, tomorrow Thursday 23 October, which is 0.63m above tide tables, Wind Force 6, Easterly. Tides are expected to be higher than usual, due to the forecast weather conditions during spring tides. \nWe are closing locks and flood gates . \nAvoid coastal roads, footpaths and carparks, which may be flooded . \nThis message will be updated by 8:00AM on 23 October 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-10-22T14:26:00",
+      "timeRaised": "2025-10-22T14:26:41",
+      "timeSeverityChanged": "2025-10-22T14:26:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WAFT1W10A00",
+      "description": "Upper River Tamar",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W10A00",
+        "county": "Cornwall, Devon",
+        "notation": "114WAFT1W10A00",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W10A00/polygon",
+        "riverOrSea": "River Tamar, River Strat, River Neet, River Ottery, River Kensey"
+      },
+      "floodAreaID": "114WAFT1W10A00",
+      "isTidal": false,
+      "message": "Forecast high river levels tomorrow morning may lead to flooding. \nFlooding is possible on 23 October 2025 from the early hours and into Thursday morning. \nHeavy rain is forecast overnight and into Thursday morning. Forecast levels may cause flooding to low lying land and roads close to rivers from around 3am on Thursday. We expect the rivers to remain high throughout Thursday though no flooding to properties is currently forecast. \nWe are closely monitoring the situation . \nAvoid low lying roads near rivers, which may be flooded . \nThis message will be updated by 11:00AM on 23 October 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-10-22T14:15:00",
+      "timeRaised": "2025-10-22T14:15:45",
+      "timeSeverityChanged": "2025-10-22T14:15:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WAFTW13",
+      "description": "River Teign area",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WAFTW13",
+        "county": "Devon, Torbay",
+        "notation": "113WAFTW13",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WAFTW13/polygon",
+        "riverOrSea": "River Teign, River Bovey, River Lemon, River Kenn"
+      },
+      "floodAreaID": "113WAFTW13",
+      "isTidal": false,
+      "message": "Forecast high river levels overnight may lead to flooding. \nFlooding is possible on 23 October 2025 . \nHeavy rain is expected from Wednesday evening into Thursday morning. Forecast levels may cause flooding to low lying land and roads close to the rivers from around 2am on Thursday. The main areas of concern are Newton Abbot, Kingsteignton, Teignmouth, Shaldon, Bovey Tracey, Kingskerswell, Dawlish and Dawlish Warren.\n\nWe expect the rivers to remain high throughout Thursday though no flooding to properties is currently forecast. \nWe are monitoring rainfall and river levels . \nAvoid low lying roads near rivers, which may be flooded . \nThis message will be updated by 10:30AM on 23 October 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-10-22T14:23:00",
+      "timeRaised": "2025-10-22T14:23:40",
+      "timeSeverityChanged": "2025-10-22T14:23:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WAFT1W03A00",
+      "description": "North Cornwall Rivers",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W03A00",
+        "county": "Cornwall",
+        "notation": "114WAFT1W03A00",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W03A00/polygon",
+        "riverOrSea": "River Camel, River Allen, Bodmin Town Leat, River Valency"
+      },
+      "floodAreaID": "114WAFT1W03A00",
+      "isTidal": false,
+      "message": "Forecast high river levels tomorrow morning may lead to flooding. \nFlooding is possible on 23 October 2025 from the early hours and into Thursday morning. \nHeavy rain is forecast overnight and into Thursday morning. Forecast levels may cause flooding to low lying land and roads close to the rivers from around 3AM on Thursday.\n\nWe expect the rivers to remain high throughout Thursday though no flooding to properties is currently forecast. \nWe are closely monitoring the situation . \nAvoid low lying roads near rivers, which may be flooded . \nThis message will be updated by 11:00AM on 23 October 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-10-22T14:15:00",
+      "timeRaised": "2025-10-22T14:15:51",
+      "timeSeverityChanged": "2025-10-22T14:15:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WAFT1W02A00",
+      "description": "Helford and Fal Rivers",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W02A00",
+        "county": "Cornwall",
+        "notation": "114WAFT1W02A00",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W02A00/polygon",
+        "riverOrSea": "River Kenwyn, Rover Allen, River Fal, River Tinney"
+      },
+      "floodAreaID": "114WAFT1W02A00",
+      "isTidal": false,
+      "message": "Forecast high river levels tomorrow morning may lead to flooding. \nFlooding is possible on 23 October 2025 from the early hours and into Thursday morning. \nHeavy rain is forecast overnight and into Thursday morning.\n \nForecast levels may cause flooding to low lying land and roads close to rivers from around 3am on Thursday. \n\nWe expect the rivers to remain high throughout Thursday though no flooding to properties is currently forecast. \nWe are closely monitoring the situation . \nAvoid low lying roads near rivers, which may be flooded . \nThis message will be updated by 11:00AM on 23 October 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-10-22T14:15:00",
+      "timeRaised": "2025-10-22T14:15:47",
+      "timeSeverityChanged": "2025-10-22T14:15:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WAFT1W07A00",
+      "description": "River Lynher",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W07A00",
+        "county": "Cornwall",
+        "notation": "114WAFT1W07A00",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W07A00/polygon",
+        "riverOrSea": "River Lynher"
+      },
+      "floodAreaID": "114WAFT1W07A00",
+      "isTidal": false,
+      "message": "Forecast high river levels tomorrow morning may lead to flooding. \nFlooding is possible on 23 October 2025 from the early hours and into Thursday morning. \nHeavy rain is forecast overnight and into Thursday morning. Forecast levels may cause flooding to low lying land and roads close to rivers from around 3am on Thursday. We expect the rivers to remain high throughout Thursday though no flooding to properties is currently forecast. \n \nWe are closely monitoring the situation . \n \nAvoid low lying roads near rivers, which may be flooded . \n \nThis message will be updated by 11:00AM on 23 October 2025 or as the situation changes. \nWe are closely monitoring the situation . \nAvoid low lying roads near rivers, which may be flooded . \nThis message will be updated by 11:00AM on 23 October 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-10-22T14:15:00",
+      "timeRaised": "2025-10-22T14:15:43",
+      "timeSeverityChanged": "2025-10-22T14:15:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV2A",
+      "description": "The north Norfolk coast from Old Hunstanton, to and including Cley",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV2A",
+        "county": "Norfolk",
+        "notation": "054WACDV2A",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV2A/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "054WACDV2A",
+      "isTidal": true,
+      "message": "High tides and forecast weather conditions tomorrow morning may lead to flooding. \nFlooding is possible from 0700 to 0900 on Thursday 23 October. \nWe expect to see water on roads and paths to beaches and on the quays in Brancaster, Burnham Overy, Holkham, Wells and Blakeney. The detailed forecast is for a peak level at Wells of 3.52mAODN at 8:00am tomorrow, Thursday 23 October, which is 0.68m above tide tables, Wind Force 3, Easterly. Tides are expected to be higher than usual, due to the forecast weather conditions during spring tides. \nWe are closing locks and flood gates . \nAvoid coastal roads, footpaths and carparks, which may be flooded . \nThis message will be updated by 10:00AM on 23 October 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-10-22T14:42:00",
+      "timeRaised": "2025-10-22T14:42:08",
+      "timeSeverityChanged": "2025-10-22T14:42:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051WACDV4C",
+      "description": "The Essex coast from Clacton to and including, St Peters Flat and the Colne and Blackwater estuaries",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WACDV4C",
+        "county": "Essex",
+        "notation": "051WACDV4C",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WACDV4C/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "051WACDV4C",
+      "isTidal": true,
+      "message": "High tides and forecast weather conditions throughout the evening may lead to flooding. \nFlooding is possible from 0030 to 0230 on Thursday 23 October. \nClacton Promenade, Lee-over-Sands and Brightlingsea sea front may see some wave overtopping and spray. The Strood at Mersea Island, Coast Road and car parks on the front at West Mersea, and the Hythe and Promenade at Maldon may be flooded. The detailed forecast is for a peak level at  Clacton of 2.86mAODN at 1:30am, tomorrow Thursday 23 October, which is 0.44m above tide tables, Wind Force 7, South-easterly. Tides are expected to be higher than usual, due to the forecast weather conditions during spring tides. \nWe are closing locks and flood gates . \nAvoid coastal roads, footpaths and carparks, which may be flooded . \nThis message will be updated by 8:00AM on 23 October 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-10-22T14:29:00",
+      "timeRaised": "2025-10-22T14:29:30",
+      "timeSeverityChanged": "2025-10-22T14:29:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WATCSTHKL",
+      "description": "Coast from Heacham to north of King's Lynn in Norfolk",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WATCSTHKL",
+        "county": "Norfolk",
+        "notation": "052WATCSTHKL",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WATCSTHKL/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "052WATCSTHKL",
+      "isTidal": true,
+      "message": "High tides and forecast weather conditions tomorrow morning may lead to flooding. \nFlooding is possible from 6:15am to 10:15am on 23.10.2025 \nAreas most at risk are Heacham, Snettisham, Ingoldisthorpe, Dersingham and Wolferton. The detailed forecast is for a peak level at  King's Lynn of 4.51mAODN at 8:15am on Thursday 23, which is 0.91m above tide tables, wind Force 8, Northerly. The high tide tomorrow afternoon is expected to be as high. \nWe are liaising with emergency services and local authorities . \nAvoid beaches and coastal promenades, which may be flooded . \nThis message will be updated by 12:00PM on 23 October 2025 or as the situation changes.\n\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-10-22T13:35:00",
+      "timeRaised": "2025-10-22T13:35:43",
+      "timeSeverityChanged": "2025-10-22T13:35:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WATCSTHUN",
+      "description": "Hunstanton coast in Norfolk",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WATCSTHUN",
+        "county": "Norfolk",
+        "notation": "052WATCSTHUN",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WATCSTHUN/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "052WATCSTHUN",
+      "isTidal": true,
+      "message": "High tides and forecast weather conditions tomorrow morning may lead to flooding. \nFlooding is possible from 6:15am to 10:15am on 23.10.2025 \nAreas most at risk are around Hunstanton seafront.  Flood gates in the area will be closed by the Local Authority which will make access difficult. The detailed forecast is for a peak level at  King's Lynn of 4.51mAODN at 8:15am on Thursday 23, which is 0.91m above tide tables, wind Force 8, Northerly. The high tide tomorrow afternoon is expected to be as high. \nWe are liaising with emergency services and local authorities . \nAvoid beaches and coastal promenades, which may be flooded . \nThis message will be updated by 12:00PM on 23 October 2025 or as the situation changes.\n\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-10-22T13:35:00",
+      "timeRaised": "2025-10-22T13:35:39",
+      "timeSeverityChanged": "2025-10-22T13:35:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051WACDV5B3a",
+      "description": "The Essex coast at Coalhouse Fort",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WACDV5B3a",
+        "county": "Thurrock",
+        "notation": "051WACDV5B3a",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WACDV5B3a/polygon",
+        "riverOrSea": "Thames Estuary"
+      },
+      "floodAreaID": "051WACDV5B3a",
+      "isTidal": true,
+      "message": "High tides and forecast weather conditions throughout the evening may lead to flooding. \nFlooding is possible from 01:00 to 03:00 on Thursday 23 October. \nLocations most affected will be coastal roads and footpaths. \nWe are closing locks and flood gates . \nAvoid coastal roads, footpaths and carparks, which may be flooded . \nThis message will be updated by 8:00AM on 23 October 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-10-22T14:40:00",
+      "timeRaised": "2025-10-22T14:40:48",
+      "timeSeverityChanged": "2025-10-22T14:40:00"
+    }
+  ]
 }
