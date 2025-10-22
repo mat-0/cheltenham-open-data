@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects -CW6 Potholes  problem, 22nd October :- [8324797](https://www.fixmystreet.com/report/8324797)
+- TMC - Defects -CW6 Potholes  problem, 22nd October :- [8324796](https://www.fixmystreet.com/report/8324796)
+- TMC - Defects -CW6 Potholes  problem, 22nd October :- [8324794](https://www.fixmystreet.com/report/8324794)
+- TMC - Defects -CW6 Potholes  problem, 22nd October :- [8324795](https://www.fixmystreet.com/report/8324795)
 - Patching worn through again with multiple potholes, 22nd October :- [8324574](https://www.fixmystreet.com/report/8324574)
 - Overgrowth covering jerb reducng road width, 22nd October :- [8324426](https://www.fixmystreet.com/report/8324426)
 - 2 large potholes outside the wagon and horses car park entrance, 22nd October :- [8324353](https://www.fixmystreet.com/report/8324353)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - The gully is too small and wrongly positioned for raineater to escape, 21st October :- [8323001](https://www.fixmystreet.com/report/8323001)
 - TMC - Defects - Other problem, 21st October :- [8323022](https://www.fixmystreet.com/report/8323022)
 - Blocked Drain causing flooding, 21st October :- [8322901](https://www.fixmystreet.com/report/8322901)
-- Heavy metal fencing leaning towards pavement. Lamp post (and abandoned recycling bin) holding them up and stopping them falling on someo, 21st October :- [8322780](https://www.fixmystreet.com/report/8322780)
-- TMC - Defects - Other problem, 21st October :- [8322881](https://www.fixmystreet.com/report/8322881)
-- TMC - Defects -CW6 Potholes  problem, 21st October :- [8322586](https://www.fixmystreet.com/report/8322586)
-- TMC - Defects -CW6 Potholes  problem, 21st October :- [8322585](https://www.fixmystreet.com/report/8322585)
 
 <!-- fix_marker ends -->
