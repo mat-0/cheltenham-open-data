@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- There is very badly placed signage at this junction on a pretty blind bend. There will be a crash unless it’s moved., 22nd October :- [8328318](https://www.fixmystreet.com/report/8328318)
 - Grass verge, 22nd October :- [8327466](https://www.fixmystreet.com/report/8327466)
 - Overflowing Bin, 22nd October :- [8327217](https://www.fixmystreet.com/report/8327217)
 - A pothole in road problem, 22nd October :- [8327282](https://www.fixmystreet.com/report/8327282)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Tree cutting, 22nd October :- [8326300](https://www.fixmystreet.com/report/8326300)
 - A pothole in road problem, 22nd October :- [8326434](https://www.fixmystreet.com/report/8326434)
 - A pothole in road problem, 22nd October :- [8326433](https://www.fixmystreet.com/report/8326433)
-- Tree roots growing through pavement causing damage and a hazard risk to the public, 22nd October :- [8326241](https://www.fixmystreet.com/report/8326241)
 
 <!-- fix_marker ends -->
