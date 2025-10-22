@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Patching worn through again with multiple potholes, 22nd October :- [8324574](https://www.fixmystreet.com/report/8324574)
 - Overgrowth covering jerb reducng road width, 22nd October :- [8324426](https://www.fixmystreet.com/report/8324426)
 - 2 large potholes outside the wagon and horses car park entrance, 22nd October :- [8324353](https://www.fixmystreet.com/report/8324353)
 - Pothole by No. 6 where old concrete road ends, 22nd October :- [8324349](https://www.fixmystreet.com/report/8324349)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other problem, 21st October :- [8322881](https://www.fixmystreet.com/report/8322881)
 - TMC - Defects -CW6 Potholes  problem, 21st October :- [8322586](https://www.fixmystreet.com/report/8322586)
 - TMC - Defects -CW6 Potholes  problem, 21st October :- [8322585](https://www.fixmystreet.com/report/8322585)
-- TMC - Defects -CW6 Potholes  problem, 21st October :- [8322583](https://www.fixmystreet.com/report/8322583)
 
 <!-- fix_marker ends -->
