@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Wednesday, 22 October 2025
 
-- The average temperature today is 10.55˚C,
-- With highs of 10.85˚C and lows of 9.91˚C,
-- It may feel like 10.01˚C with broken clouds
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 995hPa and humidity is 90%
+- The average temperature today is 10.1˚C,
+- With highs of 10.55˚C and lows of 9.18˚C,
+- It may feel like 9.46˚C with overcast clouds
+- The wind speed is 0.45m/s and visibility is 10000m
+- The pressure is 995hPa and humidity is 88%
 - The sun will rise at 06:45 and set at 17:00
 
 <!-- weather_marker ends -->
