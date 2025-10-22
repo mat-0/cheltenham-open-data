@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:atom="http://www.w3.org/2005/Atom"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
+ xmlns:atom="http://www.w3.org/2005/Atom"
 >
 
 <channel>
@@ -15,13 +15,130 @@
 <atom:link href="https://www.fixmystreet.com/rss/l/51.897991,-2.071308/10" rel="self" type="application/rss+xml"/>
 
 <item>
+<title>TMC - Defects -CW10 Potholes problem, 22nd October</title>
+<link>https://www.fixmystreet.com/report/8325404</link>
+<description>15DB - 28DAY &amp;#10;CW POTHOLE APPROX 500 X 400 X 50MM &amp;#10;TEMPORARY ROAD CLOSURE TM (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8325404&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8325404</guid>
+<pubDate>Wed, 22 Oct 2025 10:30:42 +0100</pubDate>
+<georss:point>51.9488347867336 -2.05115092763846</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 22nd October</title>
+<link>https://www.fixmystreet.com/report/8325403</link>
+<description>28DAY &amp;#10;STATS REQUIRED &amp;#10;FW ABRUPT LEVEL DIFFERENCES AROUND IRONWORKS APPROX 200 X 100 X 25MM &amp;#10;GIVE AND TAKE WITH TEMPORARY FW CLOSURE BOARDS TM (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8325403&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8325403</guid>
+<pubDate>Wed, 22 Oct 2025 10:26:30 +0100</pubDate>
+<georss:point>51.9494199 -2.0522036</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Covers, Gratings &amp; Frames problem, 22nd October</title>
+<link>https://www.fixmystreet.com/report/8325402</link>
+<description>28DAY &amp;#10;STATS REQUIRED &amp;#10;PLEASE TAKE UP AND RESET 1X BROADBOX C&amp;amp;F APPROX 550 X 440MM TO THE CORRECT LEVEL &amp;#10;GIVE AND TAKE WITH TEMPORARY FW CLOSURE BOARDS TM (Blocked Gully/Kerb Offlet)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8325402&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Covers, Gratings &amp; Frames</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8325402</guid>
+<pubDate>Wed, 22 Oct 2025 10:26:30 +0100</pubDate>
+<georss:point>51.9493866 -2.0521951</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 22nd October</title>
+<link>https://www.fixmystreet.com/report/8325391</link>
+<description>15DB - 28DAY &amp;#10;CW POTHOLE APPROX 600 X 300 X 40MM &amp;#10;TEMPORARY ROAD CLOSURE TM &amp;#10;IN CENTRE OF CW (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8325391&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8325391</guid>
+<pubDate>Wed, 22 Oct 2025 10:12:54 +0100</pubDate>
+<georss:point>51.9472699 -2.05588819999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 22nd October</title>
+<link>https://www.fixmystreet.com/report/8325390</link>
+<description>28DAY &amp;#10;STATS REQUIRED &amp;#10;FW ABRUPT LEVEL DIFFERENCES APPROX 900 X 600 X 25MM &amp;#10;GIVE AND TAKE TM (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8325390&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8325390</guid>
+<pubDate>Wed, 22 Oct 2025 10:12:47 +0100</pubDate>
+<georss:point>51.9468658 -2.05594279999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 22nd October</title>
+<link>https://www.fixmystreet.com/report/8325389</link>
+<description>28DAY &amp;#10;CW POTHOLE APPROX 1000 X 400 X 40MM &amp;#10;GIVE AND TAKE TM (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8325389&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8325389</guid>
+<pubDate>Wed, 22 Oct 2025 10:12:15 +0100</pubDate>
+<georss:point>51.9468763 -2.05602160000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 22nd October</title>
+<link>https://www.fixmystreet.com/report/8325388</link>
+<description>28DAY &amp;#10;CW POTHOLE APPROX 600 X 500 X 40MM &amp;#10;GIVE AND TAKE TM (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8325388&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8325388</guid>
+<pubDate>Wed, 22 Oct 2025 10:08:16 +0100</pubDate>
+<georss:point>51.946872 -2.05598689999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 22nd October</title>
+<link>https://www.fixmystreet.com/report/8325228</link>
+<description>15DB - 28DAY &amp;#10;CW POTHOLE APPROX 600 X 300 X 40MM &amp;#10;GIVE AND TAKE TM (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8325228&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8325228</guid>
+<pubDate>Wed, 22 Oct 2025 09:54:25 +0100</pubDate>
+<georss:point>51.9461591 -2.05356590000002</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 22nd October</title>
+<link>https://www.fixmystreet.com/report/8325229</link>
+<description>28DAY &amp;#10;STATS REQUIRED &amp;#10;CW POTHOLE APPROX 600 X 400 X 40MM &amp;#10;GIVE AND TAKE TM &amp;#10;1XNSD (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8325229&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8325229</guid>
+<pubDate>Wed, 22 Oct 2025 09:54:25 +0100</pubDate>
+<georss:point>51.9461786 -2.0538549</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 22nd October</title>
+<link>https://www.fixmystreet.com/report/8325222</link>
+<description>28DAY &amp;#10;CW POTHOLE APPROX 600 X 400 X 45MM &amp;#10;GIVE AND TAKE TM &amp;#10;1XNSD (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8325222&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8325222</guid>
+<pubDate>Wed, 22 Oct 2025 09:42:35 +0100</pubDate>
+<georss:point>51.9468536 -2.05092749999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 22nd October</title>
+<link>https://www.fixmystreet.com/report/8325219</link>
+<description>28DAY &amp;#10;STATS REQUIRED &amp;#10;FW ABRUPT LEVEL DIFFERENCES APPROX 600 X 500 X 20MM &amp;#10;GIVE AND TAKE TM (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8325219&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8325219</guid>
+<pubDate>Wed, 22 Oct 2025 09:34:40 +0100</pubDate>
+<georss:point>51.9435801559441 -2.05237020115388</georss:point>
+</item>
+<item>
 <title>TMC - Defects -CW6 Potholes  problem, 22nd October</title>
-<link>https://www.fixmystreet.com/report/8324797</link>
-<description>15DB &amp;#10;Pothole CW 580mm x 300mm x 42mm &amp;#10;Road closure TM &amp;#10;On ramp (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8324797&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/8325215</link>
+<description>15DB &amp;#10;Pothole CW 550mm x 550mm x 42mm &amp;#10;Give and take TM &amp;#10;At Bus Stop (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8325215&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8324797</guid>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8325215</guid>
+<pubDate>Wed, 22 Oct 2025 09:32:04 +0100</pubDate>
+<georss:point>51.8778018 -2.04762279999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 22nd October</title>
+<link>https://www.fixmystreet.com/report/8325210</link>
+<description>15DB &amp;#10;Pothole CW 600mm x 460mm x 44mm &amp;#10;Road closure TM &amp;#10;Outside 78 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8325210&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8325210</guid>
+<pubDate>Wed, 22 Oct 2025 09:19:03 +0100</pubDate>
+<georss:point>51.881637 -2.0524787</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 22nd October</title>
+<link>https://www.fixmystreet.com/report/8324794</link>
+<description>15DB &amp;#10;Pothole CW 550mm x 400mm x 40mm &amp;#10;Road closure TM &amp;#10;Outside 6 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8324794&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8324794</guid>
 <pubDate>Wed, 22 Oct 2025 08:48:27 +0100</pubDate>
-<georss:point>51.8836539 -2.05497299999999</georss:point>
+<georss:point>51.8838931 -2.05531340000001</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 22nd October</title>
@@ -34,12 +151,12 @@
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 22nd October</title>
-<link>https://www.fixmystreet.com/report/8324794</link>
-<description>15DB &amp;#10;Pothole CW 550mm x 400mm x 40mm &amp;#10;Road closure TM &amp;#10;Outside 6 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8324794&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/8324797</link>
+<description>15DB &amp;#10;Pothole CW 580mm x 300mm x 42mm &amp;#10;Road closure TM &amp;#10;On ramp (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8324797&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8324794</guid>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8324797</guid>
 <pubDate>Wed, 22 Oct 2025 08:48:27 +0100</pubDate>
-<georss:point>51.8838931 -2.05531340000001</georss:point>
+<georss:point>51.8836539 -2.05497299999999</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 22nd October</title>
@@ -76,123 +193,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/8324353</guid>
 <pubDate>Wed, 22 Oct 2025 07:10:28 +0100</pubDate>
 <georss:point>51.85577 -2.187241</georss:point>
-</item>
-<item>
-<title>Pothole by No. 6 where old concrete road ends, 22nd October</title>
-<link>https://www.fixmystreet.com/report/8324349</link>
-<description>Where the old concrete under-surface ends adjacent to No 6, there is a large pothole on the RH side of the carriage way as you face the roundabout. It&amp;#39;s in the dip in the tarmac about 5 yards from the drainage manhole in the road. It has been getting worse over the past 6 months.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Conway Road, Hucclecote, Gloucester&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8324349&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8324349</guid>
-<pubDate>Wed, 22 Oct 2025 07:07:40 +0100</pubDate>
-<georss:point>51.856257 -2.186223</georss:point>
-</item>
-<item>
-<title>By 10 cranham lane, 22nd October</title>
-<link>https://www.fixmystreet.com/report/8324245</link>
-<description>End of council road , by number 10&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Cranham Lane, Churchdown, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8324245&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8324245</guid>
-<pubDate>Wed, 22 Oct 2025 07:29:17 +0100</pubDate>
-<georss:point>51.87356 -2.165893</georss:point>
-</item>
-<item>
-<title>Unstable paving slab, 21st October</title>
-<link>https://www.fixmystreet.com/report/8324130</link>
-<description>Unstable paving slap - lifted up creating trip hazard What 3 words ///relate.rally.vent&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 92, Suffolk Road, Tivoli, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8324130&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Missing/broken/rocking/unstable slab</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8324130</guid>
-<pubDate>Tue, 21 Oct 2025 22:52:38 +0100</pubDate>
-<georss:point>51.892158 -2.084991</georss:point>
-</item>
-<item>
-<title>By pub, stoke road, sunken drain, 21st October</title>
-<link>https://www.fixmystreet.com/report/8323917</link>
-<description>Sunken drains by pub. Need fixing before they collapse.&amp;#10;&amp;#10;W3w location ///aviation.haystack.conveys&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Main Road, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8323917&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Loose/rattling cover/ironwork</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8323917</guid>
-<pubDate>Tue, 21 Oct 2025 20:37:44 +0100</pubDate>
-<georss:point>51.93316 -2.149037</georss:point>
-</item>
-<item>
-<title>Pothole next to 55 Hewlett Rd, 21st October</title>
-<link>https://www.fixmystreet.com/report/8323666</link>
-<description>Pothole next to 55 Hewlett Rd. This was only fixed last week and has already started to collapse further&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8323666.0.jpeg?be7dedc6&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 65, Hewlett Road, Fairview, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8323666&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8323666</guid>
-<pubDate>Tue, 21 Oct 2025 19:08:21 +0100</pubDate>
-<georss:point>51.898201 -2.067216</georss:point>
-</item>
-<item>
-<title>Flytipping - car tyres, 21st October</title>
-<link>https://www.fixmystreet.com/report/8323224</link>
-<description>Car tyres fly-tipped at the following w3w location:-&amp;#10;&amp;#10;///gladiators.slave.cone https://w3w.co/gladiators.slave.cone&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8323224.0.jpeg?ae38d75a&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Old Gloucester Road, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8323224&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Flytipping</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8323224</guid>
-<pubDate>Tue, 21 Oct 2025 17:15:50 +0100</pubDate>
-<georss:point>51.904753 -2.154894</georss:point>
-</item>
-<item>
-<title>Drain has been blocked for well over a year. Now causes water to enter nearing properties and frequently splashes residents and property., 21st October</title>
-<link>https://www.fixmystreet.com/report/8323165</link>
-<description>The drain opposite number 9 Northfield Terrace and the rear of 8 Clarence Sq&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 9, Northfield Terrace, Marle Hill, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8323165&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>The drain is blocked</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8323165</guid>
-<pubDate>Tue, 21 Oct 2025 17:03:05 +0100</pubDate>
-<georss:point>51.904458 -2.073351</georss:point>
-</item>
-<item>
-<title>The tree in Caernarfon close has not been looked after and park of the branches has snapped off,, 21st October</title>
-<link>https://www.fixmystreet.com/report/8323155</link>
-<description>The tree in Caernarfon close next to parking spaces as you drive in on left hand side has not been looked after and large branches have snapped off, luckily no damage to residents cars but this could happen if someone parks under, currently parking there is being avoided but the tree is next to parking spaces which are needed. Could the tree be trimmed , it is on a pavement within the close. Many thanks&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 16, Caernarvon Close, Hatherley, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8323155&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Tree is damaged</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8323155</guid>
-<pubDate>Tue, 21 Oct 2025 17:00:59 +0100</pubDate>
-<georss:point>51.885509 -2.112055</georss:point>
-</item>
-<item>
-<title>Low hanging brambles and hedges, 21st October</title>
-<link>https://www.fixmystreet.com/report/8323029</link>
-<description>There are low hanging brambles and hedges running along lobleys drive affecting walkers please can these be cut back asap&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Lobleys Drive, Gloucester&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8323029&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Overgrown hedges</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8323029</guid>
-<pubDate>Tue, 21 Oct 2025 16:33:09 +0100</pubDate>
-<georss:point>51.846858 -2.190357</georss:point>
-</item>
-<item>
-<title>Drain is blocked which is causing water to build up there. Water not reducing throughout day., 21st October</title>
-<link>https://www.fixmystreet.com/report/8323005</link>
-<description>Under the bridge on market street. On the sid of the road which allows parking.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Market Street, St Paul’s, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8323005&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>The drain is blocked</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8323005</guid>
-<pubDate>Tue, 21 Oct 2025 16:29:53 +0100</pubDate>
-<georss:point>51.903797 -2.085425</georss:point>
-</item>
-<item>
-<title>The gully is too small and wrongly positioned for raineater to escape, 21st October</title>
-<link>https://www.fixmystreet.com/report/8323001</link>
-<description>Gully/drain outside 161 Hewlett rd has been a problem for the last 10 years. It causes flooding covering the centre of the road and every 2 years you have to return to resurface the broken up road. Please address the cause of the problem to save this constant waste of council funds in patching up.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 31, Beechurst Avenue, Ewens Farm, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8323001&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>The drain is blocked</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8323001</guid>
-<pubDate>Tue, 21 Oct 2025 19:16:35 +0100</pubDate>
-<georss:point>51.899928 -2.060473</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other problem, 21st October</title>
-<link>https://www.fixmystreet.com/report/8323022</link>
-<description>top fill depression in c/way in to x granite crossing points has been taramac top fill again.&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8323022&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8323022</guid>
-<pubDate>Tue, 21 Oct 2025 16:10:43 +0100</pubDate>
-<georss:point>51.84298224 -2.18305098</georss:point>
-</item>
-<item>
-<title>Blocked Drain causing flooding, 21st October</title>
-<link>https://www.fixmystreet.com/report/8322901</link>
-<description>Outside number 39 Naunton Park Road between Disabled Parking places&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8322901.0.jpeg?0a70497e&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 39, Naunton Park Road, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8322901&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>The drain is blocked</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8322901</guid>
-<pubDate>Tue, 21 Oct 2025 16:03:52 +0100</pubDate>
-<georss:point>51.886559 -2.071278</georss:point>
 </item>
 </channel>
 </rss>
