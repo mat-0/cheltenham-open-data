@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Drain is blocked, has been for a while, causes flooding of footpath, 23rd October :- [8332506](https://www.fixmystreet.com/report/8332506)
 - Vehicular access at the top of Gravel Walk is extremely tight, Positioning of the Road name plate at the top right needs to be reviewed, Bank to the top left needs to be reviewed., 23rd October :- [8332303](https://www.fixmystreet.com/report/8332303)
 - Significant pothole/subsidence at the top of Gravel Walk, left hand side,, 23rd October :- [8332259](https://www.fixmystreet.com/report/8332259)
 - Whole of road, 23rd October :- [8332080](https://www.fixmystreet.com/report/8332080)
@@ -21,13 +22,12 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 23rd October :- [8330776](https://www.fixmystreet.com/report/8330776)
 - TMC - Defects -CW6 Potholes  problem, 23rd October :- [8330615](https://www.fixmystreet.com/report/8330615)
 - TMC - Defects -CW6 Potholes  problem, 23rd October :- [8330614](https://www.fixmystreet.com/report/8330614)
-- TMC - Defects -CW6 Potholes  problem, 23rd October :- [8330611](https://www.fixmystreet.com/report/8330611)
-- TMC - Defects -CW6 Potholes  problem, 23rd October :- [8330613](https://www.fixmystreet.com/report/8330613)
 - TMC - Defects -CW6 Potholes  problem, 23rd October :- [8330612](https://www.fixmystreet.com/report/8330612)
+- TMC - Defects -CW6 Potholes  problem, 23rd October :- [8330613](https://www.fixmystreet.com/report/8330613)
+- TMC - Defects -CW6 Potholes  problem, 23rd October :- [8330611](https://www.fixmystreet.com/report/8330611)
 - TMC - Defects -other CW6 problem, 23rd October :- [8330297](https://www.fixmystreet.com/report/8330297)
 - TMC - Defects -other CW6 problem, 23rd October :- [8330295](https://www.fixmystreet.com/report/8330295)
 - TMC - Defects - Other FW6  Surface problem, 23rd October :- [8330294](https://www.fixmystreet.com/report/8330294)
 - Large trees on the verge between Bournside Close and 22 Warden Hill Road are obstructing vehicle access and require maintenance., 23rd October :- [8330102](https://www.fixmystreet.com/report/8330102)
-- TMC - Defects -CW6 Potholes  problem, 23rd October :- [8330126](https://www.fixmystreet.com/report/8330126)
 
 <!-- fix_marker ends -->
