@@ -9,11 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- This tree (Tree 11449693) has not taken ever since it was planted and shows no sign of life so needs replacing please., 23rd October :- [8329741](https://www.fixmystreet.com/report/8329741)
+- A man apparently living in the van parked behind 163 Carter Road is daily throwing rubbish over the wall into Fisher Walk. This includes used incontinence pads and bottles which break as he throws them. This is a daily occurrence., 23rd October :- [8329586](https://www.fixmystreet.com/report/8329586)
 - Drain location poor, water misses drain, 23rd October :- [8329467](https://www.fixmystreet.com/report/8329467)
 - The drain is blocked problem, 23rd October :- [8329335](https://www.fixmystreet.com/report/8329335)
 - TMC - Defects -CW6 Potholes  problem, 23rd October :- [8329343](https://www.fixmystreet.com/report/8329343)
-- TMC - Defects -other CW6 problem, 23rd October :- [8329345](https://www.fixmystreet.com/report/8329345)
 - TMC - Defects -CW6 Potholes  problem, 23rd October :- [8329342](https://www.fixmystreet.com/report/8329342)
+- TMC - Defects -other CW6 problem, 23rd October :- [8329345](https://www.fixmystreet.com/report/8329345)
 - TMC - Defects -CW6 Potholes  problem, 23rd October :- [8329344](https://www.fixmystreet.com/report/8329344)
 - Bollard shell is damaged/vandalised (Non illuminating bollard or post) problem, 23rd October :- [8329334](https://www.fixmystreet.com/report/8329334)
 - Traffic light timing issue, 23rd October :- [8329088](https://www.fixmystreet.com/report/8329088)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Trench sinking leaving massive potholes, 22nd October :- [8327010](https://www.fixmystreet.com/report/8327010)
 - TMC - Defects - Vegetation problem, 22nd October :- [8326958](https://www.fixmystreet.com/report/8326958)
 - Light sensor is not detecting vehicles problem, 22nd October :- [8326951](https://www.fixmystreet.com/report/8326951)
-- Potholes on carriageway, 22nd October :- [8326830](https://www.fixmystreet.com/report/8326830)
-- TMC - Defects - Vegetation problem, 22nd October :- [8326957](https://www.fixmystreet.com/report/8326957)
 
 <!-- fix_marker ends -->
