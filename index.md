@@ -12,9 +12,9 @@ seo: Menu
 
 - The average temperature today is 6.82˚C,
 - With highs of 7.77˚C and lows of 6.49˚C,
-- It may feel like 3.55˚C with light intensity shower rain
+- It may feel like 3.55˚C with light rain
 - The wind speed is 5.14m/s and visibility is 10000m
-- The pressure is 996hPa and humidity is 89%
+- The pressure is 997hPa and humidity is 88%
 - The sun will rise at 06:46 and set at 16:58
 
 <!-- weather_marker ends -->
