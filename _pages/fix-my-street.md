@@ -9,6 +9,18 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street light out in front of 11a and 11b Priory St, 24th October :- [8333505](https://www.fixmystreet.com/report/8333505)
+- The cycle path along the landsdown road needs looking at no markings to say witch side they got to cycle on, 24th October :- [8333466](https://www.fixmystreet.com/report/8333466)
+- TMC - Defects - Other FW6  Surface problem, 24th October :- [8333422](https://www.fixmystreet.com/report/8333422)
+- TMC - Defects -CW6 Potholes  problem, 24th October :- [8333424](https://www.fixmystreet.com/report/8333424)
+- TMC - Defects - Other FW6  Surface problem, 24th October :- [8333423](https://www.fixmystreet.com/report/8333423)
+- Roadworks causing gridlock, 24th October :- [8333290](https://www.fixmystreet.com/report/8333290)
+- TMC - Defects -FW6 Potholes problem, 24th October :- [8333415](https://www.fixmystreet.com/report/8333415)
+- TMC - Defects - Other FW6  Surface problem, 24th October :- [8333414](https://www.fixmystreet.com/report/8333414)
+- TMC - Defects -CW6 Potholes  problem, 24th October :- [8333212](https://www.fixmystreet.com/report/8333212)
+- TMC - Defects -CW6 Potholes  problem, 24th October :- [8333213](https://www.fixmystreet.com/report/8333213)
+- TMC - Defects -CW6 Potholes  problem, 24th October :- [8333210](https://www.fixmystreet.com/report/8333210)
+- TMC - Defects -CW6 Potholes  problem, 24th October :- [8333211](https://www.fixmystreet.com/report/8333211)
 - TMC - Defects -CW6 Potholes  problem, 24th October :- [8333093](https://www.fixmystreet.com/report/8333093)
 - TMC - Defects -CW6 Potholes  problem, 24th October :- [8333094](https://www.fixmystreet.com/report/8333094)
 - Large areas of missing tarmac and potholes. Dangerous for cyclists, 24th October :- [8332782](https://www.fixmystreet.com/report/8332782)
@@ -17,17 +29,5 @@ permalink: /fix-my-street
 - Vehicular access at the top of Gravel Walk is extremely tight, Positioning of the Road name plate at the top right needs to be reviewed, Bank to the top left needs to be reviewed., 23rd October :- [8332303](https://www.fixmystreet.com/report/8332303)
 - Significant pothole/subsidence at the top of Gravel Walk, left hand side,, 23rd October :- [8332259](https://www.fixmystreet.com/report/8332259)
 - Whole of road, 23rd October :- [8332080](https://www.fixmystreet.com/report/8332080)
-- Overflowing public bin, 23rd October :- [8331916](https://www.fixmystreet.com/report/8331916)
-- Really deep and dangerous pothole, 23rd October :- [8331142](https://www.fixmystreet.com/report/8331142)
-- Repeat report Sent to Cheltenham Borough Council less than a minute later. FixMyStreet ref: 8094091., 23rd October :- [8330982](https://www.fixmystreet.com/report/8330982)
-- TMC - Defects - Other problem, 23rd October :- [8330944](https://www.fixmystreet.com/report/8330944)
-- TMC - Defects -FW6 Potholes problem, 23rd October :- [8330779](https://www.fixmystreet.com/report/8330779)
-- Tree is damaged problem, 23rd October :- [8330774](https://www.fixmystreet.com/report/8330774)
-- TMC - Defects - Vegetation problem, 23rd October :- [8330776](https://www.fixmystreet.com/report/8330776)
-- TMC - Defects -CW6 Potholes  problem, 23rd October :- [8330615](https://www.fixmystreet.com/report/8330615)
-- TMC - Defects -CW6 Potholes  problem, 23rd October :- [8330614](https://www.fixmystreet.com/report/8330614)
-- TMC - Defects -CW6 Potholes  problem, 23rd October :- [8330612](https://www.fixmystreet.com/report/8330612)
-- TMC - Defects -CW6 Potholes  problem, 23rd October :- [8330611](https://www.fixmystreet.com/report/8330611)
-- TMC - Defects -CW6 Potholes  problem, 23rd October :- [8330613](https://www.fixmystreet.com/report/8330613)
 
 <!-- fix_marker ends -->
