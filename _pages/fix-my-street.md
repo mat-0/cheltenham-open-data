@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects -CW6 Potholes  problem, 24th October :- [8333093](https://www.fixmystreet.com/report/8333093)
+- TMC - Defects -CW6 Potholes  problem, 24th October :- [8333094](https://www.fixmystreet.com/report/8333094)
 - Large areas of missing tarmac and potholes. Dangerous for cyclists, 24th October :- [8332782](https://www.fixmystreet.com/report/8332782)
 - Green traffic lights are 'pulsing' on posts 2 and 3., 23rd October :- [8332638](https://www.fixmystreet.com/report/8332638)
 - Drain is blocked, has been for a while, causes flooding of footpath, 23rd October :- [8332506](https://www.fixmystreet.com/report/8332506)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 23rd October :- [8330612](https://www.fixmystreet.com/report/8330612)
 - TMC - Defects -CW6 Potholes  problem, 23rd October :- [8330611](https://www.fixmystreet.com/report/8330611)
 - TMC - Defects -CW6 Potholes  problem, 23rd October :- [8330613](https://www.fixmystreet.com/report/8330613)
-- TMC - Defects -other CW6 problem, 23rd October :- [8330297](https://www.fixmystreet.com/report/8330297)
-- TMC - Defects -other CW6 problem, 23rd October :- [8330295](https://www.fixmystreet.com/report/8330295)
 
 <!-- fix_marker ends -->
