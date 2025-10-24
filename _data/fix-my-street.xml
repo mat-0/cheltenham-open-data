@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:atom="http://www.w3.org/2005/Atom"
  xmlns:georss="http://www.georss.org/georss"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -14,6 +14,24 @@
 <language>en-gb</language>
 <atom:link href="https://www.fixmystreet.com/rss/l/51.897991,-2.071308/10" rel="self" type="application/rss+xml"/>
 
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 24th October</title>
+<link>https://www.fixmystreet.com/report/8333093</link>
+<description>15DB &amp;#10;Pothole CW 640mm x 440mm x 42mm &amp;#10;Give and take TM &amp;#10;Use pinpoint (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8333093&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8333093</guid>
+<pubDate>Fri, 24 Oct 2025 08:10:19 +0100</pubDate>
+<georss:point>51.8985695 -2.03708140000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 24th October</title>
+<link>https://www.fixmystreet.com/report/8333094</link>
+<description>15DB &amp;#10;Pothole CW 400mm x 340mm x 47mm &amp;#10;Give and take TM &amp;#10;Use pinpoint (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8333094&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8333094</guid>
+<pubDate>Fri, 24 Oct 2025 08:10:19 +0100</pubDate>
+<georss:point>51.8981568 -2.0371811</georss:point>
+</item>
 <item>
 <title>Large areas of missing tarmac and potholes. Dangerous for cyclists, 24th October</title>
 <link>https://www.fixmystreet.com/report/8332782</link>
@@ -175,24 +193,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/8330613</guid>
 <pubDate>Thu, 23 Oct 2025 13:16:42 +0100</pubDate>
 <georss:point>51.8560295 -2.18706890000001</georss:point>
-</item>
-<item>
-<title>TMC - Defects -other CW6 problem, 23rd October</title>
-<link>https://www.fixmystreet.com/report/8330297</link>
-<description>Cw abrupt level &amp;#10;Patch required &amp;#10;10000x600mm&amp;#10;Stip and go (CW6 Abrupt Level Differences )&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8330297&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -other CW6</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8330297</guid>
-<pubDate>Thu, 23 Oct 2025 12:16:56 +0100</pubDate>
-<georss:point>51.8693375756007 -2.16666768745675</georss:point>
-</item>
-<item>
-<title>TMC - Defects -other CW6 problem, 23rd October</title>
-<link>https://www.fixmystreet.com/report/8330295</link>
-<description>Cw abrupt level &amp;#10;On new patch &amp;#10;1000x600mm&amp;#10;Needs levelling out (CW6 Abrupt Level Differences )&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8330295&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -other CW6</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8330295</guid>
-<pubDate>Thu, 23 Oct 2025 12:08:53 +0100</pubDate>
-<georss:point>51.8634019130975 -2.16766427967427</georss:point>
 </item>
 </channel>
 </rss>
