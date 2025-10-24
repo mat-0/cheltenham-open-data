@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large areas of missing tarmac and potholes. Dangerous for cyclists, 24th October :- [8332782](https://www.fixmystreet.com/report/8332782)
 - Green traffic lights are 'pulsing' on posts 2 and 3., 23rd October :- [8332638](https://www.fixmystreet.com/report/8332638)
 - Drain is blocked, has been for a while, causes flooding of footpath, 23rd October :- [8332506](https://www.fixmystreet.com/report/8332506)
 - Vehicular access at the top of Gravel Walk is extremely tight, Positioning of the Road name plate at the top right needs to be reviewed, Bank to the top left needs to be reviewed., 23rd October :- [8332303](https://www.fixmystreet.com/report/8332303)
@@ -23,11 +24,10 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 23rd October :- [8330776](https://www.fixmystreet.com/report/8330776)
 - TMC - Defects -CW6 Potholes  problem, 23rd October :- [8330615](https://www.fixmystreet.com/report/8330615)
 - TMC - Defects -CW6 Potholes  problem, 23rd October :- [8330614](https://www.fixmystreet.com/report/8330614)
-- TMC - Defects -CW6 Potholes  problem, 23rd October :- [8330613](https://www.fixmystreet.com/report/8330613)
 - TMC - Defects -CW6 Potholes  problem, 23rd October :- [8330611](https://www.fixmystreet.com/report/8330611)
 - TMC - Defects -CW6 Potholes  problem, 23rd October :- [8330612](https://www.fixmystreet.com/report/8330612)
+- TMC - Defects -CW6 Potholes  problem, 23rd October :- [8330613](https://www.fixmystreet.com/report/8330613)
 - TMC - Defects -other CW6 problem, 23rd October :- [8330297](https://www.fixmystreet.com/report/8330297)
 - TMC - Defects -other CW6 problem, 23rd October :- [8330295](https://www.fixmystreet.com/report/8330295)
-- TMC - Defects - Other FW6  Surface problem, 23rd October :- [8330294](https://www.fixmystreet.com/report/8330294)
 
 <!-- fix_marker ends -->
