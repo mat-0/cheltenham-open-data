@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:atom="http://www.w3.org/2005/Atom"
  xmlns:georss="http://www.georss.org/georss"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -16,75 +16,111 @@
 
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 24th October</title>
-<link>https://www.fixmystreet.com/report/8333812</link>
-<description>FW: Abrupt Level Difference &amp;#10;2000mmx1100mmx21mm&amp;#10;TM: Give and Take &amp;#10;Stats required &amp;#10;Outside The School (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8333812&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/8334188</link>
+<description>Depression FW 1430mm  x 460mm  x 32mm &amp;#10;Give and take TM With Temporary FW Closure &amp;#10;Near 8&amp;#10;Stats required (FW6 Rutting&amp;amp;Depressions)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8334188&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8333812</guid>
-<pubDate>Fri, 24 Oct 2025 10:26:08 +0100</pubDate>
-<georss:point>51.9049577 -2.05118549999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 24th October</title>
-<link>https://www.fixmystreet.com/report/8333807</link>
-<description>FW: Abrupt Level Difference &amp;#10;2300mmx1100mmx23mm&amp;#10;TM: Give and Take &amp;#10;Stats required &amp;#10;Outside No 12 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8333807&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8333807</guid>
-<pubDate>Fri, 24 Oct 2025 10:26:08 +0100</pubDate>
-<georss:point>51.9045511 -2.0517882</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 24th October</title>
-<link>https://www.fixmystreet.com/report/8333819</link>
-<description>FW: Abrupt Level Difference &amp;#10;5300mmx1800mmx52mm&amp;#10;TM: Give and Take &amp;#10;Stats required &amp;#10;Outside No 90 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8333819&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8333819</guid>
-<pubDate>Fri, 24 Oct 2025 10:26:08 +0100</pubDate>
-<georss:point>51.9056043 -2.05101780000001</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 24th October</title>
-<link>https://www.fixmystreet.com/report/8333821</link>
-<description>FW: Abrupt Level Difference &amp;#10;700mmx600mmx27mm&amp;#10;TM: Give and Take &amp;#10;Stats required &amp;#10;Outside No 113 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8333821&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8333821</guid>
-<pubDate>Fri, 24 Oct 2025 10:26:08 +0100</pubDate>
-<georss:point>51.905202 -2.05118350000001</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8334188</guid>
+<pubDate>Fri, 24 Oct 2025 11:29:56 +0100</pubDate>
+<georss:point>51.8982739 -2.06626629999999</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 24th October</title>
-<link>https://www.fixmystreet.com/report/8333810</link>
-<description>15DB CW: Pothole ( Using Footway Criteria)&amp;#10;300mmx300mmx23mm&amp;#10;TM: temporary road closure &amp;#10;Stats required &amp;#10;1 x NSD (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8333810&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/8334187</link>
+<description>15DB &amp;#10;Pothole CW 560mm x 350mm x 48mm &amp;#10;Give and take TM &amp;#10;Opposite 32 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8334187&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8333810</guid>
-<pubDate>Fri, 24 Oct 2025 10:26:08 +0100</pubDate>
-<georss:point>51.9048933 -2.05128910000002</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8334187</guid>
+<pubDate>Fri, 24 Oct 2025 11:29:46 +0100</pubDate>
+<georss:point>51.8960583 -2.06130810000001</georss:point>
+</item>
+<item>
+<title>Bollard shell is damaged/vandalised (Non illuminating bollard or post) problem, 24th October</title>
+<link>https://www.fixmystreet.com/report/8334180</link>
+<description>PERM REPAIR:  non illuminated bollard   X1 needs installing on crossing point  , for AHR.&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8334180&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Bollard shell is damaged/vandalised (Non illuminating bollard or post)</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8334180</guid>
+<pubDate>Fri, 24 Oct 2025 11:27:06 +0100</pubDate>
+<georss:point>51.948355 -2.051676</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 24th October</title>
-<link>https://www.fixmystreet.com/report/8333809</link>
-<description>FW: Abrupt Level Difference &amp;#10;3200mmx1400mmx23mm&amp;#10;TM: Give and Take &amp;#10;Stats required &amp;#10;Outside The School (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8333809&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/8334183</link>
+<description>FW: Abrupt Level Difference (Around BT Inspection cover).&amp;#10;800mmx200mmx23mm&amp;#10;TM: Give and Take &amp;#10;Stats required &amp;#10;Opposite No 15 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8334183&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8333809</guid>
-<pubDate>Fri, 24 Oct 2025 10:26:08 +0100</pubDate>
-<georss:point>51.9047152 -2.0514739</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8334183</guid>
+<pubDate>Fri, 24 Oct 2025 11:12:12 +0100</pubDate>
+<georss:point>51.9056657 -2.063841</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 24th October</title>
-<link>https://www.fixmystreet.com/report/8333808</link>
-<description>FW: Abrupt Level Difference &amp;#10;2100mmx1000mmx23mm&amp;#10;TM: Give and Take &amp;#10;Stats required &amp;#10;Outside The School (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8333808&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/8334182</link>
+<description>FW: Abrupt Level Difference &amp;#10;600mmx600mmx21mm&amp;#10;TM: Give and Take &amp;#10;Stats required &amp;#10;Outside No 15 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8334182&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8333808</guid>
-<pubDate>Fri, 24 Oct 2025 10:26:08 +0100</pubDate>
-<georss:point>51.9046594 -2.05153670000001</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8334182</guid>
+<pubDate>Fri, 24 Oct 2025 11:12:12 +0100</pubDate>
+<georss:point>51.9055823 -2.063756</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 24th October</title>
-<link>https://www.fixmystreet.com/report/8333806</link>
-<description>FW: Abrupt Level Difference &amp;#10;1400mmx700mmx23mm&amp;#10;TM: Give and Take &amp;#10;Stats required &amp;#10;Outside No 12 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8333806&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/8334184</link>
+<description>FW: Abrupt Level Difference &amp;#10;400mmx600mmx23mm&amp;#10;TM: Give and Take &amp;#10;2 x NSDs &amp;#10;Stats required &amp;#10;Near Hine Gardens Sign (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8334184&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8333806</guid>
-<pubDate>Fri, 24 Oct 2025 10:26:08 +0100</pubDate>
-<georss:point>51.9045429 -2.05178129999999</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8334184</guid>
+<pubDate>Fri, 24 Oct 2025 11:12:12 +0100</pubDate>
+<georss:point>51.9056733 -2.06356659999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Kerbs and Channels problem, 24th October</title>
+<link>https://www.fixmystreet.com/report/8334023</link>
+<description>15DB &amp;#10;Kerbing Defects CW 1 x 100mm Set&amp;#10;Give and take TM &amp;#10;Stats required (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8334023&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Kerbs and Channels</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8334023</guid>
+<pubDate>Fri, 24 Oct 2025 10:54:49 +0100</pubDate>
+<georss:point>51.9117527 -2.0698179</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Kerbs and Channels problem, 24th October</title>
+<link>https://www.fixmystreet.com/report/8334024</link>
+<description>15DB &amp;#10;Kerbing Defects CW 1 x 100mm Set&amp;#10;Give and take TM &amp;#10;Stats required (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8334024&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Kerbs and Channels</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8334024</guid>
+<pubDate>Fri, 24 Oct 2025 10:54:49 +0100</pubDate>
+<georss:point>51.9117303 -2.06980300000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Kerbs and Channels problem, 24th October</title>
+<link>https://www.fixmystreet.com/report/8334022</link>
+<description>15DB &amp;#10;Kerbing Defects CW 1 x 100mm Set&amp;#10;Give and take TM &amp;#10;Stats required (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8334022&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Kerbs and Channels</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8334022</guid>
+<pubDate>Fri, 24 Oct 2025 10:54:49 +0100</pubDate>
+<georss:point>51.9116882 -2.0697945</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 24th October</title>
+<link>https://www.fixmystreet.com/report/8334020</link>
+<description>FW: Abrupt Level Difference &amp;#10;1800mmx1800mmx24mm&amp;#10;TM: Give and Take &amp;#10;Stats required &amp;#10;Outside Premier (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8334020&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8334020</guid>
+<pubDate>Fri, 24 Oct 2025 10:49:50 +0100</pubDate>
+<georss:point>51.9084329 -2.05362060000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 24th October</title>
+<link>https://www.fixmystreet.com/report/8334019</link>
+<description>FW: Abrupt Level Difference (Around BT Inspection cover).&amp;#10;900mmx500mmx22mm&amp;#10;TM: Give and Take &amp;#10;Stats required &amp;#10;Outside No 21 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8334019&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8334019</guid>
+<pubDate>Fri, 24 Oct 2025 10:49:50 +0100</pubDate>
+<georss:point>51.908529 -2.05153800000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 24th October</title>
+<link>https://www.fixmystreet.com/report/8334018</link>
+<description>FW: Abrupt Level Difference (Around Mains Water Tap).&amp;#10;400mmx400mmx26mm&amp;#10;TM: Give and Take &amp;#10;Stats required &amp;#10;Outside No 33 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8334018&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8334018</guid>
+<pubDate>Fri, 24 Oct 2025 10:49:50 +0100</pubDate>
+<georss:point>51.908518 -2.05054780000001</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Kerbs and Channels problem, 24th October</title>
@@ -97,21 +133,39 @@
 </item>
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 24th October</title>
-<link>https://www.fixmystreet.com/report/8333817</link>
-<description>FW: Abrupt Level Difference &amp;#10;5300mmx800mmx23mm&amp;#10;TM: Give and Take &amp;#10;Stats required &amp;#10;Outside The School (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8333817&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/8333820</link>
+<description>FW: Edge deteration &amp;#10;3600mmx300mmx28mm&amp;#10;TM: Give and Take &amp;#10;Stats required &amp;#10;Outside No 90 (FW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8333820&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8333817</guid>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8333820</guid>
 <pubDate>Fri, 24 Oct 2025 10:26:08 +0100</pubDate>
-<georss:point>51.9052595 -2.05103700000001</georss:point>
+<georss:point>51.905607 -2.05099849999999</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 24th October</title>
-<link>https://www.fixmystreet.com/report/8333811</link>
-<description>FW: Abrupt Level Difference (Around Inspection cover).&amp;#10;1300mmx1000mmx24mm&amp;#10;TM: Give and Take &amp;#10;Stats required &amp;#10;Outside The School (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8333811&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/8333816</link>
+<description>FW: Abrupt Level Difference &amp;#10;1500mmx1000mmx29mm&amp;#10;TM: Give and Take &amp;#10;Stats required &amp;#10;Outside The School (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8333816&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8333811</guid>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8333816</guid>
 <pubDate>Fri, 24 Oct 2025 10:26:08 +0100</pubDate>
-<georss:point>51.9049226 -2.05122280000001</georss:point>
+<georss:point>51.9050717 -2.05105820000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 24th October</title>
+<link>https://www.fixmystreet.com/report/8333821</link>
+<description>FW: Abrupt Level Difference &amp;#10;700mmx600mmx27mm&amp;#10;TM: Give and Take &amp;#10;Stats required &amp;#10;Outside No 113 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8333821&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8333821</guid>
+<pubDate>Fri, 24 Oct 2025 10:26:08 +0100</pubDate>
+<georss:point>51.905202 -2.05118350000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 24th October</title>
+<link>https://www.fixmystreet.com/report/8333815</link>
+<description>FW: Abrupt Level Difference &amp;#10;800mmx1100mmx22mm&amp;#10;TM: Give and Take &amp;#10;Stats required &amp;#10;Outside The School (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8333815&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8333815</guid>
+<pubDate>Fri, 24 Oct 2025 10:26:08 +0100</pubDate>
+<georss:point>51.905048 -2.05113829999999</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 24th October</title>
@@ -124,75 +178,21 @@
 </item>
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 24th October</title>
-<link>https://www.fixmystreet.com/report/8333816</link>
-<description>FW: Abrupt Level Difference &amp;#10;1500mmx1000mmx29mm&amp;#10;TM: Give and Take &amp;#10;Stats required &amp;#10;Outside The School (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8333816&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/8333812</link>
+<description>FW: Abrupt Level Difference &amp;#10;2000mmx1100mmx21mm&amp;#10;TM: Give and Take &amp;#10;Stats required &amp;#10;Outside The School (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8333812&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8333816</guid>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8333812</guid>
 <pubDate>Fri, 24 Oct 2025 10:26:08 +0100</pubDate>
-<georss:point>51.9050717 -2.05105820000001</georss:point>
-</item>
-<item>
-<title>TMC - Defects -other CW6 problem, 24th October</title>
-<link>https://www.fixmystreet.com/report/8333822</link>
-<description>CW: Edge deteration ( Using Footway Criteria)&amp;#10;1200mmx650mmx25mm&amp;#10;TM: Give and Take &amp;#10;Stats required &amp;#10;Outside The School (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8333822&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -other CW6</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8333822</guid>
-<pubDate>Fri, 24 Oct 2025 10:26:08 +0100</pubDate>
-<georss:point>51.9050713 -2.05119700000001</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 24th October</title>
-<link>https://www.fixmystreet.com/report/8333820</link>
-<description>FW: Edge deteration &amp;#10;3600mmx300mmx28mm&amp;#10;TM: Give and Take &amp;#10;Stats required &amp;#10;Outside No 90 (FW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8333820&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8333820</guid>
-<pubDate>Fri, 24 Oct 2025 10:26:08 +0100</pubDate>
-<georss:point>51.905607 -2.05099849999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 24th October</title>
-<link>https://www.fixmystreet.com/report/8333815</link>
-<description>FW: Abrupt Level Difference &amp;#10;800mmx1100mmx22mm&amp;#10;TM: Give and Take &amp;#10;Stats required &amp;#10;Outside The School (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8333815&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8333815</guid>
-<pubDate>Fri, 24 Oct 2025 10:26:08 +0100</pubDate>
-<georss:point>51.905048 -2.05113829999999</georss:point>
+<georss:point>51.9049577 -2.05118549999999</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 24th October</title>
-<link>https://www.fixmystreet.com/report/8333802</link>
-<description>15DB &amp;#10;Pothole CW 550mm x 550mm x 57mm &amp;#10;Give and take TM &amp;#10;Outside Majestic (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8333802&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/8333810</link>
+<description>15DB CW: Pothole ( Using Footway Criteria)&amp;#10;300mmx300mmx23mm&amp;#10;TM: temporary road closure &amp;#10;Stats required &amp;#10;1 x NSD (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8333810&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8333802</guid>
-<pubDate>Fri, 24 Oct 2025 10:17:11 +0100</pubDate>
-<georss:point>51.9176073 -2.10222519999998</georss:point>
-</item>
-<item>
-<title>Tree is damaged problem, 24th October</title>
-<link>https://www.fixmystreet.com/report/8333795</link>
-<description>No further details as the customer is not willing to provide any further information. I have explained the info from CDC has  not passed this information on. Please see attached thread.&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8333795&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Tree is damaged</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8333795</guid>
-<pubDate>Fri, 24 Oct 2025 10:04:32 +0100</pubDate>
-<georss:point>51.907594 -2.068059</georss:point>
-</item>
-<item>
-<title>Street light out in front of 11a and 11b Priory St, 24th October</title>
-<link>https://www.fixmystreet.com/report/8333505</link>
-<description>Street light out in front of 11a and 11b Priory St (already indicated on map). Combined with incomplete works under ref 11464935 from 14 Aug 24 has made this are of road/footpath even more dangerous.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 25, Priory Street, Fairview, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8333505&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Street light is permanently out</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8333505</guid>
-<pubDate>Fri, 24 Oct 2025 09:48:03 +0100</pubDate>
-<georss:point>51.897807 -2.065766</georss:point>
-</item>
-<item>
-<title>The cycle path along the landsdown road needs looking at no markings to say witch side they got to cycle on, 24th October</title>
-<link>https://www.fixmystreet.com/report/8333466</link>
-<description>All of the cycle path both sides on the lansdown road cheltenham&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 71, Byron Road, Hatherley, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8333466&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Road marking white lines or studs</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8333466</guid>
-<pubDate>Fri, 24 Oct 2025 09:39:55 +0100</pubDate>
-<georss:point>51.898078 -2.110739</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8333810</guid>
+<pubDate>Fri, 24 Oct 2025 10:26:08 +0100</pubDate>
+<georss:point>51.9048933 -2.05128910000002</georss:point>
 </item>
 </channel>
 </rss>
