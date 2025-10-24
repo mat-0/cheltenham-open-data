@@ -10,9 +10,9 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Friday, 24 October 2025
 
-- The average temperature today is 9.09˚C,
-- With highs of 9.41˚C and lows of 8.72˚C,
-- It may feel like 8.79˚C with scattered clouds
+- The average temperature today is 9.1˚C,
+- With highs of 9.73˚C and lows of 8.71˚C,
+- It may feel like 8.8˚C with scattered clouds
 - The wind speed is 1.34m/s and visibility is 10000m
 - The pressure is 997hPa and humidity is 92%
 - The sun will rise at 06:48 and set at 16:56
