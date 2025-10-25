@@ -26,8 +26,8 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 24th October :- [8335169](https://www.fixmystreet.com/report/8335169)
 - TMC - Defects - Other FW6  Surface problem, 24th October :- [8335005](https://www.fixmystreet.com/report/8335005)
 - TMC - Defects - Other FW6  Surface problem, 24th October :- [8335006](https://www.fixmystreet.com/report/8335006)
-- TMC - Defects - Other FW6  Surface problem, 24th October :- [8335004](https://www.fixmystreet.com/report/8335004)
 - TMC - Defects - Other FW6  Surface problem, 24th October :- [8335003](https://www.fixmystreet.com/report/8335003)
+- TMC - Defects - Other FW6  Surface problem, 24th October :- [8335004](https://www.fixmystreet.com/report/8335004)
 - TMC - Defects - Other FW6  Surface problem, 24th October :- [8335002](https://www.fixmystreet.com/report/8335002)
 
 <!-- fix_marker ends -->
