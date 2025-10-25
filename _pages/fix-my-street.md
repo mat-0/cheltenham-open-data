@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Small trip hazard in Cycleway The Poplars Cranham Gate Hucclecote, 25th October :- [8338146](https://www.fixmystreet.com/report/8338146)
 - Large pothole on Warden Hill Road towards centre line, 25th October :- [8337741](https://www.fixmystreet.com/report/8337741)
 - Debris from a camper near Hatherley Brook, 25th October :- [8337720](https://www.fixmystreet.com/report/8337720)
 - Overflowing public bin, 25th October :- [8337691](https://www.fixmystreet.com/report/8337691)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Obstruction caused by tree problem, 24th October :- [8335468](https://www.fixmystreet.com/report/8335468)
 - Surface is damaged problem, 24th October :- [8335308](https://www.fixmystreet.com/report/8335308)
 - TMC - Defects -CW6 Potholes  problem, 24th October :- [8335313](https://www.fixmystreet.com/report/8335313)
-- TMC - Defects -FW6 Potholes problem, 24th October :- [8335314](https://www.fixmystreet.com/report/8335314)
 
 <!-- fix_marker ends -->
