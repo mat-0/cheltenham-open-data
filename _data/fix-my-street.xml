@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:atom="http://www.w3.org/2005/Atom"
  xmlns:georss="http://www.georss.org/georss"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -169,21 +169,21 @@
 </item>
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 24th October</title>
-<link>https://www.fixmystreet.com/report/8335004</link>
-<description>15DB FW: Abrupt Level Difference &amp;#10;700mmx400mmx22mm&amp;#10;TM: temporary road closure &amp;#10;Stats required &amp;#10;Use pinpoint (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8335004&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8335004</guid>
-<pubDate>Fri, 24 Oct 2025 13:47:22 +0100</pubDate>
-<georss:point>51.8973353 -2.06951180000001</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 24th October</title>
 <link>https://www.fixmystreet.com/report/8335003</link>
 <description>15DB FW: Abrupt Level Difference &amp;#10;1000mmx500mmx22mm&amp;#10;TM: temporary road closure &amp;#10;Stats required &amp;#10;Use pinpoint (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8335003&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Other FW6  Surface</category>
 <guid isPermaLink="false">https://www.fixmystreet.com/report/8335003</guid>
 <pubDate>Fri, 24 Oct 2025 13:47:22 +0100</pubDate>
 <georss:point>51.8973558 -2.0695704</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 24th October</title>
+<link>https://www.fixmystreet.com/report/8335004</link>
+<description>15DB FW: Abrupt Level Difference &amp;#10;700mmx400mmx22mm&amp;#10;TM: temporary road closure &amp;#10;Stats required &amp;#10;Use pinpoint (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8335004&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8335004</guid>
+<pubDate>Fri, 24 Oct 2025 13:47:22 +0100</pubDate>
+<georss:point>51.8973353 -2.06951180000001</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 24th October</title>
