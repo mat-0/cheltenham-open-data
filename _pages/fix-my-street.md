@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Volunteer litter pick bags ready for collection, 25th October :- [8338720](https://www.fixmystreet.com/report/8338720)
 - When the traffic lights turns green it only lets 3 cars tune right before changing back to red, 25th October :- [8338501](https://www.fixmystreet.com/report/8338501)
 - Small trip hazard in Cycleway The Poplars Cranham Gate Hucclecote, 25th October :- [8338146](https://www.fixmystreet.com/report/8338146)
 - Large pothole on Warden Hill Road towards centre line, 25th October :- [8337741](https://www.fixmystreet.com/report/8337741)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Large pothole, 24th October :- [8335815](https://www.fixmystreet.com/report/8335815)
 - Tree roots, 24th October :- [8335677](https://www.fixmystreet.com/report/8335677)
 - Obstruction caused by tree problem, 24th October :- [8335468](https://www.fixmystreet.com/report/8335468)
-- Surface is damaged problem, 24th October :- [8335308](https://www.fixmystreet.com/report/8335308)
 
 <!-- fix_marker ends -->
