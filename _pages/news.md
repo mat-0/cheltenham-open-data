@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Pregnant sheep chased and bitten by dogs ([5 hours ago](https://www.bbc.com/news/articles/c30v863814lo?at_medium=RSS&at_campaign=rss))
-- Clock-keepers prepare to turn back time ([8 hours ago](https://www.bbc.com/news/articles/c1wl0219p4yo?at_medium=RSS&at_campaign=rss))
-- Rare railbus returns as part of history festival ([13 hours ago](https://www.bbc.com/news/articles/cd675zgzg0zo?at_medium=RSS&at_campaign=rss))
-- Pumpkin trails and ghostly tales in the west ([13 hours ago](https://www.bbc.com/news/articles/cly9jxx50gro?at_medium=RSS&at_campaign=rss))
-- 'I left Wales for England to access free childcare' ([13 hours ago](https://www.bbc.com/news/articles/c2lpnr8n8rpo?at_medium=RSS&at_campaign=rss))
+- Pregnant sheep chased and bitten by dogs ([6 hours ago](https://www.bbc.com/news/articles/c30v863814lo?at_medium=RSS&at_campaign=rss))
+- Clock-keepers prepare to turn back time ([9 hours ago](https://www.bbc.com/news/articles/c1wl0219p4yo?at_medium=RSS&at_campaign=rss))
+- Rare railbus returns as part of history festival ([14 hours ago](https://www.bbc.com/news/articles/cd675zgzg0zo?at_medium=RSS&at_campaign=rss))
+- Pumpkin trails and ghostly tales in the west ([14 hours ago](https://www.bbc.com/news/articles/cly9jxx50gro?at_medium=RSS&at_campaign=rss))
+- 'I left Wales for England to access free childcare' ([14 hours ago](https://www.bbc.com/news/articles/c2lpnr8n8rpo?at_medium=RSS&at_campaign=rss))
 - The Big Cases ([1 days ago](https://www.bbc.co.uk/iplayer/episode/m002lsdp?at_medium=RSS&at_campaign=rss))
 - Talks to improve Cheltenham town centre ([1 days ago](https://gloucesternewscentre.co.uk/talks-to-improve-cheltenham-town-centre/))
 - Warning issued over fake refugee housing letters ([1 days ago](https://www.bbc.com/news/articles/cm2ler3xnv8o?at_medium=RSS&at_campaign=rss))
