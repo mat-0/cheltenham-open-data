@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
  xmlns:atom="http://www.w3.org/2005/Atom"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -133,21 +133,21 @@
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 24th October</title>
-<link>https://www.fixmystreet.com/report/8335312</link>
-<description>15DB &amp;#10;Pothole CW 500mm x 400mm x 40mm &amp;#10;Give and take TM &amp;#10;Sub Station (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8335312&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8335312</guid>
-<pubDate>Fri, 24 Oct 2025 14:35:05 +0100</pubDate>
-<georss:point>51.9074056 -2.0506764</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 24th October</title>
 <link>https://www.fixmystreet.com/report/8335313</link>
 <description>15DB &amp;#10;Pothole CW 600mm x 430mm x 40mm &amp;#10;Give and take TM &amp;#10;Use pinpoint (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8335313&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
 <guid isPermaLink="false">https://www.fixmystreet.com/report/8335313</guid>
 <pubDate>Fri, 24 Oct 2025 14:35:05 +0100</pubDate>
 <georss:point>51.9076565 -2.0506712</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 24th October</title>
+<link>https://www.fixmystreet.com/report/8335312</link>
+<description>15DB &amp;#10;Pothole CW 500mm x 400mm x 40mm &amp;#10;Give and take TM &amp;#10;Sub Station (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8335312&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8335312</guid>
+<pubDate>Fri, 24 Oct 2025 14:35:05 +0100</pubDate>
+<georss:point>51.9074056 -2.0506764</georss:point>
 </item>
 <item>
 <title>The drain is blocked problem, 24th October</title>
