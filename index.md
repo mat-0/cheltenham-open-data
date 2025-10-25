@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Saturday, 25 October 2025
 
-- The average temperature today is 7.34˚C,
-- With highs of 8.32˚C and lows of 6.58˚C,
-- It may feel like 6.3˚C with light rain
-- The wind speed is 1.79m/s and visibility is 10000m
-- The pressure is 1008hPa and humidity is 83%
+- The average temperature today is 6.89˚C,
+- With highs of 7.2˚C and lows of 6.49˚C,
+- It may feel like 6.89˚C with light rain
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 1009hPa and humidity is 87%
 - The sun will rise at 06:50 and set at 16:54
 
 <!-- weather_marker ends -->
