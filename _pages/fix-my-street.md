@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- When the traffic lights turns green it only lets 3 cars tune right before changing back to red, 25th October :- [8338501](https://www.fixmystreet.com/report/8338501)
 - Small trip hazard in Cycleway The Poplars Cranham Gate Hucclecote, 25th October :- [8338146](https://www.fixmystreet.com/report/8338146)
 - Large pothole on Warden Hill Road towards centre line, 25th October :- [8337741](https://www.fixmystreet.com/report/8337741)
 - Debris from a camper near Hatherley Brook, 25th October :- [8337720](https://www.fixmystreet.com/report/8337720)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Tree roots, 24th October :- [8335677](https://www.fixmystreet.com/report/8335677)
 - Obstruction caused by tree problem, 24th October :- [8335468](https://www.fixmystreet.com/report/8335468)
 - Surface is damaged problem, 24th October :- [8335308](https://www.fixmystreet.com/report/8335308)
-- TMC - Defects -CW6 Potholes  problem, 24th October :- [8335313](https://www.fixmystreet.com/report/8335313)
 
 <!-- fix_marker ends -->
