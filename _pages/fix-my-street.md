@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pavement totally blocked, 26th October :- [8341363](https://www.fixmystreet.com/report/8341363)
+- Mattress dumped in Pittville park, 26th October :- [8341306](https://www.fixmystreet.com/report/8341306)
 - Loads of road breaking up on the entrance to meadoway and further towards the race course, 26th October :- [8341020](https://www.fixmystreet.com/report/8341020)
 - The timing of the 3-way temporary traffic lights on the A46 & Kidnappers Lane is dreadful with waits of more than a minute., 26th October :- [8341016](https://www.fixmystreet.com/report/8341016)
 - Blocked Drains. Weeds. Litter, 26th October :- [8340858](https://www.fixmystreet.com/report/8340858)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Volunteer litter pick bags ready for collection, 25th October :- [8338720](https://www.fixmystreet.com/report/8338720)
 - When the traffic lights turns green it only lets 3 cars tune right before changing back to red, 25th October :- [8338501](https://www.fixmystreet.com/report/8338501)
 - Small trip hazard in Cycleway The Poplars Cranham Gate Hucclecote, 25th October :- [8338146](https://www.fixmystreet.com/report/8338146)
-- Large pothole on Warden Hill Road towards centre line, 25th October :- [8337741](https://www.fixmystreet.com/report/8337741)
-- Debris from a camper near Hatherley Brook, 25th October :- [8337720](https://www.fixmystreet.com/report/8337720)
 
 <!-- fix_marker ends -->
