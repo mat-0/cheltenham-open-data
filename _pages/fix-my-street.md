@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Graffiti on utility box and steet furniture, 26th October :- [8339515](https://www.fixmystreet.com/report/8339515)
 - Very large hole at entrance to Sixways Clinic, London Rd., 26th October :- [8339218](https://www.fixmystreet.com/report/8339218)
 - Metal duct collapsed, 26th October :- [8339087](https://www.fixmystreet.com/report/8339087)
 - Volunteer litter pick bags ready for collection, 25th October :- [8338720](https://www.fixmystreet.com/report/8338720)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - PROW Blocked by locked gate and overgrown vegetation. Please open up this PROW, 24th October :- [8336066](https://www.fixmystreet.com/report/8336066)
 - The drain seems to be sinking, the drain is in the road between no 14 and no 12 Everest Road GL539LG, 24th October :- [8335893](https://www.fixmystreet.com/report/8335893)
 - The road is falling away around the metal drain. It’s happened very quickly and seems to be getting worse., 24th October :- [8335858](https://www.fixmystreet.com/report/8335858)
-- Large pothole, 24th October :- [8335815](https://www.fixmystreet.com/report/8335815)
 
 <!-- fix_marker ends -->
