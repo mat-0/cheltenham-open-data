@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Sunday, 26 October 2025
 
-- The average temperature today is 11.33˚C,
-- With highs of 12.21˚C and lows of 10.94˚C,
-- It may feel like 10.74˚C with overcast clouds
+- The average temperature today is 11.46˚C,
+- With highs of 12.75˚C and lows of 10.94˚C,
+- It may feel like 10.85˚C with overcast clouds
 - The wind speed is 4.47m/s and visibility is 10000m
-- The pressure is 1005hPa and humidity is 85%
+- The pressure is 1005hPa and humidity is 84%
 - The sun will rise at 06:52 and set at 16:52
 
 <!-- weather_marker ends -->
