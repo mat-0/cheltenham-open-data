@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Loads of road breaking up on the entrance to meadoway and further towards the race course, 26th October :- [8341020](https://www.fixmystreet.com/report/8341020)
+- The timing of the 3-way temporary traffic lights on the A46 & Kidnappers Lane is dreadful with waits of more than a minute., 26th October :- [8341016](https://www.fixmystreet.com/report/8341016)
 - Blocked Drains. Weeds. Litter, 26th October :- [8340858](https://www.fixmystreet.com/report/8340858)
 - Graffiti over box, 26th October :- [8340850](https://www.fixmystreet.com/report/8340850)
 - There are temporary traffic lights on the junction of manor road and runnings road. There is no permitted work here accordingly to the glos highways website. Get them removed asap!!, 26th October :- [8340404](https://www.fixmystreet.com/report/8340404)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Small trip hazard in Cycleway The Poplars Cranham Gate Hucclecote, 25th October :- [8338146](https://www.fixmystreet.com/report/8338146)
 - Large pothole on Warden Hill Road towards centre line, 25th October :- [8337741](https://www.fixmystreet.com/report/8337741)
 - Debris from a camper near Hatherley Brook, 25th October :- [8337720](https://www.fixmystreet.com/report/8337720)
-- Overflowing public bin, 25th October :- [8337691](https://www.fixmystreet.com/report/8337691)
-- There are several blocked drains on Sandy Lane (deeply caked up, not just superficial blockage of grille), so not functioning as drains at all. There is also a drain on the mini roundabout at junction with Greenhills Rd that was fully silted up (I dug a lot of it out at dawn today but as traffic became active it wasn’t safe to continue). In heavy rain the blocked drain on the roundabout causes local flooding on the roundabout and the blocked drains on Sandy Lane mean that water has to flow in larger volume, veering into Withyholt Park which overwhelms the drains and threatens partial flooding of the properties. Please could you send a team to dig out these drains (safely) so that they can function as drains again. Many thanks in advance., 25th October :- [8337667](https://www.fixmystreet.com/report/8337667)
 
 <!-- fix_marker ends -->
