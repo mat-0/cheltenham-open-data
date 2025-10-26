@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- The woman who lodged with Fred West for a year - and survived ([4 hours ago](https://www.bbc.com/news/articles/c5y4dyjxl1po?at_medium=RSS&at_campaign=rss))
-- 'New dentist checkups' and 'hero bus driver' ([4 hours ago](https://www.bbc.com/news/articles/cz91nv78j7no?at_medium=RSS&at_campaign=rss))
-- Pregnant sheep chased and bitten by dogs ([21 hours ago](https://www.bbc.com/news/articles/c30v863814lo?at_medium=RSS&at_campaign=rss))
+- The woman who lodged with Fred West for a year - and survived ([5 hours ago](https://www.bbc.com/news/articles/c5y4dyjxl1po?at_medium=RSS&at_campaign=rss))
+- 'New dentist checkups' and 'hero bus driver' ([5 hours ago](https://www.bbc.com/news/articles/cz91nv78j7no?at_medium=RSS&at_campaign=rss))
+- Pregnant sheep chased and bitten by dogs ([22 hours ago](https://www.bbc.com/news/articles/c30v863814lo?at_medium=RSS&at_campaign=rss))
 - Clock-keepers prepare to turn back time ([1 days ago](https://www.bbc.com/news/articles/c1wl0219p4yo?at_medium=RSS&at_campaign=rss))
 - Rare railbus returns as part of history festival ([1 days ago](https://www.bbc.com/news/articles/cd675zgzg0zo?at_medium=RSS&at_campaign=rss))
 - Pumpkin trails and ghostly tales in the west ([1 days ago](https://www.bbc.com/news/articles/cly9jxx50gro?at_medium=RSS&at_campaign=rss))
