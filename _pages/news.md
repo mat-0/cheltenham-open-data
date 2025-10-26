@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- The woman who lodged with Fred West for a year - and survived ([5 hours ago](https://www.bbc.com/news/articles/c5y4dyjxl1po?at_medium=RSS&at_campaign=rss))
-- 'New dentist checkups' and 'hero bus driver' ([5 hours ago](https://www.bbc.com/news/articles/cz91nv78j7no?at_medium=RSS&at_campaign=rss))
-- Pregnant sheep chased and bitten by dogs ([22 hours ago](https://www.bbc.com/news/articles/c30v863814lo?at_medium=RSS&at_campaign=rss))
+- The woman who lodged with Fred West for a year - and survived ([6 hours ago](https://www.bbc.com/news/articles/c5y4dyjxl1po?at_medium=RSS&at_campaign=rss))
+- 'New dentist checkups' and 'hero bus driver' ([6 hours ago](https://www.bbc.com/news/articles/cz91nv78j7no?at_medium=RSS&at_campaign=rss))
+- Pregnant sheep chased and bitten by dogs ([23 hours ago](https://www.bbc.com/news/articles/c30v863814lo?at_medium=RSS&at_campaign=rss))
 - Clock-keepers prepare to turn back time ([1 days ago](https://www.bbc.com/news/articles/c1wl0219p4yo?at_medium=RSS&at_campaign=rss))
 - Rare railbus returns as part of history festival ([1 days ago](https://www.bbc.com/news/articles/cd675zgzg0zo?at_medium=RSS&at_campaign=rss))
 - Pumpkin trails and ghostly tales in the west ([1 days ago](https://www.bbc.com/news/articles/cly9jxx50gro?at_medium=RSS&at_campaign=rss))
@@ -47,7 +47,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Concerns over rough sleeping in Cheltenham ([9 days ago](https://gloucesternewscentre.co.uk/concerns-over-rough-sleeping-in-cheltenham/))
 - Reform surge could reshape Gloucestershire’s political map, mega-poll shows ([9 days ago](https://gloucesternewscentre.co.uk/reform-surge-could-reshape-gloucestershires-political-map-mega-poll-shows/))
 - New engagement for the Strategic and Local Plan goes live ([9 days ago](https://www.cheltenham.gov.uk/news/article/3059/new_engagement_for_the_strategic_and_local_plan_goes_live))
-- Questions over how much Gloucestershire matters to ambulance top boss ([9 days ago](https://gloucesternewscentre.co.uk/questions-over-how-much-gloucestershire-matters-to-ambulance-top-boss/))
+- Questions over how much Gloucestershire matters to ambulance top boss ([10 days ago](https://gloucesternewscentre.co.uk/questions-over-how-much-gloucestershire-matters-to-ambulance-top-boss/))
 - Fears civic chiefs are being ‘softened up’ before permanent birth centre closure ([10 days ago](https://gloucesternewscentre.co.uk/fears-civic-chiefs-are-being-softened-up-before-permanent-birth-centre-closure/))
 - ‘Bonkers’ move to phase out fire co-responders criticised ([10 days ago](https://gloucesternewscentre.co.uk/bonkers-move-to-phase-out-fire-co-responders-criticised/))
 - Valuables and bank cards stolen in Leckhampton burglary ([11 days ago](https://gloucesternewscentre.co.uk/valuables-and-bank-cards-stolen-in-leckhampton-burglary/))
