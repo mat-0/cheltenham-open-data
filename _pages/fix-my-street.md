@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large potholes require filling, 26th October :- [8340191](https://www.fixmystreet.com/report/8340191)
+- Various areas of tarmac missing., 26th October :- [8340189](https://www.fixmystreet.com/report/8340189)
 - Long term evidence of flytipping, 26th October :- [8339873](https://www.fixmystreet.com/report/8339873)
 - Gate is padlocked, 26th October :- [8339828](https://www.fixmystreet.com/report/8339828)
 - Fly tipping, 26th October :- [8339700](https://www.fixmystreet.com/report/8339700)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Big and deep potholes on fosseway between Slaughter turn and Bourton industrial estate turn, 25th October :- [8337075](https://www.fixmystreet.com/report/8337075)
 - 3 Deep potholes in centre of road, and draincover dropped due to the huge lorries now using Hearne road as à cut thru diversion, 25th October :- [8337061](https://www.fixmystreet.com/report/8337061)
 - The side of the road as loose paving, 25th October :- [8337033](https://www.fixmystreet.com/report/8337033)
-- Damage to kerb, 25th October :- [8336993](https://www.fixmystreet.com/report/8336993)
-- Street light not working, 24th October :- [8336185](https://www.fixmystreet.com/report/8336185)
 
 <!-- fix_marker ends -->

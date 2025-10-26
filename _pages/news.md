@@ -12,9 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- The woman who lodged with Fred West for a year - and survived ([6 hours ago](https://www.bbc.com/news/articles/c5y4dyjxl1po?at_medium=RSS&at_campaign=rss))
-- 'New dentist checkups' and 'hero bus driver' ([6 hours ago](https://www.bbc.com/news/articles/cz91nv78j7no?at_medium=RSS&at_campaign=rss))
-- Pregnant sheep chased and bitten by dogs ([23 hours ago](https://www.bbc.com/news/articles/c30v863814lo?at_medium=RSS&at_campaign=rss))
+- New council ideas to be submitted to government ([23 minutes ago](https://www.bbc.com/news/articles/c1d0rydlxz9o?at_medium=RSS&at_campaign=rss))
+- The woman who lodged with Fred West for a year - and survived ([7 hours ago](https://www.bbc.com/news/articles/c5y4dyjxl1po?at_medium=RSS&at_campaign=rss))
+- 'New dentist checkups' and 'hero bus driver' ([7 hours ago](https://www.bbc.com/news/articles/cz91nv78j7no?at_medium=RSS&at_campaign=rss))
+- Pregnant sheep chased and bitten by dogs ([1 days ago](https://www.bbc.com/news/articles/c30v863814lo?at_medium=RSS&at_campaign=rss))
 - Clock-keepers prepare to turn back time ([1 days ago](https://www.bbc.com/news/articles/c1wl0219p4yo?at_medium=RSS&at_campaign=rss))
 - Rare railbus returns as part of history festival ([1 days ago](https://www.bbc.com/news/articles/cd675zgzg0zo?at_medium=RSS&at_campaign=rss))
 - Pumpkin trails and ghostly tales in the west ([1 days ago](https://www.bbc.com/news/articles/cly9jxx50gro?at_medium=RSS&at_campaign=rss))
@@ -40,7 +41,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Firework Season: Gloucestershire charity urges public to choose kindness over noise ([4 days ago](https://gloucesternewscentre.co.uk/firework-season-gloucestershire-charity-urges-public-to-choose-kindness-over-noise/))
 - William Hill become first headline sponsor of Cheltenham Showcase Meeting ([5 days ago](https://gloucesternewscentre.co.uk/william-hill-become-first-headline-sponsor-of-cheltenham-showcase-meeting/))
 - Anger over ‘grubby’ Cheltenham town centre amid ‘sloppy’ £350k resurfacing ([5 days ago](https://gloucesternewscentre.co.uk/anger-over-grubby-cheltenham-town-centre-amid-sloppy-350k-resurfacing/))
-- Cheltenham man receives injunction for anti-social behaviour ([5 days ago](https://www.cheltenham.gov.uk/news/article/3060/cheltenham_man_receives_injunction_for_anti-social_behaviour))
+- Cheltenham man receives injunction for anti-social behaviour ([6 days ago](https://www.cheltenham.gov.uk/news/article/3060/cheltenham_man_receives_injunction_for_anti-social_behaviour))
 - Go-ahead for food and drink trailer at popular Cheltenham park ([8 days ago](https://gloucesternewscentre.co.uk/go-ahead-for-food-and-drink-trailer-at-popular-cheltenham-park/))
 - Open letter on future of Cavendish House from our leader ([9 days ago](https://www.cheltenham.gov.uk/news/article/3058/open_letter_on_future_of_cavendish_house_from_our_leader))
 - Police appeal for information after spate of burglaries in Cheltenham ([9 days ago](https://gloucesternewscentre.co.uk/police-appeal-for-information-after-spate-of-burglaries-in-cheltenham-2/))
