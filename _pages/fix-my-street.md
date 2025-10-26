@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- There are temporary traffic lights on the junction of manor road and runnings road. There is no permitted work here accordingly to the glos highways website. Get them removed asap!!, 26th October :- [8340404](https://www.fixmystreet.com/report/8340404)
+- Pavement tarmac does not meet with our boundary fence, 26th October :- [8340336](https://www.fixmystreet.com/report/8340336)
 - Large potholes require filling, 26th October :- [8340191](https://www.fixmystreet.com/report/8340191)
 - Various areas of tarmac missing., 26th October :- [8340189](https://www.fixmystreet.com/report/8340189)
 - Long term evidence of flytipping, 26th October :- [8339873](https://www.fixmystreet.com/report/8339873)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Fly tipped black bags, 25th October :- [8337463](https://www.fixmystreet.com/report/8337463)
 - Projecting kerb stone, 25th October :- [8337223](https://www.fixmystreet.com/report/8337223)
 - Big and deep potholes on fosseway between Slaughter turn and Bourton industrial estate turn, 25th October :- [8337075](https://www.fixmystreet.com/report/8337075)
-- 3 Deep potholes in centre of road, and draincover dropped due to the huge lorries now using Hearne road as à cut thru diversion, 25th October :- [8337061](https://www.fixmystreet.com/report/8337061)
-- The side of the road as loose paving, 25th October :- [8337033](https://www.fixmystreet.com/report/8337033)
 
 <!-- fix_marker ends -->
