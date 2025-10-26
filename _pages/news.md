@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Gloucestershire in pictures: Autumn colours and ale ([3 hours ago](https://www.bbc.com/news/articles/cyv8q3v2jr5o?at_medium=RSS&at_campaign=rss))
-- New council ideas to be submitted to government ([6 hours ago](https://www.bbc.com/news/articles/c1d0rydlxz9o?at_medium=RSS&at_campaign=rss))
-- The woman who lodged with Fred West for a year - and survived ([13 hours ago](https://www.bbc.com/news/articles/c5y4dyjxl1po?at_medium=RSS&at_campaign=rss))
-- 'New dentist checkups' and 'hero bus driver' ([13 hours ago](https://www.bbc.com/news/articles/cz91nv78j7no?at_medium=RSS&at_campaign=rss))
+- Gloucestershire in pictures: Autumn colours and ale ([4 hours ago](https://www.bbc.com/news/articles/cyv8q3v2jr5o?at_medium=RSS&at_campaign=rss))
+- New council ideas to be submitted to government ([7 hours ago](https://www.bbc.com/news/articles/c1d0rydlxz9o?at_medium=RSS&at_campaign=rss))
+- The woman who lodged with Fred West for a year - and survived ([14 hours ago](https://www.bbc.com/news/articles/c5y4dyjxl1po?at_medium=RSS&at_campaign=rss))
+- 'New dentist checkups' and 'hero bus driver' ([14 hours ago](https://www.bbc.com/news/articles/cz91nv78j7no?at_medium=RSS&at_campaign=rss))
 - Pregnant sheep chased and bitten by dogs ([1 days ago](https://www.bbc.com/news/articles/c30v863814lo?at_medium=RSS&at_campaign=rss))
 - Clock-keepers prepare to turn back time ([1 days ago](https://www.bbc.com/news/articles/c1wl0219p4yo?at_medium=RSS&at_campaign=rss))
 - Rare railbus returns as part of history festival ([1 days ago](https://www.bbc.com/news/articles/cd675zgzg0zo?at_medium=RSS&at_campaign=rss))
