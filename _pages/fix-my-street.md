@@ -9,9 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- All lights stuck on red, 27th October :- [8342216](https://www.fixmystreet.com/report/8342216)
+- TMC - Defects - Kerbs and Channels problem, 27th October :- [8341931](https://www.fixmystreet.com/report/8341931)
+- TMC - Defects - Kerbs and Channels problem, 27th October :- [8341930](https://www.fixmystreet.com/report/8341930)
+- TMC - Defects -CW6 Potholes  problem, 27th October :- [8341670](https://www.fixmystreet.com/report/8341670)
 - TMC - Defects -CW6 Potholes  problem, 27th October :- [8341668](https://www.fixmystreet.com/report/8341668)
 - TMC - Defects -CW6 Potholes  problem, 27th October :- [8341669](https://www.fixmystreet.com/report/8341669)
-- TMC - Defects -CW6 Potholes  problem, 27th October :- [8341670](https://www.fixmystreet.com/report/8341670)
 - Big hole in in the riad just by the Old Spot, 27th October :- [8341624](https://www.fixmystreet.com/report/8341624)
 - Pavement totally blocked, 26th October :- [8341363](https://www.fixmystreet.com/report/8341363)
 - Mattress dumped in Pittville park, 26th October :- [8341306](https://www.fixmystreet.com/report/8341306)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Bin overflowing outside wok express, 26th October :- [8340051](https://www.fixmystreet.com/report/8340051)
 - Long term evidence of flytipping, 26th October :- [8339873](https://www.fixmystreet.com/report/8339873)
 - Gate is padlocked, 26th October :- [8339828](https://www.fixmystreet.com/report/8339828)
-- Fly tipping, 26th October :- [8339700](https://www.fixmystreet.com/report/8339700)
-- Graffiti on utility box and steet furniture, 26th October :- [8339515](https://www.fixmystreet.com/report/8339515)
-- Very large hole at entrance to Sixways Clinic, London Rd., 26th October :- [8339218](https://www.fixmystreet.com/report/8339218)
 
 <!-- fix_marker ends -->
