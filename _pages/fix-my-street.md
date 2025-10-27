@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects -CW6 Potholes  problem, 27th October :- [8341668](https://www.fixmystreet.com/report/8341668)
+- TMC - Defects -CW6 Potholes  problem, 27th October :- [8341669](https://www.fixmystreet.com/report/8341669)
+- TMC - Defects -CW6 Potholes  problem, 27th October :- [8341670](https://www.fixmystreet.com/report/8341670)
 - Big hole in in the riad just by the Old Spot, 27th October :- [8341624](https://www.fixmystreet.com/report/8341624)
 - Pavement totally blocked, 26th October :- [8341363](https://www.fixmystreet.com/report/8341363)
 - Mattress dumped in Pittville park, 26th October :- [8341306](https://www.fixmystreet.com/report/8341306)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Fly tipping, 26th October :- [8339700](https://www.fixmystreet.com/report/8339700)
 - Graffiti on utility box and steet furniture, 26th October :- [8339515](https://www.fixmystreet.com/report/8339515)
 - Very large hole at entrance to Sixways Clinic, London Rd., 26th October :- [8339218](https://www.fixmystreet.com/report/8339218)
-- Metal duct collapsed, 26th October :- [8339087](https://www.fixmystreet.com/report/8339087)
-- Volunteer litter pick bags ready for collection, 25th October :- [8338720](https://www.fixmystreet.com/report/8338720)
-- When the traffic lights turns green it only lets 3 cars tune right before changing back to red, 25th October :- [8338501](https://www.fixmystreet.com/report/8338501)
 
 <!-- fix_marker ends -->
