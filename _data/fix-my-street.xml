@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:atom="http://www.w3.org/2005/Atom"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:atom="http://www.w3.org/2005/Atom"
 >
 
 <channel>
@@ -14,6 +14,168 @@
 <language>en-gb</language>
 <atom:link href="https://www.fixmystreet.com/rss/l/51.897991,-2.071308/10" rel="self" type="application/rss+xml"/>
 
+<item>
+<title>TMC - Defects - Footways Slabs problem, 27th October</title>
+<link>https://www.fixmystreet.com/report/8344279</link>
+<description>Give and take plus temporary footway closure please replace x1 broken rocking 900x600x20mm slab number 2 (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8344279&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8344279</guid>
+<pubDate>Mon, 27 Oct 2025 14:57:03 +0000</pubDate>
+<georss:point>51.9059337 -2.0994542</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Footways Slabs problem, 27th October</title>
+<link>https://www.fixmystreet.com/report/8344277</link>
+<description>Give and take plus temporary footway closure please replace x1 broken rocking 600x600x20mm slab number 1 (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8344277&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8344277</guid>
+<pubDate>Mon, 27 Oct 2025 14:57:02 +0000</pubDate>
+<georss:point>51.9059144 -2.0995065</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 27th October</title>
+<link>https://www.fixmystreet.com/report/8344265</link>
+<description>Give and take  plus  15   minutes delay boards 28 days  carriage way pothole 600x400x50mm tarmac patch stats required (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8344265&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8344265</guid>
+<pubDate>Mon, 27 Oct 2025 14:38:43 +0000</pubDate>
+<georss:point>51.904727211358 -2.10118815949635</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 27th October</title>
+<link>https://www.fixmystreet.com/report/8344267</link>
+<description>Give and take plus temporary footway closure  28 day  please replace  x1  raised  750x600x22mm with tarmac  patch slab number 2 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8344267&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8344267</guid>
+<pubDate>Mon, 27 Oct 2025 14:38:43 +0000</pubDate>
+<georss:point>51.9044906223626 -2.10080245631585</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 27th October</title>
+<link>https://www.fixmystreet.com/report/8344273</link>
+<description>Give and take plus temporary footway closure  28 day  please replace  x1  raised  900x600x20mm with tarmac  patch slab number 2 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8344273&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8344273</guid>
+<pubDate>Mon, 27 Oct 2025 14:38:43 +0000</pubDate>
+<georss:point>51.9040406 -2.099923</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 27th October</title>
+<link>https://www.fixmystreet.com/report/8344275</link>
+<description>Give and take plus temporary footway closure  28 day  please replace  x1  raised broken  area of slabs 1200x1300x22mm with slab number 1  stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8344275&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8344275</guid>
+<pubDate>Mon, 27 Oct 2025 14:38:43 +0000</pubDate>
+<georss:point>51.9038733 -2.09959820000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 27th October</title>
+<link>https://www.fixmystreet.com/report/8344264</link>
+<description>Give and take plus temporary footway closure  28 day  grass verge abrupt level different  1000x500x40mm top soil needed (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8344264&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8344264</guid>
+<pubDate>Mon, 27 Oct 2025 14:38:43 +0000</pubDate>
+<georss:point>51.9048611 -2.1013933</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 27th October</title>
+<link>https://www.fixmystreet.com/report/8344268</link>
+<description>Give and take plus temporary footway closure  28 day  please replace  x1  raised  900x600x21mm with tarmac  patch slab number 3 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8344268&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8344268</guid>
+<pubDate>Mon, 27 Oct 2025 14:38:43 +0000</pubDate>
+<georss:point>51.9044893011823 -2.10079681389618</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 27th October</title>
+<link>https://www.fixmystreet.com/report/8344266</link>
+<description>Give and take plus temporary footway closure  28 day  please replace  x1  raised  750x600x22mm with tarmac  patch slab number 1 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8344266&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8344266</guid>
+<pubDate>Mon, 27 Oct 2025 14:38:43 +0000</pubDate>
+<georss:point>51.9044643602923 -2.10082600064421</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 27th October</title>
+<link>https://www.fixmystreet.com/report/8344269</link>
+<description>Give and take plus temporary footway closure  28 day  please replace  x1  raised  900x600x20mm with tarmac  patch  number 4 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8344269&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8344269</guid>
+<pubDate>Mon, 27 Oct 2025 14:38:43 +0000</pubDate>
+<georss:point>51.9044860445452 -2.10080583383087</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 27th October</title>
+<link>https://www.fixmystreet.com/report/8344272</link>
+<description>Give and take plus temporary footway closure  28 day  please replace  x1  raised  900x600x22mm with tarmac  patch slab number 1 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8344272&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8344272</guid>
+<pubDate>Mon, 27 Oct 2025 14:38:43 +0000</pubDate>
+<georss:point>51.904039 -2.09988449999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects -other CW6 problem, 27th October</title>
+<link>https://www.fixmystreet.com/report/8344274</link>
+<description>Give and take   28 days  carriage way pothole 1000x300x55mm tarmac patch stats required (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8344274&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -other CW6</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8344274</guid>
+<pubDate>Mon, 27 Oct 2025 14:38:43 +0000</pubDate>
+<georss:point>51.903968 -2.09976489999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 27th October</title>
+<link>https://www.fixmystreet.com/report/8344271</link>
+<description>Give and take plus temporary footway closure  28 day  please replace  x1  raised broken  900x600x22mm with slab number 1 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8344271&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8344271</guid>
+<pubDate>Mon, 27 Oct 2025 14:38:43 +0000</pubDate>
+<georss:point>51.9041091159195 -2.10013999733321</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 27th October</title>
+<link>https://www.fixmystreet.com/report/8344270</link>
+<description>Give and take plus temporary footway closure  28 day  grass verge abrupt level different  2000x1500x40mm top soil needed (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8344270&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8344270</guid>
+<pubDate>Mon, 27 Oct 2025 14:38:43 +0000</pubDate>
+<georss:point>51.9040693 -2.10011399999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 27th October</title>
+<link>https://www.fixmystreet.com/report/8344259</link>
+<description>Give and take plus temporary footway closure  28 day  please replace  x1  raised  900x600x21mm with tarmac  patch slab number 1 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8344259&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8344259</guid>
+<pubDate>Mon, 27 Oct 2025 14:38:43 +0000</pubDate>
+<georss:point>51.9048555 -2.10159279999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 27th October</title>
+<link>https://www.fixmystreet.com/report/8344263</link>
+<description>Give and take plus temporary footway closure  28 day  grass verge abrupt level different  4000x1000x40mm top soil needed (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8344263&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8344263</guid>
+<pubDate>Mon, 27 Oct 2025 14:38:43 +0000</pubDate>
+<georss:point>51.9047712 -2.10140189999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 27th October</title>
+<link>https://www.fixmystreet.com/report/8344261</link>
+<description>Give and take plus temporary footway closure  28 day  please replace  x1  raised broken  750x600x20mm with tarmac  patch slab number 2 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8344261&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8344261</guid>
+<pubDate>Mon, 27 Oct 2025 14:38:43 +0000</pubDate>
+<georss:point>51.9048584036066 -2.10156453743715</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 27th October</title>
+<link>https://www.fixmystreet.com/report/8344262</link>
+<description>Give and take plus temporary footway closure  28 day  grass verge abrupt level different  16000x1000x40mm top soil needed (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8344262&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8344262</guid>
+<pubDate>Mon, 27 Oct 2025 14:38:43 +0000</pubDate>
+<georss:point>51.904849 -2.10155499999998</georss:point>
+</item>
 <item>
 <title>TMC - Defects - Other problem, 27th October</title>
 <link>https://www.fixmystreet.com/report/8344071</link>
@@ -25,174 +187,12 @@
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 27th October</title>
-<link>https://www.fixmystreet.com/report/8344068</link>
-<description>15DB&amp;#10;Pothole CW &amp;#10;670x530x60mm&amp;#10;Road closure (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8344068&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8344068</guid>
-<pubDate>Mon, 27 Oct 2025 14:13:17 +0000</pubDate>
-<georss:point>51.8834768215836 -2.04748537751647</georss:point>
-</item>
-<item>
-<title>TMC - Defects -other CW6 problem, 27th October</title>
-<link>https://www.fixmystreet.com/report/8344069</link>
-<description>15DB&amp;#10;Edge deterioration CW&amp;#10;670X530x40mm&amp;#10;Road closure (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8344069&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -other CW6</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8344069</guid>
-<pubDate>Mon, 27 Oct 2025 14:13:17 +0000</pubDate>
-<georss:point>51.8837495 -2.04714060000001</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 27th October</title>
 <link>https://www.fixmystreet.com/report/8344067</link>
 <description>15DB&amp;#10;Pothole CW &amp;#10;400x300x40mm&amp;#10;Road closure &amp;#10;X2 NSD (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8344067&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
 <guid isPermaLink="false">https://www.fixmystreet.com/report/8344067</guid>
 <pubDate>Mon, 27 Oct 2025 14:13:17 +0000</pubDate>
 <georss:point>51.8834413 -2.04742</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 27th October</title>
-<link>https://www.fixmystreet.com/report/8344051</link>
-<description>Give and take plus temporary footway closure  28 day  please replace  x1  raised  900x600x25mm with tarmac  patch slab number 5 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8344051&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8344051</guid>
-<pubDate>Mon, 27 Oct 2025 14:10:46 +0000</pubDate>
-<georss:point>51.9017429433426 -2.10597878493698</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 27th October</title>
-<link>https://www.fixmystreet.com/report/8344060</link>
-<description>Give and take plus temporary footway closure  28 day  abrupt level different around catv cover 500x150mmx25mm tarmac patch stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8344060&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8344060</guid>
-<pubDate>Mon, 27 Oct 2025 14:10:46 +0000</pubDate>
-<georss:point>51.9027896 -2.10446780000001</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Footways Slabs problem, 27th October</title>
-<link>https://www.fixmystreet.com/report/8344057</link>
-<description>Give and take plus temporary footway closure  28 day  please replace  x1  sunken  broken 900x600x20mm with tarmac  patch slab number 1 (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8344057&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Footways Slabs</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8344057</guid>
-<pubDate>Mon, 27 Oct 2025 14:10:46 +0000</pubDate>
-<georss:point>51.9016200741916 -2.10596556865527</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 27th October</title>
-<link>https://www.fixmystreet.com/report/8344063</link>
-<description>Give and take plus temporary footway closure  28 day  please replace  x1  raised  900x600x21mm with tarmac  patch slab number 1 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8344063&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8344063</guid>
-<pubDate>Mon, 27 Oct 2025 14:10:46 +0000</pubDate>
-<georss:point>51.9020695 -2.10533669999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 27th October</title>
-<link>https://www.fixmystreet.com/report/8344061</link>
-<description>Give and take plus temporary footway closure  28 day  please lift an replace  x1  raised  600x600x21mm  slab number 1 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8344061&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8344061</guid>
-<pubDate>Mon, 27 Oct 2025 14:10:46 +0000</pubDate>
-<georss:point>51.902777 -2.10452649999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 27th October</title>
-<link>https://www.fixmystreet.com/report/8344064</link>
-<description>Give and take plus temporary footway closure  28 day  please replace  x1  raised  750x600x24mm with tarmac  patch slab number 2 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8344064&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8344064</guid>
-<pubDate>Mon, 27 Oct 2025 14:10:46 +0000</pubDate>
-<georss:point>51.9020555 -2.1053313</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 27th October</title>
-<link>https://www.fixmystreet.com/report/8344065</link>
-<description>Give and take  plus  15   minutes delay boards 28 days  carriage way pothole 300x400x50mm tarmac patch stats required (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8344065&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8344065</guid>
-<pubDate>Mon, 27 Oct 2025 14:10:46 +0000</pubDate>
-<georss:point>51.9019158536779 -2.10565802464395</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 27th October</title>
-<link>https://www.fixmystreet.com/report/8344054</link>
-<description>Give and take plus temporary footway closure  28 day  please replace  x1  raised  750x600x20mm with tarmac  patch slab number 1 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8344054&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8344054</guid>
-<pubDate>Mon, 27 Oct 2025 14:10:46 +0000</pubDate>
-<georss:point>51.9017206744525 -2.10604749897919</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 27th October</title>
-<link>https://www.fixmystreet.com/report/8344052</link>
-<description>Give and take plus temporary footway closure  28 day  please replace  x1  raised  900x600x22mm with tarmac  patch slab number 6 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8344052&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8344052</guid>
-<pubDate>Mon, 27 Oct 2025 14:10:46 +0000</pubDate>
-<georss:point>51.9017518709927 -2.10596968178032</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 27th October</title>
-<link>https://www.fixmystreet.com/report/8344049</link>
-<description>Give and take plus temporary footway closure  28 day  please replace  x1  raised  750x600x20mm with tarmac  patch slab number 3 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8344049&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8344049</guid>
-<pubDate>Mon, 27 Oct 2025 14:10:46 +0000</pubDate>
-<georss:point>51.9017332256591 -2.10598115993652</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Footways Slabs problem, 27th October</title>
-<link>https://www.fixmystreet.com/report/8344058</link>
-<description>Give and take plus temporary footway closure  28 day  please replace  x1  sunken  broken 750x600x20mm with tarmac  patch slab number 2 (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8344058&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Footways Slabs</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8344058</guid>
-<pubDate>Mon, 27 Oct 2025 14:10:46 +0000</pubDate>
-<georss:point>51.9016315018815 -2.1059916036235</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 27th October</title>
-<link>https://www.fixmystreet.com/report/8344056</link>
-<description>Give and take plus temporary footway closure  28 day  please lift an replace  x1  raised  750x600x20mm  slab number 1 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8344056&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8344056</guid>
-<pubDate>Mon, 27 Oct 2025 14:10:46 +0000</pubDate>
-<georss:point>51.9017979 -2.1057094</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Footways Slabs problem, 27th October</title>
-<link>https://www.fixmystreet.com/report/8344059</link>
-<description>Give and take plus temporary footway closure  28 day  please replace  x1  sunken  broken 900x600x20mm with tarmac  patch slab number 3 (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8344059&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Footways Slabs</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8344059</guid>
-<pubDate>Mon, 27 Oct 2025 14:10:46 +0000</pubDate>
-<georss:point>51.9016081474637 -2.1060486185385</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 27th October</title>
-<link>https://www.fixmystreet.com/report/8344050</link>
-<description>Give and take plus temporary footway closure  28 day  please replace  x1  raised  750x600x20mm with tarmac  patch slab number 4 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8344050&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8344050</guid>
-<pubDate>Mon, 27 Oct 2025 14:10:46 +0000</pubDate>
-<georss:point>51.9017589820154 -2.10595023352585</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 27th October</title>
-<link>https://www.fixmystreet.com/report/8344048</link>
-<description>Give and take plus temporary footway closure  28 day  please replace  x1  raised  750x600x20mm with tarmac  patch slab number 2 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8344048&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8344048</guid>
-<pubDate>Mon, 27 Oct 2025 14:10:46 +0000</pubDate>
-<georss:point>51.9017456867984 -2.10597661177316</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 27th October</title>
-<link>https://www.fixmystreet.com/report/8344055</link>
-<description>Give and take plus temporary footway closure  28 day  please replace  x3  sunken  broken slabs  in grass verge with top soil 3500x1800x30mm  with tarmac  patch slab number 1 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8344055&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8344055</guid>
-<pubDate>Mon, 27 Oct 2025 14:10:46 +0000</pubDate>
-<georss:point>51.901827 -2.10568209999999</georss:point>
 </item>
 </channel>
 </rss>
