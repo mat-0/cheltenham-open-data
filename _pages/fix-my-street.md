@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Big hole in in the riad just by the Old Spot, 27th October :- [8341624](https://www.fixmystreet.com/report/8341624)
 - Pavement totally blocked, 26th October :- [8341363](https://www.fixmystreet.com/report/8341363)
 - Mattress dumped in Pittville park, 26th October :- [8341306](https://www.fixmystreet.com/report/8341306)
 - Loads of road breaking up on the entrance to meadoway and further towards the race course, 26th October :- [8341020](https://www.fixmystreet.com/report/8341020)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Metal duct collapsed, 26th October :- [8339087](https://www.fixmystreet.com/report/8339087)
 - Volunteer litter pick bags ready for collection, 25th October :- [8338720](https://www.fixmystreet.com/report/8338720)
 - When the traffic lights turns green it only lets 3 cars tune right before changing back to red, 25th October :- [8338501](https://www.fixmystreet.com/report/8338501)
-- Small trip hazard in Cycleway The Poplars Cranham Gate Hucclecote, 25th October :- [8338146](https://www.fixmystreet.com/report/8338146)
 
 <!-- fix_marker ends -->
