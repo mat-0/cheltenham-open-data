@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street lights out, 27th October :- [8345694](https://www.fixmystreet.com/report/8345694)
 - Kerbing type slab that crosses the road, loose and dangerous to vehicles moving over it and to pedestrians crossing over it, 27th October :- [8345616](https://www.fixmystreet.com/report/8345616)
 - Flashing street light, 27th October :- [8345483](https://www.fixmystreet.com/report/8345483)
 - Tree fallen over path, 27th October :- [8345441](https://www.fixmystreet.com/report/8345441)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 27th October :- [8344627](https://www.fixmystreet.com/report/8344627)
 - TMC - Defects - Footways Slabs problem, 27th October :- [8344633](https://www.fixmystreet.com/report/8344633)
 - TMC - Defects - Footways Slabs problem, 27th October :- [8344626](https://www.fixmystreet.com/report/8344626)
-- TMC - Defects - Footways Slabs problem, 27th October :- [8344622](https://www.fixmystreet.com/report/8344622)
 
 <!-- fix_marker ends -->
