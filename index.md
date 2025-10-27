@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Monday, 27 October 2025
 
-- The average temperature today is 10.35˚C,
-- With highs of 10.85˚C and lows of 9.82˚C,
-- It may feel like 9.43˚C with overcast clouds
-- The wind speed is 3.13m/s and visibility is 10000m
-- The pressure is 1004hPa and humidity is 76%
+- The average temperature today is 10.07˚C,
+- With highs of 11.1˚C and lows of 9.26˚C,
+- It may feel like 9.04˚C with broken clouds
+- The wind speed is 3.58m/s and visibility is 10000m
+- The pressure is 1005hPa and humidity is 73%
 - The sun will rise at 06:53 and set at 16:50
 
 <!-- weather_marker ends -->
