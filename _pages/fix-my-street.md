@@ -26,8 +26,8 @@ permalink: /fix-my-street
 - Tree is damaged problem, 27th October :- [8344619](https://www.fixmystreet.com/report/8344619)
 - TMC - Defects - Other FW6  Surface problem, 27th October :- [8344624](https://www.fixmystreet.com/report/8344624)
 - TMC - Defects - Footways Slabs problem, 27th October :- [8344623](https://www.fixmystreet.com/report/8344623)
-- TMC - Defects - Other FW6  Surface problem, 27th October :- [8344627](https://www.fixmystreet.com/report/8344627)
+- TMC - Defects - Footways Slabs problem, 27th October :- [8344625](https://www.fixmystreet.com/report/8344625)
 - TMC - Defects - Footways Slabs problem, 27th October :- [8344633](https://www.fixmystreet.com/report/8344633)
-- TMC - Defects - Footways Slabs problem, 27th October :- [8344626](https://www.fixmystreet.com/report/8344626)
+- TMC - Defects - Footways Slabs problem, 27th October :- [8344621](https://www.fixmystreet.com/report/8344621)
 
 <!-- fix_marker ends -->
