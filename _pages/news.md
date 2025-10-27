@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Gloucestershire in pictures: Autumn colours and ale ([6 hours ago](https://www.bbc.com/news/articles/cyv8q3v2jr5o?at_medium=RSS&at_campaign=rss))
-- New council ideas to be submitted to government ([9 hours ago](https://www.bbc.com/news/articles/c1d0rydlxz9o?at_medium=RSS&at_campaign=rss))
-- The woman who lodged with Fred West for a year - and survived ([16 hours ago](https://www.bbc.com/news/articles/c5y4dyjxl1po?at_medium=RSS&at_campaign=rss))
-- 'New dentist checkups' and 'hero bus driver' ([16 hours ago](https://www.bbc.com/news/articles/cz91nv78j7no?at_medium=RSS&at_campaign=rss))
+- Gloucestershire in pictures: Autumn colours and ale ([8 hours ago](https://www.bbc.com/news/articles/cyv8q3v2jr5o?at_medium=RSS&at_campaign=rss))
+- New council ideas to be submitted to government ([10 hours ago](https://www.bbc.com/news/articles/c1d0rydlxz9o?at_medium=RSS&at_campaign=rss))
+- The woman who lodged with Fred West for a year - and survived ([17 hours ago](https://www.bbc.com/news/articles/c5y4dyjxl1po?at_medium=RSS&at_campaign=rss))
+- 'New dentist checkups' and 'hero bus driver' ([18 hours ago](https://www.bbc.com/news/articles/cz91nv78j7no?at_medium=RSS&at_campaign=rss))
 - Pregnant sheep chased and bitten by dogs ([1 days ago](https://www.bbc.com/news/articles/c30v863814lo?at_medium=RSS&at_campaign=rss))
 - Clock-keepers prepare to turn back time ([1 days ago](https://www.bbc.com/news/articles/c1wl0219p4yo?at_medium=RSS&at_campaign=rss))
 - Rare railbus returns as part of history festival ([1 days ago](https://www.bbc.com/news/articles/cd675zgzg0zo?at_medium=RSS&at_campaign=rss))
@@ -28,7 +28,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Poppies transform cathedral in immersive light show ([2 days ago](https://www.bbc.com/news/videos/cvgmp32r6yjo?at_medium=RSS&at_campaign=rss))
 - Community pantry and hub to tackle food poverty ([2 days ago](https://www.bbc.com/news/articles/cgmxge93zjvo?at_medium=RSS&at_campaign=rss))
 - Family's pain over 79-year mystery of missing boy ([2 days ago](https://www.bbc.com/news/articles/cly949qj2x5o?at_medium=RSS&at_campaign=rss))
-- How prolific cowboy builder kept up cons despite criminal past ([2 days ago](https://www.bbc.com/news/articles/cg43q3rl3q7o?at_medium=RSS&at_campaign=rss))
+- How prolific cowboy builder kept up cons despite criminal past ([3 days ago](https://www.bbc.com/news/articles/cg43q3rl3q7o?at_medium=RSS&at_campaign=rss))
 - Leckhampton Rovers FC get rent boost for Burrows Field as their work is praised ([3 days ago](https://gloucesternewscentre.co.uk/leckhampton-rovers-fc-get-rent-boost-for-burrows-field-as-their-work-is-praised/))
 - Gloucestershire councils to consider proposals for Local Government Reorganisation ([3 days ago](https://gloucesternewscentre.co.uk/gloucestershire-councils-to-consider-proposals-for-local-government-reorganisation/))
 - Man claims brother's prison sentence is 'torture' ([3 days ago](https://www.bbc.com/news/articles/cgmx892dmmvo?at_medium=RSS&at_campaign=rss))

@@ -8,14 +8,14 @@ seo: Menu
 ![Logo](/images/logo.jpg){:width="832px"}
 
 <!-- weather_marker starts -->
-## On Sunday, 26 October 2025
+## On Monday, 27 October 2025
 
-- The average temperature today is 11.77˚C,
-- With highs of 12.19˚C and lows of 11.49˚C,
-- It may feel like 10.91˚C with overcast clouds
-- The wind speed is 3.13m/s and visibility is 10000m
-- The pressure is 1005hPa and humidity is 73%
-- The sun will rise at 06:52 and set at 16:52
+- The average temperature today is 11.65˚C,
+- With highs of 12.21˚C and lows of 10.94˚C,
+- It may feel like 10.75˚C with broken clouds
+- The wind speed is 5.81m/s and visibility is 10000m
+- The pressure is 1003hPa and humidity is 72%
+- The sun will rise at 06:53 and set at 16:50
 
 <!-- weather_marker ends -->
 
