@@ -1,17 +1,186 @@
 {
-    "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
-    "meta": {
-        "publisher": "Environment Agency",
-        "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
-        "version": "0.9",
-        "comment": "Status: Beta service",
-        "hasFormat": [
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.csv?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.html?county=Gloucestershire"
-        ]
+  "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
+  "meta": {
+    "publisher": "Environment Agency",
+    "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
+    "version": "0.9",
+    "comment": "Status: Beta service",
+    "hasFormat": [
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.csv",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
+    ]
+  },
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT1",
+      "description": "The tidal Rivers Bure, Ant and Thurne",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1",
+        "county": "Norfolk",
+        "notation": "054WATBT1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1/polygon",
+        "riverOrSea": "Bure, Ant, Thurne"
+      },
+      "floodAreaID": "054WATBT1",
+      "isTidal": true,
+      "message": "Tide locking where high tides restrict normal drainage of the river out to sea,  today may lead to flooding. Flooding is possible today, Monday 27th October, and overnight tonight. We expect to see high water levels around Potter Heigham, Wroxham boat yards and Ferry Road in Horning.  There is a tide surge today which will delay river levels returning to normal. The tidal forecast is improving, and we expect levels to start returning to normal over the next two days. We are closely monitoring the situation. Avoid low lying roads near rivers, which may be flooded. This message will be updated by 10:00am tomorrow, Tuesday 28th October 2025, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-10-27T08:51:00",
+      "timeRaised": "2025-10-27T08:51:54",
+      "timeSeverityChanged": "2025-10-22T14:17:00"
     },
-    "items": []
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT2",
+      "description": "The tidal River Yare from Thorpe St Andrew to Breydon Water",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2",
+        "county": "Norfolk",
+        "notation": "054WATBT2",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2/polygon",
+        "riverOrSea": "River Yare"
+      },
+      "floodAreaID": "054WATBT2",
+      "isTidal": true,
+      "message": "Tide locking where high tides restrict normal drainage of the river out to sea,  today may lead to flooding. Flooding is possible today, Monday 27th October, and overnight tonight. We expect to see high water levels in Brundall and Reedham riverside areas. There is a tide surge today which will delay river levels returning to normal. The tidal forecast is improving, and we expect levels to start returning to normal over the next two days. We are closely monitoring the situation. Avoid low lying roads near rivers, which may be flooded. This message will be updated by 10:00am tomorrow, Tuesday 28th October 2025, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-10-27T08:56:00",
+      "timeRaised": "2025-10-27T08:56:29",
+      "timeSeverityChanged": "2025-10-23T09:03:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT3",
+      "description": "The tidal River Waveney from Ellingham to Breydon Water",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT3",
+        "county": "Norfolk, Suffolk",
+        "notation": "054WATBT3",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT3/polygon",
+        "riverOrSea": "Waveney"
+      },
+      "floodAreaID": "054WATBT3",
+      "isTidal": true,
+      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nTidal conditions are expected to improve and no flooding is expected.   \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.  \n\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-10-27T09:03:00",
+      "timeRaised": "2025-10-27T09:03:41",
+      "timeSeverityChanged": "2025-10-27T09:03:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV3C",
+      "description": "The Suffolk coast at Southwold",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV3C",
+        "county": "Suffolk",
+        "notation": "054WACDV3C",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV3C/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "054WACDV3C",
+      "isTidal": true,
+      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nCoastal conditions are expected to improve and no flooding is expected.   \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   \n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-10-26T16:16:00",
+      "timeRaised": "2025-10-26T16:16:42",
+      "timeSeverityChanged": "2025-10-26T16:16:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM1",
+      "description": "Somerset coast at Porlock Weir",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1",
+        "county": "Somerset",
+        "notation": "112WATSOM1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1/polygon",
+        "riverOrSea": "Bristol Channel"
+      },
+      "floodAreaID": "112WATSOM1",
+      "isTidal": true,
+      "message": "High tides, strong winds and large waves over the next two days may lead to flooding. \nFlooding is possible from 8:00 PM to 10:00 PM on 26/10/2025 and again from 08:15 AM to 10:15 AM on 27/10/2025. \nFlooding is forecast to affect low lying land, roads and paths, particularly around the coastline between Gore Point and Hurlstone Point including Porlock Weir. \nWe are closely monitoring the situation and checking flood defences. \nAvoid coastal roads, footpaths and carparks, which may be flooded . Start acting on your flood plan if you have one. \nThis message will be updated by 2:00PM on 27 October 2025 or as the situation changes.\n\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-10-26T14:41:00",
+      "timeRaised": "2025-10-26T14:41:19",
+      "timeSeverityChanged": "2025-10-26T14:41:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV3B",
+      "description": "The Suffolk coast from Lowestoft to Bawdsey",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV3B",
+        "county": "Suffolk",
+        "notation": "054WACDV3B",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV3B/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "054WACDV3B",
+      "isTidal": true,
+      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nCoastal conditions are expected to improve and no flooding is expected.   \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   \n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-10-26T16:10:00",
+      "timeRaised": "2025-10-26T16:10:43",
+      "timeSeverityChanged": "2025-10-26T16:10:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054FWTBT3B",
+      "description": "Isolated low lying properties along the tidal River Waveney",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054FWTBT3B",
+        "county": "Norfolk, Suffolk",
+        "notation": "054FWTBT3B",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054FWTBT3B/polygon",
+        "riverOrSea": "River Waveney"
+      },
+      "floodAreaID": "054FWTBT3B",
+      "isTidal": true,
+      "message": "The Flood Warning has now been removed. However, a Flood Alert remains in force for the wider area, so flooding of roads and low lying land is still possible.  \nWe do not expect to see similar impacts from the next high tide.    \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.    \nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   \n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-10-26T16:30:00",
+      "timeRaised": "2025-10-26T16:30:42",
+      "timeSeverityChanged": "2025-10-26T16:30:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054FWTBT2A",
+      "description": "Riverside properties along the tidal River Yare including Cantley, Brundall and Reedham",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054FWTBT2A",
+        "county": "Norfolk",
+        "notation": "054FWTBT2A",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054FWTBT2A/polygon",
+        "riverOrSea": "River Yare"
+      },
+      "floodAreaID": "054FWTBT2A",
+      "isTidal": true,
+      "message": "The Flood Warning has now been removed. However, a Flood Alert remains in force for the wider area, so flooding of roads and low lying land is still possible.  \nWe do not expect to see similar impacts from the next high tide.    \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.    \nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   \n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-10-26T16:51:00",
+      "timeRaised": "2025-10-26T16:51:14",
+      "timeSeverityChanged": "2025-10-26T16:51:00"
+    }
+  ]
 }
