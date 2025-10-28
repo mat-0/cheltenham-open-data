@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Tuesday, 28 October 2025
 
-- The average temperature today is 14.21˚C,
-- With highs of 14.75˚C and lows of 13.17˚C,
-- It may feel like 13.33˚C with few clouds
-- The wind speed is 5.14m/s and visibility is 10000m
-- The pressure is 1006hPa and humidity is 63%
+- The average temperature today is 12.51˚C,
+- With highs of 13.32˚C and lows of 12.04˚C,
+- It may feel like 11.67˚C with few clouds
+- The wind speed is 3.6m/s and visibility is 10000m
+- The pressure is 1006hPa and humidity is 71%
 - The sun will rise at 06:55 and set at 16:48
 
 <!-- weather_marker ends -->

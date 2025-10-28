@@ -9,6 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree overhanging the retail units is causing a considerable build up of leaves to the first floor roofs., 28th October :- [8349182](https://www.fixmystreet.com/report/8349182)
+- Flooding, 28th October :- [8349057](https://www.fixmystreet.com/report/8349057)
+- Other damage to pavement i.e. cobbles, raised mound/surface problem, 28th October :- [8349138](https://www.fixmystreet.com/report/8349138)
+- TMC - Defects -other CW6 problem, 28th October :- [8349001](https://www.fixmystreet.com/report/8349001)
+- TMC - Defects -CW6 Potholes  problem, 28th October :- [8349000](https://www.fixmystreet.com/report/8349000)
+- TMC - Defects -CW6 Potholes  problem, 28th October :- [8348999](https://www.fixmystreet.com/report/8348999)
+- TMC - Defects -CW6 Potholes  problem, 28th October :- [8348998](https://www.fixmystreet.com/report/8348998)
 - The pothole is just to the entrance of the church car park, 28th October :- [8348822](https://www.fixmystreet.com/report/8348822)
 - Bicycle railing insecure, torn from paving, 28th October :- [8348781](https://www.fixmystreet.com/report/8348781)
 - TMC - Defects - Other FW6  Surface problem, 28th October :- [8348839](https://www.fixmystreet.com/report/8348839)
@@ -17,17 +24,10 @@ permalink: /fix-my-street
 - By lamp post number 1 opp one stop, 28th October :- [8348580](https://www.fixmystreet.com/report/8348580)
 - A pothole in road problem, 28th October :- [8348522](https://www.fixmystreet.com/report/8348522)
 - Blocking visibility on road/junction (Grass/verge) problem, 28th October :- [8348676](https://www.fixmystreet.com/report/8348676)
-- TMC - Defects - Other FW6  Surface problem, 28th October :- [8348527](https://www.fixmystreet.com/report/8348527)
 - TMC - Defects - Other FW6  Surface problem, 28th October :- [8348526](https://www.fixmystreet.com/report/8348526)
+- TMC - Defects - Other FW6  Surface problem, 28th October :- [8348527](https://www.fixmystreet.com/report/8348527)
 - TMC - Defects - Other FW6  Surface problem, 28th October :- [8348525](https://www.fixmystreet.com/report/8348525)
-- TMC - Defects -CW6 Potholes  problem, 28th October :- [8348360](https://www.fixmystreet.com/report/8348360)
-- TMC - Defects -CW6 Potholes  problem, 28th October :- [8348362](https://www.fixmystreet.com/report/8348362)
 - TMC - Defects -CW6 Potholes  problem, 28th October :- [8348361](https://www.fixmystreet.com/report/8348361)
-- TMC - Defects -CW6 Potholes  problem, 28th October :- [8348359](https://www.fixmystreet.com/report/8348359)
-- TMC - Defects - Other FW6  Surface problem, 28th October :- [8348354](https://www.fixmystreet.com/report/8348354)
-- TMC - Defects - Other FW6  Surface problem, 28th October :- [8348355](https://www.fixmystreet.com/report/8348355)
-- TMC - Defects - Other FW6  Surface problem, 28th October :- [8348144](https://www.fixmystreet.com/report/8348144)
-- TMC - Defects - Other FW6  Surface problem, 28th October :- [8348142](https://www.fixmystreet.com/report/8348142)
-- TMC - Defects - Other FW6  Surface problem, 28th October :- [8348139](https://www.fixmystreet.com/report/8348139)
+- TMC - Defects -CW6 Potholes  problem, 28th October :- [8348360](https://www.fixmystreet.com/report/8348360)
 
 <!-- fix_marker ends -->
