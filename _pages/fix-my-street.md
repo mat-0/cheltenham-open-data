@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Bollard shell is damaged/vandalised (Non illuminating bollard or post) problem, 28th October :- [8346224](https://www.fixmystreet.com/report/8346224)
+- Bollard shell is damaged/vandalised (Non illuminating bollard or post) problem, 28th October :- [8346094](https://www.fixmystreet.com/report/8346094)
 - Large dead branch on tree, 28th October :- [8346025](https://www.fixmystreet.com/report/8346025)
 - Street light opposite junction not working, 28th October :- [8345899](https://www.fixmystreet.com/report/8345899)
 - Street lights out, 27th October :- [8345694](https://www.fixmystreet.com/report/8345694)
@@ -26,8 +28,6 @@ permalink: /fix-my-street
 - The kerb block on drop kerb section has become dislodged outside the Hewlett Court flats which is causing a danger to cars and pedestrians., 27th October :- [8345039](https://www.fixmystreet.com/report/8345039)
 - A pothole in road problem, 27th October :- [8344620](https://www.fixmystreet.com/report/8344620)
 - Tree is damaged problem, 27th October :- [8344619](https://www.fixmystreet.com/report/8344619)
-- TMC - Defects - Footways Slabs problem, 27th October :- [8344625](https://www.fixmystreet.com/report/8344625)
-- TMC - Defects - Other FW6  Surface problem, 27th October :- [8344624](https://www.fixmystreet.com/report/8344624)
-- TMC - Defects - Other FW6  Surface problem, 27th October :- [8344627](https://www.fixmystreet.com/report/8344627)
+- TMC - Defects - Footways Slabs problem, 27th October :- [8344626](https://www.fixmystreet.com/report/8344626)
 
 <!-- fix_marker ends -->
