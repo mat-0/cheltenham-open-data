@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree has overgrown lamppost 71 and roundabout sign 118583, 28th October :- [8349922](https://www.fixmystreet.com/report/8349922)
+- Street lights out on Langdon road for weeks, 28th October :- [8349885](https://www.fixmystreet.com/report/8349885)
 - Fly tipping, 28th October :- [8349337](https://www.fixmystreet.com/report/8349337)
 - Tree overhanging the retail units is causing a considerable build up of leaves to the first floor roofs., 28th October :- [8349182](https://www.fixmystreet.com/report/8349182)
 - Flooding, 28th October :- [8349057](https://www.fixmystreet.com/report/8349057)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Blocking visibility on road/junction (Grass/verge) problem, 28th October :- [8348676](https://www.fixmystreet.com/report/8348676)
 - TMC - Defects - Other FW6  Surface problem, 28th October :- [8348527](https://www.fixmystreet.com/report/8348527)
 - TMC - Defects - Other FW6  Surface problem, 28th October :- [8348526](https://www.fixmystreet.com/report/8348526)
-- TMC - Defects - Other FW6  Surface problem, 28th October :- [8348525](https://www.fixmystreet.com/report/8348525)
-- TMC - Defects -CW6 Potholes  problem, 28th October :- [8348361](https://www.fixmystreet.com/report/8348361)
 
 <!-- fix_marker ends -->
