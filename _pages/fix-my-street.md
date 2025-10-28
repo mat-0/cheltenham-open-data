@@ -9,6 +9,17 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Need trimming dead branches in the tree, 28th October :- [8346529](https://www.fixmystreet.com/report/8346529)
+- The white lights is too dull can you replace them with orange bulbs, 28th October :- [8346508](https://www.fixmystreet.com/report/8346508)
+- TMC - Defects - Other FW6  Surface problem, 28th October :- [8346578](https://www.fixmystreet.com/report/8346578)
+- Hucclecote War Memorial Tidy Up in advance of Remembrance Sunday, 28th October :- [8346414](https://www.fixmystreet.com/report/8346414)
+- Overgrown trees, 28th October :- [8346386](https://www.fixmystreet.com/report/8346386)
+- TMC - Defects -CW6 Potholes  problem, 28th October :- [8346377](https://www.fixmystreet.com/report/8346377)
+- TMC - Defects -other CW6 problem, 28th October :- [8346378](https://www.fixmystreet.com/report/8346378)
+- TMC - Defects -CW6 Potholes  problem, 28th October :- [8346379](https://www.fixmystreet.com/report/8346379)
+- TMC - Defects -CW6 Potholes  problem, 28th October :- [8346376](https://www.fixmystreet.com/report/8346376)
+- TMC - Defects - Kerbs and Channels problem, 28th October :- [8346375](https://www.fixmystreet.com/report/8346375)
+- TMC - Defects - Other FW6  Surface problem, 28th October :- [8346374](https://www.fixmystreet.com/report/8346374)
 - Bollard shell is damaged/vandalised (Non illuminating bollard or post) problem, 28th October :- [8346224](https://www.fixmystreet.com/report/8346224)
 - Bollard shell is damaged/vandalised (Non illuminating bollard or post) problem, 28th October :- [8346094](https://www.fixmystreet.com/report/8346094)
 - Large dead branch on tree, 28th October :- [8346025](https://www.fixmystreet.com/report/8346025)
@@ -18,16 +29,5 @@ permalink: /fix-my-street
 - Flashing street light, 27th October :- [8345483](https://www.fixmystreet.com/report/8345483)
 - Tree fallen over path, 27th October :- [8345441](https://www.fixmystreet.com/report/8345441)
 - Field gate hanging post broken, 27th October :- [8345438](https://www.fixmystreet.com/report/8345438)
-- Stiles are very wobbly and difficult to see footbridge due to vegetation, 27th October :- [8345430](https://www.fixmystreet.com/report/8345430)
-- Bridge is leaning and overgrown, 27th October :- [8345424](https://www.fixmystreet.com/report/8345424)
-- Gate hanging on by one hinge., 27th October :- [8345421](https://www.fixmystreet.com/report/8345421)
-- Field Gate is padlocked, 27th October :- [8345413](https://www.fixmystreet.com/report/8345413)
-- Road signs, 27th October :- [8345212](https://www.fixmystreet.com/report/8345212)
-- Street light is out, 27th October :- [8345165](https://www.fixmystreet.com/report/8345165)
-- Parking on edge of green space/verge will cause muddy ruts and damage to green., 27th October :- [8345079](https://www.fixmystreet.com/report/8345079)
-- The kerb block on drop kerb section has become dislodged outside the Hewlett Court flats which is causing a danger to cars and pedestrians., 27th October :- [8345039](https://www.fixmystreet.com/report/8345039)
-- A pothole in road problem, 27th October :- [8344620](https://www.fixmystreet.com/report/8344620)
-- Tree is damaged problem, 27th October :- [8344619](https://www.fixmystreet.com/report/8344619)
-- TMC - Defects - Footways Slabs problem, 27th October :- [8344626](https://www.fixmystreet.com/report/8344626)
 
 <!-- fix_marker ends -->
