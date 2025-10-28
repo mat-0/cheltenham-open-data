@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fly tipping, 28th October :- [8349337](https://www.fixmystreet.com/report/8349337)
 - Tree overhanging the retail units is causing a considerable build up of leaves to the first floor roofs., 28th October :- [8349182](https://www.fixmystreet.com/report/8349182)
 - Flooding, 28th October :- [8349057](https://www.fixmystreet.com/report/8349057)
 - Other damage to pavement i.e. cobbles, raised mound/surface problem, 28th October :- [8349138](https://www.fixmystreet.com/report/8349138)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 28th October :- [8348526](https://www.fixmystreet.com/report/8348526)
 - TMC - Defects - Other FW6  Surface problem, 28th October :- [8348525](https://www.fixmystreet.com/report/8348525)
 - TMC - Defects -CW6 Potholes  problem, 28th October :- [8348361](https://www.fixmystreet.com/report/8348361)
-- TMC - Defects -CW6 Potholes  problem, 28th October :- [8348362](https://www.fixmystreet.com/report/8348362)
 
 <!-- fix_marker ends -->
