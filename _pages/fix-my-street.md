@@ -24,10 +24,10 @@ permalink: /fix-my-street
 - By lamp post number 1 opp one stop, 28th October :- [8348580](https://www.fixmystreet.com/report/8348580)
 - A pothole in road problem, 28th October :- [8348522](https://www.fixmystreet.com/report/8348522)
 - Blocking visibility on road/junction (Grass/verge) problem, 28th October :- [8348676](https://www.fixmystreet.com/report/8348676)
-- TMC - Defects - Other FW6  Surface problem, 28th October :- [8348526](https://www.fixmystreet.com/report/8348526)
 - TMC - Defects - Other FW6  Surface problem, 28th October :- [8348527](https://www.fixmystreet.com/report/8348527)
+- TMC - Defects - Other FW6  Surface problem, 28th October :- [8348526](https://www.fixmystreet.com/report/8348526)
 - TMC - Defects - Other FW6  Surface problem, 28th October :- [8348525](https://www.fixmystreet.com/report/8348525)
 - TMC - Defects -CW6 Potholes  problem, 28th October :- [8348361](https://www.fixmystreet.com/report/8348361)
-- TMC - Defects -CW6 Potholes  problem, 28th October :- [8348360](https://www.fixmystreet.com/report/8348360)
+- TMC - Defects -CW6 Potholes  problem, 28th October :- [8348362](https://www.fixmystreet.com/report/8348362)
 
 <!-- fix_marker ends -->
