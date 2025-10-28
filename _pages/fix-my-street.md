@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large dead branch on tree, 28th October :- [8346025](https://www.fixmystreet.com/report/8346025)
 - Street light opposite junction not working, 28th October :- [8345899](https://www.fixmystreet.com/report/8345899)
 - Street lights out, 27th October :- [8345694](https://www.fixmystreet.com/report/8345694)
 - Kerbing type slab that crosses the road, loose and dangerous to vehicles moving over it and to pedestrians crossing over it, 27th October :- [8345616](https://www.fixmystreet.com/report/8345616)
@@ -26,8 +27,7 @@ permalink: /fix-my-street
 - A pothole in road problem, 27th October :- [8344620](https://www.fixmystreet.com/report/8344620)
 - Tree is damaged problem, 27th October :- [8344619](https://www.fixmystreet.com/report/8344619)
 - TMC - Defects - Footways Slabs problem, 27th October :- [8344625](https://www.fixmystreet.com/report/8344625)
-- TMC - Defects - Other FW6  Surface problem, 27th October :- [8344627](https://www.fixmystreet.com/report/8344627)
 - TMC - Defects - Other FW6  Surface problem, 27th October :- [8344624](https://www.fixmystreet.com/report/8344624)
-- TMC - Defects - Footways Slabs problem, 27th October :- [8344623](https://www.fixmystreet.com/report/8344623)
+- TMC - Defects - Other FW6  Surface problem, 27th October :- [8344627](https://www.fixmystreet.com/report/8344627)
 
 <!-- fix_marker ends -->
