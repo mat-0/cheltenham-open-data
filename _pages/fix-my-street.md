@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipped mattress Brunswick Street, 29th October :- [8350494](https://www.fixmystreet.com/report/8350494)
+- Overflowing bin, 29th October :- [8350427](https://www.fixmystreet.com/report/8350427)
 - Street light out, 29th October :- [8350369](https://www.fixmystreet.com/report/8350369)
 - Tree has overgrown lamppost 71 and roundabout sign 118583, 28th October :- [8349922](https://www.fixmystreet.com/report/8349922)
 - Street lights out on Langdon road for weeks, 28th October :- [8349885](https://www.fixmystreet.com/report/8349885)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Tree is damaged problem, 28th October :- [8348678](https://www.fixmystreet.com/report/8348678)
 - By lamp post number 1 opp one stop, 28th October :- [8348580](https://www.fixmystreet.com/report/8348580)
 - A pothole in road problem, 28th October :- [8348522](https://www.fixmystreet.com/report/8348522)
-- Blocking visibility on road/junction (Grass/verge) problem, 28th October :- [8348676](https://www.fixmystreet.com/report/8348676)
-- TMC - Defects - Other FW6  Surface problem, 28th October :- [8348527](https://www.fixmystreet.com/report/8348527)
 
 <!-- fix_marker ends -->
