@@ -9,6 +9,17 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Along the new cycle path, there are multiple pockets of gravel and debris. From West Approach Drive up to the race course needs regular sweeping, 29th October :- [8353235](https://www.fixmystreet.com/report/8353235)
+- Several very deep potholes in Dog Lane - getting worse and dangerous for bikes, horses cars and pedestrians.ane to t, 29th October :- [8353119](https://www.fixmystreet.com/report/8353119)
+- TMC - Defects - Other FW6  Surface problem, 29th October :- [8353121](https://www.fixmystreet.com/report/8353121)
+- TMC - Defects -CW6 Potholes  problem, 29th October :- [8353118](https://www.fixmystreet.com/report/8353118)
+- TMC - Defects -CW6 Potholes  problem, 29th October :- [8352967](https://www.fixmystreet.com/report/8352967)
+- TMC - Defects -FW6 Potholes problem, 29th October :- [8352964](https://www.fixmystreet.com/report/8352964)
+- TMC - Defects -FW6 Potholes problem, 29th October :- [8352963](https://www.fixmystreet.com/report/8352963)
+- TMC - Defects -FW6 Potholes problem, 29th October :- [8352962](https://www.fixmystreet.com/report/8352962)
+- TMC - Defects -FW6 Potholes problem, 29th October :- [8352961](https://www.fixmystreet.com/report/8352961)
+- TMC - Defects -FW6 Potholes problem, 29th October :- [8352960](https://www.fixmystreet.com/report/8352960)
+- TMC - Defects -FW6 Potholes problem, 29th October :- [8352959](https://www.fixmystreet.com/report/8352959)
 - TMC - Defects - Kerbs and Channels problem, 29th October :- [8352797](https://www.fixmystreet.com/report/8352797)
 - TMC - Defects -CW6 Potholes  problem, 29th October :- [8352795](https://www.fixmystreet.com/report/8352795)
 - TMC - Defects -FW6 Potholes problem, 29th October :- [8352793](https://www.fixmystreet.com/report/8352793)
@@ -18,16 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Signs & Street Furniture problem, 29th October :- [8352798](https://www.fixmystreet.com/report/8352798)
 - TMC - Defects - Other FW6  Surface problem, 29th October :- [8352637](https://www.fixmystreet.com/report/8352637)
 - TMC - Defects - Vegetation problem, 29th October :- [8352638](https://www.fixmystreet.com/report/8352638)
-- TMC - Defects -CW6 Potholes  problem, 29th October :- [8352628](https://www.fixmystreet.com/report/8352628)
-- TMC - Defects - Kerbs and Channels problem, 29th October :- [8352635](https://www.fixmystreet.com/report/8352635)
-- TMC - Defects - Other FW6  Surface problem, 29th October :- [8352636](https://www.fixmystreet.com/report/8352636)
-- TMC - Defects -CW6 Potholes  problem, 29th October :- [8352627](https://www.fixmystreet.com/report/8352627)
-- Tree is damaged problem, 29th October :- [8352482](https://www.fixmystreet.com/report/8352482)
-- TMC - Defects -other CW6 problem, 29th October :- [8352484](https://www.fixmystreet.com/report/8352484)
-- TMC - Defects - Other FW6  Surface problem, 29th October :- [8352494](https://www.fixmystreet.com/report/8352494)
-- Van parked in public parking area. Numberplates removed, 29th October :- [8352317](https://www.fixmystreet.com/report/8352317)
-- Two blocked drains, 29th October :- [8352284](https://www.fixmystreet.com/report/8352284)
-- TMC - Defects - Other problem, 29th October :- [8352498](https://www.fixmystreet.com/report/8352498)
-- TMC - Defects - Vegetation problem, 29th October :- [8352497](https://www.fixmystreet.com/report/8352497)
 
 <!-- fix_marker ends -->
