@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Constant littering on grass verges and gutter area, 29th October :- [8353590](https://www.fixmystreet.com/report/8353590)
+- Dangerous potholes on public road, 29th October :- [8353565](https://www.fixmystreet.com/report/8353565)
+- Dirty nappy in carpark, 29th October :- [8353562](https://www.fixmystreet.com/report/8353562)
+- Major pothole problem again, 29th October :- [8353557](https://www.fixmystreet.com/report/8353557)
+- More potholes left unfilled, 29th October :- [8353540](https://www.fixmystreet.com/report/8353540)
+- Large pothole again, 29th October :- [8353528](https://www.fixmystreet.com/report/8353528)
 - Streetlights have been out for a long time and the allocated attendance from NGED must has elapsed by now, 29th October :- [8353470](https://www.fixmystreet.com/report/8353470)
 - Raised cracked uneven path, 29th October :- [8353288](https://www.fixmystreet.com/report/8353288)
 - Along the new cycle path, there are multiple pockets of gravel and debris. From West Approach Drive up to the race course needs regular sweeping, 29th October :- [8353235](https://www.fixmystreet.com/report/8353235)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -FW6 Potholes problem, 29th October :- [8352960](https://www.fixmystreet.com/report/8352960)
 - TMC - Defects -FW6 Potholes problem, 29th October :- [8352959](https://www.fixmystreet.com/report/8352959)
 - TMC - Defects - Kerbs and Channels problem, 29th October :- [8352797](https://www.fixmystreet.com/report/8352797)
-- TMC - Defects -CW6 Potholes  problem, 29th October :- [8352795](https://www.fixmystreet.com/report/8352795)
-- TMC - Defects -FW6 Potholes problem, 29th October :- [8352793](https://www.fixmystreet.com/report/8352793)
-- TMC - Defects -CW6 Potholes  problem, 29th October :- [8352794](https://www.fixmystreet.com/report/8352794)
-- TMC - Defects -FW6 Potholes problem, 29th October :- [8352792](https://www.fixmystreet.com/report/8352792)
-- Damaged 50mph sign and post North of New Rd Old Rd Jct, 29th October :- [8352614](https://www.fixmystreet.com/report/8352614)
-- TMC - Defects - Signs & Street Furniture problem, 29th October :- [8352798](https://www.fixmystreet.com/report/8352798)
 
 <!-- fix_marker ends -->
