@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Wednesday, 29 October 2025
 
-- The average temperature today is 7.01˚C,
-- With highs of 7.76˚C and lows of 5.93˚C,
-- It may feel like 5.23˚C with clear sky
+- The average temperature today is 6.92˚C,
+- With highs of 7.75˚C and lows of 5.47˚C,
+- It may feel like 5.12˚C with clear sky
 - The wind speed is 2.57m/s and visibility is 10000m
-- The pressure is 999hPa and humidity is 87%
+- The pressure is 999hPa and humidity is 86%
 - The sun will rise at 06:57 and set at 16:46
 
 <!-- weather_marker ends -->
