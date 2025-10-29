@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:atom="http://www.w3.org/2005/Atom"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -14,6 +14,105 @@
 <language>en-gb</language>
 <atom:link href="https://www.fixmystreet.com/rss/l/51.897991,-2.071308/10" rel="self" type="application/rss+xml"/>
 
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 29th October</title>
+<link>https://www.fixmystreet.com/report/8351397</link>
+<description>15DB 28day with give and take plus 15 min delay boards carriageway pothole 550x350x42mm plus x1 NSD tarmac patch required. No parking cones required prior to works (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8351397&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8351397</guid>
+<pubDate>Wed, 29 Oct 2025 10:30:57 +0000</pubDate>
+<georss:point>51.845589017277 -2.15401145560328</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 29th October</title>
+<link>https://www.fixmystreet.com/report/8351228</link>
+<description>Abrupt Level Difference FW 400mm  x 300mm  x 25mm &amp;#10;Give and take TM With Temporary FW Closure &amp;#10;Outside 6&amp;#10;Fill around cover &amp;#10;Stats required &amp;#10;Unmarked (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8351228&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8351228</guid>
+<pubDate>Wed, 29 Oct 2025 10:00:57 +0000</pubDate>
+<georss:point>51.9478478 -2.07139590000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 29th October</title>
+<link>https://www.fixmystreet.com/report/8351221</link>
+<description>28 day with road closure due to numerous defects carriageway pothole near school so footway criteria used 1300x700x28mm tarmac patch required tarmac patch required. No parking cones required prior to works (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8351221&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8351221</guid>
+<pubDate>Wed, 29 Oct 2025 09:56:02 +0000</pubDate>
+<georss:point>51.8406410054371 -2.15450438090406</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 29th October</title>
+<link>https://www.fixmystreet.com/report/8351220</link>
+<description>28 day with road closure due to numerous defects carriageway pothole near school so footway criteria used 1130x420x22mm plus x3 NSD tarmac patch required tarmac patch required. No parking cones required prior to works (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8351220&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8351220</guid>
+<pubDate>Wed, 29 Oct 2025 09:56:02 +0000</pubDate>
+<georss:point>51.8406624357002 -2.15447544581336</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 29th October</title>
+<link>https://www.fixmystreet.com/report/8351222</link>
+<description>28 day with road closure due to numerous defects carriageway pothole near school so footway criteria used 740x500x22mm tarmac patch required tarmac patch required. No parking cones required prior to works (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8351222&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8351222</guid>
+<pubDate>Wed, 29 Oct 2025 09:56:02 +0000</pubDate>
+<georss:point>51.8406767946876 -2.15452786609728</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Vegetation problem, 29th October</title>
+<link>https://www.fixmystreet.com/report/8351229</link>
+<description>28 day with give and take plus temporary footway closure please cut back overgrown hedges obstructing the footway back to boundary approx 10m x 1m x 2.5m (Overgrown Hedge)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8351229&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Vegetation</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8351229</guid>
+<pubDate>Wed, 29 Oct 2025 09:56:02 +0000</pubDate>
+<georss:point>51.8406020581974 -2.15390560252682</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 29th October</title>
+<link>https://www.fixmystreet.com/report/8351225</link>
+<description>28 day with road closure due to numerous defects carriageway pothole near school so footway criteria used 400x400x23mm tarmac patch required tarmac patch required. No parking cones required prior to works (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8351225&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8351225</guid>
+<pubDate>Wed, 29 Oct 2025 09:56:02 +0000</pubDate>
+<georss:point>51.8410253586895 -2.15457991317782</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 29th October</title>
+<link>https://www.fixmystreet.com/report/8351223</link>
+<description>28 day with give and take due to numerous defects carriageway pothole near school so footway criteria used 1000x830x29mm plus x1 NSD tarmac patch required tarmac patch required. No parking cones required prior to works (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8351223&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8351223</guid>
+<pubDate>Wed, 29 Oct 2025 09:56:02 +0000</pubDate>
+<georss:point>51.8411081947452 -2.15457491300223</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 29th October</title>
+<link>https://www.fixmystreet.com/report/8351218</link>
+<description>28 day with road closure due to numerous defects carriageway pothole near school so footway criteria used 600x400x32mm plus x1 NSD tarmac patch required tarmac patch required. No parking cones required prior to works (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8351218&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8351218</guid>
+<pubDate>Wed, 29 Oct 2025 09:56:02 +0000</pubDate>
+<georss:point>51.840653012447 -2.15452055925176</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 29th October</title>
+<link>https://www.fixmystreet.com/report/8351224</link>
+<description>28 day with road closure due to numerous defects carriageway pothole near school so footway criteria used 640x220x19mm tarmac patch required tarmac patch required. No parking cones required prior to works (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8351224&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8351224</guid>
+<pubDate>Wed, 29 Oct 2025 09:56:02 +0000</pubDate>
+<georss:point>51.8410218 -2.15453609999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 29th October</title>
+<link>https://www.fixmystreet.com/report/8351227</link>
+<description>Give and take plus temporary footway closure required  footway abrupt level different over tree roots 500x300x21mm stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8351227&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8351227</guid>
+<pubDate>Wed, 29 Oct 2025 09:45:53 +0000</pubDate>
+<georss:point>51.8850030591837 -2.06228145914242</georss:point>
+</item>
 <item>
 <title>Loose drain cover, 29th October</title>
 <link>https://www.fixmystreet.com/report/8351054</link>
@@ -25,12 +124,12 @@
 </item>
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 29th October</title>
-<link>https://www.fixmystreet.com/report/8351058</link>
-<description>Give and take plus temporary footway closure required please replace lift and relay sunken blocks area 800x200x26mm stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8351058&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/8351057</link>
+<description>Give and take plus temporary footway closure required  footway abrupt level different around cover 850x250x21mm tarmac patch number stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8351057&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8351058</guid>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8351057</guid>
 <pubDate>Wed, 29 Oct 2025 09:20:57 +0000</pubDate>
-<georss:point>51.8879481 -2.06262079999998</georss:point>
+<georss:point>51.888037 -2.06263939999999</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 29th October</title>
@@ -43,12 +142,12 @@
 </item>
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 29th October</title>
-<link>https://www.fixmystreet.com/report/8351057</link>
-<description>Give and take plus temporary footway closure required  footway abrupt level different around cover 850x250x21mm tarmac patch number stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8351057&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/8351058</link>
+<description>Give and take plus temporary footway closure required please replace lift and relay sunken blocks area 800x200x26mm stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8351058&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8351057</guid>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8351058</guid>
 <pubDate>Wed, 29 Oct 2025 09:20:57 +0000</pubDate>
-<georss:point>51.888037 -2.06263939999999</georss:point>
+<georss:point>51.8879481 -2.06262079999998</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Kerbs and Channels problem, 29th October</title>
@@ -88,111 +187,12 @@
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 29th October</title>
-<link>https://www.fixmystreet.com/report/8350865</link>
-<description>28 day with road closure due to numerous defects carriageway pothole near school so footway criteria used 530x270x21mm tarmac patch required. No parking cones required prior to works (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8350865&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8350865</guid>
-<pubDate>Wed, 29 Oct 2025 08:53:12 +0000</pubDate>
-<georss:point>51.8593266 -2.18957629999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Kerbs and Channels problem, 29th October</title>
-<link>https://www.fixmystreet.com/report/8350876</link>
-<description>28 day with give and take plus temporary footway closure please concrete patch on Chipped kerb 130x100x36mm (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8350876&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Kerbs and Channels</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8350876</guid>
-<pubDate>Wed, 29 Oct 2025 08:53:12 +0000</pubDate>
-<georss:point>51.8606423 -2.18823849999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 29th October</title>
-<link>https://www.fixmystreet.com/report/8350862</link>
-<description>28 day with road closure due to numerous defects carriageway pothole near school so footway criteria used 400x320x20mm tarmac patch required. No parking cones required prior to works (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8350862&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8350862</guid>
-<pubDate>Wed, 29 Oct 2025 08:53:12 +0000</pubDate>
-<georss:point>51.8590555 -2.1897878</georss:point>
-</item>
-<item>
-<title>TMC - Defects -other CW6 problem, 29th October</title>
-<link>https://www.fixmystreet.com/report/8350871</link>
-<description>28 day with give and take carriageway abrupt level difference outside school so footway criteria used 1470x270x26mm tarmac patch required. No parking cones required prior to works (CW6 Abrupt Level Differences )&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8350871&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -other CW6</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8350871</guid>
-<pubDate>Wed, 29 Oct 2025 08:53:12 +0000</pubDate>
-<georss:point>51.8598944 -2.18924729999998</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 29th October</title>
-<link>https://www.fixmystreet.com/report/8350884</link>
-<description>28 day with give and take plus temporary footway closure footway abrupt level difference 920x480x33mm tarmac patch required stats required. No parking cones required prior to works, defect opposite school entrance. (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8350884&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8350884</guid>
-<pubDate>Wed, 29 Oct 2025 08:53:12 +0000</pubDate>
-<georss:point>51.8598739 -2.18919190000001</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 29th October</title>
 <link>https://www.fixmystreet.com/report/8350866</link>
 <description>28 day with road closure due to central location of defect carriageway pothole 670x330x38mm tarmac patch required. No parking cones required prior to works, school nearby. (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8350866&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
 <guid isPermaLink="false">https://www.fixmystreet.com/report/8350866</guid>
 <pubDate>Wed, 29 Oct 2025 08:53:12 +0000</pubDate>
 <georss:point>51.8606862 -2.1881873</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 29th October</title>
-<link>https://www.fixmystreet.com/report/8350863</link>
-<description>28 day with road closure due to numerous defects carriageway pothole near school so footway criteria used 500x360x23mm tarmac patch required. No parking cones required prior to works (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8350863&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8350863</guid>
-<pubDate>Wed, 29 Oct 2025 08:53:12 +0000</pubDate>
-<georss:point>51.8590161 -2.18983089999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects -other CW6 problem, 29th October</title>
-<link>https://www.fixmystreet.com/report/8350869</link>
-<description>28 day with road closure due to numerous defects and central location of defect in road carriageway depression near school so footway criteria used 2430x460x27mm tarmac patch required stats required (CW6 Rutting&amp;amp;Depressions)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8350869&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -other CW6</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8350869</guid>
-<pubDate>Wed, 29 Oct 2025 08:53:12 +0000</pubDate>
-<georss:point>51.8590806 -2.18977890000001</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 29th October</title>
-<link>https://www.fixmystreet.com/report/8350864</link>
-<description>28 day with road closure due to numerous defects carriageway pothole near school so footway criteria used 580x550x23mm tarmac patch required. No parking cones required prior to works (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8350864&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8350864</guid>
-<pubDate>Wed, 29 Oct 2025 08:53:12 +0000</pubDate>
-<georss:point>51.8593443062342 -2.18965631388488</georss:point>
-</item>
-<item>
-<title>TMC - Defects -other CW6 problem, 29th October</title>
-<link>https://www.fixmystreet.com/report/8350870</link>
-<description>28 day with road closure due to numerous defects and central location of defect in road carriageway depression on pedestrian crossing point so footway criteria used 860x820x25mm tarmac patch required (CW6 Rutting&amp;amp;Depressions)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8350870&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -other CW6</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8350870</guid>
-<pubDate>Wed, 29 Oct 2025 08:53:12 +0000</pubDate>
-<georss:point>51.8590072 -2.18987970000001</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 29th October</title>
-<link>https://www.fixmystreet.com/report/8350861</link>
-<description>28 day with road closure due to numerous defects carriageway pothole near school so footway criteria used 350x300x22mm tarmac patch required. No parking cones required prior to works (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8350861&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8350861</guid>
-<pubDate>Wed, 29 Oct 2025 08:53:12 +0000</pubDate>
-<georss:point>51.8591668282183 -2.18975618805905</georss:point>
-</item>
-<item>
-<title>Post or sign leaning slightly (less than 20 degrees) problem, 29th October</title>
-<link>https://www.fixmystreet.com/report/8350860</link>
-<description>Please pass to relevant ahr covering this area. As part of routine walked inspection, found leaning post on footway. There is slightly movement within foundations but not currently at risk of falling. This is located opposite school entrance. Please arrange for post to be removed and replaced.&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8350860&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Post or sign leaning slightly (less than 20 degrees)</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8350860</guid>
-<pubDate>Wed, 29 Oct 2025 08:51:33 +0000</pubDate>
-<georss:point>51.860028 -2.189059</georss:point>
 </item>
 </channel>
 </rss>
