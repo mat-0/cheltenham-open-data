@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Traffic lights completely failed, 29th October :- [8350576](https://www.fixmystreet.com/report/8350576)
 - Flytipped mattress Brunswick Street, 29th October :- [8350494](https://www.fixmystreet.com/report/8350494)
 - Overflowing bin, 29th October :- [8350427](https://www.fixmystreet.com/report/8350427)
 - Street light out, 29th October :- [8350369](https://www.fixmystreet.com/report/8350369)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Gutters need cleaning, 28th October :- [8348629](https://www.fixmystreet.com/report/8348629)
 - Tree is damaged problem, 28th October :- [8348678](https://www.fixmystreet.com/report/8348678)
 - By lamp post number 1 opp one stop, 28th October :- [8348580](https://www.fixmystreet.com/report/8348580)
-- A pothole in road problem, 28th October :- [8348522](https://www.fixmystreet.com/report/8348522)
 
 <!-- fix_marker ends -->
