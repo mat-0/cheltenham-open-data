@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Streetlights have been out for a long time and the allocated attendance from NGED must has elapsed by now, 29th October :- [8353470](https://www.fixmystreet.com/report/8353470)
+- Raised cracked uneven path, 29th October :- [8353288](https://www.fixmystreet.com/report/8353288)
 - Along the new cycle path, there are multiple pockets of gravel and debris. From West Approach Drive up to the race course needs regular sweeping, 29th October :- [8353235](https://www.fixmystreet.com/report/8353235)
 - Several very deep potholes in Dog Lane - getting worse and dangerous for bikes, horses cars and pedestrians.ane to t, 29th October :- [8353119](https://www.fixmystreet.com/report/8353119)
 - TMC - Defects - Other FW6  Surface problem, 29th October :- [8353121](https://www.fixmystreet.com/report/8353121)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -FW6 Potholes problem, 29th October :- [8352792](https://www.fixmystreet.com/report/8352792)
 - Damaged 50mph sign and post North of New Rd Old Rd Jct, 29th October :- [8352614](https://www.fixmystreet.com/report/8352614)
 - TMC - Defects - Signs & Street Furniture problem, 29th October :- [8352798](https://www.fixmystreet.com/report/8352798)
-- TMC - Defects - Other FW6  Surface problem, 29th October :- [8352637](https://www.fixmystreet.com/report/8352637)
-- TMC - Defects - Vegetation problem, 29th October :- [8352638](https://www.fixmystreet.com/report/8352638)
 
 <!-- fix_marker ends -->
