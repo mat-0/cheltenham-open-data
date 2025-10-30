@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Thursday, 30 October 2025
 
-- The average temperature today is 5.88˚C,
+- The average temperature today is 5.7˚C,
 - With highs of 7.19˚C and lows of 4.73˚C,
-- It may feel like 5.16˚C with scattered clouds
-- The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 1004hPa and humidity is 88%
+- It may feel like 5.7˚C with scattered clouds
+- The wind speed is 0.45m/s and visibility is 10000m
+- The pressure is 1005hPa and humidity is 89%
 - The sun will rise at 06:59 and set at 16:44
 
 <!-- weather_marker ends -->
