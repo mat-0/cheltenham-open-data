@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Collapsed utility cover next to telegraph pole. Hole is about 30cm + deep. Unlit road. Hole on narrow pavement so pedestrians have to walk in the road to avoid hole. Currently has 2 traffic cones covering hole to alert people. Very dangerous as no street lights and narrow road.., 30th October :- [8355112](https://www.fixmystreet.com/report/8355112)
 - I was advised by text from Nationalgrid that the power cut affecting GL53 &NZ area was resolved at 1.36 today. THIS IS NOT THE CASE THE LIGHTING IS STILL OUT, 29th October :- [8354291](https://www.fixmystreet.com/report/8354291)
 - Constant littering on grass verges and gutter area, 29th October :- [8353590](https://www.fixmystreet.com/report/8353590)
 - Dangerous potholes on public road, 29th October :- [8353565](https://www.fixmystreet.com/report/8353565)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -FW6 Potholes problem, 29th October :- [8352962](https://www.fixmystreet.com/report/8352962)
 - TMC - Defects -FW6 Potholes problem, 29th October :- [8352961](https://www.fixmystreet.com/report/8352961)
 - TMC - Defects -FW6 Potholes problem, 29th October :- [8352960](https://www.fixmystreet.com/report/8352960)
-- TMC - Defects -FW6 Potholes problem, 29th October :- [8352959](https://www.fixmystreet.com/report/8352959)
 
 <!-- fix_marker ends -->
