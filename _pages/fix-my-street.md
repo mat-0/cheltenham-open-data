@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Edge of the road tarmac is deteriorating and causing chunks or tarmac to spread across the road., 30th October :- [8355623](https://www.fixmystreet.com/report/8355623)
+- TMC - Defects - Other FW6  Surface problem, 30th October :- [8355590](https://www.fixmystreet.com/report/8355590)
 - Perspex is broken, 30th October :- [8355486](https://www.fixmystreet.com/report/8355486)
 - Standing water on cycle path, 30th October :- [8355297](https://www.fixmystreet.com/report/8355297)
 - TMC - Defects -CW6 Potholes  problem, 30th October :- [8355356](https://www.fixmystreet.com/report/8355356)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 29th October :- [8353121](https://www.fixmystreet.com/report/8353121)
 - TMC - Defects -CW6 Potholes  problem, 29th October :- [8353118](https://www.fixmystreet.com/report/8353118)
 - TMC - Defects -CW6 Potholes  problem, 29th October :- [8352967](https://www.fixmystreet.com/report/8352967)
-- TMC - Defects -FW6 Potholes problem, 29th October :- [8352964](https://www.fixmystreet.com/report/8352964)
-- TMC - Defects -FW6 Potholes problem, 29th October :- [8352963](https://www.fixmystreet.com/report/8352963)
 
 <!-- fix_marker ends -->
