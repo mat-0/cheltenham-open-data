@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Perspex is broken, 30th October :- [8355486](https://www.fixmystreet.com/report/8355486)
+- Standing water on cycle path, 30th October :- [8355297](https://www.fixmystreet.com/report/8355297)
+- TMC - Defects -CW6 Potholes  problem, 30th October :- [8355356](https://www.fixmystreet.com/report/8355356)
 - Collapsed utility cover next to telegraph pole. Hole is about 30cm + deep. Unlit road. Hole on narrow pavement so pedestrians have to walk in the road to avoid hole. Currently has 2 traffic cones covering hole to alert people. Very dangerous as no street lights and narrow road.., 30th October :- [8355112](https://www.fixmystreet.com/report/8355112)
 - I was advised by text from Nationalgrid that the power cut affecting GL53 &NZ area was resolved at 1.36 today. THIS IS NOT THE CASE THE LIGHTING IS STILL OUT, 29th October :- [8354291](https://www.fixmystreet.com/report/8354291)
 - Constant littering on grass verges and gutter area, 29th October :- [8353590](https://www.fixmystreet.com/report/8353590)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 29th October :- [8352967](https://www.fixmystreet.com/report/8352967)
 - TMC - Defects -FW6 Potholes problem, 29th October :- [8352964](https://www.fixmystreet.com/report/8352964)
 - TMC - Defects -FW6 Potholes problem, 29th October :- [8352963](https://www.fixmystreet.com/report/8352963)
-- TMC - Defects -FW6 Potholes problem, 29th October :- [8352962](https://www.fixmystreet.com/report/8352962)
-- TMC - Defects -FW6 Potholes problem, 29th October :- [8352961](https://www.fixmystreet.com/report/8352961)
-- TMC - Defects -FW6 Potholes problem, 29th October :- [8352960](https://www.fixmystreet.com/report/8352960)
 
 <!-- fix_marker ends -->
