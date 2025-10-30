@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- This drain runs from Monks Lane to a pond next to Fiddington Lane, the drain is blocked which causes flooding on Monks Lane... this has been blocked since winter last year., 30th October :- [8357514](https://www.fixmystreet.com/report/8357514)
+- Branch has fallen in drainage ditch on Lidl side of Finlay Way, 30th October :- [8357307](https://www.fixmystreet.com/report/8357307)
 - Pooling water on pavement, 30th October :- [8357220](https://www.fixmystreet.com/report/8357220)
 - Post or sign leaning slightly (less than 20 degrees) problem, 30th October :- [8357183](https://www.fixmystreet.com/report/8357183)
 - TMC - Defects -CW6 Potholes  problem, 30th October :- [8357187](https://www.fixmystreet.com/report/8357187)
@@ -26,8 +28,6 @@ permalink: /fix-my-street
 - Large pothole, 30th October :- [8356457](https://www.fixmystreet.com/report/8356457)
 - TMC - Defects -CW6 Potholes  problem, 30th October :- [8356536](https://www.fixmystreet.com/report/8356536)
 - TMC - Defects -CW6 Potholes  problem, 30th October :- [8356360](https://www.fixmystreet.com/report/8356360)
-- TMC - Defects -CW6 Potholes  problem, 30th October :- [8356361](https://www.fixmystreet.com/report/8356361)
 - TMC - Defects -CW6 Potholes  problem, 30th October :- [8356362](https://www.fixmystreet.com/report/8356362)
-- TMC - Defects -CW6 Potholes  problem, 30th October :- [8356359](https://www.fixmystreet.com/report/8356359)
 
 <!-- fix_marker ends -->
