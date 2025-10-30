@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects -CW6 Potholes  problem, 30th October :- [8356171](https://www.fixmystreet.com/report/8356171)
+- Not emptied public waste bin, 30th October :- [8356000](https://www.fixmystreet.com/report/8356000)
+- 6 inch pot holes, 30th October :- [8355928](https://www.fixmystreet.com/report/8355928)
+- TMC - Defects -CW6 Potholes  problem, 30th October :- [8355971](https://www.fixmystreet.com/report/8355971)
+- TMC - Defects -CW6 Potholes  problem, 30th October :- [8355970](https://www.fixmystreet.com/report/8355970)
 - Edge of the road tarmac is deteriorating and causing chunks or tarmac to spread across the road., 30th October :- [8355623](https://www.fixmystreet.com/report/8355623)
 - TMC - Defects - Other FW6  Surface problem, 30th October :- [8355590](https://www.fixmystreet.com/report/8355590)
 - Perspex is broken, 30th October :- [8355486](https://www.fixmystreet.com/report/8355486)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Large pothole again, 29th October :- [8353528](https://www.fixmystreet.com/report/8353528)
 - Streetlights have been out for a long time and the allocated attendance from NGED must has elapsed by now, 29th October :- [8353470](https://www.fixmystreet.com/report/8353470)
 - Raised cracked uneven path, 29th October :- [8353288](https://www.fixmystreet.com/report/8353288)
-- Along the new cycle path, there are multiple pockets of gravel and debris. From West Approach Drive up to the race course needs regular sweeping, 29th October :- [8353235](https://www.fixmystreet.com/report/8353235)
-- Several very deep potholes in Dog Lane - getting worse and dangerous for bikes, horses cars and pedestrians.ane to t, 29th October :- [8353119](https://www.fixmystreet.com/report/8353119)
-- TMC - Defects - Other FW6  Surface problem, 29th October :- [8353121](https://www.fixmystreet.com/report/8353121)
-- TMC - Defects -CW6 Potholes  problem, 29th October :- [8353118](https://www.fixmystreet.com/report/8353118)
-- TMC - Defects -CW6 Potholes  problem, 29th October :- [8352967](https://www.fixmystreet.com/report/8352967)
 
 <!-- fix_marker ends -->
