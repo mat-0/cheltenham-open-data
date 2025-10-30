@@ -9,6 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pooling water on pavement, 30th October :- [8357220](https://www.fixmystreet.com/report/8357220)
+- Post or sign leaning slightly (less than 20 degrees) problem, 30th October :- [8357183](https://www.fixmystreet.com/report/8357183)
+- TMC - Defects -CW6 Potholes  problem, 30th October :- [8357187](https://www.fixmystreet.com/report/8357187)
+- TMC - Defects -other CW6 problem, 30th October :- [8357188](https://www.fixmystreet.com/report/8357188)
+- Approx 40ft run of haphazard pothole repairs done over the last few years, all of which keep breaking down and need repairing again. Out side 27 Sandycroft Road Churchdown. Could this strip of road be fully resurfaced., 30th October :- [8357073](https://www.fixmystreet.com/report/8357073)
+- As a result of the London road diversions, we now have excessive and heavy traffic constantly mounting the pavement, bouncing up and off the kerbs and resulting in damaged. as well as constant noise and freverberations in the house., 30th October :- [8357047](https://www.fixmystreet.com/report/8357047)
+- Two potholes just recently shoddily repaired., 30th October :- [8356996](https://www.fixmystreet.com/report/8356996)
 - Broken drain cover on pavement, 30th October :- [8356836](https://www.fixmystreet.com/report/8356836)
 - TMC - Defects -CW6 Potholes  problem, 30th October :- [8356843](https://www.fixmystreet.com/report/8356843)
 - TMC - Defects -CW6 Potholes  problem, 30th October :- [8356841](https://www.fixmystreet.com/report/8356841)
@@ -18,16 +25,9 @@ permalink: /fix-my-street
 - Unsightly stump with white plastic bow (to signal future removal left for 1-2 years, 30th October :- [8356484](https://www.fixmystreet.com/report/8356484)
 - Large pothole, 30th October :- [8356457](https://www.fixmystreet.com/report/8356457)
 - TMC - Defects -CW6 Potholes  problem, 30th October :- [8356536](https://www.fixmystreet.com/report/8356536)
+- TMC - Defects -CW6 Potholes  problem, 30th October :- [8356360](https://www.fixmystreet.com/report/8356360)
 - TMC - Defects -CW6 Potholes  problem, 30th October :- [8356361](https://www.fixmystreet.com/report/8356361)
 - TMC - Defects -CW6 Potholes  problem, 30th October :- [8356362](https://www.fixmystreet.com/report/8356362)
 - TMC - Defects -CW6 Potholes  problem, 30th October :- [8356359](https://www.fixmystreet.com/report/8356359)
-- TMC - Defects -CW6 Potholes  problem, 30th October :- [8356360](https://www.fixmystreet.com/report/8356360)
-- TMC - Defects -CW6 Potholes  problem, 30th October :- [8356171](https://www.fixmystreet.com/report/8356171)
-- Not emptied public waste bin, 30th October :- [8356000](https://www.fixmystreet.com/report/8356000)
-- 6 inch pot holes, 30th October :- [8355928](https://www.fixmystreet.com/report/8355928)
-- TMC - Defects -CW6 Potholes  problem, 30th October :- [8355971](https://www.fixmystreet.com/report/8355971)
-- TMC - Defects -CW6 Potholes  problem, 30th October :- [8355970](https://www.fixmystreet.com/report/8355970)
-- Edge of the road tarmac is deteriorating and causing chunks or tarmac to spread across the road., 30th October :- [8355623](https://www.fixmystreet.com/report/8355623)
-- TMC - Defects - Other FW6  Surface problem, 30th October :- [8355590](https://www.fixmystreet.com/report/8355590)
 
 <!-- fix_marker ends -->
