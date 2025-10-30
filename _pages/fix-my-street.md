@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Constant littering here - please do something to help prevent it, 30th October :- [8358779](https://www.fixmystreet.com/report/8358779)
+- The inclined stretch of pavement and of road around half way up Mill Street is now dangerously covered in a think layer of rotting leaves and other vegetation. As such it presents a serious hazard to pedestrians and cyclists/drivers., 30th October :- [8358737](https://www.fixmystreet.com/report/8358737)
 - Lots of broken road, 30th October :- [8358658](https://www.fixmystreet.com/report/8358658)
 - Bent and wonky sign, 30th October :- [8358597](https://www.fixmystreet.com/report/8358597)
 - Blocked drain, 30th October :- [8358155](https://www.fixmystreet.com/report/8358155)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 30th October :- [8356840](https://www.fixmystreet.com/report/8356840)
 - TMC - Defects -CW6 Potholes  problem, 30th October :- [8356838](https://www.fixmystreet.com/report/8356838)
 - Loud pornography being played from inside no.39, 30th October :- [8356583](https://www.fixmystreet.com/report/8356583)
-- Unsightly stump with white plastic bow (to signal future removal left for 1-2 years, 30th October :- [8356484](https://www.fixmystreet.com/report/8356484)
-- Large pothole, 30th October :- [8356457](https://www.fixmystreet.com/report/8356457)
 
 <!-- fix_marker ends -->
