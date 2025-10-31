@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Drains blocked by leaves, 31st October :- [8360807](https://www.fixmystreet.com/report/8360807)
 - Bed dumped on pavement, 31st October :- [8360648](https://www.fixmystreet.com/report/8360648)
 - Flooding on roundabout between Sandy Lane and Greenhills Rd and in adjacent north end of Sandy Lane due to multiple blocked drains on Sandy Lane and on the roundabout (sounds like blocked drains reported already but now there is flooding of the roads), 31st October :- [8360622](https://www.fixmystreet.com/report/8360622)
 - White Lines need repainting, 31st October :- [8360545](https://www.fixmystreet.com/report/8360545)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Light sensor is not detecting vehicles problem, 30th October :- [8359537](https://www.fixmystreet.com/report/8359537)
 - Blocked drain, 30th October :- [8358155](https://www.fixmystreet.com/report/8358155)
 - This drain runs from Monks Lane to a pond next to Fiddington Lane, the drain is blocked which causes flooding on Monks Lane... this has been blocked since winter last year., 30th October :- [8357514](https://www.fixmystreet.com/report/8357514)
-- Branch has fallen in drainage ditch on Lidl side of Finlay Way, 30th October :- [8357307](https://www.fixmystreet.com/report/8357307)
 
 <!-- fix_marker ends -->
