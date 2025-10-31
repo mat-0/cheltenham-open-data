@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Abandoned or perhaps stolen gym machine., 31st October :- [8362413](https://www.fixmystreet.com/report/8362413)
+- Blocked drain, 31st October :- [8362365](https://www.fixmystreet.com/report/8362365)
 - The whole road is a disgrace and needs resurfacing asap, 31st October :- [8362300](https://www.fixmystreet.com/report/8362300)
 - A yellow box is needed to stop the carriageway being blocked at peak times on the day, 31st October :- [8362294](https://www.fixmystreet.com/report/8362294)
 - Stretch of several street lights, 31st October :- [8361949](https://www.fixmystreet.com/report/8361949)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Fly tipped sofa, 31st October :- [8360280](https://www.fixmystreet.com/report/8360280)
 - Nitrous oxide canister in grass, 31st October :- [8360257](https://www.fixmystreet.com/report/8360257)
 - The drain is blocked problem, 31st October :- [8360010](https://www.fixmystreet.com/report/8360010)
-- A new bollard is needed here to prevent people driving on the pavement, 31st October :- [8359535](https://www.fixmystreet.com/report/8359535)
-- Uneven cracked pavement, 31st October :- [8359419](https://www.fixmystreet.com/report/8359419)
 
 <!-- fix_marker ends -->
