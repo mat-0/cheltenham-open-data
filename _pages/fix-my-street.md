@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fly tipped sofa, 31st October :- [8360280](https://www.fixmystreet.com/report/8360280)
+- Nitrous oxide canister in grass, 31st October :- [8360257](https://www.fixmystreet.com/report/8360257)
+- The drain is blocked problem, 31st October :- [8360010](https://www.fixmystreet.com/report/8360010)
 - A new bollard is needed here to prevent people driving on the pavement, 31st October :- [8359535](https://www.fixmystreet.com/report/8359535)
 - Uneven cracked pavement, 31st October :- [8359419](https://www.fixmystreet.com/report/8359419)
 - A resident reported a broken glass pane., 31st October :- [8359400](https://www.fixmystreet.com/report/8359400)
@@ -24,10 +27,7 @@ permalink: /fix-my-street
 - This drain runs from Monks Lane to a pond next to Fiddington Lane, the drain is blocked which causes flooding on Monks Lane... this has been blocked since winter last year., 30th October :- [8357514](https://www.fixmystreet.com/report/8357514)
 - Branch has fallen in drainage ditch on Lidl side of Finlay Way, 30th October :- [8357307](https://www.fixmystreet.com/report/8357307)
 - Pooling water on pavement, 30th October :- [8357220](https://www.fixmystreet.com/report/8357220)
+- Tree is damaged problem, 30th October :- [8360009](https://www.fixmystreet.com/report/8360009)
 - Post or sign leaning slightly (less than 20 degrees) problem, 30th October :- [8357183](https://www.fixmystreet.com/report/8357183)
-- TMC - Defects -CW6 Potholes  problem, 30th October :- [8357187](https://www.fixmystreet.com/report/8357187)
-- TMC - Defects -other CW6 problem, 30th October :- [8357188](https://www.fixmystreet.com/report/8357188)
-- Approx 40ft run of haphazard pothole repairs done over the last few years, all of which keep breaking down and need repairing again. Out side 27 Sandycroft Road Churchdown. Could this strip of road be fully resurfaced., 30th October :- [8357073](https://www.fixmystreet.com/report/8357073)
-- As a result of the London road diversions, we now have excessive and heavy traffic constantly mounting the pavement, bouncing up and off the kerbs and resulting in damaged. as well as constant noise and freverberations in the house., 30th October :- [8357047](https://www.fixmystreet.com/report/8357047)
 
 <!-- fix_marker ends -->
