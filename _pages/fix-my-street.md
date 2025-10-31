@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Stretch of several street lights, 31st October :- [8361949](https://www.fixmystreet.com/report/8361949)
 - Path ABA6 deliberately blocked by fence and large bushes, 31st October :- [8361264](https://www.fixmystreet.com/report/8361264)
 - Obstruction caused by tree problem, 31st October :- [8361216](https://www.fixmystreet.com/report/8361216)
 - TMC - Defects - Signs & Street Furniture problem, 31st October :- [8361379](https://www.fixmystreet.com/report/8361379)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Uneven cracked pavement, 31st October :- [8359419](https://www.fixmystreet.com/report/8359419)
 - A resident reported a broken glass pane., 31st October :- [8359400](https://www.fixmystreet.com/report/8359400)
 - Tree fallen, 31st October :- [8359227](https://www.fixmystreet.com/report/8359227)
-- Fallen tree blocking pathway and broken fence panels, 31st October :- [8359140](https://www.fixmystreet.com/report/8359140)
 
 <!-- fix_marker ends -->
