@@ -1,60 +1,17 @@
 {
-  "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
-  "meta": {
-    "publisher": "Environment Agency",
-    "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-    "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
-    "version": "0.9",
-    "comment": "Status: Beta service",
-    "hasFormat": [
-      "http://environment.data.gov.uk/flood-monitoring/id/floods.csv",
-      "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf",
-      "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl",
-      "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
-    ]
-  },
-  "items": [
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT1",
-      "description": "The tidal Rivers Bure, Ant and Thurne",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1",
-        "county": "Norfolk",
-        "notation": "054WATBT1",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1/polygon",
-        "riverOrSea": "Bure, Ant, Thurne"
-      },
-      "floodAreaID": "054WATBT1",
-      "isTidal": true,
-      "message": "Tide locking where high tides restrict normal drainage of the river out to sea,  today may lead to flooding. Flooding is possible today, Friday 31 October.\n\nWe expect to see high water levels around Potter Heigham, Wroxham boat yards and Ferry Road in Horning. Neap tides with a small tidal surge mean that the low tides are not very low, restricting drainage and preventing water levels in the Broads to drop more quickly. We expect levels to start returning to normal soon.\n\nWe are closely monitoring the situation. Avoid low lying roads near rivers, which may be flooded.\n\nThis message will be updated by 10:00am tomorrow, Saturday 1 November 2025, or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-10-31T09:45:00",
-      "timeRaised": "2025-10-31T09:45:01",
-      "timeSeverityChanged": "2025-10-22T14:17:00"
+    "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
+    "meta": {
+        "publisher": "Environment Agency",
+        "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
+        "version": "0.9",
+        "comment": "Status: Beta service",
+        "hasFormat": [
+            "http://environment.data.gov.uk/flood-monitoring/id/floods.csv?county=Gloucestershire",
+            "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf?county=Gloucestershire",
+            "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl?county=Gloucestershire",
+            "http://environment.data.gov.uk/flood-monitoring/id/floods.html?county=Gloucestershire"
+        ]
     },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF8LowMed",
-      "description": "Lower River Medway",
-      "eaAreaName": "Kent, South London and East Sussex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF8LowMed",
-        "county": "Kent, Medway",
-        "notation": "064WAF8LowMed",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF8LowMed/polygon",
-        "riverOrSea": "River Medway"
-      },
-      "floodAreaID": "064WAF8LowMed",
-      "isTidal": false,
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nWeather conditions are expected to improve and no further flooding is expected.  \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nStay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals. Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.   \n\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-10-31T11:21:00",
-      "timeRaised": "2025-10-31T11:21:57",
-      "timeSeverityChanged": "2025-10-31T11:21:00"
-    }
-  ]
+    "items": []
 }
