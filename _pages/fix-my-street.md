@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Blocked gully, 31st October :- [8361074](https://www.fixmystreet.com/report/8361074)
+- Post or sign leaning slightly (less than 20 degrees) problem, 31st October :- [8361081](https://www.fixmystreet.com/report/8361081)
+- The drain is blocked problem, 31st October :- [8360924](https://www.fixmystreet.com/report/8360924)
 - Drains blocked by leaves, 31st October :- [8360807](https://www.fixmystreet.com/report/8360807)
 - Bed dumped on pavement, 31st October :- [8360648](https://www.fixmystreet.com/report/8360648)
 - Flooding on roundabout between Sandy Lane and Greenhills Rd and in adjacent north end of Sandy Lane due to multiple blocked drains on Sandy Lane and on the roundabout (sounds like blocked drains reported already but now there is flooding of the roads), 31st October :- [8360622](https://www.fixmystreet.com/report/8360622)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - The inclined stretch of pavement and of road around half way up Mill Street is now dangerously covered in a think layer of rotting leaves and other vegetation. As such it presents a serious hazard to pedestrians and cyclists/drivers., 30th October :- [8358737](https://www.fixmystreet.com/report/8358737)
 - Lots of broken road, 30th October :- [8358658](https://www.fixmystreet.com/report/8358658)
 - Bent and wonky sign, 30th October :- [8358597](https://www.fixmystreet.com/report/8358597)
-- Light sensor is not detecting vehicles problem, 30th October :- [8359537](https://www.fixmystreet.com/report/8359537)
-- Blocked drain, 30th October :- [8358155](https://www.fixmystreet.com/report/8358155)
-- This drain runs from Monks Lane to a pond next to Fiddington Lane, the drain is blocked which causes flooding on Monks Lane... this has been blocked since winter last year., 30th October :- [8357514](https://www.fixmystreet.com/report/8357514)
 
 <!-- fix_marker ends -->
