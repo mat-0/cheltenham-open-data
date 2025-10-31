@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Path ABA6 deliberately blocked by fence and large bushes, 31st October :- [8361264](https://www.fixmystreet.com/report/8361264)
+- Obstruction caused by tree problem, 31st October :- [8361216](https://www.fixmystreet.com/report/8361216)
+- TMC - Defects - Signs & Street Furniture problem, 31st October :- [8361379](https://www.fixmystreet.com/report/8361379)
+- Post or sign leaning slightly (less than 20 degrees) problem, 31st October :- [8361219](https://www.fixmystreet.com/report/8361219)
+- Post or sign leaning slightly (less than 20 degrees) problem, 31st October :- [8361218](https://www.fixmystreet.com/report/8361218)
 - Blocked gully, 31st October :- [8361074](https://www.fixmystreet.com/report/8361074)
 - Post or sign leaning slightly (less than 20 degrees) problem, 31st October :- [8361081](https://www.fixmystreet.com/report/8361081)
 - The drain is blocked problem, 31st October :- [8360924](https://www.fixmystreet.com/report/8360924)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - A resident reported a broken glass pane., 31st October :- [8359400](https://www.fixmystreet.com/report/8359400)
 - Tree fallen, 31st October :- [8359227](https://www.fixmystreet.com/report/8359227)
 - Fallen tree blocking pathway and broken fence panels, 31st October :- [8359140](https://www.fixmystreet.com/report/8359140)
-- Constant littering here - please do something to help prevent it, 30th October :- [8358779](https://www.fixmystreet.com/report/8358779)
-- Fly tipping in open space next to brook, 30th October :- [8358772](https://www.fixmystreet.com/report/8358772)
-- The inclined stretch of pavement and of road around half way up Mill Street is now dangerously covered in a think layer of rotting leaves and other vegetation. As such it presents a serious hazard to pedestrians and cyclists/drivers., 30th October :- [8358737](https://www.fixmystreet.com/report/8358737)
-- Lots of broken road, 30th October :- [8358658](https://www.fixmystreet.com/report/8358658)
-- Bent and wonky sign, 30th October :- [8358597](https://www.fixmystreet.com/report/8358597)
 
 <!-- fix_marker ends -->
