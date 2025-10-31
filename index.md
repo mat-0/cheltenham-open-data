@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Friday, 31 October 2025
 
-- The average temperature today is 14.44˚C,
-- With highs of 14.97˚C and lows of 13.3˚C,
-- It may feel like 14.08˚C with scattered clouds
-- The wind speed is 4.47m/s and visibility is 10000m
-- The pressure is 995hPa and humidity is 82%
+- The average temperature today is 13.67˚C,
+- With highs of 14.28˚C and lows of 12.94˚C,
+- It may feel like 13.31˚C with scattered clouds
+- The wind speed is 5.36m/s and visibility is 10000m
+- The pressure is 994hPa and humidity is 85%
 - The sun will rise at 07:01 and set at 16:42
 
 <!-- weather_marker ends -->
