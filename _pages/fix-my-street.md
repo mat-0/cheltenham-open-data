@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree fallen, 31st October :- [8359227](https://www.fixmystreet.com/report/8359227)
+- Fallen tree blocking pathway and broken fence panels, 31st October :- [8359140](https://www.fixmystreet.com/report/8359140)
 - Constant littering here - please do something to help prevent it, 30th October :- [8358779](https://www.fixmystreet.com/report/8358779)
 - Fly tipping in open space next to brook, 30th October :- [8358772](https://www.fixmystreet.com/report/8358772)
 - The inclined stretch of pavement and of road around half way up Mill Street is now dangerously covered in a think layer of rotting leaves and other vegetation. As such it presents a serious hazard to pedestrians and cyclists/drivers., 30th October :- [8358737](https://www.fixmystreet.com/report/8358737)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Broken drain cover on pavement, 30th October :- [8356836](https://www.fixmystreet.com/report/8356836)
 - TMC - Defects -CW6 Potholes  problem, 30th October :- [8356843](https://www.fixmystreet.com/report/8356843)
 - TMC - Defects -CW6 Potholes  problem, 30th October :- [8356841](https://www.fixmystreet.com/report/8356841)
-- TMC - Defects -CW6 Potholes  problem, 30th October :- [8356840](https://www.fixmystreet.com/report/8356840)
-- TMC - Defects -CW6 Potholes  problem, 30th October :- [8356838](https://www.fixmystreet.com/report/8356838)
 
 <!-- fix_marker ends -->
