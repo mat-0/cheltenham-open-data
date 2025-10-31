@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The whole road is a disgrace and needs resurfacing asap, 31st October :- [8362300](https://www.fixmystreet.com/report/8362300)
+- A yellow box is needed to stop the carriageway being blocked at peak times on the day, 31st October :- [8362294](https://www.fixmystreet.com/report/8362294)
 - Stretch of several street lights, 31st October :- [8361949](https://www.fixmystreet.com/report/8361949)
 - Path ABA6 deliberately blocked by fence and large bushes, 31st October :- [8361264](https://www.fixmystreet.com/report/8361264)
 - Obstruction caused by tree problem, 31st October :- [8361216](https://www.fixmystreet.com/report/8361216)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - The drain is blocked problem, 31st October :- [8360010](https://www.fixmystreet.com/report/8360010)
 - A new bollard is needed here to prevent people driving on the pavement, 31st October :- [8359535](https://www.fixmystreet.com/report/8359535)
 - Uneven cracked pavement, 31st October :- [8359419](https://www.fixmystreet.com/report/8359419)
-- A resident reported a broken glass pane., 31st October :- [8359400](https://www.fixmystreet.com/report/8359400)
-- Tree fallen, 31st October :- [8359227](https://www.fixmystreet.com/report/8359227)
 
 <!-- fix_marker ends -->
