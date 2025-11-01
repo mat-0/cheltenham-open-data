@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dumped dining chair & sofa cushions, 1st November :- [8363023](https://www.fixmystreet.com/report/8363023)
 - Abandoned or perhaps stolen gym machine., 31st October :- [8362413](https://www.fixmystreet.com/report/8362413)
 - Blocked drain, 31st October :- [8362365](https://www.fixmystreet.com/report/8362365)
 - The whole road is a disgrace and needs resurfacing asap, 31st October :- [8362300](https://www.fixmystreet.com/report/8362300)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - White Lines need repainting, 31st October :- [8360545](https://www.fixmystreet.com/report/8360545)
 - Fly tipped sofa, 31st October :- [8360280](https://www.fixmystreet.com/report/8360280)
 - Nitrous oxide canister in grass, 31st October :- [8360257](https://www.fixmystreet.com/report/8360257)
-- The drain is blocked problem, 31st October :- [8360010](https://www.fixmystreet.com/report/8360010)
 
 <!-- fix_marker ends -->
