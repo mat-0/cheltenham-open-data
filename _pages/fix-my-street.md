@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipped Sofa, 1st November :- [8363878](https://www.fixmystreet.com/report/8363878)
+- Give way sign hit by reversing lorry, 1st November :- [8363867](https://www.fixmystreet.com/report/8363867)
+- Flytipped items, 1st November :- [8363855](https://www.fixmystreet.com/report/8363855)
+- Fence collapsed blocking access., 1st November :- [8363848](https://www.fixmystreet.com/report/8363848)
 - Multiple potholes in road and verge, 1st November :- [8363674](https://www.fixmystreet.com/report/8363674)
 - Abandoned sofa in New Street, 1st November :- [8363520](https://www.fixmystreet.com/report/8363520)
 - Dumped dining chair & sofa cushions, 1st November :- [8363023](https://www.fixmystreet.com/report/8363023)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Blocked gully, 31st October :- [8361074](https://www.fixmystreet.com/report/8361074)
 - Post or sign leaning slightly (less than 20 degrees) problem, 31st October :- [8361081](https://www.fixmystreet.com/report/8361081)
 - The drain is blocked problem, 31st October :- [8360924](https://www.fixmystreet.com/report/8360924)
-- Drains blocked by leaves, 31st October :- [8360807](https://www.fixmystreet.com/report/8360807)
-- Bed dumped on pavement, 31st October :- [8360648](https://www.fixmystreet.com/report/8360648)
-- Flooding on roundabout between Sandy Lane and Greenhills Rd and in adjacent north end of Sandy Lane due to multiple blocked drains on Sandy Lane and on the roundabout (sounds like blocked drains reported already but now there is flooding of the roads), 31st October :- [8360622](https://www.fixmystreet.com/report/8360622)
-- White Lines need repainting, 31st October :- [8360545](https://www.fixmystreet.com/report/8360545)
 
 <!-- fix_marker ends -->
