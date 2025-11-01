@@ -15,6 +15,7 @@ permalink: /fix-my-street
 - Fence collapsed blocking access., 1st November :- [8363848](https://www.fixmystreet.com/report/8363848)
 - Multiple potholes in road and verge, 1st November :- [8363674](https://www.fixmystreet.com/report/8363674)
 - Abandoned sofa in New Street, 1st November :- [8363520](https://www.fixmystreet.com/report/8363520)
+- Pot holes ridges in road, 1st November :- [8363516](https://www.fixmystreet.com/report/8363516)
 - Dumped dining chair & sofa cushions, 1st November :- [8363023](https://www.fixmystreet.com/report/8363023)
 - Abandoned or perhaps stolen gym machine., 31st October :- [8362413](https://www.fixmystreet.com/report/8362413)
 - Blocked drain, 31st October :- [8362365](https://www.fixmystreet.com/report/8362365)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Post or sign leaning slightly (less than 20 degrees) problem, 31st October :- [8361218](https://www.fixmystreet.com/report/8361218)
 - Blocked gully, 31st October :- [8361074](https://www.fixmystreet.com/report/8361074)
 - Post or sign leaning slightly (less than 20 degrees) problem, 31st October :- [8361081](https://www.fixmystreet.com/report/8361081)
-- The drain is blocked problem, 31st October :- [8360924](https://www.fixmystreet.com/report/8360924)
 
 <!-- fix_marker ends -->
