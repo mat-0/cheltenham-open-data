@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Sinking road, 1st November :- [8364377](https://www.fixmystreet.com/report/8364377)
 - Flytipped Sofa, 1st November :- [8363878](https://www.fixmystreet.com/report/8363878)
 - Give way sign hit by reversing lorry, 1st November :- [8363867](https://www.fixmystreet.com/report/8363867)
 - Flytipped items, 1st November :- [8363855](https://www.fixmystreet.com/report/8363855)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Post or sign leaning slightly (less than 20 degrees) problem, 31st October :- [8361219](https://www.fixmystreet.com/report/8361219)
 - Post or sign leaning slightly (less than 20 degrees) problem, 31st October :- [8361218](https://www.fixmystreet.com/report/8361218)
 - Blocked gully, 31st October :- [8361074](https://www.fixmystreet.com/report/8361074)
-- Post or sign leaning slightly (less than 20 degrees) problem, 31st October :- [8361081](https://www.fixmystreet.com/report/8361081)
 
 <!-- fix_marker ends -->
