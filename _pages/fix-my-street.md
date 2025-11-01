@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street lights out at junction, 1st November :- [8364591](https://www.fixmystreet.com/report/8364591)
+- Bend and Reduce Speed sign is on it's side on the verge and no longer visible., 1st November :- [8364532](https://www.fixmystreet.com/report/8364532)
 - Outside 6 Arle Gardens., 1st November :- [8364486](https://www.fixmystreet.com/report/8364486)
 - Pothole reappeared on Blacksmiths Lane, The Leigh, 1st November :- [8364421](https://www.fixmystreet.com/report/8364421)
 - Public footpath completely blocked by fallen tree, 1st November :- [8364417](https://www.fixmystreet.com/report/8364417)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - The whole road is a disgrace and needs resurfacing asap, 31st October :- [8362300](https://www.fixmystreet.com/report/8362300)
 - A yellow box is needed to stop the carriageway being blocked at peak times on the day, 31st October :- [8362294](https://www.fixmystreet.com/report/8362294)
 - Stretch of several street lights, 31st October :- [8361949](https://www.fixmystreet.com/report/8361949)
-- Path ABA6 deliberately blocked by fence and large bushes, 31st October :- [8361264](https://www.fixmystreet.com/report/8361264)
-- Obstruction caused by tree problem, 31st October :- [8361216](https://www.fixmystreet.com/report/8361216)
 
 <!-- fix_marker ends -->
