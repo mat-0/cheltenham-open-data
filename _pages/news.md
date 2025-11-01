@@ -12,8 +12,8 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Siblings take on deer park after six-year closure ([11 hours ago](https://www.bbc.com/news/articles/cdegr0wl8d5o?at_medium=RSS&at_campaign=rss))
-- Free fireworks and bonfire events near you ([11 hours ago](https://www.bbc.com/news/articles/cx2pjk27ryvo?at_medium=RSS&at_campaign=rss))
+- Siblings take on deer park after six-year closure ([12 hours ago](https://www.bbc.com/news/articles/cdegr0wl8d5o?at_medium=RSS&at_campaign=rss))
+- Free fireworks and bonfire events near you ([12 hours ago](https://www.bbc.com/news/articles/cx2pjk27ryvo?at_medium=RSS&at_campaign=rss))
 - Plan to turn pub into flats 'terrible' - landlord ([1 days ago](https://www.bbc.com/news/articles/cpq1509ndryo?at_medium=RSS&at_campaign=rss))
 - 'Halloween is the only time of year I feel normal' ([1 days ago](https://www.bbc.com/news/videos/c1j8z65k7d2o?at_medium=RSS&at_campaign=rss))
 - 'Tiny pony' and 'carnival season starts' ([1 days ago](https://www.bbc.com/news/articles/cg4329466dqo?at_medium=RSS&at_campaign=rss))
@@ -27,7 +27,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Pedestrian dies after crash involving HGV ([2 days ago](https://www.bbc.com/news/articles/c62elxgj0y9o?at_medium=RSS&at_campaign=rss))
 - Residents unhappy over 'woeful' delays to post ([2 days ago](https://www.bbc.com/news/articles/cyv8n0v8pq6o?at_medium=RSS&at_campaign=rss))
 - Cirencester half marathon: what you need to know ([2 days ago](https://www.bbc.com/news/articles/c1e302gg77yo?at_medium=RSS&at_campaign=rss))
-- Thief jailed after ignoring shop bans ([2 days ago](https://www.bbc.com/news/articles/c04gr0xl7p2o?at_medium=RSS&at_campaign=rss))
+- Thief jailed after ignoring shop bans ([3 days ago](https://www.bbc.com/news/articles/c04gr0xl7p2o?at_medium=RSS&at_campaign=rss))
 - Firm in court over alleged illegal storage of thousands of kilos of explosives ([3 days ago](https://gloucesternewscentre.co.uk/firm-in-court-over-alleged-illegal-storage-of-thousands-of-kilos-of-explosives/))
 - Camera and clothing stolen from car ([3 days ago](https://gloucesternewscentre.co.uk/camera-and-clothing-stolen-from-car/))
 - 'The elderly are struggling without bus shelters' ([3 days ago](https://www.bbc.com/news/articles/cz9135kwyljo?at_medium=RSS&at_campaign=rss))
