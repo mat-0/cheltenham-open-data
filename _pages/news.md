@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Free fireworks and bonfire events near you ([48 minutes ago](https://www.bbc.com/news/articles/cx2pjk27ryvo?at_medium=RSS&at_campaign=rss))
-- Plan to turn pub into flats 'terrible' - landlord ([15 hours ago](https://www.bbc.com/news/articles/cpq1509ndryo?at_medium=RSS&at_campaign=rss))
-- 'Halloween is the only time of year I feel normal' ([19 hours ago](https://www.bbc.com/news/videos/c1j8z65k7d2o?at_medium=RSS&at_campaign=rss))
-- 'Tiny pony' and 'carnival season starts' ([20 hours ago](https://www.bbc.com/news/articles/cg4329466dqo?at_medium=RSS&at_campaign=rss))
+- Free fireworks and bonfire events near you ([1 hours ago](https://www.bbc.com/news/articles/cx2pjk27ryvo?at_medium=RSS&at_campaign=rss))
+- Plan to turn pub into flats 'terrible' - landlord ([16 hours ago](https://www.bbc.com/news/articles/cpq1509ndryo?at_medium=RSS&at_campaign=rss))
+- 'Halloween is the only time of year I feel normal' ([20 hours ago](https://www.bbc.com/news/videos/c1j8z65k7d2o?at_medium=RSS&at_campaign=rss))
+- 'Tiny pony' and 'carnival season starts' ([21 hours ago](https://www.bbc.com/news/articles/cg4329466dqo?at_medium=RSS&at_campaign=rss))
 - 'Confusing' roadworks to remain until Christmas ([1 days ago](https://www.bbc.com/news/articles/c993ggnvg7lo?at_medium=RSS&at_campaign=rss))
 - Historic town church receives £225k funding boost ([1 days ago](https://www.bbc.com/news/articles/cn40wlxlv2go?at_medium=RSS&at_campaign=rss))
 - Complaints over 'not stale, pale and male' remark ([1 days ago](https://www.bbc.com/news/articles/c874y44z748o?at_medium=RSS&at_campaign=rss))
@@ -31,7 +31,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Camera and clothing stolen from car ([2 days ago](https://gloucesternewscentre.co.uk/camera-and-clothing-stolen-from-car/))
 - 'The elderly are struggling without bus shelters' ([2 days ago](https://www.bbc.com/news/articles/cz9135kwyljo?at_medium=RSS&at_campaign=rss))
 - 'Transformation plan for city centre road' and 'autographs sold' ([2 days ago](https://www.bbc.com/news/articles/cr7m41djdnxo?at_medium=RSS&at_campaign=rss))
-- Rapid bus link could boost travel between Cheltenham and Gloucester ([2 days ago](https://gloucesternewscentre.co.uk/rapid-bus-link-could-boost-travel-between-cheltenham-and-gloucester/))
+- Rapid bus link could boost travel between Cheltenham and Gloucester ([3 days ago](https://gloucesternewscentre.co.uk/rapid-bus-link-could-boost-travel-between-cheltenham-and-gloucester/))
 - Cheltenham restaurant closures prompt concern ([3 days ago](https://www.bbc.com/news/articles/cj97vr337y1o?at_medium=RSS&at_campaign=rss))
 - Electric car share scheme launches in rural area ([3 days ago](https://www.bbc.com/news/articles/c2dr4kr6x1lo?at_medium=RSS&at_campaign=rss))
 - Search for missing man from Churchdown who may have travelled to North Wales ([3 days ago](https://gloucesternewscentre.co.uk/search-for-missing-man-from-churchdown-who-may-have-travelled-to-north-wales/))
