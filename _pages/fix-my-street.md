@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Multiple potholes in road and verge, 1st November :- [8363674](https://www.fixmystreet.com/report/8363674)
+- Abandoned sofa in New Street, 1st November :- [8363520](https://www.fixmystreet.com/report/8363520)
 - Dumped dining chair & sofa cushions, 1st November :- [8363023](https://www.fixmystreet.com/report/8363023)
 - Abandoned or perhaps stolen gym machine., 31st October :- [8362413](https://www.fixmystreet.com/report/8362413)
 - Blocked drain, 31st October :- [8362365](https://www.fixmystreet.com/report/8362365)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Bed dumped on pavement, 31st October :- [8360648](https://www.fixmystreet.com/report/8360648)
 - Flooding on roundabout between Sandy Lane and Greenhills Rd and in adjacent north end of Sandy Lane due to multiple blocked drains on Sandy Lane and on the roundabout (sounds like blocked drains reported already but now there is flooding of the roads), 31st October :- [8360622](https://www.fixmystreet.com/report/8360622)
 - White Lines need repainting, 31st October :- [8360545](https://www.fixmystreet.com/report/8360545)
-- Fly tipped sofa, 31st October :- [8360280](https://www.fixmystreet.com/report/8360280)
-- Nitrous oxide canister in grass, 31st October :- [8360257](https://www.fixmystreet.com/report/8360257)
 
 <!-- fix_marker ends -->
