@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Outside 6 Arle Gardens., 1st November :- [8364486](https://www.fixmystreet.com/report/8364486)
+- Pothole reappeared on Blacksmiths Lane, The Leigh, 1st November :- [8364421](https://www.fixmystreet.com/report/8364421)
+- Public footpath completely blocked by fallen tree, 1st November :- [8364417](https://www.fixmystreet.com/report/8364417)
+- Vehicle has knocked over the no entry sign, 1st November :- [8364401](https://www.fixmystreet.com/report/8364401)
 - Sinking road, 1st November :- [8364377](https://www.fixmystreet.com/report/8364377)
 - Flytipped Sofa, 1st November :- [8363878](https://www.fixmystreet.com/report/8363878)
 - Give way sign hit by reversing lorry, 1st November :- [8363867](https://www.fixmystreet.com/report/8363867)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Stretch of several street lights, 31st October :- [8361949](https://www.fixmystreet.com/report/8361949)
 - Path ABA6 deliberately blocked by fence and large bushes, 31st October :- [8361264](https://www.fixmystreet.com/report/8361264)
 - Obstruction caused by tree problem, 31st October :- [8361216](https://www.fixmystreet.com/report/8361216)
-- TMC - Defects - Signs & Street Furniture problem, 31st October :- [8361379](https://www.fixmystreet.com/report/8361379)
-- Post or sign leaning slightly (less than 20 degrees) problem, 31st October :- [8361219](https://www.fixmystreet.com/report/8361219)
-- Post or sign leaning slightly (less than 20 degrees) problem, 31st October :- [8361218](https://www.fixmystreet.com/report/8361218)
-- Blocked gully, 31st October :- [8361074](https://www.fixmystreet.com/report/8361074)
 
 <!-- fix_marker ends -->
