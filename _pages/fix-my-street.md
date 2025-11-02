@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Cone left from W&W, 2nd November :- [8367531](https://www.fixmystreet.com/report/8367531)
+- Need a new bollard, 2nd November :- [8367477](https://www.fixmystreet.com/report/8367477)
 - Flooding, 2nd November :- [8367258](https://www.fixmystreet.com/report/8367258)
 - Slippery tops of cubes, 2nd November :- [8367134](https://www.fixmystreet.com/report/8367134)
 - Pothole in front of houses, 2nd November :- [8367126](https://www.fixmystreet.com/report/8367126)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Bend and Reduce Speed sign is on it's side on the verge and no longer visible., 1st November :- [8364532](https://www.fixmystreet.com/report/8364532)
 - Outside 6 Arle Gardens., 1st November :- [8364486](https://www.fixmystreet.com/report/8364486)
 - Pothole reappeared on Blacksmiths Lane, The Leigh, 1st November :- [8364421](https://www.fixmystreet.com/report/8364421)
-- Public footpath completely blocked by fallen tree, 1st November :- [8364417](https://www.fixmystreet.com/report/8364417)
-- Vehicle has knocked over the no entry sign, 1st November :- [8364401](https://www.fixmystreet.com/report/8364401)
 
 <!-- fix_marker ends -->
