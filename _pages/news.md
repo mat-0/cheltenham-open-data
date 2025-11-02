@@ -12,8 +12,8 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- 'Put horseracing tax money in addiction recovery' ([1 hours ago](https://www.bbc.com/news/articles/cj3zl66my47o?at_medium=RSS&at_campaign=rss))
-- 'Spooky tales' and 'tiger's new home' ([1 hours ago](https://www.bbc.com/news/articles/c4gkz7kll2no?at_medium=RSS&at_campaign=rss))
+- 'Put horseracing tax money in addiction recovery' ([2 hours ago](https://www.bbc.com/news/articles/cj3zl66my47o?at_medium=RSS&at_campaign=rss))
+- 'Spooky tales' and 'tiger's new home' ([2 hours ago](https://www.bbc.com/news/articles/c4gkz7kll2no?at_medium=RSS&at_campaign=rss))
 - Siblings take on deer park after six-year closure ([1 days ago](https://www.bbc.com/news/articles/cdegr0wl8d5o?at_medium=RSS&at_campaign=rss))
 - Free fireworks and bonfire events near you ([1 days ago](https://www.bbc.com/news/articles/cx2pjk27ryvo?at_medium=RSS&at_campaign=rss))
 - Plan to turn pub into flats 'terrible' - landlord ([1 days ago](https://www.bbc.com/news/articles/cpq1509ndryo?at_medium=RSS&at_campaign=rss))
@@ -58,12 +58,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Anger over ‘grubby’ Cheltenham town centre amid ‘sloppy’ £350k resurfacing ([12 days ago](https://gloucesternewscentre.co.uk/anger-over-grubby-cheltenham-town-centre-amid-sloppy-350k-resurfacing/))
 - Cheltenham man receives injunction for anti-social behaviour ([12 days ago](https://www.cheltenham.gov.uk/news/article/3060/cheltenham_man_receives_injunction_for_anti-social_behaviour))
 - Go-ahead for food and drink trailer at popular Cheltenham park ([15 days ago](https://gloucesternewscentre.co.uk/go-ahead-for-food-and-drink-trailer-at-popular-cheltenham-park/))
-- Open letter on future of Cavendish House from our leader ([15 days ago](https://www.cheltenham.gov.uk/news/article/3058/open_letter_on_future_of_cavendish_house_from_our_leader))
+- Open letter on future of Cavendish House from our leader ([16 days ago](https://www.cheltenham.gov.uk/news/article/3058/open_letter_on_future_of_cavendish_house_from_our_leader))
 - Police appeal for information after spate of burglaries in Cheltenham ([16 days ago](https://gloucesternewscentre.co.uk/police-appeal-for-information-after-spate-of-burglaries-in-cheltenham-2/))
 - Concerns over rough sleeping in Cheltenham ([16 days ago](https://gloucesternewscentre.co.uk/concerns-over-rough-sleeping-in-cheltenham/))
 - New engagement for the Strategic and Local Plan goes live ([16 days ago](https://www.cheltenham.gov.uk/news/article/3059/new_engagement_for_the_strategic_and_local_plan_goes_live))
 - Nominations now open for the No Child Left Behind Awards 2025 ([25 days ago](https://www.cheltenham.gov.uk/news/article/3057/nominations_now_open_for_the_no_child_left_behind_awards_2025))
 - Media release: More new affordable homes for Cheltenham residents at Regents Village ([29 days ago](https://www.cheltenham.gov.uk/news/article/3055/media_release_more_new_affordable_homes_for_cheltenham_residents_at_regents_village))
-- Out of area private hire driver successfully prosecuted for illegal operations by Cheltenham Borough Council ([29 days ago](https://www.cheltenham.gov.uk/news/article/3054/out_of_area_private_hire_driver_successfully_prosecuted_for_illegal_operations_by_cheltenham_borough_council))
 
 <!-- news_marker ends -->
