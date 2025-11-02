@@ -12,8 +12,8 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- 'Put horseracing tax money in addiction recovery' ([2 hours ago](https://www.bbc.com/news/articles/cj3zl66my47o?at_medium=RSS&at_campaign=rss))
-- 'Spooky tales' and 'tiger's new home' ([2 hours ago](https://www.bbc.com/news/articles/c4gkz7kll2no?at_medium=RSS&at_campaign=rss))
+- 'Put horseracing tax money in addiction recovery' ([3 hours ago](https://www.bbc.com/news/articles/cj3zl66my47o?at_medium=RSS&at_campaign=rss))
+- 'Spooky tales' and 'tiger's new home' ([3 hours ago](https://www.bbc.com/news/articles/c4gkz7kll2no?at_medium=RSS&at_campaign=rss))
 - Siblings take on deer park after six-year closure ([1 days ago](https://www.bbc.com/news/articles/cdegr0wl8d5o?at_medium=RSS&at_campaign=rss))
 - Free fireworks and bonfire events near you ([1 days ago](https://www.bbc.com/news/articles/cx2pjk27ryvo?at_medium=RSS&at_campaign=rss))
 - Plan to turn pub into flats 'terrible' - landlord ([1 days ago](https://www.bbc.com/news/articles/cpq1509ndryo?at_medium=RSS&at_campaign=rss))
@@ -26,7 +26,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - ‘Terrible’ decision for Cheltenham’s ‘last Regency inn’ ([2 days ago](https://gloucesternewscentre.co.uk/terrible-decision-for-cheltenhams-last-regency-inn/))
 - Cheltenham woman receives Criminal Behaviour Order after admitting to stealing perfume ([2 days ago](https://gloucesternewscentre.co.uk/cheltenham-woman-receives-criminal-behaviour-order-after-admitting-to-stealing-perfume/))
 - How Gloucestershire MPs voted for Nigel Farage’s proposal for UK to leave ECHR ([2 days ago](https://gloucesternewscentre.co.uk/how-gloucestershire-mps-voted-for-nigel-farages-proposal-for-uk-to-leave-echr/))
-- Pedestrian dies after crash involving HGV ([2 days ago](https://www.bbc.com/news/articles/c62elxgj0y9o?at_medium=RSS&at_campaign=rss))
+- Pedestrian dies after crash involving HGV ([3 days ago](https://www.bbc.com/news/articles/c62elxgj0y9o?at_medium=RSS&at_campaign=rss))
 - Residents unhappy over 'woeful' delays to post ([3 days ago](https://www.bbc.com/news/articles/cyv8n0v8pq6o?at_medium=RSS&at_campaign=rss))
 - Cirencester half marathon: what you need to know ([3 days ago](https://www.bbc.com/news/articles/c1e302gg77yo?at_medium=RSS&at_campaign=rss))
 - Thief jailed after ignoring shop bans ([3 days ago](https://www.bbc.com/news/articles/c04gr0xl7p2o?at_medium=RSS&at_campaign=rss))
@@ -44,8 +44,8 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Three local authorities to create a design code for new development ([5 days ago](https://www.cheltenham.gov.uk/news/article/3062/three_local_authorities_to_create_a_design_code_for_new_development))
 - The Big Cases ([8 days ago](https://www.bbc.co.uk/iplayer/episode/m002lsdp?at_medium=RSS&at_campaign=rss))
 - Talks to improve Cheltenham town centre ([8 days ago](https://gloucesternewscentre.co.uk/talks-to-improve-cheltenham-town-centre/))
-- Local places may be prioritised by grammar school ([8 days ago](https://www.bbc.co.uk/sounds/play/p0mblh4x?at_medium=RSS&at_campaign=rss))
-- Slowing rivers to save gloucestershire from floods ([8 days ago](https://www.bbc.co.uk/sounds/play/p0mblfbz?at_medium=RSS&at_campaign=rss))
+- Local places may be prioritised by grammar school ([9 days ago](https://www.bbc.co.uk/sounds/play/p0mblh4x?at_medium=RSS&at_campaign=rss))
+- Slowing rivers to save gloucestershire from floods ([9 days ago](https://www.bbc.co.uk/sounds/play/p0mblfbz?at_medium=RSS&at_campaign=rss))
 - Leckhampton Rovers FC get rent boost for Burrows Field as their work is praised ([9 days ago](https://gloucesternewscentre.co.uk/leckhampton-rovers-fc-get-rent-boost-for-burrows-field-as-their-work-is-praised/))
 - Gloucestershire councils to consider proposals for Local Government Reorganisation ([9 days ago](https://gloucesternewscentre.co.uk/gloucestershire-councils-to-consider-proposals-for-local-government-reorganisation/))
 - A celebration of Inter Faith Week in Cheltenham ([10 days ago](https://www.cheltenham.gov.uk/news/article/3061/a_celebration_of_inter_faith_week_in_cheltenham))
@@ -62,7 +62,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Police appeal for information after spate of burglaries in Cheltenham ([16 days ago](https://gloucesternewscentre.co.uk/police-appeal-for-information-after-spate-of-burglaries-in-cheltenham-2/))
 - Concerns over rough sleeping in Cheltenham ([16 days ago](https://gloucesternewscentre.co.uk/concerns-over-rough-sleeping-in-cheltenham/))
 - New engagement for the Strategic and Local Plan goes live ([16 days ago](https://www.cheltenham.gov.uk/news/article/3059/new_engagement_for_the_strategic_and_local_plan_goes_live))
-- Nominations now open for the No Child Left Behind Awards 2025 ([25 days ago](https://www.cheltenham.gov.uk/news/article/3057/nominations_now_open_for_the_no_child_left_behind_awards_2025))
-- Media release: More new affordable homes for Cheltenham residents at Regents Village ([29 days ago](https://www.cheltenham.gov.uk/news/article/3055/media_release_more_new_affordable_homes_for_cheltenham_residents_at_regents_village))
+- Nominations now open for the No Child Left Behind Awards 2025 ([26 days ago](https://www.cheltenham.gov.uk/news/article/3057/nominations_now_open_for_the_no_child_left_behind_awards_2025))
 
 <!-- news_marker ends -->
