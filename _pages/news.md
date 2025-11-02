@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Drainage concern on part of £40m cycle route ([5 hours ago](https://www.bbc.com/news/articles/cwy5vp3epewo?at_medium=RSS&at_campaign=rss))
-- Gloucestershire in pictures: Comets and misty mornings ([8 hours ago](https://www.bbc.com/news/articles/cx2y41736plo?at_medium=RSS&at_campaign=rss))
-- 'Put horseracing tax money in addiction recovery' ([13 hours ago](https://www.bbc.com/news/articles/cj3zl66my47o?at_medium=RSS&at_campaign=rss))
-- 'Spooky tales' and 'tiger's new home' ([13 hours ago](https://www.bbc.com/news/articles/c4gkz7kll2no?at_medium=RSS&at_campaign=rss))
+- Drainage concern on part of £40m cycle route ([6 hours ago](https://www.bbc.com/news/articles/cwy5vp3epewo?at_medium=RSS&at_campaign=rss))
+- Gloucestershire in pictures: Comets and misty mornings ([9 hours ago](https://www.bbc.com/news/articles/cx2y41736plo?at_medium=RSS&at_campaign=rss))
+- 'Put horseracing tax money in addiction recovery' ([14 hours ago](https://www.bbc.com/news/articles/cj3zl66my47o?at_medium=RSS&at_campaign=rss))
+- 'Spooky tales' and 'tiger's new home' ([14 hours ago](https://www.bbc.com/news/articles/c4gkz7kll2no?at_medium=RSS&at_campaign=rss))
 - Siblings take on deer park after six-year closure ([1 days ago](https://www.bbc.com/news/articles/cdegr0wl8d5o?at_medium=RSS&at_campaign=rss))
 - Free fireworks and bonfire events near you ([1 days ago](https://www.bbc.com/news/articles/cx2pjk27ryvo?at_medium=RSS&at_campaign=rss))
 - Plan to turn pub into flats 'terrible' - landlord ([2 days ago](https://www.bbc.com/news/articles/cpq1509ndryo?at_medium=RSS&at_campaign=rss))
@@ -23,7 +23,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - 'Tiny pony' and 'carnival season starts' ([2 days ago](https://www.bbc.com/news/articles/cg4329466dqo?at_medium=RSS&at_campaign=rss))
 - 'Confusing' roadworks to remain until Christmas ([2 days ago](https://www.bbc.com/news/articles/c993ggnvg7lo?at_medium=RSS&at_campaign=rss))
 - Historic town church receives £225k funding boost ([2 days ago](https://www.bbc.com/news/articles/cn40wlxlv2go?at_medium=RSS&at_campaign=rss))
-- Complaints over 'not stale, pale and male' remark ([2 days ago](https://www.bbc.com/news/articles/c874y44z748o?at_medium=RSS&at_campaign=rss))
+- Complaints over 'not stale, pale and male' remark ([3 days ago](https://www.bbc.com/news/articles/c874y44z748o?at_medium=RSS&at_campaign=rss))
 - 'Prolific shoplifter' banned after perfume theft ([3 days ago](https://www.bbc.com/news/articles/cd0477zxpnro?at_medium=RSS&at_campaign=rss))
 - ‘Terrible’ decision for Cheltenham’s ‘last Regency inn’ ([3 days ago](https://gloucesternewscentre.co.uk/terrible-decision-for-cheltenhams-last-regency-inn/))
 - Cheltenham woman receives Criminal Behaviour Order after admitting to stealing perfume ([3 days ago](https://gloucesternewscentre.co.uk/cheltenham-woman-receives-criminal-behaviour-order-after-admitting-to-stealing-perfume/))
