@@ -12,13 +12,13 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- 'Put horseracing tax money in addiction recovery' ([3 hours ago](https://www.bbc.com/news/articles/cj3zl66my47o?at_medium=RSS&at_campaign=rss))
-- 'Spooky tales' and 'tiger's new home' ([3 hours ago](https://www.bbc.com/news/articles/c4gkz7kll2no?at_medium=RSS&at_campaign=rss))
+- 'Put horseracing tax money in addiction recovery' ([4 hours ago](https://www.bbc.com/news/articles/cj3zl66my47o?at_medium=RSS&at_campaign=rss))
+- 'Spooky tales' and 'tiger's new home' ([4 hours ago](https://www.bbc.com/news/articles/c4gkz7kll2no?at_medium=RSS&at_campaign=rss))
 - Siblings take on deer park after six-year closure ([1 days ago](https://www.bbc.com/news/articles/cdegr0wl8d5o?at_medium=RSS&at_campaign=rss))
 - Free fireworks and bonfire events near you ([1 days ago](https://www.bbc.com/news/articles/cx2pjk27ryvo?at_medium=RSS&at_campaign=rss))
 - Plan to turn pub into flats 'terrible' - landlord ([1 days ago](https://www.bbc.com/news/articles/cpq1509ndryo?at_medium=RSS&at_campaign=rss))
 - 'Halloween is the only time of year I feel normal' ([1 days ago](https://www.bbc.com/news/videos/c1j8z65k7d2o?at_medium=RSS&at_campaign=rss))
-- 'Tiny pony' and 'carnival season starts' ([1 days ago](https://www.bbc.com/news/articles/cg4329466dqo?at_medium=RSS&at_campaign=rss))
+- 'Tiny pony' and 'carnival season starts' ([2 days ago](https://www.bbc.com/news/articles/cg4329466dqo?at_medium=RSS&at_campaign=rss))
 - 'Confusing' roadworks to remain until Christmas ([2 days ago](https://www.bbc.com/news/articles/c993ggnvg7lo?at_medium=RSS&at_campaign=rss))
 - Historic town church receives £225k funding boost ([2 days ago](https://www.bbc.com/news/articles/cn40wlxlv2go?at_medium=RSS&at_campaign=rss))
 - Complaints over 'not stale, pale and male' remark ([2 days ago](https://www.bbc.com/news/articles/c874y44z748o?at_medium=RSS&at_campaign=rss))
