@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Drainage concern on part of £40m cycle route ([6 hours ago](https://www.bbc.com/news/articles/cwy5vp3epewo?at_medium=RSS&at_campaign=rss))
-- Gloucestershire in pictures: Comets and misty mornings ([9 hours ago](https://www.bbc.com/news/articles/cx2y41736plo?at_medium=RSS&at_campaign=rss))
-- 'Put horseracing tax money in addiction recovery' ([14 hours ago](https://www.bbc.com/news/articles/cj3zl66my47o?at_medium=RSS&at_campaign=rss))
-- 'Spooky tales' and 'tiger's new home' ([14 hours ago](https://www.bbc.com/news/articles/c4gkz7kll2no?at_medium=RSS&at_campaign=rss))
+- Drainage concern on part of £40m cycle route ([7 hours ago](https://www.bbc.com/news/articles/cwy5vp3epewo?at_medium=RSS&at_campaign=rss))
+- Gloucestershire in pictures: Comets and misty mornings ([10 hours ago](https://www.bbc.com/news/articles/cx2y41736plo?at_medium=RSS&at_campaign=rss))
+- 'Put horseracing tax money in addiction recovery' ([15 hours ago](https://www.bbc.com/news/articles/cj3zl66my47o?at_medium=RSS&at_campaign=rss))
+- 'Spooky tales' and 'tiger's new home' ([15 hours ago](https://www.bbc.com/news/articles/c4gkz7kll2no?at_medium=RSS&at_campaign=rss))
 - Siblings take on deer park after six-year closure ([1 days ago](https://www.bbc.com/news/articles/cdegr0wl8d5o?at_medium=RSS&at_campaign=rss))
 - Free fireworks and bonfire events near you ([1 days ago](https://www.bbc.com/news/articles/cx2pjk27ryvo?at_medium=RSS&at_campaign=rss))
 - Plan to turn pub into flats 'terrible' - landlord ([2 days ago](https://www.bbc.com/news/articles/cpq1509ndryo?at_medium=RSS&at_campaign=rss))

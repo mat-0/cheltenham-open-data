@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The west light of the Fordon Lamp is out, 2nd November :- [8367663](https://www.fixmystreet.com/report/8367663)
 - Cone left from W&W, 2nd November :- [8367531](https://www.fixmystreet.com/report/8367531)
 - Need a new bollard, 2nd November :- [8367477](https://www.fixmystreet.com/report/8367477)
 - Flooding, 2nd November :- [8367258](https://www.fixmystreet.com/report/8367258)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Street lights out at junction, 1st November :- [8364591](https://www.fixmystreet.com/report/8364591)
 - Bend and Reduce Speed sign is on it's side on the verge and no longer visible., 1st November :- [8364532](https://www.fixmystreet.com/report/8364532)
 - Outside 6 Arle Gardens., 1st November :- [8364486](https://www.fixmystreet.com/report/8364486)
-- Pothole reappeared on Blacksmiths Lane, The Leigh, 1st November :- [8364421](https://www.fixmystreet.com/report/8364421)
 
 <!-- fix_marker ends -->

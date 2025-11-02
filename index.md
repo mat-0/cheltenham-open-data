@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Sunday, 02 November 2025
 
-- The average temperature today is 8.52˚C,
-- With highs of 8.88˚C and lows of 7.61˚C,
-- It may feel like 7.27˚C with scattered clouds
-- The wind speed is 2.24m/s and visibility is 10000m
-- The pressure is 1012hPa and humidity is 83%
+- The average temperature today is 8.89˚C,
+- With highs of 10.16˚C and lows of 8.16˚C,
+- It may feel like 7.38˚C with scattered clouds
+- The wind speed is 2.68m/s and visibility is 10000m
+- The pressure is 1011hPa and humidity is 85%
 - The sun will rise at 07:04 and set at 16:38
 
 <!-- weather_marker ends -->
