@@ -12,8 +12,8 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- 'Put horseracing tax money in addiction recovery' ([31 minutes ago](https://www.bbc.com/news/articles/cj3zl66my47o?at_medium=RSS&at_campaign=rss))
-- 'Spooky tales' and 'tiger's new home' ([45 minutes ago](https://www.bbc.com/news/articles/c4gkz7kll2no?at_medium=RSS&at_campaign=rss))
+- 'Put horseracing tax money in addiction recovery' ([1 hours ago](https://www.bbc.com/news/articles/cj3zl66my47o?at_medium=RSS&at_campaign=rss))
+- 'Spooky tales' and 'tiger's new home' ([1 hours ago](https://www.bbc.com/news/articles/c4gkz7kll2no?at_medium=RSS&at_campaign=rss))
 - Siblings take on deer park after six-year closure ([1 days ago](https://www.bbc.com/news/articles/cdegr0wl8d5o?at_medium=RSS&at_campaign=rss))
 - Free fireworks and bonfire events near you ([1 days ago](https://www.bbc.com/news/articles/cx2pjk27ryvo?at_medium=RSS&at_campaign=rss))
 - Plan to turn pub into flats 'terrible' - landlord ([1 days ago](https://www.bbc.com/news/articles/cpq1509ndryo?at_medium=RSS&at_campaign=rss))
@@ -33,7 +33,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Firm in court over alleged illegal storage of thousands of kilos of explosives ([3 days ago](https://gloucesternewscentre.co.uk/firm-in-court-over-alleged-illegal-storage-of-thousands-of-kilos-of-explosives/))
 - Camera and clothing stolen from car ([3 days ago](https://gloucesternewscentre.co.uk/camera-and-clothing-stolen-from-car/))
 - 'The elderly are struggling without bus shelters' ([3 days ago](https://www.bbc.com/news/articles/cz9135kwyljo?at_medium=RSS&at_campaign=rss))
-- Rapid bus link could boost travel between Cheltenham and Gloucester ([3 days ago](https://gloucesternewscentre.co.uk/rapid-bus-link-could-boost-travel-between-cheltenham-and-gloucester/))
+- Rapid bus link could boost travel between Cheltenham and Gloucester ([4 days ago](https://gloucesternewscentre.co.uk/rapid-bus-link-could-boost-travel-between-cheltenham-and-gloucester/))
 - Search for missing man from Churchdown who may have travelled to North Wales ([4 days ago](https://gloucesternewscentre.co.uk/search-for-missing-man-from-churchdown-who-may-have-travelled-to-north-wales/))
 - Decision on publican’s bid to sell booze from tiny tavern ([4 days ago](https://gloucesternewscentre.co.uk/decision-on-publicans-bid-to-sell-booze-from-tiny-tavern/))
 - University seeks views on future of Francis Close Hall Campus ([4 days ago](https://gloucesternewscentre.co.uk/university-seeks-views-on-future-of-francis-close-hall-campus/))

@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Broken slab causing trip and slip hazard, collecting water, 2nd November :- [8365248](https://www.fixmystreet.com/report/8365248)
 - People parking and we can't get out, 2nd November :- [8365058](https://www.fixmystreet.com/report/8365058)
 - Volunteer litter pick bags ready for collection, 1st November :- [8364715](https://www.fixmystreet.com/report/8364715)
 - Street lights out at junction, 1st November :- [8364591](https://www.fixmystreet.com/report/8364591)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Dumped dining chair & sofa cushions, 1st November :- [8363023](https://www.fixmystreet.com/report/8363023)
 - Abandoned or perhaps stolen gym machine., 31st October :- [8362413](https://www.fixmystreet.com/report/8362413)
 - Blocked drain, 31st October :- [8362365](https://www.fixmystreet.com/report/8362365)
-- The whole road is a disgrace and needs resurfacing asap, 31st October :- [8362300](https://www.fixmystreet.com/report/8362300)
 
 <!-- fix_marker ends -->
