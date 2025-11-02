@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The drain is blocked on road near to 15 St Georges Road, Cheltenham, 2nd November :- [8366391](https://www.fixmystreet.com/report/8366391)
+- Bus shelter glass unable to see through for bus arriving, 2nd November :- [8366306](https://www.fixmystreet.com/report/8366306)
+- Root of trees going towards pavement, 2nd November :- [8366281](https://www.fixmystreet.com/report/8366281)
 - Public footpath blocked off by fences, 2nd November :- [8366219](https://www.fixmystreet.com/report/8366219)
 - Tripped on a raised paving stone causing injuries to head, elbow and knee, 2nd November :- [8365969](https://www.fixmystreet.com/report/8365969)
 - Broken slab causing trip and slip hazard, collecting water, 2nd November :- [8365248](https://www.fixmystreet.com/report/8365248)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Flytipped items, 1st November :- [8363855](https://www.fixmystreet.com/report/8363855)
 - Fence collapsed blocking access., 1st November :- [8363848](https://www.fixmystreet.com/report/8363848)
 - Multiple potholes in road and verge, 1st November :- [8363674](https://www.fixmystreet.com/report/8363674)
-- Abandoned sofa in New Street, 1st November :- [8363520](https://www.fixmystreet.com/report/8363520)
-- Pot holes ridges in road, 1st November :- [8363516](https://www.fixmystreet.com/report/8363516)
-- Dumped dining chair & sofa cushions, 1st November :- [8363023](https://www.fixmystreet.com/report/8363023)
 
 <!-- fix_marker ends -->
