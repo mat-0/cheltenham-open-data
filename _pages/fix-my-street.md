@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dangerous parking, 2nd November :- [8367078](https://www.fixmystreet.com/report/8367078)
+- Failed repair once again due to inadequate excavation of poor substructure. Any repair will continue to fail until the substructure is properly addressed. Please don't waste yet more taxpayers money on an inadequate repair., 2nd November :- [8366966](https://www.fixmystreet.com/report/8366966)
 - Loose drain cover, 2nd November :- [8366544](https://www.fixmystreet.com/report/8366544)
 - The drain is blocked on road near to 15 St Georges Road, Cheltenham, 2nd November :- [8366391](https://www.fixmystreet.com/report/8366391)
 - Bus shelter glass unable to see through for bus arriving, 2nd November :- [8366306](https://www.fixmystreet.com/report/8366306)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Sinking road, 1st November :- [8364377](https://www.fixmystreet.com/report/8364377)
 - Flytipped Sofa, 1st November :- [8363878](https://www.fixmystreet.com/report/8363878)
 - Give way sign hit by reversing lorry, 1st November :- [8363867](https://www.fixmystreet.com/report/8363867)
-- Flytipped items, 1st November :- [8363855](https://www.fixmystreet.com/report/8363855)
-- Fence collapsed blocking access., 1st November :- [8363848](https://www.fixmystreet.com/report/8363848)
 
 <!-- fix_marker ends -->
