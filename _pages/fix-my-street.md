@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Loose drain cover, 2nd November :- [8366544](https://www.fixmystreet.com/report/8366544)
 - The drain is blocked on road near to 15 St Georges Road, Cheltenham, 2nd November :- [8366391](https://www.fixmystreet.com/report/8366391)
 - Bus shelter glass unable to see through for bus arriving, 2nd November :- [8366306](https://www.fixmystreet.com/report/8366306)
 - Root of trees going towards pavement, 2nd November :- [8366281](https://www.fixmystreet.com/report/8366281)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Give way sign hit by reversing lorry, 1st November :- [8363867](https://www.fixmystreet.com/report/8363867)
 - Flytipped items, 1st November :- [8363855](https://www.fixmystreet.com/report/8363855)
 - Fence collapsed blocking access., 1st November :- [8363848](https://www.fixmystreet.com/report/8363848)
-- Multiple potholes in road and verge, 1st November :- [8363674](https://www.fixmystreet.com/report/8363674)
 
 <!-- fix_marker ends -->
