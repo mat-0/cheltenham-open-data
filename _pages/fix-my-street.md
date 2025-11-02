@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flooding, 2nd November :- [8367258](https://www.fixmystreet.com/report/8367258)
+- Slippery tops of cubes, 2nd November :- [8367134](https://www.fixmystreet.com/report/8367134)
+- Pothole in front of houses, 2nd November :- [8367126](https://www.fixmystreet.com/report/8367126)
 - Dangerous parking, 2nd November :- [8367078](https://www.fixmystreet.com/report/8367078)
 - Failed repair once again due to inadequate excavation of poor substructure. Any repair will continue to fail until the substructure is properly addressed. Please don't waste yet more taxpayers money on an inadequate repair., 2nd November :- [8366966](https://www.fixmystreet.com/report/8366966)
 - Loose drain cover, 2nd November :- [8366544](https://www.fixmystreet.com/report/8366544)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Pothole reappeared on Blacksmiths Lane, The Leigh, 1st November :- [8364421](https://www.fixmystreet.com/report/8364421)
 - Public footpath completely blocked by fallen tree, 1st November :- [8364417](https://www.fixmystreet.com/report/8364417)
 - Vehicle has knocked over the no entry sign, 1st November :- [8364401](https://www.fixmystreet.com/report/8364401)
-- Sinking road, 1st November :- [8364377](https://www.fixmystreet.com/report/8364377)
-- Flytipped Sofa, 1st November :- [8363878](https://www.fixmystreet.com/report/8363878)
-- Give way sign hit by reversing lorry, 1st November :- [8363867](https://www.fixmystreet.com/report/8363867)
 
 <!-- fix_marker ends -->
