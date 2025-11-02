@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- People parking and we can't get out, 2nd November :- [8365058](https://www.fixmystreet.com/report/8365058)
 - Volunteer litter pick bags ready for collection, 1st November :- [8364715](https://www.fixmystreet.com/report/8364715)
 - Street lights out at junction, 1st November :- [8364591](https://www.fixmystreet.com/report/8364591)
 - Bend and Reduce Speed sign is on it's side on the verge and no longer visible., 1st November :- [8364532](https://www.fixmystreet.com/report/8364532)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Abandoned or perhaps stolen gym machine., 31st October :- [8362413](https://www.fixmystreet.com/report/8362413)
 - Blocked drain, 31st October :- [8362365](https://www.fixmystreet.com/report/8362365)
 - The whole road is a disgrace and needs resurfacing asap, 31st October :- [8362300](https://www.fixmystreet.com/report/8362300)
-- A yellow box is needed to stop the carriageway being blocked at peak times on the day, 31st October :- [8362294](https://www.fixmystreet.com/report/8362294)
 
 <!-- fix_marker ends -->
