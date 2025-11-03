@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Rail work to get under way and drainage fears on bike path ([19 minutes ago](https://www.bbc.com/news/articles/c740xwe4pw7o?at_medium=RSS&at_campaign=rss))
-- Firms ordered to reduce forever chemicals in drinking water sources for 6 million people ([1 hours ago](https://www.bbc.com/news/articles/c9q1nzyzyjeo?at_medium=RSS&at_campaign=rss))
-- Electric buses to be given £1.25m investment ([3 hours ago](https://www.bbc.com/news/articles/c78zmyl2xz1o?at_medium=RSS&at_campaign=rss))
-- NHS expands use of AI to spot liver disease early ([3 hours ago](https://www.bbc.com/news/articles/crex599pz4po?at_medium=RSS&at_campaign=rss))
-- Drainage concern on part of £40m cycle route ([18 hours ago](https://www.bbc.com/news/articles/cwy5vp3epewo?at_medium=RSS&at_campaign=rss))
-- Gloucestershire in pictures: Comets and misty mornings ([21 hours ago](https://www.bbc.com/news/articles/cx2y41736plo?at_medium=RSS&at_campaign=rss))
+- 'Work starts along railway' and 'drainage fears' on bike path ([1 hours ago](https://www.bbc.com/news/articles/c740xwe4pw7o?at_medium=RSS&at_campaign=rss))
+- Firms ordered to reduce forever chemicals in drinking water sources for 6 million people ([2 hours ago](https://www.bbc.com/news/articles/c9q1nzyzyjeo?at_medium=RSS&at_campaign=rss))
+- Electric buses to be given £1.25m investment ([4 hours ago](https://www.bbc.com/news/articles/c78zmyl2xz1o?at_medium=RSS&at_campaign=rss))
+- NHS expands use of AI to spot liver disease early ([4 hours ago](https://www.bbc.com/news/articles/crex599pz4po?at_medium=RSS&at_campaign=rss))
+- Drainage concern on part of £40m cycle route ([19 hours ago](https://www.bbc.com/news/articles/cwy5vp3epewo?at_medium=RSS&at_campaign=rss))
+- Gloucestershire in pictures: Comets and misty mornings ([22 hours ago](https://www.bbc.com/news/articles/cx2y41736plo?at_medium=RSS&at_campaign=rss))
 - 'Put horseracing tax money in addiction recovery' ([1 days ago](https://www.bbc.com/news/articles/cj3zl66my47o?at_medium=RSS&at_campaign=rss))
 - Siblings take on deer park after six-year closure ([2 days ago](https://www.bbc.com/news/articles/cdegr0wl8d5o?at_medium=RSS&at_campaign=rss))
 - Free fireworks and bonfire events near you ([2 days ago](https://www.bbc.com/news/articles/cx2pjk27ryvo?at_medium=RSS&at_campaign=rss))
@@ -45,7 +45,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Three local authorities to create a design code for new development ([6 days ago](https://www.cheltenham.gov.uk/news/article/3062/three_local_authorities_to_create_a_design_code_for_new_development))
 - The Big Cases ([9 days ago](https://www.bbc.co.uk/iplayer/episode/m002lsdp?at_medium=RSS&at_campaign=rss))
 - Talks to improve Cheltenham town centre ([9 days ago](https://gloucesternewscentre.co.uk/talks-to-improve-cheltenham-town-centre/))
-- Local places may be prioritised by grammar school ([9 days ago](https://www.bbc.co.uk/sounds/play/p0mblh4x?at_medium=RSS&at_campaign=rss))
+- Local places may be prioritised by grammar school ([10 days ago](https://www.bbc.co.uk/sounds/play/p0mblh4x?at_medium=RSS&at_campaign=rss))
 - Leckhampton Rovers FC get rent boost for Burrows Field as their work is praised ([10 days ago](https://gloucesternewscentre.co.uk/leckhampton-rovers-fc-get-rent-boost-for-burrows-field-as-their-work-is-praised/))
 - Gloucestershire councils to consider proposals for Local Government Reorganisation ([10 days ago](https://gloucesternewscentre.co.uk/gloucestershire-councils-to-consider-proposals-for-local-government-reorganisation/))
 - A celebration of Inter Faith Week in Cheltenham ([11 days ago](https://www.cheltenham.gov.uk/news/article/3061/a_celebration_of_inter_faith_week_in_cheltenham))
@@ -62,6 +62,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Police appeal for information after spate of burglaries in Cheltenham ([17 days ago](https://gloucesternewscentre.co.uk/police-appeal-for-information-after-spate-of-burglaries-in-cheltenham-2/))
 - Concerns over rough sleeping in Cheltenham ([17 days ago](https://gloucesternewscentre.co.uk/concerns-over-rough-sleeping-in-cheltenham/))
 - New engagement for the Strategic and Local Plan goes live ([17 days ago](https://www.cheltenham.gov.uk/news/article/3059/new_engagement_for_the_strategic_and_local_plan_goes_live))
-- Nominations now open for the No Child Left Behind Awards 2025 ([26 days ago](https://www.cheltenham.gov.uk/news/article/3057/nominations_now_open_for_the_no_child_left_behind_awards_2025))
+- Nominations now open for the No Child Left Behind Awards 2025 ([27 days ago](https://www.cheltenham.gov.uk/news/article/3057/nominations_now_open_for_the_no_child_left_behind_awards_2025))
 
 <!-- news_marker ends -->

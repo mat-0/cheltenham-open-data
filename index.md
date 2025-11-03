@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Monday, 03 November 2025
 
-- The average temperature today is 14.31˚C,
-- With highs of 14.99˚C and lows of 12.94˚C,
-- It may feel like 13.94˚C with overcast clouds
-- The wind speed is 4.92m/s and visibility is 10000m
-- The pressure is 1010hPa and humidity is 82%
+- The average temperature today is 15.07˚C,
+- With highs of 16.1˚C and lows of 14.27˚C,
+- It may feel like 14.7˚C with overcast clouds
+- The wind speed is 4.47m/s and visibility is 10000m
+- The pressure is 1010hPa and humidity is 79%
 - The sun will rise at 07:06 and set at 16:37
 
 <!-- weather_marker ends -->
