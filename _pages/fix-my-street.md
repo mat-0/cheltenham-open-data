@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Lights are off, 3rd November :- [8368223](https://www.fixmystreet.com/report/8368223)
+- Balcarras road leaves and drains, 3rd November :- [8368219](https://www.fixmystreet.com/report/8368219)
 - Not taken a photo or stopped to measure these, the bag the other night as I drive along here tells me they are dangerous. People move to the centre of the road, it I can see was report d in February and nothing has been done. If these are not up to intervention level I would be very surprised., 2nd November :- [8367671](https://www.fixmystreet.com/report/8367671)
 - The west light of the Fordon Lamp is out, 2nd November :- [8367663](https://www.fixmystreet.com/report/8367663)
 - Cone left from W&W, 2nd November :- [8367531](https://www.fixmystreet.com/report/8367531)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Broken slab causing trip and slip hazard, collecting water, 2nd November :- [8365248](https://www.fixmystreet.com/report/8365248)
 - People parking and we can't get out, 2nd November :- [8365058](https://www.fixmystreet.com/report/8365058)
 - Volunteer litter pick bags ready for collection, 1st November :- [8364715](https://www.fixmystreet.com/report/8364715)
-- Street lights out at junction, 1st November :- [8364591](https://www.fixmystreet.com/report/8364591)
-- Bend and Reduce Speed sign is on it's side on the verge and no longer visible., 1st November :- [8364532](https://www.fixmystreet.com/report/8364532)
 
 <!-- fix_marker ends -->
