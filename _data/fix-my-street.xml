@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
  xmlns:atom="http://www.w3.org/2005/Atom"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -70,21 +70,21 @@
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 3rd November</title>
-<link>https://www.fixmystreet.com/report/8371095</link>
-<description>15DB&amp;#10;Pothole CW&amp;#10;300x300x50mm&amp;#10;Road closure (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8371095&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8371095</guid>
-<pubDate>Mon, 03 Nov 2025 14:27:22 +0000</pubDate>
-<georss:point>51.8620523 -2.18894979999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 3rd November</title>
 <link>https://www.fixmystreet.com/report/8371096</link>
 <description>15DB&amp;#10;Pothole CW&amp;#10;300x300x50mm&amp;#10;Road closure&amp;#10;X 3 NSD (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8371096&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
 <guid isPermaLink="false">https://www.fixmystreet.com/report/8371096</guid>
 <pubDate>Mon, 03 Nov 2025 14:27:22 +0000</pubDate>
 <georss:point>51.8620588 -2.1889802</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 3rd November</title>
+<link>https://www.fixmystreet.com/report/8371095</link>
+<description>15DB&amp;#10;Pothole CW&amp;#10;300x300x50mm&amp;#10;Road closure (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8371095&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8371095</guid>
+<pubDate>Mon, 03 Nov 2025 14:27:22 +0000</pubDate>
+<georss:point>51.8620523 -2.18894979999999</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Signs &amp; Street Furniture problem, 3rd November</title>
@@ -106,24 +106,6 @@
 </item>
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 3rd November</title>
-<link>https://www.fixmystreet.com/report/8370894</link>
-<description>Give and take plus temporary footway closure  28 day footway abrupt level different over tree roots 1300x200x33mm tarmac patch (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8370894&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8370894</guid>
-<pubDate>Mon, 03 Nov 2025 14:01:03 +0000</pubDate>
-<georss:point>51.9065914 -2.11457399999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 3rd November</title>
-<link>https://www.fixmystreet.com/report/8370896</link>
-<description>Give and take plus temporary footway closure  28 day footway abrupt level different 1100x900x28mm mm tarmac patch (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8370896&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8370896</guid>
-<pubDate>Mon, 03 Nov 2025 14:01:03 +0000</pubDate>
-<georss:point>51.9064109198218 -2.11417306885044</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 3rd November</title>
 <link>https://www.fixmystreet.com/report/8370893</link>
 <description>Give and take plus temporary footway closure  28 day footway abrupt level different over tree roots 400x280x22mm tarmac patch (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8370893&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Other FW6  Surface</category>
@@ -133,12 +115,30 @@
 </item>
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 3rd November</title>
+<link>https://www.fixmystreet.com/report/8370894</link>
+<description>Give and take plus temporary footway closure  28 day footway abrupt level different over tree roots 1300x200x33mm tarmac patch (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8370894&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8370894</guid>
+<pubDate>Mon, 03 Nov 2025 14:01:03 +0000</pubDate>
+<georss:point>51.9065914 -2.11457399999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 3rd November</title>
 <link>https://www.fixmystreet.com/report/8370895</link>
 <description>Give and take plus temporary footway closure  28 day footway abrupt level  old disused sv cover please temporary fill with tarmac 250x250x100mm tarmac patch (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8370895&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Other FW6  Surface</category>
 <guid isPermaLink="false">https://www.fixmystreet.com/report/8370895</guid>
 <pubDate>Mon, 03 Nov 2025 14:01:03 +0000</pubDate>
 <georss:point>51.9064377 -2.114155</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 3rd November</title>
+<link>https://www.fixmystreet.com/report/8370896</link>
+<description>Give and take plus temporary footway closure  28 day footway abrupt level different 1100x900x28mm mm tarmac patch (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8370896&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8370896</guid>
+<pubDate>Mon, 03 Nov 2025 14:01:03 +0000</pubDate>
+<georss:point>51.9064109198218 -2.11417306885044</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW10 Potholes problem, 3rd November</title>
