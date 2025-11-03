@@ -9,6 +9,14 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- A pothole in road problem, 3rd November :- [8369612](https://www.fixmystreet.com/report/8369612)
+- Street lights out at the junction of Stoke Road and Stoke Orchard Road, not on the Spitfire new estate, 3rd November :- [8369438](https://www.fixmystreet.com/report/8369438)
+- TMC - Defects - Other FW6  Surface problem, 3rd November :- [8369388](https://www.fixmystreet.com/report/8369388)
+- TMC - Defects - Other FW6  Surface problem, 3rd November :- [8369387](https://www.fixmystreet.com/report/8369387)
+- TMC - Defects - Kerbs and Channels problem, 3rd November :- [8369383](https://www.fixmystreet.com/report/8369383)
+- TMC - Defects - Other FW6  Surface problem, 3rd November :- [8369386](https://www.fixmystreet.com/report/8369386)
+- TMC - Defects - Footways Slabs problem, 3rd November :- [8369384](https://www.fixmystreet.com/report/8369384)
+- TMC - Defects - Footways Slabs problem, 3rd November :- [8369385](https://www.fixmystreet.com/report/8369385)
 - Post or sign leaning slightly (less than 20 degrees) problem, 3rd November :- [8369143](https://www.fixmystreet.com/report/8369143)
 - Urgent property flood risk: Drain has been tarmaced over and needs urgent reinstatement, 3rd November :- [8368994](https://www.fixmystreet.com/report/8368994)
 - School keep clear cross hatchings totally worn away, 3rd November :- [8368847](https://www.fixmystreet.com/report/8368847)
@@ -21,13 +29,5 @@ permalink: /fix-my-street
 - Light sensor is not detecting vehicles problem, 3rd November :- [8368418](https://www.fixmystreet.com/report/8368418)
 - Lights are off, 3rd November :- [8368223](https://www.fixmystreet.com/report/8368223)
 - Balcarras road leaves and drains, 3rd November :- [8368219](https://www.fixmystreet.com/report/8368219)
-- Not taken a photo or stopped to measure these, the bag the other night as I drive along here tells me they are dangerous. People move to the centre of the road, it I can see was report d in February and nothing has been done. If these are not up to intervention level I would be very surprised., 2nd November :- [8367671](https://www.fixmystreet.com/report/8367671)
-- The west light of the Fordon Lamp is out, 2nd November :- [8367663](https://www.fixmystreet.com/report/8367663)
-- Cone left from W&W, 2nd November :- [8367531](https://www.fixmystreet.com/report/8367531)
-- Need a new bollard, 2nd November :- [8367477](https://www.fixmystreet.com/report/8367477)
-- Flooding, 2nd November :- [8367258](https://www.fixmystreet.com/report/8367258)
-- Slippery tops of cubes, 2nd November :- [8367134](https://www.fixmystreet.com/report/8367134)
-- Pothole in front of houses, 2nd November :- [8367126](https://www.fixmystreet.com/report/8367126)
-- Dangerous parking, 2nd November :- [8367078](https://www.fixmystreet.com/report/8367078)
 
 <!-- fix_marker ends -->
