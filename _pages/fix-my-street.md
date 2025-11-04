@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Other FW6  Surface problem, 4th November :- [8373354](https://www.fixmystreet.com/report/8373354)
+- TMC - Defects - Other FW6  Surface problem, 4th November :- [8373358](https://www.fixmystreet.com/report/8373358)
+- TMC - Defects - Other FW6  Surface problem, 4th November :- [8373357](https://www.fixmystreet.com/report/8373357)
+- TMC - Defects - Other FW6  Surface problem, 4th November :- [8373359](https://www.fixmystreet.com/report/8373359)
+- TMC - Defects - Other FW6  Surface problem, 4th November :- [8373355](https://www.fixmystreet.com/report/8373355)
 - Street light out, 3rd November :- [8372484](https://www.fixmystreet.com/report/8372484)
 - Street lamp out, 3rd November :- [8372469](https://www.fixmystreet.com/report/8372469)
 - Road gulley is blocked (full of silt) and rainwater runners down the road just floods over it. It is causing the existing road damage to get worse. I suspect the drain is blocked which is why the gulley fills., 3rd November :- [8372134](https://www.fixmystreet.com/report/8372134)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 3rd November :- [8371096](https://www.fixmystreet.com/report/8371096)
 - TMC - Defects - Signs & Street Furniture problem, 3rd November :- [8371094](https://www.fixmystreet.com/report/8371094)
 - TMC - Defects -CW6 Potholes  problem, 3rd November :- [8370897](https://www.fixmystreet.com/report/8370897)
-- TMC - Defects - Other FW6  Surface problem, 3rd November :- [8370895](https://www.fixmystreet.com/report/8370895)
-- TMC - Defects - Other FW6  Surface problem, 3rd November :- [8370896](https://www.fixmystreet.com/report/8370896)
-- TMC - Defects - Other FW6  Surface problem, 3rd November :- [8370893](https://www.fixmystreet.com/report/8370893)
-- TMC - Defects - Other FW6  Surface problem, 3rd November :- [8370894](https://www.fixmystreet.com/report/8370894)
-- TMC - Defects -CW10 Potholes problem, 3rd November :- [8370685](https://www.fixmystreet.com/report/8370685)
 
 <!-- fix_marker ends -->
