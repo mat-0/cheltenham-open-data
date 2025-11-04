@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- There are 3 large foam filled sofa covers dumped in Prestbury Road, 4th November :- [8377362](https://www.fixmystreet.com/report/8377362)
 - Pavement in pitch darkness just past Oark Housr 39 Park Place, hazardous to pedestrians, almost collided with man sat on bench earlier as I did not see him., 4th November :- [8377309](https://www.fixmystreet.com/report/8377309)
 - Most LEDs in street light have failed, 4th November :- [8377262](https://www.fixmystreet.com/report/8377262)
 - Barbed wire next to PROW, 4th November :- [8377166](https://www.fixmystreet.com/report/8377166)
@@ -19,15 +20,14 @@ permalink: /fix-my-street
 - Dog mess on pavement at bottom of brick wall, 4th November :- [8375775](https://www.fixmystreet.com/report/8375775)
 - Path ends on a busy road, 4th November :- [8375743](https://www.fixmystreet.com/report/8375743)
 - Fix my street ref 8113611 not addressed, 4th November :- [8375578](https://www.fixmystreet.com/report/8375578)
+- TMC - Defects - Kerbs and Channels problem, 4th November :- [8375644](https://www.fixmystreet.com/report/8375644)
 - TMC - Defects - Other FW6  Surface problem, 4th November :- [8375643](https://www.fixmystreet.com/report/8375643)
 - TMC - Defects - Other FW6  Surface problem, 4th November :- [8375642](https://www.fixmystreet.com/report/8375642)
-- TMC - Defects - Kerbs and Channels problem, 4th November :- [8375644](https://www.fixmystreet.com/report/8375644)
 - TMC - Defects -CW6 Potholes  problem, 4th November :- [8375641](https://www.fixmystreet.com/report/8375641)
 - TMC - Defects - Other FW6  Surface problem, 4th November :- [8375475](https://www.fixmystreet.com/report/8375475)
-- TMC - Defects - Other FW6  Surface problem, 4th November :- [8375471](https://www.fixmystreet.com/report/8375471)
-- TMC - Defects - Other FW6  Surface problem, 4th November :- [8375473](https://www.fixmystreet.com/report/8375473)
 - TMC - Defects - Other FW6  Surface problem, 4th November :- [8375470](https://www.fixmystreet.com/report/8375470)
+- TMC - Defects - Other FW6  Surface problem, 4th November :- [8375471](https://www.fixmystreet.com/report/8375471)
 - TMC - Defects - Other FW6  Surface problem, 4th November :- [8375474](https://www.fixmystreet.com/report/8375474)
-- TMC - Defects - Other FW6  Surface problem, 4th November :- [8375472](https://www.fixmystreet.com/report/8375472)
+- TMC - Defects - Other FW6  Surface problem, 4th November :- [8375473](https://www.fixmystreet.com/report/8375473)
 
 <!-- fix_marker ends -->
