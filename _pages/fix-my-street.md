@@ -9,13 +9,14 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- More fly tipping, 4th November :- [8376800](https://www.fixmystreet.com/report/8376800)
 - Obscured bend sign and illuminating SLOW sign, 4th November :- [8376652](https://www.fixmystreet.com/report/8376652)
 - Dog mess on pavement at bottom of brick wall, 4th November :- [8375775](https://www.fixmystreet.com/report/8375775)
 - Path ends on a busy road, 4th November :- [8375743](https://www.fixmystreet.com/report/8375743)
 - Fix my street ref 8113611 not addressed, 4th November :- [8375578](https://www.fixmystreet.com/report/8375578)
 - TMC - Defects - Kerbs and Channels problem, 4th November :- [8375644](https://www.fixmystreet.com/report/8375644)
-- TMC - Defects - Other FW6  Surface problem, 4th November :- [8375643](https://www.fixmystreet.com/report/8375643)
 - TMC - Defects - Other FW6  Surface problem, 4th November :- [8375642](https://www.fixmystreet.com/report/8375642)
+- TMC - Defects - Other FW6  Surface problem, 4th November :- [8375643](https://www.fixmystreet.com/report/8375643)
 - TMC - Defects -CW6 Potholes  problem, 4th November :- [8375641](https://www.fixmystreet.com/report/8375641)
 - TMC - Defects - Other FW6  Surface problem, 4th November :- [8375475](https://www.fixmystreet.com/report/8375475)
 - TMC - Defects - Other FW6  Surface problem, 4th November :- [8375471](https://www.fixmystreet.com/report/8375471)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 4th November :- [8375466](https://www.fixmystreet.com/report/8375466)
 - Redundant traffic cones, 4th November :- [8375235](https://www.fixmystreet.com/report/8375235)
 - TMC - Defects -CW6 Potholes  problem, 4th November :- [8375459](https://www.fixmystreet.com/report/8375459)
-- 2x trollies, 4th November :- [8375058](https://www.fixmystreet.com/report/8375058)
 
 <!-- fix_marker ends -->
