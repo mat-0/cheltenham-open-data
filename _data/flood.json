@@ -1,17 +1,921 @@
 {
-    "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
-    "meta": {
-        "publisher": "Environment Agency",
-        "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
-        "version": "0.9",
-        "comment": "Status: Beta service",
-        "hasFormat": [
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.csv?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.html?county=Gloucestershire"
-        ]
+  "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
+  "meta": {
+    "publisher": "Environment Agency",
+    "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
+    "version": "0.9",
+    "comment": "Status: Beta service",
+    "hasFormat": [
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.csv",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
+    ]
+  },
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT1",
+      "description": "The tidal Rivers Bure, Ant and Thurne",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1",
+        "county": "Norfolk",
+        "notation": "054WATBT1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1/polygon",
+        "riverOrSea": "Bure, Ant, Thurne"
+      },
+      "floodAreaID": "054WATBT1",
+      "isTidal": true,
+      "message": "High tides tomorrow morning may lead to flooding. Flooding is possible overnight Tuesday 4th November, into Wednesday 5th November.\n\nWe expect to see high water levels around Potter Heigham, Wroxham boat yards and Ferry Road in Horning. River levels may remain high over the next couple of days.\n\nWe are closely monitoring the situation. Avoid low lying roads near rivers, which may be flooded.\n\nThis message will be updated by 10:00am tomorrow, Wednesday 5th November 2025, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-11-04T10:31:00",
+      "timeRaised": "2025-11-04T10:31:09",
+      "timeSeverityChanged": "2025-10-22T14:17:00"
     },
-    "items": []
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAF924",
+      "description": "Upper River Tees",
+      "eaAreaName": "North East",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAF924",
+        "county": "County Durham, Darlington, North Yorkshire, Westmorland and Furness",
+        "notation": "121WAF924",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAF924/polygon",
+        "riverOrSea": "River Tees"
+      },
+      "floodAreaID": "121WAF924",
+      "isTidal": false,
+      "message": "Forecast high river levels today may lead to flooding. \nFlooding is possible on 04 November 2025 . \nFurther rainfall is forecast this morning, river levels will remain elevated through this afternoon. Locations most affected will be low lying land and roads near rivers. \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water . \nThis message will be updated by 7:00PM on 04 November 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-11-04T09:16:00",
+      "timeRaised": "2025-11-04T09:16:52",
+      "timeSeverityChanged": "2025-11-03T18:00:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WACT1T1DA00",
+      "description": "Plymouth Sound, Wembury Bay and tidal estuaries",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T1DA00",
+        "county": "Cornwall, Devon, Plymouth",
+        "notation": "114WACT1T1DA00",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T1DA00/polygon",
+        "riverOrSea": "South Cornwall Coast"
+      },
+      "floodAreaID": "114WACT1T1DA00",
+      "isTidal": true,
+      "message": "High tides and forecast weather conditions over the next three days may lead to flooding. \nFlooding is possible over the high tides from Tuesday 4th to Friday 7th November \nLow lying coastal roads, promenades, car parks, and harbours may be flooded. Areas particularly at risk include exposed coastal areas of Plymouth Sound, Cawsand, Kingsand, The Hoe, Millbrook & low lying areas on estuaries.  \n\nHigh tide at Plymouth on Tuesday is at 4:35pm and Wednesday at 5:01am. Forecast total high tide level is 2.81mAOD and 2.83mAOD respectively. Expect tide levels to be 0.3-0.4m above tide table level. Force 6 southerly winds and offshore wave heights of around 3m are forecast. Tides of most concern are Tuesday and Wednesday afternoon. \nWe are closely monitoring the situation . \nAvoid coastal roads, footpaths and carparks, which may be flooded . \nThis message will be updated by 11:00AM on 05 November 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-11-04T10:41:00",
+      "timeRaised": "2025-11-04T10:41:05",
+      "timeSeverityChanged": "2025-11-04T10:41:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WACT1T1CA00",
+      "description": "South Cornwall coast from Gribbin Head to Rame Head",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T1CA00",
+        "county": "Cornwall",
+        "notation": "114WACT1T1CA00",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T1CA00/polygon",
+        "riverOrSea": "South Cornwall Coast"
+      },
+      "floodAreaID": "114WACT1T1CA00",
+      "isTidal": true,
+      "message": "High tides and forecast weather conditions over the next three days may lead to flooding. \nFlooding is possible over the high tides from Tuesday the 4th to Friday the 7th of November \nLow lying coastal roads, promenades, car parks and harbours may be flooded. Areas at risk include low lying areas including Fowey, Lostwithiel, Polperro Harbour, Looe and the B3247 at Seaton.  \n\nHigh tide at Plymouth on Tuesday is at 4.35pm and Wednesday at 5:01am. Forecast total high tide levels are 2.81mAOD and 2.83mAOD respectively. Expect tide levels to be 0.3-0.4m above tide table level.  Force 6 southerly winds and offshore wave heights of around 3m are forecast.  High tides of most concern are Tuesday and Wednesday afternoon. \nWe are closely monitoring the situation . \nAvoid coastal roads, footpaths and carparks, which may be flooded . \nThis message will be updated by 11:00AM on 05 November 2025 or as the situation changes.\n\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-11-04T10:40:00",
+      "timeRaised": "2025-11-04T10:40:53",
+      "timeSeverityChanged": "2025-11-04T10:40:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WACT1T1BA00",
+      "description": "South Cornwall coast from Lizard Point to Gribbin Head excluding the Tidal Fal Estuary",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T1BA00",
+        "county": "Cornwall",
+        "notation": "114WACT1T1BA00",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T1BA00/polygon",
+        "riverOrSea": "South Cornwall Coast"
+      },
+      "floodAreaID": "114WACT1T1BA00",
+      "isTidal": true,
+      "message": "High tides and forecast weather conditions over the next three days may lead to flooding. \nFlooding is possible over the high tides from Tuesday 4th to Friday  7th November. \nLow lying coastal roads, promenades, car parks, and harbours may be flooded. Areas particularly at risk include Swanpool, St Mawes, East Portholland, Mevagissey, and Par.\n\nHigh tide at Falmouth on Tuesday is 4:00pm and on Wednesday is 4:22am. Forecast total high tide level is 2.65mAOD and 2.67mAOD respectively. Expect tide levels to be between 0.3-0.4m above tide table level. Force 6 southerly winds and offshore wave heights of around 3m are forecast. High tides of most concern are Tuesday afternoon and Wednesday afternoon. \nWe are closely monitoring the situation . \nAvoid coastal roads, footpaths and carparks, which may be flooded . \nThis message will be updated by 11:00AM on 05 November 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-11-04T10:40:00",
+      "timeRaised": "2025-11-04T10:40:57",
+      "timeSeverityChanged": "2025-11-04T10:40:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WATFALEST1",
+      "description": "Tidal Fal Estuary",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WATFALEST1",
+        "county": "Cornwall",
+        "notation": "114WATFALEST1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WATFALEST1/polygon",
+        "riverOrSea": "South Cornwall Coast, Tidal Fal Estuary"
+      },
+      "floodAreaID": "114WATFALEST1",
+      "isTidal": true,
+      "message": "High tides and forecast weather conditions over the next three days may lead to flooding. \nFlooding is possible over the high tides from Tuesday 4th to Friday 7th November. \nLow lying coastal roads, promenades, car parks and harbours may be flooded. Areas particularly at risk include low lying areas in Falmouth, Penryn, Flushing, Mylor Bridge, the A39 at Perranarworthal, Devoran, Calenick, Truro and A390 at Tresillian.  \n\nHigh tide at Falmouth on Tuesday is 4:00pm and Wednesday 4:22am. Forecast total high tide level is 2.65mAOD and 2.67mAOD respectively. Expect tide levels to be between 0.3-0.4m above tide table level. Strong force 6 southerly winds and offshore wave heights of around 3m are forecast. High tides of most concern are Tuesday and Wednesday afternoon. \nWe are closely monitoring the situation . \nAvoid coastal roads, footpaths and carparks, which may be flooded . \nThis message will be updated by 11:00AM on 05 November 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-11-04T10:40:00",
+      "timeRaised": "2025-11-04T10:40:48",
+      "timeSeverityChanged": "2025-11-04T10:40:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDU",
+      "description": "Rivers Duddon, Crake and Mill Beck",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFDU",
+        "county": "Cumberland, Westmorland and Furness",
+        "notation": "011WAFDU",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFDU/polygon",
+        "riverOrSea": "River Duddon, River Crake, Mill Beck"
+      },
+      "floodAreaID": "011WAFDU",
+      "isTidal": false,
+      "message": "River levels remain high and may lead to flooding this morning. Locations most affected will be low lying land and roads near the rivers Duddon, Crake, Mill Beck and other watercourses from Coniston to Barrow-in-Furness including low lying areas around Ulpha, Duddon Bridge, Broughton in Furness, Kirkby-in-Furness, Dalton in Furness and Ulverston. Further rainfall is expected this morning, Tuesday 4 November. This may cause river levels to rise further. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 05:00PM on 04 November 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-11-04T07:23:00",
+      "timeRaised": "2025-11-04T07:23:12",
+      "timeSeverityChanged": "2025-11-02T16:46:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF114",
+      "description": "Severn Vyrnwy confluence",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF114",
+        "county": "Shropshire",
+        "notation": "031WAF114",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF114/polygon",
+        "riverOrSea": "River Severn, River Vyrnwy"
+      },
+      "floodAreaID": "031WAF114",
+      "isTidal": false,
+      "message": "River levels have risen and are forecast to rise again today and overnight.  Flooding is possible on over the next two days. Flooding may affect low lying land and roads adjacent to the river from the Welsh border at Llawnt to Shrawardine near Shrewsbury. Other locations that may be affected include Llanymynech, Maesbrook and Melverley. Roads between Maesbrook, Melverley and Pentre start to flood. Predicted peaks:- Llanymynech 3.9m to 4.2m on 05/11 AM. We are closely monitoring the situation. Take care and avoid Avoid low lying roads near rivers, which may be flooded.  This message will be updated by 7:00 PM on 04 November 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-11-04T07:34:00",
+      "timeRaised": "2025-11-04T07:34:19",
+      "timeSeverityChanged": "2025-11-03T16:12:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WACT1D",
+      "description": "South Devon Estuaries",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WACT1D",
+        "county": "Devon",
+        "notation": "113WACT1D",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WACT1D/polygon",
+        "riverOrSea": "South Devon Coast"
+      },
+      "floodAreaID": "113WACT1D",
+      "isTidal": true,
+      "message": "High tides and forecast weather conditions this afternoon may lead to flooding. \nFlooding is possible 2 hours either side of high tide from Tuesday 4th November afternoon until Friday evening. \nAreas particularly at risk include communities within the Kingsbridge, Dart and Teign estuaries.\n  \nThe high tide at Plymouth on Tuesday 4th November is at 4.30PM, times of high water will vary along the coast.  Forecast total high tide level is 2.81mAOD, which is 0.36 metres above tide table level.  Strong force 6 southerly winds and offshore wave heights of over 3.3m are forecast over the high tide.\n\nCoastal conditions should ease for Friday evening's high tide. \nWe are closely monitoring the situation . \nAvoid beaches and coastal promenades, which may be flooded . \nThis message will be updated by 12:30PM on 05 November 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-11-04T10:27:00",
+      "timeRaised": "2025-11-04T10:27:05",
+      "timeSeverityChanged": "2025-11-04T10:27:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WAFLL",
+      "description": "Lower River Lune and Conder",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFLL",
+        "county": "Lancashire, North Yorkshire, Westmorland and Furness",
+        "notation": "012WAFLL",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFLL/polygon",
+        "riverOrSea": "River Lune"
+      },
+      "floodAreaID": "012WAFLL",
+      "isTidal": false,
+      "message": "River levels remain high after rainfall overnight, levels will gradually fall during the day today. Flood water is likely to remain in low lying areas. Locations most affected will be low lying land and roads near to the river Lune, Conder and Keer and other watercourses from Kirkby Lonsdale to Galgate including Gressingham, Carnforth, Hornby, Wray, Bentham and Lancaster. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water . This message will be updated by 10:00AM on 05 November 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-11-04T10:22:00",
+      "timeRaised": "2025-11-04T10:22:03",
+      "timeSeverityChanged": "2025-11-02T13:19:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF939",
+      "description": "Upper River Ure",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF939",
+        "county": "North Yorkshire",
+        "notation": "122WAF939",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF939/polygon",
+        "riverOrSea": "River Ure"
+      },
+      "floodAreaID": "122WAF939",
+      "isTidal": false,
+      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nWeather conditions are expected to improve and no further flooding is expected.   \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nStay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals. Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.   \n\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-11-04T11:15:00",
+      "timeRaised": "2025-11-04T11:15:50",
+      "timeSeverityChanged": "2025-11-04T11:15:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFKB",
+      "description": "Rivers Kent and Bela",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFKB",
+        "county": "Lancashire, Westmorland and Furness",
+        "notation": "011WAFKB",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFKB/polygon",
+        "riverOrSea": "River Kent, River Bela"
+      },
+      "floodAreaID": "011WAFKB",
+      "isTidal": false,
+      "message": "River levels remain high following rainfall overnight and may lead to flooding this morning around the rivers Kent, Bela and other watercourses, from Kentmere to Silverdale including low lying areas around Staveley, Burneside, Kendal, Milnthorpe and Beetham.. Locations most affected will be low lying land and roads near rivers. Further rainfall is expected this morning, Tuesday 4th November. This may cause river levels to rise further. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 05:00PM on 04 November 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-11-04T07:02:00",
+      "timeRaised": "2025-11-04T07:02:24",
+      "timeSeverityChanged": "2025-11-02T16:43:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WAFUW",
+      "description": "Upper River Wyre, Brock",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFUW",
+        "county": "Lancashire",
+        "notation": "012WAFUW",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFUW/polygon",
+        "riverOrSea": "River Wyre"
+      },
+      "floodAreaID": "012WAFUW",
+      "isTidal": false,
+      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nFurther rainfall is forecast but no further flooding is expected.   \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nStay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals. Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.   \n\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-11-04T10:10:00",
+      "timeRaised": "2025-11-04T10:10:00",
+      "timeSeverityChanged": "2025-11-04T10:10:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WAFLW",
+      "description": "Lower River Wyre",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFLW",
+        "county": "Blackpool, Lancashire",
+        "notation": "012WAFLW",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFLW/polygon",
+        "riverOrSea": "River Wyre, Main Dyke"
+      },
+      "floodAreaID": "012WAFLW",
+      "isTidal": false,
+      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nFurther rainfall is forecast but no further flooding is expected.   \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Stay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals.   \n\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-11-04T10:13:00",
+      "timeRaised": "2025-11-04T10:13:12",
+      "timeSeverityChanged": "2025-11-04T10:13:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFUE",
+      "description": "Upper River Eden",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFUE",
+        "county": "North Yorkshire, Westmorland and Furness",
+        "notation": "011WAFUE",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFUE/polygon",
+        "riverOrSea": "River Eden"
+      },
+      "floodAreaID": "011WAFUE",
+      "isTidal": false,
+      "message": "Rising river levels this morning may lead to flooding in areas around the River Eden and other watercourses, from Kirkby Stephen to Temple Sowerby including low lying areas around Brough, Warcop, Great Ormside and Appleby. Flooding is possible from the early hours of 04 November 2025. Locations most affected will be low lying land and roads near rivers. Further rainfall is expected this morning, Tuesday 4 November. This may cause river levels to rise further. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 05:00PM on 04 November 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-11-04T07:22:00",
+      "timeRaised": "2025-11-04T07:22:13",
+      "timeSeverityChanged": "2025-11-02T15:02:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAF907",
+      "description": "River Rede",
+      "eaAreaName": "North East",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAF907",
+        "county": "Northumberland",
+        "notation": "121WAF907",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAF907/polygon",
+        "riverOrSea": "River Rede"
+      },
+      "floodAreaID": "121WAF907",
+      "isTidal": false,
+      "message": "Forecast high river levels today may lead to flooding. \nFlooding is possible on 04 November 2025 . \nFurther rainfall is forecast this morning, river levels will remain elevated for the rest of the day. Locations most affected will be low lying land and roads near rivers. \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water . \nThis message will be updated by 7:00PM on 04 November 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-11-04T09:16:00",
+      "timeRaised": "2025-11-04T09:16:37",
+      "timeSeverityChanged": "2025-11-03T17:59:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WAFUL",
+      "description": "Upper River Lune",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFUL",
+        "county": "Lancashire, Westmorland and Furness",
+        "notation": "012WAFUL",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFUL/polygon",
+        "riverOrSea": "River Lune"
+      },
+      "floodAreaID": "012WAFUL",
+      "isTidal": false,
+      "message": "River levels are beginning to fall but are still high due to the rainfall overnight. Flood water will remain in low lying areas. Locations most affected will be low lying land and roads near to the river Lune, Rawthey, Dee and other watercourses from Tebay to Kirkby Lonsdale including Sedbergh and Killington. We are closely monitoring the situation. Never drive through flood water, just 30cm of fast flowing water is enough to move your car . This message will be updated by 10:00 AM on 05 November 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-11-04T10:18:00",
+      "timeRaised": "2025-11-04T10:18:33",
+      "timeSeverityChanged": "2025-11-02T13:10:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFME",
+      "description": "Middle River Eden",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFME",
+        "county": "Cumberland, Westmorland and Furness",
+        "notation": "011WAFME",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFME/polygon",
+        "riverOrSea": "River Eden"
+      },
+      "floodAreaID": "011WAFME",
+      "isTidal": false,
+      "message": "Rising river levels this morning may lead to flooding. Locations most affected will be low lying land and roads near the river Eden and tributaries from Temple Sowerby to the confluence with the River Irthing at Warwick Bridge including Langwathby, Lazonby, Kirkoswald, Armathwaite, Wetheral and Warwick on Eden. We are monitoring rainfall and river levels. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 5:00PM on 04 November 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-11-04T07:55:00",
+      "timeRaised": "2025-11-04T07:55:33",
+      "timeSeverityChanged": "2025-11-03T17:21:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011FWFNC3A",
+      "description": "River Eden at Carlisle, Rickerby Park, Swifts and Stoneyholme Golf Courses",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011FWFNC3A",
+        "county": "Cumberland",
+        "notation": "011FWFNC3A",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011FWFNC3A/polygon",
+        "riverOrSea": "River Eden"
+      },
+      "floodAreaID": "011FWFNC3A",
+      "isTidal": false,
+      "message": "High river levels are expected to cause flooding today. \nFlooding is expected on 04 November 2025 from 09:30AM. \nLocations most affected will be low lying roads, car parks, public spaces and recreational facilities at Rickerby Park, Swifts and Stoneyholme Golf Courses. \nWe are closely monitoring the situation  \nTake care and avoid walking, cycling or driving through flood water  \nThis message will be updated by 5:00PM on 04 November 2025 or as the situation changes. \n",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2025-11-04T08:20:00",
+      "timeRaised": "2025-11-04T08:20:03",
+      "timeSeverityChanged": "2025-11-04T08:20:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011FWFNC11B",
+      "description": "River Eden at Warwick Holmes",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011FWFNC11B",
+        "county": "Cumberland",
+        "notation": "011FWFNC11B",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011FWFNC11B/polygon",
+        "riverOrSea": "River Eden"
+      },
+      "floodAreaID": "011FWFNC11B",
+      "isTidal": false,
+      "message": "High river levels are expected to cause flooding today. \nFlooding is expected on 04 November 2025 from 10:30AM. \nLocations most affected will be low lying roads, agricultural land and isolated properties adjacent to the River Eden in the Warwick Holmes area. \nWe are closely monitoring the situation  \nTake care and avoid walking, cycling or driving through flood water  \nThis message will be updated by 5:00PM on 04 November 2025 or as the situation changes. \n",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2025-11-04T08:40:00",
+      "timeRaised": "2025-11-04T08:40:38",
+      "timeSeverityChanged": "2025-11-04T08:40:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFLE",
+      "description": "Lower River Eden",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFLE",
+        "county": "Cumberland, Westmorland and Furness",
+        "notation": "011WAFLE",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFLE/polygon",
+        "riverOrSea": "River Eden"
+      },
+      "floodAreaID": "011WAFLE",
+      "isTidal": false,
+      "message": "Forecast rising river levels this morning may lead to flooding. Flooding is possible from the early hours of 04 November 2025. Locations most affected will be around the River Eden and its tributaries from its confluence with the River Irthing through Crosby-on-Eden and Carlisle to the Solway Firth at Rockcliffe. Further rainfall is expected this morning, Tuesday 4 November. This may cause river levels to rise further. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 05:00PM on 04 November 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-11-04T07:19:00",
+      "timeRaised": "2025-11-04T07:19:40",
+      "timeSeverityChanged": "2025-11-02T15:00:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFEI",
+      "description": "Rivers Esk and Irthing",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFEI",
+        "county": "Cumberland, Northumberland, Westmorland and Furness",
+        "notation": "011WAFEI",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFEI/polygon",
+        "riverOrSea": "River Esk, River Irthing"
+      },
+      "floodAreaID": "011WAFEI",
+      "isTidal": false,
+      "message": "Rising river levels this morning may lead to flooding. Locations most affected will be low lying land and roads near the rivers Esk and Irthing and other watercourses, including low lying areas around Longtown and Brampton. We are monitoring rainfall and river levels. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 5:00PM on 04 November 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-11-04T07:49:00",
+      "timeRaised": "2025-11-04T07:49:58",
+      "timeSeverityChanged": "2025-11-03T17:20:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF124",
+      "description": "Mansbridge and Riverside Park",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF124",
+        "county": "Hampshire, Southampton",
+        "notation": "065WAF124",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF124/polygon",
+        "riverOrSea": "River Itchen"
+      },
+      "floodAreaID": "065WAF124",
+      "isTidal": false,
+      "message": "High river levels on Tuesday may lead to flooding. \nFlooding is possible on 04 November 2025 1.5 hours before, and 3.5 hours after the tide at 21:45. \nThe weather increases tide table values by 0.34m. Total forecast tide is 5.15 metres Chart Datum (2.41 mAOD) at Southampton. Levels in the Itchen will increase at high tide. Footpath flooding will affect areas of Riverside Park and the pub car park at Mansbridge. Flood depth will be shallow. It will not flood property or the A27. Wednesday's tide at 10:00 on 05/11/2025 is forecast to be 13 cm higher (2.54 mAOD). There is no significant rainfall in the forecast outlook. Light Southerly Force 4 wind is forecast. Flood impacts are predicted at each high tide until Saturday (08/11/2025). \nWe are closely monitoring the situation . \nConsider activating any flood protection products you may have . \nThis message will be updated by 1:00PM on 05 November 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-11-04T11:29:00",
+      "timeRaised": "2025-11-04T11:29:55",
+      "timeSeverityChanged": "2025-11-04T11:29:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC151",
+      "description": "Southampton Water and Hamble",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC151",
+        "county": "Hampshire, Southampton",
+        "notation": "065WAC151",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC151/polygon",
+        "riverOrSea": "Southampton Water"
+      },
+      "floodAreaID": "065WAC151",
+      "isTidal": true,
+      "message": "High tides on Tuesday may lead to flooding. \nFlooding is possible for 1 hour either side of Tuesday evening's tide at 21:45 on 04/11/2025 and 23:46 on 04/11/2025. \nThe weather increases tide table values by 0.34 m. Total forecast tide is 5.15 metres Chart Datum (2.41 mAOD) at Southampton. Light Southerly Force 4 wind is forecast. Very minor impact flooding will affect the lower floor level of Eling Tide Mill and boat yards at Bursledon. Road and car park flooding may occur at The Quay Hamble, Magazine Lane at Marchwood and Shore Road in Hythe. Wednesday's tide at 10:00 on 05/11/2025 is forecast to be 13 cm higher (2.54 mAOD). There is no significant rainfall in the forecast outlook. Flood impacts are predicted at each high tide until Saturday (08/11/25). \nWe are closely monitoring the situation . \nAvoid using low lying footpaths and any bridges near local watercourses . \nThis message will be updated by 1:00PM on 05 November 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-11-04T11:20:00",
+      "timeRaised": "2025-11-04T11:20:01",
+      "timeSeverityChanged": "2025-11-04T11:20:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WACT1T1AA00",
+      "description": "South Cornwall Coast from Lands End to Lizard Point",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T1AA00",
+        "county": "Cornwall",
+        "notation": "114WACT1T1AA00",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T1AA00/polygon",
+        "riverOrSea": "South Cornwall Coast"
+      },
+      "floodAreaID": "114WACT1T1AA00",
+      "isTidal": true,
+      "message": "High tides and forecast weather conditions over the next three days may lead to flooding. \nFlooding is possible over the high tides from Tuesday 4th to Friday 7th November \nLow lying coastal roads, promenades, car parks and harbours may be flooded.  Areas particularly at risk include Newlyn, Penzance and Longrock.  \n\nHigh tide at Newlyn on Tuesday is at 3.25pm and on Wednesday morning at 3.48am.  Forecast total high tide level is 3.04mAOD and 2.97mAOD respectively. Expect tide levels along the coast to be between 0.3-0.4 metres above tide table level. Strong force 6 southerly winds and offshore wave heights of around 4m are forecast. \n\n High tides of most concern are Tuesday afternoon and Wednesday afternoon. \nWe are closely monitoring the situation  \nAvoid coastal roads, footpaths and carparks, which may be flooded . \nThis message will be updated by 11:00AM on 05 November 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-11-04T10:41:00",
+      "timeRaised": "2025-11-04T10:41:14",
+      "timeSeverityChanged": "2025-11-04T10:41:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WACT1B",
+      "description": "South Devon coast from Start Point to Dawlish Warren",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WACT1B",
+        "county": "Devon, Torbay",
+        "notation": "113WACT1B",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WACT1B/polygon",
+        "riverOrSea": "South Devon Coast"
+      },
+      "floodAreaID": "113WACT1B",
+      "isTidal": true,
+      "message": "High tides and forecast weather conditions this afternoon may lead to flooding. \nFlooding is possible 2 hours either side of high tide from Tuesday 4 November afternoon until Thursday morning. \nAreas particularly at risk include Torbay, Teignmouth, Beesands, Torcross, Slapton and Dawlish.\n  \nThe high tide at Exmouth on Tuesday 4 November is at 5.45PM, times of high water will vary along the coast.  Forecast total high tide level is 2.42mAOD, which is 0.37metres above tide table level.  Strong force 6 southerly winds and offshore wave heights of over 1.6m are forecast over the high tide.\n\nCoastal conditions should ease for Thursday morning's high tide. \nWe are closely monitoring the situation . \nAvoid beaches and coastal promenades, which may be flooded . \nThis message will be updated by 12:30PM on 05 November 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-11-04T10:42:00",
+      "timeRaised": "2025-11-04T10:42:19",
+      "timeSeverityChanged": "2025-11-04T10:42:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFBR",
+      "description": "Rivers Brathay, Rothay and Winster",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFBR",
+        "county": "Westmorland and Furness",
+        "notation": "011WAFBR",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFBR/polygon",
+        "riverOrSea": "River Brathay, River Rothay, River Winster"
+      },
+      "floodAreaID": "011WAFBR",
+      "isTidal": false,
+      "message": "River levels remain high and may lead to flooding this morning. Locations most affected will be low lying land and roads near the rivers Brathay, Rothay, Winster and other watercourses from Grasmere to Grange-over-Sands including low lying areas around Ambleside, Skelwith Bridge, Windermere, Hawkshead, Newby Bridge, Backbarrow, Cark and Cartmel. Further rainfall is expected this morning Tuesday 4 November. This may cause river levels to rise further. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 05:00PM on 04 November 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-11-04T07:24:00",
+      "timeRaised": "2025-11-04T07:24:48",
+      "timeSeverityChanged": "2025-11-02T16:45:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDW",
+      "description": "Upper River Derwent, Stonethwaite Beck and Derwent Water",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFDW",
+        "county": "Cumberland",
+        "notation": "011WAFDW",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFDW/polygon",
+        "riverOrSea": "Derwent, Stonethwaite Beck"
+      },
+      "floodAreaID": "011WAFDW",
+      "isTidal": false,
+      "message": "High river and lake levels today have led to flooding. Locations most affected will be low lying land and roads near the Upper Derwent from Seathwaite to Derwent Water. Another heavy band of rain is expected this morning, Tuesday 4th November. This will cause levels to rise further and could result in us issuing further flood warnings. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 05:00PM on 04 November 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-11-04T07:41:00",
+      "timeRaised": "2025-11-04T07:41:50",
+      "timeSeverityChanged": "2025-11-02T08:48:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WAFUR",
+      "description": "Upper River Ribble, Hodder",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFUR",
+        "county": "Lancashire, North Yorkshire",
+        "notation": "012WAFUR",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFUR/polygon",
+        "riverOrSea": "River Ribble"
+      },
+      "floodAreaID": "012WAFUR",
+      "isTidal": false,
+      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nFurther rainfall is forecast but no further flooding is expected.  \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nStay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   \n\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-11-04T10:06:00",
+      "timeRaised": "2025-11-04T10:06:54",
+      "timeSeverityChanged": "2025-11-04T10:06:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFED",
+      "description": "Rivers Ehen, Calder, Irt and Esk",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFED",
+        "county": "Cumberland",
+        "notation": "011WAFED",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFED/polygon",
+        "riverOrSea": "River Ehen, Rive Calder, River Irt, River Esk"
+      },
+      "floodAreaID": "011WAFED",
+      "isTidal": false,
+      "message": "River levels remain high and may lead to flooding this morning. Locations most affected will be low lying land and roads near the rivers Ehen, Calder, Irt, Esk and other watercourses from Harrington to Annaside including low lying areas around Whitehaven, Cleator Moor, Egremont, Gosforth, Eskdale and Bootle. Rainfall is expected this morning Tuesday 4 November. This may cause river levels to rise further. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 05:00PM on 04 November 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-11-04T07:40:00",
+      "timeRaised": "2025-11-04T07:40:17",
+      "timeSeverityChanged": "2025-11-02T16:44:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFPC",
+      "description": "Rivers Caldew and Petteril",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFPC",
+        "county": "Cumberland, Westmorland and Furness",
+        "notation": "011WAFPC",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFPC/polygon",
+        "riverOrSea": "River Caldew, River Petteril"
+      },
+      "floodAreaID": "011WAFPC",
+      "isTidal": false,
+      "message": "Rising river levels this morning may lead to flooding. Locations most affected will be low lying land and roads near the rivers Caldew and Petteril from the Lakeland Fells to Carlisle including Greystoke, Newton Reigny, Plumpton, Stockdalewath, Sebergham and Denton Holme in Carlisle. We are monitoring rainfall and river levels. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 5:00PM on 04 November 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-11-04T07:42:00",
+      "timeRaised": "2025-11-04T07:42:55",
+      "timeSeverityChanged": "2025-11-03T17:22:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFLO",
+      "description": "Rivers Lowther and Eamont",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFLO",
+        "county": "Westmorland and Furness",
+        "notation": "011WAFLO",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFLO/polygon",
+        "riverOrSea": "River Lowther, River Eamont"
+      },
+      "floodAreaID": "011WAFLO",
+      "isTidal": false,
+      "message": "High river levels this morning have led to flooding. Locations most affected will be low lying land and roads near the rivers Eamont and Lowther to their confluence with the River Eden at Langwathby. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 5:00PM on 04 November 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-11-04T08:23:00",
+      "timeRaised": "2025-11-04T08:23:55",
+      "timeSeverityChanged": "2025-11-03T12:39:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011FWFNC6KC",
+      "description": "Keswick Campsite",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011FWFNC6KC",
+        "county": "Cumberland",
+        "notation": "011FWFNC6KC",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011FWFNC6KC/polygon",
+        "riverOrSea": "Derwentwater"
+      },
+      "floodAreaID": "011FWFNC6KC",
+      "isTidal": false,
+      "message": "High river levels are expected to cause flooding today. Locations most affected will be Keswick Campsite. Further rain throughout Tuesday will cause the Lake levels to keep rising and they are expected to peak around 2.7m on Tuesday afternoon.  We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 5:00PM on 04 November 2025 or as the situation changes.\n",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2025-11-04T08:26:00",
+      "timeRaised": "2025-11-04T08:26:58",
+      "timeSeverityChanged": "2025-11-03T08:03:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFWE",
+      "description": "Rivers Wampool and Ellen",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFWE",
+        "county": "Cumberland",
+        "notation": "011WAFWE",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFWE/polygon",
+        "riverOrSea": "River Wampool, River Ellen"
+      },
+      "floodAreaID": "011WAFWE",
+      "isTidal": false,
+      "message": "Rising river levels this morning may lead to flooding. Locations most affected will be low lying land and roads near rivers. We are monitoring rainfall and river levels. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 5:00 PM on 04 November 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-11-04T07:59:00",
+      "timeRaised": "2025-11-04T07:59:33",
+      "timeSeverityChanged": "2025-11-03T17:18:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAF909",
+      "description": "River South Tyne",
+      "eaAreaName": "North East",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAF909",
+        "county": "Cumberland, Northumberland, Westmorland and Furness",
+        "notation": "121WAF909",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAF909/polygon",
+        "riverOrSea": "River Tyne, River Allen"
+      },
+      "floodAreaID": "121WAF909",
+      "isTidal": false,
+      "message": "Forecast high river levels today may lead to flooding. \nFlooding is possible on 04 November 2025 . \nFurther rainfall is forecast this morning, river levels will remain elevated for the rest of the day. Locations most affected will be low lying land and roads near rivers. \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water . \nThis message will be updated by 7:00PM on 04 November 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-11-04T09:16:00",
+      "timeRaised": "2025-11-04T09:16:46",
+      "timeSeverityChanged": "2025-11-03T17:59:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFGB",
+      "description": "Rivers Greta, St Johns Beck and Bassenthwaite Lake",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFGB",
+        "county": "Cumberland, Westmorland and Furness",
+        "notation": "011WAFGB",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFGB/polygon",
+        "riverOrSea": "River Greta, St Johns Beck, Glendermackin"
+      },
+      "floodAreaID": "011WAFGB",
+      "isTidal": false,
+      "message": "Rising river levels this morning may lead to flooding. Locations most affected will be low lying land and roads near river Derwent from Keswick to Bassenthwaite. The rivers Greta, Glenderamackin and St Johns Beck including Keswick. We are monitoring rainfall and river levels. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 5:00PM on 04 November 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-11-04T07:58:00",
+      "timeRaised": "2025-11-04T07:58:10",
+      "timeSeverityChanged": "2025-11-03T17:18:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFCD",
+      "description": "Rivers Cocker, Marron and Derwent",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFCD",
+        "county": "Cumberland",
+        "notation": "011WAFCD",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFCD/polygon",
+        "riverOrSea": "River Cocker, River Marron, River Derwent"
+      },
+      "floodAreaID": "011WAFCD",
+      "isTidal": false,
+      "message": "High river levels this morning have led to flooding. Locations most affected will be low lying land and roads near the lower Derwent from Bassenthwaite Lake to the coast at Workington. The Cocker from Crummock Water to Cockermouth. River Marron from Ullock to its confluence with the Derwent near Bridgefoot. We are monitoring rainfall and river levels. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 5:00PM on 04 November 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-11-04T08:03:00",
+      "timeRaised": "2025-11-04T08:03:19",
+      "timeSeverityChanged": "2025-11-03T15:37:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011FWFNC6A",
+      "description": "River Greta at Keswick, Keswick Campsite, Rugby Club and Quinta",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011FWFNC6A",
+        "county": "Cumberland",
+        "notation": "011FWFNC6A",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011FWFNC6A/polygon",
+        "riverOrSea": "River Greta"
+      },
+      "floodAreaID": "011FWFNC6A",
+      "isTidal": false,
+      "message": "Rising river levels are expected to cause flooding this morning. Flooding is expected on 04 November 2025 from 4:30AM. Locations most affected will be low lying land next to the river Greta and Derwent Water. We expect the rain to ease off after 12PM on Tuesday 04 November with the river levels peaking below 3m, at Keswick Campsite gauging station, before lunchtime. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 5:00PM on 04 November 2025 or as the situation changes.\n",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2025-11-04T08:29:00",
+      "timeRaised": "2025-11-04T08:29:52",
+      "timeSeverityChanged": "2025-11-04T04:08:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011FWFNC8A",
+      "description": "River Ehen at Egremont, Bleach Green, Ennerdale Mill, Bridge End, Vale View, Wood Bank, Rugby Club",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011FWFNC8A",
+        "county": "Cumberland",
+        "notation": "011FWFNC8A",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011FWFNC8A/polygon",
+        "riverOrSea": "River Ehen"
+      },
+      "floodAreaID": "011FWFNC8A",
+      "isTidal": false,
+      "message": "Rising river levels are expected to cause flooding today. \nFlooding is expected on 04 November 2025  \nLocations most affected will be the river Ehen at Egremont, Bleach Green, Ennerdale Mill, Bridge End, Vale View, Wood Bank and the Rugby Club. \nWe are closely monitoring the situation . \nAvoid low lying roads near rivers, which may be flooded . \nThis message will be updated by 5:00PM on 04 November 2025 or as the situation changes. \n",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2025-11-04T08:39:00",
+      "timeRaised": "2025-11-04T08:39:52",
+      "timeSeverityChanged": "2025-11-04T08:39:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011FWFNC14",
+      "description": "River Cocker at Southwaite Bridge",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011FWFNC14",
+        "county": "Cumberland",
+        "notation": "011FWFNC14",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011FWFNC14/polygon",
+        "riverOrSea": "River Cocker"
+      },
+      "floodAreaID": "011FWFNC14",
+      "isTidal": false,
+      "message": "High river levels are expected to cause flooding today. \nFlooding is expected on 04 November 2025 . \nLocations most affected will be properties adjacent to the River Cocker at Southwaite Bridge, including Southwaite Mill. \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water . \nThis message will be updated by 5:00PM on 04 November 2025 or as the situation changes. \n",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2025-11-04T08:50:00",
+      "timeRaised": "2025-11-04T08:50:47",
+      "timeSeverityChanged": "2025-11-04T08:50:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011FWFNC4B",
+      "description": "Rivers Cocker and Derwent at Cockermouth, Cricket Ground, Trout Hotel Car Park, Hatters Croft",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011FWFNC4B",
+        "county": "Cumberland",
+        "notation": "011FWFNC4B",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011FWFNC4B/polygon",
+        "riverOrSea": "River Cocker, River Derwent"
+      },
+      "floodAreaID": "011FWFNC4B",
+      "isTidal": false,
+      "message": "High river levels are expected to cause flooding today. \nFlooding is expected on 04 November 2025 from 10:00AM. \nLocations most affected will be the rivers Cocker and Derwent at Cockermouth, Cricket Ground, Trout Hotel and Market Street Car Parks, Hatters Croft. \nWe are closely monitoring the situation  \nTake care and avoid walking, cycling or driving through flood water  \nThis message will be updated by 5:00PM on 04 November 2025 or as the situation changes. \n",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2025-11-04T09:27:00",
+      "timeRaised": "2025-11-04T09:27:58",
+      "timeSeverityChanged": "2025-11-04T09:27:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011FWFNC49",
+      "description": "River Crake Valley",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011FWFNC49",
+        "county": "Westmorland and Furness",
+        "notation": "011FWFNC49",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011FWFNC49/polygon",
+        "riverOrSea": "River Crake"
+      },
+      "floodAreaID": "011FWFNC49",
+      "isTidal": false,
+      "message": "High river levels are expected to cause flooding today. \nFlooding is expected on 04 November 2025 . \nLocations most affected will be the river Crake Valley, including Low Nibthwaite, Lowick Bridge, Spark Bridge and Penny Bridge. \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water . \nThis message will be updated by 5:00PM on 04 November 2025 or as the situation changes. \n",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2025-11-04T10:22:00",
+      "timeRaised": "2025-11-04T10:22:27",
+      "timeSeverityChanged": "2025-11-04T10:22:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011FWFNC26A",
+      "description": "Wiza Beck and Black Beck at Wigton, Station Rd",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011FWFNC26A",
+        "county": "Cumberland",
+        "notation": "011FWFNC26A",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011FWFNC26A/polygon",
+        "riverOrSea": "Wiza Beck, Black Beck"
+      },
+      "floodAreaID": "011FWFNC26A",
+      "isTidal": false,
+      "message": "High river levels are expected to cause flooding today. \nFlooding is expected on 04 November 2025 11:30AM \nLocations most affected will be properties on and just off Station Road including The Innovia Factory, Fire Station, Miller Park and Slaters Yard. \nWe are closely monitoring the situation  \nTake care and avoid walking, cycling or driving through flood water  \nThis message will be updated by 5:00PM on 04 November 2025 or as the situation changes. \n",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2025-11-04T11:28:00",
+      "timeRaised": "2025-11-04T11:28:40",
+      "timeSeverityChanged": "2025-11-04T11:28:00"
+    }
+  ]
 }
