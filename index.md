@@ -10,9 +10,9 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Tuesday, 04 November 2025
 
-- The average temperature today is 13.95˚C,
-- With highs of 14.99˚C and lows of 13.49˚C,
-- It may feel like 13.62˚C with overcast clouds
+- The average temperature today is 13.96˚C,
+- With highs of 14.43˚C and lows of 13.49˚C,
+- It may feel like 13.63˚C with overcast clouds
 - The wind speed is 3.13m/s and visibility is 10000m
 - The pressure is 1009hPa and humidity is 85%
 - The sun will rise at 07:08 and set at 16:35
