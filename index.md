@@ -11,10 +11,10 @@ seo: Menu
 ## On Wednesday, 05 November 2025
 
 - The average temperature today is 15.66˚C,
-- With highs of 16.08˚C and lows of 14.6˚C,
-- It may feel like 15.53˚C with overcast clouds
-- The wind speed is 2.68m/s and visibility is 10000m
-- The pressure is 1006hPa and humidity is 86%
+- With highs of 16.08˚C and lows of 15.38˚C,
+- It may feel like 15.53˚C with light rain
+- The wind speed is 5.36m/s and visibility is 10000m
+- The pressure is 1005hPa and humidity is 86%
 - The sun will rise at 07:10 and set at 16:33
 
 <!-- weather_marker ends -->
