@@ -19,6 +19,17 @@ This project fetches flood warning data for the Gloucestershire area and publish
 ## Latest
 
 <!-- flood_marker starts -->
+- Flood alert: Tidal River Avon at Bristol, Pill and Shirehampton
+- High tides today may lead to flooding. 
+Flooding is possible from 17:45 to 19:45 this evening and 06:15 to 08:15 tomorrow morning 
+The detailed tidal forecast for those who use it is for a peak level at Avonmouth. The first forecast high water is at  18:45 on 05/11/2025 with a level of 7.57 mAODN with  Easterly force 4 winds. winds. The second forecast high water is at  07:15 on 06/11/2025 with a level of 7.57 mAODN with South Easterly force 3 winds. (mAODN is height above average sea level.) 
+Further flooding is possible until Friday Evening due to high spring tides. 
+Locations most affected will be low lying land and roads near rivers or on the coast. 
+We are closing flood gates . 
+Avoid coastal roads, which may be flooded . 
+This message will be updated by 1:45PM on 06 November 2025 or as the situation changes.
+
+
 - Flood alert: River Wye in Herefordshire
 - Rising river levels this evening may lead to flooding. 
 
