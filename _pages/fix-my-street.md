@@ -9,6 +9,16 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Other FW6  Surface problem, 5th November :- [8377884](https://www.fixmystreet.com/report/8377884)
+- TMC - Defects - Other FW6  Surface problem, 5th November :- [8377883](https://www.fixmystreet.com/report/8377883)
+- TMC - Defects - Other FW6  Surface problem, 5th November :- [8377880](https://www.fixmystreet.com/report/8377880)
+- TMC - Defects - Other FW6  Surface problem, 5th November :- [8377879](https://www.fixmystreet.com/report/8377879)
+- TMC - Defects - Footways Slabs problem, 5th November :- [8377888](https://www.fixmystreet.com/report/8377888)
+- TMC - Defects - Other FW6  Surface problem, 5th November :- [8377886](https://www.fixmystreet.com/report/8377886)
+- TMC - Defects - Other FW6  Surface problem, 5th November :- [8377881](https://www.fixmystreet.com/report/8377881)
+- TMC - Defects - Footways Slabs problem, 5th November :- [8377887](https://www.fixmystreet.com/report/8377887)
+- TMC - Defects - Other FW6  Surface problem, 5th November :- [8377882](https://www.fixmystreet.com/report/8377882)
+- TMC - Defects - Other FW6  Surface problem, 5th November :- [8377885](https://www.fixmystreet.com/report/8377885)
 - There are 3 large foam filled sofa covers dumped in Prestbury Road, 4th November :- [8377362](https://www.fixmystreet.com/report/8377362)
 - Pavement in pitch darkness just past Oark Housr 39 Park Place, hazardous to pedestrians, almost collided with man sat on bench earlier as I did not see him., 4th November :- [8377309](https://www.fixmystreet.com/report/8377309)
 - Most LEDs in street light have failed, 4th November :- [8377262](https://www.fixmystreet.com/report/8377262)
@@ -19,15 +29,5 @@ permalink: /fix-my-street
 - Obscured bend sign and illuminating SLOW sign, 4th November :- [8376652](https://www.fixmystreet.com/report/8376652)
 - Dog mess on pavement at bottom of brick wall, 4th November :- [8375775](https://www.fixmystreet.com/report/8375775)
 - Path ends on a busy road, 4th November :- [8375743](https://www.fixmystreet.com/report/8375743)
-- Fix my street ref 8113611 not addressed, 4th November :- [8375578](https://www.fixmystreet.com/report/8375578)
-- TMC - Defects - Kerbs and Channels problem, 4th November :- [8375644](https://www.fixmystreet.com/report/8375644)
-- TMC - Defects - Other FW6  Surface problem, 4th November :- [8375643](https://www.fixmystreet.com/report/8375643)
-- TMC - Defects - Other FW6  Surface problem, 4th November :- [8375642](https://www.fixmystreet.com/report/8375642)
-- TMC - Defects -CW6 Potholes  problem, 4th November :- [8375641](https://www.fixmystreet.com/report/8375641)
-- TMC - Defects - Other FW6  Surface problem, 4th November :- [8375475](https://www.fixmystreet.com/report/8375475)
-- TMC - Defects - Other FW6  Surface problem, 4th November :- [8375470](https://www.fixmystreet.com/report/8375470)
-- TMC - Defects - Other FW6  Surface problem, 4th November :- [8375471](https://www.fixmystreet.com/report/8375471)
-- TMC - Defects - Other FW6  Surface problem, 4th November :- [8375474](https://www.fixmystreet.com/report/8375474)
-- TMC - Defects - Other FW6  Surface problem, 4th November :- [8375473](https://www.fixmystreet.com/report/8375473)
 
 <!-- fix_marker ends -->

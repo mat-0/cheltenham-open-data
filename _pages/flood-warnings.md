@@ -32,5 +32,13 @@ Take care and avoid walking, cycling or driving through flood water.
 
 This message will be updated by 7:00PM on 05 November 2025 or as the situation changes.
 
+- Flood alert: River Wye in Gloucestershire
+- Rising river levels today may lead to flooding. 
+Flooding is possible on 05 November 2025 . 
+Flooding may affect low lying land and roads along the River Wye. Predicted peaks:- Ross on Wye 3.6m to 3.9m 06/11 AM. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 7:00PM on 05 November 2025 or as the situation changes.
+
 
 <!-- flood_marker ends -->
