@@ -13,7 +13,7 @@ seo: Menu
 - The average temperature today is 14.61˚C,
 - With highs of 14.99˚C and lows of 13.8˚C,
 - It may feel like 14.24˚C with overcast clouds
-- The wind speed is 1.34m/s and visibility is 10000m
+- The wind speed is 2.24m/s and visibility is 10000m
 - The pressure is 1004hPa and humidity is 81%
 - The sun will rise at 07:10 and set at 16:33
 

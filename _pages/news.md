@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Shake-up could mean six council bosses lose jobs ([6 hours ago](https://www.bbc.com/news/articles/crmxl0n2n2po?at_medium=RSS&at_campaign=rss))
-- 'Carnival's heartfelt tribute' and 'tap champions' ([9 hours ago](https://www.bbc.com/news/articles/cm2eydq1j6do?at_medium=RSS&at_campaign=rss))
-- Councillor 'disrespectful to planning officer' ([10 hours ago](https://www.bbc.com/news/articles/cq834qlxnxwo?at_medium=RSS&at_campaign=rss))
-- Scam warning amid appeal to aid supplies for Jamaica ([10 hours ago](https://www.bbc.com/news/articles/cn09y1r151ro?at_medium=RSS&at_campaign=rss))
-- 'Gridlock' as roadworks cause major disruption ([15 hours ago](https://www.bbc.com/news/articles/c24lg1z3q8yo?at_medium=RSS&at_campaign=rss))
-- Fireworks can cause deaths of animals says RSPCA ([15 hours ago](https://www.bbc.com/news/articles/cvgkrx82d2jo?at_medium=RSS&at_campaign=rss))
+- Shake-up could mean six council bosses lose jobs ([7 hours ago](https://www.bbc.com/news/articles/crmxl0n2n2po?at_medium=RSS&at_campaign=rss))
+- 'Carnival's heartfelt tribute' and 'tap champions' ([10 hours ago](https://www.bbc.com/news/articles/cm2eydq1j6do?at_medium=RSS&at_campaign=rss))
+- Councillor 'disrespectful to planning officer' ([11 hours ago](https://www.bbc.com/news/articles/cq834qlxnxwo?at_medium=RSS&at_campaign=rss))
+- Scam warning amid appeal to aid supplies for Jamaica ([11 hours ago](https://www.bbc.com/news/articles/cn09y1r151ro?at_medium=RSS&at_campaign=rss))
+- 'Gridlock' as roadworks cause major disruption ([16 hours ago](https://www.bbc.com/news/articles/c24lg1z3q8yo?at_medium=RSS&at_campaign=rss))
+- Fireworks can cause deaths of animals says RSPCA ([16 hours ago](https://www.bbc.com/news/articles/cvgkrx82d2jo?at_medium=RSS&at_campaign=rss))
 - Council chiefs back rapid bus service project ([1 days ago](https://gloucesternewscentre.co.uk/council-chiefs-back-rapid-bus-service-project/))
 - More than 60 miles resurfaced and 40,000 safety road defects fixed ([1 days ago](https://gloucesternewscentre.co.uk/more-than-60-miles-resurfaced-and-40000-safety-road-defects-fixed/))
 - Historic canal to be restored with £6.4m ([1 days ago](https://www.bbc.com/news/articles/cvgmd1egk65o?at_medium=RSS&at_campaign=rss))
