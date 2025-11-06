@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Trees, 6th November :- [8384765](https://www.fixmystreet.com/report/8384765)
+- Damage caused by lorry leaving the road..., 6th November :- [8384645](https://www.fixmystreet.com/report/8384645)
+- Street light is permanently out problem, 6th November :- [8384732](https://www.fixmystreet.com/report/8384732)
 - Flytipping, 6th November :- [8384520](https://www.fixmystreet.com/report/8384520)
 - Gutters require cleaning., 6th November :- [8384322](https://www.fixmystreet.com/report/8384322)
 - TMC - Defects -CW10 Potholes problem, 6th November :- [8384221](https://www.fixmystreet.com/report/8384221)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW10 Potholes problem, 6th November :- [8383476](https://www.fixmystreet.com/report/8383476)
 - The drain is blocked problem, 6th November :- [8383475](https://www.fixmystreet.com/report/8383475)
 - TMC - Defects - Other FW6  Surface problem, 6th November :- [8383258](https://www.fixmystreet.com/report/8383258)
-- TMC - Defects - Vegetation problem, 6th November :- [8383045](https://www.fixmystreet.com/report/8383045)
-- Flytipped mattress, 6th November :- [8382794](https://www.fixmystreet.com/report/8382794)
-- Fly tipping, 6th November :- [8382682](https://www.fixmystreet.com/report/8382682)
 
 <!-- fix_marker ends -->
