@@ -10,10 +10,10 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Thursday, 06 November 2025
 
-- The average temperature today is 13.96˚C,
-- With highs of 14.99˚C and lows of 12.69˚C,
-- It may feel like 13.71˚C with broken clouds
-- The wind speed is 2.68m/s and visibility is 10000m
+- The average temperature today is 13.68˚C,
+- With highs of 14.18˚C and lows of 12.62˚C,
+- It may feel like 13.4˚C with broken clouds
+- The wind speed is 2.24m/s and visibility is 10000m
 - The pressure is 1005hPa and humidity is 88%
 - The sun will rise at 07:11 and set at 16:31
 

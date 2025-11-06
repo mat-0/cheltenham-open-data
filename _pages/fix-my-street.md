@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Number of street lights not working., 6th November :- [8386731](https://www.fixmystreet.com/report/8386731)
 - Swing seats are covered in algae/mould, 6th November :- [8386178](https://www.fixmystreet.com/report/8386178)
 - Mattress deposited in driveway on Dunalley Street, 6th November :- [8385949](https://www.fixmystreet.com/report/8385949)
 - Oak tree beneath phone lines, this has recently been pollarded (two days ago) but the top remains in contact with several phone lines to properties., 6th November :- [8384891](https://www.fixmystreet.com/report/8384891)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Road Barriers and cone left., 6th November :- [8383469](https://www.fixmystreet.com/report/8383469)
 - TMC - Defects -CW10 Potholes problem, 6th November :- [8383479](https://www.fixmystreet.com/report/8383479)
 - TMC - Defects -CW10 Potholes problem, 6th November :- [8383478](https://www.fixmystreet.com/report/8383478)
-- TMC - Defects -CW10 Potholes problem, 6th November :- [8383477](https://www.fixmystreet.com/report/8383477)
 
 <!-- fix_marker ends -->
