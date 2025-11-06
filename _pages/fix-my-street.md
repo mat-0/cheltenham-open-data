@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects -CW10 Potholes problem, 6th November :- [8384048](https://www.fixmystreet.com/report/8384048)
+- TMC - Defects - Vegetation problem, 6th November :- [8384047](https://www.fixmystreet.com/report/8384047)
+- TMC - Defects - Kerbs and Channels problem, 6th November :- [8383862](https://www.fixmystreet.com/report/8383862)
+- TMC - Defects -CW10 Potholes problem, 6th November :- [8383859](https://www.fixmystreet.com/report/8383859)
+- TMC - Defects -CW10 Potholes problem, 6th November :- [8383860](https://www.fixmystreet.com/report/8383860)
 - Tree is damaged problem, 6th November :- [8383680](https://www.fixmystreet.com/report/8383680)
 - TMC - Defects -CW6 Potholes  problem, 6th November :- [8383688](https://www.fixmystreet.com/report/8383688)
 - Road Barriers and cone left., 6th November :- [8383469](https://www.fixmystreet.com/report/8383469)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Fly tipping, 5th November :- [8381924](https://www.fixmystreet.com/report/8381924)
 - Overgrown hedge blocking footpath, 5th November :- [8381879](https://www.fixmystreet.com/report/8381879)
 - Broken paving slabs and sunken, 5th November :- [8381825](https://www.fixmystreet.com/report/8381825)
-- Pothole (large(, 6th November :- [8381588](https://www.fixmystreet.com/report/8381588)
-- White lines and directional information faded, 5th November :- [8381215](https://www.fixmystreet.com/report/8381215)
-- Car, 5th November :- [8380985](https://www.fixmystreet.com/report/8380985)
-- All the way across the road has been dug up and not filled properly, yet again! It’s like you use plasticine to fill roads now., 5th November :- [8380714](https://www.fixmystreet.com/report/8380714)
-- TMC - Defects - Signs & Street Furniture problem, 5th November :- [8380709](https://www.fixmystreet.com/report/8380709)
 
 <!-- fix_marker ends -->

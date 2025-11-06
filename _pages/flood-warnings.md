@@ -37,13 +37,12 @@ This message will be updated by 1:45PM on 06 November 2025 or as the situation c
 - River levels remain high and may lead to flooding.  Flooding is possible on 06 November 2025.  Flooding may affect low lying land and roads along the River Wye. Predicted peaks:- Ross on Wye 3.6m to 3.8m 06/11 AM.  We are closely monitoring the situation.  Take care and avoid walking, cycling or driving through flood water.  This message will be updated by 7PM on 06 November 2025 or as the situation changes.
 
 - Flood alert: Wye Estuary in Gloucestershire
-- High tides this evening may lead to flooding. 
-Flooding is possible from 5pm today 05/11/25 and tomorrow morning from 6am, 06/11/25 
-A series of high tides is due over the next few days. Flooding may affect low lying land and roads adjacent the Wye Estuary from Redbrook to Chepstow. Predicted peaks:- Avonmouth Portbury 7.3m to 7.6m this evening, 05/11/25, Newport 6.9m to 7.3m this evening , 05/11/25. Tomorrow morning's high tide is forecast  between 6 and 7am, 06/11/25, predicted peaks :- Avonmouth Portbury 7.3m to 7.6m, Newport 7.1 m to 7.3m. 
-We are closely monitoring the situation . 
-Take care and avoid walking, cycling or driving through flood water . 
-This message will be updated by 11:00AM on 06 November 2025 or as the situation changes.
-
+- High tides this evening may lead to flooding. 
+Flooding is possible from 6pm today 06/11/25 and tomorrow morning from 7am, 07/11/25 
+A series of high tides is due over the next few days. Flooding may affect low lying land and roads adjacent the Wye Estuary from Redbrook to Chepstow. Predicted peaks:- Avonmouth Portbury 7.3m to 7.6m this evening, 06/11/25, Newport 7.1m to 7.3m this evening , 06/11/25. Tomorrow morning's high tide is forecast between 7 and 8 am, 07/11/25, predicted peaks :- Avonmouth Portbury 7.3m to 7.6m, Newport 7.0m to 7.2m. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 11:00AM on 07 November 2025 or as the situation changes.
 
 
 <!-- flood_marker ends -->
