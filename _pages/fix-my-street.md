@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Oak tree beneath phone lines, this has recently been pollarded (two days ago) but the top remains in contact with several phone lines to properties., 6th November :- [8384891](https://www.fixmystreet.com/report/8384891)
 - Trees, 6th November :- [8384765](https://www.fixmystreet.com/report/8384765)
 - Damage caused by lorry leaving the road..., 6th November :- [8384645](https://www.fixmystreet.com/report/8384645)
 - Street light is permanently out problem, 6th November :- [8384732](https://www.fixmystreet.com/report/8384732)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW10 Potholes problem, 6th November :- [8383477](https://www.fixmystreet.com/report/8383477)
 - TMC - Defects -CW10 Potholes problem, 6th November :- [8383476](https://www.fixmystreet.com/report/8383476)
 - The drain is blocked problem, 6th November :- [8383475](https://www.fixmystreet.com/report/8383475)
-- TMC - Defects - Other FW6  Surface problem, 6th November :- [8383258](https://www.fixmystreet.com/report/8383258)
 
 <!-- fix_marker ends -->
