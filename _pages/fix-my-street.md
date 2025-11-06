@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipping, 6th November :- [8384520](https://www.fixmystreet.com/report/8384520)
+- Gutters require cleaning., 6th November :- [8384322](https://www.fixmystreet.com/report/8384322)
+- TMC - Defects -CW10 Potholes problem, 6th November :- [8384221](https://www.fixmystreet.com/report/8384221)
 - TMC - Defects -CW10 Potholes problem, 6th November :- [8384048](https://www.fixmystreet.com/report/8384048)
 - TMC - Defects - Vegetation problem, 6th November :- [8384047](https://www.fixmystreet.com/report/8384047)
 - TMC - Defects - Kerbs and Channels problem, 6th November :- [8383862](https://www.fixmystreet.com/report/8383862)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 6th November :- [8383045](https://www.fixmystreet.com/report/8383045)
 - Flytipped mattress, 6th November :- [8382794](https://www.fixmystreet.com/report/8382794)
 - Fly tipping, 6th November :- [8382682](https://www.fixmystreet.com/report/8382682)
-- Fly tipping, 5th November :- [8381924](https://www.fixmystreet.com/report/8381924)
-- Overgrown hedge blocking footpath, 5th November :- [8381879](https://www.fixmystreet.com/report/8381879)
-- Broken paving slabs and sunken, 5th November :- [8381825](https://www.fixmystreet.com/report/8381825)
 
 <!-- fix_marker ends -->
