@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fly tipping, 6th November :- [8382682](https://www.fixmystreet.com/report/8382682)
 - Fly tipping, 5th November :- [8381924](https://www.fixmystreet.com/report/8381924)
 - Overgrown hedge blocking footpath, 5th November :- [8381879](https://www.fixmystreet.com/report/8381879)
 - Broken paving slabs and sunken, 5th November :- [8381825](https://www.fixmystreet.com/report/8381825)
@@ -19,8 +20,8 @@ permalink: /fix-my-street
 - Drain blocked with leaves, 5th November :- [8380566](https://www.fixmystreet.com/report/8380566)
 - Urgent - potential flood risk. Drain not present but on highways map, 5th November :- [8380543](https://www.fixmystreet.com/report/8380543)
 - Glass, bobbles, fag ends, 5th November :- [8380469](https://www.fixmystreet.com/report/8380469)
-- TMC - Defects - Footways Slabs problem, 5th November :- [8380505](https://www.fixmystreet.com/report/8380505)
 - TMC - Defects - Footways Slabs problem, 5th November :- [8380504](https://www.fixmystreet.com/report/8380504)
+- TMC - Defects - Footways Slabs problem, 5th November :- [8380505](https://www.fixmystreet.com/report/8380505)
 - TMC - Defects - Other FW6  Surface problem, 5th November :- [8380503](https://www.fixmystreet.com/report/8380503)
 - TMC - Defects - Signs & Street Furniture problem, 5th November :- [8380501](https://www.fixmystreet.com/report/8380501)
 - TMC - Defects -CW6 Potholes  problem, 5th November :- [8380312](https://www.fixmystreet.com/report/8380312)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 5th November :- [8380314](https://www.fixmystreet.com/report/8380314)
 - TMC - Defects -other CW6 problem, 5th November :- [8380311](https://www.fixmystreet.com/report/8380311)
 - Post or sign leaning slightly (less than 20 degrees) problem, 5th November :- [8380133](https://www.fixmystreet.com/report/8380133)
-- Large tree completely blocking the bridleway. Unpassable, 5th November :- [8379845](https://www.fixmystreet.com/report/8379845)
 
 <!-- fix_marker ends -->
