@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Other FW6  Surface problem, 6th November :- [8383258](https://www.fixmystreet.com/report/8383258)
+- TMC - Defects - Vegetation problem, 6th November :- [8383045](https://www.fixmystreet.com/report/8383045)
 - Flytipped mattress, 6th November :- [8382794](https://www.fixmystreet.com/report/8382794)
 - Fly tipping, 6th November :- [8382682](https://www.fixmystreet.com/report/8382682)
 - Fly tipping, 5th November :- [8381924](https://www.fixmystreet.com/report/8381924)
@@ -26,8 +28,6 @@ permalink: /fix-my-street
 - TMC - Defects - Footways Slabs problem, 5th November :- [8380504](https://www.fixmystreet.com/report/8380504)
 - TMC - Defects - Other FW6  Surface problem, 5th November :- [8380503](https://www.fixmystreet.com/report/8380503)
 - TMC - Defects - Signs & Street Furniture problem, 5th November :- [8380501](https://www.fixmystreet.com/report/8380501)
-- TMC - Defects -CW6 Potholes  problem, 5th November :- [8380312](https://www.fixmystreet.com/report/8380312)
-- TMC - Defects -other CW6 problem, 5th November :- [8380311](https://www.fixmystreet.com/report/8380311)
 - TMC - Defects -CW6 Potholes  problem, 5th November :- [8380314](https://www.fixmystreet.com/report/8380314)
 
 <!-- fix_marker ends -->
