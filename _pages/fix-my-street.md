@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Road work signs left here, 6th November :- [8386898](https://www.fixmystreet.com/report/8386898)
 - Number of street lights not working., 6th November :- [8386731](https://www.fixmystreet.com/report/8386731)
 - Swing seats are covered in algae/mould, 6th November :- [8386178](https://www.fixmystreet.com/report/8386178)
 - Mattress deposited in driveway on Dunalley Street, 6th November :- [8385949](https://www.fixmystreet.com/report/8385949)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 6th November :- [8383688](https://www.fixmystreet.com/report/8383688)
 - Road Barriers and cone left., 6th November :- [8383469](https://www.fixmystreet.com/report/8383469)
 - TMC - Defects -CW10 Potholes problem, 6th November :- [8383479](https://www.fixmystreet.com/report/8383479)
-- TMC - Defects -CW10 Potholes problem, 6th November :- [8383478](https://www.fixmystreet.com/report/8383478)
 
 <!-- fix_marker ends -->
