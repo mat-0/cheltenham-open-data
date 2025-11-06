@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Swing seats are covered in algae/mould, 6th November :- [8386178](https://www.fixmystreet.com/report/8386178)
 - Mattress deposited in driveway on Dunalley Street, 6th November :- [8385949](https://www.fixmystreet.com/report/8385949)
 - Oak tree beneath phone lines, this has recently been pollarded (two days ago) but the top remains in contact with several phone lines to properties., 6th November :- [8384891](https://www.fixmystreet.com/report/8384891)
 - Trees, 6th November :- [8384765](https://www.fixmystreet.com/report/8384765)
@@ -20,14 +21,13 @@ permalink: /fix-my-street
 - TMC - Defects -CW10 Potholes problem, 6th November :- [8384048](https://www.fixmystreet.com/report/8384048)
 - TMC - Defects - Vegetation problem, 6th November :- [8384047](https://www.fixmystreet.com/report/8384047)
 - TMC - Defects - Kerbs and Channels problem, 6th November :- [8383862](https://www.fixmystreet.com/report/8383862)
-- TMC - Defects -CW10 Potholes problem, 6th November :- [8383860](https://www.fixmystreet.com/report/8383860)
 - TMC - Defects -CW10 Potholes problem, 6th November :- [8383859](https://www.fixmystreet.com/report/8383859)
+- TMC - Defects -CW10 Potholes problem, 6th November :- [8383860](https://www.fixmystreet.com/report/8383860)
 - Tree is damaged problem, 6th November :- [8383680](https://www.fixmystreet.com/report/8383680)
 - TMC - Defects -CW6 Potholes  problem, 6th November :- [8383688](https://www.fixmystreet.com/report/8383688)
 - Road Barriers and cone left., 6th November :- [8383469](https://www.fixmystreet.com/report/8383469)
 - TMC - Defects -CW10 Potholes problem, 6th November :- [8383479](https://www.fixmystreet.com/report/8383479)
 - TMC - Defects -CW10 Potholes problem, 6th November :- [8383478](https://www.fixmystreet.com/report/8383478)
 - TMC - Defects -CW10 Potholes problem, 6th November :- [8383477](https://www.fixmystreet.com/report/8383477)
-- TMC - Defects -CW10 Potholes problem, 6th November :- [8383476](https://www.fixmystreet.com/report/8383476)
 
 <!-- fix_marker ends -->
