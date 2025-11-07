@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:atom="http://www.w3.org/2005/Atom"
 >
 
@@ -15,13 +15,31 @@
 <atom:link href="https://www.fixmystreet.com/rss/l/51.897991,-2.071308/10" rel="self" type="application/rss+xml"/>
 
 <item>
-<title>TMC - Defects -CW6 Potholes  problem, 7th November</title>
-<link>https://www.fixmystreet.com/report/8388204</link>
-<description>15DB CW: pothole &amp;#10;700mmx400mmx52mm&amp;#10;TM: temporary road closure &amp;#10;Use pinpoint (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8388204&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8388204</guid>
-<pubDate>Fri, 07 Nov 2025 10:15:37 +0000</pubDate>
-<georss:point>51.8721222 -2.09266079999999</georss:point>
+<title>TMC - Defects - Other FW6  Surface problem, 7th November</title>
+<link>https://www.fixmystreet.com/report/8388589</link>
+<description>Abrupt Level Difference FW 300mm x 200mm  x 20mm  &amp;#10;Give and take TM &amp;#10;Outside 71&amp;#10;Stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8388589&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8388589</guid>
+<pubDate>Fri, 07 Nov 2025 11:13:13 +0000</pubDate>
+<georss:point>51.9056344 -2.0652176</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 7th November</title>
+<link>https://www.fixmystreet.com/report/8388588</link>
+<description>Abrupt Level Difference FW 600mm x 350mm  x 22mm  ( slab )&amp;#10;Give and take TM &amp;#10;At bus stop &amp;#10;Stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8388588&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8388588</guid>
+<pubDate>Fri, 07 Nov 2025 11:13:13 +0000</pubDate>
+<georss:point>51.9056042 -2.0652594</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 7th November</title>
+<link>https://www.fixmystreet.com/report/8388582</link>
+<description>ENWD &amp;#10;CWPH &amp;#10;3200 X 400 X 73mm&amp;#10;NOT MARKED &amp;#10;STOP AND GO (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8388582&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8388582</guid>
+<pubDate>Fri, 07 Nov 2025 10:53:34 +0000</pubDate>
+<georss:point>51.9164259 -2.12086850000001</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 7th November</title>
@@ -31,6 +49,15 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/8388203</guid>
 <pubDate>Fri, 07 Nov 2025 10:15:37 +0000</pubDate>
 <georss:point>51.872133 -2.0926604</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 7th November</title>
+<link>https://www.fixmystreet.com/report/8388204</link>
+<description>15DB CW: pothole &amp;#10;700mmx400mmx52mm&amp;#10;TM: temporary road closure &amp;#10;Use pinpoint (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8388204&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8388204</guid>
+<pubDate>Fri, 07 Nov 2025 10:15:37 +0000</pubDate>
+<georss:point>51.8721222 -2.09266079999999</georss:point>
 </item>
 <item>
 <title>Same pothole you repaired last month. Poor repair standard, not surprised it&#39;s appeared again., 7th November</title>
@@ -52,21 +79,21 @@
 </item>
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 7th November</title>
-<link>https://www.fixmystreet.com/report/8388200</link>
-<description>FW: Abrupt Level Difference ( Around BT Cover)&amp;#10;900mmx200mmx23mm&amp;#10;TM: Give and Take &amp;#10;Opposite No 14 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8388200&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8388200</guid>
-<pubDate>Fri, 07 Nov 2025 09:59:16 +0000</pubDate>
-<georss:point>51.8796983 -2.10497169999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 7th November</title>
 <link>https://www.fixmystreet.com/report/8388201</link>
 <description>FW: Abrupt Level Difference ( Around BT Cover)&amp;#10;900mmx400mmx24mm&amp;#10;TM: Give and Take &amp;#10;Next to lamp post No 9 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8388201&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Other FW6  Surface</category>
 <guid isPermaLink="false">https://www.fixmystreet.com/report/8388201</guid>
 <pubDate>Fri, 07 Nov 2025 09:59:16 +0000</pubDate>
 <georss:point>51.8793065 -2.10363999999998</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 7th November</title>
+<link>https://www.fixmystreet.com/report/8388200</link>
+<description>FW: Abrupt Level Difference ( Around BT Cover)&amp;#10;900mmx200mmx23mm&amp;#10;TM: Give and Take &amp;#10;Opposite No 14 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8388200&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8388200</guid>
+<pubDate>Fri, 07 Nov 2025 09:59:16 +0000</pubDate>
+<georss:point>51.8796983 -2.10497169999999</georss:point>
 </item>
 <item>
 <title>Several large potholes, 7th November</title>
@@ -106,6 +133,15 @@
 </item>
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 7th November</title>
+<link>https://www.fixmystreet.com/report/8387781</link>
+<description>FW: Edge deteration &amp;#10;1700mmx250mmx24mm&amp;#10;TM: STOP and GO &amp;#10;Outside No 2 (FW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8387781&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8387781</guid>
+<pubDate>Fri, 07 Nov 2025 09:27:41 +0000</pubDate>
+<georss:point>51.8624801 -2.12124369999998</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 7th November</title>
 <link>https://www.fixmystreet.com/report/8387787</link>
 <description>FW: Abrupt Level Difference &amp;#10;300mmx500mmx21mm&amp;#10;TM: Give and Take &amp;#10;Outside No 35 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8387787&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Other FW6  Surface</category>
@@ -115,12 +151,12 @@
 </item>
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 7th November</title>
-<link>https://www.fixmystreet.com/report/8387781</link>
-<description>FW: Edge deteration &amp;#10;1700mmx250mmx24mm&amp;#10;TM: STOP and GO &amp;#10;Outside No 2 (FW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8387781&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/8387785</link>
+<description>FW: Edge deteration &amp;#10;900mmx300mmx23mm&amp;#10;TM: Give and Take &amp;#10;Outside No 3 (FW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8387785&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8387781</guid>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8387785</guid>
 <pubDate>Fri, 07 Nov 2025 09:27:41 +0000</pubDate>
-<georss:point>51.8624801 -2.12124369999998</georss:point>
+<georss:point>51.8624542 -2.12139399999999</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 7th November</title>
@@ -142,15 +178,6 @@
 </item>
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 7th November</title>
-<link>https://www.fixmystreet.com/report/8387785</link>
-<description>FW: Edge deteration &amp;#10;900mmx300mmx23mm&amp;#10;TM: Give and Take &amp;#10;Outside No 3 (FW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8387785&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8387785</guid>
-<pubDate>Fri, 07 Nov 2025 09:27:41 +0000</pubDate>
-<georss:point>51.8624542 -2.12139399999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 7th November</title>
 <link>https://www.fixmystreet.com/report/8387786</link>
 <description>FW: Abrupt Level Difference &amp;#10;900mmx300mmx24mm&amp;#10;TM: Give and Take &amp;#10;Outside No 11 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8387786&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Other FW6  Surface</category>
@@ -166,33 +193,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/8387780</guid>
 <pubDate>Fri, 07 Nov 2025 09:27:40 +0000</pubDate>
 <georss:point>51.862282 -2.1212383</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 7th November</title>
-<link>https://www.fixmystreet.com/report/8387778</link>
-<description>FW: Edge deteration &amp;#10;600mmx200mmx22mm&amp;#10;TM: STOP and GO &amp;#10;Next to BT Cabinet (FW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8387778&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8387778</guid>
-<pubDate>Fri, 07 Nov 2025 09:27:40 +0000</pubDate>
-<georss:point>51.8622495 -2.12111590000001</georss:point>
-</item>
-<item>
-<title>Stream is blocked, 7th November</title>
-<link>https://www.fixmystreet.com/report/8387654</link>
-<description>Foliage debris is blocking this drainage stream and may case flooding once we get more rain&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8387654.0.jpeg?0f63dce4&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Bowthorpe Drive, Hucclecote, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8387654&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Parks/landscapes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8387654</guid>
-<pubDate>Fri, 07 Nov 2025 09:11:33 +0000</pubDate>
-<georss:point>51.844502 -2.178979</georss:point>
-</item>
-<item>
-<title>Wet leaves on pavement at bus stops either side of the road make it dangerous getting off the bus. Also blocking drains causing flood issue., 7th November</title>
-<link>https://www.fixmystreet.com/report/8387364</link>
-<description>Bus stops outside 2 Long Mynd Avenue, excessive amount of leaves from the green.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 2, Long Mynd Avenue, Hatherley, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8387364&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Other damage to pavement i.e. cobbles, raised mound/surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8387364</guid>
-<pubDate>Fri, 07 Nov 2025 08:23:01 +0000</pubDate>
-<georss:point>51.885145 -2.116853</georss:point>
 </item>
 </channel>
 </rss>
