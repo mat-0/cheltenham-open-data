@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Friday, 07 November 2025
 
-- The average temperature today is 12.94˚C,
-- With highs of 13.88˚C and lows of 12.6˚C,
-- It may feel like 12.59˚C with light rain
-- The wind speed is 2.68m/s and visibility is 10000m
-- The pressure is 1003hPa and humidity is 88%
+- The average temperature today is 12.43˚C,
+- With highs of 13.49˚C and lows of 12.04˚C,
+- It may feel like 12.05˚C with light intensity shower rain
+- The wind speed is 4.63m/s and visibility is 10000m
+- The pressure is 1004hPa and humidity is 89%
 - The sun will rise at 07:13 and set at 16:30
 
 <!-- weather_marker ends -->

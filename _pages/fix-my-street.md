@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole around the draincover, 7th November :- [8390558](https://www.fixmystreet.com/report/8390558)
+- Missing street sign for Inkerman Lane. The issue has been present for years., 7th November :- [8390490](https://www.fixmystreet.com/report/8390490)
 - Two very large holes in pavement that our car tyres bang down into when we pull on to our drive., 7th November :- [8389912](https://www.fixmystreet.com/report/8389912)
 - TMC - Defects - Footways Slabs problem, 7th November :- [8389569](https://www.fixmystreet.com/report/8389569)
 - Dog mess near entrance to alleyway TEnsing Rd, 7th November :- [8389375](https://www.fixmystreet.com/report/8389375)
@@ -25,9 +27,7 @@ permalink: /fix-my-street
 - Tree is damaged problem, 7th November :- [8388938](https://www.fixmystreet.com/report/8388938)
 - TMC - Defects -CW6 Potholes  problem, 7th November :- [8388814](https://www.fixmystreet.com/report/8388814)
 - TMC - Defects -CW6 Potholes  problem, 7th November :- [8388813](https://www.fixmystreet.com/report/8388813)
-- TMC - Defects - Other FW6  Surface problem, 7th November :- [8388588](https://www.fixmystreet.com/report/8388588)
 - TMC - Defects - Other FW6  Surface problem, 7th November :- [8388589](https://www.fixmystreet.com/report/8388589)
-- TMC - Defects -CW10 Potholes problem, 7th November :- [8388582](https://www.fixmystreet.com/report/8388582)
-- TMC - Defects -CW6 Potholes  problem, 7th November :- [8388204](https://www.fixmystreet.com/report/8388204)
+- TMC - Defects - Other FW6  Surface problem, 7th November :- [8388588](https://www.fixmystreet.com/report/8388588)
 
 <!-- fix_marker ends -->
