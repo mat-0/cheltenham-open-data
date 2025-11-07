@@ -9,7 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Footways Slabs problem, 7th November :- [8389569](https://www.fixmystreet.com/report/8389569)
+- Dog mess near entrance to alleyway TEnsing Rd, 7th November :- [8389375](https://www.fixmystreet.com/report/8389375)
+- TMC - Defects -other CW6 problem, 7th November :- [8389406](https://www.fixmystreet.com/report/8389406)
 - Fly tipping, 7th November :- [8389285](https://www.fixmystreet.com/report/8389285)
+- TMC - Defects - Vegetation problem, 7th November :- [8389405](https://www.fixmystreet.com/report/8389405)
 - Fly tipping, 7th November :- [8389253](https://www.fixmystreet.com/report/8389253)
 - TMC - Defects - Signs & Street Furniture problem, 7th November :- [8389276](https://www.fixmystreet.com/report/8389276)
 - TMC - Defects -CW6 Potholes  problem, 7th November :- [8389275](https://www.fixmystreet.com/report/8389275)
@@ -23,11 +27,7 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 7th November :- [8388589](https://www.fixmystreet.com/report/8388589)
 - TMC - Defects - Other FW6  Surface problem, 7th November :- [8388588](https://www.fixmystreet.com/report/8388588)
 - TMC - Defects -CW10 Potholes problem, 7th November :- [8388582](https://www.fixmystreet.com/report/8388582)
-- TMC - Defects -CW6 Potholes  problem, 7th November :- [8388203](https://www.fixmystreet.com/report/8388203)
 - TMC - Defects -CW6 Potholes  problem, 7th November :- [8388204](https://www.fixmystreet.com/report/8388204)
-- Same pothole you repaired last month. Poor repair standard, not surprised it's appeared again., 7th November :- [8388076](https://www.fixmystreet.com/report/8388076)
-- Street light not working, 7th November :- [8387980](https://www.fixmystreet.com/report/8387980)
-- TMC - Defects - Other FW6  Surface problem, 7th November :- [8388201](https://www.fixmystreet.com/report/8388201)
-- TMC - Defects - Other FW6  Surface problem, 7th November :- [8388200](https://www.fixmystreet.com/report/8388200)
+- TMC - Defects -CW6 Potholes  problem, 7th November :- [8388203](https://www.fixmystreet.com/report/8388203)
 
 <!-- fix_marker ends -->
