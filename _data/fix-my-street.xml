@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:atom="http://www.w3.org/2005/Atom"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
+ xmlns:atom="http://www.w3.org/2005/Atom"
  xmlns:georss="http://www.georss.org/georss"
 >
 
@@ -14,6 +14,96 @@
 <language>en-gb</language>
 <atom:link href="https://www.fixmystreet.com/rss/l/51.897991,-2.071308/10" rel="self" type="application/rss+xml"/>
 
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 7th November</title>
+<link>https://www.fixmystreet.com/report/8387785</link>
+<description>FW: Edge deteration &amp;#10;900mmx300mmx23mm&amp;#10;TM: Give and Take &amp;#10;Outside No 3 (FW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8387785&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8387785</guid>
+<pubDate>Fri, 07 Nov 2025 09:27:41 +0000</pubDate>
+<georss:point>51.8624542 -2.12139399999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 7th November</title>
+<link>https://www.fixmystreet.com/report/8387787</link>
+<description>FW: Abrupt Level Difference &amp;#10;300mmx500mmx21mm&amp;#10;TM: Give and Take &amp;#10;Outside No 35 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8387787&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8387787</guid>
+<pubDate>Fri, 07 Nov 2025 09:27:41 +0000</pubDate>
+<georss:point>51.8643892 -2.1193052</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 7th November</title>
+<link>https://www.fixmystreet.com/report/8387782</link>
+<description>FW: Edge deteration &amp;#10;3000mmx300mmx21mm&amp;#10;TM: Give and Take &amp;#10;Outside No 4 (FW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8387782&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8387782</guid>
+<pubDate>Fri, 07 Nov 2025 09:27:41 +0000</pubDate>
+<georss:point>51.8625273 -2.12123529999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 7th November</title>
+<link>https://www.fixmystreet.com/report/8387783</link>
+<description>FW: Edge deteration &amp;#10;1300mmx200mmx23mm&amp;#10;TM: Give and Take &amp;#10;Outside No 9 (FW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8387783&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8387783</guid>
+<pubDate>Fri, 07 Nov 2025 09:27:41 +0000</pubDate>
+<georss:point>51.8627928 -2.12109909999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 7th November</title>
+<link>https://www.fixmystreet.com/report/8387784</link>
+<description>FW: Edge deteration &amp;#10;850mmx300mmx23mm&amp;#10;TM: Give and Take &amp;#10;Outside No 7 (FW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8387784&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8387784</guid>
+<pubDate>Fri, 07 Nov 2025 09:27:41 +0000</pubDate>
+<georss:point>51.8626041 -2.1212944</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 7th November</title>
+<link>https://www.fixmystreet.com/report/8387781</link>
+<description>FW: Edge deteration &amp;#10;1700mmx250mmx24mm&amp;#10;TM: STOP and GO &amp;#10;Outside No 2 (FW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8387781&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8387781</guid>
+<pubDate>Fri, 07 Nov 2025 09:27:41 +0000</pubDate>
+<georss:point>51.8624801 -2.12124369999998</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 7th November</title>
+<link>https://www.fixmystreet.com/report/8387786</link>
+<description>FW: Abrupt Level Difference &amp;#10;900mmx300mmx24mm&amp;#10;TM: Give and Take &amp;#10;Outside No 11 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8387786&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8387786</guid>
+<pubDate>Fri, 07 Nov 2025 09:27:41 +0000</pubDate>
+<georss:point>51.8628688 -2.12105159999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 7th November</title>
+<link>https://www.fixmystreet.com/report/8387778</link>
+<description>FW: Edge deteration &amp;#10;600mmx200mmx22mm&amp;#10;TM: STOP and GO &amp;#10;Next to BT Cabinet (FW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8387778&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8387778</guid>
+<pubDate>Fri, 07 Nov 2025 09:27:40 +0000</pubDate>
+<georss:point>51.8622495 -2.12111590000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 7th November</title>
+<link>https://www.fixmystreet.com/report/8387780</link>
+<description>15DB CW: pothole &amp;#10;400mmx300mmx43mm&amp;#10;TM: temporary road closure &amp;#10;Next to Fire Hydrant (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8387780&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8387780</guid>
+<pubDate>Fri, 07 Nov 2025 09:27:40 +0000</pubDate>
+<georss:point>51.862282 -2.1212383</georss:point>
+</item>
+<item>
+<title>Stream is blocked, 7th November</title>
+<link>https://www.fixmystreet.com/report/8387654</link>
+<description>Foliage debris is blocking this drainage stream and may case flooding once we get more rain&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8387654.0.jpeg?0f63dce4&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Bowthorpe Drive, Hucclecote, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8387654&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Parks/landscapes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8387654</guid>
+<pubDate>Fri, 07 Nov 2025 09:11:33 +0000</pubDate>
+<georss:point>51.844502 -2.178979</georss:point>
+</item>
 <item>
 <title>Wet leaves on pavement at bus stops either side of the road make it dangerous getting off the bus. Also blocking drains causing flood issue., 7th November</title>
 <link>https://www.fixmystreet.com/report/8387364</link>
@@ -103,96 +193,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/8384891</guid>
 <pubDate>Thu, 06 Nov 2025 14:00:39 +0000</pubDate>
 <georss:point>51.885535 -2.111987</georss:point>
-</item>
-<item>
-<title>Trees, 6th November</title>
-<link>https://www.fixmystreet.com/report/8384765</link>
-<description>Hello I’m not sure what department I need to speak too , Vantage house Badgeworth lane GL514UQ we have slight subsidence issues and require to remove two small trees alongside the property, these trees are on the public footpath - we are happy to remove useing our tree people but will need permission if possible&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Badgeworth Lane, Badgeworth, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8384765&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Trees</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8384765</guid>
-<pubDate>Thu, 06 Nov 2025 13:37:25 +0000</pubDate>
-<georss:point>51.8638 -2.128552</georss:point>
-</item>
-<item>
-<title>Damage caused by lorry leaving the road..., 6th November</title>
-<link>https://www.fixmystreet.com/report/8384645</link>
-<description>Last week a lorry destroyed our stone garden wall when it left the road and backed into it. The lorry mounted the small kerb and claimed not to have noticed leaving the road. We have lots of pedestrian walkers passing our house daily and if someone had been hit, it would have been a terrible injury. We think that a higher kerb would be a safety measure worth investing in, since the signage at the junction is already in place and didn&amp;#39;t help in this accident. We live at Orchard House, Cheltenham Road, Winchcombe GL54 5NQ. Many thanks - Cath Collis cathcollis1969@outlook.com&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8384645.0.jpeg?7c55cf4b&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Cheltenham Road, Winchcombe, Winchcombe&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8384645&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>The kerb is damaged/missing</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8384645</guid>
-<pubDate>Thu, 06 Nov 2025 13:17:08 +0000</pubDate>
-<georss:point>51.948429 -1.974951</georss:point>
-</item>
-<item>
-<title>Street light is permanently out problem, 6th November</title>
-<link>https://www.fixmystreet.com/report/8384732</link>
-<description>Customer reporting streetlight outage at location. States that they have spoken to the management company for the area, who have stated that these roads have been adopted and are public.&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8384732&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Street light is permanently out</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8384732</guid>
-<pubDate>Thu, 06 Nov 2025 13:02:54 +0000</pubDate>
-<georss:point>51.901528 -2.047728</georss:point>
-</item>
-<item>
-<title>Flytipping, 6th November</title>
-<link>https://www.fixmystreet.com/report/8384520</link>
-<description>Domestic waste tipped by the gas regulator building&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8384520.0.jpeg?6323172d&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Manor Road, Kingsditch, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8384520&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Flytipping</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8384520</guid>
-<pubDate>Thu, 06 Nov 2025 12:54:48 +0000</pubDate>
-<georss:point>51.92093 -2.100176</georss:point>
-</item>
-<item>
-<title>Gutters require cleaning., 6th November</title>
-<link>https://www.fixmystreet.com/report/8384322</link>
-<description>The gutters of Jersey Avenue are full of decomposed leaves with grass and weeds growing out of them. The entire road needs to be swept and cleaned. This is the third report for the same issue, previous attempts have been limited to a small selection of the Avenue, the clean up after the weedkiller application in the summer was never completed.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 10, Jersey Avenue, Ewens Farm, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8384322&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Street cleaning</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8384322</guid>
-<pubDate>Thu, 06 Nov 2025 12:21:42 +0000</pubDate>
-<georss:point>51.901151 -2.063122</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW10 Potholes problem, 6th November</title>
-<link>https://www.fixmystreet.com/report/8384221</link>
-<description>15DB 28DAY &amp;#10;CW POTHOLE APPROX 1600 X 600 X 55MM &amp;#10;TEMPORARY ROAD CLOSURE TM (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8384221&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW10 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8384221</guid>
-<pubDate>Thu, 06 Nov 2025 11:39:03 +0000</pubDate>
-<georss:point>51.9167140161184 -2.11333296580327</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW10 Potholes problem, 6th November</title>
-<link>https://www.fixmystreet.com/report/8384048</link>
-<description>C/W pothole patch - 1600mm x 3000mm x 50mm - 4.80m2 - 28 days - stop &amp;amp; Go (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8384048&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW10 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8384048</guid>
-<pubDate>Thu, 06 Nov 2025 11:00:43 +0000</pubDate>
-<georss:point>51.8525950808927 -2.18887124708814</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Vegetation problem, 6th November</title>
-<link>https://www.fixmystreet.com/report/8384047</link>
-<description>PLEASE CUT BACK HEDGE  AND VEGETATION TO BOUNDARY &amp;#10;42M &amp;#10;FOOTWAY CLOSURE &amp;#10;MARKED (Overgrown Hedge)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8384047&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Vegetation</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8384047</guid>
-<pubDate>Thu, 06 Nov 2025 10:59:54 +0000</pubDate>
-<georss:point>51.9167110707239 -2.04023030392106</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Kerbs and Channels problem, 6th November</title>
-<link>https://www.fixmystreet.com/report/8383862</link>
-<description>Kerbing Defects CW  in hours 2hr Emergency 1 x 900mm radius &amp;#10;Stop and go TM &amp;#10;Junction Heathdean Rd Cheltenham Rd East&amp;#10;Stats required &amp;#10;TEMPORARY MAKE SAFE REQUIRED 28 DAY ALREADY RAISED (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8383862&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Kerbs and Channels</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8383862</guid>
-<pubDate>Thu, 06 Nov 2025 10:40:02 +0000</pubDate>
-<georss:point>51.8844239 -2.191786</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW10 Potholes problem, 6th November</title>
-<link>https://www.fixmystreet.com/report/8383860</link>
-<description>28DAY &amp;#10;CW POTHOLE APPROX 1000 X 600 X 40MM &amp;#10;2 WAY STOP AND GO TM (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8383860&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW10 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8383860</guid>
-<pubDate>Thu, 06 Nov 2025 10:39:14 +0000</pubDate>
-<georss:point>51.8320269497637 -2.11694629058067</georss:point>
 </item>
 </channel>
 </rss>
