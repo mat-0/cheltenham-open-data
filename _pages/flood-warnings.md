@@ -44,12 +44,7 @@ Continue to take care on waterside roads and footpaths and don't put yourself in
 
 
 - Flood alert: Wye Estuary in Gloucestershire
-- High tides this evening may lead to flooding. 
-Flooding is possible from 6pm today 06/11/25 and tomorrow morning from 7am, 07/11/25 
-A series of high tides is due over the next few days. Flooding may affect low lying land and roads adjacent the Wye Estuary from Redbrook to Chepstow. Predicted peaks:- Avonmouth Portbury 7.3m to 7.6m this evening, 06/11/25, Newport 7.1m to 7.3m this evening , 06/11/25. Tomorrow morning's high tide is forecast between 7 and 8 am, 07/11/25, predicted peaks :- Avonmouth Portbury 7.3m to 7.6m, Newport 7.0m to 7.2m. 
-We are closely monitoring the situation . 
-Take care and avoid walking, cycling or driving through flood water . 
-This message will be updated by 11:00AM on 07 November 2025 or as the situation changes.
+- High tides this evening may lead to flooding. Flooding is possible from 8pm today 07/11/25 and tomorrow morning from 8am 08/11/25. Flooding may affect low lying land and roads adjacent the Wye Estuary from Redbrook to Chepstow. Predicted peaks:- Avonmouth Portbury 7.4m to 7.7m this evening, 07/11/25, Newport 6.9m to 7.2m this evening, 07/11/25. Tomorrow morning's high tide is forecast between 8 and 9am, 08/11/25. Predicted peaks :- Avonmouth Portbury 7.3m to 7.6m, Newport 6.8m to 7.1m. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 11:00AM on 08 November 2025 or as the situation changes.
 
 
 <!-- flood_marker ends -->
