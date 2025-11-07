@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Broken glass from a bus stop, many large pieces of glass lying on the ground, very unsafe, 7th November :- [8390686](https://www.fixmystreet.com/report/8390686)
 - Pothole, 7th November :- [8390577](https://www.fixmystreet.com/report/8390577)
 - Pothole around the draincover, 7th November :- [8390558](https://www.fixmystreet.com/report/8390558)
 - Missing street sign for Inkerman Lane. The issue has been present for years., 7th November :- [8390490](https://www.fixmystreet.com/report/8390490)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Tree is damaged problem, 7th November :- [8388938](https://www.fixmystreet.com/report/8388938)
 - TMC - Defects -CW6 Potholes  problem, 7th November :- [8388814](https://www.fixmystreet.com/report/8388814)
 - TMC - Defects -CW6 Potholes  problem, 7th November :- [8388813](https://www.fixmystreet.com/report/8388813)
-- TMC - Defects - Other FW6  Surface problem, 7th November :- [8388589](https://www.fixmystreet.com/report/8388589)
 
 <!-- fix_marker ends -->
