@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Numerous potholes road surface is horrible, 7th November :- [8387053](https://www.fixmystreet.com/report/8387053)
 - Road work signs left here, 6th November :- [8386898](https://www.fixmystreet.com/report/8386898)
 - Number of street lights not working., 6th November :- [8386731](https://www.fixmystreet.com/report/8386731)
 - Swing seats are covered in algae/mould, 6th November :- [8386178](https://www.fixmystreet.com/report/8386178)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Tree is damaged problem, 6th November :- [8383680](https://www.fixmystreet.com/report/8383680)
 - TMC - Defects -CW6 Potholes  problem, 6th November :- [8383688](https://www.fixmystreet.com/report/8383688)
 - Road Barriers and cone left., 6th November :- [8383469](https://www.fixmystreet.com/report/8383469)
-- TMC - Defects -CW10 Potholes problem, 6th November :- [8383479](https://www.fixmystreet.com/report/8383479)
 
 <!-- fix_marker ends -->
