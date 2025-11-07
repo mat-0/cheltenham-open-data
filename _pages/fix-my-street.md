@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Wet leaves on pavement at bus stops either side of the road make it dangerous getting off the bus. Also blocking drains causing flood issue., 7th November :- [8387364](https://www.fixmystreet.com/report/8387364)
+- The green light only lasts for less than 3 seconds. Exiting from Lavington dr and further has become troublesome with this short signal time., 7th November :- [8387337](https://www.fixmystreet.com/report/8387337)
+- Flyposter 'Pristine' on road furniture at New Road, Southam/B4632 junction, 7th November :- [8387262](https://www.fixmystreet.com/report/8387262)
+- TMC - Defects -CW10 Potholes problem, 7th November :- [8387276](https://www.fixmystreet.com/report/8387276)
 - Numerous potholes road surface is horrible, 7th November :- [8387053](https://www.fixmystreet.com/report/8387053)
 - Road work signs left here, 6th November :- [8386898](https://www.fixmystreet.com/report/8386898)
 - Number of street lights not working., 6th November :- [8386731](https://www.fixmystreet.com/report/8386731)
@@ -24,10 +28,6 @@ permalink: /fix-my-street
 - TMC - Defects -CW10 Potholes problem, 6th November :- [8384048](https://www.fixmystreet.com/report/8384048)
 - TMC - Defects - Vegetation problem, 6th November :- [8384047](https://www.fixmystreet.com/report/8384047)
 - TMC - Defects - Kerbs and Channels problem, 6th November :- [8383862](https://www.fixmystreet.com/report/8383862)
-- TMC - Defects -CW10 Potholes problem, 6th November :- [8383859](https://www.fixmystreet.com/report/8383859)
 - TMC - Defects -CW10 Potholes problem, 6th November :- [8383860](https://www.fixmystreet.com/report/8383860)
-- Tree is damaged problem, 6th November :- [8383680](https://www.fixmystreet.com/report/8383680)
-- TMC - Defects -CW6 Potholes  problem, 6th November :- [8383688](https://www.fixmystreet.com/report/8383688)
-- Road Barriers and cone left., 6th November :- [8383469](https://www.fixmystreet.com/report/8383469)
 
 <!-- fix_marker ends -->

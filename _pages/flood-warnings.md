@@ -29,11 +29,19 @@ Avoid coastal roads, which may be flooded . 
 This message will be updated by 2:00PM on 07 November 2025 or as the situation changes.
 
 
-- Flood alert: River Wye in Herefordshire
-- River levels remain high and may lead to flooding. Flooding is possible on 06 November 2025. Flooding may affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations affected may include the A438 between Letton & Willersey, Byford, Bredwardine & Hereford. Road closures & diversions on the A438 may be in force. Peaks:- Hay on Wye peaked at 3.0m 05/11 AM, Bredwardine peaked at 4.7m on 05/11 PM, Belmont peaked 4.8m on 05/11 PM, Old Wye Bridge peaked at 4.2m on 05/11 PM, Mordiford peaked at 4.3m on 06/11 AM, Ross on Wye peaked at 3.6m on 06/11 PM. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 9AM on 07 November 2025 or as the situation changes.
+- Warning no longer in force: River Wye in Herefordshire
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Weather conditions are expected to improve and no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
 
-- Flood alert: River Wye in Gloucestershire
-- River levels remain high and may lead to flooding. Flooding is possible on 06 November 2025. Flooding may affect low lying land and roads along the River Wye. Peaks:- Ross on Wye peaked at 3.6m on 06/11 PM. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 9AM on 07 November 2025 or as the situation changes
+
+- Warning no longer in force: River Wye in Gloucestershire
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Weather conditions are expected to improve and no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
+
 
 - Flood alert: Wye Estuary in Gloucestershire
 - High tides this evening may lead to flooding. 
