@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 12 inch pothole on Hilltop Road adjacent to 'One Stop' Shop, 8th November :- [8392091](https://www.fixmystreet.com/report/8392091)
+- Broken paving slabs in Tivoli Street, 8th November :- [8391697](https://www.fixmystreet.com/report/8391697)
 - Massive tree, 8th November :- [8391072](https://www.fixmystreet.com/report/8391072)
 - Very dead tree, only managed a few green leaves this year, 8th November :- [8391070](https://www.fixmystreet.com/report/8391070)
 - Broken glass from a bus stop, many large pieces of glass lying on the ground, very unsafe, 7th November :- [8390686](https://www.fixmystreet.com/report/8390686)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Decomposed fox on side of carriageway, 7th November :- [8389183](https://www.fixmystreet.com/report/8389183)
 - The drain is blocked problem, 7th November :- [8389089](https://www.fixmystreet.com/report/8389089)
 - TMC - Defects - Vegetation problem, 7th November :- [8388945](https://www.fixmystreet.com/report/8388945)
-- Pothole is on the bend so might catch motorists unawares., 7th November :- [8388865](https://www.fixmystreet.com/report/8388865)
-- Tree is damaged problem, 7th November :- [8388938](https://www.fixmystreet.com/report/8388938)
 
 <!-- fix_marker ends -->
