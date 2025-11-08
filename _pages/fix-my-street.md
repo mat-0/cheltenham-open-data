@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Sunken trench following roadworks, 8th November :- [8393350](https://www.fixmystreet.com/report/8393350)
 - Streetlight is out, 8th November :- [8393223](https://www.fixmystreet.com/report/8393223)
 - ADE63 - stile completely overgrown, 8th November :- [8393108](https://www.fixmystreet.com/report/8393108)
 - Volunteer litter pick bags ready for collection, 8th November :- [8393021](https://www.fixmystreet.com/report/8393021)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Footways Slabs problem, 7th November :- [8389569](https://www.fixmystreet.com/report/8389569)
 - Dog mess near entrance to alleyway TEnsing Rd, 7th November :- [8389375](https://www.fixmystreet.com/report/8389375)
 - TMC - Defects -other CW6 problem, 7th November :- [8389406](https://www.fixmystreet.com/report/8389406)
-- Fly tipping, 7th November :- [8389285](https://www.fixmystreet.com/report/8389285)
 
 <!-- fix_marker ends -->
