@@ -9,10 +9,14 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Streetlight is out, 8th November :- [8393223](https://www.fixmystreet.com/report/8393223)
+- ADE63 - stile completely overgrown, 8th November :- [8393108](https://www.fixmystreet.com/report/8393108)
 - Volunteer litter pick bags ready for collection, 8th November :- [8393021](https://www.fixmystreet.com/report/8393021)
 - Yet more fly tipping., 8th November :- [8392391](https://www.fixmystreet.com/report/8392391)
+- Street light permanently on, 8th November :- [8392287](https://www.fixmystreet.com/report/8392287)
 - Area of hard and uneven road surface outside and between Nos 7 & 9 Boulton Road Cheltenham GL50 4RZ. Distressed surface with hard edges. Vehicles swerving dangerously to other side of road to avoid causing potential collision at left hand bend further on., 8th November :- [8392161](https://www.fixmystreet.com/report/8392161)
 - 12 inch pothole on Hilltop Road adjacent to 'One Stop' Shop, 8th November :- [8392091](https://www.fixmystreet.com/report/8392091)
+- Large and deep hole in Mill Lane, Brockworth near junction with Vicarage Lane., 8th November :- [8391899](https://www.fixmystreet.com/report/8391899)
 - Broken paving slabs in Tivoli Street, 8th November :- [8391697](https://www.fixmystreet.com/report/8391697)
 - Massive tree, 8th November :- [8391072](https://www.fixmystreet.com/report/8391072)
 - Very dead tree, only managed a few green leaves this year, 8th November :- [8391070](https://www.fixmystreet.com/report/8391070)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Dog mess near entrance to alleyway TEnsing Rd, 7th November :- [8389375](https://www.fixmystreet.com/report/8389375)
 - TMC - Defects -other CW6 problem, 7th November :- [8389406](https://www.fixmystreet.com/report/8389406)
 - Fly tipping, 7th November :- [8389285](https://www.fixmystreet.com/report/8389285)
-- TMC - Defects - Vegetation problem, 7th November :- [8389405](https://www.fixmystreet.com/report/8389405)
-- Fly tipping, 7th November :- [8389253](https://www.fixmystreet.com/report/8389253)
-- TMC - Defects - Signs & Street Furniture problem, 7th November :- [8389276](https://www.fixmystreet.com/report/8389276)
-- TMC - Defects -CW6 Potholes  problem, 7th November :- [8389275](https://www.fixmystreet.com/report/8389275)
 
 <!-- fix_marker ends -->
