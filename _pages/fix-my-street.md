@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Massive tree, 8th November :- [8391072](https://www.fixmystreet.com/report/8391072)
+- Very dead tree, only managed a few green leaves this year, 8th November :- [8391070](https://www.fixmystreet.com/report/8391070)
 - Broken glass from a bus stop, many large pieces of glass lying on the ground, very unsafe, 7th November :- [8390686](https://www.fixmystreet.com/report/8390686)
 - Pothole, 7th November :- [8390577](https://www.fixmystreet.com/report/8390577)
 - Pothole around the draincover, 7th November :- [8390558](https://www.fixmystreet.com/report/8390558)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 7th November :- [8388945](https://www.fixmystreet.com/report/8388945)
 - Pothole is on the bend so might catch motorists unawares., 7th November :- [8388865](https://www.fixmystreet.com/report/8388865)
 - Tree is damaged problem, 7th November :- [8388938](https://www.fixmystreet.com/report/8388938)
-- TMC - Defects -CW6 Potholes  problem, 7th November :- [8388814](https://www.fixmystreet.com/report/8388814)
-- TMC - Defects -CW6 Potholes  problem, 7th November :- [8388813](https://www.fixmystreet.com/report/8388813)
 
 <!-- fix_marker ends -->
