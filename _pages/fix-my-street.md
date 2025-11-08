@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Volunteer litter pick bags ready for collection, 8th November :- [8393021](https://www.fixmystreet.com/report/8393021)
 - Yet more fly tipping., 8th November :- [8392391](https://www.fixmystreet.com/report/8392391)
 - Area of hard and uneven road surface outside and between Nos 7 & 9 Boulton Road Cheltenham GL50 4RZ. Distressed surface with hard edges. Vehicles swerving dangerously to other side of road to avoid causing potential collision at left hand bend further on., 8th November :- [8392161](https://www.fixmystreet.com/report/8392161)
 - 12 inch pothole on Hilltop Road adjacent to 'One Stop' Shop, 8th November :- [8392091](https://www.fixmystreet.com/report/8392091)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Fly tipping, 7th November :- [8389253](https://www.fixmystreet.com/report/8389253)
 - TMC - Defects - Signs & Street Furniture problem, 7th November :- [8389276](https://www.fixmystreet.com/report/8389276)
 - TMC - Defects -CW6 Potholes  problem, 7th November :- [8389275](https://www.fixmystreet.com/report/8389275)
-- Decomposed fox on side of carriageway, 7th November :- [8389183](https://www.fixmystreet.com/report/8389183)
 
 <!-- fix_marker ends -->
