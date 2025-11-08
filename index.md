@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Saturday, 08 November 2025
 
-- The average temperature today is 10.12˚C,
-- With highs of 11.83˚C and lows of 9.73˚C,
-- It may feel like 9.64˚C with overcast clouds
-- The wind speed is 2.24m/s and visibility is 10000m
-- The pressure is 1010hPa and humidity is 94%
+- The average temperature today is 10.8˚C,
+- With highs of 12.21˚C and lows of 9.83˚C,
+- It may feel like 10.36˚C with few clouds
+- The wind speed is 2.06m/s and visibility is 10000m
+- The pressure is 1012hPa and humidity is 93%
 - The sun will rise at 07:15 and set at 16:28
 
 <!-- weather_marker ends -->
