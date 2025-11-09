@@ -9,6 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Rubbish, cans and bottles, 9th November :- [8394416](https://www.fixmystreet.com/report/8394416)
+- The back of Sainsbury's an abandoned caravan, 9th November :- [8394403](https://www.fixmystreet.com/report/8394403)
+- Fly tipping, 9th November :- [8394393](https://www.fixmystreet.com/report/8394393)
+- Overflowing bin, 9th November :- [8394333](https://www.fixmystreet.com/report/8394333)
+- ?wardrobe and cupboard left, 9th November :- [8394262](https://www.fixmystreet.com/report/8394262)
+- All along the road is terrible!!, 9th November :- [8394249](https://www.fixmystreet.com/report/8394249)
+- Grass verge not being maintained, 9th November :- [8394178](https://www.fixmystreet.com/report/8394178)
 - Holes around sunken drain, 9th November :- [8393569](https://www.fixmystreet.com/report/8393569)
 - Sunken drain and potholes, 9th November :- [8393567](https://www.fixmystreet.com/report/8393567)
 - Sunken manhole and pothole, 9th November :- [8393565](https://www.fixmystreet.com/report/8393565)
@@ -22,12 +29,5 @@ permalink: /fix-my-street
 - Area of hard and uneven road surface outside and between Nos 7 & 9 Boulton Road Cheltenham GL50 4RZ. Distressed surface with hard edges. Vehicles swerving dangerously to other side of road to avoid causing potential collision at left hand bend further on., 8th November :- [8392161](https://www.fixmystreet.com/report/8392161)
 - 12 inch pothole on Hilltop Road adjacent to 'One Stop' Shop, 8th November :- [8392091](https://www.fixmystreet.com/report/8392091)
 - Large and deep hole in Mill Lane, Brockworth near junction with Vicarage Lane., 8th November :- [8391899](https://www.fixmystreet.com/report/8391899)
-- Broken paving slabs in Tivoli Street, 8th November :- [8391697](https://www.fixmystreet.com/report/8391697)
-- Massive tree, 8th November :- [8391072](https://www.fixmystreet.com/report/8391072)
-- Very dead tree, only managed a few green leaves this year, 8th November :- [8391070](https://www.fixmystreet.com/report/8391070)
-- Broken glass from a bus stop, many large pieces of glass lying on the ground, very unsafe, 7th November :- [8390686](https://www.fixmystreet.com/report/8390686)
-- Pothole, 7th November :- [8390577](https://www.fixmystreet.com/report/8390577)
-- Pothole around the draincover, 7th November :- [8390558](https://www.fixmystreet.com/report/8390558)
-- Missing street sign for Inkerman Lane. The issue has been present for years., 7th November :- [8390490](https://www.fixmystreet.com/report/8390490)
 
 <!-- fix_marker ends -->

@@ -19,11 +19,5 @@ This project fetches flood warning data for the Gloucestershire area and publish
 ## Latest
 
 <!-- flood_marker starts -->
-- Warning no longer in force: Tidal River Avon at Bristol, Pill and Shirehampton
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-The previous tide of concern has now passed,  the weather is more settled and no flooding is expected. The series or high spring tides has now finished and peak high tide levels are now receding. 
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.  
-If you have been evacuated only return to your property once the emergency services have advised that it is safe to do so. Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.  
-
 
 <!-- flood_marker ends -->
