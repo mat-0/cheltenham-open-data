@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Rugby legends to compete in charity match for MND ([13 hours ago](https://www.bbc.com/news/articles/ce3xdypvkywo?at_medium=RSS&at_campaign=rss))
-- New cycle network hailed as a 'gamechanger' ([18 hours ago](https://www.bbc.com/news/articles/cd9kgjg72kjo?at_medium=RSS&at_campaign=rss))
-- Christmas lights switch-on events near you ([18 hours ago](https://www.bbc.com/news/articles/c751xrkvl4ko?at_medium=RSS&at_campaign=rss))
-- Death row gran lands in UK after 13 years in prison ([19 hours ago](https://gloucesternewscentre.co.uk/death-row-gran-lands-in-uk-after-13-years-in-prison/))
+- Rugby legends to compete in charity match for MND ([15 hours ago](https://www.bbc.com/news/articles/ce3xdypvkywo?at_medium=RSS&at_campaign=rss))
+- New cycle network hailed as a 'gamechanger' ([19 hours ago](https://www.bbc.com/news/articles/cd9kgjg72kjo?at_medium=RSS&at_campaign=rss))
+- Christmas lights switch-on events near you ([20 hours ago](https://www.bbc.com/news/articles/c751xrkvl4ko?at_medium=RSS&at_campaign=rss))
+- Death row gran lands in UK after 13 years in prison ([21 hours ago](https://gloucesternewscentre.co.uk/death-row-gran-lands-in-uk-after-13-years-in-prison/))
 - Man jailed over illegal cigarettes and tobacco ([1 days ago](https://www.bbc.com/news/articles/cwykw1qrqqlo?at_medium=RSS&at_campaign=rss))
 - School worker faces trial for pupil sex offences ([1 days ago](https://www.bbc.com/news/articles/cn513zwgpl4o?at_medium=RSS&at_campaign=rss))
 - Strictly judge bringing show to 'wonderful' town ([1 days ago](https://www.bbc.com/news/articles/c051v5666zlo?at_medium=RSS&at_campaign=rss))
