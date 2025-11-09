@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Rugby legends to compete in charity match for MND ([15 hours ago](https://www.bbc.com/news/articles/ce3xdypvkywo?at_medium=RSS&at_campaign=rss))
-- New cycle network hailed as a 'gamechanger' ([19 hours ago](https://www.bbc.com/news/articles/cd9kgjg72kjo?at_medium=RSS&at_campaign=rss))
-- Christmas lights switch-on events near you ([20 hours ago](https://www.bbc.com/news/articles/c751xrkvl4ko?at_medium=RSS&at_campaign=rss))
-- Death row gran lands in UK after 13 years in prison ([21 hours ago](https://gloucesternewscentre.co.uk/death-row-gran-lands-in-uk-after-13-years-in-prison/))
+- Rugby legends to compete in charity match for MND ([17 hours ago](https://www.bbc.com/news/articles/ce3xdypvkywo?at_medium=RSS&at_campaign=rss))
+- New cycle network hailed as a 'gamechanger' ([21 hours ago](https://www.bbc.com/news/articles/cd9kgjg72kjo?at_medium=RSS&at_campaign=rss))
+- Christmas lights switch-on events near you ([21 hours ago](https://www.bbc.com/news/articles/c751xrkvl4ko?at_medium=RSS&at_campaign=rss))
+- Death row gran lands in UK after 13 years in prison ([23 hours ago](https://gloucesternewscentre.co.uk/death-row-gran-lands-in-uk-after-13-years-in-prison/))
 - Man jailed over illegal cigarettes and tobacco ([1 days ago](https://www.bbc.com/news/articles/cwykw1qrqqlo?at_medium=RSS&at_campaign=rss))
 - School worker faces trial for pupil sex offences ([1 days ago](https://www.bbc.com/news/articles/cn513zwgpl4o?at_medium=RSS&at_campaign=rss))
 - Strictly judge bringing show to 'wonderful' town ([1 days ago](https://www.bbc.com/news/articles/c051v5666zlo?at_medium=RSS&at_campaign=rss))
@@ -24,7 +24,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Home births suspended over safety concerns ([1 days ago](https://www.bbc.com/news/articles/cq83g7l2v7jo?at_medium=RSS&at_campaign=rss))
 - Walking football 'is special', says world champion ([1 days ago](https://www.bbc.com/news/articles/c0qp4wz0x4wo?at_medium=RSS&at_campaign=rss))
 - 'Taking photos got me out the house after my stroke' ([1 days ago](https://www.bbc.com/news/articles/ce8gylw3851o?at_medium=RSS&at_campaign=rss))
-- British grandmother flies home after 12 years on Indonesian death row ([1 days ago](https://www.bbc.com/news/articles/cd043m905e1o?at_medium=RSS&at_campaign=rss))
+- British grandmother flies home after 12 years on Indonesian death row ([2 days ago](https://www.bbc.com/news/articles/cd043m905e1o?at_medium=RSS&at_campaign=rss))
 - Festive countdown begins as Cobalt launches Christmas charity events ([2 days ago](https://gloucesternewscentre.co.uk/festive-countdown-begins-as-cobalt-launches-christmas-charity-events/))
 - Concerns talks on Cheltenham maternity unit won’t begin until spring ([2 days ago](https://gloucesternewscentre.co.uk/concerns-talks-on-cheltenham-maternity-unit-wont-begin-until-spring/))
 - Town holds mock funeral over housing plans ([2 days ago](https://www.bbc.com/news/articles/ckgk8j8kxy9o?at_medium=RSS&at_campaign=rss))
