@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Holes around sunken drain, 9th November :- [8393569](https://www.fixmystreet.com/report/8393569)
+- Sunken drain and potholes, 9th November :- [8393567](https://www.fixmystreet.com/report/8393567)
+- Sunken manhole and pothole, 9th November :- [8393565](https://www.fixmystreet.com/report/8393565)
+- Around drain by lights, 9th November :- [8393561](https://www.fixmystreet.com/report/8393561)
 - Sunken trench following roadworks, 8th November :- [8393350](https://www.fixmystreet.com/report/8393350)
 - Streetlight is out, 8th November :- [8393223](https://www.fixmystreet.com/report/8393223)
 - ADE63 - stile completely overgrown, 8th November :- [8393108](https://www.fixmystreet.com/report/8393108)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Pothole, 7th November :- [8390577](https://www.fixmystreet.com/report/8390577)
 - Pothole around the draincover, 7th November :- [8390558](https://www.fixmystreet.com/report/8390558)
 - Missing street sign for Inkerman Lane. The issue has been present for years., 7th November :- [8390490](https://www.fixmystreet.com/report/8390490)
-- Two very large holes in pavement that our car tyres bang down into when we pull on to our drive., 7th November :- [8389912](https://www.fixmystreet.com/report/8389912)
-- TMC - Defects - Footways Slabs problem, 7th November :- [8389569](https://www.fixmystreet.com/report/8389569)
-- Dog mess near entrance to alleyway TEnsing Rd, 7th November :- [8389375](https://www.fixmystreet.com/report/8389375)
-- TMC - Defects -other CW6 problem, 7th November :- [8389406](https://www.fixmystreet.com/report/8389406)
 
 <!-- fix_marker ends -->
