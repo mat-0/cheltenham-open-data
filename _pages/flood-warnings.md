@@ -25,12 +25,5 @@ The previous tide of concern has now passed,  the weather is more settled and no
 We will continue to monitor the situation and will issue further alerts or warnings if necessary.  
 If you have been evacuated only return to your property once the emergency services have advised that it is safe to do so. Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.  
 
-- Warning no longer in force: Wye Estuary in Gloucestershire
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Weather conditions are expected to improve and no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.  
-
-
 
 <!-- flood_marker ends -->
