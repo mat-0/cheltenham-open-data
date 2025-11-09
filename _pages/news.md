@@ -12,9 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- West of England falls silent for Remembrance Day ([3 hours ago](https://www.bbc.com/news/articles/cn51p7qex00o?at_medium=RSS&at_campaign=rss))
-- Medieval wall uncovered at historic monument ([11 hours ago](https://www.bbc.com/news/articles/cj41lk0nlxko?at_medium=RSS&at_campaign=rss))
-- 'Death row gran returns to UK' and 'weapon picnic benches' ([11 hours ago](https://www.bbc.com/news/articles/c2em4nwmg28o?at_medium=RSS&at_campaign=rss))
+- Gloucestershire in pictures: Fireworks and Pudsey Bear ([1 hours ago](https://www.bbc.com/news/articles/cm2l8xmj214o?at_medium=RSS&at_campaign=rss))
+- West of England falls silent for Remembrance Day ([5 hours ago](https://www.bbc.com/news/articles/cn51p7qex00o?at_medium=RSS&at_campaign=rss))
+- Medieval wall uncovered at historic monument ([13 hours ago](https://www.bbc.com/news/articles/cj41lk0nlxko?at_medium=RSS&at_campaign=rss))
+- 'Death row gran returns to UK' and 'weapon picnic benches' ([13 hours ago](https://www.bbc.com/news/articles/c2em4nwmg28o?at_medium=RSS&at_campaign=rss))
 - Rugby legends to compete in charity match for MND ([1 days ago](https://www.bbc.com/news/articles/ce3xdypvkywo?at_medium=RSS&at_campaign=rss))
 - New cycle network hailed as a 'gamechanger' ([1 days ago](https://www.bbc.com/news/articles/cd9kgjg72kjo?at_medium=RSS&at_campaign=rss))
 - Christmas lights switch-on events near you ([1 days ago](https://www.bbc.com/news/articles/c751xrkvl4ko?at_medium=RSS&at_campaign=rss))
@@ -33,7 +34,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Cheltenham private hire operator prosecuted for illegal bookings ([3 days ago](https://gloucesternewscentre.co.uk/cheltenham-private-hire-operator-prosecuted-for-illegal-bookings/))
 - Successful prosecution of a private hire operator working without appropriate licence ([3 days ago](https://www.cheltenham.gov.uk/news/article/3068/successful_prosecution_of_a_private_hire_operator_working_without_appropriate_licence))
 - New licensing requirements for keeping primates ([3 days ago](https://www.cheltenham.gov.uk/news/article/3067/new_licensing_requirements_for_keeping_primates))
-- Birthplace of vaccinations needs urgent repairs ([3 days ago](https://www.bbc.com/news/articles/cy40q9n2v1do?at_medium=RSS&at_campaign=rss))
 - YMCA Cheltenham reports record demand as homelessness rises across Gloucestershire ([3 days ago](https://gloucesternewscentre.co.uk/ymca-cheltenham-reports-record-demand-as-homelessness-rises-across-gloucestershire/))
 - Salvation Army launches Christmas toy appeal to support struggling families ([3 days ago](https://gloucesternewscentre.co.uk/salvation-army-launches-christmas-toy-appeal-to-support-struggling-families/))
 - Guide to Remembrance services across West Country ([3 days ago](https://www.bbc.com/news/articles/cy9p51rwgg7o?at_medium=RSS&at_campaign=rss))

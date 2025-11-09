@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street light doesnt ever come on, 9th November :- [8395844](https://www.fixmystreet.com/report/8395844)
 - Temp traffic lights, 9th November :- [8395482](https://www.fixmystreet.com/report/8395482)
 - Pothole that dips in and out and creates a nasty camber that is difficult to avoid at speed and with traffic in both lanes, 9th November :- [8395473](https://www.fixmystreet.com/report/8395473)
 - More fly tipping, 9th November :- [8394926](https://www.fixmystreet.com/report/8394926)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Streetlight is out, 8th November :- [8393223](https://www.fixmystreet.com/report/8393223)
 - ADE63 - stile completely overgrown, 8th November :- [8393108](https://www.fixmystreet.com/report/8393108)
 - Volunteer litter pick bags ready for collection, 8th November :- [8393021](https://www.fixmystreet.com/report/8393021)
-- Yet more fly tipping., 8th November :- [8392391](https://www.fixmystreet.com/report/8392391)
 
 <!-- fix_marker ends -->
