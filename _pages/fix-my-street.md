@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- More fly tipping, 9th November :- [8394926](https://www.fixmystreet.com/report/8394926)
 - Rubbish, cans and bottles, 9th November :- [8394416](https://www.fixmystreet.com/report/8394416)
 - The back of Sainsbury's an abandoned caravan, 9th November :- [8394403](https://www.fixmystreet.com/report/8394403)
 - Fly tipping, 9th November :- [8394393](https://www.fixmystreet.com/report/8394393)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Street light permanently on, 8th November :- [8392287](https://www.fixmystreet.com/report/8392287)
 - Area of hard and uneven road surface outside and between Nos 7 & 9 Boulton Road Cheltenham GL50 4RZ. Distressed surface with hard edges. Vehicles swerving dangerously to other side of road to avoid causing potential collision at left hand bend further on., 8th November :- [8392161](https://www.fixmystreet.com/report/8392161)
 - 12 inch pothole on Hilltop Road adjacent to 'One Stop' Shop, 8th November :- [8392091](https://www.fixmystreet.com/report/8392091)
-- Large and deep hole in Mill Lane, Brockworth near junction with Vicarage Lane., 8th November :- [8391899](https://www.fixmystreet.com/report/8391899)
 
 <!-- fix_marker ends -->
