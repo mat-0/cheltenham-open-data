@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Sunday, 09 November 2025
 
-- The average temperature today is 13.37˚C,
-- With highs of 13.86˚C and lows of 12.94˚C,
-- It may feel like 12.96˚C with light rain
-- The wind speed is 5.14m/s and visibility is 10000m
-- The pressure is 1010hPa and humidity is 84%
+- The average temperature today is 13.23˚C,
+- With highs of 13.62˚C and lows of 12.69˚C,
+- It may feel like 12.85˚C with moderate rain
+- The wind speed is 6.17m/s and visibility is 10000m
+- The pressure is 1009hPa and humidity is 86%
 - The sun will rise at 07:17 and set at 16:27
 
 <!-- weather_marker ends -->

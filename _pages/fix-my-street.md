@@ -17,6 +17,7 @@ permalink: /fix-my-street
 - ?wardrobe and cupboard left, 9th November :- [8394262](https://www.fixmystreet.com/report/8394262)
 - All along the road is terrible!!, 9th November :- [8394249](https://www.fixmystreet.com/report/8394249)
 - Grass verge not being maintained, 9th November :- [8394178](https://www.fixmystreet.com/report/8394178)
+- Footpath sign has fallen apart, 9th November :- [8393932](https://www.fixmystreet.com/report/8393932)
 - Holes around sunken drain, 9th November :- [8393569](https://www.fixmystreet.com/report/8393569)
 - Sunken drain and potholes, 9th November :- [8393567](https://www.fixmystreet.com/report/8393567)
 - Sunken manhole and pothole, 9th November :- [8393565](https://www.fixmystreet.com/report/8393565)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Yet more fly tipping., 8th November :- [8392391](https://www.fixmystreet.com/report/8392391)
 - Street light permanently on, 8th November :- [8392287](https://www.fixmystreet.com/report/8392287)
 - Area of hard and uneven road surface outside and between Nos 7 & 9 Boulton Road Cheltenham GL50 4RZ. Distressed surface with hard edges. Vehicles swerving dangerously to other side of road to avoid causing potential collision at left hand bend further on., 8th November :- [8392161](https://www.fixmystreet.com/report/8392161)
-- 12 inch pothole on Hilltop Road adjacent to 'One Stop' Shop, 8th November :- [8392091](https://www.fixmystreet.com/report/8392091)
 
 <!-- fix_marker ends -->
