@@ -1,522 +1,60 @@
 {
-  "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
-  "meta": {
-    "publisher": "Environment Agency",
-    "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-    "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
-    "version": "0.9",
-    "comment": "Status: Beta service",
-    "hasFormat": [
-      "http://environment.data.gov.uk/flood-monitoring/id/floods.csv",
-      "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf",
-      "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl",
-      "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
+    "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
+    "meta": {
+        "publisher": "Environment Agency",
+        "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
+        "version": "0.9",
+        "comment": "Status: Beta service",
+        "hasFormat": [
+            "http://environment.data.gov.uk/flood-monitoring/id/floods.csv?county=Gloucestershire",
+            "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf?county=Gloucestershire",
+            "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl?county=Gloucestershire",
+            "http://environment.data.gov.uk/flood-monitoring/id/floods.html?county=Gloucestershire"
+        ]
+    },
+    "items": [
+        {
+            "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATAVN1",
+            "description": "Tidal River Avon at Bristol, Pill and Shirehampton",
+            "eaAreaName": "Wessex",
+            "eaRegionName": "No longer used",
+            "floodArea": {
+                "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATAVN1",
+                "county": "City of Bristol, North Somerset, South Gloucestershire",
+                "notation": "112WATAVN1",
+                "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATAVN1/polygon",
+                "riverOrSea": "River Avon"
+            },
+            "floodAreaID": "112WATAVN1",
+            "isTidal": true,
+            "message": "There is no longer a threat of flooding, though standing water and debris may still remain.\u00a0\nThe previous tide of concern has now passed,  the weather is more settled and no flooding is expected. The series or high spring tides has now finished and peak high tide levels are now receding.\u00a0\nWe will continue to monitor the situation and will issue further alerts or warnings if necessary. \u00a0\nIf you have been evacuated only return to your property once the emergency services have advised that it is safe to do so. Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. \u00a0\n",
+            "severity": "Warning no longer in force",
+            "severityLevel": 4,
+            "timeMessageChanged": "2025-11-08T11:16:00",
+            "timeRaised": "2025-11-08T11:16:23",
+            "timeSeverityChanged": "2025-11-08T11:16:00"
+        },
+        {
+            "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAT122",
+            "description": "Wye Estuary in Gloucestershire",
+            "eaAreaName": "West Midlands",
+            "eaRegionName": "No longer used",
+            "floodArea": {
+                "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAT122",
+                "county": "Gloucestershire",
+                "notation": "031WAT122",
+                "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAT122/polygon",
+                "riverOrSea": "Wye Estuary"
+            },
+            "floodAreaID": "031WAT122",
+            "isTidal": true,
+            "message": "There is no longer a threat of flooding, though standing water and debris may still remain.\u00a0\nWeather conditions are expected to improve and no further flooding is expected.  \u00a0\nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.  \u00a0\nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.  \n\n",
+            "severity": "Warning no longer in force",
+            "severityLevel": 4,
+            "timeMessageChanged": "2025-11-08T10:44:00",
+            "timeRaised": "2025-11-08T10:44:12",
+            "timeSeverityChanged": "2025-11-08T10:44:00"
+        }
     ]
-  },
-  "items": [
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT1",
-      "description": "The tidal Rivers Bure, Ant and Thurne",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1",
-        "county": "Norfolk",
-        "notation": "054WATBT1",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1/polygon",
-        "riverOrSea": "Bure, Ant, Thurne"
-      },
-      "floodAreaID": "054WATBT1",
-      "isTidal": true,
-      "message": "Tide locking where high tides restrict normal drainage of the river out to sea,  over the next two days may lead to flooding.\nFlooding is possible today, Saturday 8 November, and throughout the weekend.\nWe expect to see high water levels around Potter Heigham, Wroxham boat yards and Ferry Road in Horning.  The Broads and river levels will remain high over the next couple of days due to tide locking from the current spring tides.\nWe are closely monitoring the situation.\nAvoid low lying roads near rivers, which may be flooded.\nThis message will be updated by 10:00am tomorrow, Sunday 9 November 2025. or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-11-08T09:56:00",
-      "timeRaised": "2025-11-08T09:56:47",
-      "timeSeverityChanged": "2025-10-22T14:17:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV4A",
-      "description": "The tidal Deben estuary",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV4A",
-        "county": "Suffolk",
-        "notation": "054WACDV4A",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV4A/polygon",
-        "riverOrSea": "River Deben, North Sea"
-      },
-      "floodAreaID": "054WACDV4A",
-      "isTidal": true,
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nCoastal conditions are expected to improve and no flooding is expected.   \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   \n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-11-08T16:18:00",
-      "timeRaised": "2025-11-08T16:18:14",
-      "timeSeverityChanged": "2025-11-08T16:18:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV4B",
-      "description": "The Suffolk and Essex coast from Felixstowe to Clacton including Orwell and Stour estuaries",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV4B",
-        "county": "Essex, Suffolk",
-        "notation": "054WACDV4B",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV4B/polygon",
-        "riverOrSea": "North Sea, River Orwell, River Deben"
-      },
-      "floodAreaID": "054WACDV4B",
-      "isTidal": true,
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nCoastal conditions are expected to improve and no flooding is expected.   \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   \n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-11-08T16:21:00",
-      "timeRaised": "2025-11-08T16:21:43",
-      "timeSeverityChanged": "2025-11-08T16:21:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
-      "description": "Tidal Thames riverside from Putney Bridge to Teddington Weir",
-      "eaAreaName": "Kent, South London and East Sussex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West",
-        "county": "Greater London, Hammersmith and Fulham, Hounslow, Richmond upon Thames, Wandsworth",
-        "notation": "063WAT23West",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West/polygon",
-        "riverOrSea": "River Thames"
-      },
-      "floodAreaID": "063WAT23West",
-      "isTidal": true,
-      "message": "River levels are expected to be high as a result of spring tides.\n\nThe next high tide at Richmond at 04:45 AM on 09/11/2025, may result in brief low-level flooding of riverside roads and open spaces.\n\nAstronomical tide levels are falling. The river flow at Teddington Weir is 10 cubic metres per second and is steady. We anticipate the flows to remain low for the next few days.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-11-08T17:16:00",
-      "timeRaised": "2025-11-08T17:16:36",
-      "timeSeverityChanged": "2025-11-06T08:42:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WACT1T1CA00",
-      "description": "South Cornwall coast from Gribbin Head to Rame Head",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T1CA00",
-        "county": "Cornwall",
-        "notation": "114WACT1T1CA00",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T1CA00/polygon",
-        "riverOrSea": "South Cornwall Coast"
-      },
-      "floodAreaID": "114WACT1T1CA00",
-      "isTidal": true,
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nTidal conditions are expected to improve and no flooding is expected.   \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.  \n\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-11-08T12:25:00",
-      "timeRaised": "2025-11-08T12:25:38",
-      "timeSeverityChanged": "2025-11-08T12:25:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WACT1T1BA00",
-      "description": "South Cornwall coast from Lizard Point to Gribbin Head excluding the Tidal Fal Estuary",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T1BA00",
-        "county": "Cornwall",
-        "notation": "114WACT1T1BA00",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T1BA00/polygon",
-        "riverOrSea": "South Cornwall Coast"
-      },
-      "floodAreaID": "114WACT1T1BA00",
-      "isTidal": true,
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nTidal conditions are expected to improve and no flooding is expected.   \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.  \n\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-11-08T12:25:00",
-      "timeRaised": "2025-11-08T12:25:56",
-      "timeSeverityChanged": "2025-11-08T12:25:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATAVN1",
-      "description": "Tidal River Avon at Bristol, Pill and Shirehampton",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATAVN1",
-        "county": "City of Bristol, North Somerset, South Gloucestershire",
-        "notation": "112WATAVN1",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATAVN1/polygon",
-        "riverOrSea": "River Avon"
-      },
-      "floodAreaID": "112WATAVN1",
-      "isTidal": true,
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nThe previous tide of concern has now passed,  the weather is more settled and no flooding is expected. The series or high spring tides has now finished and peak high tide levels are now receding. \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.  \nIf you have been evacuated only return to your property once the emergency services have advised that it is safe to do so. Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.  \n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-11-08T11:16:00",
-      "timeRaised": "2025-11-08T11:16:23",
-      "timeSeverityChanged": "2025-11-08T11:16:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WACT2A",
-      "description": "North Devon coast from Hartland Point to Lynmouth",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WACT2A",
-        "county": "Devon",
-        "notation": "113WACT2A",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WACT2A/polygon",
-        "riverOrSea": "Bristol Channel"
-      },
-      "floodAreaID": "113WACT2A",
-      "isTidal": true,
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nCoastal conditions are expected to improve and no flooding is expected.   \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Stay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals.   \n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-11-08T12:42:00",
-      "timeRaised": "2025-11-08T12:42:22",
-      "timeSeverityChanged": "2025-11-08T12:42:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF114",
-      "description": "Severn Vyrnwy confluence",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF114",
-        "county": "Shropshire",
-        "notation": "031WAF114",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF114/polygon",
-        "riverOrSea": "River Severn, River Vyrnwy"
-      },
-      "floodAreaID": "031WAF114",
-      "isTidal": false,
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nWeather conditions are expected to improve and no further flooding is expected.   \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   \n\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-11-08T11:15:00",
-      "timeRaised": "2025-11-08T11:15:56",
-      "timeSeverityChanged": "2025-11-08T11:15:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WATMEW",
-      "description": "Mersey Estuary at Warrington",
-      "eaAreaName": "Greater Manchester, Merseyside and Cheshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WATMEW",
-        "county": "Halton, Warrington",
-        "notation": "013WATMEW",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WATMEW/polygon",
-        "riverOrSea": "Mersey Estuary"
-      },
-      "floodAreaID": "013WATMEW",
-      "isTidal": true,
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nTidal conditions are expected to improve and no flooding is expected.   \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.  \n\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-11-08T09:21:00",
-      "timeRaised": "2025-11-08T09:21:57",
-      "timeSeverityChanged": "2025-11-08T09:21:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WATWE",
-      "description": "Wyre estuary from Fleetwood and Knott End to Little Eccleston",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATWE",
-        "county": "Lancashire",
-        "notation": "012WATWE",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATWE/polygon",
-        "riverOrSea": "Wyre Estuary"
-      },
-      "floodAreaID": "012WATWE",
-      "isTidal": true,
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nWeather conditions are expected to improve and no further flooding is expected.   \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nIf you have been evacuated only return to your property once the emergency services have advised that it is safe to do so. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.  \n\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-11-08T09:00:00",
-      "timeRaised": "2025-11-08T09:00:24",
-      "timeSeverityChanged": "2025-11-08T09:00:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WACHC",
-      "description": "Coast from Heysham to Cockerham",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WACHC",
-        "county": "Lancashire",
-        "notation": "012WACHC",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WACHC/polygon",
-        "riverOrSea": "Irish Sea"
-      },
-      "floodAreaID": "012WACHC",
-      "isTidal": true,
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nWeather conditions are expected to improve and no further flooding is expected.   \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nIf you have been evacuated only return to your property once the emergency services have advised that it is safe to do so. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.  \n\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-11-08T08:58:00",
-      "timeRaised": "2025-11-08T08:58:19",
-      "timeSeverityChanged": "2025-11-08T08:58:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WATLE",
-      "description": "Lune estuary south west of Lancaster",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATLE",
-        "county": "Lancashire",
-        "notation": "012WATLE",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATLE/polygon",
-        "riverOrSea": "Lune estuary"
-      },
-      "floodAreaID": "012WATLE",
-      "isTidal": true,
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nWeather conditions are expected to improve and no further flooding is expected.   \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nIf you have been evacuated only return to your property once the emergency services have advised that it is safe to do so. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.  \n\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-11-08T08:59:00",
-      "timeRaised": "2025-11-08T08:59:31",
-      "timeSeverityChanged": "2025-11-08T08:59:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC955",
-      "description": "North Sea coast at Skipsea, Hornsea and Mappleton",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC955",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC955",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC955/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC955",
-      "isTidal": true,
-      "message": "The flood forecast has changed significantly. As a result, there is no longer a risk of flooding in the area. \nCoastal conditions are expected to improve and no flooding is expected.   \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nIf you have been evacuated only return to your property once the emergency services have advised that it is safe to do so. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   \n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-11-08T19:23:00",
-      "timeRaised": "2025-11-08T19:23:35",
-      "timeSeverityChanged": "2025-11-08T19:23:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC956",
-      "description": "North Sea coast at Withernsea, Easington and Kilnsea",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC956",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC956",
-      "isTidal": true,
-      "message": "High tides tomorrow morning may lead to flooding. \nFlooding is possible from 06:30 to 09:30 on 09/11/2025. \nLocations most affected will be properties on the east side of Kilnsea, including Kilnsea Caravan Park, and Easington Caravan Park \nWe are closely monitoring the situation . \nAvoid coastal roads, footpaths and carparks, which may be flooded . \nThis message will be updated by 10:00AM on 09 November 2025 or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-11-08T13:53:00",
-      "timeRaised": "2025-11-08T13:53:27",
-      "timeSeverityChanged": "2025-11-08T13:53:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAT913",
-      "description": "Tyne estuary",
-      "eaAreaName": "North East",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAT913",
-        "county": "Gateshead, Newcastle upon Tyne, North Tyneside, South Tyneside",
-        "notation": "121WAT913",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAT913/polygon",
-        "riverOrSea": "River Tyne"
-      },
-      "floodAreaID": "121WAT913",
-      "isTidal": true,
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nTidal conditions are expected to improve and no flooding is expected.   \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.  \n\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-11-08T09:35:00",
-      "timeRaised": "2025-11-08T09:35:39",
-      "timeSeverityChanged": "2025-11-08T09:35:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051WACDV4C",
-      "description": "The Essex coast from Clacton to and including, St Peters Flat and the Colne and Blackwater estuaries",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WACDV4C",
-        "county": "Essex",
-        "notation": "051WACDV4C",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WACDV4C/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "051WACDV4C",
-      "isTidal": true,
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nCoastal conditions are expected to improve and no flooding is expected.   \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   \n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-11-08T16:25:00",
-      "timeRaised": "2025-11-08T16:25:32",
-      "timeSeverityChanged": "2025-11-08T16:25:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WATWBYH",
-      "description": "West Bay Harbour",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WATWBYH",
-        "county": "Dorset Council",
-        "notation": "111WATWBYH",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WATWBYH/polygon",
-        "riverOrSea": "English Channel"
-      },
-      "floodAreaID": "111WATWBYH",
-      "isTidal": true,
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nTidal conditions are expected to improve and no flooding is expected.   \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Stay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals.  \n\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-11-08T10:00:00",
-      "timeRaised": "2025-11-08T10:00:49",
-      "timeSeverityChanged": "2025-11-08T10:00:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAT122",
-      "description": "Wye Estuary in Gloucestershire",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAT122",
-        "county": "Gloucestershire",
-        "notation": "031WAT122",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAT122/polygon",
-        "riverOrSea": "Wye Estuary"
-      },
-      "floodAreaID": "031WAT122",
-      "isTidal": true,
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nWeather conditions are expected to improve and no further flooding is expected.   \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.  \n\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-11-08T10:44:00",
-      "timeRaised": "2025-11-08T10:44:12",
-      "timeSeverityChanged": "2025-11-08T10:44:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051WACDV5B3a",
-      "description": "The Essex coast at Coalhouse Fort",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WACDV5B3a",
-        "county": "Thurrock",
-        "notation": "051WACDV5B3a",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WACDV5B3a/polygon",
-        "riverOrSea": "Thames Estuary"
-      },
-      "floodAreaID": "051WACDV5B3a",
-      "isTidal": true,
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nCoastal conditions are expected to improve and no flooding is expected.   \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   \n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-11-08T16:29:00",
-      "timeRaised": "2025-11-08T16:29:24",
-      "timeSeverityChanged": "2025-11-08T16:29:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM1",
-      "description": "Somerset coast at Porlock Weir",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1",
-        "county": "Somerset",
-        "notation": "112WATSOM1",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1/polygon",
-        "riverOrSea": "Bristol Channel"
-      },
-      "floodAreaID": "112WATSOM1",
-      "isTidal": true,
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nThe previous tide of concern has now passed,  the weather is more settled and no flooding is expected. This series of spring tides has finished. \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nIf you have been evacuated only return to your property once the emergency services have advised that it is safe to do so. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.  \n\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-11-08T10:58:00",
-      "timeRaised": "2025-11-08T10:58:25",
-      "timeSeverityChanged": "2025-11-08T10:58:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAC1ShepSwale",
-      "description": "Isle of Sheppey and coast from Kemsley to Seasalter",
-      "eaAreaName": "Kent, South London and East Sussex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAC1ShepSwale",
-        "county": "Kent",
-        "notation": "064WAC1ShepSwale",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAC1ShepSwale/polygon",
-        "riverOrSea": "English Channel, The Swale"
-      },
-      "floodAreaID": "064WAC1ShepSwale",
-      "isTidal": true,
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nThe previous tide of concern has now passed,  the weather is more settled and no flooding is expected.   \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   \n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-11-08T16:53:00",
-      "timeRaised": "2025-11-08T16:53:53",
-      "timeSeverityChanged": "2025-11-08T16:53:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFBR",
-      "description": "Rivers Brathay, Rothay and Winster",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFBR",
-        "county": "Westmorland and Furness",
-        "notation": "011WAFBR",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFBR/polygon",
-        "riverOrSea": "River Brathay, River Rothay, River Winster"
-      },
-      "floodAreaID": "011WAFBR",
-      "isTidal": false,
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nWeather conditions are expected to improve and no further flooding is expected.   \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nIf you have been evacuated only return to your property once the emergency services have advised that it is safe to do so. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   \n\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-11-09T07:38:00",
-      "timeRaised": "2025-11-09T07:38:22",
-      "timeSeverityChanged": "2025-11-09T07:38:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDW",
-      "description": "Upper River Derwent, Stonethwaite Beck and Derwent Water",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFDW",
-        "county": "Cumberland",
-        "notation": "011WAFDW",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFDW/polygon",
-        "riverOrSea": "Derwent, Stonethwaite Beck"
-      },
-      "floodAreaID": "011WAFDW",
-      "isTidal": false,
-      "message": "The weather forecast for Sunday is light showers throughout the day, clearing by Monday morning.\n\nRiver levels and lakes such as Derwent Water are falling and will continue to do so throughout the day.\n\nWe continue to monitor the situation. Do not walk or drive through flood water.\n\nThis message will be updated by 10:00AM on 10th November 2025.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-11-09T07:45:00",
-      "timeRaised": "2025-11-09T07:45:59",
-      "timeSeverityChanged": "2025-11-02T08:48:00"
-    }
-  ]
 }
