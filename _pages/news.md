@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Gloucestershire in pictures: Fireworks and Pudsey Bear ([1 hours ago](https://www.bbc.com/news/articles/cm2l8xmj214o?at_medium=RSS&at_campaign=rss))
-- West of England falls silent for Remembrance Day ([5 hours ago](https://www.bbc.com/news/articles/cn51p7qex00o?at_medium=RSS&at_campaign=rss))
-- Medieval wall uncovered at historic monument ([13 hours ago](https://www.bbc.com/news/articles/cj41lk0nlxko?at_medium=RSS&at_campaign=rss))
-- 'Death row gran returns to UK' and 'weapon picnic benches' ([13 hours ago](https://www.bbc.com/news/articles/c2em4nwmg28o?at_medium=RSS&at_campaign=rss))
+- Gloucestershire in pictures: Fireworks and Pudsey Bear ([3 hours ago](https://www.bbc.com/news/articles/cm2l8xmj214o?at_medium=RSS&at_campaign=rss))
+- West of England falls silent for Remembrance Day ([7 hours ago](https://www.bbc.com/news/articles/cn51p7qex00o?at_medium=RSS&at_campaign=rss))
+- Medieval wall uncovered at historic monument ([15 hours ago](https://www.bbc.com/news/articles/cj41lk0nlxko?at_medium=RSS&at_campaign=rss))
+- 'Death row gran returns to UK' and 'weapon picnic benches' ([15 hours ago](https://www.bbc.com/news/articles/c2em4nwmg28o?at_medium=RSS&at_campaign=rss))
 - Rugby legends to compete in charity match for MND ([1 days ago](https://www.bbc.com/news/articles/ce3xdypvkywo?at_medium=RSS&at_campaign=rss))
 - New cycle network hailed as a 'gamechanger' ([1 days ago](https://www.bbc.com/news/articles/cd9kgjg72kjo?at_medium=RSS&at_campaign=rss))
 - Christmas lights switch-on events near you ([1 days ago](https://www.bbc.com/news/articles/c751xrkvl4ko?at_medium=RSS&at_campaign=rss))
