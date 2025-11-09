@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Temp traffic lights, 9th November :- [8395482](https://www.fixmystreet.com/report/8395482)
+- Pothole that dips in and out and creates a nasty camber that is difficult to avoid at speed and with traffic in both lanes, 9th November :- [8395473](https://www.fixmystreet.com/report/8395473)
 - More fly tipping, 9th November :- [8394926](https://www.fixmystreet.com/report/8394926)
 - Rubbish, cans and bottles, 9th November :- [8394416](https://www.fixmystreet.com/report/8394416)
 - The back of Sainsbury's an abandoned caravan, 9th November :- [8394403](https://www.fixmystreet.com/report/8394403)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - ADE63 - stile completely overgrown, 8th November :- [8393108](https://www.fixmystreet.com/report/8393108)
 - Volunteer litter pick bags ready for collection, 8th November :- [8393021](https://www.fixmystreet.com/report/8393021)
 - Yet more fly tipping., 8th November :- [8392391](https://www.fixmystreet.com/report/8392391)
-- Street light permanently on, 8th November :- [8392287](https://www.fixmystreet.com/report/8392287)
-- Area of hard and uneven road surface outside and between Nos 7 & 9 Boulton Road Cheltenham GL50 4RZ. Distressed surface with hard edges. Vehicles swerving dangerously to other side of road to avoid causing potential collision at left hand bend further on., 8th November :- [8392161](https://www.fixmystreet.com/report/8392161)
 
 <!-- fix_marker ends -->
