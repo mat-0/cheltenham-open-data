@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree blocking footpath, 10th November :- [8401299](https://www.fixmystreet.com/report/8401299)
 - Drain blocked, 10th November :- [8401016](https://www.fixmystreet.com/report/8401016)
 - Large hole, left hand edging, heading towards Badgeworth Road, 10th November :- [8400931](https://www.fixmystreet.com/report/8400931)
 - Damaged backboard, faded lines, 10th November :- [8400789](https://www.fixmystreet.com/report/8400789)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Unpermitted roadworks problem, 10th November :- [8399596](https://www.fixmystreet.com/report/8399596)
 - Road Blocked drain/gulley today (ongoing issue); Junction of Glebe rd joining Prestbury Rd, 10th November :- [8399471](https://www.fixmystreet.com/report/8399471)
 - Blocked Public Footpath – Forcing Pedestrians onto 50 mph Road, 10th November :- [8399311](https://www.fixmystreet.com/report/8399311)
-- Dangerous pothole, 10th November :- [8399232](https://www.fixmystreet.com/report/8399232)
 
 <!-- fix_marker ends -->
