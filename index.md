@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Monday, 10 November 2025
 
-- The average temperature today is 11.25˚C,
-- With highs of 11.83˚C and lows of 10.39˚C,
-- It may feel like 10.75˚C with clear sky
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1004hPa and humidity is 89%
+- The average temperature today is 11.64˚C,
+- With highs of 12.51˚C and lows of 10.75˚C,
+- It may feel like 11.24˚C with drizzle rain
+- The wind speed is 2.06m/s and visibility is 10000m
+- The pressure is 1004hPa and humidity is 91%
 - The sun will rise at 07:19 and set at 16:25
 
 <!-- weather_marker ends -->
