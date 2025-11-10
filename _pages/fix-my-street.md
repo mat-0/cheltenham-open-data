@@ -9,6 +9,19 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flooding of footpath and track in Prestbury Prak, 10th November :- [8400334](https://www.fixmystreet.com/report/8400334)
+- Large pot hole in middle of brookfield road at junction with albermarle road, 10th November :- [8400198](https://www.fixmystreet.com/report/8400198)
+- Extremely loud drain noise inside house, 10th November :- [8400130](https://www.fixmystreet.com/report/8400130)
+- Two manhole covers have started to collapse, 10th November :- [8400094](https://www.fixmystreet.com/report/8400094)
+- A pothole in road problem, 10th November :- [8400042](https://www.fixmystreet.com/report/8400042)
+- The drain is blocked problem, 10th November :- [8400041](https://www.fixmystreet.com/report/8400041)
+- Dear highways, Please see attached photos of vandalized bus shelter with missing panel. Can we log for repair., 10th November :- [8399872](https://www.fixmystreet.com/report/8399872)
+- TMC - Defects - Vegetation problem, 10th November :- [8399842](https://www.fixmystreet.com/report/8399842)
+- TMC - Defects -CW6 Potholes  problem, 10th November :- [8399840](https://www.fixmystreet.com/report/8399840)
+- Flooding on street and drive, 10th November :- [8399694](https://www.fixmystreet.com/report/8399694)
+- Furniture left by street, 10th November :- [8399671](https://www.fixmystreet.com/report/8399671)
+- Bed head board dumped, 10th November :- [8399662](https://www.fixmystreet.com/report/8399662)
+- Unpermitted roadworks problem, 10th November :- [8399596](https://www.fixmystreet.com/report/8399596)
 - Road Blocked drain/gulley today (ongoing issue); Junction of Glebe rd joining Prestbury Rd, 10th November :- [8399471](https://www.fixmystreet.com/report/8399471)
 - Blocked Public Footpath – Forcing Pedestrians onto 50 mph Road, 10th November :- [8399311](https://www.fixmystreet.com/report/8399311)
 - Dangerous pothole, 10th November :- [8399232](https://www.fixmystreet.com/report/8399232)
@@ -16,18 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Kerbs and Channels problem, 10th November :- [8399381](https://www.fixmystreet.com/report/8399381)
 - TMC - Defects - Footways Slabs problem, 10th November :- [8399380](https://www.fixmystreet.com/report/8399380)
 - TMC - Defects - Footways Slabs problem, 10th November :- [8399379](https://www.fixmystreet.com/report/8399379)
-- TMC - Defects - Footways Slabs problem, 10th November :- [8399377](https://www.fixmystreet.com/report/8399377)
-- TMC - Defects - Kerbs and Channels problem, 10th November :- [8399376](https://www.fixmystreet.com/report/8399376)
-- Street cone in tree, 10th November :- [8399134](https://www.fixmystreet.com/report/8399134)
-- Unpermitted roadworks problem, 10th November :- [8399150](https://www.fixmystreet.com/report/8399150)
-- Several potholes in location one very big and deep that could damage a car wheel or cause a cyclist to crash, 10th November :- [8399086](https://www.fixmystreet.com/report/8399086)
-- TMC - Defects - Footways Slabs problem, 10th November :- [8399168](https://www.fixmystreet.com/report/8399168)
-- Cheltenham BC Highways department have left these barriers here and they have been here for 15 months. The hazard with the wall has been remediated., 10th November :- [8398992](https://www.fixmystreet.com/report/8398992)
-- TMC - Defects - Other FW6  Surface problem, 10th November :- [8399156](https://www.fixmystreet.com/report/8399156)
-- Drain immediately outside the bell tavern blocked, 10th November :- [8398889](https://www.fixmystreet.com/report/8398889)
-- The drain is blocked problem, 10th November :- [8399149](https://www.fixmystreet.com/report/8399149)
-- The drain is blocked problem, 10th November :- [8398946](https://www.fixmystreet.com/report/8398946)
-- Pot hole and poor street lighting, 10th November :- [8398813](https://www.fixmystreet.com/report/8398813)
-- Drain mouth flattened causing flooding in gutter/road when raining., 10th November :- [8398614](https://www.fixmystreet.com/report/8398614)
 
 <!-- fix_marker ends -->
