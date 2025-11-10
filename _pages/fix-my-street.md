@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Unlawful Sign, 10th November :- [8396323](https://www.fixmystreet.com/report/8396323)
 - Street light doesnt ever come on, 9th November :- [8395844](https://www.fixmystreet.com/report/8395844)
 - Temp traffic lights, 9th November :- [8395482](https://www.fixmystreet.com/report/8395482)
 - Pothole that dips in and out and creates a nasty camber that is difficult to avoid at speed and with traffic in both lanes, 9th November :- [8395473](https://www.fixmystreet.com/report/8395473)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Sunken trench following roadworks, 8th November :- [8393350](https://www.fixmystreet.com/report/8393350)
 - Streetlight is out, 8th November :- [8393223](https://www.fixmystreet.com/report/8393223)
 - ADE63 - stile completely overgrown, 8th November :- [8393108](https://www.fixmystreet.com/report/8393108)
-- Volunteer litter pick bags ready for collection, 8th November :- [8393021](https://www.fixmystreet.com/report/8393021)
 
 <!-- fix_marker ends -->
