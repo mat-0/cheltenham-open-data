@@ -8,14 +8,14 @@ seo: Menu
 ![Logo](/images/logo.jpg){:width="832px"}
 
 <!-- weather_marker starts -->
-## On Monday, 10 November 2025
+## On Tuesday, 11 November 2025
 
-- The average temperature today is 8.55˚C,
-- With highs of 9.6˚C and lows of 7.69˚C,
-- It may feel like 6.98˚C with scattered clouds
-- The wind speed is 2.68m/s and visibility is 10000m
+- The average temperature today is 8.36˚C,
+- With highs of 9.6˚C and lows of 7.51˚C,
+- It may feel like 7.08˚C with overcast clouds
+- The wind speed is 2.24m/s and visibility is 10000m
 - The pressure is 1005hPa and humidity is 88%
-- The sun will rise at 07:19 and set at 16:25
+- The sun will rise at 07:20 and set at 16:23
 
 <!-- weather_marker ends -->
 
