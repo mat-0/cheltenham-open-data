@@ -1,17 +1,81 @@
 {
-    "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
-    "meta": {
-        "publisher": "Environment Agency",
-        "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
-        "version": "0.9",
-        "comment": "Status: Beta service",
-        "hasFormat": [
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.csv?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.html?county=Gloucestershire"
-        ]
+  "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
+  "meta": {
+    "publisher": "Environment Agency",
+    "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
+    "version": "0.9",
+    "comment": "Status: Beta service",
+    "hasFormat": [
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.csv",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
+    ]
+  },
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT1",
+      "description": "The tidal Rivers Bure, Ant and Thurne",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1",
+        "county": "Norfolk",
+        "notation": "054WATBT1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1/polygon",
+        "riverOrSea": "Bure, Ant, Thurne"
+      },
+      "floodAreaID": "054WATBT1",
+      "isTidal": true,
+      "message": "High tides today may lead to flooding.\nFlooding is possible today, Tuesday 11 November.\nWe expect to see high water levels around Potter Heigham, Wroxham boat yards and Ferry Road in Horning.  River levels may remain high over the next couple of days.\nWe are closely monitoring the situation.\nAvoid low lying roads near rivers, which may be flooded.\nThis message will be updated by 10:00am tomorrow, Wednesday 12 November or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-11-11T09:08:00",
+      "timeRaised": "2025-11-11T09:08:50",
+      "timeSeverityChanged": "2025-10-22T14:17:00"
     },
-    "items": []
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDW",
+      "description": "Upper River Derwent, Stonethwaite Beck and Derwent Water",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFDW",
+        "county": "Cumberland",
+        "notation": "011WAFDW",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFDW/polygon",
+        "riverOrSea": "Derwent, Stonethwaite Beck"
+      },
+      "floodAreaID": "011WAFDW",
+      "isTidal": false,
+      "message": "Periods of heavy rain on Tuesday 11th November 2025 will cause the levels in Derwentwater and surrounding rivers to rise throughout the day.\nWe continue to monitor the situation.\nDo not walk or drive through flood water.\nThis message will be updated by 10:00AM on 12th November 2025.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-11-11T09:52:00",
+      "timeRaised": "2025-11-11T09:52:15",
+      "timeSeverityChanged": "2025-11-02T08:48:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WAFUOTNP",
+      "description": "River Great Ouse from Thornborough to Newport Pagnell",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WAFUOTNP",
+        "county": "Buckinghamshire, Milton Keynes, West Northamptonshire",
+        "notation": "052WAFUOTNP",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WAFUOTNP/polygon",
+        "riverOrSea": "Fluvial"
+      },
+      "floodAreaID": "052WAFUOTNP",
+      "isTidal": false,
+      "message": "High river levels today may lead to flooding. \nFlooding is possible on 11 November 2025 . \nLocations most affected will be low lying land and roads near rivers. Areas most at risk are those around the River Great Ouse from Thornborough to Newport Pagnell, including Dogsmouth Brook. We are not expecting the situation to escalate, or to issue any further warning messages at this time. Rainfall forecast later this week will keep levels high. \nWe are monitoring rainfall and river levels . \nMonitor local water levels and weather conditions . \nThis message will be updated by 5:00PM on 11 November 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-11-11T10:11:00",
+      "timeRaised": "2025-11-11T10:11:36",
+      "timeSeverityChanged": "2025-11-11T10:11:00"
+    }
+  ]
 }
