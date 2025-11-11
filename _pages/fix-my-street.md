@@ -9,6 +9,16 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large pieces of glass from the bus stop lying on the grass, not easily noticeable and very unsafe, 11th November :- [8404754](https://www.fixmystreet.com/report/8404754)
+- Unpermitted roadworks problem, 11th November :- [8404832](https://www.fixmystreet.com/report/8404832)
+- TMC - Defects -CW6 Potholes  problem, 11th November :- [8404835](https://www.fixmystreet.com/report/8404835)
+- TMC - Defects -CW6 Potholes  problem, 11th November :- [8404638](https://www.fixmystreet.com/report/8404638)
+- Sign/waymarker is damaged problem, 11th November :- [8404569](https://www.fixmystreet.com/report/8404569)
+- TMC - Defects -CW6 Potholes  problem, 11th November :- [8404373](https://www.fixmystreet.com/report/8404373)
+- TMC - Defects -CW6 Potholes  problem, 11th November :- [8404370](https://www.fixmystreet.com/report/8404370)
+- TMC - Defects -CW6 Potholes  problem, 11th November :- [8404369](https://www.fixmystreet.com/report/8404369)
+- TMC - Defects -CW6 Potholes  problem, 11th November :- [8404372](https://www.fixmystreet.com/report/8404372)
+- TMC - Defects -CW6 Potholes  problem, 11th November :- [8404366](https://www.fixmystreet.com/report/8404366)
 - TMC - Defects - Other problem, 11th November :- [8404191](https://www.fixmystreet.com/report/8404191)
 - TMC - Defects -other CW6 problem, 11th November :- [8403999](https://www.fixmystreet.com/report/8403999)
 - TMC - Defects - Signs & Street Furniture problem, 11th November :- [8403990](https://www.fixmystreet.com/report/8403990)
@@ -19,15 +29,5 @@ permalink: /fix-my-street
 - A pothole in road problem, 11th November :- [8402687](https://www.fixmystreet.com/report/8402687)
 - TMC - Defects -CW10 Potholes problem, 11th November :- [8402699](https://www.fixmystreet.com/report/8402699)
 - TMC - Defects -other CW10 problem, 11th November :- [8402482](https://www.fixmystreet.com/report/8402482)
-- TMC - Defects -other CW10 problem, 11th November :- [8402304](https://www.fixmystreet.com/report/8402304)
-- TMC - Defects -other CW10 problem, 11th November :- [8402303](https://www.fixmystreet.com/report/8402303)
-- TMC - Defects -other CW10 problem, 11th November :- [8402302](https://www.fixmystreet.com/report/8402302)
-- TMC - Defects -other CW10 problem, 11th November :- [8402301](https://www.fixmystreet.com/report/8402301)
-- TMC - Defects - Road Markings problem, 11th November :- [8402300](https://www.fixmystreet.com/report/8402300)
-- Dumped sofa, 11th November :- [8402118](https://www.fixmystreet.com/report/8402118)
-- Tree blocking footpath, 10th November :- [8401299](https://www.fixmystreet.com/report/8401299)
-- Drain blocked, 10th November :- [8401016](https://www.fixmystreet.com/report/8401016)
-- Large hole, left hand edging, heading towards Badgeworth Road, 10th November :- [8400931](https://www.fixmystreet.com/report/8400931)
-- Damaged backboard, faded lines, 10th November :- [8400789](https://www.fixmystreet.com/report/8400789)
 
 <!-- fix_marker ends -->
