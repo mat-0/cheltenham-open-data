@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- No street light in Vernon Place, in front of RA Bennet office, 11th November :- [8406510](https://www.fixmystreet.com/report/8406510)
+- Birdlip House leaking water on to the road, 11th November :- [8406457](https://www.fixmystreet.com/report/8406457)
 - Pot hole in road, 11th November :- [8406108](https://www.fixmystreet.com/report/8406108)
 - Faded double yellow lines, 11th November :- [8405915](https://www.fixmystreet.com/report/8405915)
 - The drain is blocked problem, 11th November :- [8405514](https://www.fixmystreet.com/report/8405514)
@@ -23,11 +25,9 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 11th November :- [8404638](https://www.fixmystreet.com/report/8404638)
 - Sign/waymarker is damaged problem, 11th November :- [8404569](https://www.fixmystreet.com/report/8404569)
 - TMC - Defects -CW6 Potholes  problem, 11th November :- [8404373](https://www.fixmystreet.com/report/8404373)
-- TMC - Defects -CW6 Potholes  problem, 11th November :- [8404369](https://www.fixmystreet.com/report/8404369)
-- TMC - Defects -CW6 Potholes  problem, 11th November :- [8404372](https://www.fixmystreet.com/report/8404372)
 - TMC - Defects -CW6 Potholes  problem, 11th November :- [8404370](https://www.fixmystreet.com/report/8404370)
+- TMC - Defects -CW6 Potholes  problem, 11th November :- [8404372](https://www.fixmystreet.com/report/8404372)
+- TMC - Defects -CW6 Potholes  problem, 11th November :- [8404369](https://www.fixmystreet.com/report/8404369)
 - TMC - Defects -CW6 Potholes  problem, 11th November :- [8404366](https://www.fixmystreet.com/report/8404366)
-- TMC - Defects - Other problem, 11th November :- [8404191](https://www.fixmystreet.com/report/8404191)
-- TMC - Defects -other CW6 problem, 11th November :- [8403999](https://www.fixmystreet.com/report/8403999)
 
 <!-- fix_marker ends -->
