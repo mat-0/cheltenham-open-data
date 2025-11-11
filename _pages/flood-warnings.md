@@ -20,13 +20,7 @@ This project fetches flood warning data for the Gloucestershire area and publish
 
 <!-- flood_marker starts -->
 - Flood alert: Upper Bristol Avon area
-- Forecast rising river levels overnight may lead to flooding. 
-Flooding is possible on 11 November 2025 and 12 November 2025 
-Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected. Areas most at risk include low lying land in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge.						
-Further flooding is possible tomorrow as river levels rise due to additional rainfall. 
-We are monitoring rainfall and river levels and will issue further alerts and warnings if required. 
-Avoid using low lying footpaths and any bridges near local watercourses and consider activating any flood protection products you may have. 
-This message will be updated by 4:00PM on 11 November 2025 or as the situation changes.
+- Forecast rising river levels overnight may lead to flooding.  Flooding is possible on 11 November 2025 and 12 November 2025.  Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected. Areas most at risk include low lying land in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Further flooding is possible tomorrow as river levels rise due to additional rainfall.  We are monitoring rainfall and river levels and will issue further alerts and warnings if required.  Avoid using low lying footpaths and any bridges near local watercourses and consider activating any flood protection products you may have.  This message will be updated by 4:00PM on 12 November 2025 or as the situation changes.
 
 - Flood alert: River Evenlode from Moreton in Marsh to Cassington and also the River Glyme at Wootton and Woodstock
 - Forecast rising river levels overnight may lead to flooding. 

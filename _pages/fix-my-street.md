@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pot hole in road, 11th November :- [8406108](https://www.fixmystreet.com/report/8406108)
 - Faded double yellow lines, 11th November :- [8405915](https://www.fixmystreet.com/report/8405915)
 - The drain is blocked problem, 11th November :- [8405514](https://www.fixmystreet.com/report/8405514)
 - TMC - Defects - Other problem, 11th November :- [8405516](https://www.fixmystreet.com/report/8405516)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 11th November :- [8404366](https://www.fixmystreet.com/report/8404366)
 - TMC - Defects - Other problem, 11th November :- [8404191](https://www.fixmystreet.com/report/8404191)
 - TMC - Defects -other CW6 problem, 11th November :- [8403999](https://www.fixmystreet.com/report/8403999)
-- TMC - Defects - Signs & Street Furniture problem, 11th November :- [8403990](https://www.fixmystreet.com/report/8403990)
 
 <!-- fix_marker ends -->
