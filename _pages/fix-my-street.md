@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects -other CW10 problem, 11th November :- [8402304](https://www.fixmystreet.com/report/8402304)
+- TMC - Defects -other CW10 problem, 11th November :- [8402303](https://www.fixmystreet.com/report/8402303)
+- TMC - Defects -other CW10 problem, 11th November :- [8402302](https://www.fixmystreet.com/report/8402302)
+- TMC - Defects -other CW10 problem, 11th November :- [8402301](https://www.fixmystreet.com/report/8402301)
+- TMC - Defects - Road Markings problem, 11th November :- [8402300](https://www.fixmystreet.com/report/8402300)
+- Dumped sofa, 11th November :- [8402118](https://www.fixmystreet.com/report/8402118)
 - Tree blocking footpath, 10th November :- [8401299](https://www.fixmystreet.com/report/8401299)
 - Drain blocked, 10th November :- [8401016](https://www.fixmystreet.com/report/8401016)
 - Large hole, left hand edging, heading towards Badgeworth Road, 10th November :- [8400931](https://www.fixmystreet.com/report/8400931)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 10th November :- [8399842](https://www.fixmystreet.com/report/8399842)
 - TMC - Defects -CW6 Potholes  problem, 10th November :- [8399840](https://www.fixmystreet.com/report/8399840)
 - Flooding on street and drive, 10th November :- [8399694](https://www.fixmystreet.com/report/8399694)
-- Vegetation blocking light, 10th November :- [8399676](https://www.fixmystreet.com/report/8399676)
-- Furniture left by street, 10th November :- [8399671](https://www.fixmystreet.com/report/8399671)
-- Bed head board dumped, 10th November :- [8399662](https://www.fixmystreet.com/report/8399662)
-- Unpermitted roadworks problem, 10th November :- [8399596](https://www.fixmystreet.com/report/8399596)
-- Road Blocked drain/gulley today (ongoing issue); Junction of Glebe rd joining Prestbury Rd, 10th November :- [8399471](https://www.fixmystreet.com/report/8399471)
-- Blocked Public Footpath – Forcing Pedestrians onto 50 mph Road, 10th November :- [8399311](https://www.fixmystreet.com/report/8399311)
 
 <!-- fix_marker ends -->
