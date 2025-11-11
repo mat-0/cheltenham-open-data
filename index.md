@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Tuesday, 11 November 2025
 
-- The average temperature today is 14.42˚C,
-- With highs of 14.84˚C and lows of 13.8˚C,
-- It may feel like 14.14˚C with overcast clouds
-- The wind speed is 3.58m/s and visibility is 10000m
-- The pressure is 999hPa and humidity is 85%
+- The average temperature today is 14.12˚C,
+- With highs of 14.99˚C and lows of 13.49˚C,
+- It may feel like 13.83˚C with light intensity shower rain
+- The wind speed is 8.75m/s and visibility is 10000m
+- The pressure is 999hPa and humidity is 86%
 - The sun will rise at 07:20 and set at 16:23
 
 <!-- weather_marker ends -->

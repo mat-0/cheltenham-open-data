@@ -28,5 +28,37 @@ We are monitoring rainfall and river levels and will issue further alerts and wa
 Avoid using low lying footpaths and any bridges near local watercourses and consider activating any flood protection products you may have. 
 This message will be updated by 4:00PM on 11 November 2025 or as the situation changes.
 
+- Flood alert: River Evenlode from Moreton in Marsh to Cassington and also the River Glyme at Wootton and Woodstock
+- Forecast rising river levels overnight may lead to flooding. 
+Flooding is possible from overnight on 11 November 2025 . 
+Flooding of low lying land and roads is possible, especially in the Shipton under Wychwood area. Further rainfall is forecast over the next 12 hours. We expect river levels to begin rising overnight on 11/11/2025. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 9:00AM on 12 November 2025 or as the situation changes.
+
+- Flood alert: Tributaries on the Upper River Thames above Cricklade
+- Forecast rising river levels overnight may lead to flooding. 
+Flooding is possible from overnight on 11 November 2025 . 
+Flooding of low lying land and roads is possible, especially in the Swill Brook and Purton Stoke areas. Further rainfall is forecast over the next 12 hours. We expect river levels to begin rising overnight on 11/11/2025. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 9:00AM on 12 November 2025 or as the situation changes.
+
+- Flood alert: River Wye in Herefordshire
+- Forecast rising river levels overnight may lead to flooding. 
+Flooding is possible from overnight on 11 November 2025 . 
+Flooding may affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations affected may include the A438 between Letton & Willersey, Byford, Bredwardine & Hereford. Road closures & diversions on the A438 may be in force. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 9:00AM on 12 November 2025 or as the situation changes.
+
+- Flood alert: River Wye in Gloucestershire
+- Forecast rising river levels overnight may lead to flooding. 
+Flooding is possible from overnight on 11 November 2025 . 
+Flooding may affect low lying land and roads along the River Wye. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 9:00AM on 12 November 2025 or as the situation changes.
+
 
 <!-- flood_marker ends -->
