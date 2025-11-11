@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- A construction lorry has clipped a large thick branch on a willow i saw it happen the vehical was a yellow structural one and there was a large “crack” i fear it will shortly and cause an accudent!! fall structural, 11th November :- [8403017](https://www.fixmystreet.com/report/8403017)
+- TMC - Defects -other CW10 problem, 11th November :- [8402933](https://www.fixmystreet.com/report/8402933)
+- A pothole in road problem, 11th November :- [8402687](https://www.fixmystreet.com/report/8402687)
+- TMC - Defects -CW10 Potholes problem, 11th November :- [8402699](https://www.fixmystreet.com/report/8402699)
+- TMC - Defects -other CW10 problem, 11th November :- [8402482](https://www.fixmystreet.com/report/8402482)
 - TMC - Defects -other CW10 problem, 11th November :- [8402304](https://www.fixmystreet.com/report/8402304)
 - TMC - Defects -other CW10 problem, 11th November :- [8402303](https://www.fixmystreet.com/report/8402303)
 - TMC - Defects -other CW10 problem, 11th November :- [8402302](https://www.fixmystreet.com/report/8402302)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Extremely loud drain noise inside house, 10th November :- [8400130](https://www.fixmystreet.com/report/8400130)
 - Two manhole covers have started to collapse, 10th November :- [8400094](https://www.fixmystreet.com/report/8400094)
 - A pothole in road problem, 10th November :- [8400042](https://www.fixmystreet.com/report/8400042)
-- The drain is blocked problem, 10th November :- [8400041](https://www.fixmystreet.com/report/8400041)
-- Dear highways, Please see attached photos of vandalized bus shelter with missing panel. Can we log for repair., 10th November :- [8399872](https://www.fixmystreet.com/report/8399872)
-- TMC - Defects - Vegetation problem, 10th November :- [8399842](https://www.fixmystreet.com/report/8399842)
-- TMC - Defects -CW6 Potholes  problem, 10th November :- [8399840](https://www.fixmystreet.com/report/8399840)
-- Flooding on street and drive, 10th November :- [8399694](https://www.fixmystreet.com/report/8399694)
 
 <!-- fix_marker ends -->
