@@ -39,17 +39,17 @@ Continue to take care on waterside roads and footpaths and don't put yourself in
 - Flood alert: River Wye in Herefordshire
 - Forecast rising river levels may lead to flooding. 
 Flooding is possible from 12 November 2025. 
-Flooding may affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations affected may include the A438 between Letton & Willersey, Byford, Bredwardine & Hereford. Road closures & diversions on the A438 may be in force. Predicted peaks:- Hay on Wye 1.7m to 2.1m on 13/11 AM, second peak Saturday, Bredwardine 3.0m to 3.5m on 13/11 AM, second peak Saturday, Belmont 3.3m to 3.6m on 13/11 AM, second peak Saturday, Old Wye Bridge 2.9m to 3.2m on 13/11 AM, second peak Saturday, Mordiford 3.3m to 3.7m on 13/11 AM, second peak Saturday, Ross on Wye 3.4m to 3.7m on 13/11PM, second peak Saturday or Sunday.
+Flooding may affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations affected may include the A438 between Letton & Willersey, Byford, Bredwardine & Hereford. Road closures & diversions on the A438 may be in force. Predicted peaks:- Hay on Wye 1.7m to 2.1m overnight tonight 12/11, Bredwardine 3.0m to 3.5m on 13/11 AM,  Belmont 3.3m to 3.6m on 13/11 AM, Old Wye Bridge 2.9m to 3.2m on 13/11 AM, Mordiford 3.3m to 3.7m on 13/11 AM, Ross on Wye 3.4m to 3.7m on 13/11 PM.
 Take care and avoid walking, cycling or driving through flood water. 
-This message will be updated by 7:00PM on 12 November 2025 or as the situation changes.
+This message will be updated by 9:00AM on 13 November 2025 or as the situation changes.
 
 - Flood alert: River Wye in Gloucestershire
 - Forecast rising river levels may lead to flooding. 
 Flooding is possible from 12 November 2025. 
-Flooding may affect low lying land and roads along the River Wye. Predicted peaks:- Ross on Wye 3.4m to 3.7m 13/11 PM, second peak Saturday or Sunday, Lydbrook 4.1m to 4.3m 13/11 PM, second peak Sunday.
+Flooding may affect low lying land and roads along the River Wye. Predicted peaks:- Ross on Wye 3.4m to 3.7m 13/11 PM, Lydbrook 3.9m to 4.3m 13/11 PM.
 We are closely monitoring the situation . 
 Take care and avoid walking, cycling or driving through flood water . 
-This message will be updated by 7:00PM on 12 November 2025 or as the situation changes.
+This message will be updated by 9:00AM on 13 November 2025 or as the situation changes.
 
 
 <!-- flood_marker ends -->

@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flooding NOT fixed by remedial work - only marginally less bad, 12th November :- [8410909](https://www.fixmystreet.com/report/8410909)
+- Drain is blocked outside my house, the drain across the road opposite to my house is also blocked, 12th November :- [8410894](https://www.fixmystreet.com/report/8410894)
+- Streetlight not coming on, 12th November :- [8410524](https://www.fixmystreet.com/report/8410524)
+- Humongous pothole, 12th November :- [8410508](https://www.fixmystreet.com/report/8410508)
+- Tarmac collapsing around manhole cover, 12th November :- [8410484](https://www.fixmystreet.com/report/8410484)
+- Temporary Lights, 12th November :- [8410423](https://www.fixmystreet.com/report/8410423)
 - Blocked gulley., 12th November :- [8410345](https://www.fixmystreet.com/report/8410345)
 - Pothole over 1 metre in length, 12th November :- [8410113](https://www.fixmystreet.com/report/8410113)
 - Light sensor is not detecting vehicles problem, 12th November :- [8410151](https://www.fixmystreet.com/report/8410151)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 12th November :- [8409621](https://www.fixmystreet.com/report/8409621)
 - TMC - Defects -CW10 Potholes problem, 12th November :- [8409465](https://www.fixmystreet.com/report/8409465)
 - TMC - Defects - Covers, Gratings & Frames problem, 12th November :- [8409464](https://www.fixmystreet.com/report/8409464)
-- TMC - Defects -other CW10 problem, 12th November :- [8409462](https://www.fixmystreet.com/report/8409462)
-- TMC - Defects -other CW6 problem, 12th November :- [8409461](https://www.fixmystreet.com/report/8409461)
-- TMC - Defects -CW6 Potholes  problem, 12th November :- [8409460](https://www.fixmystreet.com/report/8409460)
-- TMC - Defects -CW6 Potholes  problem, 12th November :- [8409459](https://www.fixmystreet.com/report/8409459)
-- TMC - Defects - Vegetation problem, 12th November :- [8409286](https://www.fixmystreet.com/report/8409286)
-- Leaves are causing severe slip hazard; leaves were swept into huge piles a week ago but due to rain and wind have now all spread over the path. Its treacherous and needs sorting ASAP, 12th November :- [8409174](https://www.fixmystreet.com/report/8409174)
 
 <!-- fix_marker ends -->
