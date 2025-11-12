@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Single mattress and car chair, 12th November :- [8411217](https://www.fixmystreet.com/report/8411217)
+- Single mattress and car chair, 12th November :- [8411216](https://www.fixmystreet.com/report/8411216)
+- Cracks in path large enough to fit bicycle tyres. Dangerous, 12th November :- [8411065](https://www.fixmystreet.com/report/8411065)
+- A channel had been dug up across the road & poorly filled in as on the left side of road (travelling towards Cheltenham) it has collapsed & is a danger to car’s wheels., 12th November :- [8410926](https://www.fixmystreet.com/report/8410926)
 - Flooding NOT fixed by remedial work - only marginally less bad, 12th November :- [8410909](https://www.fixmystreet.com/report/8410909)
 - Drain is blocked outside my house, the drain across the road opposite to my house is also blocked, 12th November :- [8410894](https://www.fixmystreet.com/report/8410894)
 - Streetlight not coming on, 12th November :- [8410524](https://www.fixmystreet.com/report/8410524)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Damaged pedestrian footbridge, 12th November :- [8409754](https://www.fixmystreet.com/report/8409754)
 - A pothole in road problem, 12th November :- [8409810](https://www.fixmystreet.com/report/8409810)
 - Arle Court transport hub cycle pump., 12th November :- [8409703](https://www.fixmystreet.com/report/8409703)
-- TMC - Defects -CW6 Potholes  problem, 12th November :- [8409813](https://www.fixmystreet.com/report/8409813)
-- TMC - Defects -CW6 Potholes  problem, 12th November :- [8409621](https://www.fixmystreet.com/report/8409621)
-- TMC - Defects -CW10 Potholes problem, 12th November :- [8409465](https://www.fixmystreet.com/report/8409465)
-- TMC - Defects - Covers, Gratings & Frames problem, 12th November :- [8409464](https://www.fixmystreet.com/report/8409464)
 
 <!-- fix_marker ends -->
