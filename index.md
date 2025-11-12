@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Wednesday, 12 November 2025
 
-- The average temperature today is 13.59˚C,
+- The average temperature today is 13.89˚C,
 - With highs of 14.43˚C and lows of 12.94˚C,
-- It may feel like 13.28˚C with moderate rain
-- The wind speed is 3.13m/s and visibility is 10000m
-- The pressure is 1001hPa and humidity is 87%
+- It may feel like 13.74˚C with moderate rain
+- The wind speed is 4.47m/s and visibility is 10000m
+- The pressure is 1001hPa and humidity is 92%
 - The sun will rise at 07:22 and set at 16:22
 
 <!-- weather_marker ends -->
