@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- There is NO drain the slope of the road causes water to collect, 12th November :- [8407286](https://www.fixmystreet.com/report/8407286)
+- Blocked drain sub surface, 12th November :- [8406944](https://www.fixmystreet.com/report/8406944)
+- Blocked drain causing road flooding, 12th November :- [8406932](https://www.fixmystreet.com/report/8406932)
+- Several deep potholes that keep reopening after repair!!, 12th November :- [8406845](https://www.fixmystreet.com/report/8406845)
 - The adjacent drain is not blocked but the accumulated rain cannot drain because of road camber. Huge puddle remains and presents a problem for pedestrians, 12th November :- [8406643](https://www.fixmystreet.com/report/8406643)
 - No street light in Vernon Place, in front of RA Bennet office, 11th November :- [8406510](https://www.fixmystreet.com/report/8406510)
 - Birdlip House leaking water on to the road, 11th November :- [8406457](https://www.fixmystreet.com/report/8406457)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 11th November :- [8404835](https://www.fixmystreet.com/report/8404835)
 - TMC - Defects -CW6 Potholes  problem, 11th November :- [8404638](https://www.fixmystreet.com/report/8404638)
 - Sign/waymarker is damaged problem, 11th November :- [8404569](https://www.fixmystreet.com/report/8404569)
-- TMC - Defects -CW6 Potholes  problem, 11th November :- [8404373](https://www.fixmystreet.com/report/8404373)
-- TMC - Defects -CW6 Potholes  problem, 11th November :- [8404370](https://www.fixmystreet.com/report/8404370)
-- TMC - Defects -CW6 Potholes  problem, 11th November :- [8404372](https://www.fixmystreet.com/report/8404372)
-- TMC - Defects -CW6 Potholes  problem, 11th November :- [8404369](https://www.fixmystreet.com/report/8404369)
 
 <!-- fix_marker ends -->
