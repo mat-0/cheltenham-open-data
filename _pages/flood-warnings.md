@@ -22,21 +22,19 @@ This project fetches flood warning data for the Gloucestershire area and publish
 - Flood alert: Upper Bristol Avon area
 - Forecast rising river levels overnight may lead to flooding.  Flooding is possible on 11 November 2025 and 12 November 2025.  Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected. Areas most at risk include low lying land in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Further flooding is possible tomorrow as river levels rise due to additional rainfall.  We are monitoring rainfall and river levels and will issue further alerts and warnings if required.  Avoid using low lying footpaths and any bridges near local watercourses and consider activating any flood protection products you may have.  This message will be updated by 4:00PM on 12 November 2025 or as the situation changes.
 
-- Flood alert: River Evenlode from Moreton in Marsh to Cassington and also the River Glyme at Wootton and Woodstock
-- Forecast rising river levels overnight may lead to flooding. 
-Flooding is possible from overnight on 11 November 2025 . 
-Flooding of low lying land and roads is possible, especially in the Shipton under Wychwood area. Further rainfall is forecast over the next 12 hours. We expect river levels to begin rising overnight on 11/11/2025. 
-We are closely monitoring the situation . 
-Take care and avoid walking, cycling or driving through flood water . 
-This message will be updated by 9:00AM on 12 November 2025 or as the situation changes.
+- Warning no longer in force: River Evenlode from Moreton in Marsh to Cassington and also the River Glyme at Wootton and Woodstock
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Further rainfall is forecast but no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Stay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals.   
 
-- Flood alert: Tributaries on the Upper River Thames above Cricklade
-- Forecast rising river levels overnight may lead to flooding. 
-Flooding is possible from overnight on 11 November 2025 . 
-Flooding of low lying land and roads is possible, especially in the Swill Brook and Purton Stoke areas. Further rainfall is forecast over the next 12 hours. We expect river levels to begin rising overnight on 11/11/2025. 
-We are closely monitoring the situation . 
-Take care and avoid walking, cycling or driving through flood water . 
-This message will be updated by 9:00AM on 12 November 2025 or as the situation changes.
+
+- Warning no longer in force: Tributaries on the Upper River Thames above Cricklade
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Further rainfall is forecast but no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Stay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals.   
+
 
 - Flood alert: River Wye in Herefordshire
 - Forecast rising river levels may lead to flooding. 

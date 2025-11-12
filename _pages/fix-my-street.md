@@ -9,6 +9,14 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Caravan left abandoned, 12th November :- [8408122](https://www.fixmystreet.com/report/8408122)
+- Rotten wood and dropped slabs, 12th November :- [8407917](https://www.fixmystreet.com/report/8407917)
+- School flashing lights to slow down broken/non illuminating, 12th November :- [8407789](https://www.fixmystreet.com/report/8407789)
+- Cones left in the verge, 12th November :- [8407751](https://www.fixmystreet.com/report/8407751)
+- Gully full of vegetation that is then blocking the run off drain front the new cycle bath, 12th November :- [8407730](https://www.fixmystreet.com/report/8407730)
+- Ongoing Neglect of Elmfield Avenue and Elmfield Street, 12th November :- [8407651](https://www.fixmystreet.com/report/8407651)
+- Drains blocked yet again., 12th November :- [8407602](https://www.fixmystreet.com/report/8407602)
+- Huge potholes over 80mm deep in front of Beverston House on Leckhamtpon Lane, 12th November :- [8407346](https://www.fixmystreet.com/report/8407346)
 - There is NO drain the slope of the road causes water to collect, 12th November :- [8407286](https://www.fixmystreet.com/report/8407286)
 - Blocked drain sub surface, 12th November :- [8406944](https://www.fixmystreet.com/report/8406944)
 - Blocked drain causing road flooding, 12th November :- [8406932](https://www.fixmystreet.com/report/8406932)
@@ -21,13 +29,5 @@ permalink: /fix-my-street
 - The drain is blocked problem, 11th November :- [8405514](https://www.fixmystreet.com/report/8405514)
 - TMC - Defects - Other problem, 11th November :- [8405516](https://www.fixmystreet.com/report/8405516)
 - Flytipped items, 11th November :- [8405246](https://www.fixmystreet.com/report/8405246)
-- Flytipped items, 11th November :- [8405240](https://www.fixmystreet.com/report/8405240)
-- 2 holes infront of 115 Hesters Way Road, 11th November :- [8405123](https://www.fixmystreet.com/report/8405123)
-- Large pothole and several other small potholes all around this junction, 11th November :- [8405051](https://www.fixmystreet.com/report/8405051)
-- Large pieces of glass from the bus stop lying on the grass, not easily noticeable and very unsafe, 11th November :- [8404754](https://www.fixmystreet.com/report/8404754)
-- Unpermitted roadworks problem, 11th November :- [8404832](https://www.fixmystreet.com/report/8404832)
-- TMC - Defects -CW6 Potholes  problem, 11th November :- [8404835](https://www.fixmystreet.com/report/8404835)
-- TMC - Defects -CW6 Potholes  problem, 11th November :- [8404638](https://www.fixmystreet.com/report/8404638)
-- Sign/waymarker is damaged problem, 11th November :- [8404569](https://www.fixmystreet.com/report/8404569)
 
 <!-- fix_marker ends -->
