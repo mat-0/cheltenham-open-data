@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- I deep and sharp and wide divot across the whole length of the road, also one further up towards the corner round onto chosen way, 13th November :- [8416448](https://www.fixmystreet.com/report/8416448)
+- Horrific road surface coming off churchdown lane into hucclecote, 13th November :- [8416424](https://www.fixmystreet.com/report/8416424)
+- Lasne Crescent sign vandalized in Brockworth, 13th November :- [8416275](https://www.fixmystreet.com/report/8416275)
+- Overgrown tree, 13th November :- [8416179](https://www.fixmystreet.com/report/8416179)
 - Streetlight not working, 13th November :- [8416140](https://www.fixmystreet.com/report/8416140)
 - Traffic light at junction of Winchcombe Street and Fairview road is faulty, 13th November :- [8416094](https://www.fixmystreet.com/report/8416094)
 - Abandoned roadworks sign, 13th November :- [8415832](https://www.fixmystreet.com/report/8415832)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Dangerous parking, 13th November :- [8414535](https://www.fixmystreet.com/report/8414535)
 - Blocked drain, 13th November :- [8414508](https://www.fixmystreet.com/report/8414508)
 - Post or sign leaning slightly (less than 20 degrees) problem, 13th November :- [8414484](https://www.fixmystreet.com/report/8414484)
-- Fly tipping, 13th November :- [8414395](https://www.fixmystreet.com/report/8414395)
-- Street lights not working, 13th November :- [8414380](https://www.fixmystreet.com/report/8414380)
-- TMC - Defects - Kerbs and Channels problem, 13th November :- [8414492](https://www.fixmystreet.com/report/8414492)
-- TMC - Defects - Kerbs and Channels problem, 13th November :- [8414491](https://www.fixmystreet.com/report/8414491)
 
 <!-- fix_marker ends -->
