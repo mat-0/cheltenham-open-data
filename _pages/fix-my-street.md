@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Streetlight not working, 13th November :- [8416140](https://www.fixmystreet.com/report/8416140)
+- Traffic light at junction of Winchcombe Street and Fairview road is faulty, 13th November :- [8416094](https://www.fixmystreet.com/report/8416094)
+- Abandoned roadworks sign, 13th November :- [8415832](https://www.fixmystreet.com/report/8415832)
+- Diverted traffic signs, 13th November :- [8415806](https://www.fixmystreet.com/report/8415806)
+- Please resurface Harp Hill, 13th November :- [8415751](https://www.fixmystreet.com/report/8415751)
 - A pothole in road problem, 13th November :- [8415540](https://www.fixmystreet.com/report/8415540)
 - Loose manhole cover, rattles with every passing vehicle, 13th November :- [8415295](https://www.fixmystreet.com/report/8415295)
 - The drain is blocked and water is not draining away, 13th November :- [8415257](https://www.fixmystreet.com/report/8415257)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Street lights not working, 13th November :- [8414380](https://www.fixmystreet.com/report/8414380)
 - TMC - Defects - Kerbs and Channels problem, 13th November :- [8414492](https://www.fixmystreet.com/report/8414492)
 - TMC - Defects - Kerbs and Channels problem, 13th November :- [8414491](https://www.fixmystreet.com/report/8414491)
-- TMC - Defects - Other FW6  Surface problem, 13th November :- [8414489](https://www.fixmystreet.com/report/8414489)
-- TMC - Defects -CW6 Potholes  problem, 13th November :- [8414487](https://www.fixmystreet.com/report/8414487)
-- Large puddle, rain not draining, 13th November :- [8414120](https://www.fixmystreet.com/report/8414120)
-- Whole footpath needs clearing and resurfacing, 13th November :- [8414100](https://www.fixmystreet.com/report/8414100)
-- TMC - Defects - Other problem, 13th November :- [8414124](https://www.fixmystreet.com/report/8414124)
 
 <!-- fix_marker ends -->

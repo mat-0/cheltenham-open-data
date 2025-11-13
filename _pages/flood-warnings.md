@@ -30,6 +30,14 @@ We are closely monitoring the situation . 
 Avoid using low lying footpaths and any bridges near local watercourses and avoid low lying roads near rivers, which may be flooded 
 This message will be updated by 10:00AM on 14 November 2025 or as the situation changes.
 
+- Flood alert: River Stour in South Warwickshire
+- Forecast high river levels on Friday may lead to flooding. 
+Flooding is possible from the morning of 14 November 2025 and overnight into Saturday 15th. 
+Locations most affected will be low lying land and roads near rivers around Shipston on Stour, Tredington, Halford, Newbold on Stour, Crimscote, Wimpstone and Clifford Chambers. 
+We are closely monitoring the situation . 
+Avoid using low lying footpaths and any bridges near local watercourses . 
+This message will be updated by 11:00AM on 14 November 2025 or as the situation changes.
+
 - Flood alert: Rivers in South Worcestershire
 - Rising river levels overnight may lead to flooding. 
 Flooding is possible on 14 November 2025 . 
@@ -75,11 +83,7 @@ Avoid using low lying footpaths and any bridges near local watercourses and avoi
 This message will be updated by 10:00AM on 14 November 2025 or as the situation changes.
 
 - Flood alert: River Wye in Herefordshire
-- River levels remain high which may lead to flooding. 
-Flooding is possible 13 November 2025. 
-Flooding may affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations affected may include the A438 between Letton & Willersey, Byford, Bredwardine & Hereford. Road closures & diversions on the A438 may be in force. Observed peaks:- Hay on Wye 1.59m on 12/11, Bredwardine 3.0m on 12/11,  Belmont 3.18m on 13/11 AM, Old Wye Bridge 2.7m on 13/11 AM. Predicted Peaks:- Mordiford 3.0m to 3.3m on 13/11 AM, Ross on Wye 2.4m to 2.7m on 13/11 PM.
-Take care and avoid walking, cycling or driving through flood water. 
-This message will be updated by 7:00PM on 13 November 2025 or as the situation changes.
+- River levels remain high which may lead to flooding. Flooding is possible 13 November 2025. Flooding may affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations affected may include the A438 between Letton & Willersey, Byford, Bredwardine & Hereford. Road closures & diversions on the A438 may be in force. Due to uncertain forecast heavy rainfall that has not yet fallen and been observed, but may have significant impact within the community, we are unable to provide any real time peak information. As the situation evolves we will be able to provide more details. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 9:00AM on 14 November 2025 or as the situation changes.
 
 - Flood alert: Rivers in the Forest of Dean
 - Rising river levels overnight may lead to flooding. 
@@ -90,12 +94,7 @@ Avoid using low lying footpaths and any bridges near local watercourses and avoi
 This message will be updated by 10:00AM on 14 November 2025 or as the situation changes.
 
 - Flood alert: River Wye in Gloucestershire
-- River levels remain high which may lead to flooding. 
-Flooding is possible 13 November 2025. 
-Flooding may affect low lying land and roads along the River Wye. Predicted peaks:- Ross on Wye 2.4m to 2.7m 13/11 PM, Lydbrook 3.1m to 3.5m 13/11 PM.
-We are closely monitoring the situation . 
-Take care and avoid walking, cycling or driving through flood water . 
-This message will be updated by 7:00PM on 13 November 2025 or as the situation changes.
+- River levels remain high which may lead to flooding. Flooding is possible 13 November 2025. Flooding may affect low lying land and roads along the River Wye. Due to uncertain forecast heavy rainfall that has not yet fallen and been observed, but may have significant impact within the community, we are unable to provide any real time peak information. As the situation evolves we will be able to provide more details. We are closely monitoring the situation . Take care and avoid walking, cycling or driving through flood water . This message will be updated by 9:00AM on 14 November 2025 or as the situation changes.
 
 - Flood alert: River Severn in Worcestershire
 - Rising river levels tomorrow morning may lead to flooding. 
