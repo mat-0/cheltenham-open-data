@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pavement Uneven, 13th November :- [8412150](https://www.fixmystreet.com/report/8412150)
+- Street light outside Treefoil, 13th November :- [8412092](https://www.fixmystreet.com/report/8412092)
 - The lane control approach sign is getting obscured again, 12th November :- [8411508](https://www.fixmystreet.com/report/8411508)
 - Pothole, 12th November :- [8411457](https://www.fixmystreet.com/report/8411457)
 - Flytipped matress, 12th November :- [8411374](https://www.fixmystreet.com/report/8411374)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Pothole over 1 metre in length, 12th November :- [8410113](https://www.fixmystreet.com/report/8410113)
 - Light sensor is not detecting vehicles problem, 12th November :- [8410151](https://www.fixmystreet.com/report/8410151)
 - Baby carriers and other housing furniture and items been dumped, 12th November :- [8410032](https://www.fixmystreet.com/report/8410032)
-- Heavy flooding on Cheltenham Road East, prior to junction with Heathdean Road. As this has never flooded in the past, suspect this is due to new cycleway works., 12th November :- [8409932](https://www.fixmystreet.com/report/8409932)
-- A pothole in road problem, 12th November :- [8410010](https://www.fixmystreet.com/report/8410010)
 
 <!-- fix_marker ends -->
