@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dangerous deep pothole, 13th November :- [8416728](https://www.fixmystreet.com/report/8416728)
+- Ridiculous road closure that has no purpose, 13th November :- [8416604](https://www.fixmystreet.com/report/8416604)
+- Road gulley along east side of old bath road full of leaf and other washed down litter stopping drains from operating, 13th November :- [8416528](https://www.fixmystreet.com/report/8416528)
+- Drain in road is blocked and not allowing any water to pass through, 13th November :- [8416521](https://www.fixmystreet.com/report/8416521)
+- Deep dangerous pothole, 13th November :- [8416493](https://www.fixmystreet.com/report/8416493)
 - I deep and sharp and wide divot across the whole length of the road, also one further up towards the corner round onto chosen way, 13th November :- [8416448](https://www.fixmystreet.com/report/8416448)
 - Horrific road surface coming off churchdown lane into hucclecote, 13th November :- [8416424](https://www.fixmystreet.com/report/8416424)
 - Lasne Crescent sign vandalized in Brockworth, 13th November :- [8416275](https://www.fixmystreet.com/report/8416275)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Fly tipped materials, 13th November :- [8414972](https://www.fixmystreet.com/report/8414972)
 - Tree is damaged problem, 13th November :- [8415079](https://www.fixmystreet.com/report/8415079)
 - TMC - Defects - Vegetation problem, 13th November :- [8415081](https://www.fixmystreet.com/report/8415081)
-- Crossing audible sound too loud/soft problem, 13th November :- [8414891](https://www.fixmystreet.com/report/8414891)
-- TMC - Defects - Signs & Street Furniture problem, 13th November :- [8414897](https://www.fixmystreet.com/report/8414897)
-- Dangerous parking, 13th November :- [8414535](https://www.fixmystreet.com/report/8414535)
-- Blocked drain, 13th November :- [8414508](https://www.fixmystreet.com/report/8414508)
-- Post or sign leaning slightly (less than 20 degrees) problem, 13th November :- [8414484](https://www.fixmystreet.com/report/8414484)
 
 <!-- fix_marker ends -->
