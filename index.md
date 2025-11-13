@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Thursday, 13 November 2025
 
-- The average temperature today is 13.06˚C,
-- With highs of 13.88˚C and lows of 12.04˚C,
-- It may feel like 12.67˚C with overcast clouds
-- The wind speed is 3.13m/s and visibility is 10000m
-- The pressure is 1004hPa and humidity is 86%
+- The average temperature today is 12.48˚C,
+- With highs of 13.32˚C and lows of 11.5˚C,
+- It may feel like 12˚C with few clouds
+- The wind speed is 4.12m/s and visibility is 10000m
+- The pressure is 1005hPa and humidity is 85%
 - The sun will rise at 07:24 and set at 16:20
 
 <!-- weather_marker ends -->
