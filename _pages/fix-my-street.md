@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Drain blocked, brimmed with water and debris., 14th November :- [8416858](https://www.fixmystreet.com/report/8416858)
+- Drain blocked, brimmed with water and debris., 14th November :- [8416855](https://www.fixmystreet.com/report/8416855)
+- The lane control approach sign is getting obscured again, 13th November :- [8416810](https://www.fixmystreet.com/report/8416810)
 - Dangerous deep pothole, 13th November :- [8416728](https://www.fixmystreet.com/report/8416728)
 - Ridiculous road closure that has no purpose, 13th November :- [8416604](https://www.fixmystreet.com/report/8416604)
 - Road gulley along east side of old bath road full of leaf and other washed down litter stopping drains from operating, 13th November :- [8416528](https://www.fixmystreet.com/report/8416528)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - A pothole in road problem, 13th November :- [8415540](https://www.fixmystreet.com/report/8415540)
 - Loose manhole cover, rattles with every passing vehicle, 13th November :- [8415295](https://www.fixmystreet.com/report/8415295)
 - The drain is blocked and water is not draining away, 13th November :- [8415257](https://www.fixmystreet.com/report/8415257)
-- Fly tipped materials, 13th November :- [8414972](https://www.fixmystreet.com/report/8414972)
-- Tree is damaged problem, 13th November :- [8415079](https://www.fixmystreet.com/report/8415079)
-- TMC - Defects - Vegetation problem, 13th November :- [8415081](https://www.fixmystreet.com/report/8415081)
 
 <!-- fix_marker ends -->
