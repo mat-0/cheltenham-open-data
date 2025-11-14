@@ -41,6 +41,14 @@ Take care and avoid walking, cycling or driving through flood water.
 
 This message will be updated by 19:00, 14 November 2025 or as the situation changes.
 
+- Flood alert: River Dikler from Condicote to Little Rissington
+- Forecast high river levels throughout the evening may lead to flooding. 
+Flooding is possible from the evening of 14 November 2025 . 
+Flooding of low lying land and roads is possible. Further rain, which could be heavy at times, is forecast over the next few hours. We expect river levels to remain high overnight on 14 November 2025. 
+We are closely monitoring the situation . 
+Avoid using low lying footpaths and any bridges near local watercourses . 
+This message will be updated by 9:00AM on 15 November 2025 or as the situation changes.
+
 - Flood alert: Tributaries on the Upper River Thames above Cricklade
 - Rising river levels may lead to flooding.
 
@@ -153,6 +161,15 @@ This message will be updated by 10:00AM on 15 November 2025 or as the situation 
 - Widespread heavy rainfall throughout today may lead to flooding. Flooding is possible on 14th November 2025 and over the weekend.
 Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury; including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate will be closed at Upton upon Severn tomorrow. This alert has been issued based on uncertain forecast heavy rainfall that may have significant impact within the community. As the worst of the rain has not yet fallen we are unable to provide any real time peak information. As the situation evolves, we will be able to provide more details. We are closely monitoring the situation and liaising with emergency services and our partners. Take care and avoid walking, cycling or driving through flood water. 
 This message will be updated by 10:00AM on 15 November 2025 or as the situation changes.
+
+- Flood alert: Lower Bristol Avon area
+- High river levels today may lead to flooding. 
+Flooding is possible on 14 November 2025 . 
+Areas most at risk include low lying land at Hanham Lock and the floodplain upstream of Bath
+Flooding is forecast to affect locations near the Bristol Avon, Broadmead Brook, River Boyd, with low lying land and roads expected to be most affected, particularly around Areas most at risk include low lying land at Hanham Lock and the floodplain upstream of Bath. 
+We are monitoring rainfall and river levels . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 6:04PM on 14 November 2025 or as the situation changes.
 
 - Flood warning: River Avon at Strensham and Bredon
 - Rising river levels are expected to cause flooding overnight. 
