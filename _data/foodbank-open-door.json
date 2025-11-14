@@ -24,6 +24,52 @@
     "register_url": "https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1063434&subid=0"
   },
   "locations": [],
+  "donationpoints": [
+    {
+      "name": "Cheltenham Household Essentials Project",
+      "slug": "cheltenham-household-essentials-project",
+      "address": "Ron Smith Pavilion\r\nSpringbank Way\r\nCheltenham\r\nGL51 0LH",
+      "postcode": "GL51 0LH",
+      "lat_lng": "51.9137486,-2.1158427",
+      "phone": "01242237854",
+      "opening_hours": "Monday: 9:00 AM – 2:00 PM\r\nTuesday: 9:00 AM – 2:00 PM, 5:00 – 6:00 PM\r\nWednesday: 9:00 AM – 2:00 PM\r\nThursday: 9:00 AM – 2:00 PM\r\nFriday: 9:00 AM – 2:00 PM\r\nSaturday: Closed\r\nSunday: Closed",
+      "wheelchair_accessible": true,
+      "politics": {
+        "parliamentary_constituency": "Tewkesbury",
+        "mp": null,
+        "mp_party": null,
+        "mp_parl_id": null,
+        "ward": "Springbank",
+        "district": "Cheltenham",
+        "urls": {
+          "self": "https://www.givefood.org.uk/api/2/constituency/tewkesbury/",
+          "html": "https://www.givefood.org.uk/needs/in/constituency/tewkesbury/"
+        }
+      }
+    },
+    {
+      "name": "Emmaus",
+      "slug": "emmaus",
+      "address": "147-151 Bath Road\r\nCheltenham\r\nGL53 7LT",
+      "postcode": "GL53 7LT",
+      "lat_lng": "51.8898856,-2.0787896",
+      "phone": "01242269734",
+      "opening_hours": "Monday: 9:00 AM – 5:00 PM\r\nTuesday: 9:00 AM – 5:00 PM\r\nWednesday: 9:00 AM – 5:00 PM\r\nThursday: 9:00 AM – 5:00 PM\r\nFriday: 9:00 AM – 5:00 PM\r\nSaturday: 9:00 AM – 5:00 PM\r\nSunday: 10:00 AM – 4:00 PM",
+      "wheelchair_accessible": null,
+      "politics": {
+        "parliamentary_constituency": "Cheltenham",
+        "mp": null,
+        "mp_party": null,
+        "mp_parl_id": null,
+        "ward": "Park",
+        "district": "Cheltenham",
+        "urls": {
+          "self": "https://www.givefood.org.uk/api/2/constituency/cheltenham/",
+          "html": "https://www.givefood.org.uk/needs/in/constituency/cheltenham/"
+        }
+      }
+    }
+  ],
   "politics": {
     "parliamentary_constituency": "Cheltenham",
     "mp": null,
