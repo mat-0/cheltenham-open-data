@@ -9,8 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipping on corner of Bramley Road and Montreal drive, 14th November :- [8418191](https://www.fixmystreet.com/report/8418191)
+- Drain blocked in council owned car park, 14th November :- [8417887](https://www.fixmystreet.com/report/8417887)
 - The alley way is absolutely full of fallen leaves and is incredibly slippy with so many extra pedestrians having to use it. It is also uneven in places making it difficult to navigate., 14th November :- [8417103](https://www.fixmystreet.com/report/8417103)
 - There is no street lighting, 14th November :- [8417022](https://www.fixmystreet.com/report/8417022)
+- Drain blocked - outside 34 / 32 Boverton Drive, 14th November :- [8416993](https://www.fixmystreet.com/report/8416993)
 - Drain blocked, brimmed with water and debris., 14th November :- [8416858](https://www.fixmystreet.com/report/8416858)
 - Drain blocked, brimmed with water and debris., 14th November :- [8416855](https://www.fixmystreet.com/report/8416855)
 - The lane control approach sign is getting obscured again, 13th November :- [8416810](https://www.fixmystreet.com/report/8416810)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Streetlight not working, 13th November :- [8416140](https://www.fixmystreet.com/report/8416140)
 - Traffic light at junction of Winchcombe Street and Fairview road is faulty, 13th November :- [8416094](https://www.fixmystreet.com/report/8416094)
 - Abandoned roadworks sign, 13th November :- [8415832](https://www.fixmystreet.com/report/8415832)
-- Diverted traffic signs, 13th November :- [8415806](https://www.fixmystreet.com/report/8415806)
-- Please resurface Harp Hill, 13th November :- [8415751](https://www.fixmystreet.com/report/8415751)
-- A pothole in road problem, 13th November :- [8415540](https://www.fixmystreet.com/report/8415540)
 
 <!-- fix_marker ends -->
