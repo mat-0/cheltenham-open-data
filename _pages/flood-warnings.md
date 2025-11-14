@@ -20,12 +20,13 @@ This project fetches flood warning data for the Gloucestershire area and publish
 
 <!-- flood_marker starts -->
 - Flood alert: Upper Bristol Avon area
-- Rising river levels overnight may lead to flooding. 
-Flooding is possible on 13 November 2025 from 11:00 PM. 
-Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected, particularly low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Further heavy rain is forecast on Friday 14/11/2025 and levels are expected to continue rising through the day. 
-We are closely monitoring the situation and will issue further alerts and warnings if required. 
-Take care and avoid walking, cycling or driving through flood water and consider activating any flood protection products you may have. 
-This message will be updated by 2:00PM on 14 November 2025 or as the situation changes.
+- River levels are now rising in response to heavy rainfall and are forecast to continue rising.
+Flooding is possible Friday 14/11/2025 and Saturday 15/11/2025.
+Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected, particularly low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Drier conditions are forecast from Saturday and conditions will begin to improve.
+We are closely monitoring the situation and will issue further alerts and warnings if required.
+Take care and avoid walking, cycling or driving through flood water and consider activating any flood protection products you may have.
+This message will be updated by 2:00PM on 15/11/2025 or as the situation changes.
+
 
 - Flood alert: River Evenlode from Moreton in Marsh to Cassington and also the River Glyme at Wootton and Woodstock
 - Forecast rising river levels may lead to flooding. 
@@ -128,6 +129,22 @@ This message will be updated by 10:00AM on 15 November 2025 or as the situation 
 - Widespread heavy rainfall throughout today may lead to flooding. Flooding is possible on 14th November 2025 and over the weekend.
 Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury; including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate will be closed at Upton upon Severn tomorrow. This alert has been issued based on uncertain forecast heavy rainfall that may have significant impact within the community. As the worst of the rain has not yet fallen we are unable to provide any real time peak information. As the situation evolves, we will be able to provide more details. We are closely monitoring the situation and liaising with emergency services and our partners. Take care and avoid walking, cycling or driving through flood water. 
 This message will be updated by 10:00AM on 15 November 2025 or as the situation changes.
+
+- Flood warning: River Avon at Strensham and Bredon
+- Rising river levels are expected to cause flooding overnight. 
+Flooding is expected on 14 November 2025 . 
+Flooding may affect properties and roads around Mill Lane, Strensham and areas around Dock Lane Bredon. Predicted peaks:- Evesham 3.5m to 4.0m on Saturday 15/11 PM, Bredon 3.1m to 3.6m on Sunday 16/11 PM. 
+We are closely monitoring the situation and liaising with emergency services and local authorities. 
+Start acting on your flood plan if you have one and activate any flood protection products you may have. 
+This message will be updated by 10:00AM on 15 November 2025 or as the situation changes. 
+
+- Flood warning: River Avon at Twyning
+- Rising river levels are expected to cause flooding overnight. 
+Flooding is expected on 14 November 2025 . 
+Flooding may affect properties and roads around Twyning Green. Predicted peak:- Bredon 3.1m to 3.6m on 16/11 PM. 
+We are closely monitoring the situation . 
+Activate any flood protection products you may have Start acting on your flood plan if you have one 
+This message will be updated by 10:00AM on 15 November 2025 or as the situation changes. 
 
 
 <!-- flood_marker ends -->
