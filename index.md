@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Friday, 14 November 2025
 
-- The average temperature today is 11.75˚C,
-- With highs of 12.19˚C and lows of 11.5˚C,
-- It may feel like 11.33˚C with light rain
-- The wind speed is 3.58m/s and visibility is 10000m
-- The pressure is 1004hPa and humidity is 90%
+- The average temperature today is 10.82˚C,
+- With highs of 11.66˚C and lows of 10.38˚C,
+- It may feel like 10.28˚C with light rain
+- The wind speed is 4.47m/s and visibility is 10000m
+- The pressure is 1002hPa and humidity is 89%
 - The sun will rise at 07:26 and set at 16:19
 
 <!-- weather_marker ends -->
