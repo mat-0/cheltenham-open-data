@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The alley way is absolutely full of fallen leaves and is incredibly slippy with so many extra pedestrians having to use it. It is also uneven in places making it difficult to navigate., 14th November :- [8417103](https://www.fixmystreet.com/report/8417103)
+- There is no street lighting, 14th November :- [8417022](https://www.fixmystreet.com/report/8417022)
 - Drain blocked, brimmed with water and debris., 14th November :- [8416858](https://www.fixmystreet.com/report/8416858)
 - Drain blocked, brimmed with water and debris., 14th November :- [8416855](https://www.fixmystreet.com/report/8416855)
 - The lane control approach sign is getting obscured again, 13th November :- [8416810](https://www.fixmystreet.com/report/8416810)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Diverted traffic signs, 13th November :- [8415806](https://www.fixmystreet.com/report/8415806)
 - Please resurface Harp Hill, 13th November :- [8415751](https://www.fixmystreet.com/report/8415751)
 - A pothole in road problem, 13th November :- [8415540](https://www.fixmystreet.com/report/8415540)
-- Loose manhole cover, rattles with every passing vehicle, 13th November :- [8415295](https://www.fixmystreet.com/report/8415295)
-- The drain is blocked and water is not draining away, 13th November :- [8415257](https://www.fixmystreet.com/report/8415257)
 
 <!-- fix_marker ends -->
