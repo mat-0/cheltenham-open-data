@@ -29,52 +29,47 @@ This message will be updated by 2:00PM on 15/11/2025 or as the situation changes
 
 
 - Flood alert: River Churn and its tributaries
-- Rising river levels overnight may lead to flooding. 
-Flooding is possible from overnight on 14 November 2025 . 
-Flooding of low lying land and roads is possible, especially in the Cirencester area. Further rainfall is forecast over the next few hours. We expect river levels to rise until tomorrow 15/11/25. 
-We are closely monitoring the situation . 
-Don't put yourself or others at risk . 
-This message will be updated by 9:00AM on 15 November 2025 or as the situation changes.
+- Flooding of low lying land and roads is possible today (15/11/25) especially in the Cerney Wick area. Today will be mostly dry but with some rain possible later. We expect river levels to rise until tomorrow 16/11/25. 
+
+We are closely monitoring the situation. 
+
+Don't put yourself or others at risk. 
+
+This message will be updated by 20:00, 15 November 2025, or as the situation changes.
 
 - Flood alert: River Evenlode from Moreton in Marsh to Cassington and also the River Glyme at Wootton and Woodstock
-- "Rising river levels may lead to continued flooding. 
+- "Rising river levels may lead to continued flooding.  
 
-Flooding is possible on 14 and 15th November 2025. 
-
-Flooding of low lying land and roads is possible, especially in the Shipton Under Wychwood Area.  Some light rainfall is forecast overnight with drier conditions over the weekend.  
+Flooding of low lying land and roads is possible on the 15th November 2025, especially in the Shipton Under Wychwood Area.  Today will be mostly dry but with some rain possible later.
 
 We are closely monitoring the situation. 
 
 Take care and avoid walking, cycling or driving through flood water. 
 
-This message will be updated by 08:00, 15 November 2025 or as the situation changes."
+This message will be updated by 20:00, 15 November 2025 or as the situation changes."
 
 - Flood alert: River Dikler from Condicote to Little Rissington
-- Forecast high river levels throughout the evening may lead to flooding. 
-Flooding is possible from the evening of 14 November 2025 . 
-Flooding of low lying land and roads is possible. Further rain, which could be heavy at times, is forecast over the next few hours. We expect river levels to remain high overnight on 14 November 2025. 
-We are closely monitoring the situation . 
-Avoid using low lying footpaths and any bridges near local watercourses . 
-This message will be updated by 9:00AM on 15 November 2025 or as the situation changes.
+- Flooding of low-lying land and roads remains possible on 15th November 2025. Today will be mostly dry but with some rain possible later. We expect river levels to remain high on 15 November 2025. 
+
+We are closely monitoring the situation. 
+
+Avoid using low lying footpaths and any bridges near local watercourses. Go to river levels online for updates on current river levels.
+
+This message will be updated by 20:00, 15 November 2025, or as the situation changes.
 
 - Flood alert: Tributaries on the Upper River Thames above Cricklade
-- "Rising river levels may lead to flooding.
+- "High river levels may lead to flooding.
 
-Flooding of low lying land and roads is possible, especially in the Purton Stoke and Swill Brook areas. Some light rainfall is forecast overnight with drier conditions over the weekend. We expect river levels to remain high overnight tonight 14/11/2025. 
+Flooding of low lying land and roads is possible, especially in the Purton Stoke and Swill Brook areas. Today will be mostly dry but with some rain possible later.. We expect river levels to drop over the weekend. 
 
 We are closely monitoring the situation. 
 
 Take care and avoid walking, cycling or driving through flood water. 
 
-This message will be updated by 08:00 15 Nov 2025 or as the situation changes."
+This message will be updated by 20:00 15 Nov 2025 or as the situation changes."
 
 - Flood alert: Middle Avon Rugby to Bidford
-- Forecast high river levels today may lead to flooding. 
-Flooding is possible from the afternoon of 14 November 2025 . 
-Flooding  may affect low-lying land and roads adjacent to the River Avon between Rugby and Bidford including Warwick, Stratford upon Avon, caravan parks and farmland. 
-We are closely monitoring the situation . 
-Take care and avoid walking, cycling or driving through flood water . 
-This message will be updated by 11:00AM on 15 November 2025 or as the situation changes.
+- High river levels today may lead to flooding. Flooding is possible on 15 November 2025. Flooding may affect low-lying land and roads adjacent to the River Avon between Rugby and Bidford including Warwick, Stratford upon Avon, caravan parks and farmland. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 11:00AM on 16 November 2025 or as the situation changes.
 
 - Flood alert: Tributaries in Gloucester
 - Widespread heavy rainfall throughout today may lead to flooding. Flooding is possible on 14th November 2025 and over the weekend.
@@ -152,7 +147,7 @@ Start acting on your flood plan if you have one . 
 This message will be updated by 9:15PM on 15 November 2025 or as the situation changes. 
 
 - Flood alert: River Wye in Herefordshire
-- River levels have fallen overnight but are forecast to rise again today, 14 November 2025. Flooding is forecast. Flooding may affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations affected may include the A438 between Letton & Willersey, Byford, Bredwardine & Hereford. Road closures & diversions on the A438 may be in force. Predicted peaks:- Bredwardine 5.1m to 5.6m on 15/11 AM, Old Wye Bridge 4.6m to 5.1m on 15/11 PM, Ross on Wye 4.3m to 4.8m on 16/11 PM. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 15 November 2025 or as the situation changes.
+- High river levels may lead to flooding. Flooding is possible on 15 November 2025. Flooding may affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations affected may include the A438 between Letton & Willersey, Byford, Bredwardine & Hereford. Road closures & diversions on the A438 may be in force. Predicted peaks:- Bredwardine 4.6m to 4.8m on Saturday15/11 AM, Old Wye Bridge 4m to 4.3m on 15/11 PM, Ross on Wye 3m to 3.4 on 16/11 PM. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 16 November 2025 or as the situation changes.
 
 - Flood alert: Rivers in the Forest of Dean
 - High river levels today may lead to flooding.
@@ -200,13 +195,12 @@ We are closely monitoring the situation and liaising with emergency services and
 Start acting on your flood plan if you have one and activate any flood protection products you may have. 
 This message will be updated by 10:00AM on 15 November 2025 or as the situation changes. 
 
-- Flood warning: River Boyd at Wick
-- Rising river levels are expected to cause flooding this evening. 
-Flooding is expected on 14 November 2025 . 
-Areas most at risk include downstream of the A420 Bridge at the Paper Factory on Church Road and The Green on Barrow Hill, properties at Wick and downstream of Boyd Bridge. Drier conditions are forecast from Saturday and conditions will begin to improve. 
-We are closely monitoring the situation and will issue updates as necessary. 
-Start acting on your flood plan if you have one and avoid walking, cycling or driving through flood water. 
-This message will be updated by 10:00AM on 15 November 2025 or as the situation changes. 
+- Warning no longer in force: River Boyd at Wick
+- The Flood Warning has now been removed. However, a Flood Alert remains in force for the wider area, so flooding of roads and low lying land is still possible. 
+Weather conditions are expected to improve and no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
+
 
 - Flood warning: Bristol Frome at Chipping Sodbury and Yate, Vayre Close, Manor Way, Celestine Road and Nibley Lane
 - Rising river levels are expected to cause flooding today. 

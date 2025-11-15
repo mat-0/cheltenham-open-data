@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Blocked drain, flooded pavement, 15th November :- [8421823](https://www.fixmystreet.com/report/8421823)
+- A pothole in road problem, 15th November :- [8421681](https://www.fixmystreet.com/report/8421681)
 - Blocked roadside drain causing 6inch surface water, 14th November :- [8421331](https://www.fixmystreet.com/report/8421331)
 - Drainage issue, 14th November :- [8421306](https://www.fixmystreet.com/report/8421306)
 - Drain Issue on Vineyard Street, 14th November :- [8421174](https://www.fixmystreet.com/report/8421174)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Flooding outside door as you have not fixed a tarmacing error from almost 2 years ago. Which created a ditch for water to sit in. The assessor came at beginning of this year to say will be done by next April 2026? Is that normal. I think not. I will have to take legal action against Gloucestershire Highway for not taking my concerns seriously enough. Nobody should have to wait almost 2 years to rectify a problem caused by your contractors., 14th November :- [8420527](https://www.fixmystreet.com/report/8420527)
 - Drains need cleaning asap., 14th November :- [8420395](https://www.fixmystreet.com/report/8420395)
 - Blocked drain, 14th November :- [8420279](https://www.fixmystreet.com/report/8420279)
-- Drain near entrance to Westmoreland House - same one you unblocked a couple of years ago, 14th November :- [8420269](https://www.fixmystreet.com/report/8420269)
-- Very large pothole full of water so very dangerous and spray up lots of gravel, 14th November :- [8420251](https://www.fixmystreet.com/report/8420251)
 
 <!-- fix_marker ends -->
