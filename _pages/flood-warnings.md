@@ -22,25 +22,23 @@ This project fetches flood warning data for the Gloucestershire area and publish
 - Flood alert: Upper Bristol Avon area
 - River levels have stabilised and are expected to fall on the afternoon of Saturday 15/11/2025. Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected, particularly low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Drier conditions are forecast from today and conditions will continue to improve. We are closely monitoring the situation and will issue further alerts and warnings if required. Take care and avoid walking, cycling or driving through flood water and consider activating any flood protection products you may have. This message will be updated by 2:00PM on 16/11/2025 or as the situation changes.
 
-- Flood alert: River Churn and its tributaries
-- Flooding of low lying land and roads is possible today (15/11/25) especially in the Cerney Wick area. Today will be mostly dry but with some rain possible later. We expect river levels to rise until tomorrow 16/11/25. 
+- Warning no longer in force: River Churn and its tributaries
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Weather conditions are expected to improve and no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Stay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
 
-We are closely monitoring the situation. 
-
-Don't put yourself or others at risk. 
-
-This message will be updated by 20:00, 15 November 2025, or as the situation changes.
 
 - Flood alert: River Evenlode from Moreton in Marsh to Cassington and also the River Glyme at Wootton and Woodstock
-- "Rising river levels may lead to continued flooding.  
+- "  
 
-Flooding of low lying land and roads is possible on the 15th November 2025, especially in the Shipton Under Wychwood Area.  Today will be mostly dry but with some rain possible later.
+Flooding of low lying land and roads is possible on the 16th November 2025, especially in the Shipton Under Wychwood Area.  Showers are possible overnight and tomorrow is expected to be mostly dry
 
 We are closely monitoring the situation. 
 
 Take care and avoid walking, cycling or driving through flood water. 
 
-This message will be updated by 20:00, 15 November 2025 or as the situation changes."
+This message will be updated by 09:00 16 Nov 2025 or as the situation change"
 
 - Flood alert: River Thames and its small tributaries from Calcutt to Lechlade
 - Rising river levels throughout the evening may lead to flooding. 
@@ -51,24 +49,24 @@ Take care and avoid walking, cycling or driving through flood water . 
 This message will be updated by 9:00AM on 16 November 2025 or as the situation changes.
 
 - Flood alert: River Dikler from Condicote to Little Rissington
-- Flooding of low-lying land and roads remains possible on 15th November 2025. Today will be mostly dry but with some rain possible later. We expect river levels to remain high on 15 November 2025. 
+- "
+Flooding of low-lying land and roads remains possible on 15th November 2025. Showers are possible overnight and tomorrow is expected to be mostly dry  We expect river levels to remain high on 15 November 2025. 
 
 We are closely monitoring the situation. 
 
-Avoid using low lying footpaths and any bridges near local watercourses. Go to river levels online for updates on current river levels.
+Avoid using low lying footpaths and any bridges near local watercourses. Go to River levels online for updates on current river levels.
 
-This message will be updated by 20:00, 15 November 2025, or as the situation changes.
+This message will be updated by 09:00 16 Nov 2025 or as the situation change			"
 
 - Flood alert: Tributaries on the Upper River Thames above Cricklade
-- "High river levels may lead to flooding.
+- "
 
-Flooding of low lying land and roads is possible, especially in the Purton Stoke and Swill Brook areas. Today will be mostly dry but with some rain possible later.. We expect river levels to drop over the weekend. 
+Flooding of low lying land and roads remains possible, especially in the Purton Stoke and Swill Brook areas. Showers are possible overnight and tomorrow is expected to be mostly dry. We expect river levels to drop on Sunday 16/11/25. 
 
 We are closely monitoring the situation. 
 
 Take care and avoid walking, cycling or driving through flood water. 
-
-This message will be updated by 20:00 15 Nov 2025 or as the situation changes."
+"
 
 - Flood alert: Middle Avon Rugby to Bidford
 - High river levels today may lead to flooding. Flooding is possible on 15 November 2025. Flooding may affect low-lying land and roads adjacent to the River Avon between Rugby and Bidford including Warwick, Stratford upon Avon, caravan parks and farmland. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 11:00AM on 16 November 2025 or as the situation changes.

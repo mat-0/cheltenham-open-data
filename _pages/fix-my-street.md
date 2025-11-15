@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large pothole, road breaking, 15th November :- [8424127](https://www.fixmystreet.com/report/8424127)
+- Surface drain completely blocked so water is standing on road, 15th November :- [8424045](https://www.fixmystreet.com/report/8424045)
 - Street lamp number 34 out, 15th November :- [8423843](https://www.fixmystreet.com/report/8423843)
 - Huge area wide/deep, 15th November :- [8423793](https://www.fixmystreet.com/report/8423793)
 - Three potholes which are getting larger quite quickly, 15th November :- [8423503](https://www.fixmystreet.com/report/8423503)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Blocked drain, flooded pavement, 15th November :- [8421823](https://www.fixmystreet.com/report/8421823)
 - A pothole in road problem, 15th November :- [8421681](https://www.fixmystreet.com/report/8421681)
 - Blocked roadside drain causing 6inch surface water, 14th November :- [8421331](https://www.fixmystreet.com/report/8421331)
-- Drainage issue, 14th November :- [8421306](https://www.fixmystreet.com/report/8421306)
-- Drain Issue on Vineyard Street, 14th November :- [8421174](https://www.fixmystreet.com/report/8421174)
 
 <!-- fix_marker ends -->
