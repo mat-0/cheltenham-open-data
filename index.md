@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Saturday, 15 November 2025
 
-- The average temperature today is 10.57˚C,
+- The average temperature today is 10.67˚C,
 - With highs of 11.08˚C and lows of 10.38˚C,
-- It may feel like 10.16˚C with mist
-- The wind speed is 6.17m/s and visibility is 4000m
-- The pressure is 1009hPa and humidity is 95%
+- It may feel like 10.22˚C with overcast clouds
+- The wind speed is 3.6m/s and visibility is 8000m
+- The pressure is 1009hPa and humidity is 93%
 - The sun will rise at 07:28 and set at 16:18
 
 <!-- weather_marker ends -->

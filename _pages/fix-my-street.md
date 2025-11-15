@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Three potholes which are getting larger quite quickly, 15th November :- [8423503](https://www.fixmystreet.com/report/8423503)
 - Volunteer litter pick bags ready for collection (15th November 2025), 15th November :- [8423276](https://www.fixmystreet.com/report/8423276)
 - A pothole in road problem, 15th November :- [8423168](https://www.fixmystreet.com/report/8423168)
 - Deep and wide pothole, 15th November :- [8423076](https://www.fixmystreet.com/report/8423076)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Drain Issue on Vineyard Street, 14th November :- [8421174](https://www.fixmystreet.com/report/8421174)
 - Drain not working, 14th November :- [8421097](https://www.fixmystreet.com/report/8421097)
 - Drain lid popped up., 14th November :- [8421072](https://www.fixmystreet.com/report/8421072)
-- Bad flooding which isn’t draining, 14th November :- [8421068](https://www.fixmystreet.com/report/8421068)
 
 <!-- fix_marker ends -->
