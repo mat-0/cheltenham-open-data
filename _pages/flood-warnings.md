@@ -155,9 +155,17 @@ This message will be updated by 9:15PM on 15 November 2025 or as the situation c
 - River levels have fallen overnight but are forecast to rise again today, 14 November 2025. Flooding is forecast. Flooding may affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations affected may include the A438 between Letton & Willersey, Byford, Bredwardine & Hereford. Road closures & diversions on the A438 may be in force. Predicted peaks:- Bredwardine 5.1m to 5.6m on 15/11 AM, Old Wye Bridge 4.6m to 5.1m on 15/11 PM, Ross on Wye 4.3m to 4.8m on 16/11 PM. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 15 November 2025 or as the situation changes.
 
 - Flood alert: Rivers in the Forest of Dean
-- Widespread heavy rainfall throughout today may lead to flooding. Flooding is possible on 14th November 2025 and over the weekend.
-Flooding may affect low lying land and roads adjacent to the river from Gloucester to Chepstow. Other locations that may be affected include Westbury and Lydney. We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses and avoid low lying roads near rivers, which may be flooded. 
-This message will be updated by 10:00AM on 15 November 2025 or as the situation changes.
+- High river levels today may lead to flooding.
+
+Flooding is possible on 15th November 2025 and over the weekend.
+
+Flooding may affect low lying land and roads adjacent to the river from Gloucester to Chepstow. Other locations that may be affected include Westbury and Lydney. 
+
+We are closely monitoring the situation. 
+
+Avoid using low lying footpaths and any bridges near local watercourses and avoid low lying roads near rivers, which may be flooded. 
+
+This message will be updated by 10:00AM on 16 November 2025 or as the situation changes.
 
 - Flood alert: River Wye in Gloucestershire
 - River levels have fallen overnight but are forecast to rise again today, 14 November 2025. Flooding is forecast. Flooding may affect low lying land and roads along the River Wye. Predicted peaks:- Ross on Wye 4.3m to 4.8m on 16/11 PM. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 15 November 2025 or as the situation changes.
