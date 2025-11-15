@@ -142,6 +142,15 @@ We are closely monitoring the situation and will issue further alerts and warnin
 Take care and avoid walking, cycling or driving through flood water and consider activating any flood protection products you may have. 
 This message will be updated by 12:00PM on 15 November 2025 or as the situation changes.
 
+- Flood warning: Bristol Frome from downstream of Nibley to Stapleton
+- High river levels are expected to cause flooding today. 
+Flooding is expected on 14 November 2025 . 
+Areas most at risk include Rectory Road at Frampton Cotterell
+Flooding is forecast to affect locations near the Bristol Frome, with low lying land and roads expected to be most affected, particularly around Areas most at risk include Rectory Road at Frampton Cotterell. 
+We are closely monitoring the situation . 
+Start acting on your flood plan if you have one . 
+This message will be updated by 9:15PM on 15 November 2025 or as the situation changes. 
+
 - Flood alert: River Wye in Herefordshire
 - River levels have fallen overnight but are forecast to rise again today, 14 November 2025. Flooding is forecast. Flooding may affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations affected may include the A438 between Letton & Willersey, Byford, Bredwardine & Hereford. Road closures & diversions on the A438 may be in force. Predicted peaks:- Bredwardine 5.1m to 5.6m on 15/11 AM, Old Wye Bridge 4.6m to 5.1m on 15/11 PM, Ross on Wye 4.3m to 4.8m on 16/11 PM. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 15 November 2025 or as the situation changes.
 

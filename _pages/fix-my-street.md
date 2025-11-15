@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Blocked roadside drain causing 6inch surface water, 14th November :- [8421331](https://www.fixmystreet.com/report/8421331)
+- Drainage issue, 14th November :- [8421306](https://www.fixmystreet.com/report/8421306)
 - Drain Issue on Vineyard Street, 14th November :- [8421174](https://www.fixmystreet.com/report/8421174)
 - Drain not working, 14th November :- [8421097](https://www.fixmystreet.com/report/8421097)
 - Drain lid popped up., 14th November :- [8421072](https://www.fixmystreet.com/report/8421072)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Blocked drain, 14th November :- [8420279](https://www.fixmystreet.com/report/8420279)
 - Drain near entrance to Westmoreland House - same one you unblocked a couple of years ago, 14th November :- [8420269](https://www.fixmystreet.com/report/8420269)
 - Very large pothole full of water so very dangerous and spray up lots of gravel, 14th November :- [8420251](https://www.fixmystreet.com/report/8420251)
-- Blocked drain when we have heavy rain, 14th November :- [8420063](https://www.fixmystreet.com/report/8420063)
-- Path jutting in road not illuminated, 14th November :- [8420026](https://www.fixmystreet.com/report/8420026)
 
 <!-- fix_marker ends -->
