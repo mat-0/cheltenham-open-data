@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- New pothole on pecked lane, 15th November :- [8422925](https://www.fixmystreet.com/report/8422925)
+- Pothole on pecked lane outside no. 15, 15th November :- [8422903](https://www.fixmystreet.com/report/8422903)
+- The drain is blocked problem, 15th November :- [8422805](https://www.fixmystreet.com/report/8422805)
+- Litter Dump with Nox canisters, 15th November :- [8422489](https://www.fixmystreet.com/report/8422489)
+- HugePuddle, 15th November :- [8422460](https://www.fixmystreet.com/report/8422460)
 - Pothole in road, 15th November :- [8422185](https://www.fixmystreet.com/report/8422185)
 - Collapsed/Disconnected Drain, 15th November :- [8422018](https://www.fixmystreet.com/report/8422018)
 - Damaged Drain, 15th November :- [8422010](https://www.fixmystreet.com/report/8422010)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Trees reducing visability at blind bend, 14th November :- [8421045](https://www.fixmystreet.com/report/8421045)
 - Edge deterioration and potholes, 14th November :- [8421017](https://www.fixmystreet.com/report/8421017)
 - Edge deterioration and over-riding ,sharp edges, 14th November :- [8420998](https://www.fixmystreet.com/report/8420998)
-- Claster of deep potholes previously repaird at least 10 times, 14th November :- [8420968](https://www.fixmystreet.com/report/8420968)
-- Sharp edges arround manhole can cause tyre damage, 14th November :- [8420952](https://www.fixmystreet.com/report/8420952)
-- Deep pothole imposible to avoid and not visable when filled with water, 14th November :- [8420930](https://www.fixmystreet.com/report/8420930)
-- Severely damaged road sign., 14th November :- [8420863](https://www.fixmystreet.com/report/8420863)
-- Drain blocked and flooding, 14th November :- [8420803](https://www.fixmystreet.com/report/8420803)
 
 <!-- fix_marker ends -->
