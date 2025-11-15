@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Sign post leaning into public walkway, 15th November :- [8424419](https://www.fixmystreet.com/report/8424419)
+- Pothole getting larger, 15th November :- [8424317](https://www.fixmystreet.com/report/8424317)
+- The hedgerow is overgrown and limiting the width of the pavement. The gutter in the road is full of grass and weeds and causes flooding. Neither of these issues have been dealt with in the seven years I’ve lived here., 15th November :- [8424303](https://www.fixmystreet.com/report/8424303)
 - Large pothole, road breaking, 15th November :- [8424127](https://www.fixmystreet.com/report/8424127)
 - Surface drain completely blocked so water is standing on road, 15th November :- [8424045](https://www.fixmystreet.com/report/8424045)
 - Street lamp number 34 out, 15th November :- [8423843](https://www.fixmystreet.com/report/8423843)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Collapsed/Disconnected Drain, 15th November :- [8422018](https://www.fixmystreet.com/report/8422018)
 - Damaged Drain, 15th November :- [8422010](https://www.fixmystreet.com/report/8422010)
 - Drain collapsed, 15th November :- [8422005](https://www.fixmystreet.com/report/8422005)
-- Blocked drain, flooded pavement, 15th November :- [8421823](https://www.fixmystreet.com/report/8421823)
-- A pothole in road problem, 15th November :- [8421681](https://www.fixmystreet.com/report/8421681)
-- Blocked roadside drain causing 6inch surface water, 14th November :- [8421331](https://www.fixmystreet.com/report/8421331)
 
 <!-- fix_marker ends -->
