@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Volunteer litter pick bags ready for collection (15th November 2025), 15th November :- [8423276](https://www.fixmystreet.com/report/8423276)
+- A pothole in road problem, 15th November :- [8423168](https://www.fixmystreet.com/report/8423168)
+- Deep and wide pothole, 15th November :- [8423076](https://www.fixmystreet.com/report/8423076)
 - New pothole on pecked lane, 15th November :- [8422925](https://www.fixmystreet.com/report/8422925)
 - Pothole on pecked lane outside no. 15, 15th November :- [8422903](https://www.fixmystreet.com/report/8422903)
 - The drain is blocked problem, 15th November :- [8422805](https://www.fixmystreet.com/report/8422805)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Drain not working, 14th November :- [8421097](https://www.fixmystreet.com/report/8421097)
 - Drain lid popped up., 14th November :- [8421072](https://www.fixmystreet.com/report/8421072)
 - Bad flooding which isn’t draining, 14th November :- [8421068](https://www.fixmystreet.com/report/8421068)
-- Trees reducing visability at blind bend, 14th November :- [8421045](https://www.fixmystreet.com/report/8421045)
-- Edge deterioration and potholes, 14th November :- [8421017](https://www.fixmystreet.com/report/8421017)
-- Edge deterioration and over-riding ,sharp edges, 14th November :- [8420998](https://www.fixmystreet.com/report/8420998)
 
 <!-- fix_marker ends -->

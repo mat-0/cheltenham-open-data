@@ -87,12 +87,11 @@ Continue to take care on waterside roads and footpaths and don't put yourself in
 
 
 - Flood alert: Little Avon catchment and the Vale of Berkeley
-- Rising river levels today may lead to flooding. 
-Flooding is possible on 14 November 2025 . 
-Flooding is forecast to affect locations near the Little Avon, with low lying land and roads expected to be most affected. Areas most at risk include the Little Avon River and other rivers and streams in the Vale of Berkeley. Drier conditions are forecast from Saturday and conditions will begin to improve. 
-We are closely monitoring the situation and will issue further alerts and warnings if required. 
-Take care and avoid walking, cycling or driving through flood water water and consider activating any flood protection products you may have. 
-This message will be updated by 12:00PM on 15 November 2025 or as the situation changes.
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Weather conditions are expected to improve and no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
+
 
 - Warning no longer in force: Rivers in South Worcestershire
 - There is no longer a threat of flooding, though standing water and debris may still remain. 
@@ -121,12 +120,11 @@ Flooding may affect low lying land and roads adjacent the River Avon from Abbott
 This message will be updated by 11:00AM on 16 November 2025 or as the situation changes.
 
 - Flood alert: Bristol Frome catchment
-- Rising river levels today may lead to flooding. 
-Flooding is possible on 14 November 2025 . 
-Flooding is forecast to affect locations near the Bristol Frome, Bristol Floating Harbour, with low lying land and roads expected to be most affected.  Areas most at risk include St John's Way in Chipping Sodbury and Damson Bridge. Drier conditions are forecast from Saturday and conditions will begin to improve. 
-We are closely monitoring the situation and will issue further alerts and warnings if required. 
-Take care and avoid walking, cycling or driving through flood water and consider activating any flood protection products you may have. 
-This message will be updated by 12:00PM on 15 November 2025 or as the situation changes.
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Weather conditions are expected to improve and no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Never drive through flood water,  just 30cm of fast flowing water is enough to move your car. Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.   
+
 
 - Warning no longer in force: Bristol Frome from downstream of Nibley to Stapleton
 - The Flood Warning has now been removed. However, a Flood Alert remains in force for the wider area, so flooding of roads and low lying land is still possible. 
@@ -159,6 +157,14 @@ Continue to take care on waterside roads and footpaths and don't put yourself in
 - Flood warning: River Severn at Severn Ham, Tewkesbury
 - River levels continue to rise as a result of widespread heavy rainfall. Flooding is expected to continue over the weekend. 
 Flooding may affect property and roads around Mill Avon Riverside including minor roads at Tirley, Chaceley, Hasfield, Hawbridge, Lower Lode, Ashleworth, Deerhurst, Wainlode and Apperley. Predicted peaks:- at Mythe 3.5m to 4.0m on 17/11 PM. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water .  This message will be updated by 11:00AM on 16 November 2025 or as the situation changes.
+
+- Flood warning: River Severn at Apperley and The Leigh
+- Rising river levels are expected to cause flooding today. 
+Flooding is expected on 15 November 2025 Flooding is expected to continue over the weekend 
+Flooding may affect the B4213 at Haw Bridge. Predicted peak at Haw Bridge 4.5m to 5m on 19/11 PM. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 11:00AM on 16 November 2025 or as the situation changes. 
 
 - Flood alert: Lower Bristol Avon area
 - There is no longer a threat of flooding, though standing water and debris may still remain. 
@@ -194,18 +200,12 @@ We will continue to monitor the situation and will issue further alerts or warni
 Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
 
 
-- Flood warning: River Avon at Twyning
-- River levels continue to rise as a result of widespread heavy rainfall. Flooding is expected to continue over the next few days.  
+- Warning no longer in force: River Avon at Twyning
+- The Flood Warning has now been removed. However, a Flood Alert remains in force for the wider area, so flooding of roads and low lying land is still possible. 
+Weather conditions are expected to improve and no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
 
-Flooding may affect properties and roads around Twyning Green. 
-
-Predicted peak:- Bredon 2.2m to 2.7m on 16/11 PM. 
-
-We are closely monitoring the situation.  
-
-Activate any flood protection products you may have. Start acting on your flood plan if you have one. 
-
-This message will be updated by 10:00AM on 16 November 2025 or as the situation changes.
 
 - Warning no longer in force: Horesbere Brook at Gloucester
 - There is no longer a threat of flooding, though standing water and debris may still remain. 
