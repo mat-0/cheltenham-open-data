@@ -119,15 +119,12 @@ Flooding may affect low lying land and roads adjacent to Wymans Brook, Carrant B
 This message will be updated by 10:00AM on 15 November 2025 or as the situation changes.
 
 - Flood alert: River Leadon catchment
-- Widespread heavy rainfall throughout today may lead to flooding. Flooding is possible on 14th November 2025 and over the weekend.
-Flooding may affect low lying land and roads adjacent to the River Leadon. Locations that may be affected include Ledbury, Much Marcle, Staunton, Tibberton and Wedderburn Bridge may now be impassable. Water is over the road at Upleadon Court. We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses and avoid low lying roads near rivers, which may be flooded. 
-This message will be updated by 10:00AM on 15 November 2025 or as the situation changes.
+- River levels remain high as a result of widespread heavy rain. Flooding may affect low lying land and roads adjacent to the River Leadon. Locations that may be affected include Ledbury, Much Marcle, Staunton, Tibberton and Wedderburn Bridge may now be impassable. Water is over the road at Upleadon Court. We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses and avoid low lying roads near rivers, which may be flooded.  This message will be updated by 11:00AM on 16 November 2025 or as the situation changes.
 
 - Flood alert: River Avon in Worcestershire
-- Widespread heavy rainfall throughout today may lead to flooding. Flooding is possible on 14th November 2025 and over the weekend.
-Flooding may affect low lying land and roads adjacent the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham, Twyning and the Eckington Road. Mill Bank Road from Jubillee Bridge to Fladbury is impacted. This alert has been issued based on uncertain forecast heavy rainfall that may have significant impact within the community. As the worst of the rain has not yet fallen we are unable to provide any real time peak information. As the situation evolves we will be able to provide more details. 
-We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses and avoid low lying roads near rivers, which may be flooded. 
-This message will be updated by 10:00AM on 15 November 2025 or as the situation changes.
+- River levels continue to rise as a result of widespread heavy rainfall. Flooding may continue over the weekend. 
+Flooding may affect low lying land and roads adjacent the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham, Twyning and the Eckington Road. Mill Bank Road from Jubillee Bridge to Fladbury is impacted. Predicted peaks:- Evesham 2.5m to 2.9m on 15/11 night, Bredon 2.2m to 2.7m on 16/11 PM. We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses and avoid low lying roads near rivers, which may be flooded. 
+This message will be updated by 11:00AM on 16 November 2025 or as the situation changes.
 
 - Flood alert: Bristol Frome catchment
 - Rising river levels today may lead to flooding. 
@@ -137,14 +134,12 @@ We are closely monitoring the situation and will issue further alerts and warnin
 Take care and avoid walking, cycling or driving through flood water and consider activating any flood protection products you may have. 
 This message will be updated by 12:00PM on 15 November 2025 or as the situation changes.
 
-- Flood warning: Bristol Frome from downstream of Nibley to Stapleton
-- High river levels are expected to cause flooding today. 
-Flooding is expected on 14 November 2025 . 
-Areas most at risk include Rectory Road at Frampton Cotterell
-Flooding is forecast to affect locations near the Bristol Frome, with low lying land and roads expected to be most affected, particularly around Areas most at risk include Rectory Road at Frampton Cotterell. 
-We are closely monitoring the situation . 
-Start acting on your flood plan if you have one . 
-This message will be updated by 9:15PM on 15 November 2025 or as the situation changes. 
+- Warning no longer in force: Bristol Frome from downstream of Nibley to Stapleton
+- The Flood Warning has now been removed. However, a Flood Alert remains in force for the wider area, so flooding of roads and low lying land is still possible. 
+Weather conditions are expected to improve and no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
+
 
 - Flood alert: River Wye in Herefordshire
 - High river levels may lead to flooding. Flooding is possible on 15 November 2025. Flooding may affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations affected may include the A438 between Letton & Willersey, Byford, Bredwardine & Hereford. Road closures & diversions on the A438 may be in force. Predicted peaks:- Bredwardine 4.6m to 4.8m on Saturday15/11 AM, Old Wye Bridge 4m to 4.3m on 15/11 PM, Ross on Wye 3m to 3.4 on 16/11 PM. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 16 November 2025 or as the situation changes.
@@ -163,12 +158,10 @@ Avoid using low lying footpaths and any bridges near local watercourses and avoi
 This message will be updated by 10:00AM on 16 November 2025 or as the situation changes.
 
 - Flood alert: River Wye in Gloucestershire
-- River levels have fallen overnight but are forecast to rise again today, 14 November 2025. Flooding is forecast. Flooding may affect low lying land and roads along the River Wye. Predicted peaks:- Ross on Wye 4.3m to 4.8m on 16/11 PM. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 15 November 2025 or as the situation changes.
+- Forecast rising river levels today may lead to flooding. Flooding is possible on 15 November 2025. Flooding may affect low lying land and roads along the River Wye. Predicted peaks:- Ross on Wye 3.6m to 4.1m on 16/11 AM.  Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 16 November 2025 or as the situation changes.
 
 - Flood alert: River Severn in Worcestershire
-- Widespread heavy rainfall throughout today may lead to flooding. Flooding is possible on 14th November 2025 and over the weekend.
-Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury; including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate will be closed at Upton upon Severn tomorrow. This alert has been issued based on uncertain forecast heavy rainfall that may have significant impact within the community. As the worst of the rain has not yet fallen we are unable to provide any real time peak information. As the situation evolves, we will be able to provide more details. We are closely monitoring the situation and liaising with emergency services and our partners. Take care and avoid walking, cycling or driving through flood water. 
-This message will be updated by 10:00AM on 15 November 2025 or as the situation changes.
+- River levels continue to rise as a result of widespread heavy rainfall. Flooding may continue over the weekend. Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury; including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate is closed at Upton upon Severn. Predicted peaks:- Bewdley 4.60m to 5.10m on 17/11 PM, Worcester 4.10m to 4.60m on 17/11 night, Diglis 3.90m to 4.40m on 17/11 night, Kempsey Yacht Club 5.80m to 6.20m on 16/11 night, Saxons Lode 4.50m to 4.90m on 17/11 AM. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water.  This message will be updated by 11:00AM on 16 November 2025 or as the situation changes.
 
 - Flood warning: River Severn at Severn Ham, Tewkesbury
 - Rising river levels are expected to cause flooding overnight. 
@@ -179,21 +172,26 @@ Take care and avoid walking, cycling or driving through flood water . 
 This message will be updated by 11:00AM on 15 November 2025 or as the situation changes. 
 
 - Flood alert: Lower Bristol Avon area
-- High river levels today may lead to flooding. 
-Flooding is possible on 14 November 2025 . 
-Areas most at risk include low lying land at Hanham Lock and the floodplain upstream of Bath
-Flooding is forecast to affect locations near the Bristol Avon, Broadmead Brook, River Boyd, with low lying land and roads expected to be most affected, particularly around Areas most at risk include low lying land at Hanham Lock and the floodplain upstream of Bath. 
-We are monitoring rainfall and river levels . 
-Take care and avoid walking, cycling or driving through flood water . 
-This message will be updated by 6:04PM on 14 November 2025 or as the situation changes.
+- Flooding is expected on 15 November 2025. 
+River levels remain high but have stabilised and are expected to fall through the afternoon on Saturday 15/11/2025.
+Areas most at risk include low lying land at Hanham Lock and the floodplain upstream of Bath.
+Flooding is forecast to affect locations near the Bristol Avon, Broadmead Brook, River Boyd, with low lying land and roads expected to be most affected, particularly around Areas most at risk include low lying land at Hanham Lock and the floodplain upstream of Bath. Drier conditions are forecast in the coming days and conditions are expected to continue to improve. 
+We are monitoring rainfall and river levels. 
+Take care and avoid walking, cycling or driving through flood water. 
+This message will be updated by 6:00PM on 15 November 2025 or as the situation changes.
 
 - Flood warning: River Avon at Strensham and Bredon
-- Rising river levels are expected to cause flooding overnight. 
-Flooding is expected on 14 November 2025 . 
-Flooding may affect properties and roads around Mill Lane, Strensham and areas around Dock Lane Bredon. Predicted peaks:- Evesham 3.5m to 4.0m on Saturday 15/11 PM, Bredon 3.1m to 3.6m on Sunday 16/11 PM. 
-We are closely monitoring the situation and liaising with emergency services and local authorities. 
-Start acting on your flood plan if you have one and activate any flood protection products you may have. 
-This message will be updated by 10:00AM on 15 November 2025 or as the situation changes. 
+- River levels continue to rise as a result of widespread heavy rainfall. Flooding is expected to continue over the next few days.  
+
+Flooding may affect properties and roads around Mill Lane, Strensham and areas around Dock Lane Bredon. 
+
+Predicted peak:- Evesham 2.5m to 2.9m overnight 15/11, Bredon 2.2 to 2.7m on 16/11 PM. 
+
+We are closely monitoring the situation and liaising with emergency services and local authorities.  
+
+Start acting on your flood plan if you have one and activate any flood protection products you may have. 
+
+This message will be updated by 10:00AM on 16 November 2025 or as the situation changes.
 
 - Warning no longer in force: River Boyd at Wick
 - The Flood Warning has now been removed. However, a Flood Alert remains in force for the wider area, so flooding of roads and low lying land is still possible. 
@@ -202,21 +200,25 @@ We will continue to monitor the situation and will issue further alerts or warni
 Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
 
 
-- Flood warning: Bristol Frome at Chipping Sodbury and Yate, Vayre Close, Manor Way, Celestine Road and Nibley Lane
-- Rising river levels are expected to cause flooding today. 
-Flooding is expected on 14 November 2025 . 
-Areas most at risk include Vayre Close and Manor Way in Chipping Sodbury, properties closest to the river at Celestine Road in Yate and the Stover Bridge and Nibley area. Drier conditions are forecast from Saturday and conditions will begin to improve. 
-We are closely monitoring the situation and will issue updates as necessary. 
-Take care and avoid walking, cycling or driving through flood water and consider activating any flood protection products you may have. 
-This message will be updated by 10:00AM on 15 November 2025 or as the situation changes. 
+- Warning no longer in force: Bristol Frome at Chipping Sodbury and Yate, Vayre Close, Manor Way, Celestine Road and Nibley Lane
+- The Flood Warning has now been removed. However, a Flood Alert remains in force for the wider area, so flooding of roads and low lying land is still possible. 
+Weather conditions are expected to improve and no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
+
 
 - Flood warning: River Avon at Twyning
-- Rising river levels are expected to cause flooding overnight. 
-Flooding is expected on 14 November 2025 . 
-Flooding may affect properties and roads around Twyning Green. Predicted peak:- Bredon 3.1m to 3.6m on 16/11 PM. 
-We are closely monitoring the situation . 
-Activate any flood protection products you may have Start acting on your flood plan if you have one 
-This message will be updated by 10:00AM on 15 November 2025 or as the situation changes. 
+- River levels continue to rise as a result of widespread heavy rainfall. Flooding is expected to continue over the next few days.  
+
+Flooding may affect properties and roads around Twyning Green. 
+
+Predicted peak:- Bredon 2.2m to 2.7m on 16/11 PM. 
+
+We are closely monitoring the situation.  
+
+Activate any flood protection products you may have. Start acting on your flood plan if you have one. 
+
+This message will be updated by 10:00AM on 16 November 2025 or as the situation changes.
 
 - Flood warning: Horesbere Brook at Gloucester
 - Rising river levels are expected to cause flooding today. 
