@@ -42,6 +42,14 @@ Take care and avoid walking, cycling or driving through flood water.
 
 This message will be updated by 20:00, 15 November 2025 or as the situation changes."
 
+- Flood alert: River Thames and its small tributaries from Calcutt to Lechlade
+- Rising river levels throughout the evening may lead to flooding. 
+Flooding is possible from overnight on 15 November 2025 . 
+Flooding of low lying land and roads is possible, especially in the Hannington area. Further light rainfall is forecast over the next few hours. We expect river levels to rise until tomorrow 16/11/25. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 9:00AM on 16 November 2025 or as the situation changes.
+
 - Flood alert: River Dikler from Condicote to Little Rissington
 - Flooding of low-lying land and roads remains possible on 15th November 2025. Today will be mostly dry but with some rain possible later. We expect river levels to remain high on 15 November 2025. 
 

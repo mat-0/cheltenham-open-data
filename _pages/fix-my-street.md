@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street lamp number 34 out, 15th November :- [8423843](https://www.fixmystreet.com/report/8423843)
+- Huge area wide/deep, 15th November :- [8423793](https://www.fixmystreet.com/report/8423793)
 - Three potholes which are getting larger quite quickly, 15th November :- [8423503](https://www.fixmystreet.com/report/8423503)
 - Volunteer litter pick bags ready for collection (15th November 2025), 15th November :- [8423276](https://www.fixmystreet.com/report/8423276)
 - A pothole in road problem, 15th November :- [8423168](https://www.fixmystreet.com/report/8423168)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Blocked roadside drain causing 6inch surface water, 14th November :- [8421331](https://www.fixmystreet.com/report/8421331)
 - Drainage issue, 14th November :- [8421306](https://www.fixmystreet.com/report/8421306)
 - Drain Issue on Vineyard Street, 14th November :- [8421174](https://www.fixmystreet.com/report/8421174)
-- Drain not working, 14th November :- [8421097](https://www.fixmystreet.com/report/8421097)
-- Drain lid popped up., 14th November :- [8421072](https://www.fixmystreet.com/report/8421072)
 
 <!-- fix_marker ends -->
