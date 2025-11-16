@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pedestrian crossing button goes off after being pressed and needs to be held down to ensure the light gets triggered. It also goes off when the cycle crossing button turns to green., 16th November :- [8426100](https://www.fixmystreet.com/report/8426100)
+- Road marks, 16th November :- [8425932](https://www.fixmystreet.com/report/8425932)
 - Rubbish in the undergrowth, 16th November :- [8425743](https://www.fixmystreet.com/report/8425743)
 - Rubbish in the undergrowth, 16th November :- [8425742](https://www.fixmystreet.com/report/8425742)
 - Stairgate flytipped 4 weeks aho, 16th November :- [8425718](https://www.fixmystreet.com/report/8425718)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Surface drain completely blocked so water is standing on road, 15th November :- [8424045](https://www.fixmystreet.com/report/8424045)
 - Street lamp number 34 out, 15th November :- [8423843](https://www.fixmystreet.com/report/8423843)
 - Huge area wide/deep, 15th November :- [8423793](https://www.fixmystreet.com/report/8423793)
-- Three potholes which are getting larger quite quickly, 15th November :- [8423503](https://www.fixmystreet.com/report/8423503)
-- Volunteer litter pick bags ready for collection (15th November 2025), 15th November :- [8423276](https://www.fixmystreet.com/report/8423276)
 
 <!-- fix_marker ends -->

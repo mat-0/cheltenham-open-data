@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Sunday, 16 November 2025
 
-- The average temperature today is 9.67˚C,
-- With highs of 9.98˚C and lows of 9.27˚C,
-- It may feel like 7.32˚C with broken clouds
-- The wind speed is 4.63m/s and visibility is 10000m
-- The pressure is 1013hPa and humidity is 77%
+- The average temperature today is 8.97˚C,
+- With highs of 9.42˚C and lows of 8.3˚C,
+- It may feel like 6.25˚C with broken clouds
+- The wind speed is 5.14m/s and visibility is 10000m
+- The pressure is 1014hPa and humidity is 78%
 - The sun will rise at 07:29 and set at 16:16
 
 <!-- weather_marker ends -->

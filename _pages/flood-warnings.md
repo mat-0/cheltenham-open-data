@@ -208,12 +208,5 @@ Start acting on your flood plan if you have one and activate any flood protectio
 
 This message will be updated by 10:00AM on 17 November 2025 or as the situation changes.
 
-- Warning no longer in force: River Avon at Twyning
-- The Flood Warning has now been removed. However, a Flood Alert remains in force for the wider area, so flooding of roads and low lying land is still possible. 
-Weather conditions are expected to improve and no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
-
 
 <!-- flood_marker ends -->
