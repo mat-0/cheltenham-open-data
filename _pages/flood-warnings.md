@@ -20,7 +20,7 @@ This project fetches flood warning data for the Gloucestershire area and publish
 
 <!-- flood_marker starts -->
 - Flood alert: Upper Bristol Avon area
-- River levels remain high but are now falling in the upper catchment. Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected, particularly low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Drier conditions are forecast from today onwards and conditions will continue to improve. We are closely monitoring the situation and will issue further alerts and warnings if required. Take care and avoid walking, cycling or driving through flood water and consider activating any flood protection products you may have. This message will be updated by 6:00PM on 16/11/2025 or as the situation changes.
+- River levels remain higher than normal but are now falling on the upper Bristol Avon. Flooding may affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected, particularly low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Drier conditions are forecast from today onwards and conditions will continue to improve. We are closely monitoring the situation and will issue further alerts and warnings if required. Take care and avoid walking, cycling or driving through flood water and consider activating any flood protection products you may have. This message will be updated by 10:00AM on 17/11/2025 or as the situation changes.
 
 - Warning no longer in force: River Churn and its tributaries
 - There is no longer a threat of flooding, though standing water and debris may still remain. 
@@ -30,15 +30,13 @@ Stay away from floodwater - it contains hidden dangers such as open manhole cove
 
 
 - Flood alert: River Evenlode from Moreton in Marsh to Cassington and also the River Glyme at Wootton and Woodstock
-- "  
-
-Flooding of low lying land and roads is possible on 16 November 2025, especially in the Shipton Under Wychwood Area. The forecast is for a predominantly dry day today. Levels are now falling along much of the River Evenlode. Levels are stable on the River Glyme.
+- Flooding of low lying land and roads is possible on the evening of 16 November 2025, especially in the Shipton Under Wychwood Area. The forecast is for a predominantly dry evening. Levels are now falling along much of the River Evenlode. Levels are stable on the River Glyme.
 
 We are closely monitoring the situation. 
 
 Take care and avoid walking, cycling or driving through flood water. 
 
-This message will be updated by 19:00 16 November 2025 or as the situation change"
+This message will be updated by 09:00 on 17 November 2025 or as the situation change.
 
 - Flood alert: River Thames and its small tributaries from Calcutt to Lechlade
 - "
@@ -65,16 +63,12 @@ We will continue to monitor the situation and will issue further alerts or warni
 Stay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
 
 
-- Flood alert: Middle Avon Rugby to Bidford
-- River levels remain high but are now falling. Flooding is still possible today, 16 November 2025. 
+- Warning no longer in force: Middle Avon Rugby to Bidford
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Weather conditions are expected to improve and no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Stay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
 
-Flooding may affect low-lying land and roads adjacent to the River Avon between Rugby and Bidford including Warwick, Stratford upon Avon, caravan parks and farmland. 
-
-We are closely monitoring the situation. 
-
-Take care and avoid walking, cycling or driving through flood water. 
-
-This message will be updated by 11:00AM on 17 November 2025 or as the situation changes.
 
 - Flood alert: River Severn in Gloucestershire
 - River levels continue to rise as a result of widespread heavy rainfall. 
