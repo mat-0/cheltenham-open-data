@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Rail line closure set to continue due to flooding ([5 hours ago](https://www.bbc.com/news/articles/c0kple04y85o?at_medium=RSS&at_campaign=rss))
-- Bell-ringer makes history with birthday peal ([8 hours ago](https://www.bbc.com/news/articles/c3rjy527177o?at_medium=RSS&at_campaign=rss))
-- We aim to thrive, says theatre after fundraiser ([14 hours ago](https://www.bbc.com/news/articles/cy4pzw13p9eo?at_medium=RSS&at_campaign=rss))
-- Children prepare for city's lantern parade ([18 hours ago](https://www.bbc.com/news/articles/c1d0lgr3pyqo?at_medium=RSS&at_campaign=rss))
+- Rail line closure set to continue due to flooding ([7 hours ago](https://www.bbc.com/news/articles/c0kple04y85o?at_medium=RSS&at_campaign=rss))
+- Bell-ringer makes history with birthday peal ([10 hours ago](https://www.bbc.com/news/articles/c3rjy527177o?at_medium=RSS&at_campaign=rss))
+- We aim to thrive, says theatre after fundraiser ([16 hours ago](https://www.bbc.com/news/articles/cy4pzw13p9eo?at_medium=RSS&at_campaign=rss))
+- Children prepare for city's lantern parade ([20 hours ago](https://www.bbc.com/news/articles/c1d0lgr3pyqo?at_medium=RSS&at_campaign=rss))
 - Trains cancelled between London and Bristol ([1 days ago](https://www.bbc.com/news/articles/c78z35jm721o?at_medium=RSS&at_campaign=rss))
 - Plans to build new towns and villages approved ([1 days ago](https://www.bbc.com/news/articles/czdrz55zz2eo?at_medium=RSS&at_campaign=rss))
 - PCC says scrapping role will 'politicise' policing ([1 days ago](https://www.bbc.com/news/articles/cp8e7rvr0m9o?at_medium=RSS&at_campaign=rss))
