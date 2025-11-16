@@ -76,15 +76,6 @@ Take care and avoid walking, cycling or driving through flood water.
 
 This message will be updated by 11:00AM on 17 November 2025 or as the situation changes.
 
-- Warning no longer in force: Little Avon catchment and the Vale of Berkeley
-- There is no longer a threat of flooding, though standing water and debris may still remain.
-
-Weather conditions are expected to improve and no further flooding is expected.
-
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.
-
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water, just 30cm of fast flowing water is enough to move your car.
-
 - Flood alert: River Severn in Gloucestershire
 - River levels continue to rise as a result of widespread heavy rainfall. 
 
@@ -128,21 +119,6 @@ Avoid using low lying footpaths and any bridges near local watercourses and avoi
 
 This message will be updated by 11:00AM on 17 November 2025 or as the situation changes.
 
-- Warning no longer in force: Bristol Frome catchment
-- Flood alert no longer in force: Bristol Frome catchment
-
-The situation is improving and no further flooding is expected in this area.
-
-Flood warnings and alerts may still be in force for surrounding areas.
-
-There is no longer a threat of flooding, though standing water and debris may still remain.
-
-Weather conditions are expected to improve and no further flooding is expected.
-
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.
-
-Never drive through flood water, just 30cm of fast flowing water is enough to move your car. Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.
-
 - Flood alert: River Wye in Herefordshire
 - River levels remain high and the potential for flooding continues today, 16 November 2025. Flooding may affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations affected may include the A438 between Letton & Willersey, Byford, Bredwardine & Hereford. Road closures & diversions on the A438 may be in force. Observed peaks:- Bredwardine 4.67m 15/11 PM, Old Wye Bridge 4.18m 15/11 PM, Hay-on-Wye 2.58m 15/11 AM, Belmont 4.8m 15/11 PM, Mordiford 4.59m 15/11 PM. Predicted peaks:- Ross on Wye 3.8m to 4.2m 16/11 AM. Take care and avoid walking, cycling or driving through flood water. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 17 November 2025 or as the situation changes.
 
@@ -185,15 +161,6 @@ Predicted peak at Haw Bridge 4.8m to 5.1m on 17/11 AM. 
 We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water.  
 
 This message will be updated by 11:00AM on 17 November 2025 or as the situation changes.
-
-- Warning no longer in force: Lower Bristol Avon area
-- There is no longer a threat of flooding, though standing water and debris may still remain.
-
-Weather conditions are expected to improve and no further flooding is expected.
-
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.
-
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water, just 30cm of fast flowing water is enough to move your car.
 
 - Flood warning: River Avon at Strensham and Bredon
 - River levels continue to rise as a result of widespread heavy rainfall. Flooding is expected to continue over the next few days.  
