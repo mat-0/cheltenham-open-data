@@ -9,6 +9,14 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Rubbish in the undergrowth, 16th November :- [8425743](https://www.fixmystreet.com/report/8425743)
+- Rubbish in the undergrowth, 16th November :- [8425742](https://www.fixmystreet.com/report/8425742)
+- Stairgate flytipped 4 weeks aho, 16th November :- [8425718](https://www.fixmystreet.com/report/8425718)
+- Potholes repair failures, 16th November :- [8425404](https://www.fixmystreet.com/report/8425404)
+- Blue mini parked over private drive on double yellows, 16th November :- [8425345](https://www.fixmystreet.com/report/8425345)
+- Big pothole causing issues on road, 16th November :- [8425299](https://www.fixmystreet.com/report/8425299)
+- Road surface collapse, 16th November :- [8425256](https://www.fixmystreet.com/report/8425256)
+- 12ft by 6 ft, 16th November :- [8425225](https://www.fixmystreet.com/report/8425225)
 - Bridleway damaged by unofficial works, 16th November :- [8424786](https://www.fixmystreet.com/report/8424786)
 - Red light not working on filter from Priors Road to Redmarley Road, 15th November :- [8424468](https://www.fixmystreet.com/report/8424468)
 - Pothole, 15th November :- [8424462](https://www.fixmystreet.com/report/8424462)
@@ -21,13 +29,5 @@ permalink: /fix-my-street
 - Huge area wide/deep, 15th November :- [8423793](https://www.fixmystreet.com/report/8423793)
 - Three potholes which are getting larger quite quickly, 15th November :- [8423503](https://www.fixmystreet.com/report/8423503)
 - Volunteer litter pick bags ready for collection (15th November 2025), 15th November :- [8423276](https://www.fixmystreet.com/report/8423276)
-- A pothole in road problem, 15th November :- [8423168](https://www.fixmystreet.com/report/8423168)
-- Deep and wide pothole, 15th November :- [8423076](https://www.fixmystreet.com/report/8423076)
-- New pothole on pecked lane, 15th November :- [8422925](https://www.fixmystreet.com/report/8422925)
-- Pothole on pecked lane outside no. 15, 15th November :- [8422903](https://www.fixmystreet.com/report/8422903)
-- The drain is blocked problem, 15th November :- [8422805](https://www.fixmystreet.com/report/8422805)
-- Litter Dump with Nox canisters, 15th November :- [8422489](https://www.fixmystreet.com/report/8422489)
-- HugePuddle, 15th November :- [8422460](https://www.fixmystreet.com/report/8422460)
-- Pothole in road, 15th November :- [8422185](https://www.fixmystreet.com/report/8422185)
 
 <!-- fix_marker ends -->

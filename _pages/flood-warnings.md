@@ -76,27 +76,6 @@ Take care and avoid walking, cycling or driving through flood water.
 
 This message will be updated by 11:00AM on 17 November 2025 or as the situation changes.
 
-- Warning no longer in force: Tributaries in Gloucester
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Weather conditions are expected to improve and no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
-
-- Warning no longer in force: River Stour in South Warwickshire
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Weather conditions are expected to improve and no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-If you have been evacuated only return to your property once the emergency services have advised that it is safe to do so. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
-
-- Warning no longer in force: Rivers Frome and Cam
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Weather conditions are expected to improve and no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
-
 - Warning no longer in force: Little Avon catchment and the Vale of Berkeley
 - There is no longer a threat of flooding, though standing water and debris may still remain.
 
@@ -105,20 +84,6 @@ Weather conditions are expected to improve and no further flooding is expected.
 We will continue to monitor the situation and will issue further alerts or warnings if necessary.
 
 Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water, just 30cm of fast flowing water is enough to move your car.
-
-- Warning no longer in force: Rivers in South Worcestershire
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Weather conditions are expected to improve and no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
-
-- Warning no longer in force: Tributaries in Cheltenham and Tewkesbury
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Weather conditions are expected to improve and no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
 
 - Flood alert: River Severn in Gloucestershire
 - River levels continue to rise as a result of widespread heavy rainfall. 
@@ -180,13 +145,6 @@ Never drive through flood water, just 30cm of fast flowing water is enough to mo
 
 - Flood alert: River Wye in Herefordshire
 - River levels remain high and the potential for flooding continues today, 16 November 2025. Flooding may affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations affected may include the A438 between Letton & Willersey, Byford, Bredwardine & Hereford. Road closures & diversions on the A438 may be in force. Observed peaks:- Bredwardine 4.67m 15/11 PM, Old Wye Bridge 4.18m 15/11 PM, Hay-on-Wye 2.58m 15/11 AM, Belmont 4.8m 15/11 PM, Mordiford 4.59m 15/11 PM. Predicted peaks:- Ross on Wye 3.8m to 4.2m 16/11 AM. Take care and avoid walking, cycling or driving through flood water. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 17 November 2025 or as the situation changes.
-
-- Warning no longer in force: Rivers in the Forest of Dean
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Weather conditions are expected to improve and no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
 
 - Flood alert: River Wye in Gloucestershire
 - River levels remain high and the potential for flooding continues today, 16 November 2025. Flooding may affect low lying land and roads along the River Wye. Observed peaks:- Hay-on-Wye 2.58m 15/11 AM. Predicted peaks:- Ross on Wye 3.8m to 4.2m 16/11 AM. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 17 November 2025 or as the situation changes.
@@ -254,27 +212,6 @@ This message will be updated by 10:00AM on 17 November 2025 or as the situation 
 - The Flood Warning has now been removed. However, a Flood Alert remains in force for the wider area, so flooding of roads and low lying land is still possible. 
 Weather conditions are expected to improve and no further flooding is expected.   
 We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
-
-- Warning no longer in force: Horesbere Brook at Gloucester
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Weather conditions are expected to improve and no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
-
-- Warning no longer in force: Nailsworth Stream from Nailsworth to Dudbridge
-- The Flood Warning has now been removed. However, a Flood Alert remains in force for the wider area, so flooding of roads and low lying land is still possible. 
-Weather conditions are expected to improve and no further flooding is expected.  
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.  
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.  
-
-
-- Warning no longer in force: Daniels Brook at Lower Tuffley
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Weather conditions are expected to improve and no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.  
 Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
 
 
