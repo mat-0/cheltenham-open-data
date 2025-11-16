@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Drain completely blocked with mud, 16th November :- [8427629](https://www.fixmystreet.com/report/8427629)
 - Lots of pot holes just befor traffic lights, 16th November :- [8427448](https://www.fixmystreet.com/report/8427448)
 - Drain cover has sunken at Pirton Corner, 16th November :- [8427195](https://www.fixmystreet.com/report/8427195)
 - Missing the blue mini roundabout sign, 16th November :- [8427183](https://www.fixmystreet.com/report/8427183)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Big pothole causing issues on road, 16th November :- [8425299](https://www.fixmystreet.com/report/8425299)
 - Road surface collapse, 16th November :- [8425256](https://www.fixmystreet.com/report/8425256)
 - 12ft by 6 ft, 16th November :- [8425225](https://www.fixmystreet.com/report/8425225)
-- Bridleway damaged by unofficial works, 16th November :- [8424786](https://www.fixmystreet.com/report/8424786)
 
 <!-- fix_marker ends -->
