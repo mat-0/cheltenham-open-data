@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Red light not working on filter from Priors Road to Redmarley Road, 15th November :- [8424468](https://www.fixmystreet.com/report/8424468)
+- Pothole, 15th November :- [8424462](https://www.fixmystreet.com/report/8424462)
 - Sign post leaning into public walkway, 15th November :- [8424419](https://www.fixmystreet.com/report/8424419)
 - Pothole getting larger, 15th November :- [8424317](https://www.fixmystreet.com/report/8424317)
 - The hedgerow is overgrown and limiting the width of the pavement. The gutter in the road is full of grass and weeds and causes flooding. Neither of these issues have been dealt with in the seven years I’ve lived here., 15th November :- [8424303](https://www.fixmystreet.com/report/8424303)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - HugePuddle, 15th November :- [8422460](https://www.fixmystreet.com/report/8422460)
 - Pothole in road, 15th November :- [8422185](https://www.fixmystreet.com/report/8422185)
 - Collapsed/Disconnected Drain, 15th November :- [8422018](https://www.fixmystreet.com/report/8422018)
-- Damaged Drain, 15th November :- [8422010](https://www.fixmystreet.com/report/8422010)
-- Drain collapsed, 15th November :- [8422005](https://www.fixmystreet.com/report/8422005)
 
 <!-- fix_marker ends -->
