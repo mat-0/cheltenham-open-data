@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Lots of pot holes just befor traffic lights, 16th November :- [8427448](https://www.fixmystreet.com/report/8427448)
+- Drain cover has sunken at Pirton Corner, 16th November :- [8427195](https://www.fixmystreet.com/report/8427195)
+- Missing the blue mini roundabout sign, 16th November :- [8427183](https://www.fixmystreet.com/report/8427183)
+- The street light on Washpool Road not working, 16th November :- [8427174](https://www.fixmystreet.com/report/8427174)
 - Diversion sign left on Windyridge Road, 16th November :- [8427120](https://www.fixmystreet.com/report/8427120)
 - Concrete GPO Cover Protruding Into Roadway, 16th November :- [8426803](https://www.fixmystreet.com/report/8426803)
 - Multiple blocked drains on Farmfield road, 16th November :- [8426653](https://www.fixmystreet.com/report/8426653)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Road surface collapse, 16th November :- [8425256](https://www.fixmystreet.com/report/8425256)
 - 12ft by 6 ft, 16th November :- [8425225](https://www.fixmystreet.com/report/8425225)
 - Bridleway damaged by unofficial works, 16th November :- [8424786](https://www.fixmystreet.com/report/8424786)
-- Red light not working on filter from Priors Road to Redmarley Road, 15th November :- [8424468](https://www.fixmystreet.com/report/8424468)
-- Pothole, 15th November :- [8424462](https://www.fixmystreet.com/report/8424462)
-- Sign post leaning into public walkway, 15th November :- [8424419](https://www.fixmystreet.com/report/8424419)
-- Pothole getting larger, 15th November :- [8424317](https://www.fixmystreet.com/report/8424317)
 
 <!-- fix_marker ends -->

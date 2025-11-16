@@ -22,13 +22,6 @@ This project fetches flood warning data for the Gloucestershire area and publish
 - Flood alert: Upper Bristol Avon area
 - River levels remain higher than normal but are now falling on the upper Bristol Avon. Flooding may affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected, particularly low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Drier conditions are forecast from today onwards and conditions will continue to improve. We are closely monitoring the situation and will issue further alerts and warnings if required. Take care and avoid walking, cycling or driving through flood water and consider activating any flood protection products you may have. This message will be updated by 10:00AM on 17/11/2025 or as the situation changes.
 
-- Warning no longer in force: River Churn and its tributaries
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Weather conditions are expected to improve and no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Stay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
-
 - Flood alert: River Evenlode from Moreton in Marsh to Cassington and also the River Glyme at Wootton and Woodstock
 - Flooding of low lying land and roads is possible on the evening of 16 November 2025, especially in the Shipton Under Wychwood Area. The forecast is for a predominantly dry evening. Levels are now falling along much of the River Evenlode. Levels are stable on the River Glyme.
 
@@ -39,15 +32,13 @@ Take care and avoid walking, cycling or driving through flood water.
 This message will be updated by 09:00 on 17 November 2025 or as the situation change.
 
 - Flood alert: River Thames and its small tributaries from Calcutt to Lechlade
-- "
-
-Flooding of low lying land and roads is possible on 16 November 2025, especially in the Hannington area. The forecast is for a predominantly dry day today. Levels are expected to stabilise today, but will remain high throughout the day.
+- Flooding of low lying land and roads is possible on the 16 November and 17 November 2025, especially in the Hannington area. The forecast is for a predominantly dry night. Levels are starting to fall this evening, but will remain high until tomorrow (17/11/2025).
 
 We are closely monitoring the situation. 
 
 Avoid using low lying footpaths and any bridges near local watercourses. Go to River levels online for updates on current river levels.
 
-This message will be updated by 19:00 16 November 2025 or as the situation change"
+This message will be updated by 09:00 AM on 17 November 2025 or as the situation change.
 
 - Warning no longer in force: River Dikler from Condicote to Little Rissington
 - There is no longer a threat of flooding, though standing water and debris may still remain. 
