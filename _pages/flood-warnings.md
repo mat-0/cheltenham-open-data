@@ -20,7 +20,7 @@ This project fetches flood warning data for the Gloucestershire area and publish
 
 <!-- flood_marker starts -->
 - Flood alert: Upper Bristol Avon area
-- River levels remain higher than normal but are now falling on the upper Bristol Avon. Flooding may affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected, particularly low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Drier conditions are forecast from today onwards and conditions will continue to improve. We are closely monitoring the situation and will issue further alerts and warnings if required. Take care and avoid walking, cycling or driving through flood water and consider activating any flood protection products you may have. This message will be updated by 10:00AM on 17/11/2025 or as the situation changes.
+- River levels remain higher than normal but are now falling. Flooding may affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon with low lying land and roads expected to be most affected, particularly low-lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Drier conditions are forecast this week, and conditions will continue to improve. We are closely monitoring the situation and will issue further alerts and warnings if required. Take care and avoid walking, cycling or driving through flood water and consider activating any flood protection products you may have. This message will be updated by 10:00AM on 18/11/2025 or as the situation changes.
 
 - Flood alert: River Evenlode from Moreton in Marsh to Cassington and also the River Glyme at Wootton and Woodstock
 - Flooding of low lying land and roads is possible on Monday 17 November 2025, especially in the Shipton Under Wychwood Area. The forecast is for a predominantly dry day. Levels are now falling along much of the River Evenlode. Levels are stable on the River Glyme.
@@ -60,11 +60,19 @@ Never drive through flood water,  just 30cm of fast flowing water is enough to m
 - Flood alert: River Avon in Worcestershire
 - River levels continue to rise as a result of widespread heavy rainfall last Friday. Flooding may continue over the next few days. Flooding may affect low lying land and roads adjacent the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham, Twyning and the Eckington Road. Mill Bank Road from Jubillee Bridge to Fladbury is impacted. Observed peak:- Evesham 2.4m 16/11 AM. Predicted peak:- Bredon 2.7m 17/11 AM. We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses and avoid low lying roads near rivers, which may be flooded.  This message will be updated by 11:00AM on 18 November 2025 or as the situation changes.
 
-- Flood alert: River Wye in Herefordshire
-- River levels remain high and the potential for flooding continues today, 16 November 2025. Flooding may affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations affected may include the A438 between Letton & Willersey, Byford, Bredwardine & Hereford. Road closures & diversions on the A438 may be in force. Observed peaks:- Bredwardine 4.67m 15/11 PM, Old Wye Bridge 4.18m 15/11 PM, Hay-on-Wye 2.58m 15/11 AM, Belmont 4.8m 15/11 PM, Mordiford 4.59m 15/11 PM. Predicted peaks:- Ross on Wye 3.8m to 4.2m 16/11 AM. Take care and avoid walking, cycling or driving through flood water. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 17 November 2025 or as the situation changes.
+- Warning no longer in force: River Wye in Herefordshire
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Weather conditions are expected to improve and no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
 
-- Flood alert: River Wye in Gloucestershire
-- River levels remain high and the potential for flooding continues today, 16 November 2025. Flooding may affect low lying land and roads along the River Wye. Observed peaks:- Hay-on-Wye 2.58m 15/11 AM. Predicted peaks:- Ross on Wye 3.8m to 4.2m 16/11 AM. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 17 November 2025 or as the situation changes.
+
+- Warning no longer in force: River Wye in Gloucestershire
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Weather conditions are expected to improve and no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
+
 
 - Flood alert: River Severn in Worcestershire
 - River levels continue to rise as a result of widespread heavy rainfall last Friday. Flooding may continue over the next few days. Flooding may affect low lying land and roads adjacent to the river from Highley to Tewkesbury, including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate is closed at Upton upon Severn. Predicted peaks: - Bewdley 4.0m to 4.8m on 18/11 AM, Worcester 4.6m to 4.7m on 18/11 AM, Diglis 4.5m to 4.6m on 18/11 AM, Kempsey Yacht Club 6.6m to 6.7m on 18/11 AM, Saxons Lode 4.9m to 5.0m on 19/11 AM. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water.  This message will be updated by 11:00AM on 18 November 2025 or as the situation changes.
