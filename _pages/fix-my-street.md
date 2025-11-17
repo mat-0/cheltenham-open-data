@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Several street lights not working on Millham Road and barkers leys, 17th November :- [8427914](https://www.fixmystreet.com/report/8427914)
+- Street lights, 17th November :- [8427909](https://www.fixmystreet.com/report/8427909)
 - Whole of Lansdown roed cycle route is full of multiple tree roots and potholes. It is overgrown with poor markings. Dangerous for cyclists and pedestrians. Right of way for cyclists on the cycle path also changes once on lansdown road which is confusing and dangerous., 17th November :- [8427833](https://www.fixmystreet.com/report/8427833)
 - Drain completely blocked with mud, 16th November :- [8427629](https://www.fixmystreet.com/report/8427629)
 - Lots of pot holes just befor traffic lights, 16th November :- [8427448](https://www.fixmystreet.com/report/8427448)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Stairgate flytipped 4 weeks aho, 16th November :- [8425718](https://www.fixmystreet.com/report/8425718)
 - Potholes repair failures, 16th November :- [8425404](https://www.fixmystreet.com/report/8425404)
 - Blue mini parked over private drive on double yellows, 16th November :- [8425345](https://www.fixmystreet.com/report/8425345)
-- Big pothole causing issues on road, 16th November :- [8425299](https://www.fixmystreet.com/report/8425299)
-- Road surface collapse, 16th November :- [8425256](https://www.fixmystreet.com/report/8425256)
 
 <!-- fix_marker ends -->
