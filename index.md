@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Monday, 17 November 2025
 
-- The average temperature today is 7.25˚C,
-- With highs of 7.77˚C and lows of 6.75˚C,
-- It may feel like 4.84˚C with few clouds
-- The wind speed is 3.6m/s and visibility is 10000m
-- The pressure is 1025hPa and humidity is 69%
+- The average temperature today is 4.16˚C,
+- With highs of 4.98˚C and lows of 3.07˚C,
+- It may feel like 2.94˚C with clear sky
+- The wind speed is 1.54m/s and visibility is 10000m
+- The pressure is 1026hPa and humidity is 79%
 - The sun will rise at 07:31 and set at 16:15
 
 <!-- weather_marker ends -->
