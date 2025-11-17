@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole, 17th November :- [8432196](https://www.fixmystreet.com/report/8432196)
+- Growing pothole, 17th November :- [8432189](https://www.fixmystreet.com/report/8432189)
 - Temporary lights causing congestion, 17th November :- [8431446](https://www.fixmystreet.com/report/8431446)
 - FixMyStreet ref: 8342671. Report said it’s completed but they are still there, 17th November :- [8431411](https://www.fixmystreet.com/report/8431411)
 - Safety Issue, 17th November :- [8431318](https://www.fixmystreet.com/report/8431318)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 17th November :- [8430714](https://www.fixmystreet.com/report/8430714)
 - TMC - Defects -CW6 Potholes  problem, 17th November :- [8430713](https://www.fixmystreet.com/report/8430713)
 - TMC - Defects -CW6 Potholes  problem, 17th November :- [8430712](https://www.fixmystreet.com/report/8430712)
-- TMC - Defects - Other FW6  Surface problem, 17th November :- [8430722](https://www.fixmystreet.com/report/8430722)
-- TMC - Defects - Other FW6  Surface problem, 17th November :- [8430723](https://www.fixmystreet.com/report/8430723)
 
 <!-- fix_marker ends -->
