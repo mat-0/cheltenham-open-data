@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large pothole in middle of road, 17th November :- [8432724](https://www.fixmystreet.com/report/8432724)
 - Road narrowing and traffic dealys, 17th November :- [8432423](https://www.fixmystreet.com/report/8432423)
 - Pothole, 17th November :- [8432196](https://www.fixmystreet.com/report/8432196)
 - Growing pothole, 17th November :- [8432189](https://www.fixmystreet.com/report/8432189)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 17th November :- [8430923](https://www.fixmystreet.com/report/8430923)
 - TMC - Defects - Footways Slabs problem, 17th November :- [8430933](https://www.fixmystreet.com/report/8430933)
 - TMC - Defects -CW6 Potholes  problem, 17th November :- [8430714](https://www.fixmystreet.com/report/8430714)
-- TMC - Defects -CW6 Potholes  problem, 17th November :- [8430713](https://www.fixmystreet.com/report/8430713)
 
 <!-- fix_marker ends -->
