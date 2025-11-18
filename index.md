@@ -8,14 +8,14 @@ seo: Menu
 ![Logo](/images/logo.jpg){:width="832px"}
 
 <!-- weather_marker starts -->
-## On Monday, 17 November 2025
+## On Tuesday, 18 November 2025
 
-- The average temperature today is -0.42˚C,
-- With highs of 1.09˚C and lows of -1.38˚C,
-- It may feel like -0.42˚C with scattered clouds
-- The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1026hPa and humidity is 91%
-- The sun will rise at 07:31 and set at 16:15
+- The average temperature today is -0.96˚C,
+- With highs of -0.01˚C and lows of -1.93˚C,
+- It may feel like -0.96˚C with scattered clouds
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 1024hPa and humidity is 91%
+- The sun will rise at 07:33 and set at 16:14
 
 <!-- weather_marker ends -->
 

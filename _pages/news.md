@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Jury shown doorbell footage of fatal stabbing ([6 hours ago](https://www.bbc.com/news/articles/cdxr3dg4179o?at_medium=RSS&at_campaign=rss))
-- Community theatre celebrates 50th anniversary ([6 hours ago](https://www.bbc.com/news/articles/c8034ll2keeo?at_medium=RSS&at_campaign=rss))
-- Phlebotomists mark longest strike in NHS history ([10 hours ago](https://www.bbc.com/news/articles/cz9187ez7l7o?at_medium=RSS&at_campaign=rss))
-- 'Stick man in trouble' and 'city gridlock' ([12 hours ago](https://www.bbc.com/news/articles/c781pg9g858o?at_medium=RSS&at_campaign=rss))
-- Families endure 'awful ripple effect of road deaths' ([16 hours ago](https://www.bbc.com/news/articles/c4gz1rxqn9xo?at_medium=RSS&at_campaign=rss))
-- 'Nightmare' roadworks causing hour-long delays ([16 hours ago](https://www.bbc.com/news/articles/cp3xp0p7vv1o?at_medium=RSS&at_campaign=rss))
+- Jury shown doorbell footage of fatal stabbing ([8 hours ago](https://www.bbc.com/news/articles/cdxr3dg4179o?at_medium=RSS&at_campaign=rss))
+- Community theatre celebrates 50th anniversary ([9 hours ago](https://www.bbc.com/news/articles/c8034ll2keeo?at_medium=RSS&at_campaign=rss))
+- Phlebotomists mark longest strike in NHS history ([13 hours ago](https://www.bbc.com/news/articles/cz9187ez7l7o?at_medium=RSS&at_campaign=rss))
+- 'Stick man in trouble' and 'city gridlock' ([14 hours ago](https://www.bbc.com/news/articles/c781pg9g858o?at_medium=RSS&at_campaign=rss))
+- Families endure 'awful ripple effect of road deaths' ([19 hours ago](https://www.bbc.com/news/articles/c4gz1rxqn9xo?at_medium=RSS&at_campaign=rss))
+- 'Nightmare' roadworks causing hour-long delays ([19 hours ago](https://www.bbc.com/news/articles/cp3xp0p7vv1o?at_medium=RSS&at_campaign=rss))
 - Fears lack of road work co-ordination cause huge traffic holdups in Cheltenham ([1 days ago](https://gloucesternewscentre.co.uk/fears-lack-of-road-work-co-ordination-cause-huge-traffic-holdups-in-cheltenham/))
 - Gloucestershire Police take part in National Sceptre Week ([1 days ago](https://gloucesternewscentre.co.uk/gloucestershire-police-take-part-in-national-sceptre-week/))
 - Cheltenham tip needs business case for County Council to take it over ([1 days ago](https://gloucesternewscentre.co.uk/cheltenham-tip-needs-business-case-for-county-council-to-take-it-over/))
