@@ -9,6 +9,16 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fly tipping in wooded are of duvets and a chair, 18th November :- [8433412](https://www.fixmystreet.com/report/8433412)
+- TMC - Defects -FW6 Potholes problem, 18th November :- [8433314](https://www.fixmystreet.com/report/8433314)
+- TMC - Defects - Road Markings problem, 18th November :- [8433312](https://www.fixmystreet.com/report/8433312)
+- TMC - Defects - Other FW6  Surface problem, 18th November :- [8433311](https://www.fixmystreet.com/report/8433311)
+- TMC - Defects -CW6 Potholes  problem, 18th November :- [8433173](https://www.fixmystreet.com/report/8433173)
+- TMC - Defects -other CW6 problem, 18th November :- [8433174](https://www.fixmystreet.com/report/8433174)
+- TMC - Defects -other CW6 problem, 18th November :- [8433176](https://www.fixmystreet.com/report/8433176)
+- TMC - Defects -other CW6 problem, 18th November :- [8433177](https://www.fixmystreet.com/report/8433177)
+- TMC - Defects -other CW6 problem, 18th November :- [8433175](https://www.fixmystreet.com/report/8433175)
+- Massive Open Works With No Activity, 18th November :- [8433041](https://www.fixmystreet.com/report/8433041)
 - Large pothole in middle of road, 17th November :- [8432724](https://www.fixmystreet.com/report/8432724)
 - Road narrowing and traffic dealys, 17th November :- [8432423](https://www.fixmystreet.com/report/8432423)
 - Pothole, 17th November :- [8432196](https://www.fixmystreet.com/report/8432196)
@@ -19,15 +29,5 @@ permalink: /fix-my-street
 - Large potholes stretching approx 5m along the lefthand side of the carriageway, 17th November :- [8431294](https://www.fixmystreet.com/report/8431294)
 - Bus stop sign is badly degraded, 17th November :- [8431177](https://www.fixmystreet.com/report/8431177)
 - TMC - Defects - Signs & Street Furniture problem, 17th November :- [8431341](https://www.fixmystreet.com/report/8431341)
-- Wood,roofing lead and nails ,etc flytipped on road and grass verge, 17th November :- [8430853](https://www.fixmystreet.com/report/8430853)
-- TMC - Defects - Covers, Gratings & Frames problem, 17th November :- [8431143](https://www.fixmystreet.com/report/8431143)
-- TMC - Defects -CW10 Potholes problem, 17th November :- [8430930](https://www.fixmystreet.com/report/8430930)
-- TMC - Defects -CW10 Potholes problem, 17th November :- [8430929](https://www.fixmystreet.com/report/8430929)
-- TMC - Defects -other CW10 problem, 17th November :- [8430932](https://www.fixmystreet.com/report/8430932)
-- TMC - Defects -other CW10 problem, 17th November :- [8430931](https://www.fixmystreet.com/report/8430931)
-- TMC - Defects -CW10 Potholes problem, 17th November :- [8430926](https://www.fixmystreet.com/report/8430926)
-- TMC - Defects -CW6 Potholes  problem, 17th November :- [8430923](https://www.fixmystreet.com/report/8430923)
-- TMC - Defects - Footways Slabs problem, 17th November :- [8430933](https://www.fixmystreet.com/report/8430933)
-- TMC - Defects -CW6 Potholes  problem, 17th November :- [8430714](https://www.fixmystreet.com/report/8430714)
 
 <!-- fix_marker ends -->
