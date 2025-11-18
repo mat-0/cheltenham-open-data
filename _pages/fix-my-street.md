@@ -9,7 +9,18 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipped item, 18th November :- [8436261](https://www.fixmystreet.com/report/8436261)
+- Drain filled with silt, 18th November :- [8436210](https://www.fixmystreet.com/report/8436210)
+- Large pothole on speed bump, 18th November :- [8436205](https://www.fixmystreet.com/report/8436205)
+- Drain filled with silt, 18th November :- [8436197](https://www.fixmystreet.com/report/8436197)
+- Drain filled with silt, 18th November :- [8436185](https://www.fixmystreet.com/report/8436185)
+- Drain blocked by silt, 18th November :- [8436125](https://www.fixmystreet.com/report/8436125)
+- TMC - Defects - Other FW6  Surface problem, 18th November :- [8436079](https://www.fixmystreet.com/report/8436079)
+- A pothole in road problem, 18th November :- [8435918](https://www.fixmystreet.com/report/8435918)
+- A pothole in road problem, 18th November :- [8435917](https://www.fixmystreet.com/report/8435917)
+- Loose wires from telephone pole, 18th November :- [8435813](https://www.fixmystreet.com/report/8435813)
 - 10 inch pothole on Brookway Road, 18th November :- [8435697](https://www.fixmystreet.com/report/8435697)
+- TMC - Defects -CW6 Potholes  problem, 18th November :- [8435759](https://www.fixmystreet.com/report/8435759)
 - There is an addtional banner on the bridge, both sides. The charity fun run ones are fine. I can't read it properly but it's advertising a christmas event, 18th November :- [8435638](https://www.fixmystreet.com/report/8435638)
 - Bollard shell is damaged/vandalised (Non illuminating bollard or post) problem, 18th November :- [8435583](https://www.fixmystreet.com/report/8435583)
 - TMC - Defects -CW6 Potholes  problem, 18th November :- [8435589](https://www.fixmystreet.com/report/8435589)
@@ -18,16 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Road Markings problem, 18th November :- [8435410](https://www.fixmystreet.com/report/8435410)
 - Deep Potholes on the road by the speed hump Marsland Road, 18th November :- [8435245](https://www.fixmystreet.com/report/8435245)
 - Multiple potholes, 18th November :- [8435200](https://www.fixmystreet.com/report/8435200)
-- Large pieces of concrete have been left in Horsebere Brook which is regularly cause for concern in terms of flooding, 18th November :- [8435165](https://www.fixmystreet.com/report/8435165)
-- Damaged pedestrian footbridge, 18th November :- [8435084](https://www.fixmystreet.com/report/8435084)
-- Priority traffic direction causing major problems, 18th November :- [8434980](https://www.fixmystreet.com/report/8434980)
-- TMC - Defects -CW10 Potholes problem, 18th November :- [8435078](https://www.fixmystreet.com/report/8435078)
-- TMC - Defects - Other FW6  Surface problem, 18th November :- [8435065](https://www.fixmystreet.com/report/8435065)
-- TMC - Defects -other CW6 problem, 18th November :- [8435061](https://www.fixmystreet.com/report/8435061)
-- TMC - Defects - Kerbs and Channels problem, 18th November :- [8435067](https://www.fixmystreet.com/report/8435067)
-- TMC - Defects - Other FW6  Surface problem, 18th November :- [8435069](https://www.fixmystreet.com/report/8435069)
-- TMC - Defects -other CW6 problem, 18th November :- [8435063](https://www.fixmystreet.com/report/8435063)
-- TMC - Defects - Kerbs and Channels problem, 18th November :- [8435068](https://www.fixmystreet.com/report/8435068)
-- TMC - Defects - Other FW6  Surface problem, 18th November :- [8435066](https://www.fixmystreet.com/report/8435066)
 
 <!-- fix_marker ends -->
