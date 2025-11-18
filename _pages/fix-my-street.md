@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street lamp is out, 18th November :- [8437171](https://www.fixmystreet.com/report/8437171)
+- Blocked gulley, 18th November :- [8437157](https://www.fixmystreet.com/report/8437157)
+- Huge series of potholes and badly repaired road surface, 18th November :- [8436981](https://www.fixmystreet.com/report/8436981)
 - Slippery leaves building up in cycle path, 18th November :- [8436620](https://www.fixmystreet.com/report/8436620)
 - Paving slab outside 34 Bournside Road leaning against tree, 18th November :- [8436605](https://www.fixmystreet.com/report/8436605)
 - Large deep pothole that breaks near side wheels, 18th November :- [8436541](https://www.fixmystreet.com/report/8436541)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 18th November :- [8436079](https://www.fixmystreet.com/report/8436079)
 - A pothole in road problem, 18th November :- [8435918](https://www.fixmystreet.com/report/8435918)
 - A pothole in road problem, 18th November :- [8435917](https://www.fixmystreet.com/report/8435917)
-- Loose wires from telephone pole, 18th November :- [8435813](https://www.fixmystreet.com/report/8435813)
-- 10 inch pothole on Brookway Road, 18th November :- [8435697](https://www.fixmystreet.com/report/8435697)
-- TMC - Defects -CW6 Potholes  problem, 18th November :- [8435759](https://www.fixmystreet.com/report/8435759)
 
 <!-- fix_marker ends -->
