@@ -22,20 +22,6 @@ This project fetches flood warning data for the Gloucestershire area and publish
 - Flood alert: Upper Bristol Avon area
 - River levels remain higher than normal but are now falling. Flooding may affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon with low lying land and roads expected to be most affected, particularly low-lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Drier conditions are forecast this week, and conditions will continue to improve. We are closely monitoring the situation and will issue further alerts and warnings if required. Take care and avoid walking, cycling or driving through flood water and consider activating any flood protection products you may have. This message will be updated by 10:00AM on 19/11/2025 or as the situation changes.
 
-- Warning no longer in force: River Evenlode from Moreton in Marsh to Cassington and also the River Glyme at Wootton and Woodstock
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Further rainfall is forecast but no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Stay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
-
-- Warning no longer in force: River Thames and its small tributaries from Calcutt to Lechlade
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Further rainfall is forecast but no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Stay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
-
 - Flood alert: River Severn in Gloucestershire
 - River levels remain high as a result of widespread heavy rainfall last Friday. Flooding may continue over the next few days. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury starts to fill. Observed peaks:- Mythe 4.15m on 17/11 AM, Haw Bridge 4.95m on 17/11 AM. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water.  This message will be updated by 11:00AM on 19 November 2025 or as the situation changes.
 
