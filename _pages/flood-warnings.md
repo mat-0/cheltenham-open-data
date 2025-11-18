@@ -20,7 +20,7 @@ This project fetches flood warning data for the Gloucestershire area and publish
 
 <!-- flood_marker starts -->
 - Flood alert: Upper Bristol Avon area
-- River levels remain higher than normal but are now falling. Flooding may affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon with low lying land and roads expected to be most affected, particularly low-lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Drier conditions are forecast this week, and conditions will continue to improve. We are closely monitoring the situation and will issue further alerts and warnings if required. Take care and avoid walking, cycling or driving through flood water and consider activating any flood protection products you may have. This message will be updated by 10:00AM on 18/11/2025 or as the situation changes.
+- River levels remain higher than normal but are now falling. Flooding may affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon with low lying land and roads expected to be most affected, particularly low-lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Drier conditions are forecast this week, and conditions will continue to improve. We are closely monitoring the situation and will issue further alerts and warnings if required. Take care and avoid walking, cycling or driving through flood water and consider activating any flood protection products you may have. This message will be updated by 10:00AM on 19/11/2025 or as the situation changes.
 
 - Warning no longer in force: River Evenlode from Moreton in Marsh to Cassington and also the River Glyme at Wootton and Woodstock
 - There is no longer a threat of flooding, though standing water and debris may still remain. 
@@ -41,20 +41,6 @@ Stay away from floodwater - it contains hidden dangers such as open manhole cove
 
 - Flood alert: River Avon in Worcestershire
 - River levels remain high as a result of widespread heavy rainfall last Friday. Flooding may continue over the next few days. Flooding may affect low lying land and roads adjacent the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham, Twyning and the Eckington Road. Mill Bank Road from Jubillee Bridge to Fladbury is impacted. Observed peaks:- Evesham 2.42m 16/11 AM, Bredon 2.76m 17/11 AM. We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses and avoid low lying roads near rivers, which may be flooded.  This message will be updated by 11:00AM on 19 November 2025 or as the situation changes.
-
-- Warning no longer in force: River Wye in Herefordshire
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Weather conditions are expected to improve and no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
-
-- Warning no longer in force: River Wye in Gloucestershire
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Weather conditions are expected to improve and no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
 
 - Flood alert: River Severn in Worcestershire
 - er levels remain high as a result of widespread heavy rainfall last Friday. Flooding may continue over the next few days. Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury, including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate is closed at Upton upon Severn. Observed peaks: - Bewdley 3.85m on 18/11, Worcester 4.65m on 17/11, Diglis 4.45m on 17/11, Kempsey Yacht Club 6.65m on 17/11 AM, Saxons Lode 4.95m on 17/11 AM. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water.  This message will be updated by 11:00AM on 19 November 2025 or as the situation changes.

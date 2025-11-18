@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Tuesday, 18 November 2025
 
-- The average temperature today is 4.06˚C,
-- With highs of 5.16˚C and lows of 3.17˚C,
-- It may feel like 1.31˚C with clear sky
-- The wind speed is 3.09m/s and visibility is 10000m
-- The pressure is 1019hPa and humidity is 87%
+- The average temperature today is 6.34˚C,
+- With highs of 7.19˚C and lows of 5.75˚C,
+- It may feel like 3.18˚C with few clouds
+- The wind speed is 4.63m/s and visibility is 10000m
+- The pressure is 1018hPa and humidity is 84%
 - The sun will rise at 07:33 and set at 16:14
 
 <!-- weather_marker ends -->
