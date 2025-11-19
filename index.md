@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Wednesday, 19 November 2025
 
-- The average temperature today is 1.11˚C,
-- With highs of 2.19˚C and lows of 0.39˚C,
-- It may feel like -1.23˚C with clear sky
-- The wind speed is 2.06m/s and visibility is 10000m
-- The pressure is 1015hPa and humidity is 76%
+- The average temperature today is -0.96˚C,
+- With highs of 0.54˚C and lows of -1.93˚C,
+- It may feel like -0.96˚C with few clouds
+- The wind speed is 0.45m/s and visibility is 10000m
+- The pressure is 1016hPa and humidity is 84%
 - The sun will rise at 07:34 and set at 16:12
 
 <!-- weather_marker ends -->
