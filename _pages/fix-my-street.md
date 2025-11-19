@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole just on corner of Flecker’s drive, 19th November :- [8437865](https://www.fixmystreet.com/report/8437865)
+- TMC - Defects - Other FW6  Surface problem, 19th November :- [8437763](https://www.fixmystreet.com/report/8437763)
+- TMC - Defects - Other FW6  Surface problem, 19th November :- [8437762](https://www.fixmystreet.com/report/8437762)
+- Old permit parking bay still being used, 19th November :- [8437522](https://www.fixmystreet.com/report/8437522)
 - Street lamp is out, 18th November :- [8437171](https://www.fixmystreet.com/report/8437171)
 - Blocked gulley, 18th November :- [8437157](https://www.fixmystreet.com/report/8437157)
 - Huge series of potholes and badly repaired road surface, 18th November :- [8436981](https://www.fixmystreet.com/report/8436981)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Large pothole on speed bump, 18th November :- [8436205](https://www.fixmystreet.com/report/8436205)
 - Drain filled with silt, 18th November :- [8436197](https://www.fixmystreet.com/report/8436197)
 - Drain filled with silt, 18th November :- [8436185](https://www.fixmystreet.com/report/8436185)
-- Drain blocked by silt, 18th November :- [8436125](https://www.fixmystreet.com/report/8436125)
-- TMC - Defects - Other FW6  Surface problem, 18th November :- [8436079](https://www.fixmystreet.com/report/8436079)
-- A pothole in road problem, 18th November :- [8435918](https://www.fixmystreet.com/report/8435918)
-- A pothole in road problem, 18th November :- [8435917](https://www.fixmystreet.com/report/8435917)
 
 <!-- fix_marker ends -->
