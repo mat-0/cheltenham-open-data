@@ -9,6 +9,15 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The white circle is too far off centre causing a hazard., 19th November :- [8439176](https://www.fixmystreet.com/report/8439176)
+- Shared Cyclepath covered in leaves, 19th November :- [8439150](https://www.fixmystreet.com/report/8439150)
+- A pothole in road problem, 19th November :- [8439221](https://www.fixmystreet.com/report/8439221)
+- Uneven slab, 19th November :- [8439027](https://www.fixmystreet.com/report/8439027)
+- Female fell over outside JD on high street due to uneven paving, 19th November :- [8439016](https://www.fixmystreet.com/report/8439016)
+- Dog dirt, 19th November :- [8438941](https://www.fixmystreet.com/report/8438941)
+- Bridge railings, 19th November :- [8438913](https://www.fixmystreet.com/report/8438913)
+- Huge pile of dog dirt, 19th November :- [8438891](https://www.fixmystreet.com/report/8438891)
+- TMC - Defects - Signs & Street Furniture problem, 19th November :- [8438850](https://www.fixmystreet.com/report/8438850)
 - The vehicle is abundant in a dangerous position that is a H& S risk, 19th November :- [8438596](https://www.fixmystreet.com/report/8438596)
 - Drain filled with silt, 19th November :- [8438453](https://www.fixmystreet.com/report/8438453)
 - Drain filled with silt, 19th November :- [8438441](https://www.fixmystreet.com/report/8438441)
@@ -19,15 +28,6 @@ permalink: /fix-my-street
 - TMC - Defects - Other problem, 19th November :- [8438286](https://www.fixmystreet.com/report/8438286)
 - Electrical items dumped in Manor Road, Swindon Village, 19th November :- [8438171](https://www.fixmystreet.com/report/8438171)
 - A Flytipping (possible offender details in bags and/or boxes) problem has been found, 19th November :- [8438037](https://www.fixmystreet.com/report/8438037)
-- TMC - Defects - Kerbs and Channels problem, 19th November :- [8438102](https://www.fixmystreet.com/report/8438102)
-- TMC - Defects - Other FW6  Surface problem, 19th November :- [8438103](https://www.fixmystreet.com/report/8438103)
 - TMC - Defects - Other FW6  Surface problem, 19th November :- [8438101](https://www.fixmystreet.com/report/8438101)
-- A pothole in road problem, 19th November :- [8438091](https://www.fixmystreet.com/report/8438091)
-- Multiple potholes on Hatherley Ct Road, 19th November :- [8437891](https://www.fixmystreet.com/report/8437891)
-- Pothole just on corner of Flecker’s drive, 19th November :- [8437865](https://www.fixmystreet.com/report/8437865)
-- TMC - Defects - Other FW6  Surface problem, 19th November :- [8437763](https://www.fixmystreet.com/report/8437763)
-- TMC - Defects - Other FW6  Surface problem, 19th November :- [8437762](https://www.fixmystreet.com/report/8437762)
-- Old permit parking bay still being used, 19th November :- [8437522](https://www.fixmystreet.com/report/8437522)
-- Street lamp is out, 18th November :- [8437171](https://www.fixmystreet.com/report/8437171)
 
 <!-- fix_marker ends -->
