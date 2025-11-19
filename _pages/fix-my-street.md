@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Abandoned damaged vehicle on pavement, 19th November :- [8441667](https://www.fixmystreet.com/report/8441667)
+- Flytipping water cooler in layby, 19th November :- [8441636](https://www.fixmystreet.com/report/8441636)
+- Poor repairs (plural) of subsidence. Dip in centre of road (see white lines) immediately followed by hump towards verge. Appears no attempt to roll/smooth surface after laying., 19th November :- [8441538](https://www.fixmystreet.com/report/8441538)
 - Srreet light is out, 19th November :- [8441431](https://www.fixmystreet.com/report/8441431)
 - Contractor sign with sandbags left for several months, 19th November :- [8441395](https://www.fixmystreet.com/report/8441395)
 - Other damage to pavement i.e. cobbles, raised mound/surface problem, 19th November :- [8441322](https://www.fixmystreet.com/report/8441322)
@@ -23,11 +26,8 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 19th November :- [8440297](https://www.fixmystreet.com/report/8440297)
 - Large and Deep Potholes right at the entrance to Sixways Carpark, Charlton Kings Cheltenham, 19th November :- [8440113](https://www.fixmystreet.com/report/8440113)
 - Unpermitted roadworks problem, 19th November :- [8439773](https://www.fixmystreet.com/report/8439773)
-- TMC - Defects - Footways Slabs problem, 19th November :- [8439790](https://www.fixmystreet.com/report/8439790)
-- TMC - Defects - Footways Slabs problem, 19th November :- [8439793](https://www.fixmystreet.com/report/8439793)
 - TMC - Defects - Footways Slabs problem, 19th November :- [8439792](https://www.fixmystreet.com/report/8439792)
-- TMC - Defects - Footways Slabs problem, 19th November :- [8439791](https://www.fixmystreet.com/report/8439791)
 - TMC - Defects - Footways Slabs problem, 19th November :- [8439794](https://www.fixmystreet.com/report/8439794)
-- TMC - Defects - Other FW6  Surface problem, 19th November :- [8439782](https://www.fixmystreet.com/report/8439782)
+- TMC - Defects - Footways Slabs problem, 19th November :- [8439791](https://www.fixmystreet.com/report/8439791)
 
 <!-- fix_marker ends -->
