@@ -27,7 +27,7 @@ permalink: /fix-my-street
 - Large and Deep Potholes right at the entrance to Sixways Carpark, Charlton Kings Cheltenham, 19th November :- [8440113](https://www.fixmystreet.com/report/8440113)
 - Unpermitted roadworks problem, 19th November :- [8439773](https://www.fixmystreet.com/report/8439773)
 - TMC - Defects - Footways Slabs problem, 19th November :- [8439792](https://www.fixmystreet.com/report/8439792)
-- TMC - Defects - Footways Slabs problem, 19th November :- [8439794](https://www.fixmystreet.com/report/8439794)
+- TMC - Defects - Footways Slabs problem, 19th November :- [8439790](https://www.fixmystreet.com/report/8439790)
 - TMC - Defects - Footways Slabs problem, 19th November :- [8439791](https://www.fixmystreet.com/report/8439791)
 
 <!-- fix_marker ends -->
