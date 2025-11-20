@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Very wide hole in the road, the broken tarmac is spraying all over the pavement., 20th November :- [8442951](https://www.fixmystreet.com/report/8442951)
+- White and yellow lines, 20th November :- [8442884](https://www.fixmystreet.com/report/8442884)
+- Children’s toys dumped in Manor Road, 20th November :- [8442747](https://www.fixmystreet.com/report/8442747)
+- Entire road needs to be assessed - URGENTLY!, 20th November :- [8442510](https://www.fixmystreet.com/report/8442510)
 - Large pothole, 20th November :- [8442366](https://www.fixmystreet.com/report/8442366)
 - Large pothole in the road, 20th November :- [8442316](https://www.fixmystreet.com/report/8442316)
 - Abandoned damaged vehicle on pavement, 19th November :- [8441667](https://www.fixmystreet.com/report/8441667)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Road marking white lines or studs problem, 19th November :- [8440601](https://www.fixmystreet.com/report/8440601)
 - Dog foul, 19th November :- [8440263](https://www.fixmystreet.com/report/8440263)
 - Broken glass on cycleway, 19th November :- [8440183](https://www.fixmystreet.com/report/8440183)
-- TMC - Defects -CW6 Potholes  problem, 19th November :- [8440297](https://www.fixmystreet.com/report/8440297)
-- Large and Deep Potholes right at the entrance to Sixways Carpark, Charlton Kings Cheltenham, 19th November :- [8440113](https://www.fixmystreet.com/report/8440113)
-- Unpermitted roadworks problem, 19th November :- [8439773](https://www.fixmystreet.com/report/8439773)
-- TMC - Defects - Footways Slabs problem, 19th November :- [8439791](https://www.fixmystreet.com/report/8439791)
 
 <!-- fix_marker ends -->
