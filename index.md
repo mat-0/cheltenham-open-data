@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Thursday, 20 November 2025
 
-- The average temperature today is -2.41˚C,
-- With highs of -1.13˚C and lows of -3.6˚C,
-- It may feel like -2.41˚C with clear sky
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1015hPa and humidity is 89%
+- The average temperature today is -1.65˚C,
+- With highs of 0.52˚C and lows of -2.23˚C,
+- It may feel like -1.65˚C with clear sky
+- The wind speed is 0.45m/s and visibility is 10000m
+- The pressure is 1015hPa and humidity is 84%
 - The sun will rise at 07:36 and set at 16:11
 
 <!-- weather_marker ends -->
