@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The button is stuck and is stopping the traffic every 15 seconds, pedestrians are also taking chances as some cars are ignoring the signal, 20th November :- [8446120](https://www.fixmystreet.com/report/8446120)
 - Dumped chest of drawers, 20th November :- [8446006](https://www.fixmystreet.com/report/8446006)
 - Street lamp in bush at the entrance to the cul de sac has been out for over a week now., 20th November :- [8445897](https://www.fixmystreet.com/report/8445897)
 - Near Bushcombe House Farm, 20th November :- [8445788](https://www.fixmystreet.com/report/8445788)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Kerbs and Channels problem, 20th November :- [8443935](https://www.fixmystreet.com/report/8443935)
 - TMC - Defects -FW6 Potholes problem, 20th November :- [8443932](https://www.fixmystreet.com/report/8443932)
 - TMC - Defects - Other FW6  Surface problem, 20th November :- [8443934](https://www.fixmystreet.com/report/8443934)
-- TMC - Defects -CW6 Potholes  problem, 20th November :- [8443936](https://www.fixmystreet.com/report/8443936)
 
 <!-- fix_marker ends -->
