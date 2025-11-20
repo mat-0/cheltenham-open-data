@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:atom="http://www.w3.org/2005/Atom"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:atom="http://www.w3.org/2005/Atom"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
@@ -178,10 +178,10 @@
 </item>
 <item>
 <title>TMC - Defects - Footways Slabs problem, 19th November</title>
-<link>https://www.fixmystreet.com/report/8439794</link>
-<description>NWD Give and take  with temporary footway closure  please lift and relay x1 450x450x25mm NUMBER 5 (FW Rocking/Unstable Slab)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8439794&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/8439790</link>
+<description>NWD Give and take  with temporary footway closure  please lift and relay x1 450x450x30mm NUMBER 1 (FW Rocking/Unstable Slab)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8439790&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Footways Slabs</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8439794</guid>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8439790</guid>
 <pubDate>Wed, 19 Nov 2025 13:43:31 +0000</pubDate>
 <georss:point>51.8875457498794 -2.08029539141078</georss:point>
 </item>
