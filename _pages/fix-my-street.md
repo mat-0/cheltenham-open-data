@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- LED bulb is continuously strobing., 21st November :- [8450453](https://www.fixmystreet.com/report/8450453)
+- Trollet, 21st November :- [8450436](https://www.fixmystreet.com/report/8450436)
 - Wood dumped on the verge opposite Drayton Clode, 21st November :- [8450108](https://www.fixmystreet.com/report/8450108)
 - Pothole, 21st November :- [8450071](https://www.fixmystreet.com/report/8450071)
 - Abandoned caravan hall road, 21st November :- [8450047](https://www.fixmystreet.com/report/8450047)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Champagne bottles and paper plates, 21st November :- [8449014](https://www.fixmystreet.com/report/8449014)
 - TMC - Defects -CW10 Potholes problem, 21st November :- [8449080](https://www.fixmystreet.com/report/8449080)
 - Dangerous junction, 21st November :- [8448940](https://www.fixmystreet.com/report/8448940)
-- TMC - Defects -CW10 Potholes problem, 21st November :- [8449078](https://www.fixmystreet.com/report/8449078)
-- Potential collapsed surface water drain, severn trent have been out and repaired a leak and have done multiple checks over multiple visits and the tests have come back as not treated water, 21st November :- [8448922](https://www.fixmystreet.com/report/8448922)
 
 <!-- fix_marker ends -->

@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Friday, 21 November 2025
 
-- The average temperature today is 3.02˚C,
-- With highs of 3.87˚C and lows of 2.04˚C,
-- It may feel like 0.81˚C with overcast clouds
-- The wind speed is 2.24m/s and visibility is 10000m
-- The pressure is 1026hPa and humidity is 82%
+- The average temperature today is 3.54˚C,
+- With highs of 4.97˚C and lows of 2.6˚C,
+- It may feel like 1.91˚C with overcast clouds
+- The wind speed is 1.79m/s and visibility is 10000m
+- The pressure is 1025hPa and humidity is 77%
 - The sun will rise at 07:38 and set at 16:10
 
 <!-- weather_marker ends -->
