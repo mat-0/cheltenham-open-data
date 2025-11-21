@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 3 potholes next to Bayshill Road crossing Cheltenham, 21st November :- [8446448](https://www.fixmystreet.com/report/8446448)
 - Pot hole on side of road between crossing and parabola road, 20th November :- [8446324](https://www.fixmystreet.com/report/8446324)
 - R/H side of speed hump has pot hole on uphill side, 20th November :- [8446321](https://www.fixmystreet.com/report/8446321)
 - The button is stuck and is stopping the traffic every 15 seconds, pedestrians are also taking chances as some cars are ignoring the signal, 20th November :- [8446120](https://www.fixmystreet.com/report/8446120)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 20th November :- [8444245](https://www.fixmystreet.com/report/8444245)
 - Water pooling. Manhole cover near telecoms box, 20th November :- [8444034](https://www.fixmystreet.com/report/8444034)
 - TMC - Defects - Covers, Gratings & Frames problem, 20th November :- [8443933](https://www.fixmystreet.com/report/8443933)
-- TMC - Defects - Kerbs and Channels problem, 20th November :- [8443935](https://www.fixmystreet.com/report/8443935)
 
 <!-- fix_marker ends -->
