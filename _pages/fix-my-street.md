@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole, 21st November :- [8450071](https://www.fixmystreet.com/report/8450071)
+- Abandoned caravan hall road, 21st November :- [8450047](https://www.fixmystreet.com/report/8450047)
+- Significant 'sink hole' 1 m round, 21st November :- [8450046](https://www.fixmystreet.com/report/8450046)
+- Road markings, 21st November :- [8450042](https://www.fixmystreet.com/report/8450042)
+- 18 inch pothole, 21st November :- [8449954](https://www.fixmystreet.com/report/8449954)
 - Broken road surface around drain cover, 21st November :- [8449721](https://www.fixmystreet.com/report/8449721)
 - A pothole in road problem, 21st November :- [8449674](https://www.fixmystreet.com/report/8449674)
 - Notes and plastic ties all over pavement, 21st November :- [8449482](https://www.fixmystreet.com/report/8449482)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW10 Potholes problem, 21st November :- [8449078](https://www.fixmystreet.com/report/8449078)
 - Potential collapsed surface water drain, severn trent have been out and repaired a leak and have done multiple checks over multiple visits and the tests have come back as not treated water, 21st November :- [8448922](https://www.fixmystreet.com/report/8448922)
 - TMC - Defects -CW6 Potholes  problem, 21st November :- [8448925](https://www.fixmystreet.com/report/8448925)
-- TMC - Defects -other CW6 problem, 21st November :- [8448924](https://www.fixmystreet.com/report/8448924)
-- TMC - Defects - Vegetation problem, 21st November :- [8448783](https://www.fixmystreet.com/report/8448783)
-- TMC - Defects -CW6 Potholes  problem, 21st November :- [8448781](https://www.fixmystreet.com/report/8448781)
-- Left behind items by contractor, 21st November :- [8448607](https://www.fixmystreet.com/report/8448607)
-- TMC - Defects - Vegetation problem, 21st November :- [8448655](https://www.fixmystreet.com/report/8448655)
 
 <!-- fix_marker ends -->
