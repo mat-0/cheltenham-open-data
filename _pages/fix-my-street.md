@@ -9,6 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Broken road surface around drain cover, 21st November :- [8449721](https://www.fixmystreet.com/report/8449721)
+- A pothole in road problem, 21st November :- [8449674](https://www.fixmystreet.com/report/8449674)
+- Notes and plastic ties all over pavement, 21st November :- [8449482](https://www.fixmystreet.com/report/8449482)
+- Traffic lights sequencing has changed causing queues, 21st November :- [8449439](https://www.fixmystreet.com/report/8449439)
+- Large square pothole, 21st November :- [8449353](https://www.fixmystreet.com/report/8449353)
+- Support for a road closed sign has been abandoned, 21st November :- [8449220](https://www.fixmystreet.com/report/8449220)
+- TMC - Defects - Signs & Street Furniture problem, 21st November :- [8449383](https://www.fixmystreet.com/report/8449383)
 - TMC - Defects -CW6 Potholes  problem, 21st November :- [8449086](https://www.fixmystreet.com/report/8449086)
 - TMC - Defects -CW6 Potholes  problem, 21st November :- [8449083](https://www.fixmystreet.com/report/8449083)
 - Champagne bottles and paper plates, 21st November :- [8449014](https://www.fixmystreet.com/report/8449014)
@@ -22,12 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 21st November :- [8448781](https://www.fixmystreet.com/report/8448781)
 - Left behind items by contractor, 21st November :- [8448607](https://www.fixmystreet.com/report/8448607)
 - TMC - Defects - Vegetation problem, 21st November :- [8448655](https://www.fixmystreet.com/report/8448655)
-- TMC - Defects - Other problem, 21st November :- [8448654](https://www.fixmystreet.com/report/8448654)
-- Multiple holes have been unfilled for two plus years, despite reports., 21st November :- [8448513](https://www.fixmystreet.com/report/8448513)
-- TMC - Defects -CW6 Potholes  problem, 21st November :- [8448652](https://www.fixmystreet.com/report/8448652)
-- TMC - Defects -CW6 Potholes  problem, 21st November :- [8448651](https://www.fixmystreet.com/report/8448651)
-- TMC - Defects -CW10 Potholes problem, 21st November :- [8448457](https://www.fixmystreet.com/report/8448457)
-- TMC - Defects -CW10 Potholes problem, 21st November :- [8448272](https://www.fixmystreet.com/report/8448272)
-- TMC - Defects -CW6 Potholes  problem, 21st November :- [8448090](https://www.fixmystreet.com/report/8448090)
 
 <!-- fix_marker ends -->
