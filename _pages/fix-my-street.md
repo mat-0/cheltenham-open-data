@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pot hole on side of road between crossing and parabola road, 20th November :- [8446324](https://www.fixmystreet.com/report/8446324)
+- R/H side of speed hump has pot hole on uphill side, 20th November :- [8446321](https://www.fixmystreet.com/report/8446321)
 - The button is stuck and is stopping the traffic every 15 seconds, pedestrians are also taking chances as some cars are ignoring the signal, 20th November :- [8446120](https://www.fixmystreet.com/report/8446120)
 - Dumped chest of drawers, 20th November :- [8446006](https://www.fixmystreet.com/report/8446006)
 - Street lamp in bush at the entrance to the cul de sac has been out for over a week now., 20th November :- [8445897](https://www.fixmystreet.com/report/8445897)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Water pooling. Manhole cover near telecoms box, 20th November :- [8444034](https://www.fixmystreet.com/report/8444034)
 - TMC - Defects - Covers, Gratings & Frames problem, 20th November :- [8443933](https://www.fixmystreet.com/report/8443933)
 - TMC - Defects - Kerbs and Channels problem, 20th November :- [8443935](https://www.fixmystreet.com/report/8443935)
-- TMC - Defects -FW6 Potholes problem, 20th November :- [8443932](https://www.fixmystreet.com/report/8443932)
-- TMC - Defects - Other FW6  Surface problem, 20th November :- [8443934](https://www.fixmystreet.com/report/8443934)
 
 <!-- fix_marker ends -->

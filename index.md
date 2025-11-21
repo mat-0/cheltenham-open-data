@@ -8,14 +8,14 @@ seo: Menu
 ![Logo](/images/logo.jpg){:width="832px"}
 
 <!-- weather_marker starts -->
-## On Thursday, 20 November 2025
+## On Friday, 21 November 2025
 
-- The average temperature today is -0.31˚C,
-- With highs of 0.55˚C and lows of -1.29˚C,
-- It may feel like -0.31˚C with clear sky
-- The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1021hPa and humidity is 86%
-- The sun will rise at 07:36 and set at 16:11
+- The average temperature today is -0.8˚C,
+- With highs of 0.54˚C and lows of -2.39˚C,
+- It may feel like -3.89˚C with clear sky
+- The wind speed is 2.43m/s and visibility is 10000m
+- The pressure is 1022hPa and humidity is 86%
+- The sun will rise at 07:38 and set at 16:10
 
 <!-- weather_marker ends -->
 
