@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- A wooden fence is blocking access from the first field to the second., 22nd November :- [8452327](https://www.fixmystreet.com/report/8452327)
+- Two potholes in road surface of Hatherley Road, near junction with Belworth Drive, 22nd November :- [8452253](https://www.fixmystreet.com/report/8452253)
+- A sign and a cone are obstructing the road, 22nd November :- [8452236](https://www.fixmystreet.com/report/8452236)
+- White sofa fly tipped by side of Buckholt Road, Cranham, 22nd November :- [8452140](https://www.fixmystreet.com/report/8452140)
 - Sign left on foot path next to collage, 22nd November :- [8452114](https://www.fixmystreet.com/report/8452114)
 - Large pothole developing on roundabout on exit from Caernarvon road onto exit on to Up Hatherlay Way towards the Shurdington Road (previously repaired pot hole breaking up again)., 22nd November :- [8452001](https://www.fixmystreet.com/report/8452001)
 - Deep pothole Brooklyn Road, 22nd November :- [8451574](https://www.fixmystreet.com/report/8451574)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Significant 'sink hole' 1 m round, 21st November :- [8450046](https://www.fixmystreet.com/report/8450046)
 - Road markings, 21st November :- [8450042](https://www.fixmystreet.com/report/8450042)
 - 18 inch pothole, 21st November :- [8449954](https://www.fixmystreet.com/report/8449954)
-- Broken road surface around drain cover, 21st November :- [8449721](https://www.fixmystreet.com/report/8449721)
-- A pothole in road problem, 21st November :- [8449674](https://www.fixmystreet.com/report/8449674)
-- Notes and plastic ties all over pavement, 21st November :- [8449482](https://www.fixmystreet.com/report/8449482)
-- Traffic lights sequencing has changed causing queues, 21st November :- [8449439](https://www.fixmystreet.com/report/8449439)
 
 <!-- fix_marker ends -->
