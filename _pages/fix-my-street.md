@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Further re-lining required, 21st November :- [8450511](https://www.fixmystreet.com/report/8450511)
 - LED bulb is continuously strobing., 21st November :- [8450453](https://www.fixmystreet.com/report/8450453)
 - Trollet, 21st November :- [8450436](https://www.fixmystreet.com/report/8450436)
 - Wood dumped on the verge opposite Drayton Clode, 21st November :- [8450108](https://www.fixmystreet.com/report/8450108)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 21st November :- [8449083](https://www.fixmystreet.com/report/8449083)
 - Champagne bottles and paper plates, 21st November :- [8449014](https://www.fixmystreet.com/report/8449014)
 - TMC - Defects -CW10 Potholes problem, 21st November :- [8449080](https://www.fixmystreet.com/report/8449080)
-- Dangerous junction, 21st November :- [8448940](https://www.fixmystreet.com/report/8448940)
 
 <!-- fix_marker ends -->
