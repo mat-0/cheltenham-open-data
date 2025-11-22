@@ -1,39 +1,186 @@
 {
-    "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
-    "meta": {
-        "publisher": "Environment Agency",
-        "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
-        "version": "0.9",
-        "comment": "Status: Beta service",
-        "hasFormat": [
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.csv?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.html?county=Gloucestershire"
-        ]
-    },
-    "items": [
-        {
-            "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTUBA",
-            "description": "Upper Bristol Avon area",
-            "eaAreaName": "Wessex",
-            "eaRegionName": "No longer used",
-            "floodArea": {
-                "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTUBA",
-                "county": "Gloucestershire, South Gloucestershire, Wiltshire",
-                "notation": "112WAFTUBA",
-                "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTUBA/polygon",
-                "riverOrSea": "Bristol River Avon"
-            },
-            "floodAreaID": "112WAFTUBA",
-            "isTidal": false,
-            "message": "River levels remain higher than normal but are falling. Flooding may affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon with low lying land and roads expected to be most affected, particularly low-lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Further rainfall is expected today and tomorrow, and river levels are expected to rise again in response. We are closely monitoring the situation and will issue further alerts and warnings if required. Take care and avoid walking, cycling or driving through flood water and consider activating any flood protection products you may have. This message will be updated by 10:00AM on 23/11/2025 or as the situation changes.\n",
-            "severity": "Flood alert",
-            "severityLevel": 3,
-            "timeMessageChanged": "2025-11-22T10:13:00",
-            "timeRaised": "2025-11-22T10:13:44",
-            "timeSeverityChanged": "2025-11-11T15:45:00"
-        }
+  "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
+  "meta": {
+    "publisher": "Environment Agency",
+    "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
+    "version": "0.9",
+    "comment": "Status: Beta service",
+    "hasFormat": [
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.csv",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
     ]
+  },
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTUBA",
+      "description": "Upper Bristol Avon area",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTUBA",
+        "county": "Gloucestershire, South Gloucestershire, Wiltshire",
+        "notation": "112WAFTUBA",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTUBA/polygon",
+        "riverOrSea": "Bristol River Avon"
+      },
+      "floodAreaID": "112WAFTUBA",
+      "isTidal": false,
+      "message": "River levels remain higher than normal but are falling. Flooding may affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon with low lying land and roads expected to be most affected, particularly low-lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Further rainfall is expected today and tomorrow, and river levels are expected to rise again in response. We are closely monitoring the situation and will issue further alerts and warnings if required. Take care and avoid walking, cycling or driving through flood water and consider activating any flood protection products you may have. This message will be updated by 10:00AM on 23/11/2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-11-22T10:13:00",
+      "timeRaised": "2025-11-22T10:13:44",
+      "timeSeverityChanged": "2025-11-11T15:45:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF428",
+      "description": "Lower River Soar in Leicestershire",
+      "eaAreaName": "East Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF428",
+        "county": "Derbyshire, Leicestershire, Nottinghamshire",
+        "notation": "034WAF428",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF428/polygon",
+        "riverOrSea": "River Soar"
+      },
+      "floodAreaID": "034WAF428",
+      "isTidal": false,
+      "message": "Rising river levels today may lead to flooding. \nFlooding is possible on 22 November 2025 . \nAreas most at risk are low-lying agricultural land and roads including Slash Lane at Sileby and the Mountsorrel to Sileby road. River levels at Pillings Lock Gauge are rising due to today's rainfall. Light rainfall is forecast over the next 12 hours. \nWe are closely monitoring the situation . \nAvoid using low lying footpaths and any bridges near local watercourses & plan driving routes to avoid low-lying roads near rivers. \nThis message will be updated by 9:00AM on 23 November 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-11-22T16:35:00",
+      "timeRaised": "2025-11-22T16:35:16",
+      "timeSeverityChanged": "2025-11-22T16:35:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF330",
+      "description": "River Stour and Smestow Brook in the Black Country and South Staffordshire",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF330",
+        "county": "Dudley, Sandwell, Staffordshire, Wolverhampton, Worcestershire",
+        "notation": "033WAF330",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF330/polygon",
+        "riverOrSea": "River Stour, Smestow Brook"
+      },
+      "floodAreaID": "033WAF330",
+      "isTidal": false,
+      "message": "Rising river levels this afternoon may lead to flooding. \nFlooding is possible from the afternoon of 22 November 2025 . \nFlooding may affect low lying land and roads around Halesowen, Stourbridge, Wombourne, Kingswinford and Kinver. \nWe are monitoring rainfall and river levels . \nAvoid low lying roads near rivers, which may be flooded . Avoid using low lying footpaths and any bridges near local watercourses. \nThis message will be updated by 11:00AM on 23 November 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-11-22T14:47:00",
+      "timeRaised": "2025-11-22T14:47:48",
+      "timeSeverityChanged": "2025-11-22T14:47:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF116",
+      "description": "River Lugg south of Leominster",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF116",
+        "county": "Herefordshire",
+        "notation": "031WAF116",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF116/polygon",
+        "riverOrSea": "River Lugg"
+      },
+      "floodAreaID": "031WAF116",
+      "isTidal": false,
+      "message": "River levels remain high and the potential for flooding continues today, 22 November 2025. \nFlooding may affect low lying land and roads adjacent to the River Lugg south of Leominster from Stoke Prior to Mordiford. Other locations that may be affected include Bodenham, Lugwardine and Hampton Bishop. \nWe are closely monitoring the situation. \nTake care and avoid walking, cycling or driving through flood water. \nThis message will be updated by 09:00AM on 23 November 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-11-22T08:05:00",
+      "timeRaised": "2025-11-22T08:05:39",
+      "timeSeverityChanged": "2025-11-13T16:48:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT1",
+      "description": "The tidal Rivers Bure, Ant and Thurne",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1",
+        "county": "Norfolk",
+        "notation": "054WATBT1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1/polygon",
+        "riverOrSea": "Bure, Ant, Thurne"
+      },
+      "floodAreaID": "054WATBT1",
+      "isTidal": true,
+      "message": "Tide locking where high tides restrict normal drainage of the river out to sea,  throughout today may lead to flooding.\n\nFlooding is possible today, Saturday 22 November, and for the next few days.\n\nWe expect to see high water levels around Potter Heigham, Wroxham boat yards and Ferry Road in Horning.  We are not expecting the situation to escalate, or to issue any further warning messages at this time.\n\nWe are closely monitoring the situation. \n\nAvoid low lying roads near rivers, which may be flooded.\n\nThis message will be updated by 10:00AM on Sunday 23 November 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-11-22T09:26:00",
+      "timeRaised": "2025-11-22T09:26:45",
+      "timeSeverityChanged": "2025-11-13T15:00:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF982",
+      "description": "River Rye catchment",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF982",
+        "county": "North Yorkshire",
+        "notation": "122WAF982",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF982/polygon",
+        "riverOrSea": "River Rye"
+      },
+      "floodAreaID": "122WAF982",
+      "isTidal": false,
+      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nWeather conditions are expected to improve and no further flooding is expected.   \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nNever drive through flood water,  just 30cm of fast flowing water is enough to move your car. Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.   \n\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-11-22T08:48:00",
+      "timeRaised": "2025-11-22T08:48:31",
+      "timeSeverityChanged": "2025-11-22T08:48:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF949",
+      "description": "Upper River Derwent",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF949",
+        "county": "East Riding of Yorkshire, North Yorkshire",
+        "notation": "122WAF949",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF949/polygon",
+        "riverOrSea": "River Derwent, Sea Cut, River Hertford, Burniston Beck"
+      },
+      "floodAreaID": "122WAF949",
+      "isTidal": false,
+      "message": "River levels remain high throughout the day and flooding is possible. Locations most affected will be low lying land and roads near rivers, particularly in the Low Marishes area. We are monitoring rainfall and river levels. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 9:00PM on 22 November 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-11-22T08:49:00",
+      "timeRaised": "2025-11-22T08:49:52",
+      "timeSeverityChanged": "2025-11-20T09:16:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFWDRS",
+      "description": "West Dorset Rivers and Streams",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFWDRS",
+        "county": "Devon, Dorset Council",
+        "notation": "111WAFWDRS",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFWDRS/polygon",
+        "riverOrSea": "River Asker, River Brit, River Bride, River Char, River Lim"
+      },
+      "floodAreaID": "111WAFWDRS",
+      "isTidal": false,
+      "message": "High river levels over the next two days may lead to flooding. \nFlooding is possible from the morning of 22 November 2025 . \nAreas most at risk include the Rivers Lim, Char, Winniford, Simene, Brit, Asker, Mangerton and Bride. Properties at Church Street, Burton Bradstock may need to prepare their pumps with continuing rainfall and rising river levels. \nWe are monitoring rainfall and river levels . \nTake care and avoid walking, cycling or driving through flood water . \nThis message will be updated by 9:30AM on 23 November 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-11-22T09:17:00",
+      "timeRaised": "2025-11-22T09:17:55",
+      "timeSeverityChanged": "2025-11-22T09:17:00"
+    }
+  ]
 }
