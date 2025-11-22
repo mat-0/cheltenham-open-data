@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Deep pothole Brooklyn Road, 22nd November :- [8451574](https://www.fixmystreet.com/report/8451574)
 - Road has sunk apx 30cm into the road., 22nd November :- [8451470](https://www.fixmystreet.com/report/8451470)
 - Pot hole and state of road, 22nd November :- [8451397](https://www.fixmystreet.com/report/8451397)
 - Full thickness tarmac 50mm deep missing leaving the corner of the cast iron drain cover raised and exposed. Absolutely brutal when a wheel hits iyt, especially with low profile rims when the wheel hits the corner of the drain cover. Drain is also blocked with leaves, 22nd November :- [8451263](https://www.fixmystreet.com/report/8451263)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Traffic lights sequencing has changed causing queues, 21st November :- [8449439](https://www.fixmystreet.com/report/8449439)
 - Large square pothole, 21st November :- [8449353](https://www.fixmystreet.com/report/8449353)
 - Support for a road closed sign has been abandoned, 21st November :- [8449220](https://www.fixmystreet.com/report/8449220)
-- TMC - Defects - Signs & Street Furniture problem, 21st November :- [8449383](https://www.fixmystreet.com/report/8449383)
 
 <!-- fix_marker ends -->
