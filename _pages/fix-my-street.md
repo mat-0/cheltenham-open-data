@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Road has sunk apx 30cm into the road., 22nd November :- [8451470](https://www.fixmystreet.com/report/8451470)
+- Pot hole and state of road, 22nd November :- [8451397](https://www.fixmystreet.com/report/8451397)
+- Full thickness tarmac 50mm deep missing leaving the corner of the cast iron drain cover raised and exposed. Absolutely brutal when a wheel hits iyt, especially with low profile rims when the wheel hits the corner of the drain cover. Drain is also blocked with leaves, 22nd November :- [8451263](https://www.fixmystreet.com/report/8451263)
 - Blocked drain causing pavement access, 22nd November :- [8450687](https://www.fixmystreet.com/report/8450687)
 - Further re-lining required, 21st November :- [8450511](https://www.fixmystreet.com/report/8450511)
 - LED bulb is continuously strobing., 21st November :- [8450453](https://www.fixmystreet.com/report/8450453)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Large square pothole, 21st November :- [8449353](https://www.fixmystreet.com/report/8449353)
 - Support for a road closed sign has been abandoned, 21st November :- [8449220](https://www.fixmystreet.com/report/8449220)
 - TMC - Defects - Signs & Street Furniture problem, 21st November :- [8449383](https://www.fixmystreet.com/report/8449383)
-- TMC - Defects -CW6 Potholes  problem, 21st November :- [8449086](https://www.fixmystreet.com/report/8449086)
-- TMC - Defects -CW6 Potholes  problem, 21st November :- [8449083](https://www.fixmystreet.com/report/8449083)
-- Champagne bottles and paper plates, 21st November :- [8449014](https://www.fixmystreet.com/report/8449014)
 
 <!-- fix_marker ends -->
