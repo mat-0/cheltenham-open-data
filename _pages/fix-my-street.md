@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Sign left on foot path next to collage, 22nd November :- [8452114](https://www.fixmystreet.com/report/8452114)
+- Large pothole developing on roundabout on exit from Caernarvon road onto exit on to Up Hatherlay Way towards the Shurdington Road (previously repaired pot hole breaking up again)., 22nd November :- [8452001](https://www.fixmystreet.com/report/8452001)
 - Deep pothole Brooklyn Road, 22nd November :- [8451574](https://www.fixmystreet.com/report/8451574)
 - Road has sunk apx 30cm into the road., 22nd November :- [8451470](https://www.fixmystreet.com/report/8451470)
 - Pot hole and state of road, 22nd November :- [8451397](https://www.fixmystreet.com/report/8451397)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - A pothole in road problem, 21st November :- [8449674](https://www.fixmystreet.com/report/8449674)
 - Notes and plastic ties all over pavement, 21st November :- [8449482](https://www.fixmystreet.com/report/8449482)
 - Traffic lights sequencing has changed causing queues, 21st November :- [8449439](https://www.fixmystreet.com/report/8449439)
-- Large square pothole, 21st November :- [8449353](https://www.fixmystreet.com/report/8449353)
-- Support for a road closed sign has been abandoned, 21st November :- [8449220](https://www.fixmystreet.com/report/8449220)
 
 <!-- fix_marker ends -->
