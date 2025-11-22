@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Saturday, 22 November 2025
 
-- The average temperature today is 5.81˚C,
-- With highs of 6.66˚C and lows of 5.16˚C,
-- It may feel like 3.1˚C with light rain
-- The wind speed is 3.58m/s and visibility is 10000m
-- The pressure is 1020hPa and humidity is 80%
+- The average temperature today is 5.43˚C,
+- With highs of 6.08˚C and lows of 4.91˚C,
+- It may feel like 4.09˚C with light rain
+- The wind speed is 1.79m/s and visibility is 10000m
+- The pressure is 1018hPa and humidity is 87%
 - The sun will rise at 07:39 and set at 16:09
 
 <!-- weather_marker ends -->
