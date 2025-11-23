@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Roundabout, 23rd November :- [8452825](https://www.fixmystreet.com/report/8452825)
+- Extremely large puddle crossing the east lane of the A436 very dangerous doesnt take alot of rain before its right the way across the road., 23rd November :- [8452812](https://www.fixmystreet.com/report/8452812)
 - Sewer cover been moved causing a large gap, 23rd November :- [8452751](https://www.fixmystreet.com/report/8452751)
 - Subsidence on road, 23rd November :- [8452746](https://www.fixmystreet.com/report/8452746)
 - Drain flattened, 23rd November :- [8452736](https://www.fixmystreet.com/report/8452736)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - LED bulb is continuously strobing., 21st November :- [8450453](https://www.fixmystreet.com/report/8450453)
 - Trollet, 21st November :- [8450436](https://www.fixmystreet.com/report/8450436)
 - Wood dumped on the verge opposite Drayton Clode, 21st November :- [8450108](https://www.fixmystreet.com/report/8450108)
-- Pothole, 21st November :- [8450071](https://www.fixmystreet.com/report/8450071)
-- Abandoned caravan hall road, 21st November :- [8450047](https://www.fixmystreet.com/report/8450047)
 
 <!-- fix_marker ends -->
