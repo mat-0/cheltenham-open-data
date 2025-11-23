@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Views sought on housing or care home plan for campus ([11 hours ago](https://www.bbc.com/news/articles/cz68xv5ll1qo?at_medium=RSS&at_campaign=rss))
-- Ex-rugby player recognised for MND charity work ([13 hours ago](https://www.bbc.com/news/articles/cvgkeqr2dzpo?at_medium=RSS&at_campaign=rss))
-- Community freecycle event expands to third site ([20 hours ago](https://www.bbc.com/news/articles/crexe0v5jlro?at_medium=RSS&at_campaign=rss))
-- 'Warning over 2026 drought' and 'first snow' ([20 hours ago](https://www.bbc.com/news/articles/c8r0rx5n7d1o?at_medium=RSS&at_campaign=rss))
+- Views sought on housing or care home plan for campus ([12 hours ago](https://www.bbc.com/news/articles/cz68xv5ll1qo?at_medium=RSS&at_campaign=rss))
+- Ex-rugby player recognised for MND charity work ([15 hours ago](https://www.bbc.com/news/articles/cvgkeqr2dzpo?at_medium=RSS&at_campaign=rss))
+- Community freecycle event expands to third site ([21 hours ago](https://www.bbc.com/news/articles/crexe0v5jlro?at_medium=RSS&at_campaign=rss))
+- 'Warning over 2026 drought' and 'first snow' ([21 hours ago](https://www.bbc.com/news/articles/c8r0rx5n7d1o?at_medium=RSS&at_campaign=rss))
 - Former Glos cricketer praises grief charity ([1 days ago](https://www.bbc.com/news/articles/c5y23glk2e5o?at_medium=RSS&at_campaign=rss))
 - Town centre building collapse scare causes 11-month delay to revamp ([1 days ago](https://gloucesternewscentre.co.uk/town-centre-building-collapse-scare-causes-11-month-delay-to-revamp/))
 - Views sought on plans for houses or new care home on former university campus ([1 days ago](https://gloucesternewscentre.co.uk/views-sought-on-plans-for-houses-or-new-care-home-on-former-university-campus/))
