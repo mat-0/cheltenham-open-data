@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Sewer cover been moved causing a large gap, 23rd November :- [8452751](https://www.fixmystreet.com/report/8452751)
+- Subsidence on road, 23rd November :- [8452746](https://www.fixmystreet.com/report/8452746)
+- Drain flattened, 23rd November :- [8452736](https://www.fixmystreet.com/report/8452736)
 - A wooden fence is blocking access from the first field to the second., 22nd November :- [8452327](https://www.fixmystreet.com/report/8452327)
 - Two potholes in road surface of Hatherley Road, near junction with Belworth Drive, 22nd November :- [8452253](https://www.fixmystreet.com/report/8452253)
 - A sign and a cone are obstructing the road, 22nd November :- [8452236](https://www.fixmystreet.com/report/8452236)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Wood dumped on the verge opposite Drayton Clode, 21st November :- [8450108](https://www.fixmystreet.com/report/8450108)
 - Pothole, 21st November :- [8450071](https://www.fixmystreet.com/report/8450071)
 - Abandoned caravan hall road, 21st November :- [8450047](https://www.fixmystreet.com/report/8450047)
-- Significant 'sink hole' 1 m round, 21st November :- [8450046](https://www.fixmystreet.com/report/8450046)
-- Road markings, 21st November :- [8450042](https://www.fixmystreet.com/report/8450042)
-- 18 inch pothole, 21st November :- [8449954](https://www.fixmystreet.com/report/8449954)
 
 <!-- fix_marker ends -->
