@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Left behind road signs, 2nd July :- [9723831](https://www.fixmystreet.com/report/9723831)
 - Fallen tree partially blocking footpath, 2nd July :- [9723600](https://www.fixmystreet.com/report/9723600)
 - Advertising Banner, 2nd July :- [9723524](https://www.fixmystreet.com/report/9723524)
 - Blocked drains. Blocked for over a week., 2nd July :- [9723512](https://www.fixmystreet.com/report/9723512)
@@ -24,10 +25,9 @@ permalink: /fix-my-street
 - Street furniture left behind, 2nd July :- [9722442](https://www.fixmystreet.com/report/9722442)
 - TMC - Defects - Vegetation problem, 2nd July :- [9722509](https://www.fixmystreet.com/report/9722509)
 - Light sensor is not detecting vehicles problem, 2nd July :- [9722154](https://www.fixmystreet.com/report/9722154)
+- TMC - Defects -FW6 Potholes problem, 2nd July :- [9722160](https://www.fixmystreet.com/report/9722160)
 - TMC - Defects -FW6 Potholes problem, 2nd July :- [9722157](https://www.fixmystreet.com/report/9722157)
 - TMC - Defects -FW6 Potholes problem, 2nd July :- [9722161](https://www.fixmystreet.com/report/9722161)
 - TMC - Defects -FW6 Potholes problem, 2nd July :- [9722159](https://www.fixmystreet.com/report/9722159)
-- TMC - Defects -FW6 Potholes problem, 2nd July :- [9722160](https://www.fixmystreet.com/report/9722160)
-- Strong foul sewage smell coming from this area, 2nd July :- [9721727](https://www.fixmystreet.com/report/9721727)
 
 <!-- fix_marker ends -->
