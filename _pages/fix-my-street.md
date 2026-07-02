@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- This one of many, the whole road is breaking up!!, 2nd July :- [9724668](https://www.fixmystreet.com/report/9724668)
+- Sunken noisey manhole, 2nd July :- [9724576](https://www.fixmystreet.com/report/9724576)
 - Left behind road signs, 2nd July :- [9723831](https://www.fixmystreet.com/report/9723831)
 - Fallen tree partially blocking footpath, 2nd July :- [9723600](https://www.fixmystreet.com/report/9723600)
 - Advertising Banner, 2nd July :- [9723524](https://www.fixmystreet.com/report/9723524)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Light sensor is not detecting vehicles problem, 2nd July :- [9722154](https://www.fixmystreet.com/report/9722154)
 - TMC - Defects -FW6 Potholes problem, 2nd July :- [9722160](https://www.fixmystreet.com/report/9722160)
 - TMC - Defects -FW6 Potholes problem, 2nd July :- [9722157](https://www.fixmystreet.com/report/9722157)
-- TMC - Defects -FW6 Potholes problem, 2nd July :- [9722161](https://www.fixmystreet.com/report/9722161)
-- TMC - Defects -FW6 Potholes problem, 2nd July :- [9722159](https://www.fixmystreet.com/report/9722159)
 
 <!-- fix_marker ends -->
