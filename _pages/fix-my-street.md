@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Double mattress dumped on the path way., 3rd July :- [9725235](https://www.fixmystreet.com/report/9725235)
 - Tree over grown on my fence and street lighy, 3rd July :- [9725053](https://www.fixmystreet.com/report/9725053)
 - This one of many, the whole road is breaking up!!, 2nd July :- [9724668](https://www.fixmystreet.com/report/9724668)
 - Sunken noisey manhole, 2nd July :- [9724576](https://www.fixmystreet.com/report/9724576)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Street furniture left behind, 2nd July :- [9722442](https://www.fixmystreet.com/report/9722442)
 - TMC - Defects - Vegetation problem, 2nd July :- [9722509](https://www.fixmystreet.com/report/9722509)
 - Light sensor is not detecting vehicles problem, 2nd July :- [9722154](https://www.fixmystreet.com/report/9722154)
-- TMC - Defects -FW6 Potholes problem, 2nd July :- [9722157](https://www.fixmystreet.com/report/9722157)
 
 <!-- fix_marker ends -->
