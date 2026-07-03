@@ -9,6 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects -CW6 Potholes  problem, 3rd July :- [9728191](https://www.fixmystreet.com/report/9728191)
+- TMC - Defects -CW6 Potholes  problem, 3rd July :- [9728190](https://www.fixmystreet.com/report/9728190)
+- TMC - Defects -CW6 Potholes  problem, 3rd July :- [9728182](https://www.fixmystreet.com/report/9728182)
+- Drain cover makes loud noise every time a vehicle goes over it., 3rd July :- [9728101](https://www.fixmystreet.com/report/9728101)
+- TMC - Defects -CW6 Potholes  problem, 3rd July :- [9728181](https://www.fixmystreet.com/report/9728181)
+- TMC - Defects -CW6 Potholes  problem, 3rd July :- [9728174](https://www.fixmystreet.com/report/9728174)
+- TMC - Defects -CW6 Potholes  problem, 3rd July :- [9728173](https://www.fixmystreet.com/report/9728173)
 - Overgrown verge, 3rd July :- [9727160](https://www.fixmystreet.com/report/9727160)
 - Overgrown path, 3rd July :- [9727104](https://www.fixmystreet.com/report/9727104)
 - A pothole in road problem, 3rd July :- [9727057](https://www.fixmystreet.com/report/9727057)
@@ -22,12 +29,5 @@ permalink: /fix-my-street
 - This one of many, the whole road is breaking up!!, 2nd July :- [9724668](https://www.fixmystreet.com/report/9724668)
 - Sunken noisey manhole, 2nd July :- [9724576](https://www.fixmystreet.com/report/9724576)
 - Left behind road signs, 2nd July :- [9723831](https://www.fixmystreet.com/report/9723831)
-- Fallen tree partially blocking footpath, 2nd July :- [9723600](https://www.fixmystreet.com/report/9723600)
-- Advertising Banner, 2nd July :- [9723524](https://www.fixmystreet.com/report/9723524)
-- Blocked drains. Blocked for over a week., 2nd July :- [9723512](https://www.fixmystreet.com/report/9723512)
-- Resurfacing CHAOS Innsworth Lane, 2nd July :- [9723185](https://www.fixmystreet.com/report/9723185)
-- Tree is damaged problem, 2nd July :- [9723286](https://www.fixmystreet.com/report/9723286)
-- Overgrown vegetation on path/way problem, 2nd July :- [9723107](https://www.fixmystreet.com/report/9723107)
-- Dog dirt, 2nd July :- [9722810](https://www.fixmystreet.com/report/9722810)
 
 <!-- fix_marker ends -->
