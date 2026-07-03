@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Glencairn Court - dreadful reinstatement of pavement, 3rd July :- [9729501](https://www.fixmystreet.com/report/9729501)
+- Loose manhole cover,, 3rd July :- [9729381](https://www.fixmystreet.com/report/9729381)
 - A pothole in road problem, 3rd July :- [9728956](https://www.fixmystreet.com/report/9728956)
 - TMC - Defects - Other problem, 3rd July :- [9728771](https://www.fixmystreet.com/report/9728771)
 - A pothole in road problem, 3rd July :- [9728579](https://www.fixmystreet.com/report/9728579)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Drain cover makes loud noise every time a vehicle goes over it., 3rd July :- [9728101](https://www.fixmystreet.com/report/9728101)
 - TMC - Defects -CW6 Potholes  problem, 3rd July :- [9728181](https://www.fixmystreet.com/report/9728181)
 - TMC - Defects -CW6 Potholes  problem, 3rd July :- [9728174](https://www.fixmystreet.com/report/9728174)
-- TMC - Defects -CW6 Potholes  problem, 3rd July :- [9728173](https://www.fixmystreet.com/report/9728173)
-- Overgrown verge, 3rd July :- [9727160](https://www.fixmystreet.com/report/9727160)
 
 <!-- fix_marker ends -->
