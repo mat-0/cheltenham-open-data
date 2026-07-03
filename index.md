@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Friday, 03 July 2026
 
-- The average temperature today is 22.38˚C,
-- With highs of 22.76˚C and lows of 22.04˚C,
-- It may feel like 21.74˚C with clear sky
-- The wind speed is 2.68m/s and visibility is 10000m
-- The pressure is 1026hPa and humidity is 41%
+- The average temperature today is 18.48˚C,
+- With highs of 18.48˚C and lows of 18.48˚C,
+- It may feel like 18.24˚C with clear sky
+- The wind speed is 3.3m/s and visibility is 10000m
+- The pressure is 1026hPa and humidity is 71%
 - The sun will rise at 03:54 and set at 20:30
 
 <!-- weather_marker ends -->
