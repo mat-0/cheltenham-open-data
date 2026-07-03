@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Overgrown verge, 3rd July :- [9727160](https://www.fixmystreet.com/report/9727160)
+- Overgrown path, 3rd July :- [9727104](https://www.fixmystreet.com/report/9727104)
+- A pothole in road problem, 3rd July :- [9727057](https://www.fixmystreet.com/report/9727057)
 - Street light completely covered by overgrown hedge, 3rd July :- [9726225](https://www.fixmystreet.com/report/9726225)
 - TMC - Defects - Other problem, 3rd July :- [9726394](https://www.fixmystreet.com/report/9726394)
 - Unpermitted roadworks problem, 3rd July :- [9725867](https://www.fixmystreet.com/report/9725867)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Tree is damaged problem, 2nd July :- [9723286](https://www.fixmystreet.com/report/9723286)
 - Overgrown vegetation on path/way problem, 2nd July :- [9723107](https://www.fixmystreet.com/report/9723107)
 - Dog dirt, 2nd July :- [9722810](https://www.fixmystreet.com/report/9722810)
-- TMC - Defects - Vegetation problem, 2nd July :- [9722920](https://www.fixmystreet.com/report/9722920)
-- By number 21, 2nd July :- [9722753](https://www.fixmystreet.com/report/9722753)
-- New dropped kerb, believe in contravention of Section 161, 2nd July :- [9722506](https://www.fixmystreet.com/report/9722506)
 
 <!-- fix_marker ends -->
