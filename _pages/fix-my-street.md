@@ -28,6 +28,6 @@ permalink: /fix-my-street
 - Street furniture left behind, 2nd July :- [9722442](https://www.fixmystreet.com/report/9722442)
 - TMC - Defects - Vegetation problem, 2nd July :- [9722509](https://www.fixmystreet.com/report/9722509)
 - Light sensor is not detecting vehicles problem, 2nd July :- [9722154](https://www.fixmystreet.com/report/9722154)
-- TMC - Defects -FW6 Potholes problem, 2nd July :- [9722160](https://www.fixmystreet.com/report/9722160)
+- TMC - Defects -FW6 Potholes problem, 2nd July :- [9722157](https://www.fixmystreet.com/report/9722157)
 
 <!-- fix_marker ends -->
