@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree over grown on my fence and street lighy, 3rd July :- [9725053](https://www.fixmystreet.com/report/9725053)
 - This one of many, the whole road is breaking up!!, 2nd July :- [9724668](https://www.fixmystreet.com/report/9724668)
 - Sunken noisey manhole, 2nd July :- [9724576](https://www.fixmystreet.com/report/9724576)
 - Left behind road signs, 2nd July :- [9723831](https://www.fixmystreet.com/report/9723831)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 2nd July :- [9722509](https://www.fixmystreet.com/report/9722509)
 - Light sensor is not detecting vehicles problem, 2nd July :- [9722154](https://www.fixmystreet.com/report/9722154)
 - TMC - Defects -FW6 Potholes problem, 2nd July :- [9722160](https://www.fixmystreet.com/report/9722160)
-- TMC - Defects -FW6 Potholes problem, 2nd July :- [9722157](https://www.fixmystreet.com/report/9722157)
 
 <!-- fix_marker ends -->

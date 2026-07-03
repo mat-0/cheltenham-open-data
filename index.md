@@ -9,13 +9,13 @@ permalink: /
 ![Logo](/images/logo.jpg){:width="860px"}
 
 <!-- weather_marker starts -->
-## On Thursday, 02 July 2026
+## On Friday, 03 July 2026
 
-- The average temperature today is 12.93˚C,
-- With highs of 13.8˚C and lows of 12.51˚C,
-- It may feel like 12.29˚C with clear sky
-- The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1028hPa and humidity is 77%
+- The average temperature today is 10.71˚C,
+- With highs of 11.5˚C and lows of 10.29˚C,
+- It may feel like 10.06˚C with few clouds
+- The wind speed is 1.07m/s and visibility is 10000m
+- The pressure is 1028hPa and humidity is 85%
 - The sun will rise at 03:54 and set at 20:30
 
 <!-- weather_marker ends -->
@@ -45,7 +45,7 @@ Given proximity to GCHQ...
 ### SEVERE
 
 - Current Threat Level: SEVERE
-- It has been 63 days since the last change (2026-04-30)
+- It has been 64 days since the last change (2026-04-30)
 - Details: <p>The current national threat level is SEVERE. &nbsp;The threat to Northern Ireland from Northern Ireland-related terrorism is SUBSTANTIAL.</p>
 
 <!-- threat_marker ends -->
