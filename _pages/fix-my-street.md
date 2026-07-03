@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Overgrown bridleway causing difficulty for passing riders, 3rd July :- [9725436](https://www.fixmystreet.com/report/9725436)
+- Tree blocking footpath, and footpath overgrown, 3rd July :- [9725407](https://www.fixmystreet.com/report/9725407)
 - Double mattress dumped on the path way., 3rd July :- [9725235](https://www.fixmystreet.com/report/9725235)
 - Tree over grown on my fence and street lighy, 3rd July :- [9725053](https://www.fixmystreet.com/report/9725053)
 - This one of many, the whole road is breaking up!!, 2nd July :- [9724668](https://www.fixmystreet.com/report/9724668)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - 2 x large potholes which are damaging my vehicle as i have to drive over them several times a day. One on the left of the lane, one on the right. Next to a driveway to greenfields farm. They have been here for a while but are getting worse., 2nd July :- [9722488](https://www.fixmystreet.com/report/9722488)
 - Recent roadworks have resulted in uneven surface. We now have pooling water outside 158-164, 2nd July :- [9722467](https://www.fixmystreet.com/report/9722467)
 - Street furniture left behind, 2nd July :- [9722442](https://www.fixmystreet.com/report/9722442)
-- TMC - Defects - Vegetation problem, 2nd July :- [9722509](https://www.fixmystreet.com/report/9722509)
-- Light sensor is not detecting vehicles problem, 2nd July :- [9722154](https://www.fixmystreet.com/report/9722154)
 
 <!-- fix_marker ends -->
