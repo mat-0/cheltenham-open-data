@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Multiple trees are blocking the pavement. Visibility is so poor that cars can be hidden and after rain these branches drip on tomoedestrians, 4th July :- [9732755](https://www.fixmystreet.com/report/9732755)
+- Blocked drains, 4th July :- [9732738](https://www.fixmystreet.com/report/9732738)
+- 4 Piles of Flytipping, 4th July :- [9732707](https://www.fixmystreet.com/report/9732707)
+- Way marker post is rotten and lying on the ground., 4th July :- [9732679](https://www.fixmystreet.com/report/9732679)
 - 3 bags of waste from parking bay cleaning needs picking up, 4th July :- [9732354](https://www.fixmystreet.com/report/9732354)
 - Volunteer litter pick bags ready for collection, 4th July :- [9732287](https://www.fixmystreet.com/report/9732287)
 - Abandoned vehicle, 4th July :- [9731689](https://www.fixmystreet.com/report/9731689)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Tree is damaged problem, 3rd July :- [9728577](https://www.fixmystreet.com/report/9728577)
 - TMC - Defects - Footways Slabs problem, 3rd July :- [9728585](https://www.fixmystreet.com/report/9728585)
 - Trees overhanging / too heavy and touching houses, 3rd July :- [9728438](https://www.fixmystreet.com/report/9728438)
-- TMC - Defects -CW6 Potholes  problem, 3rd July :- [9728408](https://www.fixmystreet.com/report/9728408)
-- TMC - Defects -CW6 Potholes  problem, 3rd July :- [9728411](https://www.fixmystreet.com/report/9728411)
-- TMC - Defects -CW6 Potholes  problem, 3rd July :- [9728410](https://www.fixmystreet.com/report/9728410)
-- TMC - Defects -CW6 Potholes  problem, 3rd July :- [9728409](https://www.fixmystreet.com/report/9728409)
 
 <!-- fix_marker ends -->
