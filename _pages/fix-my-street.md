@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Bus stop glass roof damaged, 4th July :- [9733939](https://www.fixmystreet.com/report/9733939)
 - Top of a newly planted oak tree has been cut off, 4th July :- [9733815](https://www.fixmystreet.com/report/9733815)
 - Sinkhole in Road / deep pothole Dunalley Street Cheltenham, 4th July :- [9733802](https://www.fixmystreet.com/report/9733802)
 - Blocked drain, 4th July :- [9733538](https://www.fixmystreet.com/report/9733538)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - The whole of Parabola Rd from the Montpellier roundabout up to where it joins Parabola Rd on the right is full.of ruts, grooves, holes. It's appalling s, 3rd July :- [9730027](https://www.fixmystreet.com/report/9730027)
 - Glencairn Court - dreadful reinstatement of pavement, 3rd July :- [9729501](https://www.fixmystreet.com/report/9729501)
 - Loose manhole cover,, 3rd July :- [9729381](https://www.fixmystreet.com/report/9729381)
-- A pothole in road problem, 3rd July :- [9728956](https://www.fixmystreet.com/report/9728956)
 
 <!-- fix_marker ends -->
