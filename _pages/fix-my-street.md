@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Top of a newly planted oak tree has been cut off, 4th July :- [9733815](https://www.fixmystreet.com/report/9733815)
+- Sinkhole in Road / deep pothole Dunalley Street Cheltenham, 4th July :- [9733802](https://www.fixmystreet.com/report/9733802)
 - Blocked drain, 4th July :- [9733538](https://www.fixmystreet.com/report/9733538)
 - Faulty metal cover, makes really loud noise every time a vehicle goes over it., 4th July :- [9647147](https://www.fixmystreet.com/report/9647147)
 - A pothole in road problem, 4th July :- [9733317](https://www.fixmystreet.com/report/9733317)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Glencairn Court - dreadful reinstatement of pavement, 3rd July :- [9729501](https://www.fixmystreet.com/report/9729501)
 - Loose manhole cover,, 3rd July :- [9729381](https://www.fixmystreet.com/report/9729381)
 - A pothole in road problem, 3rd July :- [9728956](https://www.fixmystreet.com/report/9728956)
-- TMC - Defects - Other problem, 3rd July :- [9728771](https://www.fixmystreet.com/report/9728771)
-- A pothole in road problem, 3rd July :- [9728579](https://www.fixmystreet.com/report/9728579)
 
 <!-- fix_marker ends -->
