@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Abandoned vehicle, 4th July :- [9731689](https://www.fixmystreet.com/report/9731689)
 - Road marking worn, 4th July :- [9730864](https://www.fixmystreet.com/report/9730864)
 - Cycle logo marking needs repainting, 4th July :- [9730742](https://www.fixmystreet.com/report/9730742)
 - Entire entrance road up to Cleeveland Avenue, 4th July :- [9730715](https://www.fixmystreet.com/report/9730715)
@@ -22,12 +23,11 @@ permalink: /fix-my-street
 - Tree is damaged problem, 3rd July :- [9728577](https://www.fixmystreet.com/report/9728577)
 - TMC - Defects - Footways Slabs problem, 3rd July :- [9728585](https://www.fixmystreet.com/report/9728585)
 - Trees overhanging / too heavy and touching houses, 3rd July :- [9728438](https://www.fixmystreet.com/report/9728438)
+- TMC - Defects -CW6 Potholes  problem, 3rd July :- [9728408](https://www.fixmystreet.com/report/9728408)
 - TMC - Defects -CW6 Potholes  problem, 3rd July :- [9728411](https://www.fixmystreet.com/report/9728411)
 - TMC - Defects -CW6 Potholes  problem, 3rd July :- [9728410](https://www.fixmystreet.com/report/9728410)
 - TMC - Defects -CW6 Potholes  problem, 3rd July :- [9728409](https://www.fixmystreet.com/report/9728409)
-- TMC - Defects -CW6 Potholes  problem, 3rd July :- [9728408](https://www.fixmystreet.com/report/9728408)
 - TMC - Defects -CW6 Potholes  problem, 3rd July :- [9728407](https://www.fixmystreet.com/report/9728407)
 - TMC - Defects -CW6 Potholes  problem, 3rd July :- [9728402](https://www.fixmystreet.com/report/9728402)
-- TMC - Defects -CW6 Potholes  problem, 3rd July :- [9728191](https://www.fixmystreet.com/report/9728191)
 
 <!-- fix_marker ends -->
