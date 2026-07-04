@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 3 bags of waste from parking bay cleaning needs picking up, 4th July :- [9732354](https://www.fixmystreet.com/report/9732354)
+- Volunteer litter pick bags ready for collection, 4th July :- [9732287](https://www.fixmystreet.com/report/9732287)
 - Abandoned vehicle, 4th July :- [9731689](https://www.fixmystreet.com/report/9731689)
 - Road marking worn, 4th July :- [9730864](https://www.fixmystreet.com/report/9730864)
 - Cycle logo marking needs repainting, 4th July :- [9730742](https://www.fixmystreet.com/report/9730742)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 3rd July :- [9728411](https://www.fixmystreet.com/report/9728411)
 - TMC - Defects -CW6 Potholes  problem, 3rd July :- [9728410](https://www.fixmystreet.com/report/9728410)
 - TMC - Defects -CW6 Potholes  problem, 3rd July :- [9728409](https://www.fixmystreet.com/report/9728409)
-- TMC - Defects -CW6 Potholes  problem, 3rd July :- [9728407](https://www.fixmystreet.com/report/9728407)
-- TMC - Defects -CW6 Potholes  problem, 3rd July :- [9728402](https://www.fixmystreet.com/report/9728402)
 
 <!-- fix_marker ends -->
