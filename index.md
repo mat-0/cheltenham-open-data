@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Saturday, 04 July 2026
 
-- The average temperature today is 16.36˚C,
-- With highs of 16.96˚C and lows of 15.47˚C,
-- It may feel like 16.35˚C with scattered clouds
-- The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1027hPa and humidity is 88%
+- The average temperature today is 18.73˚C,
+- With highs of 19.73˚C and lows of 18.16˚C,
+- It may feel like 18.77˚C with overcast clouds
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 1026hPa and humidity is 81%
 - The sun will rise at 03:55 and set at 20:29
 
 <!-- weather_marker ends -->
