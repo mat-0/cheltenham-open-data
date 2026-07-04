@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Faulty metal cover, makes really loud noise every time a vehicle goes over it., 4th July :- [9647147](https://www.fixmystreet.com/report/9647147)
 - Multiple trees are blocking the pavement. Visibility is so poor that cars can be hidden and after rain these branches drip on tomoedestrians, 4th July :- [9732755](https://www.fixmystreet.com/report/9732755)
 - Blocked drains, 4th July :- [9732738](https://www.fixmystreet.com/report/9732738)
 - 4 Piles of Flytipping, 4th July :- [9732707](https://www.fixmystreet.com/report/9732707)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - A pothole in road problem, 3rd July :- [9728579](https://www.fixmystreet.com/report/9728579)
 - Tree is damaged problem, 3rd July :- [9728577](https://www.fixmystreet.com/report/9728577)
 - TMC - Defects - Footways Slabs problem, 3rd July :- [9728585](https://www.fixmystreet.com/report/9728585)
-- Trees overhanging / too heavy and touching houses, 3rd July :- [9728438](https://www.fixmystreet.com/report/9728438)
 
 <!-- fix_marker ends -->
