@@ -9,13 +9,13 @@ permalink: /
 ![Logo](/images/logo.jpg){:width="860px"}
 
 <!-- weather_marker starts -->
-## On Saturday, 04 July 2026
+## On Sunday, 05 July 2026
 
-- The average temperature today is 16.67˚C,
-- With highs of 18.17˚C and lows of 16.49˚C,
-- It may feel like 16.66˚C with broken clouds
+- The average temperature today is 15.72˚C,
+- With highs of 16.09˚C and lows of 15.38˚C,
+- It may feel like 15.72˚C with scattered clouds
 - The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1026hPa and humidity is 87%
+- The pressure is 1026hPa and humidity is 91%
 - The sun will rise at 03:56 and set at 20:29
 
 <!-- weather_marker ends -->
@@ -45,7 +45,7 @@ Given proximity to GCHQ...
 ### SEVERE
 
 - Current Threat Level: SEVERE
-- It has been 65 days since the last change (2026-04-30)
+- It has been 66 days since the last change (2026-04-30)
 - Details: <p>The current national threat level is SEVERE. &nbsp;The threat to Northern Ireland from Northern Ireland-related terrorism is SUBSTANTIAL.</p>
 
 <!-- threat_marker ends -->
