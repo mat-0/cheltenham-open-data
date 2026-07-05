@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Sunday, 05 July 2026
 
-- The average temperature today is 21.11˚C,
-- With highs of 21.96˚C and lows of 20.39˚C,
-- It may feel like 21.1˚C with overcast clouds
-- The wind speed is 1.79m/s and visibility is 10000m
-- The pressure is 1025hPa and humidity is 70%
+- The average temperature today is 23.01˚C,
+- With highs of 23.71˚C and lows of 22.06˚C,
+- It may feel like 23.06˚C with overcast clouds
+- The wind speed is 1.34m/s and visibility is 10000m
+- The pressure is 1024hPa and humidity is 65%
 - The sun will rise at 03:56 and set at 20:29
 
 <!-- weather_marker ends -->
