@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Rusty barbeque and other rubbish accumulated.., 5th July :- [9736126](https://www.fixmystreet.com/report/9736126)
 - Large Cherry tree on the edge of the pavement roots are spreading into our garden across the lawn also raising the pavement and overhanging branches over Ermin street are being hit by double decker buses and other high vehicles., 5th July :- [9735608](https://www.fixmystreet.com/report/9735608)
 - Street is filthy. No street cleaning in over a year, 5th July :- [9734725](https://www.fixmystreet.com/report/9734725)
 - Flytipped chair, 5th July :- [9734588](https://www.fixmystreet.com/report/9734588)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Volunteer litter pick bags ready for collection, 4th July :- [9732287](https://www.fixmystreet.com/report/9732287)
 - Abandoned vehicle, 4th July :- [9731689](https://www.fixmystreet.com/report/9731689)
 - Road marking worn, 4th July :- [9730864](https://www.fixmystreet.com/report/9730864)
-- Cycle logo marking needs repainting, 4th July :- [9730742](https://www.fixmystreet.com/report/9730742)
 
 <!-- fix_marker ends -->
