@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Potholes, 5th July :- [9737374](https://www.fixmystreet.com/report/9737374)
 - Wobbley paving slab, 5th July :- [9736946](https://www.fixmystreet.com/report/9736946)
 - On the corner of the road of Hebden close, 5th July :- [9736791](https://www.fixmystreet.com/report/9736791)
 - Grass verge overgrowing into cycle path along Lansdown Road, 5th July :- [9736747](https://www.fixmystreet.com/report/9736747)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Faulty metal cover, makes really loud noise every time a vehicle goes over it., 4th July :- [9647147](https://www.fixmystreet.com/report/9647147)
 - A pothole in road problem, 4th July :- [9733317](https://www.fixmystreet.com/report/9733317)
 - Multiple trees are blocking the pavement. Visibility is so poor that cars can be hidden and after rain these branches drip on tomoedestrians, 4th July :- [9732755](https://www.fixmystreet.com/report/9732755)
-- Blocked drains, 4th July :- [9732738](https://www.fixmystreet.com/report/9732738)
 
 <!-- fix_marker ends -->
