@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Grass verge overgrowing into cycle path along Lansdown Road, 5th July :- [9736747](https://www.fixmystreet.com/report/9736747)
+- Pathways overgrown, 5th July :- [9736587](https://www.fixmystreet.com/report/9736587)
+- Plastic barriers left behind. Unsafe wall., 5th July :- [9736531](https://www.fixmystreet.com/report/9736531)
+- Overgrown bushes blocking steps and path, 5th July :- [9736521](https://www.fixmystreet.com/report/9736521)
 - Rusty barbeque and other rubbish accumulated.., 5th July :- [9736126](https://www.fixmystreet.com/report/9736126)
 - Large Cherry tree on the edge of the pavement roots are spreading into our garden across the lawn also raising the pavement and overhanging branches over Ermin street are being hit by double decker buses and other high vehicles., 5th July :- [9735608](https://www.fixmystreet.com/report/9735608)
 - Street is filthy. No street cleaning in over a year, 5th July :- [9734725](https://www.fixmystreet.com/report/9734725)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Blocked drains, 4th July :- [9732738](https://www.fixmystreet.com/report/9732738)
 - 4 Piles of Flytipping, 4th July :- [9732707](https://www.fixmystreet.com/report/9732707)
 - Way marker post is rotten and lying on the ground., 4th July :- [9732679](https://www.fixmystreet.com/report/9732679)
-- 3 bags of waste from parking bay cleaning needs picking up, 4th July :- [9732354](https://www.fixmystreet.com/report/9732354)
-- Volunteer litter pick bags ready for collection, 4th July :- [9732287](https://www.fixmystreet.com/report/9732287)
-- Abandoned vehicle, 4th July :- [9731689](https://www.fixmystreet.com/report/9731689)
-- Road marking worn, 4th July :- [9730864](https://www.fixmystreet.com/report/9730864)
 
 <!-- fix_marker ends -->
