@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- In pictures: Tom Jones, 'singing pirates' and a Strawberry Moon ([1 hours ago](https://www.bbc.co.uk/news/articles/c1dy6p50pdko?at_medium=RSS&at_campaign=rss))
-- Patients struggle to get vital medicines amid shortages ([1 hours ago](https://www.bbc.co.uk/news/articles/c8j2rz884llo?at_medium=RSS&at_campaign=rss))
-- Son charged with murder of his 80-year-old father ([21 hours ago](https://www.bbc.co.uk/news/articles/c3ry24q215wo?at_medium=RSS&at_campaign=rss))
+- In pictures: Tom Jones, 'singing pirates' and a Strawberry Moon ([3 hours ago](https://www.bbc.co.uk/news/articles/c1dy6p50pdko?at_medium=RSS&at_campaign=rss))
+- Patients struggle to get vital medicines amid shortages ([3 hours ago](https://www.bbc.co.uk/news/articles/c8j2rz884llo?at_medium=RSS&at_campaign=rss))
+- Son charged with murder of his 80-year-old father ([23 hours ago](https://www.bbc.co.uk/news/articles/c3ry24q215wo?at_medium=RSS&at_campaign=rss))
 - Drivers to get a feel for new A417 upgrade in significant traffic switch ([1 days ago](https://gloucesternewscentre.co.uk/drivers-to-get-a-feel-for-new-a417-upgrade-in-significant-traffic-switch/))
 - Maggie’s seeks Run Cheltenham runners ([1 days ago](https://gloucesternewscentre.co.uk/maggies-seeks-run-cheltenham-runners/))
 - Dementia clinics coming to Gloucester and Cheltenham ([1 days ago](https://gloucesternewscentre.co.uk/dementia-clinics-coming-to-gloucester-and-cheltenham/))
@@ -32,7 +32,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Heightened security after spike in ‘aggressive’ incidents at council ([2 days ago](https://gloucesternewscentre.co.uk/heightened-security-after-spike-in-aggressive-incidents-at-council/))
 - Secrecy over why Gloucestershire Airport costs millions for the taxpayer ([2 days ago](https://gloucesternewscentre.co.uk/secrecy-over-why-gloucestershire-airport-costs-millions-for-the-taxpayer/))
 - Bikers set for 10th and final NICU charity ride ([2 days ago](https://www.bbc.co.uk/news/articles/c6215gr2m1po?at_medium=RSS&at_campaign=rss))
-- Stalled bypass sparks push for cross-border buses ([2 days ago](https://www.bbc.co.uk/news/articles/cd7w09n8z2ro?at_medium=RSS&at_campaign=rss))
+- Stalled bypass sparks push for cross-border buses ([3 days ago](https://www.bbc.co.uk/news/articles/cd7w09n8z2ro?at_medium=RSS&at_campaign=rss))
 - Classical music with a twist coming to town ([3 days ago](https://www.bbc.co.uk/news/articles/cj4gzkrk45eo?at_medium=RSS&at_campaign=rss))
 - England Glory sign may light up again after 30 years ([3 days ago](https://www.bbc.co.uk/news/articles/c5yz67k733ro?at_medium=RSS&at_campaign=rss))
 - Roadworks are causing 'huge upheaval' says MP ([3 days ago](https://www.bbc.co.uk/news/articles/c1dy6y5g17po?at_medium=RSS&at_campaign=rss))

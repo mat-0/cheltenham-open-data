@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street is filthy. No street cleaning in over a year, 5th July :- [9734725](https://www.fixmystreet.com/report/9734725)
+- Flytipped chair, 5th July :- [9734588](https://www.fixmystreet.com/report/9734588)
+- Rubbish in river Chelt, 5th July :- [9734495](https://www.fixmystreet.com/report/9734495)
 - Rubbish bin left on street daily, 5th July :- [9734123](https://www.fixmystreet.com/report/9734123)
 - Bus stop glass roof damaged, 4th July :- [9733939](https://www.fixmystreet.com/report/9733939)
 - Top of a newly planted oak tree has been cut off, 4th July :- [9733815](https://www.fixmystreet.com/report/9733815)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Road marking worn, 4th July :- [9730864](https://www.fixmystreet.com/report/9730864)
 - Cycle logo marking needs repainting, 4th July :- [9730742](https://www.fixmystreet.com/report/9730742)
 - Entire entrance road up to Cleeveland Avenue, 4th July :- [9730715](https://www.fixmystreet.com/report/9730715)
-- Dead tree- suddenly died- large!, 3rd July :- [9730198](https://www.fixmystreet.com/report/9730198)
-- The whole of Parabola Rd from the Montpellier roundabout up to where it joins Parabola Rd on the right is full.of ruts, grooves, holes. It's appalling s, 3rd July :- [9730027](https://www.fixmystreet.com/report/9730027)
-- Glencairn Court - dreadful reinstatement of pavement, 3rd July :- [9729501](https://www.fixmystreet.com/report/9729501)
 
 <!-- fix_marker ends -->
