@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The street light has stopped working again after being fixed recently, 6th July :- [9744372](https://www.fixmystreet.com/report/9744372)
+- Bags of rubbish by the side of the road, 6th July :- [9743918](https://www.fixmystreet.com/report/9743918)
+- Graffiti on electric box, 6th July :- [9743942](https://www.fixmystreet.com/report/9743942)
 - Graffiti on the telephone exchange, 6th July :- [9743844](https://www.fixmystreet.com/report/9743844)
 - Various flytipped items, 6th July :- [9743703](https://www.fixmystreet.com/report/9743703)
 - Mong term missing bollard and associated warning sign, 6th July :- [9743652](https://www.fixmystreet.com/report/9743652)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Sign opposite recycling centre rusty/poor condition, 6th July :- [9741560](https://www.fixmystreet.com/report/9741560)
 - TMC - Defects - Vegetation problem, 6th July :- [9741734](https://www.fixmystreet.com/report/9741734)
 - TMC - Defects - Other FW6  Surface problem, 6th July :- [9741732](https://www.fixmystreet.com/report/9741732)
-- TMC - Defects - Vegetation problem, 6th July :- [9741733](https://www.fixmystreet.com/report/9741733)
-- TMC - Defects -CW6 Potholes  problem, 6th July :- [9741487](https://www.fixmystreet.com/report/9741487)
-- TMC - Defects - Other FW6  Surface problem, 6th July :- [9741482](https://www.fixmystreet.com/report/9741482)
 
 <!-- fix_marker ends -->
