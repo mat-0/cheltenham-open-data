@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipped bin bag + gardening waste, 6th July :- [9742427](https://www.fixmystreet.com/report/9742427)
+- Large gouge on pavement, 6th July :- [9742188](https://www.fixmystreet.com/report/9742188)
+- Blocking visibility on road/junction (Grass/verge) problem, 6th July :- [9742418](https://www.fixmystreet.com/report/9742418)
 - Loose, rattling drain cover, 6th July :- [9741863](https://www.fixmystreet.com/report/9741863)
 - A pothole in road problem, 6th July :- [9741966](https://www.fixmystreet.com/report/9741966)
 - TMC - Defects -other CW6 problem, 6th July :- [9741747](https://www.fixmystreet.com/report/9741747)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 6th July :- [9741478](https://www.fixmystreet.com/report/9741478)
 - TMC - Defects - Covers, Gratings & Frames problem, 6th July :- [9741243](https://www.fixmystreet.com/report/9741243)
 - Rubbish Dumped, 6th July :- [9740587](https://www.fixmystreet.com/report/9740587)
-- Abandoned Trolley, 6th July :- [9740573](https://www.fixmystreet.com/report/9740573)
-- TMC - Defects - Road Markings problem, 6th July :- [9740771](https://www.fixmystreet.com/report/9740771)
-- TMC - Defects - Vegetation problem, 6th July :- [9740765](https://www.fixmystreet.com/report/9740765)
 
 <!-- fix_marker ends -->
