@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Monday, 06 July 2026
 
-- The average temperature today is 27.04˚C,
-- With highs of 27.6˚C and lows of 26.5˚C,
-- It may feel like 26.89˚C with broken clouds
-- The wind speed is 2.68m/s and visibility is 10000m
-- The pressure is 1017hPa and humidity is 40%
+- The average temperature today is 24.05˚C,
+- With highs of 25.95˚C and lows of 23.71˚C,
+- It may feel like 23.71˚C with overcast clouds
+- The wind speed is 1.79m/s and visibility is 10000m
+- The pressure is 1016hPa and humidity is 46%
 - The sun will rise at 03:56 and set at 20:28
 
 <!-- weather_marker ends -->

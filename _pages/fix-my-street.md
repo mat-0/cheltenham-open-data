@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Graffiti on the telephone exchange, 6th July :- [9743844](https://www.fixmystreet.com/report/9743844)
+- Various flytipped items, 6th July :- [9743703](https://www.fixmystreet.com/report/9743703)
+- Mong term missing bollard and associated warning sign, 6th July :- [9743652](https://www.fixmystreet.com/report/9743652)
+- Forgotten signs, 6th July :- [9743615](https://www.fixmystreet.com/report/9743615)
 - Several holes in middle, 6th July :- [9743087](https://www.fixmystreet.com/report/9743087)
 - The drains on Battledown Approach are clogged with debris - new leaf fall is sitting on old., 6th July :- [9743069](https://www.fixmystreet.com/report/9743069)
 - Flytipped bin bag + gardening waste, 6th July :- [9742427](https://www.fixmystreet.com/report/9742427)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 6th July :- [9741733](https://www.fixmystreet.com/report/9741733)
 - TMC - Defects -CW6 Potholes  problem, 6th July :- [9741487](https://www.fixmystreet.com/report/9741487)
 - TMC - Defects - Other FW6  Surface problem, 6th July :- [9741482](https://www.fixmystreet.com/report/9741482)
-- TMC - Defects - Other FW6  Surface problem, 6th July :- [9741481](https://www.fixmystreet.com/report/9741481)
-- TMC - Defects -CW6 Potholes  problem, 6th July :- [9741480](https://www.fixmystreet.com/report/9741480)
-- TMC - Defects -CW6 Potholes  problem, 6th July :- [9741479](https://www.fixmystreet.com/report/9741479)
-- TMC - Defects - Vegetation problem, 6th July :- [9741478](https://www.fixmystreet.com/report/9741478)
 
 <!-- fix_marker ends -->
