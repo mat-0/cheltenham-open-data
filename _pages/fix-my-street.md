@@ -9,6 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Footpath reinstatement failing, 6th July :- [9738859](https://www.fixmystreet.com/report/9738859)
+- Homeless camping detritus, 6th July :- [9738866](https://www.fixmystreet.com/report/9738866)
+- TMC - Defects -CW6 Potholes  problem, 6th July :- [9738818](https://www.fixmystreet.com/report/9738818)
+- TMC - Defects -CW6 Potholes  problem, 6th July :- [9738820](https://www.fixmystreet.com/report/9738820)
+- Flytipping in Pittville Park, 6th July :- [9738650](https://www.fixmystreet.com/report/9738650)
+- Wooden chairs Flytipped in Agg Gardner’s, Pittville Park, 6th July :- [9738617](https://www.fixmystreet.com/report/9738617)
+- Large dip in road causing potholes outside 101, 6th July :- [9738291](https://www.fixmystreet.com/report/9738291)
 - Flytipping, 6th July :- [9737136](https://www.fixmystreet.com/report/9737136)
 - Flickering street light outside 11 Portland street, 5th July :- [9738043](https://www.fixmystreet.com/report/9738043)
 - Potholes, 5th July :- [9737374](https://www.fixmystreet.com/report/9737374)
@@ -22,12 +29,5 @@ permalink: /fix-my-street
 - Large Cherry tree on the edge of the pavement roots are spreading into our garden across the lawn also raising the pavement and overhanging branches over Ermin street are being hit by double decker buses and other high vehicles., 5th July :- [9735608](https://www.fixmystreet.com/report/9735608)
 - Street is filthy. No street cleaning in over a year, 5th July :- [9734725](https://www.fixmystreet.com/report/9734725)
 - Flytipped chair, 5th July :- [9734588](https://www.fixmystreet.com/report/9734588)
-- Rubbish in river Chelt, 5th July :- [9734495](https://www.fixmystreet.com/report/9734495)
-- Rubbish bin left on street daily, 5th July :- [9734123](https://www.fixmystreet.com/report/9734123)
-- Bus stop glass roof damaged, 4th July :- [9733939](https://www.fixmystreet.com/report/9733939)
-- Top of a newly planted oak tree has been cut off, 4th July :- [9733815](https://www.fixmystreet.com/report/9733815)
-- Sinkhole in Road / deep pothole Dunalley Street Cheltenham, 4th July :- [9733802](https://www.fixmystreet.com/report/9733802)
-- Blocked drain, 4th July :- [9733538](https://www.fixmystreet.com/report/9733538)
-- Faulty metal cover, makes really loud noise every time a vehicle goes over it., 4th July :- [9647147](https://www.fixmystreet.com/report/9647147)
 
 <!-- fix_marker ends -->
