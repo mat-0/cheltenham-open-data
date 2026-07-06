@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Several holes in middle, 6th July :- [9743087](https://www.fixmystreet.com/report/9743087)
+- The drains on Battledown Approach are clogged with debris - new leaf fall is sitting on old., 6th July :- [9743069](https://www.fixmystreet.com/report/9743069)
 - Flytipped bin bag + gardening waste, 6th July :- [9742427](https://www.fixmystreet.com/report/9742427)
 - Large gouge on pavement, 6th July :- [9742188](https://www.fixmystreet.com/report/9742188)
 - Blocking visibility on road/junction (Grass/verge) problem, 6th July :- [9742418](https://www.fixmystreet.com/report/9742418)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 6th July :- [9741480](https://www.fixmystreet.com/report/9741480)
 - TMC - Defects -CW6 Potholes  problem, 6th July :- [9741479](https://www.fixmystreet.com/report/9741479)
 - TMC - Defects - Vegetation problem, 6th July :- [9741478](https://www.fixmystreet.com/report/9741478)
-- TMC - Defects - Covers, Gratings & Frames problem, 6th July :- [9741243](https://www.fixmystreet.com/report/9741243)
-- Rubbish Dumped, 6th July :- [9740587](https://www.fixmystreet.com/report/9740587)
 
 <!-- fix_marker ends -->
