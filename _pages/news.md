@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Inland lifeboat station marks 40th anniversary ([9 hours ago](https://www.bbc.co.uk/news/articles/c89227wl3qvo?at_medium=RSS&at_campaign=rss))
-- In pictures: Tom Jones, 'singing pirates' and a Strawberry Moon ([19 hours ago](https://www.bbc.co.uk/news/articles/c1dy6p50pdko?at_medium=RSS&at_campaign=rss))
-- Patients struggle to get vital medicines amid shortages ([19 hours ago](https://www.bbc.co.uk/news/articles/c8j2rz884llo?at_medium=RSS&at_campaign=rss))
+- Inland lifeboat station marks 40th anniversary ([12 hours ago](https://www.bbc.co.uk/news/articles/c89227wl3qvo?at_medium=RSS&at_campaign=rss))
+- In pictures: Tom Jones, 'singing pirates' and a Strawberry Moon ([22 hours ago](https://www.bbc.co.uk/news/articles/c1dy6p50pdko?at_medium=RSS&at_campaign=rss))
+- Patients struggle to get vital medicines amid shortages ([22 hours ago](https://www.bbc.co.uk/news/articles/c8j2rz884llo?at_medium=RSS&at_campaign=rss))
 - Son charged with murder of his 80-year-old father ([1 days ago](https://www.bbc.co.uk/news/articles/c3ry24q215wo?at_medium=RSS&at_campaign=rss))
 - Drivers to get a feel for new A417 upgrade in significant traffic switch ([1 days ago](https://gloucesternewscentre.co.uk/drivers-to-get-a-feel-for-new-a417-upgrade-in-significant-traffic-switch/))
 - Maggie’s seeks Run Cheltenham runners ([1 days ago](https://gloucesternewscentre.co.uk/maggies-seeks-run-cheltenham-runners/))

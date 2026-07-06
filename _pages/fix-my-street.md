@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipping, 6th July :- [9737136](https://www.fixmystreet.com/report/9737136)
 - Flickering street light outside 11 Portland street, 5th July :- [9738043](https://www.fixmystreet.com/report/9738043)
 - Potholes, 5th July :- [9737374](https://www.fixmystreet.com/report/9737374)
 - Wobbley paving slab, 5th July :- [9736946](https://www.fixmystreet.com/report/9736946)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Sinkhole in Road / deep pothole Dunalley Street Cheltenham, 4th July :- [9733802](https://www.fixmystreet.com/report/9733802)
 - Blocked drain, 4th July :- [9733538](https://www.fixmystreet.com/report/9733538)
 - Faulty metal cover, makes really loud noise every time a vehicle goes over it., 4th July :- [9647147](https://www.fixmystreet.com/report/9647147)
-- A pothole in road problem, 4th July :- [9733317](https://www.fixmystreet.com/report/9733317)
 
 <!-- fix_marker ends -->
