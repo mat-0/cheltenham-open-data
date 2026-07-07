@@ -3,8 +3,8 @@
 
 <rss version="2.0"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
- xmlns:georss="http://www.georss.org/georss"
  xmlns:atom="http://www.w3.org/2005/Atom"
+ xmlns:georss="http://www.georss.org/georss"
 >
 
 <channel>
@@ -14,6 +14,78 @@
 <language>en-gb</language>
 <atom:link href="https://www.fixmystreet.com/rss/l/51.897991,-2.071308/10" rel="self" type="application/rss+xml"/>
 
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 7th July</title>
+<link>https://www.fixmystreet.com/report/9745419</link>
+<description>give and take  28 day carriage way pothole 28 day 400x500x50mm (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9745419&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9745419</guid>
+<pubDate>Tue, 07 Jul 2026 08:02:40 +0100</pubDate>
+<georss:point>51.8961361 -2.09739809999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 7th July</title>
+<link>https://www.fixmystreet.com/report/9745421</link>
+<description>give and take  28 day carriage way pothole 28 day 1600x500x40mm (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9745421&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9745421</guid>
+<pubDate>Tue, 07 Jul 2026 08:02:40 +0100</pubDate>
+<georss:point>51.8956535 -2.09655619999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Kerbs and Channels problem, 7th July</title>
+<link>https://www.fixmystreet.com/report/9745420</link>
+<description>Give and take  28 days  please repair missing corner kerb stone with concrete fillet 300x100x40mm (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9745420&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Kerbs and Channels</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9745420</guid>
+<pubDate>Tue, 07 Jul 2026 08:02:40 +0100</pubDate>
+<georss:point>51.8959448 -2.09717480000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 7th July</title>
+<link>https://www.fixmystreet.com/report/9745423</link>
+<description>2 way stop and go 28 day carriage way pothole 28 day 600x300x45mm plus x3 NSD (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9745423&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9745423</guid>
+<pubDate>Tue, 07 Jul 2026 08:02:40 +0100</pubDate>
+<georss:point>51.895348492119 -2.09575063568379</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Vegetation problem, 7th July</title>
+<link>https://www.fixmystreet.com/report/9745422</link>
+<description>Give and take day  please cut back overgrown tree branches growing from tree base back to boundary approx 3  metres high x2  meters  temporary footway closure (Overgrown Tree)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9745422&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Vegetation</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9745422</guid>
+<pubDate>Tue, 07 Jul 2026 08:02:40 +0100</pubDate>
+<georss:point>51.8954349 -2.09596999999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 7th July</title>
+<link>https://www.fixmystreet.com/report/9745417</link>
+<description>2 way stop and go  28 day  footway aburt level difference due to tree roots 25000x300x25mm tarmac parch stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9745417&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9745417</guid>
+<pubDate>Tue, 07 Jul 2026 08:01:27 +0100</pubDate>
+<georss:point>51.8909508 -2.0754058</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 7th July</title>
+<link>https://www.fixmystreet.com/report/9745418</link>
+<description>2 way stop and go  28 day  footway aburt level difference  650x400x20mm tarmac parch stats required plus 7 NSD (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9745418&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9745418</guid>
+<pubDate>Tue, 07 Jul 2026 08:01:27 +0100</pubDate>
+<georss:point>51.8888994 -2.07060309999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 7th July</title>
+<link>https://www.fixmystreet.com/report/9745415</link>
+<description>2 way stop and go  28 day  footway aburt level difference due to tree roots 1500x400x20mm tarmac parch stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9745415&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9745415</guid>
+<pubDate>Tue, 07 Jul 2026 08:01:26 +0100</pubDate>
+<georss:point>51.8907996 -2.0750057</georss:point>
+</item>
 <item>
 <title>Vehicle abandoned for months, 7th July</title>
 <link>https://www.fixmystreet.com/report/9745004</link>
@@ -121,78 +193,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/9743069</guid>
 <pubDate>Mon, 06 Jul 2026 17:44:48 +0100</pubDate>
 <georss:point>51.896533 -2.058827</georss:point>
-</item>
-<item>
-<title>Flytipped bin bag + gardening waste, 6th July</title>
-<link>https://www.fixmystreet.com/report/9742427</link>
-<description>In the side of the road at passing point some 100 yards from the corner of G.E.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9742427.0.jpeg?54c70f35&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Brockhampton Lane, Bishop&#39;s Cleeve, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9742427&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Flytipping</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9742427</guid>
-<pubDate>Mon, 06 Jul 2026 16:03:29 +0100</pubDate>
-<georss:point>51.93349 -2.076497</georss:point>
-</item>
-<item>
-<title>Large gouge on pavement, 6th July</title>
-<link>https://www.fixmystreet.com/report/9742188</link>
-<description>A Other damage to pavement i.e. cobbles, raised mound/surface Apparently caused by an HGV associated with the scaffolding works on the nearby flats&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9742188.0.jpeg?77bd0dee&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 5, Grevil Road, Kingsditch, Cheltenham, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9742188&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Other damage to pavement i.e. cobbles, raised mound/surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9742188</guid>
-<pubDate>Mon, 06 Jul 2026 15:30:48 +0100</pubDate>
-<georss:point>51.910068 -2.103026</georss:point>
-</item>
-<item>
-<title>Blocking visibility on road/junction (Grass/verge) problem, 6th July</title>
-<link>https://www.fixmystreet.com/report/9742418</link>
-<description>the grass is very tall and has not been cut back this year and TBC said its highways &#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9742418&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Blocking visibility on road/junction (Grass/verge)</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9742418</guid>
-<pubDate>Mon, 06 Jul 2026 15:28:41 +0100</pubDate>
-<georss:point>51.9481 -2.074578</georss:point>
-</item>
-<item>
-<title>Loose, rattling drain cover, 6th July</title>
-<link>https://www.fixmystreet.com/report/9741863</link>
-<description>Drain cover outside 12, Pecked Lane rattles every time a vehicle goes over it. Affecting the well being of the residents in the area.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 7, Pecked Lane, Bishop&#39;s Cleeve, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9741863&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Loose/rattling cover/ironwork</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9741863</guid>
-<pubDate>Mon, 06 Jul 2026 14:51:40 +0100</pubDate>
-<georss:point>51.946582 -2.05764</georss:point>
-</item>
-<item>
-<title>A pothole in road problem, 6th July</title>
-<link>https://www.fixmystreet.com/report/9741966</link>
-<description>Pothole&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9741966&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9741966</guid>
-<pubDate>Mon, 06 Jul 2026 14:39:38 +0100</pubDate>
-<georss:point>51.847501 -2.158605</georss:point>
-</item>
-<item>
-<title>TMC - Defects -other CW6 problem, 6th July</title>
-<link>https://www.fixmystreet.com/report/9741747</link>
-<description>NWD  Give and take  please remove x1 steel bollard not sure where it came out from  1.5 meters long (CW6 Cracks or Gaps)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9741747&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -other CW6</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9741747</guid>
-<pubDate>Mon, 06 Jul 2026 14:29:02 +0100</pubDate>
-<georss:point>51.8939942 -2.06460749999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Vegetation problem, 6th July</title>
-<link>https://www.fixmystreet.com/report/9741737</link>
-<description>Cut back overhanging vegetation to boundary 9mtrs &amp;#10;Give and take TM &amp;#10;///score.latest.hill (Overgrown Hedge)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9741737&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Vegetation</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9741737</guid>
-<pubDate>Mon, 06 Jul 2026 14:13:30 +0100</pubDate>
-<georss:point>51.847452892273 -2.17958531483892</georss:point>
-</item>
-<item>
-<title>A pothole in road problem, 6th July</title>
-<link>https://www.fixmystreet.com/report/9741731</link>
-<description>Square drain on the Tewkesbury road opposite the monument is rattling, caller reports that we attended Saturday night but cannot locate an enquiry or job for this.&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9741731&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9741731</guid>
-<pubDate>Mon, 06 Jul 2026 14:12:13 +0100</pubDate>
-<georss:point>51.908828 -2.090373</georss:point>
 </item>
 </channel>
 </rss>

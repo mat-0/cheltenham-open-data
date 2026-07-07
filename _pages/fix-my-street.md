@@ -9,6 +9,14 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects -CW6 Potholes  problem, 7th July :- [9745419](https://www.fixmystreet.com/report/9745419)
+- TMC - Defects -CW6 Potholes  problem, 7th July :- [9745421](https://www.fixmystreet.com/report/9745421)
+- TMC - Defects - Kerbs and Channels problem, 7th July :- [9745420](https://www.fixmystreet.com/report/9745420)
+- TMC - Defects -CW6 Potholes  problem, 7th July :- [9745423](https://www.fixmystreet.com/report/9745423)
+- TMC - Defects - Vegetation problem, 7th July :- [9745422](https://www.fixmystreet.com/report/9745422)
+- TMC - Defects - Other FW6  Surface problem, 7th July :- [9745417](https://www.fixmystreet.com/report/9745417)
+- TMC - Defects - Other FW6  Surface problem, 7th July :- [9745418](https://www.fixmystreet.com/report/9745418)
+- TMC - Defects - Other FW6  Surface problem, 7th July :- [9745415](https://www.fixmystreet.com/report/9745415)
 - Vehicle abandoned for months, 7th July :- [9745004](https://www.fixmystreet.com/report/9745004)
 - TMC - Defects - Vegetation problem, 7th July :- [9744945](https://www.fixmystreet.com/report/9744945)
 - This is a series of pot holes/rough road surface, causing cars to mount the grass verge to avoid, 7th July :- [9744686](https://www.fixmystreet.com/report/9744686)
@@ -21,13 +29,5 @@ permalink: /fix-my-street
 - Forgotten signs, 6th July :- [9743615](https://www.fixmystreet.com/report/9743615)
 - Several holes in middle, 6th July :- [9743087](https://www.fixmystreet.com/report/9743087)
 - The drains on Battledown Approach are clogged with debris - new leaf fall is sitting on old., 6th July :- [9743069](https://www.fixmystreet.com/report/9743069)
-- Flytipped bin bag + gardening waste, 6th July :- [9742427](https://www.fixmystreet.com/report/9742427)
-- Large gouge on pavement, 6th July :- [9742188](https://www.fixmystreet.com/report/9742188)
-- Blocking visibility on road/junction (Grass/verge) problem, 6th July :- [9742418](https://www.fixmystreet.com/report/9742418)
-- Loose, rattling drain cover, 6th July :- [9741863](https://www.fixmystreet.com/report/9741863)
-- A pothole in road problem, 6th July :- [9741966](https://www.fixmystreet.com/report/9741966)
-- TMC - Defects -other CW6 problem, 6th July :- [9741747](https://www.fixmystreet.com/report/9741747)
-- TMC - Defects - Vegetation problem, 6th July :- [9741737](https://www.fixmystreet.com/report/9741737)
-- A pothole in road problem, 6th July :- [9741731](https://www.fixmystreet.com/report/9741731)
 
 <!-- fix_marker ends -->
