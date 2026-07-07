@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Sign frame and sandbag left, 7th July :- [9750645](https://www.fixmystreet.com/report/9750645)
+- Ectopic growth of lime tree causing obstruction, 7th July :- [9750450](https://www.fixmystreet.com/report/9750450)
+- Second loose utility chamber cover causing loud clanging noise whenever vehicles pass, 7th July :- [9750388](https://www.fixmystreet.com/report/9750388)
 - Loose utility chamber cover causing loud clanging noise whenever vehicles pass, 7th July :- [9750362](https://www.fixmystreet.com/report/9750362)
 - Fly tipping, 7th July :- [9750298](https://www.fixmystreet.com/report/9750298)
 - Incomplete SHOCKING WORK!!, 7th July :- [9749699](https://www.fixmystreet.com/report/9749699)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Kerbs and Channels problem, 7th July :- [9748258](https://www.fixmystreet.com/report/9748258)
 - TMC - Defects - Footways Slabs problem, 7th July :- [9748256](https://www.fixmystreet.com/report/9748256)
 - TMC - Defects - Footways Slabs problem, 7th July :- [9748257](https://www.fixmystreet.com/report/9748257)
-- TMC - Defects - Covers, Gratings & Frames problem, 7th July :- [9748255](https://www.fixmystreet.com/report/9748255)
-- Pavement and walkway to road., 7th July :- [9747985](https://www.fixmystreet.com/report/9747985)
-- TMC - Defects -other CW6 problem, 7th July :- [9748036](https://www.fixmystreet.com/report/9748036)
 
 <!-- fix_marker ends -->
