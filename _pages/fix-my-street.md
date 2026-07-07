@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Loose utility chamber cover causing loud clanging noise whenever vehicles pass, 7th July :- [9750362](https://www.fixmystreet.com/report/9750362)
+- Fly tipping, 7th July :- [9750298](https://www.fixmystreet.com/report/9750298)
 - Incomplete SHOCKING WORK!!, 7th July :- [9749699](https://www.fixmystreet.com/report/9749699)
 - Dangerous obstruction protruding into highway., 7th July :- [9749353](https://www.fixmystreet.com/report/9749353)
 - Traffic lights changing to green and straight back to red causing major delays on london road eastbound., 7th July :- [9749322](https://www.fixmystreet.com/report/9749322)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Covers, Gratings & Frames problem, 7th July :- [9748255](https://www.fixmystreet.com/report/9748255)
 - Pavement and walkway to road., 7th July :- [9747985](https://www.fixmystreet.com/report/9747985)
 - TMC - Defects -other CW6 problem, 7th July :- [9748036](https://www.fixmystreet.com/report/9748036)
-- TMC - Defects - Vegetation problem, 7th July :- [9748035](https://www.fixmystreet.com/report/9748035)
-- TMC - Defects - Covers, Gratings & Frames problem, 7th July :- [9748033](https://www.fixmystreet.com/report/9748033)
 
 <!-- fix_marker ends -->

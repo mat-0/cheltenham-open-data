@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- 'Dangerous predator' groomed vulnerable women ([23 minutes ago](https://www.bbc.co.uk/news/articles/cly7v3z8pezo?at_medium=RSS&at_campaign=rss))
-- Amber heat alert as temperatures set to soar to 34C ([1 hours ago](https://www.bbc.co.uk/news/articles/cp366pnl3xdo?at_medium=RSS&at_campaign=rss))
-- Murdered hairdresser remembered through new salon ([2 hours ago](https://www.bbc.co.uk/news/videos/c20yenn04v2o?at_medium=RSS&at_campaign=rss))
-- Bereaved man says choir 'companionship' helped his grief ([12 hours ago](https://www.bbc.co.uk/news/articles/cd95g5p31wwo?at_medium=RSS&at_campaign=rss))
-- How work helped me recover after psychosis ([12 hours ago](https://www.bbc.co.uk/news/articles/cg7429yy811o?at_medium=RSS&at_campaign=rss))
-- Romance conman to appeal against repaying victim ([12 hours ago](https://www.bbc.co.uk/news/articles/c1dyykek46ko?at_medium=RSS&at_campaign=rss))
+- 'Dangerous predator' groomed vulnerable women ([2 hours ago](https://www.bbc.co.uk/news/articles/cly7v3z8pezo?at_medium=RSS&at_campaign=rss))
+- Amber heat alert as temperatures set to soar to 34C ([3 hours ago](https://www.bbc.co.uk/news/articles/cp366pnl3xdo?at_medium=RSS&at_campaign=rss))
+- Murdered hairdresser remembered through new salon ([3 hours ago](https://www.bbc.co.uk/news/videos/c20yenn04v2o?at_medium=RSS&at_campaign=rss))
+- Bereaved man says choir 'companionship' helped his grief ([13 hours ago](https://www.bbc.co.uk/news/articles/cd95g5p31wwo?at_medium=RSS&at_campaign=rss))
+- How work helped me recover after psychosis ([14 hours ago](https://www.bbc.co.uk/news/articles/cg7429yy811o?at_medium=RSS&at_campaign=rss))
+- Romance conman to appeal against repaying victim ([14 hours ago](https://www.bbc.co.uk/news/articles/c1dyykek46ko?at_medium=RSS&at_campaign=rss))
 - Twenty drivers fined after hard shoulder crash incident ([1 days ago](https://www.bbc.co.uk/news/articles/cx2333k4983o?at_medium=RSS&at_campaign=rss))
 - Date is set for police chief's misconduct hearing ([1 days ago](https://www.bbc.co.uk/news/articles/c04yyxylrwwo?at_medium=RSS&at_campaign=rss))
 - MP seeks help to tackle high rough sleeping rate ([1 days ago](https://www.bbc.co.uk/news/articles/c8e22jl14wzo?at_medium=RSS&at_campaign=rss))
