@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- This is a series of pot holes/rough road surface, causing cars to mount the grass verge to avoid, 7th July :- [9744686](https://www.fixmystreet.com/report/9744686)
 - The street light has stopped working again after being fixed recently, 6th July :- [9744372](https://www.fixmystreet.com/report/9744372)
 - Bags of rubbish by the side of the road, 6th July :- [9743918](https://www.fixmystreet.com/report/9743918)
 - Graffiti on electric box, 6th July :- [9743942](https://www.fixmystreet.com/report/9743942)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - A pothole in road problem, 6th July :- [9741731](https://www.fixmystreet.com/report/9741731)
 - Sign opposite recycling centre rusty/poor condition, 6th July :- [9741560](https://www.fixmystreet.com/report/9741560)
 - TMC - Defects - Vegetation problem, 6th July :- [9741734](https://www.fixmystreet.com/report/9741734)
-- TMC - Defects - Other FW6  Surface problem, 6th July :- [9741732](https://www.fixmystreet.com/report/9741732)
 
 <!-- fix_marker ends -->
