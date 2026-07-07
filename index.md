@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Tuesday, 07 July 2026
 
-- The average temperature today is 16.42˚C,
-- With highs of 18.25˚C and lows of 15.85˚C,
-- It may feel like 16.15˚C with broken clouds
+- The average temperature today is 16˚C,
+- With highs of 16.65˚C and lows of 14.91˚C,
+- It may feel like 15.85˚C with overcast clouds
 - The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1016hPa and humidity is 78%
+- The pressure is 1014hPa and humidity is 84%
 - The sun will rise at 03:57 and set at 20:28
 
 <!-- weather_marker ends -->
