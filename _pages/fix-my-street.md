@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Incomplete SHOCKING WORK!!, 7th July :- [9749699](https://www.fixmystreet.com/report/9749699)
+- Dangerous obstruction protruding into highway., 7th July :- [9749353](https://www.fixmystreet.com/report/9749353)
 - Traffic lights changing to green and straight back to red causing major delays on london road eastbound., 7th July :- [9749322](https://www.fixmystreet.com/report/9749322)
 - Junction of the Redding road and Branch road, 7th July :- [9749041](https://www.fixmystreet.com/report/9749041)
 - TMC - Defects - Vegetation problem, 7th July :- [9748865](https://www.fixmystreet.com/report/9748865)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -other CW6 problem, 7th July :- [9748036](https://www.fixmystreet.com/report/9748036)
 - TMC - Defects - Vegetation problem, 7th July :- [9748035](https://www.fixmystreet.com/report/9748035)
 - TMC - Defects - Covers, Gratings & Frames problem, 7th July :- [9748033](https://www.fixmystreet.com/report/9748033)
-- The branch is about 6ft long with leaf branches around 3ft wide. There is another ash tree next to that one too, which has had some bare branches for some time now, which suggests possible Ash Die-back. 3 photos attached. As there are a number of Ash trees of various maturity growing in this space, would you be able to arrange for someone from the Council to come and inspect the trees please, to ensure their continued safety? I was going to clear the broken branch but thought it should perhaps be inspected in situ first, as it's causing no immediate hazard/safety issue, having fallen in the thicket beside our allocated carparking area at the rear of Lilac Close., 7th July :- [9747817](https://www.fixmystreet.com/report/9747817)
-- TMC - Defects - Vegetation problem, 7th July :- [9747799](https://www.fixmystreet.com/report/9747799)
 
 <!-- fix_marker ends -->
