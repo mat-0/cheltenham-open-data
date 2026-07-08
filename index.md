@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Wednesday, 08 July 2026
 
-- The average temperature today is 23.03˚C,
-- With highs of 25.52˚C and lows of 22.61˚C,
-- It may feel like 23.01˚C with clear sky
-- The wind speed is 1.55m/s and visibility is 10000m
-- The pressure is 1020hPa and humidity is 62%
+- The average temperature today is 25.99˚C,
+- With highs of 27.06˚C and lows of 25.39˚C,
+- It may feel like 25.99˚C with clear sky
+- The wind speed is 0.45m/s and visibility is 10000m
+- The pressure is 1020hPa and humidity is 54%
 - The sun will rise at 03:58 and set at 20:27
 
 <!-- weather_marker ends -->
