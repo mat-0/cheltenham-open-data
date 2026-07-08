@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree blocking streetlight, 8th July :- [9755919](https://www.fixmystreet.com/report/9755919)
 - Hole in tarmac adjacent edge of slab with group of five rocking slabs beyond., 8th July :- [9755026](https://www.fixmystreet.com/report/9755026)
 - Fridge freezer on pavement and key boards outside my hosue, 8th July :- [9754969](https://www.fixmystreet.com/report/9754969)
 - Tree is damaged problem, 8th July :- [9755045](https://www.fixmystreet.com/report/9755045)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - 30 speed restriction sign obscured, 8th July :- [9753679](https://www.fixmystreet.com/report/9753679)
 - TMC - Defects -CW6 Potholes  problem, 8th July :- [9753381](https://www.fixmystreet.com/report/9753381)
 - Tree overgrown encroaching on property and BT lines, 8th July :- [9753147](https://www.fixmystreet.com/report/9753147)
-- Outside no.39 road subsidence, 8th July :- [9753094](https://www.fixmystreet.com/report/9753094)
 
 <!-- fix_marker ends -->
