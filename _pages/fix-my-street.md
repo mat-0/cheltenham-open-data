@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 30 speed restriction sign obscured, 8th July :- [9753679](https://www.fixmystreet.com/report/9753679)
+- TMC - Defects -CW6 Potholes  problem, 8th July :- [9753381](https://www.fixmystreet.com/report/9753381)
+- Tree overgrown encroaching on property and BT lines, 8th July :- [9753147](https://www.fixmystreet.com/report/9753147)
+- Outside no.39 road subsidence, 8th July :- [9753094](https://www.fixmystreet.com/report/9753094)
 - Give way sign painted only in 1 direction, 8th July :- [9752051](https://www.fixmystreet.com/report/9752051)
 - Several gas canisters on the verge, 8th July :- [9752816](https://www.fixmystreet.com/report/9752816)
 - TMC - Defects - Vegetation problem, 8th July :- [9752651](https://www.fixmystreet.com/report/9752651)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW10 Potholes problem, 8th July :- [9751831](https://www.fixmystreet.com/report/9751831)
 - TMC - Defects -CW10 Potholes problem, 8th July :- [9751830](https://www.fixmystreet.com/report/9751830)
 - TMC - Defects -CW10 Potholes problem, 8th July :- [9751833](https://www.fixmystreet.com/report/9751833)
-- TMC - Defects -CW10 Potholes problem, 8th July :- [9751832](https://www.fixmystreet.com/report/9751832)
-- TMC - Defects - Vegetation problem, 8th July :- [9751629](https://www.fixmystreet.com/report/9751629)
-- TMC - Defects - Vegetation problem, 8th July :- [9751627](https://www.fixmystreet.com/report/9751627)
-- TMC - Defects -CW6 Potholes  problem, 8th July :- [9751626](https://www.fixmystreet.com/report/9751626)
 
 <!-- fix_marker ends -->
