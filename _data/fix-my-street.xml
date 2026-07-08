@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:atom="http://www.w3.org/2005/Atom"
 >
 
@@ -14,6 +14,132 @@
 <language>en-gb</language>
 <atom:link href="https://www.fixmystreet.com/rss/l/51.897991,-2.071308/10" rel="self" type="application/rss+xml"/>
 
+<item>
+<title>TMC - Defects - Footways Slabs problem, 8th July</title>
+<link>https://www.fixmystreet.com/report/9751838</link>
+<description>Give and take  28day  please replace x1 broken sunken 900x600x20mm slab (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9751838&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9751838</guid>
+<pubDate>Wed, 08 Jul 2026 08:23:36 +0100</pubDate>
+<georss:point>51.8997561314547 -2.06317736854539</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 8th July</title>
+<link>https://www.fixmystreet.com/report/9751829</link>
+<description>CW Pothole 600mm x 500mm x 42mm &amp;#10;Temporary Closure 15min db &amp;#10;Outside Old Vicarage (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9751829&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9751829</guid>
+<pubDate>Wed, 08 Jul 2026 08:07:37 +0100</pubDate>
+<georss:point>51.8721551 -2.1417987</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 8th July</title>
+<link>https://www.fixmystreet.com/report/9751831</link>
+<description>CW Pothole 1000mm x 400mm x 40mm &amp;#10;Temporary Closure 15min db &amp;#10;Outside Old Vicarage (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9751831&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9751831</guid>
+<pubDate>Wed, 08 Jul 2026 08:07:37 +0100</pubDate>
+<georss:point>51.8721141 -2.1417487</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 8th July</title>
+<link>https://www.fixmystreet.com/report/9751830</link>
+<description>CW Pothole 400mm x 400mm x 40mm &amp;#10;Temporary Closure 15min db &amp;#10;Outside Old Vicarage (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9751830&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9751830</guid>
+<pubDate>Wed, 08 Jul 2026 08:07:37 +0100</pubDate>
+<georss:point>51.8721629 -2.1417868</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 8th July</title>
+<link>https://www.fixmystreet.com/report/9751833</link>
+<description>CW Pothole 600mm x 500mm x 42mm &amp;#10;Temporary Closure 15min db &amp;#10;Outside Old Vicarage (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9751833&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9751833</guid>
+<pubDate>Wed, 08 Jul 2026 08:07:37 +0100</pubDate>
+<georss:point>51.8721390628695 -2.14170165223991</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 8th July</title>
+<link>https://www.fixmystreet.com/report/9751832</link>
+<description>CW Pothole 500mm x 400mm x 41mm &amp;#10;Temporary Closure 15min db &amp;#10;Outside Old Vicarage (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9751832&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9751832</guid>
+<pubDate>Wed, 08 Jul 2026 08:07:37 +0100</pubDate>
+<georss:point>51.8721441103918 -2.14171604336971</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Vegetation problem, 8th July</title>
+<link>https://www.fixmystreet.com/report/9751629</link>
+<description>Give and take 28 day  please cut back overgrown tree branches growing from tree base back to boundary approx 3   metres high x2  meters  temporary footway closure (Overgrown Tree)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9751629&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Vegetation</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9751629</guid>
+<pubDate>Wed, 08 Jul 2026 07:55:58 +0100</pubDate>
+<georss:point>51.8924663 -2.06278049999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Vegetation problem, 8th July</title>
+<link>https://www.fixmystreet.com/report/9751627</link>
+<description>Give and take 28 day  please cut back overgrown tree branches growing from tree base back to boundary approx 2   metres high x2  meters  temporary footway closure (Overgrown Tree)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9751627&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Vegetation</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9751627</guid>
+<pubDate>Wed, 08 Jul 2026 07:55:58 +0100</pubDate>
+<georss:point>51.8925497 -2.0628877</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 8th July</title>
+<link>https://www.fixmystreet.com/report/9751626</link>
+<description>Road closure 28 day carriage way pothole approx 500x400x40mm  plus 2  NSD (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9751626&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9751626</guid>
+<pubDate>Wed, 08 Jul 2026 07:55:51 +0100</pubDate>
+<georss:point>51.8913412 -2.0659095</georss:point>
+</item>
+<item>
+<title>TMC - Defects -other CW10 problem, 8th July</title>
+<link>https://www.fixmystreet.com/report/9751623</link>
+<description>CW Pothole 3000mm x 400mm x 65mm&amp;#10;Traffic lights TM &amp;#10;///unite.bins.backtrack (CW10 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9751623&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -other CW10</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9751623</guid>
+<pubDate>Wed, 08 Jul 2026 07:39:47 +0100</pubDate>
+<georss:point>51.919005 -2.14101780000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -other CW10 problem, 8th July</title>
+<link>https://www.fixmystreet.com/report/9751622</link>
+<description>CW Pothole ENWD 2000mm x 400mm x 110mm&amp;#10;Traffic lights TM &amp;#10;///buzzing.violinist.eternity (CW10 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9751622&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -other CW10</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9751622</guid>
+<pubDate>Wed, 08 Jul 2026 07:39:46 +0100</pubDate>
+<georss:point>51.9189682 -2.14103629999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 8th July</title>
+<link>https://www.fixmystreet.com/report/9751619</link>
+<description>3 way traffic lights 28 day carriage way pothole 28 day approx 2300x1000x40mm stats required plus 9  NSD (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9751619&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9751619</guid>
+<pubDate>Wed, 08 Jul 2026 07:38:16 +0100</pubDate>
+<georss:point>51.890599 -2.05600099999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Footways Slabs problem, 8th July</title>
+<link>https://www.fixmystreet.com/report/9751385</link>
+<description>Give and take  28 days  plus temporary footway closure  please lift and relay x 2 raised  450x450x18mm slabs due to tree roots stats required number 2 (FW Rocking/Unstable Slab)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9751385&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9751385</guid>
+<pubDate>Wed, 08 Jul 2026 06:48:42 +0100</pubDate>
+<georss:point>51.9064543 -2.0771596</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Footways Slabs problem, 8th July</title>
+<link>https://www.fixmystreet.com/report/9751384</link>
+<description>Give and take  28 days  plus temporary footway closure  please lift and relay x 6 raised  450x450x18mm slabs due to tree roots stats required number 1 (FW Rocking/Unstable Slab)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9751384&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9751384</guid>
+<pubDate>Wed, 08 Jul 2026 06:48:42 +0100</pubDate>
+<georss:point>51.9064045 -2.07705030000001</georss:point>
+</item>
 <item>
 <title>Sign frame and sandbag left, 7th July</title>
 <link>https://www.fixmystreet.com/report/9750645</link>
@@ -67,132 +193,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/9749699</guid>
 <pubDate>Tue, 07 Jul 2026 17:51:43 +0100</pubDate>
 <georss:point>51.877532 -2.044264</georss:point>
-</item>
-<item>
-<title>Dangerous obstruction protruding into highway., 7th July</title>
-<link>https://www.fixmystreet.com/report/9749353</link>
-<description>A fence has been erected, at the pictured property on deep street. It has been built outside the property boundary, and is snagging the clothing of pedestrians at the Church Street end. It is clearly encroaching on the public thoroughfare as it comes partially past a street lamp on the pavement.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9749353.0.jpeg?a730ff28&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 15, Deep Street, Lynworth, Cheltenham, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9749353&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Obstruction by unpermitted skip, scaffolding, building material on pavement</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9749353</guid>
-<pubDate>Tue, 07 Jul 2026 16:48:38 +0100</pubDate>
-<georss:point>51.913512 -2.045701</georss:point>
-</item>
-<item>
-<title>Traffic lights changing to green and straight back to red causing major delays on london road eastbound., 7th July</title>
-<link>https://www.fixmystreet.com/report/9749322</link>
-<description>The traffic lights on the junction of London Road and Hales Road&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 4, Old Bath Road, Ewens Farm, Cheltenham, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9749322&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Green or amber traffic light is not working</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9749322</guid>
-<pubDate>Tue, 07 Jul 2026 16:43:24 +0100</pubDate>
-<georss:point>51.893707 -2.064518</georss:point>
-</item>
-<item>
-<title>Junction of the Redding road and Branch road, 7th July</title>
-<link>https://www.fixmystreet.com/report/9749041</link>
-<description>This sign replaced a black and white sign stating Branch lane.Highways have stated this is not a private road it is an unadopted road.The sign was put up several years ago without notifying and residents and was not registered or authorised and should be removed and replaced with an official sign.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9749041.0.jpeg?280a6a93&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): The Reddings, Hatherley, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9749041&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Street nameplates</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9749041</guid>
-<pubDate>Tue, 07 Jul 2026 16:00:51 +0100</pubDate>
-<georss:point>51.886747 -2.138724</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Vegetation problem, 7th July</title>
-<link>https://www.fixmystreet.com/report/9748865</link>
-<description>ENWD&amp;#10;Overgrown hedge obscuring / overhanging FW&amp;#10;Pedestrians seen stepping into CW to get around obstruction &amp;#10;Please cut back to boundary &amp;#10;30m&amp;#10;Stop and go. (Overgrown Hedge)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9748865&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Vegetation</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9748865</guid>
-<pubDate>Tue, 07 Jul 2026 15:27:21 +0100</pubDate>
-<georss:point>51.8467526497269 -2.16165765128438</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Vegetation problem, 7th July</title>
-<link>https://www.fixmystreet.com/report/9748863</link>
-<description>ENWD&amp;#10;Overgrown hedge obscuring / overhanging FW&amp;#10;Pedestrians seen stepping into CW to get around obstruction &amp;#10;Please cut back to boundary &amp;#10;30m approx&amp;#10;Standard TM with temp FW closure (Overgrown Hedge)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9748863&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Vegetation</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9748863</guid>
-<pubDate>Tue, 07 Jul 2026 15:24:34 +0100</pubDate>
-<georss:point>51.8465652174842 -2.16117122169683</georss:point>
-</item>
-<item>
-<title>Vehicle blocking pathway, 7th July</title>
-<link>https://www.fixmystreet.com/report/9748626</link>
-<description>404 Gloucester Road, Cheltenham, people with or without wheelchair or buggy is forced onto the road, Vehicle Reg given and i believe deserves a penalty for inconsideration to other users... pigheaded..&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9748626.0.jpeg?3c7c36f7&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 309, Gloucester Road, Warden Hill, Cheltenham, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9748626&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Causing obstruction to pavement/road (Grass/verge)</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9748626</guid>
-<pubDate>Tue, 07 Jul 2026 14:57:55 +0100</pubDate>
-<georss:point>51.894921 -2.106773</georss:point>
-</item>
-<item>
-<title>Overgrown grass verges, 7th July</title>
-<link>https://www.fixmystreet.com/report/9748558</link>
-<description>Highgrove Estate Churchdown GL3 1 overgrown grass verges&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Essex Close, Churchdown, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9748558&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Blocking visibility on road/junction (Grass/verge)</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9748558</guid>
-<pubDate>Tue, 07 Jul 2026 14:47:54 +0100</pubDate>
-<georss:point>51.892706 -2.189565</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other problem, 7th July</title>
-<link>https://www.fixmystreet.com/report/9748475</link>
-<description>Debris (Tree Limb Remains)&amp;#10;Please Clear&amp;#10;Standard TM (Debris/Obstruction in CW)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9748475&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9748475</guid>
-<pubDate>Tue, 07 Jul 2026 14:21:27 +0100</pubDate>
-<georss:point>51.9495076815449 -1.97563449485411</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Vegetation problem, 7th July</title>
-<link>https://www.fixmystreet.com/report/9748471</link>
-<description>Arbs Team Required&amp;#10;Damaged Tree Limbs&amp;#10;Please cutback to safe position.&amp;#10;Standard TM - Footway Closure - Alternative Footway Available (Damaged Tree)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9748471&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Vegetation</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9748471</guid>
-<pubDate>Tue, 07 Jul 2026 14:11:02 +0100</pubDate>
-<georss:point>51.9495336252106 -1.97564489077777</georss:point>
-</item>
-<item>
-<title>There are approximately 32 pot holes on north road east all the way down. Coming from Reddings road which have 56, 7th July</title>
-<link>https://www.fixmystreet.com/report/9748202</link>
-<description>The dangerous potholes on Redding’s road and subsequently on North road east which are 97 in total are a disgrace and very dangerous to drivers,cyclists and pedestrians. Cllr Micheal Collins that is supposed to represent The Redding’s is unwilling to bring this to your attention&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 2, North Road East, Hatherley, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9748202&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9748202</guid>
-<pubDate>Tue, 07 Jul 2026 13:58:57 +0100</pubDate>
-<georss:point>51.890183 -2.133161</georss:point>
-</item>
-<item>
-<title>Over the hump in station road bishops cleeve, 7th July</title>
-<link>https://www.fixmystreet.com/report/9748175</link>
-<description>The hump is extremely dangerous causes great danger to drivers with it being broken&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 55,57, Station Road, Bishop&#39;s Cleeve, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9748175&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9748175</guid>
-<pubDate>Tue, 07 Jul 2026 13:55:03 +0100</pubDate>
-<georss:point>51.949047 -2.056824</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Kerbs and Channels problem, 7th July</title>
-<link>https://www.fixmystreet.com/report/9748258</link>
-<description>Give and take  28 days  please repair x1 chipped kerb stone with concrete fillet 150x100x40mm 1 (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9748258&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Kerbs and Channels</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9748258</guid>
-<pubDate>Tue, 07 Jul 2026 13:47:22 +0100</pubDate>
-<georss:point>51.9054526095691 -2.09859214991581</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Footways Slabs problem, 7th July</title>
-<link>https://www.fixmystreet.com/report/9748256</link>
-<description>Give and take  28 days  please replace x1 900x600x20mm broken slab number 1 (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9748256&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Footways Slabs</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9748256</guid>
-<pubDate>Tue, 07 Jul 2026 13:47:08 +0100</pubDate>
-<georss:point>51.9057559 -2.09831669999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Footways Slabs problem, 7th July</title>
-<link>https://www.fixmystreet.com/report/9748257</link>
-<description>Give and take  28 days  please replace x1 900x600x20mm broken slab number 2 (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9748257&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Footways Slabs</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9748257</guid>
-<pubDate>Tue, 07 Jul 2026 13:47:08 +0100</pubDate>
-<georss:point>51.9057409564798 -2.09831175117184</georss:point>
 </item>
 </channel>
 </rss>
