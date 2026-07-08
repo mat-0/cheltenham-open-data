@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Hole in tarmac adjacent edge of slab with group of five rocking slabs beyond., 8th July :- [9755026](https://www.fixmystreet.com/report/9755026)
+- Fridge freezer on pavement and key boards outside my hosue, 8th July :- [9754969](https://www.fixmystreet.com/report/9754969)
+- Tree is damaged problem, 8th July :- [9755045](https://www.fixmystreet.com/report/9755045)
+- Willow tree grown excessively, 8th July :- [9754673](https://www.fixmystreet.com/report/9754673)
 - Roadside barriers, cones and road closed sign left on verge getting covered by growth which will make cutting difficult, 8th July :- [9754397](https://www.fixmystreet.com/report/9754397)
 - TMC - Defects - Vegetation problem, 8th July :- [9754435](https://www.fixmystreet.com/report/9754435)
 - TMC - Defects - Other FW6  Surface problem, 8th July :- [9754431](https://www.fixmystreet.com/report/9754431)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 8th July :- [9753381](https://www.fixmystreet.com/report/9753381)
 - Tree overgrown encroaching on property and BT lines, 8th July :- [9753147](https://www.fixmystreet.com/report/9753147)
 - Outside no.39 road subsidence, 8th July :- [9753094](https://www.fixmystreet.com/report/9753094)
-- Give way sign painted only in 1 direction, 8th July :- [9752051](https://www.fixmystreet.com/report/9752051)
-- Several gas canisters on the verge, 8th July :- [9752816](https://www.fixmystreet.com/report/9752816)
-- TMC - Defects - Vegetation problem, 8th July :- [9752650](https://www.fixmystreet.com/report/9752650)
-- TMC - Defects - Vegetation problem, 8th July :- [9752651](https://www.fixmystreet.com/report/9752651)
 
 <!-- fix_marker ends -->
