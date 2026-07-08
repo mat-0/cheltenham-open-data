@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipping, 8th July :- [9756352](https://www.fixmystreet.com/report/9756352)
+- Outside 8/9 Lansdown Terrace, MalvernRd., 8th July :- [9756305](https://www.fixmystreet.com/report/9756305)
 - Tree blocking streetlight, 8th July :- [9755919](https://www.fixmystreet.com/report/9755919)
 - Hole in tarmac adjacent edge of slab with group of five rocking slabs beyond., 8th July :- [9755026](https://www.fixmystreet.com/report/9755026)
 - Fridge freezer on pavement and key boards outside my hosue, 8th July :- [9754969](https://www.fixmystreet.com/report/9754969)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 8th July :- [9754023](https://www.fixmystreet.com/report/9754023)
 - TMC - Defects - Covers, Gratings & Frames problem, 8th July :- [9753851](https://www.fixmystreet.com/report/9753851)
 - 30 speed restriction sign obscured, 8th July :- [9753679](https://www.fixmystreet.com/report/9753679)
-- TMC - Defects -CW6 Potholes  problem, 8th July :- [9753381](https://www.fixmystreet.com/report/9753381)
-- Tree overgrown encroaching on property and BT lines, 8th July :- [9753147](https://www.fixmystreet.com/report/9753147)
 
 <!-- fix_marker ends -->
