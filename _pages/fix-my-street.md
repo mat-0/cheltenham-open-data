@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Bus stop sign is hidden again by surrounding vegetation, 8th July :- [9756590](https://www.fixmystreet.com/report/9756590)
+- Faded signs, 8th July :- [9756463](https://www.fixmystreet.com/report/9756463)
 - Flytipping, 8th July :- [9756352](https://www.fixmystreet.com/report/9756352)
 - Outside 8/9 Lansdown Terrace, MalvernRd., 8th July :- [9756305](https://www.fixmystreet.com/report/9756305)
 - Tree blocking streetlight, 8th July :- [9755919](https://www.fixmystreet.com/report/9755919)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Incursion of Ragwort on pavement, 8th July :- [9754013](https://www.fixmystreet.com/report/9754013)
 - TMC - Defects - Vegetation problem, 8th July :- [9754036](https://www.fixmystreet.com/report/9754036)
 - TMC - Defects - Vegetation problem, 8th July :- [9754023](https://www.fixmystreet.com/report/9754023)
-- TMC - Defects - Covers, Gratings & Frames problem, 8th July :- [9753851](https://www.fixmystreet.com/report/9753851)
-- 30 speed restriction sign obscured, 8th July :- [9753679](https://www.fixmystreet.com/report/9753679)
 
 <!-- fix_marker ends -->
