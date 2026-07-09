@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Thursday, 09 July 2026
 
-- The average temperature today is 15.38˚C,
-- With highs of 17.05˚C and lows of 15.29˚C,
-- It may feel like 15.38˚C with clear sky
-- The wind speed is 0.7m/s and visibility is 10000m
-- The pressure is 1017hPa and humidity is 92%
+- The average temperature today is 20˚C,
+- With highs of 21.09˚C and lows of 19.26˚C,
+- It may feel like 20.2˚C with clear sky
+- The wind speed is 0.45m/s and visibility is 10000m
+- The pressure is 1018hPa and humidity is 82%
 - The sun will rise at 03:59 and set at 20:26
 
 <!-- weather_marker ends -->
