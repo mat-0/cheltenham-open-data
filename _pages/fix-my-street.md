@@ -26,8 +26,8 @@ permalink: /fix-my-street
 - TMC - Defects - Covers, Gratings & Frames problem, 9th July :- [9759752](https://www.fixmystreet.com/report/9759752)
 - TMC - Defects - Signs & Street Furniture problem, 9th July :- [9759751](https://www.fixmystreet.com/report/9759751)
 - TMC - Defects - Vegetation problem, 9th July :- [9759545](https://www.fixmystreet.com/report/9759545)
-- TMC - Defects -CW10 Potholes problem, 9th July :- [9759541](https://www.fixmystreet.com/report/9759541)
 - TMC - Defects -CW10 Potholes problem, 9th July :- [9759540](https://www.fixmystreet.com/report/9759540)
+- TMC - Defects -CW10 Potholes problem, 9th July :- [9759541](https://www.fixmystreet.com/report/9759541)
 - TMC - Defects -CW10 Potholes problem, 9th July :- [9759538](https://www.fixmystreet.com/report/9759538)
 
 <!-- fix_marker ends -->
