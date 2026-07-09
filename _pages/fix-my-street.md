@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Cardboard fly tipping, 9th July :- [9757391](https://www.fixmystreet.com/report/9757391)
 - Bus stop sign is hidden again by surrounding vegetation, 8th July :- [9756590](https://www.fixmystreet.com/report/9756590)
 - Faded signs, 8th July :- [9756463](https://www.fixmystreet.com/report/9756463)
 - Flytipping, 8th July :- [9756352](https://www.fixmystreet.com/report/9756352)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Broken tree branches, 8th July :- [9754080](https://www.fixmystreet.com/report/9754080)
 - Incursion of Ragwort on pavement, 8th July :- [9754013](https://www.fixmystreet.com/report/9754013)
 - TMC - Defects - Vegetation problem, 8th July :- [9754036](https://www.fixmystreet.com/report/9754036)
-- TMC - Defects - Vegetation problem, 8th July :- [9754023](https://www.fixmystreet.com/report/9754023)
 
 <!-- fix_marker ends -->
