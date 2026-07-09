@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street light not working, 9th July :- [9762746](https://www.fixmystreet.com/report/9762746)
+- Parking on a public grass verge owned by council, 9th July :- [9762573](https://www.fixmystreet.com/report/9762573)
+- Overgrown tree by whitemarsh close, 9th July :- [9762520](https://www.fixmystreet.com/report/9762520)
 - Road edge has crumbled away now a large area gone, 9th July :- [9761585](https://www.fixmystreet.com/report/9761585)
 - Fly tipped bricks and a table, 9th July :- [9761481](https://www.fixmystreet.com/report/9761481)
 - Various potholes again, 9th July :- [9761524](https://www.fixmystreet.com/report/9761524)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Covers, Gratings & Frames problem, 9th July :- [9759752](https://www.fixmystreet.com/report/9759752)
 - TMC - Defects - Signs & Street Furniture problem, 9th July :- [9759751](https://www.fixmystreet.com/report/9759751)
 - TMC - Defects - Vegetation problem, 9th July :- [9759545](https://www.fixmystreet.com/report/9759545)
-- TMC - Defects -CW10 Potholes problem, 9th July :- [9759540](https://www.fixmystreet.com/report/9759540)
-- TMC - Defects -CW10 Potholes problem, 9th July :- [9759541](https://www.fixmystreet.com/report/9759541)
-- TMC - Defects -CW10 Potholes problem, 9th July :- [9759538](https://www.fixmystreet.com/report/9759538)
 
 <!-- fix_marker ends -->
