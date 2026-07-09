@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Damage to landowners hedge caused by contractor, 9th July :- [9761342](https://www.fixmystreet.com/report/9761342)
+- Tree is damaged problem, 9th July :- [9761178](https://www.fixmystreet.com/report/9761178)
+- Light sensor is not detecting vehicles problem, 9th July :- [9761038](https://www.fixmystreet.com/report/9761038)
+- Kerb damaging car tyres, 9th July :- [9760873](https://www.fixmystreet.com/report/9760873)
 - Rocking slab causing trip hazard, 9th July :- [9760254](https://www.fixmystreet.com/report/9760254)
 - TMC - Defects - Vegetation problem, 9th July :- [9760318](https://www.fixmystreet.com/report/9760318)
 - Cheltenham rd by badhams chemist, 9th July :- [9760119](https://www.fixmystreet.com/report/9760119)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 9th July :- [9759536](https://www.fixmystreet.com/report/9759536)
 - TMC - Defects -other CW6 problem, 9th July :- [9759534](https://www.fixmystreet.com/report/9759534)
 - TMC - Defects - Vegetation problem, 9th July :- [9759263](https://www.fixmystreet.com/report/9759263)
-- Dead tree Lakeside Primary School, 9th July :- [9759048](https://www.fixmystreet.com/report/9759048)
-- Multiple areas of damaged tarmac, 9th July :- [9758921](https://www.fixmystreet.com/report/9758921)
-- Deep but small hole on repair, 9th July :- [9758889](https://www.fixmystreet.com/report/9758889)
-- Litter and dog excrement all along alstone lane, kids walk to and from school along this road, the problem seems to be getting worse along this road., 9th July :- [9758809](https://www.fixmystreet.com/report/9758809)
 
 <!-- fix_marker ends -->
