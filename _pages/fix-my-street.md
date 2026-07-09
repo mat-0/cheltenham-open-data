@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Rocking slab causing trip hazard, 9th July :- [9760254](https://www.fixmystreet.com/report/9760254)
+- TMC - Defects - Vegetation problem, 9th July :- [9760318](https://www.fixmystreet.com/report/9760318)
+- Cheltenham rd by badhams chemist, 9th July :- [9760119](https://www.fixmystreet.com/report/9760119)
+- TMC - Defects - Vegetation problem, 9th July :- [9760137](https://www.fixmystreet.com/report/9760137)
 - TMC - Defects -CW6 Potholes  problem, 9th July :- [9759975](https://www.fixmystreet.com/report/9759975)
 - TMC - Defects -CW6 Potholes  problem, 9th July :- [9759976](https://www.fixmystreet.com/report/9759976)
 - The drain is blocked problem, 9th July :- [9759748](https://www.fixmystreet.com/report/9759748)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Multiple areas of damaged tarmac, 9th July :- [9758921](https://www.fixmystreet.com/report/9758921)
 - Deep but small hole on repair, 9th July :- [9758889](https://www.fixmystreet.com/report/9758889)
 - Litter and dog excrement all along alstone lane, kids walk to and from school along this road, the problem seems to be getting worse along this road., 9th July :- [9758809](https://www.fixmystreet.com/report/9758809)
-- Tree is damaged problem, 9th July :- [9759016](https://www.fixmystreet.com/report/9759016)
-- Overgrown verge on corner blocking view of oncoming traffic, 9th July :- [9758775](https://www.fixmystreet.com/report/9758775)
-- TMC - Defects - Other problem, 9th July :- [9758793](https://www.fixmystreet.com/report/9758793)
-- TMC - Defects - Vegetation problem, 9th July :- [9758537](https://www.fixmystreet.com/report/9758537)
 
 <!-- fix_marker ends -->
