@@ -9,7 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Sweetcorn crop planted over footpath, 10th July :- [9766683](https://www.fixmystreet.com/report/9766683)
 - Sunken pavement with pipe exposed, 10th July :- [9766357](https://www.fixmystreet.com/report/9766357)
+- TMC - Defects - Other problem, 10th July :- [9766376](https://www.fixmystreet.com/report/9766376)
+- TMC - Defects - Kerbs and Channels problem, 10th July :- [9766374](https://www.fixmystreet.com/report/9766374)
+- TMC - Defects - Covers, Gratings & Frames problem, 10th July :- [9766372](https://www.fixmystreet.com/report/9766372)
 - Makings of a potential sinkhole according to builders working on our property, 10th July :- [9766202](https://www.fixmystreet.com/report/9766202)
 - A pothole in pavement problem, 10th July :- [9766183](https://www.fixmystreet.com/report/9766183)
 - Pothole on alleyway, already caused elderly resident to fall and injure face., 10th July :- [9766103](https://www.fixmystreet.com/report/9766103)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Blocked gulley, previously reported 04/09/25!, 10th July :- [9764447](https://www.fixmystreet.com/report/9764447)
 - I reported this issue previously, received an email to say the issue has been fixed but I am farid to say it has mot calling into quetsion the integrity of the contractor or the reliability of the fix., 10th July :- [9764119](https://www.fixmystreet.com/report/9764119)
 - TMC - Defects -CW6 Potholes  problem, 10th July :- [9763930](https://www.fixmystreet.com/report/9763930)
-- TMC - Defects -CW6 Potholes  problem, 10th July :- [9763929](https://www.fixmystreet.com/report/9763929)
-- TMC - Defects -CW6 Potholes  problem, 10th July :- [9763928](https://www.fixmystreet.com/report/9763928)
-- TMC - Defects - Vegetation problem, 10th July :- [9763927](https://www.fixmystreet.com/report/9763927)
-- Brambles obscuring pavement and road sign, 10th July :- [9763345](https://www.fixmystreet.com/report/9763345)
 
 <!-- fix_marker ends -->
