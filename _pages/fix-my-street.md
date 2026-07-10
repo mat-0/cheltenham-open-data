@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Holes formed in previous road repair!!! Multiple deep holes as a result of sinkage below surface, 10th July :- [9765484](https://www.fixmystreet.com/report/9765484)
 - Overgrown footpath, 10th July :- [9764872](https://www.fixmystreet.com/report/9764872)
 - Heritage road sign needs cleaning and covered spine removing, 10th July :- [9764732](https://www.fixmystreet.com/report/9764732)
 - Loose / sunken utility cover in road. HGV's hitting this causing properties to shake, 10th July :- [9764492](https://www.fixmystreet.com/report/9764492)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Road edge has crumbled away now a large area gone, 9th July :- [9761585](https://www.fixmystreet.com/report/9761585)
 - Fly tipped bricks and a table, 9th July :- [9761481](https://www.fixmystreet.com/report/9761481)
 - Various potholes again, 9th July :- [9761524](https://www.fixmystreet.com/report/9761524)
-- Damage to landowners hedge caused by contractor, 9th July :- [9761342](https://www.fixmystreet.com/report/9761342)
 
 <!-- fix_marker ends -->
