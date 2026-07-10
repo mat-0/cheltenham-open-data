@@ -9,6 +9,17 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Overgrown footpath, 10th July :- [9764872](https://www.fixmystreet.com/report/9764872)
+- Heritage road sign needs cleaning and covered spine removing, 10th July :- [9764732](https://www.fixmystreet.com/report/9764732)
+- Loose / sunken utility cover in road. HGV's hitting this causing properties to shake, 10th July :- [9764492](https://www.fixmystreet.com/report/9764492)
+- TMC - Defects - Vegetation problem, 10th July :- [9764657](https://www.fixmystreet.com/report/9764657)
+- Kerbstone broken exposing gaping hole to sewer., 10th July :- [9764454](https://www.fixmystreet.com/report/9764454)
+- Blocked gulley, previously reported 04/09/25!, 10th July :- [9764447](https://www.fixmystreet.com/report/9764447)
+- I reported this issue previously, received an email to say the issue has been fixed but I am farid to say it has mot calling into quetsion the integrity of the contractor or the reliability of the fix., 10th July :- [9764119](https://www.fixmystreet.com/report/9764119)
+- TMC - Defects -CW6 Potholes  problem, 10th July :- [9763930](https://www.fixmystreet.com/report/9763930)
+- TMC - Defects -CW6 Potholes  problem, 10th July :- [9763929](https://www.fixmystreet.com/report/9763929)
+- TMC - Defects -CW6 Potholes  problem, 10th July :- [9763928](https://www.fixmystreet.com/report/9763928)
+- TMC - Defects - Vegetation problem, 10th July :- [9763927](https://www.fixmystreet.com/report/9763927)
 - Brambles obscuring pavement and road sign, 10th July :- [9763345](https://www.fixmystreet.com/report/9763345)
 - TMC - Defects - Fences & Barriers problem, 10th July :- [9763339](https://www.fixmystreet.com/report/9763339)
 - Street light not working, 9th July :- [9762746](https://www.fixmystreet.com/report/9762746)
@@ -18,16 +29,5 @@ permalink: /fix-my-street
 - Fly tipped bricks and a table, 9th July :- [9761481](https://www.fixmystreet.com/report/9761481)
 - Various potholes again, 9th July :- [9761524](https://www.fixmystreet.com/report/9761524)
 - Damage to landowners hedge caused by contractor, 9th July :- [9761342](https://www.fixmystreet.com/report/9761342)
-- Tree is damaged problem, 9th July :- [9761178](https://www.fixmystreet.com/report/9761178)
-- Light sensor is not detecting vehicles problem, 9th July :- [9761038](https://www.fixmystreet.com/report/9761038)
-- Kerb damaging car tyres, 9th July :- [9760873](https://www.fixmystreet.com/report/9760873)
-- Rocking slab causing trip hazard, 9th July :- [9760254](https://www.fixmystreet.com/report/9760254)
-- TMC - Defects - Vegetation problem, 9th July :- [9760318](https://www.fixmystreet.com/report/9760318)
-- Cheltenham rd by badhams chemist, 9th July :- [9760119](https://www.fixmystreet.com/report/9760119)
-- TMC - Defects - Vegetation problem, 9th July :- [9760137](https://www.fixmystreet.com/report/9760137)
-- TMC - Defects -CW6 Potholes  problem, 9th July :- [9759975](https://www.fixmystreet.com/report/9759975)
-- TMC - Defects -CW6 Potholes  problem, 9th July :- [9759976](https://www.fixmystreet.com/report/9759976)
-- The drain is blocked problem, 9th July :- [9759748](https://www.fixmystreet.com/report/9759748)
-- TMC - Defects - Covers, Gratings & Frames problem, 9th July :- [9759752](https://www.fixmystreet.com/report/9759752)
 
 <!-- fix_marker ends -->
