@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- School bushes and trees, 10th July :- [9767722](https://www.fixmystreet.com/report/9767722)
 - Pothole, 10th July :- [9767343](https://www.fixmystreet.com/report/9767343)
 - Overgrown vegetation, 10th July :- [9767332](https://www.fixmystreet.com/report/9767332)
 - Sweetcorn crop planted over footpath, 10th July :- [9766683](https://www.fixmystreet.com/report/9766683)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Loose / sunken utility cover in road. HGV's hitting this causing properties to shake, 10th July :- [9764492](https://www.fixmystreet.com/report/9764492)
 - TMC - Defects - Vegetation problem, 10th July :- [9764657](https://www.fixmystreet.com/report/9764657)
 - Kerbstone broken exposing gaping hole to sewer., 10th July :- [9764454](https://www.fixmystreet.com/report/9764454)
-- Blocked gulley, previously reported 04/09/25!, 10th July :- [9764447](https://www.fixmystreet.com/report/9764447)
 
 <!-- fix_marker ends -->
