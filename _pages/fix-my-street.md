@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Graffiti on windows, 10th July :- [9768103](https://www.fixmystreet.com/report/9768103)
+- Storm drain blocked by construction at Cleeve school, 10th July :- [9767978](https://www.fixmystreet.com/report/9767978)
 - School bushes and trees, 10th July :- [9767722](https://www.fixmystreet.com/report/9767722)
 - Pothole, 10th July :- [9767343](https://www.fixmystreet.com/report/9767343)
 - Overgrown vegetation, 10th July :- [9767332](https://www.fixmystreet.com/report/9767332)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Overgrown footpath, 10th July :- [9764872](https://www.fixmystreet.com/report/9764872)
 - Heritage road sign needs cleaning and covered spine removing, 10th July :- [9764732](https://www.fixmystreet.com/report/9764732)
 - Loose / sunken utility cover in road. HGV's hitting this causing properties to shake, 10th July :- [9764492](https://www.fixmystreet.com/report/9764492)
-- TMC - Defects - Vegetation problem, 10th July :- [9764657](https://www.fixmystreet.com/report/9764657)
-- Kerbstone broken exposing gaping hole to sewer., 10th July :- [9764454](https://www.fixmystreet.com/report/9764454)
 
 <!-- fix_marker ends -->
