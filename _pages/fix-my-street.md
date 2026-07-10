@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Brambles obscuring pavement and road sign, 10th July :- [9763345](https://www.fixmystreet.com/report/9763345)
+- TMC - Defects - Fences & Barriers problem, 10th July :- [9763339](https://www.fixmystreet.com/report/9763339)
 - Street light not working, 9th July :- [9762746](https://www.fixmystreet.com/report/9762746)
 - Parking on a public grass verge owned by council, 9th July :- [9762573](https://www.fixmystreet.com/report/9762573)
 - Overgrown tree by whitemarsh close, 9th July :- [9762520](https://www.fixmystreet.com/report/9762520)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 9th July :- [9759976](https://www.fixmystreet.com/report/9759976)
 - The drain is blocked problem, 9th July :- [9759748](https://www.fixmystreet.com/report/9759748)
 - TMC - Defects - Covers, Gratings & Frames problem, 9th July :- [9759752](https://www.fixmystreet.com/report/9759752)
-- TMC - Defects - Signs & Street Furniture problem, 9th July :- [9759751](https://www.fixmystreet.com/report/9759751)
-- TMC - Defects - Vegetation problem, 9th July :- [9759545](https://www.fixmystreet.com/report/9759545)
 
 <!-- fix_marker ends -->
