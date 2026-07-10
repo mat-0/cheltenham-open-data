@@ -9,6 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Sunken pavement with pipe exposed, 10th July :- [9766357](https://www.fixmystreet.com/report/9766357)
+- Makings of a potential sinkhole according to builders working on our property, 10th July :- [9766202](https://www.fixmystreet.com/report/9766202)
+- A pothole in pavement problem, 10th July :- [9766183](https://www.fixmystreet.com/report/9766183)
+- Pothole on alleyway, already caused elderly resident to fall and injure face., 10th July :- [9766103](https://www.fixmystreet.com/report/9766103)
+- Grass verge has never been cut this year, 10th July :- [9766004](https://www.fixmystreet.com/report/9766004)
+- The pedestrian button box has fallen off the post. It was hanging on by wires only now fixed in place with zip ties., 10th July :- [9765985](https://www.fixmystreet.com/report/9765985)
+- Trees are completely obscuring the traffic light., 10th July :- [9765983](https://www.fixmystreet.com/report/9765983)
 - Holes formed in previous road repair!!! Multiple deep holes as a result of sinkage below surface, 10th July :- [9765484](https://www.fixmystreet.com/report/9765484)
 - Overgrown footpath, 10th July :- [9764872](https://www.fixmystreet.com/report/9764872)
 - Heritage road sign needs cleaning and covered spine removing, 10th July :- [9764732](https://www.fixmystreet.com/report/9764732)
@@ -22,12 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 10th July :- [9763928](https://www.fixmystreet.com/report/9763928)
 - TMC - Defects - Vegetation problem, 10th July :- [9763927](https://www.fixmystreet.com/report/9763927)
 - Brambles obscuring pavement and road sign, 10th July :- [9763345](https://www.fixmystreet.com/report/9763345)
-- TMC - Defects - Fences & Barriers problem, 10th July :- [9763339](https://www.fixmystreet.com/report/9763339)
-- Street light not working, 9th July :- [9762746](https://www.fixmystreet.com/report/9762746)
-- Parking on a public grass verge owned by council, 9th July :- [9762573](https://www.fixmystreet.com/report/9762573)
-- Overgrown tree by whitemarsh close, 9th July :- [9762520](https://www.fixmystreet.com/report/9762520)
-- Road edge has crumbled away now a large area gone, 9th July :- [9761585](https://www.fixmystreet.com/report/9761585)
-- Fly tipped bricks and a table, 9th July :- [9761481](https://www.fixmystreet.com/report/9761481)
-- Various potholes again, 9th July :- [9761524](https://www.fixmystreet.com/report/9761524)
 
 <!-- fix_marker ends -->

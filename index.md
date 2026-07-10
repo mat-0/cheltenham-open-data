@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Friday, 10 July 2026
 
-- The average temperature today is 31.8˚C,
-- With highs of 32.61˚C and lows of 30.85˚C,
-- It may feel like 32.35˚C with broken clouds
-- The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 1016hPa and humidity is 42%
+- The average temperature today is 34.23˚C,
+- With highs of 35.38˚C and lows of 33.62˚C,
+- It may feel like 34.61˚C with clear sky
+- The wind speed is 1.79m/s and visibility is 10000m
+- The pressure is 1016hPa and humidity is 35%
 - The sun will rise at 04:00 and set at 20:26
 
 <!-- weather_marker ends -->
