@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole, 10th July :- [9767343](https://www.fixmystreet.com/report/9767343)
+- Overgrown vegetation, 10th July :- [9767332](https://www.fixmystreet.com/report/9767332)
 - Sweetcorn crop planted over footpath, 10th July :- [9766683](https://www.fixmystreet.com/report/9766683)
 - Sunken pavement with pipe exposed, 10th July :- [9766357](https://www.fixmystreet.com/report/9766357)
 - TMC - Defects - Other problem, 10th July :- [9766376](https://www.fixmystreet.com/report/9766376)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 10th July :- [9764657](https://www.fixmystreet.com/report/9764657)
 - Kerbstone broken exposing gaping hole to sewer., 10th July :- [9764454](https://www.fixmystreet.com/report/9764454)
 - Blocked gulley, previously reported 04/09/25!, 10th July :- [9764447](https://www.fixmystreet.com/report/9764447)
-- I reported this issue previously, received an email to say the issue has been fixed but I am farid to say it has mot calling into quetsion the integrity of the contractor or the reliability of the fix., 10th July :- [9764119](https://www.fixmystreet.com/report/9764119)
-- TMC - Defects -CW6 Potholes  problem, 10th July :- [9763930](https://www.fixmystreet.com/report/9763930)
 
 <!-- fix_marker ends -->
