@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fly tipping of fridge freezer and some tiles and guttering, 11th July :- [9771284](https://www.fixmystreet.com/report/9771284)
+- Someone think this was fun, 11th July :- [9771190](https://www.fixmystreet.com/report/9771190)
 - Street sweeper misses detritus, 11th July :- [9770036](https://www.fixmystreet.com/report/9770036)
 - Deep hole where tarmac has melted, 11th July :- [9770011](https://www.fixmystreet.com/report/9770011)
 - The car in the picture was in a road traffic accident on the 25th of June, 11th July :- [9769870](https://www.fixmystreet.com/report/9769870)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Overgrown vegetation, 10th July :- [9767332](https://www.fixmystreet.com/report/9767332)
 - Sweetcorn crop planted over footpath, 10th July :- [9766683](https://www.fixmystreet.com/report/9766683)
 - Sunken pavement with pipe exposed, 10th July :- [9766357](https://www.fixmystreet.com/report/9766357)
-- TMC - Defects - Other problem, 10th July :- [9766376](https://www.fixmystreet.com/report/9766376)
-- TMC - Defects - Kerbs and Channels problem, 10th July :- [9766374](https://www.fixmystreet.com/report/9766374)
 
 <!-- fix_marker ends -->
