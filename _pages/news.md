@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- People compete in sheep races because of heatwave ([4 hours ago](https://www.bbc.co.uk/news/articles/c9q2zd0q9g1o?at_medium=RSS&at_campaign=rss))
-- 'Why I keep going as UK's oldest working comedian' ([14 hours ago](https://www.bbc.co.uk/news/videos/cgmdrxnm32no?at_medium=RSS&at_campaign=rss))
-- 'Endometriosis tests would have given me years back' ([14 hours ago](https://www.bbc.co.uk/news/articles/cx2vzxe02dxo?at_medium=RSS&at_campaign=rss))
-- Headlines: 'Fines after hard shoulder crash' and 'river wife' ([14 hours ago](https://www.bbc.co.uk/news/articles/c9q298ve708o?at_medium=RSS&at_campaign=rss))
+- People compete in sheep races because of heatwave ([6 hours ago](https://www.bbc.co.uk/news/articles/c9q2zd0q9g1o?at_medium=RSS&at_campaign=rss))
+- 'Why I keep going as UK's oldest working comedian' ([16 hours ago](https://www.bbc.co.uk/news/videos/cgmdrxnm32no?at_medium=RSS&at_campaign=rss))
+- 'Endometriosis tests would have given me years back' ([16 hours ago](https://www.bbc.co.uk/news/articles/cx2vzxe02dxo?at_medium=RSS&at_campaign=rss))
+- Headlines: 'Fines after hard shoulder crash' and 'river wife' ([16 hours ago](https://www.bbc.co.uk/news/articles/c9q298ve708o?at_medium=RSS&at_campaign=rss))
 - Plans for 20mph speed limits defended ([1 days ago](https://gloucesternewscentre.co.uk/plans-for-20mph-speed-limits-defended/))
 - Calls for funding commitment for M5 junction revamp ([1 days ago](https://gloucesternewscentre.co.uk/calls-for-funding-commitment-for-m5-junction-revamp/))
 - Family pay tribute to woman after fatal house fire ([1 days ago](https://www.bbc.co.uk/news/articles/cq51neqyl9go?at_medium=RSS&at_campaign=rss))

@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- SUGGESTION : Change of lane control sign ?, 11th July :- [9771428](https://www.fixmystreet.com/report/9771428)
+- Its failed completely but it's the England game and I hate AI voice systems, 11th July :- [9771375](https://www.fixmystreet.com/report/9771375)
 - Fly tipping of fridge freezer and some tiles and guttering, 11th July :- [9771284](https://www.fixmystreet.com/report/9771284)
 - Someone think this was fun, 11th July :- [9771190](https://www.fixmystreet.com/report/9771190)
 - Street sweeper misses detritus, 11th July :- [9770036](https://www.fixmystreet.com/report/9770036)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - School bushes and trees, 10th July :- [9767722](https://www.fixmystreet.com/report/9767722)
 - Pothole, 10th July :- [9767343](https://www.fixmystreet.com/report/9767343)
 - Overgrown vegetation, 10th July :- [9767332](https://www.fixmystreet.com/report/9767332)
-- Sweetcorn crop planted over footpath, 10th July :- [9766683](https://www.fixmystreet.com/report/9766683)
-- Sunken pavement with pipe exposed, 10th July :- [9766357](https://www.fixmystreet.com/report/9766357)
 
 <!-- fix_marker ends -->
