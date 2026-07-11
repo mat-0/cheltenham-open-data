@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street sweeper misses detritus, 11th July :- [9770036](https://www.fixmystreet.com/report/9770036)
+- Deep hole where tarmac has melted, 11th July :- [9770011](https://www.fixmystreet.com/report/9770011)
+- The car in the picture was in a road traffic accident on the 25th of June, 11th July :- [9769870](https://www.fixmystreet.com/report/9769870)
+- 2 potholes close together on small lance that are deep and can’t be avoided, 11th July :- [9769828](https://www.fixmystreet.com/report/9769828)
+- Pedestrian crossing at bottom of berkeley st by london road not working., 11th July :- [9769689](https://www.fixmystreet.com/report/9769689)
 - Rubbish, 11th July :- [9769122](https://www.fixmystreet.com/report/9769122)
 - Slabs cracked and uneven from No 4 pennine rd to junction of chelt road after lorries and trucks parking on pavements., 11th July :- [9769043](https://www.fixmystreet.com/report/9769043)
 - Over running roadworks, 11th July :- [9768943](https://www.fixmystreet.com/report/9768943)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Sunken pavement with pipe exposed, 10th July :- [9766357](https://www.fixmystreet.com/report/9766357)
 - TMC - Defects - Other problem, 10th July :- [9766376](https://www.fixmystreet.com/report/9766376)
 - TMC - Defects - Kerbs and Channels problem, 10th July :- [9766374](https://www.fixmystreet.com/report/9766374)
-- TMC - Defects - Covers, Gratings & Frames problem, 10th July :- [9766372](https://www.fixmystreet.com/report/9766372)
-- Makings of a potential sinkhole according to builders working on our property, 10th July :- [9766202](https://www.fixmystreet.com/report/9766202)
-- A pothole in pavement problem, 10th July :- [9766183](https://www.fixmystreet.com/report/9766183)
-- Pothole on alleyway, already caused elderly resident to fall and injure face., 10th July :- [9766103](https://www.fixmystreet.com/report/9766103)
-- Grass verge has never been cut this year, 10th July :- [9766004](https://www.fixmystreet.com/report/9766004)
 
 <!-- fix_marker ends -->
