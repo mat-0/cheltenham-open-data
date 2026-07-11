@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dirty street, 11th July :- [9768576](https://www.fixmystreet.com/report/9768576)
 - Entrance to Tennyson Avenue from A40, Cheltenham, blocked., 11th July :- [9768514](https://www.fixmystreet.com/report/9768514)
 - Graffiti on windows, 10th July :- [9768103](https://www.fixmystreet.com/report/9768103)
 - Storm drain blocked by construction at Cleeve school, 10th July :- [9767978](https://www.fixmystreet.com/report/9767978)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Trees are completely obscuring the traffic light., 10th July :- [9765983](https://www.fixmystreet.com/report/9765983)
 - Holes formed in previous road repair!!! Multiple deep holes as a result of sinkage below surface, 10th July :- [9765484](https://www.fixmystreet.com/report/9765484)
 - Overgrown footpath, 10th July :- [9764872](https://www.fixmystreet.com/report/9764872)
-- Heritage road sign needs cleaning and covered spine removing, 10th July :- [9764732](https://www.fixmystreet.com/report/9764732)
 
 <!-- fix_marker ends -->
