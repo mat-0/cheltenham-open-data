@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Rubbish, 11th July :- [9769122](https://www.fixmystreet.com/report/9769122)
+- Slabs cracked and uneven from No 4 pennine rd to junction of chelt road after lorries and trucks parking on pavements., 11th July :- [9769043](https://www.fixmystreet.com/report/9769043)
+- Over running roadworks, 11th July :- [9768943](https://www.fixmystreet.com/report/9768943)
+- 1-foot deep hole at start of millennium bridge, 11th July :- [9768884](https://www.fixmystreet.com/report/9768884)
 - Dirty street, 11th July :- [9768576](https://www.fixmystreet.com/report/9768576)
 - Entrance to Tennyson Avenue from A40, Cheltenham, blocked., 11th July :- [9768514](https://www.fixmystreet.com/report/9768514)
 - Graffiti on windows, 10th July :- [9768103](https://www.fixmystreet.com/report/9768103)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - A pothole in pavement problem, 10th July :- [9766183](https://www.fixmystreet.com/report/9766183)
 - Pothole on alleyway, already caused elderly resident to fall and injure face., 10th July :- [9766103](https://www.fixmystreet.com/report/9766103)
 - Grass verge has never been cut this year, 10th July :- [9766004](https://www.fixmystreet.com/report/9766004)
-- The pedestrian button box has fallen off the post. It was hanging on by wires only now fixed in place with zip ties., 10th July :- [9765985](https://www.fixmystreet.com/report/9765985)
-- Trees are completely obscuring the traffic light., 10th July :- [9765983](https://www.fixmystreet.com/report/9765983)
-- Holes formed in previous road repair!!! Multiple deep holes as a result of sinkage below surface, 10th July :- [9765484](https://www.fixmystreet.com/report/9765484)
-- Overgrown footpath, 10th July :- [9764872](https://www.fixmystreet.com/report/9764872)
 
 <!-- fix_marker ends -->

@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Saturday, 11 July 2026
 
-- The average temperature today is 22.73˚C,
-- With highs of 23.31˚C and lows of 21.58˚C,
-- It may feel like 22.65˚C with clear sky
-- The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1021hPa and humidity is 61%
+- The average temperature today is 26˚C,
+- With highs of 26.65˚C and lows of 24.84˚C,
+- It may feel like 26˚C with clear sky
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 1021hPa and humidity is 49%
 - The sun will rise at 04:01 and set at 20:25
 
 <!-- weather_marker ends -->
