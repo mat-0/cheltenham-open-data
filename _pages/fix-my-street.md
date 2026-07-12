@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Blocks of concrete & other builders waste, 12th July :- [9772344](https://www.fixmystreet.com/report/9772344)
+- Tree is dead bark falling off, 12th July :- [9772223](https://www.fixmystreet.com/report/9772223)
 - Volunteer litter pick bags ready for collection, 12th July :- [9771886](https://www.fixmystreet.com/report/9771886)
 - Pothole at the North end of Millennium Bridge, 12th July :- [9771814](https://www.fixmystreet.com/report/9771814)
 - A square pothole about 8 inches wide and 3 inches deep, 12th July :- [9771640](https://www.fixmystreet.com/report/9771640)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - 1-foot deep hole at start of millennium bridge, 11th July :- [9768884](https://www.fixmystreet.com/report/9768884)
 - Dirty street, 11th July :- [9768576](https://www.fixmystreet.com/report/9768576)
 - Entrance to Tennyson Avenue from A40, Cheltenham, blocked., 11th July :- [9768514](https://www.fixmystreet.com/report/9768514)
-- Graffiti on windows, 10th July :- [9768103](https://www.fixmystreet.com/report/9768103)
-- Storm drain blocked by construction at Cleeve school, 10th July :- [9767978](https://www.fixmystreet.com/report/9767978)
 
 <!-- fix_marker ends -->
