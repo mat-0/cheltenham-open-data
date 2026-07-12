@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Broken pavement slab., 12th July :- [9772622](https://www.fixmystreet.com/report/9772622)
 - Blocks of concrete & other builders waste, 12th July :- [9772344](https://www.fixmystreet.com/report/9772344)
 - Tree is dead bark falling off, 12th July :- [9772223](https://www.fixmystreet.com/report/9772223)
 - Volunteer litter pick bags ready for collection, 12th July :- [9771886](https://www.fixmystreet.com/report/9771886)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Over running roadworks, 11th July :- [9768943](https://www.fixmystreet.com/report/9768943)
 - 1-foot deep hole at start of millennium bridge, 11th July :- [9768884](https://www.fixmystreet.com/report/9768884)
 - Dirty street, 11th July :- [9768576](https://www.fixmystreet.com/report/9768576)
-- Entrance to Tennyson Avenue from A40, Cheltenham, blocked., 11th July :- [9768514](https://www.fixmystreet.com/report/9768514)
 
 <!-- fix_marker ends -->

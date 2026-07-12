@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Council defends 20mph speed limit plans ([2 hours ago](https://www.bbc.co.uk/news/articles/cx2j0k0xxlwo?at_medium=RSS&at_campaign=rss))
-- In pictures: Football, soaring heat and stage fights ([4 hours ago](https://www.bbc.co.uk/news/articles/cr7xk22rjv8o?at_medium=RSS&at_campaign=rss))
-- What does 'Manchesterism' mean for the West? ([5 hours ago](https://www.bbc.co.uk/news/articles/c5yz080qw08o?at_medium=RSS&at_campaign=rss))
-- People compete in sheep races because of heatwave ([18 hours ago](https://www.bbc.co.uk/news/articles/c9q2zd0q9g1o?at_medium=RSS&at_campaign=rss))
+- Council defends 20mph speed limit plans ([4 hours ago](https://www.bbc.co.uk/news/articles/cx2j0k0xxlwo?at_medium=RSS&at_campaign=rss))
+- In pictures: Football, soaring heat and stage fights ([6 hours ago](https://www.bbc.co.uk/news/articles/cr7xk22rjv8o?at_medium=RSS&at_campaign=rss))
+- What does 'Manchesterism' mean for the West? ([7 hours ago](https://www.bbc.co.uk/news/articles/c5yz080qw08o?at_medium=RSS&at_campaign=rss))
+- People compete in sheep races because of heatwave ([20 hours ago](https://www.bbc.co.uk/news/articles/c9q2zd0q9g1o?at_medium=RSS&at_campaign=rss))
 - 'Why I keep going as UK's oldest working comedian' ([1 days ago](https://www.bbc.co.uk/news/videos/cgmdrxnm32no?at_medium=RSS&at_campaign=rss))
 - 'Endometriosis tests would have given me years back' ([1 days ago](https://www.bbc.co.uk/news/articles/cx2vzxe02dxo?at_medium=RSS&at_campaign=rss))
 - Headlines: 'Fines after hard shoulder crash' and 'river wife' ([1 days ago](https://www.bbc.co.uk/news/articles/c9q298ve708o?at_medium=RSS&at_campaign=rss))
@@ -29,7 +29,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - What's it like working in an ice cream factory during a heatwave? ([2 days ago](https://www.bbc.co.uk/news/videos/cn8kme04kkmo?at_medium=RSS&at_campaign=rss))
 - Treehouse built to help boy's anxiety demolished ([2 days ago](https://www.bbc.co.uk/news/articles/cm20rm7v1gno?at_medium=RSS&at_campaign=rss))
 - US plan to spend $500m on RAF base concerns MP ([2 days ago](https://www.bbc.co.uk/news/articles/cqx17e4n2rwo?at_medium=RSS&at_campaign=rss))
-- Firefighters called to blaze at illegal waste dump ([2 days ago](https://www.bbc.co.uk/news/articles/c20y9n01q69o?at_medium=RSS&at_campaign=rss))
+- Firefighters called to blaze at illegal waste dump ([3 days ago](https://www.bbc.co.uk/news/articles/c20y9n01q69o?at_medium=RSS&at_campaign=rss))
 - Markings appear on road 'for no apparent reason' ([3 days ago](https://www.bbc.co.uk/news/articles/cly0q10kz7yo?at_medium=RSS&at_campaign=rss))
 - Gloucestershire Library Challenge returns ([4 days ago](https://gloucesternewscentre.co.uk/gloucestershire-library-challenge-returns/))
 - Survey reveals public harassment faced by girls in Cheltenham ([4 days ago](https://gloucesternewscentre.co.uk/survey-reveals-public-harassment-faced-by-girls-in-cheltenham/))
@@ -42,7 +42,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Secrecy over why Gloucestershire Airport costs millions for the taxpayer ([9 days ago](https://gloucesternewscentre.co.uk/secrecy-over-why-gloucestershire-airport-costs-millions-for-the-taxpayer/))
 - Gloucestershire Airport back on market ([12 days ago](https://gloucesternewscentre.co.uk/gloucestershire-airport-back-on-market/))
 - Concerns over ‘blanket 20mph limit’ ([17 days ago](https://gloucesternewscentre.co.uk/concerns-over-blanket-20mph-limit/))
-- Need To Know Gloucestershire ([18 days ago](https://www.bbc.co.uk/sounds/play/p0ntm17v?at_medium=RSS&at_campaign=rss))
+- Need To Know Gloucestershire ([19 days ago](https://www.bbc.co.uk/sounds/play/p0ntm17v?at_medium=RSS&at_campaign=rss))
 - Cheltenham boundary consultation opens ([19 days ago](https://gloucesternewscentre.co.uk/cheltenham-boundary-consultation-opens/))
 - Green light for car boot sale amid cycle path hazard fears ([26 days ago](https://gloucesternewscentre.co.uk/green-light-for-car-boot-sale-amid-cycle-path-hazard-fears/))
 
