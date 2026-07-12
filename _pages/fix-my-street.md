@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- A square pothole about 8 inches wide and 3 inches deep, 12th July :- [9771640](https://www.fixmystreet.com/report/9771640)
 - SUGGESTION : Change of lane control sign ?, 11th July :- [9771428](https://www.fixmystreet.com/report/9771428)
 - Its failed completely but it's the England game and I hate AI voice systems, 11th July :- [9771375](https://www.fixmystreet.com/report/9771375)
 - Fly tipping of fridge freezer and some tiles and guttering, 11th July :- [9771284](https://www.fixmystreet.com/report/9771284)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Storm drain blocked by construction at Cleeve school, 10th July :- [9767978](https://www.fixmystreet.com/report/9767978)
 - School bushes and trees, 10th July :- [9767722](https://www.fixmystreet.com/report/9767722)
 - Pothole, 10th July :- [9767343](https://www.fixmystreet.com/report/9767343)
-- Overgrown vegetation, 10th July :- [9767332](https://www.fixmystreet.com/report/9767332)
 
 <!-- fix_marker ends -->
