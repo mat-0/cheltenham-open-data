@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Sunday, 12 July 2026
 
-- The average temperature today is 29.97˚C,
-- With highs of 31.03˚C and lows of 29.18˚C,
-- It may feel like 29.65˚C with clear sky
+- The average temperature today is 28.97˚C,
+- With highs of 29.82˚C and lows of 27.62˚C,
+- It may feel like 28.86˚C with clear sky
 - The wind speed is 4.02m/s and visibility is 10000m
-- The pressure is 1023hPa and humidity is 40%
+- The pressure is 1023hPa and humidity is 43%
 - The sun will rise at 04:02 and set at 20:24
 
 <!-- weather_marker ends -->

@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree fallen into carriageway, 12th July :- [9773715](https://www.fixmystreet.com/report/9773715)
 - Broken pavement slab., 12th July :- [9772622](https://www.fixmystreet.com/report/9772622)
 - Blocks of concrete & other builders waste, 12th July :- [9772344](https://www.fixmystreet.com/report/9772344)
 - Tree is dead bark falling off, 12th July :- [9772223](https://www.fixmystreet.com/report/9772223)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Slabs cracked and uneven from No 4 pennine rd to junction of chelt road after lorries and trucks parking on pavements., 11th July :- [9769043](https://www.fixmystreet.com/report/9769043)
 - Over running roadworks, 11th July :- [9768943](https://www.fixmystreet.com/report/9768943)
 - 1-foot deep hole at start of millennium bridge, 11th July :- [9768884](https://www.fixmystreet.com/report/9768884)
-- Dirty street, 11th July :- [9768576](https://www.fixmystreet.com/report/9768576)
 
 <!-- fix_marker ends -->
