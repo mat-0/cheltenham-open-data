@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Volunteer litter pick bags ready for collection, 12th July :- [9771886](https://www.fixmystreet.com/report/9771886)
+- Pothole at the North end of Millennium Bridge, 12th July :- [9771814](https://www.fixmystreet.com/report/9771814)
 - A square pothole about 8 inches wide and 3 inches deep, 12th July :- [9771640](https://www.fixmystreet.com/report/9771640)
 - SUGGESTION : Change of lane control sign ?, 11th July :- [9771428](https://www.fixmystreet.com/report/9771428)
 - Its failed completely but it's the England game and I hate AI voice systems, 11th July :- [9771375](https://www.fixmystreet.com/report/9771375)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Entrance to Tennyson Avenue from A40, Cheltenham, blocked., 11th July :- [9768514](https://www.fixmystreet.com/report/9768514)
 - Graffiti on windows, 10th July :- [9768103](https://www.fixmystreet.com/report/9768103)
 - Storm drain blocked by construction at Cleeve school, 10th July :- [9767978](https://www.fixmystreet.com/report/9767978)
-- School bushes and trees, 10th July :- [9767722](https://www.fixmystreet.com/report/9767722)
-- Pothole, 10th July :- [9767343](https://www.fixmystreet.com/report/9767343)
 
 <!-- fix_marker ends -->
