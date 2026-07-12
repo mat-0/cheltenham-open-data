@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street lights out, 13th July :- [9774908](https://www.fixmystreet.com/report/9774908)
 - Missing street sign for No through road - GL52 2JZ, 12th July :- [9774667](https://www.fixmystreet.com/report/9774667)
 - Patch of rough tarmac with potholes the whole width of the left hand carriageway, 12th July :- [9774337](https://www.fixmystreet.com/report/9774337)
 - Vegetation still blocking view of road, 12th July :- [9774316](https://www.fixmystreet.com/report/9774316)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Deep hole where tarmac has melted, 11th July :- [9770011](https://www.fixmystreet.com/report/9770011)
 - The car in the picture was in a road traffic accident on the 25th of June, 11th July :- [9769870](https://www.fixmystreet.com/report/9769870)
 - 2 potholes close together on small lance that are deep and can’t be avoided, 11th July :- [9769828](https://www.fixmystreet.com/report/9769828)
-- Pedestrian crossing at bottom of berkeley st by london road not working., 11th July :- [9769689](https://www.fixmystreet.com/report/9769689)
 
 <!-- fix_marker ends -->

@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Fears M5 project could be shelved to fund defence ([3 hours ago](https://www.bbc.co.uk/news/articles/cg4w7gz29g2o?at_medium=RSS&at_campaign=rss))
-- West's big reaction to another England World Cup win ([5 hours ago](https://www.bbc.co.uk/news/articles/c1dyvgrzne3o?at_medium=RSS&at_campaign=rss))
-- Council defends 20mph speed limit plans ([11 hours ago](https://www.bbc.co.uk/news/articles/cx2j0k0xxlwo?at_medium=RSS&at_campaign=rss))
-- In pictures: Football, soaring heat and stage fights ([14 hours ago](https://www.bbc.co.uk/news/articles/cr7xk22rjv8o?at_medium=RSS&at_campaign=rss))
-- What does 'Manchesterism' mean for the West? ([14 hours ago](https://www.bbc.co.uk/news/articles/c5yz080qw08o?at_medium=RSS&at_campaign=rss))
+- Fears M5 project could be shelved to fund defence ([5 hours ago](https://www.bbc.co.uk/news/articles/cg4w7gz29g2o?at_medium=RSS&at_campaign=rss))
+- West's big reaction to another England World Cup win ([7 hours ago](https://www.bbc.co.uk/news/articles/c1dyvgrzne3o?at_medium=RSS&at_campaign=rss))
+- Council defends 20mph speed limit plans ([13 hours ago](https://www.bbc.co.uk/news/articles/cx2j0k0xxlwo?at_medium=RSS&at_campaign=rss))
+- In pictures: Football, soaring heat and stage fights ([16 hours ago](https://www.bbc.co.uk/news/articles/cr7xk22rjv8o?at_medium=RSS&at_campaign=rss))
+- What does 'Manchesterism' mean for the West? ([16 hours ago](https://www.bbc.co.uk/news/articles/c5yz080qw08o?at_medium=RSS&at_campaign=rss))
 - People compete in sheep races because of heatwave ([1 days ago](https://www.bbc.co.uk/news/articles/c9q2zd0q9g1o?at_medium=RSS&at_campaign=rss))
 - 'Why I keep going as UK's oldest working comedian' ([1 days ago](https://www.bbc.co.uk/news/videos/cgmdrxnm32no?at_medium=RSS&at_campaign=rss))
 - 'Endometriosis tests would have given me years back' ([1 days ago](https://www.bbc.co.uk/news/articles/cx2vzxe02dxo?at_medium=RSS&at_campaign=rss))
