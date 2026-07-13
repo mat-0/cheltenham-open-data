@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- AI messaging service developed for unpaid carers ([6 hours ago](https://www.bbc.co.uk/news/articles/c5yzz5l5ewyo?at_medium=RSS&at_campaign=rss))
-- Fears M5 project could be shelved to fund defence ([17 hours ago](https://www.bbc.co.uk/news/articles/cg4w7gz29g2o?at_medium=RSS&at_campaign=rss))
-- West's big reaction to another England World Cup win ([20 hours ago](https://www.bbc.co.uk/news/articles/c1dyvgrzne3o?at_medium=RSS&at_campaign=rss))
+- AI messaging service developed for unpaid carers ([8 hours ago](https://www.bbc.co.uk/news/articles/c5yzz5l5ewyo?at_medium=RSS&at_campaign=rss))
+- Fears M5 project could be shelved to fund defence ([19 hours ago](https://www.bbc.co.uk/news/articles/cg4w7gz29g2o?at_medium=RSS&at_campaign=rss))
+- West's big reaction to another England World Cup win ([21 hours ago](https://www.bbc.co.uk/news/articles/c1dyvgrzne3o?at_medium=RSS&at_campaign=rss))
 - Council defends 20mph speed limit plans ([1 days ago](https://www.bbc.co.uk/news/articles/cx2j0k0xxlwo?at_medium=RSS&at_campaign=rss))
 - In pictures: Football, soaring heat and stage fights ([1 days ago](https://www.bbc.co.uk/news/articles/cr7xk22rjv8o?at_medium=RSS&at_campaign=rss))
 - What does 'Manchesterism' mean for the West? ([1 days ago](https://www.bbc.co.uk/news/articles/c5yz080qw08o?at_medium=RSS&at_campaign=rss))
@@ -42,7 +42,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Secrecy over why Gloucestershire Airport costs millions for the taxpayer ([10 days ago](https://gloucesternewscentre.co.uk/secrecy-over-why-gloucestershire-airport-costs-millions-for-the-taxpayer/))
 - Gloucestershire Airport back on market ([13 days ago](https://gloucesternewscentre.co.uk/gloucestershire-airport-back-on-market/))
 - Concerns over ‘blanket 20mph limit’ ([18 days ago](https://gloucesternewscentre.co.uk/concerns-over-blanket-20mph-limit/))
-- Need To Know Gloucestershire ([19 days ago](https://www.bbc.co.uk/sounds/play/p0ntm17v?at_medium=RSS&at_campaign=rss))
+- Need To Know Gloucestershire ([20 days ago](https://www.bbc.co.uk/sounds/play/p0ntm17v?at_medium=RSS&at_campaign=rss))
 - Cheltenham boundary consultation opens ([20 days ago](https://gloucesternewscentre.co.uk/cheltenham-boundary-consultation-opens/))
 - Green light for car boot sale amid cycle path hazard fears ([27 days ago](https://gloucesternewscentre.co.uk/green-light-for-car-boot-sale-amid-cycle-path-hazard-fears/))
 

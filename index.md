@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Monday, 13 July 2026
 
-- The average temperature today is 20.97˚C,
-- With highs of 21.09˚C and lows of 20.29˚C,
-- It may feel like 20.85˚C with scattered clouds
-- The wind speed is 2.68m/s and visibility is 10000m
-- The pressure is 1022hPa and humidity is 66%
+- The average temperature today is 24.36˚C,
+- With highs of 24.36˚C and lows of 24.36˚C,
+- It may feel like 24.18˚C with clear sky
+- The wind speed is 8m/s and visibility is 10000m
+- The pressure is 1021hPa and humidity is 51%
 - The sun will rise at 04:04 and set at 20:23
 
 <!-- weather_marker ends -->
