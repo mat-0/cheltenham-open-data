@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Old wooden bench knocked over, 13th July :- [9780551](https://www.fixmystreet.com/report/9780551)
+- Commercial trade vehicles blocking road and forcing cars to mount the curb to go around, 13th July :- [9780454](https://www.fixmystreet.com/report/9780454)
 - Pavement blocked in connection with building work, 13th July :- [9780002](https://www.fixmystreet.com/report/9780002)
 - Flytipping, 13th July :- [9779677](https://www.fixmystreet.com/report/9779677)
 - Fly tipping, 13th July :- [9779660](https://www.fixmystreet.com/report/9779660)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Footways Slabs problem, 13th July :- [9778958](https://www.fixmystreet.com/report/9778958)
 - TMC - Defects - Other FW6  Surface problem, 13th July :- [9778957](https://www.fixmystreet.com/report/9778957)
 - TMC - Defects -CW6 Potholes  problem, 13th July :- [9778953](https://www.fixmystreet.com/report/9778953)
-- Safety bollards vandalised and removed, 13th July :- [9778677](https://www.fixmystreet.com/report/9778677)
-- TMC - Defects - Vegetation problem, 13th July :- [9778741](https://www.fixmystreet.com/report/9778741)
 
 <!-- fix_marker ends -->
