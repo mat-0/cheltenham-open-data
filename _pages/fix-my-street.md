@@ -24,10 +24,10 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 13th July :- [9778973](https://www.fixmystreet.com/report/9778973)
 - TMC - Defects - Other FW6  Surface problem, 13th July :- [9778966](https://www.fixmystreet.com/report/9778966)
 - Uneven sidewalk and vegetation intruding onto walkway caused a fall, 13th July :- [9777967](https://www.fixmystreet.com/report/9777967)
+- TMC - Defects - Vegetation problem, 13th July :- [9778959](https://www.fixmystreet.com/report/9778959)
+- TMC - Defects - Vegetation problem, 13th July :- [9778962](https://www.fixmystreet.com/report/9778962)
 - TMC - Defects - Vegetation problem, 13th July :- [9778964](https://www.fixmystreet.com/report/9778964)
 - TMC - Defects - Vegetation problem, 13th July :- [9778961](https://www.fixmystreet.com/report/9778961)
 - TMC - Defects - Vegetation problem, 13th July :- [9778960](https://www.fixmystreet.com/report/9778960)
-- TMC - Defects - Vegetation problem, 13th July :- [9778963](https://www.fixmystreet.com/report/9778963)
-- TMC - Defects - Vegetation problem, 13th July :- [9778959](https://www.fixmystreet.com/report/9778959)
 
 <!-- fix_marker ends -->
