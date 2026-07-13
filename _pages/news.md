@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Work begins on 'nationally significant' cyber campus ([2 hours ago](https://www.bbc.co.uk/news/articles/cgqjxdneg5zo?at_medium=RSS&at_campaign=rss))
-- Making people laugh has kept comedian going for six decades ([3 hours ago](https://www.bbc.co.uk/news/videos/c98270jm35ro?at_medium=RSS&at_campaign=rss))
-- 'Nightmare' road has not been resurfaced for '50 years' ([3 hours ago](https://www.bbc.co.uk/news/articles/c3ryeg10jx0o?at_medium=RSS&at_campaign=rss))
-- Boy, 16, denies murdering drug dealer in alleyway ([4 hours ago](https://www.bbc.co.uk/news/articles/cx26e6lxp5ko?at_medium=RSS&at_campaign=rss))
-- Take in wheelie bins or face fines, residents told ([5 hours ago](https://www.bbc.co.uk/news/articles/c79y24r0p8lo?at_medium=RSS&at_campaign=rss))
-- AI messaging service developed for unpaid carers ([14 hours ago](https://www.bbc.co.uk/news/articles/c5yzz5l5ewyo?at_medium=RSS&at_campaign=rss))
+- Work begins on 'nationally significant' cyber campus ([3 hours ago](https://www.bbc.co.uk/news/articles/cgqjxdneg5zo?at_medium=RSS&at_campaign=rss))
+- Making people laugh has kept comedian going for six decades ([5 hours ago](https://www.bbc.co.uk/news/videos/c98270jm35ro?at_medium=RSS&at_campaign=rss))
+- 'Nightmare' road has not been resurfaced for '50 years' ([5 hours ago](https://www.bbc.co.uk/news/articles/c3ryeg10jx0o?at_medium=RSS&at_campaign=rss))
+- Boy, 16, denies murdering drug dealer in alleyway ([6 hours ago](https://www.bbc.co.uk/news/articles/cx26e6lxp5ko?at_medium=RSS&at_campaign=rss))
+- Take in wheelie bins or face fines, residents told ([7 hours ago](https://www.bbc.co.uk/news/articles/c79y24r0p8lo?at_medium=RSS&at_campaign=rss))
+- AI messaging service developed for unpaid carers ([15 hours ago](https://www.bbc.co.uk/news/articles/c5yzz5l5ewyo?at_medium=RSS&at_campaign=rss))
 - Fears M5 project could be shelved to fund defence ([1 days ago](https://www.bbc.co.uk/news/articles/cg4w7gz29g2o?at_medium=RSS&at_campaign=rss))
 - West's big reaction to another England World Cup win ([1 days ago](https://www.bbc.co.uk/news/articles/c1dyvgrzne3o?at_medium=RSS&at_campaign=rss))
 - Council defends 20mph speed limit plans ([1 days ago](https://www.bbc.co.uk/news/articles/cx2j0k0xxlwo?at_medium=RSS&at_campaign=rss))

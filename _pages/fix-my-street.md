@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Car park fencing, 13th July :- [9781264](https://www.fixmystreet.com/report/9781264)
+- Multiple potholes in front of flats, 13th July :- [9780978](https://www.fixmystreet.com/report/9780978)
+- Small sinkhole on pavement opposite no27, 13th July :- [9780899](https://www.fixmystreet.com/report/9780899)
+- Large pothole in the road, 13th July :- [9780830](https://www.fixmystreet.com/report/9780830)
 - Old wooden bench knocked over, 13th July :- [9780551](https://www.fixmystreet.com/report/9780551)
 - Commercial trade vehicles blocking road and forcing cars to mount the curb to go around, 13th July :- [9780454](https://www.fixmystreet.com/report/9780454)
 - Pavement blocked in connection with building work, 13th July :- [9780002](https://www.fixmystreet.com/report/9780002)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 13th July :- [9778960](https://www.fixmystreet.com/report/9778960)
 - TMC - Defects - Vegetation problem, 13th July :- [9778963](https://www.fixmystreet.com/report/9778963)
 - TMC - Defects - Vegetation problem, 13th July :- [9778959](https://www.fixmystreet.com/report/9778959)
-- TMC - Defects - Vegetation problem, 13th July :- [9778962](https://www.fixmystreet.com/report/9778962)
-- TMC - Defects - Footways Slabs problem, 13th July :- [9778958](https://www.fixmystreet.com/report/9778958)
-- TMC - Defects - Other FW6  Surface problem, 13th July :- [9778957](https://www.fixmystreet.com/report/9778957)
-- TMC - Defects -CW6 Potholes  problem, 13th July :- [9778953](https://www.fixmystreet.com/report/9778953)
 
 <!-- fix_marker ends -->
