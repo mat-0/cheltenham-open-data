@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Footpath blocked on Shurdington Road, 14th July :- [9787549](https://www.fixmystreet.com/report/9787549)
+- Sign information vandalised, 14th July :- [9781560](https://www.fixmystreet.com/report/9781560)
+- Failure to complete grass cutting, 14th July :- [9787390](https://www.fixmystreet.com/report/9787390)
+- 60x40cm Pothole, 14th July :- [9787357](https://www.fixmystreet.com/report/9787357)
 - Huge dead branch overhanging my driveway Swinging around in wind If it falls it will damage a person or my car in driveway, 14th July :- [9786722](https://www.fixmystreet.com/report/9786722)
 - TMC - Defects - Vegetation problem, 14th July :- [9786253](https://www.fixmystreet.com/report/9786253)
 - TMC - Defects - Footways Slabs problem, 14th July :- [9786250](https://www.fixmystreet.com/report/9786250)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Footways Slabs problem, 14th July :- [9786246](https://www.fixmystreet.com/report/9786246)
 - TMC - Defects - Vegetation problem, 14th July :- [9786238](https://www.fixmystreet.com/report/9786238)
 - TMC - Defects - Vegetation problem, 14th July :- [9786239](https://www.fixmystreet.com/report/9786239)
-- TMC - Defects -CW6 Potholes  problem, 14th July :- [9785991](https://www.fixmystreet.com/report/9785991)
-- TMC - Defects - Other FW6  Surface problem, 14th July :- [9785990](https://www.fixmystreet.com/report/9785990)
-- Low Tree, 14th July :- [9785779](https://www.fixmystreet.com/report/9785779)
-- TMC - Defects - Footways Slabs problem, 14th July :- [9785764](https://www.fixmystreet.com/report/9785764)
 
 <!-- fix_marker ends -->
