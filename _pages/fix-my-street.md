@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fly tipping Furniture, 14th July :- [9787964](https://www.fixmystreet.com/report/9787964)
 - Sink hole in street, 14th July :- [9787744](https://www.fixmystreet.com/report/9787744)
 - Footpath blocked on Shurdington Road, 14th July :- [9787549](https://www.fixmystreet.com/report/9787549)
 - Sign information vandalised, 14th July :- [9781560](https://www.fixmystreet.com/report/9781560)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 14th July :- [9786247](https://www.fixmystreet.com/report/9786247)
 - TMC - Defects - Vegetation problem, 14th July :- [9786245](https://www.fixmystreet.com/report/9786245)
 - TMC - Defects - Footways Slabs problem, 14th July :- [9786244](https://www.fixmystreet.com/report/9786244)
-- TMC - Defects - Vegetation problem, 14th July :- [9786238](https://www.fixmystreet.com/report/9786238)
 
 <!-- fix_marker ends -->
