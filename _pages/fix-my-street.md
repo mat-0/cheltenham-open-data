@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Debris from car crash, 14th July :- [9782099](https://www.fixmystreet.com/report/9782099)
+- Glass on pavement, 14th July :- [9781882](https://www.fixmystreet.com/report/9781882)
+- Drain enterance collapsed, 14th July :- [9781846](https://www.fixmystreet.com/report/9781846)
 - Car park fencing, 13th July :- [9781264](https://www.fixmystreet.com/report/9781264)
 - Multiple potholes in front of flats, 13th July :- [9780978](https://www.fixmystreet.com/report/9780978)
 - Small sinkhole on pavement opposite no27, 13th July :- [9780899](https://www.fixmystreet.com/report/9780899)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Uneven sidewalk and vegetation intruding onto walkway caused a fall, 13th July :- [9777967](https://www.fixmystreet.com/report/9777967)
 - TMC - Defects - Vegetation problem, 13th July :- [9778964](https://www.fixmystreet.com/report/9778964)
 - TMC - Defects - Vegetation problem, 13th July :- [9778961](https://www.fixmystreet.com/report/9778961)
-- TMC - Defects - Vegetation problem, 13th July :- [9778960](https://www.fixmystreet.com/report/9778960)
-- TMC - Defects - Vegetation problem, 13th July :- [9778959](https://www.fixmystreet.com/report/9778959)
-- TMC - Defects - Vegetation problem, 13th July :- [9778962](https://www.fixmystreet.com/report/9778962)
 
 <!-- fix_marker ends -->
