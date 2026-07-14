@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Tuesday, 14 July 2026
 
-- The average temperature today is 20.02˚C,
-- With highs of 20.54˚C and lows of 18.73˚C,
-- It may feel like 19.83˚C with few clouds
+- The average temperature today is 23.01˚C,
+- With highs of 23.72˚C and lows of 22.6˚C,
+- It may feel like 22.96˚C with few clouds
 - The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 1022hPa and humidity is 67%
+- The pressure is 1022hPa and humidity is 61%
 - The sun will rise at 04:05 and set at 20:22
 
 <!-- weather_marker ends -->
