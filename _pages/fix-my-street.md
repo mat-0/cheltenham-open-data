@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- A clearly dead very large tree very close to the road, 15th July :- [9794196](https://www.fixmystreet.com/report/9794196)
+- The wooden slats on the bridge are loose and rotten. Photos were taken 1 week ago and damage is worse. Lots of walkers daily concerned that it will collapse, 15th July :- [9794120](https://www.fixmystreet.com/report/9794120)
 - Council-owned roadside tree appears to be in poor health, with severe canopy dieback, extensive dead branches and very sparse foliage., 15th July :- [9793569](https://www.fixmystreet.com/report/9793569)
 - A large number of potholes on the lane, 15th July :- [9793375](https://www.fixmystreet.com/report/9793375)
 - Car has not moved in months, abandoned and no mot, 15th July :- [9793245](https://www.fixmystreet.com/report/9793245)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 15th July :- [9792116](https://www.fixmystreet.com/report/9792116)
 - TMC - Defects -CW6 Potholes  problem, 15th July :- [9792115](https://www.fixmystreet.com/report/9792115)
 - TMC - Defects - Footways Slabs problem, 15th July :- [9792114](https://www.fixmystreet.com/report/9792114)
-- Plastic drain cover can be completed lifted off. Not fixed down., 15th July :- [9791903](https://www.fixmystreet.com/report/9791903)
-- TMC - Defects -CW6 Potholes  problem, 15th July :- [9791861](https://www.fixmystreet.com/report/9791861)
 
 <!-- fix_marker ends -->
