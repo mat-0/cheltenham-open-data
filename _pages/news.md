@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- When will it rain next in the West Country? ([8 hours ago](https://www.bbc.co.uk/news/articles/c4gygrye845o?at_medium=RSS&at_campaign=rss))
-- Princess Anne honours 'Glorious Glosters' who fought in Korea ([9 hours ago](https://www.bbc.co.uk/news/articles/ce8k80116y8o?at_medium=RSS&at_campaign=rss))
-- Church gets £1m to restore medieval wall paintings ([14 hours ago](https://www.bbc.co.uk/news/articles/c3vygqdz719o?at_medium=RSS&at_campaign=rss))
-- Safety calls after horse jumped wall to avoid lorry ([17 hours ago](https://www.bbc.co.uk/news/articles/cwy08xqgpydo?at_medium=RSS&at_campaign=rss))
-- How can we help our gardens survive the heat? ([18 hours ago](https://www.bbc.co.uk/news/articles/c892nn10eevo?at_medium=RSS&at_campaign=rss))
+- When will it rain next in the West Country? ([10 hours ago](https://www.bbc.co.uk/news/articles/c4gygrye845o?at_medium=RSS&at_campaign=rss))
+- Princess Anne honours 'Glorious Glosters' who fought in Korea ([11 hours ago](https://www.bbc.co.uk/news/articles/ce8k80116y8o?at_medium=RSS&at_campaign=rss))
+- Church gets £1m to restore medieval wall paintings ([16 hours ago](https://www.bbc.co.uk/news/articles/c3vygqdz719o?at_medium=RSS&at_campaign=rss))
+- Safety calls after horse jumped wall to avoid lorry ([20 hours ago](https://www.bbc.co.uk/news/articles/cwy08xqgpydo?at_medium=RSS&at_campaign=rss))
+- How can we help our gardens survive the heat? ([20 hours ago](https://www.bbc.co.uk/news/articles/c892nn10eevo?at_medium=RSS&at_campaign=rss))
 - Work begins on 'nationally significant' cyber campus ([1 days ago](https://www.bbc.co.uk/news/articles/cgqjxdneg5zo?at_medium=RSS&at_campaign=rss))
 - Making people laugh has kept comedian going for six decades ([1 days ago](https://www.bbc.co.uk/news/videos/c98270jm35ro?at_medium=RSS&at_campaign=rss))
 - 'Nightmare' road has not been resurfaced for '50 years' ([1 days ago](https://www.bbc.co.uk/news/articles/c3ryeg10jx0o?at_medium=RSS&at_campaign=rss))
