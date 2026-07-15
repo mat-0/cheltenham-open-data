@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Could Gloucester become UK City of Culture? ([2 hours ago](https://www.bbc.co.uk/news/articles/c24y405115go?at_medium=RSS&at_campaign=rss))
-- Energy tycoon to receive damages from Mail publisher ([4 hours ago](https://www.bbc.co.uk/news/articles/c20y0w8v78do?at_medium=RSS&at_campaign=rss))
-- Medieval wall mural to be restored after six year campaign ([7 hours ago](https://www.bbc.co.uk/news/videos/c5yzy1zez7ko?at_medium=RSS&at_campaign=rss))
-- Forecaster on when it might next rain in the West ([9 hours ago](https://www.bbc.co.uk/news/videos/c9323zdv7gko?at_medium=RSS&at_campaign=rss))
-- Housing would have 'harmful effect' on beauty spot ([14 hours ago](https://www.bbc.co.uk/news/articles/cj0g5v3rgreo?at_medium=RSS&at_campaign=rss))
-- Alternative venues to watch World Cup:  bowling lanes, cafes and a beach ([15 hours ago](https://www.bbc.co.uk/news/articles/ckg7g5m8nyvo?at_medium=RSS&at_campaign=rss))
+- Could Gloucester become UK City of Culture? ([4 hours ago](https://www.bbc.co.uk/news/articles/c24y405115go?at_medium=RSS&at_campaign=rss))
+- Energy tycoon to receive damages from Mail publisher ([6 hours ago](https://www.bbc.co.uk/news/articles/c20y0w8v78do?at_medium=RSS&at_campaign=rss))
+- Medieval wall mural to be restored after six year campaign ([9 hours ago](https://www.bbc.co.uk/news/videos/c5yzy1zez7ko?at_medium=RSS&at_campaign=rss))
+- Forecaster on when it might next rain in the West ([11 hours ago](https://www.bbc.co.uk/news/videos/c9323zdv7gko?at_medium=RSS&at_campaign=rss))
+- Housing would have 'harmful effect' on beauty spot ([16 hours ago](https://www.bbc.co.uk/news/articles/cj0g5v3rgreo?at_medium=RSS&at_campaign=rss))
+- Alternative venues to watch World Cup:  bowling lanes, cafes and a beach ([17 hours ago](https://www.bbc.co.uk/news/articles/ckg7g5m8nyvo?at_medium=RSS&at_campaign=rss))
 - When will it rain next in the West Country? ([1 days ago](https://www.bbc.co.uk/news/articles/c4gygrye845o?at_medium=RSS&at_campaign=rss))
 - Princess Anne honours 'Glorious Glosters' who fought in Korea ([1 days ago](https://www.bbc.co.uk/news/articles/ce8k80116y8o?at_medium=RSS&at_campaign=rss))
 - Church gets £1m to restore medieval wall paintings ([1 days ago](https://www.bbc.co.uk/news/articles/c3vygqdz719o?at_medium=RSS&at_campaign=rss))

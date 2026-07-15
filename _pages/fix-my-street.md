@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- No street lighting, 15th July :- [9794218](https://www.fixmystreet.com/report/9794218)
 - A clearly dead very large tree very close to the road, 15th July :- [9794196](https://www.fixmystreet.com/report/9794196)
 - The wooden slats on the bridge are loose and rotten. Photos were taken 1 week ago and damage is worse. Lots of walkers daily concerned that it will collapse, 15th July :- [9794120](https://www.fixmystreet.com/report/9794120)
 - Council-owned roadside tree appears to be in poor health, with severe canopy dieback, extensive dead branches and very sparse foliage., 15th July :- [9793569](https://www.fixmystreet.com/report/9793569)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 15th July :- [9792117](https://www.fixmystreet.com/report/9792117)
 - TMC - Defects -CW6 Potholes  problem, 15th July :- [9792116](https://www.fixmystreet.com/report/9792116)
 - TMC - Defects -CW6 Potholes  problem, 15th July :- [9792115](https://www.fixmystreet.com/report/9792115)
-- TMC - Defects - Footways Slabs problem, 15th July :- [9792114](https://www.fixmystreet.com/report/9792114)
 
 <!-- fix_marker ends -->
