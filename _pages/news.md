@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Housing would have 'harmful effect' on beauty spot ([3 hours ago](https://www.bbc.co.uk/news/articles/cj0g5v3rgreo?at_medium=RSS&at_campaign=rss))
-- Alternative venues to watch World Cup:  bowling lanes, cafes and a beach ([3 hours ago](https://www.bbc.co.uk/news/articles/ckg7g5m8nyvo?at_medium=RSS&at_campaign=rss))
-- When will it rain next in the West Country? ([18 hours ago](https://www.bbc.co.uk/news/articles/c4gygrye845o?at_medium=RSS&at_campaign=rss))
-- Princess Anne honours 'Glorious Glosters' who fought in Korea ([19 hours ago](https://www.bbc.co.uk/news/articles/ce8k80116y8o?at_medium=RSS&at_campaign=rss))
+- Housing would have 'harmful effect' on beauty spot ([4 hours ago](https://www.bbc.co.uk/news/articles/cj0g5v3rgreo?at_medium=RSS&at_campaign=rss))
+- Alternative venues to watch World Cup:  bowling lanes, cafes and a beach ([5 hours ago](https://www.bbc.co.uk/news/articles/ckg7g5m8nyvo?at_medium=RSS&at_campaign=rss))
+- When will it rain next in the West Country? ([20 hours ago](https://www.bbc.co.uk/news/articles/c4gygrye845o?at_medium=RSS&at_campaign=rss))
+- Princess Anne honours 'Glorious Glosters' who fought in Korea ([21 hours ago](https://www.bbc.co.uk/news/articles/ce8k80116y8o?at_medium=RSS&at_campaign=rss))
 - Church gets £1m to restore medieval wall paintings ([1 days ago](https://www.bbc.co.uk/news/articles/c3vygqdz719o?at_medium=RSS&at_campaign=rss))
 - Safety calls after horse jumped wall to avoid lorry ([1 days ago](https://www.bbc.co.uk/news/articles/cwy08xqgpydo?at_medium=RSS&at_campaign=rss))
 - How can we help our gardens survive the heat? ([1 days ago](https://www.bbc.co.uk/news/articles/c892nn10eevo?at_medium=RSS&at_campaign=rss))
@@ -40,7 +40,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Concerns over ‘devastating’ report on maternity services ([11 days ago](https://gloucesternewscentre.co.uk/concerns-over-devastating-report-on-maternity-services/))
 - Heightened security after spike in ‘aggressive’ incidents at council ([12 days ago](https://gloucesternewscentre.co.uk/heightened-security-after-spike-in-aggressive-incidents-at-council/))
 - Secrecy over why Gloucestershire Airport costs millions for the taxpayer ([12 days ago](https://gloucesternewscentre.co.uk/secrecy-over-why-gloucestershire-airport-costs-millions-for-the-taxpayer/))
-- Gloucestershire Airport back on market ([14 days ago](https://gloucesternewscentre.co.uk/gloucestershire-airport-back-on-market/))
+- Gloucestershire Airport back on market ([15 days ago](https://gloucesternewscentre.co.uk/gloucestershire-airport-back-on-market/))
 - Concerns over ‘blanket 20mph limit’ ([20 days ago](https://gloucesternewscentre.co.uk/concerns-over-blanket-20mph-limit/))
 - Need To Know Gloucestershire ([21 days ago](https://www.bbc.co.uk/sounds/play/p0ntm17v?at_medium=RSS&at_campaign=rss))
 - Cheltenham boundary consultation opens ([22 days ago](https://gloucesternewscentre.co.uk/cheltenham-boundary-consultation-opens/))
