@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Wednesday, 15 July 2026
 
-- The average temperature today is 27.41˚C,
-- With highs of 28.25˚C and lows of 26.96˚C,
-- It may feel like 27.29˚C with clear sky
-- The wind speed is 4.02m/s and visibility is 10000m
-- The pressure is 1021hPa and humidity is 42%
+- The average temperature today is 25.53˚C,
+- With highs of 25.94˚C and lows of 24.91˚C,
+- It may feel like 25.44˚C with clear sky
+- The wind speed is 2.24m/s and visibility is 10000m
+- The pressure is 1021hPa and humidity is 50%
 - The sun will rise at 04:06 and set at 20:21
 
 <!-- weather_marker ends -->
