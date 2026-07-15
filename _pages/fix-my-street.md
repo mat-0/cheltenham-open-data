@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Overgrown Cycelpath to Elmbridge Court estate, 15th July :- [9788966](https://www.fixmystreet.com/report/9788966)
+- 4 road signs in a dangerous position for drivers to exit junction, 15th July :- [9788799](https://www.fixmystreet.com/report/9788799)
+- TMC - Defects - Signs & Street Furniture problem, 15th July :- [9788841](https://www.fixmystreet.com/report/9788841)
 - Fly tipping Furniture, 14th July :- [9787964](https://www.fixmystreet.com/report/9787964)
 - Sink hole in street, 14th July :- [9787744](https://www.fixmystreet.com/report/9787744)
 - Footpath blocked on Shurdington Road, 14th July :- [9787549](https://www.fixmystreet.com/report/9787549)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 14th July :- [9786242](https://www.fixmystreet.com/report/9786242)
 - TMC - Defects - Footways Slabs problem, 14th July :- [9786252](https://www.fixmystreet.com/report/9786252)
 - TMC - Defects - Other FW6  Surface problem, 14th July :- [9786248](https://www.fixmystreet.com/report/9786248)
-- TMC - Defects - Other FW6  Surface problem, 14th July :- [9786247](https://www.fixmystreet.com/report/9786247)
-- TMC - Defects - Vegetation problem, 14th July :- [9786245](https://www.fixmystreet.com/report/9786245)
-- TMC - Defects - Footways Slabs problem, 14th July :- [9786244](https://www.fixmystreet.com/report/9786244)
 
 <!-- fix_marker ends -->
