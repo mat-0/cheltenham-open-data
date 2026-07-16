@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Thursday, 16 July 2026
 
-- The average temperature today is 25.96˚C,
-- With highs of 26.09˚C and lows of 25.4˚C,
-- It may feel like 25.96˚C with clear sky
+- The average temperature today is 28.01˚C,
+- With highs of 28.86˚C and lows of 27.51˚C,
+- It may feel like 27.42˚C with clear sky
 - The wind speed is 1.79m/s and visibility is 10000m
-- The pressure is 1020hPa and humidity is 47%
+- The pressure is 1019hPa and humidity is 36%
 - The sun will rise at 04:07 and set at 20:20
 
 <!-- weather_marker ends -->
