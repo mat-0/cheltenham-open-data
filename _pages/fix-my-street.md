@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The grass verge is totally overgrown on the exit of Haymes Road. The visibility is very bad and an accident waiting to happen., 16th July :- [9799615](https://www.fixmystreet.com/report/9799615)
+- Low branches causing obstruction on pavement, 16th July :- [9799994](https://www.fixmystreet.com/report/9799994)
 - Lots of litter on path, 16th July :- [9799669](https://www.fixmystreet.com/report/9799669)
 - Bus shelter missing Cheltenham Road/Greyhound side, 16th July :- [9799536](https://www.fixmystreet.com/report/9799536)
 - Flyposting banners and posters, 16th July :- [9799367](https://www.fixmystreet.com/report/9799367)
@@ -24,10 +26,8 @@ permalink: /fix-my-street
 - TMC - Defects -FW6 Potholes problem, 16th July :- [9798001](https://www.fixmystreet.com/report/9798001)
 - TMC - Defects -FW6 Potholes problem, 16th July :- [9798002](https://www.fixmystreet.com/report/9798002)
 - There are two/three deep potholes on the road edge that are dangerousl and deep, 16th July :- [9797930](https://www.fixmystreet.com/report/9797930)
-- TMC - Defects - Footways Slabs problem, 16th July :- [9798000](https://www.fixmystreet.com/report/9798000)
 - TMC - Defects - Footways Slabs problem, 16th July :- [9797999](https://www.fixmystreet.com/report/9797999)
+- TMC - Defects - Footways Slabs problem, 16th July :- [9798000](https://www.fixmystreet.com/report/9798000)
 - TMC - Defects -FW6 Potholes problem, 16th July :- [9797998](https://www.fixmystreet.com/report/9797998)
-- TMC - Defects - Vegetation problem, 16th July :- [9797823](https://www.fixmystreet.com/report/9797823)
-- Tree is damaged problem, 16th July :- [9797809](https://www.fixmystreet.com/report/9797809)
 
 <!-- fix_marker ends -->
