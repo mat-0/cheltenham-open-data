@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:atom="http://www.w3.org/2005/Atom"
 >
 
@@ -169,6 +169,15 @@
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 15th July</title>
+<link>https://www.fixmystreet.com/report/9792115</link>
+<description>Pothole around ironwork CW &amp;#10;2000x2000x61mm&amp;#10;Road closure &amp;#10;STATS (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9792115&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9792115</guid>
+<pubDate>Wed, 15 Jul 2026 14:16:26 +0100</pubDate>
+<georss:point>51.9093855 -2.0882955</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 15th July</title>
 <link>https://www.fixmystreet.com/report/9792117</link>
 <description>Pothole around ironwork CW &amp;#10;800x900x43mm&amp;#10;Road closure &amp;#10;NSD X 1 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9792117&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
@@ -184,15 +193,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/9792116</guid>
 <pubDate>Wed, 15 Jul 2026 14:16:26 +0100</pubDate>
 <georss:point>51.9093549 -2.088295</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 15th July</title>
-<link>https://www.fixmystreet.com/report/9792115</link>
-<description>Pothole around ironwork CW &amp;#10;2000x2000x61mm&amp;#10;Road closure &amp;#10;STATS (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9792115&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9792115</guid>
-<pubDate>Wed, 15 Jul 2026 14:16:26 +0100</pubDate>
-<georss:point>51.9093855 -2.0882955</georss:point>
 </item>
 </channel>
 </rss>

@@ -26,8 +26,8 @@ permalink: /fix-my-street
 - TMC - Defects - Covers, Gratings & Frames problem, 15th July :- [9792515](https://www.fixmystreet.com/report/9792515)
 - Abandoned caravan, 15th July :- [9792201](https://www.fixmystreet.com/report/9792201)
 - Green or amber traffic light is not working problem, 15th July :- [9792106](https://www.fixmystreet.com/report/9792106)
+- TMC - Defects -CW6 Potholes  problem, 15th July :- [9792115](https://www.fixmystreet.com/report/9792115)
 - TMC - Defects -CW6 Potholes  problem, 15th July :- [9792117](https://www.fixmystreet.com/report/9792117)
 - TMC - Defects -CW6 Potholes  problem, 15th July :- [9792116](https://www.fixmystreet.com/report/9792116)
-- TMC - Defects -CW6 Potholes  problem, 15th July :- [9792115](https://www.fixmystreet.com/report/9792115)
 
 <!-- fix_marker ends -->
