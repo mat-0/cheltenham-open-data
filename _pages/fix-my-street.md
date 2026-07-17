@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Bad road surface, 17th July :- [9805458](https://www.fixmystreet.com/report/9805458)
+- Left filter not working., 17th July :- [9805440](https://www.fixmystreet.com/report/9805440)
+- Fridge & loads of stuff dumped in back road, 17th July :- [9805323](https://www.fixmystreet.com/report/9805323)
+- Dead tree with broken branches - safety risk, 17th July :- [9805316](https://www.fixmystreet.com/report/9805316)
 - Large branch has fallen, 17th July :- [9805341](https://www.fixmystreet.com/report/9805341)
 - Wooden bridge planks come off and loose, 17th July :- [9805164](https://www.fixmystreet.com/report/9805164)
 - Hazard, 17th July :- [9804494](https://www.fixmystreet.com/report/9804494)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Overgrown tree causing obstruction, 17th July :- [9802778](https://www.fixmystreet.com/report/9802778)
 - TMC - Defects -CW6 Potholes  problem, 17th July :- [9802928](https://www.fixmystreet.com/report/9802928)
 - TMC - Defects -CW6 Potholes  problem, 17th July :- [9802934](https://www.fixmystreet.com/report/9802934)
-- TMC - Defects -CW6 Potholes  problem, 17th July :- [9802931](https://www.fixmystreet.com/report/9802931)
-- TMC - Defects -CW6 Potholes  problem, 17th July :- [9802929](https://www.fixmystreet.com/report/9802929)
-- TMC - Defects -CW6 Potholes  problem, 17th July :- [9802936](https://www.fixmystreet.com/report/9802936)
-- TMC - Defects -CW6 Potholes  problem, 17th July :- [9802935](https://www.fixmystreet.com/report/9802935)
 
 <!-- fix_marker ends -->
