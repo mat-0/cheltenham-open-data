@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Friday, 17 July 2026
 
-- The average temperature today is 16.41˚C,
-- With highs of 17.2˚C and lows of 14.83˚C,
-- It may feel like 16.06˚C with clear sky
-- The wind speed is 1.42m/s and visibility is 10000m
-- The pressure is 1017hPa and humidity is 75%
+- The average temperature today is 20.2˚C,
+- With highs of 21.5˚C and lows of 18.25˚C,
+- It may feel like 19.97˚C with clear sky
+- The wind speed is 0.45m/s and visibility is 10000m
+- The pressure is 1017hPa and humidity is 65%
 - The sun will rise at 04:08 and set at 20:19
 
 <!-- weather_marker ends -->

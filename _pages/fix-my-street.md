@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects -CW10 Potholes problem, 17th July :- [9800759](https://www.fixmystreet.com/report/9800759)
+- Fly tipped rubbish around park, 17th July :- [9800694](https://www.fixmystreet.com/report/9800694)
+- TMC - Defects - Vegetation problem, 17th July :- [9800634](https://www.fixmystreet.com/report/9800634)
 - The grass verge is totally overgrown on the exit of Haymes Road. The visibility is very bad and an accident waiting to happen., 16th July :- [9799615](https://www.fixmystreet.com/report/9799615)
 - Low branches causing obstruction on pavement, 16th July :- [9799994](https://www.fixmystreet.com/report/9799994)
 - Lots of litter on path, 16th July :- [9799669](https://www.fixmystreet.com/report/9799669)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -FW6 Potholes problem, 16th July :- [9798001](https://www.fixmystreet.com/report/9798001)
 - TMC - Defects -FW6 Potholes problem, 16th July :- [9798002](https://www.fixmystreet.com/report/9798002)
 - There are two/three deep potholes on the road edge that are dangerousl and deep, 16th July :- [9797930](https://www.fixmystreet.com/report/9797930)
-- TMC - Defects - Footways Slabs problem, 16th July :- [9797999](https://www.fixmystreet.com/report/9797999)
-- TMC - Defects - Footways Slabs problem, 16th July :- [9798000](https://www.fixmystreet.com/report/9798000)
-- TMC - Defects -FW6 Potholes problem, 16th July :- [9797998](https://www.fixmystreet.com/report/9797998)
 
 <!-- fix_marker ends -->
