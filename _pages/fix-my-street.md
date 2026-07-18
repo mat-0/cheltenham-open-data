@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- White lines at junction of tip road to main road completely worn away - VERY DANGEROUS, 18th July :- [9806002](https://www.fixmystreet.com/report/9806002)
 - Bad road surface, 17th July :- [9805458](https://www.fixmystreet.com/report/9805458)
 - Left filter not working., 17th July :- [9805440](https://www.fixmystreet.com/report/9805440)
 - Fridge & loads of stuff dumped in back road, 17th July :- [9805323](https://www.fixmystreet.com/report/9805323)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Traffic lights and crossings, 17th July :- [9796381](https://www.fixmystreet.com/report/9796381)
 - Overgrown tree causing obstruction, 17th July :- [9802778](https://www.fixmystreet.com/report/9802778)
 - TMC - Defects -CW6 Potholes  problem, 17th July :- [9802928](https://www.fixmystreet.com/report/9802928)
-- TMC - Defects -CW6 Potholes  problem, 17th July :- [9802936](https://www.fixmystreet.com/report/9802936)
 
 <!-- fix_marker ends -->
