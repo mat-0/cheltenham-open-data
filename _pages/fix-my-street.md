@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Multiple potholes around manhole, 18th July :- [9807363](https://www.fixmystreet.com/report/9807363)
+- Two sinkholes on the Bath Road near the entrance to Victoria Retreat, 18th July :- [9807217](https://www.fixmystreet.com/report/9807217)
 - Highway trees overhanging, 18th July :- [9806883](https://www.fixmystreet.com/report/9806883)
 - Water leak, 18th July :- [9806763](https://www.fixmystreet.com/report/9806763)
 - Another possible missed one, 18th July :- [9806576](https://www.fixmystreet.com/report/9806576)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Post or sign leaning slightly (less than 20 degrees) problem, 17th July :- [9804634](https://www.fixmystreet.com/report/9804634)
 - Dry pine needles all over the pavement making it look untidy, 17th July :- [9804329](https://www.fixmystreet.com/report/9804329)
 - Litter bags, 17th July :- [9803835](https://www.fixmystreet.com/report/9803835)
-- Large deep dangerous pot holes 12 inchs wide, 17th July :- [9803348](https://www.fixmystreet.com/report/9803348)
-- Please reopen FixMyStreet ref: 8473664, 17th July :- [9803263](https://www.fixmystreet.com/report/9803263)
 
 <!-- fix_marker ends -->
