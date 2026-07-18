@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Volunteer litter pick bags ready for collection, 18th July :- [9808793](https://www.fixmystreet.com/report/9808793)
 - Outside no 1 Hebden close, 18th July :- [9808241](https://www.fixmystreet.com/report/9808241)
 - Rubble, 18th July :- [9808225](https://www.fixmystreet.com/report/9808225)
 - Flytipping, 18th July :- [9808147](https://www.fixmystreet.com/report/9808147)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Dead tree with broken branches - safety risk, 17th July :- [9805316](https://www.fixmystreet.com/report/9805316)
 - Large branch has fallen, 17th July :- [9805341](https://www.fixmystreet.com/report/9805341)
 - Wooden bridge planks come off and loose, 17th July :- [9805164](https://www.fixmystreet.com/report/9805164)
-- Hazard, 17th July :- [9804494](https://www.fixmystreet.com/report/9804494)
 
 <!-- fix_marker ends -->
