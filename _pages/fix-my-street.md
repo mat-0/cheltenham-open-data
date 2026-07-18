@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Highway trees overhanging, 18th July :- [9806883](https://www.fixmystreet.com/report/9806883)
+- Water leak, 18th July :- [9806763](https://www.fixmystreet.com/report/9806763)
 - Another possible missed one, 18th July :- [9806576](https://www.fixmystreet.com/report/9806576)
 - Standing water, 18th July :- [9806354](https://www.fixmystreet.com/report/9806354)
 - Excessive rubbish littering, 18th July :- [9806312](https://www.fixmystreet.com/report/9806312)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Litter bags, 17th July :- [9803835](https://www.fixmystreet.com/report/9803835)
 - Large deep dangerous pot holes 12 inchs wide, 17th July :- [9803348](https://www.fixmystreet.com/report/9803348)
 - Please reopen FixMyStreet ref: 8473664, 17th July :- [9803263](https://www.fixmystreet.com/report/9803263)
-- Tree is damaged problem, 17th July :- [9803309](https://www.fixmystreet.com/report/9803309)
-- Other damage to pavement i.e. cobbles, raised mound/surface problem, 17th July :- [9803117](https://www.fixmystreet.com/report/9803117)
 
 <!-- fix_marker ends -->

@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Saturday, 18 July 2026
 
-- The average temperature today is 19.53˚C,
-- With highs of 19.98˚C and lows of 18.71˚C,
-- It may feel like 19.08˚C with clear sky
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1019hPa and humidity is 59%
+- The average temperature today is 22.78˚C,
+- With highs of 23.72˚C and lows of 21.96˚C,
+- It may feel like 22.47˚C with clear sky
+- The wind speed is 1.34m/s and visibility is 10000m
+- The pressure is 1019hPa and humidity is 52%
 - The sun will rise at 04:10 and set at 20:18
 
 <!-- weather_marker ends -->
