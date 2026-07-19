@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- 'Sharing my grief on TikTok gives my life purpose' ([6 hours ago](https://www.bbc.co.uk/news/articles/cn75740ezn8o?at_medium=RSS&at_campaign=rss))
-- In Pictures: Harbour Festival and highland cow ([6 hours ago](https://www.bbc.co.uk/news/articles/cly7y2x8p5do?at_medium=RSS&at_campaign=rss))
-- Promenade's controversial marquee to be replaced ([23 hours ago](https://www.bbc.co.uk/news/articles/c330vlk701vo?at_medium=RSS&at_campaign=rss))
+- 'Sharing my grief on TikTok gives my life purpose' ([8 hours ago](https://www.bbc.co.uk/news/articles/cn75740ezn8o?at_medium=RSS&at_campaign=rss))
+- In Pictures: Harbour Festival and highland cow ([8 hours ago](https://www.bbc.co.uk/news/articles/cly7y2x8p5do?at_medium=RSS&at_campaign=rss))
+- Promenade's controversial marquee to be replaced ([1 days ago](https://www.bbc.co.uk/news/articles/c330vlk701vo?at_medium=RSS&at_campaign=rss))
 - Mural of mayor who fed stray cats is unveiled ([1 days ago](https://www.bbc.co.uk/news/articles/c992e8xpep4o?at_medium=RSS&at_campaign=rss))
 - Bottomless tattoo events cheapen industry, say artists ([1 days ago](https://www.bbc.co.uk/news/articles/c9v2w4x4pl8o?at_medium=RSS&at_campaign=rss))
 - 'Drug consumption centre' and 'new council' ([1 days ago](https://www.bbc.co.uk/news/articles/c4gygep4y5ro?at_medium=RSS&at_campaign=rss))
@@ -33,8 +33,8 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - 'This bench may have saved my brother' ([2 days ago](https://www.bbc.co.uk/news/articles/cy746v3le4go?at_medium=RSS&at_campaign=rss))
 - Emergency department sees ‘busiest days ever’ as heatwaves affect medical kit ([2 days ago](https://gloucesternewscentre.co.uk/emergency-department-sees-busiest-days-ever-as-heatwaves-affect-medical-kit/))
 - Hearing into alleged misconduct of Chief Constable postponed ([2 days ago](https://gloucesternewscentre.co.uk/hearing-into-alleged-misconduct-of-chief-constable-postponed/))
-- Seven councils to become one to save £21m a year ([2 days ago](https://www.bbc.co.uk/news/articles/cj632xwp7n3o?at_medium=RSS&at_campaign=rss))
-- Wing walker, 97, attempting to break own record ([2 days ago](https://www.bbc.co.uk/news/articles/cm2gnv5qgqgo?at_medium=RSS&at_campaign=rss))
+- Seven councils to become one to save £21m a year ([3 days ago](https://www.bbc.co.uk/news/articles/cj632xwp7n3o?at_medium=RSS&at_campaign=rss))
+- Wing walker, 97, attempting to break own record ([3 days ago](https://www.bbc.co.uk/news/articles/cm2gnv5qgqgo?at_medium=RSS&at_campaign=rss))
 - Teenager's inquest to reopen after mum's campaign ([3 days ago](https://www.bbc.co.uk/news/articles/c79y9qnp340o?at_medium=RSS&at_campaign=rss))
 - Council revokes licence appeal for Hackney carriage driver ([3 days ago](https://gloucesternewscentre.co.uk/council-revokes-licence-appeal-for-hackney-carriage-driver/))
 - Gloucestershire’s councils will be replaced by one new unitary authority ([3 days ago](https://gloucesternewscentre.co.uk/gloucestershires-councils-will-be-replaced-by-one-new-unitary-authority/))

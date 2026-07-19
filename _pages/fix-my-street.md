@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Lane 2 traffic taking 1st exit off roundabout, whilst lane 1 can proceed to 2nd exit off the roundabout, 19th July :- [9811130](https://www.fixmystreet.com/report/9811130)
+- Fly tipped household goods, 19th July :- [9810944](https://www.fixmystreet.com/report/9810944)
 - 3 dead trees on verge outside our premises . Concerned that they have been dead a few years and especially now with this very dry weather could fall and cause danger to motorists or cyclists using Hyde lane or could seriously damage the telegraph poles that are in very close vicinity, 19th July :- [9810531](https://www.fixmystreet.com/report/9810531)
 - No. 5 have fenced off and laid decorative stone over part of the public footpath, creating private access and obstructing public manhole covers. A new ad hoc side gate has also been inserted into the wall between Nos. 5 and 6, altering the original boundary line. Historic Google images show this area was previously open (and now) adopted highway; as does the FixMyStreet Map., 19th July :- [9810352](https://www.fixmystreet.com/report/9810352)
 - Road, gutters and pavements in Hamilton St and Cudnall st, 19th July :- [9810340](https://www.fixmystreet.com/report/9810340)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Caravan parked on road with no vehicle attached, 18th July :- [9806195](https://www.fixmystreet.com/report/9806195)
 - White lines at junction of tip road to main road completely worn away - VERY DANGEROUS, 18th July :- [9806002](https://www.fixmystreet.com/report/9806002)
 - Bad road surface, 17th July :- [9805458](https://www.fixmystreet.com/report/9805458)
-- Left filter not working., 17th July :- [9805440](https://www.fixmystreet.com/report/9805440)
-- Fridge & loads of stuff dumped in back road, 17th July :- [9805323](https://www.fixmystreet.com/report/9805323)
 
 <!-- fix_marker ends -->
