@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Sunday, 19 July 2026
 
-- The average temperature today is 24.09˚C,
-- With highs of 24.36˚C and lows of 23.73˚C,
-- It may feel like 23.47˚C with broken clouds
-- The wind speed is 1.79m/s and visibility is 10000m
-- The pressure is 1023hPa and humidity is 35%
+- The average temperature today is 21.92˚C,
+- With highs of 22.2˚C and lows of 21.03˚C,
+- It may feel like 21.24˚C with clear sky
+- The wind speed is 1.34m/s and visibility is 10000m
+- The pressure is 1024hPa and humidity is 41%
 - The sun will rise at 04:11 and set at 20:17
 
 <!-- weather_marker ends -->

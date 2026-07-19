@@ -12,8 +12,8 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- 'Sharing my grief on TikTok gives my life purpose' ([10 hours ago](https://www.bbc.co.uk/news/articles/cn75740ezn8o?at_medium=RSS&at_campaign=rss))
-- In Pictures: Harbour Festival and highland cow ([10 hours ago](https://www.bbc.co.uk/news/articles/cly7y2x8p5do?at_medium=RSS&at_campaign=rss))
+- 'Sharing my grief on TikTok gives my life purpose' ([12 hours ago](https://www.bbc.co.uk/news/articles/cn75740ezn8o?at_medium=RSS&at_campaign=rss))
+- In Pictures: Harbour Festival and highland cow ([12 hours ago](https://www.bbc.co.uk/news/articles/cly7y2x8p5do?at_medium=RSS&at_campaign=rss))
 - Promenade's controversial marquee to be replaced ([1 days ago](https://www.bbc.co.uk/news/articles/c330vlk701vo?at_medium=RSS&at_campaign=rss))
 - Mural of mayor who fed stray cats is unveiled ([1 days ago](https://www.bbc.co.uk/news/articles/c992e8xpep4o?at_medium=RSS&at_campaign=rss))
 - Bottomless tattoo events cheapen industry, say artists ([1 days ago](https://www.bbc.co.uk/news/articles/c9v2w4x4pl8o?at_medium=RSS&at_campaign=rss))
@@ -39,7 +39,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Council revokes licence appeal for Hackney carriage driver ([3 days ago](https://gloucesternewscentre.co.uk/council-revokes-licence-appeal-for-hackney-carriage-driver/))
 - Gloucestershire’s councils will be replaced by one new unitary authority ([3 days ago](https://gloucesternewscentre.co.uk/gloucestershires-councils-will-be-replaced-by-one-new-unitary-authority/))
 - Man arrested following stabbing in Cheltenham ([3 days ago](https://gloucesternewscentre.co.uk/man-arrested-following-stabbing-in-cheltenham/))
-- Plans for 20mph speed limits defended ([8 days ago](https://gloucesternewscentre.co.uk/plans-for-20mph-speed-limits-defended/))
+- Plans for 20mph speed limits defended ([9 days ago](https://gloucesternewscentre.co.uk/plans-for-20mph-speed-limits-defended/))
 - Calls for funding commitment for M5 junction revamp ([9 days ago](https://gloucesternewscentre.co.uk/calls-for-funding-commitment-for-m5-junction-revamp/))
 - Gloucestershire Library Challenge returns ([11 days ago](https://gloucesternewscentre.co.uk/gloucestershire-library-challenge-returns/))
 - Survey reveals public harassment faced by girls in Cheltenham ([11 days ago](https://gloucesternewscentre.co.uk/survey-reveals-public-harassment-faced-by-girls-in-cheltenham/))
