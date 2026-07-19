@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 3 dead trees on verge outside our premises . Concerned that they have been dead a few years and especially now with this very dry weather could fall and cause danger to motorists or cyclists using Hyde lane or could seriously damage the telegraph poles that are in very close vicinity, 19th July :- [9810531](https://www.fixmystreet.com/report/9810531)
+- No. 5 have fenced off and laid decorative stone over part of the public footpath, creating private access and obstructing public manhole covers. A new ad hoc side gate has also been inserted into the wall between Nos. 5 and 6, altering the original boundary line. Historic Google images show this area was previously open (and now) adopted highway; as does the FixMyStreet Map., 19th July :- [9810352](https://www.fixmystreet.com/report/9810352)
+- Road, gutters and pavements in Hamilton St and Cudnall st, 19th July :- [9810340](https://www.fixmystreet.com/report/9810340)
 - Volunteer litter pick bags ready for collection, 18th July :- [9808793](https://www.fixmystreet.com/report/9808793)
 - Outside no 1 Hebden close, 18th July :- [9808241](https://www.fixmystreet.com/report/9808241)
 - Rubble, 18th July :- [9808225](https://www.fixmystreet.com/report/9808225)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Bad road surface, 17th July :- [9805458](https://www.fixmystreet.com/report/9805458)
 - Left filter not working., 17th July :- [9805440](https://www.fixmystreet.com/report/9805440)
 - Fridge & loads of stuff dumped in back road, 17th July :- [9805323](https://www.fixmystreet.com/report/9805323)
-- Dead tree with broken branches - safety risk, 17th July :- [9805316](https://www.fixmystreet.com/report/9805316)
-- Large branch has fallen, 17th July :- [9805341](https://www.fixmystreet.com/report/9805341)
-- Wooden bridge planks come off and loose, 17th July :- [9805164](https://www.fixmystreet.com/report/9805164)
 
 <!-- fix_marker ends -->
