@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Towel draped over streetlight, 20th July :- [9813253](https://www.fixmystreet.com/report/9813253)
+- TMC - Defects - Other FW6  Surface problem, 20th July :- [9813181](https://www.fixmystreet.com/report/9813181)
+- TMC - Defects - Footways Slabs problem, 20th July :- [9813180](https://www.fixmystreet.com/report/9813180)
+- TMC - Defects - Other FW6  Surface problem, 20th July :- [9813179](https://www.fixmystreet.com/report/9813179)
+- Bin overflowing, 20th July :- [9812860](https://www.fixmystreet.com/report/9812860)
 - Streetlight is out, but flickers occasionally between off and bright light at random intervals, 20th July :- [9812636](https://www.fixmystreet.com/report/9812636)
 - Footpath blocked as gate is padlocked with a chain, 19th July :- [9811856](https://www.fixmystreet.com/report/9811856)
 - Recently replaced but tripping hazard. On the margin of inch in depth, 19th July :- [9811508](https://www.fixmystreet.com/report/9811508)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Outside no 1 Hebden close, 18th July :- [9808241](https://www.fixmystreet.com/report/9808241)
 - Rubble, 18th July :- [9808225](https://www.fixmystreet.com/report/9808225)
 - Flytipping, 18th July :- [9808147](https://www.fixmystreet.com/report/9808147)
-- Red barriers left instead of fixing problem, 18th July :- [9807742](https://www.fixmystreet.com/report/9807742)
-- Multiple potholes around manhole, 18th July :- [9807363](https://www.fixmystreet.com/report/9807363)
-- Two sinkholes on the Bath Road near the entrance to Victoria Retreat, 18th July :- [9807217](https://www.fixmystreet.com/report/9807217)
-- Highway trees overhanging, 18th July :- [9806883](https://www.fixmystreet.com/report/9806883)
-- Water leak, 18th July :- [9806763](https://www.fixmystreet.com/report/9806763)
 
 <!-- fix_marker ends -->
