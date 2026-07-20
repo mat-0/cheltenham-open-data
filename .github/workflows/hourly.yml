@@ -40,7 +40,7 @@ jobs:
                   curl "https://data.police.uk/api/crimes-street/stops-street?lat=51.9042&lng=-2.10141" | jq . > _data/AA3_stops_street.json
 
             - name: Set up Python
-              uses: actions/setup-python@v6
+              uses: actions/setup-python@v7
               with:
                   python-version: 3.13.2
 
