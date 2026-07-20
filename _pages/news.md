@@ -12,8 +12,8 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- 'My son died of meningitis - young people must get new jab' ([2 hours ago](https://www.bbc.co.uk/news/articles/cly80908jlvo?at_medium=RSS&at_campaign=rss))
-- 'Hidden time-capsule of UK biodiversity' unlocked ([2 hours ago](https://www.bbc.co.uk/news/articles/cze9ee1yej9o?at_medium=RSS&at_campaign=rss))
+- 'My son died of meningitis - young people must get new jab' ([4 hours ago](https://www.bbc.co.uk/news/articles/cly80908jlvo?at_medium=RSS&at_campaign=rss))
+- 'Hidden time-capsule of UK biodiversity' unlocked ([4 hours ago](https://www.bbc.co.uk/news/articles/cze9ee1yej9o?at_medium=RSS&at_campaign=rss))
 - 'Sharing my grief on TikTok gives my life purpose' ([1 days ago](https://www.bbc.co.uk/news/articles/cn75740ezn8o?at_medium=RSS&at_campaign=rss))
 - In Pictures: Harbour Festival and highland cow ([1 days ago](https://www.bbc.co.uk/news/articles/cly7y2x8p5do?at_medium=RSS&at_campaign=rss))
 - Promenade's controversial marquee to be replaced ([1 days ago](https://www.bbc.co.uk/news/articles/c330vlk701vo?at_medium=RSS&at_campaign=rss))
@@ -29,7 +29,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Trio sentenced for 'substantial' brothel network ([2 days ago](https://www.bbc.co.uk/news/articles/cjrv33ny23go?at_medium=RSS&at_campaign=rss))
 - Chief Constable accused of misconduct to leave job ([2 days ago](https://www.bbc.co.uk/news/articles/cly5vv4d0zwo?at_medium=RSS&at_campaign=rss))
 - Man due in court after alleged car park stabbing ([2 days ago](https://www.bbc.co.uk/news/articles/ckg9m2gmv3jo?at_medium=RSS&at_campaign=rss))
-- Delays and diversions amid weekend A-road closure ([2 days ago](https://www.bbc.co.uk/news/articles/c74gj4914x9o?at_medium=RSS&at_campaign=rss))
+- Delays and diversions amid weekend A-road closure ([3 days ago](https://www.bbc.co.uk/news/articles/c74gj4914x9o?at_medium=RSS&at_campaign=rss))
 - Chicken poo plant plans rejected over traffic fears ([3 days ago](https://www.bbc.co.uk/news/articles/ce85dq9qvvlo?at_medium=RSS&at_campaign=rss))
 - Protection order set for car park used by homeless ([3 days ago](https://www.bbc.co.uk/news/articles/cdr47zpkn6po?at_medium=RSS&at_campaign=rss))
 - 'This bench may have saved my brother' ([3 days ago](https://www.bbc.co.uk/news/articles/cy746v3le4go?at_medium=RSS&at_campaign=rss))
