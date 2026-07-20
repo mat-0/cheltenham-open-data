@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Monday, 20 July 2026
 
-- The average temperature today is 10.51˚C,
-- With highs of 11.5˚C and lows of 8.8˚C,
-- It may feel like 9.71˚C with broken clouds
-- The wind speed is 1.07m/s and visibility is 10000m
-- The pressure is 1026hPa and humidity is 80%
+- The average temperature today is 12.22˚C,
+- With highs of 13.3˚C and lows of 10.95˚C,
+- It may feel like 11.51˚C with broken clouds
+- The wind speed is 1.08m/s and visibility is 10000m
+- The pressure is 1028hPa and humidity is 77%
 - The sun will rise at 04:12 and set at 20:16
 
 <!-- weather_marker ends -->
