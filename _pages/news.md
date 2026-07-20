@@ -12,8 +12,8 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- 'Sharing my grief on TikTok gives my life purpose' ([16 hours ago](https://www.bbc.co.uk/news/articles/cn75740ezn8o?at_medium=RSS&at_campaign=rss))
-- In Pictures: Harbour Festival and highland cow ([16 hours ago](https://www.bbc.co.uk/news/articles/cly7y2x8p5do?at_medium=RSS&at_campaign=rss))
+- 'Sharing my grief on TikTok gives my life purpose' ([18 hours ago](https://www.bbc.co.uk/news/articles/cn75740ezn8o?at_medium=RSS&at_campaign=rss))
+- In Pictures: Harbour Festival and highland cow ([19 hours ago](https://www.bbc.co.uk/news/articles/cly7y2x8p5do?at_medium=RSS&at_campaign=rss))
 - Promenade's controversial marquee to be replaced ([1 days ago](https://www.bbc.co.uk/news/articles/c330vlk701vo?at_medium=RSS&at_campaign=rss))
 - Mural of mayor who fed stray cats is unveiled ([1 days ago](https://www.bbc.co.uk/news/articles/c992e8xpep4o?at_medium=RSS&at_campaign=rss))
 - Bottomless tattoo events cheapen industry, say artists ([1 days ago](https://www.bbc.co.uk/news/articles/c9v2w4x4pl8o?at_medium=RSS&at_campaign=rss))

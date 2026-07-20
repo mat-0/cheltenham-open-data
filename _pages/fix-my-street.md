@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Streetlight is out, but flickers occasionally between off and bright light at random intervals, 20th July :- [9812636](https://www.fixmystreet.com/report/9812636)
 - Footpath blocked as gate is padlocked with a chain, 19th July :- [9811856](https://www.fixmystreet.com/report/9811856)
 - Recently replaced but tripping hazard. On the margin of inch in depth, 19th July :- [9811508](https://www.fixmystreet.com/report/9811508)
 - Tripping hazard over 2.5cm, 19th July :- [9811458](https://www.fixmystreet.com/report/9811458)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Two sinkholes on the Bath Road near the entrance to Victoria Retreat, 18th July :- [9807217](https://www.fixmystreet.com/report/9807217)
 - Highway trees overhanging, 18th July :- [9806883](https://www.fixmystreet.com/report/9806883)
 - Water leak, 18th July :- [9806763](https://www.fixmystreet.com/report/9806763)
-- Another possible missed one, 18th July :- [9806576](https://www.fixmystreet.com/report/9806576)
 
 <!-- fix_marker ends -->
