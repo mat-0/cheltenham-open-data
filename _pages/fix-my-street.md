@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Grass/weeds severely impairing visibility in both directions, 20th July :- [9818896](https://www.fixmystreet.com/report/9818896)
+- Large dead tree branch close to pavement, 20th July :- [9818758](https://www.fixmystreet.com/report/9818758)
+- Not a pothole yet but the road is subsiding. It is very noticeable and scary when a passenger on a bus and feels like the bus might tip over. Bus drivers have to slow down to drive over it., 20th July :- [9818560](https://www.fixmystreet.com/report/9818560)
 - Flytipping, 20th July :- [9818396](https://www.fixmystreet.com/report/9818396)
 - We are trying to save water. there is sranding water in this lane near Home Farm. in this heat there is no water anywhere else., 20th July :- [9818321](https://www.fixmystreet.com/report/9818321)
 - Flytipped sofas, 20th July :- [9817647](https://www.fixmystreet.com/report/9817647)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Footways Slabs problem, 20th July :- [9816355](https://www.fixmystreet.com/report/9816355)
 - TMC - Defects - Footways Slabs problem, 20th July :- [9816354](https://www.fixmystreet.com/report/9816354)
 - Sign faces wrong direction, 20th July :- [9816200](https://www.fixmystreet.com/report/9816200)
-- TMC - Defects - Footways Slabs problem, 20th July :- [9816327](https://www.fixmystreet.com/report/9816327)
-- TMC - Defects - Other FW6  Surface problem, 20th July :- [9816328](https://www.fixmystreet.com/report/9816328)
-- TMC - Defects - Footways Slabs problem, 20th July :- [9816326](https://www.fixmystreet.com/report/9816326)
 
 <!-- fix_marker ends -->
