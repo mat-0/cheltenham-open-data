@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipping, 20th July :- [9818396](https://www.fixmystreet.com/report/9818396)
+- We are trying to save water. there is sranding water in this lane near Home Farm. in this heat there is no water anywhere else., 20th July :- [9818321](https://www.fixmystreet.com/report/9818321)
 - Flytipped sofas, 20th July :- [9817647](https://www.fixmystreet.com/report/9817647)
 - Keep clear road signage worn, 20th July :- [9817583](https://www.fixmystreet.com/report/9817583)
 - Fly tipping entrance to business park, 20th July :- [9817119](https://www.fixmystreet.com/report/9817119)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Footways Slabs problem, 20th July :- [9816327](https://www.fixmystreet.com/report/9816327)
 - TMC - Defects - Other FW6  Surface problem, 20th July :- [9816328](https://www.fixmystreet.com/report/9816328)
 - TMC - Defects - Footways Slabs problem, 20th July :- [9816326](https://www.fixmystreet.com/report/9816326)
-- TMC - Defects - Other FW6  Surface problem, 20th July :- [9816329](https://www.fixmystreet.com/report/9816329)
-- TMC - Defects - Other FW6  Surface problem, 20th July :- [9816104](https://www.fixmystreet.com/report/9816104)
 
 <!-- fix_marker ends -->
