@@ -3,8 +3,8 @@
 
 <rss version="2.0"
  xmlns:atom="http://www.w3.org/2005/Atom"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -169,21 +169,21 @@
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 21st July</title>
-<link>https://www.fixmystreet.com/report/9822110</link>
-<description>15DB &amp;#10;Pothole CW 620mm  x 600mm  x 44mm &amp;#10;Road Closure TM (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9822110&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9822110</guid>
-<pubDate>Tue, 21 Jul 2026 12:20:38 +0100</pubDate>
-<georss:point>51.8865852 -2.04893440000001</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 21st July</title>
 <link>https://www.fixmystreet.com/report/9822109</link>
 <description>15DB &amp;#10;Pothole CW 600mm  x 450mm  x 42mm &amp;#10;Road Closure TM (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9822109&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
 <guid isPermaLink="false">https://www.fixmystreet.com/report/9822109</guid>
 <pubDate>Tue, 21 Jul 2026 12:20:38 +0100</pubDate>
 <georss:point>51.8865654 -2.04912309999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 21st July</title>
+<link>https://www.fixmystreet.com/report/9822110</link>
+<description>15DB &amp;#10;Pothole CW 620mm  x 600mm  x 44mm &amp;#10;Road Closure TM (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9822110&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9822110</guid>
+<pubDate>Tue, 21 Jul 2026 12:20:38 +0100</pubDate>
+<georss:point>51.8865852 -2.04893440000001</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 21st July</title>

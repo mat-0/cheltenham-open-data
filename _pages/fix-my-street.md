@@ -26,8 +26,8 @@ permalink: /fix-my-street
 - Pedestrian crossing button in middle of road not working, 21st July :- [9822239](https://www.fixmystreet.com/report/9822239)
 - TMC - Defects - Other FW6  Surface problem, 21st July :- [9822371](https://www.fixmystreet.com/report/9822371)
 - Unsafe widths DANGER to life - streetworks permit team, 21st July :- [9822166](https://www.fixmystreet.com/report/9822166)
-- TMC - Defects -CW6 Potholes  problem, 21st July :- [9822110](https://www.fixmystreet.com/report/9822110)
 - TMC - Defects -CW6 Potholes  problem, 21st July :- [9822109](https://www.fixmystreet.com/report/9822109)
+- TMC - Defects -CW6 Potholes  problem, 21st July :- [9822110](https://www.fixmystreet.com/report/9822110)
 - TMC - Defects -CW6 Potholes  problem, 21st July :- [9822107](https://www.fixmystreet.com/report/9822107)
 
 <!-- fix_marker ends -->
