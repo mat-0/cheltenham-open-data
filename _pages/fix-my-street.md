@@ -9,6 +9,14 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- All rubbish emptied from bin and attempted a fire., 21st July :- [9819962](https://www.fixmystreet.com/report/9819962)
+- TMC - Defects - Other FW6  Surface problem, 21st July :- [9819939](https://www.fixmystreet.com/report/9819939)
+- TMC - Defects -CW6 Potholes  problem, 21st July :- [9819942](https://www.fixmystreet.com/report/9819942)
+- TMC - Defects - Footways Slabs problem, 21st July :- [9819937](https://www.fixmystreet.com/report/9819937)
+- TMC - Defects - Footways Slabs problem, 21st July :- [9819936](https://www.fixmystreet.com/report/9819936)
+- TMC - Defects - Road Markings problem, 21st July :- [9819941](https://www.fixmystreet.com/report/9819941)
+- TMC - Defects -CW6 Potholes  problem, 21st July :- [9819940](https://www.fixmystreet.com/report/9819940)
+- TMC - Defects - Other FW6  Surface problem, 21st July :- [9819938](https://www.fixmystreet.com/report/9819938)
 - Dumped rubbish, 21st July :- [9818065](https://www.fixmystreet.com/report/9818065)
 - Grass/weeds severely impairing visibility in both directions, 20th July :- [9818896](https://www.fixmystreet.com/report/9818896)
 - Large dead tree branch close to pavement, 20th July :- [9818758](https://www.fixmystreet.com/report/9818758)
@@ -21,13 +29,5 @@ permalink: /fix-my-street
 - Weeds on Pavement and Kerb, 20th July :- [9817440](https://www.fixmystreet.com/report/9817440)
 - Collapse of carriageway causing vehicles to belly out, 20th July :- [9817412](https://www.fixmystreet.com/report/9817412)
 - Weeds in pavement, 20th July :- [9817407](https://www.fixmystreet.com/report/9817407)
-- Significant weeds in pavements, 20th July :- [9817355](https://www.fixmystreet.com/report/9817355)
-- Tree is damaged problem, 20th July :- [9817220](https://www.fixmystreet.com/report/9817220)
-- Volunteer litter picker, 20th July :- [9817026](https://www.fixmystreet.com/report/9817026)
-- Court Road junction to Roman Way near paddock, Brockworth, 20th July :- [9816719](https://www.fixmystreet.com/report/9816719)
-- TMC - Defects -CW6 Potholes  problem, 20th July :- [9816824](https://www.fixmystreet.com/report/9816824)
-- TMC - Defects - Covers, Gratings & Frames problem, 20th July :- [9816603](https://www.fixmystreet.com/report/9816603)
-- TMC - Defects - Footways Slabs problem, 20th July :- [9816355](https://www.fixmystreet.com/report/9816355)
-- TMC - Defects - Footways Slabs problem, 20th July :- [9816354](https://www.fixmystreet.com/report/9816354)
 
 <!-- fix_marker ends -->
