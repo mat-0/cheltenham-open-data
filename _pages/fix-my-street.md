@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dumped rubbish, 21st July :- [9818065](https://www.fixmystreet.com/report/9818065)
 - Grass/weeds severely impairing visibility in both directions, 20th July :- [9818896](https://www.fixmystreet.com/report/9818896)
 - Large dead tree branch close to pavement, 20th July :- [9818758](https://www.fixmystreet.com/report/9818758)
 - Not a pothole yet but the road is subsiding. It is very noticeable and scary when a passenger on a bus and feels like the bus might tip over. Bus drivers have to slow down to drive over it., 20th July :- [9818560](https://www.fixmystreet.com/report/9818560)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Covers, Gratings & Frames problem, 20th July :- [9816603](https://www.fixmystreet.com/report/9816603)
 - TMC - Defects - Footways Slabs problem, 20th July :- [9816355](https://www.fixmystreet.com/report/9816355)
 - TMC - Defects - Footways Slabs problem, 20th July :- [9816354](https://www.fixmystreet.com/report/9816354)
-- Sign faces wrong direction, 20th July :- [9816200](https://www.fixmystreet.com/report/9816200)
 
 <!-- fix_marker ends -->
