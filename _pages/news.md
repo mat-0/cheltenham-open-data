@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- "Extraordinary sight" of rare bird from Asia spotted in Gloucestershire ([9 hours ago](https://www.bbc.co.uk/news/videos/c8dnmv7356do?at_medium=RSS&at_campaign=rss))
-- Parking charges could 'price families out of skating' ([9 hours ago](https://www.bbc.co.uk/news/articles/cpvwy818wxzo?at_medium=RSS&at_campaign=rss))
-- Esports school will use computer games in teaching ([9 hours ago](https://www.bbc.co.uk/news/articles/clyevel9gnyo?at_medium=RSS&at_campaign=rss))
-- Man in court after alleged car park stabbing ([12 hours ago](https://www.bbc.co.uk/news/articles/czrj7zj7kl6o?at_medium=RSS&at_campaign=rss))
-- 'My son died of meningitis - young people must get new jab' ([19 hours ago](https://www.bbc.co.uk/news/articles/cly80908jlvo?at_medium=RSS&at_campaign=rss))
-- 'Hidden time-capsule of UK biodiversity' unlocked ([19 hours ago](https://www.bbc.co.uk/news/articles/cze9ee1yej9o?at_medium=RSS&at_campaign=rss))
+- "Extraordinary sight" of rare bird from Asia spotted in Gloucestershire ([11 hours ago](https://www.bbc.co.uk/news/videos/c8dnmv7356do?at_medium=RSS&at_campaign=rss))
+- Parking charges could 'price families out of skating' ([12 hours ago](https://www.bbc.co.uk/news/articles/cpvwy818wxzo?at_medium=RSS&at_campaign=rss))
+- Esports school will use computer games in teaching ([12 hours ago](https://www.bbc.co.uk/news/articles/clyevel9gnyo?at_medium=RSS&at_campaign=rss))
+- Man in court after alleged car park stabbing ([14 hours ago](https://www.bbc.co.uk/news/articles/czrj7zj7kl6o?at_medium=RSS&at_campaign=rss))
+- 'My son died of meningitis - young people must get new jab' ([22 hours ago](https://www.bbc.co.uk/news/articles/cly80908jlvo?at_medium=RSS&at_campaign=rss))
+- 'Hidden time-capsule of UK biodiversity' unlocked ([22 hours ago](https://www.bbc.co.uk/news/articles/cze9ee1yej9o?at_medium=RSS&at_campaign=rss))
 - 'Sharing my grief on TikTok gives my life purpose' ([1 days ago](https://www.bbc.co.uk/news/articles/cn75740ezn8o?at_medium=RSS&at_campaign=rss))
 - In Pictures: Harbour Festival and highland cow ([1 days ago](https://www.bbc.co.uk/news/articles/cly7y2x8p5do?at_medium=RSS&at_campaign=rss))
 - Promenade's controversial marquee to be replaced ([2 days ago](https://www.bbc.co.uk/news/articles/c330vlk701vo?at_medium=RSS&at_campaign=rss))

@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Tuesday, 21 July 2026
 
-- The average temperature today is 14.73˚C,
-- With highs of 14.82˚C and lows of 14.73˚C,
-- It may feel like 14.03˚C with clear sky
-- The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1027hPa and humidity is 68%
+- The average temperature today is 12.73˚C,
+- With highs of 13.8˚C and lows of 11.96˚C,
+- It may feel like 12.12˚C with scattered clouds
+- The wind speed is 2.17m/s and visibility is 10000m
+- The pressure is 1029hPa and humidity is 79%
 - The sun will rise at 04:14 and set at 20:14
 
 <!-- weather_marker ends -->
