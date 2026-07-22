@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pavement obstructed by overgrown shrubbery, 22nd July :- [9831416](https://www.fixmystreet.com/report/9831416)
+- Bin bag of rubbish, 22nd July :- [9831263](https://www.fixmystreet.com/report/9831263)
 - Graffiti all over Perspex, 22nd July :- [9830773](https://www.fixmystreet.com/report/9830773)
 - All the Path is covered with falen branches, load of rubish are there as will, broken glass etc, 22nd July :- [9830726](https://www.fixmystreet.com/report/9830726)
 - Flytipped furniture on Vernon Place, 22nd July :- [9830717](https://www.fixmystreet.com/report/9830717)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 22nd July :- [9829111](https://www.fixmystreet.com/report/9829111)
 - Large pothole which is not visible, 22nd July :- [9828269](https://www.fixmystreet.com/report/9828269)
 - Outside 41 the burgage the roadmarkings have faded completely, 22nd July :- [9828936](https://www.fixmystreet.com/report/9828936)
-- TMC - Defects -other CW6 problem, 22nd July :- [9829106](https://www.fixmystreet.com/report/9829106)
-- TMC - Defects -other CW6 problem, 22nd July :- [9828914](https://www.fixmystreet.com/report/9828914)
 
 <!-- fix_marker ends -->
