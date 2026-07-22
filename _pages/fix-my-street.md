@@ -9,6 +9,16 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- PEDESTRIAN SIGN POST HAS BEEN TURNED THOUGH 90 deg., 22nd July :- [9826374](https://www.fixmystreet.com/report/9826374)
+- 5 Railings on grass, 22nd July :- [9826335](https://www.fixmystreet.com/report/9826335)
+- TMC - Defects -CW6 Potholes  problem, 22nd July :- [9826351](https://www.fixmystreet.com/report/9826351)
+- TMC - Defects -CW6 Potholes  problem, 22nd July :- [9826352](https://www.fixmystreet.com/report/9826352)
+- TMC - Defects -CW6 Potholes  problem, 22nd July :- [9826353](https://www.fixmystreet.com/report/9826353)
+- TMC - Defects -other CW6 problem, 22nd July :- [9826354](https://www.fixmystreet.com/report/9826354)
+- Lights been knocked down, 22nd July :- [9826159](https://www.fixmystreet.com/report/9826159)
+- TMC - Defects -CW6 Potholes  problem, 22nd July :- [9826126](https://www.fixmystreet.com/report/9826126)
+- TMC - Defects - Other FW6  Surface problem, 22nd July :- [9826125](https://www.fixmystreet.com/report/9826125)
+- Middle of Arle gardens, 22nd July :- [9825984](https://www.fixmystreet.com/report/9825984)
 - Water leak for over 10 days. Continuous flow of water., 22nd July :- [9825758](https://www.fixmystreet.com/report/9825758)
 - A dumped supermarket trolley, 21st July :- [9824751](https://www.fixmystreet.com/report/9824751)
 - Fly tipped nitrous canisters, 21st July :- [9824722](https://www.fixmystreet.com/report/9824722)
@@ -16,18 +26,8 @@ permalink: /fix-my-street
 - By electric charger, 21st July :- [9823797](https://www.fixmystreet.com/report/9823797)
 - School Sign is facing towards Church and away from street, 21st July :- [9823580](https://www.fixmystreet.com/report/9823580)
 - Tree is overgrown and blocking pavement, 21st July :- [9823192](https://www.fixmystreet.com/report/9823192)
+- TMC - Defects - Kerbs and Channels problem, 21st July :- [9823099](https://www.fixmystreet.com/report/9823099)
 - TMC - Defects -CW6 Potholes  problem, 21st July :- [9823103](https://www.fixmystreet.com/report/9823103)
 - TMC - Defects -CW6 Potholes  problem, 21st July :- [9823100](https://www.fixmystreet.com/report/9823100)
-- TMC - Defects - Kerbs and Channels problem, 21st July :- [9823099](https://www.fixmystreet.com/report/9823099)
-- TMC - Defects -CW6 Potholes  problem, 21st July :- [9823102](https://www.fixmystreet.com/report/9823102)
-- Footpath closed still, more than 2 years without being fixed, 21st July :- [9822959](https://www.fixmystreet.com/report/9822959)
-- TMC - Defects -CW6 Potholes  problem, 21st July :- [9822879](https://www.fixmystreet.com/report/9822879)
-- TMC - Defects -CW6 Potholes  problem, 21st July :- [9822878](https://www.fixmystreet.com/report/9822878)
-- TMC - Defects - Vegetation problem, 21st July :- [9822875](https://www.fixmystreet.com/report/9822875)
-- New interactive sign is set at the wrong speed limit, 21st July :- [9822297](https://www.fixmystreet.com/report/9822297)
-- TMC - Defects -other CW6 problem, 21st July :- [9822378](https://www.fixmystreet.com/report/9822378)
-- TMC - Defects -other CW6 problem, 21st July :- [9822379](https://www.fixmystreet.com/report/9822379)
-- Pedestrian crossing button in middle of road not working, 21st July :- [9822239](https://www.fixmystreet.com/report/9822239)
-- TMC - Defects - Other FW6  Surface problem, 21st July :- [9822371](https://www.fixmystreet.com/report/9822371)
 
 <!-- fix_marker ends -->
