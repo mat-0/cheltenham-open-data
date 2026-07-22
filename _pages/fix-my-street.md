@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Water leak for over 10 days. Continuous flow of water., 22nd July :- [9825758](https://www.fixmystreet.com/report/9825758)
 - A dumped supermarket trolley, 21st July :- [9824751](https://www.fixmystreet.com/report/9824751)
 - Fly tipped nitrous canisters, 21st July :- [9824722](https://www.fixmystreet.com/report/9824722)
 - 2 large potholes pn the road up to the church, 21st July :- [9824668](https://www.fixmystreet.com/report/9824668)
@@ -17,8 +18,8 @@ permalink: /fix-my-street
 - Tree is overgrown and blocking pavement, 21st July :- [9823192](https://www.fixmystreet.com/report/9823192)
 - TMC - Defects -CW6 Potholes  problem, 21st July :- [9823103](https://www.fixmystreet.com/report/9823103)
 - TMC - Defects -CW6 Potholes  problem, 21st July :- [9823100](https://www.fixmystreet.com/report/9823100)
-- TMC - Defects -CW6 Potholes  problem, 21st July :- [9823102](https://www.fixmystreet.com/report/9823102)
 - TMC - Defects - Kerbs and Channels problem, 21st July :- [9823099](https://www.fixmystreet.com/report/9823099)
+- TMC - Defects -CW6 Potholes  problem, 21st July :- [9823102](https://www.fixmystreet.com/report/9823102)
 - Footpath closed still, more than 2 years without being fixed, 21st July :- [9822959](https://www.fixmystreet.com/report/9822959)
 - TMC - Defects -CW6 Potholes  problem, 21st July :- [9822879](https://www.fixmystreet.com/report/9822879)
 - TMC - Defects -CW6 Potholes  problem, 21st July :- [9822878](https://www.fixmystreet.com/report/9822878)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -other CW6 problem, 21st July :- [9822379](https://www.fixmystreet.com/report/9822379)
 - Pedestrian crossing button in middle of road not working, 21st July :- [9822239](https://www.fixmystreet.com/report/9822239)
 - TMC - Defects - Other FW6  Surface problem, 21st July :- [9822371](https://www.fixmystreet.com/report/9822371)
-- Unsafe widths DANGER to life - streetworks permit team, 21st July :- [9822166](https://www.fixmystreet.com/report/9822166)
 
 <!-- fix_marker ends -->
