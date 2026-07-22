@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Cycle path pedestrian path bollard broken, 22nd July :- [9830387](https://www.fixmystreet.com/report/9830387)
 - Streetlight permanently out since new one put in, 22nd July :- [9829745](https://www.fixmystreet.com/report/9829745)
 - Tree is damaged problem, 22nd July :- [9829762](https://www.fixmystreet.com/report/9829762)
 - TMC - Defects - Vegetation problem, 22nd July :- [9829569](https://www.fixmystreet.com/report/9829569)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Footways Slabs problem, 22nd July :- [9828468](https://www.fixmystreet.com/report/9828468)
 - Obstructed footpath, 22nd July :- [9828179](https://www.fixmystreet.com/report/9828179)
 - TMC - Defects - Vegetation problem, 22nd July :- [9828013](https://www.fixmystreet.com/report/9828013)
-- TMC - Defects - Vegetation problem, 22nd July :- [9828015](https://www.fixmystreet.com/report/9828015)
 
 <!-- fix_marker ends -->
