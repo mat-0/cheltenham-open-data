@@ -9,13 +9,13 @@ permalink: /
 ![Logo](/images/logo.jpg){:width="860px"}
 
 <!-- weather_marker starts -->
-## On Tuesday, 21 July 2026
+## On Wednesday, 22 July 2026
 
-- The average temperature today is 17.04˚C,
-- With highs of 17.04˚C and lows of 17.04˚C,
-- It may feel like 16.71˚C with broken clouds
-- The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1027hPa and humidity is 73%
+- The average temperature today is 14.26˚C,
+- With highs of 16.58˚C and lows of 14.26˚C,
+- It may feel like 13.96˚C with clear sky
+- The wind speed is 2.93m/s and visibility is 10000m
+- The pressure is 1027hPa and humidity is 85%
 - The sun will rise at 04:15 and set at 20:13
 
 <!-- weather_marker ends -->
@@ -45,7 +45,7 @@ Given proximity to GCHQ...
 ### SEVERE
 
 - Current Threat Level: SEVERE
-- It has been 82 days since the last change (2026-04-30)
+- It has been 83 days since the last change (2026-04-30)
 - Details: <p>The current national threat level is SEVERE. &nbsp;The threat to Northern Ireland from Northern Ireland-related terrorism is SUBSTANTIAL.</p>
 
 <!-- threat_marker ends -->
