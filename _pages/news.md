@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Teen claims drug dealer 'lunged' before fatal blow ([6 hours ago](https://www.bbc.co.uk/news/articles/cp9en99235zo?at_medium=RSS&at_campaign=rss))
-- 'Lip King' banned twice before woman's BBL death ([16 hours ago](https://www.bbc.co.uk/news/articles/c1w1q8w0xzwo?at_medium=RSS&at_campaign=rss))
-- 'I was abused after meeting man on dating app' ([16 hours ago](https://www.bbc.co.uk/news/articles/c0qvdyl10l5o?at_medium=RSS&at_campaign=rss))
+- Teen claims drug dealer 'lunged' before fatal blow ([8 hours ago](https://www.bbc.co.uk/news/articles/cp9en99235zo?at_medium=RSS&at_campaign=rss))
+- 'Lip King' banned twice before woman's BBL death ([17 hours ago](https://www.bbc.co.uk/news/articles/c1w1q8w0xzwo?at_medium=RSS&at_campaign=rss))
+- 'I was abused after meeting man on dating app' ([18 hours ago](https://www.bbc.co.uk/news/articles/c0qvdyl10l5o?at_medium=RSS&at_campaign=rss))
 - Time Team star to headline history festival ([1 days ago](https://www.bbc.co.uk/news/articles/cy5dlxnkw4ko?at_medium=RSS&at_campaign=rss))
 - Everything you need to know about Thames Water's hosepipe ban ([1 days ago](https://www.bbc.co.uk/news/videos/c2elxp1xgg1o?at_medium=RSS&at_campaign=rss))
 - Man crushed to death after safety fence removed ([1 days ago](https://www.bbc.co.uk/news/articles/cg7mrn8371ro?at_medium=RSS&at_campaign=rss))

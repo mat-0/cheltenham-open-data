@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street lights not working, 22nd July :- [9831884](https://www.fixmystreet.com/report/9831884)
 - Pavement obstructed by overgrown shrubbery, 22nd July :- [9831416](https://www.fixmystreet.com/report/9831416)
 - Bin bag of rubbish, 22nd July :- [9831263](https://www.fixmystreet.com/report/9831263)
 - Graffiti all over Perspex, 22nd July :- [9830773](https://www.fixmystreet.com/report/9830773)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 22nd July :- [9829112](https://www.fixmystreet.com/report/9829112)
 - TMC - Defects -CW6 Potholes  problem, 22nd July :- [9829111](https://www.fixmystreet.com/report/9829111)
 - Large pothole which is not visible, 22nd July :- [9828269](https://www.fixmystreet.com/report/9828269)
-- Outside 41 the burgage the roadmarkings have faded completely, 22nd July :- [9828936](https://www.fixmystreet.com/report/9828936)
 
 <!-- fix_marker ends -->
