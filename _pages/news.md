@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Teen claims drug dealer 'lunged' before fatal blow ([2 hours ago](https://www.bbc.co.uk/news/articles/cp9en99235zo?at_medium=RSS&at_campaign=rss))
-- 'Lip King' banned twice before woman's BBL death ([12 hours ago](https://www.bbc.co.uk/news/articles/c1w1q8w0xzwo?at_medium=RSS&at_campaign=rss))
-- 'I was abused after meeting man on dating app' ([12 hours ago](https://www.bbc.co.uk/news/articles/c0qvdyl10l5o?at_medium=RSS&at_campaign=rss))
-- Time Team star to headline history festival ([20 hours ago](https://www.bbc.co.uk/news/articles/cy5dlxnkw4ko?at_medium=RSS&at_campaign=rss))
+- Teen claims drug dealer 'lunged' before fatal blow ([4 hours ago](https://www.bbc.co.uk/news/articles/cp9en99235zo?at_medium=RSS&at_campaign=rss))
+- 'Lip King' banned twice before woman's BBL death ([14 hours ago](https://www.bbc.co.uk/news/articles/c1w1q8w0xzwo?at_medium=RSS&at_campaign=rss))
+- 'I was abused after meeting man on dating app' ([14 hours ago](https://www.bbc.co.uk/news/articles/c0qvdyl10l5o?at_medium=RSS&at_campaign=rss))
+- Time Team star to headline history festival ([22 hours ago](https://www.bbc.co.uk/news/articles/cy5dlxnkw4ko?at_medium=RSS&at_campaign=rss))
 - Everything you need to know about Thames Water's hosepipe ban ([1 days ago](https://www.bbc.co.uk/news/videos/c2elxp1xgg1o?at_medium=RSS&at_campaign=rss))
 - Man crushed to death after safety fence removed ([1 days ago](https://www.bbc.co.uk/news/articles/cg7mrn8371ro?at_medium=RSS&at_campaign=rss))
 - Rising demand for food support during holidays ([1 days ago](https://www.bbc.co.uk/news/articles/c5ye31jvxw8o?at_medium=RSS&at_campaign=rss))
@@ -39,7 +39,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Council revokes licence appeal for Hackney carriage driver ([6 days ago](https://gloucesternewscentre.co.uk/council-revokes-licence-appeal-for-hackney-carriage-driver/))
 - Gloucestershire’s councils will be replaced by one new unitary authority ([6 days ago](https://gloucesternewscentre.co.uk/gloucestershires-councils-will-be-replaced-by-one-new-unitary-authority/))
 - Man arrested following stabbing in Cheltenham ([6 days ago](https://gloucesternewscentre.co.uk/man-arrested-following-stabbing-in-cheltenham/))
-- Plans for 20mph speed limits defended ([11 days ago](https://gloucesternewscentre.co.uk/plans-for-20mph-speed-limits-defended/))
+- Plans for 20mph speed limits defended ([12 days ago](https://gloucesternewscentre.co.uk/plans-for-20mph-speed-limits-defended/))
 - Calls for funding commitment for M5 junction revamp ([12 days ago](https://gloucesternewscentre.co.uk/calls-for-funding-commitment-for-m5-junction-revamp/))
 - Gloucestershire Library Challenge returns ([14 days ago](https://gloucesternewscentre.co.uk/gloucestershire-library-challenge-returns/))
 - Survey reveals public harassment faced by girls in Cheltenham ([14 days ago](https://gloucesternewscentre.co.uk/survey-reveals-public-harassment-faced-by-girls-in-cheltenham/))

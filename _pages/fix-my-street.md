@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Graffiti all over Perspex, 22nd July :- [9830773](https://www.fixmystreet.com/report/9830773)
+- All the Path is covered with falen branches, load of rubish are there as will, broken glass etc, 22nd July :- [9830726](https://www.fixmystreet.com/report/9830726)
+- Flytipped furniture on Vernon Place, 22nd July :- [9830717](https://www.fixmystreet.com/report/9830717)
+- Rubbish strewn on pavement, 22nd July :- [9830654](https://www.fixmystreet.com/report/9830654)
+- Burleigh Croft, 22nd July :- [9830647](https://www.fixmystreet.com/report/9830647)
+- The timetable on the bus stop 'glodwdwm' is out of date and does not show new half hourly 'L' service, 22nd July :- [9830552](https://www.fixmystreet.com/report/9830552)
 - Cycle path pedestrian path bollard broken, 22nd July :- [9830387](https://www.fixmystreet.com/report/9830387)
 - Streetlight permanently out since new one put in, 22nd July :- [9829745](https://www.fixmystreet.com/report/9829745)
 - Tree is damaged problem, 22nd July :- [9829762](https://www.fixmystreet.com/report/9829762)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Outside 41 the burgage the roadmarkings have faded completely, 22nd July :- [9828936](https://www.fixmystreet.com/report/9828936)
 - TMC - Defects -other CW6 problem, 22nd July :- [9829106](https://www.fixmystreet.com/report/9829106)
 - TMC - Defects -other CW6 problem, 22nd July :- [9828914](https://www.fixmystreet.com/report/9828914)
-- Tree is damaged problem, 22nd July :- [9828905](https://www.fixmystreet.com/report/9828905)
-- Tree is damaged problem, 22nd July :- [9828681](https://www.fixmystreet.com/report/9828681)
-- TMC - Defects - Footways Slabs problem, 22nd July :- [9828467](https://www.fixmystreet.com/report/9828467)
-- TMC - Defects - Footways Slabs problem, 22nd July :- [9828468](https://www.fixmystreet.com/report/9828468)
-- Obstructed footpath, 22nd July :- [9828179](https://www.fixmystreet.com/report/9828179)
-- TMC - Defects - Vegetation problem, 22nd July :- [9828013](https://www.fixmystreet.com/report/9828013)
 
 <!-- fix_marker ends -->
