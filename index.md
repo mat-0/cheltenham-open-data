@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Wednesday, 22 July 2026
 
-- The average temperature today is 20.68˚C,
-- With highs of 21.5˚C and lows of 19.82˚C,
-- It may feel like 20.45˚C with broken clouds
-- The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1026hPa and humidity is 63%
+- The average temperature today is 21.53˚C,
+- With highs of 22.19˚C and lows of 20.93˚C,
+- It may feel like 21.25˚C with broken clouds
+- The wind speed is 1.34m/s and visibility is 10000m
+- The pressure is 1025hPa and humidity is 58%
 - The sun will rise at 04:15 and set at 20:13
 
 <!-- weather_marker ends -->
