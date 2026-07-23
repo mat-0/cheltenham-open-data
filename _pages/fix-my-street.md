@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The pavement from the Frogmill Cottages up to the A40/A436 junction needs to be cleared, 23rd July :- [9836755](https://www.fixmystreet.com/report/9836755)
+- Needs double yellows on this side of the road., 23rd July :- [9836656](https://www.fixmystreet.com/report/9836656)
+- Traffic congestion caused by Cheltenham to London FlixBus at 1400 on 23 July, 23rd July :- [9836643](https://www.fixmystreet.com/report/9836643)
+- Dead silver birch, 23rd July :- [9836549](https://www.fixmystreet.com/report/9836549)
 - Broken/rocking slab outside no 33, 23rd July :- [9836372](https://www.fixmystreet.com/report/9836372)
 - Tent in park bushes again, 23rd July :- [9836317](https://www.fixmystreet.com/report/9836317)
 - Broken/Sunk manhole cover, 23rd July :- [9836102](https://www.fixmystreet.com/report/9836102)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 23rd July :- [9835145](https://www.fixmystreet.com/report/9835145)
 - TMC - Defects - Kerbs and Channels problem, 23rd July :- [9834924](https://www.fixmystreet.com/report/9834924)
 - Overgrown vegetation makes footpath unusable / unsafe, 23rd July :- [9834485](https://www.fixmystreet.com/report/9834485)
-- Pavement worn away in front of garage and driveway causing a trip hazard., 23rd July :- [9834534](https://www.fixmystreet.com/report/9834534)
-- Large area of tarmac missing in road, 23rd July :- [9834221](https://www.fixmystreet.com/report/9834221)
-- Numerous holes in the road where the cats eyes were removed, 23rd July :- [9834195](https://www.fixmystreet.com/report/9834195)
-- Road surface uneven after removal of white hatching, 23rd July :- [9834148](https://www.fixmystreet.com/report/9834148)
 
 <!-- fix_marker ends -->
