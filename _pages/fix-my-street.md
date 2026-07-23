@@ -9,6 +9,14 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Half mile over grown verge GL527AW, 23rd July :- [9835337](https://www.fixmystreet.com/report/9835337)
+- A barrier has been left after road repairs, 23rd July :- [9835320](https://www.fixmystreet.com/report/9835320)
+- Building debris fakling on pedestrians, 23rd July :- [9835236](https://www.fixmystreet.com/report/9835236)
+- TMC - Defects - Footways Slabs problem, 23rd July :- [9835376](https://www.fixmystreet.com/report/9835376)
+- Grass verges surplus to require, adequate parking can be created in its place, 23rd July :- [9835179](https://www.fixmystreet.com/report/9835179)
+- Following my report ref number 9655890, I was notified that it had been repaired but it has not. I reported that it has not been fixed properly via the report feedback form but I heard nothing in response so reporting again via this platform. The tarmac was drilled up and relayed but the drain was not played in a way that will prevent it from rattling as soon as the first vehicle goes over it. As this problem has been going on for years with only temporary short term fixes please can you advise me how I escalate the complaint?, 23rd July :- [9835149](https://www.fixmystreet.com/report/9835149)
+- TMC - Defects - Vegetation problem, 23rd July :- [9835145](https://www.fixmystreet.com/report/9835145)
+- TMC - Defects - Kerbs and Channels problem, 23rd July :- [9834924](https://www.fixmystreet.com/report/9834924)
 - Overgrown vegetation makes footpath unusable / unsafe, 23rd July :- [9834485](https://www.fixmystreet.com/report/9834485)
 - Pavement worn away in front of garage and driveway causing a trip hazard., 23rd July :- [9834534](https://www.fixmystreet.com/report/9834534)
 - Large area of tarmac missing in road, 23rd July :- [9834221](https://www.fixmystreet.com/report/9834221)
@@ -21,13 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 23rd July :- [9833592](https://www.fixmystreet.com/report/9833592)
 - Pedestrian crossing on Telstar Way has no audio, 23rd July :- [9833226](https://www.fixmystreet.com/report/9833226)
 - TMC - Defects -other CW6 problem, 23rd July :- [9833290](https://www.fixmystreet.com/report/9833290)
-- Low hanging tree at junction, 23rd July :- [9833023](https://www.fixmystreet.com/report/9833023)
-- White lines indicating parking on eastbound side of Church Road almost disappeared. Many of us have mirrors smashed by traffic trying to squeeze past, often at speed. Very costly. I now place an orange cone (see photo) WITHIN the parking space and even the cone gets knocked over or crushed. And my car is very small compared to most. Full mirror £424 a few weeks ago as even electrics damaged., 23rd July :- [9832945](https://www.fixmystreet.com/report/9832945)
-- Dead fox on side of the road, 23rd July :- [9832659](https://www.fixmystreet.com/report/9832659)
-- Abandoned car front panel, 23rd July :- [9832455](https://www.fixmystreet.com/report/9832455)
-- Street lights not working, 22nd July :- [9831884](https://www.fixmystreet.com/report/9831884)
-- Pavement obstructed by overgrown shrubbery, 22nd July :- [9831416](https://www.fixmystreet.com/report/9831416)
-- Bin bag of rubbish, 22nd July :- [9831263](https://www.fixmystreet.com/report/9831263)
-- Graffiti all over Perspex, 22nd July :- [9830773](https://www.fixmystreet.com/report/9830773)
 
 <!-- fix_marker ends -->
