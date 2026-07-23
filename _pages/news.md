@@ -12,14 +12,14 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Jet pioneer celebrated with new Royal Mail stamps ([4 hours ago](https://www.bbc.co.uk/news/articles/cvgj6gl33reo?at_medium=RSS&at_campaign=rss))
-- Mental health chat grows into UK-wide lifeline ([4 hours ago](https://www.bbc.co.uk/news/articles/cvgmg2jzm9mo?at_medium=RSS&at_campaign=rss))
-- Everything you need to know about airport changes ([4 hours ago](https://www.bbc.co.uk/news/articles/ckg3n1ezy23o?at_medium=RSS&at_campaign=rss))
-- Teen claims drug dealer 'lunged' before fatal blow ([18 hours ago](https://www.bbc.co.uk/news/articles/cp9en99235zo?at_medium=RSS&at_campaign=rss))
+- Recycling centre to close for three months ([35 minutes ago](https://www.bbc.co.uk/news/articles/cr7kvg0ddnro?at_medium=RSS&at_campaign=rss))
+- Jet pioneer celebrated with new Royal Mail stamps ([6 hours ago](https://www.bbc.co.uk/news/articles/cvgj6gl33reo?at_medium=RSS&at_campaign=rss))
+- Mental health chat grows into UK-wide lifeline ([6 hours ago](https://www.bbc.co.uk/news/articles/cvgmg2jzm9mo?at_medium=RSS&at_campaign=rss))
+- Everything you need to know about airport changes ([6 hours ago](https://www.bbc.co.uk/news/articles/ckg3n1ezy23o?at_medium=RSS&at_campaign=rss))
+- Teen claims drug dealer 'lunged' before fatal blow ([20 hours ago](https://www.bbc.co.uk/news/articles/cp9en99235zo?at_medium=RSS&at_campaign=rss))
 - 'Lip King' banned twice before woman's BBL death ([1 days ago](https://www.bbc.co.uk/news/articles/c1w1q8w0xzwo?at_medium=RSS&at_campaign=rss))
 - 'I was abused after meeting man on dating app' ([1 days ago](https://www.bbc.co.uk/news/articles/c0qvdyl10l5o?at_medium=RSS&at_campaign=rss))
 - Time Team star to headline history festival ([1 days ago](https://www.bbc.co.uk/news/articles/cy5dlxnkw4ko?at_medium=RSS&at_campaign=rss))
-- Everything you need to know about Thames Water's hosepipe ban ([1 days ago](https://www.bbc.co.uk/news/videos/c2elxp1xgg1o?at_medium=RSS&at_campaign=rss))
 - Man crushed to death after safety fence removed ([1 days ago](https://www.bbc.co.uk/news/articles/cg7mrn8371ro?at_medium=RSS&at_campaign=rss))
 - Rising demand for food support during holidays ([1 days ago](https://www.bbc.co.uk/news/articles/c5ye31jvxw8o?at_medium=RSS&at_campaign=rss))
 - Thames Water announces hosepipe ban for 10 million ([1 days ago](https://www.bbc.co.uk/news/articles/crmrnvl2xw8o?at_medium=RSS&at_campaign=rss))
@@ -50,7 +50,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Concerns over ‘devastating’ report on maternity services ([19 days ago](https://gloucesternewscentre.co.uk/concerns-over-devastating-report-on-maternity-services/))
 - Heightened security after spike in ‘aggressive’ incidents at council ([20 days ago](https://gloucesternewscentre.co.uk/heightened-security-after-spike-in-aggressive-incidents-at-council/))
 - Secrecy over why Gloucestershire Airport costs millions for the taxpayer ([20 days ago](https://gloucesternewscentre.co.uk/secrecy-over-why-gloucestershire-airport-costs-millions-for-the-taxpayer/))
-- Gloucestershire Airport back on market ([22 days ago](https://gloucesternewscentre.co.uk/gloucestershire-airport-back-on-market/))
+- Gloucestershire Airport back on market ([23 days ago](https://gloucesternewscentre.co.uk/gloucestershire-airport-back-on-market/))
 - Concerns over ‘blanket 20mph limit’ ([28 days ago](https://gloucesternewscentre.co.uk/concerns-over-blanket-20mph-limit/))
 - Need To Know Gloucestershire ([29 days ago](https://www.bbc.co.uk/sounds/play/p0ntm17v?at_medium=RSS&at_campaign=rss))
 

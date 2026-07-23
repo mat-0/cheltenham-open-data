@@ -9,6 +9,14 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Overgrown vegetation makes footpath unusable / unsafe, 23rd July :- [9834485](https://www.fixmystreet.com/report/9834485)
+- Pavement worn away in front of garage and driveway causing a trip hazard., 23rd July :- [9834534](https://www.fixmystreet.com/report/9834534)
+- Large area of tarmac missing in road, 23rd July :- [9834221](https://www.fixmystreet.com/report/9834221)
+- Numerous holes in the road where the cats eyes were removed, 23rd July :- [9834195](https://www.fixmystreet.com/report/9834195)
+- Road surface uneven after removal of white hatching, 23rd July :- [9834148](https://www.fixmystreet.com/report/9834148)
+- Paving between carriageway and new cycle path is full of weeds & looks tatty, 23rd July :- [9834043](https://www.fixmystreet.com/report/9834043)
+- Massive pot hole on the way towards the round about from Cheltenham., 23rd July :- [9833996](https://www.fixmystreet.com/report/9833996)
+- Tree is damaged problem, 23rd July :- [9833833](https://www.fixmystreet.com/report/9833833)
 - TMC - Defects - Covers, Gratings & Frames problem, 23rd July :- [9833597](https://www.fixmystreet.com/report/9833597)
 - TMC - Defects - Vegetation problem, 23rd July :- [9833592](https://www.fixmystreet.com/report/9833592)
 - Pedestrian crossing on Telstar Way has no audio, 23rd July :- [9833226](https://www.fixmystreet.com/report/9833226)
@@ -21,13 +29,5 @@ permalink: /fix-my-street
 - Pavement obstructed by overgrown shrubbery, 22nd July :- [9831416](https://www.fixmystreet.com/report/9831416)
 - Bin bag of rubbish, 22nd July :- [9831263](https://www.fixmystreet.com/report/9831263)
 - Graffiti all over Perspex, 22nd July :- [9830773](https://www.fixmystreet.com/report/9830773)
-- All the Path is covered with falen branches, load of rubish are there as will, broken glass etc, 22nd July :- [9830726](https://www.fixmystreet.com/report/9830726)
-- Flytipped furniture on Vernon Place, 22nd July :- [9830717](https://www.fixmystreet.com/report/9830717)
-- Rubbish strewn on pavement, 22nd July :- [9830654](https://www.fixmystreet.com/report/9830654)
-- Burleigh Croft, 22nd July :- [9830647](https://www.fixmystreet.com/report/9830647)
-- The timetable on the bus stop 'glodwdwm' is out of date and does not show new half hourly 'L' service, 22nd July :- [9830552](https://www.fixmystreet.com/report/9830552)
-- Cycle path pedestrian path bollard broken, 22nd July :- [9830387](https://www.fixmystreet.com/report/9830387)
-- Streetlight permanently out since new one put in, 22nd July :- [9829745](https://www.fixmystreet.com/report/9829745)
-- Tree is damaged problem, 22nd July :- [9829762](https://www.fixmystreet.com/report/9829762)
 
 <!-- fix_marker ends -->
