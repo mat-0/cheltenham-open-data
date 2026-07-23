@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large POTHOLES, 23rd July :- [9838041](https://www.fixmystreet.com/report/9838041)
+- Pothole on corner of vineyards, 23rd July :- [9837898](https://www.fixmystreet.com/report/9837898)
+- Pothole on the crossing, 23rd July :- [9837887](https://www.fixmystreet.com/report/9837887)
 - Fly tipping, 23rd July :- [9837649](https://www.fixmystreet.com/report/9837649)
 - Fallen tree blocking entire footpath, 23rd July :- [9837582](https://www.fixmystreet.com/report/9837582)
 - Abandoned road works sign, 23rd July :- [9837451](https://www.fixmystreet.com/report/9837451)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Blocked drain with mud, 23rd July :- [9835632](https://www.fixmystreet.com/report/9835632)
 - Half mile over grown verge GL527AW, 23rd July :- [9835337](https://www.fixmystreet.com/report/9835337)
 - A barrier has been left after road repairs, 23rd July :- [9835320](https://www.fixmystreet.com/report/9835320)
-- Building debris fakling on pedestrians, 23rd July :- [9835236](https://www.fixmystreet.com/report/9835236)
-- TMC - Defects - Footways Slabs problem, 23rd July :- [9835376](https://www.fixmystreet.com/report/9835376)
-- Grass verges surplus to require, adequate parking can be created in its place, 23rd July :- [9835179](https://www.fixmystreet.com/report/9835179)
 
 <!-- fix_marker ends -->
