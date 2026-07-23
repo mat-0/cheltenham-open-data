@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Thursday, 23 July 2026
 
-- The average temperature today is 14.49˚C,
-- With highs of 15.54˚C and lows of 13.62˚C,
-- It may feel like 14.24˚C with overcast clouds
-- The wind speed is 1.64m/s and visibility is 10000m
-- The pressure is 1024hPa and humidity is 86%
+- The average temperature today is 14.77˚C,
+- With highs of 15.54˚C and lows of 13.8˚C,
+- It may feel like 14.57˚C with overcast clouds
+- The wind speed is 1.82m/s and visibility is 10000m
+- The pressure is 1024hPa and humidity is 87%
 - The sun will rise at 04:16 and set at 20:12
 
 <!-- weather_marker ends -->
