@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:georss="http://www.georss.org/georss"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:atom="http://www.w3.org/2005/Atom"
+ xmlns:georss="http://www.georss.org/georss"
 >
 
 <channel>
@@ -133,15 +133,6 @@
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 22nd July</title>
-<link>https://www.fixmystreet.com/report/9829566</link>
-<description>Road closure  28 day carriage way aburt level difference 700x500x60mm tarmac parch number 4 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9829566&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9829566</guid>
-<pubDate>Wed, 22 Jul 2026 15:14:49 +0100</pubDate>
-<georss:point>51.8303986741779 -2.13074121084461</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 22nd July</title>
 <link>https://www.fixmystreet.com/report/9829565</link>
 <description>Road closure  28 day carriage way aburt level difference 1800x800x50mm tarmac parch number 3 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9829565&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
@@ -151,12 +142,12 @@
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 22nd July</title>
-<link>https://www.fixmystreet.com/report/9829564</link>
-<description>Road closure  28 day carriage way aburt level difference 1200x600x60mm tarmac parch number 1 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9829564&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/9829566</link>
+<description>Road closure  28 day carriage way aburt level difference 700x500x60mm tarmac parch number 4 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9829566&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9829564</guid>
-<pubDate>Wed, 22 Jul 2026 15:14:48 +0100</pubDate>
-<georss:point>51.8303527 -2.13064319999998</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9829566</guid>
+<pubDate>Wed, 22 Jul 2026 15:14:49 +0100</pubDate>
+<georss:point>51.8303986741779 -2.13074121084461</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 22nd July</title>
@@ -169,12 +160,12 @@
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 22nd July</title>
-<link>https://www.fixmystreet.com/report/9829112</link>
-<description>NWD Give and take 15 MINUTES DELAY BOARDS carriage way aburt level difference 750x500x80mm tarmac parch MAKE SAFE (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9829112&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/9829564</link>
+<description>Road closure  28 day carriage way aburt level difference 1200x600x60mm tarmac parch number 1 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9829564&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9829112</guid>
-<pubDate>Wed, 22 Jul 2026 14:17:51 +0100</pubDate>
-<georss:point>51.854852692754 -2.12165141527132</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9829564</guid>
+<pubDate>Wed, 22 Jul 2026 15:14:48 +0100</pubDate>
+<georss:point>51.8303527 -2.13064319999998</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 22nd July</title>
@@ -184,6 +175,15 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/9829111</guid>
 <pubDate>Wed, 22 Jul 2026 14:17:51 +0100</pubDate>
 <georss:point>51.8548343 -2.12156329999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 22nd July</title>
+<link>https://www.fixmystreet.com/report/9829112</link>
+<description>NWD Give and take 15 MINUTES DELAY BOARDS carriage way aburt level difference 750x500x80mm tarmac parch MAKE SAFE (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9829112&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9829112</guid>
+<pubDate>Wed, 22 Jul 2026 14:17:51 +0100</pubDate>
+<georss:point>51.854852692754 -2.12165141527132</georss:point>
 </item>
 <item>
 <title>Large pothole which is not visible, 22nd July</title>

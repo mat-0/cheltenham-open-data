@@ -22,12 +22,12 @@ permalink: /fix-my-street
 - Streetlight permanently out since new one put in, 22nd July :- [9829745](https://www.fixmystreet.com/report/9829745)
 - Tree is damaged problem, 22nd July :- [9829762](https://www.fixmystreet.com/report/9829762)
 - TMC - Defects - Vegetation problem, 22nd July :- [9829569](https://www.fixmystreet.com/report/9829569)
-- TMC - Defects -CW6 Potholes  problem, 22nd July :- [9829566](https://www.fixmystreet.com/report/9829566)
 - TMC - Defects -CW6 Potholes  problem, 22nd July :- [9829565](https://www.fixmystreet.com/report/9829565)
-- TMC - Defects -CW6 Potholes  problem, 22nd July :- [9829564](https://www.fixmystreet.com/report/9829564)
+- TMC - Defects -CW6 Potholes  problem, 22nd July :- [9829566](https://www.fixmystreet.com/report/9829566)
 - TMC - Defects -CW6 Potholes  problem, 22nd July :- [9829563](https://www.fixmystreet.com/report/9829563)
-- TMC - Defects -CW6 Potholes  problem, 22nd July :- [9829112](https://www.fixmystreet.com/report/9829112)
+- TMC - Defects -CW6 Potholes  problem, 22nd July :- [9829564](https://www.fixmystreet.com/report/9829564)
 - TMC - Defects -CW6 Potholes  problem, 22nd July :- [9829111](https://www.fixmystreet.com/report/9829111)
+- TMC - Defects -CW6 Potholes  problem, 22nd July :- [9829112](https://www.fixmystreet.com/report/9829112)
 - Large pothole which is not visible, 22nd July :- [9828269](https://www.fixmystreet.com/report/9828269)
 
 <!-- fix_marker ends -->
