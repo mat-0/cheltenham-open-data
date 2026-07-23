@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Abandoned road works sign, 23rd July :- [9837451](https://www.fixmystreet.com/report/9837451)
+- Road Closed sign in unusable condition abandoned, 23rd July :- [9837320](https://www.fixmystreet.com/report/9837320)
 - The pavement from the Frogmill Cottages up to the A40/A436 junction needs to be cleared, 23rd July :- [9836755](https://www.fixmystreet.com/report/9836755)
 - Needs double yellows on this side of the road., 23rd July :- [9836656](https://www.fixmystreet.com/report/9836656)
 - Traffic congestion caused by Cheltenham to London FlixBus at 1400 on 23 July, 23rd July :- [9836643](https://www.fixmystreet.com/report/9836643)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Grass verges surplus to require, adequate parking can be created in its place, 23rd July :- [9835179](https://www.fixmystreet.com/report/9835179)
 - Following my report ref number 9655890, I was notified that it had been repaired but it has not. I reported that it has not been fixed properly via the report feedback form but I heard nothing in response so reporting again via this platform. The tarmac was drilled up and relayed but the drain was not played in a way that will prevent it from rattling as soon as the first vehicle goes over it. As this problem has been going on for years with only temporary short term fixes please can you advise me how I escalate the complaint?, 23rd July :- [9835149](https://www.fixmystreet.com/report/9835149)
 - TMC - Defects - Vegetation problem, 23rd July :- [9835145](https://www.fixmystreet.com/report/9835145)
-- TMC - Defects - Kerbs and Channels problem, 23rd July :- [9834924](https://www.fixmystreet.com/report/9834924)
-- Overgrown vegetation makes footpath unusable / unsafe, 23rd July :- [9834485](https://www.fixmystreet.com/report/9834485)
 
 <!-- fix_marker ends -->
