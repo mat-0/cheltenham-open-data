@@ -9,6 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Broken/rocking slab outside no 33, 23rd July :- [9836372](https://www.fixmystreet.com/report/9836372)
+- Tent in park bushes again, 23rd July :- [9836317](https://www.fixmystreet.com/report/9836317)
+- Broken/Sunk manhole cover, 23rd July :- [9836102](https://www.fixmystreet.com/report/9836102)
+- Post or sign leaning slightly (less than 20 degrees) problem, 23rd July :- [9836239](https://www.fixmystreet.com/report/9836239)
+- Post or sign leaning slightly (less than 20 degrees) problem, 23rd July :- [9836006](https://www.fixmystreet.com/report/9836006)
+- Blocking visibility on road/junction (Grass/verge) problem, 23rd July :- [9836005](https://www.fixmystreet.com/report/9836005)
+- Blocked drain with mud, 23rd July :- [9835632](https://www.fixmystreet.com/report/9835632)
 - Half mile over grown verge GL527AW, 23rd July :- [9835337](https://www.fixmystreet.com/report/9835337)
 - A barrier has been left after road repairs, 23rd July :- [9835320](https://www.fixmystreet.com/report/9835320)
 - Building debris fakling on pedestrians, 23rd July :- [9835236](https://www.fixmystreet.com/report/9835236)
@@ -22,12 +29,5 @@ permalink: /fix-my-street
 - Large area of tarmac missing in road, 23rd July :- [9834221](https://www.fixmystreet.com/report/9834221)
 - Numerous holes in the road where the cats eyes were removed, 23rd July :- [9834195](https://www.fixmystreet.com/report/9834195)
 - Road surface uneven after removal of white hatching, 23rd July :- [9834148](https://www.fixmystreet.com/report/9834148)
-- Paving between carriageway and new cycle path is full of weeds & looks tatty, 23rd July :- [9834043](https://www.fixmystreet.com/report/9834043)
-- Massive pot hole on the way towards the round about from Cheltenham., 23rd July :- [9833996](https://www.fixmystreet.com/report/9833996)
-- Tree is damaged problem, 23rd July :- [9833833](https://www.fixmystreet.com/report/9833833)
-- TMC - Defects - Covers, Gratings & Frames problem, 23rd July :- [9833597](https://www.fixmystreet.com/report/9833597)
-- TMC - Defects - Vegetation problem, 23rd July :- [9833592](https://www.fixmystreet.com/report/9833592)
-- Pedestrian crossing on Telstar Way has no audio, 23rd July :- [9833226](https://www.fixmystreet.com/report/9833226)
-- TMC - Defects -other CW6 problem, 23rd July :- [9833290](https://www.fixmystreet.com/report/9833290)
 
 <!-- fix_marker ends -->
