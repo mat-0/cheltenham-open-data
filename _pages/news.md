@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Jet pioneer celebrated with new Royal Mail stamps ([2 hours ago](https://www.bbc.co.uk/news/articles/cvgj6gl33reo?at_medium=RSS&at_campaign=rss))
-- Mental health chat grows into UK-wide lifeline ([2 hours ago](https://www.bbc.co.uk/news/articles/cvgmg2jzm9mo?at_medium=RSS&at_campaign=rss))
-- Everything you need to know about airport changes ([2 hours ago](https://www.bbc.co.uk/news/articles/ckg3n1ezy23o?at_medium=RSS&at_campaign=rss))
-- Teen claims drug dealer 'lunged' before fatal blow ([16 hours ago](https://www.bbc.co.uk/news/articles/cp9en99235zo?at_medium=RSS&at_campaign=rss))
+- Jet pioneer celebrated with new Royal Mail stamps ([4 hours ago](https://www.bbc.co.uk/news/articles/cvgj6gl33reo?at_medium=RSS&at_campaign=rss))
+- Mental health chat grows into UK-wide lifeline ([4 hours ago](https://www.bbc.co.uk/news/articles/cvgmg2jzm9mo?at_medium=RSS&at_campaign=rss))
+- Everything you need to know about airport changes ([4 hours ago](https://www.bbc.co.uk/news/articles/ckg3n1ezy23o?at_medium=RSS&at_campaign=rss))
+- Teen claims drug dealer 'lunged' before fatal blow ([18 hours ago](https://www.bbc.co.uk/news/articles/cp9en99235zo?at_medium=RSS&at_campaign=rss))
 - 'Lip King' banned twice before woman's BBL death ([1 days ago](https://www.bbc.co.uk/news/articles/c1w1q8w0xzwo?at_medium=RSS&at_campaign=rss))
 - 'I was abused after meeting man on dating app' ([1 days ago](https://www.bbc.co.uk/news/articles/c0qvdyl10l5o?at_medium=RSS&at_campaign=rss))
 - Time Team star to headline history festival ([1 days ago](https://www.bbc.co.uk/news/articles/cy5dlxnkw4ko?at_medium=RSS&at_campaign=rss))
@@ -41,7 +41,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Man arrested following stabbing in Cheltenham ([6 days ago](https://gloucesternewscentre.co.uk/man-arrested-following-stabbing-in-cheltenham/))
 - Plans for 20mph speed limits defended ([12 days ago](https://gloucesternewscentre.co.uk/plans-for-20mph-speed-limits-defended/))
 - Calls for funding commitment for M5 junction revamp ([12 days ago](https://gloucesternewscentre.co.uk/calls-for-funding-commitment-for-m5-junction-revamp/))
-- Gloucestershire Library Challenge returns ([14 days ago](https://gloucesternewscentre.co.uk/gloucestershire-library-challenge-returns/))
+- Gloucestershire Library Challenge returns ([15 days ago](https://gloucesternewscentre.co.uk/gloucestershire-library-challenge-returns/))
 - Survey reveals public harassment faced by girls in Cheltenham ([15 days ago](https://gloucesternewscentre.co.uk/survey-reveals-public-harassment-faced-by-girls-in-cheltenham/))
 - Disappointment as popular tree house will be dismantled ([15 days ago](https://gloucesternewscentre.co.uk/disappointment-as-popular-tree-house-will-be-dismantled/))
 - Drivers to get a feel for new A417 upgrade in significant traffic switch ([19 days ago](https://gloucesternewscentre.co.uk/drivers-to-get-a-feel-for-new-a417-upgrade-in-significant-traffic-switch/))
