@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dead fox on side of the road, 23rd July :- [9832659](https://www.fixmystreet.com/report/9832659)
+- Abandoned car front panel, 23rd July :- [9832455](https://www.fixmystreet.com/report/9832455)
 - Street lights not working, 22nd July :- [9831884](https://www.fixmystreet.com/report/9831884)
 - Pavement obstructed by overgrown shrubbery, 22nd July :- [9831416](https://www.fixmystreet.com/report/9831416)
 - Bin bag of rubbish, 22nd July :- [9831263](https://www.fixmystreet.com/report/9831263)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 22nd July :- [9829563](https://www.fixmystreet.com/report/9829563)
 - TMC - Defects -CW6 Potholes  problem, 22nd July :- [9829564](https://www.fixmystreet.com/report/9829564)
 - TMC - Defects -CW6 Potholes  problem, 22nd July :- [9829111](https://www.fixmystreet.com/report/9829111)
-- TMC - Defects -CW6 Potholes  problem, 22nd July :- [9829112](https://www.fixmystreet.com/report/9829112)
-- Large pothole which is not visible, 22nd July :- [9828269](https://www.fixmystreet.com/report/9828269)
 
 <!-- fix_marker ends -->
