@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Iran says RAF Fairford deemed 'legitimate target' ([5 hours ago](https://www.bbc.co.uk/news/articles/c1w1e2542wno?at_medium=RSS&at_campaign=rss))
-- 'Lip King' banned twice before woman's fatal BBL ([8 hours ago](https://www.bbc.co.uk/news/videos/c4g3x0696wko?at_medium=RSS&at_campaign=rss))
-- Recycling centre to close for three months ([14 hours ago](https://www.bbc.co.uk/news/articles/cr7kvg0ddnro?at_medium=RSS&at_campaign=rss))
-- Jet pioneer celebrated with new Royal Mail stamps ([20 hours ago](https://www.bbc.co.uk/news/articles/cvgj6gl33reo?at_medium=RSS&at_campaign=rss))
-- Mental health chat grows into UK-wide lifeline ([20 hours ago](https://www.bbc.co.uk/news/articles/cvgmg2jzm9mo?at_medium=RSS&at_campaign=rss))
-- Everything you need to know about airport changes ([20 hours ago](https://www.bbc.co.uk/news/articles/ckg3n1ezy23o?at_medium=RSS&at_campaign=rss))
+- Iran says RAF Fairford deemed 'legitimate target' ([7 hours ago](https://www.bbc.co.uk/news/articles/c1w1e2542wno?at_medium=RSS&at_campaign=rss))
+- 'Lip King' banned twice before woman's fatal BBL ([10 hours ago](https://www.bbc.co.uk/news/videos/c4g3x0696wko?at_medium=RSS&at_campaign=rss))
+- Recycling centre to close for three months ([17 hours ago](https://www.bbc.co.uk/news/articles/cr7kvg0ddnro?at_medium=RSS&at_campaign=rss))
+- Jet pioneer celebrated with new Royal Mail stamps ([22 hours ago](https://www.bbc.co.uk/news/articles/cvgj6gl33reo?at_medium=RSS&at_campaign=rss))
+- Mental health chat grows into UK-wide lifeline ([22 hours ago](https://www.bbc.co.uk/news/articles/cvgmg2jzm9mo?at_medium=RSS&at_campaign=rss))
+- Everything you need to know about airport changes ([22 hours ago](https://www.bbc.co.uk/news/articles/ckg3n1ezy23o?at_medium=RSS&at_campaign=rss))
 - Teen claims drug dealer 'lunged' before fatal blow ([1 days ago](https://www.bbc.co.uk/news/articles/cp9en99235zo?at_medium=RSS&at_campaign=rss))
 - 'Lip King' banned twice before woman's BBL death ([1 days ago](https://www.bbc.co.uk/news/articles/c1w1q8w0xzwo?at_medium=RSS&at_campaign=rss))
 - 'I was abused after meeting man on dating app' ([1 days ago](https://www.bbc.co.uk/news/articles/c0qvdyl10l5o?at_medium=RSS&at_campaign=rss))
