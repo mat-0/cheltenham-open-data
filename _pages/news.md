@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- 'My baby overheated during M5 closure' ([6 minutes ago](https://www.bbc.co.uk/news/articles/cly5vrdq8rlo?at_medium=RSS&at_campaign=rss))
-- Town considering charging SUVs more to park ([4 hours ago](https://www.bbc.co.uk/news/articles/c05ql06rjmgo?at_medium=RSS&at_campaign=rss))
-- Iran says RAF Fairford deemed 'legitimate target' ([5 hours ago](https://www.bbc.co.uk/news/articles/c1w1e2542wno?at_medium=RSS&at_campaign=rss))
-- 'Lip King' banned twice before woman's fatal BBL ([16 hours ago](https://www.bbc.co.uk/news/videos/c4g3x0696wko?at_medium=RSS&at_campaign=rss))
-- Recycling centre to close for three months ([22 hours ago](https://www.bbc.co.uk/news/articles/cr7kvg0ddnro?at_medium=RSS&at_campaign=rss))
+- 'Brief splash' of rain not enough, forecasters say ([1 hours ago](https://www.bbc.co.uk/news/articles/cgew9l0v249o?at_medium=RSS&at_campaign=rss))
+- 'My baby overheated during M5 closure' ([1 hours ago](https://www.bbc.co.uk/news/articles/cly5vrdq8rlo?at_medium=RSS&at_campaign=rss))
+- Town considering charging SUVs more to park ([6 hours ago](https://www.bbc.co.uk/news/articles/c05ql06rjmgo?at_medium=RSS&at_campaign=rss))
+- Iran says RAF Fairford deemed 'legitimate target' ([7 hours ago](https://www.bbc.co.uk/news/articles/c1w1e2542wno?at_medium=RSS&at_campaign=rss))
+- Recycling centre to close for three months ([1 days ago](https://www.bbc.co.uk/news/articles/cr7kvg0ddnro?at_medium=RSS&at_campaign=rss))
 - Jet pioneer celebrated with new Royal Mail stamps ([1 days ago](https://www.bbc.co.uk/news/articles/cvgj6gl33reo?at_medium=RSS&at_campaign=rss))
 - Mental health chat grows into UK-wide lifeline ([1 days ago](https://www.bbc.co.uk/news/articles/cvgmg2jzm9mo?at_medium=RSS&at_campaign=rss))
 - Everything you need to know about airport changes ([1 days ago](https://www.bbc.co.uk/news/articles/ckg3n1ezy23o?at_medium=RSS&at_campaign=rss))
@@ -50,7 +50,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Concerns over ‘devastating’ report on maternity services ([20 days ago](https://gloucesternewscentre.co.uk/concerns-over-devastating-report-on-maternity-services/))
 - Heightened security after spike in ‘aggressive’ incidents at council ([21 days ago](https://gloucesternewscentre.co.uk/heightened-security-after-spike-in-aggressive-incidents-at-council/))
 - Secrecy over why Gloucestershire Airport costs millions for the taxpayer ([21 days ago](https://gloucesternewscentre.co.uk/secrecy-over-why-gloucestershire-airport-costs-millions-for-the-taxpayer/))
-- Gloucestershire Airport back on market ([23 days ago](https://gloucesternewscentre.co.uk/gloucestershire-airport-back-on-market/))
+- Gloucestershire Airport back on market ([24 days ago](https://gloucesternewscentre.co.uk/gloucestershire-airport-back-on-market/))
 - Concerns over ‘blanket 20mph limit’ ([29 days ago](https://gloucesternewscentre.co.uk/concerns-over-blanket-20mph-limit/))
 
 <!-- news_marker ends -->
