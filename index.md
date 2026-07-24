@@ -9,13 +9,13 @@ permalink: /
 ![Logo](/images/logo.jpg){:width="860px"}
 
 <!-- weather_marker starts -->
-## On Thursday, 23 July 2026
+## On Friday, 24 July 2026
 
-- The average temperature today is 17.64˚C,
-- With highs of 17.64˚C and lows of 17.64˚C,
-- It may feel like 17.24˚C with overcast clouds
-- The wind speed is 3.02m/s and visibility is 10000m
-- The pressure is 1021hPa and humidity is 68%
+- The average temperature today is 15.38˚C,
+- With highs of 15.38˚C and lows of 15.38˚C,
+- It may feel like 14.98˚C with overcast clouds
+- The wind speed is 2.56m/s and visibility is 10000m
+- The pressure is 1021hPa and humidity is 77%
 - The sun will rise at 04:18 and set at 20:11
 
 <!-- weather_marker ends -->
@@ -45,7 +45,7 @@ Given proximity to GCHQ...
 ### SEVERE
 
 - Current Threat Level: SEVERE
-- It has been 84 days since the last change (2026-04-30)
+- It has been 85 days since the last change (2026-04-30)
 - Details: <p>The current national threat level is SEVERE. &nbsp;The threat to Northern Ireland from Northern Ireland-related terrorism is SUBSTANTIAL.</p>
 
 <!-- threat_marker ends -->
