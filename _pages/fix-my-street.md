@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fly tipped, 24th July :- [9842901](https://www.fixmystreet.com/report/9842901)
 - Abandoned cone on pavement, 24th July :- [9842645](https://www.fixmystreet.com/report/9842645)
 - Abandoned large cone on verge, 24th July :- [9842633](https://www.fixmystreet.com/report/9842633)
 - Reported Feb 2026. No action taken but marked Closed, 24th July :- [9842322](https://www.fixmystreet.com/report/9842322)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - 12 inch skink hole starting on cycle path side, 24th July :- [9840714](https://www.fixmystreet.com/report/9840714)
 - TMC - Defects - Other problem, 24th July :- [9840606](https://www.fixmystreet.com/report/9840606)
 - TMC - Defects - Vegetation problem, 24th July :- [9840605](https://www.fixmystreet.com/report/9840605)
-- Dog poo on pavement again, 24th July :- [9840505](https://www.fixmystreet.com/report/9840505)
 
 <!-- fix_marker ends -->
