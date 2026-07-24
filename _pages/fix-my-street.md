@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Bird droppings on pavement under bridge, 24th July :- [9843479](https://www.fixmystreet.com/report/9843479)
+- Broken glass on pavement, 24th July :- [9843330](https://www.fixmystreet.com/report/9843330)
+- Rubbish now piling up, 24th July :- [9843178](https://www.fixmystreet.com/report/9843178)
 - Fly tipped, 24th July :- [9842901](https://www.fixmystreet.com/report/9842901)
 - Abandoned cone on pavement, 24th July :- [9842645](https://www.fixmystreet.com/report/9842645)
 - Abandoned large cone on verge, 24th July :- [9842633](https://www.fixmystreet.com/report/9842633)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - The road has subsided, 24th July :- [9841228](https://www.fixmystreet.com/report/9841228)
 - TMC - Defects -other CW6 problem, 24th July :- [9841079](https://www.fixmystreet.com/report/9841079)
 - TMC - Defects - Road Markings problem, 24th July :- [9840856](https://www.fixmystreet.com/report/9840856)
-- 12 inch skink hole starting on cycle path side, 24th July :- [9840714](https://www.fixmystreet.com/report/9840714)
-- TMC - Defects - Other problem, 24th July :- [9840606](https://www.fixmystreet.com/report/9840606)
-- TMC - Defects - Vegetation problem, 24th July :- [9840605](https://www.fixmystreet.com/report/9840605)
 
 <!-- fix_marker ends -->
