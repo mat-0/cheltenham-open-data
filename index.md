@@ -11,12 +11,12 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Friday, 24 July 2026
 
-- The average temperature today is 18.62˚C,
-- With highs of 20.47˚C and lows of 18.07˚C,
-- It may feel like 18.29˚C with scattered clouds
-- The wind speed is 2.93m/s and visibility is 10000m
-- The pressure is 1013hPa and humidity is 67%
-- The sun will rise at 04:18 and set at 20:11
+- The average temperature today is 16.49˚C,
+- With highs of 16.49˚C and lows of 16.49˚C,
+- It may feel like 16.02˚C with scattered clouds
+- The wind speed is 0.45m/s and visibility is 10000m
+- The pressure is 1014hPa and humidity is 70%
+- The sun will rise at 04:19 and set at 20:09
 
 <!-- weather_marker ends -->
 

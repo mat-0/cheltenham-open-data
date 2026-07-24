@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Gloucestershire headteacher describes 'out-of-control' wildfire ([6 hours ago](https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss))
-- Proposals to build 18,000 homes across Cotswolds ([6 hours ago](https://www.bbc.co.uk/news/articles/cx2dgynp0xeo?at_medium=RSS&at_campaign=rss))
-- Reservoirs 'exceptionally low' with rain forecast ([8 hours ago](https://www.bbc.co.uk/news/articles/cgew9l0v249o?at_medium=RSS&at_campaign=rss))
-- 'My baby overheated during M5 closure' ([11 hours ago](https://www.bbc.co.uk/news/articles/cly5vrdq8rlo?at_medium=RSS&at_campaign=rss))
-- Town considering charging SUVs more to park ([16 hours ago](https://www.bbc.co.uk/news/articles/c05ql06rjmgo?at_medium=RSS&at_campaign=rss))
-- Iran says RAF Fairford deemed 'legitimate target' ([17 hours ago](https://www.bbc.co.uk/news/articles/c1w1e2542wno?at_medium=RSS&at_campaign=rss))
+- Gloucestershire headteacher describes 'out-of-control' wildfire ([8 hours ago](https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss))
+- Proposals to build 18,000 homes across Cotswolds ([8 hours ago](https://www.bbc.co.uk/news/articles/cx2dgynp0xeo?at_medium=RSS&at_campaign=rss))
+- Reservoirs 'exceptionally low' with rain forecast ([10 hours ago](https://www.bbc.co.uk/news/articles/cgew9l0v249o?at_medium=RSS&at_campaign=rss))
+- 'My baby overheated during M5 closure' ([13 hours ago](https://www.bbc.co.uk/news/articles/cly5vrdq8rlo?at_medium=RSS&at_campaign=rss))
+- Town considering charging SUVs more to park ([17 hours ago](https://www.bbc.co.uk/news/articles/c05ql06rjmgo?at_medium=RSS&at_campaign=rss))
+- Iran says RAF Fairford deemed 'legitimate target' ([19 hours ago](https://www.bbc.co.uk/news/articles/c1w1e2542wno?at_medium=RSS&at_campaign=rss))
 - Recycling centre to close for three months ([1 days ago](https://www.bbc.co.uk/news/articles/cr7kvg0ddnro?at_medium=RSS&at_campaign=rss))
 - Jet pioneer celebrated with new Royal Mail stamps ([1 days ago](https://www.bbc.co.uk/news/articles/cvgj6gl33reo?at_medium=RSS&at_campaign=rss))
 - Mental health chat grows into UK-wide lifeline ([1 days ago](https://www.bbc.co.uk/news/articles/cvgmg2jzm9mo?at_medium=RSS&at_campaign=rss))
