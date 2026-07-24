@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pond is empty, 24th July :- [9838578](https://www.fixmystreet.com/report/9838578)
+- Medium sized household items left here repeatedly, 24th July :- [9838356](https://www.fixmystreet.com/report/9838356)
 - Large POTHOLES, 23rd July :- [9838041](https://www.fixmystreet.com/report/9838041)
 - Pothole on corner of vineyards, 23rd July :- [9837898](https://www.fixmystreet.com/report/9837898)
 - Pothole on the crossing, 23rd July :- [9837887](https://www.fixmystreet.com/report/9837887)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Post or sign leaning slightly (less than 20 degrees) problem, 23rd July :- [9836006](https://www.fixmystreet.com/report/9836006)
 - Blocking visibility on road/junction (Grass/verge) problem, 23rd July :- [9836005](https://www.fixmystreet.com/report/9836005)
 - Blocked drain with mud, 23rd July :- [9835632](https://www.fixmystreet.com/report/9835632)
-- Half mile over grown verge GL527AW, 23rd July :- [9835337](https://www.fixmystreet.com/report/9835337)
-- A barrier has been left after road repairs, 23rd July :- [9835320](https://www.fixmystreet.com/report/9835320)
 
 <!-- fix_marker ends -->
