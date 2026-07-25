@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Several potholes, 25th July :- [9844032](https://www.fixmystreet.com/report/9844032)
+- Pothole in middle of road, 25th July :- [9844024](https://www.fixmystreet.com/report/9844024)
 - Taped Belisha beacons, 24th July :- [9843788](https://www.fixmystreet.com/report/9843788)
 - Due to cars and heavy goods vehicles constantly parking on the kerb by the takeaway next to it the pavement has been badly damaged with deep indents and cracks in the pavement. When it rains the hardcore and mud underneath come through the cracks and make the pavement unsightly and dangerous underfoot. It needs repairing please., 24th July :- [9843599](https://www.fixmystreet.com/report/9843599)
 - Bird droppings on pavement under bridge, 24th July :- [9843479](https://www.fixmystreet.com/report/9843479)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Over grown verge, 24th July :- [9841501](https://www.fixmystreet.com/report/9841501)
 - TMC - Defects -FW6 Potholes problem, 24th July :- [9841548](https://www.fixmystreet.com/report/9841548)
 - TMC - Defects -FW6 Potholes problem, 24th July :- [9841549](https://www.fixmystreet.com/report/9841549)
-- TMC - Defects - Other problem, 24th July :- [9841544](https://www.fixmystreet.com/report/9841544)
-- The road has subsided, 24th July :- [9841228](https://www.fixmystreet.com/report/9841228)
 
 <!-- fix_marker ends -->
