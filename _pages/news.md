@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Headlines: Hosepipe bans and hot buses ([5 hours ago](https://www.bbc.co.uk/news/articles/cd9wn543kplo?at_medium=RSS&at_campaign=rss))
-- Armoured combat club runs first home tournament ([10 hours ago](https://www.bbc.co.uk/news/articles/c8dnq6n8j3yo?at_medium=RSS&at_campaign=rss))
-- 'We feel the pressure juggling holiday logistics' ([10 hours ago](https://www.bbc.co.uk/news/articles/c7vg3gnzn6mo?at_medium=RSS&at_campaign=rss))
+- Headlines: Hosepipe bans and hot buses ([7 hours ago](https://www.bbc.co.uk/news/articles/cd9wn543kplo?at_medium=RSS&at_campaign=rss))
+- Armoured combat club runs first home tournament ([12 hours ago](https://www.bbc.co.uk/news/articles/c8dnq6n8j3yo?at_medium=RSS&at_campaign=rss))
+- 'We feel the pressure juggling holiday logistics' ([13 hours ago](https://www.bbc.co.uk/news/articles/c7vg3gnzn6mo?at_medium=RSS&at_campaign=rss))
 - Gloucestershire headteacher describes 'out-of-control' wildfire ([1 days ago](https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss))
 - Proposals to build 18,000 homes across Cotswolds ([1 days ago](https://www.bbc.co.uk/news/articles/cx2dgynp0xeo?at_medium=RSS&at_campaign=rss))
 - Reservoirs 'exceptionally low' with rain forecast ([1 days ago](https://www.bbc.co.uk/news/articles/cgew9l0v249o?at_medium=RSS&at_campaign=rss))
@@ -39,7 +39,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Council revokes licence appeal for Hackney carriage driver ([9 days ago](https://gloucesternewscentre.co.uk/council-revokes-licence-appeal-for-hackney-carriage-driver/))
 - Gloucestershire’s councils will be replaced by one new unitary authority ([9 days ago](https://gloucesternewscentre.co.uk/gloucestershires-councils-will-be-replaced-by-one-new-unitary-authority/))
 - Man arrested following stabbing in Cheltenham ([9 days ago](https://gloucesternewscentre.co.uk/man-arrested-following-stabbing-in-cheltenham/))
-- Plans for 20mph speed limits defended ([14 days ago](https://gloucesternewscentre.co.uk/plans-for-20mph-speed-limits-defended/))
+- Plans for 20mph speed limits defended ([15 days ago](https://gloucesternewscentre.co.uk/plans-for-20mph-speed-limits-defended/))
 - Calls for funding commitment for M5 junction revamp ([15 days ago](https://gloucesternewscentre.co.uk/calls-for-funding-commitment-for-m5-junction-revamp/))
 - Gloucestershire Library Challenge returns ([17 days ago](https://gloucesternewscentre.co.uk/gloucestershire-library-challenge-returns/))
 - Survey reveals public harassment faced by girls in Cheltenham ([17 days ago](https://gloucesternewscentre.co.uk/survey-reveals-public-harassment-faced-by-girls-in-cheltenham/))
