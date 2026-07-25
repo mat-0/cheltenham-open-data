@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Wide and deep pothole on left hand side of the ride as you turn into Hetton Gardens, 25th July :- [9845718](https://www.fixmystreet.com/report/9845718)
 - Volunteer litter pick bags ready for collection, 25th July :- [9845477](https://www.fixmystreet.com/report/9845477)
 - 2 x potholes getting deeper daily, 25th July :- [9845085](https://www.fixmystreet.com/report/9845085)
 - Small sinkhole and sunken area in pavement near to BT slab, 25th July :- [9844773](https://www.fixmystreet.com/report/9844773)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Due to cars and heavy goods vehicles constantly parking on the kerb by the takeaway next to it the pavement has been badly damaged with deep indents and cracks in the pavement. When it rains the hardcore and mud underneath come through the cracks and make the pavement unsightly and dangerous underfoot. It needs repairing please., 24th July :- [9843599](https://www.fixmystreet.com/report/9843599)
 - Bird droppings on pavement under bridge, 24th July :- [9843479](https://www.fixmystreet.com/report/9843479)
 - Broken glass on pavement, 24th July :- [9843330](https://www.fixmystreet.com/report/9843330)
-- Rubbish now piling up, 24th July :- [9843178](https://www.fixmystreet.com/report/9843178)
 
 <!-- fix_marker ends -->
