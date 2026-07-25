@@ -12,15 +12,15 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Armoured combat club runs first home tournament ([2 hours ago](https://www.bbc.co.uk/news/articles/c8dnq6n8j3yo?at_medium=RSS&at_campaign=rss))
-- 'We feel the pressure juggling holiday logistics' ([3 hours ago](https://www.bbc.co.uk/news/articles/c7vg3gnzn6mo?at_medium=RSS&at_campaign=rss))
-- Gloucestershire headteacher describes 'out-of-control' wildfire ([18 hours ago](https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss))
-- Proposals to build 18,000 homes across Cotswolds ([18 hours ago](https://www.bbc.co.uk/news/articles/cx2dgynp0xeo?at_medium=RSS&at_campaign=rss))
-- Reservoirs 'exceptionally low' with rain forecast ([21 hours ago](https://www.bbc.co.uk/news/articles/cgew9l0v249o?at_medium=RSS&at_campaign=rss))
-- 'My baby overheated during M5 closure' ([23 hours ago](https://www.bbc.co.uk/news/articles/cly5vrdq8rlo?at_medium=RSS&at_campaign=rss))
+- Armoured combat club runs first home tournament ([4 hours ago](https://www.bbc.co.uk/news/articles/c8dnq6n8j3yo?at_medium=RSS&at_campaign=rss))
+- 'We feel the pressure juggling holiday logistics' ([5 hours ago](https://www.bbc.co.uk/news/articles/c7vg3gnzn6mo?at_medium=RSS&at_campaign=rss))
+- Gloucestershire headteacher describes 'out-of-control' wildfire ([20 hours ago](https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss))
+- Proposals to build 18,000 homes across Cotswolds ([20 hours ago](https://www.bbc.co.uk/news/articles/cx2dgynp0xeo?at_medium=RSS&at_campaign=rss))
+- Reservoirs 'exceptionally low' with rain forecast ([22 hours ago](https://www.bbc.co.uk/news/articles/cgew9l0v249o?at_medium=RSS&at_campaign=rss))
+- 'My baby overheated during M5 closure' ([1 days ago](https://www.bbc.co.uk/news/articles/cly5vrdq8rlo?at_medium=RSS&at_campaign=rss))
 - Town considering charging SUVs more to park ([1 days ago](https://www.bbc.co.uk/news/articles/c05ql06rjmgo?at_medium=RSS&at_campaign=rss))
 - Iran says RAF Fairford deemed 'legitimate target' ([1 days ago](https://www.bbc.co.uk/news/articles/c1w1e2542wno?at_medium=RSS&at_campaign=rss))
-- Recycling centre to close for three months ([1 days ago](https://www.bbc.co.uk/news/articles/cr7kvg0ddnro?at_medium=RSS&at_campaign=rss))
+- Recycling centre to close for three months ([2 days ago](https://www.bbc.co.uk/news/articles/cr7kvg0ddnro?at_medium=RSS&at_campaign=rss))
 - Jet pioneer celebrated with new Royal Mail stamps ([2 days ago](https://www.bbc.co.uk/news/articles/cvgj6gl33reo?at_medium=RSS&at_campaign=rss))
 - Mental health chat grows into UK-wide lifeline ([2 days ago](https://www.bbc.co.uk/news/articles/cvgmg2jzm9mo?at_medium=RSS&at_campaign=rss))
 - Everything you need to know about airport changes ([2 days ago](https://www.bbc.co.uk/news/articles/ckg3n1ezy23o?at_medium=RSS&at_campaign=rss))
@@ -50,6 +50,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Concerns over ‘devastating’ report on maternity services ([21 days ago](https://gloucesternewscentre.co.uk/concerns-over-devastating-report-on-maternity-services/))
 - Heightened security after spike in ‘aggressive’ incidents at council ([22 days ago](https://gloucesternewscentre.co.uk/heightened-security-after-spike-in-aggressive-incidents-at-council/))
 - Secrecy over why Gloucestershire Airport costs millions for the taxpayer ([22 days ago](https://gloucesternewscentre.co.uk/secrecy-over-why-gloucestershire-airport-costs-millions-for-the-taxpayer/))
-- Gloucestershire Airport back on market ([24 days ago](https://gloucesternewscentre.co.uk/gloucestershire-airport-back-on-market/))
+- Gloucestershire Airport back on market ([25 days ago](https://gloucesternewscentre.co.uk/gloucestershire-airport-back-on-market/))
 
 <!-- news_marker ends -->

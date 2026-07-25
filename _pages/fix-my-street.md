@@ -9,6 +9,17 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Small sinkhole and sunken area in pavement near to BT slab, 25th July :- [9844773](https://www.fixmystreet.com/report/9844773)
+- Flytipping on back street between Brunswick St and Hanover St, 25th July :- [9844777](https://www.fixmystreet.com/report/9844777)
+- Flytipped sofa Dunalley Parade, 25th July :- [9844761](https://www.fixmystreet.com/report/9844761)
+- Flytipping Hungerford Lane, 25th July :- [9844720](https://www.fixmystreet.com/report/9844720)
+- Exposed kerb outside 47, 25th July :- [9844714](https://www.fixmystreet.com/report/9844714)
+- Burnt out mattress Larput Place, 25th July :- [9844691](https://www.fixmystreet.com/report/9844691)
+- Broken glass, 25th July :- [9844665](https://www.fixmystreet.com/report/9844665)
+- Broken glass, 25th July :- [9844646](https://www.fixmystreet.com/report/9844646)
+- Kerb gone outside 28, 25th July :- [9844635](https://www.fixmystreet.com/report/9844635)
+- Kerb trip hazard outside the malthouse, 25th July :- [9844608](https://www.fixmystreet.com/report/9844608)
+- Broken glass, 25th July :- [9844588](https://www.fixmystreet.com/report/9844588)
 - Several potholes, 25th July :- [9844032](https://www.fixmystreet.com/report/9844032)
 - Pothole in middle of road, 25th July :- [9844024](https://www.fixmystreet.com/report/9844024)
 - Taped Belisha beacons, 24th July :- [9843788](https://www.fixmystreet.com/report/9843788)
@@ -18,16 +29,5 @@ permalink: /fix-my-street
 - Rubbish now piling up, 24th July :- [9843178](https://www.fixmystreet.com/report/9843178)
 - Fly tipped, 24th July :- [9842901](https://www.fixmystreet.com/report/9842901)
 - Abandoned cone on pavement, 24th July :- [9842645](https://www.fixmystreet.com/report/9842645)
-- Abandoned large cone on verge, 24th July :- [9842633](https://www.fixmystreet.com/report/9842633)
-- Reported Feb 2026. No action taken but marked Closed, 24th July :- [9842322](https://www.fixmystreet.com/report/9842322)
-- Overgrown, 24th July :- [9842226](https://www.fixmystreet.com/report/9842226)
-- TMC - Defects - Other FW6  Surface problem, 24th July :- [9842136](https://www.fixmystreet.com/report/9842136)
-- Constant leaking caused slippery hazard, 24th July :- [9841962](https://www.fixmystreet.com/report/9841962)
-- Hole under the road that tarmac is collapsing into., 24th July :- [9841926](https://www.fixmystreet.com/report/9841926)
-- Footpath between Watermoor close and Honeybourne Drive hedgerow massively overgrown and willow tree in need of re-pollarding, 24th July :- [9841737](https://www.fixmystreet.com/report/9841737)
-- Severn Trent manhole. Lose and rattling., 24th July :- [9841524](https://www.fixmystreet.com/report/9841524)
-- Over grown verge, 24th July :- [9841501](https://www.fixmystreet.com/report/9841501)
-- TMC - Defects -FW6 Potholes problem, 24th July :- [9841548](https://www.fixmystreet.com/report/9841548)
-- TMC - Defects -FW6 Potholes problem, 24th July :- [9841549](https://www.fixmystreet.com/report/9841549)
 
 <!-- fix_marker ends -->
