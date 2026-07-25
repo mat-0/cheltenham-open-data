@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Volunteer litter pick bags ready for collection, 25th July :- [9845477](https://www.fixmystreet.com/report/9845477)
+- 2 x potholes getting deeper daily, 25th July :- [9845085](https://www.fixmystreet.com/report/9845085)
 - Small sinkhole and sunken area in pavement near to BT slab, 25th July :- [9844773](https://www.fixmystreet.com/report/9844773)
 - Flytipping on back street between Brunswick St and Hanover St, 25th July :- [9844777](https://www.fixmystreet.com/report/9844777)
 - Flytipped sofa Dunalley Parade, 25th July :- [9844761](https://www.fixmystreet.com/report/9844761)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Bird droppings on pavement under bridge, 24th July :- [9843479](https://www.fixmystreet.com/report/9843479)
 - Broken glass on pavement, 24th July :- [9843330](https://www.fixmystreet.com/report/9843330)
 - Rubbish now piling up, 24th July :- [9843178](https://www.fixmystreet.com/report/9843178)
-- Fly tipped, 24th July :- [9842901](https://www.fixmystreet.com/report/9842901)
-- Abandoned cone on pavement, 24th July :- [9842645](https://www.fixmystreet.com/report/9842645)
 
 <!-- fix_marker ends -->
