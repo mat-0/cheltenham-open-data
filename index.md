@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Sunday, 26 July 2026
 
-- The average temperature today is 22.01˚C,
-- With highs of 22.61˚C and lows of 20.95˚C,
-- It may feel like 21.65˚C with scattered clouds
-- The wind speed is 5.81m/s and visibility is 10000m
-- The pressure is 1008hPa and humidity is 53%
+- The average temperature today is 19.27˚C,
+- With highs of 19.73˚C and lows of 18.3˚C,
+- It may feel like 18.87˚C with broken clouds
+- The wind speed is 4.02m/s and visibility is 10000m
+- The pressure is 1010hPa and humidity is 62%
 - The sun will rise at 04:21 and set at 20:08
 
 <!-- weather_marker ends -->
