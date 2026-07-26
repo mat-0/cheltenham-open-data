@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Armed police called after 'woman threatened' ([3 hours ago](https://www.bbc.co.uk/news/articles/c9q94z4n33wo?at_medium=RSS&at_campaign=rss))
-- Headlines: Hosepipe bans and hot buses ([11 hours ago](https://www.bbc.co.uk/news/articles/cd9wn543kplo?at_medium=RSS&at_campaign=rss))
-- Armoured combat club runs first home tournament ([16 hours ago](https://www.bbc.co.uk/news/articles/c8dnq6n8j3yo?at_medium=RSS&at_campaign=rss))
-- 'We feel the pressure juggling holiday logistics' ([16 hours ago](https://www.bbc.co.uk/news/articles/c7vg3gnzn6mo?at_medium=RSS&at_campaign=rss))
+- Armed police called after 'woman threatened' ([5 hours ago](https://www.bbc.co.uk/news/articles/c9q94z4n33wo?at_medium=RSS&at_campaign=rss))
+- Headlines: Hosepipe bans and hot buses ([14 hours ago](https://www.bbc.co.uk/news/articles/cd9wn543kplo?at_medium=RSS&at_campaign=rss))
+- Armoured combat club runs first home tournament ([18 hours ago](https://www.bbc.co.uk/news/articles/c8dnq6n8j3yo?at_medium=RSS&at_campaign=rss))
+- 'We feel the pressure juggling holiday logistics' ([19 hours ago](https://www.bbc.co.uk/news/articles/c7vg3gnzn6mo?at_medium=RSS&at_campaign=rss))
 - Gloucestershire headteacher describes 'out-of-control' wildfire ([1 days ago](https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss))
 - Proposals to build 18,000 homes across Cotswolds ([1 days ago](https://www.bbc.co.uk/news/articles/cx2dgynp0xeo?at_medium=RSS&at_campaign=rss))
 - Reservoirs 'exceptionally low' with rain forecast ([1 days ago](https://www.bbc.co.uk/news/articles/cgew9l0v249o?at_medium=RSS&at_campaign=rss))
