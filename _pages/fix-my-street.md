@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- One very uneven paving slab Trip hazard., 26th July :- [9850602](https://www.fixmystreet.com/report/9850602)
 - Not enough time to cross, 26th July :- [9850397](https://www.fixmystreet.com/report/9850397)
 - Mattress, 26th July :- [9848821](https://www.fixmystreet.com/report/9848821)
 - Dangerously insuffucient space on pavement by bus stop, 26th July :- [9848763](https://www.fixmystreet.com/report/9848763)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Flytipped sofa Dunalley Parade, 25th July :- [9844761](https://www.fixmystreet.com/report/9844761)
 - Flytipping Hungerford Lane, 25th July :- [9844720](https://www.fixmystreet.com/report/9844720)
 - Exposed kerb outside 47, 25th July :- [9844714](https://www.fixmystreet.com/report/9844714)
-- Burnt out mattress Larput Place, 25th July :- [9844691](https://www.fixmystreet.com/report/9844691)
 
 <!-- fix_marker ends -->
