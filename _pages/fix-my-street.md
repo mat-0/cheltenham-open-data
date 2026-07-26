@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Mattress, 26th July :- [9848821](https://www.fixmystreet.com/report/9848821)
+- Dangerously insuffucient space on pavement by bus stop, 26th July :- [9848763](https://www.fixmystreet.com/report/9848763)
 - Fly Tipping in entrance to footpath, 26th July :- [9848617](https://www.fixmystreet.com/report/9848617)
 - Cancelling lights, 26th July :- [9847962](https://www.fixmystreet.com/report/9847962)
 - Large pile of fly tipped waste, 26th July :- [9847621](https://www.fixmystreet.com/report/9847621)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Exposed kerb outside 47, 25th July :- [9844714](https://www.fixmystreet.com/report/9844714)
 - Burnt out mattress Larput Place, 25th July :- [9844691](https://www.fixmystreet.com/report/9844691)
 - Broken glass, 25th July :- [9844665](https://www.fixmystreet.com/report/9844665)
-- Broken glass, 25th July :- [9844646](https://www.fixmystreet.com/report/9844646)
-- Kerb gone outside 28, 25th July :- [9844635](https://www.fixmystreet.com/report/9844635)
 
 <!-- fix_marker ends -->
