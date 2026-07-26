@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large pile of fly tipped waste, 26th July :- [9847621](https://www.fixmystreet.com/report/9847621)
+- Grass overgrown, 26th July :- [9847373](https://www.fixmystreet.com/report/9847373)
 - Drain blocked with vegetation, 26th July :- [9847182](https://www.fixmystreet.com/report/9847182)
 - Strong smell of Urine, 25th July :- [9846681](https://www.fixmystreet.com/report/9846681)
 - Drain completely blocked. When it rains the water runs over the drain and floods the road further down plus debris and mud accumulates because it does not get washed away down the drain, 25th July :- [9846665](https://www.fixmystreet.com/report/9846665)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Kerb gone outside 28, 25th July :- [9844635](https://www.fixmystreet.com/report/9844635)
 - Kerb trip hazard outside the malthouse, 25th July :- [9844608](https://www.fixmystreet.com/report/9844608)
 - Broken glass, 25th July :- [9844588](https://www.fixmystreet.com/report/9844588)
-- Several potholes, 25th July :- [9844032](https://www.fixmystreet.com/report/9844032)
-- Pothole in middle of road, 25th July :- [9844024](https://www.fixmystreet.com/report/9844024)
 
 <!-- fix_marker ends -->
