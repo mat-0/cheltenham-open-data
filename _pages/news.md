@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Two women arrested after suspected stabbing ([5 hours ago](https://www.bbc.co.uk/news/articles/c8dng6gy08qo?at_medium=RSS&at_campaign=rss))
-- Urgent plea to PM for motorway junction funding ([10 hours ago](https://www.bbc.co.uk/news/articles/clyjrj2j8d5o?at_medium=RSS&at_campaign=rss))
-- In Pictures: Balloons, festivals and flower shows ([13 hours ago](https://www.bbc.co.uk/news/articles/c0rdgdgqqx7o?at_medium=RSS&at_campaign=rss))
-- Armed police called after 'woman threatened' ([23 hours ago](https://www.bbc.co.uk/news/articles/c9q94z4n33wo?at_medium=RSS&at_campaign=rss))
+- Two women arrested after suspected stabbing ([7 hours ago](https://www.bbc.co.uk/news/articles/c8dng6gy08qo?at_medium=RSS&at_campaign=rss))
+- Urgent plea to PM for motorway junction funding ([12 hours ago](https://www.bbc.co.uk/news/articles/clyjrj2j8d5o?at_medium=RSS&at_campaign=rss))
+- In Pictures: Balloons, festivals and flower shows ([15 hours ago](https://www.bbc.co.uk/news/articles/c0rdgdgqqx7o?at_medium=RSS&at_campaign=rss))
+- Armed police called after 'woman threatened' ([1 days ago](https://www.bbc.co.uk/news/articles/c9q94z4n33wo?at_medium=RSS&at_campaign=rss))
 - Headlines: Hosepipe bans and hot buses ([1 days ago](https://www.bbc.co.uk/news/articles/cd9wn543kplo?at_medium=RSS&at_campaign=rss))
 - Armoured combat club runs first home tournament ([1 days ago](https://www.bbc.co.uk/news/articles/c8dnq6n8j3yo?at_medium=RSS&at_campaign=rss))
 - 'We feel the pressure juggling holiday logistics' ([1 days ago](https://www.bbc.co.uk/news/articles/c7vg3gnzn6mo?at_medium=RSS&at_campaign=rss))
