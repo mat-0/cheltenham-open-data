@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Cancelling lights, 26th July :- [9847962](https://www.fixmystreet.com/report/9847962)
 - Large pile of fly tipped waste, 26th July :- [9847621](https://www.fixmystreet.com/report/9847621)
 - Grass overgrown, 26th July :- [9847373](https://www.fixmystreet.com/report/9847373)
 - Drain blocked with vegetation, 26th July :- [9847182](https://www.fixmystreet.com/report/9847182)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Broken glass, 25th July :- [9844646](https://www.fixmystreet.com/report/9844646)
 - Kerb gone outside 28, 25th July :- [9844635](https://www.fixmystreet.com/report/9844635)
 - Kerb trip hazard outside the malthouse, 25th July :- [9844608](https://www.fixmystreet.com/report/9844608)
-- Broken glass, 25th July :- [9844588](https://www.fixmystreet.com/report/9844588)
 
 <!-- fix_marker ends -->
