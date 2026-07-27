@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Monday, 27 July 2026
 
-- The average temperature today is 15.47˚C,
-- With highs of 15.47˚C and lows of 15.47˚C,
-- It may feel like 15.19˚C with clear sky
-- The wind speed is 4.31m/s and visibility is 10000m
-- The pressure is 1014hPa and humidity is 81%
+- The average temperature today is 14.84˚C,
+- With highs of 14.84˚C and lows of 14.84˚C,
+- It may feel like 14.42˚C with clear sky
+- The wind speed is 2.78m/s and visibility is 10000m
+- The pressure is 1015hPa and humidity is 78%
 - The sun will rise at 04:22 and set at 20:06
 
 <!-- weather_marker ends -->
