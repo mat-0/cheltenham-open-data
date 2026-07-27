@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Sign to pointing wrong way, 27th July :- [9856126](https://www.fixmystreet.com/report/9856126)
+- Water leak from recent activity of water pipe connection, 27th July :- [9855925](https://www.fixmystreet.com/report/9855925)
+- Pavement covered in brambles and a small tree, 27th July :- [9855794](https://www.fixmystreet.com/report/9855794)
+- Verge has not been cut at all this year - now long and obscuring junction vision. Weeds spreading to nearby gardens., 27th July :- [9855776](https://www.fixmystreet.com/report/9855776)
 - 30 Sign missing on one side and the other side obstructed, 27th July :- [9855548](https://www.fixmystreet.com/report/9855548)
 - Tree about fall onto road, but resting on telephone cable at the moment., 27th July :- [9855270](https://www.fixmystreet.com/report/9855270)
 - Loose paving slab and ugly 'Tarmac Cowpat', 27th July :- [9855245](https://www.fixmystreet.com/report/9855245)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - 2 drains are blocked. The one outside 75 naunton crescent us completely blocked. The one outside 86 naunton crescent is partially blocked, 27th July :- [9853107](https://www.fixmystreet.com/report/9853107)
 - Fire extinguisher's etc dumped in brook, 27th July :- [9852565](https://www.fixmystreet.com/report/9852565)
 - Overgrown trees spilling over our garden, 27th July :- [9852126](https://www.fixmystreet.com/report/9852126)
-- Lane markings contradictory - closed issue not fixed, 27th July :- [9851818](https://www.fixmystreet.com/report/9851818)
-- Flytipped dining chairs, 27th July :- [9851481](https://www.fixmystreet.com/report/9851481)
-- Damage to fence during pavement resurfacing, 27th July :- [9851078](https://www.fixmystreet.com/report/9851078)
-- Fly tipping, 27th July :- [9851036](https://www.fixmystreet.com/report/9851036)
 
 <!-- fix_marker ends -->
