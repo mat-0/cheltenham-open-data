@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Gloucester armoured combat tournament in pictures ([2 hours ago](https://www.bbc.co.uk/news/articles/cn4njwp1d41o?at_medium=RSS&at_campaign=rss))
-- Will summer discounts make family days out cheaper? ([2 hours ago](https://www.bbc.co.uk/news/articles/c36y66kwyj7o?at_medium=RSS&at_campaign=rss))
-- Two women arrested after suspected stabbing ([18 hours ago](https://www.bbc.co.uk/news/articles/c8dng6gy08qo?at_medium=RSS&at_campaign=rss))
-- Urgent plea to PM for motorway junction funding ([23 hours ago](https://www.bbc.co.uk/news/articles/clyjrj2j8d5o?at_medium=RSS&at_campaign=rss))
+- Gloucester armoured combat tournament in pictures ([4 hours ago](https://www.bbc.co.uk/news/articles/cn4njwp1d41o?at_medium=RSS&at_campaign=rss))
+- Will summer discounts make family days out cheaper? ([4 hours ago](https://www.bbc.co.uk/news/articles/c36y66kwyj7o?at_medium=RSS&at_campaign=rss))
+- Two women arrested after suspected stabbing ([20 hours ago](https://www.bbc.co.uk/news/articles/c8dng6gy08qo?at_medium=RSS&at_campaign=rss))
+- Urgent plea to PM for motorway junction funding ([1 days ago](https://www.bbc.co.uk/news/articles/clyjrj2j8d5o?at_medium=RSS&at_campaign=rss))
 - In Pictures: Balloons, festivals and flower shows ([1 days ago](https://www.bbc.co.uk/news/articles/c0rdgdgqqx7o?at_medium=RSS&at_campaign=rss))
 - Armed police called after 'woman threatened' ([1 days ago](https://www.bbc.co.uk/news/articles/c9q94z4n33wo?at_medium=RSS&at_campaign=rss))
 - Headlines: Hosepipe bans and hot buses ([1 days ago](https://www.bbc.co.uk/news/articles/cd9wn543kplo?at_medium=RSS&at_campaign=rss))
@@ -24,7 +24,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Gloucestershire headteacher describes 'out-of-control' wildfire ([2 days ago](https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss))
 - Proposals to build 18,000 homes across Cotswolds ([2 days ago](https://www.bbc.co.uk/news/articles/cx2dgynp0xeo?at_medium=RSS&at_campaign=rss))
 - Reservoirs 'exceptionally low' with rain forecast ([2 days ago](https://www.bbc.co.uk/news/articles/cgew9l0v249o?at_medium=RSS&at_campaign=rss))
-- 'My baby overheated during M5 closure' ([2 days ago](https://www.bbc.co.uk/news/articles/cly5vrdq8rlo?at_medium=RSS&at_campaign=rss))
+- 'My baby overheated during M5 closure' ([3 days ago](https://www.bbc.co.uk/news/articles/cly5vrdq8rlo?at_medium=RSS&at_campaign=rss))
 - Town considering charging SUVs more to park ([3 days ago](https://www.bbc.co.uk/news/articles/c05ql06rjmgo?at_medium=RSS&at_campaign=rss))
 - Iran says RAF Fairford deemed 'legitimate target' ([3 days ago](https://www.bbc.co.uk/news/articles/c1w1e2542wno?at_medium=RSS&at_campaign=rss))
 - Recycling centre to close for three months ([3 days ago](https://www.bbc.co.uk/news/articles/cr7kvg0ddnro?at_medium=RSS&at_campaign=rss))

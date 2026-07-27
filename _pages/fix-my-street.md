@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fire extinguisher's etc dumped in brook, 27th July :- [9852565](https://www.fixmystreet.com/report/9852565)
+- Overgrown trees spilling over our garden, 27th July :- [9852126](https://www.fixmystreet.com/report/9852126)
+- Lane markings contradictory - closed issue not fixed, 27th July :- [9851818](https://www.fixmystreet.com/report/9851818)
 - Flytipped dining chairs, 27th July :- [9851481](https://www.fixmystreet.com/report/9851481)
 - Damage to fence during pavement resurfacing, 27th July :- [9851078](https://www.fixmystreet.com/report/9851078)
 - Fly tipping, 27th July :- [9851036](https://www.fixmystreet.com/report/9851036)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Strong smell of Urine, 25th July :- [9846681](https://www.fixmystreet.com/report/9846681)
 - Drain completely blocked. When it rains the water runs over the drain and floods the road further down plus debris and mud accumulates because it does not get washed away down the drain, 25th July :- [9846665](https://www.fixmystreet.com/report/9846665)
 - About 2 foot long, 3 inches wide and 2 inches deep, 25th July :- [9846613](https://www.fixmystreet.com/report/9846613)
-- Wide and deep pothole on left hand side of the ride as you turn into Hetton Gardens, 25th July :- [9845718](https://www.fixmystreet.com/report/9845718)
-- Volunteer litter pick bags ready for collection, 25th July :- [9845477](https://www.fixmystreet.com/report/9845477)
-- 2 x potholes getting deeper daily, 25th July :- [9845085](https://www.fixmystreet.com/report/9845085)
 
 <!-- fix_marker ends -->
