@@ -34,11 +34,6 @@ jobs:
                   curl "https://www.givefood.org.uk/api/2/foodbank/cheltenham/" | jq . > _data/foodbank-cheltenham.json
                   curl "https://www.givefood.org.uk/api/2/foodbank/cheltenham-open-door/" | jq . > _data/foodbank-open-door.json
 
-            - name: Fetch latest Crime Data
-              run: |-
-                  curl "https://data.police.uk/api/crimes-street/all-crime?lat=51.9042&lng=-2.10141" | jq . > _data/AA3_all_crime.json
-                  curl "https://data.police.uk/api/crimes-street/stops-street?lat=51.9042&lng=-2.10141" | jq . > _data/AA3_stops_street.json
-
             - name: Set up Python
               uses: actions/setup-python@v7
               with:
