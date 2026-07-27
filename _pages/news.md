@@ -11,6 +11,18 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 [Get this page as daily RSS feed](/daily.rss)
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7806573467007778"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-gw-3+1f-3d+2z"
+     data-ad-client="ca-pub-7806573467007778"
+     data-ad-slot="1962427275"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 <!-- news_marker starts -->
 - Gloucester armoured combat tournament in pictures ([4 hours ago](https://www.bbc.co.uk/news/articles/cn4njwp1d41o?at_medium=RSS&at_campaign=rss))
 - Will summer discounts make family days out cheaper? ([4 hours ago](https://www.bbc.co.uk/news/articles/c36y66kwyj7o?at_medium=RSS&at_campaign=rss))
@@ -53,3 +65,15 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Gloucestershire Airport back on market ([26 days ago](https://gloucesternewscentre.co.uk/gloucestershire-airport-back-on-market/))
 
 <!-- news_marker ends -->
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7806573467007778"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-gw-3+1f-3d+2z"
+     data-ad-client="ca-pub-7806573467007778"
+     data-ad-slot="1962427275"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
