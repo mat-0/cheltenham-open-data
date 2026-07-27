@@ -39,6 +39,7 @@ exclude:
 include:
   - ".well-known"
   - "_pages"
+  - ads.txt
 
 # Site Navigation
 ## Header
