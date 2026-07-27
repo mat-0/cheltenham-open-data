@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- A pothole in road problem, 27th July :- [9856928](https://www.fixmystreet.com/report/9856928)
+- Mattress dumped in front garden, 27th July :- [9856778](https://www.fixmystreet.com/report/9856778)
 - Advertising for business purposes, 27th July :- [9856537](https://www.fixmystreet.com/report/9856537)
 - Advertising business roadside., 27th July :- [9856529](https://www.fixmystreet.com/report/9856529)
 - Sign to pointing wrong way, 27th July :- [9856126](https://www.fixmystreet.com/report/9856126)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Broken grit bin, 27th July :- [9854460](https://www.fixmystreet.com/report/9854460)
 - Dangerous branches need cutting back, 27th July :- [9854011](https://www.fixmystreet.com/report/9854011)
 - Street light 9, 27th July :- [9853797](https://www.fixmystreet.com/report/9853797)
-- Unfixed item, barriers left about a year, 27th July :- [9853785](https://www.fixmystreet.com/report/9853785)
-- 2 drains are blocked. The one outside 75 naunton crescent us completely blocked. The one outside 86 naunton crescent is partially blocked, 27th July :- [9853107](https://www.fixmystreet.com/report/9853107)
 
 <!-- fix_marker ends -->
