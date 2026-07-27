@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipped dining chairs, 27th July :- [9851481](https://www.fixmystreet.com/report/9851481)
+- Damage to fence during pavement resurfacing, 27th July :- [9851078](https://www.fixmystreet.com/report/9851078)
+- Fly tipping, 27th July :- [9851036](https://www.fixmystreet.com/report/9851036)
+- Near drain, 27th July :- [9851031](https://www.fixmystreet.com/report/9851031)
+- Bin Not Emptied, 27th July :- [9851003](https://www.fixmystreet.com/report/9851003)
 - One very uneven paving slab Trip hazard., 26th July :- [9850602](https://www.fixmystreet.com/report/9850602)
 - Not enough time to cross, 26th July :- [9850397](https://www.fixmystreet.com/report/9850397)
 - Mattress, 26th July :- [9848821](https://www.fixmystreet.com/report/9848821)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Wide and deep pothole on left hand side of the ride as you turn into Hetton Gardens, 25th July :- [9845718](https://www.fixmystreet.com/report/9845718)
 - Volunteer litter pick bags ready for collection, 25th July :- [9845477](https://www.fixmystreet.com/report/9845477)
 - 2 x potholes getting deeper daily, 25th July :- [9845085](https://www.fixmystreet.com/report/9845085)
-- Small sinkhole and sunken area in pavement near to BT slab, 25th July :- [9844773](https://www.fixmystreet.com/report/9844773)
-- Flytipping on back street between Brunswick St and Hanover St, 25th July :- [9844777](https://www.fixmystreet.com/report/9844777)
-- Flytipped sofa Dunalley Parade, 25th July :- [9844761](https://www.fixmystreet.com/report/9844761)
-- Flytipping Hungerford Lane, 25th July :- [9844720](https://www.fixmystreet.com/report/9844720)
-- Exposed kerb outside 47, 25th July :- [9844714](https://www.fixmystreet.com/report/9844714)
 
 <!-- fix_marker ends -->
