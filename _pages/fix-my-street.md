@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Advertising for business purposes, 27th July :- [9856537](https://www.fixmystreet.com/report/9856537)
+- Advertising business roadside., 27th July :- [9856529](https://www.fixmystreet.com/report/9856529)
 - Sign to pointing wrong way, 27th July :- [9856126](https://www.fixmystreet.com/report/9856126)
 - Water leak from recent activity of water pipe connection, 27th July :- [9855925](https://www.fixmystreet.com/report/9855925)
 - Pavement covered in brambles and a small tree, 27th July :- [9855794](https://www.fixmystreet.com/report/9855794)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Street light 9, 27th July :- [9853797](https://www.fixmystreet.com/report/9853797)
 - Unfixed item, barriers left about a year, 27th July :- [9853785](https://www.fixmystreet.com/report/9853785)
 - 2 drains are blocked. The one outside 75 naunton crescent us completely blocked. The one outside 86 naunton crescent is partially blocked, 27th July :- [9853107](https://www.fixmystreet.com/report/9853107)
-- Fire extinguisher's etc dumped in brook, 27th July :- [9852565](https://www.fixmystreet.com/report/9852565)
-- Overgrown trees spilling over our garden, 27th July :- [9852126](https://www.fixmystreet.com/report/9852126)
 
 <!-- fix_marker ends -->

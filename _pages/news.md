@@ -24,15 +24,15 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 </script>
 
 <!-- news_marker starts -->
-- Calls for PM to clamp down on river sewage ([3 hours ago](https://www.bbc.co.uk/news/articles/cwyed7vqpwzo?at_medium=RSS&at_campaign=rss))
-- Teenager found guilty of murdering drug dealer ([4 hours ago](https://www.bbc.co.uk/news/articles/ckgeng4029eo?at_medium=RSS&at_campaign=rss))
-- Boiler theft gang jailed for new-build home raids ([6 hours ago](https://www.bbc.co.uk/news/articles/c39evvmx9eyo?at_medium=RSS&at_campaign=rss))
-- Gloucester armoured combat tournament in pictures ([13 hours ago](https://www.bbc.co.uk/news/articles/cn4njwp1d41o?at_medium=RSS&at_campaign=rss))
-- Will summer discounts make family days out cheaper? ([14 hours ago](https://www.bbc.co.uk/news/articles/c36y66kwyj7o?at_medium=RSS&at_campaign=rss))
+- Calls for PM to clamp down on river sewage ([5 hours ago](https://www.bbc.co.uk/news/articles/cwyed7vqpwzo?at_medium=RSS&at_campaign=rss))
+- Teenager found guilty of murdering drug dealer ([6 hours ago](https://www.bbc.co.uk/news/articles/ckgeng4029eo?at_medium=RSS&at_campaign=rss))
+- Boiler theft gang jailed for new-build home raids ([8 hours ago](https://www.bbc.co.uk/news/articles/c39evvmx9eyo?at_medium=RSS&at_campaign=rss))
+- Gloucester armoured combat tournament in pictures ([15 hours ago](https://www.bbc.co.uk/news/articles/cn4njwp1d41o?at_medium=RSS&at_campaign=rss))
+- Will summer discounts make family days out cheaper? ([15 hours ago](https://www.bbc.co.uk/news/articles/c36y66kwyj7o?at_medium=RSS&at_campaign=rss))
 - Two women arrested after suspected stabbing ([1 days ago](https://www.bbc.co.uk/news/articles/c8dng6gy08qo?at_medium=RSS&at_campaign=rss))
 - Urgent plea to PM for motorway junction funding ([1 days ago](https://www.bbc.co.uk/news/articles/clyjrj2j8d5o?at_medium=RSS&at_campaign=rss))
 - In Pictures: Balloons, festivals and flower shows ([1 days ago](https://www.bbc.co.uk/news/articles/c0rdgdgqqx7o?at_medium=RSS&at_campaign=rss))
-- Armed police called after 'woman threatened' ([1 days ago](https://www.bbc.co.uk/news/articles/c9q94z4n33wo?at_medium=RSS&at_campaign=rss))
+- Armed police called after 'woman threatened' ([2 days ago](https://www.bbc.co.uk/news/articles/c9q94z4n33wo?at_medium=RSS&at_campaign=rss))
 - Headlines: Hosepipe bans and hot buses ([2 days ago](https://www.bbc.co.uk/news/articles/cd9wn543kplo?at_medium=RSS&at_campaign=rss))
 - Armoured combat club runs first home tournament ([2 days ago](https://www.bbc.co.uk/news/articles/c8dnq6n8j3yo?at_medium=RSS&at_campaign=rss))
 - 'We feel the pressure juggling holiday logistics' ([2 days ago](https://www.bbc.co.uk/news/articles/c7vg3gnzn6mo?at_medium=RSS&at_campaign=rss))
