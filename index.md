@@ -9,13 +9,13 @@ permalink: /
 ![Logo](/images/logo.jpg){:width="860px"}
 
 <!-- weather_marker starts -->
-## On Sunday, 26 July 2026
+## On Monday, 27 July 2026
 
-- The average temperature today is 17.31˚C,
-- With highs of 17.62˚C and lows of 17.14˚C,
-- It may feel like 16.98˚C with few clouds
-- The wind speed is 4.67m/s and visibility is 10000m
-- The pressure is 1012hPa and humidity is 72%
+- The average temperature today is 15.47˚C,
+- With highs of 15.47˚C and lows of 15.47˚C,
+- It may feel like 15.19˚C with clear sky
+- The wind speed is 4.31m/s and visibility is 10000m
+- The pressure is 1014hPa and humidity is 81%
 - The sun will rise at 04:22 and set at 20:06
 
 <!-- weather_marker ends -->
@@ -45,7 +45,7 @@ Given proximity to GCHQ...
 ### SEVERE
 
 - Current Threat Level: SEVERE
-- It has been 87 days since the last change (2026-04-30)
+- It has been 88 days since the last change (2026-04-30)
 - Details: <p>The current national threat level is SEVERE. &nbsp;The threat to Northern Ireland from Northern Ireland-related terrorism is SUBSTANTIAL.</p>
 
 <!-- threat_marker ends -->
