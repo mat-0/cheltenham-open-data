@@ -11,12 +11,12 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Tuesday, 28 July 2026
 
-- The average temperature today is 21.97˚C,
-- With highs of 22.62˚C and lows of 20.85˚C,
-- It may feel like 22.18˚C with broken clouds
-- The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1016hPa and humidity is 75%
-- The sun will rise at 04:24 and set at 20:05
+- The average temperature today is 19.73˚C,
+- With highs of 20.95˚C and lows of 18.25˚C,
+- It may feel like 19.98˚C with broken clouds
+- The wind speed is 2.85m/s and visibility is 10000m
+- The pressure is 1015hPa and humidity is 85%
+- The sun will rise at 04:25 and set at 20:03
 
 <!-- weather_marker ends -->
 
