@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Kerb stones at the entrance of the allotment site, 28th July :- [9862896](https://www.fixmystreet.com/report/9862896)
+- Large holes in road, 28th July :- [9862795](https://www.fixmystreet.com/report/9862795)
+- Suspected giant hogweed, 28th July :- [9862773](https://www.fixmystreet.com/report/9862773)
+- Damaged metal cover, 28th July :- [9862626](https://www.fixmystreet.com/report/9862626)
+- Dying tree, 28th July :- [9862601](https://www.fixmystreet.com/report/9862601)
+- Flyposters advertising new car boot left up, 28th July :- [9862574](https://www.fixmystreet.com/report/9862574)
 - A pothole in road problem, 28th July :- [9862452](https://www.fixmystreet.com/report/9862452)
 - Pot hole formed and getting worse by the day by 3 water manholes. Needs repairing asap as potentially it could cause a problem to the water manholes, 28th July :- [9862366](https://www.fixmystreet.com/report/9862366)
 - Gully blocked, water ponding, road breaking up, 28th July :- [9861617](https://www.fixmystreet.com/report/9861617)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 28th July :- [9860609](https://www.fixmystreet.com/report/9860609)
 - TMC - Defects - Vegetation problem, 28th July :- [9860608](https://www.fixmystreet.com/report/9860608)
 - TMC - Defects - Other FW6  Surface problem, 28th July :- [9860607](https://www.fixmystreet.com/report/9860607)
-- TMC - Defects -CW6 Potholes  problem, 28th July :- [9860601](https://www.fixmystreet.com/report/9860601)
-- TMC - Defects -CW6 Potholes  problem, 28th July :- [9860602](https://www.fixmystreet.com/report/9860602)
-- TMC - Defects - Kerbs and Channels problem, 28th July :- [9860589](https://www.fixmystreet.com/report/9860589)
-- TMC - Defects - Other FW6  Surface problem, 28th July :- [9860591](https://www.fixmystreet.com/report/9860591)
-- TMC - Defects -other CW10 problem, 28th July :- [9860586](https://www.fixmystreet.com/report/9860586)
-- TMC - Defects - Other FW6  Surface problem, 28th July :- [9860584](https://www.fixmystreet.com/report/9860584)
 
 <!-- fix_marker ends -->

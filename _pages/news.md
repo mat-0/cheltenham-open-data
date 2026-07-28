@@ -24,11 +24,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 </script>
 
 <!-- news_marker starts -->
-- 'Reckless' fatal crash driver's sentence increased ([2 hours ago](https://www.bbc.co.uk/news/articles/c4gvern2zzwo?at_medium=RSS&at_campaign=rss))
-- County to charge more for taking DIY waste to tips ([6 hours ago](https://www.bbc.co.uk/news/articles/czxeypl79x3o?at_medium=RSS&at_campaign=rss))
-- Woman, 21, charged in connection with stabbing ([7 hours ago](https://www.bbc.co.uk/news/articles/c62xnlp2zr0o?at_medium=RSS&at_campaign=rss))
-- Where is best to see the July Buck Moon? ([14 hours ago](https://www.bbc.co.uk/news/articles/cm2g4dmpn77o?at_medium=RSS&at_campaign=rss))
-- ADHD jockey visits school to inspire students ([14 hours ago](https://www.bbc.co.uk/news/articles/cvg0dx2mj2do?at_medium=RSS&at_campaign=rss))
+- 'Reckless' fatal crash driver's sentence increased ([4 hours ago](https://www.bbc.co.uk/news/articles/c4gvern2zzwo?at_medium=RSS&at_campaign=rss))
+- County to charge more for taking DIY waste to tips ([8 hours ago](https://www.bbc.co.uk/news/articles/czxeypl79x3o?at_medium=RSS&at_campaign=rss))
+- Woman, 21, charged in connection with stabbing ([9 hours ago](https://www.bbc.co.uk/news/articles/c62xnlp2zr0o?at_medium=RSS&at_campaign=rss))
+- Where is best to see the July Buck Moon? ([16 hours ago](https://www.bbc.co.uk/news/articles/cm2g4dmpn77o?at_medium=RSS&at_campaign=rss))
+- ADHD jockey visits school to inspire students ([16 hours ago](https://www.bbc.co.uk/news/articles/cvg0dx2mj2do?at_medium=RSS&at_campaign=rss))
 - Calls for PM to clamp down on river sewage ([1 days ago](https://www.bbc.co.uk/news/articles/cwyed7vqpwzo?at_medium=RSS&at_campaign=rss))
 - Teenager found guilty of murdering drug dealer ([1 days ago](https://www.bbc.co.uk/news/articles/ckgeng4029eo?at_medium=RSS&at_campaign=rss))
 - Boiler theft gang jailed for new-build home raids ([1 days ago](https://www.bbc.co.uk/news/articles/c39evvmx9eyo?at_medium=RSS&at_campaign=rss))
@@ -37,7 +37,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Two women arrested after suspected stabbing ([2 days ago](https://www.bbc.co.uk/news/articles/c8dng6gy08qo?at_medium=RSS&at_campaign=rss))
 - Urgent plea to PM for motorway junction funding ([2 days ago](https://www.bbc.co.uk/news/articles/clyjrj2j8d5o?at_medium=RSS&at_campaign=rss))
 - In Pictures: Balloons, festivals and flower shows ([2 days ago](https://www.bbc.co.uk/news/articles/c0rdgdgqqx7o?at_medium=RSS&at_campaign=rss))
-- Armed police called after 'woman threatened' ([2 days ago](https://www.bbc.co.uk/news/articles/c9q94z4n33wo?at_medium=RSS&at_campaign=rss))
+- Armed police called after 'woman threatened' ([3 days ago](https://www.bbc.co.uk/news/articles/c9q94z4n33wo?at_medium=RSS&at_campaign=rss))
 - Headlines: Hosepipe bans and hot buses ([3 days ago](https://www.bbc.co.uk/news/articles/cd9wn543kplo?at_medium=RSS&at_campaign=rss))
 - Armoured combat club runs first home tournament ([3 days ago](https://www.bbc.co.uk/news/articles/c8dnq6n8j3yo?at_medium=RSS&at_campaign=rss))
 - 'We feel the pressure juggling holiday logistics' ([3 days ago](https://www.bbc.co.uk/news/articles/c7vg3gnzn6mo?at_medium=RSS&at_campaign=rss))
