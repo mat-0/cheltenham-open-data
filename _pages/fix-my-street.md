@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fallen tree, 28th July :- [9857590](https://www.fixmystreet.com/report/9857590)
+- Rotting pigeon carcasses, 28th July :- [9857232](https://www.fixmystreet.com/report/9857232)
 - A pothole in road problem, 27th July :- [9856928](https://www.fixmystreet.com/report/9856928)
 - Mattress dumped in front garden, 27th July :- [9856778](https://www.fixmystreet.com/report/9856778)
 - Advertising for business purposes, 27th July :- [9856537](https://www.fixmystreet.com/report/9856537)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Substantial subsidence in Subsidence in the road getting progressively worse and affecting safe driving over the area of approximately 3 foot by 3 foot, 27th July :- [9854900](https://www.fixmystreet.com/report/9854900)
 - Flytip, 27th July :- [9854759](https://www.fixmystreet.com/report/9854759)
 - Broken grit bin, 27th July :- [9854460](https://www.fixmystreet.com/report/9854460)
-- Dangerous branches need cutting back, 27th July :- [9854011](https://www.fixmystreet.com/report/9854011)
-- Street light 9, 27th July :- [9853797](https://www.fixmystreet.com/report/9853797)
 
 <!-- fix_marker ends -->
