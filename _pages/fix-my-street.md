@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- A pothole in road problem, 28th July :- [9862452](https://www.fixmystreet.com/report/9862452)
+- Pot hole formed and getting worse by the day by 3 water manholes. Needs repairing asap as potentially it could cause a problem to the water manholes, 28th July :- [9862366](https://www.fixmystreet.com/report/9862366)
 - Gully blocked, water ponding, road breaking up, 28th July :- [9861617](https://www.fixmystreet.com/report/9861617)
 - Overgrown, 28th July :- [9861557](https://www.fixmystreet.com/report/9861557)
 - Dangerously overgrown grass around recreational area, 28th July :- [9861239](https://www.fixmystreet.com/report/9861239)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 28th July :- [9860591](https://www.fixmystreet.com/report/9860591)
 - TMC - Defects -other CW10 problem, 28th July :- [9860586](https://www.fixmystreet.com/report/9860586)
 - TMC - Defects - Other FW6  Surface problem, 28th July :- [9860584](https://www.fixmystreet.com/report/9860584)
-- TMC - Defects -CW6 Potholes  problem, 28th July :- [9860385](https://www.fixmystreet.com/report/9860385)
-- TMC - Defects - Other problem, 28th July :- [9860373](https://www.fixmystreet.com/report/9860373)
 
 <!-- fix_marker ends -->
