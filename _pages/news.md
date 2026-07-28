@@ -24,11 +24,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 </script>
 
 <!-- news_marker starts -->
-- Calls for PM to clamp down on river sewage ([9 hours ago](https://www.bbc.co.uk/news/articles/cwyed7vqpwzo?at_medium=RSS&at_campaign=rss))
-- Teenager found guilty of murdering drug dealer ([10 hours ago](https://www.bbc.co.uk/news/articles/ckgeng4029eo?at_medium=RSS&at_campaign=rss))
-- Boiler theft gang jailed for new-build home raids ([12 hours ago](https://www.bbc.co.uk/news/articles/c39evvmx9eyo?at_medium=RSS&at_campaign=rss))
-- Gloucester armoured combat tournament in pictures ([19 hours ago](https://www.bbc.co.uk/news/articles/cn4njwp1d41o?at_medium=RSS&at_campaign=rss))
-- Will summer discounts make family days out cheaper? ([20 hours ago](https://www.bbc.co.uk/news/articles/c36y66kwyj7o?at_medium=RSS&at_campaign=rss))
+- Calls for PM to clamp down on river sewage ([12 hours ago](https://www.bbc.co.uk/news/articles/cwyed7vqpwzo?at_medium=RSS&at_campaign=rss))
+- Teenager found guilty of murdering drug dealer ([12 hours ago](https://www.bbc.co.uk/news/articles/ckgeng4029eo?at_medium=RSS&at_campaign=rss))
+- Boiler theft gang jailed for new-build home raids ([15 hours ago](https://www.bbc.co.uk/news/articles/c39evvmx9eyo?at_medium=RSS&at_campaign=rss))
+- Gloucester armoured combat tournament in pictures ([22 hours ago](https://www.bbc.co.uk/news/articles/cn4njwp1d41o?at_medium=RSS&at_campaign=rss))
+- Will summer discounts make family days out cheaper? ([22 hours ago](https://www.bbc.co.uk/news/articles/c36y66kwyj7o?at_medium=RSS&at_campaign=rss))
 - Two women arrested after suspected stabbing ([1 days ago](https://www.bbc.co.uk/news/articles/c8dng6gy08qo?at_medium=RSS&at_campaign=rss))
 - Urgent plea to PM for motorway junction funding ([1 days ago](https://www.bbc.co.uk/news/articles/clyjrj2j8d5o?at_medium=RSS&at_campaign=rss))
 - In Pictures: Balloons, festivals and flower shows ([1 days ago](https://www.bbc.co.uk/news/articles/c0rdgdgqqx7o?at_medium=RSS&at_campaign=rss))
