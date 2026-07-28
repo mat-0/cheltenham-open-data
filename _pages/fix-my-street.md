@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Gully blocked, water ponding, road breaking up, 28th July :- [9861617](https://www.fixmystreet.com/report/9861617)
+- Overgrown, 28th July :- [9861557](https://www.fixmystreet.com/report/9861557)
 - Dangerously overgrown grass around recreational area, 28th July :- [9861239](https://www.fixmystreet.com/report/9861239)
 - Abandoned Suspicious car in Innsworth for over Three and Half Months, 28th July :- [9861141](https://www.fixmystreet.com/report/9861141)
 - TMC - Defects - Vegetation problem, 28th July :- [9861107](https://www.fixmystreet.com/report/9861107)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 28th July :- [9860584](https://www.fixmystreet.com/report/9860584)
 - TMC - Defects -CW6 Potholes  problem, 28th July :- [9860385](https://www.fixmystreet.com/report/9860385)
 - TMC - Defects - Other problem, 28th July :- [9860373](https://www.fixmystreet.com/report/9860373)
-- TMC - Defects - Other problem, 28th July :- [9860367](https://www.fixmystreet.com/report/9860367)
-- For months there have been diversion signs left on the isbourne arts site. they are a hazard as they can fall on people. please send someone to remove them., 28th July :- [9860209](https://www.fixmystreet.com/report/9860209)
 
 <!-- fix_marker ends -->
