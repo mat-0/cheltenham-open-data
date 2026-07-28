@@ -24,18 +24,18 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 </script>
 
 <!-- news_marker starts -->
-- Where is best to see the July Buck Moon? ([4 hours ago](https://www.bbc.co.uk/news/articles/cm2g4dmpn77o?at_medium=RSS&at_campaign=rss))
-- ADHD jockey visits school to inspire students ([4 hours ago](https://www.bbc.co.uk/news/articles/cvg0dx2mj2do?at_medium=RSS&at_campaign=rss))
-- Calls for PM to clamp down on river sewage ([18 hours ago](https://www.bbc.co.uk/news/articles/cwyed7vqpwzo?at_medium=RSS&at_campaign=rss))
-- Teenager found guilty of murdering drug dealer ([18 hours ago](https://www.bbc.co.uk/news/articles/ckgeng4029eo?at_medium=RSS&at_campaign=rss))
-- Boiler theft gang jailed for new-build home raids ([21 hours ago](https://www.bbc.co.uk/news/articles/c39evvmx9eyo?at_medium=RSS&at_campaign=rss))
+- Where is best to see the July Buck Moon? ([6 hours ago](https://www.bbc.co.uk/news/articles/cm2g4dmpn77o?at_medium=RSS&at_campaign=rss))
+- ADHD jockey visits school to inspire students ([6 hours ago](https://www.bbc.co.uk/news/articles/cvg0dx2mj2do?at_medium=RSS&at_campaign=rss))
+- Calls for PM to clamp down on river sewage ([19 hours ago](https://www.bbc.co.uk/news/articles/cwyed7vqpwzo?at_medium=RSS&at_campaign=rss))
+- Teenager found guilty of murdering drug dealer ([20 hours ago](https://www.bbc.co.uk/news/articles/ckgeng4029eo?at_medium=RSS&at_campaign=rss))
+- Boiler theft gang jailed for new-build home raids ([22 hours ago](https://www.bbc.co.uk/news/articles/c39evvmx9eyo?at_medium=RSS&at_campaign=rss))
 - Gloucester armoured combat tournament in pictures ([1 days ago](https://www.bbc.co.uk/news/articles/cn4njwp1d41o?at_medium=RSS&at_campaign=rss))
 - Will summer discounts make family days out cheaper? ([1 days ago](https://www.bbc.co.uk/news/articles/c36y66kwyj7o?at_medium=RSS&at_campaign=rss))
 - Two women arrested after suspected stabbing ([1 days ago](https://www.bbc.co.uk/news/articles/c8dng6gy08qo?at_medium=RSS&at_campaign=rss))
 - Urgent plea to PM for motorway junction funding ([2 days ago](https://www.bbc.co.uk/news/articles/clyjrj2j8d5o?at_medium=RSS&at_campaign=rss))
 - In Pictures: Balloons, festivals and flower shows ([2 days ago](https://www.bbc.co.uk/news/articles/c0rdgdgqqx7o?at_medium=RSS&at_campaign=rss))
 - Armed police called after 'woman threatened' ([2 days ago](https://www.bbc.co.uk/news/articles/c9q94z4n33wo?at_medium=RSS&at_campaign=rss))
-- Headlines: Hosepipe bans and hot buses ([2 days ago](https://www.bbc.co.uk/news/articles/cd9wn543kplo?at_medium=RSS&at_campaign=rss))
+- Headlines: Hosepipe bans and hot buses ([3 days ago](https://www.bbc.co.uk/news/articles/cd9wn543kplo?at_medium=RSS&at_campaign=rss))
 - Armoured combat club runs first home tournament ([3 days ago](https://www.bbc.co.uk/news/articles/c8dnq6n8j3yo?at_medium=RSS&at_campaign=rss))
 - 'We feel the pressure juggling holiday logistics' ([3 days ago](https://www.bbc.co.uk/news/articles/c7vg3gnzn6mo?at_medium=RSS&at_campaign=rss))
 - Gloucestershire headteacher describes 'out-of-control' wildfire ([3 days ago](https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss))
@@ -62,7 +62,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Concerns over ‘devastating’ report on maternity services ([24 days ago](https://gloucesternewscentre.co.uk/concerns-over-devastating-report-on-maternity-services/))
 - Heightened security after spike in ‘aggressive’ incidents at council ([25 days ago](https://gloucesternewscentre.co.uk/heightened-security-after-spike-in-aggressive-incidents-at-council/))
 - Secrecy over why Gloucestershire Airport costs millions for the taxpayer ([25 days ago](https://gloucesternewscentre.co.uk/secrecy-over-why-gloucestershire-airport-costs-millions-for-the-taxpayer/))
-- Gloucestershire Airport back on market ([27 days ago](https://gloucesternewscentre.co.uk/gloucestershire-airport-back-on-market/))
+- Gloucestershire Airport back on market ([28 days ago](https://gloucesternewscentre.co.uk/gloucestershire-airport-back-on-market/))
 
 <!-- news_marker ends -->
 
