@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Overgrown trees and hedges, 29th July :- [9868487](https://www.fixmystreet.com/report/9868487)
+- Several pot holes, 6 below Bushcombe Brae entrance and 3 above., 29th July :- [9868473](https://www.fixmystreet.com/report/9868473)
+- Foot print size hole about 3 inches deep in places, 29th July :- [9866973](https://www.fixmystreet.com/report/9866973)
 - Broken pavement, 29th July :- [9867867](https://www.fixmystreet.com/report/9867867)
 - Dead adult deer on central reservation, 29th July :- [9867771](https://www.fixmystreet.com/report/9867771)
 - Tree is damaged problem, 29th July :- [9867553](https://www.fixmystreet.com/report/9867553)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Road Markings problem, 29th July :- [9866822](https://www.fixmystreet.com/report/9866822)
 - TMC - Defects - Road Markings problem, 29th July :- [9866820](https://www.fixmystreet.com/report/9866820)
 - TMC - Defects - Road Markings problem, 29th July :- [9866819](https://www.fixmystreet.com/report/9866819)
-- TMC - Defects -CW10 Potholes problem, 29th July :- [9866650](https://www.fixmystreet.com/report/9866650)
-- TMC - Defects -CW6 Potholes  problem, 29th July :- [9866602](https://www.fixmystreet.com/report/9866602)
-- TMC - Defects -CW6 Potholes  problem, 29th July :- [9866601](https://www.fixmystreet.com/report/9866601)
 
 <!-- fix_marker ends -->
