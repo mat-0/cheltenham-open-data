@@ -24,11 +24,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 </script>
 
 <!-- news_marker starts -->
-- Sports and social club 'is being forced to close' ([2 hours ago](https://www.bbc.co.uk/news/articles/clyeqyrqe0do?at_medium=RSS&at_campaign=rss))
-- How cow showers and fans help farmers keep cattle cool ([4 hours ago](https://www.bbc.co.uk/news/articles/c62qz2geq93o?at_medium=RSS&at_campaign=rss))
-- 'Reckless' fatal crash driver's sentence increased ([16 hours ago](https://www.bbc.co.uk/news/articles/c4gvern2zzwo?at_medium=RSS&at_campaign=rss))
-- County to charge more for taking DIY waste to tips ([21 hours ago](https://www.bbc.co.uk/news/articles/czxeypl79x3o?at_medium=RSS&at_campaign=rss))
-- Woman, 21, charged in connection with stabbing ([21 hours ago](https://www.bbc.co.uk/news/articles/c62xnlp2zr0o?at_medium=RSS&at_campaign=rss))
+- In Pictures: World's oldest classical music festival under way ([18 minutes ago](https://www.bbc.co.uk/news/articles/c0l5n965r24o?at_medium=RSS&at_campaign=rss))
+- Sports and social club 'is being forced to close' ([4 hours ago](https://www.bbc.co.uk/news/articles/clyeqyrqe0do?at_medium=RSS&at_campaign=rss))
+- How cow showers and fans help farmers keep cattle cool ([6 hours ago](https://www.bbc.co.uk/news/articles/c62qz2geq93o?at_medium=RSS&at_campaign=rss))
+- 'Reckless' fatal crash driver's sentence increased ([18 hours ago](https://www.bbc.co.uk/news/articles/c4gvern2zzwo?at_medium=RSS&at_campaign=rss))
+- County to charge more for taking DIY waste to tips ([23 hours ago](https://www.bbc.co.uk/news/articles/czxeypl79x3o?at_medium=RSS&at_campaign=rss))
+- Woman, 21, charged in connection with stabbing ([23 hours ago](https://www.bbc.co.uk/news/articles/c62xnlp2zr0o?at_medium=RSS&at_campaign=rss))
 - Where is best to see the July Buck Moon? ([1 days ago](https://www.bbc.co.uk/news/articles/cm2g4dmpn77o?at_medium=RSS&at_campaign=rss))
 - ADHD jockey visits school to inspire students ([1 days ago](https://www.bbc.co.uk/news/articles/cvg0dx2mj2do?at_medium=RSS&at_campaign=rss))
 - Calls for PM to clamp down on river sewage ([1 days ago](https://www.bbc.co.uk/news/articles/cwyed7vqpwzo?at_medium=RSS&at_campaign=rss))
@@ -40,7 +41,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Urgent plea to PM for motorway junction funding ([3 days ago](https://www.bbc.co.uk/news/articles/clyjrj2j8d5o?at_medium=RSS&at_campaign=rss))
 - In Pictures: Balloons, festivals and flower shows ([3 days ago](https://www.bbc.co.uk/news/articles/c0rdgdgqqx7o?at_medium=RSS&at_campaign=rss))
 - Armed police called after 'woman threatened' ([3 days ago](https://www.bbc.co.uk/news/articles/c9q94z4n33wo?at_medium=RSS&at_campaign=rss))
-- 'We feel the pressure juggling holiday logistics' ([4 days ago](https://www.bbc.co.uk/news/articles/c7vg3gnzn6mo?at_medium=RSS&at_campaign=rss))
 - Man charged in connection with stabbing in Cheltenham ([11 days ago](https://gloucesternewscentre.co.uk/man-charged-in-connection-with-stabbing-in-cheltenham/))
 - Builders served notice over Cheltenham dust ([11 days ago](https://gloucesternewscentre.co.uk/builders-served-notice-over-cheltenham-dust/))
 - Three people sentenced for controlling prostitution ([11 days ago](https://gloucesternewscentre.co.uk/three-people-sentenced-for-controlling-prostitution/))
@@ -62,7 +62,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Concerns over ‘devastating’ report on maternity services ([25 days ago](https://gloucesternewscentre.co.uk/concerns-over-devastating-report-on-maternity-services/))
 - Heightened security after spike in ‘aggressive’ incidents at council ([26 days ago](https://gloucesternewscentre.co.uk/heightened-security-after-spike-in-aggressive-incidents-at-council/))
 - Secrecy over why Gloucestershire Airport costs millions for the taxpayer ([26 days ago](https://gloucesternewscentre.co.uk/secrecy-over-why-gloucestershire-airport-costs-millions-for-the-taxpayer/))
-- Gloucestershire Airport back on market ([28 days ago](https://gloucesternewscentre.co.uk/gloucestershire-airport-back-on-market/))
+- Gloucestershire Airport back on market ([29 days ago](https://gloucesternewscentre.co.uk/gloucestershire-airport-back-on-market/))
 
 <!-- news_marker ends -->
 

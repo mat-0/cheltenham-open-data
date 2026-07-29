@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Wednesday, 29 July 2026
 
-- The average temperature today is 23.76˚C,
-- With highs of 24.73˚C and lows of 23.15˚C,
-- It may feel like 23.99˚C with scattered clouds
-- The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1014hPa and humidity is 69%
+- The average temperature today is 27.34˚C,
+- With highs of 28.3˚C and lows of 26.51˚C,
+- It may feel like 28.04˚C with scattered clouds
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 1013hPa and humidity is 54%
 - The sun will rise at 04:25 and set at 20:03
 
 <!-- weather_marker ends -->
