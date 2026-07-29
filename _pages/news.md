@@ -24,11 +24,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 </script>
 
 <!-- news_marker starts -->
-- 'Reckless' fatal crash driver's sentence increased ([8 hours ago](https://www.bbc.co.uk/news/articles/c4gvern2zzwo?at_medium=RSS&at_campaign=rss))
-- County to charge more for taking DIY waste to tips ([13 hours ago](https://www.bbc.co.uk/news/articles/czxeypl79x3o?at_medium=RSS&at_campaign=rss))
-- Woman, 21, charged in connection with stabbing ([13 hours ago](https://www.bbc.co.uk/news/articles/c62xnlp2zr0o?at_medium=RSS&at_campaign=rss))
-- Where is best to see the July Buck Moon? ([20 hours ago](https://www.bbc.co.uk/news/articles/cm2g4dmpn77o?at_medium=RSS&at_campaign=rss))
-- ADHD jockey visits school to inspire students ([20 hours ago](https://www.bbc.co.uk/news/articles/cvg0dx2mj2do?at_medium=RSS&at_campaign=rss))
+- 'Reckless' fatal crash driver's sentence increased ([11 hours ago](https://www.bbc.co.uk/news/articles/c4gvern2zzwo?at_medium=RSS&at_campaign=rss))
+- County to charge more for taking DIY waste to tips ([15 hours ago](https://www.bbc.co.uk/news/articles/czxeypl79x3o?at_medium=RSS&at_campaign=rss))
+- Woman, 21, charged in connection with stabbing ([15 hours ago](https://www.bbc.co.uk/news/articles/c62xnlp2zr0o?at_medium=RSS&at_campaign=rss))
+- Where is best to see the July Buck Moon? ([22 hours ago](https://www.bbc.co.uk/news/articles/cm2g4dmpn77o?at_medium=RSS&at_campaign=rss))
+- ADHD jockey visits school to inspire students ([22 hours ago](https://www.bbc.co.uk/news/articles/cvg0dx2mj2do?at_medium=RSS&at_campaign=rss))
 - Calls for PM to clamp down on river sewage ([1 days ago](https://www.bbc.co.uk/news/articles/cwyed7vqpwzo?at_medium=RSS&at_campaign=rss))
 - Teenager found guilty of murdering drug dealer ([1 days ago](https://www.bbc.co.uk/news/articles/ckgeng4029eo?at_medium=RSS&at_campaign=rss))
 - Boiler theft gang jailed for new-build home raids ([1 days ago](https://www.bbc.co.uk/news/articles/c39evvmx9eyo?at_medium=RSS&at_campaign=rss))
