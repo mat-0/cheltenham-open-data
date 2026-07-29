@@ -24,12 +24,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 </script>
 
 <!-- news_marker starts -->
-- The West is in drought - what does that really mean? ([2 hours ago](https://www.bbc.co.uk/news/articles/c2k710envxqo?at_medium=RSS&at_campaign=rss))
-- Pride event to charge for entry for first time ([3 hours ago](https://www.bbc.co.uk/news/articles/c70gxz5105eo?at_medium=RSS&at_campaign=rss))
-- What changes are coming to Gloucestershire's recycling centres? ([3 hours ago](https://www.bbc.co.uk/news/videos/cvg89479klzo?at_medium=RSS&at_campaign=rss))
-- How cow showers and fans help farmers keep cattle cool ([6 hours ago](https://www.bbc.co.uk/news/articles/c62qz2geq93o?at_medium=RSS&at_campaign=rss))
-- In Pictures: World's oldest classical music festival under way ([8 hours ago](https://www.bbc.co.uk/news/articles/c0l5n965r24o?at_medium=RSS&at_campaign=rss))
-- Sports and social club 'is being forced to close' ([12 hours ago](https://www.bbc.co.uk/news/articles/clyeqyrqe0do?at_medium=RSS&at_campaign=rss))
+- The West is in drought - what does that really mean? ([4 hours ago](https://www.bbc.co.uk/news/articles/c2k710envxqo?at_medium=RSS&at_campaign=rss))
+- Pride event to charge for entry for first time ([5 hours ago](https://www.bbc.co.uk/news/articles/c70gxz5105eo?at_medium=RSS&at_campaign=rss))
+- What changes are coming to Gloucestershire's recycling centres? ([5 hours ago](https://www.bbc.co.uk/news/videos/cvg89479klzo?at_medium=RSS&at_campaign=rss))
+- How cow showers and fans help farmers keep cattle cool ([8 hours ago](https://www.bbc.co.uk/news/articles/c62qz2geq93o?at_medium=RSS&at_campaign=rss))
+- In Pictures: World's oldest classical music festival under way ([9 hours ago](https://www.bbc.co.uk/news/articles/c0l5n965r24o?at_medium=RSS&at_campaign=rss))
+- Sports and social club 'is being forced to close' ([14 hours ago](https://www.bbc.co.uk/news/articles/clyeqyrqe0do?at_medium=RSS&at_campaign=rss))
 - 'Reckless' fatal crash driver's sentence increased ([1 days ago](https://www.bbc.co.uk/news/articles/c4gvern2zzwo?at_medium=RSS&at_campaign=rss))
 - County to charge more for taking DIY waste to tips ([1 days ago](https://www.bbc.co.uk/news/articles/czxeypl79x3o?at_medium=RSS&at_campaign=rss))
 - Woman, 21, charged in connection with stabbing ([1 days ago](https://www.bbc.co.uk/news/articles/c62xnlp2zr0o?at_medium=RSS&at_campaign=rss))

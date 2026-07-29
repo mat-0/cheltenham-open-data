@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Grass too long obstructing pavement 64 Abbotswood Road, 29th July :- [9868778](https://www.fixmystreet.com/report/9868778)
+- Grass verges, 29th July :- [9868789](https://www.fixmystreet.com/report/9868789)
+- Road signs left and brambles across footpath, 29th July :- [9868748](https://www.fixmystreet.com/report/9868748)
+- Several very wide potholes and loose gravel, 29th July :- [9868686](https://www.fixmystreet.com/report/9868686)
+- In residents car park of Pippin close, 29th July :- [9868620](https://www.fixmystreet.com/report/9868620)
 - Overgrown trees and hedges, 29th July :- [9868487](https://www.fixmystreet.com/report/9868487)
 - Several pot holes, 6 below Bushcombe Brae entrance and 3 above., 29th July :- [9868473](https://www.fixmystreet.com/report/9868473)
 - Foot print size hole about 3 inches deep in places, 29th July :- [9866973](https://www.fixmystreet.com/report/9866973)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 29th July :- [9866830](https://www.fixmystreet.com/report/9866830)
 - TMC - Defects -CW6 Potholes  problem, 29th July :- [9866828](https://www.fixmystreet.com/report/9866828)
 - TMC - Defects -CW6 Potholes  problem, 29th July :- [9866827](https://www.fixmystreet.com/report/9866827)
-- TMC - Defects - Other FW6  Surface problem, 29th July :- [9866826](https://www.fixmystreet.com/report/9866826)
-- TMC - Defects - Other FW6  Surface problem, 29th July :- [9866825](https://www.fixmystreet.com/report/9866825)
-- TMC - Defects - Road Markings problem, 29th July :- [9866822](https://www.fixmystreet.com/report/9866822)
-- TMC - Defects - Road Markings problem, 29th July :- [9866820](https://www.fixmystreet.com/report/9866820)
-- TMC - Defects - Road Markings problem, 29th July :- [9866819](https://www.fixmystreet.com/report/9866819)
 
 <!-- fix_marker ends -->
