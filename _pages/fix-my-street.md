@@ -9,6 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pedestrian crossing button not working, 30th July :- [9870100](https://www.fixmystreet.com/report/9870100)
+- Foul water across path, 30th July :- [9869830](https://www.fixmystreet.com/report/9869830)
+- Fly tipping, 30th July :- [9869987](https://www.fixmystreet.com/report/9869987)
+- Blocked drains, 30th July :- [9869886](https://www.fixmystreet.com/report/9869886)
+- Collection of foul smelling water , ankle deep, 30th July :- [9869874](https://www.fixmystreet.com/report/9869874)
+- Foul smelling sewerage on public footpath, 30th July :- [9869859](https://www.fixmystreet.com/report/9869859)
+- Escape of foul drainage water on footpath near southcourt close, 30th July :- [9869854](https://www.fixmystreet.com/report/9869854)
 - Danger near the day centre, 30th July :- [9868651](https://www.fixmystreet.com/report/9868651)
 - Grass too long obstructing pavement 64 Abbotswood Road, 29th July :- [9868778](https://www.fixmystreet.com/report/9868778)
 - Grass verges, 29th July :- [9868789](https://www.fixmystreet.com/report/9868789)
@@ -22,12 +29,5 @@ permalink: /fix-my-street
 - Dead adult deer on central reservation, 29th July :- [9867771](https://www.fixmystreet.com/report/9867771)
 - Tree is damaged problem, 29th July :- [9867553](https://www.fixmystreet.com/report/9867553)
 - Overgrown weeds in alley. Have reported this many time without any action from the council!!! These weeds in the alleyway are overgrown, an obstruction and now with dry weather a fire hazard being next to a fence if someone were to drop a cigarette. They need regular strimming. When I comes to painting my fence and I have to pay someone to clear the weeds for access do I send the bill to the council?, 29th July :- [9867381](https://www.fixmystreet.com/report/9867381)
-- 50+ year old 40-50ft tall Silver Birch Tree has died., 29th July :- [9867301](https://www.fixmystreet.com/report/9867301)
-- Tree is damaged problem, 29th July :- [9867016](https://www.fixmystreet.com/report/9867016)
-- TMC - Defects -CW10 Potholes problem, 29th July :- [9866833](https://www.fixmystreet.com/report/9866833)
-- TMC - Defects -CW6 Potholes  problem, 29th July :- [9866829](https://www.fixmystreet.com/report/9866829)
-- TMC - Defects -CW6 Potholes  problem, 29th July :- [9866831](https://www.fixmystreet.com/report/9866831)
-- TMC - Defects -CW6 Potholes  problem, 29th July :- [9866830](https://www.fixmystreet.com/report/9866830)
-- TMC - Defects -CW6 Potholes  problem, 29th July :- [9866828](https://www.fixmystreet.com/report/9866828)
 
 <!-- fix_marker ends -->
