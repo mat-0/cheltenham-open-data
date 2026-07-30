@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Thursday, 30 July 2026
 
-- The average temperature today is 22.21˚C,
-- With highs of 22.69˚C and lows of 22.04˚C,
-- It may feel like 21.69˚C with broken clouds
+- The average temperature today is 18.88˚C,
+- With highs of 19.18˚C and lows of 17.75˚C,
+- It may feel like 18.31˚C with scattered clouds
 - The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 1016hPa and humidity is 46%
+- The pressure is 1017hPa and humidity is 57%
 - The sun will rise at 04:27 and set at 20:02
 
 <!-- weather_marker ends -->

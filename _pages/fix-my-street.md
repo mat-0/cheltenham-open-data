@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Rattling manhole, 30th July :- [9875095](https://www.fixmystreet.com/report/9875095)
+- Illegal and polluting waste dischage, 30th July :- [9874933](https://www.fixmystreet.com/report/9874933)
+- Please can you…,, 30th July :- [9874932](https://www.fixmystreet.com/report/9874932)
+- Fly Tipping, 30th July :- [9874878](https://www.fixmystreet.com/report/9874878)
 - Black plastic bin bag by metal barrier, 30th July :- [9874554](https://www.fixmystreet.com/report/9874554)
 - Mutilple road damage from utilities make Bayshill Road lethal for cyclists ts., 30th July :- [9874476](https://www.fixmystreet.com/report/9874476)
 - Trees need water, 30th July :- [9874396](https://www.fixmystreet.com/report/9874396)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Footways Slabs problem, 30th July :- [9872946](https://www.fixmystreet.com/report/9872946)
 - A pothole in road problem, 30th July :- [9872721](https://www.fixmystreet.com/report/9872721)
 - Tree is damaged problem, 30th July :- [9872720](https://www.fixmystreet.com/report/9872720)
-- TMC - Defects - Vegetation problem, 30th July :- [9872535](https://www.fixmystreet.com/report/9872535)
-- Button missing, 30th July :- [9872372](https://www.fixmystreet.com/report/9872372)
-- Barriers causing trip hazard and unsightly., 30th July :- [9871665](https://www.fixmystreet.com/report/9871665)
-- TMC - Defects - Other FW6  Surface problem, 30th July :- [9872526](https://www.fixmystreet.com/report/9872526)
 
 <!-- fix_marker ends -->
