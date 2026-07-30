@@ -9,6 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Very large mobile home and man with a digger removing trees to get mobile home to its location and causing extreme damage to road and drainage, 30th July :- [9873933](https://www.fixmystreet.com/report/9873933)
+- Unsuitable style for dogs, 30th July :- [9873928](https://www.fixmystreet.com/report/9873928)
+- Herd of horses, 30th July :- [9873916](https://www.fixmystreet.com/report/9873916)
+- Bridge covered in brambles, 30th July :- [9873887](https://www.fixmystreet.com/report/9873887)
+- Massive pothole car bottoms out, 30th July :- [9873883](https://www.fixmystreet.com/report/9873883)
+- Overgrown tree blocking stile and hedge overgrowth blocking exit/entry from main road, 30th July :- [9873874](https://www.fixmystreet.com/report/9873874)
+- Ash trees are dead, 30th July :- [9873799](https://www.fixmystreet.com/report/9873799)
 - Possible leak, 30th July :- [9873716](https://www.fixmystreet.com/report/9873716)
 - Unpermitted roadworks problem, 30th July :- [9873576](https://www.fixmystreet.com/report/9873576)
 - Constantly overflowing rubbish bin - needs a large dog poo bin at the location, 30th July :- [9873239](https://www.fixmystreet.com/report/9873239)
@@ -22,12 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 30th July :- [9872329](https://www.fixmystreet.com/report/9872329)
 - Please DON'T cut wildflowers as bees using! Just cut brambles and non flowering plants., 30th July :- [9872252](https://www.fixmystreet.com/report/9872252)
 - TMC - Defects - Vegetation problem, 30th July :- [9872324](https://www.fixmystreet.com/report/9872324)
-- TMC - Defects - Vegetation problem, 30th July :- [9872323](https://www.fixmystreet.com/report/9872323)
-- Corner of draincover sticking up, danger to cyclists., 30th July :- [9872236](https://www.fixmystreet.com/report/9872236)
-- Broken/loose cover in road, 30th July :- [9872194](https://www.fixmystreet.com/report/9872194)
-- TMC - Defects -CW10 Potholes problem, 30th July :- [9872319](https://www.fixmystreet.com/report/9872319)
-- TMC - Defects -CW10 Potholes problem, 30th July :- [9872318](https://www.fixmystreet.com/report/9872318)
-- Bike lock and cable lying on pavement causing a trip hazard, 30th July :- [9872108](https://www.fixmystreet.com/report/9872108)
-- Tree branches hanging over my park home, 30th July :- [9871885](https://www.fixmystreet.com/report/9871885)
 
 <!-- fix_marker ends -->
