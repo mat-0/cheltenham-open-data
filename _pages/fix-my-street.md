@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Black plastic bin bag by metal barrier, 30th July :- [9874554](https://www.fixmystreet.com/report/9874554)
+- Mutilple road damage from utilities make Bayshill Road lethal for cyclists ts., 30th July :- [9874476](https://www.fixmystreet.com/report/9874476)
+- Trees need water, 30th July :- [9874396](https://www.fixmystreet.com/report/9874396)
 - Very large mobile home and man with a digger removing trees to get mobile home to its location and causing extreme damage to road and drainage, 30th July :- [9873933](https://www.fixmystreet.com/report/9873933)
 - Unsuitable style for dogs, 30th July :- [9873928](https://www.fixmystreet.com/report/9873928)
 - Herd of horses, 30th July :- [9873916](https://www.fixmystreet.com/report/9873916)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Button missing, 30th July :- [9872372](https://www.fixmystreet.com/report/9872372)
 - Barriers causing trip hazard and unsightly., 30th July :- [9871665](https://www.fixmystreet.com/report/9871665)
 - TMC - Defects - Other FW6  Surface problem, 30th July :- [9872526](https://www.fixmystreet.com/report/9872526)
-- TMC - Defects - Vegetation problem, 30th July :- [9872329](https://www.fixmystreet.com/report/9872329)
-- Please DON'T cut wildflowers as bees using! Just cut brambles and non flowering plants., 30th July :- [9872252](https://www.fixmystreet.com/report/9872252)
-- TMC - Defects - Vegetation problem, 30th July :- [9872324](https://www.fixmystreet.com/report/9872324)
 
 <!-- fix_marker ends -->
