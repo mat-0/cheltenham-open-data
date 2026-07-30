@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Possible leak, 30th July :- [9873716](https://www.fixmystreet.com/report/9873716)
+- Unpermitted roadworks problem, 30th July :- [9873576](https://www.fixmystreet.com/report/9873576)
+- Constantly overflowing rubbish bin - needs a large dog poo bin at the location, 30th July :- [9873239](https://www.fixmystreet.com/report/9873239)
+- TMC - Defects - Footways Slabs problem, 30th July :- [9872946](https://www.fixmystreet.com/report/9872946)
 - A pothole in road problem, 30th July :- [9872721](https://www.fixmystreet.com/report/9872721)
 - Tree is damaged problem, 30th July :- [9872720](https://www.fixmystreet.com/report/9872720)
 - TMC - Defects - Vegetation problem, 30th July :- [9872535](https://www.fixmystreet.com/report/9872535)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW10 Potholes problem, 30th July :- [9872318](https://www.fixmystreet.com/report/9872318)
 - Bike lock and cable lying on pavement causing a trip hazard, 30th July :- [9872108](https://www.fixmystreet.com/report/9872108)
 - Tree branches hanging over my park home, 30th July :- [9871885](https://www.fixmystreet.com/report/9871885)
-- TMC - Defects - Footways Slabs problem, 30th July :- [9871938](https://www.fixmystreet.com/report/9871938)
-- TMC - Defects -FW6 Potholes problem, 30th July :- [9871940](https://www.fixmystreet.com/report/9871940)
-- TMC - Defects - Footways Slabs problem, 30th July :- [9871939](https://www.fixmystreet.com/report/9871939)
-- TMC - Defects -CW10 Potholes problem, 30th July :- [9871383](https://www.fixmystreet.com/report/9871383)
 
 <!-- fix_marker ends -->

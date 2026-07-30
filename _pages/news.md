@@ -24,11 +24,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 </script>
 
 <!-- news_marker starts -->
-- 'Don't have a BBQ, go to the pub instead' - fire chief ([4 hours ago](https://www.bbc.co.uk/news/articles/c07rde5477mo?at_medium=RSS&at_campaign=rss))
-- 'Cows get stressed by the heat just like humans' ([8 hours ago](https://www.bbc.co.uk/news/articles/cjwxn04pz5lo?at_medium=RSS&at_campaign=rss))
-- Drag Race star wants film viewed with 'open mind' ([8 hours ago](https://www.bbc.co.uk/news/articles/cpq8708xjl2o?at_medium=RSS&at_campaign=rss))
-- The West is in drought - what does that really mean? ([20 hours ago](https://www.bbc.co.uk/news/articles/c2k710envxqo?at_medium=RSS&at_campaign=rss))
-- Pride event to charge for entry for first time ([21 hours ago](https://www.bbc.co.uk/news/articles/c70gxz5105eo?at_medium=RSS&at_campaign=rss))
+- 'Don't have a BBQ, go to the pub instead' - fire chief ([6 hours ago](https://www.bbc.co.uk/news/articles/c07rde5477mo?at_medium=RSS&at_campaign=rss))
+- 'Cows get stressed by the heat just like humans' ([10 hours ago](https://www.bbc.co.uk/news/articles/cjwxn04pz5lo?at_medium=RSS&at_campaign=rss))
+- Drag Race star wants film viewed with 'open mind' ([10 hours ago](https://www.bbc.co.uk/news/articles/cpq8708xjl2o?at_medium=RSS&at_campaign=rss))
+- The West is in drought - what does that really mean? ([22 hours ago](https://www.bbc.co.uk/news/articles/c2k710envxqo?at_medium=RSS&at_campaign=rss))
+- Pride event to charge for entry for first time ([23 hours ago](https://www.bbc.co.uk/news/articles/c70gxz5105eo?at_medium=RSS&at_campaign=rss))
 - How cow showers and fans help farmers keep cattle cool ([1 days ago](https://www.bbc.co.uk/news/articles/c62qz2geq93o?at_medium=RSS&at_campaign=rss))
 - In Pictures: World's oldest classical music festival under way ([1 days ago](https://www.bbc.co.uk/news/articles/c0l5n965r24o?at_medium=RSS&at_campaign=rss))
 - Sports and social club 'is being forced to close' ([1 days ago](https://www.bbc.co.uk/news/articles/clyeqyrqe0do?at_medium=RSS&at_campaign=rss))
@@ -37,7 +37,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Woman, 21, charged in connection with stabbing ([2 days ago](https://www.bbc.co.uk/news/articles/c62xnlp2zr0o?at_medium=RSS&at_campaign=rss))
 - Where is best to see the July Buck Moon? ([2 days ago](https://www.bbc.co.uk/news/articles/cm2g4dmpn77o?at_medium=RSS&at_campaign=rss))
 - ADHD jockey visits school to inspire students ([2 days ago](https://www.bbc.co.uk/news/articles/cvg0dx2mj2do?at_medium=RSS&at_campaign=rss))
-- Teenager found guilty of murdering drug dealer ([2 days ago](https://www.bbc.co.uk/news/articles/ckgeng4029eo?at_medium=RSS&at_campaign=rss))
+- Teenager found guilty of murdering drug dealer ([3 days ago](https://www.bbc.co.uk/news/articles/ckgeng4029eo?at_medium=RSS&at_campaign=rss))
 - Gloucester armoured combat tournament in pictures ([3 days ago](https://www.bbc.co.uk/news/articles/cn4njwp1d41o?at_medium=RSS&at_campaign=rss))
 - Will summer discounts make family days out cheaper? ([3 days ago](https://www.bbc.co.uk/news/articles/c36y66kwyj7o?at_medium=RSS&at_campaign=rss))
 - Man charged in connection with stabbing in Cheltenham ([12 days ago](https://gloucesternewscentre.co.uk/man-charged-in-connection-with-stabbing-in-cheltenham/))
