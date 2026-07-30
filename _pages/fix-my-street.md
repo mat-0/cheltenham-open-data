@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Danger near the day centre, 30th July :- [9868651](https://www.fixmystreet.com/report/9868651)
 - Grass too long obstructing pavement 64 Abbotswood Road, 29th July :- [9868778](https://www.fixmystreet.com/report/9868778)
 - Grass verges, 29th July :- [9868789](https://www.fixmystreet.com/report/9868789)
 - Road signs left and brambles across footpath, 29th July :- [9868748](https://www.fixmystreet.com/report/9868748)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 29th July :- [9866831](https://www.fixmystreet.com/report/9866831)
 - TMC - Defects -CW6 Potholes  problem, 29th July :- [9866830](https://www.fixmystreet.com/report/9866830)
 - TMC - Defects -CW6 Potholes  problem, 29th July :- [9866828](https://www.fixmystreet.com/report/9866828)
-- TMC - Defects -CW6 Potholes  problem, 29th July :- [9866827](https://www.fixmystreet.com/report/9866827)
 
 <!-- fix_marker ends -->
