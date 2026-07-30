@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Potholes, 30th July :- [9875166](https://www.fixmystreet.com/report/9875166)
 - Rattling manhole, 30th July :- [9875095](https://www.fixmystreet.com/report/9875095)
 - Illegal and polluting waste dischage, 30th July :- [9874933](https://www.fixmystreet.com/report/9874933)
 - Please can you…,, 30th July :- [9874932](https://www.fixmystreet.com/report/9874932)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Constantly overflowing rubbish bin - needs a large dog poo bin at the location, 30th July :- [9873239](https://www.fixmystreet.com/report/9873239)
 - TMC - Defects - Footways Slabs problem, 30th July :- [9872946](https://www.fixmystreet.com/report/9872946)
 - A pothole in road problem, 30th July :- [9872721](https://www.fixmystreet.com/report/9872721)
-- Tree is damaged problem, 30th July :- [9872720](https://www.fixmystreet.com/report/9872720)
 
 <!-- fix_marker ends -->
