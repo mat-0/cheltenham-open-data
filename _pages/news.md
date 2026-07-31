@@ -24,10 +24,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 </script>
 
 <!-- news_marker starts -->
-- National Star students prepare to leave amidst some uncertain futures ([8 hours ago](https://www.bbc.co.uk/news/articles/c980p4lz5y3o?at_medium=RSS&at_campaign=rss))
-- Where to see the biggest solar eclipse since 1999 ([8 hours ago](https://www.bbc.co.uk/news/articles/cjrvn0wez48o?at_medium=RSS&at_campaign=rss))
-- Mayor had to check road misspellings 'were not AI' ([19 hours ago](https://www.bbc.co.uk/news/articles/cewr0qv4ggpo?at_medium=RSS&at_campaign=rss))
-- Homes to be built despite congestion concerns ([20 hours ago](https://www.bbc.co.uk/news/articles/c78gnx3vj8qo?at_medium=RSS&at_campaign=rss))
+- Ex-NHS worker to face trial on stalking charges ([2 hours ago](https://www.bbc.co.uk/news/articles/cpd7je4zy2vo?at_medium=RSS&at_campaign=rss))
+- National Star students prepare to leave amidst some uncertain futures ([10 hours ago](https://www.bbc.co.uk/news/articles/c980p4lz5y3o?at_medium=RSS&at_campaign=rss))
+- Where to see the biggest solar eclipse since 1999 ([10 hours ago](https://www.bbc.co.uk/news/articles/cjrvn0wez48o?at_medium=RSS&at_campaign=rss))
+- Mayor had to check road misspellings 'were not AI' ([21 hours ago](https://www.bbc.co.uk/news/articles/cewr0qv4ggpo?at_medium=RSS&at_campaign=rss))
+- Homes to be built despite congestion concerns ([22 hours ago](https://www.bbc.co.uk/news/articles/c78gnx3vj8qo?at_medium=RSS&at_campaign=rss))
 - 'Don't have a BBQ, go to the pub instead' - fire chief ([1 days ago](https://www.bbc.co.uk/news/articles/c07rde5477mo?at_medium=RSS&at_campaign=rss))
 - 'Cows get stressed by the heat just like humans' ([1 days ago](https://www.bbc.co.uk/news/articles/cjwxn04pz5lo?at_medium=RSS&at_campaign=rss))
 - Drag Race star wants film viewed with 'open mind' ([1 days ago](https://www.bbc.co.uk/news/articles/cpq8708xjl2o?at_medium=RSS&at_campaign=rss))
@@ -39,7 +40,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - 'Reckless' fatal crash driver's sentence increased ([2 days ago](https://www.bbc.co.uk/news/articles/c4gvern2zzwo?at_medium=RSS&at_campaign=rss))
 - County to charge more for taking DIY waste to tips ([3 days ago](https://www.bbc.co.uk/news/articles/czxeypl79x3o?at_medium=RSS&at_campaign=rss))
 - Woman, 21, charged in connection with stabbing ([3 days ago](https://www.bbc.co.uk/news/articles/c62xnlp2zr0o?at_medium=RSS&at_campaign=rss))
-- Where is best to see the July Buck Moon? ([3 days ago](https://www.bbc.co.uk/news/articles/cm2g4dmpn77o?at_medium=RSS&at_campaign=rss))
 - Man charged in connection with stabbing in Cheltenham ([13 days ago](https://gloucesternewscentre.co.uk/man-charged-in-connection-with-stabbing-in-cheltenham/))
 - Builders served notice over Cheltenham dust ([13 days ago](https://gloucesternewscentre.co.uk/builders-served-notice-over-cheltenham-dust/))
 - Three people sentenced for controlling prostitution ([13 days ago](https://gloucesternewscentre.co.uk/three-people-sentenced-for-controlling-prostitution/))
