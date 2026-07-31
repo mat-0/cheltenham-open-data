@@ -24,11 +24,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 </script>
 
 <!-- news_marker starts -->
-- Mayor had to check road misspellings 'were not AI' ([5 hours ago](https://www.bbc.co.uk/news/articles/cewr0qv4ggpo?at_medium=RSS&at_campaign=rss))
-- Homes to be built despite congestion concerns ([6 hours ago](https://www.bbc.co.uk/news/articles/c78gnx3vj8qo?at_medium=RSS&at_campaign=rss))
-- 'Don't have a BBQ, go to the pub instead' - fire chief ([13 hours ago](https://www.bbc.co.uk/news/articles/c07rde5477mo?at_medium=RSS&at_campaign=rss))
-- 'Cows get stressed by the heat just like humans' ([17 hours ago](https://www.bbc.co.uk/news/articles/cjwxn04pz5lo?at_medium=RSS&at_campaign=rss))
-- Drag Race star wants film viewed with 'open mind' ([17 hours ago](https://www.bbc.co.uk/news/articles/cpq8708xjl2o?at_medium=RSS&at_campaign=rss))
+- Mayor had to check road misspellings 'were not AI' ([7 hours ago](https://www.bbc.co.uk/news/articles/cewr0qv4ggpo?at_medium=RSS&at_campaign=rss))
+- Homes to be built despite congestion concerns ([8 hours ago](https://www.bbc.co.uk/news/articles/c78gnx3vj8qo?at_medium=RSS&at_campaign=rss))
+- 'Don't have a BBQ, go to the pub instead' - fire chief ([16 hours ago](https://www.bbc.co.uk/news/articles/c07rde5477mo?at_medium=RSS&at_campaign=rss))
+- 'Cows get stressed by the heat just like humans' ([20 hours ago](https://www.bbc.co.uk/news/articles/cjwxn04pz5lo?at_medium=RSS&at_campaign=rss))
+- Drag Race star wants film viewed with 'open mind' ([20 hours ago](https://www.bbc.co.uk/news/articles/cpq8708xjl2o?at_medium=RSS&at_campaign=rss))
 - The West is in drought - what does that really mean? ([1 days ago](https://www.bbc.co.uk/news/articles/c2k710envxqo?at_medium=RSS&at_campaign=rss))
 - Pride event to charge for entry for first time ([1 days ago](https://www.bbc.co.uk/news/articles/c70gxz5105eo?at_medium=RSS&at_campaign=rss))
 - How cow showers and fans help farmers keep cattle cool ([1 days ago](https://www.bbc.co.uk/news/articles/c62qz2geq93o?at_medium=RSS&at_campaign=rss))
