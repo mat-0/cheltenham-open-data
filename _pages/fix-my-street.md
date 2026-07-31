@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Traffic Light Out of Sync, 31st July :- [9879501](https://www.fixmystreet.com/report/9879501)
 - Bridge vandalised, 31st July :- [9879051](https://www.fixmystreet.com/report/9879051)
 - Wooden glass cabinet, 31st July :- [9878901](https://www.fixmystreet.com/report/9878901)
 - 3 Months and no update, 31st July :- [9878890](https://www.fixmystreet.com/report/9878890)
@@ -19,8 +20,8 @@ permalink: /fix-my-street
 - TMC - Defects - Other problem, 31st July :- [9878491](https://www.fixmystreet.com/report/9878491)
 - TMC - Defects - Vegetation problem, 31st July :- [9878492](https://www.fixmystreet.com/report/9878492)
 - Footpath on Barrack Square Off Tobyfield riddled with potholes, 31st July :- [9878310](https://www.fixmystreet.com/report/9878310)
-- TMC - Defects -CW10 Potholes problem, 31st July :- [9878098](https://www.fixmystreet.com/report/9878098)
 - TMC - Defects -CW10 Potholes problem, 31st July :- [9878097](https://www.fixmystreet.com/report/9878097)
+- TMC - Defects -CW10 Potholes problem, 31st July :- [9878098](https://www.fixmystreet.com/report/9878098)
 - TMC - Defects -CW10 Potholes problem, 31st July :- [9878090](https://www.fixmystreet.com/report/9878090)
 - Fire hazard and noxious verges at entrance to Tallis Road, 31st July :- [9877557](https://www.fixmystreet.com/report/9877557)
 - Tree is damaged problem, 31st July :- [9877652](https://www.fixmystreet.com/report/9877652)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Fire hazard & noxious Verges entrance to Tallis Road Fire Hazard, 31st July :- [9877489](https://www.fixmystreet.com/report/9877489)
 - Speed sign not working, 31st July :- [9877475](https://www.fixmystreet.com/report/9877475)
 - Barriers blocking pavement, 31st July :- [9877303](https://www.fixmystreet.com/report/9877303)
-- TMC - Defects - Vegetation problem, 31st July :- [9877434](https://www.fixmystreet.com/report/9877434)
 
 <!-- fix_marker ends -->
