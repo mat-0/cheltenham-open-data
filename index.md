@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Friday, 31 July 2026
 
-- The average temperature today is 9.21˚C,
-- With highs of 9.83˚C and lows of 9.18˚C,
-- It may feel like 8.61˚C with clear sky
-- The wind speed is 1.63m/s and visibility is 10000m
-- The pressure is 1018hPa and humidity is 84%
+- The average temperature today is 10.8˚C,
+- With highs of 12.62˚C and lows of 9.82˚C,
+- It may feel like 10˚C with clear sky
+- The wind speed is 0.45m/s and visibility is 10000m
+- The pressure is 1019hPa and humidity is 79%
 - The sun will rise at 04:28 and set at 20:00
 
 <!-- weather_marker ends -->
