@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree branch hanging down ( half broken?) into Copt Elm Road at Sixways junction. Traffic forced to take evasive action., 31st July :- [9875996](https://www.fixmystreet.com/report/9875996)
+- Constant stream of waste water coming out of rear of Be Lucky onto St George’s Place, 31st July :- [9875812](https://www.fixmystreet.com/report/9875812)
+- Rattling drain covers outside 80a and 78 Gretton Road, 31st July :- [9875631](https://www.fixmystreet.com/report/9875631)
+- The tree is in desperate need of pruning, 31st July :- [9875613](https://www.fixmystreet.com/report/9875613)
 - Potholes, 30th July :- [9875166](https://www.fixmystreet.com/report/9875166)
 - Rattling manhole, 30th July :- [9875095](https://www.fixmystreet.com/report/9875095)
 - Illegal and polluting waste dischage, 30th July :- [9874933](https://www.fixmystreet.com/report/9874933)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Overgrown tree blocking stile and hedge overgrowth blocking exit/entry from main road, 30th July :- [9873874](https://www.fixmystreet.com/report/9873874)
 - Ash trees are dead, 30th July :- [9873799](https://www.fixmystreet.com/report/9873799)
 - Possible leak, 30th July :- [9873716](https://www.fixmystreet.com/report/9873716)
-- Unpermitted roadworks problem, 30th July :- [9873576](https://www.fixmystreet.com/report/9873576)
-- Constantly overflowing rubbish bin - needs a large dog poo bin at the location, 30th July :- [9873239](https://www.fixmystreet.com/report/9873239)
-- TMC - Defects - Footways Slabs problem, 30th July :- [9872946](https://www.fixmystreet.com/report/9872946)
-- A pothole in road problem, 30th July :- [9872721](https://www.fixmystreet.com/report/9872721)
 
 <!-- fix_marker ends -->
