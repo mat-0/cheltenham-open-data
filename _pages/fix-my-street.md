@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Never changes to green man, despite wait light staying on permenantly, 1st August :- [9881628](https://www.fixmystreet.com/report/9881628)
+- Water is leaking on the street from a manhole., 1st August :- [9881452](https://www.fixmystreet.com/report/9881452)
 - Persistent leak, 1st August :- [9881287](https://www.fixmystreet.com/report/9881287)
 - Overgrown and unsightly, 1st August :- [9880883](https://www.fixmystreet.com/report/9880883)
 - No footpath markers, 1st August :- [9880754](https://www.fixmystreet.com/report/9880754)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Matress and other home furniture dumped in alleyway, 31st July :- [9878781](https://www.fixmystreet.com/report/9878781)
 - Footpath blocked by fallen tree, 31st July :- [9878757](https://www.fixmystreet.com/report/9878757)
 - Recent repairs diabolical., 31st July :- [9878430](https://www.fixmystreet.com/report/9878430)
-- TMC - Defects - Signs & Street Furniture problem, 31st July :- [9878493](https://www.fixmystreet.com/report/9878493)
-- TMC - Defects - Other problem, 31st July :- [9878491](https://www.fixmystreet.com/report/9878491)
 
 <!-- fix_marker ends -->
