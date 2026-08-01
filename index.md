@@ -9,13 +9,13 @@ permalink: /
 ![Logo](/images/logo.jpg){:width="860px"}
 
 <!-- weather_marker starts -->
-## On Friday, 31 July 2026
+## On Saturday, 01 August 2026
 
-- The average temperature today is 13.62˚C,
-- With highs of 16.03˚C and lows of 13.07˚C,
-- It may feel like 12.79˚C with scattered clouds
-- The wind speed is 2.46m/s and visibility is 10000m
-- The pressure is 1019hPa and humidity is 67%
+- The average temperature today is 11.24˚C,
+- With highs of 12.69˚C and lows of 10.29˚C,
+- It may feel like 10.4˚C with clear sky
+- The wind speed is 0.45m/s and visibility is 10000m
+- The pressure is 1020hPa and humidity is 76%
 - The sun will rise at 04:30 and set at 19:59
 
 <!-- weather_marker ends -->
@@ -45,7 +45,7 @@ Given proximity to GCHQ...
 ### SEVERE
 
 - Current Threat Level: SEVERE
-- It has been 92 days since the last change (2026-04-30)
+- It has been 93 days since the last change (2026-04-30)
 - Details: <p>The current national threat level is SEVERE. &nbsp;The threat to Northern Ireland from Northern Ireland-related terrorism is SUBSTANTIAL.</p>
 
 <!-- threat_marker ends -->
