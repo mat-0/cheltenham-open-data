@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Bridge over stream, loose railings, 1st August :- [9883308](https://www.fixmystreet.com/report/9883308)
 - Vehicle abandoned in a dangerous position., 1st August :- [9883067](https://www.fixmystreet.com/report/9883067)
 - Pavement impassable with pram, 1st August :- [9883063](https://www.fixmystreet.com/report/9883063)
 - Issue with pedestrian crossing sensor/sequence, 1st August :- [9882979](https://www.fixmystreet.com/report/9882979)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Graffiti on pavement, 1st August :- [9880710](https://www.fixmystreet.com/report/9880710)
 - Light on path opposite 4 and 5 Arlington Road, Brockworth constantly off, 1st August :- [9880585](https://www.fixmystreet.com/report/9880585)
 - Over grow. Fire hazard and rat problem hiding in grass and vegetation, 31st July :- [9880559](https://www.fixmystreet.com/report/9880559)
-- The new worded marking is wrong. TSM Diagram 1036.1 is "Vehicular traffic must turn left" and should say TURN LEFT. The road marking says 'left turn' and this is incorrect and cannot be enforced., 31st July :- [9880366](https://www.fixmystreet.com/report/9880366)
 
 <!-- fix_marker ends -->
