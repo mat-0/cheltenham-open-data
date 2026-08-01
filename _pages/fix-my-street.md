@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree at junction has vegetation which obstructs view of oncoming traffic, and is dangerous., 1st August :- [9882502](https://www.fixmystreet.com/report/9882502)
 - A large area on the pavement has disintegrated., 1st August :- [9881908](https://www.fixmystreet.com/report/9881908)
 - Never changes to green man, despite wait light staying on permenantly, 1st August :- [9881628](https://www.fixmystreet.com/report/9881628)
 - Water is leaking on the street from a manhole., 1st August :- [9881452](https://www.fixmystreet.com/report/9881452)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Wooden glass cabinet, 31st July :- [9878901](https://www.fixmystreet.com/report/9878901)
 - 3 Months and no update, 31st July :- [9878890](https://www.fixmystreet.com/report/9878890)
 - Matress and other home furniture dumped in alleyway, 31st July :- [9878781](https://www.fixmystreet.com/report/9878781)
-- Footpath blocked by fallen tree, 31st July :- [9878757](https://www.fixmystreet.com/report/9878757)
 
 <!-- fix_marker ends -->
