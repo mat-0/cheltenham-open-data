@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Overgrown and unsightly, 1st August :- [9880883](https://www.fixmystreet.com/report/9880883)
+- No footpath markers, 1st August :- [9880754](https://www.fixmystreet.com/report/9880754)
+- Graffiti on pavement, 1st August :- [9880710](https://www.fixmystreet.com/report/9880710)
 - Light on path opposite 4 and 5 Arlington Road, Brockworth constantly off, 1st August :- [9880585](https://www.fixmystreet.com/report/9880585)
 - Over grow. Fire hazard and rat problem hiding in grass and vegetation, 31st July :- [9880559](https://www.fixmystreet.com/report/9880559)
 - The new worded marking is wrong. TSM Diagram 1036.1 is "Vehicular traffic must turn left" and should say TURN LEFT. The road marking says 'left turn' and this is incorrect and cannot be enforced., 31st July :- [9880366](https://www.fixmystreet.com/report/9880366)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Signs & Street Furniture problem, 31st July :- [9878493](https://www.fixmystreet.com/report/9878493)
 - TMC - Defects - Other problem, 31st July :- [9878491](https://www.fixmystreet.com/report/9878491)
 - TMC - Defects - Vegetation problem, 31st July :- [9878492](https://www.fixmystreet.com/report/9878492)
-- Footpath on Barrack Square Off Tobyfield riddled with potholes, 31st July :- [9878310](https://www.fixmystreet.com/report/9878310)
-- TMC - Defects -CW10 Potholes problem, 31st July :- [9878097](https://www.fixmystreet.com/report/9878097)
-- TMC - Defects -CW10 Potholes problem, 31st July :- [9878098](https://www.fixmystreet.com/report/9878098)
 
 <!-- fix_marker ends -->
