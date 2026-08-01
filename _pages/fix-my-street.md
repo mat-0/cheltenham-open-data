@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Persistent leak, 1st August :- [9881287](https://www.fixmystreet.com/report/9881287)
 - Overgrown and unsightly, 1st August :- [9880883](https://www.fixmystreet.com/report/9880883)
 - No footpath markers, 1st August :- [9880754](https://www.fixmystreet.com/report/9880754)
 - Graffiti on pavement, 1st August :- [9880710](https://www.fixmystreet.com/report/9880710)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Recent repairs diabolical., 31st July :- [9878430](https://www.fixmystreet.com/report/9878430)
 - TMC - Defects - Signs & Street Furniture problem, 31st July :- [9878493](https://www.fixmystreet.com/report/9878493)
 - TMC - Defects - Other problem, 31st July :- [9878491](https://www.fixmystreet.com/report/9878491)
-- TMC - Defects - Vegetation problem, 31st July :- [9878492](https://www.fixmystreet.com/report/9878492)
 
 <!-- fix_marker ends -->
