@@ -24,13 +24,13 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 </script>
 
 <!-- news_marker starts -->
-- Concerns town looks ‘neglected’ ([2 hours ago](https://gloucesternewscentre.co.uk/concerns-town-looks-neglected/))
-- Windows of Cav House to display artwork ([2 hours ago](https://gloucesternewscentre.co.uk/windows-of-cav-house-to-display-artwork/))
-- Questions over Municipal Offices sale ([2 hours ago](https://gloucesternewscentre.co.uk/questions-over-municipal-offices-sale/))
-- Warning as 999 calls made over cold food and birds ([8 hours ago](https://www.bbc.co.uk/news/articles/c5yr34j4p08o?at_medium=RSS&at_campaign=rss))
-- Hospital employee facing trial on stalking charges ([11 hours ago](https://www.bbc.co.uk/news/articles/cpd7je4zy2vo?at_medium=RSS&at_campaign=rss))
-- National Star students prepare to leave amidst some uncertain futures ([20 hours ago](https://www.bbc.co.uk/news/articles/c980p4lz5y3o?at_medium=RSS&at_campaign=rss))
-- Where to see the biggest solar eclipse since 1999 ([20 hours ago](https://www.bbc.co.uk/news/articles/cjrvn0wez48o?at_medium=RSS&at_campaign=rss))
+- Concerns town looks ‘neglected’ ([5 hours ago](https://gloucesternewscentre.co.uk/concerns-town-looks-neglected/))
+- Windows of Cav House to display artwork ([5 hours ago](https://gloucesternewscentre.co.uk/windows-of-cav-house-to-display-artwork/))
+- Questions over Municipal Offices sale ([5 hours ago](https://gloucesternewscentre.co.uk/questions-over-municipal-offices-sale/))
+- Warning as 999 calls made over cold food and birds ([11 hours ago](https://www.bbc.co.uk/news/articles/c5yr34j4p08o?at_medium=RSS&at_campaign=rss))
+- Hospital employee facing trial on stalking charges ([14 hours ago](https://www.bbc.co.uk/news/articles/cpd7je4zy2vo?at_medium=RSS&at_campaign=rss))
+- National Star students prepare to leave amidst some uncertain futures ([22 hours ago](https://www.bbc.co.uk/news/articles/c980p4lz5y3o?at_medium=RSS&at_campaign=rss))
+- Where to see the biggest solar eclipse since 1999 ([22 hours ago](https://www.bbc.co.uk/news/articles/cjrvn0wez48o?at_medium=RSS&at_campaign=rss))
 - Mayor had to check road misspellings 'were not AI' ([1 days ago](https://www.bbc.co.uk/news/articles/cewr0qv4ggpo?at_medium=RSS&at_campaign=rss))
 - Homes to be built despite congestion concerns ([1 days ago](https://www.bbc.co.uk/news/articles/c78gnx3vj8qo?at_medium=RSS&at_campaign=rss))
 - 'Don't have a BBQ, go to the pub instead' - fire chief ([1 days ago](https://www.bbc.co.uk/news/articles/c07rde5477mo?at_medium=RSS&at_campaign=rss))
