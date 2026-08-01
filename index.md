@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Saturday, 01 August 2026
 
-- The average temperature today is 24.19˚C,
-- With highs of 24.91˚C and lows of 23.71˚C,
-- It may feel like 23.66˚C with few clouds
-- The wind speed is 1.79m/s and visibility is 10000m
-- The pressure is 1018hPa and humidity is 38%
+- The average temperature today is 21.52˚C,
+- With highs of 22.69˚C and lows of 21.4˚C,
+- It may feel like 21.14˚C with scattered clouds
+- The wind speed is 1.34m/s and visibility is 10000m
+- The pressure is 1018hPa and humidity is 54%
 - The sun will rise at 04:30 and set at 19:59
 
 <!-- weather_marker ends -->

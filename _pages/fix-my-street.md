@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Vehicle abandoned in a dangerous position., 1st August :- [9883067](https://www.fixmystreet.com/report/9883067)
+- Pavement impassable with pram, 1st August :- [9883063](https://www.fixmystreet.com/report/9883063)
+- Issue with pedestrian crossing sensor/sequence, 1st August :- [9882979](https://www.fixmystreet.com/report/9882979)
+- Vegetation obstructing pavement., 1st August :- [9882966](https://www.fixmystreet.com/report/9882966)
+- Fly tipping, 1st August :- [9882900](https://www.fixmystreet.com/report/9882900)
 - Volunteer litter pick bags ready for collection, 1st August :- [9882818](https://www.fixmystreet.com/report/9882818)
 - Graffiti on window, 1st August :- [9882743](https://www.fixmystreet.com/report/9882743)
 - Fly tipping near bus stop near the removal company at Pilgrove way, 1st August :- [9882732](https://www.fixmystreet.com/report/9882732)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Light on path opposite 4 and 5 Arlington Road, Brockworth constantly off, 1st August :- [9880585](https://www.fixmystreet.com/report/9880585)
 - Over grow. Fire hazard and rat problem hiding in grass and vegetation, 31st July :- [9880559](https://www.fixmystreet.com/report/9880559)
 - The new worded marking is wrong. TSM Diagram 1036.1 is "Vehicular traffic must turn left" and should say TURN LEFT. The road marking says 'left turn' and this is incorrect and cannot be enforced., 31st July :- [9880366](https://www.fixmystreet.com/report/9880366)
-- New road marking is wrong. TSM Diagram 1036.1 "Vehicular traffic must turn left" should say TURN LEFT. The road marking says 'left turn' and can not be enforced., 31st July :- [9880351](https://www.fixmystreet.com/report/9880351)
-- Large pothole outside 143 Hatherely Road, 31st July :- [9880098](https://www.fixmystreet.com/report/9880098)
-- Fly tipping at the gates to the old playing fields, 31st July :- [9880044](https://www.fixmystreet.com/report/9880044)
-- Traffic lights not working properly, 31st July :- [9879783](https://www.fixmystreet.com/report/9879783)
-- Traffic Light Out of Sync, 31st July :- [9879501](https://www.fixmystreet.com/report/9879501)
 
 <!-- fix_marker ends -->
