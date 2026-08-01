@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Volunteer litter pick bags ready for collection, 1st August :- [9882818](https://www.fixmystreet.com/report/9882818)
+- Graffiti on window, 1st August :- [9882743](https://www.fixmystreet.com/report/9882743)
+- Fly tipping near bus stop near the removal company at Pilgrove way, 1st August :- [9882732](https://www.fixmystreet.com/report/9882732)
+- Water leak, 1st August :- [9882717](https://www.fixmystreet.com/report/9882717)
 - Tree at junction has vegetation which obstructs view of oncoming traffic, and is dangerous., 1st August :- [9882502](https://www.fixmystreet.com/report/9882502)
 - A large area on the pavement has disintegrated., 1st August :- [9881908](https://www.fixmystreet.com/report/9881908)
 - Never changes to green man, despite wait light staying on permenantly, 1st August :- [9881628](https://www.fixmystreet.com/report/9881628)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Fly tipping at the gates to the old playing fields, 31st July :- [9880044](https://www.fixmystreet.com/report/9880044)
 - Traffic lights not working properly, 31st July :- [9879783](https://www.fixmystreet.com/report/9879783)
 - Traffic Light Out of Sync, 31st July :- [9879501](https://www.fixmystreet.com/report/9879501)
-- Bridge vandalised, 31st July :- [9879051](https://www.fixmystreet.com/report/9879051)
-- Wooden glass cabinet, 31st July :- [9878901](https://www.fixmystreet.com/report/9878901)
-- 3 Months and no update, 31st July :- [9878890](https://www.fixmystreet.com/report/9878890)
-- Matress and other home furniture dumped in alleyway, 31st July :- [9878781](https://www.fixmystreet.com/report/9878781)
 
 <!-- fix_marker ends -->
