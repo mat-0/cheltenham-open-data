@@ -24,11 +24,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 </script>
 
 <!-- news_marker starts -->
-- The beef farm at the centre of UK mountainboarding ([2 hours ago](https://www.bbc.co.uk/news/articles/cx25r49gp2po?at_medium=RSS&at_campaign=rss))
-- Mum says memories of late son keeps her 'brave' ([7 hours ago](https://www.bbc.co.uk/news/articles/c2k7zelkvp3o?at_medium=RSS&at_campaign=rss))
-- In Pictures: Cute cubs, Buck Moon and Stonehenge ([7 hours ago](https://www.bbc.co.uk/news/articles/ce97v9e4y4do?at_medium=RSS&at_campaign=rss))
-- Weddings can now be 'truly unique' with flexible vows plan ([7 hours ago](https://www.bbc.co.uk/news/articles/cgjel95331no?at_medium=RSS&at_campaign=rss))
-- The Gloucestershire bus routes children can use for free ([20 hours ago](https://www.bbc.co.uk/news/articles/cy5dpz6nyyqo?at_medium=RSS&at_campaign=rss))
+- The beef farm at the centre of UK mountainboarding ([4 hours ago](https://www.bbc.co.uk/news/articles/cx25r49gp2po?at_medium=RSS&at_campaign=rss))
+- Mum says memories of late son keeps her 'brave' ([8 hours ago](https://www.bbc.co.uk/news/articles/c2k7zelkvp3o?at_medium=RSS&at_campaign=rss))
+- In Pictures: Cute cubs, Buck Moon and Stonehenge ([8 hours ago](https://www.bbc.co.uk/news/articles/ce97v9e4y4do?at_medium=RSS&at_campaign=rss))
+- Weddings can now be 'truly unique' with flexible vows plan ([8 hours ago](https://www.bbc.co.uk/news/articles/cgjel95331no?at_medium=RSS&at_campaign=rss))
+- The Gloucestershire bus routes children can use for free ([22 hours ago](https://www.bbc.co.uk/news/articles/cy5dpz6nyyqo?at_medium=RSS&at_campaign=rss))
 - Hopes trains could return on long-closed railway ([1 days ago](https://www.bbc.co.uk/news/articles/clyxv8x7vzjo?at_medium=RSS&at_campaign=rss))
 - 'Radio 1 DJ's Oasis centre bid' and 'gummies warning' ([1 days ago](https://www.bbc.co.uk/news/articles/c04ke465p7zo?at_medium=RSS&at_campaign=rss))
 - Meet the people keeping endangered skills alive ([1 days ago](https://www.bbc.co.uk/news/articles/cn0vvyzp7g5o?at_medium=RSS&at_campaign=rss))
@@ -36,7 +36,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Windows of Cav House to display artwork ([1 days ago](https://gloucesternewscentre.co.uk/windows-of-cav-house-to-display-artwork/))
 - Questions over Municipal Offices sale ([1 days ago](https://gloucesternewscentre.co.uk/questions-over-municipal-offices-sale/))
 - Warning as 999 calls made over cold food and birds ([1 days ago](https://www.bbc.co.uk/news/articles/c5yr34j4p08o?at_medium=RSS&at_campaign=rss))
-- Hospital employee facing trial on stalking charges ([1 days ago](https://www.bbc.co.uk/news/articles/cpd7je4zy2vo?at_medium=RSS&at_campaign=rss))
+- Hospital employee facing trial on stalking charges ([2 days ago](https://www.bbc.co.uk/news/articles/cpd7je4zy2vo?at_medium=RSS&at_campaign=rss))
 - National Star students prepare to leave amidst some uncertain futures ([2 days ago](https://www.bbc.co.uk/news/articles/c980p4lz5y3o?at_medium=RSS&at_campaign=rss))
 - Where to see the biggest solar eclipse since 1999 ([2 days ago](https://www.bbc.co.uk/news/articles/cjrvn0wez48o?at_medium=RSS&at_campaign=rss))
 - Mayor had to check road misspellings 'were not AI' ([2 days ago](https://www.bbc.co.uk/news/articles/cewr0qv4ggpo?at_medium=RSS&at_campaign=rss))
