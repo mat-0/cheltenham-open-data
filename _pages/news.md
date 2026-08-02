@@ -24,10 +24,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 </script>
 
 <!-- news_marker starts -->
-- The Gloucestershire bus routes children can use for free ([6 hours ago](https://www.bbc.co.uk/news/articles/cy5dpz6nyyqo?at_medium=RSS&at_campaign=rss))
-- Hopes trains could return on long-closed railway ([10 hours ago](https://www.bbc.co.uk/news/articles/clyxv8x7vzjo?at_medium=RSS&at_campaign=rss))
-- 'Radio 1 DJ's Oasis centre bid' and 'gummies warning' ([16 hours ago](https://www.bbc.co.uk/news/articles/c04ke465p7zo?at_medium=RSS&at_campaign=rss))
-- Meet the people keeping endangered skills alive ([21 hours ago](https://www.bbc.co.uk/news/articles/cn0vvyzp7g5o?at_medium=RSS&at_campaign=rss))
+- The Gloucestershire bus routes children can use for free ([8 hours ago](https://www.bbc.co.uk/news/articles/cy5dpz6nyyqo?at_medium=RSS&at_campaign=rss))
+- Hopes trains could return on long-closed railway ([12 hours ago](https://www.bbc.co.uk/news/articles/clyxv8x7vzjo?at_medium=RSS&at_campaign=rss))
+- 'Radio 1 DJ's Oasis centre bid' and 'gummies warning' ([19 hours ago](https://www.bbc.co.uk/news/articles/c04ke465p7zo?at_medium=RSS&at_campaign=rss))
+- Meet the people keeping endangered skills alive ([1 days ago](https://www.bbc.co.uk/news/articles/cn0vvyzp7g5o?at_medium=RSS&at_campaign=rss))
 - Concerns town looks ‘neglected’ ([1 days ago](https://gloucesternewscentre.co.uk/concerns-town-looks-neglected/))
 - Windows of Cav House to display artwork ([1 days ago](https://gloucesternewscentre.co.uk/windows-of-cav-house-to-display-artwork/))
 - Questions over Municipal Offices sale ([1 days ago](https://gloucesternewscentre.co.uk/questions-over-municipal-offices-sale/))
