@@ -24,11 +24,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 </script>
 
 <!-- news_marker starts -->
-- Mum says memories of late son keeps her 'brave' ([3 hours ago](https://www.bbc.co.uk/news/articles/c2k7zelkvp3o?at_medium=RSS&at_campaign=rss))
-- In Pictures: Cute cubs, Buck Moon and Stonehenge ([3 hours ago](https://www.bbc.co.uk/news/articles/ce97v9e4y4do?at_medium=RSS&at_campaign=rss))
-- Weddings can now be 'truly unique' with flexible vows plan ([3 hours ago](https://www.bbc.co.uk/news/articles/cgjel95331no?at_medium=RSS&at_campaign=rss))
-- The Gloucestershire bus routes children can use for free ([16 hours ago](https://www.bbc.co.uk/news/articles/cy5dpz6nyyqo?at_medium=RSS&at_campaign=rss))
-- Hopes trains could return on long-closed railway ([20 hours ago](https://www.bbc.co.uk/news/articles/clyxv8x7vzjo?at_medium=RSS&at_campaign=rss))
+- The beef farm at the centre of UK mountainboarding ([7 minutes ago](https://www.bbc.co.uk/news/articles/cx25r49gp2po?at_medium=RSS&at_campaign=rss))
+- Mum says memories of late son keeps her 'brave' ([5 hours ago](https://www.bbc.co.uk/news/articles/c2k7zelkvp3o?at_medium=RSS&at_campaign=rss))
+- In Pictures: Cute cubs, Buck Moon and Stonehenge ([5 hours ago](https://www.bbc.co.uk/news/articles/ce97v9e4y4do?at_medium=RSS&at_campaign=rss))
+- Weddings can now be 'truly unique' with flexible vows plan ([5 hours ago](https://www.bbc.co.uk/news/articles/cgjel95331no?at_medium=RSS&at_campaign=rss))
+- The Gloucestershire bus routes children can use for free ([18 hours ago](https://www.bbc.co.uk/news/articles/cy5dpz6nyyqo?at_medium=RSS&at_campaign=rss))
+- Hopes trains could return on long-closed railway ([22 hours ago](https://www.bbc.co.uk/news/articles/clyxv8x7vzjo?at_medium=RSS&at_campaign=rss))
 - 'Radio 1 DJ's Oasis centre bid' and 'gummies warning' ([1 days ago](https://www.bbc.co.uk/news/articles/c04ke465p7zo?at_medium=RSS&at_campaign=rss))
 - Meet the people keeping endangered skills alive ([1 days ago](https://www.bbc.co.uk/news/articles/cn0vvyzp7g5o?at_medium=RSS&at_campaign=rss))
 - Concerns town looks ‘neglected’ ([1 days ago](https://gloucesternewscentre.co.uk/concerns-town-looks-neglected/))
@@ -43,7 +44,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - 'Don't have a BBQ, go to the pub instead' - fire chief ([3 days ago](https://www.bbc.co.uk/news/articles/c07rde5477mo?at_medium=RSS&at_campaign=rss))
 - 'Cows get stressed by the heat just like humans' ([3 days ago](https://www.bbc.co.uk/news/articles/cjwxn04pz5lo?at_medium=RSS&at_campaign=rss))
 - Drag Race star wants film viewed with 'open mind' ([3 days ago](https://www.bbc.co.uk/news/articles/cpq8708xjl2o?at_medium=RSS&at_campaign=rss))
-- Pride event to charge for entry for first time ([3 days ago](https://www.bbc.co.uk/news/articles/c70gxz5105eo?at_medium=RSS&at_campaign=rss))
 - Man charged in connection with stabbing in Cheltenham ([15 days ago](https://gloucesternewscentre.co.uk/man-charged-in-connection-with-stabbing-in-cheltenham/))
 - Builders served notice over Cheltenham dust ([15 days ago](https://gloucesternewscentre.co.uk/builders-served-notice-over-cheltenham-dust/))
 - Three people sentenced for controlling prostitution ([15 days ago](https://gloucesternewscentre.co.uk/three-people-sentenced-for-controlling-prostitution/))
