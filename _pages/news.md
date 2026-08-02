@@ -24,9 +24,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 </script>
 
 <!-- news_marker starts -->
-- The Gloucestershire bus routes children can use for free ([13 hours ago](https://www.bbc.co.uk/news/articles/cy5dpz6nyyqo?at_medium=RSS&at_campaign=rss))
-- Hopes trains could return on long-closed railway ([17 hours ago](https://www.bbc.co.uk/news/articles/clyxv8x7vzjo?at_medium=RSS&at_campaign=rss))
-- 'Radio 1 DJ's Oasis centre bid' and 'gummies warning' ([23 hours ago](https://www.bbc.co.uk/news/articles/c04ke465p7zo?at_medium=RSS&at_campaign=rss))
+- Mum says memories of late son keeps her 'brave' ([1 hours ago](https://www.bbc.co.uk/news/articles/c2k7zelkvp3o?at_medium=RSS&at_campaign=rss))
+- In Pictures: Cute cubs, Buck Moon and Stonehenge ([1 hours ago](https://www.bbc.co.uk/news/articles/ce97v9e4y4do?at_medium=RSS&at_campaign=rss))
+- Wedding experts welcome plans for more flexible vows ([1 hours ago](https://www.bbc.co.uk/news/articles/cgjel95331no?at_medium=RSS&at_campaign=rss))
+- The Gloucestershire bus routes children can use for free ([14 hours ago](https://www.bbc.co.uk/news/articles/cy5dpz6nyyqo?at_medium=RSS&at_campaign=rss))
+- Hopes trains could return on long-closed railway ([18 hours ago](https://www.bbc.co.uk/news/articles/clyxv8x7vzjo?at_medium=RSS&at_campaign=rss))
+- 'Radio 1 DJ's Oasis centre bid' and 'gummies warning' ([1 days ago](https://www.bbc.co.uk/news/articles/c04ke465p7zo?at_medium=RSS&at_campaign=rss))
 - Meet the people keeping endangered skills alive ([1 days ago](https://www.bbc.co.uk/news/articles/cn0vvyzp7g5o?at_medium=RSS&at_campaign=rss))
 - Concerns town looks ‘neglected’ ([1 days ago](https://gloucesternewscentre.co.uk/concerns-town-looks-neglected/))
 - Windows of Cav House to display artwork ([1 days ago](https://gloucesternewscentre.co.uk/windows-of-cav-house-to-display-artwork/))
@@ -40,9 +43,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - 'Don't have a BBQ, go to the pub instead' - fire chief ([2 days ago](https://www.bbc.co.uk/news/articles/c07rde5477mo?at_medium=RSS&at_campaign=rss))
 - 'Cows get stressed by the heat just like humans' ([3 days ago](https://www.bbc.co.uk/news/articles/cjwxn04pz5lo?at_medium=RSS&at_campaign=rss))
 - Drag Race star wants film viewed with 'open mind' ([3 days ago](https://www.bbc.co.uk/news/articles/cpq8708xjl2o?at_medium=RSS&at_campaign=rss))
-- The West is in drought - what does that really mean? ([3 days ago](https://www.bbc.co.uk/news/articles/c2k710envxqo?at_medium=RSS&at_campaign=rss))
 - Pride event to charge for entry for first time ([3 days ago](https://www.bbc.co.uk/news/articles/c70gxz5105eo?at_medium=RSS&at_campaign=rss))
-- Sports and social club 'is being forced to close' ([3 days ago](https://www.bbc.co.uk/news/articles/clyeqyrqe0do?at_medium=RSS&at_campaign=rss))
 - Man charged in connection with stabbing in Cheltenham ([15 days ago](https://gloucesternewscentre.co.uk/man-charged-in-connection-with-stabbing-in-cheltenham/))
 - Builders served notice over Cheltenham dust ([15 days ago](https://gloucesternewscentre.co.uk/builders-served-notice-over-cheltenham-dust/))
 - Three people sentenced for controlling prostitution ([15 days ago](https://gloucesternewscentre.co.uk/three-people-sentenced-for-controlling-prostitution/))
@@ -56,12 +57,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Plans for 20mph speed limits defended ([22 days ago](https://gloucesternewscentre.co.uk/plans-for-20mph-speed-limits-defended/))
 - Calls for funding commitment for M5 junction revamp ([22 days ago](https://gloucesternewscentre.co.uk/calls-for-funding-commitment-for-m5-junction-revamp/))
 - Gloucestershire Library Challenge returns ([24 days ago](https://gloucesternewscentre.co.uk/gloucestershire-library-challenge-returns/))
-- Survey reveals public harassment faced by girls in Cheltenham ([24 days ago](https://gloucesternewscentre.co.uk/survey-reveals-public-harassment-faced-by-girls-in-cheltenham/))
-- Disappointment as popular tree house will be dismantled ([24 days ago](https://gloucesternewscentre.co.uk/disappointment-as-popular-tree-house-will-be-dismantled/))
-- Drivers to get a feel for new A417 upgrade in significant traffic switch ([28 days ago](https://gloucesternewscentre.co.uk/drivers-to-get-a-feel-for-new-a417-upgrade-in-significant-traffic-switch/))
-- Maggie’s seeks Run Cheltenham runners ([28 days ago](https://gloucesternewscentre.co.uk/maggies-seeks-run-cheltenham-runners/))
-- Dementia clinics coming to Gloucester and Cheltenham ([28 days ago](https://gloucesternewscentre.co.uk/dementia-clinics-coming-to-gloucester-and-cheltenham/))
-- Concerns over ‘devastating’ report on maternity services ([28 days ago](https://gloucesternewscentre.co.uk/concerns-over-devastating-report-on-maternity-services/))
+- Survey reveals public harassment faced by girls in Cheltenham ([25 days ago](https://gloucesternewscentre.co.uk/survey-reveals-public-harassment-faced-by-girls-in-cheltenham/))
+- Disappointment as popular tree house will be dismantled ([25 days ago](https://gloucesternewscentre.co.uk/disappointment-as-popular-tree-house-will-be-dismantled/))
+- Drivers to get a feel for new A417 upgrade in significant traffic switch ([29 days ago](https://gloucesternewscentre.co.uk/drivers-to-get-a-feel-for-new-a417-upgrade-in-significant-traffic-switch/))
+- Maggie’s seeks Run Cheltenham runners ([29 days ago](https://gloucesternewscentre.co.uk/maggies-seeks-run-cheltenham-runners/))
+- Dementia clinics coming to Gloucester and Cheltenham ([29 days ago](https://gloucesternewscentre.co.uk/dementia-clinics-coming-to-gloucester-and-cheltenham/))
+- Concerns over ‘devastating’ report on maternity services ([29 days ago](https://gloucesternewscentre.co.uk/concerns-over-devastating-report-on-maternity-services/))
 
 <!-- news_marker ends -->
 
