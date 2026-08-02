@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Road works signs and cones, 2nd August :- [9884159](https://www.fixmystreet.com/report/9884159)
+- Large potholes, 2nd August :- [9883906](https://www.fixmystreet.com/report/9883906)
 - Bridge over stream, loose railings, 1st August :- [9883308](https://www.fixmystreet.com/report/9883308)
 - Vehicle abandoned in a dangerous position., 1st August :- [9883067](https://www.fixmystreet.com/report/9883067)
 - Pavement impassable with pram, 1st August :- [9883063](https://www.fixmystreet.com/report/9883063)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Overgrown and unsightly, 1st August :- [9880883](https://www.fixmystreet.com/report/9880883)
 - No footpath markers, 1st August :- [9880754](https://www.fixmystreet.com/report/9880754)
 - Graffiti on pavement, 1st August :- [9880710](https://www.fixmystreet.com/report/9880710)
-- Light on path opposite 4 and 5 Arlington Road, Brockworth constantly off, 1st August :- [9880585](https://www.fixmystreet.com/report/9880585)
-- Over grow. Fire hazard and rat problem hiding in grass and vegetation, 31st July :- [9880559](https://www.fixmystreet.com/report/9880559)
 
 <!-- fix_marker ends -->
