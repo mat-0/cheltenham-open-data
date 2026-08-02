@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Sunday, 02 August 2026
 
-- The average temperature today is 26.17˚C,
-- With highs of 26.5˚C and lows of 25.52˚C,
-- It may feel like 26.17˚C with overcast clouds
-- The wind speed is 1.79m/s and visibility is 10000m
-- The pressure is 1012hPa and humidity is 36%
+- The average temperature today is 20.68˚C,
+- With highs of 21.64˚C and lows of 20.38˚C,
+- It may feel like 20.06˚C with overcast clouds
+- The wind speed is 2.78m/s and visibility is 10000m
+- The pressure is 1012hPa and humidity is 48%
 - The sun will rise at 04:31 and set at 19:57
 
 <!-- weather_marker ends -->

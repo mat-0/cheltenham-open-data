@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Path blocked for one week by work on driveway, 2nd August :- [9886744](https://www.fixmystreet.com/report/9886744)
 - Unsafe road surface, 2nd August :- [9886551](https://www.fixmystreet.com/report/9886551)
 - Traffic cone and rubbish, 2nd August :- [9886181](https://www.fixmystreet.com/report/9886181)
 - PROW appears blocked by overgrown vegetation, 2nd August :- [9885647](https://www.fixmystreet.com/report/9885647)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Graffiti on window, 1st August :- [9882743](https://www.fixmystreet.com/report/9882743)
 - Fly tipping near bus stop near the removal company at Pilgrove way, 1st August :- [9882732](https://www.fixmystreet.com/report/9882732)
 - Water leak, 1st August :- [9882717](https://www.fixmystreet.com/report/9882717)
-- Tree at junction has vegetation which obstructs view of oncoming traffic, and is dangerous., 1st August :- [9882502](https://www.fixmystreet.com/report/9882502)
 
 <!-- fix_marker ends -->
