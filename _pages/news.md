@@ -24,10 +24,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 </script>
 
 <!-- news_marker starts -->
-- The beef farm at the centre of UK mountainboarding ([6 hours ago](https://www.bbc.co.uk/news/articles/cx25r49gp2po?at_medium=RSS&at_campaign=rss))
-- Mum says memories of late son keeps her 'brave' ([10 hours ago](https://www.bbc.co.uk/news/articles/c2k7zelkvp3o?at_medium=RSS&at_campaign=rss))
-- In Pictures: Cute cubs, Buck Moon and Stonehenge ([10 hours ago](https://www.bbc.co.uk/news/articles/ce97v9e4y4do?at_medium=RSS&at_campaign=rss))
-- Weddings can now be 'truly unique' with flexible vows plan ([10 hours ago](https://www.bbc.co.uk/news/articles/cgjel95331no?at_medium=RSS&at_campaign=rss))
+- The beef farm at the centre of UK mountainboarding ([8 hours ago](https://www.bbc.co.uk/news/articles/cx25r49gp2po?at_medium=RSS&at_campaign=rss))
+- Mum says memories of late son keeps her 'brave' ([13 hours ago](https://www.bbc.co.uk/news/articles/c2k7zelkvp3o?at_medium=RSS&at_campaign=rss))
+- In Pictures: Cute cubs, Buck Moon and Stonehenge ([13 hours ago](https://www.bbc.co.uk/news/articles/ce97v9e4y4do?at_medium=RSS&at_campaign=rss))
+- Weddings can now be 'truly unique' with flexible vows plan ([13 hours ago](https://www.bbc.co.uk/news/articles/cgjel95331no?at_medium=RSS&at_campaign=rss))
 - The Gloucestershire bus routes children can use for free ([1 days ago](https://www.bbc.co.uk/news/articles/cy5dpz6nyyqo?at_medium=RSS&at_campaign=rss))
 - Hopes trains could return on long-closed railway ([1 days ago](https://www.bbc.co.uk/news/articles/clyxv8x7vzjo?at_medium=RSS&at_campaign=rss))
 - 'Radio 1 DJ's Oasis centre bid' and 'gummies warning' ([1 days ago](https://www.bbc.co.uk/news/articles/c04ke465p7zo?at_medium=RSS&at_campaign=rss))
@@ -39,7 +39,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Hospital employee facing trial on stalking charges ([2 days ago](https://www.bbc.co.uk/news/articles/cpd7je4zy2vo?at_medium=RSS&at_campaign=rss))
 - National Star students prepare to leave amidst some uncertain futures ([2 days ago](https://www.bbc.co.uk/news/articles/c980p4lz5y3o?at_medium=RSS&at_campaign=rss))
 - Where to see the biggest solar eclipse since 1999 ([2 days ago](https://www.bbc.co.uk/news/articles/cjrvn0wez48o?at_medium=RSS&at_campaign=rss))
-- Mayor had to check road misspellings 'were not AI' ([2 days ago](https://www.bbc.co.uk/news/articles/cewr0qv4ggpo?at_medium=RSS&at_campaign=rss))
+- Mayor had to check road misspellings 'were not AI' ([3 days ago](https://www.bbc.co.uk/news/articles/cewr0qv4ggpo?at_medium=RSS&at_campaign=rss))
 - Homes to be built despite congestion concerns ([3 days ago](https://www.bbc.co.uk/news/articles/c78gnx3vj8qo?at_medium=RSS&at_campaign=rss))
 - 'Don't have a BBQ, go to the pub instead' - fire chief ([3 days ago](https://www.bbc.co.uk/news/articles/c07rde5477mo?at_medium=RSS&at_campaign=rss))
 - 'Cows get stressed by the heat just like humans' ([3 days ago](https://www.bbc.co.uk/news/articles/cjwxn04pz5lo?at_medium=RSS&at_campaign=rss))
@@ -54,7 +54,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Council revokes licence appeal for Hackney carriage driver ([17 days ago](https://gloucesternewscentre.co.uk/council-revokes-licence-appeal-for-hackney-carriage-driver/))
 - Gloucestershire’s councils will be replaced by one new unitary authority ([17 days ago](https://gloucesternewscentre.co.uk/gloucestershires-councils-will-be-replaced-by-one-new-unitary-authority/))
 - Man arrested following stabbing in Cheltenham ([17 days ago](https://gloucesternewscentre.co.uk/man-arrested-following-stabbing-in-cheltenham/))
-- Plans for 20mph speed limits defended ([22 days ago](https://gloucesternewscentre.co.uk/plans-for-20mph-speed-limits-defended/))
+- Plans for 20mph speed limits defended ([23 days ago](https://gloucesternewscentre.co.uk/plans-for-20mph-speed-limits-defended/))
 - Calls for funding commitment for M5 junction revamp ([23 days ago](https://gloucesternewscentre.co.uk/calls-for-funding-commitment-for-m5-junction-revamp/))
 - Gloucestershire Library Challenge returns ([25 days ago](https://gloucesternewscentre.co.uk/gloucestershire-library-challenge-returns/))
 - Survey reveals public harassment faced by girls in Cheltenham ([25 days ago](https://gloucesternewscentre.co.uk/survey-reveals-public-harassment-faced-by-girls-in-cheltenham/))

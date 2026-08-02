@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Unsafe road surface, 2nd August :- [9886551](https://www.fixmystreet.com/report/9886551)
+- Traffic cone and rubbish, 2nd August :- [9886181](https://www.fixmystreet.com/report/9886181)
 - PROW appears blocked by overgrown vegetation, 2nd August :- [9885647](https://www.fixmystreet.com/report/9885647)
 - Gate locked and access left overgrown, 2nd August :- [9885635](https://www.fixmystreet.com/report/9885635)
 - Sign frame and sandbag left on traffic island, 2nd August :- [9885616](https://www.fixmystreet.com/report/9885616)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Fly tipping near bus stop near the removal company at Pilgrove way, 1st August :- [9882732](https://www.fixmystreet.com/report/9882732)
 - Water leak, 1st August :- [9882717](https://www.fixmystreet.com/report/9882717)
 - Tree at junction has vegetation which obstructs view of oncoming traffic, and is dangerous., 1st August :- [9882502](https://www.fixmystreet.com/report/9882502)
-- A large area on the pavement has disintegrated., 1st August :- [9881908](https://www.fixmystreet.com/report/9881908)
-- Never changes to green man, despite wait light staying on permenantly, 1st August :- [9881628](https://www.fixmystreet.com/report/9881628)
 
 <!-- fix_marker ends -->
