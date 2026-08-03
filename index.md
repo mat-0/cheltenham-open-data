@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Monday, 03 August 2026
 
-- The average temperature today is 30.11˚C,
-- With highs of 30.95˚C and lows of 29.73˚C,
-- It may feel like 29.59˚C with overcast clouds
-- The wind speed is 1.79m/s and visibility is 10000m
-- The pressure is 1007hPa and humidity is 38%
+- The average temperature today is 27.8˚C,
+- With highs of 28.31˚C and lows of 27.51˚C,
+- It may feel like 27.84˚C with overcast clouds
+- The wind speed is 3.54m/s and visibility is 10000m
+- The pressure is 1007hPa and humidity is 45%
 - The sun will rise at 04:33 and set at 19:55
 
 <!-- weather_marker ends -->
