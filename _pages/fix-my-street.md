@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pavement looks to have sinked, potential trip hazard, 3rd August :- [9891491](https://www.fixmystreet.com/report/9891491)
+- Fly tipping in hedge outside 18 Jupiter Way, Abbeymead, 3rd August :- [9891427](https://www.fixmystreet.com/report/9891427)
+- Low hanging branches and overgrown hedgerows, 3rd August :- [9891317](https://www.fixmystreet.com/report/9891317)
+- Blocked drain cover, 3rd August :- [9891219](https://www.fixmystreet.com/report/9891219)
+- All stoplines faded on junction, 3rd August :- [9891133](https://www.fixmystreet.com/report/9891133)
+- Trees encroaching on properties, 3rd August :- [9891073](https://www.fixmystreet.com/report/9891073)
 - Flyposting on two ATS posts, 3rd August :- [9890641](https://www.fixmystreet.com/report/9890641)
 - Tree is damaged problem, 3rd August :- [9890404](https://www.fixmystreet.com/report/9890404)
 - Tree is damaged problem, 3rd August :- [9890194](https://www.fixmystreet.com/report/9890194)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Broken glass on road in exit point of Stanboro lane, 3rd August :- [9888498](https://www.fixmystreet.com/report/9888498)
 - Bus shelter never replaced after car crashed into it, 3rd August :- [9888293](https://www.fixmystreet.com/report/9888293)
 - Parking zone sign on private wall, can this be removed, 3rd August :- [9888149](https://www.fixmystreet.com/report/9888149)
-- We desperately need a stop sign here following multiple accidents, 3rd August :- [9887814](https://www.fixmystreet.com/report/9887814)
-- Growth around base of several trees along this road causing obstruction of sight when trying to pull out of the side road, 3rd August :- [9887778](https://www.fixmystreet.com/report/9887778)
-- There are several sunken manhole covers on this road, 3rd August :- [9887726](https://www.fixmystreet.com/report/9887726)
-- Glass on the road, 3rd August :- [9887433](https://www.fixmystreet.com/report/9887433)
-- Branch coming out of the bush into the road which has caused damage to our bumper on our recycling vehicle, 3rd August :- [9887333](https://www.fixmystreet.com/report/9887333)
-- Flyposting on lamposts by cycelway, 3rd August :- [9887097](https://www.fixmystreet.com/report/9887097)
 
 <!-- fix_marker ends -->
