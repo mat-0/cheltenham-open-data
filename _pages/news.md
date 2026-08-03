@@ -24,9 +24,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 </script>
 
 <!-- news_marker starts -->
-- Pylon removal plans for beauty spot scrapped ([4 hours ago](https://www.bbc.co.uk/news/articles/cx2j90351d1o?at_medium=RSS&at_campaign=rss))
-- Deprived area pupils face high obesity rates ([4 hours ago](https://www.bbc.co.uk/news/articles/cy9w0pexp58o?at_medium=RSS&at_campaign=rss))
-- The beef farm at the centre of UK mountainboarding ([22 hours ago](https://www.bbc.co.uk/news/articles/cx25r49gp2po?at_medium=RSS&at_campaign=rss))
+- Pylon removal plans for beauty spot scrapped ([6 hours ago](https://www.bbc.co.uk/news/articles/cx2j90351d1o?at_medium=RSS&at_campaign=rss))
+- Deprived area pupils face high obesity rates ([6 hours ago](https://www.bbc.co.uk/news/articles/cy9w0pexp58o?at_medium=RSS&at_campaign=rss))
+- The beef farm at the centre of UK mountainboarding ([1 days ago](https://www.bbc.co.uk/news/articles/cx25r49gp2po?at_medium=RSS&at_campaign=rss))
 - Mum says memories of late son keeps her 'brave' ([1 days ago](https://www.bbc.co.uk/news/articles/c2k7zelkvp3o?at_medium=RSS&at_campaign=rss))
 - In Pictures: Cute cubs, Buck Moon and Stonehenge ([1 days ago](https://www.bbc.co.uk/news/articles/ce97v9e4y4do?at_medium=RSS&at_campaign=rss))
 - Weddings can now be 'truly unique' with flexible vows plan ([1 days ago](https://www.bbc.co.uk/news/articles/cgjel95331no?at_medium=RSS&at_campaign=rss))
@@ -53,7 +53,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Hearing into alleged misconduct of Chief Constable postponed ([17 days ago](https://gloucesternewscentre.co.uk/hearing-into-alleged-misconduct-of-chief-constable-postponed/))
 - Council revokes licence appeal for Hackney carriage driver ([17 days ago](https://gloucesternewscentre.co.uk/council-revokes-licence-appeal-for-hackney-carriage-driver/))
 - Gloucestershire’s councils will be replaced by one new unitary authority ([17 days ago](https://gloucesternewscentre.co.uk/gloucestershires-councils-will-be-replaced-by-one-new-unitary-authority/))
-- Man arrested following stabbing in Cheltenham ([17 days ago](https://gloucesternewscentre.co.uk/man-arrested-following-stabbing-in-cheltenham/))
+- Man arrested following stabbing in Cheltenham ([18 days ago](https://gloucesternewscentre.co.uk/man-arrested-following-stabbing-in-cheltenham/))
 - Plans for 20mph speed limits defended ([23 days ago](https://gloucesternewscentre.co.uk/plans-for-20mph-speed-limits-defended/))
 - Calls for funding commitment for M5 junction revamp ([23 days ago](https://gloucesternewscentre.co.uk/calls-for-funding-commitment-for-m5-junction-revamp/))
 - Gloucestershire Library Challenge returns ([26 days ago](https://gloucesternewscentre.co.uk/gloucestershire-library-challenge-returns/))

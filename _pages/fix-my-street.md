@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Hedge blocking visibility to sign posts, 3rd August :- [9889548](https://www.fixmystreet.com/report/9889548)
+- Barriers in river causing blockage and pollution, 3rd August :- [9889326](https://www.fixmystreet.com/report/9889326)
+- More red barriers dumped, 3rd August :- [9889158](https://www.fixmystreet.com/report/9889158)
+- Drain is blocked, 3rd August :- [9889146](https://www.fixmystreet.com/report/9889146)
 - Post or sign leaning slightly (less than 20 degrees) problem, 3rd August :- [9888928](https://www.fixmystreet.com/report/9888928)
 - Left road works sign, 3rd August :- [9884108](https://www.fixmystreet.com/report/9884108)
 - Broken glass on road in exit point of Stanboro lane, 3rd August :- [9888498](https://www.fixmystreet.com/report/9888498)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Path blocked for one week by work on driveway, 2nd August :- [9886744](https://www.fixmystreet.com/report/9886744)
 - Unsafe road surface, 2nd August :- [9886551](https://www.fixmystreet.com/report/9886551)
 - Traffic cone and rubbish, 2nd August :- [9886181](https://www.fixmystreet.com/report/9886181)
-- PROW appears blocked by overgrown vegetation, 2nd August :- [9885647](https://www.fixmystreet.com/report/9885647)
-- Gate locked and access left overgrown, 2nd August :- [9885635](https://www.fixmystreet.com/report/9885635)
-- Sign frame and sandbag left on traffic island, 2nd August :- [9885616](https://www.fixmystreet.com/report/9885616)
-- Two Plastic barriers causing severe obstruction to pedestrians and in particular to disabled people in wherlchsirs, 2nd August :- [9885131](https://www.fixmystreet.com/report/9885131)
 
 <!-- fix_marker ends -->
