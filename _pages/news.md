@@ -24,15 +24,15 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 </script>
 
 <!-- news_marker starts -->
-- Pylon removal plans for beauty spot scrapped ([35 minutes ago](https://www.bbc.co.uk/news/articles/cx2j90351d1o?at_medium=RSS&at_campaign=rss))
-- Deprived area pupils face high obesity rates ([38 minutes ago](https://www.bbc.co.uk/news/articles/cy9w0pexp58o?at_medium=RSS&at_campaign=rss))
-- The beef farm at the centre of UK mountainboarding ([18 hours ago](https://www.bbc.co.uk/news/articles/cx25r49gp2po?at_medium=RSS&at_campaign=rss))
-- Mum says memories of late son keeps her 'brave' ([23 hours ago](https://www.bbc.co.uk/news/articles/c2k7zelkvp3o?at_medium=RSS&at_campaign=rss))
-- In Pictures: Cute cubs, Buck Moon and Stonehenge ([23 hours ago](https://www.bbc.co.uk/news/articles/ce97v9e4y4do?at_medium=RSS&at_campaign=rss))
-- Weddings can now be 'truly unique' with flexible vows plan ([23 hours ago](https://www.bbc.co.uk/news/articles/cgjel95331no?at_medium=RSS&at_campaign=rss))
+- Pylon removal plans for beauty spot scrapped ([2 hours ago](https://www.bbc.co.uk/news/articles/cx2j90351d1o?at_medium=RSS&at_campaign=rss))
+- Deprived area pupils face high obesity rates ([2 hours ago](https://www.bbc.co.uk/news/articles/cy9w0pexp58o?at_medium=RSS&at_campaign=rss))
+- The beef farm at the centre of UK mountainboarding ([20 hours ago](https://www.bbc.co.uk/news/articles/cx25r49gp2po?at_medium=RSS&at_campaign=rss))
+- Mum says memories of late son keeps her 'brave' ([1 days ago](https://www.bbc.co.uk/news/articles/c2k7zelkvp3o?at_medium=RSS&at_campaign=rss))
+- In Pictures: Cute cubs, Buck Moon and Stonehenge ([1 days ago](https://www.bbc.co.uk/news/articles/ce97v9e4y4do?at_medium=RSS&at_campaign=rss))
+- Weddings can now be 'truly unique' with flexible vows plan ([1 days ago](https://www.bbc.co.uk/news/articles/cgjel95331no?at_medium=RSS&at_campaign=rss))
 - The Gloucestershire bus routes children can use for free ([1 days ago](https://www.bbc.co.uk/news/articles/cy5dpz6nyyqo?at_medium=RSS&at_campaign=rss))
 - Hopes trains could return on long-closed railway ([1 days ago](https://www.bbc.co.uk/news/articles/clyxv8x7vzjo?at_medium=RSS&at_campaign=rss))
-- 'Radio 1 DJ's Oasis centre bid' and 'gummies warning' ([1 days ago](https://www.bbc.co.uk/news/articles/c04ke465p7zo?at_medium=RSS&at_campaign=rss))
+- 'Radio 1 DJ's Oasis centre bid' and 'gummies warning' ([2 days ago](https://www.bbc.co.uk/news/articles/c04ke465p7zo?at_medium=RSS&at_campaign=rss))
 - Meet the people keeping endangered skills alive ([2 days ago](https://www.bbc.co.uk/news/articles/cn0vvyzp7g5o?at_medium=RSS&at_campaign=rss))
 - Concerns town looks ‘neglected’ ([2 days ago](https://gloucesternewscentre.co.uk/concerns-town-looks-neglected/))
 - Windows of Cav House to display artwork ([2 days ago](https://gloucesternewscentre.co.uk/windows-of-cav-house-to-display-artwork/))
@@ -56,13 +56,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Man arrested following stabbing in Cheltenham ([17 days ago](https://gloucesternewscentre.co.uk/man-arrested-following-stabbing-in-cheltenham/))
 - Plans for 20mph speed limits defended ([23 days ago](https://gloucesternewscentre.co.uk/plans-for-20mph-speed-limits-defended/))
 - Calls for funding commitment for M5 junction revamp ([23 days ago](https://gloucesternewscentre.co.uk/calls-for-funding-commitment-for-m5-junction-revamp/))
-- Gloucestershire Library Challenge returns ([25 days ago](https://gloucesternewscentre.co.uk/gloucestershire-library-challenge-returns/))
-- Survey reveals public harassment faced by girls in Cheltenham ([25 days ago](https://gloucesternewscentre.co.uk/survey-reveals-public-harassment-faced-by-girls-in-cheltenham/))
-- Disappointment as popular tree house will be dismantled ([25 days ago](https://gloucesternewscentre.co.uk/disappointment-as-popular-tree-house-will-be-dismantled/))
-- Drivers to get a feel for new A417 upgrade in significant traffic switch ([29 days ago](https://gloucesternewscentre.co.uk/drivers-to-get-a-feel-for-new-a417-upgrade-in-significant-traffic-switch/))
-- Maggie’s seeks Run Cheltenham runners ([29 days ago](https://gloucesternewscentre.co.uk/maggies-seeks-run-cheltenham-runners/))
-- Dementia clinics coming to Gloucester and Cheltenham ([29 days ago](https://gloucesternewscentre.co.uk/dementia-clinics-coming-to-gloucester-and-cheltenham/))
-- Concerns over ‘devastating’ report on maternity services ([29 days ago](https://gloucesternewscentre.co.uk/concerns-over-devastating-report-on-maternity-services/))
+- Gloucestershire Library Challenge returns ([26 days ago](https://gloucesternewscentre.co.uk/gloucestershire-library-challenge-returns/))
+- Survey reveals public harassment faced by girls in Cheltenham ([26 days ago](https://gloucesternewscentre.co.uk/survey-reveals-public-harassment-faced-by-girls-in-cheltenham/))
+- Disappointment as popular tree house will be dismantled ([26 days ago](https://gloucesternewscentre.co.uk/disappointment-as-popular-tree-house-will-be-dismantled/))
 
 <!-- news_marker ends -->
 

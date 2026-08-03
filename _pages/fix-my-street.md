@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- We desperately need a stop sign here following multiple accidents, 3rd August :- [9887814](https://www.fixmystreet.com/report/9887814)
+- Growth around base of several trees along this road causing obstruction of sight when trying to pull out of the side road, 3rd August :- [9887778](https://www.fixmystreet.com/report/9887778)
+- There are several sunken manhole covers on this road, 3rd August :- [9887726](https://www.fixmystreet.com/report/9887726)
+- Glass on the road, 3rd August :- [9887433](https://www.fixmystreet.com/report/9887433)
+- Branch coming out of the bush into the road which has caused damage to our bumper on our recycling vehicle, 3rd August :- [9887333](https://www.fixmystreet.com/report/9887333)
 - Flyposting on lamposts by cycelway, 3rd August :- [9887097](https://www.fixmystreet.com/report/9887097)
 - Bus shelter has not been replaced, 2nd August :- [9886977](https://www.fixmystreet.com/report/9886977)
 - Horse poo left all over pavement, 2nd August :- [9886970](https://www.fixmystreet.com/report/9886970)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Large potholes, 2nd August :- [9883906](https://www.fixmystreet.com/report/9883906)
 - Bridge over stream, loose railings, 1st August :- [9883308](https://www.fixmystreet.com/report/9883308)
 - Vehicle abandoned in a dangerous position., 1st August :- [9883067](https://www.fixmystreet.com/report/9883067)
-- Pavement impassable with pram, 1st August :- [9883063](https://www.fixmystreet.com/report/9883063)
-- Issue with pedestrian crossing sensor/sequence, 1st August :- [9882979](https://www.fixmystreet.com/report/9882979)
-- Vegetation obstructing pavement., 1st August :- [9882966](https://www.fixmystreet.com/report/9882966)
-- Fly tipping, 1st August :- [9882900](https://www.fixmystreet.com/report/9882900)
-- Volunteer litter pick bags ready for collection, 1st August :- [9882818](https://www.fixmystreet.com/report/9882818)
 
 <!-- fix_marker ends -->
