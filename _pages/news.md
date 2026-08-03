@@ -24,9 +24,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 </script>
 
 <!-- news_marker starts -->
-- Pylon removal plans for beauty spot scrapped ([2 hours ago](https://www.bbc.co.uk/news/articles/cx2j90351d1o?at_medium=RSS&at_campaign=rss))
-- Deprived area pupils face high obesity rates ([2 hours ago](https://www.bbc.co.uk/news/articles/cy9w0pexp58o?at_medium=RSS&at_campaign=rss))
-- The beef farm at the centre of UK mountainboarding ([20 hours ago](https://www.bbc.co.uk/news/articles/cx25r49gp2po?at_medium=RSS&at_campaign=rss))
+- Pylon removal plans for beauty spot scrapped ([4 hours ago](https://www.bbc.co.uk/news/articles/cx2j90351d1o?at_medium=RSS&at_campaign=rss))
+- Deprived area pupils face high obesity rates ([4 hours ago](https://www.bbc.co.uk/news/articles/cy9w0pexp58o?at_medium=RSS&at_campaign=rss))
+- The beef farm at the centre of UK mountainboarding ([22 hours ago](https://www.bbc.co.uk/news/articles/cx25r49gp2po?at_medium=RSS&at_campaign=rss))
 - Mum says memories of late son keeps her 'brave' ([1 days ago](https://www.bbc.co.uk/news/articles/c2k7zelkvp3o?at_medium=RSS&at_campaign=rss))
 - In Pictures: Cute cubs, Buck Moon and Stonehenge ([1 days ago](https://www.bbc.co.uk/news/articles/ce97v9e4y4do?at_medium=RSS&at_campaign=rss))
 - Weddings can now be 'truly unique' with flexible vows plan ([1 days ago](https://www.bbc.co.uk/news/articles/cgjel95331no?at_medium=RSS&at_campaign=rss))
@@ -43,7 +43,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Where to see the biggest solar eclipse since 1999 ([3 days ago](https://www.bbc.co.uk/news/articles/cjrvn0wez48o?at_medium=RSS&at_campaign=rss))
 - Mayor had to check road misspellings 'were not AI' ([3 days ago](https://www.bbc.co.uk/news/articles/cewr0qv4ggpo?at_medium=RSS&at_campaign=rss))
 - Homes to be built despite congestion concerns ([3 days ago](https://www.bbc.co.uk/news/articles/c78gnx3vj8qo?at_medium=RSS&at_campaign=rss))
-- 'Don't have a BBQ, go to the pub instead' - fire chief ([3 days ago](https://www.bbc.co.uk/news/articles/c07rde5477mo?at_medium=RSS&at_campaign=rss))
+- 'Don't have a BBQ, go to the pub instead' - fire chief ([4 days ago](https://www.bbc.co.uk/news/articles/c07rde5477mo?at_medium=RSS&at_campaign=rss))
 - Man charged in connection with stabbing in Cheltenham ([16 days ago](https://gloucesternewscentre.co.uk/man-charged-in-connection-with-stabbing-in-cheltenham/))
 - Builders served notice over Cheltenham dust ([16 days ago](https://gloucesternewscentre.co.uk/builders-served-notice-over-cheltenham-dust/))
 - Three people sentenced for controlling prostitution ([16 days ago](https://gloucesternewscentre.co.uk/three-people-sentenced-for-controlling-prostitution/))

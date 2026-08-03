@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Post or sign leaning slightly (less than 20 degrees) problem, 3rd August :- [9888928](https://www.fixmystreet.com/report/9888928)
+- Left road works sign, 3rd August :- [9884108](https://www.fixmystreet.com/report/9884108)
+- Broken glass on road in exit point of Stanboro lane, 3rd August :- [9888498](https://www.fixmystreet.com/report/9888498)
+- Bus shelter never replaced after car crashed into it, 3rd August :- [9888293](https://www.fixmystreet.com/report/9888293)
+- Parking zone sign on private wall, can this be removed, 3rd August :- [9888149](https://www.fixmystreet.com/report/9888149)
 - We desperately need a stop sign here following multiple accidents, 3rd August :- [9887814](https://www.fixmystreet.com/report/9887814)
 - Growth around base of several trees along this road causing obstruction of sight when trying to pull out of the side road, 3rd August :- [9887778](https://www.fixmystreet.com/report/9887778)
 - There are several sunken manhole covers on this road, 3rd August :- [9887726](https://www.fixmystreet.com/report/9887726)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Gate locked and access left overgrown, 2nd August :- [9885635](https://www.fixmystreet.com/report/9885635)
 - Sign frame and sandbag left on traffic island, 2nd August :- [9885616](https://www.fixmystreet.com/report/9885616)
 - Two Plastic barriers causing severe obstruction to pedestrians and in particular to disabled people in wherlchsirs, 2nd August :- [9885131](https://www.fixmystreet.com/report/9885131)
-- Cotswold way closure sign blocking view of traffic, 2nd August :- [9884752](https://www.fixmystreet.com/report/9884752)
-- Road works signs and cones, 2nd August :- [9884159](https://www.fixmystreet.com/report/9884159)
-- Large potholes, 2nd August :- [9883906](https://www.fixmystreet.com/report/9883906)
-- Bridge over stream, loose railings, 1st August :- [9883308](https://www.fixmystreet.com/report/9883308)
-- Vehicle abandoned in a dangerous position., 1st August :- [9883067](https://www.fixmystreet.com/report/9883067)
 
 <!-- fix_marker ends -->
