@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole and broken rod surface, 3rd August :- [9893154](https://www.fixmystreet.com/report/9893154)
 - Weeds both sides Sandstar Close, 3rd August :- [9891931](https://www.fixmystreet.com/report/9891931)
 - Discarded road sign has been lying on this pedestrian refuge/traffic island since before Christmas. How difficult could it be to have it collected!, 3rd August :- [9891926](https://www.fixmystreet.com/report/9891926)
 - Rubbish on the street, 3rd August :- [9891770](https://www.fixmystreet.com/report/9891770)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Barriers in river causing blockage and pollution, 3rd August :- [9889326](https://www.fixmystreet.com/report/9889326)
 - More red barriers dumped, 3rd August :- [9889158](https://www.fixmystreet.com/report/9889158)
 - Drain is blocked, 3rd August :- [9889146](https://www.fixmystreet.com/report/9889146)
-- Post or sign leaning slightly (less than 20 degrees) problem, 3rd August :- [9888928](https://www.fixmystreet.com/report/9888928)
 
 <!-- fix_marker ends -->
