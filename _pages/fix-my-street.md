@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flyposting on lamposts by cycelway, 3rd August :- [9887097](https://www.fixmystreet.com/report/9887097)
 - Bus shelter has not been replaced, 2nd August :- [9886977](https://www.fixmystreet.com/report/9886977)
 - Horse poo left all over pavement, 2nd August :- [9886970](https://www.fixmystreet.com/report/9886970)
 - Path blocked for one week by work on driveway, 2nd August :- [9886744](https://www.fixmystreet.com/report/9886744)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Vegetation obstructing pavement., 1st August :- [9882966](https://www.fixmystreet.com/report/9882966)
 - Fly tipping, 1st August :- [9882900](https://www.fixmystreet.com/report/9882900)
 - Volunteer litter pick bags ready for collection, 1st August :- [9882818](https://www.fixmystreet.com/report/9882818)
-- Graffiti on window, 1st August :- [9882743](https://www.fixmystreet.com/report/9882743)
 
 <!-- fix_marker ends -->
