@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flyposting on two ATS posts, 3rd August :- [9890641](https://www.fixmystreet.com/report/9890641)
+- Tree is damaged problem, 3rd August :- [9890404](https://www.fixmystreet.com/report/9890404)
+- Tree is damaged problem, 3rd August :- [9890194](https://www.fixmystreet.com/report/9890194)
+- Tree is damaged problem, 3rd August :- [9890193](https://www.fixmystreet.com/report/9890193)
+- Missing timetable, 3rd August :- [9889966](https://www.fixmystreet.com/report/9889966)
 - Hedge blocking visibility to sign posts, 3rd August :- [9889548](https://www.fixmystreet.com/report/9889548)
 - Barriers in river causing blockage and pollution, 3rd August :- [9889326](https://www.fixmystreet.com/report/9889326)
 - More red barriers dumped, 3rd August :- [9889158](https://www.fixmystreet.com/report/9889158)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Glass on the road, 3rd August :- [9887433](https://www.fixmystreet.com/report/9887433)
 - Branch coming out of the bush into the road which has caused damage to our bumper on our recycling vehicle, 3rd August :- [9887333](https://www.fixmystreet.com/report/9887333)
 - Flyposting on lamposts by cycelway, 3rd August :- [9887097](https://www.fixmystreet.com/report/9887097)
-- Bus shelter has not been replaced, 2nd August :- [9886977](https://www.fixmystreet.com/report/9886977)
-- Horse poo left all over pavement, 2nd August :- [9886970](https://www.fixmystreet.com/report/9886970)
-- Path blocked for one week by work on driveway, 2nd August :- [9886744](https://www.fixmystreet.com/report/9886744)
-- Unsafe road surface, 2nd August :- [9886551](https://www.fixmystreet.com/report/9886551)
-- Traffic cone and rubbish, 2nd August :- [9886181](https://www.fixmystreet.com/report/9886181)
 
 <!-- fix_marker ends -->
