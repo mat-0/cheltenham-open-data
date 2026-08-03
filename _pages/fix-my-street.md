@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Weeds both sides Sandstar Close, 3rd August :- [9891931](https://www.fixmystreet.com/report/9891931)
+- Discarded road sign has been lying on this pedestrian refuge/traffic island since before Christmas. How difficult could it be to have it collected!, 3rd August :- [9891926](https://www.fixmystreet.com/report/9891926)
+- Rubbish on the street, 3rd August :- [9891770](https://www.fixmystreet.com/report/9891770)
+- Dog faeces on pavement in residential area, 3rd August :- [9891702](https://www.fixmystreet.com/report/9891702)
 - Pavement looks to have sinked, potential trip hazard, 3rd August :- [9891491](https://www.fixmystreet.com/report/9891491)
 - Fly tipping in hedge outside 18 Jupiter Way, Abbeymead, 3rd August :- [9891427](https://www.fixmystreet.com/report/9891427)
 - Low hanging branches and overgrown hedgerows, 3rd August :- [9891317](https://www.fixmystreet.com/report/9891317)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - More red barriers dumped, 3rd August :- [9889158](https://www.fixmystreet.com/report/9889158)
 - Drain is blocked, 3rd August :- [9889146](https://www.fixmystreet.com/report/9889146)
 - Post or sign leaning slightly (less than 20 degrees) problem, 3rd August :- [9888928](https://www.fixmystreet.com/report/9888928)
-- Left road works sign, 3rd August :- [9884108](https://www.fixmystreet.com/report/9884108)
-- Broken glass on road in exit point of Stanboro lane, 3rd August :- [9888498](https://www.fixmystreet.com/report/9888498)
-- Bus shelter never replaced after car crashed into it, 3rd August :- [9888293](https://www.fixmystreet.com/report/9888293)
-- Parking zone sign on private wall, can this be removed, 3rd August :- [9888149](https://www.fixmystreet.com/report/9888149)
 
 <!-- fix_marker ends -->
