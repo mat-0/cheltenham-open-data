@@ -24,12 +24,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 </script>
 
 <!-- news_marker starts -->
-- Band lose festival spot after travelling with baby ([6 hours ago](https://www.bbc.co.uk/news/articles/c8jnrl7xyzro?at_medium=RSS&at_campaign=rss))
-- Young Sherlock film crews descend on Cheltenham ([7 hours ago](https://www.bbc.co.uk/news/videos/c8xn1jvy44yo?at_medium=RSS&at_campaign=rss))
-- Water company defends CEO's £80,000 pay rise ([9 hours ago](https://www.bbc.co.uk/news/articles/ceqe24zrjy5o?at_medium=RSS&at_campaign=rss))
-- Work starts on new unit for 'sickest patients' ([10 hours ago](https://www.bbc.co.uk/news/articles/cp30d53ep2xo?at_medium=RSS&at_campaign=rss))
-- Pylon removal plans for beauty spot scrapped ([20 hours ago](https://www.bbc.co.uk/news/articles/cx2j90351d1o?at_medium=RSS&at_campaign=rss))
-- Deprived area pupils face high obesity rates ([20 hours ago](https://www.bbc.co.uk/news/articles/cy9w0pexp58o?at_medium=RSS&at_campaign=rss))
+- Band lose festival spot after travelling with baby ([8 hours ago](https://www.bbc.co.uk/news/articles/c8jnrl7xyzro?at_medium=RSS&at_campaign=rss))
+- Young Sherlock film crews descend on Cheltenham ([10 hours ago](https://www.bbc.co.uk/news/videos/c8xn1jvy44yo?at_medium=RSS&at_campaign=rss))
+- Water company defends CEO's £80,000 pay rise ([12 hours ago](https://www.bbc.co.uk/news/articles/ceqe24zrjy5o?at_medium=RSS&at_campaign=rss))
+- Work starts on new unit for 'sickest patients' ([13 hours ago](https://www.bbc.co.uk/news/articles/cp30d53ep2xo?at_medium=RSS&at_campaign=rss))
+- Pylon removal plans for beauty spot scrapped ([22 hours ago](https://www.bbc.co.uk/news/articles/cx2j90351d1o?at_medium=RSS&at_campaign=rss))
+- Deprived area pupils face high obesity rates ([22 hours ago](https://www.bbc.co.uk/news/articles/cy9w0pexp58o?at_medium=RSS&at_campaign=rss))
 - The beef farm at the centre of UK mountainboarding ([1 days ago](https://www.bbc.co.uk/news/articles/cx25r49gp2po?at_medium=RSS&at_campaign=rss))
 - Mum says memories of late son keeps her 'brave' ([1 days ago](https://www.bbc.co.uk/news/articles/c2k7zelkvp3o?at_medium=RSS&at_campaign=rss))
 - In Pictures: Cute cubs, Buck Moon and Stonehenge ([1 days ago](https://www.bbc.co.uk/news/articles/ce97v9e4y4do?at_medium=RSS&at_campaign=rss))
