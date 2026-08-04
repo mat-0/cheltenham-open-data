@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Tuesday, 04 August 2026
 
-- The average temperature today is 25.22˚C,
-- With highs of 26.4˚C and lows of 24.28˚C,
-- It may feel like 25.47˚C with overcast clouds
-- The wind speed is 2.68m/s and visibility is 10000m
-- The pressure is 1008hPa and humidity is 64%
+- The average temperature today is 27.43˚C,
+- With highs of 28.15˚C and lows of 26.65˚C,
+- It may feel like 28.14˚C with light rain
+- The wind speed is 2.24m/s and visibility is 10000m
+- The pressure is 1007hPa and humidity is 54%
 - The sun will rise at 04:34 and set at 19:53
 
 <!-- weather_marker ends -->
