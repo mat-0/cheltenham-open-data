@@ -24,11 +24,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 </script>
 
 <!-- news_marker starts -->
-- How hot weather is changing camping holidays ([2 hours ago](https://www.bbc.co.uk/news/articles/c9d80ep8938o?at_medium=RSS&at_campaign=rss))
-- Band lose festival spot after travelling with baby ([12 hours ago](https://www.bbc.co.uk/news/articles/c8jnrl7xyzro?at_medium=RSS&at_campaign=rss))
-- Young Sherlock film crews descend on Cheltenham ([14 hours ago](https://www.bbc.co.uk/news/videos/c8xn1jvy44yo?at_medium=RSS&at_campaign=rss))
-- Water company defends CEO's £80,000 pay rise ([16 hours ago](https://www.bbc.co.uk/news/articles/ceqe24zrjy5o?at_medium=RSS&at_campaign=rss))
-- Work starts on new unit for 'sickest patients' ([17 hours ago](https://www.bbc.co.uk/news/articles/cp30d53ep2xo?at_medium=RSS&at_campaign=rss))
+- How hot weather is changing camping holidays ([4 hours ago](https://www.bbc.co.uk/news/articles/c9d80ep8938o?at_medium=RSS&at_campaign=rss))
+- Band lose festival spot after travelling with baby ([14 hours ago](https://www.bbc.co.uk/news/articles/c8jnrl7xyzro?at_medium=RSS&at_campaign=rss))
+- Young Sherlock film crews descend on Cheltenham ([16 hours ago](https://www.bbc.co.uk/news/videos/c8xn1jvy44yo?at_medium=RSS&at_campaign=rss))
+- Water company defends CEO's £80,000 pay rise ([18 hours ago](https://www.bbc.co.uk/news/articles/ceqe24zrjy5o?at_medium=RSS&at_campaign=rss))
+- Work starts on new unit for 'sickest patients' ([19 hours ago](https://www.bbc.co.uk/news/articles/cp30d53ep2xo?at_medium=RSS&at_campaign=rss))
 - Pylon removal plans for beauty spot scrapped ([1 days ago](https://www.bbc.co.uk/news/articles/cx2j90351d1o?at_medium=RSS&at_campaign=rss))
 - Deprived area pupils face high obesity rates ([1 days ago](https://www.bbc.co.uk/news/articles/cy9w0pexp58o?at_medium=RSS&at_campaign=rss))
 - The beef farm at the centre of UK mountainboarding ([1 days ago](https://www.bbc.co.uk/news/articles/cx25r49gp2po?at_medium=RSS&at_campaign=rss))
