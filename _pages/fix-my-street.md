@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Kerbs and Channels problem, 4th August :- [9894017](https://www.fixmystreet.com/report/9894017)
+- TMC - Defects -CW6 Potholes  problem, 4th August :- [9894020](https://www.fixmystreet.com/report/9894020)
+- TMC - Defects -CW6 Potholes  problem, 4th August :- [9894018](https://www.fixmystreet.com/report/9894018)
+- TMC - Defects -CW6 Potholes  problem, 4th August :- [9894019](https://www.fixmystreet.com/report/9894019)
+- TMC - Defects - Other FW6  Surface problem, 4th August :- [9894016](https://www.fixmystreet.com/report/9894016)
+- Sign suggestion, 4th August :- [9893629](https://www.fixmystreet.com/report/9893629)
 - The tree is causing people to walk on a live carriageway and disabled people in wheelchairs could not pass., 4th August :- [9893486](https://www.fixmystreet.com/report/9893486)
 - Pothole and broken rod surface, 3rd August :- [9893154](https://www.fixmystreet.com/report/9893154)
 - Weeds both sides Sandstar Close, 3rd August :- [9891931](https://www.fixmystreet.com/report/9891931)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Trees encroaching on properties, 3rd August :- [9891073](https://www.fixmystreet.com/report/9891073)
 - Flyposting on two ATS posts, 3rd August :- [9890641](https://www.fixmystreet.com/report/9890641)
 - Tree is damaged problem, 3rd August :- [9890404](https://www.fixmystreet.com/report/9890404)
-- Tree is damaged problem, 3rd August :- [9890194](https://www.fixmystreet.com/report/9890194)
-- Tree is damaged problem, 3rd August :- [9890193](https://www.fixmystreet.com/report/9890193)
-- Missing timetable, 3rd August :- [9889966](https://www.fixmystreet.com/report/9889966)
-- Hedge blocking visibility to sign posts, 3rd August :- [9889548](https://www.fixmystreet.com/report/9889548)
-- Barriers in river causing blockage and pollution, 3rd August :- [9889326](https://www.fixmystreet.com/report/9889326)
-- More red barriers dumped, 3rd August :- [9889158](https://www.fixmystreet.com/report/9889158)
 
 <!-- fix_marker ends -->

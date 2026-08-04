@@ -24,20 +24,20 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 </script>
 
 <!-- news_marker starts -->
-- How hot weather is changing camping holidays ([30 minutes ago](https://www.bbc.co.uk/news/articles/c9d80ep8938o?at_medium=RSS&at_campaign=rss))
-- Band lose festival spot after travelling with baby ([10 hours ago](https://www.bbc.co.uk/news/articles/c8jnrl7xyzro?at_medium=RSS&at_campaign=rss))
-- Young Sherlock film crews descend on Cheltenham ([12 hours ago](https://www.bbc.co.uk/news/videos/c8xn1jvy44yo?at_medium=RSS&at_campaign=rss))
-- Water company defends CEO's £80,000 pay rise ([14 hours ago](https://www.bbc.co.uk/news/articles/ceqe24zrjy5o?at_medium=RSS&at_campaign=rss))
-- Work starts on new unit for 'sickest patients' ([15 hours ago](https://www.bbc.co.uk/news/articles/cp30d53ep2xo?at_medium=RSS&at_campaign=rss))
+- How hot weather is changing camping holidays ([2 hours ago](https://www.bbc.co.uk/news/articles/c9d80ep8938o?at_medium=RSS&at_campaign=rss))
+- Band lose festival spot after travelling with baby ([12 hours ago](https://www.bbc.co.uk/news/articles/c8jnrl7xyzro?at_medium=RSS&at_campaign=rss))
+- Young Sherlock film crews descend on Cheltenham ([14 hours ago](https://www.bbc.co.uk/news/videos/c8xn1jvy44yo?at_medium=RSS&at_campaign=rss))
+- Water company defends CEO's £80,000 pay rise ([16 hours ago](https://www.bbc.co.uk/news/articles/ceqe24zrjy5o?at_medium=RSS&at_campaign=rss))
+- Work starts on new unit for 'sickest patients' ([17 hours ago](https://www.bbc.co.uk/news/articles/cp30d53ep2xo?at_medium=RSS&at_campaign=rss))
 - Pylon removal plans for beauty spot scrapped ([1 days ago](https://www.bbc.co.uk/news/articles/cx2j90351d1o?at_medium=RSS&at_campaign=rss))
 - Deprived area pupils face high obesity rates ([1 days ago](https://www.bbc.co.uk/news/articles/cy9w0pexp58o?at_medium=RSS&at_campaign=rss))
 - The beef farm at the centre of UK mountainboarding ([1 days ago](https://www.bbc.co.uk/news/articles/cx25r49gp2po?at_medium=RSS&at_campaign=rss))
-- Mum says memories of late son keeps her 'brave' ([1 days ago](https://www.bbc.co.uk/news/articles/c2k7zelkvp3o?at_medium=RSS&at_campaign=rss))
-- In Pictures: Cute cubs, Buck Moon and Stonehenge ([1 days ago](https://www.bbc.co.uk/news/articles/ce97v9e4y4do?at_medium=RSS&at_campaign=rss))
-- Weddings can now be 'truly unique' with flexible vows plan ([1 days ago](https://www.bbc.co.uk/news/articles/cgjel95331no?at_medium=RSS&at_campaign=rss))
+- Mum says memories of late son keeps her 'brave' ([2 days ago](https://www.bbc.co.uk/news/articles/c2k7zelkvp3o?at_medium=RSS&at_campaign=rss))
+- In Pictures: Cute cubs, Buck Moon and Stonehenge ([2 days ago](https://www.bbc.co.uk/news/articles/ce97v9e4y4do?at_medium=RSS&at_campaign=rss))
+- Weddings can now be 'truly unique' with flexible vows plan ([2 days ago](https://www.bbc.co.uk/news/articles/cgjel95331no?at_medium=RSS&at_campaign=rss))
 - The Gloucestershire bus routes children can use for free ([2 days ago](https://www.bbc.co.uk/news/articles/cy5dpz6nyyqo?at_medium=RSS&at_campaign=rss))
 - Hopes trains could return on long-closed railway ([2 days ago](https://www.bbc.co.uk/news/articles/clyxv8x7vzjo?at_medium=RSS&at_campaign=rss))
-- 'Radio 1 DJ's Oasis centre bid' and 'gummies warning' ([2 days ago](https://www.bbc.co.uk/news/articles/c04ke465p7zo?at_medium=RSS&at_campaign=rss))
+- 'Radio 1 DJ's Oasis centre bid' and 'gummies warning' ([3 days ago](https://www.bbc.co.uk/news/articles/c04ke465p7zo?at_medium=RSS&at_campaign=rss))
 - Meet the people keeping endangered skills alive ([3 days ago](https://www.bbc.co.uk/news/articles/cn0vvyzp7g5o?at_medium=RSS&at_campaign=rss))
 - Concerns town looks ‘neglected’ ([3 days ago](https://gloucesternewscentre.co.uk/concerns-town-looks-neglected/))
 - Windows of Cav House to display artwork ([3 days ago](https://gloucesternewscentre.co.uk/windows-of-cav-house-to-display-artwork/))
@@ -56,9 +56,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Man arrested following stabbing in Cheltenham ([18 days ago](https://gloucesternewscentre.co.uk/man-arrested-following-stabbing-in-cheltenham/))
 - Plans for 20mph speed limits defended ([24 days ago](https://gloucesternewscentre.co.uk/plans-for-20mph-speed-limits-defended/))
 - Calls for funding commitment for M5 junction revamp ([24 days ago](https://gloucesternewscentre.co.uk/calls-for-funding-commitment-for-m5-junction-revamp/))
-- Gloucestershire Library Challenge returns ([26 days ago](https://gloucesternewscentre.co.uk/gloucestershire-library-challenge-returns/))
-- Survey reveals public harassment faced by girls in Cheltenham ([26 days ago](https://gloucesternewscentre.co.uk/survey-reveals-public-harassment-faced-by-girls-in-cheltenham/))
-- Disappointment as popular tree house will be dismantled ([26 days ago](https://gloucesternewscentre.co.uk/disappointment-as-popular-tree-house-will-be-dismantled/))
+- Gloucestershire Library Challenge returns ([27 days ago](https://gloucesternewscentre.co.uk/gloucestershire-library-challenge-returns/))
+- Survey reveals public harassment faced by girls in Cheltenham ([27 days ago](https://gloucesternewscentre.co.uk/survey-reveals-public-harassment-faced-by-girls-in-cheltenham/))
+- Disappointment as popular tree house will be dismantled ([27 days ago](https://gloucesternewscentre.co.uk/disappointment-as-popular-tree-house-will-be-dismantled/))
 
 <!-- news_marker ends -->
 
