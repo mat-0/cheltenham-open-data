@@ -9,9 +9,15 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Litter pickerbag of recycling at bin ref:- 0230 which is by the Greyhound crossroads on the Cheltenham road, 4th August :- [9897685](https://www.fixmystreet.com/report/9897685)
+- Following years of flooding the pathway from Staverton village to AGD traffic lights is in a poor state., 4th August :- [9897671](https://www.fixmystreet.com/report/9897671)
+- The whole of Albert Rd needs resurfacing, 4th August :- [9897505](https://www.fixmystreet.com/report/9897505)
+- Tree is damaged problem, 4th August :- [9897483](https://www.fixmystreet.com/report/9897483)
+- Numerous large craters and uneven surface, 4th August :- [9897015](https://www.fixmystreet.com/report/9897015)
 - Trees/vegitation still causing possible blockage on Hatherley Brook, just downstream of bridge in Meadow Close, 4th August :- [9896769](https://www.fixmystreet.com/report/9896769)
-- TMC - Defects -CW6 Potholes  problem, 4th August :- [9896748](https://www.fixmystreet.com/report/9896748)
+- TMC - Defects -CW6 Potholes  problem, 4th August :- [9896912](https://www.fixmystreet.com/report/9896912)
 - TMC - Defects -CW6 Potholes  problem, 4th August :- [9896749](https://www.fixmystreet.com/report/9896749)
+- TMC - Defects -CW6 Potholes  problem, 4th August :- [9896748](https://www.fixmystreet.com/report/9896748)
 - A pothole in road problem, 4th August :- [9896728](https://www.fixmystreet.com/report/9896728)
 - TMC - Defects -CW6 Potholes  problem, 4th August :- [9896746](https://www.fixmystreet.com/report/9896746)
 - TMC - Defects -CW6 Potholes  problem, 4th August :- [9896741](https://www.fixmystreet.com/report/9896741)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Concreter flytipped, 4th August :- [9896042](https://www.fixmystreet.com/report/9896042)
 - TMC - Defects -CW6 Potholes  problem, 4th August :- [9896290](https://www.fixmystreet.com/report/9896290)
 - TMC - Defects -CW6 Potholes  problem, 4th August :- [9896291](https://www.fixmystreet.com/report/9896291)
-- TMC - Defects -CW6 Potholes  problem, 4th August :- [9896289](https://www.fixmystreet.com/report/9896289)
-- Cracking in Carriageway, 4th August :- [9895991](https://www.fixmystreet.com/report/9895991)
-- TMC - Defects - Vegetation problem, 4th August :- [9896275](https://www.fixmystreet.com/report/9896275)
-- TMC - Defects - Vegetation problem, 4th August :- [9895861](https://www.fixmystreet.com/report/9895861)
-- TMC - Defects - Vegetation problem, 4th August :- [9895862](https://www.fixmystreet.com/report/9895862)
-- TMC - Defects - Other FW6  Surface problem, 4th August :- [9895860](https://www.fixmystreet.com/report/9895860)
 
 <!-- fix_marker ends -->

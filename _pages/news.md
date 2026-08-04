@@ -24,13 +24,13 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 </script>
 
 <!-- news_marker starts -->
-- Pair who let dog starve to death are sentenced ([1 hours ago](https://www.bbc.co.uk/news/articles/cd9wkzn777vo?at_medium=RSS&at_campaign=rss))
-- Organisers announce new addition to popular event ([2 hours ago](https://www.bbc.co.uk/news/articles/cevm1ykpgzeo?at_medium=RSS&at_campaign=rss))
-- How hot weather is changing camping holidays ([8 hours ago](https://www.bbc.co.uk/news/articles/c9d80ep8938o?at_medium=RSS&at_campaign=rss))
-- Band lose festival spot after travelling with baby ([18 hours ago](https://www.bbc.co.uk/news/articles/c8jnrl7xyzro?at_medium=RSS&at_campaign=rss))
-- Young Sherlock film crews descend on Cheltenham ([19 hours ago](https://www.bbc.co.uk/news/videos/c8xn1jvy44yo?at_medium=RSS&at_campaign=rss))
-- Water company defends CEO's £80,000 pay rise ([21 hours ago](https://www.bbc.co.uk/news/articles/ceqe24zrjy5o?at_medium=RSS&at_campaign=rss))
-- Work starts on new unit for 'sickest patients' ([22 hours ago](https://www.bbc.co.uk/news/articles/cp30d53ep2xo?at_medium=RSS&at_campaign=rss))
+- Pair who let dog starve to death are sentenced ([3 hours ago](https://www.bbc.co.uk/news/articles/cd9wkzn777vo?at_medium=RSS&at_campaign=rss))
+- Organisers announce new addition to popular event ([4 hours ago](https://www.bbc.co.uk/news/articles/cevm1ykpgzeo?at_medium=RSS&at_campaign=rss))
+- How hot weather is changing camping holidays ([10 hours ago](https://www.bbc.co.uk/news/articles/c9d80ep8938o?at_medium=RSS&at_campaign=rss))
+- Band lose festival spot after travelling with baby ([20 hours ago](https://www.bbc.co.uk/news/articles/c8jnrl7xyzro?at_medium=RSS&at_campaign=rss))
+- Young Sherlock film crews descend on Cheltenham ([21 hours ago](https://www.bbc.co.uk/news/videos/c8xn1jvy44yo?at_medium=RSS&at_campaign=rss))
+- Water company defends CEO's £80,000 pay rise ([1 days ago](https://www.bbc.co.uk/news/articles/ceqe24zrjy5o?at_medium=RSS&at_campaign=rss))
+- Work starts on new unit for 'sickest patients' ([1 days ago](https://www.bbc.co.uk/news/articles/cp30d53ep2xo?at_medium=RSS&at_campaign=rss))
 - Pylon removal plans for beauty spot scrapped ([1 days ago](https://www.bbc.co.uk/news/articles/cx2j90351d1o?at_medium=RSS&at_campaign=rss))
 - Deprived area pupils face high obesity rates ([1 days ago](https://www.bbc.co.uk/news/articles/cy9w0pexp58o?at_medium=RSS&at_campaign=rss))
 - The beef farm at the centre of UK mountainboarding ([2 days ago](https://www.bbc.co.uk/news/articles/cx25r49gp2po?at_medium=RSS&at_campaign=rss))
