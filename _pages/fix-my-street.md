@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipping, 4th August :- [9898109](https://www.fixmystreet.com/report/9898109)
+- Drain at the top of the road is blocked, 4th August :- [9897817](https://www.fixmystreet.com/report/9897817)
 - Litter pickerbag of recycling at bin ref:- 0230 which is by the Greyhound crossroads on the Cheltenham road, 4th August :- [9897685](https://www.fixmystreet.com/report/9897685)
 - Following years of flooding the pathway from Staverton village to AGD traffic lights is in a poor state., 4th August :- [9897671](https://www.fixmystreet.com/report/9897671)
 - The whole of Albert Rd needs resurfacing, 4th August :- [9897505](https://www.fixmystreet.com/report/9897505)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 4th August :- [9896303](https://www.fixmystreet.com/report/9896303)
 - Traffic Bollards have been Graffitied, 4th August :- [9896075](https://www.fixmystreet.com/report/9896075)
 - Concreter flytipped, 4th August :- [9896042](https://www.fixmystreet.com/report/9896042)
-- TMC - Defects -CW6 Potholes  problem, 4th August :- [9896290](https://www.fixmystreet.com/report/9896290)
-- TMC - Defects -CW6 Potholes  problem, 4th August :- [9896291](https://www.fixmystreet.com/report/9896291)
 
 <!-- fix_marker ends -->
