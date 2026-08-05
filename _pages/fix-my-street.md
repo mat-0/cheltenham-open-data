@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Multiple potholes causing damage to my cars, 5th August :- [9904536](https://www.fixmystreet.com/report/9904536)
 - Stench of sewage coming from drains on Rodney Road, 5th August :- [9904177](https://www.fixmystreet.com/report/9904177)
 - Cant continue on footpath as there is a hedge/fence obstructing the way., 5th August :- [9904009](https://www.fixmystreet.com/report/9904009)
 - Post or sign leaning slightly (less than 20 degrees) problem, 5th August :- [9903639](https://www.fixmystreet.com/report/9903639)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 5th August :- [9903137](https://www.fixmystreet.com/report/9903137)
 - TMC - Defects - Covers, Gratings & Frames problem, 5th August :- [9903135](https://www.fixmystreet.com/report/9903135)
 - 40 bags of waste dumped, 5th August :- [9902953](https://www.fixmystreet.com/report/9902953)
-- Other damage to pavement i.e. cobbles, raised mound/surface problem, 5th August :- [9903123](https://www.fixmystreet.com/report/9903123)
 
 <!-- fix_marker ends -->

@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Wednesday, 05 August 2026
 
-- The average temperature today is 21.36˚C,
-- With highs of 21.58˚C and lows of 20.52˚C,
-- It may feel like 20.73˚C with scattered clouds
-- The wind speed is 3.13m/s and visibility is 10000m
-- The pressure is 1015hPa and humidity is 45%
+- The average temperature today is 18.08˚C,
+- With highs of 18.8˚C and lows of 17.6˚C,
+- It may feel like 17.33˚C with scattered clouds
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 1017hPa and humidity is 53%
 - The sun will rise at 04:36 and set at 19:52
 
 <!-- weather_marker ends -->
