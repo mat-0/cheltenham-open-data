@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 2 blookced gulles on same corner, 5th August :- [9899801](https://www.fixmystreet.com/report/9899801)
+- Blocked gully at crossroads (one of several), 5th August :- [9899792](https://www.fixmystreet.com/report/9899792)
+- Blocked gully, 5th August :- [9899787](https://www.fixmystreet.com/report/9899787)
+- Blocked gully, 5th August :- [9899772](https://www.fixmystreet.com/report/9899772)
+- TMC - Defects - Other FW6  Surface problem, 5th August :- [9899724](https://www.fixmystreet.com/report/9899724)
+- TMC - Defects - Other FW6  Surface problem, 5th August :- [9899723](https://www.fixmystreet.com/report/9899723)
 - One glass panel smashed, 5th August :- [9899343](https://www.fixmystreet.com/report/9899343)
 - Green light not working, 4th August :- [9898685](https://www.fixmystreet.com/report/9898685)
 - Flytipping, 4th August :- [9898109](https://www.fixmystreet.com/report/9898109)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 4th August :- [9896749](https://www.fixmystreet.com/report/9896749)
 - TMC - Defects -CW6 Potholes  problem, 4th August :- [9896748](https://www.fixmystreet.com/report/9896748)
 - A pothole in road problem, 4th August :- [9896728](https://www.fixmystreet.com/report/9896728)
-- TMC - Defects -CW6 Potholes  problem, 4th August :- [9896746](https://www.fixmystreet.com/report/9896746)
-- TMC - Defects -CW6 Potholes  problem, 4th August :- [9896741](https://www.fixmystreet.com/report/9896741)
-- TMC - Defects -CW6 Potholes  problem, 4th August :- [9896742](https://www.fixmystreet.com/report/9896742)
-- Various potholes 3 in total along the centre part of Rookery Road, 4th August :- [9896464](https://www.fixmystreet.com/report/9896464)
-- TMC - Defects - Vegetation problem, 4th August :- [9896495](https://www.fixmystreet.com/report/9896495)
-- TMC - Defects - Vegetation problem, 4th August :- [9896303](https://www.fixmystreet.com/report/9896303)
 
 <!-- fix_marker ends -->
