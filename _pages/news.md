@@ -24,12 +24,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 </script>
 
 <!-- news_marker starts -->
-- Care workers to strike over council outsourcing ([1 hours ago](https://www.bbc.co.uk/news/articles/c36d484y6nlo?at_medium=RSS&at_campaign=rss))
-- Charities get £2.2m from pollution incident fines ([2 hours ago](https://www.bbc.co.uk/news/articles/cx2v4eq9317o?at_medium=RSS&at_campaign=rss))
-- Betty, 97, breaks record for oldest wingwalker ([14 hours ago](https://www.bbc.co.uk/news/articles/c4g6pdem336o?at_medium=RSS&at_campaign=rss))
-- Man in his 70s dies in 'large fire' in Cotswolds ([15 hours ago](https://www.bbc.co.uk/news/articles/c1l1q7rdvvzo?at_medium=RSS&at_campaign=rss))
-- Pair who let dog starve to death are sentenced ([19 hours ago](https://www.bbc.co.uk/news/articles/cd9wkzn777vo?at_medium=RSS&at_campaign=rss))
-- Organisers announce new addition to popular event ([20 hours ago](https://www.bbc.co.uk/news/articles/cevm1ykpgzeo?at_medium=RSS&at_campaign=rss))
+- Care workers to strike over council outsourcing ([5 hours ago](https://www.bbc.co.uk/news/articles/c36d484y6nlo?at_medium=RSS&at_campaign=rss))
+- Charities get £2.2m from pollution incident fines ([5 hours ago](https://www.bbc.co.uk/news/articles/cx2v4eq9317o?at_medium=RSS&at_campaign=rss))
+- Betty, 97, breaks record for oldest wingwalker ([18 hours ago](https://www.bbc.co.uk/news/articles/c4g6pdem336o?at_medium=RSS&at_campaign=rss))
+- Man in his 70s dies in 'large fire' in Cotswolds ([19 hours ago](https://www.bbc.co.uk/news/articles/c1l1q7rdvvzo?at_medium=RSS&at_campaign=rss))
+- Pair who let dog starve to death are sentenced ([22 hours ago](https://www.bbc.co.uk/news/articles/cd9wkzn777vo?at_medium=RSS&at_campaign=rss))
+- Organisers announce new addition to popular event ([1 days ago](https://www.bbc.co.uk/news/articles/cevm1ykpgzeo?at_medium=RSS&at_campaign=rss))
 - How hot weather is changing camping holidays ([1 days ago](https://www.bbc.co.uk/news/articles/c9d80ep8938o?at_medium=RSS&at_campaign=rss))
 - Band lose festival spot after travelling with baby ([1 days ago](https://www.bbc.co.uk/news/articles/c8jnrl7xyzro?at_medium=RSS&at_campaign=rss))
 - Young Sherlock film crews descend on Cheltenham ([1 days ago](https://www.bbc.co.uk/news/videos/c8xn1jvy44yo?at_medium=RSS&at_campaign=rss))
@@ -56,7 +56,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Man arrested following stabbing in Cheltenham ([19 days ago](https://gloucesternewscentre.co.uk/man-arrested-following-stabbing-in-cheltenham/))
 - Plans for 20mph speed limits defended ([25 days ago](https://gloucesternewscentre.co.uk/plans-for-20mph-speed-limits-defended/))
 - Calls for funding commitment for M5 junction revamp ([25 days ago](https://gloucesternewscentre.co.uk/calls-for-funding-commitment-for-m5-junction-revamp/))
-- Gloucestershire Library Challenge returns ([27 days ago](https://gloucesternewscentre.co.uk/gloucestershire-library-challenge-returns/))
+- Gloucestershire Library Challenge returns ([28 days ago](https://gloucesternewscentre.co.uk/gloucestershire-library-challenge-returns/))
 - Survey reveals public harassment faced by girls in Cheltenham ([28 days ago](https://gloucesternewscentre.co.uk/survey-reveals-public-harassment-faced-by-girls-in-cheltenham/))
 - Disappointment as popular tree house will be dismantled ([28 days ago](https://gloucesternewscentre.co.uk/disappointment-as-popular-tree-house-will-be-dismantled/))
 
