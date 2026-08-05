@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- One glass panel smashed, 5th August :- [9899343](https://www.fixmystreet.com/report/9899343)
 - Green light not working, 4th August :- [9898685](https://www.fixmystreet.com/report/9898685)
 - Flytipping, 4th August :- [9898109](https://www.fixmystreet.com/report/9898109)
 - Drain at the top of the road is blocked, 4th August :- [9897817](https://www.fixmystreet.com/report/9897817)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Various potholes 3 in total along the centre part of Rookery Road, 4th August :- [9896464](https://www.fixmystreet.com/report/9896464)
 - TMC - Defects - Vegetation problem, 4th August :- [9896495](https://www.fixmystreet.com/report/9896495)
 - TMC - Defects - Vegetation problem, 4th August :- [9896303](https://www.fixmystreet.com/report/9896303)
-- Traffic Bollards have been Graffitied, 4th August :- [9896075](https://www.fixmystreet.com/report/9896075)
 
 <!-- fix_marker ends -->

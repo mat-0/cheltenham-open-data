@@ -24,11 +24,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 </script>
 
 <!-- news_marker starts -->
-- Betty, 97, breaks record for oldest wingwalker ([6 hours ago](https://www.bbc.co.uk/news/articles/c4g6pdem336o?at_medium=RSS&at_campaign=rss))
-- Man in his 70s dies in 'large fire' in Cotswolds ([7 hours ago](https://www.bbc.co.uk/news/articles/c1l1q7rdvvzo?at_medium=RSS&at_campaign=rss))
-- Pair who let dog starve to death are sentenced ([11 hours ago](https://www.bbc.co.uk/news/articles/cd9wkzn777vo?at_medium=RSS&at_campaign=rss))
-- Organisers announce new addition to popular event ([13 hours ago](https://www.bbc.co.uk/news/articles/cevm1ykpgzeo?at_medium=RSS&at_campaign=rss))
-- How hot weather is changing camping holidays ([18 hours ago](https://www.bbc.co.uk/news/articles/c9d80ep8938o?at_medium=RSS&at_campaign=rss))
+- Betty, 97, breaks record for oldest wingwalker ([10 hours ago](https://www.bbc.co.uk/news/articles/c4g6pdem336o?at_medium=RSS&at_campaign=rss))
+- Man in his 70s dies in 'large fire' in Cotswolds ([12 hours ago](https://www.bbc.co.uk/news/articles/c1l1q7rdvvzo?at_medium=RSS&at_campaign=rss))
+- Pair who let dog starve to death are sentenced ([15 hours ago](https://www.bbc.co.uk/news/articles/cd9wkzn777vo?at_medium=RSS&at_campaign=rss))
+- Organisers announce new addition to popular event ([17 hours ago](https://www.bbc.co.uk/news/articles/cevm1ykpgzeo?at_medium=RSS&at_campaign=rss))
+- How hot weather is changing camping holidays ([22 hours ago](https://www.bbc.co.uk/news/articles/c9d80ep8938o?at_medium=RSS&at_campaign=rss))
 - Band lose festival spot after travelling with baby ([1 days ago](https://www.bbc.co.uk/news/articles/c8jnrl7xyzro?at_medium=RSS&at_campaign=rss))
 - Young Sherlock film crews descend on Cheltenham ([1 days ago](https://www.bbc.co.uk/news/videos/c8xn1jvy44yo?at_medium=RSS&at_campaign=rss))
 - Water company defends CEO's £80,000 pay rise ([1 days ago](https://www.bbc.co.uk/news/articles/ceqe24zrjy5o?at_medium=RSS&at_campaign=rss))
