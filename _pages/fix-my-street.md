@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fallen tree, 6th August :- [9905892](https://www.fixmystreet.com/report/9905892)
+- Tree overhanging children’s park, 6th August :- [9905879](https://www.fixmystreet.com/report/9905879)
+- Bollard broken of, 6th August :- [9905826](https://www.fixmystreet.com/report/9905826)
 - Multiple potholes causing damage to my cars, 5th August :- [9904536](https://www.fixmystreet.com/report/9904536)
 - Stench of sewage coming from drains on Rodney Road, 5th August :- [9904177](https://www.fixmystreet.com/report/9904177)
 - Cant continue on footpath as there is a hedge/fence obstructing the way., 5th August :- [9904009](https://www.fixmystreet.com/report/9904009)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Tree needs cutting as affecting drains, 5th August :- [9903113](https://www.fixmystreet.com/report/9903113)
 - TMC - Defects - Covers, Gratings & Frames problem, 5th August :- [9903139](https://www.fixmystreet.com/report/9903139)
 - Goldsmith Road /Cheltenham Road East, 5th August :- [9903078](https://www.fixmystreet.com/report/9903078)
-- TMC - Defects - Other FW6  Surface problem, 5th August :- [9903137](https://www.fixmystreet.com/report/9903137)
-- TMC - Defects - Covers, Gratings & Frames problem, 5th August :- [9903135](https://www.fixmystreet.com/report/9903135)
-- 40 bags of waste dumped, 5th August :- [9902953](https://www.fixmystreet.com/report/9902953)
 
 <!-- fix_marker ends -->
