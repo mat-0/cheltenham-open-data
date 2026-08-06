@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Thursday, 06 August 2026
 
-- The average temperature today is 15.26˚C,
-- With highs of 16.08˚C and lows of 14.83˚C,
-- It may feel like 14.72˚C with clear sky
-- The wind speed is 2.24m/s and visibility is 10000m
-- The pressure is 1022hPa and humidity is 72%
+- The average temperature today is 18.46˚C,
+- With highs of 19.28˚C and lows of 18.15˚C,
+- It may feel like 17.67˚C with clear sky
+- The wind speed is 2.68m/s and visibility is 10000m
+- The pressure is 1022hPa and humidity is 50%
 - The sun will rise at 04:38 and set at 19:50
 
 <!-- weather_marker ends -->
