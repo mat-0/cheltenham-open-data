@@ -24,13 +24,13 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 </script>
 
 <!-- news_marker starts -->
-- More biker gang members sentenced over rival attack ([5 hours ago](https://www.bbc.co.uk/news/articles/c36dz7znk6yo?at_medium=RSS&at_campaign=rss))
-- Watch: Bike gang jailed for attack on rival ([7 hours ago](https://www.bbc.co.uk/news/videos/cg5l0zq3n54o?at_medium=RSS&at_campaign=rss))
-- The teenager sprinting for GB two years after taking up the sport ([10 hours ago](https://www.bbc.co.uk/sport/athletics/articles/c7vgmeme8vdo?at_medium=RSS&at_campaign=rss))
-- Men deny illegal hunt at Duke of Beaufort estate ([10 hours ago](https://www.bbc.co.uk/news/articles/cx25ew4dy4jo?at_medium=RSS&at_campaign=rss))
-- Drivers urged to be 'more French and use both lanes' ([11 hours ago](https://www.bbc.co.uk/news/articles/cwyjl4g8e06o?at_medium=RSS&at_campaign=rss))
-- Care workers to strike over council outsourcing ([18 hours ago](https://www.bbc.co.uk/news/articles/c36d484y6nlo?at_medium=RSS&at_campaign=rss))
-- Charities get £2.2m from pollution incident fines ([18 hours ago](https://www.bbc.co.uk/news/articles/cx2v4eq9317o?at_medium=RSS&at_campaign=rss))
+- More biker gang members sentenced over rival attack ([10 hours ago](https://www.bbc.co.uk/news/articles/c36dz7znk6yo?at_medium=RSS&at_campaign=rss))
+- Watch: Bike gang jailed for attack on rival ([11 hours ago](https://www.bbc.co.uk/news/videos/cg5l0zq3n54o?at_medium=RSS&at_campaign=rss))
+- The teenager sprinting for GB two years after taking up the sport ([14 hours ago](https://www.bbc.co.uk/sport/athletics/articles/c7vgmeme8vdo?at_medium=RSS&at_campaign=rss))
+- Men deny illegal hunt at Duke of Beaufort estate ([15 hours ago](https://www.bbc.co.uk/news/articles/cx25ew4dy4jo?at_medium=RSS&at_campaign=rss))
+- Drivers urged to be 'more French and use both lanes' ([16 hours ago](https://www.bbc.co.uk/news/articles/cwyjl4g8e06o?at_medium=RSS&at_campaign=rss))
+- Care workers to strike over council outsourcing ([22 hours ago](https://www.bbc.co.uk/news/articles/c36d484y6nlo?at_medium=RSS&at_campaign=rss))
+- Charities get £2.2m from pollution incident fines ([22 hours ago](https://www.bbc.co.uk/news/articles/cx2v4eq9317o?at_medium=RSS&at_campaign=rss))
 - Betty, 97, breaks record for oldest wingwalker ([1 days ago](https://www.bbc.co.uk/news/articles/c4g6pdem336o?at_medium=RSS&at_campaign=rss))
 - Man in his 70s dies in 'large fire' in Cotswolds ([1 days ago](https://www.bbc.co.uk/news/articles/c1l1q7rdvvzo?at_medium=RSS&at_campaign=rss))
 - Pair who let dog starve to death are sentenced ([1 days ago](https://www.bbc.co.uk/news/articles/cd9wkzn777vo?at_medium=RSS&at_campaign=rss))
