@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Previously marked as cleared up, 7th August :- [9915312](https://www.fixmystreet.com/report/9915312)
+- 6 inch pothole on pavement, 7th August :- [9915261](https://www.fixmystreet.com/report/9915261)
+- 2x loose kerb stones outside, 7th August :- [9914943](https://www.fixmystreet.com/report/9914943)
 - Series of golf ball size deep potholes, 7th August :- [9914752](https://www.fixmystreet.com/report/9914752)
 - Vegetation obscuring view and scratching passing vehicles, 7th August :- [9914745](https://www.fixmystreet.com/report/9914745)
 - Traffic lights are turning to pedestrian crossing (ie both traffic lights on red) on every other change, even though the pedestrian button had not been pushed., 7th August :- [9914561](https://www.fixmystreet.com/report/9914561)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Fallen tree branch, 7th August :- [9913549](https://www.fixmystreet.com/report/9913549)
 - Flytipped rubbish in front of tree, 7th August :- [9913505](https://www.fixmystreet.com/report/9913505)
 - TMC - Defects - Vegetation problem, 7th August :- [9913460](https://www.fixmystreet.com/report/9913460)
-- TMC - Defects - Vegetation problem, 7th August :- [9913459](https://www.fixmystreet.com/report/9913459)
-- Big dip in the road, 7th August :- [9913400](https://www.fixmystreet.com/report/9913400)
-- Dead deer, 7th August :- [9913335](https://www.fixmystreet.com/report/9913335)
 
 <!-- fix_marker ends -->

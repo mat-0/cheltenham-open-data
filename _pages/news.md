@@ -24,22 +24,22 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 </script>
 
 <!-- news_marker starts -->
-- Residents next to building site unhappy about dust ([1 hours ago](https://www.bbc.co.uk/news/articles/c171x015ydro?at_medium=RSS&at_campaign=rss))
-- Fridge collections suspended as tips reach capacity ([2 hours ago](https://www.bbc.co.uk/news/articles/c5y642eyjkeo?at_medium=RSS&at_campaign=rss))
-- Free events for SEND children to enjoy this summer ([11 hours ago](https://www.bbc.co.uk/news/articles/c330m4dm1e2o?at_medium=RSS&at_campaign=rss))
+- Pledge to ensure sewers can cope with homes plan ([1 hours ago](https://www.bbc.co.uk/news/articles/c78ge43j2vlo?at_medium=RSS&at_campaign=rss))
+- Residents next to building site unhappy about dust ([3 hours ago](https://www.bbc.co.uk/news/articles/c171x015ydro?at_medium=RSS&at_campaign=rss))
+- Fridge collections suspended as tips reach capacity ([4 hours ago](https://www.bbc.co.uk/news/articles/c5y642eyjkeo?at_medium=RSS&at_campaign=rss))
+- Free events for SEND children to enjoy this summer ([13 hours ago](https://www.bbc.co.uk/news/articles/c330m4dm1e2o?at_medium=RSS&at_campaign=rss))
 - Gloucestershire council starts new housing plan ([1 days ago](https://www.bbc.co.uk/news/articles/cx2md628gj6o?at_medium=RSS&at_campaign=rss))
 - Police chief to retire after 36 years in service ([1 days ago](https://www.bbc.co.uk/news/articles/cj4kqgdkdjqo?at_medium=RSS&at_campaign=rss))
 - US bomber noise concerns for new Cotswold village ([1 days ago](https://www.bbc.co.uk/news/articles/cdj08y8lnlpo?at_medium=RSS&at_campaign=rss))
 - Unique Brigitte Bardot velvet coat to be auctioned ([1 days ago](https://www.bbc.co.uk/news/articles/cvgj92gvmd0o?at_medium=RSS&at_campaign=rss))
 - More biker gang members sentenced over rival attack ([1 days ago](https://www.bbc.co.uk/news/articles/c36dz7znk6yo?at_medium=RSS&at_campaign=rss))
-- Watch: Bike gang jailed for attack on rival ([1 days ago](https://www.bbc.co.uk/news/videos/cg5l0zq3n54o?at_medium=RSS&at_campaign=rss))
+- Watch: Bike gang jailed for attack on rival ([2 days ago](https://www.bbc.co.uk/news/videos/cg5l0zq3n54o?at_medium=RSS&at_campaign=rss))
 - Men deny illegal hunt at Duke of Beaufort estate ([2 days ago](https://www.bbc.co.uk/news/articles/cx25ew4dy4jo?at_medium=RSS&at_campaign=rss))
 - Drivers urged to be 'more French and use both lanes' ([2 days ago](https://www.bbc.co.uk/news/articles/cwyjl4g8e06o?at_medium=RSS&at_campaign=rss))
 - Care workers to strike over council outsourcing ([2 days ago](https://www.bbc.co.uk/news/articles/c36d484y6nlo?at_medium=RSS&at_campaign=rss))
 - Charities get £2.2m from pollution incident fines ([2 days ago](https://www.bbc.co.uk/news/articles/cx2v4eq9317o?at_medium=RSS&at_campaign=rss))
-- Betty, 97, breaks record for oldest wingwalker ([2 days ago](https://www.bbc.co.uk/news/articles/c4g6pdem336o?at_medium=RSS&at_campaign=rss))
-- Man in his 70s dies in 'large fire' in Cotswolds ([2 days ago](https://www.bbc.co.uk/news/articles/c1l1q7rdvvzo?at_medium=RSS&at_campaign=rss))
-- Pair who let dog starve to death are sentenced ([3 days ago](https://www.bbc.co.uk/news/articles/cd9wkzn777vo?at_medium=RSS&at_campaign=rss))
+- Betty, 97, breaks record for oldest wingwalker ([3 days ago](https://www.bbc.co.uk/news/articles/c4g6pdem336o?at_medium=RSS&at_campaign=rss))
+- Man in his 70s dies in 'large fire' in Cotswolds ([3 days ago](https://www.bbc.co.uk/news/articles/c1l1q7rdvvzo?at_medium=RSS&at_campaign=rss))
 - How hot weather is changing camping holidays ([3 days ago](https://www.bbc.co.uk/news/articles/c9d80ep8938o?at_medium=RSS&at_campaign=rss))
 
 <!-- news_marker ends -->
