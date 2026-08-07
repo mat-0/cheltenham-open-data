@@ -24,10 +24,10 @@ permalink: /fix-my-street
 - TMC - Defects -FW6 Potholes problem, 6th August :- [9909150](https://www.fixmystreet.com/report/9909150)
 - TMC - Defects - Covers, Gratings & Frames problem, 6th August :- [9908776](https://www.fixmystreet.com/report/9908776)
 - TMC - Defects - Other FW6  Surface problem, 6th August :- [9908775](https://www.fixmystreet.com/report/9908775)
+- TMC - Defects -CW6 Potholes  problem, 6th August :- [9908489](https://www.fixmystreet.com/report/9908489)
+- TMC - Defects -CW6 Potholes  problem, 6th August :- [9908490](https://www.fixmystreet.com/report/9908490)
+- TMC - Defects -CW6 Potholes  problem, 6th August :- [9908487](https://www.fixmystreet.com/report/9908487)
 - TMC - Defects -CW6 Potholes  problem, 6th August :- [9908491](https://www.fixmystreet.com/report/9908491)
 - TMC - Defects -CW6 Potholes  problem, 6th August :- [9908488](https://www.fixmystreet.com/report/9908488)
-- TMC - Defects -CW6 Potholes  problem, 6th August :- [9908486](https://www.fixmystreet.com/report/9908486)
-- TMC - Defects -CW6 Potholes  problem, 6th August :- [9908485](https://www.fixmystreet.com/report/9908485)
-- TMC - Defects -CW6 Potholes  problem, 6th August :- [9908492](https://www.fixmystreet.com/report/9908492)
 
 <!-- fix_marker ends -->
