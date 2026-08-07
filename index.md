@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Friday, 07 August 2026
 
-- The average temperature today is 22.03˚C,
-- With highs of 22.61˚C and lows of 21.51˚C,
-- It may feel like 21.39˚C with clear sky
-- The wind speed is 1.79m/s and visibility is 10000m
-- The pressure is 1023hPa and humidity is 42%
+- The average temperature today is 24.04˚C,
+- With highs of 24.97˚C and lows of 23.62˚C,
+- It may feel like 23.49˚C with scattered clouds
+- The wind speed is 0.45m/s and visibility is 10000m
+- The pressure is 1022hPa and humidity is 38%
 - The sun will rise at 04:39 and set at 19:48
 
 <!-- weather_marker ends -->
