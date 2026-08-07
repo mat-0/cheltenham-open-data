@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
  xmlns:atom="http://www.w3.org/2005/Atom"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -15,6 +15,87 @@
 <atom:link href="https://www.fixmystreet.com/rss/l/51.897991,-2.071308/10" rel="self" type="application/rss+xml"/>
 
 <item>
+<title>TMC - Defects - Vegetation problem, 7th August</title>
+<link>https://www.fixmystreet.com/report/9912518</link>
+<description>Overgrown hedge (Grass needs cutting back)&amp;#10;79 Mtrs x 4 Mtrs (Aprox)&amp;#10;TM: Traffic lights &amp;#10;Opposite The Willows (Overgrown Hedge)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9912518&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Vegetation</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9912518</guid>
+<pubDate>Fri, 07 Aug 2026 10:26:07 +0100</pubDate>
+<georss:point>51.90336 -2.21443320000001</georss:point>
+</item>
+<item>
+<title>The drain is blocked problem, 7th August</title>
+<link>https://www.fixmystreet.com/report/9912493</link>
+<description>smelling drain (stated water drain) once was blocked due to someone/resident pouring liquids into it. &#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9912493&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>The drain is blocked</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9912493</guid>
+<pubDate>Fri, 07 Aug 2026 10:10:25 +0100</pubDate>
+<georss:point>51.900075 -2.06633</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Vegetation problem, 7th August</title>
+<link>https://www.fixmystreet.com/report/9912498</link>
+<description>Remove Basil growth from tree for visibility at Bus Stop 2mtrs&amp;#10;Give and take TM &amp;#10;Outside CEX (Overgrown Hedge)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9912498&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Vegetation</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9912498</guid>
+<pubDate>Fri, 07 Aug 2026 10:06:11 +0100</pubDate>
+<georss:point>51.9012412 -2.07363910000001</georss:point>
+</item>
+<item>
+<title>Tree is damaged problem, 7th August</title>
+<link>https://www.fixmystreet.com/report/9912278</link>
+<description>Email received 06/08/2026 - copy attached. Customer reports that a large tree branch has snapped at the location and is in danger of falling on a pedestrian.&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9912278&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Tree is damaged</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9912278</guid>
+<pubDate>Fri, 07 Aug 2026 09:45:29 +0100</pubDate>
+<georss:point>51.91688 -2.083331</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 7th August</title>
+<link>https://www.fixmystreet.com/report/9912083</link>
+<description>FW abrupt level difference 600mm x 200mm x 22mm&amp;#10;Give and take TM &amp;#10;Outside The Tivoli (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9912083&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9912083</guid>
+<pubDate>Fri, 07 Aug 2026 09:19:24 +0100</pubDate>
+<georss:point>51.8922435 -2.0864582</georss:point>
+</item>
+<item>
+<title>TMC - Defects -FW6 Potholes problem, 7th August</title>
+<link>https://www.fixmystreet.com/report/9911868</link>
+<description>FW Pothole 400mm x 400mm x 31mm &amp;#10;Give and take TM &amp;#10;Outside Popeyes (FW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9911868&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -FW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9911868</guid>
+<pubDate>Fri, 07 Aug 2026 08:59:03 +0100</pubDate>
+<georss:point>51.8978694 -2.09886149999998</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 7th August</title>
+<link>https://www.fixmystreet.com/report/9911866</link>
+<description>CW Pothole 400mm x 300mm x 43mm &amp;#10;Stop and go TM &amp;#10;Outside number 63 (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9911866&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9911866</guid>
+<pubDate>Fri, 07 Aug 2026 08:58:54 +0100</pubDate>
+<georss:point>51.8967221285489 -2.09827093779072</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 7th August</title>
+<link>https://www.fixmystreet.com/report/9911865</link>
+<description>CW Pothole 500mm x 300mm x 42mm &amp;#10;1 x NSD &amp;#10;Temporary Closure 15min db &amp;#10;Outside number 63 (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9911865&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9911865</guid>
+<pubDate>Fri, 07 Aug 2026 08:58:54 +0100</pubDate>
+<georss:point>51.8967905612515 -2.09836572425969</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 7th August</title>
+<link>https://www.fixmystreet.com/report/9911867</link>
+<description>CW Pothole 600mm x 300mm x 44mm &amp;#10;Temporary Closure 15min db &amp;#10;Outside number 63 (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9911867&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9911867</guid>
+<pubDate>Fri, 07 Aug 2026 08:58:54 +0100</pubDate>
+<georss:point>51.8967362491379 -2.09826712488943</georss:point>
+</item>
+<item>
 <title>A40 overnight roadworks diversion through village, 7th August</title>
 <link>https://www.fixmystreet.com/report/9911772</link>
 <description>From A40 through Shipton oliffe in both directions. Cars and lorries drive through village all night. Damage to infrastructure, weak bridges, fencing, narrow lanes, damage to cars and vehicle debris through village, damage to trees and verges. Lorries getting stuck in narrow lanes waling up households to move cars at 4am because lorry ignored signage. Suggest A40 closed from Pike House turning so traffic can proceed along this road rather than A40 junction with Bees Lane. Suggest roadwork employees actually stop traffic from coming into village&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Shipton, Cotswold&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9911772&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
@@ -24,6 +105,15 @@
 <georss:point>51.866095 -1.94655</georss:point>
 </item>
 <item>
+<title>Other issue with a footway/pavement problem, 7th August</title>
+<link>https://www.fixmystreet.com/report/9912074</link>
+<description>PERM&amp;#10;&amp;#10;A 2hr job was raised for a smashed BT cover yesterday on someone&amp;#39;s drive. A gang was sent out to make the area safe with a foot board to allow the homeowners to be able to leave their drive. Could a section 81 please be raised as a priority for the Job please? There are other works in the area and HGVs are constantly driving on the pavement, and due to the damage it is an isssue for the homeowner.&amp;#10;&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9912074&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Other issue with a footway/pavement</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9912074</guid>
+<pubDate>Fri, 07 Aug 2026 08:34:51 +0100</pubDate>
+<georss:point>51.89053 -2.183155</georss:point>
+</item>
+<item>
 <title>Broken glass in community area, 7th August</title>
 <link>https://www.fixmystreet.com/report/9911680</link>
 <description>Several broken bottles spread across area where walkers and dogs will frequently travel through.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9911680.0.jpeg?050b79fb&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Gotherington Lane, Bishop&#39;s Cleeve, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9911680&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
@@ -31,6 +121,15 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/9911680</guid>
 <pubDate>Fri, 07 Aug 2026 08:33:21 +0100</pubDate>
 <georss:point>51.954252 -2.054504</georss:point>
+</item>
+<item>
+<title>The drain is blocked problem, 7th August</title>
+<link>https://www.fixmystreet.com/report/9911838</link>
+<description>Blocked street drain &#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9911838&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>The drain is blocked</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9911838</guid>
+<pubDate>Fri, 07 Aug 2026 08:30:56 +0100</pubDate>
+<georss:point>51.897986 -2.065934</georss:point>
 </item>
 <item>
 <title>Tree is damaged problem, 7th August</title>
@@ -94,105 +193,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/9909861</guid>
 <pubDate>Thu, 06 Aug 2026 17:43:22 +0100</pubDate>
 <georss:point>51.908616 -2.072509</georss:point>
-</item>
-<item>
-<title>Tree blocking view of eastbound left hand traffic lights, 6th August</title>
-<link>https://www.fixmystreet.com/report/9909613</link>
-<description>Branch is covered the view of the traffic lights on approach&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Tewkesbury Road, Kingsditch, Cheltenham, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9909613&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Tree blocking visibility on road/junction</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9909613</guid>
-<pubDate>Thu, 06 Aug 2026 16:54:16 +0100</pubDate>
-<georss:point>51.913396 -2.098872</georss:point>
-</item>
-<item>
-<title>Electric wheelchair user at the address cannot get chair up independently., 6th August</title>
-<link>https://www.fixmystreet.com/report/9909482</link>
-<description>Outside No7 the lowered kerb prevents the tennant at the address from accessing house to car without assistance. She cannot get up from the passage access to the pavement to access her house. When doing so independently she has nearly come out of her chair. The height of the edging lip is at least 1” and in places an 1.5”. Lip needs to be lowered or passage access section raised leading to the pavement lip.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9909482.0.jpeg?731c00db&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Blackbird Avenue, Innsworth, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9909482&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Other damage to pavement i.e. cobbles, raised mound/surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9909482</guid>
-<pubDate>Thu, 06 Aug 2026 16:30:37 +0100</pubDate>
-<georss:point>51.887158 -2.207254</georss:point>
-</item>
-<item>
-<title>Growth at base of trees affecting visibility outside 57 Albert Road, 6th August</title>
-<link>https://www.fixmystreet.com/report/9909456</link>
-<description>Please respond to Mr Clark at 57 Albert Road&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9909456.0.jpeg?0e1b3353&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 63, Albert Road, Marle Hill, Cheltenham, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9909456&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Trees</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9909456</guid>
-<pubDate>Thu, 06 Aug 2026 16:23:18 +0100</pubDate>
-<georss:point>51.909387 -2.0655</georss:point>
-</item>
-<item>
-<title>GL3 3RP at the junction of Appleton Way and Green Lane Hucclecote, 6th August</title>
-<link>https://www.fixmystreet.com/report/9909372</link>
-<description>A large swivel office chair has been left on the grass verge. It appeared yesterday afternoon Wednesday 5th August.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Green Lane, Hucclecote, Gloucester&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9909372&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Flytipping (not witnessed and no evidence likely)</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9909372</guid>
-<pubDate>Thu, 06 Aug 2026 16:08:15 +0100</pubDate>
-<georss:point>51.850025 -2.187241</georss:point>
-</item>
-<item>
-<title>The drain is blocked problem, 6th August</title>
-<link>https://www.fixmystreet.com/report/9909489</link>
-<description>cleaning vehicle arrived today to flush out all the drains on the estate. For some reason my drain did not qualify to be cleaned because it wasn’t ‘on the map’. Despite it being cleaned before, despite living here since 1989, despite the lorry parking next to the drain,&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9909489&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>The drain is blocked</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9909489</guid>
-<pubDate>Thu, 06 Aug 2026 16:06:37 +0100</pubDate>
-<georss:point>51.882014 -2.104766</georss:point>
-</item>
-<item>
-<title>Fallen branch, 6th August</title>
-<link>https://www.fixmystreet.com/report/9909010</link>
-<description>Fallen branch, possible danger to children who play outside.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9909010.0.jpeg?f92bbc08&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 1, Cottage Rake Avenue, Wymans Brook, Cheltenham, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9909010&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Tree causing damage/obstruction to pavement or road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9909010</guid>
-<pubDate>Thu, 06 Aug 2026 15:07:30 +0100</pubDate>
-<georss:point>51.916908 -2.083287</georss:point>
-</item>
-<item>
-<title>TMC - Defects -FW6 Potholes problem, 6th August</title>
-<link>https://www.fixmystreet.com/report/9909150</link>
-<description>Pothole FW &amp;#10;1000x150x20mm approx&amp;#10;Please remove broken and breaking concrete and replace with new concrete&amp;#10;Std TM with temp FW closure &amp;#10;Stats (FW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9909150&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -FW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9909150</guid>
-<pubDate>Thu, 06 Aug 2026 15:04:08 +0100</pubDate>
-<georss:point>51.9046551 -2.08899759999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Covers, Gratings &amp; Frames problem, 6th August</title>
-<link>https://www.fixmystreet.com/report/9908776</link>
-<description>Sunken cover&amp;#10;Please lift, rebuild and re set&amp;#10;2 way lights &amp;#10;900x600mm approx (Broken Chamber Cover/Frame)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9908776&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Covers, Gratings &amp; Frames</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9908776</guid>
-<pubDate>Thu, 06 Aug 2026 14:07:23 +0100</pubDate>
-<georss:point>51.9217606 -2.09028239999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 6th August</title>
-<link>https://www.fixmystreet.com/report/9908775</link>
-<description>Abrupt level difference FW&amp;#10;1200x300x25mm approx&amp;#10;Std TM with temp FW closure &amp;#10;Stats (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9908775&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9908775</guid>
-<pubDate>Thu, 06 Aug 2026 14:05:06 +0100</pubDate>
-<georss:point>51.9195948 -2.0881388</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 6th August</title>
-<link>https://www.fixmystreet.com/report/9908489</link>
-<description>Pothole CW around cover&amp;#10;500x400x45mm approx&amp;#10;2 way lights (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9908489&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9908489</guid>
-<pubDate>Thu, 06 Aug 2026 13:31:40 +0100</pubDate>
-<georss:point>51.9144978 -2.09830979999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 6th August</title>
-<link>https://www.fixmystreet.com/report/9908487</link>
-<description>Pothole CW around cover&amp;#10;500x500x45mm approx&amp;#10;2 way lights (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9908487&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9908487</guid>
-<pubDate>Thu, 06 Aug 2026 13:31:40 +0100</pubDate>
-<georss:point>51.9145816 -2.0981305</georss:point>
 </item>
 </channel>
 </rss>
