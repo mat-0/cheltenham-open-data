@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Bus Shelter Glass Roof Broken, 7th August :- [9915888](https://www.fixmystreet.com/report/9915888)
 - This silver birch has been reported on a few occasions and has been inspected without action yet. There are sizeable branches breaking off over the pavement and should one of those hit a passing pedestrian it is likely to cause substantial injury. It is only by good fortune that this has not yet happened, 7th August :- [9915706](https://www.fixmystreet.com/report/9915706)
 - Several slabs of concrete dumped on verge, 7th August :- [9915510](https://www.fixmystreet.com/report/9915510)
 - Perspex is broken, 7th August :- [9915497](https://www.fixmystreet.com/report/9915497)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 7th August :- [9913985](https://www.fixmystreet.com/report/9913985)
 - Bramble bushes overgrown pavement, 7th August :- [9913892](https://www.fixmystreet.com/report/9913892)
 - Overfull Dog Waste Bin, 7th August :- [9913716](https://www.fixmystreet.com/report/9913716)
-- Rubish and fly tipping and a shopping trolley, 7th August :- [9913678](https://www.fixmystreet.com/report/9913678)
 
 <!-- fix_marker ends -->
