@@ -24,8 +24,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 </script>
 
 <!-- news_marker starts -->
-- Fridge collections suspended as tips reach capacity ([1 hours ago](https://www.bbc.co.uk/news/articles/c5y642eyjkeo?at_medium=RSS&at_campaign=rss))
-- Free events for SEND children to enjoy this summer ([9 hours ago](https://www.bbc.co.uk/news/articles/c330m4dm1e2o?at_medium=RSS&at_campaign=rss))
+- Residents next to building site unhappy about dust ([1 hours ago](https://www.bbc.co.uk/news/articles/c171x015ydro?at_medium=RSS&at_campaign=rss))
+- Fridge collections suspended as tips reach capacity ([2 hours ago](https://www.bbc.co.uk/news/articles/c5y642eyjkeo?at_medium=RSS&at_campaign=rss))
+- Free events for SEND children to enjoy this summer ([11 hours ago](https://www.bbc.co.uk/news/articles/c330m4dm1e2o?at_medium=RSS&at_campaign=rss))
 - Gloucestershire council starts new housing plan ([1 days ago](https://www.bbc.co.uk/news/articles/cx2md628gj6o?at_medium=RSS&at_campaign=rss))
 - Police chief to retire after 36 years in service ([1 days ago](https://www.bbc.co.uk/news/articles/cj4kqgdkdjqo?at_medium=RSS&at_campaign=rss))
 - US bomber noise concerns for new Cotswold village ([1 days ago](https://www.bbc.co.uk/news/articles/cdj08y8lnlpo?at_medium=RSS&at_campaign=rss))
@@ -39,7 +40,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Betty, 97, breaks record for oldest wingwalker ([2 days ago](https://www.bbc.co.uk/news/articles/c4g6pdem336o?at_medium=RSS&at_campaign=rss))
 - Man in his 70s dies in 'large fire' in Cotswolds ([2 days ago](https://www.bbc.co.uk/news/articles/c1l1q7rdvvzo?at_medium=RSS&at_campaign=rss))
 - Pair who let dog starve to death are sentenced ([3 days ago](https://www.bbc.co.uk/news/articles/cd9wkzn777vo?at_medium=RSS&at_campaign=rss))
-- Organisers announce new addition to popular event ([3 days ago](https://www.bbc.co.uk/news/articles/cevm1ykpgzeo?at_medium=RSS&at_campaign=rss))
 - How hot weather is changing camping holidays ([3 days ago](https://www.bbc.co.uk/news/articles/c9d80ep8938o?at_medium=RSS&at_campaign=rss))
 
 <!-- news_marker ends -->
