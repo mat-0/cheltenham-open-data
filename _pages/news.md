@@ -24,10 +24,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 </script>
 
 <!-- news_marker starts -->
-- Gloucestershire council starts new housing plan ([10 hours ago](https://www.bbc.co.uk/news/articles/cx2md628gj6o?at_medium=RSS&at_campaign=rss))
-- Police chief to retire after 36 years in service ([11 hours ago](https://www.bbc.co.uk/news/articles/cj4kqgdkdjqo?at_medium=RSS&at_campaign=rss))
-- US bomber noise concerns for new Cotswold village ([19 hours ago](https://www.bbc.co.uk/news/articles/cdj08y8lnlpo?at_medium=RSS&at_campaign=rss))
-- Unique Brigitte Bardot velvet coat to be auctioned ([19 hours ago](https://www.bbc.co.uk/news/articles/cvgj92gvmd0o?at_medium=RSS&at_campaign=rss))
+- Gloucestershire council starts new housing plan ([13 hours ago](https://www.bbc.co.uk/news/articles/cx2md628gj6o?at_medium=RSS&at_campaign=rss))
+- Police chief to retire after 36 years in service ([14 hours ago](https://www.bbc.co.uk/news/articles/cj4kqgdkdjqo?at_medium=RSS&at_campaign=rss))
+- US bomber noise concerns for new Cotswold village ([22 hours ago](https://www.bbc.co.uk/news/articles/cdj08y8lnlpo?at_medium=RSS&at_campaign=rss))
+- Unique Brigitte Bardot velvet coat to be auctioned ([22 hours ago](https://www.bbc.co.uk/news/articles/cvgj92gvmd0o?at_medium=RSS&at_campaign=rss))
 - More biker gang members sentenced over rival attack ([1 days ago](https://www.bbc.co.uk/news/articles/c36dz7znk6yo?at_medium=RSS&at_campaign=rss))
 - Watch: Bike gang jailed for attack on rival ([1 days ago](https://www.bbc.co.uk/news/videos/cg5l0zq3n54o?at_medium=RSS&at_campaign=rss))
 - The teenager sprinting for GB two years after taking up the sport ([1 days ago](https://www.bbc.co.uk/sport/athletics/articles/c7vgmeme8vdo?at_medium=RSS&at_campaign=rss))
