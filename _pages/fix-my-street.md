@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- A40 overnight roadworks diversion through village, 7th August :- [9911772](https://www.fixmystreet.com/report/9911772)
+- Broken glass in community area, 7th August :- [9911680](https://www.fixmystreet.com/report/9911680)
+- Tree is damaged problem, 7th August :- [9911657](https://www.fixmystreet.com/report/9911657)
 - Road is falling apart, 6th August :- [9910957](https://www.fixmystreet.com/report/9910957)
 - Dump of drug paraphernalia, 6th August :- [9910838](https://www.fixmystreet.com/report/9910838)
 - Timetable covered, 6th August :- [9910799](https://www.fixmystreet.com/report/9910799)
@@ -25,9 +28,6 @@ permalink: /fix-my-street
 - TMC - Defects - Covers, Gratings & Frames problem, 6th August :- [9908776](https://www.fixmystreet.com/report/9908776)
 - TMC - Defects - Other FW6  Surface problem, 6th August :- [9908775](https://www.fixmystreet.com/report/9908775)
 - TMC - Defects -CW6 Potholes  problem, 6th August :- [9908489](https://www.fixmystreet.com/report/9908489)
-- TMC - Defects -CW6 Potholes  problem, 6th August :- [9908490](https://www.fixmystreet.com/report/9908490)
 - TMC - Defects -CW6 Potholes  problem, 6th August :- [9908487](https://www.fixmystreet.com/report/9908487)
-- TMC - Defects -CW6 Potholes  problem, 6th August :- [9908491](https://www.fixmystreet.com/report/9908491)
-- TMC - Defects -CW6 Potholes  problem, 6th August :- [9908488](https://www.fixmystreet.com/report/9908488)
 
 <!-- fix_marker ends -->
