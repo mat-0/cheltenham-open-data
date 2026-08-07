@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Vegetation problem, 7th August :- [9913460](https://www.fixmystreet.com/report/9913460)
+- TMC - Defects - Vegetation problem, 7th August :- [9913459](https://www.fixmystreet.com/report/9913459)
+- Big dip in the road, 7th August :- [9913400](https://www.fixmystreet.com/report/9913400)
+- Dead deer, 7th August :- [9913335](https://www.fixmystreet.com/report/9913335)
+- Non-illuminated sign problem, 7th August :- [9912975](https://www.fixmystreet.com/report/9912975)
+- TMC - Defects - Vegetation problem, 7th August :- [9912992](https://www.fixmystreet.com/report/9912992)
 - TMC - Defects - Vegetation problem, 7th August :- [9912518](https://www.fixmystreet.com/report/9912518)
 - The drain is blocked problem, 7th August :- [9912493](https://www.fixmystreet.com/report/9912493)
 - TMC - Defects - Vegetation problem, 7th August :- [9912498](https://www.fixmystreet.com/report/9912498)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Broken glass in community area, 7th August :- [9911680](https://www.fixmystreet.com/report/9911680)
 - The drain is blocked problem, 7th August :- [9911838](https://www.fixmystreet.com/report/9911838)
 - Tree is damaged problem, 7th August :- [9911657](https://www.fixmystreet.com/report/9911657)
-- Road is falling apart, 6th August :- [9910957](https://www.fixmystreet.com/report/9910957)
-- Dump of drug paraphernalia, 6th August :- [9910838](https://www.fixmystreet.com/report/9910838)
-- Timetable covered, 6th August :- [9910799](https://www.fixmystreet.com/report/9910799)
-- Pedestrian crossing lights next to Bath roads, 6th August :- [9910771](https://www.fixmystreet.com/report/9910771)
-- Dangerously wide pothole close to blind junction, 6th August :- [9910614](https://www.fixmystreet.com/report/9910614)
-- Flytipping, 6th August :- [9909861](https://www.fixmystreet.com/report/9909861)
 
 <!-- fix_marker ends -->

@@ -24,9 +24,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 </script>
 
 <!-- news_marker starts -->
-- Free events for SEND children to enjoy this summer ([5 hours ago](https://www.bbc.co.uk/news/articles/c330m4dm1e2o?at_medium=RSS&at_campaign=rss))
-- Gloucestershire council starts new housing plan ([19 hours ago](https://www.bbc.co.uk/news/articles/cx2md628gj6o?at_medium=RSS&at_campaign=rss))
-- Police chief to retire after 36 years in service ([20 hours ago](https://www.bbc.co.uk/news/articles/cj4kqgdkdjqo?at_medium=RSS&at_campaign=rss))
+- Free events for SEND children to enjoy this summer ([7 hours ago](https://www.bbc.co.uk/news/articles/c330m4dm1e2o?at_medium=RSS&at_campaign=rss))
+- Gloucestershire council starts new housing plan ([21 hours ago](https://www.bbc.co.uk/news/articles/cx2md628gj6o?at_medium=RSS&at_campaign=rss))
+- Police chief to retire after 36 years in service ([22 hours ago](https://www.bbc.co.uk/news/articles/cj4kqgdkdjqo?at_medium=RSS&at_campaign=rss))
 - US bomber noise concerns for new Cotswold village ([1 days ago](https://www.bbc.co.uk/news/articles/cdj08y8lnlpo?at_medium=RSS&at_campaign=rss))
 - Unique Brigitte Bardot velvet coat to be auctioned ([1 days ago](https://www.bbc.co.uk/news/articles/cvgj92gvmd0o?at_medium=RSS&at_campaign=rss))
 - More biker gang members sentenced over rival attack ([1 days ago](https://www.bbc.co.uk/news/articles/c36dz7znk6yo?at_medium=RSS&at_campaign=rss))
@@ -38,7 +38,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Betty, 97, breaks record for oldest wingwalker ([2 days ago](https://www.bbc.co.uk/news/articles/c4g6pdem336o?at_medium=RSS&at_campaign=rss))
 - Man in his 70s dies in 'large fire' in Cotswolds ([2 days ago](https://www.bbc.co.uk/news/articles/c1l1q7rdvvzo?at_medium=RSS&at_campaign=rss))
 - Pair who let dog starve to death are sentenced ([2 days ago](https://www.bbc.co.uk/news/articles/cd9wkzn777vo?at_medium=RSS&at_campaign=rss))
-- Organisers announce new addition to popular event ([2 days ago](https://www.bbc.co.uk/news/articles/cevm1ykpgzeo?at_medium=RSS&at_campaign=rss))
+- Organisers announce new addition to popular event ([3 days ago](https://www.bbc.co.uk/news/articles/cevm1ykpgzeo?at_medium=RSS&at_campaign=rss))
 - How hot weather is changing camping holidays ([3 days ago](https://www.bbc.co.uk/news/articles/c9d80ep8938o?at_medium=RSS&at_campaign=rss))
 - Band lose festival spot after travelling with baby ([3 days ago](https://www.bbc.co.uk/news/articles/c8jnrl7xyzro?at_medium=RSS&at_campaign=rss))
 
