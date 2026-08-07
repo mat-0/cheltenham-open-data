@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- This silver birch has been reported on a few occasions and has been inspected without action yet. There are sizeable branches breaking off over the pavement and should one of those hit a passing pedestrian it is likely to cause substantial injury. It is only by good fortune that this has not yet happened, 7th August :- [9915706](https://www.fixmystreet.com/report/9915706)
+- Several slabs of concrete dumped on verge, 7th August :- [9915510](https://www.fixmystreet.com/report/9915510)
+- Perspex is broken, 7th August :- [9915497](https://www.fixmystreet.com/report/9915497)
+- Fly tipped boiler casing and flue pipes, 7th August :- [9915480](https://www.fixmystreet.com/report/9915480)
 - Previously marked as cleared up, 7th August :- [9915312](https://www.fixmystreet.com/report/9915312)
 - 6 inch pothole on pavement, 7th August :- [9915261](https://www.fixmystreet.com/report/9915261)
 - 2x loose kerb stones outside, 7th August :- [9914943](https://www.fixmystreet.com/report/9914943)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Bramble bushes overgrown pavement, 7th August :- [9913892](https://www.fixmystreet.com/report/9913892)
 - Overfull Dog Waste Bin, 7th August :- [9913716](https://www.fixmystreet.com/report/9913716)
 - Rubish and fly tipping and a shopping trolley, 7th August :- [9913678](https://www.fixmystreet.com/report/9913678)
-- Obscured road sign, 7th August :- [9913564](https://www.fixmystreet.com/report/9913564)
-- Fallen tree branch, 7th August :- [9913549](https://www.fixmystreet.com/report/9913549)
-- Flytipped rubbish in front of tree, 7th August :- [9913505](https://www.fixmystreet.com/report/9913505)
-- TMC - Defects - Vegetation problem, 7th August :- [9913460](https://www.fixmystreet.com/report/9913460)
 
 <!-- fix_marker ends -->
