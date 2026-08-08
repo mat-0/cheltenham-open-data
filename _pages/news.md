@@ -24,12 +24,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 </script>
 
 <!-- news_marker starts -->
-- Gloucestershire 2027 elections cancelled ([8 hours ago](https://www.bbc.co.uk/news/articles/cr597r5ppz0o?at_medium=RSS&at_campaign=rss))
-- 'Truly one in a million' animal lover remembered ([9 hours ago](https://www.bbc.co.uk/news/articles/cx2vw9pnewyo?at_medium=RSS&at_campaign=rss))
-- Pledge to ensure sewers can cope with homes plan ([10 hours ago](https://www.bbc.co.uk/news/articles/c78ge43j2vlo?at_medium=RSS&at_campaign=rss))
-- Residents next to building site unhappy about dust ([12 hours ago](https://www.bbc.co.uk/news/articles/c171x015ydro?at_medium=RSS&at_campaign=rss))
-- Fridge collections suspended as tips reach capacity ([13 hours ago](https://www.bbc.co.uk/news/articles/c5y642eyjkeo?at_medium=RSS&at_campaign=rss))
-- Free events for SEND children to enjoy this summer ([22 hours ago](https://www.bbc.co.uk/news/articles/c330m4dm1e2o?at_medium=RSS&at_campaign=rss))
+- Gloucestershire 2027 elections cancelled ([10 hours ago](https://www.bbc.co.uk/news/articles/cr597r5ppz0o?at_medium=RSS&at_campaign=rss))
+- 'Truly one in a million' animal lover remembered ([10 hours ago](https://www.bbc.co.uk/news/articles/cx2vw9pnewyo?at_medium=RSS&at_campaign=rss))
+- Pledge to ensure sewers can cope with homes plan ([11 hours ago](https://www.bbc.co.uk/news/articles/c78ge43j2vlo?at_medium=RSS&at_campaign=rss))
+- Residents next to building site unhappy about dust ([13 hours ago](https://www.bbc.co.uk/news/articles/c171x015ydro?at_medium=RSS&at_campaign=rss))
+- Fridge collections suspended as tips reach capacity ([15 hours ago](https://www.bbc.co.uk/news/articles/c5y642eyjkeo?at_medium=RSS&at_campaign=rss))
+- Free events for SEND children to enjoy this summer ([23 hours ago](https://www.bbc.co.uk/news/articles/c330m4dm1e2o?at_medium=RSS&at_campaign=rss))
 - Gloucestershire council starts new housing plan ([1 days ago](https://www.bbc.co.uk/news/articles/cx2md628gj6o?at_medium=RSS&at_campaign=rss))
 - Police chief to retire after 36 years in service ([1 days ago](https://www.bbc.co.uk/news/articles/cj4kqgdkdjqo?at_medium=RSS&at_campaign=rss))
 - US bomber noise concerns for new Cotswold village ([1 days ago](https://www.bbc.co.uk/news/articles/cdj08y8lnlpo?at_medium=RSS&at_campaign=rss))
