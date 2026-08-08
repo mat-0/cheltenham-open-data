@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Volunteer litter pick bags ready for collection, 8th August :- [9918790](https://www.fixmystreet.com/report/9918790)
 - Traffic lught timing issues, 8th August :- [9918426](https://www.fixmystreet.com/report/9918426)
 - Trolleys partially submerged, 8th August :- [9918080](https://www.fixmystreet.com/report/9918080)
 - Flytipped items, 8th August :- [9918072](https://www.fixmystreet.com/report/9918072)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Large pothole in parking bay on right side of road (if u were facing towards chelt town centre), 8th August :- [9916967](https://www.fixmystreet.com/report/9916967)
 - Birch tree outside 36 kings riag, 8th August :- [9916767](https://www.fixmystreet.com/report/9916767)
 - Speeding cars following new roundabout construction, 8th August :- [9916261](https://www.fixmystreet.com/report/9916261)
-- Cones and bins deliberately blocking roadway, 8th August :- [9916219](https://www.fixmystreet.com/report/9916219)
 
 <!-- fix_marker ends -->

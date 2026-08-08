@@ -24,11 +24,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 </script>
 
 <!-- news_marker starts -->
-- National Trust issue warning after woodland fire ([4 hours ago](https://www.bbc.co.uk/news/articles/cp3r7v9rldro?at_medium=RSS&at_campaign=rss))
-- 'Teens attack shop workers' and 'Tesla crashes into store' ([10 hours ago](https://www.bbc.co.uk/news/articles/ckgdmpedm8zo?at_medium=RSS&at_campaign=rss))
-- The 'cheap Cotswolds' attracting new residents ([10 hours ago](https://www.bbc.co.uk/news/articles/cr5j5vz54vzo?at_medium=RSS&at_campaign=rss))
-- Gloucestershire 2027 elections cancelled ([23 hours ago](https://www.bbc.co.uk/news/articles/cr597r5ppz0o?at_medium=RSS&at_campaign=rss))
-- 'Truly one in a million' animal lover remembered ([23 hours ago](https://www.bbc.co.uk/news/articles/cx2vw9pnewyo?at_medium=RSS&at_campaign=rss))
+- National Trust issue warning after woodland fire ([6 hours ago](https://www.bbc.co.uk/news/articles/cp3r7v9rldro?at_medium=RSS&at_campaign=rss))
+- 'Teens attack shop workers' and 'Tesla crashes into store' ([12 hours ago](https://www.bbc.co.uk/news/articles/ckgdmpedm8zo?at_medium=RSS&at_campaign=rss))
+- The 'cheap Cotswolds' attracting new residents ([13 hours ago](https://www.bbc.co.uk/news/articles/cr5j5vz54vzo?at_medium=RSS&at_campaign=rss))
+- Gloucestershire 2027 elections cancelled ([1 days ago](https://www.bbc.co.uk/news/articles/cr597r5ppz0o?at_medium=RSS&at_campaign=rss))
+- 'Truly one in a million' animal lover remembered ([1 days ago](https://www.bbc.co.uk/news/articles/cx2vw9pnewyo?at_medium=RSS&at_campaign=rss))
 - Pledge to ensure sewers can cope with homes plan ([1 days ago](https://www.bbc.co.uk/news/articles/c78ge43j2vlo?at_medium=RSS&at_campaign=rss))
 - Residents next to building site unhappy about dust ([1 days ago](https://www.bbc.co.uk/news/articles/c171x015ydro?at_medium=RSS&at_campaign=rss))
 - Fridge collections suspended as tips reach capacity ([1 days ago](https://www.bbc.co.uk/news/articles/c5y642eyjkeo?at_medium=RSS&at_campaign=rss))
@@ -54,7 +54,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Council revokes licence appeal for Hackney carriage driver ([23 days ago](https://gloucesternewscentre.co.uk/council-revokes-licence-appeal-for-hackney-carriage-driver/))
 - Gloucestershire’s councils will be replaced by one new unitary authority ([23 days ago](https://gloucesternewscentre.co.uk/gloucestershires-councils-will-be-replaced-by-one-new-unitary-authority/))
 - Man arrested following stabbing in Cheltenham ([23 days ago](https://gloucesternewscentre.co.uk/man-arrested-following-stabbing-in-cheltenham/))
-- Plans for 20mph speed limits defended ([28 days ago](https://gloucesternewscentre.co.uk/plans-for-20mph-speed-limits-defended/))
+- Plans for 20mph speed limits defended ([29 days ago](https://gloucesternewscentre.co.uk/plans-for-20mph-speed-limits-defended/))
 - Calls for funding commitment for M5 junction revamp ([29 days ago](https://gloucesternewscentre.co.uk/calls-for-funding-commitment-for-m5-junction-revamp/))
 
 <!-- news_marker ends -->
