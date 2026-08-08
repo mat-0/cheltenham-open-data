@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipped tyres, 8th August :- [9917202](https://www.fixmystreet.com/report/9917202)
+- Branches concern - overhanging branches could damage cars, properties and internet lines, 8th August :- [9917199](https://www.fixmystreet.com/report/9917199)
+- Flytipped items, 8th August :- [9917194](https://www.fixmystreet.com/report/9917194)
+- Verge has been cleared leaving a gap from the footpath onto a main road with limited visibility. Big safely issue, 8th August :- [9917117](https://www.fixmystreet.com/report/9917117)
+- Large pothole in parking bay on right side of road (if u were facing towards chelt town centre), 8th August :- [9916967](https://www.fixmystreet.com/report/9916967)
 - Birch tree outside 36 kings riag, 8th August :- [9916767](https://www.fixmystreet.com/report/9916767)
 - Speeding cars following new roundabout construction, 8th August :- [9916261](https://www.fixmystreet.com/report/9916261)
 - Cones and bins deliberately blocking roadway, 8th August :- [9916219](https://www.fixmystreet.com/report/9916219)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Series of golf ball size deep potholes, 7th August :- [9914752](https://www.fixmystreet.com/report/9914752)
 - Vegetation obscuring view and scratching passing vehicles, 7th August :- [9914745](https://www.fixmystreet.com/report/9914745)
 - Traffic lights are turning to pedestrian crossing (ie both traffic lights on red) on every other change, even though the pedestrian button had not been pushed., 7th August :- [9914561](https://www.fixmystreet.com/report/9914561)
-- Tree is damaged problem, 7th August :- [9914396](https://www.fixmystreet.com/report/9914396)
-- Subsidence in the road at mauds elm, 7th August :- [9914259](https://www.fixmystreet.com/report/9914259)
-- TMC - Defects - Vegetation problem, 7th August :- [9914398](https://www.fixmystreet.com/report/9914398)
-- Large brambles growing across walk way in many spots along the path, 7th August :- [9913978](https://www.fixmystreet.com/report/9913978)
-- TMC - Defects - Road Markings problem, 7th August :- [9913986](https://www.fixmystreet.com/report/9913986)
 
 <!-- fix_marker ends -->
