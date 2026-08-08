@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Birch tree outside 36 kings riag, 8th August :- [9916767](https://www.fixmystreet.com/report/9916767)
 - Speeding cars following new roundabout construction, 8th August :- [9916261](https://www.fixmystreet.com/report/9916261)
 - Cones and bins deliberately blocking roadway, 8th August :- [9916219](https://www.fixmystreet.com/report/9916219)
 - Whole Road Uneven, 7th August :- [9916065](https://www.fixmystreet.com/report/9916065)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 7th August :- [9914398](https://www.fixmystreet.com/report/9914398)
 - Large brambles growing across walk way in many spots along the path, 7th August :- [9913978](https://www.fixmystreet.com/report/9913978)
 - TMC - Defects - Road Markings problem, 7th August :- [9913986](https://www.fixmystreet.com/report/9913986)
-- TMC - Defects - Road Markings problem, 7th August :- [9913987](https://www.fixmystreet.com/report/9913987)
 
 <!-- fix_marker ends -->

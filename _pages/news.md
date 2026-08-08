@@ -24,13 +24,13 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 </script>
 
 <!-- news_marker starts -->
-- 'Teens attack shop workers' and 'Tesla crashes into store' ([1 hours ago](https://www.bbc.co.uk/news/articles/ckgdmpedm8zo?at_medium=RSS&at_campaign=rss))
-- The 'cheap Cotswolds' attracting new residents ([1 hours ago](https://www.bbc.co.uk/news/articles/cr5j5vz54vzo?at_medium=RSS&at_campaign=rss))
-- Gloucestershire 2027 elections cancelled ([13 hours ago](https://www.bbc.co.uk/news/articles/cr597r5ppz0o?at_medium=RSS&at_campaign=rss))
-- 'Truly one in a million' animal lover remembered ([13 hours ago](https://www.bbc.co.uk/news/articles/cx2vw9pnewyo?at_medium=RSS&at_campaign=rss))
-- Pledge to ensure sewers can cope with homes plan ([15 hours ago](https://www.bbc.co.uk/news/articles/c78ge43j2vlo?at_medium=RSS&at_campaign=rss))
-- Residents next to building site unhappy about dust ([17 hours ago](https://www.bbc.co.uk/news/articles/c171x015ydro?at_medium=RSS&at_campaign=rss))
-- Fridge collections suspended as tips reach capacity ([18 hours ago](https://www.bbc.co.uk/news/articles/c5y642eyjkeo?at_medium=RSS&at_campaign=rss))
+- 'Teens attack shop workers' and 'Tesla crashes into store' ([3 hours ago](https://www.bbc.co.uk/news/articles/ckgdmpedm8zo?at_medium=RSS&at_campaign=rss))
+- The 'cheap Cotswolds' attracting new residents ([3 hours ago](https://www.bbc.co.uk/news/articles/cr5j5vz54vzo?at_medium=RSS&at_campaign=rss))
+- Gloucestershire 2027 elections cancelled ([15 hours ago](https://www.bbc.co.uk/news/articles/cr597r5ppz0o?at_medium=RSS&at_campaign=rss))
+- 'Truly one in a million' animal lover remembered ([15 hours ago](https://www.bbc.co.uk/news/articles/cx2vw9pnewyo?at_medium=RSS&at_campaign=rss))
+- Pledge to ensure sewers can cope with homes plan ([16 hours ago](https://www.bbc.co.uk/news/articles/c78ge43j2vlo?at_medium=RSS&at_campaign=rss))
+- Residents next to building site unhappy about dust ([19 hours ago](https://www.bbc.co.uk/news/articles/c171x015ydro?at_medium=RSS&at_campaign=rss))
+- Fridge collections suspended as tips reach capacity ([20 hours ago](https://www.bbc.co.uk/news/articles/c5y642eyjkeo?at_medium=RSS&at_campaign=rss))
 - Free events for SEND children to enjoy this summer ([1 days ago](https://www.bbc.co.uk/news/articles/c330m4dm1e2o?at_medium=RSS&at_campaign=rss))
 - Gloucestershire council starts new housing plan ([1 days ago](https://www.bbc.co.uk/news/articles/cx2md628gj6o?at_medium=RSS&at_campaign=rss))
 - Police chief to retire after 36 years in service ([1 days ago](https://www.bbc.co.uk/news/articles/cj4kqgdkdjqo?at_medium=RSS&at_campaign=rss))
