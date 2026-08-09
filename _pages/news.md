@@ -24,9 +24,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 </script>
 
 <!-- news_marker starts -->
-- Travel warning as railway closes for safety repairs ([9 hours ago](https://www.bbc.co.uk/news/articles/cx2kld76ypko?at_medium=RSS&at_campaign=rss))
-- In Pictures: Wing-walking, waterspouts and the Proms ([14 hours ago](https://www.bbc.co.uk/news/articles/cvg0rzjwpr9o?at_medium=RSS&at_campaign=rss))
-- Woman hopes MS drug could help her walk ([14 hours ago](https://www.bbc.co.uk/news/articles/c4g63dl2l47o?at_medium=RSS&at_campaign=rss))
+- Travel warning as railway closes for safety repairs ([11 hours ago](https://www.bbc.co.uk/news/articles/cx2kld76ypko?at_medium=RSS&at_campaign=rss))
+- In Pictures: Wing-walking, waterspouts and the Proms ([16 hours ago](https://www.bbc.co.uk/news/articles/cvg0rzjwpr9o?at_medium=RSS&at_campaign=rss))
+- Woman hopes MS drug could help her walk ([16 hours ago](https://www.bbc.co.uk/news/articles/c4g63dl2l47o?at_medium=RSS&at_campaign=rss))
 - National Trust issue warning after woodland fire ([1 days ago](https://www.bbc.co.uk/news/articles/cp3r7v9rldro?at_medium=RSS&at_campaign=rss))
 - 'Teens attack shop workers' and 'Tesla crashes into store' ([1 days ago](https://www.bbc.co.uk/news/articles/ckgdmpedm8zo?at_medium=RSS&at_campaign=rss))
 - The 'cheap Cotswolds' attracting new residents ([1 days ago](https://www.bbc.co.uk/news/articles/cr5j5vz54vzo?at_medium=RSS&at_campaign=rss))
@@ -41,9 +41,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - US bomber noise concerns for new Cotswold village ([3 days ago](https://www.bbc.co.uk/news/articles/cdj08y8lnlpo?at_medium=RSS&at_campaign=rss))
 - Unique Brigitte Bardot velvet coat to be auctioned ([3 days ago](https://www.bbc.co.uk/news/articles/cvgj92gvmd0o?at_medium=RSS&at_campaign=rss))
 - Watch: Bike gang jailed for attack on rival ([4 days ago](https://www.bbc.co.uk/news/videos/cg5l0zq3n54o?at_medium=RSS&at_campaign=rss))
-- Concerns town looks ‘neglected’ ([8 days ago](https://gloucesternewscentre.co.uk/concerns-town-looks-neglected/))
-- Windows of Cav House to display artwork ([8 days ago](https://gloucesternewscentre.co.uk/windows-of-cav-house-to-display-artwork/))
-- Questions over Municipal Offices sale ([8 days ago](https://gloucesternewscentre.co.uk/questions-over-municipal-offices-sale/))
+- Concerns town looks ‘neglected’ ([9 days ago](https://gloucesternewscentre.co.uk/concerns-town-looks-neglected/))
+- Windows of Cav House to display artwork ([9 days ago](https://gloucesternewscentre.co.uk/windows-of-cav-house-to-display-artwork/))
+- Questions over Municipal Offices sale ([9 days ago](https://gloucesternewscentre.co.uk/questions-over-municipal-offices-sale/))
 - Man charged in connection with stabbing in Cheltenham ([23 days ago](https://gloucesternewscentre.co.uk/man-charged-in-connection-with-stabbing-in-cheltenham/))
 - Builders served notice over Cheltenham dust ([23 days ago](https://gloucesternewscentre.co.uk/builders-served-notice-over-cheltenham-dust/))
 - Three people sentenced for controlling prostitution ([23 days ago](https://gloucesternewscentre.co.uk/three-people-sentenced-for-controlling-prostitution/))
