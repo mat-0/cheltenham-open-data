@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Sunday, 09 August 2026
 
-- The average temperature today is 14.97˚C,
-- With highs of 17.06˚C and lows of 13.71˚C,
-- It may feel like 14.3˚C with scattered clouds
-- The wind speed is 2.36m/s and visibility is 10000m
-- The pressure is 1013hPa and humidity is 68%
+- The average temperature today is 12.75˚C,
+- With highs of 15.4˚C and lows of 12.51˚C,
+- It may feel like 12.04˚C with scattered clouds
+- The wind speed is 1.75m/s and visibility is 10000m
+- The pressure is 1012hPa and humidity is 75%
 - The sun will rise at 04:42 and set at 19:45
 
 <!-- weather_marker ends -->
