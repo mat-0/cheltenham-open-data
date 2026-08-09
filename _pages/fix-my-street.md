@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large deep potholes continually filled in inadequately, 9th August :- [9922412](https://www.fixmystreet.com/report/9922412)
+- Water leak, 9th August :- [9922284](https://www.fixmystreet.com/report/9922284)
+- Fly tipping outside house, 9th August :- [9922200](https://www.fixmystreet.com/report/9922200)
 - 17inch wide pot hole just after high cross manor entrance., 9th August :- [9921979](https://www.fixmystreet.com/report/9921979)
 - Very Dangerous Tall Ash Tree !, 9th August :- [9921934](https://www.fixmystreet.com/report/9921934)
 - Pothole in the road problem, 9th August :- [9921865](https://www.fixmystreet.com/report/9921865)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Traffic lught timing issues, 8th August :- [9918426](https://www.fixmystreet.com/report/9918426)
 - Trolleys partially submerged, 8th August :- [9918080](https://www.fixmystreet.com/report/9918080)
 - Flytipped items, 8th August :- [9918072](https://www.fixmystreet.com/report/9918072)
-- Depression in block paving getting bigger and now the hole has spread over our boundary, 8th August :- [9918050](https://www.fixmystreet.com/report/9918050)
-- Fly Tipping, 8th August :- [9917870](https://www.fixmystreet.com/report/9917870)
-- Quite a few leftover signs and stands from temporary works, 8th August :- [9917775](https://www.fixmystreet.com/report/9917775)
 
 <!-- fix_marker ends -->
