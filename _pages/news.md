@@ -24,9 +24,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 </script>
 
 <!-- news_marker starts -->
-- National Trust issue warning after woodland fire ([12 hours ago](https://www.bbc.co.uk/news/articles/cp3r7v9rldro?at_medium=RSS&at_campaign=rss))
-- 'Teens attack shop workers' and 'Tesla crashes into store' ([19 hours ago](https://www.bbc.co.uk/news/articles/ckgdmpedm8zo?at_medium=RSS&at_campaign=rss))
-- The 'cheap Cotswolds' attracting new residents ([19 hours ago](https://www.bbc.co.uk/news/articles/cr5j5vz54vzo?at_medium=RSS&at_campaign=rss))
+- National Trust issue warning after woodland fire ([14 hours ago](https://www.bbc.co.uk/news/articles/cp3r7v9rldro?at_medium=RSS&at_campaign=rss))
+- 'Teens attack shop workers' and 'Tesla crashes into store' ([21 hours ago](https://www.bbc.co.uk/news/articles/ckgdmpedm8zo?at_medium=RSS&at_campaign=rss))
+- The 'cheap Cotswolds' attracting new residents ([21 hours ago](https://www.bbc.co.uk/news/articles/cr5j5vz54vzo?at_medium=RSS&at_campaign=rss))
 - Gloucestershire 2027 elections cancelled ([1 days ago](https://www.bbc.co.uk/news/articles/cr597r5ppz0o?at_medium=RSS&at_campaign=rss))
 - 'Truly one in a million' animal lover remembered ([1 days ago](https://www.bbc.co.uk/news/articles/cx2vw9pnewyo?at_medium=RSS&at_campaign=rss))
 - Pledge to ensure sewers can cope with homes plan ([1 days ago](https://www.bbc.co.uk/news/articles/c78ge43j2vlo?at_medium=RSS&at_campaign=rss))
