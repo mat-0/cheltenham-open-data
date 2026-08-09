@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Footpath over grown with nettles and brambles. Overhead branches low and are a danger to head eyes etc ., 9th August :- [9920378](https://www.fixmystreet.com/report/9920378)
+- Unclear parking restrictions, 9th August :- [9920314](https://www.fixmystreet.com/report/9920314)
 - Badly surfaced road, many large pot holes, 9th August :- [9919856](https://www.fixmystreet.com/report/9919856)
 - Large pot hole next to the drop kerb for new flats, 9th August :- [9919236](https://www.fixmystreet.com/report/9919236)
 - Hedge grown over footpath, 9th August :- [9919211](https://www.fixmystreet.com/report/9919211)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Tree needs trimming in line with other trees on street, 8th August :- [9917609](https://www.fixmystreet.com/report/9917609)
 - Public footpath overgrown / not maintained, 8th August :- [9917505](https://www.fixmystreet.com/report/9917505)
 - Flytipped tyres, 8th August :- [9917202](https://www.fixmystreet.com/report/9917202)
-- Branches concern - overhanging branches could damage cars, properties and internet lines, 8th August :- [9917199](https://www.fixmystreet.com/report/9917199)
-- Flytipped items, 8th August :- [9917194](https://www.fixmystreet.com/report/9917194)
 
 <!-- fix_marker ends -->
