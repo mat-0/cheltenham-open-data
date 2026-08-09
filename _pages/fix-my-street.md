@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Severely damaged pavement Imperial Square, Cheltenham, 9th August :- [9921464](https://www.fixmystreet.com/report/9921464)
+- Burst water pipe leaking all over road, 9th August :- [9921159](https://www.fixmystreet.com/report/9921159)
 - The triangle turning area where the refuse Lorries usually park is in terrible disrepair. The road is cracked and damaged and is causing damage to my vehicle as I have to use this junction to get onto my driveway. This is the only access for residents of Parton Court Farm., 9th August :- [9920808](https://www.fixmystreet.com/report/9920808)
 - Footpath over grown with nettles and brambles. Overhead branches low and are a danger to head eyes etc ., 9th August :- [9920378](https://www.fixmystreet.com/report/9920378)
 - Unclear parking restrictions, 9th August :- [9920314](https://www.fixmystreet.com/report/9920314)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - I can no longet find the footpath, 8th August :- [9917731](https://www.fixmystreet.com/report/9917731)
 - Local resident using public footpath unlawfully, 8th August :- [9917733](https://www.fixmystreet.com/report/9917733)
 - Stile not on map, 8th August :- [9917690](https://www.fixmystreet.com/report/9917690)
-- Tree needs trimming in line with other trees on street, 8th August :- [9917609](https://www.fixmystreet.com/report/9917609)
-- Public footpath overgrown / not maintained, 8th August :- [9917505](https://www.fixmystreet.com/report/9917505)
 
 <!-- fix_marker ends -->
