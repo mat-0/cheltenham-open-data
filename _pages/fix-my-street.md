@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 17inch wide pot hole just after high cross manor entrance., 9th August :- [9921979](https://www.fixmystreet.com/report/9921979)
+- Very Dangerous Tall Ash Tree !, 9th August :- [9921934](https://www.fixmystreet.com/report/9921934)
+- Pothole in the road problem, 9th August :- [9921865](https://www.fixmystreet.com/report/9921865)
+- Green ‘strip’ on cycle path lifting, 9th August :- [9921809](https://www.fixmystreet.com/report/9921809)
 - Severely damaged pavement Imperial Square, Cheltenham, 9th August :- [9921464](https://www.fixmystreet.com/report/9921464)
 - Burst water pipe leaking all over road, 9th August :- [9921159](https://www.fixmystreet.com/report/9921159)
 - The triangle turning area where the refuse Lorries usually park is in terrible disrepair. The road is cracked and damaged and is causing damage to my vehicle as I have to use this junction to get onto my driveway. This is the only access for residents of Parton Court Farm., 9th August :- [9920808](https://www.fixmystreet.com/report/9920808)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Depression in block paving getting bigger and now the hole has spread over our boundary, 8th August :- [9918050](https://www.fixmystreet.com/report/9918050)
 - Fly Tipping, 8th August :- [9917870](https://www.fixmystreet.com/report/9917870)
 - Quite a few leftover signs and stands from temporary works, 8th August :- [9917775](https://www.fixmystreet.com/report/9917775)
-- Overgrown weeds on pavement by bus stop, 8th August :- [9917769](https://www.fixmystreet.com/report/9917769)
-- I can no longet find the footpath, 8th August :- [9917731](https://www.fixmystreet.com/report/9917731)
-- Local resident using public footpath unlawfully, 8th August :- [9917733](https://www.fixmystreet.com/report/9917733)
-- Stile not on map, 8th August :- [9917690](https://www.fixmystreet.com/report/9917690)
 
 <!-- fix_marker ends -->
