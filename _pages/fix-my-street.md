@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Badly surfaced road, many large pot holes, 9th August :- [9919856](https://www.fixmystreet.com/report/9919856)
 - Large pot hole next to the drop kerb for new flats, 9th August :- [9919236](https://www.fixmystreet.com/report/9919236)
 - Hedge grown over footpath, 9th August :- [9919211](https://www.fixmystreet.com/report/9919211)
 - Pothole, left hand edging, 8th August :- [9918940](https://www.fixmystreet.com/report/9918940)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Flytipped tyres, 8th August :- [9917202](https://www.fixmystreet.com/report/9917202)
 - Branches concern - overhanging branches could damage cars, properties and internet lines, 8th August :- [9917199](https://www.fixmystreet.com/report/9917199)
 - Flytipped items, 8th August :- [9917194](https://www.fixmystreet.com/report/9917194)
-- Verge has been cleared leaving a gap from the footpath onto a main road with limited visibility. Big safely issue, 8th August :- [9917117](https://www.fixmystreet.com/report/9917117)
 
 <!-- fix_marker ends -->
