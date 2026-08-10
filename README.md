@@ -1,11 +1,16 @@
 
-## Sites
+## Cheltenham Open Data
 
-- [Cheapest Fuel Prices](/fuel-prices)
-- [Fix my street](/fix-my-street)
-- [Flood warnings](/flood-warnings)
-- [Food bank](/food-bank)
-- [Terrorism](/terrorism)
+A site dedicate to the collection and dissemination of local open data in the Cheltenham and Gloucestershire area in the UK.
+
+- Cheapest local fuel prices
+- Local fix-my-street issues
+- Local flood risks
+- Local food bank needs and wants
+- Local news aggregated and updated hourly
+- Local contact numbers and direct links to live train/hospital waiting hours
+- MI5 status tracking
+- Local weather
 
 ## Farmer's Market
 
