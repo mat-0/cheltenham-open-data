@@ -9,6 +9,9 @@ permalink: /cheltenham-fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipped desk chair Brunswick St, 10th August :- [9928710](https://www.fixmystreet.com/report/9928710)
+- Road needs Sweeping - Loose Gravel, 10th August :- [9928700](https://www.fixmystreet.com/report/9928700)
+- Road needs resurfacing under the railway bridge, 10th August :- [9928685](https://www.fixmystreet.com/report/9928685)
 - Weeds in gutters, 10th August :- [9928331](https://www.fixmystreet.com/report/9928331)
 - Overgrown bushes on Hucclecote Road opposite side to Partou entrance, 10th August :- [9928016](https://www.fixmystreet.com/report/9928016)
 - Overgrown vegetation, 10th August :- [9927713](https://www.fixmystreet.com/report/9927713)
@@ -26,8 +29,5 @@ permalink: /cheltenham-fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 10th August :- [9926715](https://www.fixmystreet.com/report/9926715)
 - TMC - Defects -CW6 Potholes  problem, 10th August :- [9926712](https://www.fixmystreet.com/report/9926712)
 - TMC - Defects -CW6 Potholes  problem, 10th August :- [9926709](https://www.fixmystreet.com/report/9926709)
-- TMC - Defects -CW6 Potholes  problem, 10th August :- [9926708](https://www.fixmystreet.com/report/9926708)
-- Electric Charging markings, 10th August :- [9926558](https://www.fixmystreet.com/report/9926558)
-- Signal-controlled pedestrian crossings problem, 10th August :- [9926702](https://www.fixmystreet.com/report/9926702)
 
 <!-- fix_marker ends -->
