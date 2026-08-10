@@ -426,7 +426,7 @@ if __name__ == "__main__":
 
         # HTML table so columns carry data-val attributes for JS sort
         th_cells = "".join(
-            f'<th data-col="{i}">{html.escape(col)}</th>'
+            f'<th scope="col" data-col="{i}">{html.escape(col)}</th>'
             for i, col in enumerate(["Station", "Address"] + fuel_label_cols + ["Last Updated"])
         )
         html_rows = [f'<table id="fuel-table"><thead><tr>{th_cells}</tr></thead><tbody>']
