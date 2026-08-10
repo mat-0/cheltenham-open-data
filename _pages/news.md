@@ -48,15 +48,3 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, Cheltenham BID, Cheltenh
 - Record £59,000 raised as 4,000 flock to Pied Piper car show at Highnam Court ([27 days ago](https://cheltenhampost.co.uk/record-59000-raised-as-4000-flock-to-pied-piper-car-show-at-highnam-court/))
 
 <!-- news_marker ends -->
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7806573467007778"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-gw-3+1f-3d+2z"
-     data-ad-client="ca-pub-7806573467007778"
-     data-ad-slot="1962427275"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
