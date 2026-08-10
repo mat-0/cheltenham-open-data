@@ -1,9 +1,9 @@
 ---
 
 layout: page
-title: Fix My Street
-seo: fix my street reports in Cheltenham
-permalink: /fix-my-street
+title: "Fix My Street Reports for Cheltenham"
+seo: "Fix my street issues and reports in Cheltenham"
+permalink: /cheltenham-fix-my-street
 
 ---
 

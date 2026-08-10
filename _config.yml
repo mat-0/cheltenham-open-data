@@ -1,9 +1,10 @@
 highlighter: rouge
 permalink: ./:title
 title: "Cheltenham Open Data"
-description: "// collecting and disseminating localised open data"
-author: "Mat"
+description: "// collecting and disseminating localised open data for Cheltenham and Gloucestershire"
+author: "thechelsuk"
 url: https://cod.thechels.uk
+icon: "/images/splashscreens/apple-touch-icon-180x180.png"
 copyright: "Cheltenham Open Data - All data is owned by the respective data providers. No liability is accepted for the accuracy of the data."
 encoding: UTF-8
 future: false
@@ -44,15 +45,15 @@ include:
 # Site Navigation
 ## Header
 navigation_header:
-  - name: News
-    link: /news
-  - name: Help
-    link: /helpful
+  - name: Latest News
+    link: /cheltenham-news
+  - name: Helplines and Contacts
+    link: /cheltenham-helpful-contacts-reports
   - name: Cheapest Fuel Prices
-    link: /fuel-prices
+    link: /cheltenham-fuel-prices
   - name: Fix My Street
-    link: /fix-my-street
+    link: /cheltenham-fix-my-street
   - name: Flood Warnings
-    link: /flood-warnings
+    link: /cheltenham-flood-warnings
   - name: Food Bank
-    link: /foodbank
+    link: /cheltenham-foodbank-needed-items

@@ -1,9 +1,9 @@
 ---
 
 layout: page
-title: Food Bank
-seo: food bank needs in Cheltenham
-permalink: /foodbank
+title: "Cheltenham Food Bank Needed Items"
+seo: "food bank needed and wanted items for Cheltenham"
+permalink: /cheltenham-foodbank-needed-items
 
 ---
 

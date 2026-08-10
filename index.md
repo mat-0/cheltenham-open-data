@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Welcome
-seo: Welcome page for Cheltenham, Gloucestershire, UK. Local news, fuel prices, helpful phone numbers and more.
+title: "Welcome"
+seo: "Cheltenham, Gloucestershire, UK. Local news, cheapest fuel prices, weather, street issues helpful phone numbers and more."
 permalink: /
 
 ---
@@ -23,9 +23,9 @@ permalink: /
 ## Sponsors & Offers
 
 - [Get £50 credit when switching to Octopus Energy](https://bit.ly/3oD1nnS)
-- [Get upto £100 cashback when taking a YouFibre broadband plan with code 5QGYSF](https://youfibre.com)
-- [Get £5 free credit when you join the Electrovers](https://electroverse.octopus.energy/sign-up/magic?referralCode=aglow-louse-16571)
-- [Get a £25 Visa card when you install a charger with Octopus](https://tech.referrals.octopus.energy/ulLGI6SC)
+- [Get up to £100 cashback when taking a YouFibre broadband plan with code 5QGYSF](https://youfibre.com)
+- [Get £5 free credit when you join the Electroverse](https://electroverse.octopus.energy/sign-up/magic?referralCode=aglow-louse-16571)
+- [Get a £25 Visa card when you install an EV charger with Octopus](https://tech.referrals.octopus.energy/ulLGI6SC)
 - [Choose a gift card up to £20 when you join Smarty Mobile](https://i.smarty.co.uk/CSj6iK)
 
 _Terms and Conditions apply - see offer for details_
@@ -46,6 +46,6 @@ Given proximity to GCHQ...
 
 - Current Threat Level: SEVERE
 - It has been 102 days since the last change (2026-04-30)
-- Details: <p>The current national threat level is SEVERE. &nbsp;The threat to Northern Ireland from Northern Ireland-related terrorism is SUBSTANTIAL.</p>
+- Details: The current national threat level is SEVERE. &nbsp;The threat to Northern Ireland from Northern Ireland-related terrorism is SUBSTANTIAL.
 
 <!-- threat_marker ends -->

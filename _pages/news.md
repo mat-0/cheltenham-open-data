@@ -1,27 +1,16 @@
 ---
 layout: page
-title: News Feed
-seo: local news feed
-permalink: /news
+title: "Cheltenham News Aggregation"
+seo: "fast Cheltenham local news summary and aggregation"
+permalink: /cheltenham-news
 
 ---
 
-Latest News from a variety of sources. Updates every hour.
+Latest News Aggregation from a variety of sources. Updated every hour.
 _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 
 [Get this page as daily RSS feed](/daily.rss)
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7806573467007778"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-gw-3+1f-3d+2z"
-     data-ad-client="ca-pub-7806573467007778"
-     data-ad-slot="1962427275"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 <!-- news_marker starts -->
 - How much of the eclipse will we see in the West? ([1 hours ago](https://www.bbc.co.uk/news/videos/c3ekx9gz9yvo?at_medium=RSS&at_campaign=rss))
