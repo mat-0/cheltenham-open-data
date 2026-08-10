@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Glass. Dogs beware, 10th August :- [9923019](https://www.fixmystreet.com/report/9923019)
+- Several holes of varying size that are hard to avoid due to parked vehicles. The edge of the hole is sharp and may cause damage to tyres. This has been repaired several times but continues to be a poor repair., 10th August :- [9923001](https://www.fixmystreet.com/report/9923001)
+- Dead ash tree at risk, 10th August :- [9922834](https://www.fixmystreet.com/report/9922834)
+- Rubbish dumped in river Chelt, 10th August :- [9922723](https://www.fixmystreet.com/report/9922723)
 - Large deep potholes continually filled in inadequately, 9th August :- [9922412](https://www.fixmystreet.com/report/9922412)
 - Water leak, 9th August :- [9922284](https://www.fixmystreet.com/report/9922284)
 - Fly tipping outside house, 9th August :- [9922200](https://www.fixmystreet.com/report/9922200)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Large pot hole next to the drop kerb for new flats, 9th August :- [9919236](https://www.fixmystreet.com/report/9919236)
 - Hedge grown over footpath, 9th August :- [9919211](https://www.fixmystreet.com/report/9919211)
 - Pothole, left hand edging, 8th August :- [9918940](https://www.fixmystreet.com/report/9918940)
-- Volunteer litter pick bags ready for collection, 8th August :- [9918790](https://www.fixmystreet.com/report/9918790)
-- Traffic lught timing issues, 8th August :- [9918426](https://www.fixmystreet.com/report/9918426)
-- Trolleys partially submerged, 8th August :- [9918080](https://www.fixmystreet.com/report/9918080)
-- Flytipped items, 8th August :- [9918072](https://www.fixmystreet.com/report/9918072)
 
 <!-- fix_marker ends -->
