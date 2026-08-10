@@ -9,6 +9,10 @@ permalink: /cheltenham-fix-my-street
 
 <!-- fix_marker starts -->
 
+- Mattress dumped, 10th August :- [9928990](https://www.fixmystreet.com/report/9928990)
+- Street light is out, 10th August :- [9928985](https://www.fixmystreet.com/report/9928985)
+- Grass verge requires cutting, 10th August :- [9928963](https://www.fixmystreet.com/report/9928963)
+- Unattached trailer parked on road, 10th August :- [9928954](https://www.fixmystreet.com/report/9928954)
 - Flytipped desk chair Brunswick St, 10th August :- [9928710](https://www.fixmystreet.com/report/9928710)
 - Road needs Sweeping - Loose Gravel, 10th August :- [9928700](https://www.fixmystreet.com/report/9928700)
 - Road needs resurfacing under the railway bridge, 10th August :- [9928685](https://www.fixmystreet.com/report/9928685)
@@ -25,9 +29,5 @@ permalink: /cheltenham-fix-my-street
 - Bin Overflowing with Dog Poo, 10th August :- [9927080](https://www.fixmystreet.com/report/9927080)
 - Pothole in the road problem, 10th August :- [9927185](https://www.fixmystreet.com/report/9927185)
 - Incomplete road markings., 10th August :- [9926792](https://www.fixmystreet.com/report/9926792)
-- TMC - Defects -CW6 Potholes  problem, 10th August :- [9926718](https://www.fixmystreet.com/report/9926718)
-- TMC - Defects -CW6 Potholes  problem, 10th August :- [9926715](https://www.fixmystreet.com/report/9926715)
-- TMC - Defects -CW6 Potholes  problem, 10th August :- [9926712](https://www.fixmystreet.com/report/9926712)
-- TMC - Defects -CW6 Potholes  problem, 10th August :- [9926709](https://www.fixmystreet.com/report/9926709)
 
 <!-- fix_marker ends -->
