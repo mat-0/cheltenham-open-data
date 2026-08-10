@@ -9,6 +9,11 @@ permalink: /cheltenham-fix-my-street
 
 <!-- fix_marker starts -->
 
+- Overgrown vegetation, 10th August :- [9927713](https://www.fixmystreet.com/report/9927713)
+- Broken paving slabs along pathway, 10th August :- [9927637](https://www.fixmystreet.com/report/9927637)
+- Blocked drain, 10th August :- [9927541](https://www.fixmystreet.com/report/9927541)
+- Parking at Greenways, Grey Audi abandoned, 10th August :- [9927318](https://www.fixmystreet.com/report/9927318)
+- Road closed for no reason, 10th August :- [9927305](https://www.fixmystreet.com/report/9927305)
 - Now that Severn Trent are repairing the sewers, would you please confirm that Carlton Street will be resurfaced, long overdue,, 10th August :- [9927246](https://www.fixmystreet.com/report/9927246)
 - Branches obstructing view of traffic signal head, 10th August :- [9927140](https://www.fixmystreet.com/report/9927140)
 - Roofing work - articles being thrown into street, 10th August :- [9927117](https://www.fixmystreet.com/report/9927117)
@@ -24,10 +29,5 @@ permalink: /cheltenham-fix-my-street
 - Signal-controlled pedestrian crossings problem, 10th August :- [9926702](https://www.fixmystreet.com/report/9926702)
 - TMC - Defects -CW10 Potholes problem, 10th August :- [9926446](https://www.fixmystreet.com/report/9926446)
 - TMC - Defects -CW10 Potholes problem, 10th August :- [9926444](https://www.fixmystreet.com/report/9926444)
-- TMC - Defects -CW6 Potholes  problem, 10th August :- [9926434](https://www.fixmystreet.com/report/9926434)
-- TMC - Defects -CW6 Potholes  problem, 10th August :- [9926433](https://www.fixmystreet.com/report/9926433)
-- Car broken down (following accident.), 10th August :- [9926224](https://www.fixmystreet.com/report/9926224)
-- TMC - Defects -CW10 Potholes problem, 10th August :- [9926175](https://www.fixmystreet.com/report/9926175)
-- TMC - Defects -CW10 Potholes problem, 10th August :- [9926176](https://www.fixmystreet.com/report/9926176)
 
 <!-- fix_marker ends -->
