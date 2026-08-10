@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Monday, 10 August 2026
 
-- The average temperature today is 19.14˚C,
-- With highs of 19.97˚C and lows of 18.71˚C,
-- It may feel like 18.6˚C with overcast clouds
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1019hPa and humidity is 57%
+- The average temperature today is 21.86˚C,
+- With highs of 22.61˚C and lows of 21.08˚C,
+- It may feel like 21.35˚C with overcast clouds
+- The wind speed is 1.34m/s and visibility is 10000m
+- The pressure is 1020hPa and humidity is 48%
 - The sun will rise at 04:44 and set at 19:43
 
 <!-- weather_marker ends -->
