@@ -24,9 +24,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 </script>
 
 <!-- news_marker starts -->
-- Overnight firefighter cuts 'potentially deadly' ([1 hours ago](https://www.bbc.co.uk/news/articles/cz97vy2e4w3o?at_medium=RSS&at_campaign=rss))
-- Summer heatwave dulls Cotswold Lavender fields ([1 hours ago](https://www.bbc.co.uk/news/videos/c62eldypq16o?at_medium=RSS&at_campaign=rss))
-- Travel warning as railway closes for safety repairs ([19 hours ago](https://www.bbc.co.uk/news/articles/cx2kld76ypko?at_medium=RSS&at_campaign=rss))
+- Overnight firefighter cuts 'potentially deadly' ([3 hours ago](https://www.bbc.co.uk/news/articles/cz97vy2e4w3o?at_medium=RSS&at_campaign=rss))
+- Summer heatwave dulls Cotswold Lavender fields ([3 hours ago](https://www.bbc.co.uk/news/videos/c62eldypq16o?at_medium=RSS&at_campaign=rss))
+- Travel warning as railway closes for safety repairs ([21 hours ago](https://www.bbc.co.uk/news/articles/cx2kld76ypko?at_medium=RSS&at_campaign=rss))
 - In Pictures: Wing-walking, waterspouts and the Proms ([1 days ago](https://www.bbc.co.uk/news/articles/cvg0rzjwpr9o?at_medium=RSS&at_campaign=rss))
 - Woman hopes MS drug could help her walk ([1 days ago](https://www.bbc.co.uk/news/articles/c4g63dl2l47o?at_medium=RSS&at_campaign=rss))
 - National Trust issue warning after woodland fire ([1 days ago](https://www.bbc.co.uk/news/articles/cp3r7v9rldro?at_medium=RSS&at_campaign=rss))
