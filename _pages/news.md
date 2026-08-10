@@ -24,9 +24,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 </script>
 
 <!-- news_marker starts -->
-- Travel warning as railway closes for safety repairs ([15 hours ago](https://www.bbc.co.uk/news/articles/cx2kld76ypko?at_medium=RSS&at_campaign=rss))
-- In Pictures: Wing-walking, waterspouts and the Proms ([20 hours ago](https://www.bbc.co.uk/news/articles/cvg0rzjwpr9o?at_medium=RSS&at_campaign=rss))
-- Woman hopes MS drug could help her walk ([20 hours ago](https://www.bbc.co.uk/news/articles/c4g63dl2l47o?at_medium=RSS&at_campaign=rss))
+- Travel warning as railway closes for safety repairs ([17 hours ago](https://www.bbc.co.uk/news/articles/cx2kld76ypko?at_medium=RSS&at_campaign=rss))
+- In Pictures: Wing-walking, waterspouts and the Proms ([22 hours ago](https://www.bbc.co.uk/news/articles/cvg0rzjwpr9o?at_medium=RSS&at_campaign=rss))
+- Woman hopes MS drug could help her walk ([22 hours ago](https://www.bbc.co.uk/news/articles/c4g63dl2l47o?at_medium=RSS&at_campaign=rss))
 - National Trust issue warning after woodland fire ([1 days ago](https://www.bbc.co.uk/news/articles/cp3r7v9rldro?at_medium=RSS&at_campaign=rss))
 - 'Teens attack shop workers' and 'Tesla crashes into store' ([1 days ago](https://www.bbc.co.uk/news/articles/ckgdmpedm8zo?at_medium=RSS&at_campaign=rss))
 - The 'cheap Cotswolds' attracting new residents ([1 days ago](https://www.bbc.co.uk/news/articles/cr5j5vz54vzo?at_medium=RSS&at_campaign=rss))
@@ -35,7 +35,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Pledge to ensure sewers can cope with homes plan ([2 days ago](https://www.bbc.co.uk/news/articles/c78ge43j2vlo?at_medium=RSS&at_campaign=rss))
 - Residents next to building site unhappy about dust ([2 days ago](https://www.bbc.co.uk/news/articles/c171x015ydro?at_medium=RSS&at_campaign=rss))
 - Fridge collections suspended as tips reach capacity ([2 days ago](https://www.bbc.co.uk/news/articles/c5y642eyjkeo?at_medium=RSS&at_campaign=rss))
-- Free events for SEND children to enjoy this summer ([2 days ago](https://www.bbc.co.uk/news/articles/c330m4dm1e2o?at_medium=RSS&at_campaign=rss))
+- Free events for SEND children to enjoy this summer ([3 days ago](https://www.bbc.co.uk/news/articles/c330m4dm1e2o?at_medium=RSS&at_campaign=rss))
 - Gloucestershire council starts new housing plan ([3 days ago](https://www.bbc.co.uk/news/articles/cx2md628gj6o?at_medium=RSS&at_campaign=rss))
 - Police chief to retire after 36 years in service ([3 days ago](https://www.bbc.co.uk/news/articles/cj4kqgdkdjqo?at_medium=RSS&at_campaign=rss))
 - US bomber noise concerns for new Cotswold village ([3 days ago](https://www.bbc.co.uk/news/articles/cdj08y8lnlpo?at_medium=RSS&at_campaign=rss))
