@@ -8,6 +8,7 @@ import datetime
 import time
 import sys
 import requests
+from urllib.parse import quote
 
 # Load .env file for local development if present
 _env_file = pathlib.Path(__file__).parent.parent / ".env"
@@ -44,6 +45,15 @@ FUEL_LABELS = {
 
 def fuel_label(code):
     return FUEL_LABELS.get(code, code)
+
+
+def maps_link(address_text, escaped_label):
+    """Wrap an already html-escaped label in a Google Maps search link for the
+    given raw address text. Returns the plain label if there's no address."""
+    if not address_text:
+        return escaped_label
+    url = f"https://www.google.com/maps/search/?api=1&query={quote(address_text)}"
+    return f'<a href="{url}" target="_blank" rel="noopener">{escaped_label}</a>'
 
 
 # -- Auth helpers -------------------------------------------------------------
@@ -404,13 +414,14 @@ if __name__ == "__main__":
         for ft in fuel_type_cols:
             if ft not in cheapest:
                 continue
-            c         = cheapest[ft]
-            name      = html.escape(c["name"])
-            brand     = html.escape(c["brand"]) if c.get("brand") else ""
-            address   = html.escape(c["address"]) if c.get("address") else ""
-            label     = html.escape(fuel_label(ft))
-            brand_str = f" ({brand})" if brand and c["brand"] != c["name"] else ""
-            addr_str  = f", {address}" if address else ""
+            c           = cheapest[ft]
+            name        = html.escape(c["name"])
+            brand       = html.escape(c["brand"]) if c.get("brand") else ""
+            raw_address = c.get("address") or ""
+            address     = maps_link(raw_address, html.escape(raw_address)) if raw_address else ""
+            label       = html.escape(fuel_label(ft))
+            brand_str   = f" ({brand})" if brand and c["brand"] != c["name"] else ""
+            addr_str    = f", {address}" if address else ""
             hero_lines.append(f"<h3>Cheapest {label}: {c['price']:.1f}p/L</h3>")
             hero_lines.append("<ul>")
             hero_lines.append(f"  <li>{name}{brand_str}{addr_str}</li>")
@@ -445,8 +456,12 @@ if __name__ == "__main__":
             ]
             as_of = max(change_dates) if change_dates else (station.get("prices_updated") or "?")
 
+            # data-val keeps the plain lowercased address for sorting; the visible
+            # cell content becomes a Google Maps search link.
+            addr_html = maps_link(addr_col, html.escape(addr_col)) if addr_col else ""
+
             cells  = f'<td data-val="{html.escape(name.lower())}">{html.escape(name)}</td>'
-            cells += f'<td data-val="{html.escape(addr_col.lower())}">{html.escape(addr_col)}</td>'
+            cells += f'<td data-val="{html.escape(addr_col.lower())}">{addr_html}</td>'
             for ft in fuel_type_cols:
                 if ft in price_lookup:
                     pence = price_lookup[ft].get("price")

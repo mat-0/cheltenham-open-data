@@ -176,18 +176,18 @@
     "fuel_prices": [
       {
         "fuel_type": "E10",
-        "price": 152.9,
-        "price_last_updated": "2026-04-25T14:29:35.000Z",
-        "price_change_effective_timestamp": "2026-04-25T14:29:35.000Z"
+        "price": 158.9,
+        "price_last_updated": "2026-07-27T13:07:25.000Z",
+        "price_change_effective_timestamp": "2026-07-27T13:07:25.000Z"
       },
       {
         "fuel_type": "B7_STANDARD",
-        "price": 184.9,
-        "price_last_updated": "2026-04-25T14:29:35.000Z",
-        "price_change_effective_timestamp": "2026-04-25T14:29:35.000Z"
+        "price": 179.9,
+        "price_last_updated": "2026-08-10T14:05:34.000Z",
+        "price_change_effective_timestamp": "2026-08-10T14:05:34.000Z"
       }
     ],
-    "prices_updated": "2026-04-29"
+    "prices_updated": "2026-08-10"
   },
   "2c0eb29d4b6c0a612cef0f15574cf777729f35aff24b61929a1cba6fa2311315": {
     "trading_name": "CINDERFORD",
