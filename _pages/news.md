@@ -24,9 +24,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 </script>
 
 <!-- news_marker starts -->
-- Travel warning as railway closes for safety repairs ([11 hours ago](https://www.bbc.co.uk/news/articles/cx2kld76ypko?at_medium=RSS&at_campaign=rss))
-- In Pictures: Wing-walking, waterspouts and the Proms ([16 hours ago](https://www.bbc.co.uk/news/articles/cvg0rzjwpr9o?at_medium=RSS&at_campaign=rss))
-- Woman hopes MS drug could help her walk ([16 hours ago](https://www.bbc.co.uk/news/articles/c4g63dl2l47o?at_medium=RSS&at_campaign=rss))
+- Travel warning as railway closes for safety repairs ([13 hours ago](https://www.bbc.co.uk/news/articles/cx2kld76ypko?at_medium=RSS&at_campaign=rss))
+- In Pictures: Wing-walking, waterspouts and the Proms ([18 hours ago](https://www.bbc.co.uk/news/articles/cvg0rzjwpr9o?at_medium=RSS&at_campaign=rss))
+- Woman hopes MS drug could help her walk ([18 hours ago](https://www.bbc.co.uk/news/articles/c4g63dl2l47o?at_medium=RSS&at_campaign=rss))
 - National Trust issue warning after woodland fire ([1 days ago](https://www.bbc.co.uk/news/articles/cp3r7v9rldro?at_medium=RSS&at_campaign=rss))
 - 'Teens attack shop workers' and 'Tesla crashes into store' ([1 days ago](https://www.bbc.co.uk/news/articles/ckgdmpedm8zo?at_medium=RSS&at_campaign=rss))
 - The 'cheap Cotswolds' attracting new residents ([1 days ago](https://www.bbc.co.uk/news/articles/cr5j5vz54vzo?at_medium=RSS&at_campaign=rss))
