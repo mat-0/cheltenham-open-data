@@ -2,7 +2,7 @@
 
 layout: fuel
 title: Fuel Prices
-seo: Fuel Prices in Cheltenham, cheapest fuel in Cheltenham petrol, diesel
+seo: "Latest and Cheapest Fuel Prices in Cheltenham. Cheapest fuel in Glos, Cheapeast fule in Gloucestershire, petrol, diesel prices"
 permalink: /fuel-prices
 
 ---
