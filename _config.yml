@@ -3,7 +3,7 @@ permalink: ./:title
 title: "Cheltenham Open Data"
 description: "// collecting and disseminating localised open data for Cheltenham and Gloucestershire"
 author: "thechelsuk"
-url: https://cod.thechels.uk
+url: https://cheltenham-od.uk
 icon: "/images/splashscreens/apple-touch-icon-180x180.png"
 copyright: "Cheltenham Open Data - All data is owned by the respective data providers. No liability is accepted for the accuracy of the data."
 encoding: UTF-8
@@ -11,7 +11,7 @@ future: false
 repository: thechelsuk/uk.thechels.cod
 defaultImagePath: "/images/splashscreens/apple-touch-icon-180x180.png"
 github:
-  repository_url: https://github.com/thechelsuk/uk.thechels.cod
+  repository_url: https://github.com/thechelsuk/uk.cheltenham-od
   branch: main
 sass:
   style: compressed
