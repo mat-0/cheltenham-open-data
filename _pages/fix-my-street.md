@@ -9,6 +9,8 @@ permalink: /cheltenham-fix-my-street
 
 <!-- fix_marker starts -->
 
+- Weeds in gutters, 10th August :- [9928331](https://www.fixmystreet.com/report/9928331)
+- Overgrown bushes on Hucclecote Road opposite side to Partou entrance, 10th August :- [9928016](https://www.fixmystreet.com/report/9928016)
 - Overgrown vegetation, 10th August :- [9927713](https://www.fixmystreet.com/report/9927713)
 - Broken paving slabs along pathway, 10th August :- [9927637](https://www.fixmystreet.com/report/9927637)
 - Blocked drain, 10th August :- [9927541](https://www.fixmystreet.com/report/9927541)
@@ -27,7 +29,5 @@ permalink: /cheltenham-fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 10th August :- [9926708](https://www.fixmystreet.com/report/9926708)
 - Electric Charging markings, 10th August :- [9926558](https://www.fixmystreet.com/report/9926558)
 - Signal-controlled pedestrian crossings problem, 10th August :- [9926702](https://www.fixmystreet.com/report/9926702)
-- TMC - Defects -CW10 Potholes problem, 10th August :- [9926446](https://www.fixmystreet.com/report/9926446)
-- TMC - Defects -CW10 Potholes problem, 10th August :- [9926444](https://www.fixmystreet.com/report/9926444)
 
 <!-- fix_marker ends -->
