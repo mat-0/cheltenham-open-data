@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Monday, 10 August 2026
 
-- The average temperature today is 23.59˚C,
-- With highs of 24.91˚C and lows of 22.6˚C,
-- It may feel like 23.15˚C with scattered clouds
-- The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 1020hPa and humidity is 44%
+- The average temperature today is 25.3˚C,
+- With highs of 26.58˚C and lows of 24.26˚C,
+- It may feel like 24.88˚C with broken clouds
+- The wind speed is 0.45m/s and visibility is 10000m
+- The pressure is 1019hPa and humidity is 38%
 - The sun will rise at 04:44 and set at 19:43
 
 <!-- weather_marker ends -->
@@ -46,6 +46,6 @@ Given proximity to GCHQ...
 
 - Current Threat Level: SEVERE
 - It has been 102 days since the last change (2026-04-30)
-- Details: The current national threat level is SEVERE. &nbsp;The threat to Northern Ireland from Northern Ireland-related terrorism is SUBSTANTIAL.
+- Details: <p>The current national threat level is SEVERE. &nbsp;The threat to Northern Ireland from Northern Ireland-related terrorism is SUBSTANTIAL.</p>
 
 <!-- threat_marker ends -->
