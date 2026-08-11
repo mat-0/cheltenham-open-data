@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, Cheltenham BID, Cheltenh
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- CCTV appeal following high-value theft from jewellers in Cheltenham ([1 hours ago](https://gloucesternewscentre.co.uk/cctv-appeal-following-high-value-theft-from-jewellers-in-cheltenham/))
-- Families under pressure to find food in summer ([8 hours ago](https://www.bbc.co.uk/news/articles/c0m7p7p1yk8o?at_medium=RSS&at_campaign=rss))
-- What is 'zip-merging' and when should you do it? ([8 hours ago](https://www.bbc.co.uk/news/articles/c75gv07l975o?at_medium=RSS&at_campaign=rss))
-- M5 closed as fire breaks out on lorry carrying wood ([18 hours ago](https://www.bbc.co.uk/news/articles/c5y6w0pj7x9o?at_medium=RSS&at_campaign=rss))
-- Hosepipe ban possible without 'small changes' ([22 hours ago](https://www.bbc.co.uk/news/articles/cp8x4n4ee25o?at_medium=RSS&at_campaign=rss))
+- CCTV appeal following high-value theft from jewellers in Cheltenham ([3 hours ago](https://gloucesternewscentre.co.uk/cctv-appeal-following-high-value-theft-from-jewellers-in-cheltenham/))
+- Families under pressure to find food in summer ([10 hours ago](https://www.bbc.co.uk/news/articles/c0m7p7p1yk8o?at_medium=RSS&at_campaign=rss))
+- What is 'zip-merging' and when should you do it? ([10 hours ago](https://www.bbc.co.uk/news/articles/c75gv07l975o?at_medium=RSS&at_campaign=rss))
+- M5 closed as fire breaks out on lorry carrying wood ([20 hours ago](https://www.bbc.co.uk/news/articles/c5y6w0pj7x9o?at_medium=RSS&at_campaign=rss))
+- Hosepipe ban possible without 'small changes' ([1 days ago](https://www.bbc.co.uk/news/articles/cp8x4n4ee25o?at_medium=RSS&at_campaign=rss))
 - How much of the eclipse will we see in the West? ([1 days ago](https://www.bbc.co.uk/news/videos/c3ekx9gz9yvo?at_medium=RSS&at_campaign=rss))
 - Wildfires 'emerging threat' as smoke blown across county ([1 days ago](https://www.bbc.co.uk/news/articles/cly57l78w8zo?at_medium=RSS&at_campaign=rss))
 - Bridge closures to affect road and waterway users ([1 days ago](https://www.bbc.co.uk/news/articles/ce8lw88xypko?at_medium=RSS&at_campaign=rss))
@@ -45,5 +45,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, Cheltenham BID, Cheltenh
 - Council revokes licence appeal for Hackney carriage driver ([26 days ago](https://gloucesternewscentre.co.uk/council-revokes-licence-appeal-for-hackney-carriage-driver/))
 - Gloucestershire’s councils will be replaced by one new unitary authority ([26 days ago](https://gloucesternewscentre.co.uk/gloucestershires-councils-will-be-replaced-by-one-new-unitary-authority/))
 - Man arrested following stabbing in Cheltenham ([26 days ago](https://gloucesternewscentre.co.uk/man-arrested-following-stabbing-in-cheltenham/))
+- Record £59,000 raised as 4,000 flock to Pied Piper car show at Highnam Court ([27 days ago](https://cheltenhampost.co.uk/record-59000-raised-as-4000-flock-to-pied-piper-car-show-at-highnam-court/))
 
 <!-- news_marker ends -->

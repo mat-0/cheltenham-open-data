@@ -9,6 +9,9 @@ permalink: /cheltenham-fix-my-street
 
 <!-- fix_marker starts -->
 
+- Issue with temporary traffic lights problem, 11th August :- [9933175](https://www.fixmystreet.com/report/9933175)
+- Inappropriate location for dog waste bin, 11th August :- [9932974](https://www.fixmystreet.com/report/9932974)
+- Overflowing bin, 11th August :- [9932834](https://www.fixmystreet.com/report/9932834)
 - Overgrown tree, 11th August :- [9932621](https://www.fixmystreet.com/report/9932621)
 - Two large potholes on the junction, 11th August :- [9932574](https://www.fixmystreet.com/report/9932574)
 - TMC - Defects -CW10 Potholes problem, 11th August :- [9932469](https://www.fixmystreet.com/report/9932469)
@@ -26,8 +29,5 @@ permalink: /cheltenham-fix-my-street
 - Could o please have an update on this very noisy manhole cover, 11th August :- [9931928](https://www.fixmystreet.com/report/9931928)
 - TMC - Defects -other CW6 problem, 11th August :- [9932004](https://www.fixmystreet.com/report/9932004)
 - TMC - Defects - Kerbs and Channels problem, 11th August :- [9932001](https://www.fixmystreet.com/report/9932001)
-- Uneven surface, causing houses in Finlay way to shake, 11th August :- [9931884](https://www.fixmystreet.com/report/9931884)
-- Graffiti on bus shelter, 11th August :- [9931857](https://www.fixmystreet.com/report/9931857)
-- TMC - Defects -other CW6 problem, 11th August :- [9931993](https://www.fixmystreet.com/report/9931993)
 
 <!-- fix_marker ends -->

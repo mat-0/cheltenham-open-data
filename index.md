@@ -11,11 +11,11 @@ Collecting and sharing frequently updated local open data for Cheltenham and Glo
 <!-- weather_marker starts -->
 ## On Tuesday, 11 August 2026
 
-- The average temperature today is 28.27˚C,
-- With highs of 28.86˚C and lows of 27.51˚C,
-- It may feel like 27.76˚C with few clouds
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1022hPa and humidity is 38%
+- The average temperature today is 29.23˚C,
+- With highs of 30.39˚C and lows of 28.31˚C,
+- It may feel like 28.41˚C with scattered clouds
+- The wind speed is 1.79m/s and visibility is 10000m
+- The pressure is 1021hPa and humidity is 35%
 - The sun will rise at 04:46 and set at 19:41
 
 <!-- weather_marker ends -->
