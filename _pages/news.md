@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, Cheltenham BID, Cheltenh
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Royal Mail apologises for 'unacceptable' service ([4 hours ago](https://www.bbc.co.uk/news/articles/crrv11pxzd8o?at_medium=RSS&at_campaign=rss))
-- The gardening group 'bringing smiles' to city ([5 hours ago](https://www.bbc.co.uk/news/articles/c3r03lyzl0go?at_medium=RSS&at_campaign=rss))
-- CCTV appeal following high-value theft from jewellers in Cheltenham ([8 hours ago](https://gloucesternewscentre.co.uk/cctv-appeal-following-high-value-theft-from-jewellers-in-cheltenham/))
-- Families under pressure to find food in summer ([15 hours ago](https://www.bbc.co.uk/news/articles/c0m7p7p1yk8o?at_medium=RSS&at_campaign=rss))
-- What is 'zip-merging' and when should you do it? ([15 hours ago](https://www.bbc.co.uk/news/articles/c75gv07l975o?at_medium=RSS&at_campaign=rss))
+- Royal Mail apologises for 'unacceptable' service ([6 hours ago](https://www.bbc.co.uk/news/articles/crrv11pxzd8o?at_medium=RSS&at_campaign=rss))
+- The gardening group 'bringing smiles' to city ([7 hours ago](https://www.bbc.co.uk/news/articles/c3r03lyzl0go?at_medium=RSS&at_campaign=rss))
+- CCTV appeal following high-value theft from jewellers in Cheltenham ([10 hours ago](https://gloucesternewscentre.co.uk/cctv-appeal-following-high-value-theft-from-jewellers-in-cheltenham/))
+- Families under pressure to find food in summer ([17 hours ago](https://www.bbc.co.uk/news/articles/c0m7p7p1yk8o?at_medium=RSS&at_campaign=rss))
+- What is 'zip-merging' and when should you do it? ([17 hours ago](https://www.bbc.co.uk/news/articles/c75gv07l975o?at_medium=RSS&at_campaign=rss))
 - M5 closed as fire breaks out on lorry carrying wood ([1 days ago](https://www.bbc.co.uk/news/articles/c5y6w0pj7x9o?at_medium=RSS&at_campaign=rss))
 - Hosepipe ban possible without 'small changes' ([1 days ago](https://www.bbc.co.uk/news/articles/cp8x4n4ee25o?at_medium=RSS&at_campaign=rss))
 - How much of the eclipse will we see in the West? ([1 days ago](https://www.bbc.co.uk/news/videos/c3ekx9gz9yvo?at_medium=RSS&at_campaign=rss))
@@ -31,9 +31,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, Cheltenham BID, Cheltenh
 - 'Teens attack shop workers' and 'Tesla crashes into store' ([3 days ago](https://www.bbc.co.uk/news/articles/ckgdmpedm8zo?at_medium=RSS&at_campaign=rss))
 - The 'cheap Cotswolds' attracting new residents ([3 days ago](https://www.bbc.co.uk/news/articles/cr5j5vz54vzo?at_medium=RSS&at_campaign=rss))
 - Reach New Heights This Summer at The Brewery Quarter with Free Family Events Throughout August ([5 days ago](https://cheltenhambid.co.uk/2026/08/06/reach-new-heights-this-summer-at-the-brewery-quarter-with-free-family-events-throughout-august/))
-- Concerns town looks ‘neglected’ ([10 days ago](https://gloucesternewscentre.co.uk/concerns-town-looks-neglected/))
-- Windows of Cav House to display artwork ([10 days ago](https://gloucesternewscentre.co.uk/windows-of-cav-house-to-display-artwork/))
-- Questions over Municipal Offices sale ([10 days ago](https://gloucesternewscentre.co.uk/questions-over-municipal-offices-sale/))
+- Concerns town looks ‘neglected’ ([11 days ago](https://gloucesternewscentre.co.uk/concerns-town-looks-neglected/))
+- Windows of Cav House to display artwork ([11 days ago](https://gloucesternewscentre.co.uk/windows-of-cav-house-to-display-artwork/))
+- Questions over Municipal Offices sale ([11 days ago](https://gloucesternewscentre.co.uk/questions-over-municipal-offices-sale/))
 - More than 900 people respond to engagement on future management of Cheltenham’s High Street and Promenade ([20 days ago](https://cheltenhambid.co.uk/2026/07/22/more-than-900-people-respond-to-engagement-on-future-management-of-cheltenhams-high-street-and-promenade/))
 - Man charged in connection with stabbing in Cheltenham ([25 days ago](https://gloucesternewscentre.co.uk/man-charged-in-connection-with-stabbing-in-cheltenham/))
 - Builders served notice over Cheltenham dust ([25 days ago](https://gloucesternewscentre.co.uk/builders-served-notice-over-cheltenham-dust/))
@@ -45,5 +45,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, Cheltenham BID, Cheltenh
 - Council revokes licence appeal for Hackney carriage driver ([26 days ago](https://gloucesternewscentre.co.uk/council-revokes-licence-appeal-for-hackney-carriage-driver/))
 - Gloucestershire’s councils will be replaced by one new unitary authority ([26 days ago](https://gloucesternewscentre.co.uk/gloucestershires-councils-will-be-replaced-by-one-new-unitary-authority/))
 - Man arrested following stabbing in Cheltenham ([26 days ago](https://gloucesternewscentre.co.uk/man-arrested-following-stabbing-in-cheltenham/))
+- Record £59,000 raised as 4,000 flock to Pied Piper car show at Highnam Court ([28 days ago](https://cheltenhampost.co.uk/record-59000-raised-as-4000-flock-to-pied-piper-car-show-at-highnam-court/))
 
 <!-- news_marker ends -->

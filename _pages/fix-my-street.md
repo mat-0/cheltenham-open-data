@@ -9,6 +9,8 @@ permalink: /cheltenham-fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dangerous rattling manhole cover, 11th August :- [9935058](https://www.fixmystreet.com/report/9935058)
+- 3 street lights not working, been like this for about a week or so., 11th August :- [9935056](https://www.fixmystreet.com/report/9935056)
 - Dangerous narrow exit, 11th August :- [9934925](https://www.fixmystreet.com/report/9934925)
 - Graffiti, 11th August :- [9934757](https://www.fixmystreet.com/report/9934757)
 - Overgrown hedges, 11th August :- [9934566](https://www.fixmystreet.com/report/9934566)
@@ -20,14 +22,12 @@ permalink: /cheltenham-fix-my-street
 - Overflowing bin, 11th August :- [9932834](https://www.fixmystreet.com/report/9932834)
 - Overgrown tree, 11th August :- [9932621](https://www.fixmystreet.com/report/9932621)
 - Two large potholes on the junction, 11th August :- [9932574](https://www.fixmystreet.com/report/9932574)
-- TMC - Defects -CW10 Potholes problem, 11th August :- [9932469](https://www.fixmystreet.com/report/9932469)
 - TMC - Defects -CW10 Potholes problem, 11th August :- [9932472](https://www.fixmystreet.com/report/9932472)
 - TMC - Defects -CW10 Potholes problem, 11th August :- [9932471](https://www.fixmystreet.com/report/9932471)
+- TMC - Defects -CW10 Potholes problem, 11th August :- [9932469](https://www.fixmystreet.com/report/9932469)
 - TMC - Defects -CW10 Potholes problem, 11th August :- [9932470](https://www.fixmystreet.com/report/9932470)
 - TMC - Defects -CW10 Potholes problem, 11th August :- [9932468](https://www.fixmystreet.com/report/9932468)
 - Vegetation has grown across the path making it difficult for pedestrians to see traffic when crossing the road and difficulty to walk past., 11th August :- [9932344](https://www.fixmystreet.com/report/9932344)
 - TMC - Defects - Covers, Gratings & Frames problem, 11th August :- [9932243](https://www.fixmystreet.com/report/9932243)
-- TMC - Defects - Vegetation problem, 11th August :- [9932241](https://www.fixmystreet.com/report/9932241)
-- TMC - Defects - Other problem, 11th August :- [9932240](https://www.fixmystreet.com/report/9932240)
 
 <!-- fix_marker ends -->
