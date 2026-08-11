@@ -6,7 +6,7 @@ permalink: /
 
 ---
 
-![Logo](/images/logo.jpg){:width="860px"}
+Collecting and sharing frequently updated local open data for Cheltenham and Gloucestershire — weather, fuel prices, flood warnings, market dates, food banks, news and more.
 
 <!-- weather_marker starts -->
 ## On Tuesday, 11 August 2026
