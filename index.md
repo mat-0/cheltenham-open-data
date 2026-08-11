@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Tuesday, 11 August 2026
 
-- The average temperature today is 11.58˚C,
-- With highs of 13.17˚C and lows of 11.58˚C,
-- It may feel like 10.96˚C with overcast clouds
-- The wind speed is 1.46m/s and visibility is 10000m
-- The pressure is 1023hPa and humidity is 83%
+- The average temperature today is 18.74˚C,
+- With highs of 19.83˚C and lows of 18.15˚C,
+- It may feel like 18.58˚C with clear sky
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 1024hPa and humidity is 73%
 - The sun will rise at 04:46 and set at 19:41
 
 <!-- weather_marker ends -->
