@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Welcome"
+title: "Welcome to Cheltenham Open Data"
 seo: "Cheltenham, Gloucestershire, UK. Local news, cheapest fuel prices, weather, street issues helpful phone numbers and more."
 permalink: /
 
