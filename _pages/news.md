@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, Cheltenham BID, Cheltenh
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Royal Mail apologises for 'unacceptable' service ([2 hours ago](https://www.bbc.co.uk/news/articles/crrv11pxzd8o?at_medium=RSS&at_campaign=rss))
-- The gardening group 'bringing smiles' to city ([3 hours ago](https://www.bbc.co.uk/news/articles/c3r03lyzl0go?at_medium=RSS&at_campaign=rss))
-- CCTV appeal following high-value theft from jewellers in Cheltenham ([7 hours ago](https://gloucesternewscentre.co.uk/cctv-appeal-following-high-value-theft-from-jewellers-in-cheltenham/))
-- Families under pressure to find food in summer ([14 hours ago](https://www.bbc.co.uk/news/articles/c0m7p7p1yk8o?at_medium=RSS&at_campaign=rss))
-- What is 'zip-merging' and when should you do it? ([14 hours ago](https://www.bbc.co.uk/news/articles/c75gv07l975o?at_medium=RSS&at_campaign=rss))
+- Royal Mail apologises for 'unacceptable' service ([4 hours ago](https://www.bbc.co.uk/news/articles/crrv11pxzd8o?at_medium=RSS&at_campaign=rss))
+- The gardening group 'bringing smiles' to city ([5 hours ago](https://www.bbc.co.uk/news/articles/c3r03lyzl0go?at_medium=RSS&at_campaign=rss))
+- CCTV appeal following high-value theft from jewellers in Cheltenham ([8 hours ago](https://gloucesternewscentre.co.uk/cctv-appeal-following-high-value-theft-from-jewellers-in-cheltenham/))
+- Families under pressure to find food in summer ([15 hours ago](https://www.bbc.co.uk/news/articles/c0m7p7p1yk8o?at_medium=RSS&at_campaign=rss))
+- What is 'zip-merging' and when should you do it? ([15 hours ago](https://www.bbc.co.uk/news/articles/c75gv07l975o?at_medium=RSS&at_campaign=rss))
 - M5 closed as fire breaks out on lorry carrying wood ([1 days ago](https://www.bbc.co.uk/news/articles/c5y6w0pj7x9o?at_medium=RSS&at_campaign=rss))
 - Hosepipe ban possible without 'small changes' ([1 days ago](https://www.bbc.co.uk/news/articles/cp8x4n4ee25o?at_medium=RSS&at_campaign=rss))
 - How much of the eclipse will we see in the West? ([1 days ago](https://www.bbc.co.uk/news/videos/c3ekx9gz9yvo?at_medium=RSS&at_campaign=rss))
