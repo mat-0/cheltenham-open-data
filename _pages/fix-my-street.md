@@ -9,6 +9,10 @@ permalink: /cheltenham-fix-my-street
 
 <!-- fix_marker starts -->
 
+- Overgrown hedges, 11th August :- [9934566](https://www.fixmystreet.com/report/9934566)
+- Unable to access Woolstone Lane due to blocked access on the PROW, 11th August :- [9934444](https://www.fixmystreet.com/report/9934444)
+- Hedge overgrown, impacting psthway, 11th August :- [9934167](https://www.fixmystreet.com/report/9934167)
+- Newish PROW Marker Pointing to inaccessible gate access, 11th August :- [9934113](https://www.fixmystreet.com/report/9934113)
 - Issue with temporary traffic lights problem, 11th August :- [9933175](https://www.fixmystreet.com/report/9933175)
 - Inappropriate location for dog waste bin, 11th August :- [9932974](https://www.fixmystreet.com/report/9932974)
 - Overflowing bin, 11th August :- [9932834](https://www.fixmystreet.com/report/9932834)
@@ -25,9 +29,5 @@ permalink: /cheltenham-fix-my-street
 - TMC - Defects - Other problem, 11th August :- [9932240](https://www.fixmystreet.com/report/9932240)
 - TMC - Defects -CW10 Potholes problem, 11th August :- [9932238](https://www.fixmystreet.com/report/9932238)
 - TMC - Defects -CW10 Potholes problem, 11th August :- [9932237](https://www.fixmystreet.com/report/9932237)
-- Missing grill, 11th August :- [9932069](https://www.fixmystreet.com/report/9932069)
-- Could o please have an update on this very noisy manhole cover, 11th August :- [9931928](https://www.fixmystreet.com/report/9931928)
-- TMC - Defects -other CW6 problem, 11th August :- [9932004](https://www.fixmystreet.com/report/9932004)
-- TMC - Defects - Kerbs and Channels problem, 11th August :- [9932001](https://www.fixmystreet.com/report/9932001)
 
 <!-- fix_marker ends -->
