@@ -9,6 +9,7 @@ permalink: /cheltenham-fix-my-street
 
 <!-- fix_marker starts -->
 
+- Bin overflowing, 11th August :- [9929300](https://www.fixmystreet.com/report/9929300)
 - Mattress dumped, 10th August :- [9928990](https://www.fixmystreet.com/report/9928990)
 - Street light is out, 10th August :- [9928985](https://www.fixmystreet.com/report/9928985)
 - Grass verge requires cutting, 10th August :- [9928963](https://www.fixmystreet.com/report/9928963)
@@ -28,6 +29,5 @@ permalink: /cheltenham-fix-my-street
 - Roofing work - articles being thrown into street, 10th August :- [9927117](https://www.fixmystreet.com/report/9927117)
 - Bin Overflowing with Dog Poo, 10th August :- [9927080](https://www.fixmystreet.com/report/9927080)
 - Pothole in the road problem, 10th August :- [9927185](https://www.fixmystreet.com/report/9927185)
-- Incomplete road markings., 10th August :- [9926792](https://www.fixmystreet.com/report/9926792)
 
 <!-- fix_marker ends -->
