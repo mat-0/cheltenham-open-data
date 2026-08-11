@@ -1,0 +1,25 @@
+# Cheltenham Open Data
+
+> Collecting and sharing frequently updated local open data for Cheltenham and Gloucestershire — weather, fuel prices, flood warnings, market dates, food banks, news and more. All data is owned by the respective data providers; no liability is accepted for the accuracy of the data.
+
+## Data pages
+
+- [Latest News](https://cheltenham-od.uk/cheltenham-news): Local news for Cheltenham and Gloucestershire.
+- [Helplines and Contacts](https://cheltenham-od.uk/cheltenham-helpful-contacts-reports): Helpful contacts and reporting information.
+- [Cheapest Fuel Prices](https://cheltenham-od.uk/cheltenham-fuel-prices): Current cheapest local fuel prices.
+- [House Prices](https://cheltenham-od.uk/cheltenham-house-prices): Local house price data.
+- [Fix My Street](https://cheltenham-od.uk/cheltenham-fix-my-street): Reports of local street issues.
+- [Flood Warnings](https://cheltenham-od.uk/cheltenham-flood-warnings): Current flood warnings for the area.
+- [Food Bank](https://cheltenham-od.uk/cheltenham-foodbank-needed-items): Currently needed food bank items.
+
+## Feeds & data sources
+
+- [Sitemap](https://cheltenham-od.uk/sitemap.xml): Full list of site URLs.
+- [Flood feed](https://cheltenham-od.uk/flood.xml): Flood warnings feed (XML).
+- [Daily RSS](https://cheltenham-od.uk/daily.rss): Daily updates feed (RSS).
+
+## Other
+
+- [Weather](https://cheltenham-od.uk/): Daily weather summary (temperature, wind, visibility, pressure, humidity, sunrise/sunset).
+- [Farmers Market dates](https://cheltenham-od.uk/): 2nd and last Friday monthly (Jan–Nov); 2nd and 3rd Friday in December.
+- [MI5 Threat Level](https://cheltenham-od.uk/): National threat level, relevant given proximity to GCHQ.
