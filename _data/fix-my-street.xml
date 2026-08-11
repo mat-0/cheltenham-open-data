@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:atom="http://www.w3.org/2005/Atom"
 >
 
@@ -61,15 +61,6 @@
 </item>
 <item>
 <title>TMC - Defects -CW10 Potholes problem, 11th August</title>
-<link>https://www.fixmystreet.com/report/9932469</link>
-<description>Cw pothole &amp;#10;500x303x45mm&amp;#10;Rd closure (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9932469&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW10 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9932469</guid>
-<pubDate>Tue, 11 Aug 2026 13:24:07 +0100</pubDate>
-<georss:point>51.8905999 -2.18768539999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW10 Potholes problem, 11th August</title>
 <link>https://www.fixmystreet.com/report/9932472</link>
 <description>Cw pothole &amp;#10;404x400x40mm&amp;#10;Rd closure (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9932472&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW10 Potholes</category>
@@ -85,6 +76,15 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/9932471</guid>
 <pubDate>Tue, 11 Aug 2026 13:24:07 +0100</pubDate>
 <georss:point>51.8905236 -2.1875502</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 11th August</title>
+<link>https://www.fixmystreet.com/report/9932469</link>
+<description>Cw pothole &amp;#10;500x303x45mm&amp;#10;Rd closure (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9932469&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9932469</guid>
+<pubDate>Tue, 11 Aug 2026 13:24:07 +0100</pubDate>
+<georss:point>51.8905999 -2.18768539999999</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW10 Potholes problem, 11th August</title>
