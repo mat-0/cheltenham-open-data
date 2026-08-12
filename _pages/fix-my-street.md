@@ -9,6 +9,8 @@ permalink: /cheltenham-fix-my-street
 
 <!-- fix_marker starts -->
 
+- Road needs resurfacing, 12th August :- [9939397](https://www.fixmystreet.com/report/9939397)
+- Tree is damaged problem, 12th August :- [9939087](https://www.fixmystreet.com/report/9939087)
 - Large vent in path water been leaking for several hours, 12th August :- [9938965](https://www.fixmystreet.com/report/9938965)
 - Periodic review - temporary directional signs [11473], 12th August :- [9938876](https://www.fixmystreet.com/report/9938876)
 - Pavement completely blocked, 12th August :- [9884327](https://www.fixmystreet.com/report/9884327)
@@ -27,7 +29,5 @@ permalink: /cheltenham-fix-my-street
 - TMC - Defects -FW6 Potholes problem, 12th August :- [9938273](https://www.fixmystreet.com/report/9938273)
 - TMC - Defects - Vegetation problem, 12th August :- [9938272](https://www.fixmystreet.com/report/9938272)
 - TMC - Defects -FW6 Potholes problem, 12th August :- [9938094](https://www.fixmystreet.com/report/9938094)
-- TMC - Defects - Vegetation problem, 12th August :- [9938093](https://www.fixmystreet.com/report/9938093)
-- TMC - Defects - Vegetation problem, 12th August :- [9938083](https://www.fixmystreet.com/report/9938083)
 
 <!-- fix_marker ends -->
