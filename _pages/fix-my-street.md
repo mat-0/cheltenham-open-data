@@ -9,6 +9,7 @@ permalink: /cheltenham-fix-my-street
 
 <!-- fix_marker starts -->
 
+- Overgrown leaves. Difficulty getting past, 12th August :- [9935353](https://www.fixmystreet.com/report/9935353)
 - Dangerous rattling manhole cover, 11th August :- [9935058](https://www.fixmystreet.com/report/9935058)
 - 3 street lights not working, been like this for about a week or so., 11th August :- [9935056](https://www.fixmystreet.com/report/9935056)
 - Dangerous narrow exit, 11th August :- [9934925](https://www.fixmystreet.com/report/9934925)
@@ -28,6 +29,5 @@ permalink: /cheltenham-fix-my-street
 - TMC - Defects -CW10 Potholes problem, 11th August :- [9932470](https://www.fixmystreet.com/report/9932470)
 - TMC - Defects -CW10 Potholes problem, 11th August :- [9932468](https://www.fixmystreet.com/report/9932468)
 - Vegetation has grown across the path making it difficult for pedestrians to see traffic when crossing the road and difficulty to walk past., 11th August :- [9932344](https://www.fixmystreet.com/report/9932344)
-- TMC - Defects - Covers, Gratings & Frames problem, 11th August :- [9932243](https://www.fixmystreet.com/report/9932243)
 
 <!-- fix_marker ends -->
