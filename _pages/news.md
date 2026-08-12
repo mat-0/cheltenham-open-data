@@ -7,7 +7,7 @@ permalink: /cheltenham-news
 ---
 
 Latest News Aggregation from a variety of sources. Updated every hour.
-_sources: BBC, Glos Police, Cheltenham Borough Council, Cheltenham BID, Cheltenham Post, and Glos News Centre_
+_sources: BBC, Glos Police, Cheltenham Borough Council, Cheltenham BID, Cheltenham Post, Golden Valley uk, and Glos News Centre_
 
 [Get this page as daily RSS feed](/daily.rss)
 
