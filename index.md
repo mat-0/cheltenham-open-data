@@ -27,6 +27,7 @@ Collecting and sharing frequently updated local open data for Cheltenham and Glo
 - [Get £5 free credit when you join the Electroverse](https://electroverse.octopus.energy/sign-up/magic?referralCode=aglow-louse-16571)
 - [Get a £25 Visa card when you install an EV charger with Octopus](https://tech.referrals.octopus.energy/ulLGI6SC)
 - [Choose a gift card up to £20 when you join Smarty Mobile](https://i.smarty.co.uk/CSj6iK)
+- [Get £20, £50 or £100 free when you join Monzo bank](https://join.monzo.com/c/k7stxxwv)
 
 _Terms and Conditions apply - see offer for details_
 
