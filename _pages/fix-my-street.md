@@ -9,6 +9,19 @@ permalink: /cheltenham-fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large vent in path water been leaking for several hours, 12th August :- [9938965](https://www.fixmystreet.com/report/9938965)
+- Periodic review - temporary directional signs [11473], 12th August :- [9938876](https://www.fixmystreet.com/report/9938876)
+- Pavement completely blocked, 12th August :- [9884327](https://www.fixmystreet.com/report/9884327)
+- TMC - Defects -CW6 Potholes  problem, 12th August :- [9938776](https://www.fixmystreet.com/report/9938776)
+- TMC - Defects -CW6 Potholes  problem, 12th August :- [9938779](https://www.fixmystreet.com/report/9938779)
+- TMC - Defects -CW6 Potholes  problem, 12th August :- [9938778](https://www.fixmystreet.com/report/9938778)
+- TMC - Defects -CW6 Potholes  problem, 12th August :- [9938777](https://www.fixmystreet.com/report/9938777)
+- Uneven, broken slabs on the pavement, which is dangerous for pedestrians to walk on., 12th August :- [9938748](https://www.fixmystreet.com/report/9938748)
+- Repair to previous pothole is breaking up, 12th August :- [9938719](https://www.fixmystreet.com/report/9938719)
+- TMC - Defects - Vegetation problem, 12th August :- [9938771](https://www.fixmystreet.com/report/9938771)
+- TMC - Defects - Other FW6  Surface problem, 12th August :- [9938616](https://www.fixmystreet.com/report/9938616)
+- TMC - Defects - Vegetation problem, 12th August :- [9938447](https://www.fixmystreet.com/report/9938447)
+- TMC - Defects -CW6 Potholes  problem, 12th August :- [9938446](https://www.fixmystreet.com/report/9938446)
 - Other issue with a footway/pavement problem, 12th August :- [9938262](https://www.fixmystreet.com/report/9938262)
 - TMC - Defects - Vegetation problem, 12th August :- [9938275](https://www.fixmystreet.com/report/9938275)
 - TMC - Defects -FW6 Potholes problem, 12th August :- [9938273](https://www.fixmystreet.com/report/9938273)
@@ -16,18 +29,5 @@ permalink: /cheltenham-fix-my-street
 - TMC - Defects -FW6 Potholes problem, 12th August :- [9938094](https://www.fixmystreet.com/report/9938094)
 - TMC - Defects - Vegetation problem, 12th August :- [9938093](https://www.fixmystreet.com/report/9938093)
 - TMC - Defects - Vegetation problem, 12th August :- [9938083](https://www.fixmystreet.com/report/9938083)
-- TMC - Defects - Vegetation problem, 12th August :- [9937906](https://www.fixmystreet.com/report/9937906)
-- TMC - Defects -FW6 Potholes problem, 12th August :- [9937902](https://www.fixmystreet.com/report/9937902)
-- TMC - Defects -FW6 Potholes problem, 12th August :- [9937888](https://www.fixmystreet.com/report/9937888)
-- Tree in Dangerous State, 12th August :- [9937616](https://www.fixmystreet.com/report/9937616)
-- TMC - Defects - Vegetation problem, 12th August :- [9937886](https://www.fixmystreet.com/report/9937886)
-- TMC - Defects - Vegetation problem, 12th August :- [9937884](https://www.fixmystreet.com/report/9937884)
-- TMC - Defects - Other FW6  Surface problem, 12th August :- [9937507](https://www.fixmystreet.com/report/9937507)
-- TMC - Defects - Other FW6  Surface problem, 12th August :- [9937506](https://www.fixmystreet.com/report/9937506)
-- TMC - Defects -FW6 Potholes problem, 12th August :- [9937304](https://www.fixmystreet.com/report/9937304)
-- TMC - Defects - Other FW6  Surface problem, 12th August :- [9937302](https://www.fixmystreet.com/report/9937302)
-- TMC - Defects - Other FW6  Surface problem, 12th August :- [9937299](https://www.fixmystreet.com/report/9937299)
-- TMC - Defects - Other FW6  Surface problem, 12th August :- [9937293](https://www.fixmystreet.com/report/9937293)
-- TMC - Defects - Other FW6  Surface problem, 12th August :- [9937291](https://www.fixmystreet.com/report/9937291)
 
 <!-- fix_marker ends -->
