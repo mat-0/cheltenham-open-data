@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, Cheltenham BID, Cheltenh
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- 'Significant moment for humanity': The West reacts to historic solar eclipse ([1 hours ago](https://www.bbc.co.uk/news/videos/c8rn805d0n4o?at_medium=RSS&at_campaign=rss))
-- How the West watched most historic solar eclipse since 1999 ([3 hours ago](https://www.bbc.co.uk/news/articles/cre4p97rn37o?at_medium=RSS&at_campaign=rss))
-- Bakery buys comedian's former sites after closure ([10 hours ago](https://www.bbc.co.uk/news/articles/cr491p70dv5o?at_medium=RSS&at_campaign=rss))
-- When and where in the West Country to see the solar eclipse ([10 hours ago](https://www.bbc.co.uk/news/articles/cjrvn0wez48o?at_medium=RSS&at_campaign=rss))
-- Strictly and Bake Off stars to appear at   festival ([17 hours ago](https://www.bbc.co.uk/news/articles/c4gdxx0m8ygo?at_medium=RSS&at_campaign=rss))
-- West students give advice for surviving results day ([17 hours ago](https://www.bbc.co.uk/news/articles/c4gv89d2l8vo?at_medium=RSS&at_campaign=rss))
+- 'Significant moment for humanity': The West reacts to historic solar eclipse ([4 hours ago](https://www.bbc.co.uk/news/videos/c8rn805d0n4o?at_medium=RSS&at_campaign=rss))
+- How the West watched most historic solar eclipse since 1999 ([5 hours ago](https://www.bbc.co.uk/news/articles/cre4p97rn37o?at_medium=RSS&at_campaign=rss))
+- Bakery buys comedian's former sites after closure ([12 hours ago](https://www.bbc.co.uk/news/articles/cr491p70dv5o?at_medium=RSS&at_campaign=rss))
+- When and where in the West Country to see the solar eclipse ([12 hours ago](https://www.bbc.co.uk/news/articles/cjrvn0wez48o?at_medium=RSS&at_campaign=rss))
+- Strictly and Bake Off stars to appear at   festival ([19 hours ago](https://www.bbc.co.uk/news/articles/c4gdxx0m8ygo?at_medium=RSS&at_campaign=rss))
+- West students give advice for surviving results day ([20 hours ago](https://www.bbc.co.uk/news/articles/c4gv89d2l8vo?at_medium=RSS&at_campaign=rss))
 - Royal Mail apologises for 'unacceptable' service ([1 days ago](https://www.bbc.co.uk/news/articles/crrv11pxzd8o?at_medium=RSS&at_campaign=rss))
 - The gardening group 'bringing smiles' to city ([1 days ago](https://www.bbc.co.uk/news/articles/c3r03lyzl0go?at_medium=RSS&at_campaign=rss))
 - CCTV appeal following high-value theft from jewellers in Cheltenham ([1 days ago](https://gloucesternewscentre.co.uk/cctv-appeal-following-high-value-theft-from-jewellers-in-cheltenham/))

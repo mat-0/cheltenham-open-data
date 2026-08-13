@@ -9,13 +9,13 @@ permalink: /
 Collecting and sharing frequently updated local open data for Cheltenham and Gloucestershire — weather, fuel prices, flood warnings, market dates, food banks, news and more.
 
 <!-- weather_marker starts -->
-## On Wednesday, 12 August 2026
+## On Thursday, 13 August 2026
 
-- The average temperature today is 24.55˚C,
-- With highs of 24.83˚C and lows of 22.97˚C,
-- It may feel like 24.31˚C with few clouds
-- The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1021hPa and humidity is 48%
+- The average temperature today is 22.6˚C,
+- With highs of 23.21˚C and lows of 20.77˚C,
+- It may feel like 22.25˚C with clear sky
+- The wind speed is 2.14m/s and visibility is 10000m
+- The pressure is 1021hPa and humidity is 51%
 - The sun will rise at 04:49 and set at 19:37
 
 <!-- weather_marker ends -->
@@ -46,7 +46,7 @@ Given proximity to GCHQ...
 ### SEVERE
 
 - Current Threat Level: SEVERE
-- It has been 104 days since the last change (2026-04-30)
+- It has been 105 days since the last change (2026-04-30)
 - Details: <p>The current national threat level is SEVERE. &nbsp;The threat to Northern Ireland from Northern Ireland-related terrorism is SUBSTANTIAL.</p>
 
 <!-- threat_marker ends -->
