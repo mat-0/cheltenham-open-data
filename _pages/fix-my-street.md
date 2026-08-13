@@ -9,6 +9,8 @@ permalink: /cheltenham-fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street light out, 13th August :- [9945676](https://www.fixmystreet.com/report/9945676)
+- Foot-sized sinkhole, 13th August :- [9945465](https://www.fixmystreet.com/report/9945465)
 - Broken and damaged road surface and edge, 13th August :- [9945095](https://www.fixmystreet.com/report/9945095)
 - New slab was laid today ( 13/8) & has gaps /raised whici is a serious trip hazard, 13th August :- [9945062](https://www.fixmystreet.com/report/9945062)
 - 4" pothole, 13th August :- [9944652](https://www.fixmystreet.com/report/9944652)
@@ -27,7 +29,5 @@ permalink: /cheltenham-fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 13th August :- [9943887](https://www.fixmystreet.com/report/9943887)
 - TMC - Defects - Other FW6  Surface problem, 13th August :- [9943886](https://www.fixmystreet.com/report/9943886)
 - TMC - Defects - Footways Slabs problem, 13th August :- [9943885](https://www.fixmystreet.com/report/9943885)
-- TMC - Defects - Other FW6  Surface problem, 13th August :- [9943752](https://www.fixmystreet.com/report/9943752)
-- A car interior has been dumped, 13th August :- [9943648](https://www.fixmystreet.com/report/9943648)
 
 <!-- fix_marker ends -->
