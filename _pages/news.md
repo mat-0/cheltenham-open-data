@@ -12,11 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, Cheltenham BID, Cheltenh
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- How students in the West marked A-Level result day ([14 minutes ago](https://www.bbc.co.uk/news/articles/c4gj4y37zv3o?at_medium=RSS&at_campaign=rss))
-- 'Online trolls who target me are bored and jealous' ([7 hours ago](https://www.bbc.co.uk/news/articles/cg4d0p2g26eo?at_medium=RSS&at_campaign=rss))
-- Free family days out: Dinosaur fun to farm trips ([8 hours ago](https://www.bbc.co.uk/news/articles/cqx7qlnq9zpo?at_medium=RSS&at_campaign=rss))
-- 'Significant moment for humanity': The West reacts to historic solar eclipse ([16 hours ago](https://www.bbc.co.uk/news/videos/c8rn805d0n4o?at_medium=RSS&at_campaign=rss))
-- How the West watched most historic solar eclipse since 1999 ([17 hours ago](https://www.bbc.co.uk/news/articles/cre4p97rn37o?at_medium=RSS&at_campaign=rss))
+- 'Beloved' former town crier and 'icon' dies aged 84 ([1 hours ago](https://www.bbc.co.uk/news/articles/c4g3vq45z4yo?at_medium=RSS&at_campaign=rss))
+- How students in the West marked A-Level result day ([2 hours ago](https://www.bbc.co.uk/news/articles/c4gj4y37zv3o?at_medium=RSS&at_campaign=rss))
+- 'Online trolls who target me are bored and jealous' ([9 hours ago](https://www.bbc.co.uk/news/articles/cg4d0p2g26eo?at_medium=RSS&at_campaign=rss))
+- Free family days out: Dinosaur fun to farm trips ([10 hours ago](https://www.bbc.co.uk/news/articles/cqx7qlnq9zpo?at_medium=RSS&at_campaign=rss))
+- 'Significant moment for humanity': The West reacts to historic solar eclipse ([17 hours ago](https://www.bbc.co.uk/news/videos/c8rn805d0n4o?at_medium=RSS&at_campaign=rss))
+- How the West watched most historic solar eclipse since 1999 ([19 hours ago](https://www.bbc.co.uk/news/articles/cre4p97rn37o?at_medium=RSS&at_campaign=rss))
 - Bakery buys comedian's former sites after closure ([1 days ago](https://www.bbc.co.uk/news/articles/cr491p70dv5o?at_medium=RSS&at_campaign=rss))
 - When and where in the West Country to see the solar eclipse ([1 days ago](https://www.bbc.co.uk/news/articles/cjrvn0wez48o?at_medium=RSS&at_campaign=rss))
 - Strictly and Bake Off stars to appear at   festival ([1 days ago](https://www.bbc.co.uk/news/articles/c4gdxx0m8ygo?at_medium=RSS&at_campaign=rss))
@@ -27,7 +28,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, Cheltenham BID, Cheltenh
 - Families under pressure to find food in summer ([2 days ago](https://www.bbc.co.uk/news/articles/c0m7p7p1yk8o?at_medium=RSS&at_campaign=rss))
 - What is 'zip-merging' and when should you do it? ([2 days ago](https://www.bbc.co.uk/news/articles/c75gv07l975o?at_medium=RSS&at_campaign=rss))
 - M5 closed as fire breaks out on lorry carrying wood ([2 days ago](https://www.bbc.co.uk/news/articles/c5y6w0pj7x9o?at_medium=RSS&at_campaign=rss))
-- Hosepipe ban possible without 'small changes' ([2 days ago](https://www.bbc.co.uk/news/articles/cp8x4n4ee25o?at_medium=RSS&at_campaign=rss))
 - Bridge closures to affect road and waterway users ([3 days ago](https://www.bbc.co.uk/news/articles/ce8lw88xypko?at_medium=RSS&at_campaign=rss))
 - Reach New Heights This Summer at The Brewery Quarter with Free Family Events Throughout August ([7 days ago](https://cheltenhambid.co.uk/2026/08/06/reach-new-heights-this-summer-at-the-brewery-quarter-with-free-family-events-throughout-august/))
 - Concerns town looks ‘neglected’ ([12 days ago](https://gloucesternewscentre.co.uk/concerns-town-looks-neglected/))
@@ -44,6 +44,5 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, Cheltenham BID, Cheltenh
 - Council revokes licence appeal for Hackney carriage driver ([28 days ago](https://gloucesternewscentre.co.uk/council-revokes-licence-appeal-for-hackney-carriage-driver/))
 - Gloucestershire’s councils will be replaced by one new unitary authority ([28 days ago](https://gloucesternewscentre.co.uk/gloucestershires-councils-will-be-replaced-by-one-new-unitary-authority/))
 - Man arrested following stabbing in Cheltenham ([28 days ago](https://gloucesternewscentre.co.uk/man-arrested-following-stabbing-in-cheltenham/))
-- Record £59,000 raised as 4,000 flock to Pied Piper car show at Highnam Court ([29 days ago](https://cheltenhampost.co.uk/record-59000-raised-as-4000-flock-to-pied-piper-car-show-at-highnam-court/))
 
 <!-- news_marker ends -->
