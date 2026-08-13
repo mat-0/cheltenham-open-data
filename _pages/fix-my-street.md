@@ -9,6 +9,13 @@ permalink: /cheltenham-fix-my-street
 
 <!-- fix_marker starts -->
 
+- Deep pothole outside highbank on a46 shurdington, 13th August :- [9941085](https://www.fixmystreet.com/report/9941085)
+- Abandoned trailer, 13th August :- [9941064](https://www.fixmystreet.com/report/9941064)
+- TMC - Defects - Vegetation problem, 13th August :- [9941030](https://www.fixmystreet.com/report/9941030)
+- TMC - Defects - Other FW6  Surface problem, 13th August :- [9941025](https://www.fixmystreet.com/report/9941025)
+- TMC - Defects - Other FW6  Surface problem, 13th August :- [9940909](https://www.fixmystreet.com/report/9940909)
+- Junction of Cedar Road With Maple Road Brockworth area of broken up pavement area, 13th August :- [9940829](https://www.fixmystreet.com/report/9940829)
+- Prince Albert Court - overgrown verge opposite houses h, 13th August :- [9940763](https://www.fixmystreet.com/report/9940763)
 - Broken glass on pavement outside Milsom Centre, 12th August :- [9940547](https://www.fixmystreet.com/report/9940547)
 - Rubbish on corner off Brunswick St & along pavement, 12th August :- [9939505](https://www.fixmystreet.com/report/9939505)
 - Marking sign hit by Amazon Van 11-8-26, 12th August :- [9939982](https://www.fixmystreet.com/report/9939982)
@@ -22,12 +29,5 @@ permalink: /cheltenham-fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 12th August :- [9938779](https://www.fixmystreet.com/report/9938779)
 - TMC - Defects -CW6 Potholes  problem, 12th August :- [9938778](https://www.fixmystreet.com/report/9938778)
 - TMC - Defects -CW6 Potholes  problem, 12th August :- [9938777](https://www.fixmystreet.com/report/9938777)
-- Uneven, broken slabs on the pavement, which is dangerous for pedestrians to walk on., 12th August :- [9938748](https://www.fixmystreet.com/report/9938748)
-- Repair to previous pothole is breaking up, 12th August :- [9938719](https://www.fixmystreet.com/report/9938719)
-- TMC - Defects - Vegetation problem, 12th August :- [9938771](https://www.fixmystreet.com/report/9938771)
-- TMC - Defects - Other FW6  Surface problem, 12th August :- [9938616](https://www.fixmystreet.com/report/9938616)
-- TMC - Defects - Vegetation problem, 12th August :- [9938447](https://www.fixmystreet.com/report/9938447)
-- TMC - Defects -CW6 Potholes  problem, 12th August :- [9938446](https://www.fixmystreet.com/report/9938446)
-- Other issue with a footway/pavement problem, 12th August :- [9938262](https://www.fixmystreet.com/report/9938262)
 
 <!-- fix_marker ends -->
