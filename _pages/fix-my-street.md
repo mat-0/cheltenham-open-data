@@ -9,6 +9,14 @@ permalink: /cheltenham-fix-my-street
 
 <!-- fix_marker starts -->
 
+- 4" pothole, 13th August :- [9944652](https://www.fixmystreet.com/report/9944652)
+- TMC - Defects -CW6 Potholes  problem, 13th August :- [9944667](https://www.fixmystreet.com/report/9944667)
+- The drain is blocked problem, 13th August :- [9944549](https://www.fixmystreet.com/report/9944549)
+- Light 43 on during day, 13th August :- [9944441](https://www.fixmystreet.com/report/9944441)
+- Grass or verge causing an obstruction or visibility problem, 13th August :- [9944431](https://www.fixmystreet.com/report/9944431)
+- TMC - Defects - Footways Slabs problem, 13th August :- [9944432](https://www.fixmystreet.com/report/9944432)
+- TMC - Defects -CW6 Potholes  problem, 13th August :- [9944288](https://www.fixmystreet.com/report/9944288)
+- TMC - Defects -CW6 Potholes  problem, 13th August :- [9944287](https://www.fixmystreet.com/report/9944287)
 - TMC - Defects - Vegetation problem, 13th August :- [9944031](https://www.fixmystreet.com/report/9944031)
 - TMC - Defects - Other problem, 13th August :- [9944030](https://www.fixmystreet.com/report/9944030)
 - Dear Sir/Madam, ﻿I would like to report very overgrown trees in our road - Orrisdale Terrace - that risk causing damage to the power and telephone lines. Recently they have grown to such an extent that the branches are now also hanging very low. This could prevent perfect visibility for motorists thereby potentially causing accidents. Residents of Orrisdale Terrace would be very grateful to the council cutting back and pruning the trees in our road. Yours fauthfully, 13th August :- [9943881](https://www.fixmystreet.com/report/9943881)
@@ -21,13 +29,5 @@ permalink: /cheltenham-fix-my-street
 - A car interior has been dumped, 13th August :- [9943648](https://www.fixmystreet.com/report/9943648)
 - TMC - Defects - Road Markings problem, 13th August :- [9943578](https://www.fixmystreet.com/report/9943578)
 - Pavement width greatly reduced by hedgerow growth, 13th August :- [9943544](https://www.fixmystreet.com/report/9943544)
-- Tree is damaged problem, 13th August :- [9943566](https://www.fixmystreet.com/report/9943566)
-- TMC - Defects - Vegetation problem, 13th August :- [9943575](https://www.fixmystreet.com/report/9943575)
-- Curb is broken, 13th August :- [9943480](https://www.fixmystreet.com/report/9943480)
-- TMC - Defects -other CW6 problem, 13th August :- [9943429](https://www.fixmystreet.com/report/9943429)
-- TMC - Defects - Vegetation problem, 13th August :- [9943424](https://www.fixmystreet.com/report/9943424)
-- TMC - Defects - Vegetation problem, 13th August :- [9943423](https://www.fixmystreet.com/report/9943423)
-- TMC - Defects - Vegetation problem, 13th August :- [9943421](https://www.fixmystreet.com/report/9943421)
-- TMC - Defects -CW6 Potholes  problem, 13th August :- [9943267](https://www.fixmystreet.com/report/9943267)
 
 <!-- fix_marker ends -->
