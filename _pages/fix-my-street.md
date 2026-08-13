@@ -9,6 +9,14 @@ permalink: /cheltenham-fix-my-street
 
 <!-- fix_marker starts -->
 
+- Stoplines faded, 13th August :- [9941630](https://www.fixmystreet.com/report/9941630)
+- TMC - Defects - Vegetation problem, 13th August :- [9941661](https://www.fixmystreet.com/report/9941661)
+- Risk to pedestrians on crossing, 13th August :- [9941454](https://www.fixmystreet.com/report/9941454)
+- TMC - Defects - Other FW6  Surface problem, 13th August :- [9941403](https://www.fixmystreet.com/report/9941403)
+- TMC - Defects - Vegetation problem, 13th August :- [9941400](https://www.fixmystreet.com/report/9941400)
+- Water is pouring out of a man hole and flooding the road, 13th August :- [9941285](https://www.fixmystreet.com/report/9941285)
+- Tree is damaged problem, 13th August :- [9941386](https://www.fixmystreet.com/report/9941386)
+- TMC - Defects - Vegetation problem, 13th August :- [9941202](https://www.fixmystreet.com/report/9941202)
 - Deep pothole outside highbank on a46 shurdington, 13th August :- [9941085](https://www.fixmystreet.com/report/9941085)
 - Abandoned trailer, 13th August :- [9941064](https://www.fixmystreet.com/report/9941064)
 - TMC - Defects - Vegetation problem, 13th August :- [9941030](https://www.fixmystreet.com/report/9941030)
@@ -21,13 +29,5 @@ permalink: /cheltenham-fix-my-street
 - Marking sign hit by Amazon Van 11-8-26, 12th August :- [9939982](https://www.fixmystreet.com/report/9939982)
 - Bushes overgrown forcing pedestrians on road., 12th August :- [9939925](https://www.fixmystreet.com/report/9939925)
 - Road needs resurfacing, 12th August :- [9939397](https://www.fixmystreet.com/report/9939397)
-- Tree is damaged problem, 12th August :- [9939087](https://www.fixmystreet.com/report/9939087)
-- Large vent in path water been leaking for several hours, 12th August :- [9938965](https://www.fixmystreet.com/report/9938965)
-- Periodic review - temporary directional signs [11473], 12th August :- [9938876](https://www.fixmystreet.com/report/9938876)
-- Pavement completely blocked, 12th August :- [9884327](https://www.fixmystreet.com/report/9884327)
-- TMC - Defects -CW6 Potholes  problem, 12th August :- [9938776](https://www.fixmystreet.com/report/9938776)
-- TMC - Defects -CW6 Potholes  problem, 12th August :- [9938779](https://www.fixmystreet.com/report/9938779)
-- TMC - Defects -CW6 Potholes  problem, 12th August :- [9938778](https://www.fixmystreet.com/report/9938778)
-- TMC - Defects -CW6 Potholes  problem, 12th August :- [9938777](https://www.fixmystreet.com/report/9938777)
 
 <!-- fix_marker ends -->
