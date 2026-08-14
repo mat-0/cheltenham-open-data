@@ -11,6 +11,7 @@ URL_4 ="https://www.cheltenham.gov.uk/rss/news"
 URL_5 ="https://cheltenhambid.co.uk/news/feed/"
 URL_6 ="https://cheltenhampost.co.uk/feed/"
 URL_7 ="https://www.goldenvalleyuk.com/blog?format=rss"
+URL_8 ="https://www.gov.uk/alerts/feed.atom"
 
 
 def time_ago(published_parsed):
@@ -33,7 +34,7 @@ if __name__ == "__main__":
     try:
         root = pathlib.Path(__file__).parent.parent.resolve()
 
-        urls = [URL_1, URL_2, URL_3, URL_4, URL_5, URL_6, URL_7]
+        urls = [URL_1, URL_2, URL_3, URL_4, URL_5, URL_6, URL_7, URL_8]
         all_items = []
 
         for URL in urls:
