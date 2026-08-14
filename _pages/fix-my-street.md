@@ -9,6 +9,9 @@ permalink: /cheltenham-fix-my-street
 
 <!-- fix_marker starts -->
 
+- Various rubbish fly tipped in gateway, 14th August :- [9949921](https://www.fixmystreet.com/report/9949921)
+- Cut back hedge, 14th August :- [9949738](https://www.fixmystreet.com/report/9949738)
+- Green man at same time as lights going green for a road, I experienced it at 16.20 today, not sure how long it has been an issue for today, 14th August :- [9949642](https://www.fixmystreet.com/report/9949642)
 - Light obscured, 14th August :- [9949381](https://www.fixmystreet.com/report/9949381)
 - Overgrown brambles onto parking and path, 14th August :- [9949369](https://www.fixmystreet.com/report/9949369)
 - Huge volume of potholes, 14th August :- [9949212](https://www.fixmystreet.com/report/9949212)
@@ -25,9 +28,6 @@ permalink: /cheltenham-fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 14th August :- [9948615](https://www.fixmystreet.com/report/9948615)
 - TMC - Defects - Other FW6  Surface problem, 14th August :- [9948431](https://www.fixmystreet.com/report/9948431)
 - TMC - Defects - Other FW6  Surface problem, 14th August :- [9948430](https://www.fixmystreet.com/report/9948430)
-- TMC - Defects -CW6 Potholes  problem, 14th August :- [9948426](https://www.fixmystreet.com/report/9948426)
 - TMC - Defects -other CW6 problem, 14th August :- [9948429](https://www.fixmystreet.com/report/9948429)
-- TMC - Defects -CW6 Potholes  problem, 14th August :- [9948425](https://www.fixmystreet.com/report/9948425)
-- TMC - Defects -other CW6 problem, 14th August :- [9948428](https://www.fixmystreet.com/report/9948428)
 
 <!-- fix_marker ends -->
