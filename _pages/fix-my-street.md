@@ -9,6 +9,7 @@ permalink: /cheltenham-fix-my-street
 
 <!-- fix_marker starts -->
 
+- Manhole cover loose/rattling, 14th August :- [9950483](https://www.fixmystreet.com/report/9950483)
 - Someone has been having fires here, 14th August :- [9950379](https://www.fixmystreet.com/report/9950379)
 - Pavement cracking, 14th August :- [9950357](https://www.fixmystreet.com/report/9950357)
 - Rubbish in road, 14th August :- [9950280](https://www.fixmystreet.com/report/9950280)
@@ -28,6 +29,5 @@ permalink: /cheltenham-fix-my-street
 - TMC - Defects -FW6 Potholes problem, 14th August :- [9948617](https://www.fixmystreet.com/report/9948617)
 - TMC - Defects -CW6 Potholes  problem, 14th August :- [9948616](https://www.fixmystreet.com/report/9948616)
 - TMC - Defects -FW6 Potholes problem, 14th August :- [9948618](https://www.fixmystreet.com/report/9948618)
-- TMC - Defects -CW6 Potholes  problem, 14th August :- [9948615](https://www.fixmystreet.com/report/9948615)
 
 <!-- fix_marker ends -->
