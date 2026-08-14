@@ -9,6 +9,7 @@ permalink: /cheltenham-fix-my-street
 
 <!-- fix_marker starts -->
 
+- Broken glass bottle, 14th August :- [9946007](https://www.fixmystreet.com/report/9946007)
 - Broken glass on Honeybourne Line, 14th August :- [9945760](https://www.fixmystreet.com/report/9945760)
 - Street light out, 13th August :- [9945676](https://www.fixmystreet.com/report/9945676)
 - Foot-sized sinkhole, 13th August :- [9945465](https://www.fixmystreet.com/report/9945465)
@@ -28,6 +29,5 @@ permalink: /cheltenham-fix-my-street
 - Yellow Kerb Markings not to specification, 13th August :- [9943858](https://www.fixmystreet.com/report/9943858)
 - TMC - Defects - Vegetation problem, 13th August :- [9943888](https://www.fixmystreet.com/report/9943888)
 - TMC - Defects - Other FW6  Surface problem, 13th August :- [9943887](https://www.fixmystreet.com/report/9943887)
-- TMC - Defects - Other FW6  Surface problem, 13th August :- [9943886](https://www.fixmystreet.com/report/9943886)
 
 <!-- fix_marker ends -->
