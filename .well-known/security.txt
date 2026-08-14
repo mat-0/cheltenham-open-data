@@ -5,6 +5,7 @@ permalink: /.well-known/security.txt
 
 # Security
 
+Contact: https://github.com/thechelsuk/uk.cheltenham-od/security/advisories/new
 Contact: security@cheltenham-od.uk
 Encryption: https://thechels.uk/pgp
 
