@@ -9,6 +9,9 @@ permalink: /cheltenham-fix-my-street
 
 <!-- fix_marker starts -->
 
+- Someone has been having fires here, 14th August :- [9950379](https://www.fixmystreet.com/report/9950379)
+- Pavement cracking, 14th August :- [9950357](https://www.fixmystreet.com/report/9950357)
+- Rubbish in road, 14th August :- [9950280](https://www.fixmystreet.com/report/9950280)
 - Various rubbish fly tipped in gateway, 14th August :- [9949921](https://www.fixmystreet.com/report/9949921)
 - Cut back hedge, 14th August :- [9949738](https://www.fixmystreet.com/report/9949738)
 - Green man at same time as lights going green for a road, I experienced it at 16.20 today, not sure how long it has been an issue for today, 14th August :- [9949642](https://www.fixmystreet.com/report/9949642)
@@ -26,8 +29,5 @@ permalink: /cheltenham-fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 14th August :- [9948616](https://www.fixmystreet.com/report/9948616)
 - TMC - Defects -FW6 Potholes problem, 14th August :- [9948618](https://www.fixmystreet.com/report/9948618)
 - TMC - Defects -CW6 Potholes  problem, 14th August :- [9948615](https://www.fixmystreet.com/report/9948615)
-- TMC - Defects - Other FW6  Surface problem, 14th August :- [9948431](https://www.fixmystreet.com/report/9948431)
-- TMC - Defects - Other FW6  Surface problem, 14th August :- [9948430](https://www.fixmystreet.com/report/9948430)
-- TMC - Defects -other CW6 problem, 14th August :- [9948429](https://www.fixmystreet.com/report/9948429)
 
 <!-- fix_marker ends -->
