@@ -9,6 +9,8 @@ permalink: /cheltenham-fix-my-street
 
 <!-- fix_marker starts -->
 
+- We tried accessing this footpath from both sides and could not find where it was supposd to go at this point! Searched along the hedges- no gap and no visible stile or gate. We assume it is too overgrown to see. We had to give up and find an alternative route, 15th August :- [9953709](https://www.fixmystreet.com/report/9953709)
+- Footpath bridge impassable- I had to fight brambles to go round the edge as the stream was dry and my sons climbed along the railings! Tree branches and brambles right over the bridge., 15th August :- [9953698](https://www.fixmystreet.com/report/9953698)
 - Blocked road gully, 15th August :- [9953582](https://www.fixmystreet.com/report/9953582)
 - Abandoned roadworks sign, 15th August :- [9953472](https://www.fixmystreet.com/report/9953472)
 - Large red barrier left near Boat House Cafe in Pittville Park, 15th August :- [9953440](https://www.fixmystreet.com/report/9953440)
@@ -27,7 +29,5 @@ permalink: /cheltenham-fix-my-street
 - Bin needs emptying, 15th August :- [9951924](https://www.fixmystreet.com/report/9951924)
 - Red light on, 15th August :- [9951626](https://www.fixmystreet.com/report/9951626)
 - This ‘wet’ section has now been present for over a month, it has not dried up which in this heat you’d expect it to have done. It is now attracting flies, although there doesn’t appear to be any smell, 15th August :- [9951679](https://www.fixmystreet.com/report/9951679)
-- Fly tipped pieces of mdf in parking area on Pittville Law nr albert road end, 15th August :- [9951372](https://www.fixmystreet.com/report/9951372)
-- Blocking footpath, 15th August :- [9951289](https://www.fixmystreet.com/report/9951289)
 
 <!-- fix_marker ends -->
