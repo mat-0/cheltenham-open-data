@@ -26,8 +26,8 @@ permalink: /cheltenham-fix-my-street
 - Hook and chain, 14th August :- [9948908](https://www.fixmystreet.com/report/9948908)
 - Side of road collapsed into ditch, 14th August :- [9948765](https://www.fixmystreet.com/report/9948765)
 - Overgrown vegetation on path/way problem, 14th August :- [9948795](https://www.fixmystreet.com/report/9948795)
-- TMC - Defects -FW6 Potholes problem, 14th August :- [9948618](https://www.fixmystreet.com/report/9948618)
-- TMC - Defects -CW6 Potholes  problem, 14th August :- [9948615](https://www.fixmystreet.com/report/9948615)
 - TMC - Defects -FW6 Potholes problem, 14th August :- [9948617](https://www.fixmystreet.com/report/9948617)
+- TMC - Defects -CW6 Potholes  problem, 14th August :- [9948616](https://www.fixmystreet.com/report/9948616)
+- TMC - Defects -FW6 Potholes problem, 14th August :- [9948618](https://www.fixmystreet.com/report/9948618)
 
 <!-- fix_marker ends -->
