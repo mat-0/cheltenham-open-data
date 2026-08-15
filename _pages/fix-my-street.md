@@ -9,6 +9,9 @@ permalink: /cheltenham-fix-my-street
 
 <!-- fix_marker starts -->
 
+- Bin needs emptying, 15th August :- [9951924](https://www.fixmystreet.com/report/9951924)
+- Red light on, 15th August :- [9951626](https://www.fixmystreet.com/report/9951626)
+- This ‘wet’ section has now been present for over a month, it has not dried up which in this heat you’d expect it to have done. It is now attracting flies, although there doesn’t appear to be any smell, 15th August :- [9951679](https://www.fixmystreet.com/report/9951679)
 - Fly tipped pieces of mdf in parking area on Pittville Law nr albert road end, 15th August :- [9951372](https://www.fixmystreet.com/report/9951372)
 - Blocking footpath, 15th August :- [9951289](https://www.fixmystreet.com/report/9951289)
 - Flytipped items, 15th August :- [9951242](https://www.fixmystreet.com/report/9951242)
@@ -26,8 +29,5 @@ permalink: /cheltenham-fix-my-street
 - Overgrown brambles onto parking and path, 14th August :- [9949369](https://www.fixmystreet.com/report/9949369)
 - Huge volume of potholes, 14th August :- [9949212](https://www.fixmystreet.com/report/9949212)
 - Dead Deer Minus Head, 14th August :- [9949083](https://www.fixmystreet.com/report/9949083)
-- Brushes and large trees need cuting back as they are encroaching on to Barrington Avenue and crs are parked on the road opposite so there is little room to drive along the road ? Bushes need cutting right back, 14th August :- [9948967](https://www.fixmystreet.com/report/9948967)
-- Other issue with a footway/pavement problem, 14th August :- [9949000](https://www.fixmystreet.com/report/9949000)
-- Flytipped mattress, 14th August :- [9948923](https://www.fixmystreet.com/report/9948923)
 
 <!-- fix_marker ends -->
