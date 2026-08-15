@@ -9,6 +9,10 @@ permalink: /cheltenham-fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fly tipped pieces of mdf in parking area on Pittville Law nr albert road end, 15th August :- [9951372](https://www.fixmystreet.com/report/9951372)
+- Blocking footpath, 15th August :- [9951289](https://www.fixmystreet.com/report/9951289)
+- Flytipped items, 15th August :- [9951242](https://www.fixmystreet.com/report/9951242)
+- Sign is obscured by hedge, 15th August :- [9951172](https://www.fixmystreet.com/report/9951172)
 - Sunken tarmac from previous road works, 15th August :- [9951071](https://www.fixmystreet.com/report/9951071)
 - Lighting on cycle path, 15th August :- [9950948](https://www.fixmystreet.com/report/9950948)
 - Manhole cover loose/rattling, 14th August :- [9950483](https://www.fixmystreet.com/report/9950483)
@@ -25,9 +29,5 @@ permalink: /cheltenham-fix-my-street
 - Brushes and large trees need cuting back as they are encroaching on to Barrington Avenue and crs are parked on the road opposite so there is little room to drive along the road ? Bushes need cutting right back, 14th August :- [9948967](https://www.fixmystreet.com/report/9948967)
 - Other issue with a footway/pavement problem, 14th August :- [9949000](https://www.fixmystreet.com/report/9949000)
 - Flytipped mattress, 14th August :- [9948923](https://www.fixmystreet.com/report/9948923)
-- Hook and chain, 14th August :- [9948908](https://www.fixmystreet.com/report/9948908)
-- Side of road collapsed into ditch, 14th August :- [9948765](https://www.fixmystreet.com/report/9948765)
-- Overgrown vegetation on path/way problem, 14th August :- [9948795](https://www.fixmystreet.com/report/9948795)
-- TMC - Defects -FW6 Potholes problem, 14th August :- [9948618](https://www.fixmystreet.com/report/9948618)
 
 <!-- fix_marker ends -->
