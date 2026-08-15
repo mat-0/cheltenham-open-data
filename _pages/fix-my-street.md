@@ -9,6 +9,9 @@ permalink: /cheltenham-fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large pothole just caused puncture, 15th August :- [9953027](https://www.fixmystreet.com/report/9953027)
+- Collapse, 15th August :- [9953028](https://www.fixmystreet.com/report/9953028)
+- Pavement worn away, 15th August :- [9952868](https://www.fixmystreet.com/report/9952868)
 - 3 foot long surface pothole in middle of the road - causing issues for cyclists to turn right on the national cycle route, 15th August :- [9952516](https://www.fixmystreet.com/report/9952516)
 - Prestbury Double roundabout needs to be re-lined, 15th August :- [9952439](https://www.fixmystreet.com/report/9952439)
 - Bin cover moved, 15th August :- [9952275](https://www.fixmystreet.com/report/9952275)
@@ -26,8 +29,5 @@ permalink: /cheltenham-fix-my-street
 - Flytipped items, 15th August :- [9951242](https://www.fixmystreet.com/report/9951242)
 - Sign is obscured by hedge, 15th August :- [9951172](https://www.fixmystreet.com/report/9951172)
 - Sunken tarmac from previous road works, 15th August :- [9951071](https://www.fixmystreet.com/report/9951071)
-- Lighting on cycle path, 15th August :- [9950948](https://www.fixmystreet.com/report/9950948)
-- Manhole cover loose/rattling, 14th August :- [9950483](https://www.fixmystreet.com/report/9950483)
-- Someone has been having fires here, 14th August :- [9950379](https://www.fixmystreet.com/report/9950379)
 
 <!-- fix_marker ends -->
