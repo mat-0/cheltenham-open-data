@@ -9,6 +9,7 @@ permalink: /cheltenham-fix-my-street
 
 <!-- fix_marker starts -->
 
+- Potholes here are making a dangerous loose surface for Motorcyclist's, 15th August :- [9953887](https://www.fixmystreet.com/report/9953887)
 - We tried accessing this footpath from both sides and could not find where it was supposd to go at this point! Searched along the hedges- no gap and no visible stile or gate. We assume it is too overgrown to see. We had to give up and find an alternative route, 15th August :- [9953709](https://www.fixmystreet.com/report/9953709)
 - Footpath bridge impassable- I had to fight brambles to go round the edge as the stream was dry and my sons climbed along the railings! Tree branches and brambles right over the bridge., 15th August :- [9953698](https://www.fixmystreet.com/report/9953698)
 - Blocked road gully, 15th August :- [9953582](https://www.fixmystreet.com/report/9953582)
@@ -28,6 +29,5 @@ permalink: /cheltenham-fix-my-street
 - Flytipped items, 15th August :- [9952072](https://www.fixmystreet.com/report/9952072)
 - Bin needs emptying, 15th August :- [9951924](https://www.fixmystreet.com/report/9951924)
 - Red light on, 15th August :- [9951626](https://www.fixmystreet.com/report/9951626)
-- This ‘wet’ section has now been present for over a month, it has not dried up which in this heat you’d expect it to have done. It is now attracting flies, although there doesn’t appear to be any smell, 15th August :- [9951679](https://www.fixmystreet.com/report/9951679)
 
 <!-- fix_marker ends -->
