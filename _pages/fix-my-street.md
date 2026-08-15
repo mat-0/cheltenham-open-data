@@ -9,6 +9,9 @@ permalink: /cheltenham-fix-my-street
 
 <!-- fix_marker starts -->
 
+- Blocked road gully, 15th August :- [9953582](https://www.fixmystreet.com/report/9953582)
+- Abandoned roadworks sign, 15th August :- [9953472](https://www.fixmystreet.com/report/9953472)
+- Large red barrier left near Boat House Cafe in Pittville Park, 15th August :- [9953440](https://www.fixmystreet.com/report/9953440)
 - Large pothole just caused puncture, 15th August :- [9953027](https://www.fixmystreet.com/report/9953027)
 - Collapse, 15th August :- [9953028](https://www.fixmystreet.com/report/9953028)
 - Pavement worn away, 15th August :- [9952868](https://www.fixmystreet.com/report/9952868)
@@ -26,8 +29,5 @@ permalink: /cheltenham-fix-my-street
 - This ‘wet’ section has now been present for over a month, it has not dried up which in this heat you’d expect it to have done. It is now attracting flies, although there doesn’t appear to be any smell, 15th August :- [9951679](https://www.fixmystreet.com/report/9951679)
 - Fly tipped pieces of mdf in parking area on Pittville Law nr albert road end, 15th August :- [9951372](https://www.fixmystreet.com/report/9951372)
 - Blocking footpath, 15th August :- [9951289](https://www.fixmystreet.com/report/9951289)
-- Flytipped items, 15th August :- [9951242](https://www.fixmystreet.com/report/9951242)
-- Sign is obscured by hedge, 15th August :- [9951172](https://www.fixmystreet.com/report/9951172)
-- Sunken tarmac from previous road works, 15th August :- [9951071](https://www.fixmystreet.com/report/9951071)
 
 <!-- fix_marker ends -->
