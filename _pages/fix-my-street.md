@@ -9,6 +9,15 @@ permalink: /cheltenham-fix-my-street
 
 <!-- fix_marker starts -->
 
+- 3 foot long surface pothole in middle of the road - causing issues for cyclists to turn right on the national cycle route, 15th August :- [9952516](https://www.fixmystreet.com/report/9952516)
+- Prestbury Double roundabout needs to be re-lined, 15th August :- [9952439](https://www.fixmystreet.com/report/9952439)
+- Bin cover moved, 15th August :- [9952275](https://www.fixmystreet.com/report/9952275)
+- Litterpicking to be collected, 15th August :- [9952258](https://www.fixmystreet.com/report/9952258)
+- Pothole beside drain lid exposing edge of lid, 15th August :- [9952253](https://www.fixmystreet.com/report/9952253)
+- Flytipped items, 15th August :- [9952237](https://www.fixmystreet.com/report/9952237)
+- Flytipped item, 15th August :- [9952213](https://www.fixmystreet.com/report/9952213)
+- Litterpicking to be collected, 15th August :- [9952160](https://www.fixmystreet.com/report/9952160)
+- Flytipped items, 15th August :- [9952072](https://www.fixmystreet.com/report/9952072)
 - Bin needs emptying, 15th August :- [9951924](https://www.fixmystreet.com/report/9951924)
 - Red light on, 15th August :- [9951626](https://www.fixmystreet.com/report/9951626)
 - This ‘wet’ section has now been present for over a month, it has not dried up which in this heat you’d expect it to have done. It is now attracting flies, although there doesn’t appear to be any smell, 15th August :- [9951679](https://www.fixmystreet.com/report/9951679)
@@ -20,14 +29,5 @@ permalink: /cheltenham-fix-my-street
 - Lighting on cycle path, 15th August :- [9950948](https://www.fixmystreet.com/report/9950948)
 - Manhole cover loose/rattling, 14th August :- [9950483](https://www.fixmystreet.com/report/9950483)
 - Someone has been having fires here, 14th August :- [9950379](https://www.fixmystreet.com/report/9950379)
-- Pavement cracking, 14th August :- [9950357](https://www.fixmystreet.com/report/9950357)
-- Rubbish in road, 14th August :- [9950280](https://www.fixmystreet.com/report/9950280)
-- Various rubbish fly tipped in gateway, 14th August :- [9949921](https://www.fixmystreet.com/report/9949921)
-- Cut back hedge, 14th August :- [9949738](https://www.fixmystreet.com/report/9949738)
-- Green man at same time as lights going green for a road, I experienced it at 16.20 today, not sure how long it has been an issue for today, 14th August :- [9949642](https://www.fixmystreet.com/report/9949642)
-- Light obscured, 14th August :- [9949381](https://www.fixmystreet.com/report/9949381)
-- Overgrown brambles onto parking and path, 14th August :- [9949369](https://www.fixmystreet.com/report/9949369)
-- Huge volume of potholes, 14th August :- [9949212](https://www.fixmystreet.com/report/9949212)
-- Dead Deer Minus Head, 14th August :- [9949083](https://www.fixmystreet.com/report/9949083)
 
 <!-- fix_marker ends -->
