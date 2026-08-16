@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, Cheltenham BID, Cheltenh
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Congestion 'is like living next to busy motorway' ([8 hours ago](https://www.bbc.co.uk/news/articles/c4gjjx35xwzo?at_medium=RSS&at_campaign=rss))
-- Historic lido reopens after almost a year ([20 hours ago](https://www.bbc.co.uk/news/articles/cp9el424gj9o?at_medium=RSS&at_campaign=rss))
-- Christmas in August, dumped fridge and 'beloved milkman' ([20 hours ago](https://www.bbc.co.uk/news/articles/c0rdjrjpd57o?at_medium=RSS&at_campaign=rss))
+- Congestion 'is like living next to busy motorway' ([9 hours ago](https://www.bbc.co.uk/news/articles/c4gjjx35xwzo?at_medium=RSS&at_campaign=rss))
+- Historic lido reopens after almost a year ([22 hours ago](https://www.bbc.co.uk/news/articles/cp9el424gj9o?at_medium=RSS&at_campaign=rss))
+- Christmas in August, dumped fridge and 'beloved milkman' ([22 hours ago](https://www.bbc.co.uk/news/articles/c0rdjrjpd57o?at_medium=RSS&at_campaign=rss))
 - BBC Radio Gloucestershire Special ([1 days ago](https://www.bbc.co.uk/sounds/play/m002hp4x?at_medium=RSS&at_campaign=rss))
 - England, Wales ([1 days ago](https://www.gov.uk/alerts/14-aug-2026-2))
 - Wales ([1 days ago](https://www.gov.uk/alerts/14-aug-2026))

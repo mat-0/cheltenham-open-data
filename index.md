@@ -11,11 +11,11 @@ Collecting and sharing frequently updated local open data for Cheltenham and Glo
 <!-- weather_marker starts -->
 ## On Sunday, 16 August 2026
 
-- The average temperature today is 12.89˚C,
-- With highs of 13.87˚C and lows of 11.96˚C,
-- It may feel like 12.3˚C with overcast clouds
-- The wind speed is 1.97m/s and visibility is 10000m
-- The pressure is 1018hPa and humidity is 79%
+- The average temperature today is 13.33˚C,
+- With highs of 13.87˚C and lows of 12.6˚C,
+- It may feel like 12.76˚C with overcast clouds
+- The wind speed is 0.45m/s and visibility is 10000m
+- The pressure is 1019hPa and humidity is 78%
 - The sun will rise at 04:54 and set at 19:31
 
 <!-- weather_marker ends -->
