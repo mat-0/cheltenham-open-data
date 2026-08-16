@@ -9,6 +9,8 @@ permalink: /cheltenham-fix-my-street
 
 <!-- fix_marker starts -->
 
+- This footpath is still blocked by a locked gate, 16th August :- [9956377](https://www.fixmystreet.com/report/9956377)
+- Footpath blocked with fencing across stile and locked gate., 16th August :- [9956345](https://www.fixmystreet.com/report/9956345)
 - Large amount of overgrown weeds blocking pavement, 16th August :- [9955635](https://www.fixmystreet.com/report/9955635)
 - Fly tipping, 16th August :- [9955551](https://www.fixmystreet.com/report/9955551)
 - By the lights the manhole has sunk, 16th August :- [9955345](https://www.fixmystreet.com/report/9955345)
@@ -27,7 +29,5 @@ permalink: /cheltenham-fix-my-street
 - Footpath bridge impassable- I had to fight brambles to go round the edge as the stream was dry and my sons climbed along the railings! Tree branches and brambles right over the bridge., 15th August :- [9953698](https://www.fixmystreet.com/report/9953698)
 - Blocked road gully, 15th August :- [9953582](https://www.fixmystreet.com/report/9953582)
 - Abandoned roadworks sign, 15th August :- [9953472](https://www.fixmystreet.com/report/9953472)
-- Large red barrier left near Boat House Cafe in Pittville Park, 15th August :- [9953440](https://www.fixmystreet.com/report/9953440)
-- Large pothole just caused puncture, 15th August :- [9953027](https://www.fixmystreet.com/report/9953027)
 
 <!-- fix_marker ends -->
