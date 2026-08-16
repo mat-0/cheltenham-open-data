@@ -9,6 +9,7 @@ permalink: /cheltenham-fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large amount of overgrown weeds blocking pavement, 16th August :- [9955635](https://www.fixmystreet.com/report/9955635)
 - Fly tipping, 16th August :- [9955551](https://www.fixmystreet.com/report/9955551)
 - By the lights the manhole has sunk, 16th August :- [9955345](https://www.fixmystreet.com/report/9955345)
 - More flytipping in Glencairn Park Road, 16th August :- [9955083](https://www.fixmystreet.com/report/9955083)
@@ -28,6 +29,5 @@ permalink: /cheltenham-fix-my-street
 - Abandoned roadworks sign, 15th August :- [9953472](https://www.fixmystreet.com/report/9953472)
 - Large red barrier left near Boat House Cafe in Pittville Park, 15th August :- [9953440](https://www.fixmystreet.com/report/9953440)
 - Large pothole just caused puncture, 15th August :- [9953027](https://www.fixmystreet.com/report/9953027)
-- Collapse, 15th August :- [9953028](https://www.fixmystreet.com/report/9953028)
 
 <!-- fix_marker ends -->
