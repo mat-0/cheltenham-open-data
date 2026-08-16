@@ -9,6 +9,9 @@ permalink: /cheltenham-fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fly tipping, 16th August :- [9955551](https://www.fixmystreet.com/report/9955551)
+- By the lights the manhole has sunk, 16th August :- [9955345](https://www.fixmystreet.com/report/9955345)
+- More flytipping in Glencairn Park Road, 16th August :- [9955083](https://www.fixmystreet.com/report/9955083)
 - Roundabout handle broken/rusty, 16th August :- [9954692](https://www.fixmystreet.com/report/9954692)
 - Broken wooden fence with loose, exposed nails creating a safety hazard., 16th August :- [9954476](https://www.fixmystreet.com/report/9954476)
 - Huge man hole cover missing, 16th August :- [9954428](https://www.fixmystreet.com/report/9954428)
@@ -26,8 +29,5 @@ permalink: /cheltenham-fix-my-street
 - Large red barrier left near Boat House Cafe in Pittville Park, 15th August :- [9953440](https://www.fixmystreet.com/report/9953440)
 - Large pothole just caused puncture, 15th August :- [9953027](https://www.fixmystreet.com/report/9953027)
 - Collapse, 15th August :- [9953028](https://www.fixmystreet.com/report/9953028)
-- Pavement worn away, 15th August :- [9952868](https://www.fixmystreet.com/report/9952868)
-- 3 foot long surface pothole in middle of the road - causing issues for cyclists to turn right on the national cycle route, 15th August :- [9952516](https://www.fixmystreet.com/report/9952516)
-- Prestbury Double roundabout needs to be re-lined, 15th August :- [9952439](https://www.fixmystreet.com/report/9952439)
 
 <!-- fix_marker ends -->
