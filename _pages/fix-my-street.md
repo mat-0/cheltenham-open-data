@@ -9,6 +9,11 @@ permalink: /cheltenham-fix-my-street
 
 <!-- fix_marker starts -->
 
+- Broken wooden fence with loose, exposed nails creating a safety hazard., 16th August :- [9954476](https://www.fixmystreet.com/report/9954476)
+- Huge man hole cover missing, 16th August :- [9954428](https://www.fixmystreet.com/report/9954428)
+- Temporary lights not working, 16th August :- [9954216](https://www.fixmystreet.com/report/9954216)
+- Foliage hiding traffic lights, left and right hand side of road, 16th August :- [9954199](https://www.fixmystreet.com/report/9954199)
+- Herd of wild horses out of control, 16th August :- [9954174](https://www.fixmystreet.com/report/9954174)
 - Volunteer litter pick bags ready for collection, 16th August :- [9954077](https://www.fixmystreet.com/report/9954077)
 - Ugly plastic barriers in central part of roundabout, 16th August :- [9954070](https://www.fixmystreet.com/report/9954070)
 - Finger board showing Gotherington 3 miles is facing wrong direction, 16th August :- [9954015](https://www.fixmystreet.com/report/9954015)
@@ -24,10 +29,5 @@ permalink: /cheltenham-fix-my-street
 - 3 foot long surface pothole in middle of the road - causing issues for cyclists to turn right on the national cycle route, 15th August :- [9952516](https://www.fixmystreet.com/report/9952516)
 - Prestbury Double roundabout needs to be re-lined, 15th August :- [9952439](https://www.fixmystreet.com/report/9952439)
 - Bin cover moved, 15th August :- [9952275](https://www.fixmystreet.com/report/9952275)
-- Litterpicking to be collected, 15th August :- [9952258](https://www.fixmystreet.com/report/9952258)
-- Pothole beside drain lid exposing edge of lid, 15th August :- [9952253](https://www.fixmystreet.com/report/9952253)
-- Flytipped items, 15th August :- [9952237](https://www.fixmystreet.com/report/9952237)
-- Flytipped item, 15th August :- [9952213](https://www.fixmystreet.com/report/9952213)
-- Litterpicking to be collected, 15th August :- [9952160](https://www.fixmystreet.com/report/9952160)
 
 <!-- fix_marker ends -->
