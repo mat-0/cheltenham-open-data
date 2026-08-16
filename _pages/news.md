@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, Cheltenham BID, Cheltenh
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Murder arrest after woman in 90s dies in house fire ([8 hours ago](https://www.bbc.co.uk/news/articles/cwyllx8jgkgo?at_medium=RSS&at_campaign=rss))
-- Why Gen Z women know more about periods than their mums ([14 hours ago](https://www.bbc.co.uk/news/articles/c5y0qp43zv0o?at_medium=RSS&at_campaign=rss))
-- 'People don't expect disabled people to have sex' ([14 hours ago](https://www.bbc.co.uk/news/articles/c8e2n6w3y2po?at_medium=RSS&at_campaign=rss))
-- In pictures: Eclipse, elephants and wedding cow ([14 hours ago](https://www.bbc.co.uk/news/articles/ceqevqwr1x5o?at_medium=RSS&at_campaign=rss))
+- Murder arrest after woman in 90s dies in house fire ([10 hours ago](https://www.bbc.co.uk/news/articles/cwyllx8jgkgo?at_medium=RSS&at_campaign=rss))
+- Why Gen Z women know more about periods than their mums ([16 hours ago](https://www.bbc.co.uk/news/articles/c5y0qp43zv0o?at_medium=RSS&at_campaign=rss))
+- 'People don't expect disabled people to have sex' ([16 hours ago](https://www.bbc.co.uk/news/articles/c8e2n6w3y2po?at_medium=RSS&at_campaign=rss))
+- In pictures: Eclipse, elephants and wedding cow ([16 hours ago](https://www.bbc.co.uk/news/articles/ceqevqwr1x5o?at_medium=RSS&at_campaign=rss))
 - Congestion 'is like living next to busy motorway' ([1 days ago](https://www.bbc.co.uk/news/articles/c4gjjx35xwzo?at_medium=RSS&at_campaign=rss))
 - Historic lido reopens after almost a year ([1 days ago](https://www.bbc.co.uk/news/articles/cp9el424gj9o?at_medium=RSS&at_campaign=rss))
 - Christmas in August, dumped fridge and 'beloved milkman' ([1 days ago](https://www.bbc.co.uk/news/articles/c0rdjrjpd57o?at_medium=RSS&at_campaign=rss))
@@ -36,9 +36,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, Cheltenham BID, Cheltenh
 - How students in the West marked A-Level result day ([3 days ago](https://www.bbc.co.uk/news/articles/c4gj4y37zv3o?at_medium=RSS&at_campaign=rss))
 - CCTV appeal following high-value theft from jewellers in Cheltenham ([5 days ago](https://gloucesternewscentre.co.uk/cctv-appeal-following-high-value-theft-from-jewellers-in-cheltenham/))
 - Reach New Heights This Summer at The Brewery Quarter with Free Family Events Throughout August ([10 days ago](https://cheltenhambid.co.uk/2026/08/06/reach-new-heights-this-summer-at-the-brewery-quarter-with-free-family-events-throughout-august/))
-- Concerns town looks ‘neglected’ ([15 days ago](https://gloucesternewscentre.co.uk/concerns-town-looks-neglected/))
-- Windows of Cav House to display artwork ([15 days ago](https://gloucesternewscentre.co.uk/windows-of-cav-house-to-display-artwork/))
-- Questions over Municipal Offices sale ([15 days ago](https://gloucesternewscentre.co.uk/questions-over-municipal-offices-sale/))
+- Concerns town looks ‘neglected’ ([16 days ago](https://gloucesternewscentre.co.uk/concerns-town-looks-neglected/))
+- Windows of Cav House to display artwork ([16 days ago](https://gloucesternewscentre.co.uk/windows-of-cav-house-to-display-artwork/))
+- Questions over Municipal Offices sale ([16 days ago](https://gloucesternewscentre.co.uk/questions-over-municipal-offices-sale/))
 - More than 900 people respond to engagement on future management of Cheltenham’s High Street and Promenade ([25 days ago](https://cheltenhambid.co.uk/2026/07/22/more-than-900-people-respond-to-engagement-on-future-management-of-cheltenhams-high-street-and-promenade/))
 
 <!-- news_marker ends -->
