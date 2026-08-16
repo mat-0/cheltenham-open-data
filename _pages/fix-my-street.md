@@ -9,6 +9,7 @@ permalink: /cheltenham-fix-my-street
 
 <!-- fix_marker starts -->
 
+- Roundabout handle broken/rusty, 16th August :- [9954692](https://www.fixmystreet.com/report/9954692)
 - Broken wooden fence with loose, exposed nails creating a safety hazard., 16th August :- [9954476](https://www.fixmystreet.com/report/9954476)
 - Huge man hole cover missing, 16th August :- [9954428](https://www.fixmystreet.com/report/9954428)
 - Temporary lights not working, 16th August :- [9954216](https://www.fixmystreet.com/report/9954216)
@@ -28,6 +29,5 @@ permalink: /cheltenham-fix-my-street
 - Pavement worn away, 15th August :- [9952868](https://www.fixmystreet.com/report/9952868)
 - 3 foot long surface pothole in middle of the road - causing issues for cyclists to turn right on the national cycle route, 15th August :- [9952516](https://www.fixmystreet.com/report/9952516)
 - Prestbury Double roundabout needs to be re-lined, 15th August :- [9952439](https://www.fixmystreet.com/report/9952439)
-- Bin cover moved, 15th August :- [9952275](https://www.fixmystreet.com/report/9952275)
 
 <!-- fix_marker ends -->
