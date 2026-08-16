@@ -9,6 +9,9 @@ permalink: /cheltenham-fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree blocking access to my drive, 16th August :- [9956821](https://www.fixmystreet.com/report/9956821)
+- Tarmac degraded, 16th August :- [9956747](https://www.fixmystreet.com/report/9956747)
+- Footpath falling apart, 16th August :- [9956617](https://www.fixmystreet.com/report/9956617)
 - This footpath is still blocked by a locked gate, 16th August :- [9956377](https://www.fixmystreet.com/report/9956377)
 - Footpath blocked with fencing across stile and locked gate., 16th August :- [9956345](https://www.fixmystreet.com/report/9956345)
 - Large amount of overgrown weeds blocking pavement, 16th August :- [9955635](https://www.fixmystreet.com/report/9955635)
@@ -26,8 +29,5 @@ permalink: /cheltenham-fix-my-street
 - Finger board showing Gotherington 3 miles is facing wrong direction, 16th August :- [9954015](https://www.fixmystreet.com/report/9954015)
 - Potholes here are making a dangerous loose surface for Motorcyclist's, 15th August :- [9953887](https://www.fixmystreet.com/report/9953887)
 - We tried accessing this footpath from both sides and could not find where it was supposd to go at this point! Searched along the hedges- no gap and no visible stile or gate. We assume it is too overgrown to see. We had to give up and find an alternative route, 15th August :- [9953709](https://www.fixmystreet.com/report/9953709)
-- Footpath bridge impassable- I had to fight brambles to go round the edge as the stream was dry and my sons climbed along the railings! Tree branches and brambles right over the bridge., 15th August :- [9953698](https://www.fixmystreet.com/report/9953698)
-- Blocked road gully, 15th August :- [9953582](https://www.fixmystreet.com/report/9953582)
-- Abandoned roadworks sign, 15th August :- [9953472](https://www.fixmystreet.com/report/9953472)
 
 <!-- fix_marker ends -->
