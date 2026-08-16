@@ -9,6 +9,9 @@ permalink: /cheltenham-fix-my-street
 
 <!-- fix_marker starts -->
 
+- Streetlight not working, 16th August :- [9957195](https://www.fixmystreet.com/report/9957195)
+- You say it’s been fixed it hasn’t! It’s making the noise as before!, 16th August :- [9957184](https://www.fixmystreet.com/report/9957184)
+- Around 20 inches approx at least pot hole - multiple down, 16th August :- [9957070](https://www.fixmystreet.com/report/9957070)
 - Tree blocking access to my drive, 16th August :- [9956821](https://www.fixmystreet.com/report/9956821)
 - Tarmac degraded, 16th August :- [9956747](https://www.fixmystreet.com/report/9956747)
 - Footpath falling apart, 16th August :- [9956617](https://www.fixmystreet.com/report/9956617)
@@ -26,8 +29,5 @@ permalink: /cheltenham-fix-my-street
 - Herd of wild horses out of control, 16th August :- [9954174](https://www.fixmystreet.com/report/9954174)
 - Volunteer litter pick bags ready for collection, 16th August :- [9954077](https://www.fixmystreet.com/report/9954077)
 - Ugly plastic barriers in central part of roundabout, 16th August :- [9954070](https://www.fixmystreet.com/report/9954070)
-- Finger board showing Gotherington 3 miles is facing wrong direction, 16th August :- [9954015](https://www.fixmystreet.com/report/9954015)
-- Potholes here are making a dangerous loose surface for Motorcyclist's, 15th August :- [9953887](https://www.fixmystreet.com/report/9953887)
-- We tried accessing this footpath from both sides and could not find where it was supposd to go at this point! Searched along the hedges- no gap and no visible stile or gate. We assume it is too overgrown to see. We had to give up and find an alternative route, 15th August :- [9953709](https://www.fixmystreet.com/report/9953709)
 
 <!-- fix_marker ends -->
