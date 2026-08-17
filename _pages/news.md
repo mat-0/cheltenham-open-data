@@ -12,8 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, Cheltenham BID, Cheltenh
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Park cleared to reopen with asbestos risk 'very low' ([3 hours ago](https://www.bbc.co.uk/news/articles/c0m7ylvvemjo?at_medium=RSS&at_campaign=rss))
-- Murder arrest after woman in 90s dies in house fire ([20 hours ago](https://www.bbc.co.uk/news/articles/cwyllx8jgkgo?at_medium=RSS&at_campaign=rss))
+- First hosepipe ban since 1976 in Wessex Water area ([44 minutes ago](https://www.bbc.co.uk/news/articles/crmr9zk393yo?at_medium=RSS&at_campaign=rss))
+- Park cleared to reopen with asbestos risk 'very low' ([5 hours ago](https://www.bbc.co.uk/news/articles/c0m7ylvvemjo?at_medium=RSS&at_campaign=rss))
+- Murder arrest after woman in 90s dies in house fire ([22 hours ago](https://www.bbc.co.uk/news/articles/cwyllx8jgkgo?at_medium=RSS&at_campaign=rss))
 - Why Gen Z women know more about periods than their mums ([1 days ago](https://www.bbc.co.uk/news/articles/c5y0qp43zv0o?at_medium=RSS&at_campaign=rss))
 - 'People don't expect disabled people to have sex' ([1 days ago](https://www.bbc.co.uk/news/articles/c8e2n6w3y2po?at_medium=RSS&at_campaign=rss))
 - In pictures: Eclipse, elephants and wedding cow ([1 days ago](https://www.bbc.co.uk/news/articles/ceqevqwr1x5o?at_medium=RSS&at_campaign=rss))
@@ -33,9 +34,8 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, Cheltenham BID, Cheltenh
 - Car boot sale's 'unique counter-culture' captured ([3 days ago](https://www.bbc.co.uk/news/articles/c0qv2wk3nz3o?at_medium=RSS&at_campaign=rss))
 - Flagship store closure is 'dramatic loss' for town ([3 days ago](https://www.bbc.co.uk/news/articles/czxe2e3xlgdo?at_medium=RSS&at_campaign=rss))
 - Motorcyclist dies after three-vehicle crash ([3 days ago](https://www.bbc.co.uk/news/articles/cwy4253q711o?at_medium=RSS&at_campaign=rss))
-- 'Beloved' former town crier and 'icon' dies aged 84 ([3 days ago](https://www.bbc.co.uk/news/articles/c4g3vq45z4yo?at_medium=RSS&at_campaign=rss))
 - CCTV appeal following high-value theft from jewellers in Cheltenham ([5 days ago](https://gloucesternewscentre.co.uk/cctv-appeal-following-high-value-theft-from-jewellers-in-cheltenham/))
-- Reach New Heights This Summer at The Brewery Quarter with Free Family Events Throughout August ([10 days ago](https://cheltenhambid.co.uk/2026/08/06/reach-new-heights-this-summer-at-the-brewery-quarter-with-free-family-events-throughout-august/))
+- Reach New Heights This Summer at The Brewery Quarter with Free Family Events Throughout August ([11 days ago](https://cheltenhambid.co.uk/2026/08/06/reach-new-heights-this-summer-at-the-brewery-quarter-with-free-family-events-throughout-august/))
 - Concerns town looks ‘neglected’ ([16 days ago](https://gloucesternewscentre.co.uk/concerns-town-looks-neglected/))
 - Windows of Cav House to display artwork ([16 days ago](https://gloucesternewscentre.co.uk/windows-of-cav-house-to-display-artwork/))
 - Questions over Municipal Offices sale ([16 days ago](https://gloucesternewscentre.co.uk/questions-over-municipal-offices-sale/))

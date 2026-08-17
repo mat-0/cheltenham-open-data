@@ -9,6 +9,10 @@ permalink: /cheltenham-fix-my-street
 
 <!-- fix_marker starts -->
 
+- Litter picking recycle bag, 17th August :- [9959686](https://www.fixmystreet.com/report/9959686)
+- Waste Bin Needs Emptying, 17th August :- [9959502](https://www.fixmystreet.com/report/9959502)
+- Thr rat issue is getting to much in albion walk because of this pathhose and all the bussinesses like KFC, Subway and turtle bay are worried about this issue, 17th August :- [9959344](https://www.fixmystreet.com/report/9959344)
+- PArking restriction sign left on post after works, 17th August :- [9958887](https://www.fixmystreet.com/report/9958887)
 - Drains opposite montpellier gardens in montpellier spa road completely blocked. as are ones in the gardens, 17th August :- [9958746](https://www.fixmystreet.com/report/9958746)
 - Advertising banners, posters and abandoned signs: A435/Finlay Way, Bishop’s Cleeve, 17th August :- [9958564](https://www.fixmystreet.com/report/9958564)
 - Street lighting, 17th August :- [9958404](https://www.fixmystreet.com/report/9958404)
@@ -25,9 +29,5 @@ permalink: /cheltenham-fix-my-street
 - Tree blocking access to my drive, 16th August :- [9956821](https://www.fixmystreet.com/report/9956821)
 - Tarmac degraded, 16th August :- [9956747](https://www.fixmystreet.com/report/9956747)
 - Footpath falling apart, 16th August :- [9956617](https://www.fixmystreet.com/report/9956617)
-- This footpath is still blocked by a locked gate, 16th August :- [9956377](https://www.fixmystreet.com/report/9956377)
-- Footpath blocked with fencing across stile and locked gate., 16th August :- [9956345](https://www.fixmystreet.com/report/9956345)
-- Large amount of overgrown weeds blocking pavement, 16th August :- [9955635](https://www.fixmystreet.com/report/9955635)
-- Fly tipping, 16th August :- [9955551](https://www.fixmystreet.com/report/9955551)
 
 <!-- fix_marker ends -->
