@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, Cheltenham BID, Cheltenh
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Murder arrest after woman in 90s dies in house fire ([14 hours ago](https://www.bbc.co.uk/news/articles/cwyllx8jgkgo?at_medium=RSS&at_campaign=rss))
-- Why Gen Z women know more about periods than their mums ([21 hours ago](https://www.bbc.co.uk/news/articles/c5y0qp43zv0o?at_medium=RSS&at_campaign=rss))
-- 'People don't expect disabled people to have sex' ([21 hours ago](https://www.bbc.co.uk/news/articles/c8e2n6w3y2po?at_medium=RSS&at_campaign=rss))
-- In pictures: Eclipse, elephants and wedding cow ([21 hours ago](https://www.bbc.co.uk/news/articles/ceqevqwr1x5o?at_medium=RSS&at_campaign=rss))
+- Murder arrest after woman in 90s dies in house fire ([16 hours ago](https://www.bbc.co.uk/news/articles/cwyllx8jgkgo?at_medium=RSS&at_campaign=rss))
+- Why Gen Z women know more about periods than their mums ([22 hours ago](https://www.bbc.co.uk/news/articles/c5y0qp43zv0o?at_medium=RSS&at_campaign=rss))
+- 'People don't expect disabled people to have sex' ([23 hours ago](https://www.bbc.co.uk/news/articles/c8e2n6w3y2po?at_medium=RSS&at_campaign=rss))
+- In pictures: Eclipse, elephants and wedding cow ([23 hours ago](https://www.bbc.co.uk/news/articles/ceqevqwr1x5o?at_medium=RSS&at_campaign=rss))
 - Congestion 'is like living next to busy motorway' ([1 days ago](https://www.bbc.co.uk/news/articles/c4gjjx35xwzo?at_medium=RSS&at_campaign=rss))
 - Historic lido reopens after almost a year ([1 days ago](https://www.bbc.co.uk/news/articles/cp9el424gj9o?at_medium=RSS&at_campaign=rss))
 - Christmas in August, dumped fridge and 'beloved milkman' ([1 days ago](https://www.bbc.co.uk/news/articles/c0rdjrjpd57o?at_medium=RSS&at_campaign=rss))
