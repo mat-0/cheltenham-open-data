@@ -9,6 +9,10 @@ permalink: /cheltenham-fix-my-street
 
 <!-- fix_marker starts -->
 
+- 60 plus nitrous oxide canisters, 17th August :- [9963488](https://www.fixmystreet.com/report/9963488)
+- SAFETY: No drain covers on footpath underpass (South exit)., 17th August :- [9963351](https://www.fixmystreet.com/report/9963351)
+- St. Pauls Street, 17th August :- [9963301](https://www.fixmystreet.com/report/9963301)
+- Outside no.7 St Pauls Street South, 17th August :- [9963282](https://www.fixmystreet.com/report/9963282)
 - Leaking drain, 17th August :- [9963088](https://www.fixmystreet.com/report/9963088)
 - Pothole in the road problem, 17th August :- [9962850](https://www.fixmystreet.com/report/9962850)
 - Split in tarmac, 17th August :- [9962698](https://www.fixmystreet.com/report/9962698)
@@ -25,9 +29,5 @@ permalink: /cheltenham-fix-my-street
 - Heavily overgrown hedges onto pavement from community centre, 17th August :- [9962025](https://www.fixmystreet.com/report/9962025)
 - Drain cover loose, rattling and noisy, 17th August :- [9961715](https://www.fixmystreet.com/report/9961715)
 - Grass issue, 17th August :- [9961461](https://www.fixmystreet.com/report/9961461)
-- Overgrown hedge, obstructing footpath, 17th August :- [9961270](https://www.fixmystreet.com/report/9961270)
-- Bus Stop Damaged, 17th August :- [9961175](https://www.fixmystreet.com/report/9961175)
-- Two blocked storm drains, 17th August :- [9961103](https://www.fixmystreet.com/report/9961103)
-- Abandoned Van, 17th August :- [9961031](https://www.fixmystreet.com/report/9961031)
 
 <!-- fix_marker ends -->
