@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, Cheltenham BID, Cheltenh
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Murder arrest after woman in 90s dies in house fire ([10 hours ago](https://www.bbc.co.uk/news/articles/cwyllx8jgkgo?at_medium=RSS&at_campaign=rss))
-- Why Gen Z women know more about periods than their mums ([16 hours ago](https://www.bbc.co.uk/news/articles/c5y0qp43zv0o?at_medium=RSS&at_campaign=rss))
-- 'People don't expect disabled people to have sex' ([16 hours ago](https://www.bbc.co.uk/news/articles/c8e2n6w3y2po?at_medium=RSS&at_campaign=rss))
-- In pictures: Eclipse, elephants and wedding cow ([16 hours ago](https://www.bbc.co.uk/news/articles/ceqevqwr1x5o?at_medium=RSS&at_campaign=rss))
+- Murder arrest after woman in 90s dies in house fire ([12 hours ago](https://www.bbc.co.uk/news/articles/cwyllx8jgkgo?at_medium=RSS&at_campaign=rss))
+- Why Gen Z women know more about periods than their mums ([19 hours ago](https://www.bbc.co.uk/news/articles/c5y0qp43zv0o?at_medium=RSS&at_campaign=rss))
+- 'People don't expect disabled people to have sex' ([19 hours ago](https://www.bbc.co.uk/news/articles/c8e2n6w3y2po?at_medium=RSS&at_campaign=rss))
+- In pictures: Eclipse, elephants and wedding cow ([19 hours ago](https://www.bbc.co.uk/news/articles/ceqevqwr1x5o?at_medium=RSS&at_campaign=rss))
 - Congestion 'is like living next to busy motorway' ([1 days ago](https://www.bbc.co.uk/news/articles/c4gjjx35xwzo?at_medium=RSS&at_campaign=rss))
 - Historic lido reopens after almost a year ([1 days ago](https://www.bbc.co.uk/news/articles/cp9el424gj9o?at_medium=RSS&at_campaign=rss))
 - Christmas in August, dumped fridge and 'beloved milkman' ([1 days ago](https://www.bbc.co.uk/news/articles/c0rdjrjpd57o?at_medium=RSS&at_campaign=rss))
@@ -26,7 +26,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, Cheltenham BID, Cheltenh
 - Care workers call off strike after council talks ([2 days ago](https://www.bbc.co.uk/news/articles/c5yez445wpvo?at_medium=RSS&at_campaign=rss))
 - Members of £2m Post Office money laundering gang jailed ([2 days ago](https://www.bbc.co.uk/news/articles/cj63p3e2glwo?at_medium=RSS&at_campaign=rss))
 - Founding member of EMF dies aged 55 ([2 days ago](https://www.bbc.co.uk/news/articles/cjrvglv5352o?at_medium=RSS&at_campaign=rss))
-- Free family events at The Brewery Quarter in August ([2 days ago](https://cheltenhampost.co.uk/free-family-events-at-the-brewery-quarter-in-august/))
 - Review: The Choir of Man ([2 days ago](https://gloucesternewscentre.co.uk/review-the-choir-of-man/))
 - Uncut grass is a 'potentially lethal' fire risk ([2 days ago](https://www.bbc.co.uk/news/articles/c79g40n79ygo?at_medium=RSS&at_campaign=rss))
 - Car boot sale's 'unique counter-culture' captured ([2 days ago](https://www.bbc.co.uk/news/articles/c0qv2wk3nz3o?at_medium=RSS&at_campaign=rss))
