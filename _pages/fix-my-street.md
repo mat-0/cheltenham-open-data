@@ -9,6 +9,10 @@ permalink: /cheltenham-fix-my-street
 
 <!-- fix_marker starts -->
 
+- Leaking drain, 17th August :- [9963088](https://www.fixmystreet.com/report/9963088)
+- Pothole in the road problem, 17th August :- [9962850](https://www.fixmystreet.com/report/9962850)
+- Split in tarmac, 17th August :- [9962698](https://www.fixmystreet.com/report/9962698)
+- A large branch has fallen into the footpath, 17th August :- [9962582](https://www.fixmystreet.com/report/9962582)
 - Rattling manhole cover, 17th August :- [9962470](https://www.fixmystreet.com/report/9962470)
 - Very long queue to get through the temporary lights, 17th August :- [9962397](https://www.fixmystreet.com/report/9962397)
 - Non permitted roadworks 17.aug. manor road, 17th August :- [9962395](https://www.fixmystreet.com/report/9962395)
@@ -25,9 +29,5 @@ permalink: /cheltenham-fix-my-street
 - Bus Stop Damaged, 17th August :- [9961175](https://www.fixmystreet.com/report/9961175)
 - Two blocked storm drains, 17th August :- [9961103](https://www.fixmystreet.com/report/9961103)
 - Abandoned Van, 17th August :- [9961031](https://www.fixmystreet.com/report/9961031)
-- Bicycle in brook, by low brick bridge near Cloddymore Bridge., 17th August :- [9960983](https://www.fixmystreet.com/report/9960983)
-- TMC - Defects - Vegetation problem, 17th August :- [9961049](https://www.fixmystreet.com/report/9961049)
-- Barriers have been left here for months with no work being done, 17th August :- [9960624](https://www.fixmystreet.com/report/9960624)
-- Large dead silver birch becoming brittle, 17th August :- [9960459](https://www.fixmystreet.com/report/9960459)
 
 <!-- fix_marker ends -->
