@@ -12,8 +12,8 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, Cheltenham BID, Cheltenh
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Park cleared to reopen with asbestos risk 'very low' ([1 hours ago](https://www.bbc.co.uk/news/articles/c0m7ylvvemjo?at_medium=RSS&at_campaign=rss))
-- Murder arrest after woman in 90s dies in house fire ([18 hours ago](https://www.bbc.co.uk/news/articles/cwyllx8jgkgo?at_medium=RSS&at_campaign=rss))
+- Park cleared to reopen with asbestos risk 'very low' ([3 hours ago](https://www.bbc.co.uk/news/articles/c0m7ylvvemjo?at_medium=RSS&at_campaign=rss))
+- Murder arrest after woman in 90s dies in house fire ([20 hours ago](https://www.bbc.co.uk/news/articles/cwyllx8jgkgo?at_medium=RSS&at_campaign=rss))
 - Why Gen Z women know more about periods than their mums ([1 days ago](https://www.bbc.co.uk/news/articles/c5y0qp43zv0o?at_medium=RSS&at_campaign=rss))
 - 'People don't expect disabled people to have sex' ([1 days ago](https://www.bbc.co.uk/news/articles/c8e2n6w3y2po?at_medium=RSS&at_campaign=rss))
 - In pictures: Eclipse, elephants and wedding cow ([1 days ago](https://www.bbc.co.uk/news/articles/ceqevqwr1x5o?at_medium=RSS&at_campaign=rss))
@@ -27,6 +27,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, Cheltenham BID, Cheltenh
 - Care workers call off strike after council talks ([2 days ago](https://www.bbc.co.uk/news/articles/c5yez445wpvo?at_medium=RSS&at_campaign=rss))
 - Members of £2m Post Office money laundering gang jailed ([2 days ago](https://www.bbc.co.uk/news/articles/cj63p3e2glwo?at_medium=RSS&at_campaign=rss))
 - Founding member of EMF dies aged 55 ([2 days ago](https://www.bbc.co.uk/news/articles/cjrvglv5352o?at_medium=RSS&at_campaign=rss))
+- Free family events at The Brewery Quarter in August ([2 days ago](https://cheltenhampost.co.uk/free-family-events-at-the-brewery-quarter-in-august/))
 - Review: The Choir of Man ([3 days ago](https://gloucesternewscentre.co.uk/review-the-choir-of-man/))
 - Uncut grass is a 'potentially lethal' fire risk ([3 days ago](https://www.bbc.co.uk/news/articles/c79g40n79ygo?at_medium=RSS&at_campaign=rss))
 - Car boot sale's 'unique counter-culture' captured ([3 days ago](https://www.bbc.co.uk/news/articles/c0qv2wk3nz3o?at_medium=RSS&at_campaign=rss))
@@ -38,6 +39,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, Cheltenham BID, Cheltenh
 - Concerns town looks ‘neglected’ ([16 days ago](https://gloucesternewscentre.co.uk/concerns-town-looks-neglected/))
 - Windows of Cav House to display artwork ([16 days ago](https://gloucesternewscentre.co.uk/windows-of-cav-house-to-display-artwork/))
 - Questions over Municipal Offices sale ([16 days ago](https://gloucesternewscentre.co.uk/questions-over-municipal-offices-sale/))
-- More than 900 people respond to engagement on future management of Cheltenham’s High Street and Promenade ([25 days ago](https://cheltenhambid.co.uk/2026/07/22/more-than-900-people-respond-to-engagement-on-future-management-of-cheltenhams-high-street-and-promenade/))
+- More than 900 people respond to engagement on future management of Cheltenham’s High Street and Promenade ([26 days ago](https://cheltenhambid.co.uk/2026/07/22/more-than-900-people-respond-to-engagement-on-future-management-of-cheltenhams-high-street-and-promenade/))
 
 <!-- news_marker ends -->

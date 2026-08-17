@@ -9,6 +9,14 @@ permalink: /cheltenham-fix-my-street
 
 <!-- fix_marker starts -->
 
+- Drains opposite montpellier gardens in montpellier spa road completely blocked. as are ones in the gardens, 17th August :- [9958746](https://www.fixmystreet.com/report/9958746)
+- Advertising banners, posters and abandoned signs: A435/Finlay Way, Bishop’s Cleeve, 17th August :- [9958564](https://www.fixmystreet.com/report/9958564)
+- Street lighting, 17th August :- [9958404](https://www.fixmystreet.com/report/9958404)
+- New street lights still not working, 17th August :- [9958263](https://www.fixmystreet.com/report/9958263)
+- Dry long weeds and grass fire hazard, 17th August :- [9958261](https://www.fixmystreet.com/report/9958261)
+- Kerb is damaged, loose or missing problem, 17th August :- [9958238](https://www.fixmystreet.com/report/9958238)
+- Dumpy bags of rubbish and offcuts of carpet. No picture as was driving., 17th August :- [9958103](https://www.fixmystreet.com/report/9958103)
+- Guard rail or barrier problem, 17th August :- [9958237](https://www.fixmystreet.com/report/9958237)
 - Previously repaired however now a hole and has barriers around it, 17th August :- [9957877](https://www.fixmystreet.com/report/9957877)
 - Broken and rattling manhole, 17th August :- [9957860](https://www.fixmystreet.com/report/9957860)
 - Streetlight not working, 16th August :- [9957195](https://www.fixmystreet.com/report/9957195)
@@ -21,13 +29,5 @@ permalink: /cheltenham-fix-my-street
 - Footpath blocked with fencing across stile and locked gate., 16th August :- [9956345](https://www.fixmystreet.com/report/9956345)
 - Large amount of overgrown weeds blocking pavement, 16th August :- [9955635](https://www.fixmystreet.com/report/9955635)
 - Fly tipping, 16th August :- [9955551](https://www.fixmystreet.com/report/9955551)
-- By the lights the manhole has sunk, 16th August :- [9955345](https://www.fixmystreet.com/report/9955345)
-- More flytipping in Glencairn Park Road, 16th August :- [9955083](https://www.fixmystreet.com/report/9955083)
-- Roundabout handle broken/rusty, 16th August :- [9954692](https://www.fixmystreet.com/report/9954692)
-- Broken wooden fence with loose, exposed nails creating a safety hazard., 16th August :- [9954476](https://www.fixmystreet.com/report/9954476)
-- Huge man hole cover missing, 16th August :- [9954428](https://www.fixmystreet.com/report/9954428)
-- Temporary lights not working, 16th August :- [9954216](https://www.fixmystreet.com/report/9954216)
-- Foliage hiding traffic lights, left and right hand side of road, 16th August :- [9954199](https://www.fixmystreet.com/report/9954199)
-- Herd of wild horses out of control, 16th August :- [9954174](https://www.fixmystreet.com/report/9954174)
 
 <!-- fix_marker ends -->
