@@ -9,6 +9,7 @@ permalink: /cheltenham-fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large crack in roadway, 17th August :- [9963889](https://www.fixmystreet.com/report/9963889)
 - 60 plus nitrous oxide canisters, 17th August :- [9963488](https://www.fixmystreet.com/report/9963488)
 - SAFETY: No drain covers on footpath underpass (South exit)., 17th August :- [9963351](https://www.fixmystreet.com/report/9963351)
 - St. Pauls Street, 17th August :- [9963301](https://www.fixmystreet.com/report/9963301)
@@ -28,6 +29,5 @@ permalink: /cheltenham-fix-my-street
 - Dangerous corner, 17th August :- [9962039](https://www.fixmystreet.com/report/9962039)
 - Heavily overgrown hedges onto pavement from community centre, 17th August :- [9962025](https://www.fixmystreet.com/report/9962025)
 - Drain cover loose, rattling and noisy, 17th August :- [9961715](https://www.fixmystreet.com/report/9961715)
-- Grass issue, 17th August :- [9961461](https://www.fixmystreet.com/report/9961461)
 
 <!-- fix_marker ends -->
