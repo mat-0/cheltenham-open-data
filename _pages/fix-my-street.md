@@ -9,6 +9,13 @@ permalink: /cheltenham-fix-my-street
 
 <!-- fix_marker starts -->
 
+- Grass issue, 17th August :- [9961461](https://www.fixmystreet.com/report/9961461)
+- Overgrown hedge, obstructing footpath, 17th August :- [9961270](https://www.fixmystreet.com/report/9961270)
+- Bus Stop Damaged, 17th August :- [9961175](https://www.fixmystreet.com/report/9961175)
+- Two blocked storm drains, 17th August :- [9961103](https://www.fixmystreet.com/report/9961103)
+- Abandoned Van, 17th August :- [9961031](https://www.fixmystreet.com/report/9961031)
+- Bicycle in brook, by low brick bridge near Cloddymore Bridge., 17th August :- [9960983](https://www.fixmystreet.com/report/9960983)
+- TMC - Defects - Vegetation problem, 17th August :- [9961049](https://www.fixmystreet.com/report/9961049)
 - Barriers have been left here for months with no work being done, 17th August :- [9960624](https://www.fixmystreet.com/report/9960624)
 - Large dead silver birch becoming brittle, 17th August :- [9960459](https://www.fixmystreet.com/report/9960459)
 - Raised paving slab, 17th August :- [9960346](https://www.fixmystreet.com/report/9960346)
@@ -22,12 +29,5 @@ permalink: /cheltenham-fix-my-street
 - Thr rat issue is getting to much in albion walk because of this pathhose and all the bussinesses like KFC, Subway and turtle bay are worried about this issue, 17th August :- [9959344](https://www.fixmystreet.com/report/9959344)
 - PArking restriction sign left on post after works, 17th August :- [9958887](https://www.fixmystreet.com/report/9958887)
 - Drains opposite montpellier gardens in montpellier spa road completely blocked. as are ones in the gardens, 17th August :- [9958746](https://www.fixmystreet.com/report/9958746)
-- Advertising banners, posters and abandoned signs: A435/Finlay Way, Bishop’s Cleeve, 17th August :- [9958564](https://www.fixmystreet.com/report/9958564)
-- Street lighting, 17th August :- [9958404](https://www.fixmystreet.com/report/9958404)
-- New street lights still not working, 17th August :- [9958263](https://www.fixmystreet.com/report/9958263)
-- Dry long weeds and grass fire hazard, 17th August :- [9958261](https://www.fixmystreet.com/report/9958261)
-- Kerb is damaged, loose or missing problem, 17th August :- [9958238](https://www.fixmystreet.com/report/9958238)
-- Dumpy bags of rubbish and offcuts of carpet. No picture as was driving., 17th August :- [9958103](https://www.fixmystreet.com/report/9958103)
-- Guard rail or barrier problem, 17th August :- [9958237](https://www.fixmystreet.com/report/9958237)
 
 <!-- fix_marker ends -->
