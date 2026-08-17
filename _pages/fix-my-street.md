@@ -9,6 +9,14 @@ permalink: /cheltenham-fix-my-street
 
 <!-- fix_marker starts -->
 
+- Barriers have been left here for months with no work being done, 17th August :- [9960624](https://www.fixmystreet.com/report/9960624)
+- Large dead silver birch becoming brittle, 17th August :- [9960459](https://www.fixmystreet.com/report/9960459)
+- Raised paving slab, 17th August :- [9960346](https://www.fixmystreet.com/report/9960346)
+- Tree growing over the lamp post at bend in alleyway, 17th August :- [9960214](https://www.fixmystreet.com/report/9960214)
+- Previous road repair is failing, surface dangerous and unpleasant to cycle on, 17th August :- [9960195](https://www.fixmystreet.com/report/9960195)
+- Brambles, 17th August :- [9960009](https://www.fixmystreet.com/report/9960009)
+- 3 drains blocked on same road, 17th August :- [9959996](https://www.fixmystreet.com/report/9959996)
+- Why temporary lights and for how long?, 17th August :- [9959867](https://www.fixmystreet.com/report/9959867)
 - Litter picking recycle bag, 17th August :- [9959686](https://www.fixmystreet.com/report/9959686)
 - Waste Bin Needs Emptying, 17th August :- [9959502](https://www.fixmystreet.com/report/9959502)
 - Thr rat issue is getting to much in albion walk because of this pathhose and all the bussinesses like KFC, Subway and turtle bay are worried about this issue, 17th August :- [9959344](https://www.fixmystreet.com/report/9959344)
@@ -21,13 +29,5 @@ permalink: /cheltenham-fix-my-street
 - Kerb is damaged, loose or missing problem, 17th August :- [9958238](https://www.fixmystreet.com/report/9958238)
 - Dumpy bags of rubbish and offcuts of carpet. No picture as was driving., 17th August :- [9958103](https://www.fixmystreet.com/report/9958103)
 - Guard rail or barrier problem, 17th August :- [9958237](https://www.fixmystreet.com/report/9958237)
-- Previously repaired however now a hole and has barriers around it, 17th August :- [9957877](https://www.fixmystreet.com/report/9957877)
-- Broken and rattling manhole, 17th August :- [9957860](https://www.fixmystreet.com/report/9957860)
-- Streetlight not working, 16th August :- [9957195](https://www.fixmystreet.com/report/9957195)
-- You say it’s been fixed it hasn’t! It’s making the noise as before!, 16th August :- [9957184](https://www.fixmystreet.com/report/9957184)
-- Around 20 inches approx at least pot hole - multiple down, 16th August :- [9957070](https://www.fixmystreet.com/report/9957070)
-- Tree blocking access to my drive, 16th August :- [9956821](https://www.fixmystreet.com/report/9956821)
-- Tarmac degraded, 16th August :- [9956747](https://www.fixmystreet.com/report/9956747)
-- Footpath falling apart, 16th August :- [9956617](https://www.fixmystreet.com/report/9956617)
 
 <!-- fix_marker ends -->
