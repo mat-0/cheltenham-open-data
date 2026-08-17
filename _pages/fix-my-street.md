@@ -9,6 +9,8 @@ permalink: /cheltenham-fix-my-street
 
 <!-- fix_marker starts -->
 
+- Previously repaired however now a hole and has barriers around it, 17th August :- [9957877](https://www.fixmystreet.com/report/9957877)
+- Broken and rattling manhole, 17th August :- [9957860](https://www.fixmystreet.com/report/9957860)
 - Streetlight not working, 16th August :- [9957195](https://www.fixmystreet.com/report/9957195)
 - You say it’s been fixed it hasn’t! It’s making the noise as before!, 16th August :- [9957184](https://www.fixmystreet.com/report/9957184)
 - Around 20 inches approx at least pot hole - multiple down, 16th August :- [9957070](https://www.fixmystreet.com/report/9957070)
@@ -27,7 +29,5 @@ permalink: /cheltenham-fix-my-street
 - Temporary lights not working, 16th August :- [9954216](https://www.fixmystreet.com/report/9954216)
 - Foliage hiding traffic lights, left and right hand side of road, 16th August :- [9954199](https://www.fixmystreet.com/report/9954199)
 - Herd of wild horses out of control, 16th August :- [9954174](https://www.fixmystreet.com/report/9954174)
-- Volunteer litter pick bags ready for collection, 16th August :- [9954077](https://www.fixmystreet.com/report/9954077)
-- Ugly plastic barriers in central part of roundabout, 16th August :- [9954070](https://www.fixmystreet.com/report/9954070)
 
 <!-- fix_marker ends -->
