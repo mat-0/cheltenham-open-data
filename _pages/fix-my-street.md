@@ -9,6 +9,17 @@ permalink: /cheltenham-fix-my-street
 
 <!-- fix_marker starts -->
 
+- Rattling manhole cover, 17th August :- [9962470](https://www.fixmystreet.com/report/9962470)
+- Very long queue to get through the temporary lights, 17th August :- [9962397](https://www.fixmystreet.com/report/9962397)
+- Non permitted roadworks 17.aug. manor road, 17th August :- [9962395](https://www.fixmystreet.com/report/9962395)
+- More red barriers dumped, 17th August :- [9962333](https://www.fixmystreet.com/report/9962333)
+- Pavement bricks elevated and missing around public open space, 17th August :- [9962330](https://www.fixmystreet.com/report/9962330)
+- Rattling man hole cover day and night disturbing residents sleep, 17th August :- [9962302](https://www.fixmystreet.com/report/9962302)
+- Sign still not collected (second time case closed without collection), 17th August :- [9962194](https://www.fixmystreet.com/report/9962194)
+- Drain cover loose/raised on the pavement outside the driveway for 40 Barnmeadow Road, 17th August :- [9962109](https://www.fixmystreet.com/report/9962109)
+- Dangerous corner, 17th August :- [9962039](https://www.fixmystreet.com/report/9962039)
+- Heavily overgrown hedges onto pavement from community centre, 17th August :- [9962025](https://www.fixmystreet.com/report/9962025)
+- Drain cover loose, rattling and noisy, 17th August :- [9961715](https://www.fixmystreet.com/report/9961715)
 - Grass issue, 17th August :- [9961461](https://www.fixmystreet.com/report/9961461)
 - Overgrown hedge, obstructing footpath, 17th August :- [9961270](https://www.fixmystreet.com/report/9961270)
 - Bus Stop Damaged, 17th August :- [9961175](https://www.fixmystreet.com/report/9961175)
@@ -18,16 +29,5 @@ permalink: /cheltenham-fix-my-street
 - TMC - Defects - Vegetation problem, 17th August :- [9961049](https://www.fixmystreet.com/report/9961049)
 - Barriers have been left here for months with no work being done, 17th August :- [9960624](https://www.fixmystreet.com/report/9960624)
 - Large dead silver birch becoming brittle, 17th August :- [9960459](https://www.fixmystreet.com/report/9960459)
-- Raised paving slab, 17th August :- [9960346](https://www.fixmystreet.com/report/9960346)
-- Tree growing over the lamp post at bend in alleyway, 17th August :- [9960214](https://www.fixmystreet.com/report/9960214)
-- Previous road repair is failing, surface dangerous and unpleasant to cycle on, 17th August :- [9960195](https://www.fixmystreet.com/report/9960195)
-- Brambles, 17th August :- [9960009](https://www.fixmystreet.com/report/9960009)
-- 3 drains blocked on same road, 17th August :- [9959996](https://www.fixmystreet.com/report/9959996)
-- Why temporary lights and for how long?, 17th August :- [9959867](https://www.fixmystreet.com/report/9959867)
-- Litter picking recycle bag, 17th August :- [9959686](https://www.fixmystreet.com/report/9959686)
-- Waste Bin Needs Emptying, 17th August :- [9959502](https://www.fixmystreet.com/report/9959502)
-- Thr rat issue is getting to much in albion walk because of this pathhose and all the bussinesses like KFC, Subway and turtle bay are worried about this issue, 17th August :- [9959344](https://www.fixmystreet.com/report/9959344)
-- PArking restriction sign left on post after works, 17th August :- [9958887](https://www.fixmystreet.com/report/9958887)
-- Drains opposite montpellier gardens in montpellier spa road completely blocked. as are ones in the gardens, 17th August :- [9958746](https://www.fixmystreet.com/report/9958746)
 
 <!-- fix_marker ends -->
