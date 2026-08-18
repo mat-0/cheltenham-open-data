@@ -7,11 +7,43 @@ permalink: /cheltenham-flood-warnings
 
 ---
 
-This project fetches flood warning data for the Gloucestershire area and publishes it as an [RSS feed](/flood.xml).
+## About Flood Warnings for Cheltenham and Gloucestershire
 
-Latest flood issues are published below when available.
+This page publishes live flood warnings and flood alerts for Cheltenham and the
+wider Gloucestershire area, sourced from the [Environment Agency](https://www.gov.uk/check-flood-risk) flood warning service and republished here as an [RSS feed](/flood.xml).
 
-## Latest
+When the Environment Agency has issued a warning that affects Gloucestershire,
+it appears in the list above. When the list is empty, there are no active flood
+warnings or alerts in force for the area — which is common during drier periods
+and through the summer months.
+
+Cheltenham sits in a low-lying part of the Severn Vale and has a history of
+surface-water and river flooding, most notably during the summer 2007 floods.
+Local watercourses including the River Chelt, along with the Severn and Avon
+catchments across Gloucestershire, are the main sources of flood risk in the
+area. Risk is highest during prolonged or heavy rainfall, particularly in
+autumn and winter.
+
+### How to check your flood risk and stay informed
+
+- Check the live flood warning map and sign up for free flood warnings by
+  phone, text, or email at [gov.uk/check-flood-risk](https://www.gov.uk/check-flood-risk).
+- During a flood emergency where there is a risk to life, call 999.
+- To report flooding, a blocked drain, or a burst water main that is not an
+  immediate emergency, contact Gloucestershire County Council or your water
+  company.
+- Subscribe to this page's [RSS feed](/flood.xml) to receive Gloucestershire
+  flood updates as they are published in your RSS/Feed reader or check this page.
+
+### Preparing for a flood
+
+If flooding is expected in your area, move valuables and electrical items
+upstairs or to a safe height, prepare a bag with essential documents and
+medication, and avoid walking or driving through flood water — just 30 cm of
+moving water can move a vehicle. Follow instructions from emergency services
+and the Environment Agency.
+
+## Latest flood issued alerts are published below when available
 
 <!-- flood_marker starts -->
 
