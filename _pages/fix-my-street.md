@@ -33,6 +33,7 @@ progress, see whether the council has marked it as investigating, fixed, or
 closed, and read updates from other residents. Older reports drop off this page
 over time but remain permanently viewable on FixMyStreet itself.
 
+## Latest reports
 
 <!-- fix_marker starts -->
 
