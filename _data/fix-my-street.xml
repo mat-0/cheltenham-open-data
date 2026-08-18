@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
  xmlns:atom="http://www.w3.org/2005/Atom"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -14,6 +14,15 @@
 <language>en-gb</language>
 <atom:link href="https://www.fixmystreet.com/rss/l/51.897991,-2.071308/10" rel="self" type="application/rss+xml"/>
 
+<item>
+<title>Pothole in the road problem, 18th August</title>
+<link>https://www.fixmystreet.com/report/9969738</link>
+<description>water leak burst needing our assistance and need closures - london road  - 101 ref- 514&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9969738&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Pothole in the road</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9969738</guid>
+<pubDate>Tue, 18 Aug 2026 21:03:15 +0100</pubDate>
+<georss:point>51.893506 -2.06425</georss:point>
+</item>
 <item>
 <title>Large Oak tree effecting house foundations., 18th August</title>
 <link>https://www.fixmystreet.com/report/9969386</link>
@@ -184,15 +193,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/9967975</guid>
 <pubDate>Tue, 18 Aug 2026 15:07:39 +0100</pubDate>
 <georss:point>51.8981287 -2.06811799999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 18th August</title>
-<link>https://www.fixmystreet.com/report/9967749</link>
-<description>Abrupt level difference FW &amp;#10;600x300x20mm&amp;#10;Standard TM with temp FW closure &amp;#10;Stats (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9967749&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9967749</guid>
-<pubDate>Tue, 18 Aug 2026 14:57:13 +0100</pubDate>
-<georss:point>51.8992932 -2.06907699999999</georss:point>
 </item>
 </channel>
 </rss>

@@ -37,6 +37,7 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Pothole in the road problem, 18th August :- [9969738](https://www.fixmystreet.com/report/9969738)
 - Large Oak tree effecting house foundations., 18th August :- [9969386](https://www.fixmystreet.com/report/9969386)
 - Hedge growth blocking pedestrian side of path, 18th August :- [9969248](https://www.fixmystreet.com/report/9969248)
 - Pavements on both sides of road are uneven, with surfaces worn away due to age, or not repaired after street works, 18th August :- [9969098](https://www.fixmystreet.com/report/9969098)
@@ -56,6 +57,5 @@ over time but remain permanently viewable on FixMyStreet itself.
 - TMC - Defects -other CW6 problem, 18th August :- [9967977](https://www.fixmystreet.com/report/9967977)
 - TMC - Defects -other CW6 problem, 18th August :- [9967976](https://www.fixmystreet.com/report/9967976)
 - TMC - Defects - Kerbs and Channels problem, 18th August :- [9967975](https://www.fixmystreet.com/report/9967975)
-- TMC - Defects - Other FW6  Surface problem, 18th August :- [9967749](https://www.fixmystreet.com/report/9967749)
 
 <!-- fix_marker ends -->
