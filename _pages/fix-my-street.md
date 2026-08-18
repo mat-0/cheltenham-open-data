@@ -9,6 +9,11 @@ permalink: /cheltenham-fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large Oak tree effecting house foundations., 18th August :- [9969386](https://www.fixmystreet.com/report/9969386)
+- Hedge growth blocking pedestrian side of path, 18th August :- [9969248](https://www.fixmystreet.com/report/9969248)
+- Pavements on both sides of road are uneven, with surfaces worn away due to age, or not repaired after street works, 18th August :- [9969098](https://www.fixmystreet.com/report/9969098)
+- Pothole developing in road, 18th August :- [9969075](https://www.fixmystreet.com/report/9969075)
+- Poor repair to pavement, 18th August :- [9968949](https://www.fixmystreet.com/report/9968949)
 - Street light not working, 18th August :- [9968828](https://www.fixmystreet.com/report/9968828)
 - Kerbing badly smashed during recent roadworks at junction, 18th August :- [9968640](https://www.fixmystreet.com/report/9968640)
 - Sign obscured by hedgerow, 18th August :- [9968443](https://www.fixmystreet.com/report/9968443)
@@ -24,10 +29,5 @@ permalink: /cheltenham-fix-my-street
 - TMC - Defects -other CW6 problem, 18th August :- [9967976](https://www.fixmystreet.com/report/9967976)
 - TMC - Defects - Kerbs and Channels problem, 18th August :- [9967975](https://www.fixmystreet.com/report/9967975)
 - TMC - Defects - Other FW6  Surface problem, 18th August :- [9967749](https://www.fixmystreet.com/report/9967749)
-- TMC - Defects - Vegetation problem, 18th August :- [9967747](https://www.fixmystreet.com/report/9967747)
-- The tree has grown very wide and is now overhaning the road and also blocking the light from the street lamp. Every week the refuse collectors vehicles knock branches off. It is also overhanging my drive., 18th August :- [9967685](https://www.fixmystreet.com/report/9967685)
-- TMC - Defects -CW10 Potholes problem, 18th August :- [9967741](https://www.fixmystreet.com/report/9967741)
-- Drain is full of leaves, 18th August :- [9967587](https://www.fixmystreet.com/report/9967587)
-- TMC - Defects - Other FW6  Surface problem, 18th August :- [9967543](https://www.fixmystreet.com/report/9967543)
 
 <!-- fix_marker ends -->
