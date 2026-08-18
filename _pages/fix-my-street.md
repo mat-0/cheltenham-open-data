@@ -37,6 +37,8 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Flytipping, 18th August :- [9969956](https://www.fixmystreet.com/report/9969956)
+- Left barriers., 18th August :- [9969952](https://www.fixmystreet.com/report/9969952)
 - Pothole in the road problem, 18th August :- [9969738](https://www.fixmystreet.com/report/9969738)
 - Large Oak tree effecting house foundations., 18th August :- [9969386](https://www.fixmystreet.com/report/9969386)
 - Hedge growth blocking pedestrian side of path, 18th August :- [9969248](https://www.fixmystreet.com/report/9969248)
@@ -55,7 +57,5 @@ over time but remain permanently viewable on FixMyStreet itself.
 - Sign/waymarker is damaged problem, 18th August :- [9967973](https://www.fixmystreet.com/report/9967973)
 - Long Pothole aprox 1500mm 500mm wide, 18th August :- [9967837](https://www.fixmystreet.com/report/9967837)
 - TMC - Defects -other CW6 problem, 18th August :- [9967977](https://www.fixmystreet.com/report/9967977)
-- TMC - Defects -other CW6 problem, 18th August :- [9967976](https://www.fixmystreet.com/report/9967976)
-- TMC - Defects - Kerbs and Channels problem, 18th August :- [9967975](https://www.fixmystreet.com/report/9967975)
 
 <!-- fix_marker ends -->
