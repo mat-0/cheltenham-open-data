@@ -9,6 +9,11 @@ permalink: /cheltenham-fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street light not working, 18th August :- [9968828](https://www.fixmystreet.com/report/9968828)
+- Kerbing badly smashed during recent roadworks at junction, 18th August :- [9968640](https://www.fixmystreet.com/report/9968640)
+- Sign obscured by hedgerow, 18th August :- [9968443](https://www.fixmystreet.com/report/9968443)
+- Side of road collapsed, will cause ditch to flood as falling in, 18th August :- [9968412](https://www.fixmystreet.com/report/9968412)
+- TMC - Defects - Vegetation problem, 18th August :- [9968334](https://www.fixmystreet.com/report/9968334)
 - Overgrown brambles on CBC land, 18th August :- [9968028](https://www.fixmystreet.com/report/9968028)
 - TMC - Defects - Footways Slabs problem, 18th August :- [9967982](https://www.fixmystreet.com/report/9967982)
 - Pavement is still closed and has been for months, 18th August :- [9967889](https://www.fixmystreet.com/report/9967889)
@@ -24,10 +29,5 @@ permalink: /cheltenham-fix-my-street
 - TMC - Defects -CW10 Potholes problem, 18th August :- [9967741](https://www.fixmystreet.com/report/9967741)
 - Drain is full of leaves, 18th August :- [9967587](https://www.fixmystreet.com/report/9967587)
 - TMC - Defects - Other FW6  Surface problem, 18th August :- [9967543](https://www.fixmystreet.com/report/9967543)
-- TMC - Defects -FW6 Potholes problem, 18th August :- [9967541](https://www.fixmystreet.com/report/9967541)
-- TMC - Defects -FW6 Potholes problem, 18th August :- [9967536](https://www.fixmystreet.com/report/9967536)
-- TMC - Defects -CW6 Potholes  problem, 18th August :- [9967540](https://www.fixmystreet.com/report/9967540)
-- TMC - Defects - Signs & Street Furniture problem, 18th August :- [9967538](https://www.fixmystreet.com/report/9967538)
-- TMC - Defects -CW6 Potholes  problem, 18th August :- [9967539](https://www.fixmystreet.com/report/9967539)
 
 <!-- fix_marker ends -->
