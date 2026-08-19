@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:georss="http://www.georss.org/georss"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:atom="http://www.w3.org/2005/Atom"
+ xmlns:georss="http://www.georss.org/georss"
 >
 
 <channel>
@@ -160,21 +160,21 @@
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 19th August</title>
-<link>https://www.fixmystreet.com/report/9973066</link>
-<description>3 way  traffic lights  28 day carriage way pothole  approx 4000x600x35mm (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9973066&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9973066</guid>
-<pubDate>Wed, 19 Aug 2026 13:54:53 +0100</pubDate>
-<georss:point>51.8963092 -2.0976549</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 19th August</title>
 <link>https://www.fixmystreet.com/report/9973065</link>
 <description>3 way traffic lights  28 day carriage way pothole 9000x200x42mm (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9973065&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
 <guid isPermaLink="false">https://www.fixmystreet.com/report/9973065</guid>
 <pubDate>Wed, 19 Aug 2026 13:54:53 +0100</pubDate>
 <georss:point>51.8963121116071 -2.09779022986153</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 19th August</title>
+<link>https://www.fixmystreet.com/report/9973066</link>
+<description>3 way  traffic lights  28 day carriage way pothole  approx 4000x600x35mm (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9973066&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9973066</guid>
+<pubDate>Wed, 19 Aug 2026 13:54:53 +0100</pubDate>
+<georss:point>51.8963092 -2.0976549</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Kerbs and Channels problem, 19th August</title>
@@ -186,13 +186,13 @@
 <georss:point>51.8993935 -2.0785047</georss:point>
 </item>
 <item>
-<title>TMC - Defects -CW6 Potholes  problem, 19th August</title>
-<link>https://www.fixmystreet.com/report/9972857</link>
-<description>2 way stop and go carriage way pothole 600x500x40mm (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9972857&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9972857</guid>
+<title>TMC - Defects - Vegetation problem, 19th August</title>
+<link>https://www.fixmystreet.com/report/9972856</link>
+<description>Give and take  28day  please cut back overgrown tree growth approx 3 meters x1. meters (Overgrown Tree)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9972856&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Vegetation</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9972856</guid>
 <pubDate>Wed, 19 Aug 2026 13:18:44 +0100</pubDate>
-<georss:point>51.9011892 -2.06129679999999</georss:point>
+<georss:point>51.8985168 -2.06705870000001</georss:point>
 </item>
 </channel>
 </rss>

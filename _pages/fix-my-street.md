@@ -53,9 +53,9 @@ over time but remain permanently viewable on FixMyStreet itself.
 - TMC - Defects - Other FW6  Surface problem, 19th August :- [9973281](https://www.fixmystreet.com/report/9973281)
 - TMC - Defects - Covers, Gratings & Frames problem, 19th August :- [9973279](https://www.fixmystreet.com/report/9973279)
 - TMC - Defects -other CW6 problem, 19th August :- [9973278](https://www.fixmystreet.com/report/9973278)
-- TMC - Defects -CW6 Potholes  problem, 19th August :- [9973066](https://www.fixmystreet.com/report/9973066)
 - TMC - Defects -CW6 Potholes  problem, 19th August :- [9973065](https://www.fixmystreet.com/report/9973065)
+- TMC - Defects -CW6 Potholes  problem, 19th August :- [9973066](https://www.fixmystreet.com/report/9973066)
 - TMC - Defects - Kerbs and Channels problem, 19th August :- [9973061](https://www.fixmystreet.com/report/9973061)
-- TMC - Defects -CW6 Potholes  problem, 19th August :- [9972857](https://www.fixmystreet.com/report/9972857)
+- TMC - Defects - Vegetation problem, 19th August :- [9972856](https://www.fixmystreet.com/report/9972856)
 
 <!-- fix_marker ends -->
