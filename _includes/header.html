@@ -17,7 +17,13 @@
         <meta name="description" content="{{page.seo}}">
         <meta name="referrer" content="origin">
         <link rel="canonical" href="{{page.url}}" />
-        <!-- Open Graph   -->
+        {% if page.robots %}
+        <meta name="robots" content="{{page.robots}}">
+        {% else %}
+        <meta name="robots" content="index,follow">
+        {% endif %}
+
+        <!-- Open Graph -->
         <meta property="og:locale" content="en_GB">
         <meta property="og:type" content="website">
         <meta property="og:title" content="{{page.title}}">
