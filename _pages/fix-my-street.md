@@ -39,6 +39,12 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Paving stones have separated on north entrance to Hester’s Way Park, 19th August :- [9975665](https://www.fixmystreet.com/report/9975665)
+- Light out on lamppost at end of Lansdown Terrace Lane, 19th August :- [9975271](https://www.fixmystreet.com/report/9975271)
+- Lengthy surface cracking along footpath/cyclepath, 19th August :- [9975261](https://www.fixmystreet.com/report/9975261)
+- Pates Grammar school overhanging trees, 19th August :- [9971978](https://www.fixmystreet.com/report/9971978)
+- Road surface breaking up. Only deep holes get filled but all of surface is unsatisfactory. Cars ground on the raised centre. Been deteriorating since works vehicles used our road when building bus lane on A40., 19th August :- [9974885](https://www.fixmystreet.com/report/9974885)
+- Sign removed, 19th August :- [9974826](https://www.fixmystreet.com/report/9974826)
 - TMC - Defects - Vegetation problem, 19th August :- [9973843](https://www.fixmystreet.com/report/9973843)
 - TMC - Defects - Vegetation problem, 19th August :- [9973842](https://www.fixmystreet.com/report/9973842)
 - Lack of signage instructing cyclists to dismount, 19th August :- [9973441](https://www.fixmystreet.com/report/9973441)
@@ -48,16 +54,10 @@ over time but remain permanently viewable on FixMyStreet itself.
 - Kerb is damaged, loose or missing problem, 19th August :- [9973662](https://www.fixmystreet.com/report/9973662)
 - Kerb is damaged, loose or missing problem, 19th August :- [9973482](https://www.fixmystreet.com/report/9973482)
 - TMC - Defects - Footways Slabs problem, 19th August :- [9973485](https://www.fixmystreet.com/report/9973485)
-- TMC - Defects - Footways Slabs problem, 19th August :- [9973484](https://www.fixmystreet.com/report/9973484)
 - TMC - Defects - Footways Slabs problem, 19th August :- [9973487](https://www.fixmystreet.com/report/9973487)
+- TMC - Defects - Footways Slabs problem, 19th August :- [9973484](https://www.fixmystreet.com/report/9973484)
 - Other issue with a footway/pavement problem, 19th August :- [9973481](https://www.fixmystreet.com/report/9973481)
 - Litter bags, 19th August :- [9973169](https://www.fixmystreet.com/report/9973169)
 - TMC - Defects - Other FW6  Surface problem, 19th August :- [9973281](https://www.fixmystreet.com/report/9973281)
-- TMC - Defects - Covers, Gratings & Frames problem, 19th August :- [9973279](https://www.fixmystreet.com/report/9973279)
-- TMC - Defects -other CW6 problem, 19th August :- [9973278](https://www.fixmystreet.com/report/9973278)
-- TMC - Defects -CW6 Potholes  problem, 19th August :- [9973065](https://www.fixmystreet.com/report/9973065)
-- TMC - Defects -CW6 Potholes  problem, 19th August :- [9973066](https://www.fixmystreet.com/report/9973066)
-- TMC - Defects - Kerbs and Channels problem, 19th August :- [9973061](https://www.fixmystreet.com/report/9973061)
-- TMC - Defects - Vegetation problem, 19th August :- [9972856](https://www.fixmystreet.com/report/9972856)
 
 <!-- fix_marker ends -->
