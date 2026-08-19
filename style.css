@@ -70,13 +70,13 @@ html {
     --secondary: #a2a0d4;
 }
 
-body:has(.advert) {
+body:has(.single) {
     --accent: #6a3f6b;
     --accent-text: #ffffff;
     --accent-dark: #4d2d4e;
 }
 
-[data-theme=dark] body:has(.advert) {
+[data-theme=dark] body:has(.single) {
     --accent: #a877a9;
     --accent-text: #0a1420;
     --accent-dark: #c9a0ca;
@@ -416,12 +416,12 @@ blockquote {
 .classifieds li,
 .contact-form-wrapper p,
 .contact-form-wrapper li,
-.advert-header p,
-.advert-header li,
-.advert-footer p,
-.advert-footer li,
-.advert-meta p,
-.advert-meta li,
+.single-header p,
+.single-header li,
+.single-footer p,
+.single-footer li,
+.single-meta p,
+.single-meta li,
 nav p,
 nav li,
 table p,
@@ -964,11 +964,11 @@ table tr:hover {
     background-color: var(--bg-alt);
 }
 
-.advert {
+.single {
     margin: 1em 0 2em;
 }
 
-.advert-expired {
+.single-expired {
     background: var(--bg-alt);
     border: 1px solid var(--border);
     border-radius: 4px;
@@ -976,31 +976,31 @@ table tr:hover {
     color: var(--text-secondary);
 }
 
-.advert-header {
+.single-header {
     border-bottom: 3px solid var(--accent);
     padding-bottom: 1em;
     margin-bottom: 1.2em;
 }
 
-.advert-category {
+.single-category {
     font-size: 0.85rem;
     margin: 0 0 0.5em;
 }
 
-.advert-category a {
+.single-category a {
     color: var(--accent-dark);
     text-decoration: none;
 }
 
-.advert-category a:hover {
+.single-category a:hover {
     text-decoration: underline;
 }
 
-.advert-title {
+.single-title {
     margin: 0 0 0.5em;
 }
 
-.advert-meta {
+.single-meta {
     list-style: none;
     margin: 0.8em 0 0;
     padding: 0;
@@ -1011,21 +1011,21 @@ table tr:hover {
     color: var(--text-secondary);
 }
 
-.advert-meta li strong {
+.single-meta li strong {
     color: var(--text);
 }
 
-.advert-body {
+.single-body {
     margin: 1.2em 0;
 }
 
-.advert-footer {
+.single-footer {
     border-top: 1px solid var(--border);
     padding-top: 1em;
     margin-top: 1.5em;
 }
 
-.advert-apply {
+.single-apply {
     display: inline-block;
     background: var(--accent);
     color: var(--accent-text);
@@ -1035,14 +1035,14 @@ table tr:hover {
     font-weight: 600;
 }
 
-.advert-apply:hover,
-.advert-apply:focus {
+.single-apply:hover,
+.single-apply:focus {
     background: var(--accent-dark);
     color: var(--accent-text);
     text-decoration: none;
 }
 
-.advert-disclaimer {
+.single-disclaimer {
     font-size: 0.8rem;
     color: var(--text-muted);
     margin-top: 1em;
@@ -1668,7 +1668,7 @@ pre {
         padding: 0 1em;
     }
 
-    .advert-meta {
+    .single-meta {
         flex-direction: column;
         gap: 0.4em;
     }
