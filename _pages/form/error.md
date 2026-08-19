@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Opps
-permalink: /error
+permalink: /form/error
 robots: noindex, nofollow
 ---
 

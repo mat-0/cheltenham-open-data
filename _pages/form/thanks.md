@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Thanks
-permalink: /thanks
+permalink: /form/thanks
 robots: noindex, nofollow
 ---
 
