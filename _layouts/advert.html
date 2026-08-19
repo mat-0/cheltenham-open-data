@@ -39,8 +39,7 @@
 
         <footer class="advert-footer">
             {%- if page.apply_url -%}
-            <p><a class="advert-apply" href="{{ page.apply_url }}" rel="nofollow noopener"
-                    target="_blank">{{ page.apply_text}} &rarr;</a></p>
+            <p><a class="advert-apply" href="{{ page.apply_url }}" rel="nofollow noopener" target="_blank">{{ page.apply_text}} &rarr;</a></p>
             {%- elsif page.contact_email -%}
             <p><strong>Contact:</strong> <a href="mailto:{{ page.contact_email }}">{{ page.contact_email }}</a></p>
             {%- endif -%}

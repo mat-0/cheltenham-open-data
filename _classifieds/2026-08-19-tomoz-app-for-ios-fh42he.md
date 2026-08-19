@@ -3,7 +3,7 @@ layout: advert
 title: "Tomoz — Tomorrow's Calendar Today"
 category: services
 company: "thechelsuk"
-location: "Cheltenham"
+location: "Anywhere"
 salary: "Free"
 job_type: "iPhone app (iOS 18.5+)"
 date: 2026-08-19
@@ -40,5 +40,4 @@ confusion, just a clean view of what's ahead.
 - Teams sharing daily schedules via export
 - Anyone who wants a cleaner calendar experience
 
-A simple one-off payment, made in Cheltenham. Download Tomoz today and make
-tomorrow less overwhelming.
+Download Tomoz today and make tomorrow less overwhelming.
