@@ -37,6 +37,14 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Large flytip, 19th August :- [9972113](https://www.fixmystreet.com/report/9972113)
+- Outside front of 116 broad oak way - raised ironworks, 19th August :- [9972104](https://www.fixmystreet.com/report/9972104)
+- Bus stop and passengers are not visible from road, 19th August :- [9972068](https://www.fixmystreet.com/report/9972068)
+- Road studs problem, 19th August :- [9972008](https://www.fixmystreet.com/report/9972008)
+- Road studs problem, 19th August :- [9972007](https://www.fixmystreet.com/report/9972007)
+- Other issue with a footway/pavement problem, 19th August :- [9971528](https://www.fixmystreet.com/report/9971528)
+- TMC - Defects - Other FW6  Surface problem, 19th August :- [9971538](https://www.fixmystreet.com/report/9971538)
+- Series of potholes, 19th August :- [9971419](https://www.fixmystreet.com/report/9971419)
 - Left behind after works in two locations on Road, 19th August :- [9970785](https://www.fixmystreet.com/report/9970785)
 - TMC - Defects - Vegetation problem, 19th August :- [9971333](https://www.fixmystreet.com/report/9971333)
 - TMC - Defects - Vegetation problem, 19th August :- [9971332](https://www.fixmystreet.com/report/9971332)
@@ -46,16 +54,8 @@ over time but remain permanently viewable on FixMyStreet itself.
 - Vehicles driving too fast on Barrington Avenue, particularly around the bend by the local park, creating a danger to pedestrians and children., 19th August :- [9971015](https://www.fixmystreet.com/report/9971015)
 - Bus digital sign fallen, 19th August :- [9970898](https://www.fixmystreet.com/report/9970898)
 - TMC - Defects -other CW6 problem, 19th August :- [9971082](https://www.fixmystreet.com/report/9971082)
-- TMC - Defects - Other FW6  Surface problem, 19th August :- [9970855](https://www.fixmystreet.com/report/9970855)
 - TMC - Defects - Other FW6  Surface problem, 19th August :- [9970857](https://www.fixmystreet.com/report/9970857)
+- TMC - Defects - Other FW6  Surface problem, 19th August :- [9970855](https://www.fixmystreet.com/report/9970855)
 - TMC - Defects -CW6 Potholes  problem, 19th August :- [9970854](https://www.fixmystreet.com/report/9970854)
-- TMC - Defects -CW6 Potholes  problem, 19th August :- [9970853](https://www.fixmystreet.com/report/9970853)
-- TMC - Defects - Other FW6  Surface problem, 19th August :- [9970693](https://www.fixmystreet.com/report/9970693)
-- TMC - Defects - Vegetation problem, 19th August :- [9970692](https://www.fixmystreet.com/report/9970692)
-- Tree is damaged problem, 19th August :- [9970689](https://www.fixmystreet.com/report/9970689)
-- Been outside 26 for couple of weeks, 19th August :- [9970493](https://www.fixmystreet.com/report/9970493)
-- These barriers are still here despite the report from March being "closed", 19th August :- [9970399](https://www.fixmystreet.com/report/9970399)
-- Flytipping, 18th August :- [9969956](https://www.fixmystreet.com/report/9969956)
-- Left barriers., 18th August :- [9969952](https://www.fixmystreet.com/report/9969952)
 
 <!-- fix_marker ends -->
