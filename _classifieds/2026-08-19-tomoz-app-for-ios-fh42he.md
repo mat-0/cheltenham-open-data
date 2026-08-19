@@ -1,6 +1,7 @@
 ---
 layout: advert
-title: "Tomoz — Tomorrow's Calendar Today"
+type: single
+title: "Tomoz - Tomorrow's Calendar Today"
 category: services
 company: "thechelsuk"
 location: "Anywhere"
