@@ -37,6 +37,8 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Been outside 26 for couple of weeks, 19th August :- [9970493](https://www.fixmystreet.com/report/9970493)
+- These barriers are still here despite the report from March being "closed", 19th August :- [9970399](https://www.fixmystreet.com/report/9970399)
 - Flytipping, 18th August :- [9969956](https://www.fixmystreet.com/report/9969956)
 - Left barriers., 18th August :- [9969952](https://www.fixmystreet.com/report/9969952)
 - Pothole in the road problem, 18th August :- [9969738](https://www.fixmystreet.com/report/9969738)
@@ -55,7 +57,5 @@ over time but remain permanently viewable on FixMyStreet itself.
 - Pavement is still closed and has been for months, 18th August :- [9967889](https://www.fixmystreet.com/report/9967889)
 - TMC - Defects - Vegetation problem, 18th August :- [9967981](https://www.fixmystreet.com/report/9967981)
 - Sign/waymarker is damaged problem, 18th August :- [9967973](https://www.fixmystreet.com/report/9967973)
-- Long Pothole aprox 1500mm 500mm wide, 18th August :- [9967837](https://www.fixmystreet.com/report/9967837)
-- TMC - Defects -other CW6 problem, 18th August :- [9967977](https://www.fixmystreet.com/report/9967977)
 
 <!-- fix_marker ends -->
