@@ -4,7 +4,9 @@ layout: page
 title: "Cheltenham Help and Support Contact Details"
 seo: "helpful phone numbers and contacts in Cheltenham area"
 permalink: /cheltenham-helpful-contacts-reports
-
+description: "Helpful phone numbers and contacts in Cheltenham area"
+type: "help"
+feed_url:
 ---
 
 Some useful contacts and resources for cheltenham residents. If you have any suggestions for additions, post in the [r/Cheltenham subreddit](https://www.reddit.com/r/Cheltenham/).
@@ -28,6 +30,8 @@ Some useful contacts and resources for cheltenham residents. If you have any sug
 
 - [Write to them](https://www.writetothem.com/who?pc=GL50+1HZ)
 - [Local Intelligence Hub](https://www.localintelligencehub.com/area/WMC23/Cheltenham#movement).
+- [Cheltenham Borough Council](https://www.cheltenham.gov.uk/)
+
 
 ## Useful Phone Numbers
 

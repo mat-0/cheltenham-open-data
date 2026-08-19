@@ -4,7 +4,9 @@ layout: house
 title: "Cheltenham House Price Data"
 seo: "Is cheltenham expensive area to live, check out the average house prices in the area"
 permalink: /cheltenham-house-prices
-
+description: "Data from ONS updated in July 2026."
+type: "house"
+feed_url:
 ---
 
 ## House price £329,000
@@ -23,4 +25,4 @@ The average price paid by first-time buyers was £275,000 in May 2026 (provision
 
 For homes bought with a mortgage, the average house price was £332,000 in May 2026 (provisional). This was 3.8% higher than the average of £320,000 in May 2025 (revised).
 
-note: Data from ONS updated in July 2026.
+

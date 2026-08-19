@@ -1,0 +1,71 @@
+{% include header.html %}
+{%- assign now = site.time | date: "%s" | plus: 0 -%}
+{%- assign live_ads = "" | split: "" -%}
+{%- for ad in site.classifieds -%}
+{%- if ad.expires -%}
+{%- assign expiry = ad.expires | date: "%s" | plus: 0 -%}
+{%- if expiry >= now -%}
+{%- assign live_ads = live_ads | push: ad -%}
+{%- endif -%}
+{%- else -%}
+{%- assign live_ads = live_ads | push: ad -%}
+{%- endif -%}
+{%- endfor -%}
+{%- assign live_ads = live_ads | sort_natural: "date" | reverse -%}
+
+
+<div class="{{page.type}} herobar">
+    <header class="{{page.type}} header">
+        <h1>{{page.title}}</h1>
+        <p>{{page.description}}</p>
+        <ul>
+            <li><a href="/submission" rel="nofollow noopener">Post your free advert &rarr;</a></li>
+            <li><a href="{{ '/classifieds.xml' | relative_url }}">Subscribe to via our feed/rss &rarr;</a></li>
+        </ul>
+    </header>
+
+    <nav class="classifieds-nav" aria-label="Advert categories">
+        <ul>
+            {%- for category in site.classified_categories -%}
+            {%- assign in_cat = live_ads | where: "category", category.value -%}
+            <li>
+                {%- if in_cat.size > 0 -%}
+                <a href="#{{ category.value }}">{{ category.label }} <span class="count">{{ in_cat.size }}</span></a>
+                {%- else -%}
+                <span class="empty">{{ category.label }} <span class="count">0</span></span>
+                {%- endif -%}
+            </li>
+            {%- endfor -%}
+        </ul>
+    </nav>
+
+    {%- if live_ads.size == 0 -%}
+    <p class="classifieds-empty">No adverts at the moment. Be the first to
+        <a href="/submission" rel="nofollow noopener">post one</a>.
+    </p>
+    {%- else -%}
+
+    {%- for category in site.classified_categories -%}
+    {%- assign in_cat = live_ads | where: "category", category.value -%}
+    {%- if in_cat.size > 0 -%}
+    <section class="classifieds-category" id="{{ category.value }}">
+        <h2>{{ category.label }} <span class="count">({{ in_cat.size }})</span></h2>
+        <ul class="classifieds-list">
+            {%- for ad in in_cat -%}
+            <li class="classifieds-item">
+                <a href="{{ ad.url | relative_url }}">{{ ad.title }}</a>
+                {%- if ad.location %} <span class="loc">· {{ ad.location }}</span>{%- endif -%}
+                {%- if ad.salary %} <span class="price">· {{ ad.salary }}</span>{%- endif -%}
+                {%- if ad.expires %} <span class="closes">· closes {{ ad.expires | date: "%-d %b" }}</span>{%- endif -%}
+            </li>
+            {%- endfor -%}
+        </ul>
+    </section>
+    {%- endif -%}
+    {%- endfor -%}
+
+
+    {%- endif -%}
+</div>
+
+{% include footer.html %}

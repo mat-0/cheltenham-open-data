@@ -1,7 +1,8 @@
 highlighter: rouge
 permalink: ./:title
+timezone: Europe/London
 title: "Cheltenham Open Data"
-description: "// collecting and disseminating localised open data for Cheltenham and Gloucestershire"
+description: "Local Data for Local People in Cheltenham and Gloucestershire"
 author: "thechelsuk"
 url: https://cheltenham-od.uk
 icon: "/images/logo.png"
@@ -41,21 +42,109 @@ include:
   - ".well-known"
   - "_pages"
   - ads.txt
+  - style.css
+  - theme.js
+
+# --- Classifieds / adverts section. ---
+collections:
+  classifieds:
+    output: true
+    permalink: /ads/:title/
+defaults:
+  - scope:
+      path: ""
+      type: classifieds
+    values:
+      layout: advert
+
+classified_categories:
+  - value: "jobs"
+    label: "Jobs"
+  - value: "services"
+    label: "Services"
+  - value: "for-sale"
+    label: "For sale"
+  - value: "property"
+    label: "Property"
+  - value: "community"
+    label: "Community notice"
+  - value: "wanted"
+    label: "Wanted"
+
+feed:
+  collections:
+    posts:
+      path: "/feeds/main.xml"
+    classifieds:
+      path: "/feeds/classifieds.xml"
 
 # Site Navigation
 ## Header
 navigation_header:
-  - name: Latest News
-    link: /cheltenham-news
-  - name: Helplines and Contacts
-    link: /cheltenham-helpful-contacts-reports
-  - name: Cheapest Fuel Prices
+  - name: Cheltenham Cheapest Fuel Prices
     link: /cheltenham-fuel-prices
-  - name: House Prices
+    description: "Local fuel pricing data"
+  - name: Cheltenham Classifieds
+    link: /cheltenham-classifieds
+    description: "Local jobs, services, items for sale, and community notices."
+  - name: Cheltenham Latest News
+    link: /cheltenham-news
+    description: "Local news aggregation in a simple view"
+  - name: Cheltenham Helplines and Contacts
+    link: /cheltenham-helpful-contacts-reports
+    description: "Help and support contact numbers and links"
+  - name: Cheltenham House Prices
     link: /cheltenham-house-prices
-  - name: Fix My Street
+    description: "Local house prices data"
+  - name: Cheltenham Fix My Street
     link: /cheltenham-fix-my-street
-  - name: Flood Warnings
+    description: "Local street issues"
+  - name: Cheltenham Flood Warnings
     link: /cheltenham-flood-warnings
-  - name: Food Bank
+    description: "Local flood warnings and alerts"
+  - name: Cheltenham Food Bank
     link: /cheltenham-foodbank-needed-items
+    description: "Local foodbanks and their needed items"
+
+footer_columns:
+  - title: Pages
+    links:
+      - name: Cheltenham Classifieds
+        link: /cheltenham-classifieds
+      - name: Cheltenham Latest News
+        link: /cheltenham-news
+      - name: Cheltenham Helplines and Contacts
+        link: /cheltenham-helpful-contacts-reports
+      - name: Cheltenham Fuel Prices
+        link: /cheltenham-fuel-prices
+      - name: Cheltenham House Prices
+        link: /cheltenham-house-prices
+      - name: Cheltenham Fix My Street
+        link: /cheltenham-fix-my-street
+      - name: Cheltenham Flood Warnings
+        link: /cheltenham-flood-warnings
+      - name: Cheltenham Food Banks
+        link: /cheltenham-foodbank-needed-items
+
+  - title: Feeds
+    links:
+      - name: Main Site Feed (atom)
+        link: /feeds/main.xml
+      - name: Flood warnings (atom)
+        link: /feeds/flood.xml
+      - name: Daily News Summary (atom)
+        link: /feeds/news-summary.xml
+      - name: Cheltenham Classifieds (atom)
+        link: /feeds/classifieds.xml
+  - title: Meta
+    links:
+      - name: Contact
+        link: /contact
+      - name: Submit Classified Advert
+        link: /submission
+      - name: Sitemap
+        link: /sitemap.xml
+      - name: Privacy
+        link: /.well-known/privacy.txt
+      - name: Security
+        link: /.well-known/security.txt

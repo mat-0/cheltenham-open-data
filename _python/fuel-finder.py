@@ -422,10 +422,7 @@ if __name__ == "__main__":
             label       = html.escape(fuel_label(ft))
             brand_str   = f" ({brand})" if brand and c["brand"] != c["name"] else ""
             addr_str    = f", {address}" if address else ""
-            hero_lines.append(f"<h3>Cheapest {label}: {c['price']:.1f}p/L</h3>")
-            hero_lines.append("<ul>")
-            hero_lines.append(f"  <li>{name}{brand_str}{addr_str}</li>")
-            hero_lines.append("</ul>")
+            hero_lines.append(f"<li>Cheapest {label} &rarr; {c['price']:.1f}p/L from {name}{brand_str}</li>")
 
         # 11. Render price table — all local stations sorted by distance then name
         fuel_label_cols = [fuel_label(ft) for ft in fuel_type_cols]
@@ -477,14 +474,24 @@ if __name__ == "__main__":
         html_rows.append("</tbody></table>")
 
         # 12. Assemble and write output
-        output  = "<h2>Cheapest Fuel Data</h2>\n\n"
-        output += "\n".join(hero_lines)
-        output += "\n<h2>Full Local Data</h2>\n\n"
-        output += "\n".join(html_rows)
-        output += f"\n\n<p><em>Last updated: {html.escape(updated)}</em></p>"
+        out_date = f"<li>As of {html.escape(updated)}</li>"
 
         layout_contents = layout_path.open().read()
-        layout_contents = helper.replace_chunk(layout_contents, "fuel_marker", output)
+        layout_contents = helper.replace_chunk(layout_contents, "fuel_date", out_date)
+        layout_path.open("w").write(layout_contents)
+
+        out_lines = "\n".join(hero_lines)
+
+        layout_contents = layout_path.open().read()
+        layout_contents = helper.replace_chunk(layout_contents, "fuel_lines", out_lines)
+        layout_path.open("w").write(layout_contents)
+
+
+        out_table = f"<p><em>Last updated: {html.escape(updated)}</em></p>\n\n"
+        out_table += "\n".join(html_rows)
+
+        layout_contents = layout_path.open().read()
+        layout_contents = helper.replace_chunk(layout_contents, "fuel_marker", out_table)
         layout_path.open("w").write(layout_contents)
         print("Fuel prices page updated successfully.")
 

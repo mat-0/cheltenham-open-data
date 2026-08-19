@@ -1,1 +1,6 @@
+---
+layout: empty
+permalink: /ads.txt
+---
+
 google.com, pub-7806573467007778, DIRECT, f08c47fec0942fa0

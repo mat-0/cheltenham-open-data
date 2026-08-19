@@ -1,0 +1,27 @@
+---
+---
+{%- assign contents_of_page = site.pages | where: "name", "news.md" | first -%}
+{%- assign updated = site.time | date_to_xmlschema -%}
+{%- assign day = site.time | date: "%Y-%m-%d" -%}
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Cheltenham OD - Daily News Summary</title>
+  <subtitle>{{ site.description | xml_escape }}</subtitle>
+  <link href="{{ site.url }}/feeds/news-summary.xml" rel="self" type="application/atom+xml"/>
+  <link href="{{ site.url }}//cheltenham-news" rel="alternate" type="text/html"/>
+  <id>{{ site.url }}/news</id>
+  <updated>{{ updated }}</updated>
+  <author>
+    <name>Cheltenham Open Data</name>
+  </author>
+  <entry>
+    <title>Daily News Aggregation Summary for {{ day }}</title>
+    <link href="{{ site.url }}/news" rel="alternate" type="text/html"/>
+    <id>{{ site.url }}/news#{{ day }}</id>
+    <updated>{{ updated }}</updated>
+    <published>{{ updated }}</published>
+    <content type="html">
+      <![CDATA[ {{ contents_of_page.content | markdownify }} ]]>
+    </content>
+  </entry>
+</feed>

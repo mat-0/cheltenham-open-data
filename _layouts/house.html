@@ -1,24 +1,29 @@
 {% include header.html %}
-<h1 class="post-title">{{ page.title }}</h1>
-{{ content }}
+<div class="{{page.type}} herobar">
+    <header class="{{page.type}} header">
+        <h1>{{page.title}}</h1>
+        <p>{{page.description}}</p>
+    </header>
 
-<h2>Annual House Price Changes in Cheltenham</h2>
+    {{ content }}
 
-<div id="chart-timeseries"></div>
-<script src="https://cdn.ons.gov.uk/vendor/pym/1.3.2/pym.min.js"></script>
-<script>var pymParent = new pym.Parent("chart-timeseries", "https://www.ons.gov.uk/visualisations/housingpriceslocal/embed/?area=E07000078&chart=chart-timeseries", { name: "chart-timeseries", title: "Embedded chart" });</script>
+    <h2>Annual House Price Changes in Cheltenham</h2>
 
-<h2>First-Time buyers in Cheltenham</h2>
+    <div id="chart-timeseries"></div>
+    <script src="https://cdn.ons.gov.uk/vendor/pym/1.3.2/pym.min.js"></script>
+    <script>var pymParent = new pym.Parent("chart-timeseries", "https://www.ons.gov.uk/visualisations/housingpriceslocal/embed/?area=E07000078&chart=chart-timeseries", { name: "chart-timeseries", title: "Embedded chart" });</script>
 
-<div id="chart-ftb-static"></div>
-<script src="https://cdn.ons.gov.uk/vendor/pym/1.3.2/pym.min.js"></script>
-<script>var pymParent = new pym.Parent("chart-ftb-static", "https://www.ons.gov.uk/visualisations/housingpriceslocal/embed/?area=E07000078&chart=chart-ftb-static", { name: "chart-ftb-static", title: "Embedded chart" });</script>
+    <h2>First-Time buyers in Cheltenham</h2>
 
-<h2>House prices when buying with cash or mortgage in Cheltenham</h2>
+    <div id="chart-ftb-static"></div>
+    <script src="https://cdn.ons.gov.uk/vendor/pym/1.3.2/pym.min.js"></script>
+    <script>var pymParent = new pym.Parent("chart-ftb-static", "https://www.ons.gov.uk/visualisations/housingpriceslocal/embed/?area=E07000078&chart=chart-ftb-static", { name: "chart-ftb-static", title: "Embedded chart" });</script>
 
-<div id="chart-mortgagecash"></div>
-<script src="https://cdn.ons.gov.uk/vendor/pym/1.3.2/pym.min.js"></script>
-<script>var pymParent = new pym.Parent("chart-mortgagecash", "https://www.ons.gov.uk/visualisations/housingpriceslocal/embed/?area=E07000078&chart=chart-mortgagecash", { name: "chart-mortgagecash", title: "Embedded chart" });</script>
+    <h2>House prices when buying with cash or mortgage in Cheltenham</h2>
+
+    <div id="chart-mortgagecash"></div>
+    <script src="https://cdn.ons.gov.uk/vendor/pym/1.3.2/pym.min.js"></script>
+    <script>var pymParent = new pym.Parent("chart-mortgagecash", "https://www.ons.gov.uk/visualisations/housingpriceslocal/embed/?area=E07000078&chart=chart-mortgagecash", { name: "chart-mortgagecash", title: "Embedded chart" });</script>
 
 
-{% include footer.html %}
+    {% include footer.html %}

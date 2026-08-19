@@ -2,6 +2,15 @@
 <html lang="en">
 
     <head>
+        <script>
+            (function () {
+                var t = localStorage.getItem('theme');
+                if (!t) {
+                    t = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+                }
+                document.documentElement.setAttribute('data-theme', t);
+            })();
+        </script>
         <meta charset="utf-8">
         <title>{{page.title}} - Cheltenham Open Data</title>
         <meta name="title" content="{{page.title}} - Cheltenham Open Data">
@@ -38,10 +47,16 @@
         <meta name="apple-mobile-web-app-capable" content="yes">
         <meta name="apple-mobile-web-app-status-bar-style" content="default">
         <link rel="stylesheet" href="/style.css">
-        <link href="/fonts/TheChelsLight.woff" rel="preload" crossorigin as="font" type="font/woff">
-        <link href="/fonts/TheChelsMedium.woff" rel="preload" crossorigin as="font" type="font/woff">
-        <link rel="alternate" type="application/rss+xml" title="Cheltenham Daily News Aggregation - Cheltenham OD"
-            href="/news.xml">
+        <link href="/fonts//Archivo-Variable.woff2" rel="preload" crossorigin as="font" type="font/woff2">
+        <link href="/fonts/SourceSerif4-Variable.woff2" rel="preload" crossorigin as="font" type="font/woff2">
+        <link rel="alternate" type="" application/atom+xml" title="Cheltenham OD = main feed - Cheltenham OD"
+            href="/feeds/main.xml">
+        <link rel="alternate" type="" application/atom+xml" title="Cheltenham OD - Local Flood warnings - Cheltenham OD"
+            href="/feeds/flood.xml">
+        <link rel="alternate" type="" application/atom+xml"
+            title="Cheltenham OD - Cheltenham Daily News Aggregation Summary" href="/feeds/news-summary.xml">
+        <link rel="alternate" type="" application/atom+xml" title="Cheltenham OD - Cheltenham Classifieds"
+            href="/feeds/classifieds.xml">
         <link rel="apple-touch-icon" sizes="512x512" href="{{site.icon}}">
 
         <!-- google -->
@@ -94,31 +109,62 @@
                         </li>
                     </ul>
                     <div class="blog-title">
-                        <a href="{{ site.url }}">
-                            {% if site.title %}
-                            {{ site.title }}
-                            {% else %}
-                            {{ page.title }}
-                            {% endif %}</a> <sup class="asterisk" id="top">*</sup>
-                    </div>
-                    <div class="blog-image"></div>
-                    <p class="blog-slogan">
-                        {% if site.description %}
-                        {{ site.description }}
-                        {% else %}
-                        {{ page.description }}
-                        {% endif %}
-                    </p>
-                    <nav class="blog-menu">
-                        {% if page.id %}
-                        <a href="{{ site.url }}" title="Back to all posts">&larr; Back</a>
-                        {% else %}
-                        <a href="{{ site.url }}" title="Back to all home">&larr; Home</a>
-                        {% endif %}
+                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
+                            stroke="currentColor" class="logo-icon">
+                            <path stroke-linecap="round" stroke-linejoin="round"
+                                d="M10.34 15.84c-.688-.06-1.386-.09-2.09-.09H7.5a4.5 4.5 0 1 1 0-9h.75c.704 0 1.402-.03 2.09-.09m0 9.18c.253.962.584 1.892.985 2.783.247.55.06 1.21-.463 1.511l-.657.38c-.551.318-1.26.117-1.527-.461a20.845 20.845 0 0 1-1.44-4.282m3.102.069a18.03 18.03 0 0 1-.59-4.59c0-1.586.205-3.124.59-4.59m0 9.18a23.848 23.848 0 0 1 8.835 2.535M10.34 6.66a23.847 23.847 0 0 0 8.835-2.535m0 0A23.74 23.74 0 0 0 18.795 3m.38 1.125a23.91 23.91 0 0 1 1.014 5.395m-1.014 8.855c-.118.38-.245.754-.38 1.125m.38-1.125a23.91 23.91 0 0 0 1.014-5.395m0-3.46c.495.413.811 1.035.811 1.73 0 .695-.316 1.317-.811 1.73m0-3.46a24.347 24.347 0 0 1 0 3.46" />
+                        </svg>
 
-                        {% for item in site.navigation_header %}
-                        <a href="{{ item.link }}">{{ item.name }}</a>|
-                        {% endfor %}
-                    </nav>
+                        <div class="blog-title-text">
+                            <a href="{{ site.url }}">
+                                {% if site.title %}
+                                {{ site.title }}
+                                {% else %}
+                                {{ page.title }}
+                                {% endif %}</a>
+
+                            <p class="blog-slogan">
+                                {% if site.description %}
+                                {{ site.description }}
+                                {% else %}
+                                {{ page.description }}
+                                {% endif %}
+                            </p>
+                        </div>
+
+                        <nav class="blog-menu align-right">
+                            <button id="nav-toggle-btn" class="nav-toggle" type="button" aria-expanded="false"
+                                aria-controls="nav-panel">
+                                <span>MENU</span>
+                                <svg viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="M6 9l6 6 6-6" />
+                                </svg>
+                            </button>
+                        </nav>
+                    </div>
+
+                    <div class="nav-panel" id="nav-panel" hidden>
+                        <div class="nav-panel-inner">
+                            {% assign nav_items = site.navigation_header %}
+                            {% assign half = nav_items.size | divided_by: 2.0 | ceil %}
+                            <div class="nav-panel-col">
+                                {% for item in nav_items limit: half %}
+                                <div class="nav-panel-item">
+                                    <a class="nav-panel-item-title" href="{{ item.link }}">{{ item.name }}</a>
+                                    <span class="nav-panel-item-desc">{{ item.description }}</span>
+                                </div>
+                                {% endfor %}
+                            </div>
+                            <div class="nav-panel-col">
+                                {% assign remaining = nav_items.size | minus: half %}
+                                {% for item in nav_items offset: half limit: remaining %}
+                                <div class="nav-panel-item">
+                                    <a class="nav-panel-item-title" href="{{ item.link }}">{{ item.name }}</a>
+                                    <span class="nav-panel-item-desc">{{ item.description }}</span>
+                                </div>
+                                {% endfor %}
+                            </div>
+                        </div>
+                    </div>
                 </header>
                 <main id="main" class="content">

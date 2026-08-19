@@ -1,19 +1,41 @@
 </main>
 </div>
 </div>
-<div class="footer">
+<footer class="footer">
     <div class="wrapper">
-        <p>&copy; {{ site.time | date: '%Y' }}
+        <div class="footer-columns">
+            {% for col in site.footer_columns %}
+            <nav class="footer-col" aria-label="{{ col.title }}">
+                <h2 class="footer-col-title">{{ col.title }}</h2>
+                <ul>
+                    {% for item in col.links %}
+                    <li><a href="{{ item.link }}">{{ item.name }}</a></li>
+                    {% endfor %}
+                    {% if col.title == "Meta" %}
+                    <li>Build: {{ site.github.build_revision | slice: 0, 8 }}</li>
+                    <li><a id="theme-toggle-btn" aria-pressed="false" type="button" aria-label="Toggle dark mode"
+                            href="#footer">Theme
+                            Toggle</a></li>
+                    <li><a href="#top" class="back-to-top" name="back-to-top">↑</a></li>
+
+                    {% endif %}
+                </ul>
+            </nav>
+            {% endfor %}
+        </div>
+
+        <p class="footer-legal">&copy; {{ site.time | date: '%Y' }}
             {% if site.copyright %}
             {{ site.copyright }}
             {% else %}
             {% endif %}
-            <a href="/#{{ site.github.build_revision }}">#</a>
-            <a href="#top" class="back-to-top" name="back-to-top">↑</a>
+
         </p>
     </div>
-</div>
+</footer>
 <script src="https://analytics.ahrefs.com/analytics.js" data-key="2nL/HIrWf8RHifh6Ip94Nw" async></script>
+<script src="/scripts/theme-toggle.js" defer></script>
+<script src="/scripts/nav-menu.js" defer></script>
 </body>
 
 </html>

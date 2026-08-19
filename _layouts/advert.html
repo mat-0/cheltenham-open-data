@@ -1,0 +1,62 @@
+{% include header.html %}
+
+{%- assign now = site.time | date: "%s" | plus: 0 -%}
+{%- assign expiry = page.expires | date: "%s" | plus: 0 -%}
+<article class="advert">
+    {%- if page.expires and expiry < now -%} <p class="advert-expired">This advert has expired and is no longer
+        available.</p>
+        {% else %}
+
+        <header class="advert-header">
+            {%- if page.category -%}
+            {%- assign cat = site.classified_categories | where: "value", page.category | first -%}
+            <p class="advert-category">
+                {%- if cat -%}
+                <a href="{{ '/cheltenham-classifieds/' | relative_url }}#{{ cat.value }}">&larr; Back to
+                    {{ cat.label }}</a>
+                {%- else -%}
+                <a href="/cheltenham-classifieds">&larr; Back to Classifieds</a>
+                {%- endif -%}
+            </p>
+            {%- endif -%}
+
+            <h1 class="advert-title">{{ page.title }}</h1>
+
+            <ul class="advert-meta">
+                {%- if page.company -%}<li><strong>Advertiser:</strong> {{ page.company }}</li>{%- endif -%}
+                {%- if page.location -%}<li><strong>Location:</strong> {{ page.location }}</li>{%- endif -%}
+                {%- if page.salary -%}<li><strong>Salary / Price:</strong> {{ page.salary }}</li>{%- endif -%}
+                {%- if page.job_type -%}<li><strong>Type:</strong> {{ page.job_type }}</li>{%- endif -%}
+                {%- if page.date -%}<li><strong>Posted:</strong> {{ page.date | date: "%-d %B %Y" }}</li>{%- endif -%}
+                {%- if page.expires -%}<li><strong>Closes:</strong> {{ page.expires | date: "%-d %B %Y" }}</li>{%- endif
+                -%}
+            </ul>
+        </header>
+
+        <div class="advert-body">
+            {{ content }}
+        </div>
+
+        <footer class="advert-footer">
+            {%- if page.apply_url -%}
+            <p><a class="advert-apply" href="{{ page.apply_url }}" rel="nofollow noopener" target="_blank">Apply /
+                    respond to this advert &rarr;</a></p>
+            {%- elsif page.contact_email -%}
+            <p><strong>Contact:</strong> <a href="mailto:{{ page.contact_email }}">{{ page.contact_email }}</a></p>
+            {%- endif -%}
+            {%- if page.contact_phone -%}
+            <p><strong>Tel:</strong> {{ page.contact_phone }}</p>
+            {%- endif -%}
+
+            <p class="advert-disclaimer">
+                This advert is submitted by a third party. Cheltenham Open Data does not endorse
+                or verify adverts and accepts no liability. Please take normal precautions.
+            </p>
+
+            <p><a href="/submission" rel="nofollow noopener">Post your own advert →</a></p>
+        </footer>
+
+        {%- endif -%}
+</article>
+
+{% include footer.html %}

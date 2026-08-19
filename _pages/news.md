@@ -2,14 +2,12 @@
 layout: page
 title: "Cheltenham News Aggregation"
 seo: "fast Cheltenham local news summary and aggregation"
+description: "Cheltenham local news without the bloat, updated hourly. Aggregation from a variety of sources: <br/><i>Gov.uk, Glos Police, Cheltenham Borough Council, Cheltenham BID, Golden Valley UK, BBC, Cheltenham Post, and Glos News Centre</i>"
+feed_url: "/daily.rss"
+type: "news"
 permalink: /cheltenham-news
 
 ---
-
-Latest News Aggregation from a variety of sources. Updated every hour.
-_sources: BBC, Glos Police, Cheltenham Borough Council, Cheltenham BID, Cheltenham Post, Golden Valley uk, and Glos News Centre_
-
-[Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
 - Cycle spine to go through residential area ([1 hours ago](https://www.bbc.co.uk/news/articles/cvg7xv9lw6yo?at_medium=RSS&at_campaign=rss))

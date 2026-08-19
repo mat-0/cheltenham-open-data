@@ -12,8 +12,7 @@
     <item>
       <title>Daily Rundown for {{ pub_date }}</title>
       <link>{{ site.url }}/news</link>
-      <description>
-      <![CDATA[ {{ contents_of_page.content | markdownify }} ]]>
+      <description>This feed has moved to https://cheltenham-od.uk/feeds/news-summary.xml please update your link/feed.
       </description>
       <pubDate>{{ pub_date }}</pubDate>
     </item>

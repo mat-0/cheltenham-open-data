@@ -1,3 +1,8 @@
+---
+layout: empty
+permalink: /llms.txt
+---
+
 # Cheltenham Open Data
 
 > Collecting and sharing frequently updated local open data for Cheltenham and Gloucestershire — weather, fuel prices, flood warnings, market dates, food banks, news and more. All data is owned by the respective data providers; no liability is accepted for the accuracy of the data.

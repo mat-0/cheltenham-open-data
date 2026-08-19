@@ -3,10 +3,9 @@ layout: page
 title: "Welcome to Cheltenham Open Data"
 seo: "Cheltenham, Gloucestershire, UK. Local news, cheapest fuel prices, weather, street issues helpful phone numbers and more."
 permalink: /
-
+type: welcome
+description: "Collecting and sharing frequently updated local open data for Cheltenham and Gloucestershire — weather, fuel prices, flood warnings, market dates, food banks, news and more."
 ---
-
-Collecting and sharing frequently updated local open data for Cheltenham and Gloucestershire — weather, fuel prices, flood warnings, market dates, food banks, news and more.
 
 <!-- weather_marker starts -->
 ## On Wednesday, 19 August 2026
@@ -20,6 +19,10 @@ Collecting and sharing frequently updated local open data for Cheltenham and Glo
 
 <!-- weather_marker ends -->
 
+## Local Classifieds in Cheltenham
+
+[Currently there are {{site.classifieds.size}} live classifieds](/cheltenham-classifieds)
+
 ## Sponsors & Offers
 
 - [Get £50 credit when switching to Octopus Energy](https://bit.ly/3oD1nnS)
@@ -29,7 +32,7 @@ Collecting and sharing frequently updated local open data for Cheltenham and Glo
 - [Choose a gift card up to £20 when you join Smarty Mobile](https://i.smarty.co.uk/CSj6iK)
 - [Get £20, £50 or £100 free when you join Monzo bank](https://join.monzo.com/c/k7stxxwv)
 
-_Terms and Conditions apply - see offer for details_
+Note: _Terms and Conditions apply - see offer for details_.
 
 ## Farmers Market
 
