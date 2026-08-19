@@ -105,6 +105,9 @@ navigation_header:
   - name: Cheltenham Food Bank
     link: /cheltenham-foodbank-needed-items
     description: "Local foodbanks and their needed items"
+  - name: Cheltenham Security Alerts
+    link: /cheltenham-security-alerts
+    description: "Local Area Security Alerts and Status Updates"
 
 footer_columns:
   - title: Pages
@@ -125,6 +128,8 @@ footer_columns:
         link: /cheltenham-flood-warnings
       - name: Cheltenham Food Banks
         link: /cheltenham-foodbank-needed-items
+      - name: Cheltenham Security Alerts
+        link: /cheltenham-security-alerts
 
   - title: Feeds
     links:
