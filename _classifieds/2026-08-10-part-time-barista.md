@@ -1,13 +1,13 @@
 ---
 layout: advert
-title: "Part-Time Barista"
+title: "Example Part-Time Barista"
 category: jobs
 company: "The Brewery Quarter Coffee Co."
 location: "Cheltenham, GL50"
 salary: "£12.21/hour"
 job_type: "Part-time, 20 hrs/week"
 date: 2026-05-07
-expires: 2026-11-21
+expires: 2026-09-18
 apply_url: "https://example.com/apply/barista"
 contact_email: "jobs@example.com"
 contact_phone: "01242 000000"
