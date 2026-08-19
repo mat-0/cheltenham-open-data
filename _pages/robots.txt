@@ -7,7 +7,9 @@ permalink: /robots.txt
 # Sitemap and feeds
 Sitemap: https://cheltenham-od.uk/sitemap.xml
 feed: https://cheltenham-od.uk/flood.xml
-feed: https://cheltenham-od.uk/daily.rss
+feed: https://cheltenham-od.uk/news-summary.xml
+feed: https://cheltenham-od.uk/classifieds.xml
+feed: https://cheltenham-od.uk/main.xml
 
 User-agent: *
 Allow: /

@@ -74,9 +74,9 @@ classified_categories:
 feed:
   collections:
     posts:
-      path: "/feeds/main.xml"
+      path: "/main.xml"
     classifieds:
-      path: "/feeds/classifieds.xml"
+      path: "/classifieds.xml"
 
 # Site Navigation
 ## Header
