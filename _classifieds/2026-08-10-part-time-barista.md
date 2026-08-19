@@ -7,7 +7,7 @@ location: "Cheltenham, GL50"
 salary: "£12.21/hour"
 job_type: "Part-time, 20 hrs/week"
 date: 2026-05-07
-expires: 2026-09-17
+expires: 2026-08-17
 apply_url: "https://example.com/apply/barista"
 contact_email: "jobs@example.com"
 contact_phone: "01242 000000"
