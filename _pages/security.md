@@ -1,9 +1,8 @@
 ---
-
 layout: page
 title: "Government Security Alerts"
 seo: "Government Alerts and Statuses for the Cheltenham area"
-permalink: /cheltenham-security-status
+permalink: /cheltenham-security-alerts
 description: "Government Alerts and Statuses for the Cheltenham area"
 type: "help"
 feed_url:
@@ -14,6 +13,11 @@ feed_url:
 Given the Proximity to GCHQ
 
 <!-- threat_marker starts -->
+### SEVERE
+
+- Current Threat Level: SEVERE
+- It has been 111 days since the last change (2026-04-30)
+- Details: <p>The current national threat level is SEVERE. &nbsp;The threat to Northern Ireland from Northern Ireland-related terrorism is SUBSTANTIAL.</p>
 
 <!-- threat_marker ends -->
 
