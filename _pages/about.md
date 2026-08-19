@@ -26,11 +26,11 @@ permalink: /about
 
 ## Website
 
-> Only 0.01g of CO₂ is produced every time someone visits this web page. This web page appears to be running on sustainable energy
+> Only 0.05g of CO₂ is produced every time someone visits this website. This website appears to be running on sustainable energy
 
-[Source](https://www.websitecarbon.com/website/thechels-uk/)
+[Source](https://www.websitecarbon.com/website/cheltenham-od-uk/)
 
-[![Green Web Foundation badge](https://app.greenweb.org/api/v3/greencheckimage/thechels.uk?nocache=true)](https://www.thegreenwebfoundation.org/green-web-check/?url=thechels.uk)
+[![Green Web Foundation badge](https://app.greenweb.org/api/v3/greencheckimage/cheltenham-od.uk?nocache=true)](https://www.thegreenwebfoundation.org/green-web-check/?url=cheltenham-od.uk)
 
 ## Owner
 
