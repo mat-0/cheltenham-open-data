@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Opps
+title: Oops - Error
 permalink: /form/error
 robots: noindex, nofollow
 ---

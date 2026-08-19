@@ -5,4 +5,6 @@ permalink: /form/thanks
 robots: noindex, nofollow
 ---
 
-Thanks for submitting your advert. We will review the contents and publish on the site as soon as possible.
+Thanks for submitting your form.
+
+We will review the contents and be in touch as soon as possible
