@@ -143,6 +143,8 @@ footer_columns:
         link: /feeds/classifieds.xml
   - title: Meta
     links:
+      - name: About
+        link: /about
       - name: Contact
         link: /contact
       - name: Submit Classified Advert
