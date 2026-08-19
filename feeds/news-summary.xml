@@ -1,6 +1,6 @@
 ---
 layout: empty
-permalink: /news-summary.xml
+permalink: /feeds/news-summary.xml
 ---
 {%- assign contents_of_page = site.pages | where: "name", "news.md" | first -%}
 {%- assign updated = site.time | date_to_xmlschema -%}

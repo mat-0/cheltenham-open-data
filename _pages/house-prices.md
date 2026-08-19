@@ -1,12 +1,10 @@
 ---
-
 layout: house
 title: "Cheltenham House Price Data"
 seo: "Is cheltenham expensive area to live, check out the average house prices in the area"
 permalink: /cheltenham-house-prices
 description: "Data from ONS updated in July 2026."
 type: "house"
-feed_url:
 ---
 
 ## House price £329,000

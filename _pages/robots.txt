@@ -6,10 +6,10 @@ permalink: /robots.txt
 
 # Sitemap and feeds
 Sitemap: https://cheltenham-od.uk/sitemap.xml
-feed: https://cheltenham-od.uk/flood.xml
-feed: https://cheltenham-od.uk/news-summary.xml
-feed: https://cheltenham-od.uk/classifieds.xml
-feed: https://cheltenham-od.uk/main.xml
+feed: https://cheltenham-od.uk/feeds/flood.xml
+feed: https://cheltenham-od.uk/feeds/news-summary.xml
+feed: https://cheltenham-od.uk/feeds/classifieds.xml
+feed: https://cheltenham-od.uk/feeds/main.xml
 
 User-agent: *
 Allow: /

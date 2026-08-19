@@ -5,7 +5,6 @@ seo: "Government Alerts and Statuses for the Cheltenham area"
 permalink: /cheltenham-security-alerts
 description: "Government Alerts and Statuses for the Cheltenham area"
 type: "help"
-feed_url:
 ---
 
 ##  MI5 Threat Level

@@ -1,12 +1,10 @@
 ---
-
 layout: page
 title: "Cheltenham Food Bank Needed Items"
 seo: "food bank needed and wanted items for Cheltenham"
 permalink: /cheltenham-foodbank-needed-items
 description: "Needed items for Cheltenham foodbanks"
 type: "food"
-feed_url:
 ---
 
 <!-- summary1_marker starts -->

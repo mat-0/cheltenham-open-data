@@ -5,7 +5,7 @@ title: Flood Warnings for Cheltenham and Gloucestershire
 seo: Flood warnings and alerts for Cheltenham and Gloucestershire
 description: "Source from official Environment Agency feed"
 type: "flood"
-feed_url: "/flood.xml"
+feed_url: "/feeds/flood.xml"
 permalink: /cheltenham-flood-warnings
 
 ---
