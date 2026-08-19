@@ -21,7 +21,17 @@ description: "Collecting and sharing frequently updated local open data for Chel
 
 ## Local Classifieds in Cheltenham
 
-[Currently there are {{site.classifieds.size}} live classifieds](/cheltenham-classifieds)
+{% assign now = site.time | date: "%s" | plus: 0 %}
+{% assign count = 0 %}
+{% for item in site.classifieds %}
+  {% assign exp = item.expires | date: "%s" | plus: 0 %}
+  {% if exp > now %}
+    {% assign count = count | plus: 1 %}
+  {% endif %}
+{% endfor %}
+
+- [Currently there are {{ count }} live classifieds](/cheltenham-classifieds)
+- [Add yours](/submission)
 
 ## Sponsors & Offers
 

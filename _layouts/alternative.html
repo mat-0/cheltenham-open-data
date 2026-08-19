@@ -1,0 +1,74 @@
+{% include header.html %}
+
+{%- assign now = site.time | date: "%s" | plus: 0 -%}
+{%- assign expiry = page.expires | date: "%s" | plus: 0 -%}
+
+<div class="classifieds herobar">
+    <header class="Classifieds header">
+        <h1>{{page.title}}</h1>
+        <p>{{page.description}}</p>
+
+        <ul>
+            {%- if page.category -%}
+            {%- assign cat = site.classified_categories | where: "value", page.category | first -%}
+            <li>
+                {%- if cat -%}
+                <a href="{{ '/cheltenham-classifieds/' | relative_url }}#{{ cat.value }}">&larr; Back to {{ cat.label }}</a>
+                {%- else -%}
+                <a href="/cheltenham-classifieds">&larr; Back to Classifieds</a>
+                {%- endif -%}
+            </li>
+            {%- endif -%}
+            <li><a href="/submission" rel="nofollow noopener">Post your free advert &rarr;</a></li>
+            <li><a href="{{ '/classifieds.xml' | relative_url }}">Subscribe to via our feed/rss &rarr;</a></li>
+        </ul>
+    </header>
+
+    <article class="single">
+        {%- if page.expires and expiry < now -%} <p class="single-expired">This classified advert has expired and is no
+            longer
+            available.</p>
+            {% else %}
+
+            <header class="single-header">
+
+                <ul class="single-meta">
+                    {%- if page.company -%}<li><strong>advertiser:</strong> {{ page.company }}</li>{%- endif -%}
+                    {%- if page.location -%}<li><strong>Location:</strong> {{ page.location }}</li>{%- endif -%}
+                    {%- if page.salary -%}<li><strong>Salary / Price:</strong> {{ page.salary }}</li>{%- endif -%}
+                    {%- if page.job_type -%}<li><strong>Type:</strong> {{ page.job_type }}</li>{%- endif -%}
+                    {%- if page.date -%}<li><strong>Posted:</strong> {{ page.date | date: "%-d %B %Y" }}</li>{%- endif
+                    -%}
+                    {%- if page.expires -%}<li><strong>Closes:</strong> {{ page.expires | date: "%-d %B %Y" }}</li>{%-
+                    endif
+                    -%}
+                </ul>
+            </header>
+
+            <div class="single-body">
+                {{ content }}
+            </div>
+
+            <footer class="single-footer">
+                {%- if page.apply_url -%}
+                <p><a class="single-apply" href="{{ page.apply_url }}" rel="nofollow noopener"
+                        target="_blank">{{ page.apply_text}} &rarr;</a></p>
+                {%- elsif page.contact_email -%}
+                <p><strong>Contact:</strong> <a href="mailto:{{ page.contact_email }}">{{ page.contact_email }}</a></p>
+                {%- endif -%}
+                {%- if page.contact_phone -%}
+                <p><strong>Tel:</strong> {{ page.contact_phone }}</p>
+                {%- endif -%}
+
+                <p class="single-disclaimer">
+                    This classified advertisement is submitted by a third party. Cheltenham Open Data does not endorse
+                    or verify singles and accepts no liability. Please take normal precautions and be scam aware.
+                </p>
+
+                <p><a href="/submission" rel="nofollow noopener">Post your own single →</a></p>
+            </footer>
+
+            {%- endif -%}
+    </article>
+
+    {% include footer.html %}

@@ -1645,6 +1645,28 @@ pre {
     }
 }
 
+/* Tablet and below */
+@media (max-width: 768px) {
+    .blog-title-text {
+        font-size: 1.4rem;
+    }
+
+    .blog-slogan {
+        font-size: 0.75rem;
+    }
+}
+
+/* Phones */
+@media (max-width: 480px) {
+    .blog-title-text {
+        font-size: 1.2rem;
+    }
+
+    .blog-slogan {
+        font-size: 0.65rem;
+    }
+}
+
 
 @media screen and (max-width: 1000px) {
     #wrapper {
