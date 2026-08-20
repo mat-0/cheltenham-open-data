@@ -166,6 +166,18 @@ body:has(.contact-form-wrapper) {
     --accent-text: #0a1420;
 }
 
+.herobar.air {
+    --accent: #35b51f;
+    --accent-dark: #468616;
+    --accent-text: #ffffff;
+}
+
+[data-theme=dark] .herobar.air {
+    --accent: #4be126;
+    --accent-dark: #77d62d;
+    --accent-text: #0a1420;
+}
+
 .herobar.house {
     --accent: #2f6b4f;
     --accent-dark: #204a37;

@@ -103,6 +103,9 @@ navigation_header:
   - name: Cheltenham Flood Warnings
     link: /cheltenham-flood-warnings
     description: "Local flood warnings and alerts"
+  - name: Cheltenham Air Quality
+    link: /cheltenham-air-quality
+    description: "Local Area air quality readings for Cheltenham"
   - name: Cheltenham Food Bank
     link: /cheltenham-foodbank-needed-items
     description: "Local foodbanks and their needed items"
@@ -127,6 +130,8 @@ footer_columns:
         link: /cheltenham-fix-my-street
       - name: Cheltenham Flood Warnings
         link: /cheltenham-flood-warnings
+      - name: Cheltenham Air Quality
+        link: /cheltenham-air-quality
       - name: Cheltenham Food Banks
         link: /cheltenham-foodbank-needed-items
       - name: Cheltenham Security Alerts

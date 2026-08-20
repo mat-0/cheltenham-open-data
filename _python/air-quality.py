@@ -24,14 +24,18 @@ Requires:
 """
 
 import sys
+import math
+import argparse
 import datetime
 import requests
+import helper
 
 # ---------------------------------------------------------------------------
 # Config
 # ---------------------------------------------------------------------------
 
 BASE_URL = "https://uk-air.defra.gov.uk/sos-ukair/api/v1"
+HEADERS = {"Accept": "application/json"}
 
 # Cheltenham town centre, used as the search origin
 CENTRE_LAT = 51.8994
@@ -39,9 +43,30 @@ CENTRE_LON = -2.0783
 
 # Covers Cheltenham + immediate surrounding area (Cheltenham, Bishop's
 # Cleeve, Charlton Kings, etc). Increase if you want Gloucester included.
-RADIUS_KM = 12
+RADIUS_KM = 20
 
-OUTPUT_FILE = "air-quality.md"
+# Radius used for client-side distance filtering after fetching the full
+# station list (the DEFRA SOS instance's server-side bbox/near params
+# returned 400/500 errors in testing).
+
+OUTPUT_FILE = "_pages/air-quality.md"
+DEBUG = False
+
+
+def debug_print(*args):
+    if DEBUG:
+        print("[debug]", *args, file=sys.stderr)
+
+
+def haversine_km(lat1, lon1, lat2, lon2):
+    R = 6371.0
+    dlat = math.radians(lat2 - lat1)
+    dlon = math.radians(lon2 - lon1)
+    a = (
+        math.sin(dlat / 2) ** 2
+        + math.cos(math.radians(lat1)) * math.cos(math.radians(lat2)) * math.sin(dlon / 2) ** 2
+    )
+    return R * 2 * math.asin(math.sqrt(a))
 
 # Pollutants we care about for a public-facing summary. UK-AIR labels vary
 # by station/procedure so this is a best-effort keyword match against the
@@ -74,15 +99,37 @@ TIMEOUT = 20  # seconds per request
 # Helpers
 # ---------------------------------------------------------------------------
 
-def match_pollutant_key(phenomenon_label: str):
-    """Return our internal pollutant key if the label looks like one we track."""
-    label = phenomenon_label.lower().replace(" ", "").replace(".", "")
+def match_pollutant_key(phenomenon_label: str, fallback_text: str = ""):
+    """Return our internal pollutant key. The API returns the phenomenon
+    label as a EIONET vocabulary URI (e.g.
+    'http://dd.eionet.europa.eu/vocabulary/aq/pollutant/6001'), not plain
+    text, confirmed via live debug output. Match on the known EIONET
+    pollutant codes first, then fall back to matching descriptive text
+    (used because each 'station' entry here is actually per-pollutant,
+    with the pollutant name baked into the station label itself, e.g.
+    'Cheltenham A40 Gloucester Road-Particulate matter less than 2.5
+    micro m (aerosol)')."""
+    # EIONET aq/pollutant vocabulary codes (documented at
+    # http://dd.eionet.europa.eu/vocabulary/aq/pollutant/)
+    EIONET_CODES = {
+        "1": "so2",
+        "5": "pm10",
+        "7": "o3",
+        "8": "no2",
+        "6001": "pm2.5",
+    }
+    if phenomenon_label and "/pollutant/" in phenomenon_label:
+        code = phenomenon_label.rstrip("/").rsplit("/", 1)[-1]
+        if code in EIONET_CODES:
+            return EIONET_CODES[code]
+
+    label = (fallback_text or phenomenon_label).lower()
     checks = {
-        "pm2.5": ["pm2.5", "pm25"],
-        "pm10": ["pm10"],
-        "no2": ["no2", "nitrogendioxide"],
+        "pm2.5": ["pm2.5", "pm2,5", "pm25", "2.5 micro"],
+        "pm10": ["pm10", "10 micro"],
+        "no2": ["no2", "nitrogen dioxide"],
         "o3": ["o3", "ozone"],
-        "so2": ["so2", "sulphurdioxide", "sulfurdioxide"],
+        "so2": ["so2", "sulphur dioxide", "sulfur dioxide"],
     }
     for key, needles in checks.items():
         for n in needles:
@@ -101,24 +148,92 @@ def daqi_band(pollutant_key: str, value: float):
     return "Very High"
 
 
-def get_stations_near_cheltenham():
-    """Query the stations collection, expanded, filtered to a radius around
-    Cheltenham. Returns the raw list of station features."""
-    params = {
-        "near": (
-            '{"center":{"type":"Point","coordinates":'
-            f'[{CENTRE_LON},{CENTRE_LAT}]}},"radius":{RADIUS_KM}}}'
-        ),
-        "expanded": "true",
-    }
-    resp = requests.get(f"{BASE_URL}/stations", params=params, timeout=TIMEOUT)
-    resp.raise_for_status()
-    return resp.json()
+def get_all_stations():
+    """Fetch the full station list (no spatial filter — the DEFRA SOS
+    instance returns 400/500 on both 'bbox' and 'near' params in testing,
+    likely a bug in their old 52North/Tomcat deployment). Paginates using
+    offset/limit since the full UK list can be large. Filtering to
+    Cheltenham happens client-side afterwards."""
+    import json as _json
+
+    all_stations = []
+    offset = 0
+    limit = 200
+
+    while True:
+        params = {"expanded": "true", "offset": offset, "limit": limit}
+        debug_print("GET", f"{BASE_URL}/stations", "params:", params)
+        resp = requests.get(f"{BASE_URL}/stations", params=params, headers=HEADERS, timeout=TIMEOUT)
+        debug_print("status:", resp.status_code, "body length:", len(resp.text))
+        if resp.status_code != 200:
+            debug_print("body snippet:", resp.text[:500])
+        resp.raise_for_status()
+        page = resp.json()
+
+        if not isinstance(page, list):
+            debug_print("Unexpected shape, full body:", resp.text[:2000])
+            break
+
+        debug_print(f"page at offset {offset}: {len(page)} stations")
+        all_stations.extend(page)
+
+        if len(page) < limit:
+            break  # last page
+        offset += limit
+
+        if offset > 5000:  # sanity cap
+            debug_print("hit pagination sanity cap, stopping")
+            break
+
+    debug_print(f"{len(all_stations)} total stations fetched (unfiltered, whole service)")
+    return all_stations
+
+
+def filter_stations_by_distance(all_stations):
+    filtered = []
+    min_dist = None
+    min_dist_label = None
+    cheltenham_name_matches = []
+
+    for station in all_stations:
+        props = station.get("properties", {})
+        label = props.get("label", "")
+
+        if "cheltenham" in label.lower():
+            cheltenham_name_matches.append((label, station.get("geometry", {}).get("coordinates")))
+
+        coords = station.get("geometry", {}).get("coordinates")
+        if not coords or len(coords) < 2:
+            continue
+        # NOTE: this API returns coordinates as [lat, lon, elevation] —
+        # NOT the GeoJSON-standard [lon, lat]. Confirmed via live debug
+        # output (e.g. "Cheltenham A40..." -> [51.896592, -2.113747, NaN]).
+        lat, lon = float(coords[0]), float(coords[1])
+        dist = haversine_km(CENTRE_LAT, CENTRE_LON, lat, lon)
+
+        if min_dist is None or dist < min_dist:
+            min_dist = dist
+            min_dist_label = f"{label} @ {coords}"
+
+        if dist <= RADIUS_KM:
+            station["_distance_km"] = round(dist, 1)
+            filtered.append(station)
+
+    debug_print(f"{len(filtered)} stations within {RADIUS_KM}km of Cheltenham centre")
+    debug_print(f"closest station overall: {min_dist_label} -> {min_dist:.1f}km" if min_dist is not None else "no station had usable coordinates")
+    if cheltenham_name_matches:
+        debug_print(f"stations with 'cheltenham' in label: {cheltenham_name_matches}")
+    else:
+        debug_print("no station label contains the word 'cheltenham'")
+
+    return filtered
 
 
 def get_timeseries_last_value(ts_id: str):
     """Fetch metadata + lastValue for a single timeseries id."""
-    resp = requests.get(f"{BASE_URL}/timeseries/{ts_id}", timeout=TIMEOUT)
+    debug_print("GET", f"{BASE_URL}/timeseries/{ts_id}")
+    resp = requests.get(f"{BASE_URL}/timeseries/{ts_id}", headers=HEADERS, timeout=TIMEOUT)
+    debug_print("status:", resp.status_code)
     resp.raise_for_status()
     return resp.json()
 
@@ -129,23 +244,42 @@ def collect_readings():
     readings = []
 
     try:
-        stations = get_stations_near_cheltenham()
+        all_stations = get_all_stations()
     except requests.RequestException as exc:
         print(f"ERROR: could not fetch stations list: {exc}", file=sys.stderr)
         return readings
 
-    if not isinstance(stations, list):
-        print("ERROR: unexpected response shape for stations list", file=sys.stderr)
+    stations = filter_stations_by_distance(all_stations)
+
+    if not stations:
+        print("WARNING: no stations found within radius around Cheltenham "
+              "(run with --debug to see raw API responses)", file=sys.stderr)
         return readings
 
     for station in stations:
         props = station.get("properties", {})
         station_label = props.get("label", "Unknown station")
+        station_distance = station.get("_distance_km")
         timeseries_map = props.get("timeseries", {})
+
+        debug_print(f"station '{station_label}' has {len(timeseries_map)} timeseries entries")
+
+        # This SOS instance names each station-pollutant combination as one
+        # "station" entry, with the pollutant description appended to the
+        # site name (e.g. "Cheltenham A40 Gloucester Road-Particulate
+        # matter less than 2.5 micro m (aerosol)"). Strip that suffix so
+        # readings for the same physical site group together in the output.
+        site_name = station_label
+        for marker in ["-Particulate", "-Nitrogen", "-Ozone", "-Sulphur", "-Sulfur"]:
+            idx = site_name.find(marker)
+            if idx != -1:
+                site_name = site_name[:idx]
+                break
 
         for ts_id, ts_meta in timeseries_map.items():
             phenomenon_label = ts_meta.get("phenomenon", {}).get("label", "")
-            pollutant_key = match_pollutant_key(phenomenon_label)
+            pollutant_key = match_pollutant_key(phenomenon_label, fallback_text=station_label)
+            debug_print(f"  ts_id={ts_id} phenomenon='{phenomenon_label}' -> matched={pollutant_key}")
             if pollutant_key is None:
                 continue  # not one of the pollutants we're displaying
 
@@ -156,7 +290,9 @@ def collect_readings():
                       file=sys.stderr)
                 continue
 
+            debug_print(f"  ts_detail keys: {list(ts_detail.keys())}")
             last_value = ts_detail.get("lastValue")
+            debug_print(f"  lastValue: {last_value}")
             if not last_value:
                 continue
 
@@ -171,7 +307,8 @@ def collect_readings():
                 )
 
             readings.append({
-                "station": station_label,
+                "station": site_name,
+                "distance_km": station_distance,
                 "pollutant_key": pollutant_key,
                 "pollutant_label": POLLUTANTS_OF_INTEREST[pollutant_key],
                 "value": value,
@@ -192,32 +329,38 @@ def render_markdown(readings):
         "%Y-%m-%d %H:%M UTC"
     )
 
-    front_matter = (
-        "---\n"
-        "layout: default\n"
-        "title: Cheltenham Air Quality\n"
-        "permalink: /cheltenham-air-quality\n"
-        f"date: {generated}\n"
-        "---\n\n"
-    )
-
-    lines = [front_matter]
-    lines.append("# Cheltenham Air Quality\n")
+    lines = []
     lines.append(
-        f"Live readings from DEFRA UK-AIR monitoring stations within "
-        f"{RADIUS_KM}km of Cheltenham town centre. Last updated: {generated}.\n"
+        "Air quality in Cheltenham changes hour to hour depending on traffic, "
+        "weather and wider weather patterns. The readings below come directly "
+        "from [DEFRA's UK-AIR monitoring network](https://uk-air.defra.gov.uk/), "
+        "the UK government's official air pollution data source, and are pulled "
+        f"from the nearest monitoring stations to Cheltenham.\n"
     )
     lines.append(
-        "\n*Bands shown are an indicative single-reading guide based on DEFRA's "
-        "Daily Air Quality Index thresholds, not the official rolling-average "
-        "DAQI figure. Data source: "
-        "[DEFRA UK-AIR](https://uk-air.defra.gov.uk/).*\n"
+        "\nThe main pollutants tracked here are fine particulates (PM2.5 and "
+        "PM10, from vehicle exhaust, brake dust and burning), nitrogen dioxide "
+        "(NO2, mostly from traffic), ozone (O3, which builds up in sunny "
+        "weather) and sulphur dioxide (SO2, from industrial and fuel burning "
+        "sources). Each reading is given a rough band — Low, Moderate, High or "
+        "Very High — based on DEFRA's Daily Air Quality Index thresholds, "
+        "so you can see at a glance whether levels are a concern. This is a "
+        "simplified, single-reading guide rather than the official rolling-"
+        "average DAQI figure, so treat it as indicative rather than exact.\n"
+    )
+    lines.append(
+        "\nIf you have asthma, another lung condition, or a heart condition, "
+        "the NHS and DEFRA recommend reducing strenuous activity outdoors "
+        "when readings are in the High or Very High bands. See "
+        "[DEFRA's air quality advice](https://uk-air.defra.gov.uk/air-pollution/daqi) "
+        "for more detail on what each band means for your health.\n"
     )
 
     if not readings:
         lines.append(
-            "\n> No data was returned from the DEFRA API at generation time. "
-            "This page will update on the next scheduled run.\n"
+            "\n> No data was available from DEFRA at the time this page was "
+            "last generated. This will update automatically on the next "
+            "scheduled run.\n"
         )
         return "".join(lines)
 
@@ -227,7 +370,9 @@ def render_markdown(readings):
         stations.setdefault(r["station"], []).append(r)
 
     for station_name, station_readings in sorted(stations.items()):
-        lines.append(f"\n## {station_name}\n")
+        distance = station_readings[0].get("distance_km")
+        distance_str = f" ({distance}km from Cheltenham centre)" if distance is not None else ""
+        lines.append(f"\n## {station_name}{distance_str}\n")
         lines.append("\n| Pollutant | Reading | Band | Measured (UTC) |\n")
         lines.append("|---|---|---|---|\n")
         for r in sorted(station_readings, key=lambda x: x["pollutant_label"]):
@@ -237,17 +382,55 @@ def render_markdown(readings):
                 f"| {r['pollutant_label']} | {value_str} | {r['band']} | {when_str} |\n"
             )
 
+    lines.append(
+        f"\n*Source: [DEFRA UK-AIR](https://uk-air.defra.gov.uk/). "
+        f"Data last refreshed {generated}.*\n"
+    )
+
     return "".join(lines)
 
 
-def main():
-    readings = collect_readings()
-    markdown = render_markdown(readings)
+def update_target_file(body_markdown: str):
+    """Replace the air-quality section in OUTPUT_FILE using the project's
+    existing helper.replace_chunk(). That function matches markers of the
+    form:"""
+
+    try:
+        with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
+            existing = f.read()
+    except FileNotFoundError:
+        print(f"ERROR: {OUTPUT_FILE} does not exist. Create it first with "
+              f"front matter and the air_quality starts/ends markers in "
+              f"place, then re-run this script.", file=sys.stderr)
+        sys.exit(1)
+
+    new_content = helper.replace_chunk(existing, "air_quality", body_markdown)
+
+    if new_content == existing:
+        print("WARNING: file content unchanged — the 'air_quality starts'/"
+              "'air_quality ends' markers may not be present in "
+              f"{OUTPUT_FILE}. Check spelling exactly matches.", file=sys.stderr)
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        f.write(markdown)
+        f.write(new_content)
 
-    print(f"Wrote {len(readings)} readings to {OUTPUT_FILE}")
+
+def main():
+    global DEBUG
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--debug", action="store_true",
+                         help="Print raw API request/response info to stderr")
+    args = parser.parse_args()
+    DEBUG = args.debug
+
+    readings = collect_readings()
+    markdown = render_markdown(readings)
+    update_target_file(markdown)
+
+    print(f"Updated {OUTPUT_FILE} with {len(readings)} readings")
+    if not readings:
+        print("No readings found — re-run with --debug for diagnostics, "
+              "e.g.: python3 fetch_air_quality.py --debug", file=sys.stderr)
 
 
 if __name__ == "__main__":
