@@ -13,7 +13,7 @@ permalink: /cheltenham-flood-warnings
 ## About Flood Warnings for Cheltenham and Gloucestershire
 
 This page publishes live flood warnings and flood alerts for Cheltenham and the
-wider Gloucestershire area, sourced from the [Environment Agency](https://www.gov.uk/check-flood-risk) flood warning service and republished here as an [RSS feed](/flood.xml).
+wider Gloucestershire area, sourced from the [Environment Agency](https://www.gov.uk/check-flood-risk) flood warning service and republished here as an [RSS feed]({{feed_url}}).
 
 When the Environment Agency has issued a warning that affects Gloucestershire,
 it appears in the list above. When the list is empty, there are no active flood
@@ -35,7 +35,7 @@ autumn and winter.
 - To report flooding, a blocked drain, or a burst water main that is not an
   immediate emergency, contact Gloucestershire County Council or your water
   company.
-- Subscribe to this page's [RSS feed](/feeds/flood.xml) to receive Gloucestershire
+- Subscribe to this page's [RSS feed]({{feed_url}}) to receive Gloucestershire
   flood updates as they are published in your RSS/Feed reader or check this page.
 
 ### Preparing for a flood
