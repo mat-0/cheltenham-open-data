@@ -422,7 +422,7 @@ if __name__ == "__main__":
             label       = html.escape(fuel_label(ft))
             brand_str   = f" ({brand})" if brand and c["brand"] != c["name"] else ""
             addr_str    = f", {address}" if address else ""
-            hero_lines.append(f"<li>Cheapest {label} &rarr; {c['price']:.1f}p/L from {name}{brand_str}</li>")
+            hero_lines.append(f"<li>&rarr; {label} @ {c['price']:.1f}p/L from {name}{brand_str}</li>")
 
         # 11. Render price table — all local stations sorted by distance then name
         fuel_label_cols = [fuel_label(ft) for ft in fuel_type_cols]
