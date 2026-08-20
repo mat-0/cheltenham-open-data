@@ -142,6 +142,18 @@ body:has(.contact-form-wrapper) {
     --accent-text: #0a1420;
 }
 
+.herobar.gp {
+    --accent: #2b33a9;
+    --accent-dark: #215796;
+    --accent-text: #ffffff;
+}
+
+[data-theme=dark] .herobar.gp {
+    --accent: #5353f4;
+    --accent-dark: #56a3f5;
+    --accent-text: #0a1420;
+}
+
 .herobar.classifieds {
     --accent: #6a3f6b;
     --accent-dark: #4d2d4e;
