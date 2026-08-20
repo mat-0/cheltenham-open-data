@@ -2,7 +2,7 @@
 layout: page
 title: Thanks
 permalink: /form/thanks
-robots: noindex, nofollow
+robots: noindex
 description: "Thank you page"
 ---
 

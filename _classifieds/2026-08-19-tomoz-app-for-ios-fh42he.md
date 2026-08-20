@@ -11,6 +11,7 @@ date: 2026-08-19
 expires: 2027-02-19
 apply_url: https://apps.apple.com/gb/app/tomoz/id6748755747
 apply_text: "View App Store"
+robots: noindex
 ---
 
 Tomoz is the beautifully simple app that helps you prepare for tomorrow by

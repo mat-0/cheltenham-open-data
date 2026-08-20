@@ -12,6 +12,7 @@ expires: 2026-08-17
 apply_url: "https://example.com/apply/barista"
 contact_email: "jobs@example.com"
 contact_phone: "01242 000000"
+robots: noindex
 ---
 
 We're a small independent coffee shop in the heart of Cheltenham looking for a

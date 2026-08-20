@@ -2,7 +2,7 @@
 layout: page
 title: Oops - Error
 permalink: /form/error
-robots: noindex, nofollow
+robots: noindex
 description: "Error Page"
 ---
 
