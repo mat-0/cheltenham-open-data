@@ -10,7 +10,7 @@ permalink: /about
 
 ## Mission
 
-- The mission has always been to make a local website for local people. Without the big tech overlords, the data-harvesting and sites full of pop-ups, popovers, scam adverts and misleading clickbait headlines.
+- The mission has always been to make a local website for local people. Without the big tech overlords, the data-harvesting, and sites full of pop-ups, popovers, scam adverts and misleading clickbait headlines.
 
 ## Privacy
 
@@ -18,7 +18,8 @@ permalink: /about
 
 ## Data
 
-- Data is sourced from public facing sources such as RSS feeds, ONS and Government data under the Open Government Licence.
+- Data is sourced from public facing sources such as RSS feeds and Government data such as the ONS, DEFRA, Land Registry.
+- Government data is &copy; Crown copyright and database right 2026. Data is licensed under the Open Government Licence v3.0.
 
 ## Tech
 
