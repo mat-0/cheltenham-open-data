@@ -53,10 +53,15 @@ collections:
 defaults:
   - scope:
       path: ""
+      type: posts
+    values:
+      permalink: ./news/:title
+  - scope:
+      path: ""
       type: classifieds
     values:
       layout: advert
-      robots: "noindex, nofollow"
+      robots: "noindex"
 
 classified_categories:
   - value: "jobs"
@@ -154,6 +159,8 @@ footer_columns:
         link: /feeds/classifieds.xml
   - title: Meta
     links:
+      - name: News
+        link: /news
       - name: About
         link: /about
       - name: Contact

@@ -1,0 +1,17 @@
+{% include header.html %}
+
+<div class="{{page.type}} herobar">
+    <div class="{{page.type}}">
+        <header class="{{page.type}} header">
+            <h1>{{page.title}}</h1>
+            <p>{{page.description}}</p>
+            <ul>
+                <li><a href="/news">&larr; Back to News</a></li>
+                <li><a href="/feeds/main.xml">Subscribe via our feed/rss →</a></li>
+            </ul>
+        </header>
+
+        {{ content }}
+
+    </div>
+    {% include footer.html %}
