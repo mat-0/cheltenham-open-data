@@ -10,13 +10,13 @@ permalink: /cheltenham-news
 ---
 
 <!-- news_marker starts -->
-- Licence granted for September music festival ([6 hours ago](https://www.bbc.co.uk/news/articles/clyq0ny360vo?at_medium=RSS&at_campaign=rss))
-- Cycle spine to go through residential area ([11 hours ago](https://www.bbc.co.uk/news/articles/cvg7xv9lw6yo?at_medium=RSS&at_campaign=rss))
-- Thames Water grateful as use falls after hosepipe ban ([15 hours ago](https://www.bbc.co.uk/news/articles/cj4k72npkdro?at_medium=RSS&at_campaign=rss))
-- 'Wild' conditions for canoes on drought-hit river ([16 hours ago](https://www.bbc.co.uk/news/articles/c2dkw81y736o?at_medium=RSS&at_campaign=rss))
-- Residents left without water after pipe bursts ([16 hours ago](https://www.bbc.co.uk/news/articles/ce85rv7832mo?at_medium=RSS&at_campaign=rss))
-- Horse riding charity aims to offer 'freedom and joy' ([21 hours ago](https://www.bbc.co.uk/news/articles/c9w01nqwlgwo?at_medium=RSS&at_campaign=rss))
-- How will the heatwaves affect nature in the West? ([21 hours ago](https://www.bbc.co.uk/news/articles/ce85m32y4dlo?at_medium=RSS&at_campaign=rss))
+- Licence granted for September music festival ([8 hours ago](https://www.bbc.co.uk/news/articles/clyq0ny360vo?at_medium=RSS&at_campaign=rss))
+- Cycle spine to go through residential area ([13 hours ago](https://www.bbc.co.uk/news/articles/cvg7xv9lw6yo?at_medium=RSS&at_campaign=rss))
+- Thames Water grateful as use falls after hosepipe ban ([17 hours ago](https://www.bbc.co.uk/news/articles/cj4k72npkdro?at_medium=RSS&at_campaign=rss))
+- 'Wild' conditions for canoes on drought-hit river ([18 hours ago](https://www.bbc.co.uk/news/articles/c2dkw81y736o?at_medium=RSS&at_campaign=rss))
+- Residents left without water after pipe bursts ([18 hours ago](https://www.bbc.co.uk/news/articles/ce85rv7832mo?at_medium=RSS&at_campaign=rss))
+- Horse riding charity aims to offer 'freedom and joy' ([23 hours ago](https://www.bbc.co.uk/news/articles/c9w01nqwlgwo?at_medium=RSS&at_campaign=rss))
+- How will the heatwaves affect nature in the West? ([23 hours ago](https://www.bbc.co.uk/news/articles/ce85m32y4dlo?at_medium=RSS&at_campaign=rss))
 - Man who kidnapped stranger at gunpoint jailed ([1 days ago](https://www.bbc.co.uk/news/articles/c24mjj61m36o?at_medium=RSS&at_campaign=rss))
 - Everything you need to know about the hosepipe ban ([1 days ago](https://www.bbc.co.uk/news/articles/cx2lzvv904do?at_medium=RSS&at_campaign=rss))
 - 'Hair loss slowly chipped away at my confidence' ([1 days ago](https://www.bbc.co.uk/news/articles/c330ke6r2ezo?at_medium=RSS&at_campaign=rss))

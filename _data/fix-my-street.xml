@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
  xmlns:atom="http://www.w3.org/2005/Atom"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -142,21 +142,21 @@
 </item>
 <item>
 <title>TMC - Defects - Footways Slabs problem, 19th August</title>
-<link>https://www.fixmystreet.com/report/9973487</link>
-<description>Give and take  28day  please lift and replace x1 sunken broken 900x600x20mm slab (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9973487&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Footways Slabs</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9973487</guid>
-<pubDate>Wed, 19 Aug 2026 14:33:36 +0100</pubDate>
-<georss:point>51.888845231019 -2.09357798396102</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Footways Slabs problem, 19th August</title>
 <link>https://www.fixmystreet.com/report/9973485</link>
 <description>Give and take  28day  please lift and relay x1 rocking raised 900x600x20mm slab (FW Rocking/Unstable Slab)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9973485&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Footways Slabs</category>
 <guid isPermaLink="false">https://www.fixmystreet.com/report/9973485</guid>
 <pubDate>Wed, 19 Aug 2026 14:33:36 +0100</pubDate>
 <georss:point>51.8888431839065 -2.09356570677622</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Footways Slabs problem, 19th August</title>
+<link>https://www.fixmystreet.com/report/9973487</link>
+<description>Give and take  28day  please lift and replace x1 sunken broken 900x600x20mm slab (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9973487&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9973487</guid>
+<pubDate>Wed, 19 Aug 2026 14:33:36 +0100</pubDate>
+<georss:point>51.888845231019 -2.09357798396102</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Footways Slabs problem, 19th August</title>
