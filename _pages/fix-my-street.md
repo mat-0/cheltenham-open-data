@@ -39,6 +39,9 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Drop curb, 20th August :- [9979704](https://www.fixmystreet.com/report/9979704)
+- A very large branch has fallen from the Oak Tree., 20th August :- [9979647](https://www.fixmystreet.com/report/9979647)
+- Verge alongside public footpath adjacent to Willow Farm Green Lane Little Witcombe Gloucester GL3 4TY, 20th August :- [9979530](https://www.fixmystreet.com/report/9979530)
 - Evety time it rains this happens... thecenteance to our propert us being affected.... also pedistrians are have to dash across this busy road to avoid this. Equally, cars are effectivly swerving into the otherside of the road where there s less water. How there hasn't been an axcident is anybodies guess., 20th August :- [9979311](https://www.fixmystreet.com/report/9979311)
 - Small sinkhole by manhole cover, 20th August :- [9979268](https://www.fixmystreet.com/report/9979268)
 - Drain is blocked and road and path flooding, 20th August :- [9979209](https://www.fixmystreet.com/report/9979209)
@@ -56,8 +59,5 @@ over time but remain permanently viewable on FixMyStreet itself.
 - TMC - Defects - Other problem, 20th August :- [9977879](https://www.fixmystreet.com/report/9977879)
 - Traffic lights problem, 20th August :- [9977876](https://www.fixmystreet.com/report/9977876)
 - Outside flats - hedge, 20th August :- [9977544](https://www.fixmystreet.com/report/9977544)
-- Outside 165 overgrown tree, 20th August :- [9977450](https://www.fixmystreet.com/report/9977450)
-- TMC - Defects - Vegetation problem, 20th August :- [9977409](https://www.fixmystreet.com/report/9977409)
-- TMC - Defects -CW6 Potholes  problem, 20th August :- [9977408](https://www.fixmystreet.com/report/9977408)
 
 <!-- fix_marker ends -->
