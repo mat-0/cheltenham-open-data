@@ -266,7 +266,7 @@ def render_markdown(gps, pharmacies):
         "directly from [NHS England's Organisation Data Service]"
         "(https://digital.nhs.uk/services/organisation-data-service), the "
         "official register of NHS organisations, so names, addresses and "
-        f"phone numbers stay current automatically (last updated {generated}).\n"
+        f"phone numbers stay current automatically.\n"
     )
     lines.append(
         "\nIf you need to register with a new GP, you can do this "
@@ -275,7 +275,10 @@ def render_markdown(gps, pharmacies):
         "prescriptions, most pharmacies listed below offer a free "
         "collection or delivery service; ask in branch or check the "
         "[NHS App](https://www.nhs.uk/nhs-app/) to nominate a regular "
-        "pharmacy.\n"
+        "pharmacy.\n")
+
+    lines.append(
+        "\nAddresses link to googlemaps and phone numbers use the `tel:` protocol and should prompt to call on your device.\n"
     )
 
     lines.append("\n## GP Practices\n")
