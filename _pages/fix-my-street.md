@@ -39,6 +39,8 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Fly tip on Council side of Horsebere Brook, 20th August :- [9980298](https://www.fixmystreet.com/report/9980298)
+- Pothole in centre of junction, 20th August :- [9980278](https://www.fixmystreet.com/report/9980278)
 - Drop curb, 20th August :- [9979704](https://www.fixmystreet.com/report/9979704)
 - A very large branch has fallen from the Oak Tree., 20th August :- [9979647](https://www.fixmystreet.com/report/9979647)
 - Verge alongside public footpath adjacent to Willow Farm Green Lane Little Witcombe Gloucester GL3 4TY, 20th August :- [9979530](https://www.fixmystreet.com/report/9979530)
@@ -57,7 +59,5 @@ over time but remain permanently viewable on FixMyStreet itself.
 - Fridges, chairs, units on side of road for months. Overgrown vegetation at end of road, 20th August :- [9978145](https://www.fixmystreet.com/report/9978145)
 - TMC - Defects -CW6 Potholes  problem, 20th August :- [9978086](https://www.fixmystreet.com/report/9978086)
 - TMC - Defects - Other problem, 20th August :- [9977879](https://www.fixmystreet.com/report/9977879)
-- Traffic lights problem, 20th August :- [9977876](https://www.fixmystreet.com/report/9977876)
-- Outside flats - hedge, 20th August :- [9977544](https://www.fixmystreet.com/report/9977544)
 
 <!-- fix_marker ends -->
