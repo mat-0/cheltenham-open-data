@@ -10,11 +10,11 @@ permalink: /cheltenham-news
 ---
 
 <!-- news_marker starts -->
-- Victim 'living in fear' after photos shared online ([3 hours ago](https://www.bbc.co.uk/news/articles/crrvgl87n77o?at_medium=RSS&at_campaign=rss))
-- Cricketers banned over 'irresponsible' fireworks ([5 hours ago](https://www.bbc.co.uk/news/articles/cx2renn0mmgo?at_medium=RSS&at_campaign=rss))
-- Thousands of pupils across West get GCSE results ([7 hours ago](https://www.bbc.co.uk/news/articles/cwymrzdzkdxo?at_medium=RSS&at_campaign=rss))
-- Ukraine war chronicled in 50-metre-long painting ([15 hours ago](https://www.bbc.co.uk/news/articles/cj364l5v008o?at_medium=RSS&at_campaign=rss))
-- AI assisted prostate surgery helps men reclaim their lives ([15 hours ago](https://www.bbc.co.uk/news/articles/cpvwezlpy8lo?at_medium=RSS&at_campaign=rss))
+- Victim 'living in fear' after photos shared online ([5 hours ago](https://www.bbc.co.uk/news/articles/crrvgl87n77o?at_medium=RSS&at_campaign=rss))
+- Cricketers banned over 'irresponsible' fireworks ([7 hours ago](https://www.bbc.co.uk/news/articles/cx2renn0mmgo?at_medium=RSS&at_campaign=rss))
+- Thousands of pupils across West get GCSE results ([9 hours ago](https://www.bbc.co.uk/news/articles/cwymrzdzkdxo?at_medium=RSS&at_campaign=rss))
+- Ukraine war chronicled in 50-metre-long painting ([17 hours ago](https://www.bbc.co.uk/news/articles/cj364l5v008o?at_medium=RSS&at_campaign=rss))
+- AI assisted prostate surgery helps men reclaim their lives ([17 hours ago](https://www.bbc.co.uk/news/articles/cpvwezlpy8lo?at_medium=RSS&at_campaign=rss))
 - Licence granted for September music festival ([1 days ago](https://www.bbc.co.uk/news/articles/clyq0ny360vo?at_medium=RSS&at_campaign=rss))
 - Cycle spine to go through residential area ([1 days ago](https://www.bbc.co.uk/news/articles/cvg7xv9lw6yo?at_medium=RSS&at_campaign=rss))
 - Thames Water grateful as use falls after hosepipe ban ([1 days ago](https://www.bbc.co.uk/news/articles/cj4k72npkdro?at_medium=RSS&at_campaign=rss))
@@ -36,9 +36,9 @@ permalink: /cheltenham-news
 - Review: The Choir of Man ([6 days ago](https://gloucesternewscentre.co.uk/review-the-choir-of-man/))
 - CCTV appeal following high-value theft from jewellers in Cheltenham ([9 days ago](https://gloucesternewscentre.co.uk/cctv-appeal-following-high-value-theft-from-jewellers-in-cheltenham/))
 - Reach New Heights This Summer at The Brewery Quarter with Free Family Events Throughout August ([14 days ago](https://cheltenhambid.co.uk/2026/08/06/reach-new-heights-this-summer-at-the-brewery-quarter-with-free-family-events-throughout-august/))
-- Concerns town looks ‘neglected’ ([19 days ago](https://gloucesternewscentre.co.uk/concerns-town-looks-neglected/))
-- Windows of Cav House to display artwork ([19 days ago](https://gloucesternewscentre.co.uk/windows-of-cav-house-to-display-artwork/))
-- Questions over Municipal Offices sale ([19 days ago](https://gloucesternewscentre.co.uk/questions-over-municipal-offices-sale/))
+- Concerns town looks ‘neglected’ ([20 days ago](https://gloucesternewscentre.co.uk/concerns-town-looks-neglected/))
+- Windows of Cav House to display artwork ([20 days ago](https://gloucesternewscentre.co.uk/windows-of-cav-house-to-display-artwork/))
+- Questions over Municipal Offices sale ([20 days ago](https://gloucesternewscentre.co.uk/questions-over-municipal-offices-sale/))
 - More than 900 people respond to engagement on future management of Cheltenham’s High Street and Promenade ([29 days ago](https://cheltenhambid.co.uk/2026/07/22/more-than-900-people-respond-to-engagement-on-future-management-of-cheltenhams-high-street-and-promenade/))
 
 <!-- news_marker ends -->

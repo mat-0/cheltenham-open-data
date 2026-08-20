@@ -39,6 +39,7 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Right filter signal is faulty, 20th August :- [9980898](https://www.fixmystreet.com/report/9980898)
 - Bramble bush is growing onto road, pavement and our parking space, 20th August :- [9980612](https://www.fixmystreet.com/report/9980612)
 - Fly tip on Council side of Horsebere Brook, 20th August :- [9980298](https://www.fixmystreet.com/report/9980298)
 - Pothole in centre of junction, 20th August :- [9980278](https://www.fixmystreet.com/report/9980278)
@@ -58,6 +59,5 @@ over time but remain permanently viewable on FixMyStreet itself.
 - TMC - Defects - Covers, Gratings & Frames problem, 20th August :- [9978458](https://www.fixmystreet.com/report/9978458)
 - Cone and sign left outside for several weeks, 20th August :- [9978267](https://www.fixmystreet.com/report/9978267)
 - Fridges, chairs, units on side of road for months. Overgrown vegetation at end of road, 20th August :- [9978145](https://www.fixmystreet.com/report/9978145)
-- TMC - Defects -CW6 Potholes  problem, 20th August :- [9978086](https://www.fixmystreet.com/report/9978086)
 
 <!-- fix_marker ends -->
