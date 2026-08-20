@@ -12,7 +12,7 @@
             {%- assign cat = site.classified_categories | where: "value", page.category | first -%}
             <p class="single-category">
                 {%- if cat -%}
-                <a href="{{ '/cheltenham-classifieds/' | relative_url }}#{{ cat.value }}">&larr; Back to
+                <a href="{{ '/cheltenham-classifieds' | relative_url }}#{{ cat.value }}">&larr; Back to
                     {{ cat.label }}</a>
                 {%- else -%}
                 <a href="/cheltenham-classifieds">&larr; Back to Classifieds</a>
