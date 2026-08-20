@@ -39,6 +39,16 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Kerbs and Channels problem, 20th August :- [9978656](https://www.fixmystreet.com/report/9978656)
+- Non-illuminated sign problem, 20th August :- [9978636](https://www.fixmystreet.com/report/9978636)
+- Heritage Road Sign Needs Cleaning, 20th August :- [9978558](https://www.fixmystreet.com/report/9978558)
+- Drop between drive and pavement causes cars to ground themselves, 20th August :- [9978497](https://www.fixmystreet.com/report/9978497)
+- TMC - Defects - Covers, Gratings & Frames problem, 20th August :- [9978458](https://www.fixmystreet.com/report/9978458)
+- Cone and sign left outside for several weeks, 20th August :- [9978267](https://www.fixmystreet.com/report/9978267)
+- Fridges, chairs, units on side of road for months. Overgrown vegetation at end of road, 20th August :- [9978145](https://www.fixmystreet.com/report/9978145)
+- TMC - Defects -CW6 Potholes  problem, 20th August :- [9978086](https://www.fixmystreet.com/report/9978086)
+- TMC - Defects - Other problem, 20th August :- [9977879](https://www.fixmystreet.com/report/9977879)
+- Traffic lights problem, 20th August :- [9977876](https://www.fixmystreet.com/report/9977876)
 - Outside flats - hedge, 20th August :- [9977544](https://www.fixmystreet.com/report/9977544)
 - Outside 165 overgrown tree, 20th August :- [9977450](https://www.fixmystreet.com/report/9977450)
 - TMC - Defects - Vegetation problem, 20th August :- [9977409](https://www.fixmystreet.com/report/9977409)
@@ -49,15 +59,5 @@ over time but remain permanently viewable on FixMyStreet itself.
 - Large dead tree, 20th August :- [9977070](https://www.fixmystreet.com/report/9977070)
 - Stopline faded on junction, 20th August :- [9977064](https://www.fixmystreet.com/report/9977064)
 - Hedge obstructing view of traffic signal head - safety issue, 20th August :- [9977044](https://www.fixmystreet.com/report/9977044)
-- TMC - Defects -other CW6 problem, 20th August :- [9977182](https://www.fixmystreet.com/report/9977182)
-- The drain is blocked problem, 20th August :- [9977168](https://www.fixmystreet.com/report/9977168)
-- Grass cutting, 20th August :- [9976995](https://www.fixmystreet.com/report/9976995)
-- TMC - Defects - Vegetation problem, 20th August :- [9977175](https://www.fixmystreet.com/report/9977175)
-- TMC - Defects -CW6 Potholes  problem, 20th August :- [9977174](https://www.fixmystreet.com/report/9977174)
-- Block Paving Lose and Noisy, 20th August :- [9976770](https://www.fixmystreet.com/report/9976770)
-- TMC - Defects - Vegetation problem, 20th August :- [9976642](https://www.fixmystreet.com/report/9976642)
-- TMC - Defects - Vegetation problem, 20th August :- [9976638](https://www.fixmystreet.com/report/9976638)
-- Dumped Caravan, 20th August :- [9976511](https://www.fixmystreet.com/report/9976511)
-- Street Tree on Typhoon Way adjacent to KFC, 20th August :- [9976474](https://www.fixmystreet.com/report/9976474)
 
 <!-- fix_marker ends -->
