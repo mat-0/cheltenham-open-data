@@ -112,6 +112,9 @@ navigation_header:
   - name: Cheltenham Security Alerts
     link: /cheltenham-security-alerts
     description: "Local area security alerts and status updates."
+  - name: Cheltenham GP and Pharmacies
+    link: /cheltenham-gp-pharmacies
+    description: "Find GP practices and pharmacies in Cheltenham"
 
 footer_columns:
   - title: Pages
@@ -136,6 +139,8 @@ footer_columns:
         link: /cheltenham-foodbank-needed-items
       - name: Cheltenham Security Alerts
         link: /cheltenham-security-alerts
+      - name: Cheltenham GP and Pharmacies
+        link: /cheltenham-gp-pharmacies
 
   - title: Feeds
     links:
