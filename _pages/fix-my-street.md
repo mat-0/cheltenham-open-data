@@ -39,6 +39,12 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Evety time it rains this happens... thecenteance to our propert us being affected.... also pedistrians are have to dash across this busy road to avoid this. Equally, cars are effectivly swerving into the otherside of the road where there s less water. How there hasn't been an axcident is anybodies guess., 20th August :- [9979311](https://www.fixmystreet.com/report/9979311)
+- Small sinkhole by manhole cover, 20th August :- [9979268](https://www.fixmystreet.com/report/9979268)
+- Drain is blocked and road and path flooding, 20th August :- [9979209](https://www.fixmystreet.com/report/9979209)
+- Blocked drain outside side entrance to Hardwick Campus, 20th August :- [9979118](https://www.fixmystreet.com/report/9979118)
+- The drain is blocked problem, 20th August :- [9978832](https://www.fixmystreet.com/report/9978832)
+- No road sign at entrance to Cleeve Court, 20th August :- [9978761](https://www.fixmystreet.com/report/9978761)
 - TMC - Defects - Kerbs and Channels problem, 20th August :- [9978656](https://www.fixmystreet.com/report/9978656)
 - Non-illuminated sign problem, 20th August :- [9978636](https://www.fixmystreet.com/report/9978636)
 - Heritage Road Sign Needs Cleaning, 20th August :- [9978558](https://www.fixmystreet.com/report/9978558)
@@ -53,11 +59,5 @@ over time but remain permanently viewable on FixMyStreet itself.
 - Outside 165 overgrown tree, 20th August :- [9977450](https://www.fixmystreet.com/report/9977450)
 - TMC - Defects - Vegetation problem, 20th August :- [9977409](https://www.fixmystreet.com/report/9977409)
 - TMC - Defects -CW6 Potholes  problem, 20th August :- [9977408](https://www.fixmystreet.com/report/9977408)
-- TMC - Defects -CW6 Potholes  problem, 20th August :- [9977407](https://www.fixmystreet.com/report/9977407)
-- Tree is damaged problem, 20th August :- [9977406](https://www.fixmystreet.com/report/9977406)
-- Badly overgrown vegetation on Benhall green back of Whittington road properties., 20th August :- [9977249](https://www.fixmystreet.com/report/9977249)
-- Large dead tree, 20th August :- [9977070](https://www.fixmystreet.com/report/9977070)
-- Stopline faded on junction, 20th August :- [9977064](https://www.fixmystreet.com/report/9977064)
-- Hedge obstructing view of traffic signal head - safety issue, 20th August :- [9977044](https://www.fixmystreet.com/report/9977044)
 
 <!-- fix_marker ends -->
