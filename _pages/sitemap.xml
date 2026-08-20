@@ -21,4 +21,14 @@ permalink: /sitemap.xml
   </url>
   {% endif %}
   {% endfor %}
+     <!-- posts-->
+  {% assign posts = site.posts %}
+  {% for post in posts %}
+  <url>
+    <loc>{{ site.url }}{{ post.url }}</loc>
+    <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  {% endfor %}
 </urlset>
