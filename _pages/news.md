@@ -10,12 +10,12 @@ permalink: /cheltenham-news
 ---
 
 <!-- news_marker starts -->
-- Revenge porn victim left 'living in fear' ([1 hours ago](https://www.bbc.co.uk/news/articles/crrvgl87n77o?at_medium=RSS&at_campaign=rss))
-- Cricketers banned over 'irresponsible' fireworks ([3 hours ago](https://www.bbc.co.uk/news/articles/cx2renn0mmgo?at_medium=RSS&at_campaign=rss))
-- Thousands of pupils across West get GCSE results ([5 hours ago](https://www.bbc.co.uk/news/articles/cwymrzdzkdxo?at_medium=RSS&at_campaign=rss))
-- Ukraine war chronicled in 50-metre-long painting ([13 hours ago](https://www.bbc.co.uk/news/articles/cj364l5v008o?at_medium=RSS&at_campaign=rss))
-- AI assisted prostate surgery helps men reclaim their lives ([13 hours ago](https://www.bbc.co.uk/news/articles/cpvwezlpy8lo?at_medium=RSS&at_campaign=rss))
-- Licence granted for September music festival ([22 hours ago](https://www.bbc.co.uk/news/articles/clyq0ny360vo?at_medium=RSS&at_campaign=rss))
+- Victim 'living in fear' after photos shared online ([3 hours ago](https://www.bbc.co.uk/news/articles/crrvgl87n77o?at_medium=RSS&at_campaign=rss))
+- Cricketers banned over 'irresponsible' fireworks ([5 hours ago](https://www.bbc.co.uk/news/articles/cx2renn0mmgo?at_medium=RSS&at_campaign=rss))
+- Thousands of pupils across West get GCSE results ([7 hours ago](https://www.bbc.co.uk/news/articles/cwymrzdzkdxo?at_medium=RSS&at_campaign=rss))
+- Ukraine war chronicled in 50-metre-long painting ([15 hours ago](https://www.bbc.co.uk/news/articles/cj364l5v008o?at_medium=RSS&at_campaign=rss))
+- AI assisted prostate surgery helps men reclaim their lives ([15 hours ago](https://www.bbc.co.uk/news/articles/cpvwezlpy8lo?at_medium=RSS&at_campaign=rss))
+- Licence granted for September music festival ([1 days ago](https://www.bbc.co.uk/news/articles/clyq0ny360vo?at_medium=RSS&at_campaign=rss))
 - Cycle spine to go through residential area ([1 days ago](https://www.bbc.co.uk/news/articles/cvg7xv9lw6yo?at_medium=RSS&at_campaign=rss))
 - Thames Water grateful as use falls after hosepipe ban ([1 days ago](https://www.bbc.co.uk/news/articles/cj4k72npkdro?at_medium=RSS&at_campaign=rss))
 - 'Wild' conditions for canoes on drought-hit river ([1 days ago](https://www.bbc.co.uk/news/articles/c2dkw81y736o?at_medium=RSS&at_campaign=rss))
@@ -29,7 +29,7 @@ permalink: /cheltenham-news
 - People 'shopping elsewhere' due to long roadworks ([2 days ago](https://www.bbc.co.uk/news/articles/c141dnkv1rdo?at_medium=RSS&at_campaign=rss))
 - Man racially abused and punched two other men in Cheltenham ([3 days ago](https://gloucesternewscentre.co.uk/man-racially-abused-and-punched-two-other-men-in-cheltenham/))
 - Frustration as people are ‘forced to drive miles’ because of tip closures ([3 days ago](https://gloucesternewscentre.co.uk/frustration-as-people-are-forced-to-drive-miles-because-of-tip-closures/))
-- BBC Radio Gloucestershire Special ([5 days ago](https://www.bbc.co.uk/sounds/play/m002hp4x?at_medium=RSS&at_campaign=rss))
+- BBC Radio Gloucestershire Special ([6 days ago](https://www.bbc.co.uk/sounds/play/m002hp4x?at_medium=RSS&at_campaign=rss))
 - England, Wales ([6 days ago](https://www.gov.uk/alerts/14-aug-2026-2))
 - Wales ([6 days ago](https://www.gov.uk/alerts/14-aug-2026))
 - Free family events at The Brewery Quarter in August ([6 days ago](https://cheltenhampost.co.uk/free-family-events-at-the-brewery-quarter-in-august/))

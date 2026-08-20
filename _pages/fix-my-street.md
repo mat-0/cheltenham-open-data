@@ -39,6 +39,7 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Bramble bush is growing onto road, pavement and our parking space, 20th August :- [9980612](https://www.fixmystreet.com/report/9980612)
 - Fly tip on Council side of Horsebere Brook, 20th August :- [9980298](https://www.fixmystreet.com/report/9980298)
 - Pothole in centre of junction, 20th August :- [9980278](https://www.fixmystreet.com/report/9980278)
 - Drop curb, 20th August :- [9979704](https://www.fixmystreet.com/report/9979704)
@@ -58,6 +59,5 @@ over time but remain permanently viewable on FixMyStreet itself.
 - Cone and sign left outside for several weeks, 20th August :- [9978267](https://www.fixmystreet.com/report/9978267)
 - Fridges, chairs, units on side of road for months. Overgrown vegetation at end of road, 20th August :- [9978145](https://www.fixmystreet.com/report/9978145)
 - TMC - Defects -CW6 Potholes  problem, 20th August :- [9978086](https://www.fixmystreet.com/report/9978086)
-- TMC - Defects - Other problem, 20th August :- [9977879](https://www.fixmystreet.com/report/9977879)
 
 <!-- fix_marker ends -->
