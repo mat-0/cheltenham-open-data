@@ -3,6 +3,7 @@ layout: page
 title: Thanks
 permalink: /form/thanks
 robots: noindex, nofollow
+description: "Thank you page"
 ---
 
 Thanks for submitting your form.
