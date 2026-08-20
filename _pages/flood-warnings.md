@@ -35,7 +35,7 @@ autumn and winter.
 - To report flooding, a blocked drain, or a burst water main that is not an
   immediate emergency, contact Gloucestershire County Council or your water
   company.
-- Subscribe to this page's [RSS feed](/flood.xml) to receive Gloucestershire
+- Subscribe to this page's [RSS feed](/feeds/flood.xml) to receive Gloucestershire
   flood updates as they are published in your RSS/Feed reader or check this page.
 
 ### Preparing for a flood
