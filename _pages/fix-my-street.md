@@ -39,6 +39,7 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Sunken and slippage and very poor state, 20th August :- [9976085](https://www.fixmystreet.com/report/9976085)
 - Paving stones have separated on north entrance to Hester’s Way Park, 19th August :- [9975665](https://www.fixmystreet.com/report/9975665)
 - Light out on lamppost at end of Lansdown Terrace Lane, 19th August :- [9975271](https://www.fixmystreet.com/report/9975271)
 - Lengthy surface cracking along footpath/cyclepath, 19th August :- [9975261](https://www.fixmystreet.com/report/9975261)
@@ -58,6 +59,5 @@ over time but remain permanently viewable on FixMyStreet itself.
 - TMC - Defects - Footways Slabs problem, 19th August :- [9973484](https://www.fixmystreet.com/report/9973484)
 - Other issue with a footway/pavement problem, 19th August :- [9973481](https://www.fixmystreet.com/report/9973481)
 - Litter bags, 19th August :- [9973169](https://www.fixmystreet.com/report/9973169)
-- TMC - Defects - Other FW6  Surface problem, 19th August :- [9973281](https://www.fixmystreet.com/report/9973281)
 
 <!-- fix_marker ends -->
