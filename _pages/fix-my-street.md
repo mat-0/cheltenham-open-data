@@ -39,6 +39,14 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Block Paving Lose and Noisy, 20th August :- [9976770](https://www.fixmystreet.com/report/9976770)
+- TMC - Defects - Vegetation problem, 20th August :- [9976642](https://www.fixmystreet.com/report/9976642)
+- TMC - Defects - Vegetation problem, 20th August :- [9976638](https://www.fixmystreet.com/report/9976638)
+- Dumped Caravan, 20th August :- [9976511](https://www.fixmystreet.com/report/9976511)
+- Street Tree on Typhoon Way adjacent to KFC, 20th August :- [9976474](https://www.fixmystreet.com/report/9976474)
+- TMC - Defects - Vegetation problem, 20th August :- [9976441](https://www.fixmystreet.com/report/9976441)
+- TMC - Defects - Signs & Street Furniture problem, 20th August :- [9976280](https://www.fixmystreet.com/report/9976280)
+- TMC - Defects - Signs & Street Furniture problem, 20th August :- [9976276](https://www.fixmystreet.com/report/9976276)
 - Sunken and slippage and very poor state, 20th August :- [9976085](https://www.fixmystreet.com/report/9976085)
 - Paving stones have separated on north entrance to Hester’s Way Park, 19th August :- [9975665](https://www.fixmystreet.com/report/9975665)
 - Light out on lamppost at end of Lansdown Terrace Lane, 19th August :- [9975271](https://www.fixmystreet.com/report/9975271)
@@ -51,13 +59,5 @@ over time but remain permanently viewable on FixMyStreet itself.
 - Lack of signage instructing cyclists to dismount, 19th August :- [9973441](https://www.fixmystreet.com/report/9973441)
 - Ground around drain and the manhole cover look to have sunk, 19th August :- [9973442](https://www.fixmystreet.com/report/9973442)
 - Yellow Parking Lines on Church Road, 19th August :- [9973402](https://www.fixmystreet.com/report/9973402)
-- Smiths lorry collecting a skip from 33 Brooklyn road drove over and broke the paving slabs they were only replaced 3 days ago, 19th August :- [9973367](https://www.fixmystreet.com/report/9973367)
-- Kerb is damaged, loose or missing problem, 19th August :- [9973662](https://www.fixmystreet.com/report/9973662)
-- Kerb is damaged, loose or missing problem, 19th August :- [9973482](https://www.fixmystreet.com/report/9973482)
-- TMC - Defects - Footways Slabs problem, 19th August :- [9973485](https://www.fixmystreet.com/report/9973485)
-- TMC - Defects - Footways Slabs problem, 19th August :- [9973487](https://www.fixmystreet.com/report/9973487)
-- TMC - Defects - Footways Slabs problem, 19th August :- [9973484](https://www.fixmystreet.com/report/9973484)
-- Other issue with a footway/pavement problem, 19th August :- [9973481](https://www.fixmystreet.com/report/9973481)
-- Litter bags, 19th August :- [9973169](https://www.fixmystreet.com/report/9973169)
 
 <!-- fix_marker ends -->
