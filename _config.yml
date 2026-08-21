@@ -151,7 +151,7 @@ footer_columns:
 
   - title: Feeds
     links:
-      - name: Main Site Feed (atom)
+      - name: Announcements Feed (atom)
         link: /feeds/main.xml
       - name: Flood warnings (atom)
         link: /feeds/flood.xml
