@@ -3,32 +3,47 @@ import json
 import pathlib
 import xml.etree.ElementTree as ET
 
+ATOM_NS = "{http://www.w3.org/2005/Atom}"
+
 if __name__ == "__main__":
-        data = helper.fetch_flood_data()
-        with open("_data/flood.json", "w") as f:
-            json.dump(data, f, indent=4)
-        print("Data saved to feed.json")
+    # Compute repo root FIRST, before it's needed anywhere else
+    root = pathlib.Path(__file__).parent.parent.resolve()
 
-        with open("_data/flood.json", "r") as f:
-            data = json.load(f)
-        helper.convert_to_rss(data, "flood.xml")
+    data_dir = root / "_data"
+    feeds_dir = root / "feeds"
+    data_dir.mkdir(parents=True, exist_ok=True)
+    feeds_dir.mkdir(parents=True, exist_ok=True)
 
-        print("RSS feed saved to flood.xml")
+    flood_json = data_dir / "flood.json"
+    flood_atom = feeds_dir / "flood.xml"
 
-        tree = ET.parse('flood.xml')
-        root = tree.getroot()
+    data = helper.fetch_flood_data()
+    with open(flood_json, "w") as f:
+        json.dump(data, f, indent=4)
+    print(f"Data saved to {flood_json}")
 
-        output = ""
+    with open(flood_json, "r") as f:
+        data = json.load(f)
+    helper.convert_to_atom(data, flood_atom)
+    print(f"Atom feed saved to {flood_atom}")
 
-        for item in root.findall('./channel/item'):
-            title = item.find('title').text
-            description = item.find('description').text
-            output += f"- {title}\n"
-            output += f"- {description}\n"
+    with open(flood_atom, "r") as f:
+        content = f.read()
+    # Strip leading Jekyll front matter (--- ... ---) before XML parsing
+    if content.startswith("---"):
+        end_idx = content.find("---", 3)
+        content = content[end_idx + 3:].lstrip()
 
-        root = pathlib.Path(__file__).parent.parent.resolve()
+    root_el = ET.fromstring(content)
 
-        md = root / "_pages/flood-warnings.md"
-        md_contents = md.open().read()
-        md_contents = helper.replace_chunk(md_contents,"flood_marker", output)
-        md.open("w").write(md_contents)
+    output = ""
+    for entry in root_el.findall(f"./{ATOM_NS}entry"):
+        title = entry.find(f"{ATOM_NS}title").text
+        summary = entry.find(f"{ATOM_NS}summary").text
+        output += f"- {title}\n"
+        output += f"- {summary}\n"
+
+    md = root / "_pages/flood-warnings.md"
+    md_contents = md.open().read()
+    md_contents = helper.replace_chunk(md_contents, "flood_marker", output)
+    md.open("w").write(md_contents)

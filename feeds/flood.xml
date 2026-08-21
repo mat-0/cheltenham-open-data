@@ -2,12 +2,11 @@
 layout: empty
 permalink: /feeds/flood.xml
 ---
-
 <?xml version="1.0" ?>
-<rss version="2.0">
-  <channel>
-    <title>Flood Warnings</title>
-    <link>https://environment.data.gov.uk/flood-monitoring/id/floods</link>
-    <description>Current flood warnings for Gloucestershire</description>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Flood Warnings</title>
+  <link rel="self" href="https://environment.data.gov.uk/flood-monitoring/id/floods"/>
+  <id>https://environment.data.gov.uk/flood-monitoring/id/floods</id>
+  <updated>2026-08-21T08:34:48Z</updated>
+  <subtitle>Current flood warnings for Gloucestershire</subtitle>
+</feed>
