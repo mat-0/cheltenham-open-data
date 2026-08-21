@@ -87,25 +87,28 @@ feed:
 # Site Navigation
 ## Header
 navigation_header:
-  - name: Cheltenham Cheapest Fuel Prices
+  - name: Cheltenham Fuel Prices
     link: /cheltenham-fuel-prices
-    description: "Local fuel pricing data."
+    description: "Local and cheapest fuel pricing data from 112 forecourts"
   - name: Cheltenham Classifieds
     link: /cheltenham-classifieds
     description: "Local jobs, services, items for sale, and community notices."
   - name: Cheltenham Latest News
     link: /cheltenham-news
     description: "Local news aggregation in a simple view."
-  - name: Cheltenham Helplines and Contacts
-    link: /cheltenham-helpful-contacts-reports
-    description: "Help and support contact numbers and links."
   - name: Cheltenham House Prices
     link: /cheltenham-house-prices
     description: "Local house prices data."
+  - name: Cheltenham GP and Pharmacies
+    link: /cheltenham-gp-pharmacies
+    description: "Find GP practices and pharmacies in Cheltenham"
+  - name: Cheltenham Helplines and Contacts
+    link: /cheltenham-helpful-contacts-reports
+    description: "Help and support contact numbers and links."
   - name: Cheltenham Fix My Street
     link: /cheltenham-fix-my-street
     description: "Local street issues and reports."
-  - name: Cheltenham flood Warnings
+  - name: Cheltenham Flood Warnings
     link: /cheltenham-flood-warnings
     description: "Local flood warnings and alerts."
   - name: Cheltenham Air Quality
@@ -117,9 +120,7 @@ navigation_header:
   - name: Cheltenham Security Alerts
     link: /cheltenham-security-alerts
     description: "Local area security alerts and status updates."
-  - name: Cheltenham GP and Pharmacies
-    link: /cheltenham-gp-pharmacies
-    description: "Find GP practices and pharmacies in Cheltenham"
+
 
 footer_columns:
   - title: Pages
