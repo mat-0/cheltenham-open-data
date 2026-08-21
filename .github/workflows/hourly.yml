@@ -63,6 +63,7 @@ jobs:
                   python '_python/news.py'
                   python '_python/air-quality.py'
                   python '_python/pharmacy.py'
+                  python '_python/land_registry.py'
 
             - name: Commit and push if changed
               id: commit
