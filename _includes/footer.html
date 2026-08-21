@@ -8,7 +8,7 @@
             <nav class="footer-col" aria-label="{{ col.title }}">
                 <h2 class="footer-col-title">{{ col.title }}</h2>
                 <ul>
-                    {% for item in col.links | sorted %}
+                    {% for item in col.links %}
                     <li><a href="{{ item.link }}">{{ item.name }}</a></li>
                     {% endfor %}
                     {% if col.title == "Meta" %}
@@ -28,8 +28,8 @@
             {{ site.copyright }}
             {% else %}
             {% endif %}
-            site by <a rel="me" href="https://thechels.uk">thechels.uk</a>
-             Build: {{ site.github.build_revision | slice: 0, 8 }}
+            Site by <a rel="me" href="https://thechels.uk">thechels.uk</a>.
+            &rarr; Build: {{ site.github.build_revision | slice: 0, 8 }}.
 
         </p>
     </div>
