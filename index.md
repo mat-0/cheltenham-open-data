@@ -10,11 +10,11 @@ description: "Collecting and sharing frequently updated local open data for Chel
 <!-- weather_marker starts -->
 ## On Friday, 21 August 2026
 
-- The average temperature today is 12.13˚C,
-- With highs of 13.37˚C and lows of 11.4˚C,
-- It may feel like 11.77˚C with clear sky
-- The wind speed is 1.86m/s and visibility is 10000m
-- The pressure is 1012hPa and humidity is 91%
+- The average temperature today is 10.97˚C,
+- With highs of 12.62˚C and lows of 10.29˚C,
+- It may feel like 10.58˚C with few clouds
+- The wind speed is 0.45m/s and visibility is 10000m
+- The pressure is 1011hPa and humidity is 94%
 - The sun will rise at 05:02 and set at 19:21
 
 <!-- weather_marker ends -->
