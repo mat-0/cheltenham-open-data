@@ -39,6 +39,7 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Street light not working, 21st August :- [9985493](https://www.fixmystreet.com/report/9985493)
 - Vegetation obstructing the footpath bridge in coxs meadow, 21st August :- [9985444](https://www.fixmystreet.com/report/9985444)
 - Road cones and signs left following works, 21st August :- [9985438](https://www.fixmystreet.com/report/9985438)
 - Sharp Branches from a previous job not cleared, 21st August :- [9984960](https://www.fixmystreet.com/report/9984960)
@@ -52,12 +53,11 @@ over time but remain permanently viewable on FixMyStreet itself.
 - Missing NO THROUGH ROAD Sign on Upper Park Street, 21st August :- [9984114](https://www.fixmystreet.com/report/9984114)
 - No Entry signs left at entrance to road by contactors, 21st August :- [9984115](https://www.fixmystreet.com/report/9984115)
 - TMC - Defects -other CW6 problem, 21st August :- [9984176](https://www.fixmystreet.com/report/9984176)
-- TMC - Defects -other CW6 problem, 21st August :- [9984010](https://www.fixmystreet.com/report/9984010)
 - TMC - Defects -other CW6 problem, 21st August :- [9984011](https://www.fixmystreet.com/report/9984011)
+- TMC - Defects -other CW6 problem, 21st August :- [9984010](https://www.fixmystreet.com/report/9984010)
 - TMC - Defects -other CW6 problem, 21st August :- [9984009](https://www.fixmystreet.com/report/9984009)
-- TMC - Defects -other CW6 problem, 21st August :- [9984007](https://www.fixmystreet.com/report/9984007)
 - TMC - Defects -CW6 Potholes  problem, 21st August :- [9984012](https://www.fixmystreet.com/report/9984012)
+- TMC - Defects -other CW6 problem, 21st August :- [9984007](https://www.fixmystreet.com/report/9984007)
 - TMC - Defects -other CW6 problem, 21st August :- [9984006](https://www.fixmystreet.com/report/9984006)
-- Pavement is very uneven, looking for advice please as having new driveway but pavement is causing an issue. Also metal ACO drain there is damaged and could cause trip or vehicle damage. Thanks!, 21st August :- [9983587](https://www.fixmystreet.com/report/9983587)
 
 <!-- fix_marker ends -->

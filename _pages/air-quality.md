@@ -19,15 +19,15 @@ If you have asthma, another lung condition, or a heart condition, the NHS and DE
 
 | Pollutant | Reading | Band | Measured (UTC) |
 |---|---|---|---|
-| PM2.5 (fine particulates) | 4.8 ug.m-3 | Low | 2026-08-21 19:00 |
+| PM2.5 (fine particulates) | 4.3 ug.m-3 | Low | 2026-08-21 21:00 |
 
 ## Gloucester Tredworth (12.1km from Cheltenham centre)
 
 | Pollutant | Reading | Band | Measured (UTC) |
 |---|---|---|---|
-| PM10 (particulates) | 11.6 ug.m-3 | Low | 2026-08-21 19:00 |
-| PM2.5 (fine particulates) | 5.566 ug.m-3 | Low | 2026-08-21 19:00 |
+| PM10 (particulates) | 9.8 ug.m-3 | Low | 2026-08-21 21:00 |
+| PM2.5 (fine particulates) | 3.396 ug.m-3 | Low | 2026-08-21 21:00 |
 
-*Source: [DEFRA UK-AIR](https://uk-air.defra.gov.uk/). Data last refreshed 2026-08-21 20:59 UTC.*
+*Source: [DEFRA UK-AIR](https://uk-air.defra.gov.uk/). Data last refreshed 2026-08-21 22:59 UTC.*
 
 <!-- air_quality ends -->

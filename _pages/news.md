@@ -10,13 +10,13 @@ permalink: /cheltenham-news
 ---
 
 <!-- news_marker starts -->
-- Watch: Gloucester's Lewis Ludlow begins testimonial year ([3 hours ago](https://www.bbc.co.uk/news/videos/c2k7l3jq55do?at_medium=RSS&at_campaign=rss))
-- Plans to save meadows near Highgrove rejected ([8 hours ago](https://www.bbc.co.uk/news/articles/cr49ygzgkkyo?at_medium=RSS&at_campaign=rss))
-- King penguin chick hatches in UK heatwave ([10 hours ago](https://www.bbc.co.uk/news/articles/clyj3yrerpeo?at_medium=RSS&at_campaign=rss))
-- Road will not reopen 'for days' after water leak ([12 hours ago](https://www.bbc.co.uk/news/articles/ce85rv7832mo?at_medium=RSS&at_campaign=rss))
-- Work begins to restore 'missing mile' of canal filled in for M5 ([13 hours ago](https://www.bbc.co.uk/news/articles/cn7n0mkgy8lo?at_medium=RSS&at_campaign=rss))
-- Experts battling extinctions after record heat ([15 hours ago](https://www.bbc.co.uk/news/articles/cvg0y0pxvnvo?at_medium=RSS&at_campaign=rss))
-- When is a water leak your responsibility? ([15 hours ago](https://www.bbc.co.uk/news/articles/c3d3772v7kro?at_medium=RSS&at_campaign=rss))
+- Watch: Gloucester's Lewis Ludlow begins testimonial year ([5 hours ago](https://www.bbc.co.uk/news/videos/c2k7l3jq55do?at_medium=RSS&at_campaign=rss))
+- Plans to save meadows near Highgrove rejected ([10 hours ago](https://www.bbc.co.uk/news/articles/cr49ygzgkkyo?at_medium=RSS&at_campaign=rss))
+- King penguin chick hatches in UK heatwave ([12 hours ago](https://www.bbc.co.uk/news/articles/clyj3yrerpeo?at_medium=RSS&at_campaign=rss))
+- Road will not reopen 'for days' after water leak ([14 hours ago](https://www.bbc.co.uk/news/articles/ce85rv7832mo?at_medium=RSS&at_campaign=rss))
+- Work begins to restore 'missing mile' of canal filled in for M5 ([15 hours ago](https://www.bbc.co.uk/news/articles/cn7n0mkgy8lo?at_medium=RSS&at_campaign=rss))
+- Experts battling extinctions after record heat ([17 hours ago](https://www.bbc.co.uk/news/articles/cvg0y0pxvnvo?at_medium=RSS&at_campaign=rss))
+- When is a water leak your responsibility? ([17 hours ago](https://www.bbc.co.uk/news/articles/c3d3772v7kro?at_medium=RSS&at_campaign=rss))
 - Victim 'living in fear' after photos shared online ([1 days ago](https://www.bbc.co.uk/news/articles/crrvgl87n77o?at_medium=RSS&at_campaign=rss))
 - Cricketers banned over 'irresponsible' fireworks ([1 days ago](https://www.bbc.co.uk/news/articles/cx2renn0mmgo?at_medium=RSS&at_campaign=rss))
 - Thousands of pupils across West get GCSE results ([1 days ago](https://www.bbc.co.uk/news/articles/cwymrzdzkdxo?at_medium=RSS&at_campaign=rss))
@@ -36,8 +36,8 @@ permalink: /cheltenham-news
 - Review: The Choir of Man ([7 days ago](https://gloucesternewscentre.co.uk/review-the-choir-of-man/))
 - CCTV appeal following high-value theft from jewellers in Cheltenham ([10 days ago](https://gloucesternewscentre.co.uk/cctv-appeal-following-high-value-theft-from-jewellers-in-cheltenham/))
 - Reach New Heights This Summer at The Brewery Quarter with Free Family Events Throughout August ([15 days ago](https://cheltenhambid.co.uk/2026/08/06/reach-new-heights-this-summer-at-the-brewery-quarter-with-free-family-events-throughout-august/))
-- Concerns town looks ‘neglected’ ([20 days ago](https://gloucesternewscentre.co.uk/concerns-town-looks-neglected/))
-- Windows of Cav House to display artwork ([20 days ago](https://gloucesternewscentre.co.uk/windows-of-cav-house-to-display-artwork/))
-- Questions over Municipal Offices sale ([20 days ago](https://gloucesternewscentre.co.uk/questions-over-municipal-offices-sale/))
+- Concerns town looks ‘neglected’ ([21 days ago](https://gloucesternewscentre.co.uk/concerns-town-looks-neglected/))
+- Windows of Cav House to display artwork ([21 days ago](https://gloucesternewscentre.co.uk/windows-of-cav-house-to-display-artwork/))
+- Questions over Municipal Offices sale ([21 days ago](https://gloucesternewscentre.co.uk/questions-over-municipal-offices-sale/))
 
 <!-- news_marker ends -->
