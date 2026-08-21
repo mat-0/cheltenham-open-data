@@ -39,25 +39,25 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Fake Sign, 21st August :- [9984742](https://www.fixmystreet.com/report/9984742)
+- Trees overgrown. Cutting out light and visibility to our garden. Debris dropping., 21st August :- [9984682](https://www.fixmystreet.com/report/9984682)
+- Flytipped garden rattan sofa, 21st August :- [9984527](https://www.fixmystreet.com/report/9984527)
+- The, 21st August :- [9984458](https://www.fixmystreet.com/report/9984458)
 - Cycle sign broken, 21st August :- [9984233](https://www.fixmystreet.com/report/9984233)
 - Diversion Traffic Through Residential Road, 21st August :- [9983414](https://www.fixmystreet.com/report/9983414)
 - Dent and bulge in road surface, 21st August :- [9984214](https://www.fixmystreet.com/report/9984214)
 - Missing NO THROUGH ROAD Sign on Upper Park Street, 21st August :- [9984114](https://www.fixmystreet.com/report/9984114)
 - No Entry signs left at entrance to road by contactors, 21st August :- [9984115](https://www.fixmystreet.com/report/9984115)
 - TMC - Defects -other CW6 problem, 21st August :- [9984176](https://www.fixmystreet.com/report/9984176)
-- TMC - Defects -other CW6 problem, 21st August :- [9984011](https://www.fixmystreet.com/report/9984011)
-- TMC - Defects -other CW6 problem, 21st August :- [9984009](https://www.fixmystreet.com/report/9984009)
-- TMC - Defects -other CW6 problem, 21st August :- [9984010](https://www.fixmystreet.com/report/9984010)
-- TMC - Defects -other CW6 problem, 21st August :- [9984007](https://www.fixmystreet.com/report/9984007)
 - TMC - Defects -CW6 Potholes  problem, 21st August :- [9984012](https://www.fixmystreet.com/report/9984012)
 - TMC - Defects -other CW6 problem, 21st August :- [9984006](https://www.fixmystreet.com/report/9984006)
+- TMC - Defects -other CW6 problem, 21st August :- [9984007](https://www.fixmystreet.com/report/9984007)
+- TMC - Defects -other CW6 problem, 21st August :- [9984009](https://www.fixmystreet.com/report/9984009)
+- TMC - Defects -other CW6 problem, 21st August :- [9984010](https://www.fixmystreet.com/report/9984010)
+- TMC - Defects -other CW6 problem, 21st August :- [9984011](https://www.fixmystreet.com/report/9984011)
 - Pavement is very uneven, looking for advice please as having new driveway but pavement is causing an issue. Also metal ACO drain there is damaged and could cause trip or vehicle damage. Thanks!, 21st August :- [9983587](https://www.fixmystreet.com/report/9983587)
 - TMC - Defects - Other problem, 21st August :- [9983473](https://www.fixmystreet.com/report/9983473)
 - TMC - Defects - Vegetation problem, 21st August :- [9983331](https://www.fixmystreet.com/report/9983331)
 - Graffiti, 21st August :- [9983222](https://www.fixmystreet.com/report/9983222)
-- Repair by Trojan Civic already breaking down days later, 21st August :- [9983191](https://www.fixmystreet.com/report/9983191)
-- TMC - Defects -CW10 Potholes problem, 21st August :- [9983325](https://www.fixmystreet.com/report/9983325)
-- Graffiti on bus stop, 21st August :- [9982898](https://www.fixmystreet.com/report/9982898)
-- TMC - Defects -CW6 Potholes  problem, 21st August :- [9982982](https://www.fixmystreet.com/report/9982982)
 
 <!-- fix_marker ends -->

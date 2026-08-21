@@ -10,15 +10,15 @@ type: "food"
 <!-- summary1_marker starts -->
 ## List of needed items in Cheltenham
 
-Last updated: 2026-04-09
+Last updated: 2026-08-21
 
-- Baked Beans
-- Instant Noodles
-- Soap
-- Shampoo
-- Fruit Juice / Squash
-- Coffee
+- UHT Milk
 - Tinned Meat / Fish
+- Biscuits
+- Fruit Juice / Squash
+- Snacks
+- Deodorant
+- Shampoo
 - Washing Up Liquid
 - Nappies Size 6+/7
 <!-- summary1_marker ends -->

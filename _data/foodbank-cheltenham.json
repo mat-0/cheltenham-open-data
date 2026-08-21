@@ -179,11 +179,11 @@
     }
   },
   "need": {
-    "id": "5c277057-9bd7-4bce-94e3-4672f4368d60",
-    "needs": "Baked Beans\nInstant Noodles\nSoap\nShampoo\nFruit Juice / Squash\nCoffee\nTinned Meat / Fish\nWashing Up Liquid\nNappies Size 6+/7",
+    "id": "d541f513-d65e-4102-8100-a9ab83acff3a",
+    "needs": "UHT Milk\nTinned Meat / Fish\nBiscuits\nFruit Juice / Squash\nSnacks\nDeodorant\nShampoo\nWashing Up Liquid\nNappies Size 6+/7",
     "excess": "Sanitary Products\nBaby Food\nPulses\nTeabags\nTinned Veg",
-    "created": "2026-04-09T13:07:09.453",
-    "self": "https://www.givefood.org.uk/api/2/need/5c277057-9bd7-4bce-94e3-4672f4368d60/"
+    "created": "2026-08-21T16:01:47.726",
+    "self": "https://www.givefood.org.uk/api/2/need/d541f513-d65e-4102-8100-a9ab83acff3a/"
   },
   "nearby_foodbanks": [
     {
