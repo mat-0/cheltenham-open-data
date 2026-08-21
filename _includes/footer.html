@@ -12,7 +12,6 @@
                     <li><a href="{{ item.link }}">{{ item.name }}</a></li>
                     {% endfor %}
                     {% if col.title == "Meta" %}
-                    <li>Build: {{ site.github.build_revision | slice: 0, 8 }}</li>
                     <li><a id="theme-toggle-btn" aria-pressed="false" type="button" aria-label="Toggle dark mode"
                             href="#footer">Theme
                             Toggle</a></li>
@@ -30,6 +29,7 @@
             {% else %}
             {% endif %}
             site by <a rel="me" href="https://thechels.uk">thechels.uk</a>
+             Build: {{ site.github.build_revision | slice: 0, 8 }}
 
         </p>
     </div>
