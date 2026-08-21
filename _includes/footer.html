@@ -8,7 +8,7 @@
             <nav class="footer-col" aria-label="{{ col.title }}">
                 <h2 class="footer-col-title">{{ col.title }}</h2>
                 <ul>
-                    {% for item in col.links %}
+                    {% for item in col.links | sorted %}
                     <li><a href="{{ item.link }}">{{ item.name }}</a></li>
                     {% endfor %}
                     {% if col.title == "Meta" %}
