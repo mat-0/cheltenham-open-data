@@ -939,6 +939,11 @@ table tr:hover {
     margin: 0;
 }
 
+#land-registry-table td:nth-child(1),
+#land-registry-table th:nth-child(1) {
+    white-space: nowrap;
+}
+
 #fuel-table {
     width: 100%;
     border-collapse: collapse;

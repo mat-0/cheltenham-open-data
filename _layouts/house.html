@@ -1,29 +1,80 @@
 {% include header.html %}
+
 <div class="{{page.type}} herobar">
-    <header class="{{page.type}} header">
-        <h1>{{page.title}}</h1>
-        <p>{{page.description}}</p>
-    </header>
+    <div class="{{page.type}}">
+        <header class="{{page.type}} header">
+            <h1>{{page.title}}</h1>
+            <p>{{page.description}}</p>
+            <ul>
+                {% if page.feed_url %}
+                <li><a href="{{ page.feed_url}}">Subscribe via our feed/rss →</a></li>
+                {% endif %}
+            </ul>
+        </header>
 
-    {{ content }}
+        {{ content }}
+        <div class="scroll">
 
-    <h2>Annual House Price Changes in Cheltenham</h2>
+            <div class="land-registry-widget" data-json-url="/assets/data/cheltenham-house-prices.json">
 
-    <div id="chart-timeseries"></div>
-    <script src="https://cdn.ons.gov.uk/vendor/pym/1.3.2/pym.min.js"></script>
-    <script>var pymParent = new pym.Parent("chart-timeseries", "https://www.ons.gov.uk/visualisations/housingpriceslocal/embed/?area=E07000078&chart=chart-timeseries", { name: "chart-timeseries", title: "Embedded chart" });</script>
+                <h2>Median sale price by month</h2>
+                <canvas id="land-registry-chart" height="120"></canvas>
 
-    <h2>First-Time buyers in Cheltenham</h2>
+                <h2>Sales volume by month</h2>
+                <canvas id="land-registry-volume-chart" height="120"></canvas>
 
-    <div id="chart-ftb-static"></div>
-    <script src="https://cdn.ons.gov.uk/vendor/pym/1.3.2/pym.min.js"></script>
-    <script>var pymParent = new pym.Parent("chart-ftb-static", "https://www.ons.gov.uk/visualisations/housingpriceslocal/embed/?area=E07000078&chart=chart-ftb-static", { name: "chart-ftb-static", title: "Embedded chart" });</script>
+                <h2>Median price by property type</h2>
+                <canvas id="land-registry-type-chart" height="120"></canvas>
 
-    <h2>House prices when buying with cash or mortgage in Cheltenham</h2>
+                <h2>Price distribution</h2>
+                <canvas id="land-registry-histogram" height="120"></canvas>
 
-    <div id="chart-mortgagecash"></div>
-    <script src="https://cdn.ons.gov.uk/vendor/pym/1.3.2/pym.min.js"></script>
-    <script>var pymParent = new pym.Parent("chart-mortgagecash", "https://www.ons.gov.uk/visualisations/housingpriceslocal/embed/?area=E07000078&chart=chart-mortgagecash", { name: "chart-mortgagecash", title: "Embedded chart" });</script>
+                <h2>Recent sales</h2>
+
+                <table id="land-registry-table" class="sortable">
+                    <thead>
+                        <tr>
+                            <th data-sort="date">Date</th>
+                            <th data-sort="address">Address</th>
+                            <th data-sort="postcode">Postcode</th>
+                            <th data-sort="type">Type</th>
+                            <th data-sort="amount">Price</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- populated by JS from /assets/data/cheltenham-house-prices.json -->
+                    </tbody>
+                </table>
+
+            </div>
+            <p class="land-registry-attribution"><small>Contains HM Land Registry data © Crown copyright and
+                    database
+                    right. Licensed under the <a
+                        href="http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/">Open
+                        Government
+                        Licence v3.0</a>.</small></p>
+
+            <h2>Annual House Price Changes in Cheltenham</h2>
+
+            <div id="chart-timeseries"></div>
+            <script src="https://cdn.ons.gov.uk/vendor/pym/1.3.2/pym.min.js"></script>
+            <script>var pymParent = new pym.Parent("chart-timeseries", "https://www.ons.gov.uk/visualisations/housingpriceslocal/embed/?area=E07000078&chart=chart-timeseries", { name: "chart-timeseries", title: "Embedded chart" });</script>
+
+            <h2>First-Time buyers in Cheltenham</h2>
+
+            <div id="chart-ftb-static"></div>
+            <script src="https://cdn.ons.gov.uk/vendor/pym/1.3.2/pym.min.js"></script>
+            <script>var pymParent = new pym.Parent("chart-ftb-static", "https://www.ons.gov.uk/visualisations/housingpriceslocal/embed/?area=E07000078&chart=chart-ftb-static", { name: "chart-ftb-static", title: "Embedded chart" });</script>
+
+            <h2>House prices when buying with cash or mortgage in Cheltenham</h2>
+
+            <div id="chart-mortgagecash"></div>
+            <script src="https://cdn.ons.gov.uk/vendor/pym/1.3.2/pym.min.js"></script>
+            <script>var pymParent = new pym.Parent("chart-mortgagecash", "https://www.ons.gov.uk/visualisations/housingpriceslocal/embed/?area=E07000078&chart=chart-mortgagecash", { name: "chart-mortgagecash", title: "Embedded chart" });</script>
 
 
+        </div>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.0/chart.umd.min.js"></script>
+        <script src="/scripts/land-registry-table.js"></script>
+    </div>
     {% include footer.html %}
