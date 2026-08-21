@@ -121,7 +121,6 @@ navigation_header:
     link: /cheltenham-security-alerts
     description: "Local area security alerts and status updates."
 
-
 footer_columns:
   - title: Pages
     links:
@@ -148,7 +147,6 @@ footer_columns:
       - name: Cheltenham Security Alerts
         link: /cheltenham-security-alerts
 
-
   - title: Feeds
     links:
       - name: Announcements Feed (atom)
@@ -169,9 +167,9 @@ footer_columns:
         link: /contact
       - name: Submit Classified Advert
         link: /submission
-      - name: Sitemap
-        link: /sitemap.xml
       - name: Privacy
         link: /.well-known/privacy.txt
       - name: Security
         link: /.well-known/security.txt
+      - name: Sitemap
+        link: /sitemap.xml
