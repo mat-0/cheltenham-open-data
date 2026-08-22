@@ -939,6 +939,8 @@ table tr:hover {
     margin: 0;
 }
 
+#planning-table td:nth-child(1),
+#planning-table th:nth-child(1),
 #land-registry-table td:nth-child(1),
 #land-registry-table th:nth-child(1) {
     white-space: nowrap;
