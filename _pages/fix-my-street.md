@@ -39,6 +39,11 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Rubbish left on street, 22nd August :- [9987362](https://www.fixmystreet.com/report/9987362)
+- Montpellier looking shabby, 22nd August :- [9987358](https://www.fixmystreet.com/report/9987358)
+- Once beautiful Montpellier looks unkempt, 22nd August :- [9987354](https://www.fixmystreet.com/report/9987354)
+- Hedge taking over footpath, 22nd August :- [9987338](https://www.fixmystreet.com/report/9987338)
+- Birds in over flowing bin, 22nd August :- [9987325](https://www.fixmystreet.com/report/9987325)
 - Roundabout sign knocked down. Previously reported but nothing done, 22nd August :- [9987092](https://www.fixmystreet.com/report/9987092)
 - Over hang of hedge, 22nd August :- [9987040](https://www.fixmystreet.com/report/9987040)
 - Abandoned vehicle, 22nd August :- [9986985](https://www.fixmystreet.com/report/9986985)
@@ -54,10 +59,5 @@ over time but remain permanently viewable on FixMyStreet itself.
 - Fake Sign, 21st August :- [9984742](https://www.fixmystreet.com/report/9984742)
 - Trees overgrown. Cutting out light and visibility to our garden. Debris dropping., 21st August :- [9984682](https://www.fixmystreet.com/report/9984682)
 - Flytipped garden rattan sofa, 21st August :- [9984527](https://www.fixmystreet.com/report/9984527)
-- The, 21st August :- [9984458](https://www.fixmystreet.com/report/9984458)
-- Cycle sign broken, 21st August :- [9984233](https://www.fixmystreet.com/report/9984233)
-- Diversion Traffic Through Residential Road, 21st August :- [9983414](https://www.fixmystreet.com/report/9983414)
-- Dent and bulge in road surface, 21st August :- [9984214](https://www.fixmystreet.com/report/9984214)
-- Missing NO THROUGH ROAD Sign on Upper Park Street, 21st August :- [9984114](https://www.fixmystreet.com/report/9984114)
 
 <!-- fix_marker ends -->

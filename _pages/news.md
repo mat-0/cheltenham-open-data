@@ -10,10 +10,10 @@ permalink: /cheltenham-news
 ---
 
 <!-- news_marker starts -->
-- 50-metre long painting captures Ukraine war response - video ([3 hours ago](https://www.bbc.co.uk/news/videos/cx2j8yq2yxjo?at_medium=RSS&at_campaign=rss))
-- A40 bridge repair traffic concerns 'under review' ([6 hours ago](https://www.bbc.co.uk/news/articles/czdm9pj026jo?at_medium=RSS&at_campaign=rss))
-- Abuser jailed, a £1 ferry ride and top GCSE pupil ([6 hours ago](https://www.bbc.co.uk/news/articles/cdew07d9z3xo?at_medium=RSS&at_campaign=rss))
-- Watch: Gloucester's Lewis Ludlow begins testimonial year ([19 hours ago](https://www.bbc.co.uk/news/videos/c2k7l3jq55do?at_medium=RSS&at_campaign=rss))
+- 50-metre long painting captures Ukraine war response - video ([4 hours ago](https://www.bbc.co.uk/news/videos/cx2j8yq2yxjo?at_medium=RSS&at_campaign=rss))
+- A40 bridge repair traffic concerns 'under review' ([8 hours ago](https://www.bbc.co.uk/news/articles/czdm9pj026jo?at_medium=RSS&at_campaign=rss))
+- Abuser jailed, a £1 ferry ride and top GCSE pupil ([8 hours ago](https://www.bbc.co.uk/news/articles/cdew07d9z3xo?at_medium=RSS&at_campaign=rss))
+- Watch: Gloucester's Lewis Ludlow begins testimonial year ([21 hours ago](https://www.bbc.co.uk/news/videos/c2k7l3jq55do?at_medium=RSS&at_campaign=rss))
 - Plans to save meadows near Highgrove rejected ([1 days ago](https://www.bbc.co.uk/news/articles/cr49ygzgkkyo?at_medium=RSS&at_campaign=rss))
 - King penguin chick hatches in UK heatwave ([1 days ago](https://www.bbc.co.uk/news/articles/clyj3yrerpeo?at_medium=RSS&at_campaign=rss))
 - Road will not reopen 'for days' after water leak ([1 days ago](https://www.bbc.co.uk/news/articles/ce85rv7832mo?at_medium=RSS&at_campaign=rss))
@@ -22,7 +22,7 @@ permalink: /cheltenham-news
 - When is a water leak your responsibility? ([1 days ago](https://www.bbc.co.uk/news/articles/c3d3772v7kro?at_medium=RSS&at_campaign=rss))
 - Victim 'living in fear' after photos shared online ([1 days ago](https://www.bbc.co.uk/news/articles/crrvgl87n77o?at_medium=RSS&at_campaign=rss))
 - Cricketers banned over 'irresponsible' fireworks ([1 days ago](https://www.bbc.co.uk/news/articles/cx2renn0mmgo?at_medium=RSS&at_campaign=rss))
-- Thousands of pupils across West get GCSE results ([1 days ago](https://www.bbc.co.uk/news/articles/cwymrzdzkdxo?at_medium=RSS&at_campaign=rss))
+- Thousands of pupils across West get GCSE results ([2 days ago](https://www.bbc.co.uk/news/articles/cwymrzdzkdxo?at_medium=RSS&at_campaign=rss))
 - Ukraine war chronicled in 50-metre-long painting ([2 days ago](https://www.bbc.co.uk/news/articles/cj364l5v008o?at_medium=RSS&at_campaign=rss))
 - AI assisted prostate surgery helps men reclaim their lives ([2 days ago](https://www.bbc.co.uk/news/articles/cpvwezlpy8lo?at_medium=RSS&at_campaign=rss))
 - Licence granted for September music festival ([2 days ago](https://www.bbc.co.uk/news/articles/clyq0ny360vo?at_medium=RSS&at_campaign=rss))
