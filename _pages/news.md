@@ -10,13 +10,13 @@ permalink: /cheltenham-news
 ---
 
 <!-- news_marker starts -->
-- Watch: Gloucester's Lewis Ludlow begins testimonial year ([9 hours ago](https://www.bbc.co.uk/news/videos/c2k7l3jq55do?at_medium=RSS&at_campaign=rss))
-- Plans to save meadows near Highgrove rejected ([14 hours ago](https://www.bbc.co.uk/news/articles/cr49ygzgkkyo?at_medium=RSS&at_campaign=rss))
-- King penguin chick hatches in UK heatwave ([16 hours ago](https://www.bbc.co.uk/news/articles/clyj3yrerpeo?at_medium=RSS&at_campaign=rss))
-- Road will not reopen 'for days' after water leak ([19 hours ago](https://www.bbc.co.uk/news/articles/ce85rv7832mo?at_medium=RSS&at_campaign=rss))
-- Work begins to restore 'missing mile' of canal filled in for M5 ([19 hours ago](https://www.bbc.co.uk/news/articles/cn7n0mkgy8lo?at_medium=RSS&at_campaign=rss))
-- Experts battling extinctions after record heat ([21 hours ago](https://www.bbc.co.uk/news/articles/cvg0y0pxvnvo?at_medium=RSS&at_campaign=rss))
-- When is a water leak your responsibility? ([21 hours ago](https://www.bbc.co.uk/news/articles/c3d3772v7kro?at_medium=RSS&at_campaign=rss))
+- Watch: Gloucester's Lewis Ludlow begins testimonial year ([11 hours ago](https://www.bbc.co.uk/news/videos/c2k7l3jq55do?at_medium=RSS&at_campaign=rss))
+- Plans to save meadows near Highgrove rejected ([16 hours ago](https://www.bbc.co.uk/news/articles/cr49ygzgkkyo?at_medium=RSS&at_campaign=rss))
+- King penguin chick hatches in UK heatwave ([18 hours ago](https://www.bbc.co.uk/news/articles/clyj3yrerpeo?at_medium=RSS&at_campaign=rss))
+- Road will not reopen 'for days' after water leak ([20 hours ago](https://www.bbc.co.uk/news/articles/ce85rv7832mo?at_medium=RSS&at_campaign=rss))
+- Work begins to restore 'missing mile' of canal filled in for M5 ([21 hours ago](https://www.bbc.co.uk/news/articles/cn7n0mkgy8lo?at_medium=RSS&at_campaign=rss))
+- Experts battling extinctions after record heat ([23 hours ago](https://www.bbc.co.uk/news/articles/cvg0y0pxvnvo?at_medium=RSS&at_campaign=rss))
+- When is a water leak your responsibility? ([23 hours ago](https://www.bbc.co.uk/news/articles/c3d3772v7kro?at_medium=RSS&at_campaign=rss))
 - Victim 'living in fear' after photos shared online ([1 days ago](https://www.bbc.co.uk/news/articles/crrvgl87n77o?at_medium=RSS&at_campaign=rss))
 - Cricketers banned over 'irresponsible' fireworks ([1 days ago](https://www.bbc.co.uk/news/articles/cx2renn0mmgo?at_medium=RSS&at_campaign=rss))
 - Thousands of pupils across West get GCSE results ([1 days ago](https://www.bbc.co.uk/news/articles/cwymrzdzkdxo?at_medium=RSS&at_campaign=rss))
@@ -32,7 +32,6 @@ permalink: /cheltenham-news
 - BBC Radio Gloucestershire Special ([7 days ago](https://www.bbc.co.uk/sounds/play/m002hp4x?at_medium=RSS&at_campaign=rss))
 - England, Wales ([7 days ago](https://www.gov.uk/alerts/14-aug-2026-2))
 - Wales ([7 days ago](https://www.gov.uk/alerts/14-aug-2026))
-- Free family events at The Brewery Quarter in August ([7 days ago](https://cheltenhampost.co.uk/free-family-events-at-the-brewery-quarter-in-august/))
 - Review: The Choir of Man ([7 days ago](https://gloucesternewscentre.co.uk/review-the-choir-of-man/))
 - CCTV appeal following high-value theft from jewellers in Cheltenham ([10 days ago](https://gloucesternewscentre.co.uk/cctv-appeal-following-high-value-theft-from-jewellers-in-cheltenham/))
 - Reach New Heights This Summer at The Brewery Quarter with Free Family Events Throughout August ([15 days ago](https://cheltenhambid.co.uk/2026/08/06/reach-new-heights-this-summer-at-the-brewery-quarter-with-free-family-events-throughout-august/))

@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:atom="http://www.w3.org/2005/Atom"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
+ xmlns:atom="http://www.w3.org/2005/Atom"
 >
 
 <channel>
@@ -142,39 +142,12 @@
 </item>
 <item>
 <title>TMC - Defects -other CW6 problem, 21st August</title>
-<link>https://www.fixmystreet.com/report/9984006</link>
-<description>Depression CW&amp;#10;25000x1300x50-70mm&amp;#10;Road closure&amp;#10;Stats (CW6 Rutting&amp;amp;Depressions)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9984006&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -other CW6</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9984006</guid>
-<pubDate>Fri, 21 Aug 2026 14:48:58 +0100</pubDate>
-<georss:point>51.8959545 -2.1107944</georss:point>
-</item>
-<item>
-<title>TMC - Defects -other CW6 problem, 21st August</title>
 <link>https://www.fixmystreet.com/report/9984007</link>
 <description>Depression CW&amp;#10;21000x1300x50-70mm&amp;#10;Road closure&amp;#10;Stats (CW6 Rutting&amp;amp;Depressions)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9984007&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -other CW6</category>
 <guid isPermaLink="false">https://www.fixmystreet.com/report/9984007</guid>
 <pubDate>Fri, 21 Aug 2026 14:48:58 +0100</pubDate>
 <georss:point>51.8960091 -2.11097339999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 21st August</title>
-<link>https://www.fixmystreet.com/report/9984012</link>
-<description>Pothole CW&amp;#10;4000x400x25-35mm approx (FW criteria)&amp;#10;Road closure&amp;#10;Stats (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9984012&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9984012</guid>
-<pubDate>Fri, 21 Aug 2026 14:48:58 +0100</pubDate>
-<georss:point>51.8961451 -2.11174429999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects -other CW6 problem, 21st August</title>
-<link>https://www.fixmystreet.com/report/9984009</link>
-<description>Depression CW&amp;#10;11000x1500x50-60mm&amp;#10;Road closure&amp;#10;Stats (CW6 Rutting&amp;amp;Depressions)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9984009&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -other CW6</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9984009</guid>
-<pubDate>Fri, 21 Aug 2026 14:48:58 +0100</pubDate>
-<georss:point>51.8960189 -2.1110489</georss:point>
 </item>
 <item>
 <title>TMC - Defects -other CW6 problem, 21st August</title>
@@ -187,12 +160,39 @@
 </item>
 <item>
 <title>TMC - Defects -other CW6 problem, 21st August</title>
+<link>https://www.fixmystreet.com/report/9984009</link>
+<description>Depression CW&amp;#10;11000x1500x50-60mm&amp;#10;Road closure&amp;#10;Stats (CW6 Rutting&amp;amp;Depressions)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9984009&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -other CW6</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9984009</guid>
+<pubDate>Fri, 21 Aug 2026 14:48:58 +0100</pubDate>
+<georss:point>51.8960189 -2.1110489</georss:point>
+</item>
+<item>
+<title>TMC - Defects -other CW6 problem, 21st August</title>
 <link>https://www.fixmystreet.com/report/9984010</link>
 <description>Depression CW&amp;#10;7000x1200x50-60mm&amp;#10;Road closure&amp;#10;Stats (CW6 Rutting&amp;amp;Depressions)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9984010&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -other CW6</category>
 <guid isPermaLink="false">https://www.fixmystreet.com/report/9984010</guid>
 <pubDate>Fri, 21 Aug 2026 14:48:58 +0100</pubDate>
 <georss:point>51.8960669 -2.11119489999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 21st August</title>
+<link>https://www.fixmystreet.com/report/9984012</link>
+<description>Pothole CW&amp;#10;4000x400x25-35mm approx (FW criteria)&amp;#10;Road closure&amp;#10;Stats (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9984012&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9984012</guid>
+<pubDate>Fri, 21 Aug 2026 14:48:58 +0100</pubDate>
+<georss:point>51.8961451 -2.11174429999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects -other CW6 problem, 21st August</title>
+<link>https://www.fixmystreet.com/report/9984006</link>
+<description>Depression CW&amp;#10;25000x1300x50-70mm&amp;#10;Road closure&amp;#10;Stats (CW6 Rutting&amp;amp;Depressions)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9984006&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -other CW6</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9984006</guid>
+<pubDate>Fri, 21 Aug 2026 14:48:58 +0100</pubDate>
+<georss:point>51.8959545 -2.1107944</georss:point>
 </item>
 </channel>
 </rss>
