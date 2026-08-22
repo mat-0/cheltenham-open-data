@@ -39,6 +39,7 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- New Street Cheltenham Possible sink hole, 22nd August :- [9988114](https://www.fixmystreet.com/report/9988114)
 - Broken climbing frame wigwam fixing, 22nd August :- [9987707](https://www.fixmystreet.com/report/9987707)
 - Rubbish left on street, 22nd August :- [9987362](https://www.fixmystreet.com/report/9987362)
 - Montpellier looking shabby, 22nd August :- [9987358](https://www.fixmystreet.com/report/9987358)
@@ -58,6 +59,5 @@ over time but remain permanently viewable on FixMyStreet itself.
 - Road cones and signs left following works, 21st August :- [9985438](https://www.fixmystreet.com/report/9985438)
 - Sharp Branches from a previous job not cleared, 21st August :- [9984960](https://www.fixmystreet.com/report/9984960)
 - Fake Sign, 21st August :- [9984742](https://www.fixmystreet.com/report/9984742)
-- Trees overgrown. Cutting out light and visibility to our garden. Debris dropping., 21st August :- [9984682](https://www.fixmystreet.com/report/9984682)
 
 <!-- fix_marker ends -->
