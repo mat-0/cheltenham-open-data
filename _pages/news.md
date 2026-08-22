@@ -10,10 +10,10 @@ permalink: /cheltenham-news
 ---
 
 <!-- news_marker starts -->
-- Man, 69, jailed after sexually abusing two girls ([1 hours ago](https://www.bbc.co.uk/news/articles/cly8kyrwve3o?at_medium=RSS&at_campaign=rss))
-- 50-metre long painting captures Ukraine war response - video ([9 hours ago](https://www.bbc.co.uk/news/videos/cx2j8yq2yxjo?at_medium=RSS&at_campaign=rss))
-- A40 bridge repair traffic concerns 'under review' ([12 hours ago](https://www.bbc.co.uk/news/articles/czdm9pj026jo?at_medium=RSS&at_campaign=rss))
-- Abuser jailed, a £1 ferry ride and top GCSE pupil ([12 hours ago](https://www.bbc.co.uk/news/articles/cdew07d9z3xo?at_medium=RSS&at_campaign=rss))
+- Man, 69, jailed after sexually abusing two girls ([3 hours ago](https://www.bbc.co.uk/news/articles/cly8kyrwve3o?at_medium=RSS&at_campaign=rss))
+- 50-metre long painting captures Ukraine war response - video ([10 hours ago](https://www.bbc.co.uk/news/videos/cx2j8yq2yxjo?at_medium=RSS&at_campaign=rss))
+- A40 bridge repair traffic concerns 'under review' ([14 hours ago](https://www.bbc.co.uk/news/articles/czdm9pj026jo?at_medium=RSS&at_campaign=rss))
+- Abuser jailed, a £1 ferry ride and top GCSE pupil ([14 hours ago](https://www.bbc.co.uk/news/articles/cdew07d9z3xo?at_medium=RSS&at_campaign=rss))
 - Watch: Gloucester's Lewis Ludlow begins testimonial year ([1 days ago](https://www.bbc.co.uk/news/videos/c2k7l3jq55do?at_medium=RSS&at_campaign=rss))
 - Plans to save meadows near Highgrove rejected ([1 days ago](https://www.bbc.co.uk/news/articles/cr49ygzgkkyo?at_medium=RSS&at_campaign=rss))
 - King penguin chick hatches in UK heatwave ([1 days ago](https://www.bbc.co.uk/news/articles/clyj3yrerpeo?at_medium=RSS&at_campaign=rss))
@@ -29,7 +29,7 @@ permalink: /cheltenham-news
 - 'Wild' conditions for canoes on drought-hit river ([3 days ago](https://www.bbc.co.uk/news/articles/c2dkw81y736o?at_medium=RSS&at_campaign=rss))
 - Man racially abused and punched two other men in Cheltenham ([5 days ago](https://gloucesternewscentre.co.uk/man-racially-abused-and-punched-two-other-men-in-cheltenham/))
 - Frustration as people are ‘forced to drive miles’ because of tip closures ([5 days ago](https://gloucesternewscentre.co.uk/frustration-as-people-are-forced-to-drive-miles-because-of-tip-closures/))
-- BBC Radio Gloucestershire Special ([7 days ago](https://www.bbc.co.uk/sounds/play/m002hp4x?at_medium=RSS&at_campaign=rss))
+- BBC Radio Gloucestershire Special ([8 days ago](https://www.bbc.co.uk/sounds/play/m002hp4x?at_medium=RSS&at_campaign=rss))
 - England, Wales ([8 days ago](https://www.gov.uk/alerts/14-aug-2026-2))
 - Wales ([8 days ago](https://www.gov.uk/alerts/14-aug-2026))
 - Free family events at The Brewery Quarter in August ([8 days ago](https://cheltenhampost.co.uk/free-family-events-at-the-brewery-quarter-in-august/))
