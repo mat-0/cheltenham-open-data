@@ -39,6 +39,7 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Broken climbing frame wigwam fixing, 22nd August :- [9987707](https://www.fixmystreet.com/report/9987707)
 - Rubbish left on street, 22nd August :- [9987362](https://www.fixmystreet.com/report/9987362)
 - Montpellier looking shabby, 22nd August :- [9987358](https://www.fixmystreet.com/report/9987358)
 - Once beautiful Montpellier looks unkempt, 22nd August :- [9987354](https://www.fixmystreet.com/report/9987354)
@@ -58,6 +59,5 @@ over time but remain permanently viewable on FixMyStreet itself.
 - Sharp Branches from a previous job not cleared, 21st August :- [9984960](https://www.fixmystreet.com/report/9984960)
 - Fake Sign, 21st August :- [9984742](https://www.fixmystreet.com/report/9984742)
 - Trees overgrown. Cutting out light and visibility to our garden. Debris dropping., 21st August :- [9984682](https://www.fixmystreet.com/report/9984682)
-- Flytipped garden rattan sofa, 21st August :- [9984527](https://www.fixmystreet.com/report/9984527)
 
 <!-- fix_marker ends -->
