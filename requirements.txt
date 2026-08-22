@@ -6,3 +6,4 @@ datetime
 feedparser
 PyYAML
 openai
+bs4

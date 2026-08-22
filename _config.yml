@@ -99,6 +99,9 @@ navigation_header:
   - name: Cheltenham House Prices
     link: /cheltenham-house-prices
     description: "Local house prices data from Land Registry and ONS."
+  - name: Cheltenham Planning Applications
+    link: /cheltenham-planning-applications
+    description: "Local planning applications from Cheltenham Borough Council."
   - name: Cheltenham GP and Pharmacies
     link: /cheltenham-gp-pharmacies
     description: "Find GP practices and pharmacies in Cheltenham"
@@ -144,6 +147,8 @@ footer_columns:
         link: /cheltenham-house-prices
       - name: Cheltenham Latest News
         link: /cheltenham-news
+      - name: Cheltenham Planning Applications
+        link: /cheltenham-planning-applications
       - name: Cheltenham Security Alerts
         link: /cheltenham-security-alerts
 
