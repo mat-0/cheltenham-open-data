@@ -23,13 +23,8 @@
 
     function formatDate(dateStr) {
         if (!dateStr) return "";
-        const d = new Date(dateStr);
-        if (isNaN(d)) return dateStr;
-        return d.toLocaleDateString("en-GB", {
-            day: "2-digit",
-            month: "short",
-            year: "numeric",
-        });
+        // Already stored as YYYY-MM-DD from the Python scraper; pass through as-is.
+        return dateStr;
     }
 
     function renderRows() {
