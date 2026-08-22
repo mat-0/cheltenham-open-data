@@ -49,10 +49,10 @@ MONTHLY_LIST_URL = f"{BASE_URL}/search.do?action=weeklyList&searchType=Applicati
 
 # How many days back to query each run. Hourly job + overlap window means
 # a missed/failed run still gets caught next time. Dedup happens on ref.
-LOOKBACK_DAYS = 7
+LOOKBACK_DAYS = 14
 
 # Drop records older than this from the JSON store each run.
-RETENTION_DAYS = 183  # ~6 months
+RETENTION_DAYS = 12  # ~6 months
 
 DATA_DIR = Path("assets/data")
 DATA_FILE = DATA_DIR / "planning-applications.json"
