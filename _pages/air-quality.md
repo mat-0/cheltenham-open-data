@@ -28,6 +28,6 @@ If you have asthma, another lung condition, or a heart condition, the NHS and DE
 | PM10 (particulates) | 7.3 ug.m-3 | Low | 2026-08-22 02:00 |
 | PM2.5 (fine particulates) | 3.491 ug.m-3 | Low | 2026-08-22 02:00 |
 
-*Source: [DEFRA UK-AIR](https://uk-air.defra.gov.uk/). Data last refreshed 2026-08-22 05:02 UTC.*
+*Source: [DEFRA UK-AIR](https://uk-air.defra.gov.uk/). Data last refreshed 2026-08-22 07:10 UTC.*
 
 <!-- air_quality ends -->
