@@ -10,13 +10,13 @@ permalink: /cheltenham-news
 ---
 
 <!-- news_marker starts -->
-- Watch: Gloucester's Lewis Ludlow begins testimonial year ([5 hours ago](https://www.bbc.co.uk/news/videos/c2k7l3jq55do?at_medium=RSS&at_campaign=rss))
-- Plans to save meadows near Highgrove rejected ([10 hours ago](https://www.bbc.co.uk/news/articles/cr49ygzgkkyo?at_medium=RSS&at_campaign=rss))
-- King penguin chick hatches in UK heatwave ([12 hours ago](https://www.bbc.co.uk/news/articles/clyj3yrerpeo?at_medium=RSS&at_campaign=rss))
-- Road will not reopen 'for days' after water leak ([14 hours ago](https://www.bbc.co.uk/news/articles/ce85rv7832mo?at_medium=RSS&at_campaign=rss))
-- Work begins to restore 'missing mile' of canal filled in for M5 ([15 hours ago](https://www.bbc.co.uk/news/articles/cn7n0mkgy8lo?at_medium=RSS&at_campaign=rss))
-- Experts battling extinctions after record heat ([17 hours ago](https://www.bbc.co.uk/news/articles/cvg0y0pxvnvo?at_medium=RSS&at_campaign=rss))
-- When is a water leak your responsibility? ([17 hours ago](https://www.bbc.co.uk/news/articles/c3d3772v7kro?at_medium=RSS&at_campaign=rss))
+- Watch: Gloucester's Lewis Ludlow begins testimonial year ([9 hours ago](https://www.bbc.co.uk/news/videos/c2k7l3jq55do?at_medium=RSS&at_campaign=rss))
+- Plans to save meadows near Highgrove rejected ([14 hours ago](https://www.bbc.co.uk/news/articles/cr49ygzgkkyo?at_medium=RSS&at_campaign=rss))
+- King penguin chick hatches in UK heatwave ([16 hours ago](https://www.bbc.co.uk/news/articles/clyj3yrerpeo?at_medium=RSS&at_campaign=rss))
+- Road will not reopen 'for days' after water leak ([19 hours ago](https://www.bbc.co.uk/news/articles/ce85rv7832mo?at_medium=RSS&at_campaign=rss))
+- Work begins to restore 'missing mile' of canal filled in for M5 ([19 hours ago](https://www.bbc.co.uk/news/articles/cn7n0mkgy8lo?at_medium=RSS&at_campaign=rss))
+- Experts battling extinctions after record heat ([21 hours ago](https://www.bbc.co.uk/news/articles/cvg0y0pxvnvo?at_medium=RSS&at_campaign=rss))
+- When is a water leak your responsibility? ([21 hours ago](https://www.bbc.co.uk/news/articles/c3d3772v7kro?at_medium=RSS&at_campaign=rss))
 - Victim 'living in fear' after photos shared online ([1 days ago](https://www.bbc.co.uk/news/articles/crrvgl87n77o?at_medium=RSS&at_campaign=rss))
 - Cricketers banned over 'irresponsible' fireworks ([1 days ago](https://www.bbc.co.uk/news/articles/cx2renn0mmgo?at_medium=RSS&at_campaign=rss))
 - Thousands of pupils across West get GCSE results ([1 days ago](https://www.bbc.co.uk/news/articles/cwymrzdzkdxo?at_medium=RSS&at_campaign=rss))

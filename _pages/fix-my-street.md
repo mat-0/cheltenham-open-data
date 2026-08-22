@@ -53,11 +53,11 @@ over time but remain permanently viewable on FixMyStreet itself.
 - Missing NO THROUGH ROAD Sign on Upper Park Street, 21st August :- [9984114](https://www.fixmystreet.com/report/9984114)
 - No Entry signs left at entrance to road by contactors, 21st August :- [9984115](https://www.fixmystreet.com/report/9984115)
 - TMC - Defects -other CW6 problem, 21st August :- [9984176](https://www.fixmystreet.com/report/9984176)
+- TMC - Defects -other CW6 problem, 21st August :- [9984006](https://www.fixmystreet.com/report/9984006)
+- TMC - Defects -other CW6 problem, 21st August :- [9984007](https://www.fixmystreet.com/report/9984007)
+- TMC - Defects -CW6 Potholes  problem, 21st August :- [9984012](https://www.fixmystreet.com/report/9984012)
+- TMC - Defects -other CW6 problem, 21st August :- [9984009](https://www.fixmystreet.com/report/9984009)
 - TMC - Defects -other CW6 problem, 21st August :- [9984011](https://www.fixmystreet.com/report/9984011)
 - TMC - Defects -other CW6 problem, 21st August :- [9984010](https://www.fixmystreet.com/report/9984010)
-- TMC - Defects -other CW6 problem, 21st August :- [9984009](https://www.fixmystreet.com/report/9984009)
-- TMC - Defects -CW6 Potholes  problem, 21st August :- [9984012](https://www.fixmystreet.com/report/9984012)
-- TMC - Defects -other CW6 problem, 21st August :- [9984007](https://www.fixmystreet.com/report/9984007)
-- TMC - Defects -other CW6 problem, 21st August :- [9984006](https://www.fixmystreet.com/report/9984006)
 
 <!-- fix_marker ends -->
