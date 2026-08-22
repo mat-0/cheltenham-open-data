@@ -39,6 +39,13 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Roundabout sign knocked down. Previously reported but nothing done, 22nd August :- [9987092](https://www.fixmystreet.com/report/9987092)
+- Over hang of hedge, 22nd August :- [9987040](https://www.fixmystreet.com/report/9987040)
+- Abandoned vehicle, 22nd August :- [9986985](https://www.fixmystreet.com/report/9986985)
+- Could you please explain only part of the path has been marked for repair, 22nd August :- [9986941](https://www.fixmystreet.com/report/9986941)
+- Needs cutting back, 22nd August :- [9986456](https://www.fixmystreet.com/report/9986456)
+- Branches overhanging footway, 22nd August :- [9986417](https://www.fixmystreet.com/report/9986417)
+- Road surface had collapsed again, 22nd August :- [9985955](https://www.fixmystreet.com/report/9985955)
 - One set of lights isn’t working onto the roundabout, 22nd August :- [9985883](https://www.fixmystreet.com/report/9985883)
 - Street light not working, 21st August :- [9985493](https://www.fixmystreet.com/report/9985493)
 - Vegetation obstructing the footpath bridge in coxs meadow, 21st August :- [9985444](https://www.fixmystreet.com/report/9985444)
@@ -52,12 +59,5 @@ over time but remain permanently viewable on FixMyStreet itself.
 - Diversion Traffic Through Residential Road, 21st August :- [9983414](https://www.fixmystreet.com/report/9983414)
 - Dent and bulge in road surface, 21st August :- [9984214](https://www.fixmystreet.com/report/9984214)
 - Missing NO THROUGH ROAD Sign on Upper Park Street, 21st August :- [9984114](https://www.fixmystreet.com/report/9984114)
-- No Entry signs left at entrance to road by contactors, 21st August :- [9984115](https://www.fixmystreet.com/report/9984115)
-- TMC - Defects -other CW6 problem, 21st August :- [9984176](https://www.fixmystreet.com/report/9984176)
-- TMC - Defects -other CW6 problem, 21st August :- [9984010](https://www.fixmystreet.com/report/9984010)
-- TMC - Defects -other CW6 problem, 21st August :- [9984011](https://www.fixmystreet.com/report/9984011)
-- TMC - Defects -other CW6 problem, 21st August :- [9984009](https://www.fixmystreet.com/report/9984009)
-- TMC - Defects -CW6 Potholes  problem, 21st August :- [9984012](https://www.fixmystreet.com/report/9984012)
-- TMC - Defects -other CW6 problem, 21st August :- [9984006](https://www.fixmystreet.com/report/9984006)
 
 <!-- fix_marker ends -->
