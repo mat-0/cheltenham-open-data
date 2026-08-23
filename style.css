@@ -1621,10 +1621,10 @@ pre {
 .footer-columns {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 2em;
+    gap: 3em;
 }
 
-.footer-col-title {
+.footer-col-title, .footer-subheading {
     font-family: "Archivo", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Gill Sans", sans-serif;
     font-size: 0.95rem;
     font-weight: 700;
@@ -1653,6 +1653,10 @@ pre {
 .footer-col a:focus {
     color: var(--brand);
     text-decoration: underline;
+}
+
+.footer-subheading {
+    margin-top: 2em;
 }
 
 /* theme toggle rendered as a text link inside the list */

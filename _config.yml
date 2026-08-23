@@ -167,7 +167,15 @@ footer_columns:
         link: /feeds/news-summary.xml
       - name: Cheltenham Classifieds (atom)
         link: /feeds/classifieds.xml
-  - title: Meta
+      - heading: Meta
+      - name: Privacy
+        link: /.well-known/privacy.txt
+      - name: Security
+        link: /.well-known/security.txt
+      - name: Sitemap
+        link: /sitemap.xml
+
+  - title: About
     links:
       - name: News
         link: /news
@@ -177,9 +185,3 @@ footer_columns:
         link: /contact
       - name: Submit Classified Advert
         link: /submission
-      - name: Privacy
-        link: /.well-known/privacy.txt
-      - name: Security
-        link: /.well-known/security.txt
-      - name: Sitemap
-        link: /sitemap.xml
