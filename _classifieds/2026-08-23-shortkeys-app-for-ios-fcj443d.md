@@ -2,7 +2,7 @@
 layout: advert
 type: single
 title: "ShortKeys - Multi-line Text Expansion/Replacement"
-category: services
+category: digital
 company: "thechelsuk"
 location: "Anywhere"
 salary: "Free (In-App Purchases)"
