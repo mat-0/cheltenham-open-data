@@ -6,47 +6,49 @@ import helper
 from datetime import datetime, timedelta
 
 
-def clean_title(title):
-    """Strip pipe characters that break markdown tables."""
-    return title.replace("|", "").strip()
+def time_ago(published_parsed):
+            published_date = datetime(*published_parsed[:6])
+            now = datetime.now()
+            diff = now - published_date
+            if diff.days > 0:
+                return f"{diff.days} days ago"
+            elif diff.seconds > 3600:
+                return f"{diff.seconds // 3600} hours ago"
+            elif diff.seconds > 60:
+                return f"{diff.seconds // 60} minutes ago"
+            else:
+                return "just now"
 
-
-def load_sources(config_path):
-    with config_path.open() as f:
-        config = yaml.safe_load(f)
-    return config["sources"]
 
 
 # processing
 if __name__ == "__main__":
     try:
         root = pathlib.Path(__file__).parent.parent.resolve()
-        config_path = root / "_data/news-sources.yml"
 
-        sources = load_sources(config_path)
+        config_path = root / "_data/news-sources.yml"
+        with config_path.open() as f:
+            sources = yaml.safe_load(f)["sources"]
+        urls = [source["url"] for source in sources]
+
         all_items = []
 
-        for source in sources:
-            feed = feedparser.parse(source["url"])
-            for item in feed["items"][:25]:
-                if not item.get("title", "").strip():
-                    continue
-                item["source_title"] = source["title"]
-                all_items.append(item)
+        for URL in urls:
+            feed = feedparser.parse(URL)
+            all_items.extend(feed["items"][:25])
 
         all_items.sort(key=lambda x: x["published_parsed"], reverse=True)
 
-        cutoff_date = datetime.now() - timedelta(days=30)
-        all_items = [
-            item for item in all_items
-            if datetime(*item["published_parsed"][:6]) > cutoff_date
-        ]
+
+        for item in all_items:
+            item["published"] = time_ago(item["published_parsed"])
+
+            cutoff_date = datetime.now() - timedelta(days=30)
+            all_items = [item for item in all_items if datetime(*item["published_parsed"][:6]) > cutoff_date]
 
         string = ""
         for item in all_items:
-            title = clean_title(item["title"])
-            date_str = datetime(*item["published_parsed"][:6]).strftime("%d %b %Y")
-            string += f"- {title} - From [{item['source_title']}]({item['link']}) on {date_str}\n"
+            string += f"- {item['title']} ([{item['published']}]({item['link']}))\n"
 
         f = root / "_pages/news.md"
         m = f.open().read()
@@ -56,5 +58,3 @@ if __name__ == "__main__":
 
     except FileNotFoundError:
         print("File does not exist, unable to proceed")
-    except KeyError as e:
-        print(f"Missing expected key in news-sources.yml: {e}")

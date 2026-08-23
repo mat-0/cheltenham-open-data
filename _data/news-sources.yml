@@ -15,7 +15,3 @@ sources:
     url: "https://www.goldenvalleyuk.com/blog?format=rss"
   - title: "GOV.UK Alerts"
     url: "https://www.gov.uk/alerts/feed.atom"
-  - title: "Cheltenham Festivals"
-    url: "https://www.cheltenhamfestivals.org/feed.rss"
-  - title: "Visit Cheltenham"
-    url: "https://www.visitcheltenham.com/event/rss/"
