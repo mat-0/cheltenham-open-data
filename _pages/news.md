@@ -10,11 +10,11 @@ permalink: /cheltenham-news
 ---
 
 <!-- news_marker starts -->
-- Meningitis survivor feels 'unstoppable' on UK run ([3 hours ago](https://www.bbc.co.uk/news/articles/cdrvr2y3mjgo?at_medium=RSS&at_campaign=rss))
-- CrossCountry cancels 'almost all' UK services after power cut ([6 hours ago](https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss))
-- Police hail 'dramatic' anti-social behaviour drop ([9 hours ago](https://www.bbc.co.uk/news/articles/c9w0wx5k1x2o?at_medium=RSS&at_campaign=rss))
-- Dental care offers street sex workers 'a lifeline' ([14 hours ago](https://www.bbc.co.uk/news/articles/c0ej3nr8nq1o?at_medium=RSS&at_campaign=rss))
-- Some parents 'unaware' summer-born children can defer school ([14 hours ago](https://www.bbc.co.uk/news/articles/c802g5dm29jo?at_medium=RSS&at_campaign=rss))
+- Meningitis survivor feels 'unstoppable' on UK run ([5 hours ago](https://www.bbc.co.uk/news/articles/cdrvr2y3mjgo?at_medium=RSS&at_campaign=rss))
+- CrossCountry cancels 'almost all' UK services after power cut ([8 hours ago](https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss))
+- Police hail 'dramatic' anti-social behaviour drop ([11 hours ago](https://www.bbc.co.uk/news/articles/c9w0wx5k1x2o?at_medium=RSS&at_campaign=rss))
+- Dental care offers street sex workers 'a lifeline' ([16 hours ago](https://www.bbc.co.uk/news/articles/c0ej3nr8nq1o?at_medium=RSS&at_campaign=rss))
+- Some parents 'unaware' summer-born children can defer school ([16 hours ago](https://www.bbc.co.uk/news/articles/c802g5dm29jo?at_medium=RSS&at_campaign=rss))
 - Man, 69, jailed after sexually abusing two girls ([1 days ago](https://www.bbc.co.uk/news/articles/cly8kyrwve3o?at_medium=RSS&at_campaign=rss))
 - 50-metre long painting captures Ukraine war response - video ([1 days ago](https://www.bbc.co.uk/news/videos/cx2j8yq2yxjo?at_medium=RSS&at_campaign=rss))
 - A40 bridge repair traffic concerns 'under review' ([1 days ago](https://www.bbc.co.uk/news/articles/czdm9pj026jo?at_medium=RSS&at_campaign=rss))
@@ -32,12 +32,11 @@ permalink: /cheltenham-news
 - BBC Radio Gloucestershire Special ([9 days ago](https://www.bbc.co.uk/sounds/play/m002hp4x?at_medium=RSS&at_campaign=rss))
 - England, Wales ([9 days ago](https://www.gov.uk/alerts/14-aug-2026-2))
 - Wales ([9 days ago](https://www.gov.uk/alerts/14-aug-2026))
-- Free family events at The Brewery Quarter in August ([9 days ago](https://cheltenhampost.co.uk/free-family-events-at-the-brewery-quarter-in-august/))
 - Review: The Choir of Man ([9 days ago](https://gloucesternewscentre.co.uk/review-the-choir-of-man/))
 - CCTV appeal following high-value theft from jewellers in Cheltenham ([12 days ago](https://gloucesternewscentre.co.uk/cctv-appeal-following-high-value-theft-from-jewellers-in-cheltenham/))
 - Reach New Heights This Summer at The Brewery Quarter with Free Family Events Throughout August ([17 days ago](https://cheltenhambid.co.uk/2026/08/06/reach-new-heights-this-summer-at-the-brewery-quarter-with-free-family-events-throughout-august/))
-- Concerns town looks ‘neglected’ ([22 days ago](https://gloucesternewscentre.co.uk/concerns-town-looks-neglected/))
-- Windows of Cav House to display artwork ([22 days ago](https://gloucesternewscentre.co.uk/windows-of-cav-house-to-display-artwork/))
-- Questions over Municipal Offices sale ([22 days ago](https://gloucesternewscentre.co.uk/questions-over-municipal-offices-sale/))
+- Concerns town looks ‘neglected’ ([23 days ago](https://gloucesternewscentre.co.uk/concerns-town-looks-neglected/))
+- Windows of Cav House to display artwork ([23 days ago](https://gloucesternewscentre.co.uk/windows-of-cav-house-to-display-artwork/))
+- Questions over Municipal Offices sale ([23 days ago](https://gloucesternewscentre.co.uk/questions-over-municipal-offices-sale/))
 
 <!-- news_marker ends -->
