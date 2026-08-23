@@ -39,6 +39,7 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Hole next to water cover, 23rd August :- [9988849](https://www.fixmystreet.com/report/9988849)
 - Sewage from septic tank seeping into riadway, 23rd August :- [9988580](https://www.fixmystreet.com/report/9988580)
 - Double yellow lines faded, 23rd August :- [9988572](https://www.fixmystreet.com/report/9988572)
 - Tree stumps need grinding, 22nd August :- [9988339](https://www.fixmystreet.com/report/9988339)
@@ -58,6 +59,5 @@ over time but remain permanently viewable on FixMyStreet itself.
 - Could you please explain only part of the path has been marked for repair, 22nd August :- [9986941](https://www.fixmystreet.com/report/9986941)
 - Needs cutting back, 22nd August :- [9986456](https://www.fixmystreet.com/report/9986456)
 - Branches overhanging footway, 22nd August :- [9986417](https://www.fixmystreet.com/report/9986417)
-- Road surface had collapsed again, 22nd August :- [9985955](https://www.fixmystreet.com/report/9985955)
 
 <!-- fix_marker ends -->
