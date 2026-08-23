@@ -10,10 +10,10 @@ permalink: /cheltenham-news
 ---
 
 <!-- news_marker starts -->
-- Man, 69, jailed after sexually abusing two girls ([8 hours ago](https://www.bbc.co.uk/news/articles/cly8kyrwve3o?at_medium=RSS&at_campaign=rss))
-- 50-metre long painting captures Ukraine war response - video ([15 hours ago](https://www.bbc.co.uk/news/videos/cx2j8yq2yxjo?at_medium=RSS&at_campaign=rss))
-- A40 bridge repair traffic concerns 'under review' ([18 hours ago](https://www.bbc.co.uk/news/articles/czdm9pj026jo?at_medium=RSS&at_campaign=rss))
-- Abuser jailed, a £1 ferry ride and top GCSE pupil ([19 hours ago](https://www.bbc.co.uk/news/articles/cdew07d9z3xo?at_medium=RSS&at_campaign=rss))
+- Man, 69, jailed after sexually abusing two girls ([10 hours ago](https://www.bbc.co.uk/news/articles/cly8kyrwve3o?at_medium=RSS&at_campaign=rss))
+- 50-metre long painting captures Ukraine war response - video ([17 hours ago](https://www.bbc.co.uk/news/videos/cx2j8yq2yxjo?at_medium=RSS&at_campaign=rss))
+- A40 bridge repair traffic concerns 'under review' ([20 hours ago](https://www.bbc.co.uk/news/articles/czdm9pj026jo?at_medium=RSS&at_campaign=rss))
+- Abuser jailed, a £1 ferry ride and top GCSE pupil ([20 hours ago](https://www.bbc.co.uk/news/articles/cdew07d9z3xo?at_medium=RSS&at_campaign=rss))
 - Watch: Gloucester's Lewis Ludlow begins testimonial year ([1 days ago](https://www.bbc.co.uk/news/videos/c2k7l3jq55do?at_medium=RSS&at_campaign=rss))
 - Plans to save meadows near Highgrove rejected ([1 days ago](https://www.bbc.co.uk/news/articles/cr49ygzgkkyo?at_medium=RSS&at_campaign=rss))
 - King penguin chick hatches in UK heatwave ([1 days ago](https://www.bbc.co.uk/news/articles/clyj3yrerpeo?at_medium=RSS&at_campaign=rss))
