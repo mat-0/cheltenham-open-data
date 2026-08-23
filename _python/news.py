@@ -1,60 +1,52 @@
 # importing modules
 import pathlib
 import feedparser
+import yaml
 import helper
 from datetime import datetime, timedelta
 
-URL_1 ="http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/england/gloucestershire/rss.xml"
-URL_2 ="https://www.gloucestershire.police.uk/news/gloucestershire/news/GetNewsRss/"
-URL_3 ="https://gloucesternewscentre.co.uk/category/gloucestershire-news/cheltenham-news/feed/"
-URL_4 ="https://www.cheltenham.gov.uk/rss/news"
-URL_5 ="https://cheltenhambid.co.uk/news/feed/"
-URL_6 ="https://cheltenhampost.co.uk/feed/"
-URL_7 ="https://www.goldenvalleyuk.com/blog?format=rss"
-URL_8 ="https://www.gov.uk/alerts/feed.atom"
-URL_9 ="https://www.cheltenhamfestivals.org/feed.rss"
-URL_0 ="https://www.visitcheltenham.com/event/rss/"
+
+def clean_title(title):
+    """Strip pipe characters that break markdown tables."""
+    return title.replace("|", "").strip()
 
 
-def time_ago(published_parsed):
-            published_date = datetime(*published_parsed[:6])
-            now = datetime.now()
-            diff = now - published_date
-            if diff.days > 0:
-                return f"{diff.days} days ago"
-            elif diff.seconds > 3600:
-                return f"{diff.seconds // 3600} hours ago"
-            elif diff.seconds > 60:
-                return f"{diff.seconds // 60} minutes ago"
-            else:
-                return "just now"
-
+def load_sources(config_path):
+    with config_path.open() as f:
+        config = yaml.safe_load(f)
+    return config["sources"]
 
 
 # processing
 if __name__ == "__main__":
     try:
         root = pathlib.Path(__file__).parent.parent.resolve()
+        config_path = root / "_data/news-sources.yml"
 
-        urls = [URL_1, URL_2, URL_3, URL_4, URL_5, URL_6, URL_7, URL_8, URL_9, URL_0]
+        sources = load_sources(config_path)
         all_items = []
 
-        for URL in urls:
-            feed = feedparser.parse(URL)
-            all_items.extend(feed["items"][:25])
+        for source in sources:
+            feed = feedparser.parse(source["url"])
+            for item in feed["items"][:25]:
+                if not item.get("title", "").strip():
+                    continue
+                item["source_title"] = source["title"]
+                all_items.append(item)
 
         all_items.sort(key=lambda x: x["published_parsed"], reverse=True)
 
-
-        for item in all_items:
-            item["published"] = time_ago(item["published_parsed"])
-
-            cutoff_date = datetime.now() - timedelta(days=30)
-            all_items = [item for item in all_items if datetime(*item["published_parsed"][:6]) > cutoff_date]
+        cutoff_date = datetime.now() - timedelta(days=30)
+        all_items = [
+            item for item in all_items
+            if datetime(*item["published_parsed"][:6]) > cutoff_date
+        ]
 
         string = ""
         for item in all_items:
-            string += f"- {item['title']} ([{item['published']}]({item['link']}))\n"
+            title = clean_title(item["title"])
+            date_str = datetime(*item["published_parsed"][:6]).strftime("%d %b %Y")
+            string += f"- {title} - From [{item['source_title']}]({item['link']}) on {date_str}\n"
 
         f = root / "_pages/news.md"
         m = f.open().read()
@@ -64,3 +56,5 @@ if __name__ == "__main__":
 
     except FileNotFoundError:
         print("File does not exist, unable to proceed")
+    except KeyError as e:
+        print(f"Missing expected key in news-sources.yml: {e}")
