@@ -39,6 +39,8 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Tree stumps need grinding, 22nd August :- [9988339](https://www.fixmystreet.com/report/9988339)
+- Drain still blocked, 22nd August :- [9988328](https://www.fixmystreet.com/report/9988328)
 - Temporary traffic light on lobleys drive, 22nd August :- [9988311](https://www.fixmystreet.com/report/9988311)
 - Large crack in road surface, 22nd August :- [9988130](https://www.fixmystreet.com/report/9988130)
 - New Street Cheltenham Possible sink hole, 22nd August :- [9988114](https://www.fixmystreet.com/report/9988114)
@@ -57,7 +59,5 @@ over time but remain permanently viewable on FixMyStreet itself.
 - Road surface had collapsed again, 22nd August :- [9985955](https://www.fixmystreet.com/report/9985955)
 - One set of lights isn’t working onto the roundabout, 22nd August :- [9985883](https://www.fixmystreet.com/report/9985883)
 - Street light not working, 21st August :- [9985493](https://www.fixmystreet.com/report/9985493)
-- Vegetation obstructing the footpath bridge in coxs meadow, 21st August :- [9985444](https://www.fixmystreet.com/report/9985444)
-- Road cones and signs left following works, 21st August :- [9985438](https://www.fixmystreet.com/report/9985438)
 
 <!-- fix_marker ends -->

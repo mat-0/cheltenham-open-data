@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-22T21:00:37.364910+00:00",
+  "generated_at": "2026-08-23T01:24:42.646085+00:00",
   "stats": {
-    "count": 2000,
+    "count": 1995,
     "median": 345000,
-    "mean": 458166,
+    "mean": 457856,
     "min": 7125,
     "max": 7050000,
     "by_type": {
@@ -12,15 +12,15 @@
         "median": 605000
       },
       "Flat-maisonette": {
-        "count": 411,
-        "median": 198000
+        "count": 410,
+        "median": 197750
       },
       "Semi-detached": {
-        "count": 550,
+        "count": 548,
         "median": 360000
       },
       "Terraced": {
-        "count": 521,
+        "count": 519,
         "median": 300000
       },
       "other": {
@@ -21972,61 +21972,6 @@
       "postcode": "GL51 0NW",
       "amount": 298300,
       "date": "2025-08-28",
-      "property_type": "Semi-detached",
-      "new_build": false
-    },
-    {
-      "paon": "39",
-      "saon": null,
-      "street": "COPT ELM ROAD",
-      "town": "CHELTENHAM",
-      "postcode": "GL53 8AG",
-      "amount": 790000,
-      "date": "2025-08-27",
-      "property_type": "Semi-detached",
-      "new_build": false
-    },
-    {
-      "paon": "15",
-      "saon": null,
-      "street": "OVERTON PARK ROAD",
-      "town": "CHELTENHAM",
-      "postcode": "GL50 3BW",
-      "amount": 575000,
-      "date": "2025-08-27",
-      "property_type": "Terraced",
-      "new_build": false
-    },
-    {
-      "paon": "SEVENHAMPTON MANOR",
-      "saon": "2",
-      "street": null,
-      "town": "CHELTENHAM",
-      "postcode": "GL54 5SW",
-      "amount": 560000,
-      "date": "2025-08-27",
-      "property_type": "Terraced",
-      "new_build": false
-    },
-    {
-      "paon": "STANHOPE HOUSE, 15",
-      "saon": "FLAT 7",
-      "street": "QUEENS ROAD",
-      "town": "CHELTENHAM",
-      "postcode": "GL50 2LR",
-      "amount": 320000,
-      "date": "2025-08-27",
-      "property_type": "Flat-maisonette",
-      "new_build": false
-    },
-    {
-      "paon": "88",
-      "saon": null,
-      "street": "SHURDINGTON ROAD",
-      "town": "CHELTENHAM",
-      "postcode": "GL53 0JH",
-      "amount": 665000,
-      "date": "2025-08-27",
       "property_type": "Semi-detached",
       "new_build": false
     }
