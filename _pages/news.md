@@ -10,11 +10,11 @@ permalink: /cheltenham-news
 ---
 
 <!-- news_marker starts -->
-- CrossCountry cancels 'almost all' UK services after power cut ([30 minutes ago](https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss))
-- Police hail 'dramatic' anti-social behaviour drop ([1 hours ago](https://www.bbc.co.uk/news/articles/c9w0wx5k1x2o?at_medium=RSS&at_campaign=rss))
-- Dental care offers street sex workers 'a lifeline' ([6 hours ago](https://www.bbc.co.uk/news/articles/c0ej3nr8nq1o?at_medium=RSS&at_campaign=rss))
-- Some parents 'unaware' summer-born children can defer school ([6 hours ago](https://www.bbc.co.uk/news/articles/c802g5dm29jo?at_medium=RSS&at_campaign=rss))
-- Man, 69, jailed after sexually abusing two girls ([20 hours ago](https://www.bbc.co.uk/news/articles/cly8kyrwve3o?at_medium=RSS&at_campaign=rss))
+- CrossCountry cancels 'almost all' UK services after power cut ([54 minutes ago](https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss))
+- Police hail 'dramatic' anti-social behaviour drop ([3 hours ago](https://www.bbc.co.uk/news/articles/c9w0wx5k1x2o?at_medium=RSS&at_campaign=rss))
+- Dental care offers street sex workers 'a lifeline' ([8 hours ago](https://www.bbc.co.uk/news/articles/c0ej3nr8nq1o?at_medium=RSS&at_campaign=rss))
+- Some parents 'unaware' summer-born children can defer school ([8 hours ago](https://www.bbc.co.uk/news/articles/c802g5dm29jo?at_medium=RSS&at_campaign=rss))
+- Man, 69, jailed after sexually abusing two girls ([21 hours ago](https://www.bbc.co.uk/news/articles/cly8kyrwve3o?at_medium=RSS&at_campaign=rss))
 - 50-metre long painting captures Ukraine war response - video ([1 days ago](https://www.bbc.co.uk/news/videos/cx2j8yq2yxjo?at_medium=RSS&at_campaign=rss))
 - A40 bridge repair traffic concerns 'under review' ([1 days ago](https://www.bbc.co.uk/news/articles/czdm9pj026jo?at_medium=RSS&at_campaign=rss))
 - Abuser jailed, a £1 ferry ride and top GCSE pupil ([1 days ago](https://www.bbc.co.uk/news/articles/cdew07d9z3xo?at_medium=RSS&at_campaign=rss))
@@ -26,7 +26,7 @@ permalink: /cheltenham-news
 - When is a water leak your responsibility? ([2 days ago](https://www.bbc.co.uk/news/articles/c3d3772v7kro?at_medium=RSS&at_campaign=rss))
 - Victim 'living in fear' after photos shared online ([2 days ago](https://www.bbc.co.uk/news/articles/crrvgl87n77o?at_medium=RSS&at_campaign=rss))
 - Cricketers banned over 'irresponsible' fireworks ([2 days ago](https://www.bbc.co.uk/news/articles/cx2renn0mmgo?at_medium=RSS&at_campaign=rss))
-- Thousands of pupils across West get GCSE results ([2 days ago](https://www.bbc.co.uk/news/articles/cwymrzdzkdxo?at_medium=RSS&at_campaign=rss))
+- Thousands of pupils across West get GCSE results ([3 days ago](https://www.bbc.co.uk/news/articles/cwymrzdzkdxo?at_medium=RSS&at_campaign=rss))
 - Man racially abused and punched two other men in Cheltenham ([5 days ago](https://gloucesternewscentre.co.uk/man-racially-abused-and-punched-two-other-men-in-cheltenham/))
 - Frustration as people are ‘forced to drive miles’ because of tip closures ([5 days ago](https://gloucesternewscentre.co.uk/frustration-as-people-are-forced-to-drive-miles-because-of-tip-closures/))
 - BBC Radio Gloucestershire Special ([8 days ago](https://www.bbc.co.uk/sounds/play/m002hp4x?at_medium=RSS&at_campaign=rss))
