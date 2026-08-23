@@ -4,10 +4,15 @@ import time
 import feedparser
 import requests
 import helper
+import re
+import html
 from datetime import datetime
 
 URL = "https://www.mi5.gov.uk/UKThreatLevel/UKThreatLevel.xml"
 
+def strip_html(text):
+    text = re.sub(r'<[^>]+>', '', text)
+    return html.unescape(text).strip()
 
 def fetch_terrorism_xml(destination):
     headers = {
@@ -66,7 +71,7 @@ if __name__ == "__main__":
         string =  f'### {level_class}\n\n'
         string += f'- {level}\n'
         string += f'- It has been {days_since_update} days since the last change ({update})\n'
-        string += f'- Details: {desc}\n'
+        string += f'- Details: {strip_html(desc)}\n'
 
         f = root / "_pages/security.md"
         m = f.open().read()

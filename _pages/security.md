@@ -16,7 +16,7 @@ Given the Proximity to GCHQ
 
 - Current Threat Level: SEVERE
 - It has been 115 days since the last change (2026-04-30)
-- Details: <p>The current national threat level is SEVERE. &nbsp;The threat to Northern Ireland from Northern Ireland-related terrorism is SUBSTANTIAL.</p>
+- Details: The current national threat level is SEVERE.  The threat to Northern Ireland from Northern Ireland-related terrorism is SUBSTANTIAL.
 
 <!-- threat_marker ends -->
 

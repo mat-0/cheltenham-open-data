@@ -14,4 +14,4 @@ The table below shows the next confirmed public holidays, taken directly from th
 
 ### A note on Christmas and New Year
 
-When Christmas Day, Boxing Day or New Year's Day fall on a weekend, the holiday is moved to the next working day. This is shown as a "substitute day" in the schedule below.
+When Christmas Day, Boxing Day or New Year's Day fall on a weekend, the holiday is moved to the next working day. This is shown as a in the schedule below where Christmas and Boxing day are not assigned to the 25th and 26th respectively.
