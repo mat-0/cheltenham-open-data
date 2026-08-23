@@ -32,6 +32,9 @@ Some useful contacts and resources for cheltenham residents. If you have any sug
 - [Local Intelligence Hub](https://www.localintelligencehub.com/area/WMC23/Cheltenham#movement).
 - [Cheltenham Borough Council](https://www.cheltenham.gov.uk/)
 
+## School Catchment Checker
+
+- [Check local school's catchment areas](https://schoolcatchmentchecker.co.uk/?loc=51.8994,-2.0783&zoom=12)
 
 ## Useful Phone Numbers
 
