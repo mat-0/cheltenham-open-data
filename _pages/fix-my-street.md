@@ -39,6 +39,10 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Previously reported problem is now larger and requires attention, 23rd August :- [9991043](https://www.fixmystreet.com/report/9991043)
+- Van dumped for weeks in a private parking, 23rd August :- [9991026](https://www.fixmystreet.com/report/9991026)
+- Volunteer litter pick bags ready for collection, 23rd August :- [9990639](https://www.fixmystreet.com/report/9990639)
+- Deep pot hole to the edge of a drain., 23rd August :- [9990501](https://www.fixmystreet.com/report/9990501)
 - Edge of drain by speed cushion, 23rd August :- [9990375](https://www.fixmystreet.com/report/9990375)
 - Persons broken, 23rd August :- [9990319](https://www.fixmystreet.com/report/9990319)
 - Cycle lane dangerously too narrow, 23rd August :- [9990165](https://www.fixmystreet.com/report/9990165)
@@ -55,9 +59,5 @@ over time but remain permanently viewable on FixMyStreet itself.
 - Drain still blocked, 22nd August :- [9988328](https://www.fixmystreet.com/report/9988328)
 - Temporary traffic light on lobleys drive, 22nd August :- [9988311](https://www.fixmystreet.com/report/9988311)
 - Large crack in road surface, 22nd August :- [9988130](https://www.fixmystreet.com/report/9988130)
-- New Street Cheltenham Possible sink hole, 22nd August :- [9988114](https://www.fixmystreet.com/report/9988114)
-- Broken climbing frame wigwam fixing, 22nd August :- [9987707](https://www.fixmystreet.com/report/9987707)
-- Rubbish left on street, 22nd August :- [9987362](https://www.fixmystreet.com/report/9987362)
-- Montpellier looking shabby, 22nd August :- [9987358](https://www.fixmystreet.com/report/9987358)
 
 <!-- fix_marker ends -->
