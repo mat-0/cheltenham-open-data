@@ -39,6 +39,9 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Cracked pathway/failed repair !, 23rd August :- [9989942](https://www.fixmystreet.com/report/9989942)
+- Broken glass, 23rd August :- [9989854](https://www.fixmystreet.com/report/9989854)
+- Both sides of street are deteriorated, 23rd August :- [9989538](https://www.fixmystreet.com/report/9989538)
 - Large dip in the road, 23rd August :- [9989371](https://www.fixmystreet.com/report/9989371)
 - A pothole in Queens Court, off Queens Road, 23rd August :- [9989026](https://www.fixmystreet.com/report/9989026)
 - Hole next to water cover, 23rd August :- [9988849](https://www.fixmystreet.com/report/9988849)
@@ -56,8 +59,5 @@ over time but remain permanently viewable on FixMyStreet itself.
 - Hedge taking over footpath, 22nd August :- [9987338](https://www.fixmystreet.com/report/9987338)
 - Birds in over flowing bin, 22nd August :- [9987325](https://www.fixmystreet.com/report/9987325)
 - Roundabout sign knocked down. Previously reported but nothing done, 22nd August :- [9987092](https://www.fixmystreet.com/report/9987092)
-- Over hang of hedge, 22nd August :- [9987040](https://www.fixmystreet.com/report/9987040)
-- Abandoned vehicle, 22nd August :- [9986985](https://www.fixmystreet.com/report/9986985)
-- Could you please explain only part of the path has been marked for repair, 22nd August :- [9986941](https://www.fixmystreet.com/report/9986941)
 
 <!-- fix_marker ends -->
