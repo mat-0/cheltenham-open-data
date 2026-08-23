@@ -39,6 +39,8 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Sewage from septic tank seeping into riadway, 23rd August :- [9988580](https://www.fixmystreet.com/report/9988580)
+- Double yellow lines faded, 23rd August :- [9988572](https://www.fixmystreet.com/report/9988572)
 - Tree stumps need grinding, 22nd August :- [9988339](https://www.fixmystreet.com/report/9988339)
 - Drain still blocked, 22nd August :- [9988328](https://www.fixmystreet.com/report/9988328)
 - Temporary traffic light on lobleys drive, 22nd August :- [9988311](https://www.fixmystreet.com/report/9988311)
@@ -57,7 +59,5 @@ over time but remain permanently viewable on FixMyStreet itself.
 - Needs cutting back, 22nd August :- [9986456](https://www.fixmystreet.com/report/9986456)
 - Branches overhanging footway, 22nd August :- [9986417](https://www.fixmystreet.com/report/9986417)
 - Road surface had collapsed again, 22nd August :- [9985955](https://www.fixmystreet.com/report/9985955)
-- One set of lights isn’t working onto the roundabout, 22nd August :- [9985883](https://www.fixmystreet.com/report/9985883)
-- Street light not working, 21st August :- [9985493](https://www.fixmystreet.com/report/9985493)
 
 <!-- fix_marker ends -->
