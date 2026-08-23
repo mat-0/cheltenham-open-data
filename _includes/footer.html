@@ -11,17 +11,14 @@
                     {% for item in col.links %}
                     {% if item.heading %}
                     <li class="footer-subheading">{{ item.heading }}</li>
+                    <li><a id="theme-toggle-btn" aria-pressed="false" type="button" aria-label="Toggle dark mode"
+                            href="#footer">Theme
+                            Toggle</a></li>
                     {% else %}
                     <li><a href="{{ item.link }}">{{ item.name }}</a></li>
                     {% endif %}
                     {% endfor %}
-                    {% if col.title == "Meta" %}
-                    <li><a id="theme-toggle-btn" aria-pressed="false" type="button" aria-label="Toggle dark mode"
-                            href="#footer">Theme
-                            Toggle</a></li>
                     <li><a href="#top" class="back-to-top" name="back-to-top">↑</a></li>
-
-                    {% endif %}
                 </ul>
             </nav>
             {% endfor %}
