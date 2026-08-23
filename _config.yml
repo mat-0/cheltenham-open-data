@@ -125,6 +125,9 @@ navigation_header:
   - name: Cheltenham Food Bank
     link: /cheltenham-foodbank-needed-items
     description: "Local foodbanks and their needed items."
+  - name: Cheltenham Public Holidays
+    link: /cheltenham-public-holidays
+    description: "Confirmed public holidays."
   - name: Cheltenham Security Alerts
     link: /cheltenham-security-alerts
     description: "Local area security alerts and status updates."
@@ -156,6 +159,8 @@ footer_columns:
         link: /cheltenham-planning-applications
       - name: Cheltenham Post Office Locations
         link: /cheltenham-post-office-locations
+      - name: Cheltenham Public Holidays
+        link: /cheltenham-public-holidays
       - name: Cheltenham Security Alerts
         link: /cheltenham-security-alerts
 

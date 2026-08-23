@@ -1,0 +1,102 @@
+{% include header.html %}
+
+<div class="{{page.type}} herobar">
+    <div class="{{page.type}}">
+        <header class="{{page.type}} header">
+            <h1>{{page.title}}</h1>
+            <p>{{page.description}}</p>
+            <ul>
+                {% if page.feed_url %}
+                <li><a href="{{ page.feed_url}}">Subscribe via our feed/rss →</a></li>
+                {% endif %}
+            </ul>
+        </header>
+
+        {{ content }}
+        <div class="scroll">
+
+            <table id="land-registry-table" class="sortable">
+                <thead>
+                    <tr>
+                        <th data-sort="date">Date</th>
+                        <th data-sort="title">Title</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% assign holidays = site.data.holidays["england-and-wales"].events %}
+                    {% assign today = "now" | date: "%s" %}
+                    {% for holiday in holidays %}
+                    {% assign holiday_date = holiday.date | date: "%s" %}
+                    {% if holiday_date >= today %}
+                    <tr>
+                        <td>{{ holiday.date }}</td>
+                        <td>{{ holiday.title }}</td>
+                    </tr>
+                    {% endif %}
+                    {% endfor %}
+                </tbody>
+            </table>
+            <p>Data taken directly from <a href="https://www.gov.uk/bank-holidays.json">gov.uk</a></p>
+
+
+            <h2>Frequently Asked Questions</h2>
+
+            <h3>Are Cheltenham's public holidays different from the rest of England?</h3>
+            <ul>
+                <li>No. Cheltenham and Gloucestershire follow the same public holiday schedule as the rest of England
+                    and Wales
+                    — there are no local variations.
+                </li>
+            </ul>
+
+            <h3>Do all shops and businesses close on public holidays?</h3>
+            <ul>
+                <li>Not necessarily. Many supermarkets and independent shops in Cheltenham stay open with reduced hours,
+                    while
+                    banks, Post
+                    Office branches, and council offices are typically closed.
+                </li>
+            </ul>
+            <h3>Is Good Friday a public holiday in England?</h3>
+            <ul>
+                <li>
+                    Yes, Good Friday is a public holiday, though it doesn't carry a bunting/celebration flag in official
+                    government data the
+                    way bank holidays like Christmas Day do.
+                </li>
+            </ul>
+        </div>
+        <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are Cheltenham's public holidays different from the rest of England?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Cheltenham and Gloucestershire follow the same public holiday schedule as the rest of England and Wales — there are no local variations."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do all shops and businesses close on public holidays?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not necessarily. Many supermarkets and independent shops in Cheltenham stay open with reduced hours, while banks, Post Office branches, and council offices are typically closed."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Good Friday a public holiday in England?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Good Friday is a public holiday in England, though it is not always flagged for bunting/celebration in official government data."
+      }
+    }
+  ]
+}
+</script>
+    </div>
+    {% include footer.html %}
