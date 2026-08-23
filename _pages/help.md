@@ -32,9 +32,16 @@ Some useful contacts and resources for cheltenham residents. If you have any sug
 - [Local Intelligence Hub](https://www.localintelligencehub.com/area/WMC23/Cheltenham#movement).
 - [Cheltenham Borough Council](https://www.cheltenham.gov.uk/)
 
-## School Catchment Checker
+## Schools
 
 - [Check local school's catchment areas](https://schoolcatchmentchecker.co.uk/?loc=51.8994,-2.0783&zoom=12)
+- [Gloucester County Council Find a School](https://www.gloucestershire.gov.uk/education-and-learning/find-a-school)
+- [Dynamic Maps for Schools](https://gcc.dynamicmaps.co.uk/MapThatPublic/Default.aspx)
+- [Term Dates](https://www.gloucestershire.gov.uk/education-and-learning/term-dates/)
+
+## Cheltenham Sub-Reddit
+
+- [The Home of all things Cheltenham](https://www.reddit.com/r/cheltenham/)
 
 ## Useful Phone Numbers
 
