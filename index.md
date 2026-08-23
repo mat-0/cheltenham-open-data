@@ -10,11 +10,11 @@ description: "Collecting and sharing frequently updated local open data for Chel
 <!-- weather_marker starts -->
 ## On Sunday, 23 August 2026
 
-- The average temperature today is 21.39˚C,
-- With highs of 21.75˚C and lows of 20.67˚C,
-- It may feel like 20.6˚C with clear sky
-- The wind speed is 3.09m/s and visibility is 10000m
-- The pressure is 1022hPa and humidity is 39%
+- The average temperature today is 16.93˚C,
+- With highs of 18.13˚C and lows of 16.03˚C,
+- It may feel like 16.09˚C with clear sky
+- The wind speed is 2.89m/s and visibility is 10000m
+- The pressure is 1023hPa and humidity is 54%
 - The sun will rise at 05:05 and set at 19:16
 
 <!-- weather_marker ends -->
