@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Cheltenham High Street Post Office",
+    "address": "192-194, High Street, Cheltenham, GL50 1EP",
+    "lat": 51.9008109,
+    "lon": -2.074708,
+    "osm_type": "node",
+    "osm_id": 291671429
+  },
+  {
+    "name": "Hesters Way Post Office",
+    "address": "8-10, Hesters Way Road, Cheltenham, GL51 0DA",
+    "lat": 51.9095858,
+    "lon": -2.1125519,
+    "osm_type": "node",
+    "osm_id": 297649303
+  },
+  {
+    "name": "Shurdington Post Office and Stores",
+    "address": "2, Yarnolds, Cheltenham, GL51 4SH",
+    "lat": 51.8658443,
+    "lon": -2.1175046,
+    "osm_type": "node",
+    "osm_id": 330670563
+  },
+  {
+    "name": "Tewkesbury Road Post Office",
+    "address": "93, Tewkesbury Road, Cheltenham, GL51 9DB",
+    "lat": 51.9095121,
+    "lon": -2.0909595,
+    "osm_type": "node",
+    "osm_id": 334227719
+  },
+  {
+    "name": "Charlton Kings Post Office",
+    "address": "41, Lyefield Road West, Cheltenham, GL53 8EZ",
+    "lat": 51.8842955,
+    "lon": -2.0535302,
+    "osm_type": "node",
+    "osm_id": 519980435
+  },
+  {
+    "name": "Salisbury Avenue Post Office",
+    "address": "Salisbury Avenue, Cheltenham, GL51 3BY",
+    "lat": 51.8826596,
+    "lon": -2.1002966,
+    "osm_type": "node",
+    "osm_id": 1040717558
+  },
+  {
+    "name": "Whaddon Road Post Office",
+    "address": "112, Whaddon Road, Cheltenham, GL52 5NQ",
+    "lat": 51.9044841,
+    "lon": -2.0566133,
+    "osm_type": "node",
+    "osm_id": 8272126603
+  },
+  {
+    "name": "Tennyson Road Post Office",
+    "address": "66, Tennyson Road, Cheltenham, GL51 7BY",
+    "lat": 51.899774,
+    "lon": -2.1105489,
+    "osm_type": "node",
+    "osm_id": 9095192462
+  },
+  {
+    "name": "Mail Boxes Etc.",
+    "address": "20, Winchcombe Street, Cheltenham, GL52 2LY",
+    "lat": 51.9007422,
+    "lon": -2.0727792,
+    "osm_type": "way",
+    "osm_id": 166001390
+  },
+  {
+    "name": "Up Hatherley Post Office",
+    "address": "238, Hatherley Road, Cheltenham, GL51 6HB",
+    "lat": 51.8893046,
+    "lon": -2.1155682,
+    "osm_type": "way",
+    "osm_id": 303217032
+  },
+  {
+    "name": "Bath Road Newsagents",
+    "address": "170;172, Bath Road, Cheltenham, GL53 7NF",
+    "lat": 51.8895333,
+    "lon": -2.0786291,
+    "osm_type": "way",
+    "osm_id": 945300711
+  }
+]

@@ -1,0 +1,32 @@
+{% include header.html %}
+<div class="{{page.type}} herobar">
+    <header class="{{page.type}} header">
+        <h1>{{page.title}}</h1>
+        <p>{{page.description}}</p>
+    </header>
+
+    {{ content }}
+
+
+    {% for po in site.data.post-offices %}
+    <h2>{{ po.name }}</h2>
+    <ul>
+        <li>
+            <a href="https://www.google.com/maps/search/?api=1&query={{ po.lat }},{{ po.lon }}" target="_blank"
+                rel="noopener">
+                {{ po.address }}
+            </a>
+        </li>
+        <li>
+            {% if po.osm_type == "node" %}
+            Location type: Single point (e.g. counter/branch)
+            {% elsif po.osm_type == "way" %}
+            Location type: Building/area
+            {% else %}
+            Location type: Unknown
+            {% endif %}
+        </li>
+    </ul>
+    {% endfor %}
+
+    {% include footer.html %}

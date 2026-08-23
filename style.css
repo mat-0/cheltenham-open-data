@@ -70,6 +70,19 @@ html {
     --secondary: #a2a0d4;
 }
 
+body:has(.po) {
+    --accent: #6a3f6b;
+    --accent-text: #ffffff;
+    --accent-dark: #4d2d4e;
+}
+
+[data-theme=dark] body:has(.po) {
+    --accent: #a877a9;
+    --accent-text: #0a1420;
+    --accent-dark: #c9a0ca;
+}
+
+
 body:has(.single) {
     --accent: #6a3f6b;
     --accent-text: #ffffff;
