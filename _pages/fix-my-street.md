@@ -39,6 +39,8 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Large dip in the road, 23rd August :- [9989371](https://www.fixmystreet.com/report/9989371)
+- A pothole in Queens Court, off Queens Road, 23rd August :- [9989026](https://www.fixmystreet.com/report/9989026)
 - Hole next to water cover, 23rd August :- [9988849](https://www.fixmystreet.com/report/9988849)
 - Sewage from septic tank seeping into riadway, 23rd August :- [9988580](https://www.fixmystreet.com/report/9988580)
 - Double yellow lines faded, 23rd August :- [9988572](https://www.fixmystreet.com/report/9988572)
@@ -57,7 +59,5 @@ over time but remain permanently viewable on FixMyStreet itself.
 - Over hang of hedge, 22nd August :- [9987040](https://www.fixmystreet.com/report/9987040)
 - Abandoned vehicle, 22nd August :- [9986985](https://www.fixmystreet.com/report/9986985)
 - Could you please explain only part of the path has been marked for repair, 22nd August :- [9986941](https://www.fixmystreet.com/report/9986941)
-- Needs cutting back, 22nd August :- [9986456](https://www.fixmystreet.com/report/9986456)
-- Branches overhanging footway, 22nd August :- [9986417](https://www.fixmystreet.com/report/9986417)
 
 <!-- fix_marker ends -->
