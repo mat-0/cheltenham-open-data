@@ -5,7 +5,7 @@ title: "Tomoz - Tomorrow's Calendar Today"
 category: digital
 company: "thechelsuk"
 location: "Anywhere"
-salary: "Free"
+salary: "Free (In-App Purchases)"
 job_type: "iPhone app (iOS 18.5+)"
 date: 2026-08-19
 expires: 2027-02-19
