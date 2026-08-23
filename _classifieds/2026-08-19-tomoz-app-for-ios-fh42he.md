@@ -2,7 +2,7 @@
 layout: advert
 type: single
 title: "Tomoz - Tomorrow's Calendar Today"
-category: services
+category: digital
 company: "thechelsuk"
 location: "Anywhere"
 salary: "Free"

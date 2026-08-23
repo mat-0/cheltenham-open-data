@@ -76,6 +76,8 @@ classified_categories:
     label: "Community notice"
   - value: "wanted"
     label: "Wanted"
+  - value: "Digital"
+    label: "Digital"
 
 feed:
   collections:

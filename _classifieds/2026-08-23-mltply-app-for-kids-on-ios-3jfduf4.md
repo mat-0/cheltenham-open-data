@@ -2,7 +2,7 @@
 layout: advert
 type: single
 title: "Mltply - The Maths Chat Buddy for Kids"
-category: services
+category: digital
 company: "thechelsuk"
 location: "Anywhere"
 salary: "Free"

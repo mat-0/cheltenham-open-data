@@ -2,7 +2,7 @@
 layout: advert
 type: single
 title: "Cybaa - DNS, Domain and Website Security Made Simple"
-category: services
+category: digital
 company: "Cybaa"
 location: "Cheltenham"
 salary: "Free tier available"
