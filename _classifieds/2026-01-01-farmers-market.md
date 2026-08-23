@@ -1,0 +1,27 @@
+---
+layout: advert
+type: single
+title: "Cheltenham Farmers Market"
+category: community
+company: "Cheltenham Farmers Market"
+location: "Cheltenham"
+salary: "Free entry"
+job_type: "Monthly market"
+date: 2026-01-01
+expires: 2030-01-01
+robots: noindex
+---
+
+Cheltenham's Farmers Market brings local producers together for fresh food
+and produce straight from the source.
+
+## When it runs
+
+- January to November: the 2nd and last Friday of every month
+- December: the 2nd and 3rd Friday
+
+## Good for
+
+- Anyone wanting fresh, locally produced food
+- Supporting local farmers and producers
+- A regular date worth adding to the calendar

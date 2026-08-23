@@ -43,10 +43,3 @@ description: "Collecting and sharing frequently updated local open data for Chel
 - [Get £20, £50 or £100 free when you join Monzo bank](https://join.monzo.com/c/k7stxxwv)
 
 Note: _Terms and Conditions apply - see offer for details_.
-
-## Farmers Market
-
-The market will run on:
-
-- January to November; The 2nd and last Friday of every month
-- December; The 2nd and 3rd Friday.

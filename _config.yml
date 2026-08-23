@@ -66,18 +66,25 @@ defaults:
 classified_categories:
   - value: "jobs"
     label: "Jobs"
+    description: "Local jobs, employment, vacancies, and opportunities"
   - value: "services"
     label: "Services"
+    description: ""
   - value: "for-sale"
     label: "For sale"
+    description: "Private item sales or free items"
   - value: "property"
     label: "Property"
+    description: "Private property sales, lets and places to rent etc"
   - value: "community"
-    label: "Community notice"
+    label: "Community notices"
+    description: "Local community events and notices"
   - value: "wanted"
     label: "Wanted"
+    description: "Wanted items to purchase or collect for free"
   - value: "digital"
     label: "Digital"
+    description: "Websites, applications, mobile apps, Software as a Service (SaaS) products"
 
 feed:
   collections:
