@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-08-23T23:02:16.602590+00:00",
+  "generated_at": "2026-08-24T03:16:29.562086+00:00",
   "stats": {
-    "count": 1995,
+    "count": 1971,
     "median": 345000,
-    "mean": 457856,
+    "mean": 457145,
     "min": 7125,
     "max": 7050000,
     "by_type": {
       "Detached": {
-        "count": 446,
-        "median": 605000
+        "count": 439,
+        "median": 600000
       },
       "Flat-maisonette": {
-        "count": 410,
-        "median": 197750
+        "count": 408,
+        "median": 197250
       },
       "Semi-detached": {
-        "count": 548,
-        "median": 360000
+        "count": 541,
+        "median": 360620
       },
       "Terraced": {
-        "count": 519,
+        "count": 514,
         "median": 300000
       },
       "other": {
-        "count": 72,
-        "median": 642500
+        "count": 69,
+        "median": 650000
       }
     }
   },
@@ -21709,270 +21709,6 @@
       "amount": 170000,
       "date": "2025-08-29",
       "property_type": "Flat-maisonette",
-      "new_build": false
-    },
-    {
-      "paon": "5",
-      "saon": null,
-      "street": "OAKFIELD STREET",
-      "town": "CHELTENHAM",
-      "postcode": "GL50 2UJ",
-      "amount": 549500,
-      "date": "2025-08-28",
-      "property_type": "Terraced",
-      "new_build": false
-    },
-    {
-      "paon": "5",
-      "saon": null,
-      "street": "BASSETT CLOSE",
-      "town": "CHELTENHAM",
-      "postcode": "GL54 5YY",
-      "amount": 635000,
-      "date": "2025-08-28",
-      "property_type": "other",
-      "new_build": false
-    },
-    {
-      "paon": "6",
-      "saon": null,
-      "street": "COLTHAM FIELDS",
-      "town": "CHELTENHAM",
-      "postcode": "GL52 6SP",
-      "amount": 285000,
-      "date": "2025-08-28",
-      "property_type": "Terraced",
-      "new_build": false
-    },
-    {
-      "paon": "20",
-      "saon": null,
-      "street": "NOSTLE ROAD",
-      "town": "CHELTENHAM",
-      "postcode": "GL54 3PF",
-      "amount": 225000,
-      "date": "2025-08-28",
-      "property_type": "Semi-detached",
-      "new_build": false
-    },
-    {
-      "paon": "37",
-      "saon": null,
-      "street": "KING GEORGE CLOSE",
-      "town": "CHELTENHAM",
-      "postcode": "GL53 7RW",
-      "amount": 577500,
-      "date": "2025-08-28",
-      "property_type": "Terraced",
-      "new_build": false
-    },
-    {
-      "paon": "7",
-      "saon": null,
-      "street": "ST EDWARDS ROAD",
-      "town": "CHELTENHAM",
-      "postcode": "GL54 1AP",
-      "amount": 350000,
-      "date": "2025-08-28",
-      "property_type": "Detached",
-      "new_build": false
-    },
-    {
-      "paon": "PUFFERS COTTAGE",
-      "saon": null,
-      "street": "GLOUCESTER ROAD",
-      "town": "CHELTENHAM",
-      "postcode": "GL54 4HR",
-      "amount": 690000,
-      "date": "2025-08-28",
-      "property_type": "Detached",
-      "new_build": false
-    },
-    {
-      "paon": "7",
-      "saon": null,
-      "street": "CHURCH MEADOWS",
-      "town": "CHELTENHAM",
-      "postcode": "GL54 5DB",
-      "amount": 765000,
-      "date": "2025-08-28",
-      "property_type": "Detached",
-      "new_build": false
-    },
-    {
-      "paon": "72",
-      "saon": null,
-      "street": "NORTH STREET",
-      "town": "CHELTENHAM",
-      "postcode": "GL54 5PS",
-      "amount": 320000,
-      "date": "2025-08-28",
-      "property_type": "Terraced",
-      "new_build": false
-    },
-    {
-      "paon": "22",
-      "saon": null,
-      "street": "WARDEN HILL ROAD",
-      "town": "CHELTENHAM",
-      "postcode": "GL51 3AW",
-      "amount": 990000,
-      "date": "2025-08-28",
-      "property_type": "Detached",
-      "new_build": false
-    },
-    {
-      "paon": "38",
-      "saon": null,
-      "street": "ROWANFIELD ROAD",
-      "town": "CHELTENHAM",
-      "postcode": "GL51 8AG",
-      "amount": 342000,
-      "date": "2025-08-28",
-      "property_type": "Semi-detached",
-      "new_build": false
-    },
-    {
-      "paon": "47",
-      "saon": null,
-      "street": "CUTSDEAN CLOSE",
-      "town": "CHELTENHAM",
-      "postcode": "GL52 8UT",
-      "amount": 230000,
-      "date": "2025-08-28",
-      "property_type": "Terraced",
-      "new_build": false
-    },
-    {
-      "paon": "BROOKFORD COTTAGE",
-      "saon": null,
-      "street": null,
-      "town": "CHELTENHAM",
-      "postcode": "GL54 4JF",
-      "amount": 760000,
-      "date": "2025-08-28",
-      "property_type": "other",
-      "new_build": false
-    },
-    {
-      "paon": "HANOVER COTTAGE",
-      "saon": null,
-      "street": "HANOVER STREET",
-      "town": "CHELTENHAM",
-      "postcode": "GL50 4HJ",
-      "amount": 235000,
-      "date": "2025-08-28",
-      "property_type": "Semi-detached",
-      "new_build": false
-    },
-    {
-      "paon": "71A",
-      "saon": null,
-      "street": "LONDON ROAD",
-      "town": "CHELTENHAM",
-      "postcode": "GL52 6HF",
-      "amount": 305500,
-      "date": "2025-08-28",
-      "property_type": "Flat-maisonette",
-      "new_build": false
-    },
-    {
-      "paon": "101",
-      "saon": null,
-      "street": "PAINSWICK ROAD",
-      "town": "CHELTENHAM",
-      "postcode": "GL50 2EX",
-      "amount": 1150000,
-      "date": "2025-08-28",
-      "property_type": "Detached",
-      "new_build": false
-    },
-    {
-      "paon": "DANEBURY, 21C",
-      "saon": null,
-      "street": "THE HYDE",
-      "town": "CHELTENHAM",
-      "postcode": "GL54 5QR",
-      "amount": 525000,
-      "date": "2025-08-28",
-      "property_type": "Semi-detached",
-      "new_build": false
-    },
-    {
-      "paon": "12",
-      "saon": null,
-      "street": "BIRDLIP ROAD",
-      "town": "CHELTENHAM",
-      "postcode": "GL52 5AJ",
-      "amount": 605000,
-      "date": "2025-08-28",
-      "property_type": "Detached",
-      "new_build": false
-    },
-    {
-      "paon": "THE OLD FORGE",
-      "saon": null,
-      "street": null,
-      "town": "CHELTENHAM",
-      "postcode": "GL52 9SE",
-      "amount": 34500,
-      "date": "2025-08-28",
-      "property_type": "other",
-      "new_build": false
-    },
-    {
-      "paon": "1",
-      "saon": null,
-      "street": "BAYSHILL MEWS",
-      "town": "CHELTENHAM",
-      "postcode": "GL50 3QE",
-      "amount": 196000,
-      "date": "2025-08-28",
-      "property_type": "Semi-detached",
-      "new_build": false
-    },
-    {
-      "paon": "FOSSEWAY HOUSE",
-      "saon": "FLAT 8",
-      "street": "FOSSEWAY",
-      "town": "CHELTENHAM",
-      "postcode": "GL54 1DN",
-      "amount": 310000,
-      "date": "2025-08-28",
-      "property_type": "Flat-maisonette",
-      "new_build": false
-    },
-    {
-      "paon": "QUIETWAYS, 9",
-      "saon": null,
-      "street": "CLEEVELANDS DRIVE",
-      "town": "CHELTENHAM",
-      "postcode": "GL50 4QD",
-      "amount": 1650000,
-      "date": "2025-08-28",
-      "property_type": "Detached",
-      "new_build": false
-    },
-    {
-      "paon": "31",
-      "saon": null,
-      "street": "SHAW GREEN LANE",
-      "town": "CHELTENHAM",
-      "postcode": "GL52 3BS",
-      "amount": 360000,
-      "date": "2025-08-28",
-      "property_type": "Semi-detached",
-      "new_build": false
-    },
-    {
-      "paon": "36",
-      "saon": null,
-      "street": "DUNSTER ROAD",
-      "town": "CHELTENHAM",
-      "postcode": "GL51 0NW",
-      "amount": 298300,
-      "date": "2025-08-28",
-      "property_type": "Semi-detached",
       "new_build": false
     }
   ]

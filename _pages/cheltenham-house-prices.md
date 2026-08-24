@@ -10,7 +10,7 @@ type: "house"
 ## Cheltenham house prices from Land Registry Price Paid Data
 
 <!-- land_registry starts -->
-Cheltenham has seen 1995 homes change hands over the past year, with the typical sale going for **£345,000**. Prices have ranged from £7,125 up to £7,050,000, averaging out at £457,856. Figures last updated 23 August 2026.
+Cheltenham has seen 1971 homes change hands over the past year, with the typical sale going for **£345,000**. Prices have ranged from £7,125 up to £7,050,000, averaging out at £457,145. Figures last updated 24 August 2026.
 <!-- land_registry ends -->
 
 Data covers residential sales registered with HM Land Registry. Recently completed sales may take 2-3 months to appear.
