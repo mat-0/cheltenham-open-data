@@ -10,11 +10,11 @@ permalink: /cheltenham-news
 ---
 
 <!-- news_marker starts -->
-- Meningitis survivor feels 'unstoppable' on UK run ([9 hours ago](https://www.bbc.co.uk/news/articles/cdrvr2y3mjgo?at_medium=RSS&at_campaign=rss))
-- CrossCountry cancels 'almost all' UK services after power cut ([13 hours ago](https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss))
-- Police hail 'dramatic' anti-social behaviour drop ([15 hours ago](https://www.bbc.co.uk/news/articles/c9w0wx5k1x2o?at_medium=RSS&at_campaign=rss))
-- Dental care offers street sex workers 'a lifeline' ([20 hours ago](https://www.bbc.co.uk/news/articles/c0ej3nr8nq1o?at_medium=RSS&at_campaign=rss))
-- Some parents 'unaware' summer-born children can defer school ([20 hours ago](https://www.bbc.co.uk/news/articles/c802g5dm29jo?at_medium=RSS&at_campaign=rss))
+- Meningitis survivor feels 'unstoppable' on UK run ([11 hours ago](https://www.bbc.co.uk/news/articles/cdrvr2y3mjgo?at_medium=RSS&at_campaign=rss))
+- CrossCountry cancels 'almost all' UK services after power cut ([15 hours ago](https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss))
+- Police hail 'dramatic' anti-social behaviour drop ([17 hours ago](https://www.bbc.co.uk/news/articles/c9w0wx5k1x2o?at_medium=RSS&at_campaign=rss))
+- Dental care offers street sex workers 'a lifeline' ([22 hours ago](https://www.bbc.co.uk/news/articles/c0ej3nr8nq1o?at_medium=RSS&at_campaign=rss))
+- Some parents 'unaware' summer-born children can defer school ([22 hours ago](https://www.bbc.co.uk/news/articles/c802g5dm29jo?at_medium=RSS&at_campaign=rss))
 - Man, 69, jailed after sexually abusing two girls ([1 days ago](https://www.bbc.co.uk/news/articles/cly8kyrwve3o?at_medium=RSS&at_campaign=rss))
 - 50-metre long painting captures Ukraine war response - video ([1 days ago](https://www.bbc.co.uk/news/videos/cx2j8yq2yxjo?at_medium=RSS&at_campaign=rss))
 - A40 bridge repair traffic concerns 'under review' ([1 days ago](https://www.bbc.co.uk/news/articles/czdm9pj026jo?at_medium=RSS&at_campaign=rss))
