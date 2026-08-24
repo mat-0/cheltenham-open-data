@@ -39,5 +39,25 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Hedges close to Craigmount and Homewood on Harp Hill are overgrowing pavement making it difficult for pedestrians, 24th August :- [9992970](https://www.fixmystreet.com/report/9992970)
+- Road sinkage, 24th August :- [9992877](https://www.fixmystreet.com/report/9992877)
+- TMC - Defects - Road Markings problem, 24th August :- [9993009](https://www.fixmystreet.com/report/9993009)
+- TMC - Defects -CW6 Potholes  problem, 24th August :- [9992806](https://www.fixmystreet.com/report/9992806)
+- The drain is blocked problem, 24th August :- [9992780](https://www.fixmystreet.com/report/9992780)
+- Large, sever bumps in surface, 24th August :- [9992647](https://www.fixmystreet.com/report/9992647)
+- Temp lights - no works, 24th August :- [9992611](https://www.fixmystreet.com/report/9992611)
+- Tree blocking road sign still., 24th August :- [9992591](https://www.fixmystreet.com/report/9992591)
+- TMC - Defects - Kerbs and Channels problem, 24th August :- [9992783](https://www.fixmystreet.com/report/9992783)
+- TMC - Defects -CW6 Potholes  problem, 24th August :- [9992784](https://www.fixmystreet.com/report/9992784)
+- Sink hole has started with a large dip in the road, 24th August :- [9992522](https://www.fixmystreet.com/report/9992522)
+- TMC - Defects -CW6 Potholes  problem, 24th August :- [9992578](https://www.fixmystreet.com/report/9992578)
+- TMC - Defects -CW6 Potholes  problem, 24th August :- [9992570](https://www.fixmystreet.com/report/9992570)
+- TMC - Defects - Footways Slabs problem, 24th August :- [9992576](https://www.fixmystreet.com/report/9992576)
+- TMC - Defects - Footways Slabs problem, 24th August :- [9992577](https://www.fixmystreet.com/report/9992577)
+- TMC - Defects -CW6 Potholes  problem, 24th August :- [9992572](https://www.fixmystreet.com/report/9992572)
+- TMC - Defects -CW6 Potholes  problem, 24th August :- [9992574](https://www.fixmystreet.com/report/9992574)
+- TMC - Defects -CW6 Potholes  problem, 24th August :- [9992571](https://www.fixmystreet.com/report/9992571)
+- TMC - Defects -CW6 Potholes  problem, 24th August :- [9992573](https://www.fixmystreet.com/report/9992573)
+- TMC - Defects -CW6 Potholes  problem, 24th August :- [9992575](https://www.fixmystreet.com/report/9992575)
 
 <!-- fix_marker ends -->

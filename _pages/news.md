@@ -10,11 +10,11 @@ permalink: /cheltenham-news
 ---
 
 <!-- news_marker starts -->
-- How will extreme weather affect our food? ([2 hours ago](https://www.bbc.co.uk/news/articles/cyvlrq487y2o?at_medium=RSS&at_campaign=rss))
-- 'Warrior' baby home after 304 days in hospital ([2 hours ago](https://www.bbc.co.uk/news/articles/c151epglpe2o?at_medium=RSS&at_campaign=rss))
-- Meningitis survivor feels 'unstoppable' on UK run ([13 hours ago](https://www.bbc.co.uk/news/articles/cdrvr2y3mjgo?at_medium=RSS&at_campaign=rss))
-- CrossCountry cancels 'almost all' UK services after power cut ([17 hours ago](https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss))
-- Police hail 'dramatic' anti-social behaviour drop ([19 hours ago](https://www.bbc.co.uk/news/articles/c9w0wx5k1x2o?at_medium=RSS&at_campaign=rss))
+- How will extreme weather affect our food? ([3 hours ago](https://www.bbc.co.uk/news/articles/cyvlrq487y2o?at_medium=RSS&at_campaign=rss))
+- 'Warrior' baby home after 304 days in hospital ([4 hours ago](https://www.bbc.co.uk/news/articles/c151epglpe2o?at_medium=RSS&at_campaign=rss))
+- Meningitis survivor feels 'unstoppable' on UK run ([15 hours ago](https://www.bbc.co.uk/news/articles/cdrvr2y3mjgo?at_medium=RSS&at_campaign=rss))
+- CrossCountry cancels 'almost all' UK services after power cut ([19 hours ago](https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss))
+- Police hail 'dramatic' anti-social behaviour drop ([21 hours ago](https://www.bbc.co.uk/news/articles/c9w0wx5k1x2o?at_medium=RSS&at_campaign=rss))
 - Dental care offers street sex workers 'a lifeline' ([1 days ago](https://www.bbc.co.uk/news/articles/c0ej3nr8nq1o?at_medium=RSS&at_campaign=rss))
 - Some parents 'unaware' summer-born children can defer school ([1 days ago](https://www.bbc.co.uk/news/articles/c802g5dm29jo?at_medium=RSS&at_campaign=rss))
 - Man, 69, jailed after sexually abusing two girls ([1 days ago](https://www.bbc.co.uk/news/articles/cly8kyrwve3o?at_medium=RSS&at_campaign=rss))
@@ -23,7 +23,7 @@ permalink: /cheltenham-news
 - Abuser jailed, a £1 ferry ride and top GCSE pupil ([2 days ago](https://www.bbc.co.uk/news/articles/cdew07d9z3xo?at_medium=RSS&at_campaign=rss))
 - Watch: Gloucester's Lewis Ludlow begins testimonial year ([2 days ago](https://www.bbc.co.uk/news/videos/c2k7l3jq55do?at_medium=RSS&at_campaign=rss))
 - King penguin chick hatches in UK heatwave ([2 days ago](https://www.bbc.co.uk/news/articles/clyj3yrerpeo?at_medium=RSS&at_campaign=rss))
-- Work begins to restore 'missing mile' of canal filled in for M5 ([2 days ago](https://www.bbc.co.uk/news/articles/cn7n0mkgy8lo?at_medium=RSS&at_campaign=rss))
+- Work begins to restore 'missing mile' of canal filled in for M5 ([3 days ago](https://www.bbc.co.uk/news/articles/cn7n0mkgy8lo?at_medium=RSS&at_campaign=rss))
 - Experts battling extinctions after record heat ([3 days ago](https://www.bbc.co.uk/news/articles/cvg0y0pxvnvo?at_medium=RSS&at_campaign=rss))
 - When is a water leak your responsibility? ([3 days ago](https://www.bbc.co.uk/news/articles/c3d3772v7kro?at_medium=RSS&at_campaign=rss))
 - Cricketers banned over 'irresponsible' fireworks ([3 days ago](https://www.bbc.co.uk/news/articles/cx2renn0mmgo?at_medium=RSS&at_campaign=rss))

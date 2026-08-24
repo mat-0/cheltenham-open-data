@@ -8,9 +8,9 @@ type: "house"
 ---
 
 <!-- planning_body starts -->
-As of 23 August 2026, this page tracks 12 planning applications submitted to Cheltenham Borough Council between 2026-08-18 and 2026-08-19, covering new housing developments, conversions to flats, and larger commercial schemes.
+As of 24 August 2026, this page tracks 15 planning applications submitted to Cheltenham Borough Council between 2026-08-18 and 2026-08-21, covering new housing developments, conversions to flats, and larger commercial schemes.
 
-Of these, 8 are pending consideration and 4 have reached a decision (approved, refused, or otherwise determined). Status is updated automatically as applications progress through the council's PublicAccess planning portal.
+Of these, 9 are pending consideration and 5 have reached a decision (approved, refused, or otherwise determined). Status is updated automatically as applications progress through the council's PublicAccess planning portal.
 
 An application reference beginning with a two-digit year (for example 26/00415/FUL) indicates the year it was submitted. FUL denotes a full planning application; OUT denotes an outline application, where only the principle of development is agreed at this stage and detailed matters are reserved for later approval.
 
