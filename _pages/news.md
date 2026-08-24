@@ -10,11 +10,11 @@ permalink: /cheltenham-news
 ---
 
 <!-- news_marker starts -->
-- How will extreme weather affect our food? ([5 hours ago](https://www.bbc.co.uk/news/articles/cyvlrq487y2o?at_medium=RSS&at_campaign=rss))
-- 'Warrior' baby home after 304 days in hospital ([5 hours ago](https://www.bbc.co.uk/news/articles/c151epglpe2o?at_medium=RSS&at_campaign=rss))
-- Meningitis survivor feels 'unstoppable' on UK run ([17 hours ago](https://www.bbc.co.uk/news/articles/cdrvr2y3mjgo?at_medium=RSS&at_campaign=rss))
-- CrossCountry cancels 'almost all' UK services after power cut ([20 hours ago](https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss))
-- Police hail 'dramatic' anti-social behaviour drop ([23 hours ago](https://www.bbc.co.uk/news/articles/c9w0wx5k1x2o?at_medium=RSS&at_campaign=rss))
+- How will extreme weather affect our food? ([8 hours ago](https://www.bbc.co.uk/news/articles/cyvlrq487y2o?at_medium=RSS&at_campaign=rss))
+- 'Warrior' baby home after 304 days in hospital ([8 hours ago](https://www.bbc.co.uk/news/articles/c151epglpe2o?at_medium=RSS&at_campaign=rss))
+- Meningitis survivor feels 'unstoppable' on UK run ([19 hours ago](https://www.bbc.co.uk/news/articles/cdrvr2y3mjgo?at_medium=RSS&at_campaign=rss))
+- CrossCountry cancels 'almost all' UK services after power cut ([23 hours ago](https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss))
+- Police hail 'dramatic' anti-social behaviour drop ([1 days ago](https://www.bbc.co.uk/news/articles/c9w0wx5k1x2o?at_medium=RSS&at_campaign=rss))
 - Dental care offers street sex workers 'a lifeline' ([1 days ago](https://www.bbc.co.uk/news/articles/c0ej3nr8nq1o?at_medium=RSS&at_campaign=rss))
 - Some parents 'unaware' summer-born children can defer school ([1 days ago](https://www.bbc.co.uk/news/articles/c802g5dm29jo?at_medium=RSS&at_campaign=rss))
 - Man, 69, jailed after sexually abusing two girls ([1 days ago](https://www.bbc.co.uk/news/articles/cly8kyrwve3o?at_medium=RSS&at_campaign=rss))
@@ -32,9 +32,8 @@ permalink: /cheltenham-news
 - BBC Radio Gloucestershire Special ([9 days ago](https://www.bbc.co.uk/sounds/play/m002hp4x?at_medium=RSS&at_campaign=rss))
 - England, Wales ([9 days ago](https://www.gov.uk/alerts/14-aug-2026-2))
 - Wales ([9 days ago](https://www.gov.uk/alerts/14-aug-2026))
-- Free family events at The Brewery Quarter in August ([9 days ago](https://cheltenhampost.co.uk/free-family-events-at-the-brewery-quarter-in-august/))
 - Review: The Choir of Man ([10 days ago](https://gloucesternewscentre.co.uk/review-the-choir-of-man/))
-- CCTV appeal following high-value theft from jewellers in Cheltenham ([12 days ago](https://gloucesternewscentre.co.uk/cctv-appeal-following-high-value-theft-from-jewellers-in-cheltenham/))
+- CCTV appeal following high-value theft from jewellers in Cheltenham ([13 days ago](https://gloucesternewscentre.co.uk/cctv-appeal-following-high-value-theft-from-jewellers-in-cheltenham/))
 - Reach New Heights This Summer at The Brewery Quarter with Free Family Events Throughout August ([18 days ago](https://cheltenhambid.co.uk/2026/08/06/reach-new-heights-this-summer-at-the-brewery-quarter-with-free-family-events-throughout-august/))
 - Concerns town looks ‘neglected’ ([23 days ago](https://gloucesternewscentre.co.uk/concerns-town-looks-neglected/))
 - Windows of Cav House to display artwork ([23 days ago](https://gloucesternewscentre.co.uk/windows-of-cav-house-to-display-artwork/))

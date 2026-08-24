@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
+ xmlns:atom="http://www.w3.org/2005/Atom"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
- xmlns:atom="http://www.w3.org/2005/Atom"
 >
 
 <channel>
@@ -15,184 +15,184 @@
 <atom:link href="https://www.fixmystreet.com/rss/l/51.897991,-2.071308/10" rel="self" type="application/rss+xml"/>
 
 <item>
-<title>Other issue with a footway/pavement problem, 24th August</title>
-<link>https://www.fixmystreet.com/report/9994073</link>
-<description>Please can you send a letter asking the home owner to carry out permanent repair to the missing aco channel cover  from there property this will be made safe on a 2 hour with barriers &#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9994073&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Other issue with a footway/pavement</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9994073</guid>
-<pubDate>Mon, 24 Aug 2026 11:50:40 +0100</pubDate>
-<georss:point>51.905013 -2.078604</georss:point>
+<title>TMC - Defects - Vegetation problem, 24th August</title>
+<link>https://www.fixmystreet.com/report/9995039</link>
+<description>Overgrown hedge obscuring FW / cycleway.&amp;#10;Please cut back to boundary &amp;#10;32m approx&amp;#10;Std TM with temp FW / cycleway closure (Overgrown Hedge)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9995039&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Vegetation</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9995039</guid>
+<pubDate>Mon, 24 Aug 2026 13:57:11 +0100</pubDate>
+<georss:point>51.8576214304593 -2.20077109493464</georss:point>
 </item>
 <item>
-<title>TMC - Defects -other CW6 problem, 24th August</title>
-<link>https://www.fixmystreet.com/report/9994079</link>
-<description>2  hour Give and take  make safe with x2 barriers and x2  footway closure boards  place  around missing acoo channel (CW6 Abrupt Level Differences )&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9994079&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -other CW6</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9994079</guid>
-<pubDate>Mon, 24 Aug 2026 11:47:32 +0100</pubDate>
-<georss:point>51.9050238135093 -2.07859473014897</georss:point>
+<title>TMC - Defects - Covers, Gratings &amp; Frames problem, 24th August</title>
+<link>https://www.fixmystreet.com/report/9995032</link>
+<description>Permanent Repair &amp;#10;Loose Cover&amp;#10;Please Reset &amp;#10;Road Closure (Broken Chamber Cover/Frame)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9995032&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Covers, Gratings &amp; Frames</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9995032</guid>
+<pubDate>Mon, 24 Aug 2026 13:56:29 +0100</pubDate>
+<georss:point>51.955732307867 -1.97018979173655</georss:point>
 </item>
 <item>
-<title>TMC - Defects -other CW6 problem, 24th August</title>
-<link>https://www.fixmystreet.com/report/9994075</link>
-<description>Road closure 28 days    carriage way depression 700x700x50mm (CW6 Rutting&amp;amp;Depressions)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9994075&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -other CW6</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9994075</guid>
-<pubDate>Mon, 24 Aug 2026 11:35:03 +0100</pubDate>
-<georss:point>51.907399 -2.07407490000001</georss:point>
+<title>TMC - Defects - Covers, Gratings &amp; Frames problem, 24th August</title>
+<link>https://www.fixmystreet.com/report/9995031</link>
+<description>EMERGENCY 2HOUR &amp;#10;Loose Cover&amp;#10;Please Make Safe &amp;#10;Temporary Road Closure/ 15MDB (Broken Chamber Cover/Frame)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9995031&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Covers, Gratings &amp; Frames</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9995031</guid>
+<pubDate>Mon, 24 Aug 2026 13:55:16 +0100</pubDate>
+<georss:point>51.9557381485752 -1.9702231374</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 24th August</title>
+<link>https://www.fixmystreet.com/report/9995016</link>
+<description>Road closure 28 days    carriage way pothole 300x300x40mm plus  x4 NSD (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9995016&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9995016</guid>
+<pubDate>Mon, 24 Aug 2026 13:44:15 +0100</pubDate>
+<georss:point>51.905241 -2.0791192</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 24th August</title>
+<link>https://www.fixmystreet.com/report/9995020</link>
+<description>Road closure 28 days    carriage way pothole 600x300x40mm plus  x8 NSD (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9995020&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9995020</guid>
+<pubDate>Mon, 24 Aug 2026 13:44:15 +0100</pubDate>
+<georss:point>51.9056573717705 -2.07876410529309</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 24th August</title>
+<link>https://www.fixmystreet.com/report/9995018</link>
+<description>Road closure 28 days    carriage way pothole 500x400x50mm plus  x4 NSD (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9995018&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9995018</guid>
+<pubDate>Mon, 24 Aug 2026 13:44:15 +0100</pubDate>
+<georss:point>51.9055153012629 -2.07893688630276</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 24th August</title>
+<link>https://www.fixmystreet.com/report/9995019</link>
+<description>Road closure 28 days    carriage way pothole 500x400x50mm plus  x1 NSD (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9995019&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9995019</guid>
+<pubDate>Mon, 24 Aug 2026 13:44:15 +0100</pubDate>
+<georss:point>51.9055376418123 -2.07889122884594</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 24th August</title>
+<link>https://www.fixmystreet.com/report/9995017</link>
+<description>Road closure 28 days    carriage way pothole 400x300x40mm  plus x2 NSD (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9995017&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9995017</guid>
+<pubDate>Mon, 24 Aug 2026 13:44:15 +0100</pubDate>
+<georss:point>51.9053118 -2.0790549</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 24th August</title>
+<link>https://www.fixmystreet.com/report/9995023</link>
+<description>NWD    carriage way pothole 15  minutes delay boards 600x300x75mm MAKE SAFE (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9995023&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9995023</guid>
+<pubDate>Mon, 24 Aug 2026 13:44:15 +0100</pubDate>
+<georss:point>51.9066 -2.078131</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 24th August</title>
+<link>https://www.fixmystreet.com/report/9995024</link>
+<description>Permanent repair closure 28 days    carriage way pothole 300x600x75mm (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9995024&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9995024</guid>
+<pubDate>Mon, 24 Aug 2026 13:44:15 +0100</pubDate>
+<georss:point>51.9065998 -2.07812180000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 24th August</title>
+<link>https://www.fixmystreet.com/report/9995021</link>
+<description>Permanent repair closure 28 days    carriage way pothole 900x600x70mm plus  x3 NSD (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9995021&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9995021</guid>
+<pubDate>Mon, 24 Aug 2026 13:44:15 +0100</pubDate>
+<georss:point>51.9063796 -2.078267</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 24th August</title>
+<link>https://www.fixmystreet.com/report/9995022</link>
+<description>NWD    carriage way pothole 15  minutes delay boards 900x600x70mm MAKE SAFE (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9995022&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9995022</guid>
+<pubDate>Mon, 24 Aug 2026 13:44:15 +0100</pubDate>
+<georss:point>51.9063932 -2.07824300000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 24th August</title>
+<link>https://www.fixmystreet.com/report/9995015</link>
+<description>Road closure 28 days    carriage way pothole 500x400x40mm (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9995015&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9995015</guid>
+<pubDate>Mon, 24 Aug 2026 13:42:45 +0100</pubDate>
+<georss:point>51.9023288 -2.0689667</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 24th August</title>
+<link>https://www.fixmystreet.com/report/9995014</link>
+<description>Road closure 28 days    carriage way pothole 400x400x40mm plus  x1 NSD (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9995014&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9995014</guid>
+<pubDate>Mon, 24 Aug 2026 13:42:45 +0100</pubDate>
+<georss:point>51.9027818930285 -2.06864240531701</georss:point>
+</item>
+<item>
+<title>Manhole cover sinking and brickwork falling out, 24th August</title>
+<link>https://www.fixmystreet.com/report/9994758</link>
+<description>GL51 3BN, lavender Road , infront of house number 9 OR 7&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9994758.0.jpeg?2b66c944&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 23, Lavender Road, Hatherley, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9994758&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Manhole cover - sunken, loose or rattling</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9994758</guid>
+<pubDate>Mon, 24 Aug 2026 13:28:13 +0100</pubDate>
+<georss:point>51.880619 -2.103583</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 24th August</title>
+<link>https://www.fixmystreet.com/report/9994809</link>
+<description>Give and take 28 days    carriage way pothole 1000x400x40mm plus  x2 NSD (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9994809&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9994809</guid>
+<pubDate>Mon, 24 Aug 2026 13:21:17 +0100</pubDate>
+<georss:point>51.9037799 -2.06071610000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 24th August</title>
+<link>https://www.fixmystreet.com/report/9994810</link>
+<description>Road closure 28 days    carriage way pothole 600x600x60mm plus  x3 NSD (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9994810&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9994810</guid>
+<pubDate>Mon, 24 Aug 2026 13:21:17 +0100</pubDate>
+<georss:point>51.9032466 -2.06099900000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Covers, Gratings &amp; Frames problem, 24th August</title>
+<link>https://www.fixmystreet.com/report/9994808</link>
+<description>Stats Required. &amp;#10;Gully Rebuild. &amp;#10;Framework Sinking Under Pressure. &amp;#10;Please rebuild level with CW. &amp;#10;Standard TM - Footway Closure - Alternative Footway Available (Broken Chamber Cover/Frame)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9994808&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Covers, Gratings &amp; Frames</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9994808</guid>
+<pubDate>Mon, 24 Aug 2026 13:16:11 +0100</pubDate>
+<georss:point>51.9617895034788 -1.96936021449746</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Signs &amp; Street Furniture problem, 24th August</title>
-<link>https://www.fixmystreet.com/report/9993838</link>
-<description>Give and take  28day  please reset x1 leaning bollard  approx 1200mm high  x300mm  stats required (Damaged Bollard)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9993838&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/9994563</link>
+<description>Damaged cycleway sign and post need retrieving. sign to be kept and post disposed of. make safe any hole left in footway or verge (Damaged Street Furniture)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9994563&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Signs &amp; Street Furniture</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9993838</guid>
-<pubDate>Mon, 24 Aug 2026 11:28:52 +0100</pubDate>
-<georss:point>51.9077803 -2.0738709</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9994563</guid>
+<pubDate>Mon, 24 Aug 2026 12:37:47 +0100</pubDate>
+<georss:point>51.9070366725847 -2.1264112578537</georss:point>
 </item>
 <item>
-<title>TMC - Defects -CW6 Potholes  problem, 24th August</title>
-<link>https://www.fixmystreet.com/report/9993836</link>
-<description>Pothole CW&amp;#10;500x400x50mm approx &amp;#10;Stop and go&amp;#10;Stats (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9993836&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9993836</guid>
-<pubDate>Mon, 24 Aug 2026 11:19:15 +0100</pubDate>
-<georss:point>51.8812506 -2.20586429999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 24th August</title>
-<link>https://www.fixmystreet.com/report/9993832</link>
-<description>15db&amp;#10;Pothole CW&amp;#10;400x400x60mm approx &amp;#10;Road closure with 15db&amp;#10;Stats (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9993832&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9993832</guid>
-<pubDate>Mon, 24 Aug 2026 11:05:46 +0100</pubDate>
-<georss:point>51.8811795 -2.20756130000001</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 24th August</title>
-<link>https://www.fixmystreet.com/report/9993829</link>
-<description>Road closure 28 days    carriage way pothole 500x400x50mm (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9993829&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9993829</guid>
-<pubDate>Mon, 24 Aug 2026 11:04:32 +0100</pubDate>
-<georss:point>51.9091426 -2.07766689999999</georss:point>
-</item>
-<item>
-<title>Dead leaning tree over pavement/road, 24th August</title>
-<link>https://www.fixmystreet.com/report/9993501</link>
-<description>On the northbound side of the B4634, 100m before the Boddington road turning (see dropped pin), there is a very dead tree which (when it falls) is right over the pavement and carriageway. It&amp;#39;s really obvious to spot.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Old Gloucester Road, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9993501&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Trees</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9993501</guid>
-<pubDate>Mon, 24 Aug 2026 11:00:38 +0100</pubDate>
-<georss:point>51.905065 -2.154922</georss:point>
-</item>
-<item>
-<title>Pothole in the pavement or footway problem, 24th August</title>
-<link>https://www.fixmystreet.com/report/9993557</link>
-<description>Please inspect footpath thanks&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9993557&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Pothole in the pavement or footway</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9993557</guid>
-<pubDate>Mon, 24 Aug 2026 10:51:10 +0100</pubDate>
-<georss:point>51.878728 -2.101508</georss:point>
-</item>
-<item>
-<title>Pothole in the road problem, 24th August</title>
-<link>https://www.fixmystreet.com/report/9993556</link>
-<description>Please inspect footway thanks &#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9993556&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Pothole in the road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9993556</guid>
-<pubDate>Mon, 24 Aug 2026 10:47:18 +0100</pubDate>
-<georss:point>51.879228 -2.102621</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 24th August</title>
-<link>https://www.fixmystreet.com/report/9993572</link>
-<description>Give and take  28 day  footway aburt level difference please lift and relay x1 sunken 600x600x20mm slab (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9993572&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9993572</guid>
-<pubDate>Mon, 24 Aug 2026 10:40:54 +0100</pubDate>
-<georss:point>51.9074218190533 -2.07870172874758</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 24th August</title>
-<link>https://www.fixmystreet.com/report/9993570</link>
-<description>Road closure 28 days    carriage way pothole 300x300x40mm plus  x4 NSD (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9993570&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9993570</guid>
-<pubDate>Mon, 24 Aug 2026 10:40:54 +0100</pubDate>
-<georss:point>51.9076230324798 -2.07863337400357</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 24th August</title>
-<link>https://www.fixmystreet.com/report/9993565</link>
-<description>Road closure 28 days    carriage way pothole 600x300x40mm plus x2 NSD (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9993565&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9993565</guid>
-<pubDate>Mon, 24 Aug 2026 10:40:54 +0100</pubDate>
-<georss:point>51.9080145 -2.07839839999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Footways Slabs problem, 24th August</title>
-<link>https://www.fixmystreet.com/report/9993571</link>
-<description>Give and take  28 days  please replace x1 broken  sunken 750x600x20mm slab around gas stop valve  footway closure (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9993571&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Footways Slabs</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9993571</guid>
-<pubDate>Mon, 24 Aug 2026 10:40:54 +0100</pubDate>
-<georss:point>51.9074191 -2.07872090000001</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 24th August</title>
-<link>https://www.fixmystreet.com/report/9993563</link>
-<description>Give and take  28 day  footway aburt level difference please lift and relay x1 sunken 600x600x20mm slab (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9993563&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9993563</guid>
-<pubDate>Mon, 24 Aug 2026 10:40:54 +0100</pubDate>
-<georss:point>51.9079284 -2.07838879999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 24th August</title>
-<link>https://www.fixmystreet.com/report/9993574</link>
-<description>Road closure 28 days    carriage way pothole 400x300x40mm plus  x4 NSD (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9993574&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9993574</guid>
-<pubDate>Mon, 24 Aug 2026 10:40:54 +0100</pubDate>
-<georss:point>51.9072886 -2.0788186</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 24th August</title>
-<link>https://www.fixmystreet.com/report/9993573</link>
-<description>Road closure 28 days    carriage way pothole 700x300x40mm plus  x5 NSD (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9993573&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9993573</guid>
-<pubDate>Mon, 24 Aug 2026 10:40:54 +0100</pubDate>
-<georss:point>51.9073428 -2.07875729999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 24th August</title>
-<link>https://www.fixmystreet.com/report/9993564</link>
-<description>Give and take  28 day  footway aburt level difference please lift and relay x1 sunken 900x600x20mm slab (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9993564&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9993564</guid>
-<pubDate>Mon, 24 Aug 2026 10:40:54 +0100</pubDate>
-<georss:point>51.9079101311999 -2.07834685245081</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 24th August</title>
-<link>https://www.fixmystreet.com/report/9993566</link>
-<description>Road closure 28 days    carriage way pothole 500x300x40mm (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9993566&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9993566</guid>
-<pubDate>Mon, 24 Aug 2026 10:40:54 +0100</pubDate>
-<georss:point>51.9078197 -2.0784968</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 24th August</title>
-<link>https://www.fixmystreet.com/report/9993569</link>
-<description>Give and take  28 day  footway aburt level difference please lift and relay x1 sunken 750x600x20mm slab (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9993569&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9993569</guid>
-<pubDate>Mon, 24 Aug 2026 10:40:54 +0100</pubDate>
-<georss:point>51.9076467 -2.0785695</georss:point>
+<title>Branches low - dangerous to pedestrians / cars, 24th August</title>
+<link>https://www.fixmystreet.com/report/9994145</link>
+<description>Tree outside front fence of 188 Hewlett Road Encroaching on garden of house and presenting danger to pedestrians, cars and their passengers.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9994145.0.jpeg?aa41661a&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 186, Hewlett Road, Battledown, Cheltenham, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9994145&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Tree causing damage/obstruction to pavement or road</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9994145</guid>
+<pubDate>Mon, 24 Aug 2026 12:12:50 +0100</pubDate>
+<georss:point>51.901426 -2.057489</georss:point>
 </item>
 </channel>
 </rss>
