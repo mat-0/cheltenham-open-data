@@ -39,6 +39,11 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Car outside property unmoved, 24th August :- [9997399](https://www.fixmystreet.com/report/9997399)
+- Hidden signage on road, 24th August :- [9997337](https://www.fixmystreet.com/report/9997337)
+- Pronounced drop in surface on cycle path, 24th August :- [9997303](https://www.fixmystreet.com/report/9997303)
+- Blocked drain, 24th August :- [9997178](https://www.fixmystreet.com/report/9997178)
+- Sandbags left on site, 24th August :- [9997159](https://www.fixmystreet.com/report/9997159)
 - Fly tipping, 24th August :- [9996914](https://www.fixmystreet.com/report/9996914)
 - Dead street tree on the corner of Albert St and St Paul’s Road, 24th August :- [9996816](https://www.fixmystreet.com/report/9996816)
 - Multiple flytippped items rear of Albert St, 24th August :- [9996791](https://www.fixmystreet.com/report/9996791)
@@ -53,11 +58,6 @@ over time but remain permanently viewable on FixMyStreet itself.
 - Pavement crossing blocked, 24th August :- [9995844](https://www.fixmystreet.com/report/9995844)
 - There are at least 5 adjacent drains at the junctions of Hewlett Road, All Saints Terrace and Ariel Lodge Road that are blocked resulting in the flooding in the attached photgraphs after only 10 mins of rain, 24th August :- [9995787](https://www.fixmystreet.com/report/9995787)
 - TMC - Defects -FW6 Potholes problem, 24th August :- [9995864](https://www.fixmystreet.com/report/9995864)
-- TMC - Defects -FW6 Potholes problem, 24th August :- [9995861](https://www.fixmystreet.com/report/9995861)
-- TMC - Defects -FW6 Potholes problem, 24th August :- [9995865](https://www.fixmystreet.com/report/9995865)
-- TMC - Defects - Other FW6  Surface problem, 24th August :- [9995867](https://www.fixmystreet.com/report/9995867)
-- TMC - Defects -FW6 Potholes problem, 24th August :- [9995859](https://www.fixmystreet.com/report/9995859)
-- TMC - Defects - Other FW6  Surface problem, 24th August :- [9995868](https://www.fixmystreet.com/report/9995868)
 - TMC - Defects - Other FW6  Surface problem, 24th August :- [9995866](https://www.fixmystreet.com/report/9995866)
 
 <!-- fix_marker ends -->
