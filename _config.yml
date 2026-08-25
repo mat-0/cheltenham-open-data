@@ -120,6 +120,9 @@ navigation_header:
   - name: Cheltenham Helplines and Contacts
     link: /cheltenham-helpful-contacts-reports
     description: "Help and support contact numbers and links."
+  - name: Cheltenham Recycling
+    link: /cheltenham-recycling
+    description: "Cheltenham recycling guide and bank locations."
   - name: Cheltenham Fix My Street
     link: /cheltenham-fix-my-street
     description: "Local street issues and reports."
@@ -168,6 +171,8 @@ footer_columns:
         link: /cheltenham-post-office-locations
       - name: Cheltenham Public Holidays
         link: /cheltenham-public-holidays
+      - name: Cheltenham Recycling
+        link: /cheltenham-recycling
       - name: Cheltenham Security Alerts
         link: /cheltenham-security-alerts
 

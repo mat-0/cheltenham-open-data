@@ -8,6 +8,7 @@ from requests import get
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
 
+
 def replace_chunk(content, marker, chunk):
     replacer = re.compile(
         r"<!\-\- {} starts \-\->.*<!\-\- {} ends \-\->".format(marker, marker),
@@ -40,23 +41,6 @@ def get_data(endpoint):
         print(response.status_code)
         print(f"Request failed: { response.text }")
     return response.json()
-
-def replace_chunk(content, marker, chunk):
-    replacer = re.compile(
-        r"<!\-\- {} starts \-\->.*<!\-\- {} ends \-\->".format(marker, marker),
-        re.DOTALL,
-    )
-    chunk = "<!-- {} starts -->\n{}\n<!-- {} ends -->".format(marker, chunk, marker)
-    return replacer.sub(chunk, content)
-
-# Replacer function
-def replace_chunk(content, marker, chunk):
-    replacer = re.compile(
-        r"<!\-\- {} starts \-\->.*<!\-\- {} ends \-\->".format(marker, marker),
-        re.DOTALL,
-    )
-    chunk = "<!-- {} starts -->\n{}\\n<!-- {} ends -->".format(marker, chunk, marker)
-    return replacer.sub(chunk, content)
 
 def fetch_flood_data():
     url = "https://environment.data.gov.uk/flood-monitoring/id/floods"
