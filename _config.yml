@@ -188,6 +188,8 @@ footer_columns:
         link: /.well-known/security.txt
       - name: Sitemap
         link: /sitemap.xml
+      - name: LLMS
+        link: /llms.txt
 
   - title: About
     links:

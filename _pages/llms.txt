@@ -9,22 +9,37 @@ permalink: /llms.txt
 
 ## Data pages
 
-- [Latest News](https://cheltenham-od.uk/cheltenham-news): Local news for Cheltenham and Gloucestershire.
-- [Helplines and Contacts](https://cheltenham-od.uk/cheltenham-helpful-contacts-reports): Helpful contacts and reporting information.
-- [Cheapest Fuel Prices](https://cheltenham-od.uk/cheltenham-fuel-prices): Current cheapest local fuel prices.
-- [House Prices](https://cheltenham-od.uk/cheltenham-house-prices): Local house price data.
-- [Fix My Street](https://cheltenham-od.uk/cheltenham-fix-my-street): Reports of local street issues.
-- [Flood Warnings](https://cheltenham-od.uk/cheltenham-flood-warnings): Current flood warnings for the area.
-- [Food Bank](https://cheltenham-od.uk/cheltenham-foodbank-needed-items): Currently needed food bank items.
+- [Latest News](https://cheltenham-od.uk/cheltenham-news): Local news aggregation in a simple view.
+- [Classifieds](https://cheltenham-od.uk/cheltenham-classifieds): Local jobs, services, items for sale, and community notices.
+- [Helplines and Contacts](https://cheltenham-od.uk/cheltenham-helpful-contacts-reports): Help and support contact numbers and links.
+- [Cheapest Fuel Prices](https://cheltenham-od.uk/cheltenham-fuel-prices): Local and cheapest fuel pricing data from 112 forecourts.
+- [House Prices](https://cheltenham-od.uk/cheltenham-house-prices): Local house prices data from Land Registry and ONS.
+- [Planning Applications](https://cheltenham-od.uk/cheltenham-planning-applications): Local planning applications from Cheltenham Borough Council.
+- [GP and Pharmacies](https://cheltenham-od.uk/cheltenham-gp-pharmacies): Find GP practices and pharmacies in Cheltenham.
+- [Post Office Locations](https://cheltenham-od.uk/cheltenham-post-office-locations): Find Post Offices in Cheltenham.
+- [Fix My Street](https://cheltenham-od.uk/cheltenham-fix-my-street): Local street issues and reports.
+- [Flood Warnings](https://cheltenham-od.uk/cheltenham-flood-warnings): Local flood warnings and alerts.
+- [Air Quality](https://cheltenham-od.uk/cheltenham-air-quality): Local area air quality readings for Cheltenham.
+- [Food Bank](https://cheltenham-od.uk/cheltenham-foodbank-needed-items): Local foodbanks and their needed items.
+- [Public Holidays](https://cheltenham-od.uk/cheltenham-public-holidays): Confirmed public holidays.
+- [Security Alerts](https://cheltenham-od.uk/cheltenham-security-alerts): National threat level from MI5, relevant given proximity to GCHQ, and Government Alerts.
 
 ## Feeds & data sources
 
 - [Sitemap](https://cheltenham-od.uk/sitemap.xml): Full list of site URLs.
-- [Flood feed](https://cheltenham-od.uk/flood.xml): Flood warnings feed (XML).
-- [Daily RSS](https://cheltenham-od.uk/daily.rss): Daily updates feed (RSS).
+- [Announcements Feed](https://cheltenham-od.uk/feeds/main.xml): Site announcements feed (Atom).
+- [Flood Warnings Feed](https://cheltenham-od.uk/feeds/flood.xml): Flood warnings feed (Atom).
+- [Daily News Summary Feed](https://cheltenham-od.uk/feeds/news-summary.xml): Daily news updates feed (Atom).
+- [Cheltenham Classifieds Feed](https://cheltenham-od.uk/feeds/classifieds.xml): Classifieds feed (Atom).
 
 ## Other
 
 - [Weather](https://cheltenham-od.uk/): Daily weather summary (temperature, wind, visibility, pressure, humidity, sunrise/sunset).
 - [Farmers Market dates](https://cheltenham-od.uk/): 2nd and last Friday monthly (Jan–Nov); 2nd and 3rd Friday in December.
-- [MI5 Threat Level](https://cheltenham-od.uk/): National threat level, relevant given proximity to GCHQ.
+- [News](https://cheltenham-od.uk/news): Site news.
+- [About](https://cheltenham-od.uk/about): About Cheltenham Open Data.
+- [Contact](https://cheltenham-od.uk/contact): Contact the site.
+- [Submit Classified Advert](https://cheltenham-od.uk/submission): Submit a classified advert.
+- [Privacy](https://cheltenham-od.uk/.well-known/privacy.txt): Privacy information.
+- [Security](https://cheltenham-od.uk/.well-known/security.txt): Security disclosure information.
+- [Site by thechels.uk](https://thechels.uk): Site author.
