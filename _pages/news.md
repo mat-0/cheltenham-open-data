@@ -10,11 +10,11 @@ permalink: /cheltenham-news
 ---
 
 <!-- news_marker starts -->
-- New £12m cancer centre reaches 'significant milestone' ([6 hours ago](https://www.bbc.co.uk/news/articles/crl6rd39lero?at_medium=RSS&at_campaign=rss))
-- Volunteers help to restore 'missing mile' canal ([8 hours ago](https://www.bbc.co.uk/news/videos/cd68ygl16l0o?at_medium=RSS&at_campaign=rss))
-- Hope restoring historic ponds will boost wildlife ([11 hours ago](https://www.bbc.co.uk/news/articles/c5ymk0vxe5lo?at_medium=RSS&at_campaign=rss))
-- How will extreme weather affect our food? ([20 hours ago](https://www.bbc.co.uk/news/articles/cyvlrq487y2o?at_medium=RSS&at_campaign=rss))
-- 'Warrior' baby home after 304 days in hospital ([20 hours ago](https://www.bbc.co.uk/news/articles/c151epglpe2o?at_medium=RSS&at_campaign=rss))
+- New £12m cancer centre reaches 'significant milestone' ([10 hours ago](https://www.bbc.co.uk/news/articles/crl6rd39lero?at_medium=RSS&at_campaign=rss))
+- Volunteers help to restore 'missing mile' canal ([12 hours ago](https://www.bbc.co.uk/news/videos/cd68ygl16l0o?at_medium=RSS&at_campaign=rss))
+- Hope restoring historic ponds will boost wildlife ([15 hours ago](https://www.bbc.co.uk/news/articles/c5ymk0vxe5lo?at_medium=RSS&at_campaign=rss))
+- How will extreme weather affect our food? ([23 hours ago](https://www.bbc.co.uk/news/articles/cyvlrq487y2o?at_medium=RSS&at_campaign=rss))
+- 'Warrior' baby home after 304 days in hospital ([23 hours ago](https://www.bbc.co.uk/news/articles/c151epglpe2o?at_medium=RSS&at_campaign=rss))
 - Meningitis survivor feels 'unstoppable' on UK run ([1 days ago](https://www.bbc.co.uk/news/articles/cdrvr2y3mjgo?at_medium=RSS&at_campaign=rss))
 - CrossCountry cancels 'almost all' UK services after power cut ([1 days ago](https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss))
 - Police hail 'dramatic' anti-social behaviour drop ([1 days ago](https://www.bbc.co.uk/news/articles/c9w0wx5k1x2o?at_medium=RSS&at_campaign=rss))
@@ -32,7 +32,6 @@ permalink: /cheltenham-news
 - BBC Radio Gloucestershire Special ([10 days ago](https://www.bbc.co.uk/sounds/play/m002hp4x?at_medium=RSS&at_campaign=rss))
 - England, Wales ([10 days ago](https://www.gov.uk/alerts/14-aug-2026-2))
 - Wales ([10 days ago](https://www.gov.uk/alerts/14-aug-2026))
-- Free family events at The Brewery Quarter in August ([10 days ago](https://cheltenhampost.co.uk/free-family-events-at-the-brewery-quarter-in-august/))
 - Review: The Choir of Man ([10 days ago](https://gloucesternewscentre.co.uk/review-the-choir-of-man/))
 - CCTV appeal following high-value theft from jewellers in Cheltenham ([13 days ago](https://gloucesternewscentre.co.uk/cctv-appeal-following-high-value-theft-from-jewellers-in-cheltenham/))
 - Reach New Heights This Summer at The Brewery Quarter with Free Family Events Throughout August ([18 days ago](https://cheltenhambid.co.uk/2026/08/06/reach-new-heights-this-summer-at-the-brewery-quarter-with-free-family-events-throughout-august/))
