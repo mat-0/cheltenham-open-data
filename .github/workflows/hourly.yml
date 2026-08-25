@@ -55,16 +55,20 @@ jobs:
               env:
                   OPEN_WEATHER_KEY: ${{ secrets.OPEN_WEATHER_KEY }}
               run: |-
-                  python '_python/fix-my-street.py'
-                  python '_python/foodbank.py'
-                  python '_python/flood.py'
-                  python '_python/terrorism.py'
                   python '_python/weather.py'
+
                   python '_python/news.py'
-                  python '_python/air-quality.py'
-                  python '_python/pharmacy.py'
                   python '_python/land_registry.py'
                   python '_python/planning.py'
+                  python '_python/pharmacy.py'
+                  python '_python/post-office.py'
+
+                  python '_python/recycling.py'
+                  python '_python/fix-my-street.py'
+                  python '_python/flood.py'
+                  python '_python/air-quality.py'
+                  python '_python/foodbank.py'
+                  python '_python/terrorism.py'
 
             - name: Commit and push if changed
               id: commit
