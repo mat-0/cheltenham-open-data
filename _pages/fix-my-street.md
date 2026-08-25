@@ -58,6 +58,6 @@ over time but remain permanently viewable on FixMyStreet itself.
 - Car abandoned in lay by blocking view, 24th August :- [9995872](https://www.fixmystreet.com/report/9995872)
 - Pavement crossing blocked, 24th August :- [9995844](https://www.fixmystreet.com/report/9995844)
 - There are at least 5 adjacent drains at the junctions of Hewlett Road, All Saints Terrace and Ariel Lodge Road that are blocked resulting in the flooding in the attached photgraphs after only 10 mins of rain, 24th August :- [9995787](https://www.fixmystreet.com/report/9995787)
-- TMC - Defects -FW6 Potholes problem, 24th August :- [9995860](https://www.fixmystreet.com/report/9995860)
+- TMC - Defects - Other FW6  Surface problem, 24th August :- [9995867](https://www.fixmystreet.com/report/9995867)
 
 <!-- fix_marker ends -->

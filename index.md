@@ -8,13 +8,13 @@ description: "Collecting and sharing frequently updated local open data for Chel
 ---
 
 <!-- weather_marker starts -->
-## On Monday, 24 August 2026
+## On Tuesday, 25 August 2026
 
-- The average temperature today is 16.34˚C,
-- With highs of 16.91˚C and lows of 15.4˚C,
-- It may feel like 15.73˚C with broken clouds
-- The wind speed is 3.13m/s and visibility is 10000m
-- The pressure is 1015hPa and humidity is 65%
+- The average temperature today is 15.43˚C,
+- With highs of 16.33˚C and lows of 14.57˚C,
+- It may feel like 14.96˚C with broken clouds
+- The wind speed is 1.79m/s and visibility is 10000m
+- The pressure is 1015hPa and humidity is 74%
 - The sun will rise at 05:08 and set at 19:12
 
 <!-- weather_marker ends -->

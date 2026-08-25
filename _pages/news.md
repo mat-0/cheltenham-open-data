@@ -10,11 +10,11 @@ permalink: /cheltenham-news
 ---
 
 <!-- news_marker starts -->
-- New £12m cancer centre reaches 'significant milestone' ([4 hours ago](https://www.bbc.co.uk/news/articles/crl6rd39lero?at_medium=RSS&at_campaign=rss))
-- Volunteers help to restore 'missing mile' canal ([6 hours ago](https://www.bbc.co.uk/news/videos/cd68ygl16l0o?at_medium=RSS&at_campaign=rss))
-- Hope restoring historic ponds will boost wildlife ([9 hours ago](https://www.bbc.co.uk/news/articles/c5ymk0vxe5lo?at_medium=RSS&at_campaign=rss))
-- How will extreme weather affect our food? ([17 hours ago](https://www.bbc.co.uk/news/articles/cyvlrq487y2o?at_medium=RSS&at_campaign=rss))
-- 'Warrior' baby home after 304 days in hospital ([17 hours ago](https://www.bbc.co.uk/news/articles/c151epglpe2o?at_medium=RSS&at_campaign=rss))
+- New £12m cancer centre reaches 'significant milestone' ([6 hours ago](https://www.bbc.co.uk/news/articles/crl6rd39lero?at_medium=RSS&at_campaign=rss))
+- Volunteers help to restore 'missing mile' canal ([8 hours ago](https://www.bbc.co.uk/news/videos/cd68ygl16l0o?at_medium=RSS&at_campaign=rss))
+- Hope restoring historic ponds will boost wildlife ([11 hours ago](https://www.bbc.co.uk/news/articles/c5ymk0vxe5lo?at_medium=RSS&at_campaign=rss))
+- How will extreme weather affect our food? ([20 hours ago](https://www.bbc.co.uk/news/articles/cyvlrq487y2o?at_medium=RSS&at_campaign=rss))
+- 'Warrior' baby home after 304 days in hospital ([20 hours ago](https://www.bbc.co.uk/news/articles/c151epglpe2o?at_medium=RSS&at_campaign=rss))
 - Meningitis survivor feels 'unstoppable' on UK run ([1 days ago](https://www.bbc.co.uk/news/articles/cdrvr2y3mjgo?at_medium=RSS&at_campaign=rss))
 - CrossCountry cancels 'almost all' UK services after power cut ([1 days ago](https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss))
 - Police hail 'dramatic' anti-social behaviour drop ([1 days ago](https://www.bbc.co.uk/news/articles/c9w0wx5k1x2o?at_medium=RSS&at_campaign=rss))

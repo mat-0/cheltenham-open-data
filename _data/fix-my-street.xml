@@ -186,13 +186,13 @@
 <georss:point>51.901295 -2.060951</georss:point>
 </item>
 <item>
-<title>TMC - Defects -FW6 Potholes problem, 24th August</title>
-<link>https://www.fixmystreet.com/report/9995860</link>
-<description>Pothole FW&amp;#10;200x200x20mm&amp;#10;Std TM with temp FW closure &amp;#10;Stats (FW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9995860&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -FW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9995860</guid>
+<title>TMC - Defects - Other FW6  Surface problem, 24th August</title>
+<link>https://www.fixmystreet.com/report/9995867</link>
+<description>Abrupt level difference FW &amp;#10;700x100x25mm&amp;#10;Std TM with temp FW closure &amp;#10;Stats (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9995867&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9995867</guid>
 <pubDate>Mon, 24 Aug 2026 15:52:17 +0100</pubDate>
-<georss:point>51.8821408 -2.1719957</georss:point>
+<georss:point>51.8825661 -2.17174360000001</georss:point>
 </item>
 </channel>
 </rss>

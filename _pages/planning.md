@@ -8,7 +8,7 @@ type: "house"
 ---
 
 <!-- planning_body starts -->
-As of 24 August 2026, this page tracks 16 planning applications submitted to Cheltenham Borough Council between 2026-08-18 and 2026-08-21, covering new housing developments, conversions to flats, and larger commercial schemes.
+As of 25 August 2026, this page tracks 16 planning applications submitted to Cheltenham Borough Council between 2026-08-18 and 2026-08-21, covering new housing developments, conversions to flats, and larger commercial schemes.
 
 Of these, 9 are pending consideration and 7 have reached a decision (approved, refused, or otherwise determined). Status is updated automatically as applications progress through the council's PublicAccess planning portal.
 
