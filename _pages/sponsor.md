@@ -51,6 +51,8 @@ what you do, and a link. Our standard rate once the founding places are gone.
 
 Primary position just below the main heading on every key data page. As the sponsor of the site you can provide an editorial advert/copy posted in the site announcements. Bringing brand awareness to all visitors. One firm only. [Sponsor the site today &rarr;](https://buy.stripe.com/aFa8wP30b2jSdBZfi64Vy04)
 
+> By sponsoring you agree to our a [Sponsorship Terms](/sponsor/terms)
+
 ## Pages you can sponsor
 
 | Page | Ideal for |
