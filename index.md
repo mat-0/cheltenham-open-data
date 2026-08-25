@@ -35,11 +35,11 @@ description: "Collecting and sharing frequently updated local open data for Chel
 
 ## Sponsors & Offers
 
-- [Get £50 credit when switching to Octopus Energy](https://bit.ly/3oD1nnS)
-- [Get up to £100 cashback when taking a YouFibre broadband plan with code 5QGYSF](https://youfibre.com)
-- [Get £5 free credit when you join the Electroverse](https://electroverse.octopus.energy/sign-up/magic?referralCode=aglow-louse-16571)
-- [Get a £25 Visa card when you install an EV charger with Octopus](https://tech.referrals.octopus.energy/ulLGI6SC)
-- [Choose a gift card up to £20 when you join Smarty Mobile](https://i.smarty.co.uk/CSj6iK)
-- [Get £20, £50 or £100 free when you join Monzo bank](https://join.monzo.com/c/k7stxxwv)
+{% assign offers = site.data.offers.offers %}
+{% assign offer_count = offers | size %}
+{% assign random_index = "now" | date: "%N" | modulo: offer_count %}
+{% assign offer = offers[random_index] %}
+
+> **{{ offer.Name }}**: [{{ offer.Label }}]({{ offer.link }})
 
 Note: _Terms and Conditions apply - see offer for details_.
