@@ -7,6 +7,17 @@ description: "Needed items for Cheltenham foodbanks"
 type: "food"
 ---
 
+A live list of the food and essential items most needed by food banks in Cheltenham, Gloucestershire — updated regularly so your donations go where they're needed today.
+
+If you'd like to help people facing hardship in Cheltenham, this page shows exactly what local food banks are currently short of. Rather than guessing, you can check here before you shop and donate the items that are in shortest supply right now.
+
+We track needs for two local organisations:
+
+- Cheltenham Foodbank (part of the Trussell network, based at Cheltenham Elim Church) — food and toiletries for people referred in crisis.
+- Cheltenham Open Door (an independent charity supporting rough sleepers and vulnerable people) — food, clothing, toiletries, and practical items.
+
+Donations can be dropped at the addresses listed against each food bank below, or bought online via their shopping lists. Lists are updated as needs change.
+
 <!-- summary1_marker starts -->
 ## List of needed items in Cheltenham
 
