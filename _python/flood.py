@@ -36,12 +36,17 @@ if __name__ == "__main__":
 
     root_el = ET.fromstring(content)
 
-    output = ""
-    for entry in root_el.findall(f"./{ATOM_NS}entry"):
-        title = entry.find(f"{ATOM_NS}title").text
-        summary = entry.find(f"{ATOM_NS}summary").text
-        output += f"- {title}\n"
-        output += f"- {summary}\n"
+    entries = root_el.findall(f"./{ATOM_NS}entry")
+
+    if not entries:
+        output = "> No current flood warnings reports in this area\n"
+    else:
+        output = ""
+        for entry in entries:
+            title = entry.find(f"{ATOM_NS}title").text
+            summary = entry.find(f"{ATOM_NS}summary").text
+            output += f"- {title}\n"
+            output += f"- {summary}\n"
 
     md = root / "_pages/flood-warnings.md"
     md_contents = md.open().read()
