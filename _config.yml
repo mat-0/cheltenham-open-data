@@ -193,7 +193,7 @@ footer_columns:
 
   - title: About
     links:
-      - name: News
+      - name: News &amp; Announcements
         link: /news
       - name: About
         link: /about
@@ -201,3 +201,13 @@ footer_columns:
         link: /contact
       - name: Submit Classified Advert
         link: /submission
+      - name: Sponsorship
+        link: /sponsor
+      - name: Sponsorship Terms
+        link: /sponsor/terms
+
+sponsor:
+  url: "/sponsor"
+  logo: "/images/sponsors/logo.png"
+  name: "Your Local Business Here  - 01242 000000"
+  tagline: "Sponsor this page with your local business from £50/m as a founding sponsor &rarr;"

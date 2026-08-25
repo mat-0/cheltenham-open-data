@@ -33,13 +33,8 @@ description: "Collecting and sharing frequently updated local open data for Chel
 - [Currently there are {{ count }} live classifieds](/cheltenham-classifieds)
 - [Add yours](/submission)
 
-## Sponsors & Offers
+{% include referral.html %}
 
-{% assign offers = site.data.offers.offers %}
-{% assign offer_count = offers | size %}
-{% assign random_index = "now" | date: "%N" | modulo: offer_count %}
-{% assign offer = offers[random_index] %}
+## Sponsorships Available
 
-> **{{ offer.Name }}**: [{{ offer.Label }}]({{ offer.link }})
-
-Note: _Terms and Conditions apply - see offer for details_.
+{% include sponsor.html sponsor=page.sponsor %}

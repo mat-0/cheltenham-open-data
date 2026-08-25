@@ -1,0 +1,14 @@
+{% assign sponsor = include.sponsor | default: site.sponsor %}
+{% if sponsor %}
+
+<aside class="sponsor-card">
+    <span class="sponsor-card__eyebrow">Page supported by</span>
+    <a href="{{ sponsor.url }}" rel="sponsored noopener" target="_blank">
+        <img class="sponsor-card__logo" src="{{ sponsor.logo }}" alt="{{ sponsor.name }}">
+        <span class="sponsor-card__text">
+            <strong>{{ sponsor.name }}</strong>
+            {{ sponsor.tagline }}
+        </span>
+    </a>
+</aside>
+{% endif %}
