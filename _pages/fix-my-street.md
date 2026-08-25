@@ -39,6 +39,18 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Footway closed with no safe alternative provided, 25th August :- [10003133](https://www.fixmystreet.com/report/10003133)
+- Grass verge between 50 Richmond Gardens and Brooklands Park Longlevend, 25th August :- [10003030](https://www.fixmystreet.com/report/10003030)
+- Waymarkers missing from bridge, 25th August :- [10002992](https://www.fixmystreet.com/report/10002992)
+- Road Surface under the bridge a danger to road users, 25th August :- [10002735](https://www.fixmystreet.com/report/10002735)
+- Vegetation covering speed limit sign, 25th August :- [10002724](https://www.fixmystreet.com/report/10002724)
+- Road gutters need sweeping, 25th August :- [10002696](https://www.fixmystreet.com/report/10002696)
+- New kerb broken, 25th August :- [10002601](https://www.fixmystreet.com/report/10002601)
+- The drain outside number 5 Horsefair Street is blocked., 25th August :- [10002545](https://www.fixmystreet.com/report/10002545)
+- This silver birch tree has died this year. We wondered if this could be removed and another one planted in its place by the council., 25th August :- [10002093](https://www.fixmystreet.com/report/10002093)
+- More fly tipping, same location as always, 25th August :- [10002039](https://www.fixmystreet.com/report/10002039)
+- Sign leaning over, 25th August :- [10001982](https://www.fixmystreet.com/report/10001982)
+- 10 inch, 25th August :- [10001746](https://www.fixmystreet.com/report/10001746)
 - Misleading signage, 25th August :- [10001444](https://www.fixmystreet.com/report/10001444)
 - Flooded path, 25th August :- [10001433](https://www.fixmystreet.com/report/10001433)
 - Cover saying "Danger of Death" has come off the box on the pavement by a lamppost, 25th August :- [10000502](https://www.fixmystreet.com/report/10000502)
@@ -47,17 +59,5 @@ over time but remain permanently viewable on FixMyStreet itself.
 - TMC - Defects -CW6 Potholes  problem, 25th August :- [10001350](https://www.fixmystreet.com/report/10001350)
 - Pole snapped off 3" below ground level, 25th August :- [10001128](https://www.fixmystreet.com/report/10001128)
 - TMC - Defects - Other FW6  Surface problem, 25th August :- [10001177](https://www.fixmystreet.com/report/10001177)
-- TMC - Defects - Vegetation problem, 25th August :- [10001172](https://www.fixmystreet.com/report/10001172)
-- Lots of debris on many of the drains on the lower side of street. The SW side., 25th August :- [10001090](https://www.fixmystreet.com/report/10001090)
-- TMC - Defects - Vegetation problem, 25th August :- [10001165](https://www.fixmystreet.com/report/10001165)
-- TMC - Defects - Covers, Gratings & Frames problem, 25th August :- [10001156](https://www.fixmystreet.com/report/10001156)
-- TMC - Defects -other CW10 problem, 25th August :- [10001155](https://www.fixmystreet.com/report/10001155)
-- TMC - Defects - Other FW6  Surface problem, 25th August :- [10000960](https://www.fixmystreet.com/report/10000960)
-- TMC - Defects - Kerbs and Channels problem, 25th August :- [10000956](https://www.fixmystreet.com/report/10000956)
-- TMC - Defects - Road Markings problem, 25th August :- [10000952](https://www.fixmystreet.com/report/10000952)
-- Fly tipping. 2 large black bin bags, there for a least 2 weeks., 25th August :- [10000816](https://www.fixmystreet.com/report/10000816)
-- TMC - Defects -CW10 Potholes problem, 25th August :- [10000947](https://www.fixmystreet.com/report/10000947)
-- Missing metal drain cover on road, 25th August :- [10000701](https://www.fixmystreet.com/report/10000701)
-- TMC - Defects - Vegetation problem, 25th August :- [10000737](https://www.fixmystreet.com/report/10000737)
 
 <!-- fix_marker ends -->
