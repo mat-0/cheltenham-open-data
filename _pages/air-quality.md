@@ -8,7 +8,7 @@ type: air
 seo: "Check current Cheltenham air quality levels — live PM2.5, PM10, NO2 and ozone readings from DEFRA's official monitoring network"
 ---
 
-## Cheltenham Air Quality Reports
+## Cheltenham Air Quality Reports
 
 <!-- air_quality starts -->
 Air quality in Cheltenham changes hour to hour depending on traffic, weather and wider weather patterns. The readings below come directly from [DEFRA's UK-AIR monitoring network](https://uk-air.defra.gov.uk/), the UK government's official air pollution data source, and are pulled from the nearest monitoring stations to Cheltenham.
