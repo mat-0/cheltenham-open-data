@@ -97,7 +97,7 @@ def to_markdown(banks: list[dict]) -> str:
     for bank in banks:
         lines.append(f"### {bank['name']}")
         lines.append("")
-        lines.append(", ".join(bank["materials"]))
+        lines.append(f"- {', '.join(bank['materials'])}")
         lines.append("")
     return "\n".join(lines).rstrip() + "\n"
 
