@@ -25,6 +25,9 @@ permalink: /llms.txt
 - [Cheltenham Food Bank](https://cheltenham-od.uk/cheltenham-foodbank-needed-items): Local foodbanks and their needed items.
 - [Cheltenham Public Holidays](https://cheltenham-od.uk/cheltenham-public-holidays): Confirmed public holidays.
 - [Cheltenham Security Alerts](https://cheltenham-od.uk/cheltenham-security-alerts): National threat level from MI5, relevant given proximity to GCHQ, and Government Alerts.
+- [Cheltenham Security Alerts](https://cheltenham-od.uk/cheltenham-security-alerts): National threat level from MI5, relevant given proximity to GCHQ, and Government Alerts.
+- [Cheltenham Recycling](https://cheltenham-od.uk/cheltenham-recycling): Local recycling guides and recycling bank locations.
+
 
 ## Feeds & data sources
 
