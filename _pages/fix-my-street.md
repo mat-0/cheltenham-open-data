@@ -39,6 +39,7 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Carlton street sign damaged, 25th August :- [10003233](https://www.fixmystreet.com/report/10003233)
 - Footway closed with no safe alternative provided, 25th August :- [10003133](https://www.fixmystreet.com/report/10003133)
 - Grass verge between 50 Richmond Gardens and Brooklands Park Longlevend, 25th August :- [10003030](https://www.fixmystreet.com/report/10003030)
 - Waymarkers missing from bridge, 25th August :- [10002992](https://www.fixmystreet.com/report/10002992)
@@ -58,6 +59,5 @@ over time but remain permanently viewable on FixMyStreet itself.
 - Road sinking / subsiding similar to in the past, 25th August :- [10001310](https://www.fixmystreet.com/report/10001310)
 - TMC - Defects -CW6 Potholes  problem, 25th August :- [10001350](https://www.fixmystreet.com/report/10001350)
 - Pole snapped off 3" below ground level, 25th August :- [10001128](https://www.fixmystreet.com/report/10001128)
-- TMC - Defects - Other FW6  Surface problem, 25th August :- [10001177](https://www.fixmystreet.com/report/10001177)
 
 <!-- fix_marker ends -->
