@@ -46,7 +46,7 @@ medication, and avoid walking or driving through flood water — just 30 cm of
 moving water can move a vehicle. Follow instructions from emergency services
 and the Environment Agency.
 
-## Latest flood issued alerts are published below when available
+## Latest Flood Alerts
 
 <!-- flood_marker starts -->
 > No current flood warnings reports in this area
