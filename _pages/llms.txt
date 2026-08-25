@@ -7,7 +7,7 @@ permalink: /llms.txt
 
 > Cheltenham Open Data — the open data hub for Cheltenham and Gloucestershire. Live local data: fuel prices, house prices, flood warnings, air quality, planning applications, GP and pharmacy listings, food bank needs, classifieds, and news.
 
-> All data is owned by the respective data providers; no liability is accepted for the accuracy of the data.
+> All data is owned by the respective data providers; no liability is accepted for the accuracy of the data. Data is aggregated daily from official sources: the Environment Agency (flood warnings), HM Land Registry and ONS (house prices), Cheltenham Borough Council (planning applications), and NHS/Ordnance Survey (GP, pharmacy and Post Office locations), DEFRA for flood and air quality reporting.
 
 ## Data pages
 
