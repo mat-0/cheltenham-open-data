@@ -82,6 +82,18 @@ body:has(.po) {
     --accent-dark: #c9a0ca;
 }
 
+body:has(.recycle) {
+    --accent: #6b256d;
+    --accent-text: #ffffff;
+    --accent-dark: #4d2d4e;
+}
+
+[data-theme=dark] body:has(.recycle) {
+    --accent: #a81cab;
+    --accent-text: #0a1420;
+    --accent-dark: #c9a0ca;
+}
+
 
 body:has(.single) {
     --accent: #6a3f6b;
