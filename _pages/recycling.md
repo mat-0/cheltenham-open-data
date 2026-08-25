@@ -33,66 +33,43 @@ The main recycling centre for Cheltenham is located at Wingmoor Farm, half mile 
 <!-- recycling_banks starts -->
 ### Bath Terrace car park, GL50 2AL
 
-- Glass
-- Paper
-- Cans
-- Textiles and shoes
-- Card
-- Mixed plastics
+Glass, Paper, Cans, Textiles and shoes, Card, Mixed plastics
 
 ### Hatherley Lane, Asda, GL51 6PN
 
-- Textiles and shoes
+Textiles and shoes
 
 ### Church Piece Car Park, GL53 8JN
 
-- Textiles and shoes
+Textiles and shoes
 
 ### Edinburgh Place car park, GL51 7SE
 
-- Paper
-- Textiles and shoes
-- Card
-- Mixed plastics
+Paper, Textiles and shoes, Card, Mixed plastics
 
 ### Everest Road, Old Patesians, GL53 9LG
 
-- Textiles and shoes
+Textiles and shoes
 
 ### High Street car park, GL50 3HJ
 
-- Textiles and shoes
+Textiles and shoes
 
 ### London Road, Sixways car park, GL52 6YT
 
-- Glass
-- Paper
-- Cans
-- Textiles and shoes
-- Card
-- Mixed plastics
+Glass, Paper, Cans, Textiles and shoes, Card, Mixed plastics
 
 ### Priors Road, Sainsbury's, GL52 5AQ
 
-- Textiles and shoes
-- Card
-- Mixed plastics
+Textiles and shoes, Card, Mixed plastics
 
 ### St James Street car park, GL52 2SH
 
-- Glass
-- Paper
-- Cans
-- Card
-- Mixed plastics
+Glass, Paper, Cans, Card, Mixed plastics
 
 ### Whaddon Road, Cheltenham Town FC, GL2 5NA
 
-- Glass
-- Cans
-- Paper
-- Textiles and shoes
-- Mixed plastics
+Glass, Cans, Paper, Textiles and shoes, Mixed plastics
 
 <!-- recycling_banks ends -->
 
