@@ -27,3 +27,7 @@ There is a very high risk of wildfires nationally. Residents, landowners and vis
 Follow official updates and report signs of fire immediately by calling 999. Search gov.uk/alerts for more information.
 
 Sent by the UK government at 7:01pm on Friday 14 August 2026
+
+## Emergency Preparation
+
+[Get Prepared for Emergencies (Gov UK)](https://prepare.campaign.gov.uk/get-prepared-for-emergencies/)

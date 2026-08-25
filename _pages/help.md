@@ -39,6 +39,10 @@ Some useful contacts and resources for cheltenham residents. If you have any sug
 - [Dynamic Maps for Schools](https://gcc.dynamicmaps.co.uk/MapThatPublic/Default.aspx)
 - [Term Dates](https://www.gloucestershire.gov.uk/education-and-learning/term-dates/)
 
+## Recycling Banks and Centres
+
+- [Check out locations for recycling](https://www.cheltenham.gov.uk/bins-and-recycling/recycling-banks-and-centres/)
+
 ## Cheltenham Sub-Reddit
 
 - [The Home of all things Cheltenham](https://www.reddit.com/r/cheltenham/)
@@ -62,4 +66,4 @@ Some useful contacts and resources for cheltenham residents. If you have any sug
 
 ## Office for National Statistics Page
 
-[ONS Link to Cheltenham - E07000078](https://www.ons.gov.uk/explore-local-statistics/areas/E07000078-cheltenham)
+[ONS local statistics for Cheltenham - E07000078](https://www.ons.gov.uk/explore-local-statistics/areas/E07000078-cheltenham)
