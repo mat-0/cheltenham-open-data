@@ -39,6 +39,9 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- This streetlight has not worked for some time. As a seventy one year old I tripped on the kerb near my home tonight. I am still experiencing pain as a result. Please can you resolve this issue. We have drug dealers at the end of the street too and not having lights tends to encourage unsocial behaviour., 26th August :- [10008984](https://www.fixmystreet.com/report/10008984)
+- The lower part of Brockhampton Lane outside Home Farm, is breaking down with numerous potholes in a short section of road. GCC have adviswed in past correspondence with the owners of Home farm, that they are monitoring the condition of the road! Clearly this is not happening as it is getting worse. 3 years ago the road was going to be resurfaced, but only top part was done, and this lower section was being done later - we are still waiting!, 26th August :- [10008785](https://www.fixmystreet.com/report/10008785)
+- Weeds in the road gutter, 26th August :- [10008493](https://www.fixmystreet.com/report/10008493)
 - Drain cover still noisy despite being supposedly fixed!, 26th August :- [10008303](https://www.fixmystreet.com/report/10008303)
 - End of cul de sac overgrown & neglected, 26th August :- [10008030](https://www.fixmystreet.com/report/10008030)
 - Double manhole cover pushed off drain. Drain blocked, 26th August :- [10007984](https://www.fixmystreet.com/report/10007984)
@@ -56,8 +59,5 @@ over time but remain permanently viewable on FixMyStreet itself.
 - TMC - Defects -FW6 Potholes problem, 26th August :- [10007289](https://www.fixmystreet.com/report/10007289)
 - TMC - Defects -FW6 Potholes problem, 26th August :- [10007283](https://www.fixmystreet.com/report/10007283)
 - Over grown hedge blocking footpath forcing pedestrians to walk on the cycle path on a blind bend., 26th August :- [10007146](https://www.fixmystreet.com/report/10007146)
-- TMC - Defects -FW6 Potholes problem, 26th August :- [10007278](https://www.fixmystreet.com/report/10007278)
-- TMC - Defects -FW6 Potholes problem, 26th August :- [10007275](https://www.fixmystreet.com/report/10007275)
-- TMC - Defects -other CW10 problem, 26th August :- [10007273](https://www.fixmystreet.com/report/10007273)
 
 <!-- fix_marker ends -->
