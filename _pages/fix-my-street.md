@@ -39,5 +39,25 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Gully drain blocked, 26th August :- [10006693](https://www.fixmystreet.com/report/10006693)
+- TMC - Defects - Other FW6  Surface problem, 26th August :- [10006656](https://www.fixmystreet.com/report/10006656)
+- Missing fence panel next to brook, 26th August :- [10006548](https://www.fixmystreet.com/report/10006548)
+- TMC - Defects - Other FW6  Surface problem, 26th August :- [10006653](https://www.fixmystreet.com/report/10006653)
+- Other issue with a footway/pavement problem, 26th August :- [10006606](https://www.fixmystreet.com/report/10006606)
+- TMC - Defects -FW6 Potholes problem, 26th August :- [10006648](https://www.fixmystreet.com/report/10006648)
+- TMC - Defects -CW6 Potholes  problem, 26th August :- [10006647](https://www.fixmystreet.com/report/10006647)
+- TMC - Defects -CW6 Potholes  problem, 26th August :- [10006608](https://www.fixmystreet.com/report/10006608)
+- TMC - Defects -CW6 Potholes  problem, 26th August :- [10006610](https://www.fixmystreet.com/report/10006610)
+- TMC - Defects -CW6 Potholes  problem, 26th August :- [10006609](https://www.fixmystreet.com/report/10006609)
+- Possible asbestos, 26th August :- [10006359](https://www.fixmystreet.com/report/10006359)
+- TMC - Defects - Other problem, 26th August :- [10006411](https://www.fixmystreet.com/report/10006411)
+- TMC - Defects -CW6 Potholes  problem, 26th August :- [10006410](https://www.fixmystreet.com/report/10006410)
+- The drain is blocked problem, 26th August :- [10006402](https://www.fixmystreet.com/report/10006402)
+- Flytipped Highways road signs, 26th August :- [10006140](https://www.fixmystreet.com/report/10006140)
+- TMC - Defects -FW6 Potholes problem, 26th August :- [10006218](https://www.fixmystreet.com/report/10006218)
+- TMC - Defects - Footways Slabs problem, 26th August :- [10006216](https://www.fixmystreet.com/report/10006216)
+- TMC - Defects - Other FW6  Surface problem, 26th August :- [10006214](https://www.fixmystreet.com/report/10006214)
+- TMC - Defects - Other FW6  Surface problem, 26th August :- [10006212](https://www.fixmystreet.com/report/10006212)
+- TMC - Defects - Other FW6  Surface problem, 26th August :- [10006215](https://www.fixmystreet.com/report/10006215)
 
 <!-- fix_marker ends -->
