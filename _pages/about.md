@@ -12,6 +12,8 @@ permalink: /about
 
 - The mission has always been to make a local website for local people. Without the big tech overlords, the data-harvesting, and sites full of pop-ups, popovers, scam adverts and misleading clickbait headlines.
 
+{% include ph.html %}
+
 ## Privacy
 
 - The site using a tracking analytics script from `ahrefs.com`, this is to monitor site usage and to spot and fix errors. Data is never personalised nor sold.
