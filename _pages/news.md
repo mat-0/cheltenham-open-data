@@ -10,14 +10,14 @@ permalink: /cheltenham-news
 ---
 
 <!-- news_marker starts -->
-- Driver sentenced over crash that killed 'soulmate' ([10 hours ago](https://www.bbc.co.uk/news/articles/cdx563rzw4xo?at_medium=RSS&at_campaign=rss))
-- 'There is hope': Baby allowed home after 304 days in hospital ([11 hours ago](https://www.bbc.co.uk/news/videos/c3eqjgzqwx8o?at_medium=RSS&at_campaign=rss))
-- Firefighter cuts about 'aligning resources' ([13 hours ago](https://www.bbc.co.uk/news/articles/ce3r1rkl0yeo?at_medium=RSS&at_campaign=rss))
-- Dog fouling and abuse at cemetery 'deeply upsetting' ([19 hours ago](https://www.bbc.co.uk/news/articles/c39mkx2v0rgo?at_medium=RSS&at_campaign=rss))
-- Police release image of man wanted in connection with a serious assault ([21 hours ago](https://gloucesternewscentre.co.uk/police-release-image-of-man-wanted-in-connection-with-a-serious-assault/))
-- Hospital parking firm blasted as ‘vultures’ after fining man battling cancer ([21 hours ago](https://gloucesternewscentre.co.uk/hospital-parking-firm-blasted-as-vultures-after-fining-man-battling-cancer/))
-- New croquet club revitalises former bowling green ([21 hours ago](https://www.bbc.co.uk/news/articles/c4g3yd9n1pro?at_medium=RSS&at_campaign=rss))
-- Food influencers v critics: Why credibility counts ([22 hours ago](https://www.bbc.co.uk/news/articles/cwymeke23xeo?at_medium=RSS&at_campaign=rss))
+- Driver sentenced over crash that killed 'soulmate' ([12 hours ago](https://www.bbc.co.uk/news/articles/cdx563rzw4xo?at_medium=RSS&at_campaign=rss))
+- 'There is hope': Baby allowed home after 304 days in hospital ([13 hours ago](https://www.bbc.co.uk/news/videos/c3eqjgzqwx8o?at_medium=RSS&at_campaign=rss))
+- Firefighter cuts about 'aligning resources' ([15 hours ago](https://www.bbc.co.uk/news/articles/ce3r1rkl0yeo?at_medium=RSS&at_campaign=rss))
+- Dog fouling and abuse at cemetery 'deeply upsetting' ([20 hours ago](https://www.bbc.co.uk/news/articles/c39mkx2v0rgo?at_medium=RSS&at_campaign=rss))
+- Police release image of man wanted in connection with a serious assault ([23 hours ago](https://gloucesternewscentre.co.uk/police-release-image-of-man-wanted-in-connection-with-a-serious-assault/))
+- Hospital parking firm blasted as ‘vultures’ after fining man battling cancer ([23 hours ago](https://gloucesternewscentre.co.uk/hospital-parking-firm-blasted-as-vultures-after-fining-man-battling-cancer/))
+- New croquet club revitalises former bowling green ([23 hours ago](https://www.bbc.co.uk/news/articles/c4g3yd9n1pro?at_medium=RSS&at_campaign=rss))
+- Food influencers v critics: Why credibility counts ([1 days ago](https://www.bbc.co.uk/news/articles/cwymeke23xeo?at_medium=RSS&at_campaign=rss))
 - New £12m cancer centre reaches 'significant milestone' ([1 days ago](https://www.bbc.co.uk/news/articles/crl6rd39lero?at_medium=RSS&at_campaign=rss))
 - Volunteers help to restore 'missing mile' canal ([1 days ago](https://www.bbc.co.uk/news/videos/cd68ygl16l0o?at_medium=RSS&at_campaign=rss))
 - Hope restoring historic ponds will boost wildlife ([1 days ago](https://www.bbc.co.uk/news/articles/c5ymk0vxe5lo?at_medium=RSS&at_campaign=rss))
