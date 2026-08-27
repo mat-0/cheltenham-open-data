@@ -19,6 +19,7 @@ import sys
 import argparse
 import datetime
 import requests
+from collections import Counter
 
 BASE_URL = "https://directory.spineservices.nhs.uk/ORD/2-0-0"
 TIMEOUT = 20
@@ -185,30 +186,6 @@ def extract_detail_fields(detail_json):
             break
 
     return address, phone
-    """Pull address lines and phone out of a full organisation detail
-    response. Structure per ORD API docs is nested under
-    Organisation -> GeoLoc -> Location, and Organisation -> Contacts."""
-    org = detail_json.get("Organisation", {})
-
-    location = org.get("GeoLoc", {}).get("Location", {})
-    address_parts = [
-        location.get("AddrLn1", ""),
-        location.get("AddrLn2", ""),
-        location.get("Town", ""),
-        location.get("PostCode", ""),
-    ]
-    address = ", ".join(p for p in address_parts if p)
-
-    phone = ""
-    contacts = org.get("Contacts", {}).get("Contact", [])
-    if isinstance(contacts, dict):
-        contacts = [contacts]
-    for c in contacts:
-        if c.get("type") == "tel":
-            phone = c.get("value", "")
-            break
-
-    return address, phone
 
 
 def fetch_gp_practices():
@@ -256,6 +233,61 @@ def fetch_pharmacies():
     return results
 
 
+def dedupe_entries(entries):
+    """The ODS ORD API can return more than one OrgId for what is
+    physically the same pharmacy/practice (e.g. a contract change
+    leaves an old record active, or a dispensing-appliance-contractor
+    record duplicates the main one). seen_ids in fetch_* only catches
+    literal duplicate OrgIds, not this case — so dedupe again here by
+    (name, postcode), keeping the more complete record (prefer one
+    with a phone number, then the longer/more detailed address)."""
+    import re
+
+    def postcode_of(address):
+        m = re.search(r"[A-Z]{1,2}\d[A-Z\d]?\s*\d[A-Z]{2}$", address.upper())
+        return m.group(0).replace(" ", "") if m else address
+
+    best = {}
+    for e in entries:
+        key = (e["name"], postcode_of(e["address"]))
+        current = best.get(key)
+        if current is None:
+            best[key] = e
+            continue
+        # Prefer the record with a phone number; if both/neither have one,
+        # prefer the longer address (more address lines = more complete).
+        current_score = (bool(current["phone"]), len(current["address"]))
+        new_score = (bool(e["phone"]), len(e["address"]))
+        if new_score > current_score:
+            best[key] = e
+
+    return list(best.values())
+
+
+def render_entry_list(entries):
+    """Render a list of {name, address, phone} dicts as markdown,
+    disambiguating headings when the same business name appears more
+    than once (e.g. multiple branches) — avoids duplicate ### headings,
+    which break heading-anchor uniqueness."""
+    name_counts = Counter(e["name"] for e in entries)
+    lines = []
+
+    for e in sorted(entries, key=lambda x: (x["name"], x["address"])):
+        heading = e["name"]
+        if name_counts[e["name"]] > 1:
+            street = e["address"].split(",")[0].strip()
+            if street:
+                heading = f"{e['name']} ({street})"
+
+        lines.append(f"\n### {heading}\n")
+        lines.append(f"\n- Address: [{e['address']}]({maps_link(e['address'])})")
+        if e["phone"]:
+            lines.append(f"\n- Phone: [{e['phone']}](tel:{e['phone'].replace(' ', '')})")
+        lines.append("\n")
+
+    return lines
+
+
 def render_markdown(gps, pharmacies):
     generated = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
@@ -281,25 +313,18 @@ def render_markdown(gps, pharmacies):
         "\nAddresses link to googlemaps and phone numbers use the `tel:` protocol and should prompt to call on your device.\n"
     )
 
+    gps = dedupe_entries(gps)
+    pharmacies = dedupe_entries(pharmacies)
+
     lines.append("\n## GP Practices\n")
     if gps:
-        for gp in sorted(gps, key=lambda x: x["name"]):
-            lines.append(f"\n### {gp['name']}\n")
-            lines.append(f"\n- Address: [{gp['address']}]({maps_link(gp['address'])})")
-            if gp["phone"]:
-                lines.append(f"\n- Phone: [{gp['phone']}](tel:{gp['phone'].replace(' ', '')})")
-            lines.append("\n")
+        lines.extend(render_entry_list(gps))
     else:
         lines.append("\n> No GP practices were returned at generation time.\n")
 
     lines.append("\n## Pharmacies\n")
     if pharmacies:
-        for ph in sorted(pharmacies, key=lambda x: x["name"]):
-            lines.append(f"\n### {ph['name']}\n")
-            lines.append(f"\n- Address: [{ph['address']}]({maps_link(ph['address'])})")
-            if ph["phone"]:
-                lines.append(f"\n- Phone: [{ph['phone']}](tel:{ph['phone'].replace(' ', '')})")
-            lines.append("\n")
+        lines.extend(render_entry_list(pharmacies))
     else:
         lines.append("\n> No pharmacies were returned at generation time.\n")
 

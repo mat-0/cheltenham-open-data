@@ -61,7 +61,7 @@ Addresses link to googlemaps and phone numbers use the `tel:` protocol and shoul
 - Address: [St. Pauls Medical Centre, 121 Swindon Road, Cheltenham, GL50 4DP](https://www.google.com/maps/search/?api=1&query=St.+Pauls+Medical+Centre%2C+121+Swindon+Road%2C+Cheltenham%2C+GL50+4DP)
 - Phone: [01242 215010](tel:01242215010)
 
-### The Stoke Road Surgery,
+### The Stoke Road Surgery
 
 - Address: [4 Stoke Road, Bishops Cleeve, Cheltenham, GL52 8RP](https://www.google.com/maps/search/?api=1&query=4+Stoke+Road%2C+Bishops+Cleeve%2C+Cheltenham%2C+GL52+8RP)
 - Phone: [01242 672007](tel:01242672007)
@@ -106,55 +106,55 @@ Addresses link to googlemaps and phone numbers use the `tel:` protocol and shoul
 
 - Address: [56 Coronation Square, Edinburgh Place, Cheltenham, GL51 7SA](https://www.google.com/maps/search/?api=1&query=56+Coronation+Square%2C+Edinburgh+Place%2C+Cheltenham%2C+GL51+7SA)
 
-### Badham Pharmacy
-
-- Address: [Waitrose Store, Honeybourne Way, Cheltenham, GL50 3QW](https://www.google.com/maps/search/?api=1&query=Waitrose+Store%2C+Honeybourne+Way%2C+Cheltenham%2C+GL50+3QW)
-- Phone: [01242 512120](tel:01242512120)
-
-### Badham Pharmacy
-
-- Address: [84 St Georges Place, Cheltenham, GL50 3QD](https://www.google.com/maps/search/?api=1&query=84+St+Georges+Place%2C+Cheltenham%2C+GL50+3QD)
-- Phone: [01242 279511](tel:01242279511)
-
-### Badham Pharmacy
-
-- Address: [Swindon Road, Cheltenham, GL50 4BJ](https://www.google.com/maps/search/?api=1&query=Swindon+Road%2C+Cheltenham%2C+GL50+4BJ)
-- Phone: [01242 898030](tel:01242898030)
-
-### Badham Pharmacy
-
-- Address: [62 Hewlett Road, Cheltenham, GL52 6AH](https://www.google.com/maps/search/?api=1&query=62+Hewlett+Road%2C+Cheltenham%2C+GL52+6AH)
-- Phone: [01242 523762](tel:01242523762)
-
-### Badham Pharmacy
-
-- Address: [Cleevelands Medical Ctr, Sapphire Road, Cheltenham, GL52 7YU](https://www.google.com/maps/search/?api=1&query=Cleevelands+Medical+Ctr%2C+Sapphire+Road%2C+Cheltenham%2C+GL52+7YU)
-- Phone: [01242 303480](tel:01242303480)
-
-### Badham Pharmacy
+### Badham Pharmacy (102 Whaddon Road)
 
 - Address: [102 Whaddon Road, Cheltenham, GL52 5NF](https://www.google.com/maps/search/?api=1&query=102+Whaddon+Road%2C+Cheltenham%2C+GL52+5NF)
 - Phone: [01242 514330](tel:01242514330)
 
-### Badham Pharmacy
-
-- Address: [6 Prestbury Road, Cheltenham, GL52 2PW](https://www.google.com/maps/search/?api=1&query=6+Prestbury+Road%2C+Cheltenham%2C+GL52+2PW)
-- Phone: [01242 523226](tel:01242523226)
-
-### Badham Pharmacy
-
-- Address: [256 London Road, Charlton Kings, Cheltenham, GL52 6HS](https://www.google.com/maps/search/?api=1&query=256+London+Road%2C+Charlton+Kings%2C+Cheltenham%2C+GL52+6HS)
-- Phone: [01242 515143](tel:01242515143)
-
-### Badham Pharmacy
+### Badham Pharmacy (23 Church Road)
 
 - Address: [23 Church Road, Bishops Cleeve, Cheltenham, GL52 8LR](https://www.google.com/maps/search/?api=1&query=23+Church+Road%2C+Bishops+Cleeve%2C+Cheltenham%2C+GL52+8LR)
 - Phone: [01242 672653](tel:01242672653)
 
-### Badham Pharmacy
+### Badham Pharmacy (256 London Road)
+
+- Address: [256 London Road, Charlton Kings, Cheltenham, GL52 6HS](https://www.google.com/maps/search/?api=1&query=256+London+Road%2C+Charlton+Kings%2C+Cheltenham%2C+GL52+6HS)
+- Phone: [01242 515143](tel:01242515143)
+
+### Badham Pharmacy (4 Stoke Road)
 
 - Address: [4 Stoke Road, Bishops Cleeve, Cheltenham, GL52 8RP](https://www.google.com/maps/search/?api=1&query=4+Stoke+Road%2C+Bishops+Cleeve%2C+Cheltenham%2C+GL52+8RP)
 - Phone: [01242 672211](tel:01242672211)
+
+### Badham Pharmacy (6 Prestbury Road)
+
+- Address: [6 Prestbury Road, Cheltenham, GL52 2PW](https://www.google.com/maps/search/?api=1&query=6+Prestbury+Road%2C+Cheltenham%2C+GL52+2PW)
+- Phone: [01242 523226](tel:01242523226)
+
+### Badham Pharmacy (62 Hewlett Road)
+
+- Address: [62 Hewlett Road, Cheltenham, GL52 6AH](https://www.google.com/maps/search/?api=1&query=62+Hewlett+Road%2C+Cheltenham%2C+GL52+6AH)
+- Phone: [01242 523762](tel:01242523762)
+
+### Badham Pharmacy (84 St Georges Place)
+
+- Address: [84 St Georges Place, Cheltenham, GL50 3QD](https://www.google.com/maps/search/?api=1&query=84+St+Georges+Place%2C+Cheltenham%2C+GL50+3QD)
+- Phone: [01242 279511](tel:01242279511)
+
+### Badham Pharmacy (Cleevelands Medical Ctr)
+
+- Address: [Cleevelands Medical Ctr, Sapphire Road, Cheltenham, GL52 7YU](https://www.google.com/maps/search/?api=1&query=Cleevelands+Medical+Ctr%2C+Sapphire+Road%2C+Cheltenham%2C+GL52+7YU)
+- Phone: [01242 303480](tel:01242303480)
+
+### Badham Pharmacy (Swindon Road)
+
+- Address: [Swindon Road, Cheltenham, GL50 4BJ](https://www.google.com/maps/search/?api=1&query=Swindon+Road%2C+Cheltenham%2C+GL50+4BJ)
+- Phone: [01242 898030](tel:01242898030)
+
+### Badham Pharmacy (Waitrose Store)
+
+- Address: [Waitrose Store, Honeybourne Way, Cheltenham, GL50 3QW](https://www.google.com/maps/search/?api=1&query=Waitrose+Store%2C+Honeybourne+Way%2C+Cheltenham%2C+GL50+3QW)
+- Phone: [01242 512120](tel:01242512120)
 
 ### Badham Pharmacy Limited
 
@@ -165,19 +165,15 @@ Addresses link to googlemaps and phone numbers use the `tel:` protocol and shoul
 
 - Address: [The Farmers Arms, Evesham Road, Cheltenham, GL52 8SA](https://www.google.com/maps/search/?api=1&query=The+Farmers+Arms%2C+Evesham+Road%2C+Cheltenham%2C+GL52+8SA)
 
-### Boots
+### Boots (197-199 High Street)
 
 - Address: [197-199 High Street, Cheltenham, GL50 1DB](https://www.google.com/maps/search/?api=1&query=197-199+High+Street%2C+Cheltenham%2C+GL50+1DB)
 - Phone: [01242 527084](tel:01242527084)
 
-### Boots
+### Boots (Unit F)
 
 - Address: [Unit F, Gallagher Retail Park, Cheltenham, GL51 9RR](https://www.google.com/maps/search/?api=1&query=Unit+F%2C+Gallagher+Retail+Park%2C+Cheltenham%2C+GL51+9RR)
 - Phone: [01242 269387](tel:01242269387)
-
-### Charlton Pharmacy
-
-- Address: [39 Lyefield Road West, Charlton Kings, Cheltenham, GL53 8EZ](https://www.google.com/maps/search/?api=1&query=39+Lyefield+Road+West%2C+Charlton+Kings%2C+Cheltenham%2C+GL53+8EZ)
 
 ### Charlton Pharmacy
 
@@ -197,10 +193,6 @@ Addresses link to googlemaps and phone numbers use the `tel:` protocol and shoul
 
 - Address: [305 High Street, Cheltenham, GL50 3HW](https://www.google.com/maps/search/?api=1&query=305+High+Street%2C+Cheltenham%2C+GL50+3HW)
 - Phone: [01242 437910](tel:01242437910)
-
-### Hawkes Pharmacy
-
-- Address: [52 Windermere Road, Hatherley, Cheltenham, GL51 3PH](https://www.google.com/maps/search/?api=1&query=52+Windermere+Road%2C+Hatherley%2C+Cheltenham%2C+GL51+3PH)
 
 ### Hawkes Pharmacy
 
@@ -271,7 +263,7 @@ Addresses link to googlemaps and phone numbers use the `tel:` protocol and shoul
 - Address: [Windyridge Road, Cheltenham, GL50 4RA](https://www.google.com/maps/search/?api=1&query=Windyridge+Road%2C+Cheltenham%2C+GL50+4RA)
 - Phone: [01242 221988](tel:01242221988)
 
-*Source: [NHS Organisation Data Service](https://digital.nhs.uk/services/organisation-data-service). Data last refreshed 2026-08-27 20:19 UTC.*
+*Source: [NHS Organisation Data Service](https://digital.nhs.uk/services/organisation-data-service). Data last refreshed 2026-08-27 21:00 UTC.*
 
 <!-- gp_pharmacy_finder ends -->
 
