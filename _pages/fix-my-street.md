@@ -39,6 +39,8 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Loose keeb stone, 27th August :- [10009709](https://www.fixmystreet.com/report/10009709)
+- Street light not working, 27th August :- [10009458](https://www.fixmystreet.com/report/10009458)
 - This streetlight has not worked for some time. As a seventy one year old I tripped on the kerb near my home tonight. I am still experiencing pain as a result. Please can you resolve this issue. We have drug dealers at the end of the street too and not having lights tends to encourage unsocial behaviour., 26th August :- [10008984](https://www.fixmystreet.com/report/10008984)
 - The lower part of Brockhampton Lane outside Home Farm, is breaking down with numerous potholes in a short section of road. GCC have adviswed in past correspondence with the owners of Home farm, that they are monitoring the condition of the road! Clearly this is not happening as it is getting worse. 3 years ago the road was going to be resurfaced, but only top part was done, and this lower section was being done later - we are still waiting!, 26th August :- [10008785](https://www.fixmystreet.com/report/10008785)
 - Weeds in the road gutter, 26th August :- [10008493](https://www.fixmystreet.com/report/10008493)
@@ -57,7 +59,5 @@ over time but remain permanently viewable on FixMyStreet itself.
 - Brown arm chair fly tipped in field gateway, 26th August :- [10007191](https://www.fixmystreet.com/report/10007191)
 - Penis and swastikas painted on road, 26th August :- [10007190](https://www.fixmystreet.com/report/10007190)
 - TMC - Defects -FW6 Potholes problem, 26th August :- [10007289](https://www.fixmystreet.com/report/10007289)
-- TMC - Defects -FW6 Potholes problem, 26th August :- [10007283](https://www.fixmystreet.com/report/10007283)
-- Over grown hedge blocking footpath forcing pedestrians to walk on the cycle path on a blind bend., 26th August :- [10007146](https://www.fixmystreet.com/report/10007146)
 
 <!-- fix_marker ends -->
