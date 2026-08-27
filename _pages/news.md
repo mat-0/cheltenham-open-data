@@ -10,14 +10,14 @@ permalink: /cheltenham-news
 ---
 
 <!-- news_marker starts -->
-- Prince Harry and Meghan 'moving to the Cotswolds' ([3 hours ago](https://www.bbc.co.uk/news/articles/czrzm6p6zxeo?at_medium=RSS&at_campaign=rss))
-- Council says cracking road to stay shut until 2027 ([3 hours ago](https://www.bbc.co.uk/news/articles/cp8dey8k6ydo?at_medium=RSS&at_campaign=rss))
-- Pumpkins are ripening two months ahead of Halloween ([5 hours ago](https://www.bbc.co.uk/news/videos/cz6zw89x7wzo?at_medium=RSS&at_campaign=rss))
-- Gloucestershire records first deadly virus case ([8 hours ago](https://www.bbc.co.uk/news/articles/c7v4616e538o?at_medium=RSS&at_campaign=rss))
-- Bishop’s Cleeve care worker wins national award for bringing joy to residents ([10 hours ago](https://cheltenhampost.co.uk/bishops-cleeve-care-worker-wins-national-award-for-bringing-joy-to-residents/))
-- Parking concerns over new residential cycle spine ([12 hours ago](https://www.bbc.co.uk/news/articles/cvgylenl51zo?at_medium=RSS&at_campaign=rss))
-- Plans to save 'first of its kind' Roman villa ([16 hours ago](https://www.bbc.co.uk/news/articles/c93e5exp5l4o?at_medium=RSS&at_campaign=rss))
-- Why parts of the West look like autumn already ([16 hours ago](https://www.bbc.co.uk/news/articles/cd0x9vy8dneo?at_medium=RSS&at_campaign=rss))
+- Prince Harry and Meghan 'moving to the Cotswolds' ([5 hours ago](https://www.bbc.co.uk/news/articles/czrzm6p6zxeo?at_medium=RSS&at_campaign=rss))
+- Council says cracking road to stay shut until 2027 ([6 hours ago](https://www.bbc.co.uk/news/articles/cp8dey8k6ydo?at_medium=RSS&at_campaign=rss))
+- Pumpkins are ripening two months ahead of Halloween ([7 hours ago](https://www.bbc.co.uk/news/videos/cz6zw89x7wzo?at_medium=RSS&at_campaign=rss))
+- Gloucestershire records first deadly virus case ([10 hours ago](https://www.bbc.co.uk/news/articles/c7v4616e538o?at_medium=RSS&at_campaign=rss))
+- Bishop’s Cleeve care worker wins national award for bringing joy to residents ([13 hours ago](https://cheltenhampost.co.uk/bishops-cleeve-care-worker-wins-national-award-for-bringing-joy-to-residents/))
+- Parking concerns over new residential cycle spine ([14 hours ago](https://www.bbc.co.uk/news/articles/cvgylenl51zo?at_medium=RSS&at_campaign=rss))
+- Plans to save 'first of its kind' Roman villa ([18 hours ago](https://www.bbc.co.uk/news/articles/c93e5exp5l4o?at_medium=RSS&at_campaign=rss))
+- Why parts of the West look like autumn already ([18 hours ago](https://www.bbc.co.uk/news/articles/cd0x9vy8dneo?at_medium=RSS&at_campaign=rss))
 - Driver sentenced over crash that killed 'soulmate' ([1 days ago](https://www.bbc.co.uk/news/articles/cdx563rzw4xo?at_medium=RSS&at_campaign=rss))
 - 'There is hope': Baby allowed home after 304 days in hospital ([1 days ago](https://www.bbc.co.uk/news/videos/c3eqjgzqwx8o?at_medium=RSS&at_campaign=rss))
 - Firefighter cuts about 'aligning resources' ([1 days ago](https://www.bbc.co.uk/news/articles/ce3r1rkl0yeo?at_medium=RSS&at_campaign=rss))
@@ -39,8 +39,8 @@ permalink: /cheltenham-news
 - Review: The Choir of Man ([12 days ago](https://gloucesternewscentre.co.uk/review-the-choir-of-man/))
 - CCTV appeal following high-value theft from jewellers in Cheltenham ([15 days ago](https://gloucesternewscentre.co.uk/cctv-appeal-following-high-value-theft-from-jewellers-in-cheltenham/))
 - Reach New Heights This Summer at The Brewery Quarter with Free Family Events Throughout August ([20 days ago](https://cheltenhambid.co.uk/2026/08/06/reach-new-heights-this-summer-at-the-brewery-quarter-with-free-family-events-throughout-august/))
-- Concerns town looks ‘neglected’ ([25 days ago](https://gloucesternewscentre.co.uk/concerns-town-looks-neglected/))
-- Windows of Cav House to display artwork ([25 days ago](https://gloucesternewscentre.co.uk/windows-of-cav-house-to-display-artwork/))
-- Questions over Municipal Offices sale ([25 days ago](https://gloucesternewscentre.co.uk/questions-over-municipal-offices-sale/))
+- Concerns town looks ‘neglected’ ([26 days ago](https://gloucesternewscentre.co.uk/concerns-town-looks-neglected/))
+- Windows of Cav House to display artwork ([26 days ago](https://gloucesternewscentre.co.uk/windows-of-cav-house-to-display-artwork/))
+- Questions over Municipal Offices sale ([26 days ago](https://gloucesternewscentre.co.uk/questions-over-municipal-offices-sale/))
 
 <!-- news_marker ends -->
