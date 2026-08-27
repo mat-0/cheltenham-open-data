@@ -39,6 +39,13 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Graffiti on 5g pole, 27th August :- [10014383](https://www.fixmystreet.com/report/10014383)
+- Graffiti, 27th August :- [10014114](https://www.fixmystreet.com/report/10014114)
+- No timetable, 27th August :- [10014078](https://www.fixmystreet.com/report/10014078)
+- Smashed glass display, 27th August :- [10013991](https://www.fixmystreet.com/report/10013991)
+- Green waste tipped, 27th August :- [10013928](https://www.fixmystreet.com/report/10013928)
+- Flytipped item, 27th August :- [10013850](https://www.fixmystreet.com/report/10013850)
+- Large amount of Flytipped rubbish, 27th August :- [10013771](https://www.fixmystreet.com/report/10013771)
 - Drain at bottom of driveway blocked with rubble. Drain cover broken, 27th August :- [10013569](https://www.fixmystreet.com/report/10013569)
 - New road surface obscures cream tarmac turning guide, 27th August :- [10013515](https://www.fixmystreet.com/report/10013515)
 - Multiple pot holes in the close by 5 and 6 friars close, 27th August :- [10013480](https://www.fixmystreet.com/report/10013480)
@@ -52,13 +59,6 @@ over time but remain permanently viewable on FixMyStreet itself.
 - Please 3G plain the meaning of the arrows painted on North Place. Seem confusing, as if this is a one way road., 27th August :- [10011245](https://www.fixmystreet.com/report/10011245)
 - 2 barriers left on verge after ash tree bough removed last week., 27th August :- [10011202](https://www.fixmystreet.com/report/10011202)
 - Paving slab undermined/sinking. A number of walls are in this area. Could be the result of extensive tunnelling by rodents., 27th August :- [10011109](https://www.fixmystreet.com/report/10011109)
-- Uneven pavement slabs - trip hazard, 27th August :- [10010830](https://www.fixmystreet.com/report/10010830)
-- Overgrown trees scratching residents walking past, 27th August :- [10010767](https://www.fixmystreet.com/report/10010767)
-- Cupboard dumped on pavement, 27th August :- [10010916](https://www.fixmystreet.com/report/10010916)
-- Sofa flytipped, 27th August :- [10010738](https://www.fixmystreet.com/report/10010738)
-- Hedge not cut back, 27th August :- [10010580](https://www.fixmystreet.com/report/10010580)
-- Sunken manhole, 27th August :- [10010528](https://www.fixmystreet.com/report/10010528)
-- Weeds in the road, 27th August :- [10010455](https://www.fixmystreet.com/report/10010455)
 
 <!-- fix_marker ends -->
 
