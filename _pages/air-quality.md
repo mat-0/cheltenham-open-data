@@ -20,3 +20,5 @@ If you have asthma, another lung condition, or a heart condition, the NHS and DE
 > No data was available from DEFRA at the time this page was last generated. This will update automatically on the next scheduled run.
 
 <!-- air_quality ends -->
+
+{% include sponsor.html %}

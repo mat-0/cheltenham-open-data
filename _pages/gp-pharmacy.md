@@ -274,3 +274,5 @@ Addresses link to googlemaps and phone numbers use the `tel:` protocol and shoul
 *Source: [NHS Organisation Data Service](https://digital.nhs.uk/services/organisation-data-service). Data last refreshed 2026-08-27 16:40 UTC.*
 
 <!-- gp_pharmacy_finder ends -->
+
+{% include sponsor.html %}

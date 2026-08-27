@@ -52,3 +52,5 @@ and the Environment Agency.
 > No current flood warnings reports in this area
 
 <!-- flood_marker ends -->
+
+{% include sponsor.html %}

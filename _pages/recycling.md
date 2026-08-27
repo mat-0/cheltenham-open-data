@@ -98,3 +98,5 @@ The main recycling centre for Cheltenham is located at Wingmoor Farm, half mile 
 ### What do I do if a recycling bank is full?
 
 - If a bank is full and needs emptying please let Cheltenham Borough Council know on 01242 262626.
+
+{% include sponsor.html %}

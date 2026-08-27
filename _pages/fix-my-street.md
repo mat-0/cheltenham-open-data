@@ -61,3 +61,5 @@ over time but remain permanently viewable on FixMyStreet itself.
 - Weeds in the road, 27th August :- [10010455](https://www.fixmystreet.com/report/10010455)
 
 <!-- fix_marker ends -->
+
+{% include sponsor.html %}
