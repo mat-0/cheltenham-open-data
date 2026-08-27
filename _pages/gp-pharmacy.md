@@ -108,6 +108,11 @@ Addresses link to googlemaps and phone numbers use the `tel:` protocol and shoul
 
 ### Badham Pharmacy
 
+- Address: [Waitrose Store, Honeybourne Way, Cheltenham, GL50 3QW](https://www.google.com/maps/search/?api=1&query=Waitrose+Store%2C+Honeybourne+Way%2C+Cheltenham%2C+GL50+3QW)
+- Phone: [01242 512120](tel:01242512120)
+
+### Badham Pharmacy
+
 - Address: [84 St Georges Place, Cheltenham, GL50 3QD](https://www.google.com/maps/search/?api=1&query=84+St+Georges+Place%2C+Cheltenham%2C+GL50+3QD)
 - Phone: [01242 279511](tel:01242279511)
 
@@ -266,6 +271,6 @@ Addresses link to googlemaps and phone numbers use the `tel:` protocol and shoul
 - Address: [Windyridge Road, Cheltenham, GL50 4RA](https://www.google.com/maps/search/?api=1&query=Windyridge+Road%2C+Cheltenham%2C+GL50+4RA)
 - Phone: [01242 221988](tel:01242221988)
 
-*Source: [NHS Organisation Data Service](https://digital.nhs.uk/services/organisation-data-service). Data last refreshed 2026-08-27 00:03 UTC.*
+*Source: [NHS Organisation Data Service](https://digital.nhs.uk/services/organisation-data-service). Data last refreshed 2026-08-27 02:24 UTC.*
 
 <!-- gp_pharmacy_finder ends -->
