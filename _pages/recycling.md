@@ -11,9 +11,9 @@ type: "recycle"
 
 Please follow the Reduce, Reuse, Recycle philosophy where possible
 
-- **Reducing*- your waste is best, could you avoid buying it in the first place? Have it delivered in its original packaging rather than an additional box.
-- **Reusing*- is better - do you need to throw it away, or can it be used for something else? Check local community services like Olio, Freecycle or [classified adverts](/cheltenham-classifieds) for options to give unwanted items to a new home.
-- **Recycling*- your waste is good - if you need to bin it, can it be recycled either kerbside, at a designated centre or bank?
+- **Reducing** - your waste is best, could you avoid buying it in the first place? Have it delivered in its original packaging rather than an additional box.
+- **Reusing** - is better - do you need to throw it away, or can it be used for something else? Check local community services like Olio, Freecycle or [classified adverts](/cheltenham-classifieds) for options to give unwanted items to a new home.
+- **Recycling** - your waste is good - if you need to bin it, can it be recycled either kerbside, at a designated centre or bank?
 
 ## Recycling Centres in Cheltenham
 
