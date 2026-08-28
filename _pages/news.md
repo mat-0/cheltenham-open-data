@@ -10,11 +10,11 @@ permalink: /cheltenham-news
 ---
 
 <!-- news_marker starts -->
-- Could Harry and Meghan settle in the Cotswolds? ([6 hours ago](https://www.bbc.co.uk/news/videos/cj9xn4z7kkwo?at_medium=RSS&at_campaign=rss))
-- 'Jury still out' on Bibury traffic measures ([8 hours ago](https://www.bbc.co.uk/news/articles/cy7zdmp2pdeo?at_medium=RSS&at_campaign=rss))
-- City plagued by people 'drunk all day long' and fights ([16 hours ago](https://www.bbc.co.uk/news/articles/ckgw54y9k53o?at_medium=RSS&at_campaign=rss))
-- Events on in the West this bank holiday weekend ([16 hours ago](https://www.bbc.co.uk/news/articles/c8jd7rxy2vpo?at_medium=RSS&at_campaign=rss))
-- What it is like on a 10-hour shift as a paramedic during the summer ([16 hours ago](https://www.bbc.co.uk/news/articles/c8e3rnr7gpeo?at_medium=RSS&at_campaign=rss))
+- Could Harry and Meghan settle in the Cotswolds? ([7 hours ago](https://www.bbc.co.uk/news/videos/cj9xn4z7kkwo?at_medium=RSS&at_campaign=rss))
+- 'Jury still out' on Bibury traffic measures ([9 hours ago](https://www.bbc.co.uk/news/articles/cy7zdmp2pdeo?at_medium=RSS&at_campaign=rss))
+- City plagued by people 'drunk all day long' and fights ([17 hours ago](https://www.bbc.co.uk/news/articles/ckgw54y9k53o?at_medium=RSS&at_campaign=rss))
+- Events on in the West this bank holiday weekend ([17 hours ago](https://www.bbc.co.uk/news/articles/c8jd7rxy2vpo?at_medium=RSS&at_campaign=rss))
+- What it is like on a 10-hour shift as a paramedic during the summer ([17 hours ago](https://www.bbc.co.uk/news/articles/c8e3rnr7gpeo?at_medium=RSS&at_campaign=rss))
 - Family left with nothing as bonfire spreads to home ([1 days ago](https://www.bbc.co.uk/news/articles/cp30559k261o?at_medium=RSS&at_campaign=rss))
 - 'Concerns' as marquee replaced outside historic hotel ([1 days ago](https://www.bbc.co.uk/news/articles/cgjqv35xpwvo?at_medium=RSS&at_campaign=rss))
 - 'Self-proclaimed misogynist' posed 'risk' to women ([1 days ago](https://www.bbc.co.uk/news/articles/cd9489jewq7o?at_medium=RSS&at_campaign=rss))
@@ -37,8 +37,8 @@ permalink: /cheltenham-news
 - Review: The Choir of Man ([14 days ago](https://gloucesternewscentre.co.uk/review-the-choir-of-man/))
 - CCTV appeal following high-value theft from jewellers in Cheltenham ([17 days ago](https://gloucesternewscentre.co.uk/cctv-appeal-following-high-value-theft-from-jewellers-in-cheltenham/))
 - Reach New Heights This Summer at The Brewery Quarter with Free Family Events Throughout August ([22 days ago](https://cheltenhambid.co.uk/2026/08/06/reach-new-heights-this-summer-at-the-brewery-quarter-with-free-family-events-throughout-august/))
-- Concerns town looks ‘neglected’ ([27 days ago](https://gloucesternewscentre.co.uk/concerns-town-looks-neglected/))
-- Windows of Cav House to display artwork ([27 days ago](https://gloucesternewscentre.co.uk/windows-of-cav-house-to-display-artwork/))
-- Questions over Municipal Offices sale ([27 days ago](https://gloucesternewscentre.co.uk/questions-over-municipal-offices-sale/))
+- Concerns town looks ‘neglected’ ([28 days ago](https://gloucesternewscentre.co.uk/concerns-town-looks-neglected/))
+- Windows of Cav House to display artwork ([28 days ago](https://gloucesternewscentre.co.uk/windows-of-cav-house-to-display-artwork/))
+- Questions over Municipal Offices sale ([28 days ago](https://gloucesternewscentre.co.uk/questions-over-municipal-offices-sale/))
 
 <!-- news_marker ends -->
