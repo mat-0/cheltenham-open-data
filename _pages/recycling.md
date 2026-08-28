@@ -85,7 +85,7 @@ The main recycling centre for Cheltenham is located at Wingmoor Farm, half mile 
 
 ### Can I recycle medication blister packs?
 
-- Yes, you can recycle these at Boots, if you use the Boots Card you can collect points for each pack recycled.
+- Yes, you can recycle these at both Boots and SuperDrug, if you use the Boots Advantage Card you can take a photo and collect points for each pack recycled.
 
 ### Can I recycle thin plastics?
 
