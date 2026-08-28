@@ -39,6 +39,16 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Drain cover outside driveway of 80a & 78 Gretton Road, 28th August :- [10018763](https://www.fixmystreet.com/report/10018763)
+- Still waiting for bus shelters both sides of road at Greyhound Gardens stops for ovrr s year and winter is coming with much rain, 28th August :- [10018436](https://www.fixmystreet.com/report/10018436)
+- The hedges are so overgrown in to the road high sided vehicles are forcing cars in to the hedges., 28th August :- [10018373](https://www.fixmystreet.com/report/10018373)
+- Muddy Lane blocked barrier at both ends of the green lane., 28th August :- [10018356](https://www.fixmystreet.com/report/10018356)
+- TMC - Defects -other CW6 problem, 28th August :- [10018309](https://www.fixmystreet.com/report/10018309)
+- Pavement breaking up creating a pedestrian hazard. It is reported as fixed but it is not ., 28th August :- [10018217](https://www.fixmystreet.com/report/10018217)
+- A bag of trash on the pavement again, 28th August :- [10018043](https://www.fixmystreet.com/report/10018043)
+- TMC - Defects -other CW6 problem, 28th August :- [10018138](https://www.fixmystreet.com/report/10018138)
+- Next To Lamppost No3, an overgrown Elderberry Shrub, requires professional tree/shrub reduction, with contract removal of tree/shrub waste., 28th August :- [10017739](https://www.fixmystreet.com/report/10017739)
+- Overfilled skip and extra fly tipping, 28th August :- [10017710](https://www.fixmystreet.com/report/10017710)
 - Abandoned remains of bicycle, 28th August :- [10017526](https://www.fixmystreet.com/report/10017526)
 - Brambles growing across footbridge over A40, 28th August :- [10017213](https://www.fixmystreet.com/report/10017213)
 - TMC - Defects - Vegetation problem, 28th August :- [10017158](https://www.fixmystreet.com/report/10017158)
@@ -49,16 +59,6 @@ over time but remain permanently viewable on FixMyStreet itself.
 - 10” pothole on inner dual carriageway, 28th August :- [10016406](https://www.fixmystreet.com/report/10016406)
 - TMC - Defects -other CW10 problem, 28th August :- [10016025](https://www.fixmystreet.com/report/10016025)
 - Drain completely blocked with dirt, 28th August :- [10015936](https://www.fixmystreet.com/report/10015936)
-- Overgrown shrubbery/hedge, 28th August :- [10015378](https://www.fixmystreet.com/report/10015378)
-- Construction traffic leaving mud on road, 28th August :- [10015301](https://www.fixmystreet.com/report/10015301)
-- Tree dangerously large, 28th August :- [10015139](https://www.fixmystreet.com/report/10015139)
-- Streetlight out on London Road, 27th August :- [10014517](https://www.fixmystreet.com/report/10014517)
-- Graffiti on 5g pole, 27th August :- [10014383](https://www.fixmystreet.com/report/10014383)
-- Graffiti, 27th August :- [10014114](https://www.fixmystreet.com/report/10014114)
-- No timetable, 27th August :- [10014078](https://www.fixmystreet.com/report/10014078)
-- Smashed glass display, 27th August :- [10013991](https://www.fixmystreet.com/report/10013991)
-- Green waste tipped, 27th August :- [10013928](https://www.fixmystreet.com/report/10013928)
-- Flytipped item, 27th August :- [10013850](https://www.fixmystreet.com/report/10013850)
 
 <!-- fix_marker ends -->
 
