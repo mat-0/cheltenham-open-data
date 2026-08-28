@@ -39,6 +39,17 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Abandoned remains of bicycle, 28th August :- [10017526](https://www.fixmystreet.com/report/10017526)
+- Brambles growing across footbridge over A40, 28th August :- [10017213](https://www.fixmystreet.com/report/10017213)
+- TMC - Defects - Vegetation problem, 28th August :- [10017158](https://www.fixmystreet.com/report/10017158)
+- Water not draining, 28th August :- [10017065](https://www.fixmystreet.com/report/10017065)
+- Constant parking in front of my driveway, 28th August :- [10016536](https://www.fixmystreet.com/report/10016536)
+- TMC - Defects - Vegetation problem, 28th August :- [10016481](https://www.fixmystreet.com/report/10016481)
+- Flytipping, 28th August :- [10016410](https://www.fixmystreet.com/report/10016410)
+- 10” pothole on inner dual carriageway, 28th August :- [10016406](https://www.fixmystreet.com/report/10016406)
+- TMC - Defects -other CW10 problem, 28th August :- [10016025](https://www.fixmystreet.com/report/10016025)
+- Drain completely blocked with dirt, 28th August :- [10015936](https://www.fixmystreet.com/report/10015936)
+- Overgrown shrubbery/hedge, 28th August :- [10015378](https://www.fixmystreet.com/report/10015378)
 - Construction traffic leaving mud on road, 28th August :- [10015301](https://www.fixmystreet.com/report/10015301)
 - Tree dangerously large, 28th August :- [10015139](https://www.fixmystreet.com/report/10015139)
 - Streetlight out on London Road, 27th August :- [10014517](https://www.fixmystreet.com/report/10014517)
@@ -48,17 +59,6 @@ over time but remain permanently viewable on FixMyStreet itself.
 - Smashed glass display, 27th August :- [10013991](https://www.fixmystreet.com/report/10013991)
 - Green waste tipped, 27th August :- [10013928](https://www.fixmystreet.com/report/10013928)
 - Flytipped item, 27th August :- [10013850](https://www.fixmystreet.com/report/10013850)
-- Large amount of Flytipped rubbish, 27th August :- [10013771](https://www.fixmystreet.com/report/10013771)
-- Drain at bottom of driveway blocked with rubble. Drain cover broken, 27th August :- [10013569](https://www.fixmystreet.com/report/10013569)
-- New road surface obscures cream tarmac turning guide, 27th August :- [10013515](https://www.fixmystreet.com/report/10013515)
-- Multiple pot holes in the close by 5 and 6 friars close, 27th August :- [10013480](https://www.fixmystreet.com/report/10013480)
-- TMC - Defects - Vegetation problem, 27th August :- [10012879](https://www.fixmystreet.com/report/10012879)
-- Lid of chamber in correct and broken, 27th August :- [10012360](https://www.fixmystreet.com/report/10012360)
-- Brain Blocked, 27th August :- [10011894](https://www.fixmystreet.com/report/10011894)
-- 33 shakespeare road .cheltenham, 27th August :- [10012076](https://www.fixmystreet.com/report/10012076)
-- Flooded - blockage, 27th August :- [10011851](https://www.fixmystreet.com/report/10011851)
-- Mud on stretch of road, 27th August :- [10011421](https://www.fixmystreet.com/report/10011421)
-- Tree is damaged problem, 27th August :- [10011491](https://www.fixmystreet.com/report/10011491)
 
 <!-- fix_marker ends -->
 
