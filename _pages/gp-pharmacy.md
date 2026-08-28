@@ -61,7 +61,7 @@ Addresses link to googlemaps and phone numbers use the `tel:` protocol and shoul
 - Address: [St. Pauls Medical Centre, 121 Swindon Road, Cheltenham, GL50 4DP](https://www.google.com/maps/search/?api=1&query=St.+Pauls+Medical+Centre%2C+121+Swindon+Road%2C+Cheltenham%2C+GL50+4DP)
 - Phone: [01242 215010](tel:01242215010)
 
-### The Stoke Road Surgery
+### The Stoke Road Surgery,
 
 - Address: [4 Stoke Road, Bishops Cleeve, Cheltenham, GL52 8RP](https://www.google.com/maps/search/?api=1&query=4+Stoke+Road%2C+Bishops+Cleeve%2C+Cheltenham%2C+GL52+8RP)
 - Phone: [01242 672007](tel:01242672007)
@@ -263,7 +263,7 @@ Addresses link to googlemaps and phone numbers use the `tel:` protocol and shoul
 - Address: [Windyridge Road, Cheltenham, GL50 4RA](https://www.google.com/maps/search/?api=1&query=Windyridge+Road%2C+Cheltenham%2C+GL50+4RA)
 - Phone: [01242 221988](tel:01242221988)
 
-*Source: [NHS Organisation Data Service](https://digital.nhs.uk/services/organisation-data-service). Data last refreshed 2026-08-27 21:00 UTC.*
+*Source: [NHS Organisation Data Service](https://digital.nhs.uk/services/organisation-data-service). Data last refreshed 2026-08-28 00:01 UTC.*
 
 <!-- gp_pharmacy_finder ends -->
 

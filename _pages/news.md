@@ -10,11 +10,11 @@ permalink: /cheltenham-news
 ---
 
 <!-- news_marker starts -->
-- Family left with nothing as bonfire spreads to home ([1 hours ago](https://www.bbc.co.uk/news/articles/cp30559k261o?at_medium=RSS&at_campaign=rss))
-- 'Concerns' as marquee replaced outside historic hotel ([4 hours ago](https://www.bbc.co.uk/news/articles/cgjqv35xpwvo?at_medium=RSS&at_campaign=rss))
-- 'Self-proclaimed misogynist' posed 'risk' to women ([7 hours ago](https://www.bbc.co.uk/news/articles/cd9489jewq7o?at_medium=RSS&at_campaign=rss))
-- Beatles, Bach & Brunel: History festival returns ([14 hours ago](https://www.bbc.co.uk/news/articles/c62kd02011yo?at_medium=RSS&at_campaign=rss))
-- How can you see Friday's 'Magical' Blood Moon? ([14 hours ago](https://www.bbc.co.uk/news/articles/crerdrlepg8o?at_medium=RSS&at_campaign=rss))
+- Family left with nothing as bonfire spreads to home ([5 hours ago](https://www.bbc.co.uk/news/articles/cp30559k261o?at_medium=RSS&at_campaign=rss))
+- 'Concerns' as marquee replaced outside historic hotel ([7 hours ago](https://www.bbc.co.uk/news/articles/cgjqv35xpwvo?at_medium=RSS&at_campaign=rss))
+- 'Self-proclaimed misogynist' posed 'risk' to women ([10 hours ago](https://www.bbc.co.uk/news/articles/cd9489jewq7o?at_medium=RSS&at_campaign=rss))
+- Beatles, Bach & Brunel: History festival returns ([18 hours ago](https://www.bbc.co.uk/news/articles/c62kd02011yo?at_medium=RSS&at_campaign=rss))
+- How can you see Friday's 'Magical' Blood Moon? ([18 hours ago](https://www.bbc.co.uk/news/articles/crerdrlepg8o?at_medium=RSS&at_campaign=rss))
 - Prince Harry and Meghan 'moving to the Cotswolds' ([1 days ago](https://www.bbc.co.uk/news/articles/czrzm6p6zxeo?at_medium=RSS&at_campaign=rss))
 - Council says cracking road to stay shut until 2027 ([1 days ago](https://www.bbc.co.uk/news/articles/cp8dey8k6ydo?at_medium=RSS&at_campaign=rss))
 - Gloucestershire records first deadly virus case ([1 days ago](https://www.bbc.co.uk/news/articles/c7v4616e538o?at_medium=RSS&at_campaign=rss))
@@ -32,15 +32,15 @@ permalink: /cheltenham-news
 - Hope restoring historic ponds will boost wildlife ([3 days ago](https://www.bbc.co.uk/news/articles/c5ymk0vxe5lo?at_medium=RSS&at_campaign=rss))
 - Man racially abused and punched two other men in Cheltenham ([10 days ago](https://gloucesternewscentre.co.uk/man-racially-abused-and-punched-two-other-men-in-cheltenham/))
 - Frustration as people are ‘forced to drive miles’ because of tip closures ([10 days ago](https://gloucesternewscentre.co.uk/frustration-as-people-are-forced-to-drive-miles-because-of-tip-closures/))
-- BBC Radio Gloucestershire Special ([12 days ago](https://www.bbc.co.uk/sounds/play/m002hp4x?at_medium=RSS&at_campaign=rss))
+- BBC Radio Gloucestershire Special ([13 days ago](https://www.bbc.co.uk/sounds/play/m002hp4x?at_medium=RSS&at_campaign=rss))
 - England, Wales ([13 days ago](https://www.gov.uk/alerts/14-aug-2026-2))
 - Wales ([13 days ago](https://www.gov.uk/alerts/14-aug-2026))
 - Free family events at The Brewery Quarter in August ([13 days ago](https://cheltenhampost.co.uk/free-family-events-at-the-brewery-quarter-in-august/))
 - Review: The Choir of Man ([13 days ago](https://gloucesternewscentre.co.uk/review-the-choir-of-man/))
 - CCTV appeal following high-value theft from jewellers in Cheltenham ([16 days ago](https://gloucesternewscentre.co.uk/cctv-appeal-following-high-value-theft-from-jewellers-in-cheltenham/))
 - Reach New Heights This Summer at The Brewery Quarter with Free Family Events Throughout August ([21 days ago](https://cheltenhambid.co.uk/2026/08/06/reach-new-heights-this-summer-at-the-brewery-quarter-with-free-family-events-throughout-august/))
-- Concerns town looks ‘neglected’ ([26 days ago](https://gloucesternewscentre.co.uk/concerns-town-looks-neglected/))
-- Windows of Cav House to display artwork ([26 days ago](https://gloucesternewscentre.co.uk/windows-of-cav-house-to-display-artwork/))
-- Questions over Municipal Offices sale ([26 days ago](https://gloucesternewscentre.co.uk/questions-over-municipal-offices-sale/))
+- Concerns town looks ‘neglected’ ([27 days ago](https://gloucesternewscentre.co.uk/concerns-town-looks-neglected/))
+- Windows of Cav House to display artwork ([27 days ago](https://gloucesternewscentre.co.uk/windows-of-cav-house-to-display-artwork/))
+- Questions over Municipal Offices sale ([27 days ago](https://gloucesternewscentre.co.uk/questions-over-municipal-offices-sale/))
 
 <!-- news_marker ends -->

@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-08-27T20:19:06.906680+00:00",
+  "generated_at": "2026-08-28T00:00:15.571002+00:00",
   "stats": {
-    "count": 1939,
+    "count": 1928,
     "median": 345000,
-    "mean": 458009,
+    "mean": 455914,
     "min": 7125,
     "max": 7050000,
     "by_type": {
       "Detached": {
-        "count": 432,
+        "count": 427,
         "median": 600000
       },
       "Flat-maisonette": {
-        "count": 402,
+        "count": 400,
         "median": 197250
       },
       "Semi-detached": {
-        "count": 528,
+        "count": 526,
         "median": 360310
       },
       "Terraced": {
-        "count": 508,
+        "count": 506,
         "median": 300000
       },
       "other": {
@@ -21236,127 +21236,6 @@
       "amount": 700000,
       "date": "2025-09-02",
       "property_type": "other",
-      "new_build": false
-    },
-    {
-      "paon": "THORESBY",
-      "saon": "16",
-      "street": "EVESHAM ROAD",
-      "town": "CHELTENHAM",
-      "postcode": "GL52 3JW",
-      "amount": 340000,
-      "date": "2025-09-01",
-      "property_type": "Flat-maisonette",
-      "new_build": false
-    },
-    {
-      "paon": "SARSDEN HOUSE",
-      "saon": null,
-      "street": null,
-      "town": "CHELTENHAM",
-      "postcode": "GL54 1HR",
-      "amount": 4000000,
-      "date": "2025-09-01",
-      "property_type": "Detached",
-      "new_build": false
-    },
-    {
-      "paon": "26",
-      "saon": null,
-      "street": "FAIRHAVEN ROAD",
-      "town": "CHELTENHAM",
-      "postcode": "GL53 7PH",
-      "amount": 415000,
-      "date": "2025-09-01",
-      "property_type": "Terraced",
-      "new_build": false
-    },
-    {
-      "paon": "SLADE BARN",
-      "saon": null,
-      "street": null,
-      "town": "CHELTENHAM",
-      "postcode": "GL54 5SZ",
-      "amount": 1640000,
-      "date": "2025-09-01",
-      "property_type": "Detached",
-      "new_build": false
-    },
-    {
-      "paon": "CADOGAN HOUSE, 50 - 52",
-      "saon": "FLAT 5",
-      "street": "ALL SAINTS ROAD",
-      "town": "CHELTENHAM",
-      "postcode": "GL52 2HA",
-      "amount": 125000,
-      "date": "2025-09-01",
-      "property_type": "Flat-maisonette",
-      "new_build": false
-    },
-    {
-      "paon": "10",
-      "saon": null,
-      "street": "HILLIER DRIVE",
-      "town": "CHELTENHAM",
-      "postcode": "GL51 3WE",
-      "amount": 530000,
-      "date": "2025-09-01",
-      "property_type": "Detached",
-      "new_build": false
-    },
-    {
-      "paon": "86",
-      "saon": null,
-      "street": "STATION ROAD",
-      "town": "CHELTENHAM",
-      "postcode": "GL52 8HJ",
-      "amount": 385000,
-      "date": "2025-09-01",
-      "property_type": "Detached",
-      "new_build": false
-    },
-    {
-      "paon": "23",
-      "saon": null,
-      "street": "DOWTY ROAD",
-      "town": "CHELTENHAM",
-      "postcode": "GL51 7QG",
-      "amount": 200000,
-      "date": "2025-09-01",
-      "property_type": "Terraced",
-      "new_build": false
-    },
-    {
-      "paon": "80",
-      "saon": null,
-      "street": "WINDYRIDGE GARDENS",
-      "town": "CHELTENHAM",
-      "postcode": "GL50 4SZ",
-      "amount": 240000,
-      "date": "2025-09-01",
-      "property_type": "Semi-detached",
-      "new_build": false
-    },
-    {
-      "paon": "11",
-      "saon": null,
-      "street": "AMARANTH WAY",
-      "town": "CHELTENHAM",
-      "postcode": "GL51 3YU",
-      "amount": 576000,
-      "date": "2025-09-01",
-      "property_type": "Detached",
-      "new_build": false
-    },
-    {
-      "paon": "17",
-      "saon": null,
-      "street": "BEECHURST AVENUE",
-      "town": "CHELTENHAM",
-      "postcode": "GL52 6TY",
-      "amount": 625000,
-      "date": "2025-09-01",
-      "property_type": "Semi-detached",
       "new_build": false
     }
   ]

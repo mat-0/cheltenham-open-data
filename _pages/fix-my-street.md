@@ -39,6 +39,7 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Streetlight out on London Road, 27th August :- [10014517](https://www.fixmystreet.com/report/10014517)
 - Graffiti on 5g pole, 27th August :- [10014383](https://www.fixmystreet.com/report/10014383)
 - Graffiti, 27th August :- [10014114](https://www.fixmystreet.com/report/10014114)
 - No timetable, 27th August :- [10014078](https://www.fixmystreet.com/report/10014078)
@@ -58,7 +59,6 @@ over time but remain permanently viewable on FixMyStreet itself.
 - Tree is damaged problem, 27th August :- [10011491](https://www.fixmystreet.com/report/10011491)
 - Please 3G plain the meaning of the arrows painted on North Place. Seem confusing, as if this is a one way road., 27th August :- [10011245](https://www.fixmystreet.com/report/10011245)
 - 2 barriers left on verge after ash tree bough removed last week., 27th August :- [10011202](https://www.fixmystreet.com/report/10011202)
-- Paving slab undermined/sinking. A number of walls are in this area. Could be the result of extensive tunnelling by rodents., 27th August :- [10011109](https://www.fixmystreet.com/report/10011109)
 
 <!-- fix_marker ends -->
 
