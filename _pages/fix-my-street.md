@@ -39,6 +39,8 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Construction traffic leaving mud on road, 28th August :- [10015301](https://www.fixmystreet.com/report/10015301)
+- Tree dangerously large, 28th August :- [10015139](https://www.fixmystreet.com/report/10015139)
 - Streetlight out on London Road, 27th August :- [10014517](https://www.fixmystreet.com/report/10014517)
 - Graffiti on 5g pole, 27th August :- [10014383](https://www.fixmystreet.com/report/10014383)
 - Graffiti, 27th August :- [10014114](https://www.fixmystreet.com/report/10014114)
@@ -57,8 +59,6 @@ over time but remain permanently viewable on FixMyStreet itself.
 - Flooded - blockage, 27th August :- [10011851](https://www.fixmystreet.com/report/10011851)
 - Mud on stretch of road, 27th August :- [10011421](https://www.fixmystreet.com/report/10011421)
 - Tree is damaged problem, 27th August :- [10011491](https://www.fixmystreet.com/report/10011491)
-- Please 3G plain the meaning of the arrows painted on North Place. Seem confusing, as if this is a one way road., 27th August :- [10011245](https://www.fixmystreet.com/report/10011245)
-- 2 barriers left on verge after ash tree bough removed last week., 27th August :- [10011202](https://www.fixmystreet.com/report/10011202)
 
 <!-- fix_marker ends -->
 
