@@ -39,6 +39,8 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Speed control area stone blocks are loose and causing flood water, 28th August :- [10019168](https://www.fixmystreet.com/report/10019168)
+- Road surface sinking opposite turning to Elmstone Hardwicke, 28th August :- [10019167](https://www.fixmystreet.com/report/10019167)
 - Drain cover outside driveway of 80a & 78 Gretton Road, 28th August :- [10018763](https://www.fixmystreet.com/report/10018763)
 - Still waiting for bus shelters both sides of road at Greyhound Gardens stops for ovrr s year and winter is coming with much rain, 28th August :- [10018436](https://www.fixmystreet.com/report/10018436)
 - The hedges are so overgrown in to the road high sided vehicles are forcing cars in to the hedges., 28th August :- [10018373](https://www.fixmystreet.com/report/10018373)
@@ -57,8 +59,6 @@ over time but remain permanently viewable on FixMyStreet itself.
 - TMC - Defects - Vegetation problem, 28th August :- [10016481](https://www.fixmystreet.com/report/10016481)
 - Flytipping, 28th August :- [10016410](https://www.fixmystreet.com/report/10016410)
 - 10” pothole on inner dual carriageway, 28th August :- [10016406](https://www.fixmystreet.com/report/10016406)
-- TMC - Defects -other CW10 problem, 28th August :- [10016025](https://www.fixmystreet.com/report/10016025)
-- Drain completely blocked with dirt, 28th August :- [10015936](https://www.fixmystreet.com/report/10015936)
 
 <!-- fix_marker ends -->
 
