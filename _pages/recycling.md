@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Cheltenham Recycling"
-seo: "Cheltenham recycling options in Cheltenham including locations and recycling items FAQ"
+seo: "Cheltenham recycling options in Cheltenham including locations, recycling items FAQ, and refillable and plastic free shopping"
 permalink: /cheltenham-recycling
 description: "Cheltenham Recycling Options in Cheltenham"
 type: "recycle"
@@ -72,6 +72,30 @@ The main recycling centre for Cheltenham is located at Wingmoor Farm, half mile 
 - Glass, Cans, Paper, Textiles and shoes, Mixed plastics
 
 <!-- recycling_banks ends -->
+
+## Refillable and Plastic Free Shopping
+
+There are a number of local shops that offer refillable (bring your own container) produce, environmental friendly and renewable products
+
+### [Foodloose](https://foodloose.co.uk)
+
+- 15 Grosvenor Terrace, Cheltenham, GL52 2SA
+- [01242 894700](tel:01242894700)
+
+### Waitrose
+
+- Honeybourne Way, Cheltenham GL50 3QW
+-[01242 241425](tel:01242241425)
+
+### The Natural Grocery Store
+
+- 150-156 Bath Rd, Cheltenham GL53 7NG
+- [01242 243737](tel:01242243737)
+
+### Charlton Pharmacy
+
+- 39 Lyefield Rd W, Charlton Kings, Cheltenham GL53 8EZ
+- [01242 522207](tel:01242522207)
 
 ## Frequently Asked Questions
 
