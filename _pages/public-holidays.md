@@ -1,9 +1,9 @@
 ---
 layout: holidays
 title: Public Holidays in Cheltenham & Gloucestershire.
-seo: "Latest confirmed public holidays for Cheltenham"
+seo: "Latest confirmed public holidays for Cheltenham and the UK including Christmas and Easter bank holidays"
 permalink: /cheltenham-public-holidays
-description: Public holidays in Cheltenham
+description: Public holidays in Cheltenham and the UK
 ---
 
 ## Upcoming Public Holidays

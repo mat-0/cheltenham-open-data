@@ -1,8 +1,0 @@
-<?xml version="1.0" ?>
-<rss version="2.0">
-  <channel>
-    <title>Flood Warnings</title>
-    <link>https://environment.data.gov.uk/flood-monitoring/id/floods</link>
-    <description>Current flood warnings for Gloucestershire</description>
-  </channel>
-</rss>

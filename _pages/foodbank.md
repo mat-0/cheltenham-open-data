@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Cheltenham Food Bank Needed Items"
-seo: "food bank needed and wanted items for Cheltenham"
+seo: "food bank needed and wanted items for two major Cheltenham food banks to donate food and items"
 permalink: /cheltenham-foodbank-needed-items
 description: "Needed items for Cheltenham foodbanks"
 type: "food"
@@ -41,7 +41,7 @@ Last updated: 2026-08-21
 ### Contact Details
 
 <!-- contact1_marker starts -->
-- Email: foodbank@cheltenhamelim.org
+- Email: <foodbank@cheltenhamelim.org>
 - Tel: 01242570080
 - Address: Cheltenham Elim Church 115-117 St George's Road Cheltenham GL50 3ED
 - Network: Trussell
@@ -108,7 +108,7 @@ Last updated: 2025-03-30
 ### Contact Details
 
 <!-- contact2_marker starts -->
-- Email: treasurer@cheltenhamopendoor.org.uk
+- Email: <treasurer@cheltenhamopendoor.org.uk>
 - Tel: 01242577418
 - Address: Unit 3 St George’s Business Park Alstone Lane Cheltenham GL51 8HF
 - Network: Independent

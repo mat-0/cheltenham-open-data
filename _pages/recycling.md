@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Cheltenham Recycling"
-seo: "Cheltenham recycling options in Cheltenham"
+seo: "Cheltenham recycling options in Cheltenham including locations and recycling items FAQ"
 permalink: /cheltenham-recycling
 description: "Cheltenham Recycling Options in Cheltenham"
 type: "recycle"
