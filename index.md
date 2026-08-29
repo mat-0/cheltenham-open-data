@@ -10,11 +10,11 @@ description: "Collecting and sharing frequently updated local open data for Chel
 <!-- weather_marker starts -->
 ## On Saturday, 29 August 2026
 
-- The average temperature today is 16.07˚C,
-- With highs of 16.58˚C and lows of 15.75˚C,
-- It may feel like 16.16˚C with light rain
-- The wind speed is 3.6m/s and visibility is 3063m
-- The pressure is 1003hPa and humidity is 93%
+- The average temperature today is 17.49˚C,
+- With highs of 18.51˚C and lows of 16.27˚C,
+- It may feel like 17.62˚C with overcast clouds
+- The wind speed is 7.72m/s and visibility is 10000m
+- The pressure is 1001hPa and humidity is 89%
 - The sun will rise at 05:15 and set at 19:03
 
 <!-- weather_marker ends -->

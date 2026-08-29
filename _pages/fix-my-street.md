@@ -39,6 +39,15 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- The whole street needs to be retarred. Too many holes, 29th August :- [10020875](https://www.fixmystreet.com/report/10020875)
+- TMC - Defects -CW6 Potholes  problem, 29th August :- [10020820](https://www.fixmystreet.com/report/10020820)
+- Broken glass by bike stands, 29th August :- [10020020](https://www.fixmystreet.com/report/10020020)
+- TMC - Defects -CW6 Potholes  problem, 29th August :- [10020819](https://www.fixmystreet.com/report/10020819)
+- Overgrown bushes blocking path outside number 38, 29th August :- [10020714](https://www.fixmystreet.com/report/10020714)
+- TMC - Defects -CW6 Potholes  problem, 29th August :- [10020712](https://www.fixmystreet.com/report/10020712)
+- TMC - Defects -CW6 Potholes  problem, 29th August :- [10020589](https://www.fixmystreet.com/report/10020589)
+- TMC - Defects -CW6 Potholes  problem, 29th August :- [10020588](https://www.fixmystreet.com/report/10020588)
+- TMC - Defects -FW6 Potholes problem, 29th August :- [10020501](https://www.fixmystreet.com/report/10020501)
 - Large fallen sycamore branch blocking pavement dangerously close to road, 29th August :- [10020438](https://www.fixmystreet.com/report/10020438)
 - TMC - Defects - Kerbs and Channels problem, 29th August :- [10020328](https://www.fixmystreet.com/report/10020328)
 - Parking on Double yellows, 29th August :- [10020019](https://www.fixmystreet.com/report/10020019)
@@ -50,15 +59,6 @@ over time but remain permanently viewable on FixMyStreet itself.
 - Muddy Lane blocked barrier at both ends of the green lane., 28th August :- [10018356](https://www.fixmystreet.com/report/10018356)
 - TMC - Defects -other CW6 problem, 28th August :- [10018309](https://www.fixmystreet.com/report/10018309)
 - Pavement breaking up creating a pedestrian hazard. It is reported as fixed but it is not ., 28th August :- [10018217](https://www.fixmystreet.com/report/10018217)
-- A bag of trash on the pavement again, 28th August :- [10018043](https://www.fixmystreet.com/report/10018043)
-- TMC - Defects -other CW6 problem, 28th August :- [10018138](https://www.fixmystreet.com/report/10018138)
-- Next To Lamppost No3, an overgrown Elderberry Shrub, requires professional tree/shrub reduction, with contract removal of tree/shrub waste., 28th August :- [10017739](https://www.fixmystreet.com/report/10017739)
-- Overfilled skip and extra fly tipping, 28th August :- [10017710](https://www.fixmystreet.com/report/10017710)
-- Abandoned remains of bicycle, 28th August :- [10017526](https://www.fixmystreet.com/report/10017526)
-- Brambles growing across footbridge over A40, 28th August :- [10017213](https://www.fixmystreet.com/report/10017213)
-- TMC - Defects - Vegetation problem, 28th August :- [10017158](https://www.fixmystreet.com/report/10017158)
-- Water not draining, 28th August :- [10017065](https://www.fixmystreet.com/report/10017065)
-- Constant parking in front of my driveway, 28th August :- [10016536](https://www.fixmystreet.com/report/10016536)
 
 <!-- fix_marker ends -->
 
