@@ -10,6 +10,7 @@ job_type: "Monthly market"
 date: 2026-01-01
 expires: 2030-01-01
 robots: noindex
+seo: "Cheltenham Farmers Market runs January to November on the 2nd and last friday of the month"
 ---
 
 Cheltenham's Farmers Market brings local producers together for fresh food

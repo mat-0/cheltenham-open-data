@@ -12,6 +12,7 @@ expires: 2027-02-23
 apply_url: https://apps.apple.com/gb/app/shortkeys/id6755919256
 apply_text: "View App Store"
 robots: noindex
+seo: "ShortKeys - Multi-line Text Expansion and Text Replacement app for iOS"
 ---
 
 ShortKeys is a text expansion app for iOS that turns short custom shortcuts

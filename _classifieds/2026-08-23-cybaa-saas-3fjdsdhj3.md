@@ -12,6 +12,7 @@ expires: 2027-02-23
 apply_url: https://cybaa.io
 apply_text: "Visit Cybaa"
 robots: noindex
+seo: "Cybaa - DNS, Domain and Website Security Made Simple"
 ---
 
 Cybaa helps small and medium sized businesses monitor the security

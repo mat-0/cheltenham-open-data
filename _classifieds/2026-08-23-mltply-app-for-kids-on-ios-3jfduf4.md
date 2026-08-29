@@ -12,6 +12,7 @@ expires: 2027-02-19
 apply_url: https://apps.apple.com/gb/app/mltply/id6747147316
 apply_text: "View App Store"
 robots: noindex
+seo: "Mltply - The Maths Chat-like game for Kids on Apple iOS"
 ---
 
 Mltply is a friendly maths chat buddy for kids, aged 6-8 and up. Buddy, a
