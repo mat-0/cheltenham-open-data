@@ -39,6 +39,8 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Vegetation Overgrown, 29th August :- [10021650](https://www.fixmystreet.com/report/10021650)
+- Nitrous oxide cylinders, 29th August :- [10021655](https://www.fixmystreet.com/report/10021655)
 - Tree collapse..., 29th August :- [10021073](https://www.fixmystreet.com/report/10021073)
 - The whole street needs to be retarred. Too many holes, 29th August :- [10020875](https://www.fixmystreet.com/report/10020875)
 - TMC - Defects -other CW6 problem, 29th August :- [10020937](https://www.fixmystreet.com/report/10020937)
@@ -57,8 +59,6 @@ over time but remain permanently viewable on FixMyStreet itself.
 - Road surface sinking opposite turning to Elmstone Hardwicke, 28th August :- [10019167](https://www.fixmystreet.com/report/10019167)
 - Drain cover outside driveway of 80a & 78 Gretton Road, 28th August :- [10018763](https://www.fixmystreet.com/report/10018763)
 - Still waiting for bus shelters both sides of road at Greyhound Gardens stops for ovrr s year and winter is coming with much rain, 28th August :- [10018436](https://www.fixmystreet.com/report/10018436)
-- The hedges are so overgrown in to the road high sided vehicles are forcing cars in to the hedges., 28th August :- [10018373](https://www.fixmystreet.com/report/10018373)
-- Muddy Lane blocked barrier at both ends of the green lane., 28th August :- [10018356](https://www.fixmystreet.com/report/10018356)
 
 <!-- fix_marker ends -->
 
