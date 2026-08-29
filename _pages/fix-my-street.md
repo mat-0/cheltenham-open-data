@@ -39,7 +39,9 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Tree collapse..., 29th August :- [10021073](https://www.fixmystreet.com/report/10021073)
 - The whole street needs to be retarred. Too many holes, 29th August :- [10020875](https://www.fixmystreet.com/report/10020875)
+- TMC - Defects -other CW6 problem, 29th August :- [10020937](https://www.fixmystreet.com/report/10020937)
 - TMC - Defects -CW6 Potholes  problem, 29th August :- [10020820](https://www.fixmystreet.com/report/10020820)
 - Broken glass by bike stands, 29th August :- [10020020](https://www.fixmystreet.com/report/10020020)
 - TMC - Defects -CW6 Potholes  problem, 29th August :- [10020819](https://www.fixmystreet.com/report/10020819)
@@ -57,8 +59,6 @@ over time but remain permanently viewable on FixMyStreet itself.
 - Still waiting for bus shelters both sides of road at Greyhound Gardens stops for ovrr s year and winter is coming with much rain, 28th August :- [10018436](https://www.fixmystreet.com/report/10018436)
 - The hedges are so overgrown in to the road high sided vehicles are forcing cars in to the hedges., 28th August :- [10018373](https://www.fixmystreet.com/report/10018373)
 - Muddy Lane blocked barrier at both ends of the green lane., 28th August :- [10018356](https://www.fixmystreet.com/report/10018356)
-- TMC - Defects -other CW6 problem, 28th August :- [10018309](https://www.fixmystreet.com/report/10018309)
-- Pavement breaking up creating a pedestrian hazard. It is reported as fixed but it is not ., 28th August :- [10018217](https://www.fixmystreet.com/report/10018217)
 
 <!-- fix_marker ends -->
 
