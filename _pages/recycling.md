@@ -97,6 +97,11 @@ There are a number of local shops that offer refillable (bring your own containe
 - 39 Lyefield Rd W, Charlton Kings, Cheltenham GL53 8EZ
 - [01242 522207](tel:01242522207)
 
+### [Ella Hair Salon](https://ellahair.co.uk/ella-shampoo-and-conditioner-refill-bar/)
+
+- 208 Bath Road, Cheltenham GL53 7NE
+- [01242 526 333](tel:01242526333)
+
 ## Frequently Asked Questions
 
 ### Can I recycle coffee pods?
