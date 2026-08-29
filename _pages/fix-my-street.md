@@ -39,6 +39,10 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Wirdmpath, 29th August :- [10021991](https://www.fixmystreet.com/report/10021991)
+- Field ploughed, 29th August :- [10021973](https://www.fixmystreet.com/report/10021973)
+- Undulating Road Following Sewer Collapse, 29th August :- [10021871](https://www.fixmystreet.com/report/10021871)
+- Overgrown Vegetation, 29th August :- [10021659](https://www.fixmystreet.com/report/10021659)
 - Vegetation Overgrown, 29th August :- [10021650](https://www.fixmystreet.com/report/10021650)
 - Nitrous oxide cylinders, 29th August :- [10021655](https://www.fixmystreet.com/report/10021655)
 - Tree collapse..., 29th August :- [10021073](https://www.fixmystreet.com/report/10021073)
@@ -55,10 +59,6 @@ over time but remain permanently viewable on FixMyStreet itself.
 - Large fallen sycamore branch blocking pavement dangerously close to road, 29th August :- [10020438](https://www.fixmystreet.com/report/10020438)
 - TMC - Defects - Kerbs and Channels problem, 29th August :- [10020328](https://www.fixmystreet.com/report/10020328)
 - Parking on Double yellows, 29th August :- [10020019](https://www.fixmystreet.com/report/10020019)
-- Speed control area stone blocks are loose and causing flood water, 28th August :- [10019168](https://www.fixmystreet.com/report/10019168)
-- Road surface sinking opposite turning to Elmstone Hardwicke, 28th August :- [10019167](https://www.fixmystreet.com/report/10019167)
-- Drain cover outside driveway of 80a & 78 Gretton Road, 28th August :- [10018763](https://www.fixmystreet.com/report/10018763)
-- Still waiting for bus shelters both sides of road at Greyhound Gardens stops for ovrr s year and winter is coming with much rain, 28th August :- [10018436](https://www.fixmystreet.com/report/10018436)
 
 <!-- fix_marker ends -->
 
