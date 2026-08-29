@@ -10,11 +10,11 @@ permalink: /cheltenham-news
 ---
 
 <!-- news_marker starts -->
-- Could Harry and Meghan settle in the Cotswolds? ([9 hours ago](https://www.bbc.co.uk/news/videos/cj9xn4z7kkwo?at_medium=RSS&at_campaign=rss))
-- 'Jury still out' on Bibury traffic measures ([11 hours ago](https://www.bbc.co.uk/news/articles/cy7zdmp2pdeo?at_medium=RSS&at_campaign=rss))
-- City plagued by people 'drunk all day long' and fights ([19 hours ago](https://www.bbc.co.uk/news/articles/ckgw54y9k53o?at_medium=RSS&at_campaign=rss))
-- Events on in the West this bank holiday weekend ([19 hours ago](https://www.bbc.co.uk/news/articles/c8jd7rxy2vpo?at_medium=RSS&at_campaign=rss))
-- What it is like on a 10-hour shift as a paramedic during the summer ([19 hours ago](https://www.bbc.co.uk/news/articles/c8e3rnr7gpeo?at_medium=RSS&at_campaign=rss))
+- Could Harry and Meghan settle in the Cotswolds? ([13 hours ago](https://www.bbc.co.uk/news/videos/cj9xn4z7kkwo?at_medium=RSS&at_campaign=rss))
+- 'Jury still out' on Bibury traffic measures ([15 hours ago](https://www.bbc.co.uk/news/articles/cy7zdmp2pdeo?at_medium=RSS&at_campaign=rss))
+- City plagued by people 'drunk all day long' and fights ([23 hours ago](https://www.bbc.co.uk/news/articles/ckgw54y9k53o?at_medium=RSS&at_campaign=rss))
+- Events on in the West this bank holiday weekend ([23 hours ago](https://www.bbc.co.uk/news/articles/c8jd7rxy2vpo?at_medium=RSS&at_campaign=rss))
+- What it is like on a 10-hour shift as a paramedic during the summer ([23 hours ago](https://www.bbc.co.uk/news/articles/c8e3rnr7gpeo?at_medium=RSS&at_campaign=rss))
 - Family left with nothing as bonfire spreads to home ([1 days ago](https://www.bbc.co.uk/news/articles/cp30559k261o?at_medium=RSS&at_campaign=rss))
 - 'Concerns' as marquee replaced outside historic hotel ([1 days ago](https://www.bbc.co.uk/news/articles/cgjqv35xpwvo?at_medium=RSS&at_campaign=rss))
 - 'Self-proclaimed misogynist' posed 'risk' to women ([1 days ago](https://www.bbc.co.uk/news/articles/cd9489jewq7o?at_medium=RSS&at_campaign=rss))

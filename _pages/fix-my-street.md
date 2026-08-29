@@ -39,6 +39,7 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Parking on Double yellows, 29th August :- [10020019](https://www.fixmystreet.com/report/10020019)
 - Speed control area stone blocks are loose and causing flood water, 28th August :- [10019168](https://www.fixmystreet.com/report/10019168)
 - Road surface sinking opposite turning to Elmstone Hardwicke, 28th August :- [10019167](https://www.fixmystreet.com/report/10019167)
 - Drain cover outside driveway of 80a & 78 Gretton Road, 28th August :- [10018763](https://www.fixmystreet.com/report/10018763)
@@ -58,7 +59,6 @@ over time but remain permanently viewable on FixMyStreet itself.
 - Constant parking in front of my driveway, 28th August :- [10016536](https://www.fixmystreet.com/report/10016536)
 - TMC - Defects - Vegetation problem, 28th August :- [10016481](https://www.fixmystreet.com/report/10016481)
 - Flytipping, 28th August :- [10016410](https://www.fixmystreet.com/report/10016410)
-- 10” pothole on inner dual carriageway, 28th August :- [10016406](https://www.fixmystreet.com/report/10016406)
 
 <!-- fix_marker ends -->
 
