@@ -18,7 +18,7 @@ There are a number of local shops that offer refillable (bring your own containe
 ### Waitrose
 
 - Honeybourne Way, Cheltenham GL50 3QW
--[01242 241425](tel:01242241425)
+- [01242 241425](tel:01242241425)
 
 ### The Natural Grocery Store
 
