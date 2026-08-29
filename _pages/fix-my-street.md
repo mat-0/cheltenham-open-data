@@ -39,6 +39,9 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Tree has fallen and blocking the footpath , and back exit from nr 16 Honeybourne Drive garden, 29th August :- [10022317](https://www.fixmystreet.com/report/10022317)
+- Smashed glass over skatepark, 29th August :- [10022271](https://www.fixmystreet.com/report/10022271)
+- Foot wide pothole in middle of road, 29th August :- [10022075](https://www.fixmystreet.com/report/10022075)
 - Wirdmpath, 29th August :- [10021991](https://www.fixmystreet.com/report/10021991)
 - Field ploughed, 29th August :- [10021973](https://www.fixmystreet.com/report/10021973)
 - Undulating Road Following Sewer Collapse, 29th August :- [10021871](https://www.fixmystreet.com/report/10021871)
@@ -56,9 +59,6 @@ over time but remain permanently viewable on FixMyStreet itself.
 - TMC - Defects -CW6 Potholes  problem, 29th August :- [10020589](https://www.fixmystreet.com/report/10020589)
 - TMC - Defects -CW6 Potholes  problem, 29th August :- [10020588](https://www.fixmystreet.com/report/10020588)
 - TMC - Defects -FW6 Potholes problem, 29th August :- [10020501](https://www.fixmystreet.com/report/10020501)
-- Large fallen sycamore branch blocking pavement dangerously close to road, 29th August :- [10020438](https://www.fixmystreet.com/report/10020438)
-- TMC - Defects - Kerbs and Channels problem, 29th August :- [10020328](https://www.fixmystreet.com/report/10020328)
-- Parking on Double yellows, 29th August :- [10020019](https://www.fixmystreet.com/report/10020019)
 
 <!-- fix_marker ends -->
 
