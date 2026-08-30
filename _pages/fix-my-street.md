@@ -39,6 +39,10 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Double red plastic barrier in deleterious condition just north east side of Wymans Brook bridge over Albert Road, nr junction with Pittville Lawn. This “temporary barrier to prevent pedestrians falling into ditch has been in place for nearly two years. The wire fence has been broken down longer than that period. Temporary repairs by local residents now broken again. Departing schoolchildren from Pittville School or inebriated students returning to campus, see it as challenge to push one another through the wonky barrier. High risk of serious accident waiting to happen. Plus unsightly in a conservation Area., 30th August :- [10023617](https://www.fixmystreet.com/report/10023617)
+- Huge hole and since the road is so narrow, it’s impossible to avoid, 30th August :- [10022962](https://www.fixmystreet.com/report/10022962)
+- Potholes A417 Gloucester bound, 30th August :- [10022960](https://www.fixmystreet.com/report/10022960)
+- Large grafitti on phone mast box - directly opposite ours and neighbours houses., 30th August :- [10022921](https://www.fixmystreet.com/report/10022921)
 - Visibility obstruction at eye level at busy main road junction, 30th August :- [10022768](https://www.fixmystreet.com/report/10022768)
 - Tree has fallen and blocking the footpath , and back exit from nr 16 Honeybourne Drive garden, 29th August :- [10022317](https://www.fixmystreet.com/report/10022317)
 - Smashed glass over skatepark, 29th August :- [10022271](https://www.fixmystreet.com/report/10022271)
@@ -55,10 +59,6 @@ over time but remain permanently viewable on FixMyStreet itself.
 - TMC - Defects -CW6 Potholes  problem, 29th August :- [10020820](https://www.fixmystreet.com/report/10020820)
 - Broken glass by bike stands, 29th August :- [10020020](https://www.fixmystreet.com/report/10020020)
 - TMC - Defects -CW6 Potholes  problem, 29th August :- [10020819](https://www.fixmystreet.com/report/10020819)
-- Overgrown bushes blocking path outside number 38, 29th August :- [10020714](https://www.fixmystreet.com/report/10020714)
-- TMC - Defects -CW6 Potholes  problem, 29th August :- [10020712](https://www.fixmystreet.com/report/10020712)
-- TMC - Defects -CW6 Potholes  problem, 29th August :- [10020589](https://www.fixmystreet.com/report/10020589)
-- TMC - Defects -CW6 Potholes  problem, 29th August :- [10020588](https://www.fixmystreet.com/report/10020588)
 
 <!-- fix_marker ends -->
 
