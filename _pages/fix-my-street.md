@@ -39,6 +39,7 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Visibility obstruction at eye level at busy main road junction, 30th August :- [10022768](https://www.fixmystreet.com/report/10022768)
 - Tree has fallen and blocking the footpath , and back exit from nr 16 Honeybourne Drive garden, 29th August :- [10022317](https://www.fixmystreet.com/report/10022317)
 - Smashed glass over skatepark, 29th August :- [10022271](https://www.fixmystreet.com/report/10022271)
 - Foot wide pothole in middle of road, 29th August :- [10022075](https://www.fixmystreet.com/report/10022075)
@@ -58,7 +59,6 @@ over time but remain permanently viewable on FixMyStreet itself.
 - TMC - Defects -CW6 Potholes  problem, 29th August :- [10020712](https://www.fixmystreet.com/report/10020712)
 - TMC - Defects -CW6 Potholes  problem, 29th August :- [10020589](https://www.fixmystreet.com/report/10020589)
 - TMC - Defects -CW6 Potholes  problem, 29th August :- [10020588](https://www.fixmystreet.com/report/10020588)
-- TMC - Defects -FW6 Potholes problem, 29th August :- [10020501](https://www.fixmystreet.com/report/10020501)
 
 <!-- fix_marker ends -->
 
