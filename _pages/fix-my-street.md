@@ -39,6 +39,8 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Lights change too quickly, 30th August :- [10024951](https://www.fixmystreet.com/report/10024951)
+- Very excessive litter on verge after grass cutting, 30th August :- [10024898](https://www.fixmystreet.com/report/10024898)
 - Bus stop light damaged, 30th August :- [10024546](https://www.fixmystreet.com/report/10024546)
 - Raised lime tree roots outside 47 Moorend Park Road., 30th August :- [10024273](https://www.fixmystreet.com/report/10024273)
 - Footpath overgrown, 30th August :- [10024259](https://www.fixmystreet.com/report/10024259)
@@ -57,8 +59,6 @@ over time but remain permanently viewable on FixMyStreet itself.
 - Overgrown Vegetation, 29th August :- [10021659](https://www.fixmystreet.com/report/10021659)
 - Vegetation Overgrown, 29th August :- [10021650](https://www.fixmystreet.com/report/10021650)
 - Nitrous oxide cylinders, 29th August :- [10021655](https://www.fixmystreet.com/report/10021655)
-- Tree collapse..., 29th August :- [10021073](https://www.fixmystreet.com/report/10021073)
-- The whole street needs to be retarred. Too many holes, 29th August :- [10020875](https://www.fixmystreet.com/report/10020875)
 
 <!-- fix_marker ends -->
 
