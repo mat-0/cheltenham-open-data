@@ -10,10 +10,10 @@ permalink: /cheltenham-news
 ---
 
 <!-- news_marker starts -->
-- Fundraiser launched to secure crafting shop future ([4 hours ago](https://www.bbc.co.uk/news/articles/cz0zr3577glo?at_medium=RSS&at_campaign=rss))
-- Snooker player inspires next generation ([10 hours ago](https://www.bbc.co.uk/news/videos/cd68vpxzl01o?at_medium=RSS&at_campaign=rss))
-- Meet the volunteers restoring 'missing mile' canal ([16 hours ago](https://www.bbc.co.uk/news/articles/c804ek59pgno?at_medium=RSS&at_campaign=rss))
-- 'Hosepipe ban' and 'Britain's favourite path' ([16 hours ago](https://www.bbc.co.uk/news/articles/czdzpln1ve5o?at_medium=RSS&at_campaign=rss))
+- Fundraiser launched to secure crafting shop future ([6 hours ago](https://www.bbc.co.uk/news/articles/cz0zr3577glo?at_medium=RSS&at_campaign=rss))
+- Snooker player inspires next generation ([12 hours ago](https://www.bbc.co.uk/news/videos/cd68vpxzl01o?at_medium=RSS&at_campaign=rss))
+- Meet the volunteers restoring 'missing mile' canal ([18 hours ago](https://www.bbc.co.uk/news/articles/c804ek59pgno?at_medium=RSS&at_campaign=rss))
+- 'Hosepipe ban' and 'Britain's favourite path' ([18 hours ago](https://www.bbc.co.uk/news/articles/czdzpln1ve5o?at_medium=RSS&at_campaign=rss))
 - Could Harry and Meghan settle in the Cotswolds? ([1 days ago](https://www.bbc.co.uk/news/videos/cj9xn4z7kkwo?at_medium=RSS&at_campaign=rss))
 - 'Jury still out' on Bibury traffic measures ([1 days ago](https://www.bbc.co.uk/news/articles/cy7zdmp2pdeo?at_medium=RSS&at_campaign=rss))
 - City plagued by people 'drunk all day long' and fights ([1 days ago](https://www.bbc.co.uk/news/articles/ckgw54y9k53o?at_medium=RSS&at_campaign=rss))
