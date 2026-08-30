@@ -39,6 +39,10 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Bus stop light damaged, 30th August :- [10024546](https://www.fixmystreet.com/report/10024546)
+- Raised lime tree roots outside 47 Moorend Park Road., 30th August :- [10024273](https://www.fixmystreet.com/report/10024273)
+- Footpath overgrown, 30th August :- [10024259](https://www.fixmystreet.com/report/10024259)
+- Part of white border of cycle path is missing and needs to be replaced., 30th August :- [10023970](https://www.fixmystreet.com/report/10023970)
 - Double red plastic barrier in deleterious condition just north east side of Wymans Brook bridge over Albert Road, nr junction with Pittville Lawn. This “temporary barrier to prevent pedestrians falling into ditch has been in place for nearly two years. The wire fence has been broken down longer than that period. Temporary repairs by local residents now broken again. Departing schoolchildren from Pittville School or inebriated students returning to campus, see it as challenge to push one another through the wonky barrier. High risk of serious accident waiting to happen. Plus unsightly in a conservation Area., 30th August :- [10023617](https://www.fixmystreet.com/report/10023617)
 - Huge hole and since the road is so narrow, it’s impossible to avoid, 30th August :- [10022962](https://www.fixmystreet.com/report/10022962)
 - Potholes A417 Gloucester bound, 30th August :- [10022960](https://www.fixmystreet.com/report/10022960)
@@ -55,10 +59,6 @@ over time but remain permanently viewable on FixMyStreet itself.
 - Nitrous oxide cylinders, 29th August :- [10021655](https://www.fixmystreet.com/report/10021655)
 - Tree collapse..., 29th August :- [10021073](https://www.fixmystreet.com/report/10021073)
 - The whole street needs to be retarred. Too many holes, 29th August :- [10020875](https://www.fixmystreet.com/report/10020875)
-- TMC - Defects -other CW6 problem, 29th August :- [10020937](https://www.fixmystreet.com/report/10020937)
-- TMC - Defects -CW6 Potholes  problem, 29th August :- [10020820](https://www.fixmystreet.com/report/10020820)
-- Broken glass by bike stands, 29th August :- [10020020](https://www.fixmystreet.com/report/10020020)
-- TMC - Defects -CW6 Potholes  problem, 29th August :- [10020819](https://www.fixmystreet.com/report/10020819)
 
 <!-- fix_marker ends -->
 
