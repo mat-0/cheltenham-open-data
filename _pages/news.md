@@ -10,10 +10,10 @@ permalink: /cheltenham-news
 ---
 
 <!-- news_marker starts -->
-- Farmers call for food rules update after heatwaves ([10 hours ago](https://www.bbc.co.uk/news/articles/cwyz4dydekko?at_medium=RSS&at_campaign=rss))
-- Pilgrims' 80-day trek to celebrate special anniversary ([10 hours ago](https://www.bbc.co.uk/news/articles/cn8m59r8g82o?at_medium=RSS&at_campaign=rss))
-- In pictures: Forwards Festival and rare Blood Moon ([14 hours ago](https://www.bbc.co.uk/news/articles/cp8dnk26ygko?at_medium=RSS&at_campaign=rss))
-- The younger record fans turning to older vinyl ([14 hours ago](https://www.bbc.co.uk/news/articles/clyxkee57y0o?at_medium=RSS&at_campaign=rss))
+- Farmers call for food rules update after heatwaves ([14 hours ago](https://www.bbc.co.uk/news/articles/cwyz4dydekko?at_medium=RSS&at_campaign=rss))
+- Pilgrims' 80-day trek to celebrate special anniversary ([14 hours ago](https://www.bbc.co.uk/news/articles/cn8m59r8g82o?at_medium=RSS&at_campaign=rss))
+- In pictures: Forwards Festival and rare Blood Moon ([18 hours ago](https://www.bbc.co.uk/news/articles/cp8dnk26ygko?at_medium=RSS&at_campaign=rss))
+- The younger record fans turning to older vinyl ([18 hours ago](https://www.bbc.co.uk/news/articles/clyxkee57y0o?at_medium=RSS&at_campaign=rss))
 - Fundraiser launched to secure crafting shop future ([1 days ago](https://www.bbc.co.uk/news/articles/cz0zr3577glo?at_medium=RSS&at_campaign=rss))
 - Snooker player inspires next generation ([1 days ago](https://www.bbc.co.uk/news/videos/cd68vpxzl01o?at_medium=RSS&at_campaign=rss))
 - Meet the volunteers restoring 'missing mile' canal ([1 days ago](https://www.bbc.co.uk/news/articles/c804ek59pgno?at_medium=RSS&at_campaign=rss))
@@ -39,8 +39,5 @@ permalink: /cheltenham-news
 - Review: The Choir of Man ([16 days ago](https://gloucesternewscentre.co.uk/review-the-choir-of-man/))
 - CCTV appeal following high-value theft from jewellers in Cheltenham ([19 days ago](https://gloucesternewscentre.co.uk/cctv-appeal-following-high-value-theft-from-jewellers-in-cheltenham/))
 - Reach New Heights This Summer at The Brewery Quarter with Free Family Events Throughout August ([24 days ago](https://cheltenhambid.co.uk/2026/08/06/reach-new-heights-this-summer-at-the-brewery-quarter-with-free-family-events-throughout-august/))
-- Concerns town looks ‘neglected’ ([29 days ago](https://gloucesternewscentre.co.uk/concerns-town-looks-neglected/))
-- Windows of Cav House to display artwork ([29 days ago](https://gloucesternewscentre.co.uk/windows-of-cav-house-to-display-artwork/))
-- Questions over Municipal Offices sale ([29 days ago](https://gloucesternewscentre.co.uk/questions-over-municipal-offices-sale/))
 
 <!-- news_marker ends -->

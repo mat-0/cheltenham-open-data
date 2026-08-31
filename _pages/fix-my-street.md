@@ -39,6 +39,7 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Weeping visible water, 30th August :- [10025735](https://www.fixmystreet.com/report/10025735)
 - Lights change too quickly, 30th August :- [10024951](https://www.fixmystreet.com/report/10024951)
 - Very excessive litter on verge after grass cutting, 30th August :- [10024898](https://www.fixmystreet.com/report/10024898)
 - Bus stop light damaged, 30th August :- [10024546](https://www.fixmystreet.com/report/10024546)
@@ -58,7 +59,6 @@ over time but remain permanently viewable on FixMyStreet itself.
 - Undulating Road Following Sewer Collapse, 29th August :- [10021871](https://www.fixmystreet.com/report/10021871)
 - Overgrown Vegetation, 29th August :- [10021659](https://www.fixmystreet.com/report/10021659)
 - Vegetation Overgrown, 29th August :- [10021650](https://www.fixmystreet.com/report/10021650)
-- Nitrous oxide cylinders, 29th August :- [10021655](https://www.fixmystreet.com/report/10021655)
 
 <!-- fix_marker ends -->
 
