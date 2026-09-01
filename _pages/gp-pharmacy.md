@@ -88,11 +88,6 @@ Addresses link to googlemaps and phone numbers use the `tel:` protocol and shoul
 
 ## Pharmacies
 
-### Allied Pharmacy Cheltenham Waitrose
-
-- Address: [Waitrose Store, Honeybourne Way, Cheltenham, GL50 3QW](https://www.google.com/maps/search/?api=1&query=Waitrose+Store%2C+Honeybourne+Way%2C+Cheltenham%2C+GL50+3QW)
-- Phone: [01242 430014](tel:01242430014)
-
 ### Allied Pharmacy Coronation Square
 
 - Address: [56 Coronation Square, Edinburgh Place, Cheltenham, GL51 7SA](https://www.google.com/maps/search/?api=1&query=56+Coronation+Square%2C+Edinburgh+Place%2C+Cheltenham%2C+GL51+7SA)
@@ -263,7 +258,7 @@ Addresses link to googlemaps and phone numbers use the `tel:` protocol and shoul
 - Address: [Windyridge Road, Cheltenham, GL50 4RA](https://www.google.com/maps/search/?api=1&query=Windyridge+Road%2C+Cheltenham%2C+GL50+4RA)
 - Phone: [01242 221988](tel:01242221988)
 
-*Source: [NHS Organisation Data Service](https://digital.nhs.uk/services/organisation-data-service). Data last refreshed 2026-08-31 01:17 UTC.*
+*Source: [NHS Organisation Data Service](https://digital.nhs.uk/services/organisation-data-service). Data last refreshed 2026-09-01 08:05 UTC.*
 
 <!-- gp_pharmacy_finder ends -->
 
