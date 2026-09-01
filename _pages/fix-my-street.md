@@ -39,6 +39,9 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Trees causing obstruction to footpath and street lights along Green Street, 1st September :- [10035266](https://www.fixmystreet.com/report/10035266)
+- Overhanging hedges, 1st September :- [10035234](https://www.fixmystreet.com/report/10035234)
+- Obstruction with barbed wire exposed, 1st September :- [10035223](https://www.fixmystreet.com/report/10035223)
 - Many hazards along right of way from the rear of Cedar Road, Brockworth. Several man hole vovers sticking up and road has exposed metal mesh road to degrading.very unsafe, 1st September :- [10034263](https://www.fixmystreet.com/report/10034263)
 - Why why why are there new roadworks on Innsworth Lane two weeks after the previous works were finished. The continual disruption to traffic in this area is an absolute disgrace and nobody from Highways is competent enough to put a stop to it. Please explain why and at the same time, whoever is ultimately responsible should issue a full apology to the residents of Churchdown., 1st September :- [10034160](https://www.fixmystreet.com/report/10034160)
 - Cycle path sign post has been pushed over, 1st September :- [10034052](https://www.fixmystreet.com/report/10034052)
@@ -56,9 +59,6 @@ over time but remain permanently viewable on FixMyStreet itself.
 - TMC - Defects -other CW6 problem, 1st September :- [10033353](https://www.fixmystreet.com/report/10033353)
 - TMC - Defects -other CW6 problem, 1st September :- [10033342](https://www.fixmystreet.com/report/10033342)
 - Non-illuminated bollard problem, 1st September :- [10033336](https://www.fixmystreet.com/report/10033336)
-- Other issue with a footway/pavement problem, 1st September :- [10033096](https://www.fixmystreet.com/report/10033096)
-- TMC - Defects - Vegetation problem, 1st September :- [10033123](https://www.fixmystreet.com/report/10033123)
-- I’ve paid for part 1 (£105) to hopefully drop my kerb . Can you give me an update please. I’ve tried to reply to a recent email, with pictures etc . Can you update me please, 1st September :- [10032750](https://www.fixmystreet.com/report/10032750)
 
 <!-- fix_marker ends -->
 
