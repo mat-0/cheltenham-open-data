@@ -39,6 +39,10 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Raised paving slab outside 58 Farmington Road, 2nd September :- [10041224](https://www.fixmystreet.com/report/10041224)
+- 30 mph sign knocked down, 2nd September :- [10041111](https://www.fixmystreet.com/report/10041111)
+- Filter right green light onto Greenway lane ot coming on, 2nd September :- [10040927](https://www.fixmystreet.com/report/10040927)
+- Human waste & overnight parking, 2nd September :- [10040823](https://www.fixmystreet.com/report/10040823)
 - Just for been dumped, 2nd September :- [10040734](https://www.fixmystreet.com/report/10040734)
 - Fly tip in council side of Horsebere Brook, 2nd September :- [10040558](https://www.fixmystreet.com/report/10040558)
 - Blocked drain, 2nd September :- [10040538](https://www.fixmystreet.com/report/10040538)
@@ -51,14 +55,10 @@ over time but remain permanently viewable on FixMyStreet itself.
 - Large deep pothole, 2nd September :- [10039868](https://www.fixmystreet.com/report/10039868)
 - Missing bus stop sign and markings, 2nd September :- [10039516](https://www.fixmystreet.com/report/10039516)
 - TMC - Defects -CW6 Potholes  problem, 2nd September :- [10039422](https://www.fixmystreet.com/report/10039422)
+- TMC - Defects -CW6 Potholes  problem, 2nd September :- [10039421](https://www.fixmystreet.com/report/10039421)
 - TMC - Defects -other CW6 problem, 2nd September :- [10039420](https://www.fixmystreet.com/report/10039420)
 - TMC - Defects -CW6 Potholes  problem, 2nd September :- [10039418](https://www.fixmystreet.com/report/10039418)
-- TMC - Defects -other CW6 problem, 2nd September :- [10039415](https://www.fixmystreet.com/report/10039415)
 - TMC - Defects -other CW6 problem, 2nd September :- [10039416](https://www.fixmystreet.com/report/10039416)
-- TMC - Defects -other CW6 problem, 2nd September :- [10039419](https://www.fixmystreet.com/report/10039419)
-- TMC - Defects -CW6 Potholes  problem, 2nd September :- [10039421](https://www.fixmystreet.com/report/10039421)
-- TMC - Defects - Kerbs and Channels problem, 2nd September :- [10039412](https://www.fixmystreet.com/report/10039412)
-- TMC - Defects -CW6 Potholes  problem, 2nd September :- [10039409](https://www.fixmystreet.com/report/10039409)
 
 <!-- fix_marker ends -->
 
