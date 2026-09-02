@@ -1,8 +1,9 @@
-name: Fetch UK Bank Holidays
+---
+name: scheduled Monthly
 on:
     workflow_dispatch:
     schedule:
-        - cron: "17 0 1 * *"
+        - cron: "17 0 2 * *"
 
 permissions:
     contents: write
