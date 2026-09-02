@@ -46,6 +46,8 @@ jobs:
                   python '_python/flood.py'
                   python '_python/foodbank.py'
                   python '_python/terrorism.py'
+                  python '_python/pharmacy.py'
+                  python '_python/post-office.py'
 
             - name: Commit and push if changed
               id: commit
@@ -60,7 +62,7 @@ jobs:
                     exit 0
                   fi
 
-                  git commit -m "Chore: Pull COD Data for `date +'%Y-%m-%d %H:%M'`"
+                  git commit -m "Chore: Daily COD Data pull for `date +'%Y-%m-%d %H:%M'`"
                   git push
                   echo "changed=true" >> "$GITHUB_OUTPUT"
                   echo "ref=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
@@ -72,9 +74,3 @@ jobs:
         with:
             ref: ${{ needs.build.outputs.ref }}
         secrets: inherit
-
-
-
-
-
-
