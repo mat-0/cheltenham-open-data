@@ -1,5 +1,35 @@
 [
   {
+    "ref": "26/01400/DISCON",
+    "description": "Discharge of Condition 21 (Piling Method Statement) of planning permission 24/00251/CONDIT.",
+    "address": "Oakley Farm Priors Road Cheltenham Gloucestershire",
+    "postcode": null,
+    "units": null,
+    "status": "Pending Consideration",
+    "received_date": "2026-09-01",
+    "url": "https://publicaccess.cheltenham.gov.uk/online-applications/applicationDetails.do?keyVal=TKOMLAELLR300&activeTab=summary"
+  },
+  {
+    "ref": "26/01393/DISCON",
+    "description": "Discharge of condition 3 (contaminated land), 4 (construction management plan), 5 (waste management plan), 6 (biodiversity enhancements), 9 (materials), 10 (design details), 20 (piling details) of planning permission 25/02051/FUL.",
+    "address": "86 - 90 Winchcombe Street Cheltenham Gloucestershire GL52 2NW",
+    "postcode": "GL52 2NW",
+    "units": null,
+    "status": "Pending Consideration",
+    "received_date": "2026-09-01",
+    "url": "https://publicaccess.cheltenham.gov.uk/online-applications/applicationDetails.do?keyVal=TKME58ELLQN00&activeTab=summary"
+  },
+  {
+    "ref": "26/01394/DISCON",
+    "description": "Discharge of condition 5 (Design details) of granted permission 23/00560/LBC.",
+    "address": "Fourways 55 The Burgage Prestbury Cheltenham Gloucestershire GL52 3DL",
+    "postcode": "GL52 3DL",
+    "units": null,
+    "status": "Pending Consideration",
+    "received_date": "2026-09-01",
+    "url": "https://publicaccess.cheltenham.gov.uk/online-applications/applicationDetails.do?keyVal=TKMEAAELLQP00&activeTab=summary"
+  },
+  {
     "ref": "26/01381/CACN",
     "description": "(1) Liquidambar in the back garden. This tree currently stands at approximately 8 m; its crown has a radius of approximately 2.5 m. Reduce the tree's height by up to 3.0m and the spread by up to 1.0m (ie to near previous) to leave it a more suitable size for the garden, (2) Smoke Bush and Fig at the bottom of the garden. Currently both standing at approximately 4.5m with a radial spread of approximately 1.5 - 2m. - Reduce all over to near previous, retaining some younger internal growths. This will be approximately 2.5 m off the Fig and 1.5 m off the Smoke Bush.",
     "address": "77 Leckhampton Road Cheltenham Gloucestershire GL53 0BS",
@@ -98,155 +128,5 @@
     "status": "No objection",
     "received_date": "2026-08-21",
     "url": "https://publicaccess.cheltenham.gov.uk/online-applications/applicationDetails.do?keyVal=TK3VEHELLO000&activeTab=summary"
-  },
-  {
-    "ref": "26/01354/CACN",
-    "description": "Five day notice for a dead Ash tree.",
-    "address": "58 Horsefair Street Charlton Kings Cheltenham Gloucestershire GL53 8JH",
-    "postcode": "GL53 8JH",
-    "units": null,
-    "status": "Allow",
-    "received_date": "2026-08-20",
-    "url": "https://publicaccess.cheltenham.gov.uk/online-applications/applicationDetails.do?keyVal=TK28E8EL08300&activeTab=summary"
-  },
-  {
-    "ref": "26/01355/TPO",
-    "description": "Oak Tree x4 in car park- Crown lift, to even out the lower branches and ensure vehicle accesss, plus dead wood. Willow tree- remove to ground level, plus large Oak overhanging the shed to be reduced and dead wooded.",
-    "address": "Lillybrook Golf Club Cirencester Road Charlton Kings Cheltenham Gloucestershire GL53 8EG",
-    "postcode": "GL53 8EG",
-    "units": null,
-    "status": "Pending Consideration",
-    "received_date": "2026-08-20",
-    "url": "https://publicaccess.cheltenham.gov.uk/online-applications/applicationDetails.do?keyVal=TK2EM9ELLNV00&activeTab=summary"
-  },
-  {
-    "ref": "26/01348/CACN",
-    "description": "Five day notice, fell birch tree.",
-    "address": "Flat B 17 Lypiatt Terrace Cheltenham Gloucestershire GL50 2SX",
-    "postcode": "GL50 2SX",
-    "units": null,
-    "status": "Allow",
-    "received_date": "2026-08-19",
-    "url": "https://publicaccess.cheltenham.gov.uk/online-applications/applicationDetails.do?keyVal=TK0IQHEL08300&activeTab=summary"
-  },
-  {
-    "ref": "26/01346/DISCON",
-    "description": "Part discharge of condition 4 (4b. Aluminium windows/glazed doors, 4c. Rooflights (to extension) and 4d. Rainwater goods) of Listed Building Consent 25/01077/LBC.",
-    "address": "8 Albert Place Cheltenham Gloucestershire GL52 2HW",
-    "postcode": "GL52 2HW",
-    "units": null,
-    "status": "Pending Consideration",
-    "received_date": "2026-08-19",
-    "url": "https://publicaccess.cheltenham.gov.uk/online-applications/applicationDetails.do?keyVal=TK066OELLNH00&activeTab=summary"
-  },
-  {
-    "ref": "26/01345/CONDIT",
-    "description": "Variation of condition 2 (approved plans) of planning permission ref 24/01104/FUL; seeking to change the external finish of the extension to smooth render.",
-    "address": "Thaylin 11 Harp Hill Charlton Kings Cheltenham Gloucestershire GL52 6PY",
-    "postcode": "GL52 6PY",
-    "units": null,
-    "status": "Pending Consideration",
-    "received_date": "2026-08-19",
-    "url": "https://publicaccess.cheltenham.gov.uk/online-applications/applicationDetails.do?keyVal=TK066DELLNF00&activeTab=summary"
-  },
-  {
-    "ref": "26/01342/FUL",
-    "description": "Erection of attached dwelling on land east of 329 Prestbury Road. Erection of single storey rear extension to existing dwelling, plus other external works including render and cladding to external elevations, replacement windows, insertion of new window and PV roof panels.",
-    "address": "329 Prestbury Road Cheltenham Gloucestershire GL52 3DF",
-    "postcode": "GL52 3DF",
-    "units": 1,
-    "status": "Pending Consideration",
-    "received_date": "2026-08-19",
-    "url": "https://publicaccess.cheltenham.gov.uk/online-applications/applicationDetails.do?keyVal=TK063TELLN900&activeTab=summary"
-  },
-  {
-    "ref": "26/01340/CACN",
-    "description": "1. To fell Eucalyptus tree to table height (T1) 2. To cut Conifer tree downside of garden, (T2) leaving at 3-4ft to stop people gaining access. 3. To remove conifer limb (T3) overhanging flats by telephone line. 4. To reduce conifer by 10-18ft and lightly trim sides.(T4).",
-    "address": "72 Horsefair Street Charlton Kings Cheltenham Gloucestershire GL53 8JH",
-    "postcode": "GL53 8JH",
-    "units": null,
-    "status": "Pending Consideration",
-    "received_date": "2026-08-19",
-    "url": "https://publicaccess.cheltenham.gov.uk/online-applications/applicationDetails.do?keyVal=TK062NELLN400&activeTab=summary"
-  },
-  {
-    "ref": "26/01344/FUL",
-    "description": "Proposed 2 bed garden flat at the rear of site at No.64, St Stephens Road.",
-    "address": "64 St Stephens Road Cheltenham Gloucestershire GL51 3AE",
-    "postcode": "GL51 3AE",
-    "units": null,
-    "status": "Pending Consideration",
-    "received_date": "2026-08-19",
-    "url": "https://publicaccess.cheltenham.gov.uk/online-applications/applicationDetails.do?keyVal=TK065SELLND00&activeTab=summary"
-  },
-  {
-    "ref": "26/01349/CACN",
-    "description": "Removal of maple tree in front garden.",
-    "address": "Cleeve House 34 Albert Road Cheltenham Gloucestershire GL52 2QX",
-    "postcode": "GL52 2QX",
-    "units": null,
-    "status": "Pending Consideration",
-    "received_date": "2026-08-19",
-    "url": "https://publicaccess.cheltenham.gov.uk/online-applications/applicationDetails.do?keyVal=TK0JU7EL0M300&activeTab=summary"
-  },
-  {
-    "ref": "26/01326/FUL",
-    "description": "Erection of detached garage and associated works.",
-    "address": "Lowen 21 Moorend Park Road Cheltenham Gloucestershire GL53 0LA",
-    "postcode": "GL53 0LA",
-    "units": null,
-    "status": "Pending Consideration",
-    "received_date": "2026-08-18",
-    "url": "https://publicaccess.cheltenham.gov.uk/online-applications/applicationDetails.do?keyVal=TJYBGNELLM700&activeTab=summary"
-  },
-  {
-    "ref": "26/01333/CACN",
-    "description": "T3 Magnolia - Crown height reduction of 3m and spread by 2m, cutting back to strong suitable secondary growth. Shape and balance. Crown lift up to 3.5m all around.",
-    "address": "Pittville School Albert Road Cheltenham Gloucestershire GL52 3JD",
-    "postcode": "GL52 3JD",
-    "units": null,
-    "status": "No objection",
-    "received_date": "2026-08-18",
-    "url": "https://publicaccess.cheltenham.gov.uk/online-applications/applicationDetails.do?keyVal=TJYBL3ELLMM00&activeTab=summary"
-  },
-  {
-    "ref": "26/01332/TPO",
-    "description": "T4 Atlas Cedar - remove specification to include complete removal by sectional dismantling to ground leve, too close to the property and blocking light.",
-    "address": "Morningside Courtyard Idsall Drive Prestbury Cheltenham Gloucestershire",
-    "postcode": null,
-    "units": null,
-    "status": "Pending Consideration",
-    "received_date": "2026-08-18",
-    "url": "https://publicaccess.cheltenham.gov.uk/online-applications/applicationDetails.do?keyVal=TJYBKPELLMK00&activeTab=summary"
-  },
-  {
-    "ref": "26/01331/CACN",
-    "description": "T1 Dogwood - crown height reduction of a maximum of 1.5m and spread by 0.5m, pruning back overhanging branches on neighbours side back to boundary fence line, cutting back to strong suitable secondary growth. Shape and balance. New shape indicated in red on image, T2 English Yew - crown height reduction of a maximum of 1m and spread by 0.5m, pruning back overhanging branches on neighbours side back to boundary fence line, cutting back to strong suitable secondary growth. Shape and balance, new shape indicated in red on image.",
-    "address": "141 Hewlett Road Cheltenham Gloucestershire GL52 6TS",
-    "postcode": "GL52 6TS",
-    "units": null,
-    "status": "No objection",
-    "received_date": "2026-08-18",
-    "url": "https://publicaccess.cheltenham.gov.uk/online-applications/applicationDetails.do?keyVal=TJYBK7ELLMI00&activeTab=summary"
-  },
-  {
-    "ref": "26/01339/CACN",
-    "description": "T1 Magnolia - Crown height reduction of 1.5m and spread of 1m. New shape indicated in red on image. T2 Black Walnut - Crown height reduction of 2m and spread by 1m, cutting back to strong suitable secondary growth. Shape and balance. Crown lift up to 2.4m all around.",
-    "address": "The Old Post Office 54 Church Road Swindon Village Cheltenham Gloucestershire GL51 9RE",
-    "postcode": "GL51 9RE",
-    "units": null,
-    "status": "No objection",
-    "received_date": "2026-08-18",
-    "url": "https://publicaccess.cheltenham.gov.uk/online-applications/applicationDetails.do?keyVal=TJYPD9ELLMZ00&activeTab=summary"
-  },
-  {
-    "ref": "26/01334/CACN",
-    "description": "T1 Lime - blocking significant light to the shop and building visibility, so we propose to reduce by 1.5m and shape, and crown lift.",
-    "address": "Paved Hard Surface Verge Outside Number 2 Queens Circus Cheltenham Gloucestershire",
-    "postcode": null,
-    "units": null,
-    "status": "No objection",
-    "received_date": "2026-08-18",
-    "url": "https://publicaccess.cheltenham.gov.uk/online-applications/applicationDetails.do?keyVal=TJYBM1ELLMO00&activeTab=summary"
   }
 ]
