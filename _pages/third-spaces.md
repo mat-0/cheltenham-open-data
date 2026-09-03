@@ -7,9 +7,20 @@ description: "A curated list of local third spaces within Cheltenham. Last updat
 type: "third"
 ---
 
-Cheltenham offers an excellent mix of vibrant "third spaces", which are places that are neither home (first space) nor work (second space) where you can gather, relax, or work in a community-minded setting. There is of course a whole range of coffee shops and cafes that allow for informal workspaces.
+Cheltenham offers an excellent mix of vibrant "third spaces", which are places that are neither home (first space) nor work (second space) where you can gather, relax, or work in a community-minded setting. There is of course a whole range of coffee shops and cafes that allow for informal workspaces too.
 
-Do check council and other local community websites for up to date information on opening times and events, as these can change. The [Glos Libraries](https://gloslibraries.uk/your-libraries) provide a useful list of all the libraries across the county.
+Do check the council and other local community websites for up to date information on opening times and events, as these can change.
+
+The [Glos Libraries](https://gloslibraries.uk/your-libraries) provide a useful list of all the libraries across the county.
+
+## Wilson Art Gallery and Museum, Cheltenham
+
+Open 10-5 Tuesday to Saturday, 11-5 Sunday. Closed Mondays (last admission 30 minutes before closing). The Wilson Art Gallery and Museum offers free admission, with a suggested donation of £5 and some charges for certain exhibitions and events . Has regular events and exhibitions, a café and a shop. There is a comfy lounge area and a separate play area and craft space for children.
+
+The Gallery staff and volunteers are very friendly and people are welcome to set up shop or work. The museum is fully accessible with lifts to all floors and accessible toilets.
+
+- [51 Clarence St, Cheltenham GL50 3JT](https://maps.app.goo.gl/6RhQGM9KcNCpZkDw9)
+- [Website](https://wilsonmuseum.org.uk/)
 
 ## School House Cafe, Cheltenham
 
