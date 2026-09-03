@@ -55,10 +55,10 @@ over time but remain permanently viewable on FixMyStreet itself.
 - Large deep pothole, 2nd September :- [10039868](https://www.fixmystreet.com/report/10039868)
 - Missing bus stop sign and markings, 2nd September :- [10039516](https://www.fixmystreet.com/report/10039516)
 - TMC - Defects -CW6 Potholes  problem, 2nd September :- [10039422](https://www.fixmystreet.com/report/10039422)
+- TMC - Defects -other CW6 problem, 2nd September :- [10039419](https://www.fixmystreet.com/report/10039419)
 - TMC - Defects -CW6 Potholes  problem, 2nd September :- [10039421](https://www.fixmystreet.com/report/10039421)
 - TMC - Defects -other CW6 problem, 2nd September :- [10039420](https://www.fixmystreet.com/report/10039420)
-- TMC - Defects -CW6 Potholes  problem, 2nd September :- [10039418](https://www.fixmystreet.com/report/10039418)
-- TMC - Defects -other CW6 problem, 2nd September :- [10039416](https://www.fixmystreet.com/report/10039416)
+- TMC - Defects -other CW6 problem, 2nd September :- [10039415](https://www.fixmystreet.com/report/10039415)
 
 <!-- fix_marker ends -->
 
