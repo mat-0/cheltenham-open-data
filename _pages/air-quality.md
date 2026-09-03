@@ -4,7 +4,7 @@ title: Cheltenham Air Quality
 permalink: /cheltenham-air-quality
 date: 2026-08-20 20:55 UTC
 description: "Live air quality readings for Cheltenham, updated regularly from official DEFRA monitoring stations, covering particulates, nitrogen dioxide, ozone and sulphur dioxide."
-type: air
+type: "alert"
 seo: "Check current Cheltenham air quality levels — live PM2.5, PM10, NO2 and ozone readings from DEFRA's official monitoring network"
 ---
 
@@ -26,7 +26,7 @@ If you have asthma, another lung condition, or a heart condition, the NHS and DE
 ## Gloucester Tredworth (12.1km from Cheltenham centre)
 
 | Pollutant | Reading | Band | Measured (UTC) |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | PM10 (particulates) | 12.3 ug.m-3 | Low | 2026-09-03 10:00 |
 | PM2.5 (fine particulates) | 7.076 ug.m-3 | Low | 2026-09-03 10:00 |
 

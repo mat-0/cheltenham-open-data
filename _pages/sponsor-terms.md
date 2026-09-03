@@ -4,6 +4,7 @@ title: Sponsorship Terms
 permalink: /sponsor/terms
 seo: Terms for sponsoring Cheltenham Open Data.
 description: The simple terms for sponsoring a page on Cheltenham Open Data.
+type: "cod"
 ---
 
 Plain-English terms for sponsoring Cheltenham Open Data. If anything's unclear,

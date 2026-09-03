@@ -4,6 +4,7 @@ title: Thanks
 permalink: /form/thanks
 robots: noindex
 description: "Thank you page"
+type: "cod"
 ---
 
 Thanks for submitting your form.

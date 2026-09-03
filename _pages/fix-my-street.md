@@ -4,7 +4,7 @@ layout: page
 title: "Fix My Street Reports for Cheltenham"
 seo: "Fix my street issues and reports in Cheltenham"
 description: "Fix my street issues and reports in Cheltenham"
-type: "fix"
+type: "other"
 permalink: /cheltenham-fix-my-street
 
 ---

@@ -52,6 +52,7 @@
         <meta name="apple-mobile-web-app-title" content="Cheltenham OD">
         <meta name="apple-mobile-web-app-capable" content="yes">
         <meta name="apple-mobile-web-app-status-bar-style" content="default">
+        <link rel="stylesheet" href="/themes.css">
         <link rel="stylesheet" href="/style.css">
         <link href="/fonts/Archivo-Variable.woff2" rel="preload" crossorigin as="font" type="font/woff2">
         <link href="/fonts/SourceSerif4-Variable.woff2" rel="preload" crossorigin as="font" type="font/woff2">
@@ -106,7 +107,7 @@
         <link rel="manifest" href="/images/site.webmanifest">
     </head>
 
-    <body>
+    <body class="theme-{{ page.type | default: 'default' }}">
         <div id="outer-wrapper">
             <div id="wrapper">
                 <header id="header">

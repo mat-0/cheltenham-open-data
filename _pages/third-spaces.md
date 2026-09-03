@@ -4,7 +4,7 @@ title: "Cheltenham Third Spaces"
 seo: "Where to find third spaces in Cheltenham, Gloucestershire"
 permalink: /cheltenham-third-spaces
 description: "A curated list of local third spaces within Cheltenham. Last updated August 2026"
-type: "recycle"
+type: "third"
 ---
 
 Cheltenham offers an excellent mix of vibrant "third spaces", which are places that are neither home (first space) nor work (second space) where you can gather, relax, or work in a community-minded setting. There is of course a whole range of coffee shops and cafes that allow for informal workspaces.

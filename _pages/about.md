@@ -3,7 +3,7 @@ layout: page
 title: About Cheltenham Open Data
 seo: About Cheltenham Open Data - local data for local people today
 description: "About Cheltenham Open Data: Local data for local people"
-type: "about"
+type: "cod"
 permalink: /about
 
 ---
