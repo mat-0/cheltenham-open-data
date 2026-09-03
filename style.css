@@ -737,6 +737,10 @@ table tr:hover {
     margin: 0;
 }
 
+.crime-data-table .number {
+    text-align: right;
+}
+
 #planning-table td:nth-child(1),
 #planning-table th:nth-child(1),
 #land-registry-table td:nth-child(1),

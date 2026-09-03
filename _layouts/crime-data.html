@@ -1,0 +1,85 @@
+{% include header.html %}
+
+<div class="{{page.type}} herobar">
+    <div class="{{page.type}}">
+        <header class="{{page.type}} header">
+            <h1>{{ page.title }}</h1>
+            <p>{{ page.description }}</p>
+            <ul>
+                <li><a href="{{ site.data.crime.index.source }}">Source: Police.uk API &rarr;</a></li>
+                {% if site.data.crime.index.generated_at %}
+                <li>Data refreshed {{ site.data.crime.index.generated_at | date: "%-d %B %Y" }}</li>
+                {% endif %}
+            </ul>
+        </header>
+
+        {{ content }}
+
+        {% assign crime_data = site.data.crime.index %}
+        {% if crime_data.months and crime_data.months.size > 0 %}
+        <h2>Crime by month</h2>
+        <div class="table-scroll">
+            <table class="crime-data-table">
+                <thead>
+                    <tr>
+                        <th scope="col">Month</th>
+                        <th scope="col" class="number">Neighbourhoods</th>
+                        <th scope="col" class="number">Crime reports</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for month in crime_data.months %}
+                    {% assign month_total = 0 %}
+                    {% for neighbourhood in month.neighbourhoods %}
+                    {% assign month_total = month_total | plus: neighbourhood.crime_count %}
+                    {% endfor %}
+                    <tr>
+                        <td>{{ month.month | date: "%B %Y" }}</td>
+                        <td class="number">{{ month.neighbourhoods.size }}</td>
+                        <td class="number">{{ month_total }}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+
+        <h2>Crime by neighbourhood</h2>
+        <div class="table-scroll">
+            <table class="crime-data-table">
+                <thead>
+                    <tr>
+                        <th scope="col">Neighbourhood</th>
+                        {% for month in crime_data.months %}
+                        <th scope="col" class="number">{{ month.month | date: "%b" }}</th>
+                        {% endfor %}
+                        <th scope="col" class="number">Total</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% assign first_month = crime_data.months | first %}
+                    {% for neighbourhood in first_month.neighbourhoods %}
+                    {% assign neighbourhood_total = 0 %}
+                    <tr>
+                        <td>{{ neighbourhood.name }}</td>
+                        {% for month in crime_data.months %}
+                        {% assign month_neighbourhood = month.neighbourhoods | where: "id", neighbourhood.id | first %}
+                        {% assign month_count = month_neighbourhood.crime_count | default: 0 %}
+                        {% assign neighbourhood_total = neighbourhood_total | plus: month_count %}
+                        <td class="number">{{ month_count }}</td>
+                        {% endfor %}
+                        <td class="number">{{ neighbourhood_total }}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+        {% else %}
+        <p>Crime data is not available yet.</p>
+        {% endif %}
+
+    </div>
+
+    {% include sponsor.html %}
+
+    {% include footer.html %}
+</div>

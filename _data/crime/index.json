@@ -1,0 +1,635 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-03T21:35:23.983623+00:00",
+  "source": "https://data.police.uk/docs/method/crime-street/",
+  "force": {
+    "id": "gloucestershire",
+    "name": "Gloucestershire Constabulary"
+  },
+  "area": "Cheltenham",
+  "months": [
+    {
+      "month": "2026-01",
+      "neighbourhoods": [
+        {
+          "id": "AB5",
+          "name": "Benhall and Hatherley",
+          "crime_count": 73,
+          "file": "2026-01/AB5.json"
+        },
+        {
+          "id": "AB6",
+          "name": "Charlton Kings",
+          "crime_count": 61,
+          "file": "2026-01/AB6.json"
+        },
+        {
+          "id": "AB2",
+          "name": "Cheltenham Town Centre",
+          "crime_count": 255,
+          "file": "2026-01/AB2.json"
+        },
+        {
+          "id": "AB3",
+          "name": "Fairview",
+          "crime_count": 30,
+          "file": "2026-01/AB3.json"
+        },
+        {
+          "id": "AA1",
+          "name": "Hesters Way",
+          "crime_count": 108,
+          "file": "2026-01/AA1.json"
+        },
+        {
+          "id": "AB1",
+          "name": "Lansdown",
+          "crime_count": 24,
+          "file": "2026-01/AB1.json"
+        },
+        {
+          "id": "AB4",
+          "name": "Leckhampton",
+          "crime_count": 29,
+          "file": "2026-01/AB4.json"
+        },
+        {
+          "id": "AA6",
+          "name": "Prestbury",
+          "crime_count": 34,
+          "file": "2026-01/AA6.json"
+        },
+        {
+          "id": "AA2",
+          "name": "Springbank and Fiddlers Green",
+          "crime_count": 29,
+          "file": "2026-01/AA2.json"
+        },
+        {
+          "id": "AA3",
+          "name": "St Marks",
+          "crime_count": 121,
+          "file": "2026-01/AA3.json"
+        },
+        {
+          "id": "AA7",
+          "name": "St Pauls and Pittville",
+          "crime_count": 49,
+          "file": "2026-01/AA7.json"
+        },
+        {
+          "id": "AA4",
+          "name": "Swindon Village and Wymans Brook",
+          "crime_count": 82,
+          "file": "2026-01/AA4.json"
+        },
+        {
+          "id": "AB7",
+          "name": "Tivoli",
+          "crime_count": 53,
+          "file": "2026-01/AB7.json"
+        },
+        {
+          "id": "AA5",
+          "name": "Whaddon Lynworth and Oakley",
+          "crime_count": 63,
+          "file": "2026-01/AA5.json"
+        }
+      ]
+    },
+    {
+      "month": "2026-02",
+      "neighbourhoods": [
+        {
+          "id": "AB5",
+          "name": "Benhall and Hatherley",
+          "crime_count": 0,
+          "file": "2026-02/AB5.json"
+        },
+        {
+          "id": "AB6",
+          "name": "Charlton Kings",
+          "crime_count": 0,
+          "file": "2026-02/AB6.json"
+        },
+        {
+          "id": "AB2",
+          "name": "Cheltenham Town Centre",
+          "crime_count": 1,
+          "file": "2026-02/AB2.json"
+        },
+        {
+          "id": "AB3",
+          "name": "Fairview",
+          "crime_count": 0,
+          "file": "2026-02/AB3.json"
+        },
+        {
+          "id": "AA1",
+          "name": "Hesters Way",
+          "crime_count": 1,
+          "file": "2026-02/AA1.json"
+        },
+        {
+          "id": "AB1",
+          "name": "Lansdown",
+          "crime_count": 0,
+          "file": "2026-02/AB1.json"
+        },
+        {
+          "id": "AB4",
+          "name": "Leckhampton",
+          "crime_count": 0,
+          "file": "2026-02/AB4.json"
+        },
+        {
+          "id": "AA6",
+          "name": "Prestbury",
+          "crime_count": 0,
+          "file": "2026-02/AA6.json"
+        },
+        {
+          "id": "AA2",
+          "name": "Springbank and Fiddlers Green",
+          "crime_count": 0,
+          "file": "2026-02/AA2.json"
+        },
+        {
+          "id": "AA3",
+          "name": "St Marks",
+          "crime_count": 0,
+          "file": "2026-02/AA3.json"
+        },
+        {
+          "id": "AA7",
+          "name": "St Pauls and Pittville",
+          "crime_count": 0,
+          "file": "2026-02/AA7.json"
+        },
+        {
+          "id": "AA4",
+          "name": "Swindon Village and Wymans Brook",
+          "crime_count": 0,
+          "file": "2026-02/AA4.json"
+        },
+        {
+          "id": "AB7",
+          "name": "Tivoli",
+          "crime_count": 4,
+          "file": "2026-02/AB7.json"
+        },
+        {
+          "id": "AA5",
+          "name": "Whaddon Lynworth and Oakley",
+          "crime_count": 0,
+          "file": "2026-02/AA5.json"
+        }
+      ]
+    },
+    {
+      "month": "2026-03",
+      "neighbourhoods": [
+        {
+          "id": "AB5",
+          "name": "Benhall and Hatherley",
+          "crime_count": 0,
+          "file": "2026-03/AB5.json"
+        },
+        {
+          "id": "AB6",
+          "name": "Charlton Kings",
+          "crime_count": 0,
+          "file": "2026-03/AB6.json"
+        },
+        {
+          "id": "AB2",
+          "name": "Cheltenham Town Centre",
+          "crime_count": 0,
+          "file": "2026-03/AB2.json"
+        },
+        {
+          "id": "AB3",
+          "name": "Fairview",
+          "crime_count": 0,
+          "file": "2026-03/AB3.json"
+        },
+        {
+          "id": "AA1",
+          "name": "Hesters Way",
+          "crime_count": 0,
+          "file": "2026-03/AA1.json"
+        },
+        {
+          "id": "AB1",
+          "name": "Lansdown",
+          "crime_count": 0,
+          "file": "2026-03/AB1.json"
+        },
+        {
+          "id": "AB4",
+          "name": "Leckhampton",
+          "crime_count": 0,
+          "file": "2026-03/AB4.json"
+        },
+        {
+          "id": "AA6",
+          "name": "Prestbury",
+          "crime_count": 2,
+          "file": "2026-03/AA6.json"
+        },
+        {
+          "id": "AA2",
+          "name": "Springbank and Fiddlers Green",
+          "crime_count": 0,
+          "file": "2026-03/AA2.json"
+        },
+        {
+          "id": "AA3",
+          "name": "St Marks",
+          "crime_count": 0,
+          "file": "2026-03/AA3.json"
+        },
+        {
+          "id": "AA7",
+          "name": "St Pauls and Pittville",
+          "crime_count": 0,
+          "file": "2026-03/AA7.json"
+        },
+        {
+          "id": "AA4",
+          "name": "Swindon Village and Wymans Brook",
+          "crime_count": 0,
+          "file": "2026-03/AA4.json"
+        },
+        {
+          "id": "AB7",
+          "name": "Tivoli",
+          "crime_count": 1,
+          "file": "2026-03/AB7.json"
+        },
+        {
+          "id": "AA5",
+          "name": "Whaddon Lynworth and Oakley",
+          "crime_count": 0,
+          "file": "2026-03/AA5.json"
+        }
+      ]
+    },
+    {
+      "month": "2026-04",
+      "neighbourhoods": [
+        {
+          "id": "AB5",
+          "name": "Benhall and Hatherley",
+          "crime_count": 1,
+          "file": "2026-04/AB5.json"
+        },
+        {
+          "id": "AB6",
+          "name": "Charlton Kings",
+          "crime_count": 1,
+          "file": "2026-04/AB6.json"
+        },
+        {
+          "id": "AB2",
+          "name": "Cheltenham Town Centre",
+          "crime_count": 1,
+          "file": "2026-04/AB2.json"
+        },
+        {
+          "id": "AB3",
+          "name": "Fairview",
+          "crime_count": 0,
+          "file": "2026-04/AB3.json"
+        },
+        {
+          "id": "AA1",
+          "name": "Hesters Way",
+          "crime_count": 1,
+          "file": "2026-04/AA1.json"
+        },
+        {
+          "id": "AB1",
+          "name": "Lansdown",
+          "crime_count": 0,
+          "file": "2026-04/AB1.json"
+        },
+        {
+          "id": "AB4",
+          "name": "Leckhampton",
+          "crime_count": 1,
+          "file": "2026-04/AB4.json"
+        },
+        {
+          "id": "AA6",
+          "name": "Prestbury",
+          "crime_count": 0,
+          "file": "2026-04/AA6.json"
+        },
+        {
+          "id": "AA2",
+          "name": "Springbank and Fiddlers Green",
+          "crime_count": 0,
+          "file": "2026-04/AA2.json"
+        },
+        {
+          "id": "AA3",
+          "name": "St Marks",
+          "crime_count": 0,
+          "file": "2026-04/AA3.json"
+        },
+        {
+          "id": "AA7",
+          "name": "St Pauls and Pittville",
+          "crime_count": 0,
+          "file": "2026-04/AA7.json"
+        },
+        {
+          "id": "AA4",
+          "name": "Swindon Village and Wymans Brook",
+          "crime_count": 0,
+          "file": "2026-04/AA4.json"
+        },
+        {
+          "id": "AB7",
+          "name": "Tivoli",
+          "crime_count": 1,
+          "file": "2026-04/AB7.json"
+        },
+        {
+          "id": "AA5",
+          "name": "Whaddon Lynworth and Oakley",
+          "crime_count": 0,
+          "file": "2026-04/AA5.json"
+        }
+      ]
+    },
+    {
+      "month": "2026-05",
+      "neighbourhoods": [
+        {
+          "id": "AB5",
+          "name": "Benhall and Hatherley",
+          "crime_count": 1,
+          "file": "2026-05/AB5.json"
+        },
+        {
+          "id": "AB6",
+          "name": "Charlton Kings",
+          "crime_count": 0,
+          "file": "2026-05/AB6.json"
+        },
+        {
+          "id": "AB2",
+          "name": "Cheltenham Town Centre",
+          "crime_count": 1,
+          "file": "2026-05/AB2.json"
+        },
+        {
+          "id": "AB3",
+          "name": "Fairview",
+          "crime_count": 0,
+          "file": "2026-05/AB3.json"
+        },
+        {
+          "id": "AA1",
+          "name": "Hesters Way",
+          "crime_count": 0,
+          "file": "2026-05/AA1.json"
+        },
+        {
+          "id": "AB1",
+          "name": "Lansdown",
+          "crime_count": 0,
+          "file": "2026-05/AB1.json"
+        },
+        {
+          "id": "AB4",
+          "name": "Leckhampton",
+          "crime_count": 1,
+          "file": "2026-05/AB4.json"
+        },
+        {
+          "id": "AA6",
+          "name": "Prestbury",
+          "crime_count": 0,
+          "file": "2026-05/AA6.json"
+        },
+        {
+          "id": "AA2",
+          "name": "Springbank and Fiddlers Green",
+          "crime_count": 0,
+          "file": "2026-05/AA2.json"
+        },
+        {
+          "id": "AA3",
+          "name": "St Marks",
+          "crime_count": 0,
+          "file": "2026-05/AA3.json"
+        },
+        {
+          "id": "AA7",
+          "name": "St Pauls and Pittville",
+          "crime_count": 0,
+          "file": "2026-05/AA7.json"
+        },
+        {
+          "id": "AA4",
+          "name": "Swindon Village and Wymans Brook",
+          "crime_count": 0,
+          "file": "2026-05/AA4.json"
+        },
+        {
+          "id": "AB7",
+          "name": "Tivoli",
+          "crime_count": 6,
+          "file": "2026-05/AB7.json"
+        },
+        {
+          "id": "AA5",
+          "name": "Whaddon Lynworth and Oakley",
+          "crime_count": 0,
+          "file": "2026-05/AA5.json"
+        }
+      ]
+    },
+    {
+      "month": "2026-06",
+      "neighbourhoods": [
+        {
+          "id": "AB5",
+          "name": "Benhall and Hatherley",
+          "crime_count": 0,
+          "file": "2026-06/AB5.json"
+        },
+        {
+          "id": "AB6",
+          "name": "Charlton Kings",
+          "crime_count": 0,
+          "file": "2026-06/AB6.json"
+        },
+        {
+          "id": "AB2",
+          "name": "Cheltenham Town Centre",
+          "crime_count": 0,
+          "file": "2026-06/AB2.json"
+        },
+        {
+          "id": "AB3",
+          "name": "Fairview",
+          "crime_count": 0,
+          "file": "2026-06/AB3.json"
+        },
+        {
+          "id": "AA1",
+          "name": "Hesters Way",
+          "crime_count": 0,
+          "file": "2026-06/AA1.json"
+        },
+        {
+          "id": "AB1",
+          "name": "Lansdown",
+          "crime_count": 0,
+          "file": "2026-06/AB1.json"
+        },
+        {
+          "id": "AB4",
+          "name": "Leckhampton",
+          "crime_count": 0,
+          "file": "2026-06/AB4.json"
+        },
+        {
+          "id": "AA6",
+          "name": "Prestbury",
+          "crime_count": 0,
+          "file": "2026-06/AA6.json"
+        },
+        {
+          "id": "AA2",
+          "name": "Springbank and Fiddlers Green",
+          "crime_count": 0,
+          "file": "2026-06/AA2.json"
+        },
+        {
+          "id": "AA3",
+          "name": "St Marks",
+          "crime_count": 0,
+          "file": "2026-06/AA3.json"
+        },
+        {
+          "id": "AA7",
+          "name": "St Pauls and Pittville",
+          "crime_count": 0,
+          "file": "2026-06/AA7.json"
+        },
+        {
+          "id": "AA4",
+          "name": "Swindon Village and Wymans Brook",
+          "crime_count": 0,
+          "file": "2026-06/AA4.json"
+        },
+        {
+          "id": "AB7",
+          "name": "Tivoli",
+          "crime_count": 0,
+          "file": "2026-06/AB7.json"
+        },
+        {
+          "id": "AA5",
+          "name": "Whaddon Lynworth and Oakley",
+          "crime_count": 0,
+          "file": "2026-06/AA5.json"
+        }
+      ]
+    },
+    {
+      "month": "2026-07",
+      "neighbourhoods": [
+        {
+          "id": "AB5",
+          "name": "Benhall and Hatherley",
+          "crime_count": 0,
+          "file": "2026-07/AB5.json"
+        },
+        {
+          "id": "AB6",
+          "name": "Charlton Kings",
+          "crime_count": 0,
+          "file": "2026-07/AB6.json"
+        },
+        {
+          "id": "AB2",
+          "name": "Cheltenham Town Centre",
+          "crime_count": 0,
+          "file": "2026-07/AB2.json"
+        },
+        {
+          "id": "AB3",
+          "name": "Fairview",
+          "crime_count": 0,
+          "file": "2026-07/AB3.json"
+        },
+        {
+          "id": "AA1",
+          "name": "Hesters Way",
+          "crime_count": 0,
+          "file": "2026-07/AA1.json"
+        },
+        {
+          "id": "AB1",
+          "name": "Lansdown",
+          "crime_count": 0,
+          "file": "2026-07/AB1.json"
+        },
+        {
+          "id": "AB4",
+          "name": "Leckhampton",
+          "crime_count": 0,
+          "file": "2026-07/AB4.json"
+        },
+        {
+          "id": "AA6",
+          "name": "Prestbury",
+          "crime_count": 0,
+          "file": "2026-07/AA6.json"
+        },
+        {
+          "id": "AA2",
+          "name": "Springbank and Fiddlers Green",
+          "crime_count": 0,
+          "file": "2026-07/AA2.json"
+        },
+        {
+          "id": "AA3",
+          "name": "St Marks",
+          "crime_count": 0,
+          "file": "2026-07/AA3.json"
+        },
+        {
+          "id": "AA7",
+          "name": "St Pauls and Pittville",
+          "crime_count": 0,
+          "file": "2026-07/AA7.json"
+        },
+        {
+          "id": "AA4",
+          "name": "Swindon Village and Wymans Brook",
+          "crime_count": 0,
+          "file": "2026-07/AA4.json"
+        },
+        {
+          "id": "AB7",
+          "name": "Tivoli",
+          "crime_count": 5,
+          "file": "2026-07/AB7.json"
+        },
+        {
+          "id": "AA5",
+          "name": "Whaddon Lynworth and Oakley",
+          "crime_count": 0,
+          "file": "2026-07/AA5.json"
+        }
+      ]
+    }
+  ]
+}

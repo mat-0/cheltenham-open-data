@@ -102,6 +102,9 @@ navigation_header:
   - name: Cheltenham Classifieds
     link: /cheltenham-classifieds
     description: "Local jobs, services, items for sale, and community notices."
+  - name: Cheltenham Crime Data
+    link: /cheltenham-crime-data
+    description: "Monthly street-level crime figures by Cheltenham neighbourhood."
   - name: Cheltenham Latest News
     link: /cheltenham-news
     description: "Local news aggregation in a simple view."
@@ -155,6 +158,8 @@ footer_columns:
         link: /cheltenham-air-quality
       - name: Cheltenham Classifieds
         link: /cheltenham-classifieds
+      - name: Cheltenham Crime Data
+        link: /cheltenham-crime-data
       - name: Cheltenham Fix My Street
         link: /cheltenham-fix-my-street
       - name: Cheltenham Flood Warnings
