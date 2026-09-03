@@ -144,6 +144,9 @@ navigation_header:
   - name: Cheltenham Security Alerts
     link: /cheltenham-security-alerts
     description: "Local area security alerts and status updates."
+  - name: Cheltenham Third Spaces
+    link: /cheltenham-third-spaces
+    description: "Local third spaces and community hubs in Cheltenham."
 
 footer_columns:
   - title: Pages
@@ -180,6 +183,8 @@ footer_columns:
         link: /cheltenham-recycling
       - name: Cheltenham Security Alerts
         link: /cheltenham-security-alerts
+      - name: Cheltenham Third Spaces
+        link: /cheltenham-third-spaces
 
   - title: Feeds
     links:
