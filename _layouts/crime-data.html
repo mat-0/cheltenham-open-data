@@ -16,7 +16,9 @@
         {{ content }}
 
         {% assign crime_data = site.data.crime.index %}
-        {% if crime_data.months and crime_data.months.size > 0 %}
+        {% assign crime_year = page.crime_year | default: crime_data.years.first %}
+        {% assign year_months = crime_data.months | where_exp: "month", "month.month contains crime_year" %}
+        {% if year_months and year_months.size > 0 %}
         <h2>Crime by month</h2>
         <div class="table-scroll">
             <table class="crime-data-table">
@@ -28,7 +30,7 @@
                     </tr>
                 </thead>
                 <tbody>
-                    {% for month in crime_data.months %}
+                    {% for month in year_months %}
                     {% assign month_total = 0 %}
                     {% for neighbourhood in month.neighbourhoods %}
                     {% assign month_total = month_total | plus: neighbourhood.crime_count %}
@@ -49,19 +51,34 @@
                 <thead>
                     <tr>
                         <th scope="col">Neighbourhood</th>
-                        {% for month in crime_data.months %}
-                        <th scope="col" class="number">{{ month.month | date: "%b" }}</th>
+                        {% for month in year_months %}
+                        {% assign month_number = month.month | slice: 5, 2 %}
+                        {% case month_number %}
+                        {% when "01" %}{% assign month_name = "JAN" %}
+                        {% when "02" %}{% assign month_name = "FEB" %}
+                        {% when "03" %}{% assign month_name = "MAR" %}
+                        {% when "04" %}{% assign month_name = "APR" %}
+                        {% when "05" %}{% assign month_name = "MAY" %}
+                        {% when "06" %}{% assign month_name = "JUN" %}
+                        {% when "07" %}{% assign month_name = "JUL" %}
+                        {% when "08" %}{% assign month_name = "AUG" %}
+                        {% when "09" %}{% assign month_name = "SEP" %}
+                        {% when "10" %}{% assign month_name = "OCT" %}
+                        {% when "11" %}{% assign month_name = "NOV" %}
+                        {% when "12" %}{% assign month_name = "DEC" %}
+                        {% endcase %}
+                        <th scope="col" class="number">{{ month_name }}</th>
                         {% endfor %}
                         <th scope="col" class="number">Total</th>
                     </tr>
                 </thead>
                 <tbody>
-                    {% assign first_month = crime_data.months | first %}
+                    {% assign first_month = year_months | first %}
                     {% for neighbourhood in first_month.neighbourhoods %}
                     {% assign neighbourhood_total = 0 %}
                     <tr>
                         <td>{{ neighbourhood.name }}</td>
-                        {% for month in crime_data.months %}
+                        {% for month in year_months %}
                         {% assign month_neighbourhood = month.neighbourhoods | where: "id", neighbourhood.id | first %}
                         {% assign month_count = month_neighbourhood.crime_count | default: 0 %}
                         {% assign neighbourhood_total = neighbourhood_total | plus: month_count %}
@@ -75,6 +92,15 @@
         </div>
         {% else %}
         <p>Crime data is not available yet.</p>
+        {% endif %}
+
+        {% if crime_data.years and crime_data.years.size > 0 %}
+        <h2>Historic Records</h2>
+        <ul>
+            {% for year in crime_data.years %}
+            <li><a href="/cheltenham-crime-data/{{ year }}">Cheltenham crime data for {{ year }}</a></li>
+            {% endfor %}
+        </ul>
         {% endif %}
 
     </div>

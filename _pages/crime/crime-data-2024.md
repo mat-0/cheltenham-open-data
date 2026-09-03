@@ -1,0 +1,15 @@
+---
+layout: crime-data
+title: "Cheltenham Crime Data 2024"
+seo: "Monthly street-level crime figures for Cheltenham neighbourhoods in 2024 from the Police.uk API."
+permalink: /cheltenham-crime-data/2024
+description: "Monthly street-level crime figures for Cheltenham in 2024, broken down by neighbourhood."
+crime_year: "2024"
+type: "other"
+---
+
+## Cheltenham Crime Figures For 2024
+
+This page shows monthly street-level crime counts for Cheltenham's neighbourhoods during 2024, using data from the [Police.uk API](https://data.police.uk/docs/method/crime-street/). The figures are based on approximate, anonymised locations and are updated monthly.
+
+Crime locations are approximate and anonymised by the Police.uk API. A report count does not indicate that a crime occurred at an exact mapped location.

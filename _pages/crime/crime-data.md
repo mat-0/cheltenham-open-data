@@ -7,10 +7,8 @@ description: "Monthly street-level crime figures for Cheltenham, broken down by 
 type: "other"
 ---
 
-## Cheltenham Crime Figures
+## Cheltenham Crime Figures For {{ site.data.crime.index.years.first }}
 
 This page shows monthly street-level crime counts for Cheltenham's neighbourhoods, using data from the [Police.uk API](https://data.police.uk/docs/method/crime-street/). The figures are based on approximate, anonymised locations and are updated monthly.
-
-The map view is planned for a later update. For now, the tables below show the available totals and neighbourhood breakdown.
 
 Crime locations are approximate and anonymised by the Police.uk API. A report count does not indicate that a crime occurred at an exact mapped location.

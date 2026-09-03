@@ -137,7 +137,17 @@ def month_range(start_date, end_date):
 
 
 def save_data(records_by_month):
-	month_summaries = []
+	month_summaries = {}
+	index_path = OUTPUT_DIR / "index.json"
+	if index_path.exists():
+		try:
+			existing_index = json.loads(index_path.read_text(encoding="utf-8"))
+			month_summaries = {
+				item["month"]: item for item in existing_index.get("months", [])
+			}
+		except (json.JSONDecodeError, KeyError):
+			log.warning("Could not read existing crime index; rebuilding it")
+
 	for date, records in records_by_month.items():
 		month_dir = OUTPUT_DIR / date
 		month_dir.mkdir(parents=True, exist_ok=True)
@@ -152,7 +162,10 @@ def save_data(records_by_month):
 					"file": f"{date}/{filename.stem}.json",
 				}
 			)
-		month_summaries.append({"month": date, "neighbourhoods": summaries})
+		month_summaries[date] = {"month": date, "neighbourhoods": summaries}
+
+	sorted_months = [month_summaries[date] for date in sorted(month_summaries)]
+	years = sorted({date[:4] for date in month_summaries}, reverse=True)
 
 	index = {
 		"schema_version": 1,
@@ -160,7 +173,8 @@ def save_data(records_by_month):
 		"source": "https://data.police.uk/docs/method/crime-street/",
 		"force": FORCE,
 		"area": AREA_NAME,
-		"months": month_summaries,
+		"years": years,
+		"months": sorted_months,
 	}
 	(OUTPUT_DIR / "index.json").write_text(
 		json.dumps(index, indent=2) + "\n", encoding="utf-8"

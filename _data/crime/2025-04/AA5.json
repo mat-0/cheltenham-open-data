@@ -1,0 +1,3385 @@
+{
+  "schema_version": 1,
+  "source": "https://data.police.uk/docs/method/crime-street/",
+  "force": {
+    "id": "gloucestershire",
+    "name": "Gloucestershire Constabulary"
+  },
+  "area": "Cheltenham",
+  "neighbourhood": {
+    "id": "AA5",
+    "name": "Whaddon Lynworth and Oakley"
+  },
+  "month": "2025-04",
+  "boundary": [
+    {
+      "latitude": "51.904263576",
+      "longitude": "-2.0711248"
+    },
+    {
+      "latitude": "51.904297834",
+      "longitude": "-2.0711040019999"
+    },
+    {
+      "latitude": "51.904459415",
+      "longitude": "-2.0710058629999"
+    },
+    {
+      "latitude": "51.904622803",
+      "longitude": "-2.0708946639999"
+    },
+    {
+      "latitude": "51.905226534",
+      "longitude": "-2.0704835769999"
+    },
+    {
+      "latitude": "51.905466895",
+      "longitude": "-2.0703182029999"
+    },
+    {
+      "latitude": "51.905728364",
+      "longitude": "-2.0701764689999"
+    },
+    {
+      "latitude": "51.906262626",
+      "longitude": "-2.069893137"
+    },
+    {
+      "latitude": "51.906702204",
+      "longitude": "-2.0696711339999"
+    },
+    {
+      "latitude": "51.907226729",
+      "longitude": "-2.0694351149999"
+    },
+    {
+      "latitude": "51.907617018",
+      "longitude": "-2.0692636059999"
+    },
+    {
+      "latitude": "51.908273525",
+      "longitude": "-2.068973845"
+    },
+    {
+      "latitude": "51.908669273",
+      "longitude": "-2.0688436869999"
+    },
+    {
+      "latitude": "51.908920983",
+      "longitude": "-2.0687858209999"
+    },
+    {
+      "latitude": "51.909082874",
+      "longitude": "-2.0687715659999"
+    },
+    {
+      "latitude": "51.909217709",
+      "longitude": "-2.068757269"
+    },
+    {
+      "latitude": "51.90927164",
+      "longitude": "-2.0687573509999"
+    },
+    {
+      "latitude": "51.909701628",
+      "longitude": "-2.0687900109999"
+    },
+    {
+      "latitude": "51.909953566",
+      "longitude": "-2.0688046589999"
+    },
+    {
+      "latitude": "51.910290478",
+      "longitude": "-2.0689138879999"
+    },
+    {
+      "latitude": "51.911173611",
+      "longitude": "-2.0691900869999"
+    },
+    {
+      "latitude": "51.911535769",
+      "longitude": "-2.069320816"
+    },
+    {
+      "latitude": "51.911716847",
+      "longitude": "-2.069386182"
+    },
+    {
+      "latitude": "51.912029141",
+      "longitude": "-2.0694790809999"
+    },
+    {
+      "latitude": "51.912819015",
+      "longitude": "-2.069681558"
+    },
+    {
+      "latitude": "51.91358299",
+      "longitude": "-2.06990486"
+    },
+    {
+      "latitude": "51.91375053",
+      "longitude": "-2.0699131509999"
+    },
+    {
+      "latitude": "51.913792557",
+      "longitude": "-2.0690645319999"
+    },
+    {
+      "latitude": "51.913794925",
+      "longitude": "-2.0690128719999"
+    },
+    {
+      "latitude": "51.913896842",
+      "longitude": "-2.0668540309999"
+    },
+    {
+      "latitude": "51.914026716",
+      "longitude": "-2.0646152649999"
+    },
+    {
+      "latitude": "51.91403322",
+      "longitude": "-2.0643939919999"
+    },
+    {
+      "latitude": "51.914037708",
+      "longitude": "-2.064238766"
+    },
+    {
+      "latitude": "51.914353518",
+      "longitude": "-2.064155426"
+    },
+    {
+      "latitude": "51.91473612",
+      "longitude": "-2.064056117"
+    },
+    {
+      "latitude": "51.914649903",
+      "longitude": "-2.0637566699999"
+    },
+    {
+      "latitude": "51.914459091",
+      "longitude": "-2.0628984719999"
+    },
+    {
+      "latitude": "51.914286715",
+      "longitude": "-2.0621798389999"
+    },
+    {
+      "latitude": "51.914015228",
+      "longitude": "-2.062249349"
+    },
+    {
+      "latitude": "51.913818621",
+      "longitude": "-2.0605828719999"
+    },
+    {
+      "latitude": "51.913545874",
+      "longitude": "-2.0606559849999"
+    },
+    {
+      "latitude": "51.912870667",
+      "longitude": "-2.0608204939999"
+    },
+    {
+      "latitude": "51.912537974",
+      "longitude": "-2.0608797389999"
+    },
+    {
+      "latitude": "51.912530136",
+      "longitude": "-2.0603927069999"
+    },
+    {
+      "latitude": "51.912528384",
+      "longitude": "-2.0603025639999"
+    },
+    {
+      "latitude": "51.912468177",
+      "longitude": "-2.0602734759999"
+    },
+    {
+      "latitude": "51.912446037",
+      "longitude": "-2.0596235269999"
+    },
+    {
+      "latitude": "51.912412018",
+      "longitude": "-2.0591743389999"
+    },
+    {
+      "latitude": "51.91237462",
+      "longitude": "-2.0584662349999"
+    },
+    {
+      "latitude": "51.912301979",
+      "longitude": "-2.0581317129999"
+    },
+    {
+      "latitude": "51.912202409",
+      "longitude": "-2.0577216409999"
+    },
+    {
+      "latitude": "51.912146809",
+      "longitude": "-2.0574584629999"
+    },
+    {
+      "latitude": "51.912039965",
+      "longitude": "-2.0570308839999"
+    },
+    {
+      "latitude": "51.912039605",
+      "longitude": "-2.057031364"
+    },
+    {
+      "latitude": "51.912095947",
+      "longitude": "-2.0568793239999"
+    },
+    {
+      "latitude": "51.912182463",
+      "longitude": "-2.056779586"
+    },
+    {
+      "latitude": "51.912244201",
+      "longitude": "-2.0566201209999"
+    },
+    {
+      "latitude": "51.912287418",
+      "longitude": "-2.0564704609999"
+    },
+    {
+      "latitude": "51.912287727",
+      "longitude": "-2.0558219819999"
+    },
+    {
+      "latitude": "51.911584566",
+      "longitude": "-2.0554320299999"
+    },
+    {
+      "latitude": "51.911261353",
+      "longitude": "-2.055215637"
+    },
+    {
+      "latitude": "51.910653167",
+      "longitude": "-2.0548901839999"
+    },
+    {
+      "latitude": "51.910826243",
+      "longitude": "-2.0542020219999"
+    },
+    {
+      "latitude": "51.910551105",
+      "longitude": "-2.0540121889999"
+    },
+    {
+      "latitude": "51.910458494",
+      "longitude": "-2.054271459"
+    },
+    {
+      "latitude": "51.91042148",
+      "longitude": "-2.054231501"
+    },
+    {
+      "latitude": "51.91039059",
+      "longitude": "-2.054361153"
+    },
+    {
+      "latitude": "51.910190048",
+      "longitude": "-2.054187952"
+    },
+    {
+      "latitude": "51.910161221",
+      "longitude": "-2.0543275549999"
+    },
+    {
+      "latitude": "51.910042632",
+      "longitude": "-2.0542010789999"
+    },
+    {
+      "latitude": "51.909839102",
+      "longitude": "-2.054071146"
+    },
+    {
+      "latitude": "51.909629395",
+      "longitude": "-2.0538913439999"
+    },
+    {
+      "latitude": "51.90992603",
+      "longitude": "-2.0528641339999"
+    },
+    {
+      "latitude": "51.909796475",
+      "longitude": "-2.052734294"
+    },
+    {
+      "latitude": "51.909920113",
+      "longitude": "-2.0522256309999"
+    },
+    {
+      "latitude": "51.909402042",
+      "longitude": "-2.0517662099999"
+    },
+    {
+      "latitude": "51.909704964",
+      "longitude": "-2.050499639"
+    },
+    {
+      "latitude": "51.910019568",
+      "longitude": "-2.0506894929999"
+    },
+    {
+      "latitude": "51.910266232",
+      "longitude": "-2.0508494249999"
+    },
+    {
+      "latitude": "51.910537699",
+      "longitude": "-2.0510193359999"
+    },
+    {
+      "latitude": "51.910741231",
+      "longitude": "-2.0511492589999"
+    },
+    {
+      "latitude": "51.91087693",
+      "longitude": "-2.0512092249999"
+    },
+    {
+      "latitude": "51.911314922",
+      "longitude": "-2.0514490919999"
+    },
+    {
+      "latitude": "51.911462936",
+      "longitude": "-2.051509193"
+    },
+    {
+      "latitude": "51.911564137",
+      "longitude": "-2.0515292059999"
+    },
+    {
+      "latitude": "51.911613536",
+      "longitude": "-2.051409637"
+    },
+    {
+      "latitude": "51.911663025",
+      "longitude": "-2.0510804239999"
+    },
+    {
+      "latitude": "51.911799154",
+      "longitude": "-2.0501427519999"
+    },
+    {
+      "latitude": "51.911873493",
+      "longitude": "-2.049494362"
+    },
+    {
+      "latitude": "51.911768611",
+      "longitude": "-2.0494643999999"
+    },
+    {
+      "latitude": "51.911659859",
+      "longitude": "-2.049444982"
+    },
+    {
+      "latitude": "51.911130699",
+      "longitude": "-2.0492541769999"
+    },
+    {
+      "latitude": "51.910526147",
+      "longitude": "-2.0490140319999"
+    },
+    {
+      "latitude": "51.909495967",
+      "longitude": "-2.0486138989999"
+    },
+    {
+      "latitude": "51.909545899",
+      "longitude": "-2.047177437"
+    },
+    {
+      "latitude": "51.909453309",
+      "longitude": "-2.0471972369999"
+    },
+    {
+      "latitude": "51.909051698",
+      "longitude": "-2.0472168319999"
+    },
+    {
+      "latitude": "51.908687646",
+      "longitude": "-2.0472663109999"
+    },
+    {
+      "latitude": "51.90823102",
+      "longitude": "-2.0472957949999"
+    },
+    {
+      "latitude": "51.908224818",
+      "longitude": "-2.0472957889999"
+    },
+    {
+      "latitude": "51.908255514",
+      "longitude": "-2.0478543499999"
+    },
+    {
+      "latitude": "51.907558214",
+      "longitude": "-2.048013254"
+    },
+    {
+      "latitude": "51.907533378",
+      "longitude": "-2.047639043"
+    },
+    {
+      "latitude": "51.907515479",
+      "longitude": "-2.0474471389999"
+    },
+    {
+      "latitude": "51.907493979",
+      "longitude": "-2.0472682939999"
+    },
+    {
+      "latitude": "51.907468151",
+      "longitude": "-2.0466707939999"
+    },
+    {
+      "latitude": "51.907213169",
+      "longitude": "-2.0468457559999"
+    },
+    {
+      "latitude": "51.906910714",
+      "longitude": "-2.0470549439999"
+    },
+    {
+      "latitude": "51.906602139",
+      "longitude": "-2.0472840159999"
+    },
+    {
+      "latitude": "51.906342913",
+      "longitude": "-2.0475031909999"
+    },
+    {
+      "latitude": "51.90614534",
+      "longitude": "-2.0477424449999"
+    },
+    {
+      "latitude": "51.905917026",
+      "longitude": "-2.0479815429999"
+    },
+    {
+      "latitude": "51.905719436",
+      "longitude": "-2.048260701"
+    },
+    {
+      "latitude": "51.905540373",
+      "longitude": "-2.0485099139999"
+    },
+    {
+      "latitude": "51.905367521",
+      "longitude": "-2.0487391169999"
+    },
+    {
+      "latitude": "51.905213163",
+      "longitude": "-2.0490181959999"
+    },
+    {
+      "latitude": "51.905095899",
+      "longitude": "-2.0491477439999"
+    },
+    {
+      "latitude": "51.90485216",
+      "longitude": "-2.0492971659999"
+    },
+    {
+      "latitude": "51.904518904",
+      "longitude": "-2.049426475"
+    },
+    {
+      "latitude": "51.904167123",
+      "longitude": "-2.049575655"
+    },
+    {
+      "latitude": "51.903809221",
+      "longitude": "-2.049744841"
+    },
+    {
+      "latitude": "51.903593174",
+      "longitude": "-2.0498742739999"
+    },
+    {
+      "latitude": "51.903371005",
+      "longitude": "-2.0500237099999"
+    },
+    {
+      "latitude": "51.903198183",
+      "longitude": "-2.050173083"
+    },
+    {
+      "latitude": "51.903056388",
+      "longitude": "-2.0502837789999"
+    },
+    {
+      "latitude": "51.90293463",
+      "longitude": "-2.0504101949999"
+    },
+    {
+      "latitude": "51.902907473",
+      "longitude": "-2.0504384479999"
+    },
+    {
+      "latitude": "51.902904326",
+      "longitude": "-2.0504416799999"
+    },
+    {
+      "latitude": "51.902814848",
+      "longitude": "-2.0505404499999"
+    },
+    {
+      "latitude": "51.902750911",
+      "longitude": "-2.0506109639999"
+    },
+    {
+      "latitude": "51.902730317",
+      "longitude": "-2.0506337109999"
+    },
+    {
+      "latitude": "51.90262789",
+      "longitude": "-2.050746725"
+    },
+    {
+      "latitude": "51.902600551",
+      "longitude": "-2.050776895"
+    },
+    {
+      "latitude": "51.902545246",
+      "longitude": "-2.05083795"
+    },
+    {
+      "latitude": "51.902456668",
+      "longitude": "-2.050935761"
+    },
+    {
+      "latitude": "51.902401452",
+      "longitude": "-2.050996697"
+    },
+    {
+      "latitude": "51.902385175",
+      "longitude": "-2.0510150139999"
+    },
+    {
+      "latitude": "51.902324833",
+      "longitude": "-2.051083134"
+    },
+    {
+      "latitude": "51.902251002",
+      "longitude": "-2.0511665789999"
+    },
+    {
+      "latitude": "51.902184454",
+      "longitude": "-2.051241644"
+    },
+    {
+      "latitude": "51.902180947",
+      "longitude": "-2.0512461939999"
+    },
+    {
+      "latitude": "51.902128515",
+      "longitude": "-2.051313364"
+    },
+    {
+      "latitude": "51.902045775",
+      "longitude": "-2.0514193279999"
+    },
+    {
+      "latitude": "51.902030576",
+      "longitude": "-2.051438844"
+    },
+    {
+      "latitude": "51.901984978",
+      "longitude": "-2.0514972739999"
+    },
+    {
+      "latitude": "51.901974457",
+      "longitude": "-2.0515108039999"
+    },
+    {
+      "latitude": "51.901949816",
+      "longitude": "-2.0515401349999"
+    },
+    {
+      "latitude": "51.901932368",
+      "longitude": "-2.0515609679999"
+    },
+    {
+      "latitude": "51.901868427",
+      "longitude": "-2.0516372329999"
+    },
+    {
+      "latitude": "51.901808443",
+      "longitude": "-2.051708587"
+    },
+    {
+      "latitude": "51.901783081",
+      "longitude": "-2.0517412739999"
+    },
+    {
+      "latitude": "51.901760597",
+      "longitude": "-2.051770249"
+    },
+    {
+      "latitude": "51.901743689",
+      "longitude": "-2.0517920399999"
+    },
+    {
+      "latitude": "51.901699081",
+      "longitude": "-2.0518495119999"
+    },
+    {
+      "latitude": "51.901648178",
+      "longitude": "-2.0519151249999"
+    },
+    {
+      "latitude": "51.901584143",
+      "longitude": "-2.0519976189999"
+    },
+    {
+      "latitude": "51.901576858",
+      "longitude": "-2.0520069579999"
+    },
+    {
+      "latitude": "51.901554464",
+      "longitude": "-2.0520358139999"
+    },
+    {
+      "latitude": "51.90154664",
+      "longitude": "-2.0520464699999"
+    },
+    {
+      "latitude": "51.90150131",
+      "longitude": "-2.0521088539999"
+    },
+    {
+      "latitude": "51.901425311",
+      "longitude": "-2.0522133839999"
+    },
+    {
+      "latitude": "51.901403456",
+      "longitude": "-2.052243437"
+    },
+    {
+      "latitude": "51.901384479",
+      "longitude": "-2.0522695399999"
+    },
+    {
+      "latitude": "51.901377013",
+      "longitude": "-2.052281396"
+    },
+    {
+      "latitude": "51.901336537",
+      "longitude": "-2.0523452219999"
+    },
+    {
+      "latitude": "51.90133087",
+      "longitude": "-2.0523540839999"
+    },
+    {
+      "latitude": "51.901290213",
+      "longitude": "-2.0524181499999"
+    },
+    {
+      "latitude": "51.901270426",
+      "longitude": "-2.0524492839999"
+    },
+    {
+      "latitude": "51.901247399",
+      "longitude": "-2.0524855669999"
+    },
+    {
+      "latitude": "51.901189466",
+      "longitude": "-2.0525895179999"
+    },
+    {
+      "latitude": "51.901182269",
+      "longitude": "-2.0526047299999"
+    },
+    {
+      "latitude": "51.901181909",
+      "longitude": "-2.052605329"
+    },
+    {
+      "latitude": "51.90117804",
+      "longitude": "-2.0526135929999"
+    },
+    {
+      "latitude": "51.901132787",
+      "longitude": "-2.0527078519999"
+    },
+    {
+      "latitude": "51.901120101",
+      "longitude": "-2.0527344409999"
+    },
+    {
+      "latitude": "51.901111913",
+      "longitude": "-2.0527515679999"
+    },
+    {
+      "latitude": "51.901073407",
+      "longitude": "-2.0528319329999"
+    },
+    {
+      "latitude": "51.901062521",
+      "longitude": "-2.052854689"
+    },
+    {
+      "latitude": "51.901040379",
+      "longitude": "-2.052921652"
+    },
+    {
+      "latitude": "51.900975573",
+      "longitude": "-2.0531175099999"
+    },
+    {
+      "latitude": "51.900972243",
+      "longitude": "-2.0531292489999"
+    },
+    {
+      "latitude": "51.900953337",
+      "longitude": "-2.0531960949999"
+    },
+    {
+      "latitude": "51.900949646",
+      "longitude": "-2.0532092739999"
+    },
+    {
+      "latitude": "51.900941903",
+      "longitude": "-2.0532364669999"
+    },
+    {
+      "latitude": "51.900921557",
+      "longitude": "-2.0533084649999"
+    },
+    {
+      "latitude": "51.900910663",
+      "longitude": "-2.0533472789999"
+    },
+    {
+      "latitude": "51.900908773",
+      "longitude": "-2.0533538679999"
+    },
+    {
+      "latitude": "51.90089941",
+      "longitude": "-2.0533868119999"
+    },
+    {
+      "latitude": "51.900890311",
+      "longitude": "-2.0534331769999"
+    },
+    {
+      "latitude": "51.900881121",
+      "longitude": "-2.0534799029999"
+    },
+    {
+      "latitude": "51.900853372",
+      "longitude": "-2.0536209169999"
+    },
+    {
+      "latitude": "51.900837515",
+      "longitude": "-2.0537014279999"
+    },
+    {
+      "latitude": "51.900831116",
+      "longitude": "-2.0537389289999"
+    },
+    {
+      "latitude": "51.900817328",
+      "longitude": "-2.0538201629999"
+    },
+    {
+      "latitude": "51.900801646",
+      "longitude": "-2.0539122969999"
+    },
+    {
+      "latitude": "51.900801555",
+      "longitude": "-2.0539126559999"
+    },
+    {
+      "latitude": "51.900798577",
+      "longitude": "-2.0539400959999"
+    },
+    {
+      "latitude": "51.900797403",
+      "longitude": "-2.0539509999999"
+    },
+    {
+      "latitude": "51.900783231",
+      "longitude": "-2.0540817229999"
+    },
+    {
+      "latitude": "51.900779982",
+      "longitude": "-2.0541120379999"
+    },
+    {
+      "latitude": "51.90077962",
+      "longitude": "-2.0541156329999"
+    },
+    {
+      "latitude": "51.900783562",
+      "longitude": "-2.054143199"
+    },
+    {
+      "latitude": "51.900785892",
+      "longitude": "-2.0541590209999"
+    },
+    {
+      "latitude": "51.900803184",
+      "longitude": "-2.0542788789999"
+    },
+    {
+      "latitude": "51.900815549",
+      "longitude": "-2.054364576"
+    },
+    {
+      "latitude": "51.900817606",
+      "longitude": "-2.0543889049999"
+    },
+    {
+      "latitude": "51.900823147",
+      "longitude": "-2.0544567389999"
+    },
+    {
+      "latitude": "51.900832443",
+      "longitude": "-2.0545693959999"
+    },
+    {
+      "latitude": "51.900837278",
+      "longitude": "-2.0546076299999"
+    },
+    {
+      "latitude": "51.900849637",
+      "longitude": "-2.0547049509999"
+    },
+    {
+      "latitude": "51.900859488",
+      "longitude": "-2.054782498"
+    },
+    {
+      "latitude": "51.90086926",
+      "longitude": "-2.0548393129999"
+    },
+    {
+      "latitude": "51.900883781",
+      "longitude": "-2.0549240539999"
+    },
+    {
+      "latitude": "51.900892566",
+      "longitude": "-2.054975355"
+    },
+    {
+      "latitude": "51.900914797",
+      "longitude": "-2.0551049249999"
+    },
+    {
+      "latitude": "51.900921789",
+      "longitude": "-2.0551456779999"
+    },
+    {
+      "latitude": "51.900952536",
+      "longitude": "-2.0553248719999"
+    },
+    {
+      "latitude": "51.900962126",
+      "longitude": "-2.0553809669999"
+    },
+    {
+      "latitude": "51.900972973",
+      "longitude": "-2.055444254"
+    },
+    {
+      "latitude": "51.900979516",
+      "longitude": "-2.0554824909999"
+    },
+    {
+      "latitude": "51.900988473",
+      "longitude": "-2.0555492509999"
+    },
+    {
+      "latitude": "51.901000668",
+      "longitude": "-2.0556116999999"
+    },
+    {
+      "latitude": "51.90100551",
+      "longitude": "-2.0556365129999"
+    },
+    {
+      "latitude": "51.90101546",
+      "longitude": "-2.0556932079999"
+    },
+    {
+      "latitude": "51.901028817",
+      "longitude": "-2.0557691999999"
+    },
+    {
+      "latitude": "51.901047821",
+      "longitude": "-2.055877436"
+    },
+    {
+      "latitude": "51.901057413",
+      "longitude": "-2.0559318539999"
+    },
+    {
+      "latitude": "51.901061448",
+      "longitude": "-2.0559543889999"
+    },
+    {
+      "latitude": "51.901081168",
+      "longitude": "-2.0560665799999"
+    },
+    {
+      "latitude": "51.901103758",
+      "longitude": "-2.0561950729999"
+    },
+    {
+      "latitude": "51.901151268",
+      "longitude": "-2.056464887"
+    },
+    {
+      "latitude": "51.901154764",
+      "longitude": "-2.0564846639999"
+    },
+    {
+      "latitude": "51.901164535",
+      "longitude": "-2.0565402799999"
+    },
+    {
+      "latitude": "51.901192861",
+      "longitude": "-2.056701378"
+    },
+    {
+      "latitude": "51.901218767",
+      "longitude": "-2.0568485699999"
+    },
+    {
+      "latitude": "51.901225758",
+      "longitude": "-2.0568883649999"
+    },
+    {
+      "latitude": "51.9012427",
+      "longitude": "-2.0569846159999"
+    },
+    {
+      "latitude": "51.901243238",
+      "longitude": "-2.0569877319999"
+    },
+    {
+      "latitude": "51.901262778",
+      "longitude": "-2.057098487"
+    },
+    {
+      "latitude": "51.901280437",
+      "longitude": "-2.0571990529999"
+    },
+    {
+      "latitude": "51.901295227",
+      "longitude": "-2.0572828379999"
+    },
+    {
+      "latitude": "51.901297289",
+      "longitude": "-2.057294704"
+    },
+    {
+      "latitude": "51.901302309",
+      "longitude": "-2.0573231119999"
+    },
+    {
+      "latitude": "51.901311452",
+      "longitude": "-2.0573751339999"
+    },
+    {
+      "latitude": "51.901315753",
+      "longitude": "-2.0574019829999"
+    },
+    {
+      "latitude": "51.901342547",
+      "longitude": "-2.0575696689999"
+    },
+    {
+      "latitude": "51.901352225",
+      "longitude": "-2.0576298399999"
+    },
+    {
+      "latitude": "51.901369519",
+      "longitude": "-2.057737717"
+    },
+    {
+      "latitude": "51.90141074",
+      "longitude": "-2.0579949409999"
+    },
+    {
+      "latitude": "51.901437981",
+      "longitude": "-2.0581653859999"
+    },
+    {
+      "latitude": "51.901447479",
+      "longitude": "-2.0582242389999"
+    },
+    {
+      "latitude": "51.901455455",
+      "longitude": "-2.0582732619999"
+    },
+    {
+      "latitude": "51.901491031",
+      "longitude": "-2.0584908139999"
+    },
+    {
+      "latitude": "51.901514061",
+      "longitude": "-2.0586321329999"
+    },
+    {
+      "latitude": "51.90155806",
+      "longitude": "-2.0589012269999"
+    },
+    {
+      "latitude": "51.901561286",
+      "longitude": "-2.0589211249999"
+    },
+    {
+      "latitude": "51.901564783",
+      "longitude": "-2.0589371869999"
+    },
+    {
+      "latitude": "51.901577428",
+      "longitude": "-2.0589960439999"
+    },
+    {
+      "latitude": "51.901598252",
+      "longitude": "-2.0590532339999"
+    },
+    {
+      "latitude": "51.901611357",
+      "longitude": "-2.0590892029999"
+    },
+    {
+      "latitude": "51.901656265",
+      "longitude": "-2.0591587689999"
+    },
+    {
+      "latitude": "51.901676929",
+      "longitude": "-2.0591768919999"
+    },
+    {
+      "latitude": "51.901711339",
+      "longitude": "-2.059207016"
+    },
+    {
+      "latitude": "51.901803754",
+      "longitude": "-2.0591810129999"
+    },
+    {
+      "latitude": "51.901822363",
+      "longitude": "-2.059175884"
+    },
+    {
+      "latitude": "51.901872434",
+      "longitude": "-2.0591646849999"
+    },
+    {
+      "latitude": "51.901954148",
+      "longitude": "-2.059146697"
+    },
+    {
+      "latitude": "51.901959811",
+      "longitude": "-2.0591453859999"
+    },
+    {
+      "latitude": "51.901963857",
+      "longitude": "-2.0591450319999"
+    },
+    {
+      "latitude": "51.90198444",
+      "longitude": "-2.0591446989999"
+    },
+    {
+      "latitude": "51.902025338",
+      "longitude": "-2.059143795"
+    },
+    {
+      "latitude": "51.902085377",
+      "longitude": "-2.0591511829999"
+    },
+    {
+      "latitude": "51.902130585",
+      "longitude": "-2.0591613089999"
+    },
+    {
+      "latitude": "51.902150357",
+      "longitude": "-2.0591657699999"
+    },
+    {
+      "latitude": "51.902218564",
+      "longitude": "-2.0591952199999"
+    },
+    {
+      "latitude": "51.902223237",
+      "longitude": "-2.0591972629999"
+    },
+    {
+      "latitude": "51.902272301",
+      "longitude": "-2.0592232129999"
+    },
+    {
+      "latitude": "51.902320283",
+      "longitude": "-2.0592559919999"
+    },
+    {
+      "latitude": "51.902354335",
+      "longitude": "-2.0592850379999"
+    },
+    {
+      "latitude": "51.90236736",
+      "longitude": "-2.059299317"
+    },
+    {
+      "latitude": "51.902399342",
+      "longitude": "-2.059334233"
+    },
+    {
+      "latitude": "51.902412369",
+      "longitude": "-2.0593459939999"
+    },
+    {
+      "latitude": "51.902425397",
+      "longitude": "-2.0593578759999"
+    },
+    {
+      "latitude": "51.902476329",
+      "longitude": "-2.0594228959999"
+    },
+    {
+      "latitude": "51.902479742",
+      "longitude": "-2.0594279339999"
+    },
+    {
+      "latitude": "51.902509292",
+      "longitude": "-2.0594711159999"
+    },
+    {
+      "latitude": "51.902562188",
+      "longitude": "-2.059561066"
+    },
+    {
+      "latitude": "51.90263662",
+      "longitude": "-2.0597245079999"
+    },
+    {
+      "latitude": "51.902649818",
+      "longitude": "-2.0597532869999"
+    },
+    {
+      "latitude": "51.902666247",
+      "longitude": "-2.0597918969999"
+    },
+    {
+      "latitude": "51.902672978",
+      "longitude": "-2.0598127589999"
+    },
+    {
+      "latitude": "51.902677914",
+      "longitude": "-2.0598278659999"
+    },
+    {
+      "latitude": "51.90267926",
+      "longitude": "-2.059831942"
+    },
+    {
+      "latitude": "51.902689302",
+      "longitude": "-2.0598819289999"
+    },
+    {
+      "latitude": "51.902700955",
+      "longitude": "-2.0599451009999"
+    },
+    {
+      "latitude": "51.90270472",
+      "longitude": "-2.0599655979999"
+    },
+    {
+      "latitude": "51.902711173",
+      "longitude": "-2.0600009599999"
+    },
+    {
+      "latitude": "51.902718255",
+      "longitude": "-2.0600396789999"
+    },
+    {
+      "latitude": "51.902761189",
+      "longitude": "-2.0602740259999"
+    },
+    {
+      "latitude": "51.902777414",
+      "longitude": "-2.0603620119999"
+    },
+    {
+      "latitude": "51.902843653",
+      "longitude": "-2.0607217449999"
+    },
+    {
+      "latitude": "51.902857815",
+      "longitude": "-2.0607987019999"
+    },
+    {
+      "latitude": "51.90287135",
+      "longitude": "-2.060871824"
+    },
+    {
+      "latitude": "51.902916883",
+      "longitude": "-2.061118759"
+    },
+    {
+      "latitude": "51.902937589",
+      "longitude": "-2.06123048"
+    },
+    {
+      "latitude": "51.902945835",
+      "longitude": "-2.0612751919999"
+    },
+    {
+      "latitude": "51.902952109",
+      "longitude": "-2.0613092359999"
+    },
+    {
+      "latitude": "51.902968243",
+      "longitude": "-2.061396623"
+    },
+    {
+      "latitude": "51.90299334",
+      "longitude": "-2.0615304009999"
+    },
+    {
+      "latitude": "51.903046135",
+      "longitude": "-2.0618117419999"
+    },
+    {
+      "latitude": "51.903066213",
+      "longitude": "-2.0619186689999"
+    },
+    {
+      "latitude": "51.903075534",
+      "longitude": "-2.0619697349999"
+    },
+    {
+      "latitude": "51.903094176",
+      "longitude": "-2.062072106"
+    },
+    {
+      "latitude": "51.903102422",
+      "longitude": "-2.0621172979999"
+    },
+    {
+      "latitude": "51.903130026",
+      "longitude": "-2.062268457"
+    },
+    {
+      "latitude": "51.903137465",
+      "longitude": "-2.0623093339999"
+    },
+    {
+      "latitude": "51.903154762",
+      "longitude": "-2.0624041529999"
+    },
+    {
+      "latitude": "51.903157361",
+      "longitude": "-2.0624184179999"
+    },
+    {
+      "latitude": "51.903189178",
+      "longitude": "-2.0625929529999"
+    },
+    {
+      "latitude": "51.903203966",
+      "longitude": "-2.0626748259999"
+    },
+    {
+      "latitude": "51.903220366",
+      "longitude": "-2.0627653299999"
+    },
+    {
+      "latitude": "51.903228073",
+      "longitude": "-2.0628080039999"
+    },
+    {
+      "latitude": "51.90324295",
+      "longitude": "-2.0628901169999"
+    },
+    {
+      "latitude": "51.903249134",
+      "longitude": "-2.0629244009999"
+    },
+    {
+      "latitude": "51.903253615",
+      "longitude": "-2.0629493339999"
+    },
+    {
+      "latitude": "51.903285161",
+      "longitude": "-2.0631235099999"
+    },
+    {
+      "latitude": "51.903304694",
+      "longitude": "-2.0632376269999"
+    },
+    {
+      "latitude": "51.903312132",
+      "longitude": "-2.0632809019999"
+    },
+    {
+      "latitude": "51.903332203",
+      "longitude": "-2.0633975359999"
+    },
+    {
+      "latitude": "51.903343943",
+      "longitude": "-2.063462747"
+    },
+    {
+      "latitude": "51.903359267",
+      "longitude": "-2.0635479779999"
+    },
+    {
+      "latitude": "51.903381044",
+      "longitude": "-2.0636688099999"
+    },
+    {
+      "latitude": "51.903388125",
+      "longitude": "-2.063705013"
+    },
+    {
+      "latitude": "51.903398791",
+      "longitude": "-2.0637597959999"
+    },
+    {
+      "latitude": "51.903414298",
+      "longitude": "-2.0638396339999"
+    },
+    {
+      "latitude": "51.90345016",
+      "longitude": "-2.0640086639999"
+    },
+    {
+      "latitude": "51.903457245",
+      "longitude": "-2.0640394729999"
+    },
+    {
+      "latitude": "51.903465136",
+      "longitude": "-2.0640736399999"
+    },
+    {
+      "latitude": "51.903479123",
+      "longitude": "-2.064137656"
+    },
+    {
+      "latitude": "51.903495088",
+      "longitude": "-2.0642017939999"
+    },
+    {
+      "latitude": "51.90351312",
+      "longitude": "-2.0642644989999"
+    },
+    {
+      "latitude": "51.903514018",
+      "longitude": "-2.0642672569999"
+    },
+    {
+      "latitude": "51.903545785",
+      "longitude": "-2.0643598199999"
+    },
+    {
+      "latitude": "51.903570196",
+      "longitude": "-2.0644308029999"
+    },
+    {
+      "latitude": "51.903576299",
+      "longitude": "-2.0644472309999"
+    },
+    {
+      "latitude": "51.903585454",
+      "longitude": "-2.0644716919999"
+    },
+    {
+      "latitude": "51.903604122",
+      "longitude": "-2.064521694"
+    },
+    {
+      "latitude": "51.903621267",
+      "longitude": "-2.0645625839999"
+    },
+    {
+      "latitude": "51.903662026",
+      "longitude": "-2.0646507289999"
+    },
+    {
+      "latitude": "51.903953904",
+      "longitude": "-2.0652622339999"
+    },
+    {
+      "latitude": "51.904031836",
+      "longitude": "-2.0654221009999"
+    },
+    {
+      "latitude": "51.904130595",
+      "longitude": "-2.0656244229999"
+    },
+    {
+      "latitude": "51.904049651",
+      "longitude": "-2.0657114319999"
+    },
+    {
+      "latitude": "51.90403165",
+      "longitude": "-2.0657550299999"
+    },
+    {
+      "latitude": "51.903995647",
+      "longitude": "-2.0658422239999"
+    },
+    {
+      "latitude": "51.903968633",
+      "longitude": "-2.0659294309999"
+    },
+    {
+      "latitude": "51.903950615",
+      "longitude": "-2.0660020299999"
+    },
+    {
+      "latitude": "51.903941496",
+      "longitude": "-2.0660746429999"
+    },
+    {
+      "latitude": "51.903941439",
+      "longitude": "-2.06617639"
+    },
+    {
+      "latitude": "51.903959432",
+      "longitude": "-2.066307288"
+    },
+    {
+      "latitude": "51.90399532",
+      "longitude": "-2.0664235899999"
+    },
+    {
+      "latitude": "51.904013272",
+      "longitude": "-2.0664672399999"
+    },
+    {
+      "latitude": "51.904049186",
+      "longitude": "-2.0665400379999"
+    },
+    {
+      "latitude": "51.904103075",
+      "longitude": "-2.0666127439999"
+    },
+    {
+      "latitude": "51.904156981",
+      "longitude": "-2.066656447"
+    },
+    {
+      "latitude": "51.904201907",
+      "longitude": "-2.0666855159999"
+    },
+    {
+      "latitude": "51.904237853",
+      "longitude": "-2.0667001899999"
+    },
+    {
+      "latitude": "51.904300862",
+      "longitude": "-2.0667002839999"
+    },
+    {
+      "latitude": "51.904354792",
+      "longitude": "-2.0667003629999"
+    },
+    {
+      "latitude": "51.904399742",
+      "longitude": "-2.0666858089999"
+    },
+    {
+      "latitude": "51.904444701",
+      "longitude": "-2.0666568729999"
+    },
+    {
+      "latitude": "51.904498657",
+      "longitude": "-2.066613329"
+    },
+    {
+      "latitude": "51.904552629",
+      "longitude": "-2.0665407819999"
+    },
+    {
+      "latitude": "51.904579717",
+      "longitude": "-2.0664825769999"
+    },
+    {
+      "latitude": "51.904831212",
+      "longitude": "-2.0668028199999"
+    },
+    {
+      "latitude": "51.904865573",
+      "longitude": "-2.0667584079999"
+    },
+    {
+      "latitude": "51.904872669",
+      "longitude": "-2.0667674059999"
+    },
+    {
+      "latitude": "51.904880586",
+      "longitude": "-2.0667539949999"
+    },
+    {
+      "latitude": "51.904894532",
+      "longitude": "-2.066730166"
+    },
+    {
+      "latitude": "51.904912239",
+      "longitude": "-2.0667301919999"
+    },
+    {
+      "latitude": "51.904939196",
+      "longitude": "-2.0667448529999"
+    },
+    {
+      "latitude": "51.904975142",
+      "longitude": "-2.0667594089999"
+    },
+    {
+      "latitude": "51.904984122",
+      "longitude": "-2.0667739229999"
+    },
+    {
+      "latitude": "51.905020035",
+      "longitude": "-2.066846724"
+    },
+    {
+      "latitude": "51.905020002",
+      "longitude": "-2.0669048489999"
+    },
+    {
+      "latitude": "51.905019977",
+      "longitude": "-2.066948474"
+    },
+    {
+      "latitude": "51.905001983",
+      "longitude": "-2.066977451"
+    },
+    {
+      "latitude": "51.904993792",
+      "longitude": "-2.0669972139999"
+    },
+    {
+      "latitude": "51.904983981",
+      "longitude": "-2.0670210489999"
+    },
+    {
+      "latitude": "51.904979844",
+      "longitude": "-2.0670243979999"
+    },
+    {
+      "latitude": "51.904965996",
+      "longitude": "-2.067035523"
+    },
+    {
+      "latitude": "51.904939022",
+      "longitude": "-2.0670501039999"
+    },
+    {
+      "latitude": "51.904921046",
+      "longitude": "-2.0670500779999"
+    },
+    {
+      "latitude": "51.904894081",
+      "longitude": "-2.0670500369999"
+    },
+    {
+      "latitude": "51.904867033",
+      "longitude": "-2.0670353759999"
+    },
+    {
+      "latitude": "51.904858139",
+      "longitude": "-2.0670281719999"
+    },
+    {
+      "latitude": "51.904849065",
+      "longitude": "-2.0670208479999"
+    },
+    {
+      "latitude": "51.90483421",
+      "longitude": "-2.06706385"
+    },
+    {
+      "latitude": "51.904708254",
+      "longitude": "-2.0674269179999"
+    },
+    {
+      "latitude": "51.904700391",
+      "longitude": "-2.0674998929999"
+    },
+    {
+      "latitude": "51.903993583",
+      "longitude": "-2.0697387299999"
+    },
+    {
+      "latitude": "51.904263576",
+      "longitude": "-2.0711248"
+    }
+  ],
+  "crimes": [
+    {
+      "category": "anti-social-behaviour",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.908630",
+        "street": {
+          "id": 1571671,
+          "name": "On or near Pennine Road"
+        },
+        "longitude": "-2.049683"
+      },
+      "context": "",
+      "outcome_status": null,
+      "persistent_id": "",
+      "id": 127311668,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "anti-social-behaviour",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.908630",
+        "street": {
+          "id": 1571671,
+          "name": "On or near Pennine Road"
+        },
+        "longitude": "-2.049683"
+      },
+      "context": "",
+      "outcome_status": null,
+      "persistent_id": "",
+      "id": 127311543,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "anti-social-behaviour",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.907603",
+        "street": {
+          "id": 1571567,
+          "name": "On or near Cromwell Road"
+        },
+        "longitude": "-2.054217"
+      },
+      "context": "",
+      "outcome_status": null,
+      "persistent_id": "",
+      "id": 127311526,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "anti-social-behaviour",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.905525",
+        "street": {
+          "id": 1571500,
+          "name": "On or near Thames Road"
+        },
+        "longitude": "-2.056845"
+      },
+      "context": "",
+      "outcome_status": null,
+      "persistent_id": "",
+      "id": 127311795,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "anti-social-behaviour",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.900860",
+        "street": {
+          "id": 1571529,
+          "name": "On or near B4075"
+        },
+        "longitude": "-2.054572"
+      },
+      "context": "",
+      "outcome_status": null,
+      "persistent_id": "",
+      "id": 127312379,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "anti-social-behaviour",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.905858",
+        "street": {
+          "id": 1571505,
+          "name": "On or near Severn Road"
+        },
+        "longitude": "-2.055741"
+      },
+      "context": "",
+      "outcome_status": null,
+      "persistent_id": "",
+      "id": 127311983,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "anti-social-behaviour",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.907138",
+        "street": {
+          "id": 1571744,
+          "name": "On or near Newland Court"
+        },
+        "longitude": "-2.047472"
+      },
+      "context": "",
+      "outcome_status": null,
+      "persistent_id": "",
+      "id": 127312231,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "anti-social-behaviour",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.904491",
+        "street": {
+          "id": 1571466,
+          "name": "On or near Whaddon Road"
+        },
+        "longitude": "-2.057513"
+      },
+      "context": "",
+      "outcome_status": null,
+      "persistent_id": "",
+      "id": 127311880,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "anti-social-behaviour",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.902621",
+        "street": {
+          "id": 1571504,
+          "name": "On or near Whaddon Avenue"
+        },
+        "longitude": "-2.055868"
+      },
+      "context": "",
+      "outcome_status": null,
+      "persistent_id": "",
+      "id": 127311873,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "anti-social-behaviour",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.903872",
+        "street": {
+          "id": 1571579,
+          "name": "On or near Windrush Road"
+        },
+        "longitude": "-2.054532"
+      },
+      "context": "",
+      "outcome_status": null,
+      "persistent_id": "",
+      "id": 127311821,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "anti-social-behaviour",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.905202",
+        "street": {
+          "id": 1571566,
+          "name": "On or near Tamar Road"
+        },
+        "longitude": "-2.054926"
+      },
+      "context": "",
+      "outcome_status": null,
+      "persistent_id": "",
+      "id": 127311811,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "anti-social-behaviour",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.906921",
+        "street": {
+          "id": 1571654,
+          "name": "On or near Cam Road"
+        },
+        "longitude": "-2.051193"
+      },
+      "context": "",
+      "outcome_status": null,
+      "persistent_id": "",
+      "id": 127311723,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "anti-social-behaviour",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.908630",
+        "street": {
+          "id": 1571671,
+          "name": "On or near Pennine Road"
+        },
+        "longitude": "-2.049683"
+      },
+      "context": "",
+      "outcome_status": null,
+      "persistent_id": "",
+      "id": 127312280,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "anti-social-behaviour",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.912092",
+        "street": {
+          "id": 1571224,
+          "name": "On or near East Approach Drive"
+        },
+        "longitude": "-2.065998"
+      },
+      "context": "",
+      "outcome_status": null,
+      "persistent_id": "",
+      "id": 127312181,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "anti-social-behaviour",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.908168",
+        "street": {
+          "id": 1571476,
+          "name": "On or near Mendip Close"
+        },
+        "longitude": "-2.057634"
+      },
+      "context": "",
+      "outcome_status": null,
+      "persistent_id": "",
+      "id": 127312167,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "anti-social-behaviour",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.905202",
+        "street": {
+          "id": 1571566,
+          "name": "On or near Tamar Road"
+        },
+        "longitude": "-2.054926"
+      },
+      "context": "",
+      "outcome_status": null,
+      "persistent_id": "",
+      "id": 127312141,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "bicycle-theft",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.908630",
+        "street": {
+          "id": 1571671,
+          "name": "On or near Pennine Road"
+        },
+        "longitude": "-2.049683"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Investigation complete; no suspect identified",
+        "date": "2025-05"
+      },
+      "persistent_id": "b8975e9af92077f9ccdd060780db053ba1c9831fea2b244cdb8bf1d127ae0b35",
+      "id": 127309334,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "burglary",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.908630",
+        "street": {
+          "id": 1571671,
+          "name": "On or near Pennine Road"
+        },
+        "longitude": "-2.049683"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Unable to prosecute suspect",
+        "date": "2025-06"
+      },
+      "persistent_id": "06918626038ce6bf1a609495c332f43b5aed2728fe5b42a4ba73fcd0e6360def",
+      "id": 127309361,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "burglary",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.908630",
+        "street": {
+          "id": 1571671,
+          "name": "On or near Pennine Road"
+        },
+        "longitude": "-2.049683"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Investigation complete; no suspect identified",
+        "date": "2025-04"
+      },
+      "persistent_id": "76588d15915164b7d2d5091f513116a8d5f1d41309bc9d836ad513cc73a9a644",
+      "id": 127309362,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "burglary",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.908630",
+        "street": {
+          "id": 1571671,
+          "name": "On or near Pennine Road"
+        },
+        "longitude": "-2.049683"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Investigation complete; no suspect identified",
+        "date": "2025-07"
+      },
+      "persistent_id": "ff7016862b7c9b4f6367ddf110137c4c60b668b00d3ab7ca57e28e2c3c4bf722",
+      "id": 127309333,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "criminal-damage-arson",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.900860",
+        "street": {
+          "id": 1571529,
+          "name": "On or near B4075"
+        },
+        "longitude": "-2.054572"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Investigation complete; no suspect identified",
+        "date": "2025-05"
+      },
+      "persistent_id": "e7f26997cc8e579acf3504ad7e957eb3829b4ec5d50a95dd96c14a8813ac9d08",
+      "id": 127310413,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "criminal-damage-arson",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.903872",
+        "street": {
+          "id": 1571579,
+          "name": "On or near Windrush Road"
+        },
+        "longitude": "-2.054532"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Local resolution",
+        "date": "2025-04"
+      },
+      "persistent_id": "f1539ec812b430708fc2f72641fea25407687a6f581b4765976e870d03d3fbb0",
+      "id": 127308143,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "criminal-damage-arson",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.909758",
+        "street": {
+          "id": 1571398,
+          "name": "On or near Oakland Avenue"
+        },
+        "longitude": "-2.060151"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Unable to prosecute suspect",
+        "date": "2025-07"
+      },
+      "persistent_id": "c2d9fd9023d5a88f505aa490fdabd8d39a6eabb8771bdf4c3f07cd2b2b5074a1",
+      "id": 127308137,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "criminal-damage-arson",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.908776",
+        "street": {
+          "id": 1571303,
+          "name": "On or near Little Cleevemount"
+        },
+        "longitude": "-2.064001"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Investigation complete; no suspect identified",
+        "date": "2025-04"
+      },
+      "persistent_id": "a8e920fe1232308f9b9a23befbd160789f1639d5ba423e6f123de3335cede9ae",
+      "id": 127308173,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "criminal-damage-arson",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.907184",
+        "street": {
+          "id": 1571227,
+          "name": "On or near Pittville Crescent"
+        },
+        "longitude": "-2.065351"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Investigation complete; no suspect identified",
+        "date": "2025-05"
+      },
+      "persistent_id": "9448e24453776f00af181e9e8b8e2cb2022ab945cc9d4e953369438c37ec572b",
+      "id": 127308570,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "criminal-damage-arson",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.903872",
+        "street": {
+          "id": 1571579,
+          "name": "On or near Windrush Road"
+        },
+        "longitude": "-2.054532"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Local resolution",
+        "date": "2025-04"
+      },
+      "persistent_id": "3ba9bd546261c0425891c95d86b1aca6ea22301b8b1eb5fbdc03c4158ba8f228",
+      "id": 127308142,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "drugs",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.904742",
+        "street": {
+          "id": 1571455,
+          "name": "On or near Robins Close"
+        },
+        "longitude": "-2.058356"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Local resolution",
+        "date": "2025-08"
+      },
+      "persistent_id": "0860b8493da5eb0aa5d5b3af9745c0b533f30dfc583fcc98780799897d5423d3",
+      "id": 127309374,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "other-theft",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.900860",
+        "street": {
+          "id": 1571529,
+          "name": "On or near B4075"
+        },
+        "longitude": "-2.054572"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Investigation complete; no suspect identified",
+        "date": "2025-05"
+      },
+      "persistent_id": "f58f0c5a1131706c8d60db892ffa085d7e13e03470cdca2cfac4baf95e0bc101",
+      "id": 127309978,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "other-theft",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.908843",
+        "street": {
+          "id": 1571508,
+          "name": "On or near Mendip Road"
+        },
+        "longitude": "-2.056210"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Investigation complete; no suspect identified",
+        "date": "2025-05"
+      },
+      "persistent_id": "ec5f39515a0cbc2e7688af0e505aa48a202e7a7517cba5cf6dd5a3b126007dbf",
+      "id": 127309266,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "possession-of-weapons",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.903144",
+        "street": {
+          "id": 1571588,
+          "name": "On or near Churn Avenue"
+        },
+        "longitude": "-2.053659"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Court result unavailable",
+        "date": "2025-10"
+      },
+      "persistent_id": "6ad87b704cc7dea33e39709d44f7dd7fc7a80f921325339938622c653611dc2b",
+      "id": 127308124,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "possession-of-weapons",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.903144",
+        "street": {
+          "id": 1571588,
+          "name": "On or near Churn Avenue"
+        },
+        "longitude": "-2.053659"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Court result unavailable",
+        "date": "2025-10"
+      },
+      "persistent_id": "9cdf3c977dfc4c4dfbae0c23e315cff2af557429cdbce022a80f42ab8d6b9e31",
+      "id": 127308125,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "public-order",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.912092",
+        "street": {
+          "id": 1571224,
+          "name": "On or near East Approach Drive"
+        },
+        "longitude": "-2.065998"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Local resolution",
+        "date": "2025-04"
+      },
+      "persistent_id": "04dcc3c9034fa68352e457cf3e1a57f96d9fcdd19b24439ed974acf76265ffd2",
+      "id": 127308114,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "public-order",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.906970",
+        "street": {
+          "id": 1571366,
+          "name": "On or near Cakebridge Place"
+        },
+        "longitude": "-2.062022"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Unable to prosecute suspect",
+        "date": "2025-05"
+      },
+      "persistent_id": "4509e286c2177e97514d41f8b3f449b9563c77c3d5326404cc45fd2318f876bd",
+      "id": 127307887,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "public-order",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.903627",
+        "street": {
+          "id": 1571421,
+          "name": "On or near Hayes Road"
+        },
+        "longitude": "-2.059358"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Investigation complete; no suspect identified",
+        "date": "2025-04"
+      },
+      "persistent_id": "c382105360f661716f7154cfdebcb6d73a065fd62b7cd0b865a3b799246196f5",
+      "id": 127310091,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "public-order",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.905480",
+        "street": {
+          "id": 1571601,
+          "name": "On or near Sports/recreation Area"
+        },
+        "longitude": "-2.053238"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Unable to prosecute suspect",
+        "date": "2025-07"
+      },
+      "persistent_id": "905a181b2b23c6b7938e9d1acd43dc1cf48be9bac4cc56a831e5619e213d912e",
+      "id": 127309655,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "public-order",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.908168",
+        "street": {
+          "id": 1571476,
+          "name": "On or near Mendip Close"
+        },
+        "longitude": "-2.057634"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Unable to prosecute suspect",
+        "date": "2025-04"
+      },
+      "persistent_id": "f539fafb97f07ea95ff9d86091599035a0f5a94a347f3769e9d2742e8f6d56ad",
+      "id": 127307821,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "public-order",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.908630",
+        "street": {
+          "id": 1571671,
+          "name": "On or near Pennine Road"
+        },
+        "longitude": "-2.049683"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Unable to prosecute suspect",
+        "date": "2025-05"
+      },
+      "persistent_id": "ef94b87952a9affbd1464d9f3da70473dbbefbdb2c6fcc3246303bd6ba5528d8",
+      "id": 127309332,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "shoplifting",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.900860",
+        "street": {
+          "id": 1571529,
+          "name": "On or near B4075"
+        },
+        "longitude": "-2.054572"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Unable to prosecute suspect",
+        "date": "2025-05"
+      },
+      "persistent_id": "c0ef000bde62a5261cb930bf7d49a3c25968aac46b475c49b0dcb777c5c92cd2",
+      "id": 127309979,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "vehicle-crime",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.906970",
+        "street": {
+          "id": 1571366,
+          "name": "On or near Cakebridge Place"
+        },
+        "longitude": "-2.062022"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Suspect charged as part of another case",
+        "date": "2025-05"
+      },
+      "persistent_id": "c46769386083591f5156becec21b482ca67b5f9037549677d85aa9c3c4f69f48",
+      "id": 127307886,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "vehicle-crime",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.904545",
+        "street": {
+          "id": 1571408,
+          "name": "On or near Sports/recreation Area"
+        },
+        "longitude": "-2.060434"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Suspect charged as part of another case",
+        "date": "2025-05"
+      },
+      "persistent_id": "904b18d35e2ca422459c65d8b4cc3cc0987f11961458161c4c2f4338d198c8b7",
+      "id": 127307992,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "vehicle-crime",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.907497",
+        "street": {
+          "id": 1571182,
+          "name": "On or near Central Cross Drive"
+        },
+        "longitude": "-2.067953"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Investigation complete; no suspect identified",
+        "date": "2025-06"
+      },
+      "persistent_id": "633d655824833fb1fee42c489e9f11a8611cf574b35f00c98da7f184476166bf",
+      "id": 127308654,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "vehicle-crime",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.904951",
+        "street": {
+          "id": 1571141,
+          "name": "On or near Pittville Mews"
+        },
+        "longitude": "-2.069854"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Investigation complete; no suspect identified",
+        "date": "2025-04"
+      },
+      "persistent_id": "43b96191131e40356428c31eb187a385c9e3dc4b3ea964cfca77a0764434bdc4",
+      "id": 127310370,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "vehicle-crime",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.902621",
+        "street": {
+          "id": 1571504,
+          "name": "On or near Whaddon Avenue"
+        },
+        "longitude": "-2.055868"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Suspect charged as part of another case",
+        "date": "2025-05"
+      },
+      "persistent_id": "c366a3f597a80666a436947a6437abd5137915229fcf1343d7afb1ed9a1eac2b",
+      "id": 127309186,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "vehicle-crime",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.908168",
+        "street": {
+          "id": 1571476,
+          "name": "On or near Mendip Close"
+        },
+        "longitude": "-2.057634"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Investigation complete; no suspect identified",
+        "date": "2025-04"
+      },
+      "persistent_id": "efe57abc143ae8f9564888f7bbd342e2db91624978c2226e42e06ddd9b0c6628",
+      "id": 127307822,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "vehicle-crime",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.907139",
+        "street": {
+          "id": 1571298,
+          "name": "On or near Pittville Crescent Lane"
+        },
+        "longitude": "-2.064639"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Investigation complete; no suspect identified",
+        "date": "2025-04"
+      },
+      "persistent_id": "f66ee5d6d7da8dbeb51ff5194cb1aa10c7da66d34d7845d3ed1d97215106aaf5",
+      "id": 127308172,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "vehicle-crime",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.902469",
+        "street": {
+          "id": 1571571,
+          "name": "On or near Mersey Road"
+        },
+        "longitude": "-2.054879"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Suspect charged as part of another case",
+        "date": "2025-05"
+      },
+      "persistent_id": "8905d5c6e1e93e7b119f11ef2d1b745c00744fe92ec5c16c937cf21395de8d68",
+      "id": 127309288,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "vehicle-crime",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.908843",
+        "street": {
+          "id": 1571508,
+          "name": "On or near Mendip Road"
+        },
+        "longitude": "-2.056210"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Investigation complete; no suspect identified",
+        "date": "2025-04"
+      },
+      "persistent_id": "5f5ff3f70049155830ff5d873bc67a7c6ab32369956be0e4ec9889c512de858e",
+      "id": 127309265,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "vehicle-crime",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.904491",
+        "street": {
+          "id": 1571466,
+          "name": "On or near Whaddon Road"
+        },
+        "longitude": "-2.057513"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Investigation complete; no suspect identified",
+        "date": "2025-06"
+      },
+      "persistent_id": "5295f46a7d1723dec9628bd2f389fe8133c4c2face65dc1384b097c0486faa4e",
+      "id": 127310239,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "vehicle-crime",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.911305",
+        "street": {
+          "id": 1571462,
+          "name": "On or near Welland Lodge Road"
+        },
+        "longitude": "-2.058321"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Investigation complete; no suspect identified",
+        "date": "2025-04"
+      },
+      "persistent_id": "25b58601e755093d6961ab4e98e1965dfd8085124ab7bd37790b3e91f1eab4e1",
+      "id": 127307652,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "vehicle-crime",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.908168",
+        "street": {
+          "id": 1571476,
+          "name": "On or near Mendip Close"
+        },
+        "longitude": "-2.057634"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Investigation complete; no suspect identified",
+        "date": "2025-04"
+      },
+      "persistent_id": "719043965c1672d2f99e39f05847a8437342733b9c794d6f97e9b5030967eb55",
+      "id": 127307820,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "vehicle-crime",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.910773",
+        "street": {
+          "id": 1571309,
+          "name": "On or near Cakebridge Road"
+        },
+        "longitude": "-2.061548"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Suspect charged as part of another case",
+        "date": "2025-05"
+      },
+      "persistent_id": "a8b3f7a6c236563cb5836218b11409d94e16ff0de0378800bf642eeaf8d55638",
+      "id": 127308672,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "vehicle-crime",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.900860",
+        "street": {
+          "id": 1571529,
+          "name": "On or near B4075"
+        },
+        "longitude": "-2.054572"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Investigation complete; no suspect identified",
+        "date": "2025-05"
+      },
+      "persistent_id": "f173efd5a52d344f10223bded865271a82faedc7790327bd82f84792e1c6d078",
+      "id": 127308160,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "vehicle-crime",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.903850",
+        "street": {
+          "id": 1571359,
+          "name": "On or near Moor Court Drive"
+        },
+        "longitude": "-2.062337"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Suspect charged as part of another case",
+        "date": "2025-05"
+      },
+      "persistent_id": "172ed8e309c4e7217281077f677036cf24d0fbbd43b31d9ae10059973521002f",
+      "id": 127308116,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "vehicle-crime",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.903850",
+        "street": {
+          "id": 1571359,
+          "name": "On or near Moor Court Drive"
+        },
+        "longitude": "-2.062337"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Suspect charged as part of another case",
+        "date": "2025-05"
+      },
+      "persistent_id": "a057f1787f8b179206ec21cedde5295a5dcc35ca4076e74042277b56e4db0418",
+      "id": 127308115,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "vehicle-crime",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.902018",
+        "street": {
+          "id": 1571503,
+          "name": "On or near Bell View Close"
+        },
+        "longitude": "-2.057103"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Suspect charged as part of another case",
+        "date": "2025-05"
+      },
+      "persistent_id": "5b98aae4147c1784ca15bf3cdc43fa83d36ed06234dd5c39b6c20b067103ac80",
+      "id": 127307650,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "vehicle-crime",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.907184",
+        "street": {
+          "id": 1571227,
+          "name": "On or near Pittville Crescent"
+        },
+        "longitude": "-2.065351"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Investigation complete; no suspect identified",
+        "date": "2025-05"
+      },
+      "persistent_id": "debe31f1bd6023df5a5026de00532135ad342c614b35766851a8264a449a5ec3",
+      "id": 127308569,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "vehicle-crime",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.902973",
+        "street": {
+          "id": 1571597,
+          "name": "On or near Avon Road"
+        },
+        "longitude": "-2.053354"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Investigation complete; no suspect identified",
+        "date": "2025-04"
+      },
+      "persistent_id": "76a5fc6043dfafa0ae9a90b6cbb27081d5d7029d3f5cb82258513d84deb6eca0",
+      "id": 127309267,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "violent-crime",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.907138",
+        "street": {
+          "id": 1571744,
+          "name": "On or near Newland Court"
+        },
+        "longitude": "-2.047472"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Unable to prosecute suspect",
+        "date": "2025-07"
+      },
+      "persistent_id": "51ae8c307e745c89a2af687d2f826cc6733819b51b273e45b1ac3a39c6399018",
+      "id": 127309360,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "violent-crime",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.905027",
+        "street": {
+          "id": 1571321,
+          "name": "On or near Selkirk Gardens"
+        },
+        "longitude": "-2.063676"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Local resolution",
+        "date": "2025-05"
+      },
+      "persistent_id": "921ab699e7bf345504e60d7594e124b43c858c76fbebc9a70a15fe906bf592d6",
+      "id": 127309386,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "violent-crime",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.908630",
+        "street": {
+          "id": 1571671,
+          "name": "On or near Pennine Road"
+        },
+        "longitude": "-2.049683"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Court result unavailable",
+        "date": "2025-10"
+      },
+      "persistent_id": "437e51e5bdade759c6d1f7510c99243ff5b22692605e60d5e808b479400734ef",
+      "id": 127309365,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "violent-crime",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.902469",
+        "street": {
+          "id": 1571571,
+          "name": "On or near Mersey Road"
+        },
+        "longitude": "-2.054879"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Unable to prosecute suspect",
+        "date": "2025-07"
+      },
+      "persistent_id": "346ea88aca9780afefe32b7a653f480939055d706248974924b118eb57e71d82",
+      "id": 127307825,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "violent-crime",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.906970",
+        "street": {
+          "id": 1571366,
+          "name": "On or near Cakebridge Place"
+        },
+        "longitude": "-2.062022"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Unable to prosecute suspect",
+        "date": "2025-04"
+      },
+      "persistent_id": "1b99f7175b2d6ea19f464135d4ac31f7797a1191b0b15d7b25321bbe550cd268",
+      "id": 127307888,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "violent-crime",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.904549",
+        "street": {
+          "id": 1571246,
+          "name": "On or near Pittville Circus"
+        },
+        "longitude": "-2.065652"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Unable to prosecute suspect",
+        "date": "2025-05"
+      },
+      "persistent_id": "c45ddfd53fddb03404ede68af13dde321702f397c8b612c52a3853c78d020e6b",
+      "id": 127308080,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "violent-crime",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.912092",
+        "street": {
+          "id": 1571224,
+          "name": "On or near East Approach Drive"
+        },
+        "longitude": "-2.065998"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Local resolution",
+        "date": "2025-07"
+      },
+      "persistent_id": "c3aae1a545d050252e8f1066ccb0fd20412e62793751a64f25fc736dfb3347f0",
+      "id": 127308113,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "violent-crime",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.902018",
+        "street": {
+          "id": 1571503,
+          "name": "On or near Bell View Close"
+        },
+        "longitude": "-2.057103"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Status update unavailable",
+        "date": "2025-08"
+      },
+      "persistent_id": "085e1e2a41a9403a8567cfdcb00c9b54cdc4bf0c0af8a19920b10cf8f08b5d0c",
+      "id": 127308128,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "violent-crime",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.903627",
+        "street": {
+          "id": 1571421,
+          "name": "On or near Hayes Road"
+        },
+        "longitude": "-2.059358"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Unable to prosecute suspect",
+        "date": "2025-06"
+      },
+      "persistent_id": "ae8f13eade110e4a6e015bf3e3c18401c7419274ade9481fc0b1e61e6d0ce03e",
+      "id": 127307724,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "violent-crime",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.904951",
+        "street": {
+          "id": 1571141,
+          "name": "On or near Pittville Mews"
+        },
+        "longitude": "-2.069854"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Unable to prosecute suspect",
+        "date": "2025-10"
+      },
+      "persistent_id": "992781e36ee86c85bae2f8ef9c18144d5d51be1fe768e64ad12057c7ef14e8c5",
+      "id": 127309682,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "violent-crime",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.902018",
+        "street": {
+          "id": 1571503,
+          "name": "On or near Bell View Close"
+        },
+        "longitude": "-2.057103"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Unable to prosecute suspect",
+        "date": "2025-08"
+      },
+      "persistent_id": "7dce699cab21560ab961faa2b9faa645349e2711513d47cca431a55b94b29156",
+      "id": 127309925,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "violent-crime",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.908630",
+        "street": {
+          "id": 1571671,
+          "name": "On or near Pennine Road"
+        },
+        "longitude": "-2.049683"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Unable to prosecute suspect",
+        "date": "2025-06"
+      },
+      "persistent_id": "1301521193c78a01b5e6a15b500c27d8a6a89379ecbcf2092974bb9c6c0213f6",
+      "id": 127309330,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "violent-crime",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.910500",
+        "street": {
+          "id": 1571713,
+          "name": "On or near Cheviot Road"
+        },
+        "longitude": "-2.049409"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Unable to prosecute suspect",
+        "date": "2025-04"
+      },
+      "persistent_id": "594a4a5c6ca2bdb8efe82b317f9e05a3866818f3bff97f15bd6887a54a720b18",
+      "id": 127309358,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "violent-crime",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.908103",
+        "street": {
+          "id": 1571325,
+          "name": "On or near Cordwainers Road"
+        },
+        "longitude": "-2.061776"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Unable to prosecute suspect",
+        "date": "2025-08"
+      },
+      "persistent_id": "99afc80fe3d3c23f96ea96fc9b15e58c2cf4a811588800ee1248b484dd45f4f5",
+      "id": 127311063,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "violent-crime",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.903872",
+        "street": {
+          "id": 1571579,
+          "name": "On or near Windrush Road"
+        },
+        "longitude": "-2.054532"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Court result unavailable",
+        "date": "2025-10"
+      },
+      "persistent_id": "a2c759a408430120ed616aa6b3bdd509b498a0b07f7f3a9e5d735265f8b61f44",
+      "id": 127308141,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "violent-crime",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.908630",
+        "street": {
+          "id": 1571671,
+          "name": "On or near Pennine Road"
+        },
+        "longitude": "-2.049683"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Unable to prosecute suspect",
+        "date": "2025-04"
+      },
+      "persistent_id": "35b099c43a96b529b9ef8153ab31976c8a2526894f6b6b1484467e95d37d9b6a",
+      "id": 127309363,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "violent-crime",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.904053",
+        "street": {
+          "id": 1571632,
+          "name": "On or near Isbourne Road"
+        },
+        "longitude": "-2.051698"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Unable to prosecute suspect",
+        "date": "2025-04"
+      },
+      "persistent_id": "233761cf79d74b19237bd26e113e00485478d5d789ea76e976c5e3a23e67858c",
+      "id": 127309318,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "violent-crime",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.903872",
+        "street": {
+          "id": 1571579,
+          "name": "On or near Windrush Road"
+        },
+        "longitude": "-2.054532"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Unable to prosecute suspect",
+        "date": "2025-04"
+      },
+      "persistent_id": "0e7fb7c6605dec4bbfe5902cad3e64fb26cfffbb9827b16d85f215537ffc6494",
+      "id": 127309324,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "violent-crime",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.906233",
+        "street": {
+          "id": 1571381,
+          "name": "On or near Sports/recreation Area"
+        },
+        "longitude": "-2.060480"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Unable to prosecute suspect",
+        "date": "2025-05"
+      },
+      "persistent_id": "7da3b570c69ea1b1dd8ac51aec926b341c84f72d109f8099b06a11f600088da6",
+      "id": 127310226,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "violent-crime",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.905789",
+        "street": {
+          "id": 1571677,
+          "name": "On or near Dart Road"
+        },
+        "longitude": "-2.050217"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Unable to prosecute suspect",
+        "date": "2025-05"
+      },
+      "persistent_id": "a5c6a6a7902c6633bd574bc6ae1d5ef85ed1714d5f7e07af23e218336de66604",
+      "id": 127308136,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "violent-crime",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.908630",
+        "street": {
+          "id": 1571671,
+          "name": "On or near Pennine Road"
+        },
+        "longitude": "-2.049683"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Unable to prosecute suspect",
+        "date": "2025-05"
+      },
+      "persistent_id": "040861e1fd11e9cd8e9f17675404c8089639106a129e7e0aab287045df6c6fe8",
+      "id": 127309331,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "violent-crime",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.904549",
+        "street": {
+          "id": 1571246,
+          "name": "On or near Pittville Circus"
+        },
+        "longitude": "-2.065652"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Investigation complete; no suspect identified",
+        "date": "2025-05"
+      },
+      "persistent_id": "a08774e66faa1e5ad30f930fad119017066899a9a8f12f3ea3d330cb17d7007a",
+      "id": 127309494,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "violent-crime",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.907138",
+        "street": {
+          "id": 1571744,
+          "name": "On or near Newland Court"
+        },
+        "longitude": "-2.047472"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Unable to prosecute suspect",
+        "date": "2025-07"
+      },
+      "persistent_id": "c6a8651c0ae13934da0ffebd868587b966e126c8dcfd3cbbe88454766c50c827",
+      "id": 127309359,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "violent-crime",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.908630",
+        "street": {
+          "id": 1571671,
+          "name": "On or near Pennine Road"
+        },
+        "longitude": "-2.049683"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Unable to prosecute suspect",
+        "date": "2025-04"
+      },
+      "persistent_id": "3b966f23a9b2762187cc7848bc23dc053fc471ec3a985ed7f06fbbb9a479711f",
+      "id": 127309364,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "violent-crime",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.905858",
+        "street": {
+          "id": 1571505,
+          "name": "On or near Severn Road"
+        },
+        "longitude": "-2.055741"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Unable to prosecute suspect",
+        "date": "2025-05"
+      },
+      "persistent_id": "a53602ae7d77335ba71efb400d7d1e2cc815eeab4d88d268d8cc82137eaf3b0c",
+      "id": 127309308,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "other-crime",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.900860",
+        "street": {
+          "id": 1571529,
+          "name": "On or near B4075"
+        },
+        "longitude": "-2.054572"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Unable to prosecute suspect",
+        "date": "2025-04"
+      },
+      "persistent_id": "341428f87def0470508f2370a327ab7170bdb9005ecbf7c2d87a63497b847ffb",
+      "id": 127308118,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "other-crime",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.910500",
+        "street": {
+          "id": 1571713,
+          "name": "On or near Cheviot Road"
+        },
+        "longitude": "-2.049409"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Formal action is not in the public interest",
+        "date": "2025-05"
+      },
+      "persistent_id": "51aaf8fc96942a152a987b1c859a1c730df537188b22b356a9b5e8f403a802a1",
+      "id": 127309357,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "other-crime",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.905893",
+        "street": {
+          "id": 1571435,
+          "name": "On or near Colne Avenue"
+        },
+        "longitude": "-2.058387"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Unable to prosecute suspect",
+        "date": "2025-04"
+      },
+      "persistent_id": "07467b546189ba04036ed4579aea3becb56f067072137742fe22adc82ca9481c",
+      "id": 127309306,
+      "location_subtype": "",
+      "month": "2025-04"
+    },
+    {
+      "category": "other-crime",
+      "location_type": "Force",
+      "location": {
+        "latitude": "51.900860",
+        "street": {
+          "id": 1571529,
+          "name": "On or near B4075"
+        },
+        "longitude": "-2.054572"
+      },
+      "context": "",
+      "outcome_status": {
+        "category": "Investigation complete; no suspect identified",
+        "date": "2025-04"
+      },
+      "persistent_id": "92c11874afa94f9da08895e13bbe105bdee801a05cdfca69d323a2f67529cc14",
+      "id": 127308117,
+      "location_subtype": "",
+      "month": "2025-04"
+    }
+  ],
+  "crime_count": 86
+}
