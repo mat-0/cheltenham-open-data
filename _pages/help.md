@@ -65,3 +65,7 @@ Quick guide: Platform 1 is typically for trains to Wales and the south (Bristol,
 ## Office for National Statistics Page
 
 [ONS local statistics for Cheltenham - E07000078](https://www.ons.gov.uk/explore-local-statistics/areas/E07000078-cheltenham)
+
+## Electric Vehicle Charging Points
+
+- [Charge Finder Map](https://chargefinder.com/en/cheltenham/charging-station/7yergg)
