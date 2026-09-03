@@ -13,9 +13,11 @@ Some useful contacts and resources for cheltenham residents. If you have any sug
 
 ## Water Incidents
 
-- [Severn Trent](https://www.stwater.co.uk/in-my-area/incidents/).
+- [Severn Trent Incidents Page](https://www.stwater.co.uk/in-my-area/incidents/).
 
 ## Cheltenham Spa Train Station
+
+Quick guide: Platform 1 is typically for trains to Wales and the south (Bristol, Exeter St Davids, Plymouth, Reading, and London). Platform 2 is typically for trains to the north (Worcester, Birmingham, Nottingham, Leeds, Glasgow) and associated connections.
 
 - [Departures](https://www.nationalrail.co.uk/live-trains/departures/cheltenham-spa/) (live).
 - [Arrivals](https://www.nationalrail.co.uk/live-trains/arrivals/cheltenham-spa/) (live).
@@ -28,7 +30,7 @@ Some useful contacts and resources for cheltenham residents. If you have any sug
 
 ## Governance
 
-- [Write to them](https://www.writetothem.com/who?pc=GL50+1HZ)
+- [Write to Them Service](https://www.writetothem.com/who?pc=GL50+1HZ)
 - [Local Intelligence Hub](https://www.localintelligencehub.com/area/WMC23/Cheltenham#movement).
 - [Cheltenham Borough Council](https://www.cheltenham.gov.uk/)
 
@@ -37,11 +39,7 @@ Some useful contacts and resources for cheltenham residents. If you have any sug
 - [Check local school's catchment areas](https://schoolcatchmentchecker.co.uk/?loc=51.8994,-2.0783&zoom=12)
 - [Gloucester County Council Find a School](https://www.gloucestershire.gov.uk/education-and-learning/find-a-school)
 - [Dynamic Maps for Schools](https://gcc.dynamicmaps.co.uk/MapThatPublic/Default.aspx)
-- [Term Dates](https://www.gloucestershire.gov.uk/education-and-learning/term-dates/)
-
-## Recycling Banks and Centres
-
-- [Check out locations for recycling](https://www.cheltenham.gov.uk/bins-and-recycling/recycling-banks-and-centres/)
+- [Term Dates from Gloucestershire County Council](https://www.gloucestershire.gov.uk/education-and-learning/term-dates/)
 
 ## Cheltenham Sub-Reddit
 
