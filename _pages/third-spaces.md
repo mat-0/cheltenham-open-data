@@ -9,7 +9,7 @@ type: "third"
 
 Cheltenham offers an excellent mix of vibrant "third spaces", which are places that are neither home (first space) nor work (second space) where you can gather, relax, or work in a community-minded setting. There is of course a whole range of coffee shops and cafes that allow for informal workspaces.
 
-Do check council and other local community websites for up to date information on opening times and events, as these can change. The [Glos Libraries](https://gloslibraries.uk/your-libraries) provide a useful list of local libraries.
+Do check council and other local community websites for up to date information on opening times and events, as these can change. The [Glos Libraries](https://gloslibraries.uk/your-libraries) provide a useful list of all the libraries across the county.
 
 ## School House Cafe, Cheltenham
 
