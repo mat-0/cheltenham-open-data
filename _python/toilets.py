@@ -6,7 +6,6 @@ filter to Cheltenham, named toilets only, and write to Jekyll's _data dir.
 Source: https://www.toiletmap.org.uk/dataset
 """
 
-import json
 import re
 import sys
 from pathlib import Path
@@ -153,14 +152,13 @@ SOURCE_URL = (
 )
 
 AREA_NAME = "Cheltenham"
-OUTPUT_FORMAT = "yaml"  # "yaml" or "json"
+IGNORE_IDS = {
+    "2319b85caf99ec61aba515e4",
+    "6448f645d84833e33775bf6e",
+}
 
-# Repo root = parent of this script's directory (script lives in _python/).
-# Using __file__ (not cwd) means this works whether invoked as
-# `python _python/script.py` from repo root, `python script.py` from
-# inside _python/, or via a GitHub Actions step with a different working dir.
 REPO_ROOT = Path(__file__).resolve().parent.parent
-OUTPUT_PATH = REPO_ROOT / "_data" / f"toilets_cheltenham.{'yml' if OUTPUT_FORMAT == 'yaml' else 'json'}"
+OUTPUT_PATH = REPO_ROOT / "_data" / "toilets_cheltenham.yml"
 
 
 def fetch_data(url: str) -> list[dict]:
@@ -213,11 +211,13 @@ def clean_record(rec: dict) -> dict:
 
 
 def filter_records(records: list[dict], area_name: str) -> tuple[list[dict], int]:
-    """Return (clean, dropped_count). Records matching is_likely_junk are
-    dropped silently — no review file."""
+    """Return (clean, dropped_count), excluding ignored and junk records."""
     clean = []
     dropped = 0
     for rec in records:
+        if rec.get("id") in IGNORE_IDS:
+            dropped += 1
+            continue
         areas = rec.get("areas")
         if not areas or areas.get("name") != area_name:
             continue
@@ -234,15 +234,12 @@ def filter_records(records: list[dict], area_name: str) -> tuple[list[dict], int
     return clean, dropped
 
 
-def write_output(records: list[dict], path: Path, fmt: str) -> None:
+def write_output(records: list[dict], path: Path) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     with open(path, "w", encoding="utf-8") as f:
-        if fmt == "yaml":
-            yaml.safe_dump(
-                records, f, allow_unicode=True, sort_keys=False, default_flow_style=False
-            )
-        else:
-            json.dump(records, f, indent=2, ensure_ascii=False)
+        yaml.safe_dump(
+            records, f, allow_unicode=True, sort_keys=False, default_flow_style=False
+        )
 
 
 def main() -> None:
@@ -266,7 +263,7 @@ def main() -> None:
 
     clean.sort(key=lambda rec: rec["name"].lower())
 
-    write_output(clean, OUTPUT_PATH, OUTPUT_FORMAT)
+    write_output(clean, OUTPUT_PATH)
     print(f"Written {len(clean)} records to {OUTPUT_PATH}")
 
 

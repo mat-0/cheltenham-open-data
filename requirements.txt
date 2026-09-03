@@ -7,3 +7,4 @@ feedparser
 PyYAML
 openai
 bs4
+profanity
