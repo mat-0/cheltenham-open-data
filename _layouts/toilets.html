@@ -1,0 +1,55 @@
+{% include header.html %}
+<div class="{{page.type}} herobar">
+    <header class="{{page.type}} header">
+        <h1>{{page.title}}</h1>
+        <p>{{page.description}}</p>
+    </header>
+
+    {{ content }}
+
+    <!-- content here -->
+
+    <div class="toilets-listing">
+        {% for toilet in site.data.toilets_cheltenham %}
+        <article class="toilet-card">
+            <h2>{{ toilet.name }}</h2>
+
+            {% if toilet.notes %}
+            <p class="toilet-notes">{{ toilet.notes }}</p>
+            {% endif %}
+
+            {%- capture features_raw -%}
+            {%- if toilet.accessible -%}Wheelchair accessible|{%- endif -%}
+            {%- if toilet.all_gender -%}All gender|{%- endif -%}
+            {%- if toilet.baby_change -%}Baby changing|{%- endif -%}
+            {%- if toilet.men and toilet.women -%}Male and female|{%- elsif toilet.men -%}Male only|{%- elsif
+            toilet.women
+            -%}Female only|{%- endif -%}
+            {%- if toilet.urinal_only -%}Urinal only|{%- endif -%}
+            {%- if toilet.radar_key -%}RADAR key required|{%- endif -%}
+            {%- if toilet.no_payment -%}Free to use|{%- elsif toilet.payment_details -%}Charge:
+            {{ toilet.payment_details }}|{%- endif -%}
+            {%- endcapture -%}
+            {% assign features = features_raw | split: "|" %}
+
+            <ul class="toilet-details">
+                {% for feature in features %}
+                {% if feature != "" %}<li>{{ feature }}</li>{% endif %}
+                {% endfor %}
+
+                {% if toilet.opening_hours_summary %}
+                <li>{{ toilet.opening_hours_summary }}</li>
+                {% endif %}
+
+                {% if toilet.maps_url %}
+                <li><a href="{{ toilet.maps_url }}" target="_blank" rel="noopener">View on Google Maps</a></li>
+                {% endif %}
+            </ul>
+        </article>
+        {% endfor %}
+    </div>
+    <!-- content here -->
+
+    {% include sponsor.html %}
+
+    {% include footer.html %}
