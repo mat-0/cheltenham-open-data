@@ -48,6 +48,7 @@ jobs:
                   python '_python/terrorism.py'
                   python '_python/pharmacy.py'
                   python '_python/post-office.py'
+                  python '_python/toilets.py'
 
             - name: Commit and push if changed
               id: commit
