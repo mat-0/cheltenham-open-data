@@ -10,22 +10,24 @@ permalink: /about
 
 ## Mission
 
-- The mission has always been to make a local website for local people. Without the big tech overlords, the data-harvesting, and sites full of pop-ups, popovers, scam adverts and misleading clickbait headlines.
+- The mission has always been to make a local website for local people. Without the big tech overlords, the data-harvesting, and sites full of pop-ups, popovers, scam adverts, and misleading clickbait headlines. A quick and easy to use service that puts useful data in the hands of local people.
 
 {% include ph.html %}
 
 ## Privacy
 
-- The site using a tracking analytics script from `ahrefs.com`, this is to monitor site usage and to spot and fix errors. Data is never personalised nor sold.
+- The site uses a tracking analytics script from `ahrefs.com`, this is to monitor site usage and to spot and fix errors. Data is never personalised nor sold and is GDPR compliant by design with no cookie notices required.
 
-## Data
+## Data and Licensing
 
-- Data is sourced from public facing sources such as RSS feeds and Government data such as the ONS, DEFRA, Land Registry.
-- Government data is &copy; Crown copyright and database right 2026. Data is licensed under the Open Government Licence v3.0.
+Data is gathered and checked from public facing sources such as websites, RSS feeds and local sources and curated by hand.
+
+- Government data sourced from the ONS, NHS, DEFRA, Land Registry is &copy; Crown copyright and database right 2026. Data is licensed under the Open Government Licence v3.0.
+- Toilet Maps data is &copy; Creative Commons Attribution 4.0 International
 
 ## Tech
 
-- The site is built using a static site generator so it's lightning quick on the client end as it's just HTML and CSS and a bit of JavaScript. Python and GitHub Actions provides the compute for most things, and a little is run on the developer's local machine.
+- The site is built using a static site generator so it is lightning quick on the client end as it's just HTML and CSS and a bit of JavaScript. Python and GitHub Actions provides the compute for most things, and a little is run on the developer's local machine. The pages are built and deployed to GitHub Pages and DNS and forms are managed by cloudflare and Cloudflare Workers.
 
 ## Website
 
@@ -37,4 +39,4 @@ permalink: /about
 
 ## Owner
 
-The site is [built by thechels.uk](https://thechels.uk), a resident of Cheltenham for over 20 years. If you would like a similar website, or have a project I'd love to hear about it.
+The site is [built by thechels.uk](https://thechels.uk), a resident of Cheltenham for over 20 years. If you would like a similar website, or have a data or a project I'd love to hear about it.
