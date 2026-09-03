@@ -3,3 +3,7 @@ events:
     url: "https://www.cheltenhamfestivals.org/feed.rss"
   - title: "Visit Cheltenham"
     url: "https://www.visitcheltenham.com/event/rss/"
+  - title: "Cheltenham Town Hall"
+    url: "https://cheltenhamtownhall.org.uk/feed/"
+  - title: "Wilson Art Gallery and Museum"
+    url: "https://wilsonmuseum.org.uk/whats-on/feed/"
