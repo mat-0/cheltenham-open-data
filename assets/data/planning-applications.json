@@ -1,5 +1,25 @@
 [
   {
+    "ref": "26/01409/LBC",
+    "description": "Redevelopment of the existing scout hut, demolition of existing brick extension and the construction of a new hall with improved access from The Burgage, installation of PV panels and ASHP.",
+    "address": "Scout Headquarters The Burgage Prestbury Cheltenham Gloucestershire GL52 3DN",
+    "postcode": "GL52 3DN",
+    "units": null,
+    "status": "Pending Consideration",
+    "received_date": "2026-09-02",
+    "url": "https://publicaccess.cheltenham.gov.uk/online-applications/applicationDetails.do?keyVal=TKQHCNELLRM00&activeTab=summary"
+  },
+  {
+    "ref": "26/01407/CACN",
+    "description": "To fell a hawthorn tree.",
+    "address": "84 Painswick Road Cheltenham Gloucestershire GL50 2EU",
+    "postcode": "GL50 2EU",
+    "units": null,
+    "status": "No objection",
+    "received_date": "2026-09-02",
+    "url": "https://publicaccess.cheltenham.gov.uk/online-applications/applicationDetails.do?keyVal=TKQC6GEL08300&activeTab=summary"
+  },
+  {
     "ref": "26/01400/DISCON",
     "description": "Discharge of Condition 21 (Piling Method Statement) of planning permission 24/00251/CONDIT.",
     "address": "Oakley Farm Priors Road Cheltenham Gloucestershire",
@@ -38,6 +58,46 @@
     "status": "Pending Consideration",
     "received_date": "2026-09-01",
     "url": "https://publicaccess.cheltenham.gov.uk/online-applications/applicationDetails.do?keyVal=TKO8PCELLQX00&activeTab=summary"
+  },
+  {
+    "ref": "26/01396/TPO",
+    "description": "T1-Norway Maple-Remove to ground level due to impact from direct or indirect contact with rooting system as per report.",
+    "address": "1 Acacia Court Cheltenham Gloucestershire GL51 0XG",
+    "postcode": "GL51 0XG",
+    "units": null,
+    "status": "Pending Consideration",
+    "received_date": "2026-09-01",
+    "url": "https://publicaccess.cheltenham.gov.uk/online-applications/applicationDetails.do?keyVal=TKO8PCELLQX00&activeTab=summary"
+  },
+  {
+    "ref": "26/01397/CLPUD",
+    "description": "Dropped kerb.",
+    "address": "2 Cakebridge Road Cheltenham Gloucestershire GL52 3HJ",
+    "postcode": "GL52 3HJ",
+    "units": null,
+    "status": "Pending Consideration",
+    "received_date": "2026-09-01",
+    "url": "https://publicaccess.cheltenham.gov.uk/online-applications/applicationDetails.do?keyVal=TKO8QJELLR000&activeTab=summary"
+  },
+  {
+    "ref": "26/01389/CACN",
+    "description": "T1: Silver Birch: Reduce 2.5m and shape, thin branches to allow more light.",
+    "address": "119 Naunton Crescent Cheltenham Gloucestershire GL53 7BE",
+    "postcode": "GL53 7BE",
+    "units": null,
+    "status": "No objection",
+    "received_date": "2026-08-28",
+    "url": "https://publicaccess.cheltenham.gov.uk/online-applications/applicationDetails.do?keyVal=TKGU36ELLQ900&activeTab=summary"
+  },
+  {
+    "ref": "26/01385/FUL",
+    "description": "Erection of garage with first floor office/study, following removal of existing garage.",
+    "address": "Abbotsford 24 Old Bath Road Cheltenham Gloucestershire GL53 7QD",
+    "postcode": "GL53 7QD",
+    "units": null,
+    "status": "Pending Consideration",
+    "received_date": "2026-08-28",
+    "url": "https://publicaccess.cheltenham.gov.uk/online-applications/applicationDetails.do?keyVal=TKGU0XELLQ000&activeTab=summary"
   },
   {
     "ref": "26/01381/CACN",

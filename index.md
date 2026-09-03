@@ -10,11 +10,11 @@ description: "Collecting and sharing frequently updated local open data for Chel
 <!-- weather_marker starts -->
 ## On Thursday, 03 September 2026
 
-- The average temperature today is 18.19˚C,
-- With highs of 18.8˚C and lows of 17.61˚C,
-- It may feel like 18.44˚C with overcast clouds
-- The wind speed is 4.02m/s and visibility is 10000m
-- The pressure is 1015hPa and humidity is 91%
+- The average temperature today is 22.35˚C,
+- With highs of 23.17˚C and lows of 21.64˚C,
+- It may feel like 22.42˚C with overcast clouds
+- The wind speed is 5.14m/s and visibility is 10000m
+- The pressure is 1016hPa and humidity is 68%
 - The sun will rise at 05:23 and set at 18:52
 
 <!-- weather_marker ends -->
