@@ -104,6 +104,7 @@ def fetch_transactions(months: int) -> list[dict]:
             "town": val("town"),
             "postcode": val("postcode"),
             "amount": int(float(val("amount"))) if val("amount") else None,
+            "display_amount": f"£{int(float(val('amount'))):,}" if val("amount") else "",
             "date": val("date"),
             "property_type": val("propertyTypeLabel"),
             "new_build": val("newBuild") == "true",

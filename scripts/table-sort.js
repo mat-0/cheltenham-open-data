@@ -11,15 +11,22 @@
     function compareValues(left, right) {
         var leftValue = left.replace(/^-+$/, "");
         var rightValue = right.replace(/^-+$/, "");
-        var leftNumber = Number(leftValue.replace(/[^0-9.-]/g, ""));
-        var rightNumber = Number(rightValue.replace(/[^0-9.-]/g, ""));
-        var leftIsNumber = leftValue !== "" && Number.isFinite(leftNumber);
-        var rightIsNumber = rightValue !== "" && Number.isFinite(rightNumber);
+        var numericPattern = /^[-+]?\d[\d,]*(?:\.\d+)?[a-zA-Z%/]*$/;
+        var leftNumericValue = leftValue.replace(/[£$€\s]/g, "");
+        var rightNumericValue = rightValue.replace(/[£$€\s]/g, "");
+        var leftIsNumber = numericPattern.test(leftNumericValue);
+        var rightIsNumber = numericPattern.test(rightNumericValue);
+        var leftNumber = Number(
+            leftNumericValue.replace(/,/g, "").replace(/[a-zA-Z%/]+$/, ""),
+        );
+        var rightNumber = Number(
+            rightNumericValue.replace(/,/g, "").replace(/[a-zA-Z%/]+$/, ""),
+        );
 
         if (leftIsNumber && rightIsNumber) return leftNumber - rightNumber;
         if (leftIsNumber) return -1;
         if (rightIsNumber) return 1;
-        return left.localeCompare(right, undefined, {
+        return leftValue.localeCompare(rightValue, undefined, {
             numeric: true,
             sensitivity: "base",
         });
