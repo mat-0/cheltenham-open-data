@@ -22,7 +22,7 @@ permalink: /about
 
 Data is gathered and checked from public facing sources such as websites, RSS feeds and local sources and curated by hand.
 
-- Government data sourced from the Police, ONS, NHS, DEFRA, Land Registry is &copy; Crown copyright and database right 2026. Data is licensed under the Open Government Licence v3.0.
+- Government data sourced from the Police, ONS, NHS, DEFRA, Land Registry is &copy; Crown copyright and database right 2026. Data is licensed under the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
 - Toilet Maps data is &copy; Creative Commons Attribution 4.0 International
 
 ## Tech
