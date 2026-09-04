@@ -1,0 +1,115 @@
+{% include header.html %}
+
+<div class="{{page.type}} herobar">
+    <div class="{{page.type}}">
+        <header class="{{page.type}} header">
+            <h1>{{ page.title }}</h1>
+            <p>{{ page.description }}</p>
+            <ul>
+                <li><a href="/cheltenham-food-standards/">Summary &rarr;</a></li>
+                <li><a href="/cheltenham-food-standards/rated-one-to-four">Venues Rated 1-4 &rarr;</a></li>
+                <li><a href="/cheltenham-food-standards/rated-five">Venues Rated 5 &rarr;</a></li>
+                <li><a href="/cheltenham-food-standards/exempt">Exemptions &rarr;</a></li>
+                <li><a href="/cheltenham-food-standards/awaiting-inspection">Awaiting inspection &rarr;</a></li>
+            </ul>
+        </header>
+
+        {{ content }}
+
+        {% if page.food_rating == "rated-one-to-four" %}
+        {% assign venues = site.data["food-standards"] | where_exp: "venue", "venue.rating != '5' and venue.rating !=
+        'Exempt' and venue.rating != 'AwaitingInspection'" %}
+        {% elsif page.food_rating %}
+        {% assign venues = site.data["food-standards"] | where: "rating", page.food_rating %}
+        {% else %}
+        {% assign venues = nil %}
+        <h2>Ratings by type ({{ site.data["food-standards"].size }} venues)</h2>
+        <div class="table-scroll">
+            <table class="food-standards-table" data-sortable>
+                <thead>
+                    <tr>
+                        <th scope="col">Type</th>
+                        <th scope="col" class="number">1</th>
+                        <th scope="col" class="number">2</th>
+                        <th scope="col" class="number">3</th>
+                        <th scope="col" class="number">4</th>
+                        <th scope="col" class="number">5</th>
+                        <th scope="col" class="number">Awaiting</th>
+                        <th scope="col" class="number">Exempt</th>
+                        <th scope="col" class="number">Total</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% assign venue_types = site.data["food-standards"] | map: "type" | uniq | sort %}
+                    {% for venue_type in venue_types %}
+                    {% assign type_venues = site.data["food-standards"] | where: "type", venue_type %}
+                    {% assign rating_one = type_venues | where: "rating", "1" | size %}
+                    {% assign rating_two = type_venues | where: "rating", "2" | size %}
+                    {% assign rating_three = type_venues | where: "rating", "3" | size %}
+                    {% assign rating_four = type_venues | where: "rating", "4" | size %}
+                    {% assign rating_five = type_venues | where: "rating", "5" | size %}
+                    {% assign rating_awaiting = type_venues | where: "rating", "AwaitingInspection" | size %}
+                    {% assign rating_exempt = type_venues | where: "rating", "Exempt" | size %}
+                    <tr>
+                        <td>{{ venue_type | default: "Unknown" }}</td>
+                        <td class="number">{{ rating_one }}</td>
+                        <td class="number">{{ rating_two }}</td>
+                        <td class="number">{{ rating_three }}</td>
+                        <td class="number">{{ rating_four }}</td>
+                        <td class="number">{{ rating_five }}</td>
+                        <td class="number">{{ rating_awaiting }}</td>
+                        <td class="number">{{ rating_exempt }}</td>
+                        <td class="number">{{ type_venues.size }}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+        {% endif %}
+
+        {% if venues %}
+        {% if page.food_rating == "Exempt" %}
+        <h2>Exempt venues ({{ venues.size }} venues)</h2>
+        {% elsif page.food_rating == "AwaitingInspection" %}
+        <h2>Venues awaiting inspection ({{ venues.size }} venues)</h2>
+        {% elsif page.food_rating == "5" %}
+        <h2>Venues rated 5 ({{ venues.size }} venues)</h2>
+        {% else %}
+        <h2>Venues rated 1 to 4 ({{ venues.size }} venues)</h2>
+        {% endif %}
+        <div class="table-scroll">
+            <table class="food-standards-table" data-sortable>
+                <thead>
+                    <tr>
+                        <th scope="col">Venue</th>
+                        <th scope="col">Type</th>
+                        <th scope="col">Address</th>
+                        <th scope="col" class="postcode">Postcode</th>
+                        <th scope="col" class="number">Rating</th>
+                        <th scope="col" class="rating-date">Rating date</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for venue in venues %}
+                    <tr>
+                        <td>{{ venue.name }}</td>
+                        <td>{{ venue.type }}</td>
+                        <td>{{ venue.address }}</td>
+                        <td class="postcode">{{ venue.postcode }}</td>
+                        <td class="number">{{ venue.rating }}</td>
+                        <td class="rating-date">{{ venue.rating_date }}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+        {% endif %}
+
+        <p>Data is sourced from <a href="https://ratings.food.gov.uk/">Food Standards Agency &rarr;</a></p>
+
+    </div>
+
+    {% include sponsor.html %}
+
+    {% include footer.html %}
+</div>

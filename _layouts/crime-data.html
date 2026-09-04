@@ -5,23 +5,25 @@
         <header class="{{page.type}} header">
             <h1>{{ page.title }}</h1>
             <p>{{ page.description }}</p>
+
+            {% assign crime_data = site.data.crime.index %}
+            {% assign crime_year = page.crime_year | default: crime_data.years.first %}
+            {% assign year_months = crime_data.months | where_exp: "month", "month.month contains crime_year" %}
             <ul>
-                <li><a href="{{ site.data.crime.index.source }}">Source: Police.uk API &rarr;</a></li>
-                {% if site.data.crime.index.generated_at %}
-                <li>Data refreshed {{ site.data.crime.index.generated_at | date: "%-d %B %Y" }}</li>
+                {% if crime_data.years and crime_data.years.size > 0 %}
+                {% for year in crime_data.years %}
+                <li><a href="/cheltenham-crime-data/{{ year }}">{{ year }} &rarr;</a></li>
+                {% endfor %}
                 {% endif %}
             </ul>
         </header>
 
         {{ content }}
 
-        {% assign crime_data = site.data.crime.index %}
-        {% assign crime_year = page.crime_year | default: crime_data.years.first %}
-        {% assign year_months = crime_data.months | where_exp: "month", "month.month contains crime_year" %}
         {% if year_months and year_months.size > 0 %}
         <h2>Crime by month</h2>
         <div class="table-scroll">
-            <table class="crime-data-table">
+            <table class="crime-data-table" data-sortable>
                 <thead>
                     <tr>
                         <th scope="col">Month</th>
@@ -47,7 +49,7 @@
 
         <h2>Crime by neighbourhood</h2>
         <div class="table-scroll">
-            <table class="crime-data-table">
+            <table class="crime-data-table" data-sortable>
                 <thead>
                     <tr>
                         <th scope="col">Neighbourhood</th>
@@ -94,14 +96,10 @@
         <p>Crime data is not available yet.</p>
         {% endif %}
 
-        {% if crime_data.years and crime_data.years.size > 0 %}
-        <h2>Historic Records</h2>
-        <ul>
-            {% for year in crime_data.years %}
-            <li><a href="/cheltenham-crime-data/{{ year }}">Cheltenham crime data for {{ year }}</a></li>
-            {% endfor %}
-        </ul>
+        {% if site.data.crime.index.generated_at %}
+        <p>Data last refreshed {{ site.data.crime.index.generated_at | date: "%-d %B %Y" }}</p>
         {% endif %}
+        <p><a href="{{ site.data.crime.index.source }}">Source: Police.uk API &rarr;</a></p>
 
     </div>
 

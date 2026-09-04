@@ -114,6 +114,9 @@ navigation_header:
   - name: Cheltenham Planning Applications
     link: /cheltenham-planning-applications
     description: "Local planning applications from Cheltenham Borough Council."
+  - name: Cheltenham Food Hygiene Ratings
+    link: /cheltenham-food-standards
+    description: "Food hygiene ratings for venues in Cheltenham."
   - name: Cheltenham GP and Pharmacies
     link: /cheltenham-gp-pharmacies
     description: "Find GP practices and pharmacies in Cheltenham"
@@ -166,6 +169,8 @@ footer_columns:
         link: /cheltenham-flood-warnings
       - name: Cheltenham Food Banks
         link: /cheltenham-foodbank-needed-items
+      - name: Cheltenham Food Hygiene Ratings
+        link: /cheltenham-food-standards
       - name: Cheltenham Fuel Prices
         link: /cheltenham-fuel-prices
       - name: Cheltenham GP and Pharmacies
