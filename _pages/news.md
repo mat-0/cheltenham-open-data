@@ -10,9 +10,9 @@ permalink: /cheltenham-news
 ---
 
 <!-- news_marker starts -->
-- 'Eyesore' area to be transformed into a pocket park ([5 hours ago](https://www.bbc.co.uk/news/articles/clym23mzdj0o?at_medium=RSS&at_campaign=rss))
-- Plan to redevelop historical area of city submitted ([11 hours ago](https://www.bbc.co.uk/news/articles/c5yjr39gg0ro?at_medium=RSS&at_campaign=rss))
-- Prue Leith: 'You come into your own growing old' ([11 hours ago](https://www.bbc.co.uk/news/articles/cy5zryk1lwyo?at_medium=RSS&at_campaign=rss))
+- 'Eyesore' area to be transformed into a pocket park ([8 hours ago](https://www.bbc.co.uk/news/articles/clym23mzdj0o?at_medium=RSS&at_campaign=rss))
+- Plan to redevelop historical area of city submitted ([13 hours ago](https://www.bbc.co.uk/news/articles/c5yjr39gg0ro?at_medium=RSS&at_campaign=rss))
+- Prue Leith: 'You come into your own growing old' ([13 hours ago](https://www.bbc.co.uk/news/articles/cy5zryk1lwyo?at_medium=RSS&at_campaign=rss))
 - Organisers 'truly sorry' for cancelling festival ([1 days ago](https://www.bbc.co.uk/news/articles/cp931zz3x2vo?at_medium=RSS&at_campaign=rss))
 - Cheltenham BID Announces Appointment of New Chief Executive ([1 days ago](https://cheltenhambid.co.uk/2026/09/03/cheltenham-bid-announces-appointment-of-new-chief-executive/))
 - Move to support rather than punish absent pupils ([1 days ago](https://www.bbc.co.uk/news/articles/c2l8znzgrleo?at_medium=RSS&at_campaign=rss))
@@ -32,10 +32,10 @@ permalink: /cheltenham-news
 - Bishop’s Cleeve care worker wins national award for bringing joy to residents ([9 days ago](https://cheltenhampost.co.uk/bishops-cleeve-care-worker-wins-national-award-for-bringing-joy-to-residents/))
 - Police release image of man wanted in connection with a serious assault ([10 days ago](https://gloucesternewscentre.co.uk/police-release-image-of-man-wanted-in-connection-with-a-serious-assault/))
 - Hospital parking firm blasted as ‘vultures’ after fining man battling cancer ([10 days ago](https://gloucesternewscentre.co.uk/hospital-parking-firm-blasted-as-vultures-after-fining-man-battling-cancer/))
-- Man racially abused and punched two other men in Cheltenham ([17 days ago](https://gloucesternewscentre.co.uk/man-racially-abused-and-punched-two-other-men-in-cheltenham/))
-- Frustration as people are ‘forced to drive miles’ because of tip closures ([17 days ago](https://gloucesternewscentre.co.uk/frustration-as-people-are-forced-to-drive-miles-because-of-tip-closures/))
-- England, Wales ([20 days ago](https://www.gov.uk/alerts/14-aug-2026-2))
-- Wales ([20 days ago](https://www.gov.uk/alerts/14-aug-2026))
+- Man racially abused and punched two other men in Cheltenham ([18 days ago](https://gloucesternewscentre.co.uk/man-racially-abused-and-punched-two-other-men-in-cheltenham/))
+- Frustration as people are ‘forced to drive miles’ because of tip closures ([18 days ago](https://gloucesternewscentre.co.uk/frustration-as-people-are-forced-to-drive-miles-because-of-tip-closures/))
+- England, Wales ([21 days ago](https://www.gov.uk/alerts/14-aug-2026-2))
+- Wales ([21 days ago](https://www.gov.uk/alerts/14-aug-2026))
 - Free family events at The Brewery Quarter in August ([21 days ago](https://cheltenhampost.co.uk/free-family-events-at-the-brewery-quarter-in-august/))
 - Review: The Choir of Man ([21 days ago](https://gloucesternewscentre.co.uk/review-the-choir-of-man/))
 - CCTV appeal following high-value theft from jewellers in Cheltenham ([24 days ago](https://gloucesternewscentre.co.uk/cctv-appeal-following-high-value-theft-from-jewellers-in-cheltenham/))
