@@ -13,7 +13,7 @@ Data source:
     (Idox PublicAccess system - standard across most UK councils)
 
 Output:
-    /assets/data/planning-applications.json   <- human/JS-readable table data
+    /_data/planning-applications.json         <- Jekyll data and table data
     /_pages/cheltenham-planning-applications.md  <- prose updated in place
 
 NOTE ON SELECTORS:
@@ -54,7 +54,7 @@ LOOKBACK_DAYS = 14
 # Drop records older than this from the JSON store each run.
 RETENTION_DAYS = 12  # ~6 months
 
-DATA_DIR = Path("assets/data")
+DATA_DIR = Path("_data")
 DATA_FILE = DATA_DIR / "planning-applications.json"
 
 PAGES_DIR = Path("_pages")

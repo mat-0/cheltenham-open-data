@@ -433,11 +433,12 @@ if __name__ == "__main__":
         )
 
         # HTML table so columns carry data-val attributes for JS sort
+        columns = ["Station", "Address"] + fuel_label_cols + ["Last Updated"]
         th_cells = "".join(
-            f'<th scope="col" data-col="{i}">{html.escape(col)}</th>'
-            for i, col in enumerate(["Station", "Address"] + fuel_label_cols + ["Last Updated"])
+            f'<th scope="col" class="{"number" if 2 <= i < 2 + len(fuel_label_cols) else "date" if i == len(columns) - 1 else ""}" data-col="{i}">{html.escape(col)}</th>'
+            for i, col in enumerate(columns)
         )
-        html_rows = [f'<table id="fuel-table"><thead><tr>{th_cells}</tr></thead><tbody>']
+        html_rows = [f'<table id="fuel-table" data-sortable><thead><tr>{th_cells}</tr></thead><tbody>']
 
         for nid in priced_stations:
             station      = station_cache[nid]
@@ -463,12 +464,12 @@ if __name__ == "__main__":
                 if ft in price_lookup:
                     pence = price_lookup[ft].get("price")
                     if pence is not None:
-                        cells += f'<td data-val="{float(pence):.1f}">{float(pence):.1f}p</td>'
+                        cells += f'<td class="number" data-val="{float(pence):.1f}">{float(pence):.1f}p</td>'
                     else:
-                        cells += '<td data-val="9999">-</td>'
+                        cells += '<td class="number" data-val="9999">-</td>'
                 else:
-                    cells += '<td data-val="9999">-</td>'
-            cells += f'<td data-val="{as_of}">{as_of}</td>'
+                    cells += '<td class="number" data-val="9999">-</td>'
+            cells += f'<td class="date" data-val="{as_of}">{as_of}</td>'
             html_rows.append(f"<tr>{cells}</tr>")
 
         html_rows.append("</tbody></table>")

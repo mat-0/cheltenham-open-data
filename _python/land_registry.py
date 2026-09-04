@@ -4,7 +4,7 @@ build_house_prices.py
 
 Re-runnable data build. Does NOT author HTML or markdown structure - those
 are static, hand-edited files (cheltenham-house-prices.md, house-pricing.html,
-land-registry-table.js). This script only:
+house-price-charts.js). This script only:
 
   1. Queries SPARQL for Cheltenham transactions (postcode district GL50-GL54
      AND town = CHELTENHAM, cross-checked).
@@ -12,9 +12,8 @@ land-registry-table.js). This script only:
   3. Injects one prose sentence into the markdown page's "land_registry"
      marker (via helper.replace_chunk - never touches anything outside
      the marker, so surrounding hand-written prose is untouched).
-  4. Writes JSON to _data/ (Liquid build-time access) and assets/data/
-     (client-side fetch by land-registry-table.js). Full overwrite is fine
-     here - it's a generated data file, never hand-edited.
+  4. Writes JSON to _data/ for Liquid tables and chart data. Full overwrite
+      is fine here - it is a generated data file, never hand-edited.
 
 Usage:
     python build_house_prices.py --dry-run
@@ -37,7 +36,7 @@ TIMEOUT_SECONDS = 30
 CHELTENHAM_POSTCODE_DISTRICTS = ["GL50", "GL51", "GL52", "GL53", "GL54"]
 
 PAGE_PATH = Path("_pages/cheltenham-house-prices.md")
-JSON_ASSETS_PATH = Path("assets/data/cheltenham-house-prices.json")
+JSON_DATA_PATH = Path("_data/cheltenham-house-prices.json")
 
 MARKER = "land_registry"
 
@@ -180,12 +179,12 @@ def write_json(transactions: list[dict], stats: dict, dry_run: bool) -> None:
     }
 
     if dry_run:
-        print(f"--- DRY RUN: would write JSON to {JSON_ASSETS_PATH} ({len(transactions)} records) ---")
+        print(f"--- DRY RUN: would write JSON to {JSON_DATA_PATH} ({len(transactions)} records) ---")
         return
 
-    JSON_ASSETS_PATH.parent.mkdir(parents=True, exist_ok=True)
-    JSON_ASSETS_PATH.write_text(json.dumps(payload, indent=2), encoding="utf-8")
-    print(f"Wrote {JSON_ASSETS_PATH} ({len(transactions)} records)")
+    JSON_DATA_PATH.parent.mkdir(parents=True, exist_ok=True)
+    JSON_DATA_PATH.write_text(json.dumps(payload, indent=2), encoding="utf-8")
+    print(f"Wrote {JSON_DATA_PATH} ({len(transactions)} records)")
 
 
 def main():

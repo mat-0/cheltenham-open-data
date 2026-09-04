@@ -738,7 +738,10 @@ table tr:hover {
 }
 
 .food-standards-table .number,
-.crime-data-table .number {
+.crime-data-table .number,
+.planning-table .number,
+.land-registry-table .number,
+#fuel-table .number {
     text-align: right;
 }
 
@@ -773,14 +776,12 @@ table[data-sortable] th.sort-desc::after {
 }
 
 .food-standards-table .postcode,
-.food-standards-table .rating-date {
-    white-space: nowrap;
-}
-
-#planning-table td:nth-child(1),
-#planning-table th:nth-child(1),
-#land-registry-table td:nth-child(1),
-#land-registry-table th:nth-child(1) {
+.food-standards-table .rating-date,
+.planning-table .postcode,
+.planning-table .date,
+.land-registry-table .postcode,
+.land-registry-table .date,
+#fuel-table .date {
     white-space: nowrap;
 }
 
@@ -806,27 +807,6 @@ table[data-sortable] th.sort-desc::after {
     white-space: nowrap;
     background-color: var(--accent);
     color: var(--accent-text);
-}
-
-#fuel-table th::after {
-    content: "▲";
-    display: inline-block;
-    width: 1em;
-    margin-left: 0.2em;
-    font-size: 0.7em;
-    line-height: 1;
-    vertical-align: middle;
-    opacity: 0;
-}
-
-#fuel-table th.sort-asc::after {
-    content: "▲";
-    opacity: 0.8;
-}
-
-#fuel-table th.sort-desc::after {
-    content: "▼";
-    opacity: 0.8;
 }
 
 #fuel-table tr:nth-child(even) {

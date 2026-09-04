@@ -8,27 +8,37 @@
     {{ content }}
 
     <div class="scroll">
-        <table id="planning-table" class="sortable">
+        <table id="planning-table" class="planning-table" data-sortable>
             <thead>
                 <tr>
-                    <th data-sort="received_date">Date</th>
-                    <th data-sort="description">Application</th>
-                    <th data-sort="address">Location</th>
-                    <th data-sort="postcode">Postcode</th>
-                    <th data-sort="units">Units</th>
-                    <th data-sort="status">Status</th>
+                    <th>Date</th>
+                    <th>Application</th>
+                    <th>Location</th>
+                    <th class="postcode">Postcode</th>
+                    <th class="number">Units</th>
+                    <th>Status</th>
                 </tr>
             </thead>
             <tbody>
-                <!-- populated by JS from /assets/data/planning-applications.json -->
+                {% for application in site.data["planning-applications"] %}
+                <tr>
+                    <td class="date" data-value="{{ application.received_date }}">{{ application.received_date }}</td>
+                    <td>{% if application.url %}<a href="{{ application.url }}" target="_blank"
+                            rel="noopener">{{ application.description }}</a>{% else %}{{ application.description }}{%
+                        endif %}</td>
+                    <td>{{ application.address }}</td>
+                    <td class="postcode">{{ application.postcode }}</td>
+                    <td class="number" data-value="{{ application.units | default: 0 }}">
+                        {{ application.units | default: "-" }}</td>
+                    <td>{{ application.status }}</td>
+                </tr>
+                {% endfor %}
             </tbody>
         </table>
     </div>
 
     <p><a href="https://publicaccess.cheltenham.gov.uk/online-applications/">Cheltenham Borough Council Planning
             Portal</a></p>
-    <script src="/scripts/planning-table.js"></script>
-
     {% include sponsor.html %}
 
     {% include footer.html %}

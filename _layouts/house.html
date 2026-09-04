@@ -15,7 +15,7 @@
         {{ content }}
         <div class="scroll">
 
-            <div class="land-registry-widget" data-json-url="/assets/data/cheltenham-house-prices.json">
+            <div class="land-registry-widget">
 
                 <h2>Median sale price by month</h2>
                 <canvas id="land-registry-chart" height="120"></canvas>
@@ -31,18 +31,28 @@
 
                 <h2>Recent sales</h2>
 
-                <table id="land-registry-table" class="sortable">
+                <table id="land-registry-table" class="land-registry-table" data-sortable>
                     <thead>
                         <tr>
-                            <th data-sort="date">Date</th>
-                            <th data-sort="address">Address</th>
-                            <th data-sort="postcode">Postcode</th>
-                            <th data-sort="type">Type</th>
-                            <th data-sort="amount">Price</th>
+                            <th>Date</th>
+                            <th>Address</th>
+                            <th class="postcode">Postcode</th>
+                            <th>Type</th>
+                            <th class="number">Price</th>
                         </tr>
                     </thead>
                     <tbody>
-                        <!-- populated by JS from /assets/data/cheltenham-house-prices.json -->
+                        {% for transaction in site.data["cheltenham-house-prices"].transactions %}
+                        {% if transaction.amount %}
+                        <tr>
+                            <td class="date" data-value="{{ transaction.date }}">{{ transaction.date }}</td>
+                            <td>{{ transaction.saon }} {{ transaction.paon }} {{ transaction.street }}</td>
+                            <td class="postcode">{{ transaction.postcode }}</td>
+                            <td>{{ transaction.property_type | default: "Other" }}</td>
+                            <td class="number" data-value="{{ transaction.amount }}">£{{ transaction.amount }}</td>
+                        </tr>
+                        {% endif %}
+                        {% endfor %}
                     </tbody>
                 </table>
 
@@ -75,7 +85,9 @@
 
         </div>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.0/chart.umd.min.js"></script>
-        <script src="/scripts/land-registry-table.js"></script>
+        <script id="house-price-data"
+            type="application/json">{{ site.data["cheltenham-house-prices"].transactions | jsonify }}</script>
+        <script src="/scripts/house-price-charts.js"></script>
     </div>
 
     {% include sponsor.html %}

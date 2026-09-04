@@ -2,72 +2,17 @@
     const widget = document.querySelector(".land-registry-widget");
     if (!widget) return;
 
-    fetch(widget.dataset.jsonUrl)
-        .then((r) => r.json())
-        .then((data) => {
-            renderTable(data.transactions);
-            renderChart(data.transactions);
-            renderVolumeChart(data.transactions);
-            renderTypeChart(data.transactions);
-            renderHistogram(data.transactions);
-        })
-        .catch((err) => console.error("Land registry data load failed:", err));
+    const dataElement = document.getElementById("house-price-data");
+    const transactions = dataElement
+        ? JSON.parse(dataElement.textContent || "[]")
+        : [];
+    renderChart(transactions);
+    renderVolumeChart(transactions);
+    renderTypeChart(transactions);
+    renderHistogram(transactions);
 
     function formatPrice(amount) {
         return "£" + amount.toLocaleString("en-GB");
-    }
-
-    function renderTable(transactions) {
-        const tbody = document.querySelector("#land-registry-table tbody");
-        tbody.innerHTML = "";
-        transactions.forEach((t) => {
-            if (!t.amount) return;
-            const address =
-                [t.saon, t.paon, t.street].filter(Boolean).join(" ") || "—";
-            const row = document.createElement("tr");
-            row.innerHTML = `
-        <td data-value="${t.date || ""}">${(t.date || "—").slice(0, 10)}</td>
-        <td data-value="${address}">${address}</td>
-        <td data-value="${t.postcode || ""}">${t.postcode || "—"}</td>
-        <td data-value="${t.property_type || ""}">${t.property_type || "—"}</td>
-        <td data-value="${t.amount}">${formatPrice(t.amount)}</td>
-      `;
-            tbody.appendChild(row);
-        });
-        enableSorting();
-    }
-
-    function enableSorting() {
-        document
-            .querySelectorAll("#land-registry-table th[data-sort]")
-            .forEach((th, index) => {
-                th.style.cursor = "pointer";
-                th.addEventListener("click", () => {
-                    const tbody = document.querySelector(
-                        "#land-registry-table tbody",
-                    );
-                    const rows = Array.from(tbody.querySelectorAll("tr"));
-                    const ascending = th.dataset.sortDir !== "asc";
-                    document
-                        .querySelectorAll("#land-registry-table th")
-                        .forEach((h) => delete h.dataset.sortDir);
-                    th.dataset.sortDir = ascending ? "asc" : "desc";
-
-                    rows.sort((a, b) => {
-                        const aVal = a.children[index].dataset.value;
-                        const bVal = b.children[index].dataset.value;
-                        const aNum = parseFloat(aVal);
-                        const bNum = parseFloat(bVal);
-                        const cmp =
-                            !isNaN(aNum) && !isNaN(bNum)
-                                ? aNum - bNum
-                                : aVal.localeCompare(bVal);
-                        return ascending ? cmp : -cmp;
-                    });
-
-                    rows.forEach((row) => tbody.appendChild(row));
-                });
-            });
     }
 
     function renderChart(transactions) {
