@@ -53,7 +53,7 @@ The data available goes back to August 2023.
 
 ### Why is 2026 data so low?
 
-- There appears to be a change or broken process in the way the data is reported to data team at the Police, as there has been an approximately 1,000 crimes per month from Aug 2024 to January 2026, but since then only 20 crimes have been documented over the next 6 months to July 2026. This has been reported to the Police Data Team. Data will be updated when new records are provided.
+- There appears to be a change or broken process in the way the data is reported to data team at the Police, as there has been approximately 1,000 crimes per month from Aug 2024 to January 2026, but since then, only 20 crimes have been documented over the next 6 months to July 2026. This has been reported to the Police Data Team. Data will be updated when new records are provided.
 
 ### Why is there not more recent data?
 
