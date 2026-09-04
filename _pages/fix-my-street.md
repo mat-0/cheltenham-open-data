@@ -39,9 +39,19 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Weeds growing around Bollards on Lobleys Drive opposite Tescos, 4th September :- [10051346](https://www.fixmystreet.com/report/10051346)
+- Fallen tree, bridleway impassable even on foot, 4th September :- [10051161](https://www.fixmystreet.com/report/10051161)
+- Dog mess along Sandyleaze, 4th September :- [10050921](https://www.fixmystreet.com/report/10050921)
+- Keep clear road markings need repainting, 4th September :- [10050498](https://www.fixmystreet.com/report/10050498)
+- Carriageway from Cirencester to Cheltenham is subsiding. The road surface is beginning to crack. Possible culvert collapse?, 4th September :- [10050390](https://www.fixmystreet.com/report/10050390)
+- Grafift, 4th September :- [10050377](https://www.fixmystreet.com/report/10050377)
+- Over hanging willow tree, 4th September :- [10050127](https://www.fixmystreet.com/report/10050127)
+- Snapped Large Tree Branch, 4th September :- [10050126](https://www.fixmystreet.com/report/10050126)
+- Culvert in Sandy Lane is blocked, verge & debris in and around Culvert requires clearance and removal, 4th September :- [10050060](https://www.fixmystreet.com/report/10050060)
+- Unpermitted roadworks problem, 4th September :- [10049881](https://www.fixmystreet.com/report/10049881)
 - Tree damaged by refuse truck this am -2 branches affected, 4th September :- [10049659](https://www.fixmystreet.com/report/10049659)
-- TMC - Defects - Covers, Gratings & Frames problem, 4th September :- [10049686](https://www.fixmystreet.com/report/10049686)
 - TMC - Defects - Covers, Gratings & Frames problem, 4th September :- [10049685](https://www.fixmystreet.com/report/10049685)
+- TMC - Defects - Covers, Gratings & Frames problem, 4th September :- [10049686](https://www.fixmystreet.com/report/10049686)
 - Building plot has encroached onto public verge, 4th September :- [10049520](https://www.fixmystreet.com/report/10049520)
 - Tree is damaged problem, 4th September :- [10049435](https://www.fixmystreet.com/report/10049435)
 - TMC - Defects -CW6 Potholes  problem, 4th September :- [10049224](https://www.fixmystreet.com/report/10049224)
@@ -49,16 +59,6 @@ over time but remain permanently viewable on FixMyStreet itself.
 - TMC - Defects -CW6 Potholes  problem, 4th September :- [10049223](https://www.fixmystreet.com/report/10049223)
 - Pothole / damage to tarmac right before traffic lights, causing traffic to go into wrong side of road., 4th September :- [10048931](https://www.fixmystreet.com/report/10048931)
 - TMC - Defects -CW6 Potholes  problem, 4th September :- [10048982](https://www.fixmystreet.com/report/10048982)
-- TMC - Defects -CW6 Potholes  problem, 4th September :- [10048981](https://www.fixmystreet.com/report/10048981)
-- Damaged bollard – corner of 52 Harvest Street, 4th September :- [10048639](https://www.fixmystreet.com/report/10048639)
-- Overgrown Tree at the end of the drive., 4th September :- [10048586](https://www.fixmystreet.com/report/10048586)
-- Pothole in the road problem, 4th September :- [10048504](https://www.fixmystreet.com/report/10048504)
-- Footpath blocked on both sides of road by hedges over footpath and vehicles parked. Neither road name sign can be read, 4th September :- [10047819](https://www.fixmystreet.com/report/10047819)
-- Flytipping, 4th September :- [10047394](https://www.fixmystreet.com/report/10047394)
-- Broken glass by secure bike store, 4th September :- [10047322](https://www.fixmystreet.com/report/10047322)
-- Parking on Double yellow lines snd Parking on a corner, 4th September :- [10047257](https://www.fixmystreet.com/report/10047257)
-- Bad subsidence, 3rd September :- [10046733](https://www.fixmystreet.com/report/10046733)
-- Flytipping, 3rd September :- [10046686](https://www.fixmystreet.com/report/10046686)
 
 <!-- fix_marker ends -->
 
