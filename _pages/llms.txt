@@ -11,24 +11,12 @@ permalink: /llms.txt
 
 ## Data pages
 
-- [Cheltenham Latest News](https://cheltenham-od.uk/cheltenham-news): Local news aggregation in a simple view.
-- [Cheltenham Classifieds](https://cheltenham-od.uk/cheltenham-classifieds): Local jobs, services, items for sale, and community notices.
-- [Cheltenham Helplines and Contacts](https://cheltenham-od.uk/cheltenham-helpful-contacts-reports): Help and support contact numbers and links.
-- [Cheltenham Cheapest Fuel Prices](https://cheltenham-od.uk/cheltenham-fuel-prices): Local and cheapest fuel pricing data from 112 forecourts.
-- [Cheltenham House Prices](https://cheltenham-od.uk/cheltenham-house-prices): Local house prices data from Land Registry and ONS.
-- [Cheltenham Planning Applications](https://cheltenham-od.uk/cheltenham-planning-applications): Local planning applications from Cheltenham Borough Council.
-- [Cheltenham GP and Pharmacies](https://cheltenham-od.uk/cheltenham-gp-pharmacies): Find GP practices and pharmacies in Cheltenham.
-- [Cheltenham Post Office Locations](https://cheltenham-od.uk/cheltenham-post-office-locations): Find Post Offices in Cheltenham.
-- [Cheltenham Fix My Street](https://cheltenham-od.uk/cheltenham-fix-my-street): Local street issues and reports.
-- [Cheltenham Flood Warnings](https://cheltenham-od.uk/cheltenham-flood-warnings): Local flood warnings and alerts.
-- [Cheltenham Air Quality](https://cheltenham-od.uk/cheltenham-air-quality): Local area air quality readings for Cheltenham.
-- [Cheltenham Food Bank](https://cheltenham-od.uk/cheltenham-foodbank-needed-items): Local foodbanks and their needed items.
-- [Cheltenham Public Holidays](https://cheltenham-od.uk/cheltenham-public-holidays): Confirmed public holidays.
-- [Cheltenham Security Alerts](https://cheltenham-od.uk/cheltenham-security-alerts): National threat level from MI5, relevant given proximity to GCHQ, and Government Alerts.
-- [Cheltenham Security Alerts](https://cheltenham-od.uk/cheltenham-security-alerts): National threat level from MI5, relevant given proximity to GCHQ, and Government Alerts.
-- [Cheltenham Recycling](https://cheltenham-od.uk/cheltenham-recycling): Local recycling guides and recycling bank locations.
-- [Cheltenham Public Toilets](https://cheltenham-od.uk/cheltenham-public-toilets): Local toilets including baby changing facilities in Cheltenham.
-- [Cheltenham Third Spaces](https://cheltenham-od.uk/cheltenham-third-spaces): Local community hubs and third spaces in cheltenham
+{%- assign data_pages = site.pages | sort: "title" -%}
+{%- for data_page in data_pages -%}
+{%- if data_page.title and data_page.description and data_page.url != "/llms.txt" %}
+- [{{ data_page.title }}]({{ site.url }}{{ data_page.url }}): {{ data_page.description }}
+{% endif -%}
+{%- endfor -%}
 
 ## Feeds & data sources
 
