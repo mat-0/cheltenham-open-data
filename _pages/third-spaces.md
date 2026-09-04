@@ -76,6 +76,13 @@ Hosting over 3000 events and offering a day pass for £20 + VAT for a desk with 
 - [Gloucestershire College, Cheltenham Campus, PE Way, Cheltenham GL51 7SJ](https://maps.app.goo.gl/zGPq9ssXdu2eNxLG6)
 - [Website](https://hub8and.co/office-space-cheltenham-town-centre)
 
+## Cheltenham Hackspace
+
+Providing 1400-sq-ft of workspace and kitchen and toilet facilities. Cheltenham Hackspace is ideal for makers and crafters with an interest in electronics, textiles, computing, 3D printers, workbenches, and metalwork to name a few. Membership starts at £17.50 a month and there are open evenings every Thursday between 19:00 and 20:00.
+
+- [1 The Runnings, Cheltenham, England, GL51 9NJ](https://maps.app.goo.gl/FG9r2swdMpcp7Vgb6)
+- [Website](https://www.cheltenhamhackspace.org/)
+
 ## Common Ground Cafe - Brooklyn Club, Cheltenham
 
 - [Community Centre, Brooklyn Rd, Cheltenham, GL51 8DS](https://maps.app.goo.gl/jmaMd3CvYSQ8UbZh7)
@@ -83,4 +90,4 @@ Hosting over 3000 events and offering a day pass for £20 + VAT for a desk with 
 
 ## Notes
 
-If you run a local third space in Cheltenham and would like to be included in this list, please [contact us](/contact) with your details.
+If you run a local third space in Cheltenham and would like to be included in this list, please [contact us](/contact) with your details or consider [sponsoring this page](/sponsor).
