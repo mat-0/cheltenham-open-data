@@ -16,10 +16,11 @@
 
     function applyTheme(theme) {
         root.setAttribute("data-theme", theme);
-        var btn = document.getElementById("theme-toggle-btn");
-        if (btn) {
-            btn.setAttribute("aria-pressed", theme === "dark");
-        }
+        document
+            .querySelectorAll("#theme-toggle-btn, #theme-toggle-icon")
+            .forEach(function (btn) {
+                btn.setAttribute("aria-pressed", theme === "dark");
+            });
     }
 
     var stored = getStoredTheme();
@@ -27,17 +28,19 @@
     applyTheme(initial);
 
     document.addEventListener("DOMContentLoaded", function () {
-        var btn = document.getElementById("theme-toggle-btn");
-        if (!btn) return;
         applyTheme(root.getAttribute("data-theme"));
-        btn.addEventListener("click", function () {
-            var current = root.getAttribute("data-theme");
-            var next = current === "dark" ? "light" : "dark";
-            applyTheme(next);
-            try {
-                localStorage.setItem(STORAGE_KEY, next);
-            } catch (e) {}
-        });
+        document
+            .querySelectorAll("#theme-toggle-btn, #theme-toggle-icon")
+            .forEach(function (btn) {
+                btn.addEventListener("click", function () {
+                    var current = root.getAttribute("data-theme");
+                    var next = current === "dark" ? "light" : "dark";
+                    applyTheme(next);
+                    try {
+                        localStorage.setItem(STORAGE_KEY, next);
+                    } catch (e) {}
+                });
+            });
     });
 
     window

@@ -1474,6 +1474,58 @@ pre {
     max-width: none;
 }
 
+.footer-theme-control {
+    display: flex;
+    justify-content: center;
+    margin-top: 1.25em;
+}
+
+.footer-theme-toggle-icon {
+    box-sizing: border-box;
+    width: 2.2em;
+    height: 2.2em;
+    padding: 0;
+    border: 1px solid #000;
+    border-radius: 0;
+    margin: 0;
+    background: #fff;
+    color: var(--accent);
+}
+
+.footer-theme-toggle-icon:hover,
+.footer-theme-toggle-icon:focus {
+    background: #fff;
+    color: var(--accent);
+}
+
+.footer-theme-toggle-icon .icon-sun {
+    display: block !important;
+}
+
+.footer-theme-toggle-icon .icon-moon {
+    display: none !important;
+}
+
+[data-theme="dark"] .footer-theme-toggle-icon .icon-sun {
+    display: none !important;
+}
+
+[data-theme="dark"] .footer-theme-toggle-icon .icon-moon {
+    display: block !important;
+}
+
+.footer-theme-toggle-icon svg path,
+.footer-theme-toggle-icon svg circle,
+.footer-theme-toggle-icon svg line {
+    stroke: currentColor;
+}
+
+.footer-theme-toggle-icon svg {
+    width: 18px;
+    height: 18px;
+    flex: 0 0 18px;
+}
+
 /*####################################*/
 
 .sponsor-card {
