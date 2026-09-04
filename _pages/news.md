@@ -10,11 +10,11 @@ permalink: /cheltenham-news
 ---
 
 <!-- news_marker starts -->
-- Organisers 'truly sorry' for cancelling festival ([11 hours ago](https://www.bbc.co.uk/news/articles/cp931zz3x2vo?at_medium=RSS&at_campaign=rss))
-- Cheltenham BID Announces Appointment of New Chief Executive ([12 hours ago](https://cheltenhambid.co.uk/2026/09/03/cheltenham-bid-announces-appointment-of-new-chief-executive/))
-- Move to support rather than punish absent pupils ([12 hours ago](https://www.bbc.co.uk/news/articles/c2l8znzgrleo?at_medium=RSS&at_campaign=rss))
-- Rugby player returning to sport after heart attack ([19 hours ago](https://www.bbc.co.uk/news/videos/cd942e4jy4vo?at_medium=RSS&at_campaign=rss))
-- 'Passionate collector' selling Churchill VE Day item ([19 hours ago](https://www.bbc.co.uk/news/articles/c39mnwex20no?at_medium=RSS&at_campaign=rss))
+- Organisers 'truly sorry' for cancelling festival ([15 hours ago](https://www.bbc.co.uk/news/articles/cp931zz3x2vo?at_medium=RSS&at_campaign=rss))
+- Cheltenham BID Announces Appointment of New Chief Executive ([16 hours ago](https://cheltenhambid.co.uk/2026/09/03/cheltenham-bid-announces-appointment-of-new-chief-executive/))
+- Move to support rather than punish absent pupils ([17 hours ago](https://www.bbc.co.uk/news/articles/c2l8znzgrleo?at_medium=RSS&at_campaign=rss))
+- Rugby player returning to sport after heart attack ([23 hours ago](https://www.bbc.co.uk/news/videos/cd942e4jy4vo?at_medium=RSS&at_campaign=rss))
+- 'Passionate collector' selling Churchill VE Day item ([23 hours ago](https://www.bbc.co.uk/news/articles/c39mnwex20no?at_medium=RSS&at_campaign=rss))
 - 'Time is running out' to save historic tall ship ([1 days ago](https://www.bbc.co.uk/news/articles/c783dkke8yzo?at_medium=RSS&at_campaign=rss))
 - Illegal dump clear-up expected to cost £240k ([1 days ago](https://www.bbc.co.uk/news/articles/c5y59ln45wzo?at_medium=RSS&at_campaign=rss))
 - Two dogs attack woman delivering parcel ([1 days ago](https://www.bbc.co.uk/news/articles/cgjq5n07yx7o?at_medium=RSS&at_campaign=rss))

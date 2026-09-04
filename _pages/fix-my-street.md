@@ -39,6 +39,8 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Broken glass by secure bike store, 4th September :- [10047322](https://www.fixmystreet.com/report/10047322)
+- Parking on Double yellow lines snd Parking on a corner, 4th September :- [10047257](https://www.fixmystreet.com/report/10047257)
 - Bad subsidence, 3rd September :- [10046733](https://www.fixmystreet.com/report/10046733)
 - Flytipping, 3rd September :- [10046686](https://www.fixmystreet.com/report/10046686)
 - Road subsidising, 3rd September :- [10046685](https://www.fixmystreet.com/report/10046685)
@@ -57,8 +59,6 @@ over time but remain permanently viewable on FixMyStreet itself.
 - Dangerous gate has been placed across public footpath, leading from Pheasant lane up to the fields at the back of Fiddlers Green Farm., 3rd September :- [10045035](https://www.fixmystreet.com/report/10045035)
 - Other issue with a footway/pavement problem, 3rd September :- [10044995](https://www.fixmystreet.com/report/10044995)
 - Cut tree branches loose, 3rd September :- [10044771](https://www.fixmystreet.com/report/10044771)
-- TMC - Defects - Signs & Street Furniture problem, 3rd September :- [10045001](https://www.fixmystreet.com/report/10045001)
-- Fly tipping in layby., 3rd September :- [10044874](https://www.fixmystreet.com/report/10044874)
 
 <!-- fix_marker ends -->
 
