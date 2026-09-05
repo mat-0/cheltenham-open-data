@@ -39,6 +39,7 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Parking, 5th September :- [10052486](https://www.fixmystreet.com/report/10052486)
 - Smashed glass still not cleared up, 4th September :- [10051764](https://www.fixmystreet.com/report/10051764)
 - Weeds growing around Bollards on Lobleys Drive opposite Tescos, 4th September :- [10051346](https://www.fixmystreet.com/report/10051346)
 - Fallen tree, bridleway impassable even on foot, 4th September :- [10051161](https://www.fixmystreet.com/report/10051161)
@@ -51,14 +52,13 @@ over time but remain permanently viewable on FixMyStreet itself.
 - Culvert in Sandy Lane is blocked, verge & debris in and around Culvert requires clearance and removal, 4th September :- [10050060](https://www.fixmystreet.com/report/10050060)
 - Unpermitted roadworks problem, 4th September :- [10049881](https://www.fixmystreet.com/report/10049881)
 - Tree damaged by refuse truck this am -2 branches affected, 4th September :- [10049659](https://www.fixmystreet.com/report/10049659)
-- TMC - Defects - Covers, Gratings & Frames problem, 4th September :- [10049686](https://www.fixmystreet.com/report/10049686)
 - TMC - Defects - Covers, Gratings & Frames problem, 4th September :- [10049685](https://www.fixmystreet.com/report/10049685)
+- TMC - Defects - Covers, Gratings & Frames problem, 4th September :- [10049686](https://www.fixmystreet.com/report/10049686)
 - Building plot has encroached onto public verge, 4th September :- [10049520](https://www.fixmystreet.com/report/10049520)
 - Tree is damaged problem, 4th September :- [10049435](https://www.fixmystreet.com/report/10049435)
-- TMC - Defects -CW6 Potholes  problem, 4th September :- [10049224](https://www.fixmystreet.com/report/10049224)
 - TMC - Defects -CW6 Potholes  problem, 4th September :- [10049223](https://www.fixmystreet.com/report/10049223)
 - TMC - Defects -CW6 Potholes  problem, 4th September :- [10049222](https://www.fixmystreet.com/report/10049222)
-- Pothole / damage to tarmac right before traffic lights, causing traffic to go into wrong side of road., 4th September :- [10048931](https://www.fixmystreet.com/report/10048931)
+- TMC - Defects -CW6 Potholes  problem, 4th September :- [10049224](https://www.fixmystreet.com/report/10049224)
 
 <!-- fix_marker ends -->
 
