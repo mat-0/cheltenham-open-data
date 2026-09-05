@@ -8,3 +8,6 @@ PyYAML
 openai
 bs4
 profanity
+rapidfuzz
+questionary
+PyYAML

@@ -50,6 +50,9 @@ collections:
   classifieds:
     output: true
     permalink: /ads/:title/
+  events:
+    output: true
+    permalink: /events/:title/
 defaults:
   - scope:
       path: ""
@@ -92,6 +95,8 @@ feed:
       path: "/feeds/main.xml"
     classifieds:
       path: "/feeds/classifieds.xml"
+    events:
+      path: "/feeds/events.xml"
 
 # Site Navigation
 ## Header
@@ -107,7 +112,10 @@ navigation_header:
     description: "Monthly street-level crime figures by Cheltenham neighbourhood."
   - name: Cheltenham Latest News
     link: /cheltenham-news
-    description: "Local news aggregation in a simple view."
+    description: "Today's Local news aggregation for Cheltenham and Gloucestershire"
+  - name: Cheltenham Events
+    link: /cheltenham-events
+    description: "Events and Activities in Cheltenham and Gloucestershire"
   - name: Cheltenham House Prices
     link: /cheltenham-house-prices
     description: "Local house prices data from Land Registry and ONS."
@@ -163,6 +171,8 @@ footer_columns:
         link: /cheltenham-classifieds
       - name: Cheltenham Crime Data
         link: /cheltenham-crime-data
+      - name: Cheltenham Events
+        link: /cheltenham-events
       - name: Cheltenham Fix My Street
         link: /cheltenham-fix-my-street
       - name: Cheltenham Flood Warnings
@@ -206,6 +216,8 @@ footer_columns:
         link: /feeds/news-summary.xml
       - name: Cheltenham Classifieds (atom)
         link: /feeds/classifieds.xml
+      - name: Cheltenham Events (atom)
+        link: /feeds/events.xml
       - heading: Meta
       - name: Privacy
         link: /.well-known/privacy.txt
@@ -218,7 +230,7 @@ footer_columns:
 
   - title: About
     links:
-      - name: News &amp; Announcements
+      - name: Site Announcements
         link: /news
       - name: About
         link: /about

@@ -1,0 +1,27 @@
+{% include header.html %}
+{% assign items = site.events %}
+
+<div class="{{page.type}} herobar">
+    <div class="{{page.type}}">
+        <header class="{{page.type}} header">
+            <h1>{{page.title}}</h1>
+            <p>{{page.description}}</p>
+            <ul>
+                <li><b>{{ items | size }}</b> event articles.</li>
+                <li><a href="/feeds/events.xml">Subscribe via our feed/rss →</a></li>
+            </ul>
+        </header>
+
+        <h2>Recent Announcements</h2>
+
+        {% for post in items %}
+        <li class="posts">
+            <a href="{{ post.url }}">{{ post.title }}</a>
+            <span class="meta"> - {{ post.content | number_of_words }} words on
+                {{ post.date | date: "%-d %B %Y" }}.</span>
+        </li>
+        {% endfor %}
+
+        <p>&nbsp;</p>
+    </div>
+    {% include footer.html %}
