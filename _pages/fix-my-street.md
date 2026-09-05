@@ -39,6 +39,16 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Subsidence where the carriageway has dropped, 5th September :- [10054896](https://www.fixmystreet.com/report/10054896)
+- Flytipped item, 5th September :- [10053894](https://www.fixmystreet.com/report/10053894)
+- Flytipped items, 5th September :- [10053880](https://www.fixmystreet.com/report/10053880)
+- Rubbish on the carpark, 5th September :- [10053599](https://www.fixmystreet.com/report/10053599)
+- Recent repair partial and failing, 5th September :- [10053472](https://www.fixmystreet.com/report/10053472)
+- The whole of the road surface is breaking up, 5th September :- [10053430](https://www.fixmystreet.com/report/10053430)
+- Gate post over, 5th September :- [10053342](https://www.fixmystreet.com/report/10053342)
+- Blocked gully (leaves?) causes regular, large puddles on a busy road., 5th September :- [10053135](https://www.fixmystreet.com/report/10053135)
+- Broken glass all over park, hidden in grass, 5th September :- [10053069](https://www.fixmystreet.com/report/10053069)
+- Blocked drain. Up to the top filled with dirt., 5th September :- [10053052](https://www.fixmystreet.com/report/10053052)
 - Parking, 5th September :- [10052486](https://www.fixmystreet.com/report/10052486)
 - Smashed glass still not cleared up, 4th September :- [10051764](https://www.fixmystreet.com/report/10051764)
 - Weeds growing around Bollards on Lobleys Drive opposite Tescos, 4th September :- [10051346](https://www.fixmystreet.com/report/10051346)
@@ -49,16 +59,6 @@ over time but remain permanently viewable on FixMyStreet itself.
 - Grafift, 4th September :- [10050377](https://www.fixmystreet.com/report/10050377)
 - Over hanging willow tree, 4th September :- [10050127](https://www.fixmystreet.com/report/10050127)
 - Snapped Large Tree Branch, 4th September :- [10050126](https://www.fixmystreet.com/report/10050126)
-- Culvert in Sandy Lane is blocked, verge & debris in and around Culvert requires clearance and removal, 4th September :- [10050060](https://www.fixmystreet.com/report/10050060)
-- Unpermitted roadworks problem, 4th September :- [10049881](https://www.fixmystreet.com/report/10049881)
-- Tree damaged by refuse truck this am -2 branches affected, 4th September :- [10049659](https://www.fixmystreet.com/report/10049659)
-- TMC - Defects - Covers, Gratings & Frames problem, 4th September :- [10049685](https://www.fixmystreet.com/report/10049685)
-- TMC - Defects - Covers, Gratings & Frames problem, 4th September :- [10049686](https://www.fixmystreet.com/report/10049686)
-- Building plot has encroached onto public verge, 4th September :- [10049520](https://www.fixmystreet.com/report/10049520)
-- Tree is damaged problem, 4th September :- [10049435](https://www.fixmystreet.com/report/10049435)
-- TMC - Defects -CW6 Potholes  problem, 4th September :- [10049223](https://www.fixmystreet.com/report/10049223)
-- TMC - Defects -CW6 Potholes  problem, 4th September :- [10049222](https://www.fixmystreet.com/report/10049222)
-- TMC - Defects -CW6 Potholes  problem, 4th September :- [10049224](https://www.fixmystreet.com/report/10049224)
 
 <!-- fix_marker ends -->
 
