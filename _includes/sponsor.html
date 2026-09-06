@@ -2,7 +2,13 @@
 {% if sponsor %}
 
 <aside class="sponsor-card">
-    <span class="sponsor-card__eyebrow">Page supported by</span>
+    <span class="sponsor-card__eyebrow">
+        {% if page.sponsor.type %}
+        {{ page.sponsor.type }}
+        {% else %}
+        Page supported by
+        {% endif %}
+    </span>
     <a href="{{ sponsor.url }}" rel="sponsored noopener">
         <img class="sponsor-card__logo" src="{{ sponsor.logo }}" alt="{{ sponsor.name }}">
         <span class="sponsor-card__text">
