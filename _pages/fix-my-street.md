@@ -41,6 +41,10 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Overgrown hedgerow obstructing path, 6th September :- [10058953](https://www.fixmystreet.com/report/10058953)
+- Tree touching property, 6th September :- [10058853](https://www.fixmystreet.com/report/10058853)
+- Electric fence across footpath , field full off aggresive and stampeding cows with calves when trying to cross. Agressive landowner when a alternate route avoiding field was taken on footpath, 6th September :- [10058738](https://www.fixmystreet.com/report/10058738)
+- Items left on pavement, 6th September :- [10058591](https://www.fixmystreet.com/report/10058591)
 - Corner of Queens Close, 6th September :- [10058343](https://www.fixmystreet.com/report/10058343)
 - Protruding Metal Pole, 6th September :- [10058206](https://www.fixmystreet.com/report/10058206)
 - Volunteer litter pick bags ready for collection, 6th September :- [10058197](https://www.fixmystreet.com/report/10058197)
@@ -57,9 +61,5 @@ over time but remain permanently viewable on FixMyStreet itself.
 - Pathway missing, 6th September :- [10056702](https://www.fixmystreet.com/report/10056702)
 - Fly tipping, 6th September :- [10056648](https://www.fixmystreet.com/report/10056648)
 - Subsidence on North bound Main Road., 6th September :- [10056607](https://www.fixmystreet.com/report/10056607)
-- Flytipped item, 6th September :- [10056424](https://www.fixmystreet.com/report/10056424)
-- Flytipped Furniture, 6th September :- [10056399](https://www.fixmystreet.com/report/10056399)
-- Manhole cover constantly banging with every vehicle that passes along the road. The problem is so bad there is concern that the drain is may be deteriorating. The noise levels this creates is unbearable., 6th September :- [10056208](https://www.fixmystreet.com/report/10056208)
-- Abandoned vehicle with plates removed and covered ip, 6th September :- [10056205](https://www.fixmystreet.com/report/10056205)
 
 <!-- fix_marker ends -->

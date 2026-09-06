@@ -16,7 +16,7 @@ Of these, **9** were new build sales, down 93% (2025: 123), with a median price 
 
 Across the full 24-month dataset, 5618 Cheltenham property sales were recorded, with a median price of £340,000 (mean £457,239), ranging from £5,000 to £13,050,000.
 
-Excluding properties classed as "Other" in Land Registry data, 2155 domestic sales were recorded over the past year, down 38% (2025: 3,463), with an average (mean) price of £454,263, down 1% (2025: £459,091).
+Excluding properties classed as "Other" in Land Registry data, 2155 domestic sales were recorded over the past year, down 38% (2025: 3,463), with an average (mean) price of £454,263, down 1% (2025: £459,091). 
 
 Notes: This exclusion is based on Land Registry's own property type classification which seems to indicate non-domestic buildings and should be treated as a indicative and not a guaranteed commercial/residential split.
 <!-- land_registry ends -->
