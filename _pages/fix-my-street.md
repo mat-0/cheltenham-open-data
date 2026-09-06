@@ -39,6 +39,13 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Pathway missing, 6th September :- [10056702](https://www.fixmystreet.com/report/10056702)
+- Fly tipping, 6th September :- [10056648](https://www.fixmystreet.com/report/10056648)
+- Subsidence on North bound Main Road., 6th September :- [10056607](https://www.fixmystreet.com/report/10056607)
+- Flytipped item, 6th September :- [10056424](https://www.fixmystreet.com/report/10056424)
+- Flytipped Furniture, 6th September :- [10056399](https://www.fixmystreet.com/report/10056399)
+- Manhole cover constantly banging with every vehicle that passes along the road. The problem is so bad there is concern that the drain is may be deteriorating. The noise levels this creates is unbearable., 6th September :- [10056208](https://www.fixmystreet.com/report/10056208)
+- Abandoned vehicle with plates removed and covered ip, 6th September :- [10056205](https://www.fixmystreet.com/report/10056205)
 - Water still running down the road, 5th September :- [10055374](https://www.fixmystreet.com/report/10055374)
 - Subsidence where the carriageway has dropped, 5th September :- [10054896](https://www.fixmystreet.com/report/10054896)
 - Flytipped item, 5th September :- [10053894](https://www.fixmystreet.com/report/10053894)
@@ -52,13 +59,6 @@ over time but remain permanently viewable on FixMyStreet itself.
 - Blocked drain. Up to the top filled with dirt., 5th September :- [10053052](https://www.fixmystreet.com/report/10053052)
 - Parking, 5th September :- [10052486](https://www.fixmystreet.com/report/10052486)
 - Smashed glass still not cleared up, 4th September :- [10051764](https://www.fixmystreet.com/report/10051764)
-- Weeds growing around Bollards on Lobleys Drive opposite Tescos, 4th September :- [10051346](https://www.fixmystreet.com/report/10051346)
-- Fallen tree, bridleway impassable even on foot, 4th September :- [10051161](https://www.fixmystreet.com/report/10051161)
-- Dog mess along Sandyleaze, 4th September :- [10050921](https://www.fixmystreet.com/report/10050921)
-- Keep clear road markings need repainting, 4th September :- [10050498](https://www.fixmystreet.com/report/10050498)
-- Carriageway from Cirencester to Cheltenham is subsiding. The road surface is beginning to crack. Possible culvert collapse?, 4th September :- [10050390](https://www.fixmystreet.com/report/10050390)
-- Grafift, 4th September :- [10050377](https://www.fixmystreet.com/report/10050377)
-- Over hanging willow tree, 4th September :- [10050127](https://www.fixmystreet.com/report/10050127)
 
 <!-- fix_marker ends -->
 
