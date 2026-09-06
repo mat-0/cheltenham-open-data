@@ -39,6 +39,14 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Recycling all over the car park, 6th September :- [10057581](https://www.fixmystreet.com/report/10057581)
+- Abandoned trolleys, 6th September :- [10057383](https://www.fixmystreet.com/report/10057383)
+- Broken Glass, 6th September :- [10057153](https://www.fixmystreet.com/report/10057153)
+- Curb drain blocked with leaves, 6th September :- [10057148](https://www.fixmystreet.com/report/10057148)
+- Graffiti, 6th September :- [10057144](https://www.fixmystreet.com/report/10057144)
+- Pothole in the road problem, 6th September :- [10057047](https://www.fixmystreet.com/report/10057047)
+- Perspex is broken, 6th September :- [10056884](https://www.fixmystreet.com/report/10056884)
+- Timetable half way out of casing, 6th September :- [10056867](https://www.fixmystreet.com/report/10056867)
 - Pathway missing, 6th September :- [10056702](https://www.fixmystreet.com/report/10056702)
 - Fly tipping, 6th September :- [10056648](https://www.fixmystreet.com/report/10056648)
 - Subsidence on North bound Main Road., 6th September :- [10056607](https://www.fixmystreet.com/report/10056607)
@@ -51,14 +59,6 @@ over time but remain permanently viewable on FixMyStreet itself.
 - Flytipped item, 5th September :- [10053894](https://www.fixmystreet.com/report/10053894)
 - Flytipped items, 5th September :- [10053880](https://www.fixmystreet.com/report/10053880)
 - Rubbish on the carpark, 5th September :- [10053599](https://www.fixmystreet.com/report/10053599)
-- Recent repair partial and failing, 5th September :- [10053472](https://www.fixmystreet.com/report/10053472)
-- The whole of the road surface is breaking up, 5th September :- [10053430](https://www.fixmystreet.com/report/10053430)
-- Gate post over, 5th September :- [10053342](https://www.fixmystreet.com/report/10053342)
-- Blocked gully (leaves?) causes regular, large puddles on a busy road., 5th September :- [10053135](https://www.fixmystreet.com/report/10053135)
-- Broken glass all over park, hidden in grass, 5th September :- [10053069](https://www.fixmystreet.com/report/10053069)
-- Blocked drain. Up to the top filled with dirt., 5th September :- [10053052](https://www.fixmystreet.com/report/10053052)
-- Parking, 5th September :- [10052486](https://www.fixmystreet.com/report/10052486)
-- Smashed glass still not cleared up, 4th September :- [10051764](https://www.fixmystreet.com/report/10051764)
 
 <!-- fix_marker ends -->
 
