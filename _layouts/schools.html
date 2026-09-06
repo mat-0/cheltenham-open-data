@@ -1,0 +1,77 @@
+{% include header.html %}
+
+<div class="{{page.type}} herobar">
+    <div class="{{page.type}}">
+        <header class="{{page.type}} header">
+            <h1>{{ page.title }}</h1>
+            <p>{{ page.description }}</p>
+        </header>
+        {% include sponsor.html %}
+
+        {{ content }}
+
+        {% assign schools = site.data["schools"] | sort: "name" %}
+
+        <h2>By phase ({{ schools.size }} schools)</h2>
+        <div class="table-scroll">
+            <table class="schools-table" data-sortable>
+                <thead>
+                    <tr>
+                        <th scope="col">Phase</th>
+                        <th scope="col" class="number">Count</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% assign phases = schools | map: "phase" | uniq | sort %}
+                    {% for phase in phases %}
+                    {% assign phase_schools = schools | where: "phase", phase %}
+                    <tr>
+                        <td>{{ phase | default: "Unknown" }}</td>
+                        <td class="number">{{ phase_schools.size }}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+
+        <h2>All schools ({{ schools.size }} schools)</h2>
+        <div class="table-scroll">
+            <table class="schools-table" data-sortable>
+                <thead>
+                    <tr>
+                        <th scope="col">Name</th>
+                        <th scope="col">Type</th>
+                        <th scope="col">Phase</th>
+                        <th scope="col">Address</th>
+                        <th scope="col" class="postcode">Postcode</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for school in schools %}
+                    <tr>
+                        <td>
+                            {% if school.website %}
+                            <a href="{{ school.website }}">{{ school.name }}</a>
+                            {% else %}
+                            <a href="{{ school.urn_url }}">{{ school.name }}</a>
+                            {% endif %}
+                        </td>
+                        <td>{{ school.type }}</td>
+                        <td>{{ school.phase }}</td>
+                        <td>{{ school.address }}</td>
+                        <td class="postcode">{{ school.postcode }}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+
+        <p>Data comes from the Department for Education's <a href="https://get-information-schools.service.gov.uk/">Get
+                Information about Schools (GIAS) register</a>. Proposed, closed, nursery-only, higher-education and
+            alternative-provision establishments are excluded</p>
+        <p>Public sector information licensed under the <a
+                href="https://www.nationalarchives.gov.uk/doc/open-government-licence/">Open Government Licence v3.0
+                &rarr;</a></p>
+    </div>
+    {% include footer.html %}
+</div>

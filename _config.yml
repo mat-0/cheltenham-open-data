@@ -155,6 +155,12 @@ navigation_header:
   - name: Cheltenham Public Toilets
     link: /cheltenham-public-toilets
     description: "Local public toilet locations and information."
+  - name: Cheltenham Schools
+    link: /cheltenham-schools
+    description: "Primary, secondary, independent, and special schools in Cheltenham."
+  - name: Cheltenham Points of Interest
+    link: /cheltenham-points-of-interest
+    description: "Local points of interests in and around Cheltenham."
   - name: Cheltenham Security Alerts
     link: /cheltenham-security-alerts
     description: "Local area security alerts and status updates."
@@ -193,6 +199,8 @@ footer_columns:
         link: /cheltenham-news
       - name: Cheltenham Planning Applications
         link: /cheltenham-planning-applications
+      - name: Cheltenham Points of Interest
+        link: /cheltenham-points-of-interest
       - name: Cheltenham Post Office Locations
         link: /cheltenham-post-office-locations
       - name: Cheltenham Public Holidays
@@ -201,6 +209,8 @@ footer_columns:
         link: /cheltenham-public-toilets
       - name: Cheltenham Recycling
         link: /cheltenham-recycling
+      - name: Cheltenham Schools
+        link: /cheltenham-schools
       - name: Cheltenham Security Alerts
         link: /cheltenham-security-alerts
       - name: Cheltenham Third Spaces

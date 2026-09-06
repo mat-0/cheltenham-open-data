@@ -1,0 +1,89 @@
+{% include header.html %}
+
+<div class="{{page.type}} herobar">
+    <div class="{{page.type}}">
+        <header class="{{page.type}} header">
+            <h1>{{page.title}}</h1>
+            <p>{{page.description}}</p>
+            <ul>
+                {% if page.feed_url %}
+                <li><a href="{{ page.feed_url}}">Subscribe via our feed/rss →</a></li>
+                {% endif %}
+            </ul>
+        </header>
+
+        {% include sponsor.html %}
+
+
+        {{ content }}
+
+        {% assign pois = site.data.points_of_interest %}
+        {% assign cats = pois | map: "category" | uniq | sort %}
+
+        <h2>By category ({{ pois.size }} places)</h2>
+        <div class="table-scroll">
+            <table class="poi-table" data-sortable>
+                <thead>
+                    <tr>
+                        <th scope="col">Category</th>
+                        <th scope="col" class="number">Count</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for c in cats %}
+                    {% assign in_cat = pois | where: "category", c %}
+                    <tr>
+                        <td>{{ c }}</td>
+                        <td class="number">{{ in_cat.size }}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+
+
+        {% assign pois = site.data.points_of_interest %}
+        <h2>All points of interest ({{ pois.size }})</h2>
+        <div class="table-scroll">
+            <table class="poi-table" data-sortable>
+                <thead>
+                    <tr>
+                        <th scope="col">Name</th>
+                        <th scope="col">Category</th>
+                        <th scope="col" class="number">Miles</th>
+                        <th scope="col" class="postcode">Postcode</th>
+                        <th scope="col">Map</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for p in pois %}
+                    <tr>
+                        <td>
+                            {% if p.wikipedia != "" %}<a href="{{ p.wikipedia }}">{{ p.name }}</a>
+                            {% elsif p.website != "" %}<a href="{{ p.website }}">{{ p.name }}</a>
+                            {% else %}{{ p.name }}{% endif %}
+                            {% if p.inscription != "" %}<small class="inscription">{{ p.inscription }}</small>{% endif
+                            %}
+                        </td>
+                        <td>{{ p.category }}</td>
+                        <td class="number">{{ p.distance }}</td>
+                        <td class="postcode">{{ p.postcode | default: "—" }}</td>
+                        <td>
+                            <a href="{{ p.gmaps }}" title="View {{ p.name }} on Google Maps"
+                                aria-label="View {{ p.name }} on Google Maps" rel="noopener" target="_blank">
+                                <svg class="pin" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"
+                                    focusable="false">
+                                    <path fill="currentColor"
+                                        d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5A2.5 2.5 0 1 1 12 6.5a2.5 2.5 0 0 1 0 5z" />
+                                </svg>
+                            </a>
+                        </td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+
+    </div>
+</div>
+{% include footer.html %}
