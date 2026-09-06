@@ -3,11 +3,11 @@ layout: house
 title: "Cheltenham House Price Data"
 seo: "Is cheltenham expensive area to live, check out the average house prices in the area"
 permalink: /cheltenham-house-prices
-description: "Data from Land Registry and ONS updated in July 2026."
+description: "Property Data from Land Registry and ONS datasets."
 type: "house"
 ---
 
-## Cheltenham house prices from Land Registry Price Paid Data
+## Cheltenham House Prices from Land Registry Price Paid Data
 
 <!-- land_registry starts -->
 Cheltenham has seen 2155 properties change hands over the past year, down 38% (2025: 3,463). The typical sale (median) went for **£345,000**, up 1% (2025: £340,000), with an average (mean) of £454,263, down 1% (2025: £459,091). Prices ranged from £19,100 up to £7,050,000 (2025: £5,000–£13,050,000).
