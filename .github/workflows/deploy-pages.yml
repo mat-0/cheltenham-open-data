@@ -61,18 +61,23 @@ jobs:
             url: ${{ steps.deployment.outputs.page_url }}
         runs-on: ubuntu-latest
         needs: build
+        outputs:
+            page_url: ${{ steps.deployment.outputs.page_url }}
 
         steps:
             - name: Deploy to GitHub Pages
               id: deployment
               uses: actions/deploy-pages@v5
+
     indexnow:
         needs: deploy
         runs-on: ubuntu-latest
         steps:
-        - uses: actions/checkout@v4
-        - uses: ./.github/actions/indexnow
-            with:
-            site-url: ${{ needs.deploy.outputs.page_url }}
-            key: ${{ secrets.INDEXNOW_KEY }}
+            - name: Checkout
+              uses: actions/checkout@v4
 
+            - name: Submit to IndexNow
+              uses: ./.github/actions/indexnow
+              with:
+                  site-url: ${{ needs.deploy.outputs.page_url }}
+                  key: ${{ secrets.INDEXNOW_KEY }}
