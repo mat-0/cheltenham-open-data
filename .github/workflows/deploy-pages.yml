@@ -66,3 +66,13 @@ jobs:
             - name: Deploy to GitHub Pages
               id: deployment
               uses: actions/deploy-pages@v5
+    indexnow:
+        needs: deploy
+        runs-on: ubuntu-latest
+        steps:
+        - uses: actions/checkout@v4
+        - uses: ./.github/actions/indexnow
+            with:
+            site-url: ${{ needs.deploy.outputs.page_url }}
+            key: ${{ secrets.INDEXNOW_KEY }}
+
