@@ -39,6 +39,7 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Water still running down the road, 5th September :- [10055374](https://www.fixmystreet.com/report/10055374)
 - Subsidence where the carriageway has dropped, 5th September :- [10054896](https://www.fixmystreet.com/report/10054896)
 - Flytipped item, 5th September :- [10053894](https://www.fixmystreet.com/report/10053894)
 - Flytipped items, 5th September :- [10053880](https://www.fixmystreet.com/report/10053880)
@@ -58,7 +59,6 @@ over time but remain permanently viewable on FixMyStreet itself.
 - Carriageway from Cirencester to Cheltenham is subsiding. The road surface is beginning to crack. Possible culvert collapse?, 4th September :- [10050390](https://www.fixmystreet.com/report/10050390)
 - Grafift, 4th September :- [10050377](https://www.fixmystreet.com/report/10050377)
 - Over hanging willow tree, 4th September :- [10050127](https://www.fixmystreet.com/report/10050127)
-- Snapped Large Tree Branch, 4th September :- [10050126](https://www.fixmystreet.com/report/10050126)
 
 <!-- fix_marker ends -->
 
