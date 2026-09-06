@@ -71,8 +71,10 @@ Available exclusively to current Founding and Standard sponsors. Adds one editor
 | Recycling | Reclaimation, collection, artists, makers, upcyclers, disposal, skip hire |
 | Fix my street | Tree surgeons, garderners, lanscapers and handy-person |
 | Air quality & flood warnings | Insurance brokers, damp & flood specialists, home-security installers |
+| Points of Interest | Travel agents, venues and hotels |
 | Public Holidays | Travel agents, venues and hotels |
 | Toilets | Drain and plumbing specialists, personal hygiene products |
+| Schools | School uniform, shoe shops, stationary products |
 | Security Alerts | Security, camera and alarm system providers and installers |
 | Third Spaces | Venues, hotels, facilities and spaces open to bookings |
 

@@ -49,7 +49,7 @@
                 <thead>
                     <tr>
                         <th scope="col">Name</th>
-                        <th scope="col">Category</th>
+                        <th scope="col" class="category">Category</th>
                         <th scope="col" class="number">Miles</th>
                         <th scope="col" class="postcode">Postcode</th>
                         <th scope="col">Map</th>
@@ -65,7 +65,7 @@
                             {% if p.inscription != "" %}<small class="inscription">{{ p.inscription }}</small>{% endif
                             %}
                         </td>
-                        <td>{{ p.category }}</td>
+                        <td class="category">{{ p.category }}</td>
                         <td class="number">{{ p.distance }}</td>
                         <td class="postcode">{{ p.postcode | default: "—" }}</td>
                         <td>

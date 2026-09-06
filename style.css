@@ -737,14 +737,6 @@ table tr:hover {
     margin: 0;
 }
 
-.food-standards-table .number,
-.crime-data-table .number,
-.planning-table .number,
-.land-registry-table .number,
-#fuel-table .number {
-    text-align: right;
-}
-
 table[data-sortable] th {
     cursor: pointer;
     user-select: none;
@@ -775,13 +767,28 @@ table[data-sortable] th.sort-desc::after {
     opacity: 0.8;
 }
 
+.poi-table .number,
+.schools-table .number,
+.food-standards-table .number,
+.crime-data-table .number,
+.planning-table .number,
+.land-registry-table .number,
+#fuel-table .number {
+    text-align: right;
+}
+
+.poi-table .category,
+.poi-table .postcode,
+.schools-table .postcode,
 .food-standards-table .postcode,
 .food-standards-table .rating-date,
 .planning-table .postcode,
 .planning-table .date,
 .land-registry-table .postcode,
 .land-registry-table .date,
-#fuel-table .date {
+#fuel-table .date,
+.postcode,
+.date {
     white-space: nowrap;
 }
 

@@ -7,3 +7,5 @@ type: "third"
 permalink: /cheltenham-events
 
 ---
+
+{% include sponsor.html %}

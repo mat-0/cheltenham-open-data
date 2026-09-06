@@ -9,6 +9,8 @@ permalink: /cheltenham-news
 
 ---
 
+{% include sponsor.html %}
+
 <!-- news_marker starts -->
 - In pictures: River football and rescued cygnets ([15 hours ago](https://www.bbc.co.uk/news/articles/cqlwdwq297wo?at_medium=RSS&at_campaign=rss))
 - Social media inspiring new generation of bookworms ([15 hours ago](https://www.bbc.co.uk/news/articles/ced7y169ll9o?at_medium=RSS&at_campaign=rss))
