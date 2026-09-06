@@ -7,6 +7,8 @@ description: Find GP practices and pharmacies in Cheltenham, with addresses, pho
 seo: Cheltenham GP surgeries and pharmacies — addresses, phone numbers and directions, sourced directly from NHS England.
 ---
 
+{% include sponsor.html %}
+
 <!-- gp_pharmacy_finder starts -->
 Finding a GP practice or pharmacy in Cheltenham shouldn't mean digging through the NHS website. The listings below are pulled directly from [NHS England's Organisation Data Service](https://digital.nhs.uk/services/organisation-data-service), the official register of NHS organisations, so names, addresses and phone numbers stay current automatically.
 
@@ -261,5 +263,3 @@ Addresses link to googlemaps and phone numbers use the `tel:` protocol and shoul
 *Source: [NHS Organisation Data Service](https://digital.nhs.uk/services/organisation-data-service). Data last refreshed 2026-09-03 17:16 UTC.*
 
 <!-- gp_pharmacy_finder ends -->
-
-{% include sponsor.html %}

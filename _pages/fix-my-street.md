@@ -9,6 +9,8 @@ permalink: /cheltenham-fix-my-street
 
 ---
 
+{% include sponsor.html %}
+
 ## About Cheltenham's Fix My Street Reports
 
 This page shows the most recent street and highways problems reported in
@@ -61,5 +63,3 @@ over time but remain permanently viewable on FixMyStreet itself.
 - Abandoned vehicle with plates removed and covered ip, 6th September :- [10056205](https://www.fixmystreet.com/report/10056205)
 
 <!-- fix_marker ends -->
-
-{% include sponsor.html %}

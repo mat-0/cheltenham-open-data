@@ -7,6 +7,8 @@ description: "A curated list of local third spaces within Cheltenham. Last updat
 type: "third"
 ---
 
+{% include sponsor.html %}
+
 Cheltenham offers an excellent mix of vibrant "third spaces", which are places that are neither home (first space) nor work (second space) where you can gather, relax, or work in a community-minded setting. There is of course a whole range of coffee shops and cafes that allow for informal workspaces too.
 
 Do check the council and other local community websites for up to date information on opening times and events, as these can change.

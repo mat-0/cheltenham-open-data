@@ -7,6 +7,8 @@ description: "Cheltenham reducing, recycling, and refilling Options in Cheltenha
 type: "third"
 ---
 
+{% include sponsor.html %}
+
 ## Recycling in Cheltenham
 
 Please follow the Reduce, Reuse, Recycle philosophy where possible
@@ -127,5 +129,3 @@ There are a number of local shops that offer refillable (bring your own containe
 ### What do I do if a recycling bank is full?
 
 - If a bank is full and needs emptying please let Cheltenham Borough Council know on 01242 262626.
-
-{% include sponsor.html %}

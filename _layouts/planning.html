@@ -4,6 +4,7 @@
         <h1>{{page.title}}</h1>
         <p>{{page.description}}</p>
     </header>
+    {% include sponsor.html %}
 
     {{ content }}
 
@@ -29,7 +30,8 @@
                     <td>{{ application.address }}</td>
                     <td class="postcode">{{ application.postcode }}</td>
                     <td class="number" data-value="{{ application.units | default: 0 }}">
-                        {{ application.units | default: "-" }}</td>
+                        {{ application.units | default: "-" }}
+                    </td>
                     <td>{{ application.status }}</td>
                 </tr>
                 {% endfor %}
@@ -39,6 +41,5 @@
 
     <p><a href="https://publicaccess.cheltenham.gov.uk/online-applications/">Cheltenham Borough Council Planning
             Portal</a></p>
-    {% include sponsor.html %}
 
     {% include footer.html %}

@@ -8,6 +8,8 @@ type: fuel
 description: Cheapest fuel prices in Cheltenham
 ---
 
+{% include sponsor.html %}
+
 ## Live petrol and diesel prices for Cheltenham, Gloucester, Tewkesbury and the wider Gloucestershire area
 
 Data pulled directly from the [GOV.UK fuel price API](https://www.gov.uk/check-fuel-prices) and updated daily. We track over 100 forecourts within a 20-mile radius of Cheltenham town centre, from major supermarket pumps to independent garages.

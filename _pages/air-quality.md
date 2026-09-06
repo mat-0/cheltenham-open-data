@@ -8,6 +8,8 @@ type: "alert"
 seo: "Check current Cheltenham air quality levels — live PM2.5, PM10, NO2 and ozone readings from DEFRA's official monitoring network"
 ---
 
+{% include sponsor.html %}
+
 ## Cheltenham Air Quality Reports
 
 <!-- air_quality starts -->
@@ -33,5 +35,3 @@ If you have asthma, another lung condition, or a heart condition, the NHS and DE
 *Source: [DEFRA UK-AIR](https://uk-air.defra.gov.uk/). Data last refreshed 2026-09-06 18:37 UTC.*
 
 <!-- air_quality ends -->
-
-{% include sponsor.html %}

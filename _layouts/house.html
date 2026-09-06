@@ -12,6 +12,9 @@
             </ul>
         </header>
 
+        {% include sponsor.html %}
+
+
         {{ content }}
         <div class="scroll">
 
@@ -90,7 +93,5 @@
             type="application/json">{{ site.data["cheltenham-house-prices"].transactions | jsonify }}</script>
         <script src="/scripts/house-price-charts.js"></script>
     </div>
-
-    {% include sponsor.html %}
 
     {% include footer.html %}

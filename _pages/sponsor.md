@@ -19,7 +19,7 @@ applications, house prices, fuel prices, flood warnings and more. It's run
 locally, by someone who lives here and checks the data by hand.
 
 No pop-ups, no flashing banners. Just one tasteful "supported by" card on the
-page that fits your business — clearly marked, and genuinely useful to the
+page that fits your business — clearly marked, visible above the fold, and genuinely useful to the
 person reading it.
 
 ## Why it works
@@ -32,24 +32,47 @@ person reading it.
 - It stays tasteful. One clean card per page — never clutter. Your brand is
   associated with a service people value, not an ad they scroll past.
 
-## Sponsorship options
+## Sponsorship tiers
 
-### Founding - £50 / month
+### Founding — £50 / month (£150 for 3 months)
 
 The full Standard package at an early-bird price, locked for 12 months while
-the site is new. The same clean "supported by" card — your logo, a line about
-what you do, and a link — on the page of your choice. Limited to the first
-handful of sponsors. [Become a founding sponsor &rarr;](https://buy.stripe.com/8x2aEXdEPaQocxV6LA4Vy03)
+the site is new. A clean "supported by" card — your logo, a line about what
+you do, and a link — on the page of your choice, subject to availability.
+Limited to the first 3 sponsors.
+[Become a founding sponsor &rarr;](https://buy.stripe.com/14AdR94437mr1q78pE0Ny00)
 
-### Standard - £100 / month
+### Standard — £125 / month (£375 for 3 months)
 
-A clean "supported by" card on the page of your choice: your logo, a line about
-what you do, and a link. Our standard rate once the founding places are gone.
-[Sponsor a page &rarr;](https://buy.stripe.com/6oU14nbwH2jS7dBc5U4Vy05)
+A clean "supported by" card on the available page of your choice: your logo,
+a line about what you do, and a link. Our standard rate once the founding
+places are gone.
+[Sponsor a page &rarr;](https://buy.stripe.com/fZu5kDfML9uz5GnfS60Ny01)
 
-### Premium - £300 / month
+### Premium Editorial Boost — £75, one month, active sponsors only
 
-Primary position just below the main heading on every key data page. As the sponsor of the site you can provide an editorial advert/copy posted in the site announcements. Bringing brand awareness to all visitors. One firm only. [Sponsor the site today &rarr;](https://buy.stripe.com/aFa8wP30b2jSdBZfi64Vy04)
+Available exclusively to current Founding and Standard sponsors. Adds one editorial post in our news & announcements for the month — ideal for a launch, promotion, or other one-off marketing moment. Just one boost slot per month across all sponsors, so it's first come, first served. See
+current availability on the [sponsorship slots](/sponsors/slots) page.
+
+[Add an editorial boost &rarr;](https://buy.stripe.com/14AfZh5874afecTaxM0Ny02)
+
+---
+
+## Sponsorship slots
+
+Editorial Boost slots are limited to one per month. Available slots are
+sold first come, first served — book early to guarantee your month.
+
+| Month | Status |
+| --- | --- |
+| October 2026 | Sold |
+| November 2026 | Available |
+| December 2026 | Available |
+| January 2027 | Available |
+
+Only Founding and Standard sponsors are eligible to book a slot. If you're
+not yet a sponsor, start with [Founding](#founding--50--month-150-for-3-months)
+or [Standard](#standard--125--month-375-for-3-months) first.
 
 > By sponsoring you agree to our a [Sponsorship Terms](/sponsor/terms)
 
@@ -57,37 +80,43 @@ Primary position just below the main heading on every key data page. As the spon
 
 | Page | Ideal for |
 | --- | --- |
-| Planning applications | Architects, builders, extension & loft firms, party-wall surveyors, planning consultants |
-| House prices | Estate agents, mortgage brokers, conveyancing solicitors |
 | Fuel prices | Independent garages, MOT & servicing, tyre fitters, EV installers |
-| Air quality & flood warnings | Insurance brokers, damp & flood specialists, home-security installers |
+| Crime Data | Camera, and security alarm systems |
 | Local news & homepage | A single anchor local brand |
-| Post Office | Business and stationery supplies |
+| Events | Any business organising a fair, meet-up or gathering |
+| House prices | Estate agents, mortgage brokers, conveyancing solicitors |
+| Planning applications | Architects, builders, extension & loft firms, party-wall surveyors, planning consultants |
+| Food Hygiene Ratings | Local food/catering service, pub, coffee shop or eatery |
 | GP and Pharmacies | Health and care providers, insurance firms |
+| Post Office | Business and stationery supplies, storage uits, printing and design |
+| Recycling | Reclaimation, collection, artists, makers, upcyclers, disposal, skip hire |
+| Fix my street | Tree surgeons, garderners, lanscapers and handy-person |
+| Air quality & flood warnings | Insurance brokers, damp & flood specialists, home-security installers |
+| Public Holidays | Travel agents, venues and hotels |
+| Toilets | Drain and plumbing specialists, personal hygiene products |
 | Security Alerts | Security, camera and alarm system providers and installers |
+| Third Spaces | Venues, hotels, facilities and spaces open to bookings |
 
 ## Frequently Asked Questions
 
 ### What does a sponsorship look like?
 
-- A single tasteful card on the page — your logo, a short line and a link. Always
-clearly labelled as sponsored. No pop-ups, no auto-playing anything.
+- A single tasteful card above the fold on a page — your logo, a short line and a link. Always
+clearly labelled as sponsored. No pop-ups, no auto-playing anything. Like the advert at the top of this page.
 
 ### Is there a limit on the number of adverts per page?
 
-- Yes, pages are Limited to two adverts per page. This reduces noise and clutter and puts your business front and center alongside the page content directly to the audience.
+- Yes, pages are Limited to a single advert per page. This reduces noise and clutter and puts your business front and center alongside the page content directly to the audience - a local and engaged person looking for relevant content.
 
 ### Which pages will my advert appear on?
 
 - Any of the data pages — planning applications, house prices, fuel prices, air
-  quality, flood warnings and the rest. Premium runs across all of them. We keep
-  community pages like food banks and helplines advert-free on principle, and we
-  don't place adverts on utility pages such as contact, about and privacy.
+  quality, flood warnings and the rest. We keep community pages like food banks and helplines advert-free on principle, and we don't place adverts on utility pages such as our contact, about and privacy pages.
+- Subject to availability.
 
 ### How do I pay?
 
-- By card through Stripe, billed automatically each month. Three-month minimum,
-then cancel any time.
+- By card through Stripe, billed automatically each month. Three-month minimum, then cancel any time.
 
 ### Can I change my card details or listing?
 
@@ -97,12 +126,11 @@ time to update your wording or logo.
 ### Will the link help my SEO?
 
 - Sponsor links are marked `rel="sponsored"` in line with Google's guidance — it's
-the honest approach and keeps the site's standing healthy. You will however be visible to your target market audience.
+the honest approach and keeps the site's standing healthy. You will however be visible to your target market audience above the fold on the page that matters.
 
 ### How much traffic do you get?
 
-- The site is new and growing quickly. I'm happy to share current visitor numbers
-on request — just ask.
+- The site is new and growing quickly. I'm happy to share current visitor numbers on request — just ask.
 
 ## Get in touch
 

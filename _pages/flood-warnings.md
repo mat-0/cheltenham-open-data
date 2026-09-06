@@ -10,6 +10,8 @@ permalink: /cheltenham-flood-warnings
 
 ---
 
+{% include sponsor.html %}
+
 ## About Flood Warnings for Cheltenham and Gloucestershire
 
 This page publishes live flood warnings and flood alerts for Cheltenham and the
@@ -52,5 +54,3 @@ and the Environment Agency.
 > No current flood warnings reports in this area
 
 <!-- flood_marker ends -->
-
-{% include sponsor.html %}

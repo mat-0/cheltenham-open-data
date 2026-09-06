@@ -17,6 +17,8 @@
                 {% endif %}
             </ul>
         </header>
+        {% include sponsor.html %}
+
 
         {{ content }}
 
@@ -102,8 +104,6 @@
         <p><a href="{{ site.data.crime.index.source }}">Source: Police.uk API &rarr;</a></p>
 
     </div>
-
-    {% include sponsor.html %}
 
     {% include footer.html %}
 </div>

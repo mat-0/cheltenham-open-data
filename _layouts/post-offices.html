@@ -7,7 +7,6 @@
 
     {{ content }}
 
-
     {% for po in site.data.post-offices %}
     <h2>{{ po.name }}</h2>
     <ul>
@@ -28,7 +27,5 @@
         </li>
     </ul>
     {% endfor %}
-
-    {% include sponsor.html %}
 
     {% include footer.html %}

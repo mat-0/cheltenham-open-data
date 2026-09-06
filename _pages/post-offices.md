@@ -7,6 +7,8 @@ description: "Every Post Office branch in Cheltenham, with map links"
 type: "third"
 ---
 
+{% include sponsor.html %}
+
 ## Post Offices in Cheltenham
 
 Cheltenham has a good spread of Post Office branches, from the main High Street counter to smaller branches serving Hesters Way, Charlton Kings, Up Hatherley, Whaddon and the surrounding suburbs. Whether you need to post a parcel, buy stamps, renew a passport, pay a bill or use everyday banking services, there's likely a branch within easy reach wherever you are in town.
