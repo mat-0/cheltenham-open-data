@@ -39,6 +39,11 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Corner of Queens Close, 6th September :- [10058343](https://www.fixmystreet.com/report/10058343)
+- Protruding Metal Pole, 6th September :- [10058206](https://www.fixmystreet.com/report/10058206)
+- Volunteer litter pick bags ready for collection, 6th September :- [10058197](https://www.fixmystreet.com/report/10058197)
+- Sandbags, 6th September :- [10058132](https://www.fixmystreet.com/report/10058132)
+- Paving slab undermined/sinking. A number of walls are in this area. Could be the result of extensive tunnelling by rodents., 6th September :- [10058112](https://www.fixmystreet.com/report/10058112)
 - Recycling all over the car park, 6th September :- [10057581](https://www.fixmystreet.com/report/10057581)
 - Abandoned trolleys, 6th September :- [10057383](https://www.fixmystreet.com/report/10057383)
 - Broken Glass, 6th September :- [10057153](https://www.fixmystreet.com/report/10057153)
@@ -54,11 +59,6 @@ over time but remain permanently viewable on FixMyStreet itself.
 - Flytipped Furniture, 6th September :- [10056399](https://www.fixmystreet.com/report/10056399)
 - Manhole cover constantly banging with every vehicle that passes along the road. The problem is so bad there is concern that the drain is may be deteriorating. The noise levels this creates is unbearable., 6th September :- [10056208](https://www.fixmystreet.com/report/10056208)
 - Abandoned vehicle with plates removed and covered ip, 6th September :- [10056205](https://www.fixmystreet.com/report/10056205)
-- Water still running down the road, 5th September :- [10055374](https://www.fixmystreet.com/report/10055374)
-- Subsidence where the carriageway has dropped, 5th September :- [10054896](https://www.fixmystreet.com/report/10054896)
-- Flytipped item, 5th September :- [10053894](https://www.fixmystreet.com/report/10053894)
-- Flytipped items, 5th September :- [10053880](https://www.fixmystreet.com/report/10053880)
-- Rubbish on the carpark, 5th September :- [10053599](https://www.fixmystreet.com/report/10053599)
 
 <!-- fix_marker ends -->
 

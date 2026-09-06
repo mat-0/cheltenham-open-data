@@ -10,9 +10,9 @@ permalink: /cheltenham-news
 ---
 
 <!-- news_marker starts -->
-- In pictures: River football and rescued cygnets ([9 hours ago](https://www.bbc.co.uk/news/articles/cqlwdwq297wo?at_medium=RSS&at_campaign=rss))
-- Social media inspiring new generation of bookworms ([9 hours ago](https://www.bbc.co.uk/news/articles/ced7y169ll9o?at_medium=RSS&at_campaign=rss))
-- Driver in his 30s dies after car crashes into tree ([20 hours ago](https://www.bbc.co.uk/news/articles/cx2zqng4456o?at_medium=RSS&at_campaign=rss))
+- In pictures: River football and rescued cygnets ([12 hours ago](https://www.bbc.co.uk/news/articles/cqlwdwq297wo?at_medium=RSS&at_campaign=rss))
+- Social media inspiring new generation of bookworms ([12 hours ago](https://www.bbc.co.uk/news/articles/ced7y169ll9o?at_medium=RSS&at_campaign=rss))
+- Driver in his 30s dies after car crashes into tree ([23 hours ago](https://www.bbc.co.uk/news/articles/cx2zqng4456o?at_medium=RSS&at_campaign=rss))
 - Gloucester Day parade celebrates city's history ([1 days ago](https://www.bbc.co.uk/news/articles/cddv2e4y4d9o?at_medium=RSS&at_campaign=rss))
 - 'Miracle' crash survivor to scale Helvellyn peak ([1 days ago](https://www.bbc.co.uk/news/articles/cm2ren1dpyeo?at_medium=RSS&at_campaign=rss))
 - 'Historic pub reopens' and 'dead fish in river' ([1 days ago](https://www.bbc.co.uk/news/articles/c99dyd9r8ypo?at_medium=RSS&at_campaign=rss))
@@ -29,9 +29,15 @@ permalink: /cheltenham-news
 - Two dogs attack woman delivering parcel ([4 days ago](https://www.bbc.co.uk/news/articles/cgjq5n07yx7o?at_medium=RSS&at_campaign=rss))
 - 'I would be dead if I had not learnt about little-known law' ([4 days ago](https://www.bbc.co.uk/news/articles/c20d2w4v727o?at_medium=RSS&at_campaign=rss))
 - Bishop’s Cleeve care worker wins national award for bringing joy to residents ([11 days ago](https://cheltenhampost.co.uk/bishops-cleeve-care-worker-wins-national-award-for-bringing-joy-to-residents/))
+- Police release image of man wanted in connection with a serious assault ([12 days ago](https://gloucesternewscentre.co.uk/police-release-image-of-man-wanted-in-connection-with-a-serious-assault/))
+- Hospital parking firm blasted as ‘vultures’ after fining man battling cancer ([12 days ago](https://gloucesternewscentre.co.uk/hospital-parking-firm-blasted-as-vultures-after-fining-man-battling-cancer/))
+- Man racially abused and punched two other men in Cheltenham ([20 days ago](https://gloucesternewscentre.co.uk/man-racially-abused-and-punched-two-other-men-in-cheltenham/))
+- Frustration as people are ‘forced to drive miles’ because of tip closures ([20 days ago](https://gloucesternewscentre.co.uk/frustration-as-people-are-forced-to-drive-miles-because-of-tip-closures/))
 - BBC Radio Gloucestershire Special ([22 days ago](https://www.bbc.co.uk/sounds/play/m002hp4x?at_medium=RSS&at_campaign=rss))
-- England, Wales ([22 days ago](https://www.gov.uk/alerts/14-aug-2026-2))
-- Wales ([22 days ago](https://www.gov.uk/alerts/14-aug-2026))
+- England, Wales ([23 days ago](https://www.gov.uk/alerts/14-aug-2026-2))
+- Wales ([23 days ago](https://www.gov.uk/alerts/14-aug-2026))
 - Free family events at The Brewery Quarter in August ([23 days ago](https://cheltenhampost.co.uk/free-family-events-at-the-brewery-quarter-in-august/))
+- Review: The Choir of Man ([23 days ago](https://gloucesternewscentre.co.uk/review-the-choir-of-man/))
+- CCTV appeal following high-value theft from jewellers in Cheltenham ([26 days ago](https://gloucesternewscentre.co.uk/cctv-appeal-following-high-value-theft-from-jewellers-in-cheltenham/))
 
 <!-- news_marker ends -->
