@@ -36,45 +36,24 @@ person reading it.
 
 ### Founding — £50 / month (£150 for 3 months)
 
-The full Standard package at an early-bird price, locked for 12 months while
-the site is new. A clean "supported by" card — your logo, a line about what
-you do, and a link — on the page of your choice, subject to availability.
-Limited to the first 3 sponsors.
-[Become a founding sponsor &rarr;](https://buy.stripe.com/14AdR94437mr1q78pE0Ny00)
+The full Standard package at an early-bird price, locked for 12 months while the site is new. A clean "supported by" card — your logo, a line about what you do, and a link — on the page of your choice, subject to availability. Limited to the first 3 sponsors.
+
+- [Become a founding sponsor &rarr;](https://buy.stripe.com/14AdR94437mr1q78pE0Ny00)
 
 ### Standard — £125 / month (£375 for 3 months)
 
-A clean "supported by" card on the available page of your choice: your logo,
-a line about what you do, and a link. Our standard rate once the founding
-places are gone.
-[Sponsor a page &rarr;](https://buy.stripe.com/fZu5kDfML9uz5GnfS60Ny01)
+A clean "supported by" card on the available page of your choice: your logo, a line about what you do, and a link. Our standard rate once the founding places are gone.
+
+- [Sponsor a page &rarr;](https://buy.stripe.com/fZu5kDfML9uz5GnfS60Ny01)
 
 ### Premium Editorial Boost — £75, one month, active sponsors only
 
-Available exclusively to current Founding and Standard sponsors. Adds one editorial post in our news & announcements for the month — ideal for a launch, promotion, or other one-off marketing moment. Just one boost slot per month across all sponsors, so it's first come, first served. See
-current availability on the [sponsorship slots](/sponsors/slots) page.
+Available exclusively to current Founding and Standard sponsors. Adds one editorial post in our news & announcements for the month — ideal for a launch, promotion, or other one-off marketing moment. Just one boost slot per month across all sponsors, so it's first come, first served.
 
-[Add an editorial boost &rarr;](https://buy.stripe.com/14AfZh5874afecTaxM0Ny02)
+- [Add an editorial boost &rarr;](https://buy.stripe.com/14AfZh5874afecTaxM0Ny02)
 
----
-
-## Sponsorship slots
-
-Editorial Boost slots are limited to one per month. Available slots are
-sold first come, first served — book early to guarantee your month.
-
-| Month | Status |
-| --- | --- |
-| October 2026 | Sold |
-| November 2026 | Available |
-| December 2026 | Available |
-| January 2027 | Available |
-
-Only Founding and Standard sponsors are eligible to book a slot. If you're
-not yet a sponsor, start with [Founding](#founding--50--month-150-for-3-months)
-or [Standard](#standard--125--month-375-for-3-months) first.
-
-> By sponsoring you agree to our a [Sponsorship Terms](/sponsor/terms)
+> See [current availability of the sponsorship slots](/sponsor/slots).
+> By sponsoring you agree to our a [sponsorship terms](/sponsor/terms).
 
 ## Pages you can sponsor
 
