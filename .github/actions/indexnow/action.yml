@@ -29,9 +29,11 @@ runs:
         SITEMAP_URL="${SITE_URL%/}${SITEMAP_PATH}"
 
         echo "Fetching sitemap: $SITEMAP_URL"
-        curl -sf "$SITEMAP_URL" -o sitemap.xml || {
-          echo "::error::No sitemap found at $SITEMAP_URL"; exit 1;
-        }
+        HTTP_STATUS=$(curl -sL -w "%{http_code}" "$SITEMAP_URL" -o sitemap.xml)
+        if [ "$HTTP_STATUS" -ge 400 ]; then
+          echo "::error::Sitemap fetch failed with status $HTTP_STATUS at $SITEMAP_URL"
+          exit 1
+        fi
 
         URLS_JSON=$(grep -oP '(?<=<loc>)[^<]+' sitemap.xml \
           | python3 -c "import sys, json; print(json.dumps([l.strip() for l in sys.stdin]))")
