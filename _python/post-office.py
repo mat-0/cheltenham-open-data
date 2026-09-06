@@ -81,7 +81,7 @@ def query_post_offices_bbox(south: float, west: float, north: float, east: float
 def _run_query(query: str):
     last_error = None
     headers = {
-        "User-Agent": "uk-post-office-finder/1.0",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
         "Accept": "*/*",
         "Content-Type": "application/x-www-form-urlencoded",
     }

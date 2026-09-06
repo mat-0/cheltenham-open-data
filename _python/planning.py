@@ -47,22 +47,17 @@ log = logging.getLogger("planning")
 BASE_URL = "https://publicaccess.cheltenham.gov.uk/online-applications"
 MONTHLY_LIST_URL = f"{BASE_URL}/search.do?action=weeklyList&searchType=Application"
 
-# How many days back to query each run. Hourly job + overlap window means
-# a missed/failed run still gets caught next time. Dedup happens on ref.
-LOOKBACK_DAYS = 14
-
+LOOKBACK_DAYS = 60
 # Drop records older than this from the JSON store each run.
-RETENTION_DAYS = 12  # ~6 months
-
+RETENTION_DAYS = 60  # ~6 months
 DATA_DIR = Path("_data")
 DATA_FILE = DATA_DIR / "planning-applications.json"
-
 PAGES_DIR = Path("_pages")
 MARKDOWN_FILE = PAGES_DIR / "planning.md"
 MARKER = "planning_body"
 
 REQUEST_HEADERS = {
-    "User-Agent": "REPLACE_ME/1.0",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
 }
 
 REQUEST_DELAY_SECONDS = 1.5  # be polite between page requests
