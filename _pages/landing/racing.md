@@ -17,6 +17,6 @@ The Cheltenham Festival returns **Tuesday 16 to Friday 19 March 2027**, four day
 
 The map below shows hotels and rentals with live availability for race week, and the table lists places to stay sorted by distance from Cheltenham Racecourse at Prestbury Park. Most visitors arrive the evening before racing and leave the morning after the Gold Cup, so the availability is set for the nights of 15–20 March — adjust to suit your plans.
 
-> This page contains affiliate links. If you book through them we may earn a commission, at no extra cost to you.
+- Booking links point to each property's location and are usually accurate, but occasionally a link may open a nearby area search rather than the exact venue — please double-check the property name before booking.
 
-> Booking links point to each property's location and are usually accurate, but occasionally a link may open a nearby area search rather than the exact venue — please double-check the property name before booking.
+> This page contains affiliate links. If you book through them we may earn a commission, at no extra cost to you.
