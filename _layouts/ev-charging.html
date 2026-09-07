@@ -1,0 +1,114 @@
+{% include header.html %}
+
+<div class="{{page.type}} herobar">
+    <div class="{{page.type}}">
+        <header class="{{page.type}} header">
+            <h1>{{page.title}}</h1>
+            <p>{{page.description}}</p>
+            <ul>
+                {% if page.feed_url %}
+                <li><a href="{{ page.feed_url}}">Subscribe via our feed/rss →</a></li>
+                {% endif %}
+            </ul>
+        </header>
+
+        {{ content }}
+
+        {% assign ev = site.data["ev-charging"] %}
+
+        <div class="scroll">
+
+            <div class="ev-charging-widget">
+
+                {% if ev.summary %}
+                <p class="ev-charging-intro">Cheltenham has
+                    <strong>{{ ev.summary.total_locations }}</strong> public charging locations,
+                    with <strong>{{ ev.summary.total_connectors }}</strong> connectors from
+                    <strong>{{ ev.summary.operators }}</strong> operators
+                    {% if ev.summary.max_power_kw %}and speeds up to
+                    <strong>{{ ev.summary.max_power_kw }} kW</strong>{% endif %}.
+                </p>
+                {% endif %}
+
+                <h2>Charging locations map</h2>
+                <div id="ev-map" style="height: 480px;" aria-label="Map of EV charging locations in Cheltenham"></div>
+
+                {% if ev.summary.connector_types and ev.summary.connector_types.size > 0 %}
+                <h2>Connectors by type</h2>
+                <table class="ev-summary-table" data-sortable>
+                    <thead>
+                        <tr>
+                            <th>Connector type</th>
+                            <th class="number">Locations</th>
+                            <th class="number">Connectors</th>
+                            <th class="number">Max power (kW)</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for t in ev.summary.connector_types %}
+                        <tr>
+                            <td>{{ t.type }}</td>
+                            <td class="number" data-value="{{ t.stations }}">{{ t.stations }}</td>
+                            <td class="number" data-value="{{ t.connectors }}">{{ t.connectors }}</td>
+                            <td class="number" data-value="{{ t.max_power_kw }}">{{ t.max_power_kw | default: "—" }}
+                            </td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+                {% endif %}
+
+                <h2>All charging locations</h2>
+                <table id="ev-charging-table" class="ev-charging-table" data-sortable>
+                    <thead>
+                        <tr>
+                            <th>Name</th>
+                            <th>Operator</th>
+                            <th>Connectors</th>
+                            <th class="number">Max kW</th>
+                            <th class="number">Miles</th>
+                            <th class="postcode">Postcode</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for s in ev.stations %}
+                        <tr>
+                            <td>{{ s.name | default: "Charging point" }}</td>
+                            <td>{{ s.operator | default: "—" }}</td>
+                            <td>
+                                {% for c in s.connections %}{% if c.quantity %}{{ c.quantity }}× {% endif %}{{ c.type |
+                                default: "Unknown" }}{% if c.power_kw %} ({{ c.power_kw }} kW){% endif %}{% unless
+                                forloop.last %}, {% endunless %}{% endfor %}
+                            </td>
+                            <td class="number" data-value="{{ s.max_power_kw }}">{{ s.max_power_kw | default: "—" }}
+                            </td>
+                            <td class="number" data-value="{{ s.distance_miles }}">{{ s.distance_miles }}</td>
+                            <td class="postcode">
+                                <a href="{{ s.google_maps_url }}" target="_blank"
+                                    rel="noopener">{{ s.postcode | default: "Map" }}</a>
+                            </td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+
+            </div>
+
+            <p class="ev-charging-attribution"><small>
+                    Charging location data from <a href="{{ ev.source_url }}">{{ ev.source }}</a>,
+                    licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.
+                    Map tiles © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors.
+                    {% if ev.generated_at %}Last updated {{ ev.generated_at | date: "%-d %B %Y" }}.{% endif %}
+                    Always check the operator's app for live availability and pricing.
+                </small></p>
+
+        </div>
+
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+        <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+        <script id="ev-charging-data" type="application/json">{{ ev.stations | jsonify }}</script>
+        <script src="/scripts/ev-charging-map.js"></script>
+    </div>
+
+    {% include footer.html %}
+</div>

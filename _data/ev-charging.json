@@ -1,0 +1,992 @@
+{
+  "generated_at": "2026-09-07T19:02:58.605493+00:00",
+  "source": "Open Charge Map",
+  "source_url": "https://openchargemap.org",
+  "licence": "CC-BY-SA 4.0 — Data © Open Charge Map contributors",
+  "centre": {
+    "latitude": 51.9,
+    "longitude": -2.08
+  },
+  "radius_km": 6.0,
+  "count": 29,
+  "summary": {
+    "total_locations": 29,
+    "total_connectors": 71,
+    "operators": 13,
+    "max_power_kw": 175,
+    "connector_types": [
+      {
+        "type": "Type 2 (Socket Only)",
+        "stations": 19,
+        "connectors": 32,
+        "max_power_kw": 22
+      },
+      {
+        "type": "CHAdeMO",
+        "stations": 8,
+        "connectors": 12,
+        "max_power_kw": 70
+      },
+      {
+        "type": "CCS (Type 2)",
+        "stations": 5,
+        "connectors": 9,
+        "max_power_kw": 175
+      },
+      {
+        "type": "Tesla (Model S/X)",
+        "stations": 5,
+        "connectors": 10,
+        "max_power_kw": 22
+      },
+      {
+        "type": "Type 2 (Tethered Connector) ",
+        "stations": 4,
+        "connectors": 5,
+        "max_power_kw": 60
+      },
+      {
+        "type": "BS1363 3 Pin 13 Amp",
+        "stations": 2,
+        "connectors": 2,
+        "max_power_kw": 3
+      },
+      {
+        "type": "Blue Commando (2P+E)",
+        "stations": 1,
+        "connectors": 1,
+        "max_power_kw": 7.4
+      }
+    ]
+  },
+  "stations": [
+    {
+      "id": 148637,
+      "name": "Regent Arcade",
+      "operator": "Charge Your Car",
+      "address": "Regent Arcade",
+      "town": null,
+      "postcode": "GL50 1JZ",
+      "latitude": 51.8993,
+      "longitude": -2.075,
+      "distance_miles": 0.22,
+      "access": "Public - Membership Required",
+      "status": "Partly Operational (Mixed)",
+      "num_points": 2,
+      "connections": [
+        {
+          "type": "Type 2 (Socket Only)",
+          "power_kw": 7,
+          "quantity": 2,
+          "level": "Level 2 : Medium (Over 2kW)"
+        }
+      ],
+      "max_power_kw": 7,
+      "last_verified": "2023-10-10T19:47:00Z",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=51.8993,-2.075",
+      "ocm_url": "https://openchargemap.org/site/poi/details/148637"
+    },
+    {
+      "id": 214565,
+      "name": "SUTTON HOTELS QUEENS HOTEL",
+      "operator": "ChargePoint",
+      "address": "Queens hotel cheltenham The Promenade",
+      "town": "Cheltenham",
+      "postcode": "GL50 1NN",
+      "latitude": 51.896122,
+      "longitude": -2.07975,
+      "distance_miles": 0.27,
+      "access": "Private - For Staff, Visitors or Customers",
+      "status": "Operational",
+      "num_points": 2,
+      "connections": [
+        {
+          "type": "Type 2 (Socket Only)",
+          "power_kw": 22,
+          "quantity": null,
+          "level": "Level 2 : Medium (Over 2kW)"
+        },
+        {
+          "type": "Type 2 (Socket Only)",
+          "power_kw": 22,
+          "quantity": null,
+          "level": "Level 2 : Medium (Over 2kW)"
+        }
+      ],
+      "max_power_kw": 22,
+      "last_verified": "2023-10-10T13:12:00Z",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=51.896122,-2.07975",
+      "ocm_url": "https://openchargemap.org/site/poi/details/214565"
+    },
+    {
+      "id": 13717,
+      "name": "The Bradley",
+      "operator": "Zero Carbon World",
+      "address": "19 Royal Parade",
+      "town": "Cheltenham",
+      "postcode": "GL50 3AY",
+      "latitude": 51.896402,
+      "longitude": -2.082775,
+      "distance_miles": 0.28,
+      "access": "Public",
+      "status": "Operational",
+      "num_points": 2,
+      "connections": [
+        {
+          "type": "Type 2 (Socket Only)",
+          "power_kw": 7,
+          "quantity": 1,
+          "level": "Level 2 : Medium (Over 2kW)"
+        },
+        {
+          "type": "BS1363 3 Pin 13 Amp",
+          "power_kw": 3,
+          "quantity": 1,
+          "level": "Level 2 : Medium (Over 2kW)"
+        }
+      ],
+      "max_power_kw": 7,
+      "last_verified": "2017-04-21T17:07:00Z",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=51.896402,-2.082775",
+      "ocm_url": "https://openchargemap.org/site/poi/details/13717"
+    },
+    {
+      "id": 9241,
+      "name": "The Montpellier Chapter Hotel",
+      "operator": "(Business Owner at Location)",
+      "address": "Bayshill Road",
+      "town": "Cheltenham",
+      "postcode": "GL50 3AS",
+      "latitude": 51.896194,
+      "longitude": -2.08414,
+      "distance_miles": 0.32,
+      "access": "Public",
+      "status": "Operational",
+      "num_points": 2,
+      "connections": [
+        {
+          "type": "BS1363 3 Pin 13 Amp",
+          "power_kw": 3,
+          "quantity": 1,
+          "level": "Level 2 : Medium (Over 2kW)"
+        },
+        {
+          "type": "Blue Commando (2P+E)",
+          "power_kw": 7.4,
+          "quantity": 1,
+          "level": "Level 2 : Medium (Over 2kW)"
+        }
+      ],
+      "max_power_kw": 7.4,
+      "last_verified": "2013-02-26T14:55:00Z",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=51.896194,-2.08414",
+      "ocm_url": "https://openchargemap.org/site/poi/details/9241"
+    },
+    {
+      "id": 71172,
+      "name": "Town Centre East",
+      "operator": "Charge Your Car",
+      "address": "Grosvenor Terrace",
+      "town": "Cheltenham",
+      "postcode": "GL52 2SA",
+      "latitude": 51.9000493,
+      "longitude": -2.07139459999996,
+      "distance_miles": 0.37,
+      "access": "Public - Membership Required",
+      "status": "Not Operational",
+      "num_points": 2,
+      "connections": [
+        {
+          "type": "Type 2 (Socket Only)",
+          "power_kw": 7,
+          "quantity": 2,
+          "level": "Level 2 : Medium (Over 2kW)"
+        }
+      ],
+      "max_power_kw": 7,
+      "last_verified": "2022-06-13T09:41:00Z",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=51.9000493,-2.07139459999996",
+      "ocm_url": "https://openchargemap.org/site/poi/details/71172"
+    },
+    {
+      "id": 147913,
+      "name": "Montpellier Street / Parabola Road",
+      "operator": "Charge Your Car",
+      "address": "Montpellier Street / Parabola Road",
+      "town": "Cheltenham",
+      "postcode": "GL50 1SW",
+      "latitude": 51.89491,
+      "longitude": -2.08329,
+      "distance_miles": 0.38,
+      "access": "Public - Membership Required",
+      "status": "Not Operational",
+      "num_points": 2,
+      "connections": [
+        {
+          "type": "Type 2 (Socket Only)",
+          "power_kw": 7,
+          "quantity": 2,
+          "level": "Level 2 : Medium (Over 2kW)"
+        }
+      ],
+      "max_power_kw": 7,
+      "last_verified": "2024-02-21T19:14:00Z",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=51.89491,-2.08329",
+      "ocm_url": "https://openchargemap.org/site/poi/details/147913"
+    },
+    {
+      "id": 135182,
+      "name": "Butlers of Cheltenham",
+      "operator": "(Unknown Operator)",
+      "address": "Western Road",
+      "town": "Cheltenham",
+      "postcode": "GL50 3RN",
+      "latitude": 51.90027967747366,
+      "longitude": -2.089051922261774,
+      "distance_miles": 0.39,
+      "access": "Private - For Staff, Visitors or Customers",
+      "status": "Operational",
+      "num_points": 1,
+      "connections": [
+        {
+          "type": "Type 2 (Socket Only)",
+          "power_kw": null,
+          "quantity": 1,
+          "level": null
+        }
+      ],
+      "max_power_kw": null,
+      "last_verified": "2019-12-10T15:32:00Z",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=51.90027967747366,-2.089051922261774",
+      "ocm_url": "https://openchargemap.org/site/poi/details/135182"
+    },
+    {
+      "id": 254990,
+      "name": "Town Centre East",
+      "operator": "BP Pulse (UK)",
+      "address": "Grosvenor Terrace",
+      "town": "Gloucestershire",
+      "postcode": "GL52 2SA",
+      "latitude": 51.899361,
+      "longitude": -2.0706,
+      "distance_miles": 0.4,
+      "access": "Public - Membership Required",
+      "status": null,
+      "num_points": null,
+      "connections": [
+        {
+          "type": "Type 2 (Socket Only)",
+          "power_kw": 7,
+          "quantity": null,
+          "level": "Level 2 : Medium (Over 2kW)"
+        },
+        {
+          "type": "Type 2 (Socket Only)",
+          "power_kw": 22,
+          "quantity": null,
+          "level": "Level 2 : Medium (Over 2kW)"
+        }
+      ],
+      "max_power_kw": 22,
+      "last_verified": "2023-05-04T08:50:00Z",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=51.899361,-2.0706",
+      "ocm_url": "https://openchargemap.org/site/poi/details/254990"
+    },
+    {
+      "id": 187841,
+      "name": "Colletts Drive",
+      "operator": "POD Point (UK)",
+      "address": "Colletts Drive",
+      "town": "Cheltenham",
+      "postcode": "GL51 8JQ",
+      "latitude": 51.905567,
+      "longitude": -2.087004,
+      "distance_miles": 0.49,
+      "access": "Public - Membership Required",
+      "status": "Operational",
+      "num_points": 4,
+      "connections": [
+        {
+          "type": "Type 2 (Socket Only)",
+          "power_kw": 22,
+          "quantity": 2,
+          "level": "Level 2 : Medium (Over 2kW)"
+        },
+        {
+          "type": "Type 2 (Socket Only)",
+          "power_kw": 7,
+          "quantity": 2,
+          "level": "Level 2 : Medium (Over 2kW)"
+        },
+        {
+          "type": "CHAdeMO",
+          "power_kw": 50,
+          "quantity": 1,
+          "level": "Level 3:  High (Over 40kW)"
+        },
+        {
+          "type": "CCS (Type 2)",
+          "power_kw": 50,
+          "quantity": 1,
+          "level": "Level 3:  High (Over 40kW)"
+        }
+      ],
+      "max_power_kw": 50,
+      "last_verified": "2024-04-14T05:26:00Z",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=51.905567,-2.087004",
+      "ocm_url": "https://openchargemap.org/site/poi/details/187841"
+    },
+    {
+      "id": 81382,
+      "name": "No 38 the Park",
+      "operator": "Tesla (Tesla-only charging)",
+      "address": "38 Evesham Road",
+      "town": "Cheltenham",
+      "postcode": "GL52 2AH",
+      "latitude": 51.905982,
+      "longitude": -2.070301,
+      "distance_miles": 0.58,
+      "access": "Private - For Staff, Visitors or Customers",
+      "status": "Operational",
+      "num_points": 2,
+      "connections": [
+        {
+          "type": "Tesla (Model S/X)",
+          "power_kw": 7,
+          "quantity": 2,
+          "level": "Level 2 : Medium (Over 2kW)"
+        }
+      ],
+      "max_power_kw": 7,
+      "last_verified": "2018-10-03T21:21:00Z",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=51.905982,-2.070301",
+      "ocm_url": "https://openchargemap.org/site/poi/details/81382"
+    },
+    {
+      "id": 190035,
+      "name": "Shell Gloucester Road, Cheltenham",
+      "operator": "Shell Recharge Solutions (UK)",
+      "address": "Gloucester Road",
+      "town": "Cheltenham",
+      "postcode": "GL51 7AY",
+      "latitude": 51.89471462616993,
+      "longitude": -2.104613172079212,
+      "distance_miles": 1.11,
+      "access": "Public - Pay At Location",
+      "status": "Operational",
+      "num_points": 4,
+      "connections": [
+        {
+          "type": "CCS (Type 2)",
+          "power_kw": 175,
+          "quantity": 1,
+          "level": "Level 3:  High (Over 40kW)"
+        },
+        {
+          "type": "CHAdeMO",
+          "power_kw": 70,
+          "quantity": 1,
+          "level": "Level 3:  High (Over 40kW)"
+        },
+        {
+          "type": "CCS (Type 2)",
+          "power_kw": 175,
+          "quantity": 1,
+          "level": "Level 3:  High (Over 40kW)"
+        },
+        {
+          "type": "CHAdeMO",
+          "power_kw": 70,
+          "quantity": 1,
+          "level": "Level 3:  High (Over 40kW)"
+        },
+        {
+          "type": "CCS (Type 2)",
+          "power_kw": 175,
+          "quantity": 1,
+          "level": "Level 3:  High (Over 40kW)"
+        },
+        {
+          "type": "CHAdeMO",
+          "power_kw": 70,
+          "quantity": 1,
+          "level": "Level 3:  High (Over 40kW)"
+        },
+        {
+          "type": "CCS (Type 2)",
+          "power_kw": 175,
+          "quantity": 1,
+          "level": "Level 3:  High (Over 40kW)"
+        },
+        {
+          "type": "CHAdeMO",
+          "power_kw": 70,
+          "quantity": 1,
+          "level": "Level 3:  High (Over 40kW)"
+        }
+      ],
+      "max_power_kw": 175,
+      "last_verified": "2023-05-02T08:16:00Z",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=51.89471462616993,-2.104613172079212",
+      "ocm_url": "https://openchargemap.org/site/poi/details/190035"
+    },
+    {
+      "id": 264844,
+      "name": "MK21014",
+      "operator": "BP Pulse (UK)",
+      "address": "Cheltenham Racecourse",
+      "town": "Cheltenham",
+      "postcode": "GL50 4SH",
+      "latitude": 51.91969,
+      "longitude": -2.06877,
+      "distance_miles": 1.44,
+      "access": "Public - Membership Required",
+      "status": null,
+      "num_points": null,
+      "connections": [
+        {
+          "type": "CHAdeMO",
+          "power_kw": 50,
+          "quantity": null,
+          "level": "Level 3:  High (Over 40kW)"
+        },
+        {
+          "type": "Type 2 (Tethered Connector) ",
+          "power_kw": 50,
+          "quantity": null,
+          "level": "Level 3:  High (Over 40kW)"
+        },
+        {
+          "type": "Type 2 (Tethered Connector) ",
+          "power_kw": 43,
+          "quantity": null,
+          "level": "Level 3:  High (Over 40kW)"
+        }
+      ],
+      "max_power_kw": 50,
+      "last_verified": "2023-08-23T10:31:00Z",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=51.91969,-2.06877",
+      "ocm_url": "https://openchargemap.org/site/poi/details/264844"
+    },
+    {
+      "id": 24571,
+      "name": "Cheltenham Racecourse",
+      "operator": "BP Pulse (UK)",
+      "address": "Cheltenham Racecourse",
+      "town": "Cheltenham",
+      "postcode": "GL50 4SH",
+      "latitude": 51.92058711007,
+      "longitude": -2.06887842593381,
+      "distance_miles": 1.5,
+      "access": "Public - Membership Required",
+      "status": "Operational",
+      "num_points": 1,
+      "connections": [
+        {
+          "type": "CHAdeMO",
+          "power_kw": 50,
+          "quantity": 1,
+          "level": "Level 3:  High (Over 40kW)"
+        },
+        {
+          "type": "CCS (Type 2)",
+          "power_kw": 50,
+          "quantity": 1,
+          "level": "Level 3:  High (Over 40kW)"
+        },
+        {
+          "type": "Type 2 (Tethered Connector) ",
+          "power_kw": 43,
+          "quantity": 1,
+          "level": "Level 3:  High (Over 40kW)"
+        }
+      ],
+      "max_power_kw": 50,
+      "last_verified": "2023-08-23T10:26:00Z",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=51.92058711007,-2.06887842593381",
+      "ocm_url": "https://openchargemap.org/site/poi/details/24571"
+    },
+    {
+      "id": 268315,
+      "name": "Premier Inn Cheltenham North West",
+      "operator": "The GeniePoint Network ( EQUANS EV Solutions )",
+      "address": "Uckington",
+      "town": "Cheltenham",
+      "postcode": "GL51 9SL",
+      "latitude": 51.91642,
+      "longitude": -2.105061,
+      "distance_miles": 1.56,
+      "access": "Public - Pay At Location",
+      "status": null,
+      "num_points": null,
+      "connections": [
+        {
+          "type": "CHAdeMO",
+          "power_kw": 50,
+          "quantity": null,
+          "level": "Level 3:  High (Over 40kW)"
+        },
+        {
+          "type": "Type 2 (Socket Only)",
+          "power_kw": 22,
+          "quantity": null,
+          "level": "Level 2 : Medium (Over 2kW)"
+        },
+        {
+          "type": "Type 2 (Tethered Connector) ",
+          "power_kw": 60,
+          "quantity": null,
+          "level": "Level 3:  High (Over 40kW)"
+        }
+      ],
+      "max_power_kw": 60,
+      "last_verified": "2023-12-07T08:12:00Z",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=51.91642,-2.105061",
+      "ocm_url": "https://openchargemap.org/site/poi/details/268315"
+    },
+    {
+      "id": 72636,
+      "name": "Gallagher Shopping",
+      "operator": "POD Point (UK)",
+      "address": "Tewkesbury Road",
+      "town": "Cheltenham",
+      "postcode": "GL51 9RR",
+      "latitude": 51.918717,
+      "longitude": -2.10536,
+      "distance_miles": 1.69,
+      "access": "Public - Membership Required",
+      "status": "Operational",
+      "num_points": 2,
+      "connections": [
+        {
+          "type": "Type 2 (Socket Only)",
+          "power_kw": 3,
+          "quantity": 2,
+          "level": "Level 2 : Medium (Over 2kW)"
+        }
+      ],
+      "max_power_kw": 3,
+      "last_verified": "2023-12-13T06:21:00Z",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=51.918717,-2.10536",
+      "ocm_url": "https://openchargemap.org/site/poi/details/72636"
+    },
+    {
+      "id": 214563,
+      "name": "Morrisons",
+      "operator": "The GeniePoint Network ( EQUANS EV Solutions )",
+      "address": "Morrisons Caernarvon Rd",
+      "town": "Cheltenham",
+      "postcode": "GL51 3BW",
+      "latitude": 51.880539,
+      "longitude": -2.106792,
+      "distance_miles": 1.76,
+      "access": "Public - Pay At Location",
+      "status": null,
+      "num_points": null,
+      "connections": [
+        {
+          "type": "CHAdeMO",
+          "power_kw": 50,
+          "quantity": null,
+          "level": "Level 3:  High (Over 40kW)"
+        },
+        {
+          "type": "Type 2 (Socket Only)",
+          "power_kw": 22,
+          "quantity": null,
+          "level": "Level 2 : Medium (Over 2kW)"
+        },
+        {
+          "type": "Type 2 (Tethered Connector) ",
+          "power_kw": 50,
+          "quantity": null,
+          "level": "Level 3:  High (Over 40kW)"
+        }
+      ],
+      "max_power_kw": 50,
+      "last_verified": "2023-05-04T08:50:00Z",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=51.880539,-2.106792",
+      "ocm_url": "https://openchargemap.org/site/poi/details/214563"
+    },
+    {
+      "id": 108838,
+      "name": "Manor By the Lake",
+      "operator": "Tesla (Tesla-only charging)",
+      "address": "Hatherley LN",
+      "town": "Cheltenham",
+      "postcode": "GL51 6PN",
+      "latitude": 51.892218,
+      "longitude": -2.126606,
+      "distance_miles": 2.06,
+      "access": "Public - Membership Required",
+      "status": "Operational",
+      "num_points": 2,
+      "connections": [
+        {
+          "type": "Tesla (Model S/X)",
+          "power_kw": 13,
+          "quantity": 2,
+          "level": "Level 2 : Medium (Over 2kW)"
+        }
+      ],
+      "max_power_kw": 13,
+      "last_verified": "2018-10-11T12:49:00Z",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=51.892218,-2.126606",
+      "ocm_url": "https://openchargemap.org/site/poi/details/108838"
+    },
+    {
+      "id": 92252,
+      "name": "Cheltenham Park Hotel",
+      "operator": "Tesla (Tesla-only charging)",
+      "address": "Cheltenham Park Hotel",
+      "town": null,
+      "postcode": "GL53 8EA",
+      "latitude": 51.874817,
+      "longitude": -2.053748,
+      "distance_miles": 2.07,
+      "access": "Public - Membership Required",
+      "status": "Operational",
+      "num_points": 2,
+      "connections": [
+        {
+          "type": "Tesla (Model S/X)",
+          "power_kw": 7,
+          "quantity": 2,
+          "level": "Level 2 : Medium (Over 2kW)"
+        }
+      ],
+      "max_power_kw": 7,
+      "last_verified": "2018-10-03T16:40:00Z",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=51.874817,-2.053748",
+      "ocm_url": "https://openchargemap.org/site/poi/details/92252"
+    },
+    {
+      "id": 259971,
+      "name": "The Clock Tower",
+      "operator": "Osprey Charging",
+      "address": "The Clock Tower",
+      "town": "Charlton Kings",
+      "postcode": "GL53 8EG",
+      "latitude": 51.875027,
+      "longitude": -2.0528481,
+      "distance_miles": 2.08,
+      "access": "Public - Pay At Location",
+      "status": "Operational",
+      "num_points": 4,
+      "connections": [
+        {
+          "type": "CHAdeMO",
+          "power_kw": 50,
+          "quantity": 1,
+          "level": "Level 3:  High (Over 40kW)"
+        },
+        {
+          "type": "CCS (Type 2)",
+          "power_kw": 50,
+          "quantity": 1,
+          "level": "Level 3:  High (Over 40kW)"
+        },
+        {
+          "type": "CCS (Type 2)",
+          "power_kw": 50,
+          "quantity": 1,
+          "level": "Level 3:  High (Over 40kW)"
+        },
+        {
+          "type": "CHAdeMO",
+          "power_kw": 50,
+          "quantity": 1,
+          "level": "Level 3:  High (Over 40kW)"
+        },
+        {
+          "type": "Type 2 (Socket Only)",
+          "power_kw": 22,
+          "quantity": 1,
+          "level": "Level 2 : Medium (Over 2kW)"
+        },
+        {
+          "type": "Type 2 (Socket Only)",
+          "power_kw": 11,
+          "quantity": 1,
+          "level": "Level 2 : Medium (Over 2kW)"
+        }
+      ],
+      "max_power_kw": 50,
+      "last_verified": "2024-08-29T15:09:00Z",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=51.875027,-2.0528481",
+      "ocm_url": "https://openchargemap.org/site/poi/details/259971"
+    },
+    {
+      "id": 91023,
+      "name": "Glenfall House",
+      "operator": "Tesla (Tesla-only charging)",
+      "address": "Mill Lane Charlton Kings",
+      "town": "Cheltenham",
+      "postcode": "Gl544 EP",
+      "latitude": 51.89421,
+      "longitude": -2.031568,
+      "distance_miles": 2.1,
+      "access": "Public - Membership Required",
+      "status": "Operational",
+      "num_points": 2,
+      "connections": [
+        {
+          "type": "Tesla (Model S/X)",
+          "power_kw": 22,
+          "quantity": 2,
+          "level": "Level 2 : Medium (Over 2kW)"
+        }
+      ],
+      "max_power_kw": 22,
+      "last_verified": "2018-10-03T22:30:00Z",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=51.89421,-2.031568",
+      "ocm_url": "https://openchargemap.org/site/poi/details/91023"
+    },
+    {
+      "id": 117935,
+      "name": "East End Service Station",
+      "operator": "InstaVolt Ltd",
+      "address": "East End Road",
+      "town": "Cheltenham",
+      "postcode": "GL53 8QW",
+      "latitude": 51.882214,
+      "longitude": -2.038942,
+      "distance_miles": 2.14,
+      "access": "Public - Pay At Location",
+      "status": "Operational",
+      "num_points": 1,
+      "connections": [
+        {
+          "type": "CCS (Type 2)",
+          "power_kw": 50,
+          "quantity": 1,
+          "level": "Level 3:  High (Over 40kW)"
+        },
+        {
+          "type": "CHAdeMO",
+          "power_kw": 50,
+          "quantity": 1,
+          "level": "Level 3:  High (Over 40kW)"
+        }
+      ],
+      "max_power_kw": 50,
+      "last_verified": "2023-03-03T17:20:00Z",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=51.882214,-2.038942",
+      "ocm_url": "https://openchargemap.org/site/poi/details/117935"
+    },
+    {
+      "id": 254987,
+      "name": "Arle Court Park & Ride",
+      "operator": "BP Pulse (UK)",
+      "address": "Arle Court",
+      "town": "Cheltenham",
+      "postcode": "GL51 6SY",
+      "latitude": 51.893471,
+      "longitude": -2.1314,
+      "distance_miles": 2.24,
+      "access": "Public - Membership Required",
+      "status": null,
+      "num_points": null,
+      "connections": [
+        {
+          "type": "Type 2 (Socket Only)",
+          "power_kw": 7,
+          "quantity": null,
+          "level": "Level 2 : Medium (Over 2kW)"
+        },
+        {
+          "type": "Type 2 (Socket Only)",
+          "power_kw": 22,
+          "quantity": null,
+          "level": "Level 2 : Medium (Over 2kW)"
+        }
+      ],
+      "max_power_kw": 22,
+      "last_verified": "2023-05-04T08:50:00Z",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=51.893471,-2.1314",
+      "ocm_url": "https://openchargemap.org/site/poi/details/254987"
+    },
+    {
+      "id": 65238,
+      "name": "Arle Court Park & Ride",
+      "operator": "(Business Owner at Location)",
+      "address": "Grovefield Way",
+      "town": "Cheltenham",
+      "postcode": "GL51 6SY",
+      "latitude": 51.8929876,
+      "longitude": -2.13151879999998,
+      "distance_miles": 2.25,
+      "access": "(Unknown)",
+      "status": "Unknown",
+      "num_points": 2,
+      "connections": [
+        {
+          "type": "Type 2 (Socket Only)",
+          "power_kw": 7,
+          "quantity": 2,
+          "level": "Level 2 : Medium (Over 2kW)"
+        }
+      ],
+      "max_power_kw": 7,
+      "last_verified": "2024-02-22T11:24:00Z",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=51.8929876,-2.13151879999998",
+      "ocm_url": "https://openchargemap.org/site/poi/details/65238"
+    },
+    {
+      "id": 81567,
+      "name": "Ellenborough Park Hotel",
+      "operator": "Tesla (Tesla-only charging)",
+      "address": "Ellenborough Park",
+      "town": "Cheltenham",
+      "postcode": "GL52 3NJ",
+      "latitude": 51.926518,
+      "longitude": -2.041776,
+      "distance_miles": 2.45,
+      "access": "Public - Notice Required",
+      "status": "Operational",
+      "num_points": 2,
+      "connections": [
+        {
+          "type": "Tesla (Model S/X)",
+          "power_kw": 7,
+          "quantity": 2,
+          "level": "Level 2 : Medium (Over 2kW)"
+        }
+      ],
+      "max_power_kw": 7,
+      "last_verified": "2018-10-03T18:06:00Z",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=51.926518,-2.041776",
+      "ocm_url": "https://openchargemap.org/site/poi/details/81567"
+    },
+    {
+      "id": 195099,
+      "name": "Hinton Group",
+      "operator": "POD Point (UK)",
+      "address": "Corinthian Park",
+      "town": "Grovefield Way",
+      "postcode": "GL51 6UP",
+      "latitude": 51.8907916,
+      "longitude": -2.1364356,
+      "distance_miles": 2.49,
+      "access": "Public - Membership Required",
+      "status": "Operational",
+      "num_points": 2,
+      "connections": [
+        {
+          "type": "Type 2 (Socket Only)",
+          "power_kw": 7,
+          "quantity": 2,
+          "level": "Level 2 : Medium (Over 2kW)"
+        }
+      ],
+      "max_power_kw": 7,
+      "last_verified": "2025-02-02T06:34:00Z",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=51.8907916,-2.1364356",
+      "ocm_url": "https://openchargemap.org/site/poi/details/195099"
+    },
+    {
+      "id": 20102,
+      "name": "Best Western Cheltenham Regency Hotel",
+      "operator": "Zero Carbon World",
+      "address": "Gloucester Road",
+      "town": "Cheltenham",
+      "postcode": "GL51 0ST",
+      "latitude": 51.90069349396212,
+      "longitude": -2.1456384658813477,
+      "distance_miles": 2.8,
+      "access": "Public",
+      "status": "Operational",
+      "num_points": 1,
+      "connections": [
+        {
+          "type": "Type 2 (Socket Only)",
+          "power_kw": 7,
+          "quantity": 1,
+          "level": "Level 2 : Medium (Over 2kW)"
+        }
+      ],
+      "max_power_kw": 7,
+      "last_verified": "2014-01-22T22:34:00Z",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=51.90069349396212,-2.1456384658813477",
+      "ocm_url": "https://openchargemap.org/site/poi/details/20102"
+    },
+    {
+      "id": 48876,
+      "name": "Cheltenham. Glouc Police",
+      "operator": "Chargemaster",
+      "address": "Bamfurlong Lane",
+      "town": "Cheltenham",
+      "postcode": "GL51 6ST",
+      "latitude": 51.891617,
+      "longitude": -2.149021,
+      "distance_miles": 3.0,
+      "access": "Private - Restricted Access",
+      "status": "Unknown",
+      "num_points": 2,
+      "connections": [
+        {
+          "type": "Type 2 (Socket Only)",
+          "power_kw": 22,
+          "quantity": null,
+          "level": "Level 2 : Medium (Over 2kW)"
+        }
+      ],
+      "max_power_kw": 22,
+      "last_verified": "2016-10-22T16:08:00Z",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=51.891617,-2.149021",
+      "ocm_url": "https://openchargemap.org/site/poi/details/48876"
+    },
+    {
+      "id": 47071,
+      "name": "Gloucestershire Airport",
+      "operator": "(Business Owner at Location)",
+      "address": "Staverton",
+      "town": "Cheltenham",
+      "postcode": "GL51 6SP",
+      "latitude": 51.88997581231164,
+      "longitude": -2.1591538314711443,
+      "distance_miles": 3.45,
+      "access": "(Unknown)",
+      "status": "Operational",
+      "num_points": 1,
+      "connections": [
+        {
+          "type": "Type 2 (Socket Only)",
+          "power_kw": 22,
+          "quantity": 1,
+          "level": "Level 2 : Medium (Over 2kW)"
+        }
+      ],
+      "max_power_kw": 22,
+      "last_verified": "2018-04-15T16:25:00Z",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=51.88997581231164,-2.1591538314711443",
+      "ocm_url": "https://openchargemap.org/site/poi/details/47071"
+    },
+    {
+      "id": 46780,
+      "name": "National Star ",
+      "operator": "Zero Carbon World",
+      "address": "Ullenwood Manor Road, ",
+      "town": "Cheltenham ",
+      "postcode": "GL53 9QU",
+      "latitude": 51.849405,
+      "longitude": -2.084241,
+      "distance_miles": 3.5,
+      "access": "Private - For Staff, Visitors or Customers",
+      "status": "Operational",
+      "num_points": 1,
+      "connections": [
+        {
+          "type": "Type 2 (Socket Only)",
+          "power_kw": 7,
+          "quantity": 1,
+          "level": "Level 2 : Medium (Over 2kW)"
+        }
+      ],
+      "max_power_kw": 7,
+      "last_verified": "2019-07-30T09:28:00Z",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=51.849405,-2.084241",
+      "ocm_url": "https://openchargemap.org/site/poi/details/46780"
+    }
+  ]
+}

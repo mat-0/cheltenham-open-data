@@ -105,6 +105,9 @@ navigation_header:
   - name: Cheltenham Fuel Prices
     link: /cheltenham-fuel-prices
     description: "Local and cheapest fuel pricing data from 112 forecourts"
+  - name: Cheltenham EV Charging
+    link: /cheltenham-ev-charging
+    description: "Local electric vehicle charging locations in Cheltenham"
   - name: Cheltenham Classifieds
     link: /cheltenham-classifieds
     description: "Local jobs, services, items for sale, and community notices."
@@ -195,6 +198,8 @@ footer_columns:
         link: /cheltenham-food-standards
       - name: Cheltenham Fuel Prices
         link: /cheltenham-fuel-prices
+      - name: Cheltenham EV Charging
+        link: /cheltenham-ev-charging
       - name: Cheltenham GP and Pharmacies
         link: /cheltenham-gp-pharmacies
       - name: Cheltenham Helplines and Contacts
@@ -254,6 +259,8 @@ footer_columns:
         link: /news
       - name: About
         link: /about
+      - name: Guides
+        link: /guides
       - name: Contact
         link: /contact
       - name: Submit Classified Advert
