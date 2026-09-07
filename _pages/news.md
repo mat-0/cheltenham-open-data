@@ -12,8 +12,8 @@ permalink: /cheltenham-news
 {% include sponsor.html %}
 
 <!-- news_marker starts -->
-- In pictures: River football and rescued cygnets ([15 hours ago](https://www.bbc.co.uk/news/articles/cqlwdwq297wo?at_medium=RSS&at_campaign=rss))
-- Social media inspiring new generation of bookworms ([15 hours ago](https://www.bbc.co.uk/news/articles/ced7y169ll9o?at_medium=RSS&at_campaign=rss))
+- In pictures: River football and rescued cygnets ([17 hours ago](https://www.bbc.co.uk/news/articles/cqlwdwq297wo?at_medium=RSS&at_campaign=rss))
+- Social media inspiring new generation of bookworms ([17 hours ago](https://www.bbc.co.uk/news/articles/ced7y169ll9o?at_medium=RSS&at_campaign=rss))
 - Driver in his 30s dies after car crashes into tree ([1 days ago](https://www.bbc.co.uk/news/articles/cx2zqng4456o?at_medium=RSS&at_campaign=rss))
 - Gloucester Day parade celebrates city's history ([1 days ago](https://www.bbc.co.uk/news/articles/cddv2e4y4d9o?at_medium=RSS&at_campaign=rss))
 - 'Miracle' crash survivor to scale Helvellyn peak ([1 days ago](https://www.bbc.co.uk/news/articles/cm2ren1dpyeo?at_medium=RSS&at_campaign=rss))
