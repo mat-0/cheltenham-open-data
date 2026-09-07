@@ -1,10 +1,10 @@
-{% assign sponsor = include.sponsor | default: site.sponsor %}
+{% assign sponsor = page.sponsor | default: site.sponsor %}
 {% if sponsor %}
 
 <aside class="sponsor-card">
     <span class="sponsor-card__eyebrow">
-        {% if page.sponsor.type %}
-        {{ page.sponsor.type }}
+        {% if sponsor.type %}
+        {{ sponsor.type }}
         {% else %}
         Page supported by
         {% endif %}

@@ -1,0 +1,33 @@
+---
+layout: posts
+type: news
+title: Cheltenham Open Data Adds a Festival & Races Accommodation Guide
+seo: Where to stay for the Cheltenham Festival and Races 2027 (16–19 March) — hotels near Cheltenham Racecourse, sorted by distance, with live availability for raceweek and Gold Cup Friday.
+year: 2027
+---
+
+Cheltenham Open Data has added a [Cheltenham Festival accommodation guide](/cheltenham-festival-accommodation) to the site, ahead of the {{year}} Festival on **16–19 March**.
+
+The page shows hotels and guest houses near Cheltenham Racecourse at Prestbury Park, sorted by distance from the course, alongside a live availability map set to race-week dates. It's built to help visitors sort a room early — accommodation near the course books up months ahead of the Festival.
+
+## FAQs
+
+### When is the Cheltenham Festival {{year}}?
+
+- The Festival runs Tuesday 16 to Friday 19 March 2027, four days of championship jump racing ending with the Gold Cup on the Friday.
+
+### Where should I stay for the Festival?
+
+- The guide lists places to stay sorted by distance from the racecourse, so you can see what's closest to Prestbury Park. Staying central or on the north side of town makes race-day mornings easier, with shuttle and park-and-ride services running to the course.
+
+### When should I book?
+
+- As early as you can. Rooms near the racecourse are in high demand for race week and both availability and prices tighten as the Festival approaches, so booking well ahead gives you the best choice.
+
+### How does booking work?
+
+- The page shows live availability and links through to travel providers such as Booking.com to complete your reservation. It contains affiliate links, so we may earn a commission if you book through them — at no extra cost to you.
+
+### How do I get to the racecourse?
+
+- Cheltenham Racecourse is at Prestbury Park, about two miles north of the town centre. During the Festival there are shuttle buses from the town and Cheltenham Spa railway station, plus park-and-ride services.
