@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Welcome to Cheltenham Open Data"
-seo: "Cheltenham, Gloucestershire, UK. Local news, cheapest fuel prices, weather, street issues helpful phone numbers and more."
+title: "Local Fuel Prices, Crime, House Prices, Schools, Pharmacies & News"
+seo: "Free Cheltenham open data for Gloucestershire: compare local fuel prices, check crime stats, house prices, flood warnings, food banks, GPs, planning and news."
 permalink: /
 type: "cod"
-description: "Collecting and sharing frequently updated local open data for Cheltenham and Gloucestershire — weather, fuel prices, flood warnings, market dates, food banks, news and more."
+description: "The open data hub for Cheltenham and Gloucestershire. Fuel prices, crime figures, flood alerts, food banks, GPs, planning and local news — all free, in one place."
 ---
 
 <!-- weather_marker starts -->
