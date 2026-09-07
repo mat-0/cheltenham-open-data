@@ -1,8 +1,9 @@
 {
   "updated": "07 September 2026",
-  "updated_iso": "2026-09-07T23:27:37",
+  "updated_iso": "2026-09-07T22:59:28",
   "lookback_days": 90,
   "received_count": 57,
+  "pending": 31,
   "decided_count": 26,
   "date_from": "2026-07-22",
   "date_to": "2026-09-04",
@@ -655,6 +656,28 @@
       "decided_date": "2026-09-07"
     },
     {
+      "ref": "26/01388/AMEND",
+      "description": "Non-material amendment to planning permission 26/00398/FUL, seeking replacement of the currently approved window with glazed doors / juliette balcony within the approved extension.",
+      "address": "37 Collum End Rise Leckhampton Cheltenham Gloucestershire GL53 0PA",
+      "postcode": "GL53 0PA",
+      "units": null,
+      "status": "Allow",
+      "received_date": "2026-08-28",
+      "decided_date": "2026-09-07",
+      "url": "https://publicaccess.cheltenham.gov.uk/online-applications/applicationDetails.do?keyVal=TKGU2VELLQ700&activeTab=summary"
+    },
+    {
+      "ref": "26/01386/AMEND",
+      "description": "Non-material amendment to planning permission 20/00759/FUL - approval sought to amend the brick type on Plots 234-243 from Brickability Severn Red to Ibstock Minister Sandstone and on Plots 5-13 from Ibstock Leicester Weathered Red to Brickability Severn Red. Original drawing and materials approved under 24/01861/DISCON (Condition 37).",
+      "address": "Elms Park Tewkesbury Road Cheltenham Gloucestershire",
+      "postcode": null,
+      "units": null,
+      "status": "Allow",
+      "received_date": "2026-08-28",
+      "decided_date": "2026-09-07",
+      "url": "https://publicaccess.cheltenham.gov.uk/online-applications/applicationDetails.do?keyVal=TKGU1UELLQ300&activeTab=summary"
+    },
+    {
       "ref": "26/01381/CACN",
       "description": "(1) Liquidambar in the back garden. This tree currently stands at approximately 8 m; its crown has a radius of approximately 2.5 m. Reduce the tree's height by up to 3.0m and the spread by up to 1.0m (ie to near previous) to leave it a more suitable size for the garden, (2) Smoke Bush and Fig at the bottom of the garden. Currently both standing at approximately 4.5m with a radial spread of approximately 1.5 - 2m. - Reduce all over to near previous, retaining some younger internal growths. This will be approximately 2.5 m off the Fig and 1.5 m off the Smoke Bush.",
       "address": "77 Leckhampton Road Cheltenham Gloucestershire GL53 0BS",
@@ -686,94 +709,6 @@
       "received_date": "2026-08-25",
       "url": "https://publicaccess.cheltenham.gov.uk/online-applications/applicationDetails.do?keyVal=TKBE1JEL08300&activeTab=summary",
       "decided_date": "2026-09-07"
-    },
-    {
-      "ref": "26/01388/AMEND",
-      "description": "Non-material amendment to planning permission 26/00398/FUL, seeking replacement of the currently approved window with glazed doors / juliette balcony within the approved extension.",
-      "address": "37 Collum End Rise Leckhampton Cheltenham Gloucestershire GL53 0PA",
-      "postcode": "GL53 0PA",
-      "units": null,
-      "status": "Allow",
-      "received_date": "2026-08-28",
-      "decided_date": "2026-09-07",
-      "url": "https://publicaccess.cheltenham.gov.uk/online-applications/applicationDetails.do?keyVal=TKGU2VELLQ700&activeTab=summary"
-    },
-    {
-      "ref": "26/01386/AMEND",
-      "description": "Non-material amendment to planning permission 20/00759/FUL - approval sought to amend the brick type on Plots 234-243 from Brickability Severn Red to Ibstock Minister Sandstone and on Plots 5-13 from Ibstock Leicester Weathered Red to Brickability Severn Red. Original drawing and materials approved under 24/01861/DISCON (Condition 37).",
-      "address": "Elms Park Tewkesbury Road Cheltenham Gloucestershire",
-      "postcode": null,
-      "units": null,
-      "status": "Allow",
-      "received_date": "2026-08-28",
-      "decided_date": "2026-09-07",
-      "url": "https://publicaccess.cheltenham.gov.uk/online-applications/applicationDetails.do?keyVal=TKGU1UELLQ300&activeTab=summary"
-    },
-    {
-      "ref": "26/01224/CACN",
-      "description": "Height reduce 4 leylandii by 4 metres circa 40% reduction, trees have become overgrown, severely impeding light into immediate neighbouring properties, in time the group of trees will become a managed hedgerow.",
-      "address": "Cotswold View 45 The Burgage Prestbury Cheltenham Gloucestershire GL52 3DL",
-      "postcode": "GL52 3DL",
-      "units": null,
-      "status": "No objection",
-      "received_date": "2026-07-30",
-      "decided_date": "2026-09-07",
-      "url": "https://publicaccess.cheltenham.gov.uk/online-applications/applicationDetails.do?keyVal=TIZ4YSELLFT00&activeTab=summary"
-    },
-    {
-      "ref": "26/01210/CACN",
-      "description": "Front of property. Pear tree:-crown raise the low branches and crown reduce to old points, approximately 1 to 1.5 metres. Purple plum:- reduce all over to previous points, approximately 1 to 1.5 metres,crown raise all round and clear the cables. Silver birch, reduce back to the previous points, approximately 2 meters",
-      "address": "The Pines 22 Tivoli Road Cheltenham Gloucestershire",
-      "postcode": null,
-      "units": null,
-      "status": "No objection",
-      "received_date": "2026-07-29",
-      "decided_date": "2026-09-07",
-      "url": "https://publicaccess.cheltenham.gov.uk/online-applications/applicationDetails.do?keyVal=TIXA4AELLFE00&activeTab=summary"
-    },
-    {
-      "ref": "26/01206/TPO",
-      "description": "The mixed band of trees overhanging the rear garden:- cut back selected limbs by approximately 2 metres to create more light and space into the rear garden.",
-      "address": "22 Belland Drive Cheltenham Gloucestershire GL53 9HU",
-      "postcode": "GL53 9HU",
-      "units": null,
-      "status": "Permit",
-      "received_date": "2026-07-28",
-      "decided_date": "2026-09-07",
-      "url": "https://publicaccess.cheltenham.gov.uk/online-applications/applicationDetails.do?keyVal=TIVFM5ELLF100&activeTab=summary"
-    },
-    {
-      "ref": "26/01205/CACN",
-      "description": "3 silver birch trees. 2 on Priory Street and 1 on London Road. Reduce all over back to previous points.",
-      "address": "Wellington Place Priory Street Cheltenham Gloucestershire",
-      "postcode": null,
-      "units": null,
-      "status": "No objection",
-      "received_date": "2026-07-28",
-      "decided_date": "2026-09-07",
-      "url": "https://publicaccess.cheltenham.gov.uk/online-applications/applicationDetails.do?keyVal=TIVFKUELLEZ00&activeTab=summary"
-    },
-    {
-      "ref": "26/01260/AMEND",
-      "description": "Non-material amendment of granted permission 25/00613/FUL. Change the external finish of the building from the originally planned red-brick ground floor and rendered first floor, to a continuous rendered finish covering the entire exterior of the property.",
-      "address": "12 Bouncers Lane Cheltenham Gloucestershire GL52 5JF",
-      "postcode": "GL52 5JF",
-      "units": null,
-      "status": "Allow",
-      "received_date": "2026-08-06",
-      "decided_date": "2026-09-07",
-      "url": "https://publicaccess.cheltenham.gov.uk/online-applications/applicationDetails.do?keyVal=TJCHAUELLI600&activeTab=summary"
-    },
-    {
-      "ref": "26/01246/FUL",
-      "description": "Proposed side and rear extensions with associated internal alterations, enclosure of existing covered entrance area to form porch, revised layout of garage and installation of solar panels.",
-      "address": "32 Greenway Lane Charlton Kings Cheltenham Gloucestershire GL52 6LB",
-      "postcode": "GL52 6LB",
-      "units": null,
-      "status": "Permit",
-      "received_date": "2026-08-05",
-      "decided_date": "2026-09-07",
-      "url": "https://publicaccess.cheltenham.gov.uk/online-applications/applicationDetails.do?keyVal=TJA8PYELLHF00&activeTab=summary"
     },
     {
       "ref": "26/01360/TPO",
@@ -851,6 +786,72 @@
       "received_date": "2026-08-19",
       "decided_date": "2026-09-07",
       "url": "https://publicaccess.cheltenham.gov.uk/online-applications/applicationDetails.do?keyVal=TK0IQHEL08300&activeTab=summary"
+    },
+    {
+      "ref": "26/01260/AMEND",
+      "description": "Non-material amendment of granted permission 25/00613/FUL. Change the external finish of the building from the originally planned red-brick ground floor and rendered first floor, to a continuous rendered finish covering the entire exterior of the property.",
+      "address": "12 Bouncers Lane Cheltenham Gloucestershire GL52 5JF",
+      "postcode": "GL52 5JF",
+      "units": null,
+      "status": "Allow",
+      "received_date": "2026-08-06",
+      "decided_date": "2026-09-07",
+      "url": "https://publicaccess.cheltenham.gov.uk/online-applications/applicationDetails.do?keyVal=TJCHAUELLI600&activeTab=summary"
+    },
+    {
+      "ref": "26/01246/FUL",
+      "description": "Proposed side and rear extensions with associated internal alterations, enclosure of existing covered entrance area to form porch, revised layout of garage and installation of solar panels.",
+      "address": "32 Greenway Lane Charlton Kings Cheltenham Gloucestershire GL52 6LB",
+      "postcode": "GL52 6LB",
+      "units": null,
+      "status": "Permit",
+      "received_date": "2026-08-05",
+      "decided_date": "2026-09-07",
+      "url": "https://publicaccess.cheltenham.gov.uk/online-applications/applicationDetails.do?keyVal=TJA8PYELLHF00&activeTab=summary"
+    },
+    {
+      "ref": "26/01224/CACN",
+      "description": "Height reduce 4 leylandii by 4 metres circa 40% reduction, trees have become overgrown, severely impeding light into immediate neighbouring properties, in time the group of trees will become a managed hedgerow.",
+      "address": "Cotswold View 45 The Burgage Prestbury Cheltenham Gloucestershire GL52 3DL",
+      "postcode": "GL52 3DL",
+      "units": null,
+      "status": "No objection",
+      "received_date": "2026-07-30",
+      "decided_date": "2026-09-07",
+      "url": "https://publicaccess.cheltenham.gov.uk/online-applications/applicationDetails.do?keyVal=TIZ4YSELLFT00&activeTab=summary"
+    },
+    {
+      "ref": "26/01210/CACN",
+      "description": "Front of property. Pear tree:-crown raise the low branches and crown reduce to old points, approximately 1 to 1.5 metres. Purple plum:- reduce all over to previous points, approximately 1 to 1.5 metres,crown raise all round and clear the cables. Silver birch, reduce back to the previous points, approximately 2 meters",
+      "address": "The Pines 22 Tivoli Road Cheltenham Gloucestershire",
+      "postcode": null,
+      "units": null,
+      "status": "No objection",
+      "received_date": "2026-07-29",
+      "decided_date": "2026-09-07",
+      "url": "https://publicaccess.cheltenham.gov.uk/online-applications/applicationDetails.do?keyVal=TIXA4AELLFE00&activeTab=summary"
+    },
+    {
+      "ref": "26/01206/TPO",
+      "description": "The mixed band of trees overhanging the rear garden:- cut back selected limbs by approximately 2 metres to create more light and space into the rear garden.",
+      "address": "22 Belland Drive Cheltenham Gloucestershire GL53 9HU",
+      "postcode": "GL53 9HU",
+      "units": null,
+      "status": "Permit",
+      "received_date": "2026-07-28",
+      "decided_date": "2026-09-07",
+      "url": "https://publicaccess.cheltenham.gov.uk/online-applications/applicationDetails.do?keyVal=TIVFM5ELLF100&activeTab=summary"
+    },
+    {
+      "ref": "26/01205/CACN",
+      "description": "3 silver birch trees. 2 on Priory Street and 1 on London Road. Reduce all over back to previous points.",
+      "address": "Wellington Place Priory Street Cheltenham Gloucestershire",
+      "postcode": null,
+      "units": null,
+      "status": "No objection",
+      "received_date": "2026-07-28",
+      "decided_date": "2026-09-07",
+      "url": "https://publicaccess.cheltenham.gov.uk/online-applications/applicationDetails.do?keyVal=TIVFKUELLEZ00&activeTab=summary"
     },
     {
       "ref": "26/01197/TPO",

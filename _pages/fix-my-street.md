@@ -41,6 +41,11 @@ over time but remain permanently viewable on FixMyStreet itself.
 
 <!-- fix_marker starts -->
 
+- Hedge plant blocking the street and reduce visibility, 7th September :- [10065298](https://www.fixmystreet.com/report/10065298)
+- Bin At Sports Pavillion Needs Emptying, 7th September :- [10065090](https://www.fixmystreet.com/report/10065090)
+- Broken protective posts by road crossing, 7th September :- [10065018](https://www.fixmystreet.com/report/10065018)
+- Perspex broken, 7th September :- [10064834](https://www.fixmystreet.com/report/10064834)
+- At least 6 street light out on newton road making it very dark, 7th September :- [10064784](https://www.fixmystreet.com/report/10064784)
 - Telegraph pole started to lean into road, was vertical last week., 7th September :- [10064559](https://www.fixmystreet.com/report/10064559)
 - Overgrown hedge outside my house blocking some path and very tall, 7th September :- [10064523](https://www.fixmystreet.com/report/10064523)
 - Big pothole, 7th September :- [10064386](https://www.fixmystreet.com/report/10064386)
@@ -56,10 +61,5 @@ over time but remain permanently viewable on FixMyStreet itself.
 - Left sign and comes after Severn Trent work weeks ago., 7th September :- [10063283](https://www.fixmystreet.com/report/10063283)
 - Hedge overgrown causing obstruction to traffic, 7th September :- [10063277](https://www.fixmystreet.com/report/10063277)
 - No timetable, 7th September :- [10063154](https://www.fixmystreet.com/report/10063154)
-- TMC - Defects -CW6 Potholes  problem, 7th September :- [10063152](https://www.fixmystreet.com/report/10063152)
-- TMC - Defects -CW6 Potholes  problem, 7th September :- [10063148](https://www.fixmystreet.com/report/10063148)
-- TMC - Defects -CW6 Potholes  problem, 7th September :- [10063146](https://www.fixmystreet.com/report/10063146)
-- TMC - Defects -CW6 Potholes  problem, 7th September :- [10063149](https://www.fixmystreet.com/report/10063149)
-- TMC - Defects -CW6 Potholes  problem, 7th September :- [10063147](https://www.fixmystreet.com/report/10063147)
 
 <!-- fix_marker ends -->
