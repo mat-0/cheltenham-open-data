@@ -46,6 +46,10 @@ description: "The open data hub for Cheltenham and Gloucestershire. Fuel prices,
 
 - [Starting 9th October 2026](https://www.cheltenhamfestivals.org/festivals/literature-festival) &rarr;
 
+### Cheltenham Racing Festival
+
+- [Starting 16th March 2027](https://www.thejockeyclub.co.uk/cheltenham-festival/) &rarr;
+
 ### Cheltenham Jazz Festival
 
 - [Starting 28th April 2027](https://www.cheltenhamfestivals.org/festivals/jazz-festival) &rarr;
