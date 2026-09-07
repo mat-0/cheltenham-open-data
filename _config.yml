@@ -172,7 +172,7 @@ navigation_header:
     link: /staying-in-cheltenham
     description: "Local hotels and guest houses in Cheltenham."
   - name: Cheltenham 10-day Weather Forecast
-    link: /cheltenahm-10-day-weather-forecast
+    link: /cheltenham-10-day-weather-forecast
     description: "Local temperature, rain, wind and humidity forecasts for Cheltenham."
 footer_columns:
   - title: Pages
@@ -224,7 +224,7 @@ footer_columns:
       - name: Cheltenham Third Spaces
         link: /cheltenham-third-spaces
       - name: Cheltenham Weather Forecast
-        link: /cheltenahm-10-day-weather-forecast
+        link: /cheltenham-10-day-weather-forecast
 
   - title: Feeds
     links:
