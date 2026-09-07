@@ -8,6 +8,9 @@
 
         {{ content }}
 
+
+        <h2>Post Office Location Map</h2>
+        <div id="po-map" style="height: 600px;" aria-label="Map of Post Office locations in Cheltenham"></div>
         <h2>Post office branches</h2>
 
         <table class="post-office-table" data-sortable>
@@ -65,8 +68,13 @@
                     (ODbL)</a>.
                 Opening hours and services can change — please confirm with the branch before travelling.
             </small></p>
-
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+        <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+        <script id="po-data" type="application/json">{{ site.data.post-offices | jsonify }}</script>
+        <script src="/scripts/po-map.js"></script>
     </div>
 </div>
+
+
 
 {% include footer.html %}

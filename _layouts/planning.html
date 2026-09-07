@@ -13,7 +13,7 @@
         {% include sponsor.html %}
 
         {{ content }}
-        <h2>Recent applications</h2>
+        <h2>Recent Applications</h2>
         <div class="scroll">
             <table class="planning-table" data-sortable>
                 <thead>
@@ -47,7 +47,10 @@
         </div>
 
         {% if planning.decided and planning.decided.size > 0 %}
-        <h2>Recently decided</h2>
+        <h2>Recently Recorded Decisions</h2>
+        <p>Dates show when we first recorded each decision and might not be the council's official decision date.
+            Open an application for the exact date and full decision notice.</p>
+
         <div class="scroll">
             <table class="planning-table" data-sortable>
                 <thead>
