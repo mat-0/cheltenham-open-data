@@ -6,12 +6,12 @@ filter to Cheltenham, named toilets only, and write to Jekyll's _data dir.
 Source: https://www.toiletmap.org.uk/dataset
 """
 
+import json
 import re
 import sys
 from pathlib import Path
 
 import requests
-import yaml
 
 try:
     from better_profanity import profanity
@@ -145,11 +145,50 @@ def is_likely_junk(rec: dict) -> tuple[bool, str]:
 
     return False, ""
 
-SOURCE_URL = (
+DATASET_PAGE_URL = "https://www.toiletmap.org.uk/dataset"
+
+# Fallback only used if the dataset page's markup changes shape and the
+# scrape below fails outright. This WILL go stale — the scraper is the
+# real source of truth.
+FALLBACK_SOURCE_URL = (
     "https://p02w6qqjlqmja4sk.public.blob.vercel-storage.com/exports/"
-    "toilets-2026-09-03T00%3A01%3A38.872Z-qOlr75Op0WTnVCPclDvsRBkqPlbaF1.json"
+    "toilets-2026-09-07T00%3A00%3A40.706Z-e0QMyHlRtmMUQPdYIXgbWVyMCRAUw6.json"
     "?download=1"
 )
+
+
+def find_json_download_url(page_url: str = DATASET_PAGE_URL) -> str:
+    """Scrape the Toilet Map dataset page for the current JSON export link.
+
+    The export filename/token changes every time the dataset is refreshed
+    (e.g. toilets-2026-09-07T00%3A00%3A40.706Z-<token>.json), so it can't be
+    hardcoded. The page lists a JSON link and a CSV link side by side, both
+    hosted on the same vercel-storage.com/exports/ path — we grab hrefs
+    ending in .json (ignoring the .csv one) and pick the first match.
+    """
+    resp = requests.get(
+        page_url,
+        headers={"User-Agent": "Mozilla/5.0 (compatible; toilet-data-fetcher/1.0)"},
+        timeout=20,
+    )
+    resp.raise_for_status()
+
+    # Matches href="...exports/....json?download=1" (or query params in
+    # any order), whether the quotes are single or double.
+    matches = re.findall(
+        r'href=["\']([^"\']*?/exports/[^"\']*?\.json\?[^"\']*)["\']',
+        resp.text,
+    )
+    if not matches:
+        raise ValueError(
+            f"Could not find a .json export link on {page_url} — "
+            "page markup may have changed."
+        )
+
+    url = matches[0]
+    # Hrefs pulled from raw HTML may contain HTML entities (e.g. &amp;).
+    url = url.replace("&amp;", "&")
+    return url
 
 AREA_NAME = "Cheltenham"
 IGNORE_IDS = {
@@ -158,7 +197,7 @@ IGNORE_IDS = {
 }
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
-OUTPUT_PATH = REPO_ROOT / "_data" / "toilets_cheltenham.yml"
+OUTPUT_PATH = REPO_ROOT / "_data" / "toilets.json"
 
 
 def fetch_data(url: str) -> list[dict]:
@@ -237,9 +276,7 @@ def filter_records(records: list[dict], area_name: str) -> tuple[list[dict], int
 def write_output(records: list[dict], path: Path) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     with open(path, "w", encoding="utf-8") as f:
-        yaml.safe_dump(
-            records, f, allow_unicode=True, sort_keys=False, default_flow_style=False
-        )
+        json.dump(records, f, indent=2, ensure_ascii=False)
 
 
 def main() -> None:
@@ -247,8 +284,16 @@ def main() -> None:
         print("Note: 'better_profanity' not installed — falling back to the "
               "custom keyword list only (pip install better_profanity).")
 
+    try:
+        source_url = find_json_download_url()
+        print(f"Found current JSON export: {source_url}\n")
+    except Exception as e:
+        print(f"Warning: could not discover current export URL ({e}). "
+              f"Falling back to last-known URL — this may 404.", file=sys.stderr)
+        source_url = FALLBACK_SOURCE_URL
+
     print("Fetching data from source...")
-    data = fetch_data(SOURCE_URL)
+    data = fetch_data(source_url)
     print(f"Total records fetched: {len(data)}")
 
     clean, dropped = filter_records(data, AREA_NAME)

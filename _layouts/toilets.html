@@ -1,53 +1,86 @@
 {% include header.html %}
 <div class="{{page.type}} herobar">
-    <header class="{{page.type}} header">
-        <h1>{{page.title}}</h1>
-        <p>{{page.description}}</p>
-    </header>
+    <div class="{{page.type}}">
+        <header class="{{page.type}} header">
+            <h1>{{page.title}}</h1>
+            <p>{{page.description}}</p>
+        </header>
 
-    {{ content }}
+        {{ content }}
 
-    <!-- content here -->
 
-    <div class="toilets-listing">
-        {% for toilet in site.data.toilets_cheltenham %}
-        <article class="toilet-card">
-            <h2>{{ toilet.name }}</h2>
+        <h2>Public Toilet Location Map</h2>
+        <div id="toilet-map" style="height: 600px;" aria-label="Map of public toilet locations in Cheltenham"></div>
+        <h2>Public toilets</h2>
 
-            {% if toilet.notes %}
-            <p class="toilet-notes">{{ toilet.notes }}</p>
-            {% endif %}
-
-            {%- capture features_raw -%}
-            {%- if toilet.accessible -%}Wheelchair accessible|{%- endif -%}
-            {%- if toilet.all_gender -%}All gender|{%- endif -%}
-            {%- if toilet.baby_change -%}Baby changing|{%- endif -%}
-            {%- if toilet.men and toilet.women -%}Male and female|{%- elsif toilet.men -%}Male only|{%- elsif
-            toilet.women
-            -%}Female only|{%- endif -%}
-            {%- if toilet.urinal_only -%}Urinal only|{%- endif -%}
-            {%- if toilet.radar_key -%}RADAR key required|{%- endif -%}
-            {%- if toilet.no_payment -%}Free to use|{%- elsif toilet.payment_details -%}Charge:
-            {{ toilet.payment_details }}|{%- endif -%}
-            {%- endcapture -%}
-            {% assign features = features_raw | split: "|" %}
-
-            <ul class="toilet-details">
-                {% for feature in features %}
-                {% if feature != "" %}<li>{{ feature }}</li>{% endif %}
+        <table class="toilet-table" data-sortable>
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Key features</th>
+                    <th>Opening hours</th>
+                    <th class="map">Map</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for toilet in site.data.toilets %}
+                {%- capture features_raw -%}
+                {%- if toilet.accessible -%}Wheelchair accessible|{%- endif -%}
+                {%- if toilet.all_gender -%}All gender|{%- endif -%}
+                {%- if toilet.baby_change -%}Baby changing|{%- endif -%}
+                {%- if toilet.men and toilet.women -%}Male and female|{%- elsif toilet.men -%}Male only|{%- elsif
+                toilet.women
+                -%}Female only|{%- endif -%}
+                {%- if toilet.urinal_only -%}Urinal only|{%- endif -%}
+                {%- if toilet.radar_key -%}RADAR key required|{%- endif -%}
+                {%- if toilet.no_payment -%}Free to use|{%- elsif toilet.payment_details -%}Charge:
+                {{ toilet.payment_details }}|{%- endif -%}
+                {%- endcapture -%}
+                {% assign features = features_raw | split: "|" %}
+                <tr>
+                    <td>{{ toilet.name }}</td>
+                    <td>
+                        {% for feature in features %}
+                        {% if feature != "" %}{{ feature }}{% unless forloop.last %}, {% endunless %}{% endif %}
+                        {% endfor %}
+                    </td>
+                    <td>{{ toilet.opening_hours_summary | default: "Not listed" }}</td>
+                    <td class="map">{% include pin.html lat=toilet.latitude lng=toilet.longitude label=toilet.name %}
+                    </td>
+                </tr>
                 {% endfor %}
+            </tbody>
+        </table>
 
-                {% if toilet.opening_hours_summary %}
-                <li>{{ toilet.opening_hours_summary }}</li>
-                {% endif %}
+        <h2>Good to know</h2>
 
-                {% if toilet.maps_url %}
-                <li><a href="{{ toilet.maps_url }}" target="_blank" rel="noopener">View on Google Maps</a></li>
-                {% endif %}
-            </ul>
-        </article>
-        {% endfor %}
+        <p>Facilities vary from site to site — not every listed toilet is staffed, free, or open around the clock.
+            Some require a RADAR key for wheelchair-accessible cubicles, and a few inside shops or venues may only be
+            usable during that venue's own opening hours rather than the times shown here. Where a charge applies,
+            it's shown in the features column, but it's worth carrying change just in case a card reader is out of
+            action.</p>
+
+        <p>If you spot a toilet that's closed, missing, or listed incorrectly, you can report it directly to the
+            <a href="https://www.toiletmap.org.uk/" target="_blank" rel="noopener">Great British Toilet Map</a>,
+            which keeps this data up to date through user submissions.
+        </p>
+
+
+        <p class="toilet-attribution"><small>
+                Data from the <a href="https://www.toiletmap.org.uk/dataset" target="_blank" rel="noopener">Great
+                    British Toilet Map</a>, available under the
+                <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">Creative
+                    Commons Attribution 4.0 International licence (CC BY 4.0)</a>.
+                Listings are based on user submissions and may contain errors or omissions — please confirm before
+                travelling.
+            </small></p>
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+        <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+        <script id="toilet-data" type="application/json">{{ site.data.toilets | jsonify }}</script>
+        <script src="/scripts/toilet-map.js"></script>
     </div>
-    <!-- content here -->
+</div>
 
-    {% include footer.html %}
+
+
+{% include footer.html %}

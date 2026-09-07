@@ -18,9 +18,29 @@
             '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
     }).addTo(map);
 
-    var markers = points.map(function (p) {
-        return L.marker([p.lat, p.lon]).bindPopup(p.popup);
-    });
+    var markers = points
+        .filter(function (p) {
+            return p.lat != null && p.lon != null;
+        })
+        .map(function (p) {
+            var directionsUrl =
+                "https://www.google.com/maps/search/?api=1&query=" +
+                p.lat +
+                "," +
+                p.lon;
+
+            var html = "<strong>" + (p.name || "Post Office") + "</strong>";
+            if (p.address) html += "<br>" + p.address;
+            html +=
+                '<br><a href="' +
+                directionsUrl +
+                '" target="_blank" rel="noopener">Directions ↗</a>';
+
+            return L.marker([p.lat, p.lon]).bindPopup(html);
+        });
+
+    if (!markers.length) return;
+
     var group = L.featureGroup(markers).addTo(map);
     map.fitBounds(group.getBounds().pad(0.15));
 })();
