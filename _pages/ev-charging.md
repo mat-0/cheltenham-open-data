@@ -4,7 +4,7 @@ title: "Cheltenham EV Charging Points"
 seo: "Where to charge an electric car in Cheltenham — a live map and list of public EV charging points, connector types and speeds across town."
 permalink: /cheltenham-ev-charging
 description: "Public electric vehicle charging locations across Cheltenham, with a live map, connector types, charging speeds and directions."
-type: "third"
+type: "fuel"
 sponsor:
     type: affiliate
     name: "Join Electroverse and get £5 credit &rarr;"
