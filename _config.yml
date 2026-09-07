@@ -170,7 +170,10 @@ navigation_header:
     description: "Local third spaces and community hubs in Cheltenham."
   - name: Cheltenham Places to Stay
     link: /staying-in-cheltenham
-    description: "Local Hotels and Guest Houses in Cheltenham."
+    description: "Local hotels and guest houses in Cheltenham."
+  - name: Cheltenham 10-day Weather Forecast
+    link: /cheltenahm-10-day-weather-forecast
+    description: "Local temperature, rain, wind and humidity forecasts for Cheltenham."
 footer_columns:
   - title: Pages
     links:
@@ -220,6 +223,8 @@ footer_columns:
         link: /cheltenham-security-alerts
       - name: Cheltenham Third Spaces
         link: /cheltenham-third-spaces
+      - name: Cheltenham Weather Forecast
+        link: /cheltenahm-10-day-weather-forecast
 
   - title: Feeds
     links:

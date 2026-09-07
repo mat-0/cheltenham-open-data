@@ -1,0 +1,508 @@
+{% include header.html %}
+
+
+<div class="{{page.type}} herobar">
+    <div class="{{page.type}}">
+        <header class="{{page.type}} header">
+            <h1>{{page.title}}</h1>
+            <p>{{page.description}}</p>
+        </header>
+
+        {% assign wx = site.data.weather %}
+        {% assign days = wx.days %}
+        {% assign lo = days | map: "min" | sort | first %}
+        {% assign hi = days | map: "max" | sort | last %}
+        {% assign span = hi | minus: lo %}
+        {% if span == 0 %}{% assign span = 1 %}{% endif %}
+        {% assign gaps = days.size | minus: 1 %}
+        {% assign xstep = 790.0 | divided_by: gaps %}
+
+        <article class="wx">
+            {{ content }}
+
+            <h2>10-day Forecasts</h2>
+            <p class="wx-updated">Updated {{ wx.updated | date: "%A %-d %B %Y at %H:%M" }} · {{ wx.location }}</p>
+
+            <div class="wx-grid">
+                {% for day in days %}
+                {% assign off = day.min | minus: lo | times: 100.0 | divided_by: span %}
+                {% assign wid = day.max | minus: day.min | times: 100.0 | divided_by: span %}
+                {% assign poppct = day.pop | times: 100 %}
+                {% assign sx1 = day.sun_start | minus: 240 | times: 100.0 | divided_by: 1080 %}
+                {% assign sx2 = day.sun_end | minus: 240 | times: 100.0 | divided_by: 1080 %}
+                {% assign smid = sx1 | plus: sx2 | divided_by: 2 %}
+                <div class="wx-card">
+                    <div class="wx-date">{{ day.date | date: "%a %-d %b" }}</div>
+                    <img class="wx-icon" src="https://openweathermap.org/img/wn/{{ day.icon }}@2x.png"
+                        alt="{{ day.desc }}" width="60" height="60" loading="lazy">
+                    <div class="wx-desc">{{ day.desc | capitalize }}</div>
+                    <div class="wx-temps">
+                        <span class="wx-min">{{ day.min | round }}°</span>
+                        <span class="wx-range"><span class="wx-range-fill"
+                                style="left:{{ off }}%;width:{{ wid }}%"></span></span>
+                        <span class="wx-max">{{ day.max | round }}°</span>
+                    </div>
+                    <div class="wx-pop" title="Chance of rain">
+                        <span class="wx-pop-fill" style="width:{{ poppct }}%"></span>
+                        <span class="wx-pop-label">{{ poppct | round }}% rain</span>
+                    </div>
+                    <div class="wx-meta">Wind {{ day.wind }} m/s · UV {{ day.uvi | round }}</div>
+                    <svg class="wx-sun" viewBox="0 0 100 40" role="img"
+                        aria-label="Sunrise {{ day.sunrise }}, sunset {{ day.sunset }}">
+                        <line class="wx-horizon" x1="0" y1="34" x2="100" y2="34" />
+                        <path class="wx-arc" d="M {{ sx1 }} 34 Q {{ smid }} -2 {{ sx2 }} 34" fill="none" />
+                        <circle class="wx-sun-dot" cx="{{ smid }}" cy="16" r="3" />
+                    </svg>
+                    <div class="wx-sun-times"><span>↑ {{ day.sunrise }}</span><span>↓ {{ day.sunset }}</span></div>
+                </div>
+                {% endfor %}
+            </div>
+
+            <h2>10-day Temperature Range (°C)</h2>
+            <p>
+                <span class="wx-legend"><span class="wx-key wx-key-max"></span>High <span
+                        class="wx-key wx-key-min"></span>Low</span>
+            </p>
+            {% assign axis_lo = lo | divided_by: 5.0 | floor | times: 5 %}
+            {% assign axis_hi = hi | divided_by: 5.0 | ceil | times: 5 %}
+            {% assign axis_span = axis_hi | minus: axis_lo %}
+            {% if axis_span == 0 %}{% assign axis_span = 5 %}{% endif %}
+            {% assign ticks = axis_span | divided_by: 5 %}
+            <figure class="wx-chart-wrap">
+                <svg class="wx-chart" viewBox="0 0 840 260" role="img"
+                    aria-label="Daily high and low temperatures in Celsius over the next 10 days">
+                    {% for i in (0..ticks) %}
+                    {% assign tval = i | times: 5 | plus: axis_lo %}
+                    {% assign gy = axis_hi | minus: tval | times: 210.0 | divided_by: axis_span | plus: 20 %}
+                    <line class="wx-grid-line" x1="40" y1="{{ gy }}" x2="830" y2="{{ gy }}" />
+                    <text class="wx-tick-label" x="34" y="{{ gy | plus: 3 }}" text-anchor="end">{{ tval }}°</text>
+                    {% endfor %}
+                    {% capture maxpts %}{% for day in days %}{% assign x = forloop.index0 | times: xstep | plus: 40 %}{%
+                    assign
+                    y = axis_hi | minus: day.max | times: 210.0 | divided_by: axis_span | plus: 20 %}{{ x }},{{ y }} {%
+                    endfor
+                    %}{% endcapture %}
+                    {% capture minpts %}{% for day in days %}{% assign x = forloop.index0 | times: xstep | plus: 40 %}{%
+                    assign
+                    y = axis_hi | minus: day.min | times: 210.0 | divided_by: axis_span | plus: 20 %}{{ x }},{{ y }} {%
+                    endfor
+                    %}{% endcapture %}
+                    <polyline class="wx-line wx-line-max" points="{{ maxpts }}" fill="none" />
+                    <polyline class="wx-line wx-line-min" points="{{ minpts }}" fill="none" />
+                    {% for day in days %}
+                    {% assign x = forloop.index0 | times: xstep | plus: 40 %}
+                    {% assign ymax = axis_hi | minus: day.max | times: 210.0 | divided_by: axis_span | plus: 20 %}
+                    {% assign ymin = axis_hi | minus: day.min | times: 210.0 | divided_by: axis_span | plus: 20 %}
+                    <text class="wx-pt-label" x="{{ x }}" y="{{ ymax | minus: 6 }}"
+                        text-anchor="middle">{{ day.max | round }}</text>
+                    <text class="wx-pt-label" x="{{ x }}" y="{{ ymin | plus: 12 }}"
+                        text-anchor="middle">{{ day.min | round }}</text>
+                    <text class="wx-x-label" x="{{ x }}" y="248" text-anchor="middle">{{ day.date | date: "%a" }}</text>
+                    {% endfor %}
+                </svg>
+            </figure>
+
+            <h2>10-day Chance of rain Forecast (%)</h2>
+            <figure class="wx-chart-wrap">
+                <svg class="wx-chart" viewBox="0 0 840 260" role="img"
+                    aria-label="Daily chance of rain over the next 10 days">
+                    {% for p in (0..2) %}
+                    {% assign val = p | times: 50 %}
+                    {% assign gy = 100 | minus: val | times: 210.0 | divided_by: 100 | plus: 20 %}
+                    <line class="wx-grid-line" x1="40" y1="{{ gy }}" x2="830" y2="{{ gy }}" />
+                    <text class="wx-tick-label" x="34" y="{{ gy | plus: 3 }}" text-anchor="end">{{ val }}</text>
+                    {% endfor %}
+                    {% assign bw = xstep | times: 0.5 %}
+                    {% assign halfbw = bw | divided_by: 2 %}
+                    {% for day in days %}
+                    {% assign x = forloop.index0 | times: xstep | plus: 40 %}
+                    {% assign val = day.pop | times: 100 %}
+                    {% assign by = 100 | minus: val | times: 210.0 | divided_by: 100 | plus: 20 %}
+                    {% assign bh = 230 | minus: by %}
+                    {% assign bx = x | minus: halfbw %}
+                    <rect class="wx-bar" x="{{ bx }}" y="{{ by }}" width="{{ bw }}" height="{{ bh }}" rx="2" />
+                    <text class="wx-x-label" x="{{ x }}" y="248" text-anchor="middle">{{ day.date | date: "%a" }}</text>
+                    {% endfor %}
+                </svg>
+            </figure>
+
+            <h2>10-day Wind Speed Forecast (m/s)</h2>
+            {% assign wmax = days | map: "wind" | sort | last %}
+            {% assign waxis = wmax | divided_by: 5.0 | ceil | times: 5 %}
+            {% if waxis == 0 %}{% assign waxis = 5 %}{% endif %}
+            {% assign wticks = waxis | divided_by: 5 %}
+            <figure class="wx-chart-wrap">
+                <svg class="wx-chart" viewBox="0 0 840 260" role="img"
+                    aria-label="Daily wind speed in metres per second over the next 10 days">
+                    {% for i in (0..wticks) %}
+                    {% assign wval = i | times: 5 %}
+                    {% assign gy = waxis | minus: wval | times: 210.0 | divided_by: waxis | plus: 20 %}
+                    <line class="wx-grid-line" x1="40" y1="{{ gy }}" x2="830" y2="{{ gy }}" />
+                    <text class="wx-tick-label" x="34" y="{{ gy | plus: 3 }}" text-anchor="end">{{ wval }}</text>
+                    {% endfor %}
+                    {% capture windpts %}{% for day in days %}{% assign x = forloop.index0 | times: xstep | plus: 40
+                    %}{% assign
+                    y = waxis | minus: day.wind | times: 210.0 | divided_by: waxis | plus: 20 %}{{ x }},{{ y }} {%
+                    endfor %}{%
+                    endcapture %}
+                    <polyline class="wx-line wx-line-wind" points="{{ windpts }}" fill="none" />
+                    {% for day in days %}
+                    {% assign x = forloop.index0 | times: xstep | plus: 40 %}
+                    {% assign y = waxis | minus: day.wind | times: 210.0 | divided_by: waxis | plus: 20 %}
+                    <circle class="wx-dot wx-dot-wind" cx="{{ x }}" cy="{{ y }}" r="2.5" />
+                    <text class="wx-x-label" x="{{ x }}" y="248" text-anchor="middle">{{ day.date | date: "%a" }}</text>
+                    {% endfor %}
+                </svg>
+            </figure>
+
+            <h2>10-day Daylight length Forecast</h2>
+            {% assign dmin = days | map: "daylight" | sort | first %}
+            {% assign dmax = days | map: "daylight" | sort | last %}
+            {% assign daxis_lo = dmin | divided_by: 30 | times: 30 %}
+            {% assign daxis_hi = dmax | plus: 29 | divided_by: 30 | times: 30 %}
+            {% assign dspan = daxis_hi | minus: daxis_lo %}
+            {% if dspan == 0 %}{% assign dspan = 30 %}{% endif %}
+            {% assign dticks = dspan | divided_by: 30 %}
+            <figure class="wx-chart-wrap">
+                <svg class="wx-chart" viewBox="0 0 840 260" role="img"
+                    aria-label="Hours of daylight over the next 10 days">
+                    {% for i in (0..dticks) %}
+                    {% assign tv = i | times: 30 | plus: daxis_lo %}
+                    {% assign gy = daxis_hi | minus: tv | times: 210.0 | divided_by: dspan | plus: 20 %}
+                    {% assign th = tv | divided_by: 60 %}
+                    {% assign tm = tv | modulo: 60 %}
+                    <line class="wx-grid-line" x1="40" y1="{{ gy }}" x2="830" y2="{{ gy }}" />
+                    <text class="wx-tick-label" x="34" y="{{ gy | plus: 3 }}" text-anchor="end">{{ th }}:{% if tm < 10
+                            %}0{% endif %}{{ tm }}</text>
+                            {% endfor %}
+                            {% capture daypts %}{% for day in days %}{% assign x = forloop.index0 | times: xstep | plus:
+                            40 %}{%
+                            assign y = daxis_hi | minus: day.daylight | times: 210.0 | divided_by: dspan | plus: 20 %}{{
+                            x }},{{
+                            y }} {% endfor %}{% endcapture %}
+                            <polyline class="wx-line wx-line-day" points="{{ daypts }}" fill="none" />
+                            {% for day in days %}
+                            {% assign x = forloop.index0 | times: xstep | plus: 40 %}
+                            {% assign y = daxis_hi | minus: day.daylight | times: 210.0 | divided_by: dspan | plus: 20
+                            %}
+                            <circle class="wx-dot wx-dot-day" cx="{{ x }}" cy="{{ y }}" r="2.5" />
+                            <text class="wx-pt-label" x="{{ x }}" y="{{ y | minus: 6 }}"
+                                text-anchor="middle">{{ day.daylight_str }}</text>
+                            <text class="wx-x-label" x="{{ x }}" y="248"
+                                text-anchor="middle">{{ day.date | date: "%a" }}</text>
+                            {% endfor %}
+                </svg>
+            </figure>
+
+            <h2>10-day Humidity Forecast (%)</h2>
+            <figure class="wx-chart-wrap">
+                <svg class="wx-chart" viewBox="0 0 840 260" role="img"
+                    aria-label="Daily humidity over the next 10 days">
+                    {% for p in (0..2) %}
+                    {% assign val = p | times: 50 %}
+                    {% assign gy = 100 | minus: val | times: 210.0 | divided_by: 100 | plus: 20 %}
+                    <line class="wx-grid-line" x1="40" y1="{{ gy }}" x2="830" y2="{{ gy }}" />
+                    <text class="wx-tick-label" x="34" y="{{ gy | plus: 3 }}" text-anchor="end">{{ val }}</text>
+                    {% endfor %}
+                    {% capture humpts %}{% for day in days %}{% assign x = forloop.index0 | times: xstep | plus: 40 %}{%
+                    assign
+                    y = 100 | minus: day.humidity | times: 210.0 | divided_by: 100 | plus: 20 %}{{ x }},{{ y }} {%
+                    endfor %}{%
+                    endcapture %}
+                    <polyline class="wx-line wx-line-hum" points="{{ humpts }}" fill="none" />
+                    {% for day in days %}
+                    {% assign x = forloop.index0 | times: xstep | plus: 40 %}
+                    {% assign y = 100 | minus: day.humidity | times: 210.0 | divided_by: 100 | plus: 20 %}
+                    <circle class="wx-dot wx-dot-hum" cx="{{ x }}" cy="{{ y }}" r="2.5" />
+                    <text class="wx-pt-label" x="{{ x }}" y="{{ y | minus: 6 }}"
+                        text-anchor="middle">{{ day.humidity }}</text>
+                    <text class="wx-x-label" x="{{ x }}" y="248" text-anchor="middle">{{ day.date | date: "%a" }}</text>
+                    {% endfor %}
+                </svg>
+            </figure>
+        </article>
+
+        <style>
+            .wx-grid {
+                display: grid;
+                grid-template-columns: repeat(2, 1fr);
+                gap: .75rem
+            }
+
+            @media(min-width:768px) {
+                .wx-grid {
+                    grid-template-columns: repeat(5, 1fr)
+                }
+            }
+
+            .wx-card {
+                border: 1px solid var(--wx-border, #e2e2e2);
+                border-radius: 10px;
+                padding: .75rem;
+                text-align: center;
+                background: var(--wx-card-bg, #fff)
+            }
+
+            .wx-date {
+                font-weight: 600
+            }
+
+            .wx-icon {
+                display: block;
+                margin: 0 auto
+            }
+
+            .wx-desc {
+                font-size: .85rem;
+                color: var(--wx-muted, #666);
+                min-height: 2.4em
+            }
+
+            .wx-temps {
+                display: flex;
+                align-items: center;
+                gap: .4rem;
+                font-variant-numeric: tabular-nums
+            }
+
+            .wx-range {
+                position: relative;
+                flex: 1;
+                height: 6px;
+                border-radius: 3px;
+                background: var(--wx-track, #eee)
+            }
+
+            .wx-range-fill {
+                position: absolute;
+                top: 0;
+                height: 6px;
+                border-radius: 3px;
+                background: linear-gradient(90deg, #4aa3df, #e6653b)
+            }
+
+            .wx-min {
+                color: #4aa3df
+            }
+
+            .wx-max {
+                color: #e6653b
+            }
+
+            .wx-pop {
+                position: relative;
+                height: 16px;
+                border-radius: 8px;
+                background: var(--wx-track, #eee);
+                margin: .4rem 0;
+                overflow: hidden
+            }
+
+            .wx-pop-fill {
+                position: absolute;
+                left: 0;
+                top: 0;
+                height: 100%;
+                background: #4aa3df;
+                opacity: .35
+            }
+
+            .wx-pop-label {
+                position: relative;
+                font-size: .7rem;
+                line-height: 16px
+            }
+
+            .wx-meta {
+                font-size: .72rem;
+                color: var(--wx-muted, #666)
+            }
+
+            .wx-updated {
+                font-size: .8rem;
+                color: var(--wx-muted, #666)
+            }
+
+            .wx-sun {
+                width: 100%;
+                height: auto;
+                margin-top: .4rem
+            }
+
+            .wx-horizon {
+                stroke: var(--wx-track, #ddd);
+                stroke-width: 1
+            }
+
+            .wx-arc {
+                stroke: #f2a007;
+                stroke-width: 2;
+                vector-effect: non-scaling-stroke
+            }
+
+            .wx-sun-dot {
+                fill: #f2a007
+            }
+
+            .wx-sun-times {
+                display: flex;
+                justify-content: space-between;
+                font-size: .65rem;
+                color: var(--wx-muted, #666);
+                margin-top: .15rem
+            }
+
+            .wx-chart-title {
+                font-size: 1rem;
+                margin: 1.5rem 0 .35rem;
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                flex-wrap: wrap;
+                gap: .5rem
+            }
+
+            .wx-legend {
+                font-weight: 400;
+                font-size: .75rem;
+                color: var(--wx-muted, #666)
+            }
+
+            .wx-key {
+                display: inline-block;
+                width: 12px;
+                height: 3px;
+                vertical-align: middle;
+                margin: 0 .25rem 0 .5rem
+            }
+
+            .wx-key-max {
+                background: #e6653b
+            }
+
+            .wx-key-min {
+                background: #4aa3df
+            }
+
+            .wx-chart-wrap {
+                margin: 0
+            }
+
+            .wx-chart {
+                width: 100%;
+                height: auto
+            }
+
+            .wx-grid-line {
+                stroke: var(--wx-track, #eee);
+                stroke-width: 1
+            }
+
+            .wx-tick-label,
+            .wx-x-label {
+                font-size: 11px;
+                fill: var(--wx-muted, #666)
+            }
+
+            .wx-pt-label {
+                font-size: 10px;
+                fill: var(--wx-muted, #555)
+            }
+
+            .wx-line {
+                stroke-width: 2;
+                vector-effect: non-scaling-stroke
+            }
+
+            .wx-line-max {
+                stroke: #e6653b
+            }
+
+            .wx-line-min {
+                stroke: #4aa3df
+            }
+
+            .wx-line-wind {
+                stroke: #2e9e8f
+            }
+
+            .wx-line-day {
+                stroke: #f2a007
+            }
+
+            .wx-line-hum {
+                stroke: #7b68ee
+            }
+
+            .wx-dot-max {
+                fill: #e6653b
+            }
+
+            .wx-dot-min {
+                fill: #4aa3df
+            }
+
+            .wx-dot-wind {
+                fill: #2e9e8f
+            }
+
+            .wx-dot-day {
+                fill: #f2a007
+            }
+
+            .wx-dot-hum {
+                fill: #7b68ee
+            }
+
+            .wx-bar {
+                fill: #4aa3df;
+                opacity: .7
+            }
+        </style>
+
+        <h2>Frequently asked questions</h2>
+
+        <h3>How accurate is a 10-day forecast?</h3>
+        <ul>
+            <li>The first three to four days are usually dependable. Accuracy drops off further out, so read days five
+                to ten as
+                a general trend rather than a firm prediction.</li>
+        </ul>
+
+        <h3>How often is this page updated?</h3>
+        <ul>
+            <li>Once a day. The "Updated" line under the heading shows the exact time of the most recent refresh.</li>
+        </ul>
+
+        <h3>Where does the data come from?</h3>
+        <ul>
+            <li>All values are pulled from the OpenWeather API for Cheltenham, Gloucestershire.</li>
+        </ul>
+
+        <h3>What does "chance of rain" mean?</h3>
+        <ul>
+            <li>It's the probability that measurable rain falls at some point during the day — not how long it will rain
+                or how
+                heavy it will be. A 40% day means rain is more likely than not to stay away, but keep a jacket handy.
+            </li>
+        </ul>
+
+        <h3>Why is wind shown in m/s?</h3>
+        <ul>
+            <li>That's the metric OpenWeather returns. To convert to mph, multiply by roughly 2.24 — so 5 m/s is about
+                11 mph.
+            </li>
+        </ul>
+
+        <h3>What is the UV index?</h3>
+        <ul>
+            <li>A measure of sunburn risk from ultraviolet radiation. 0–2 is low, 3–5 moderate, 6–7 high, 8–10 very
+                high.
+                Consider sun protection from 3 upward.</li>
+        </ul>
+
+    </div>
+</div>
+<!-- content here -->
+
+{% include footer.html %}

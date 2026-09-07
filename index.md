@@ -19,6 +19,7 @@ description: "The open data hub for Cheltenham and Gloucestershire. Fuel prices,
 - The sun will rise at 05:29 and set at 18:43
 
 <!-- weather_marker ends -->
+[See the full 16-day Cheltenham forecast &rarr;](/cheltenahm-10-day-weather-forecast)
 
 ## Local Classifieds in Cheltenham
 
