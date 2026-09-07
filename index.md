@@ -17,9 +17,8 @@ description: "The open data hub for Cheltenham and Gloucestershire. Fuel prices,
 - The wind speed is 6.9m/s
 - The pressure is 1016.2hPa and humidity is 63%
 - The sun will rise at 06:29 and set at 19:43
-
 <!-- weather_marker ends -->
-[See a full 10-day Cheltenham forecast &rarr;](/cheltenham-10-day-weather-forecast)
+- [See a full 10-day Cheltenham forecast &rarr;](/cheltenham-10-day-weather-forecast)
 
 ## Local Classifieds in Cheltenham
 
