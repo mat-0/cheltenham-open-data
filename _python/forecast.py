@@ -18,7 +18,7 @@ LAT, LON = 51.90, -2.08
 DAYS     = 10
 UNITS    = "metric"
 BASE     = "https://api.openweathermap.org/data/4.0/onecall/timeline/1day"
-API_KEY  = os.environ.get("OPEN_WEATHER_KEY", "817afffd47f4dc4a0e51cdb11285e3e6")
+API_KEY  = os.environ.get("OPEN_WEATHER_KEY", "")
 
 
 def start_of_today_utc():
