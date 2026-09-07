@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "Local Fuel Prices, House Prices, Schools & News"
+title: "Local open data for Cheltenham & Gloucestershire"
+seo_title: "Cheltenham Fuel Prices, House Prices, Crime & News"
 seo: "Free Cheltenham open data for Gloucestershire: compare local fuel prices, check crime stats, house prices, flood warnings, food banks, GPs, planning and news."
 permalink: /
 type: "cod"

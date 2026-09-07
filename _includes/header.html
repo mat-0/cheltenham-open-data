@@ -22,7 +22,8 @@
         {%- assign social_title = page.title | default: site.title -%}
         {%- assign social_image ='/images/og-default.png' | absolute_url -%}
 
-        <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+        {%- assign seo_title = page.seo_title | default: page.title -%}
+        <title>{% if seo_title %}{{ seo_title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
         <meta name="description" content="{{ meta_description }}">
         <meta name="referrer" content="origin">
         <link rel="canonical" href="{{ page.url | absolute_url }}" />
