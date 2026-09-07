@@ -51,9 +51,9 @@
                     <tr>
                         <td>
                             {% if school.website %}
-                            <a href="{{ school.website }}">{{ school.name }}</a>
+                            <a href="{{ school.website }}" rel="nofollow">{{ school.name }}</a>
                             {% else %}
-                            <a href="{{ school.urn_url }}">{{ school.name }}</a>
+                            <a href="{{ school.urn_url }}" rel="nofollow">{{ school.name }}</a>
                             {% endif %}
                         </td>
                         <td>{{ school.type }}</td>
