@@ -5,23 +5,27 @@ seo: "Latest and Cheapest Fuel Prices in Cheltenham. Cheapest fuel in Glos, Chea
 permalink: /cheltenham-fuel-prices
 schema_include: fuel-prices
 type: fuel
-description: Cheapest fuel prices in Cheltenham
+description: Compare today's cheapest petrol and diesel prices across 100+ forecourts in Cheltenham, Gloucester and wider Gloucestershire — updated daily from official GOV.UK data.
 ---
 
-{% include sponsor.html %}
+{% assign fuel = site.data["fuel-prices"] %}
 
-## Live petrol and diesel prices for Cheltenham, Gloucester, Tewkesbury and the wider Gloucestershire area
+Data sourced from the [GOV.UK fuel price scheme](https://www.gov.uk/check-fuel-prices) under the [Open Government Licence v3](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/), and refreshed daily. They can change at any time, so treat them as a guide and check the forecourt's own display before filling up.
 
-Data pulled directly from the [GOV.UK fuel price API](https://www.gov.uk/check-fuel-prices) and updated daily. We track over 100 forecourts within a 20-mile radius of Cheltenham town centre, from major supermarket pumps to independent garages.
+## Fuel price FAQs
 
-**Click any column header to sort** — by price, by station, or by when a price was last reported.
+### How often are prices updated?
 
-Only stations that have filed a price update in the last 60 days are shown. If your usual station isn't listed, it likely hasn't reported a change recently — check directly before assuming it's the cheapest.
+- Daily. Figures come straight from the GOV.UK fuel price scheme, which forecourts are required to keep current.
 
-## How to use this page
+### Where does this data come from?
 
-- Compare unleaded, diesel and premium prices side by side across every tracked forecourt.
-- Sort by "Last Updated" to see which prices are freshest.
-- Bookmark this page — it refreshes daily, so today's cheapest station may not be tomorrow's.
+- The UK government's official fuel price disclosure scheme. We show every reporting forecourt within {{ fuel.radius_miles }} miles of Cheltenham town centre, from supermarket pumps to independent garages. That's {{ fuel.stations | size}} forecourts.
 
-We accept no responsibility for the accuracy of third-party data and recommend verifying prices before making an unnecessary journey.
+### Why isn't my local station listed?
+
+- Only stations that have reported a price in the last {{ fuel.lookback_days }} days are shown. If yours is missing it probably hasn't filed a change recently — check directly before assuming it's the cheapest.
+
+### How do I read the table?
+
+- Click any column header to sort — by price, distance, or when a price was last reported. The lowest price in each fuel column is highlighted, and forecourts with no update in {{ fuel.stale_days }} days are greyed out.

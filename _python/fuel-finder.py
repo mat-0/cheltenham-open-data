@@ -1,4 +1,3 @@
-import helper
 import html
 import json
 import os
@@ -8,7 +7,6 @@ import datetime
 import time
 import sys
 import requests
-from urllib.parse import quote
 
 # Load .env file for local development if present
 _env_file = pathlib.Path(__file__).parent.parent / ".env"
@@ -31,7 +29,8 @@ CHELTENHAM_LON  = -2.078
 RADIUS_MILES    = 20
 EARTH_RADIUS_MI = 3958.8
 BATCH_DELAY_SECS     = 1.5   # pause between paginated requests to avoid hammering the API
-PRICE_LOOKBACK_DAYS  = 25   # how far back the daily price fetch looks
+PRICE_LOOKBACK_DAYS  = 25    # how far back the daily price fetch looks
+STALE_DAYS           = 10    # prices older than this are flagged as stale on the page
 
 # Human-readable names for API fuel type codes
 FUEL_LABELS = {
@@ -47,13 +46,22 @@ def fuel_label(code):
     return FUEL_LABELS.get(code, code)
 
 
-def maps_link(address_text, escaped_label):
-    """Wrap an already html-escaped label in a Google Maps search link for the
-    given raw address text. Returns the plain label if there's no address."""
-    if not address_text:
-        return escaped_label
-    url = f"https://www.google.com/maps/search/?api=1&query={quote(address_text)}"
-    return f'<a href="{url}" target="_blank" rel="noopener">{escaped_label}</a>'
+# Brand tokens / road refs that stay fully uppercase after title-casing.
+# Add to this set if a name comes out looking wrong.
+ACRONYMS = {"MFG", "ASDA", "EG", "BP", "PFS", "SF", "PJ", "TGC", "PA", "UK"}
+
+
+def clean_name(raw):
+    """Title-case a station name, collapse stray whitespace, and keep known
+    brand acronyms and road numbers (A40, B4083, etc.) uppercase."""
+    out = []
+    for w in (raw or "").split():
+        up = w.upper()
+        if up in ACRONYMS or any(c.isdigit() for c in w):
+            out.append(up)                       # ASDA, MFG, A417, 80-86…
+        else:
+            out.append(w[:1].upper() + w[1:].lower())
+    return " ".join(out)
 
 
 # -- Auth helpers -------------------------------------------------------------
@@ -142,7 +150,6 @@ def load_station_cache(cache_path):
     """Load local station info. Returns only non-None entries (real local stations)."""
     if cache_path.exists():
         raw = json.loads(cache_path.read_text())
-        # Migration: strip legacy None entries (they move to ignore-stations.json)
         return {k: v for k, v in raw.items() if v is not None}
     return {}
 
@@ -226,7 +233,8 @@ def station_from_pfs_record(record):
     lon  = loc.get("longitude") or loc.get("lng") or loc.get("lon")
     if lat is None or lon is None:
         return None
-    dist = haversine_miles(CHELTENHAM_LAT, CHELTENHAM_LON, float(lat), float(lon))
+    lat, lon = float(lat), float(lon)
+    dist = haversine_miles(CHELTENHAM_LAT, CHELTENHAM_LON, lat, lon)
     if dist > RADIUS_MILES:
         return None
     loc_addr  = loc.get("address_line_1") or ""
@@ -244,6 +252,9 @@ def station_from_pfs_record(record):
         "distance_miles": round(dist, 2),
         "is_supermarket": bool(record.get("is_supermarket_service_station")),
         "address":        address,
+        "postcode":       postcode,
+        "lat":            round(lat, 6),
+        "lon":            round(lon, 6),
     }
 
 
@@ -254,6 +265,7 @@ if __name__ == "__main__":
         root            = pathlib.Path(__file__).parent.parent.resolve()
         cache_path      = root / "_data" / "fuel-stations.json"
         ignore_path     = root / "_data" / "ignore-stations.json"
+        out_path        = root / "_data" / "fuel-prices.json"
         bootstrap       = "--bootstrap" in sys.argv
 
         FUEL_KEY   = os.getenv("FUEL_KEY") or ""
@@ -263,21 +275,18 @@ if __name__ == "__main__":
             print("Error: FUEL_KEY and FUEL_TOKEN environment variables are required")
             raise SystemExit(1)
 
-        # 1. Authenticate — fresh token each run (per API security guidelines),
-        #    with retry logic for transient failures.
+        # 1. Authenticate — fresh token each run (per API security guidelines).
         print("Authenticating...")
         access_token = authenticate(FUEL_KEY, FUEL_TOKEN)
         print("  OK")
 
-        lookback_date  = (datetime.date.today() - datetime.timedelta(days=PRICE_LOOKBACK_DAYS)).strftime("%Y-%m-%d")
+        lookback_date = (datetime.date.today() - datetime.timedelta(days=PRICE_LOOKBACK_DAYS)).strftime("%Y-%m-%d")
 
         # 2. Load station location cache and ignore list
         station_cache = load_station_cache(cache_path)
         ignore_set    = load_ignore_set(ignore_path)
 
         if bootstrap:
-            # Bootstrap: clear ignore list so every station is re-evaluated against
-            # the current radius, then do a full PFS fetch (no date filter).
             print(f"Bootstrap mode: clearing ignore list ({len(ignore_set)} entries) and fetching all PFS records...")
             ignore_set = set()
             save_ignore_set(ignore_path, ignore_set)
@@ -334,16 +343,15 @@ if __name__ == "__main__":
         else:
             print(f"Station cache: {len(station_cache)} local stations, {len(ignore_set)} ignored")
 
-        # 3. Fetch prices for local stations — looks back PRICE_LOOKBACK_DAYS days,
-        #    stops as soon as all local stations have reported in (early exit).
+        # 3. Fetch prices for local stations (early exit once all reported in).
         local_ids  = set(station_cache.keys())
         print(f"Fetching prices for {len(local_ids)} local stations (lookback: {PRICE_LOOKBACK_DAYS} days, since {lookback_date})...")
         all_prices = fetch_local_prices(local_ids, access_token, lookback_date)
         print(f"  Price records returned for local stations: {len(all_prices)}")
 
-        # 6. Merge fresh prices into the station cache so we accumulate latest
-        #    known prices for every local station, not just today's reporters.
-        today_str     = datetime.date.today().strftime("%Y-%m-%d")
+        # 4. Merge fresh prices into the station cache.
+        today       = datetime.date.today()
+        today_str   = today.strftime("%Y-%m-%d")
         price_updates = 0
         for record in all_prices:
             nid    = record.get("node_id")
@@ -357,144 +365,153 @@ if __name__ == "__main__":
                         cached["fuel_prices"]    = new_prices
                         cached["prices_updated"] = record_date
                         price_updates += 1
-
         if price_updates:
             save_station_cache(cache_path, station_cache)
         print(f"Local stations with fresh prices: {price_updates}")
 
-        # 7. Build price map from ALL cached local stations that have any prices
-        price_map = {
-            nid: station["fuel_prices"]
-            for nid, station in station_cache.items()
-            if station.get("fuel_prices")
-        }
-        print(f"Local stations with any known prices: {len(price_map)}")
-
-        updated = datetime.datetime.now().strftime("%-d %B %Y at %H:%M")
-        layout_path = root / "_layouts" / "fuel.html"
-
-        if not price_map:
-            output = (
-                "<h2>Cheapest Fuel Data</h2>\n"
-                f"<p><em>No price data yet for stations near Cheltenham. Last checked: {html.escape(updated)}</em></p>"
-            )
-            layout_contents = layout_path.open().read()
-            layout_contents = helper.replace_chunk(layout_contents, "fuel_marker", output)
-            layout_path.open("w").write(layout_contents)
-            print("No price data available — page updated with status message.")
-            raise SystemExit(0)
-
-        # 8. Collect all distinct fuel-type codes across all priced stations
-        all_fuel_types = set()
-        for prices in price_map.values():
-            for p in prices:
-                ft = p.get("fuel_type") or ""
-                if ft:
-                    all_fuel_types.add(ft)
-        fuel_type_cols = sorted(all_fuel_types)
-
-        # 9. Find cheapest station per fuel type (from all stations with prices)
-        cheapest = {}
-        for nid, prices in price_map.items():
-            station = station_cache[nid]
-            name    = station["trading_name"]
-            brand   = station["brand_name"]
-            dist    = station["distance_miles"]
-            addr    = station.get("address") or ""
-            for p in prices:
-                ft    = p.get("fuel_type") or ""
-                pence = p.get("price")
-                if ft and pence is not None:
-                    pence = float(pence)
-                    if ft not in cheapest or pence < cheapest[ft]["price"]:
-                        cheapest[ft] = {"price": pence, "name": name, "brand": brand, "distance": dist, "address": addr}
-
-        # 10. Render hero callout
-        hero_lines = []
-        for ft in fuel_type_cols:
-            if ft not in cheapest:
-                continue
-            c           = cheapest[ft]
-            name        = html.escape(c["name"])
-            brand       = html.escape(c["brand"]) if c.get("brand") else ""
-            raw_address = c.get("address") or ""
-            address     = maps_link(raw_address, html.escape(raw_address)) if raw_address else ""
-            label       = html.escape(fuel_label(ft))
-            brand_str   = f" ({brand})" if brand and c["brand"] != c["name"] else ""
-            addr_str    = f", {address}" if address else ""
-            hero_lines.append(f"<li>&rarr; {label} @ {c['price']:.1f}p/L from {name}{brand_str}</li>")
-
-        # 11. Render price table — all local stations sorted by distance then name
-        fuel_label_cols = [fuel_label(ft) for ft in fuel_type_cols]
-
-        priced_stations = sorted(
-            price_map.keys(),
-            key=lambda nid: (station_cache[nid]["distance_miles"], (station_cache[nid]["trading_name"] or "").lower())
-        )
-
-        # HTML table so columns carry data-val attributes for JS sort
-        columns = ["Station", "Address"] + fuel_label_cols + ["Last Updated"]
-        th_cells = "".join(
-            f'<th scope="col" class="{"number" if 2 <= i < 2 + len(fuel_label_cols) else "date" if i == len(columns) - 1 else ""}" data-col="{i}">{html.escape(col)}</th>'
-            for i, col in enumerate(columns)
-        )
-        html_rows = [f'<table id="fuel-table" data-sortable><thead><tr>{th_cells}</tr></thead><tbody>']
-
-        for nid in priced_stations:
-            station      = station_cache[nid]
-            name         = station["trading_name"]
-            addr_col     = station.get("address") or ""
-            price_lookup = {p["fuel_type"]: p for p in price_map[nid] if p.get("fuel_type")}
-
-            # Most recent price_change_effective_timestamp across all fuel types
+        # 5. Per-station latest as_of date.
+        def station_as_of(station):
             change_dates = [
-                p.get("price_change_effective_timestamp", "")[:10]
-                for p in price_map[nid]
+                (p.get("price_change_effective_timestamp") or "")[:10]
+                for p in (station.get("fuel_prices") or [])
                 if p.get("price_change_effective_timestamp")
             ]
-            as_of = max(change_dates) if change_dates else (station.get("prices_updated") or "?")
+            return max(change_dates) if change_dates else (station.get("prices_updated") or "")
 
-            # data-val keeps the plain lowercased address for sorting; the visible
-            # cell content becomes a Google Maps search link.
-            addr_html = maps_link(addr_col, html.escape(addr_col)) if addr_col else ""
+        priced = {nid: s for nid, s in station_cache.items() if s.get("fuel_prices")}
 
-            cells  = f'<td data-val="{html.escape(name.lower())}">{html.escape(name)}</td>'
-            cells += f'<td data-val="{html.escape(addr_col.lower())}">{addr_html}</td>'
+        # 6. De-dupe: same name + postcode = same forecourt; keep the freshest.
+        deduped = {}
+        for nid, s in priced.items():
+            key = ((s.get("trading_name") or "").strip().lower(),
+                   (s.get("postcode") or "").replace(" ", "").upper())
+            keep = deduped.get(key)
+            if keep is None or station_as_of(s) > station_as_of(priced[keep]):
+                deduped[key] = nid
+        kept_nids = set(deduped.values())
+        print(f"Priced stations: {len(priced)} → {len(kept_nids)} after de-dupe")
+
+        # 7. Fuel-type columns (fixed order, only those present).
+        FUEL_ORDER = ["E10", "E5", "B7_STANDARD", "B7_PREMIUM", "SDV5"]
+        present = set()
+        for nid in kept_nids:
+            for p in station_cache[nid]["fuel_prices"]:
+                if p.get("fuel_type"):
+                    present.add(p["fuel_type"])
+        fuel_type_cols = [ft for ft in FUEL_ORDER if ft in present] + \
+                         sorted(ft for ft in present if ft not in FUEL_ORDER)
+
+        # 8. Cheapest station per fuel type + area context (min / typical).
+        cheapest = {}          # ft -> {"price","nid"}
+        all_vals = {ft: [] for ft in fuel_type_cols}
+        for nid in kept_nids:
+            lookup = {p["fuel_type"]: p for p in station_cache[nid]["fuel_prices"] if p.get("fuel_type")}
             for ft in fuel_type_cols:
-                if ft in price_lookup:
-                    pence = price_lookup[ft].get("price")
-                    if pence is not None:
-                        cells += f'<td class="number" data-val="{float(pence):.1f}">{float(pence):.1f}p</td>'
-                    else:
-                        cells += '<td class="number" data-val="9999">-</td>'
+                p = lookup.get(ft)
+                if p and p.get("price") is not None:
+                    val = float(p["price"])
+                    all_vals[ft].append(val)
+                    if ft not in cheapest or val < cheapest[ft]["price"]:
+                        cheapest[ft] = {"price": val, "nid": nid}
+
+        def median(xs):
+            xs = sorted(xs)
+            n = len(xs)
+            if not n:
+                return None
+            mid = n // 2
+            return xs[mid] if n % 2 else (xs[mid - 1] + xs[mid]) / 2
+
+        context = []
+        for ft in fuel_type_cols:
+            vals = all_vals[ft]
+            if vals:
+                context.append({
+                    "label":    fuel_label(ft),
+                    "cheapest": round(min(vals), 1),
+                    "typical":  round(median(vals), 1),
+                })
+
+        # 9. Build render-ready rows, sorted by distance then name.
+        ordered = sorted(
+            kept_nids,
+            key=lambda n: (station_cache[n]["distance_miles"], (station_cache[n]["trading_name"] or "").lower()),
+        )
+
+        stations = []
+        for nid in ordered:
+            s      = station_cache[nid]
+            lookup = {p["fuel_type"]: p for p in s["fuel_prices"] if p.get("fuel_type")}
+            as_of  = station_as_of(s) or "?"
+            try:
+                stale = (today - datetime.date.fromisoformat(as_of)).days > STALE_DAYS
+            except ValueError:
+                stale = True
+
+            cells = []
+            for ft in fuel_type_cols:
+                p = lookup.get(ft)
+                if p and p.get("price") is not None:
+                    val = float(p["price"])
+                    cells.append({
+                        "display":  f"{val:.1f}p",
+                        "val":      f"{val:.1f}",
+                        "cheapest": cheapest.get(ft, {}).get("nid") == nid,
+                    })
                 else:
-                    cells += '<td class="number" data-val="9999">-</td>'
-            cells += f'<td class="date" data-val="{as_of}">{as_of}</td>'
-            html_rows.append(f"<tr>{cells}</tr>")
+                    cells.append({"display": "–", "val": "9999", "cheapest": False})
 
-        html_rows.append("</tbody></table>")
+            name = clean_name(s["trading_name"])
 
-        # 12. Assemble and write output
-        out_date = f"<li>As of {html.escape(updated)}</li>"
+            # Cheapest available price for this station, for the map popup.
+            avail = [float(lookup[ft]["price"]) for ft in fuel_type_cols
+                     if lookup.get(ft) and lookup[ft].get("price") is not None]
+            popup = name
+            if avail:
+                popup += f" — from {min(avail):.1f}p"
 
-        layout_contents = layout_path.open().read()
-        layout_contents = helper.replace_chunk(layout_contents, "fuel_date", out_date)
-        layout_path.open("w").write(layout_contents)
+            stations.append({
+                "name":           name,
+                "address":        s.get("address") or "",
+                "postcode":       s.get("postcode") or "",
+                "lat":            s.get("lat"),
+                "lon":            s.get("lon"),
+                "distance_miles": s["distance_miles"],
+                "is_supermarket": s.get("is_supermarket", False),
+                "as_of":          as_of,
+                "stale":          stale,
+                "cells":          cells,
+                "popup":          popup,
+            })
 
-        out_lines = "\n".join(hero_lines)
+        headline = []
+        for ft in fuel_type_cols:
+            if ft in cheapest:
+                s = station_cache[cheapest[ft]["nid"]]
+                raw_brand = s.get("brand_name") or ""
+                brand = clean_name(raw_brand)
+                headline.append({
+                    "label": fuel_label(ft),
+                    "price": f"{cheapest[ft]['price']:.1f}",
+                    "name":  clean_name(s["trading_name"]),
+                    "brand": brand if brand and raw_brand.lower() != s["trading_name"].lower() else "",
+                })
 
-        layout_contents = layout_path.open().read()
-        layout_contents = helper.replace_chunk(layout_contents, "fuel_lines", out_lines)
-        layout_path.open("w").write(layout_contents)
 
+        payload = {
+            "updated":       datetime.datetime.now().strftime("%-d %B %Y at %H:%M"),
+            "updated_iso":   today_str,
+            "radius_miles":  RADIUS_MILES,
+            "lookback_days": PRICE_LOOKBACK_DAYS,
+            "stale_days":    STALE_DAYS,
+            "columns":       [fuel_label(ft) for ft in fuel_type_cols],
+            "headline":      headline,
+            "context":       context,
+            "stations":      stations,
+        }
 
-        out_table = f"<p><em>Last updated: {html.escape(updated)}</em></p>\n\n"
-        out_table += "\n".join(html_rows)
-
-        layout_contents = layout_path.open().read()
-        layout_contents = helper.replace_chunk(layout_contents, "fuel_marker", out_table)
-        layout_path.open("w").write(layout_contents)
-        print("Fuel prices page updated successfully.")
+        out_path.write_text(json.dumps(payload, indent=2, ensure_ascii=False))
+        print(f"Wrote {len(stations)} stations to {out_path}")
 
     except FileNotFoundError:
         print("File does not exist, unable to proceed")

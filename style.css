@@ -773,7 +773,7 @@ table[data-sortable] th.sort-desc::after {
 .crime-data-table .number,
 .planning-table .number,
 .land-registry-table .number,
-#fuel-table .number {
+.fuel-table .number {
     text-align: right;
 }
 
@@ -788,39 +788,12 @@ table[data-sortable] th.sort-desc::after {
 .planning-table .date,
 .land-registry-table .postcode,
 .land-registry-table .date,
-#fuel-table .date,
+.fuel-table .date,
 .postcode,
 .date {
     white-space: nowrap;
 }
 
-#fuel-table {
-    width: 100%;
-    border-collapse: collapse;
-    font-size: 0.9rem;
-}
-
-#fuel-table th,
-#fuel-table td {
-    padding: 0.4em 0.6em;
-    text-align: left;
-    border-bottom: 1px solid var(--border);
-    border-left: none;
-    border-right: none;
-    border-top: none;
-}
-
-#fuel-table th {
-    cursor: pointer;
-    user-select: none;
-    white-space: nowrap;
-    background-color: var(--accent);
-    color: var(--accent-text);
-}
-
-#fuel-table tr:nth-child(even) {
-    background-color: var(--bg-alt);
-}
 
 .single {
     margin: 1em 0 2em;

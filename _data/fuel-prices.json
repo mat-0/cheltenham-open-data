@@ -1,0 +1,4599 @@
+{
+  "updated": "7 September 2026 at 21:49",
+  "updated_iso": "2026-09-07",
+  "radius_miles": 20,
+  "lookback_days": 25,
+  "stale_days": 10,
+  "columns": [
+    "Unleaded",
+    "Prem Unleaded",
+    "Diesel",
+    "Prem Diesel",
+    "B10"
+  ],
+  "headline": [
+    {
+      "label": "Unleaded",
+      "price": "153.9",
+      "name": "Sainsburys Gloucester Quays",
+      "brand": "Sainsburys"
+    },
+    {
+      "label": "Prem Unleaded",
+      "price": "162.9",
+      "name": "Perry & Jordan Gloucester Ltd",
+      "brand": ""
+    },
+    {
+      "label": "Diesel",
+      "price": "176.7",
+      "name": "ASDA Quedgeley Supermarket",
+      "brand": "ASDA"
+    },
+    {
+      "label": "Prem Diesel",
+      "price": "189.9",
+      "name": "MFG Morrisons Gloucester Metz Way",
+      "brand": "Morrisons"
+    },
+    {
+      "label": "B10",
+      "price": "182.9",
+      "name": "Perry & Jordan Gloucester Ltd",
+      "brand": ""
+    }
+  ],
+  "context": [
+    {
+      "label": "Unleaded",
+      "cheapest": 153.9,
+      "typical": 164.9
+    },
+    {
+      "label": "Prem Unleaded",
+      "cheapest": 162.9,
+      "typical": 179.9
+    },
+    {
+      "label": "Diesel",
+      "cheapest": 176.7,
+      "typical": 185.9
+    },
+    {
+      "label": "Prem Diesel",
+      "cheapest": 189.9,
+      "typical": 203.9
+    },
+    {
+      "label": "B10",
+      "cheapest": 182.9,
+      "typical": 182.9
+    }
+  ],
+  "stations": [
+    {
+      "name": "Shell Waitrose Cheltenham",
+      "address": "HONEYBOURNE WAY, GL50 3QW",
+      "postcode": "GL50 3QW",
+      "lat": 51.902279,
+      "lon": -2.085742,
+      "distance_miles": 0.4,
+      "is_supermarket": false,
+      "as_of": "2026-09-07",
+      "stale": false,
+      "cells": [
+        {
+          "display": "161.9p",
+          "val": "161.9",
+          "cheapest": false
+        },
+        {
+          "display": "179.9p",
+          "val": "179.9",
+          "cheapest": false
+        },
+        {
+          "display": "182.9p",
+          "val": "182.9",
+          "cheapest": false
+        },
+        {
+          "display": "204.9p",
+          "val": "204.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Shell Waitrose Cheltenham — from 161.9p"
+    },
+    {
+      "name": "Cheltenham Superstore - Petrol Filling Station",
+      "address": "COLLETTS DR, GL51 8JQ",
+      "postcode": "GL51 8JQ",
+      "lat": 51.90591,
+      "lon": -2.08674,
+      "distance_miles": 0.61,
+      "is_supermarket": true,
+      "as_of": "2026-09-04",
+      "stale": false,
+      "cells": [
+        {
+          "display": "160.9p",
+          "val": "160.9",
+          "cheapest": false
+        },
+        {
+          "display": "170.9p",
+          "val": "170.9",
+          "cheapest": false
+        },
+        {
+          "display": "178.9p",
+          "val": "178.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Cheltenham Superstore - Petrol Filling Station — from 160.9p"
+    },
+    {
+      "name": "Cheltenham Service Station",
+      "address": "TEXACO, GL50 2JA",
+      "postcode": "GL50 2JA",
+      "lat": 51.893427,
+      "lon": -2.090225,
+      "distance_miles": 0.65,
+      "is_supermarket": false,
+      "as_of": "2026-09-07",
+      "stale": false,
+      "cells": [
+        {
+          "display": "160.9p",
+          "val": "160.9",
+          "cheapest": false
+        },
+        {
+          "display": "180.9p",
+          "val": "180.9",
+          "cheapest": false
+        },
+        {
+          "display": "182.9p",
+          "val": "182.9",
+          "cheapest": false
+        },
+        {
+          "display": "202.9p",
+          "val": "202.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Cheltenham Service Station — from 160.9p"
+    },
+    {
+      "name": "Prestbury Road SF Connect",
+      "address": "80-86 PRESTBURY ROAD, GL52 2DJ",
+      "postcode": "GL52 2DJ",
+      "lat": 51.906883,
+      "lon": -2.062605,
+      "distance_miles": 0.85,
+      "is_supermarket": false,
+      "as_of": "2026-09-06",
+      "stale": false,
+      "cells": [
+        {
+          "display": "163.9p",
+          "val": "163.9",
+          "cheapest": false
+        },
+        {
+          "display": "184.9p",
+          "val": "184.9",
+          "cheapest": false
+        },
+        {
+          "display": "182.9p",
+          "val": "182.9",
+          "cheapest": false
+        },
+        {
+          "display": "203.9p",
+          "val": "203.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Prestbury Road SF Connect — from 163.9p"
+    },
+    {
+      "name": "Sainsburys Oakley",
+      "address": "PRIORS ROAD, GL52 5AQ",
+      "postcode": "GL52 5AQ",
+      "lat": 51.90245,
+      "lon": -2.05038,
+      "distance_miles": 1.2,
+      "is_supermarket": true,
+      "as_of": "2026-09-04",
+      "stale": false,
+      "cells": [
+        {
+          "display": "159.9p",
+          "val": "159.9",
+          "cheapest": false
+        },
+        {
+          "display": "171.9p",
+          "val": "171.9",
+          "cheapest": false
+        },
+        {
+          "display": "177.9p",
+          "val": "177.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Sainsburys Oakley — from 159.9p"
+    },
+    {
+      "name": "Shell Little Waitrose Cheltenham",
+      "address": "352-356 GLOUCESTER ROAD, GL51 7AY",
+      "postcode": "GL51 7AY",
+      "lat": 51.894689,
+      "lon": -2.105153,
+      "distance_miles": 1.2,
+      "is_supermarket": false,
+      "as_of": "2026-09-07",
+      "stale": false,
+      "cells": [
+        {
+          "display": "160.9p",
+          "val": "160.9",
+          "cheapest": false
+        },
+        {
+          "display": "179.9p",
+          "val": "179.9",
+          "cheapest": false
+        },
+        {
+          "display": "181.9p",
+          "val": "181.9",
+          "cheapest": false
+        },
+        {
+          "display": "204.9p",
+          "val": "204.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Shell Little Waitrose Cheltenham — from 160.9p"
+    },
+    {
+      "name": "ASDA Sixways Express Petrol",
+      "address": "LONDON ROAD, GL52 6HZ",
+      "postcode": "GL52 6HZ",
+      "lat": 51.888,
+      "lon": -2.053,
+      "distance_miles": 1.31,
+      "is_supermarket": false,
+      "as_of": "2026-09-07",
+      "stale": false,
+      "cells": [
+        {
+          "display": "165.9p",
+          "val": "165.9",
+          "cheapest": false
+        },
+        {
+          "display": "184.9p",
+          "val": "184.9",
+          "cheapest": false
+        },
+        {
+          "display": "187.9p",
+          "val": "187.9",
+          "cheapest": false
+        },
+        {
+          "display": "206.9p",
+          "val": "206.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "ASDA Sixways Express Petrol — from 165.9p"
+    },
+    {
+      "name": "Red Apple Sevice Station",
+      "address": "RED APPLE, GL51 7AT",
+      "postcode": "GL51 7AT",
+      "lat": 51.894709,
+      "lon": -2.107926,
+      "distance_miles": 1.31,
+      "is_supermarket": true,
+      "as_of": "2026-09-07",
+      "stale": false,
+      "cells": [
+        {
+          "display": "159.9p",
+          "val": "159.9",
+          "cheapest": false
+        },
+        {
+          "display": "195.9p",
+          "val": "195.9",
+          "cheapest": false
+        },
+        {
+          "display": "180.9p",
+          "val": "180.9",
+          "cheapest": false
+        },
+        {
+          "display": "205.9p",
+          "val": "205.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Red Apple Sevice Station — from 159.9p"
+    },
+    {
+      "name": "MFG Arle",
+      "address": "PRINCESS ELIZABETH WAY, GL51 7PA",
+      "postcode": "GL51 7PA",
+      "lat": 51.91212,
+      "lon": -2.100541,
+      "distance_miles": 1.32,
+      "is_supermarket": false,
+      "as_of": "2026-09-06",
+      "stale": false,
+      "cells": [
+        {
+          "display": "163.9p",
+          "val": "163.9",
+          "cheapest": false
+        },
+        {
+          "display": "179.9p",
+          "val": "179.9",
+          "cheapest": false
+        },
+        {
+          "display": "183.9p",
+          "val": "183.9",
+          "cheapest": false
+        },
+        {
+          "display": "199.9p",
+          "val": "199.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "MFG Arle — from 163.9p"
+    },
+    {
+      "name": "MFG Bouncers Lane",
+      "address": "BOUNCERS LANE, GL52 5JF",
+      "postcode": "GL52 5JF",
+      "lat": 51.909892,
+      "lon": -2.046503,
+      "distance_miles": 1.54,
+      "is_supermarket": false,
+      "as_of": "2026-09-05",
+      "stale": false,
+      "cells": [
+        {
+          "display": "161.9p",
+          "val": "161.9",
+          "cheapest": false
+        },
+        {
+          "display": "175.9p",
+          "val": "175.9",
+          "cheapest": false
+        },
+        {
+          "display": "181.9p",
+          "val": "181.9",
+          "cheapest": false
+        },
+        {
+          "display": "195.9p",
+          "val": "195.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "MFG Bouncers Lane — from 161.9p"
+    },
+    {
+      "name": "EG Cheltenham PFS",
+      "address": "TEWKESBURY ROAD, GL51 9SG",
+      "postcode": "GL51 9SG",
+      "lat": 51.91537,
+      "lon": -2.102919,
+      "distance_miles": 1.55,
+      "is_supermarket": false,
+      "as_of": "2026-09-07",
+      "stale": false,
+      "cells": [
+        {
+          "display": "162.9p",
+          "val": "162.9",
+          "cheapest": false
+        },
+        {
+          "display": "182.9p",
+          "val": "182.9",
+          "cheapest": false
+        },
+        {
+          "display": "183.9p",
+          "val": "183.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "EG Cheltenham PFS — from 162.9p"
+    },
+    {
+      "name": "Sainsburys Tewkesbury Road",
+      "address": "GALLAGHER RETAIL PARK, GL51 9RR",
+      "postcode": "GL51 9RR",
+      "lat": 51.91754,
+      "lon": -2.1038,
+      "distance_miles": 1.69,
+      "is_supermarket": true,
+      "as_of": "2026-09-05",
+      "stale": false,
+      "cells": [
+        {
+          "display": "157.9p",
+          "val": "157.9",
+          "cheapest": false
+        },
+        {
+          "display": "169.9p",
+          "val": "169.9",
+          "cheapest": false
+        },
+        {
+          "display": "178.9p",
+          "val": "178.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Sainsburys Tewkesbury Road — from 157.9p"
+    },
+    {
+      "name": "MFG Morrisons Up Hatherley",
+      "address": "CAERNARVON ROAD, GL51 3BW",
+      "postcode": "GL51 3BW",
+      "lat": 51.8809,
+      "lon": -2.107124,
+      "distance_miles": 1.76,
+      "is_supermarket": true,
+      "as_of": "2026-09-06",
+      "stale": false,
+      "cells": [
+        {
+          "display": "159.9p",
+          "val": "159.9",
+          "cheapest": false
+        },
+        {
+          "display": "175.9p",
+          "val": "175.9",
+          "cheapest": false
+        },
+        {
+          "display": "181.9p",
+          "val": "181.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "MFG Morrisons Up Hatherley — from 159.9p"
+    },
+    {
+      "name": "East End Services",
+      "address": "EAST END SERVICE STATION, GL52 6YY",
+      "postcode": "GL52 6YY",
+      "lat": 51.882218,
+      "lon": -2.038709,
+      "distance_miles": 2.04,
+      "is_supermarket": false,
+      "as_of": "2026-09-07",
+      "stale": false,
+      "cells": [
+        {
+          "display": "163.9p",
+          "val": "163.9",
+          "cheapest": false
+        },
+        {
+          "display": "183.9p",
+          "val": "183.9",
+          "cheapest": false
+        },
+        {
+          "display": "185.9p",
+          "val": "185.9",
+          "cheapest": false
+        },
+        {
+          "display": "205.9p",
+          "val": "205.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "East End Services — from 163.9p"
+    },
+    {
+      "name": "ASDA Cheltenham",
+      "address": "HATHERLEY LANE, GL51 6PN",
+      "postcode": "GL51 6PN",
+      "lat": 51.891655,
+      "lon": -2.128688,
+      "distance_miles": 2.22,
+      "is_supermarket": true,
+      "as_of": "2026-09-07",
+      "stale": false,
+      "cells": [
+        {
+          "display": "159.7p",
+          "val": "159.7",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "180.7p",
+          "val": "180.7",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "ASDA Cheltenham — from 159.7p"
+    },
+    {
+      "name": "ASDA Kingswood Express Petrol",
+      "address": "CHELTENHAM ROAD, GL52 4SA",
+      "postcode": "GL52 4SA",
+      "lat": 51.942,
+      "lon": -2.065,
+      "distance_miles": 3.02,
+      "is_supermarket": false,
+      "as_of": "2026-09-07",
+      "stale": false,
+      "cells": [
+        {
+          "display": "165.9p",
+          "val": "165.9",
+          "cheapest": false
+        },
+        {
+          "display": "184.9p",
+          "val": "184.9",
+          "cheapest": false
+        },
+        {
+          "display": "186.9p",
+          "val": "186.9",
+          "cheapest": false
+        },
+        {
+          "display": "205.9p",
+          "val": "205.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "ASDA Kingswood Express Petrol — from 165.9p"
+    },
+    {
+      "name": "Shell Crosshands",
+      "address": "CIRENCESTER ROAD, GL3 4PL",
+      "postcode": "GL3 4PL",
+      "lat": 51.842137,
+      "lon": -2.149074,
+      "distance_miles": 4.96,
+      "is_supermarket": false,
+      "as_of": "2026-09-07",
+      "stale": false,
+      "cells": [
+        {
+          "display": "170.9p",
+          "val": "170.9",
+          "cheapest": false
+        },
+        {
+          "display": "194.9p",
+          "val": "194.9",
+          "cheapest": false
+        },
+        {
+          "display": "191.9p",
+          "val": "191.9",
+          "cheapest": false
+        },
+        {
+          "display": "214.9p",
+          "val": "214.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Shell Crosshands — from 170.9p"
+    },
+    {
+      "name": "Rontec Pirton Corner",
+      "address": "CHELTENHAM ROAD EAST, GL3 1AE",
+      "postcode": "GL3 1AE",
+      "lat": 51.88379,
+      "lon": -2.1922,
+      "distance_miles": 4.98,
+      "is_supermarket": false,
+      "as_of": "2026-09-07",
+      "stale": false,
+      "cells": [
+        {
+          "display": "167.9p",
+          "val": "167.9",
+          "cheapest": false
+        },
+        {
+          "display": "186.9p",
+          "val": "186.9",
+          "cheapest": false
+        },
+        {
+          "display": "189.9p",
+          "val": "189.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Rontec Pirton Corner — from 167.9p"
+    },
+    {
+      "name": "MFG Andoversford",
+      "address": "SHIPTON OLIFFE, GL54 4HS",
+      "postcode": "GL54 4HS",
+      "lat": 51.870113,
+      "lon": -1.963483,
+      "distance_miles": 5.28,
+      "is_supermarket": false,
+      "as_of": "2026-09-04",
+      "stale": false,
+      "cells": [
+        {
+          "display": "165.9p",
+          "val": "165.9",
+          "cheapest": false
+        },
+        {
+          "display": "179.9p",
+          "val": "179.9",
+          "cheapest": false
+        },
+        {
+          "display": "187.9p",
+          "val": "187.9",
+          "cheapest": false
+        },
+        {
+          "display": "199.9p",
+          "val": "199.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "MFG Andoversford — from 165.9p"
+    },
+    {
+      "name": "Gloucester Brockworth Extra - Petrol Filling Station",
+      "address": "GLOUCESTER BUSINESS PARK, GL3 4AA",
+      "postcode": "GL3 4AA",
+      "lat": 51.84852,
+      "lon": -2.17185,
+      "distance_miles": 5.31,
+      "is_supermarket": true,
+      "as_of": "2026-09-04",
+      "stale": false,
+      "cells": [
+        {
+          "display": "156.9p",
+          "val": "156.9",
+          "cheapest": false
+        },
+        {
+          "display": "166.9p",
+          "val": "166.9",
+          "cheapest": false
+        },
+        {
+          "display": "176.9p",
+          "val": "176.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Gloucester Brockworth Extra - Petrol Filling Station — from 156.9p"
+    },
+    {
+      "name": "MFG Hucclecote",
+      "address": "HUCCLECOTE ROAD, GL3 3RX",
+      "postcode": "GL3 3RX",
+      "lat": 51.855102,
+      "lon": -2.1866,
+      "distance_miles": 5.54,
+      "is_supermarket": false,
+      "as_of": "2026-09-04",
+      "stale": false,
+      "cells": [
+        {
+          "display": "162.9p",
+          "val": "162.9",
+          "cheapest": false
+        },
+        {
+          "display": "179.9p",
+          "val": "179.9",
+          "cheapest": false
+        },
+        {
+          "display": "182.9p",
+          "val": "182.9",
+          "cheapest": false
+        },
+        {
+          "display": "199.9p",
+          "val": "199.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "MFG Hucclecote — from 162.9p"
+    },
+    {
+      "name": "Sainsburys Barnwood",
+      "address": "BARNETT WAY, GL4 3RT",
+      "postcode": "GL4 3RT",
+      "lat": 51.8648,
+      "lon": -2.19982,
+      "distance_miles": 5.71,
+      "is_supermarket": true,
+      "as_of": "2026-09-05",
+      "stale": false,
+      "cells": [
+        {
+          "display": "155.9p",
+          "val": "155.9",
+          "cheapest": false
+        },
+        {
+          "display": "167.9p",
+          "val": "167.9",
+          "cheapest": false
+        },
+        {
+          "display": "176.9p",
+          "val": "176.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Sainsburys Barnwood — from 155.9p"
+    },
+    {
+      "name": "MFG Longlevens",
+      "address": "131 CHELTENHAM ROAD, GL2 0JH",
+      "postcode": "GL2 0JH",
+      "lat": 51.87411,
+      "lon": -2.211043,
+      "distance_miles": 5.93,
+      "is_supermarket": false,
+      "as_of": "2026-09-04",
+      "stale": false,
+      "cells": [
+        {
+          "display": "164.9p",
+          "val": "164.9",
+          "cheapest": false
+        },
+        {
+          "display": "179.9p",
+          "val": "179.9",
+          "cheapest": false
+        },
+        {
+          "display": "185.9p",
+          "val": "185.9",
+          "cheapest": false
+        },
+        {
+          "display": "199.9p",
+          "val": "199.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "MFG Longlevens — from 164.9p"
+    },
+    {
+      "name": "Barnwood SF Connect",
+      "address": "BARNWOOD ROAD, GL4 3HA",
+      "postcode": "GL4 3HA",
+      "lat": 51.863843,
+      "lon": -2.211503,
+      "distance_miles": 6.19,
+      "is_supermarket": false,
+      "as_of": "2026-09-07",
+      "stale": false,
+      "cells": [
+        {
+          "display": "163.9p",
+          "val": "163.9",
+          "cheapest": false
+        },
+        {
+          "display": "184.9p",
+          "val": "184.9",
+          "cheapest": false
+        },
+        {
+          "display": "184.9p",
+          "val": "184.9",
+          "cheapest": false
+        },
+        {
+          "display": "205.9p",
+          "val": "205.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Barnwood SF Connect — from 163.9p"
+    },
+    {
+      "name": "Ascona Twigworth Service Station",
+      "address": "TEWKSBURY ROAD, GL2 9PG",
+      "postcode": "GL2 9PG",
+      "lat": 51.895514,
+      "lon": -2.229941,
+      "distance_miles": 6.48,
+      "is_supermarket": false,
+      "as_of": "2026-09-07",
+      "stale": false,
+      "cells": [
+        {
+          "display": "164.9p",
+          "val": "164.9",
+          "cheapest": false
+        },
+        {
+          "display": "194.9p",
+          "val": "194.9",
+          "cheapest": false
+        },
+        {
+          "display": "185.9p",
+          "val": "185.9",
+          "cheapest": false
+        },
+        {
+          "display": "214.9p",
+          "val": "214.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Ascona Twigworth Service Station — from 164.9p"
+    },
+    {
+      "name": "Churn Valley Service Station",
+      "address": "COLESBOURNE VILLAGE SHOP & FILLING STATION, COLESBOURNE, CHELTENHAM, GL53 9NP",
+      "postcode": "GL53 9NP",
+      "lat": 51.817814,
+      "lon": -2.000011,
+      "distance_miles": 6.52,
+      "is_supermarket": true,
+      "as_of": "2026-09-07",
+      "stale": false,
+      "cells": [
+        {
+          "display": "162.7p",
+          "val": "162.7",
+          "cheapest": false
+        },
+        {
+          "display": "174.7p",
+          "val": "174.7",
+          "cheapest": false
+        },
+        {
+          "display": "184.7p",
+          "val": "184.7",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Churn Valley Service Station — from 162.7p"
+    },
+    {
+      "name": "Ascona Parklands Service Station",
+      "address": "A40 NORTHERN BYPASS, GL2 9DJ",
+      "postcode": "GL2 9DJ",
+      "lat": 51.881342,
+      "lon": -2.231017,
+      "distance_miles": 6.64,
+      "is_supermarket": false,
+      "as_of": "2026-09-07",
+      "stale": false,
+      "cells": [
+        {
+          "display": "164.9p",
+          "val": "164.9",
+          "cheapest": false
+        },
+        {
+          "display": "194.9p",
+          "val": "194.9",
+          "cheapest": false
+        },
+        {
+          "display": "185.9p",
+          "val": "185.9",
+          "cheapest": false
+        },
+        {
+          "display": "214.9p",
+          "val": "214.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Ascona Parklands Service Station — from 164.9p"
+    },
+    {
+      "name": "MFG Morrisons Gloucester Metz Way",
+      "address": "METZ WAY/TRIANGLE WAY, GL1 1AH",
+      "postcode": "GL1 1AH",
+      "lat": 51.860435,
+      "lon": -2.224617,
+      "distance_miles": 6.8,
+      "is_supermarket": true,
+      "as_of": "2026-09-06",
+      "stale": false,
+      "cells": [
+        {
+          "display": "157.9p",
+          "val": "157.9",
+          "cheapest": false
+        },
+        {
+          "display": "175.9p",
+          "val": "175.9",
+          "cheapest": false
+        },
+        {
+          "display": "179.9p",
+          "val": "179.9",
+          "cheapest": false
+        },
+        {
+          "display": "189.9p",
+          "val": "189.9",
+          "cheapest": true
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "MFG Morrisons Gloucester Metz Way — from 157.9p"
+    },
+    {
+      "name": "Winchcombe Fuel Express Automat",
+      "address": "BROADWAY ROAD, GL54 5NT",
+      "postcode": "GL54 5NT",
+      "lat": 51.963227,
+      "lon": -1.956052,
+      "distance_miles": 6.83,
+      "is_supermarket": false,
+      "as_of": "2026-09-07",
+      "stale": false,
+      "cells": [
+        {
+          "display": "164.7p",
+          "val": "164.7",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "184.7p",
+          "val": "184.7",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Winchcombe Fuel Express Automat — from 164.7p"
+    },
+    {
+      "name": "Lemar Service Station",
+      "address": "GLOUCESTER STADIUM LTD, GL1 3PX",
+      "postcode": "GL1 3PX",
+      "lat": 51.863842,
+      "lon": -2.227994,
+      "distance_miles": 6.84,
+      "is_supermarket": true,
+      "as_of": "2026-09-05",
+      "stale": false,
+      "cells": [
+        {
+          "display": "155.9p",
+          "val": "155.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "176.9p",
+          "val": "176.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Lemar Service Station — from 155.9p"
+    },
+    {
+      "name": "Ashchurch SF Connect",
+      "address": "ASHCHURCH ROAD, GL20 8JN",
+      "postcode": "GL20 8JN",
+      "lat": 51.99665,
+      "lon": -2.1161,
+      "distance_miles": 6.94,
+      "is_supermarket": false,
+      "as_of": "2026-09-07",
+      "stale": false,
+      "cells": [
+        {
+          "display": "168.9p",
+          "val": "168.9",
+          "cheapest": false
+        },
+        {
+          "display": "189.9p",
+          "val": "189.9",
+          "cheapest": false
+        },
+        {
+          "display": "188.9p",
+          "val": "188.9",
+          "cheapest": false
+        },
+        {
+          "display": "209.9p",
+          "val": "209.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Ashchurch SF Connect — from 168.9p"
+    },
+    {
+      "name": "MFG Matson",
+      "address": "191 PAINSWICK ROAD, GL4 4BS",
+      "postcode": "GL4 4BS",
+      "lat": 51.842457,
+      "lon": -2.217732,
+      "distance_miles": 7.13,
+      "is_supermarket": false,
+      "as_of": "2026-09-04",
+      "stale": false,
+      "cells": [
+        {
+          "display": "162.9p",
+          "val": "162.9",
+          "cheapest": false
+        },
+        {
+          "display": "179.9p",
+          "val": "179.9",
+          "cheapest": false
+        },
+        {
+          "display": "184.9p",
+          "val": "184.9",
+          "cheapest": false
+        },
+        {
+          "display": "199.9p",
+          "val": "199.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "MFG Matson — from 162.9p"
+    },
+    {
+      "name": "ASDA Gloucester Supercentre",
+      "address": "BRUTON WAY, GL1 1DS",
+      "postcode": "GL1 1DS",
+      "lat": 51.863517,
+      "lon": -2.235279,
+      "distance_miles": 7.14,
+      "is_supermarket": true,
+      "as_of": "2026-09-07",
+      "stale": false,
+      "cells": [
+        {
+          "display": "157.7p",
+          "val": "157.7",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "178.7p",
+          "val": "178.7",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "ASDA Gloucester Supercentre — from 157.7p"
+    },
+    {
+      "name": "PJ Nicholls Ltd Tewkesbury",
+      "address": "P J NICHOLLS LTD, GL20 8DT",
+      "postcode": "GL20 8DT",
+      "lat": 51.995527,
+      "lon": -2.138245,
+      "distance_miles": 7.15,
+      "is_supermarket": false,
+      "as_of": "2026-09-07",
+      "stale": false,
+      "cells": [
+        {
+          "display": "167.9p",
+          "val": "167.9",
+          "cheapest": false
+        },
+        {
+          "display": "190.9p",
+          "val": "190.9",
+          "cheapest": false
+        },
+        {
+          "display": "187.9p",
+          "val": "187.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "PJ Nicholls Ltd Tewkesbury — from 167.9p"
+    },
+    {
+      "name": "Gloucester Eastern Ave Esso Express",
+      "address": "EASTERN AVE, GL4 6QS",
+      "postcode": "GL4 6QS",
+      "lat": 51.84946,
+      "lon": -2.22575,
+      "distance_miles": 7.17,
+      "is_supermarket": false,
+      "as_of": "2026-09-04",
+      "stale": false,
+      "cells": [
+        {
+          "display": "163.9p",
+          "val": "163.9",
+          "cheapest": false
+        },
+        {
+          "display": "170.9p",
+          "val": "170.9",
+          "cheapest": false
+        },
+        {
+          "display": "185.9p",
+          "val": "185.9",
+          "cheapest": false
+        },
+        {
+          "display": "191.9p",
+          "val": "191.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Gloucester Eastern Ave Esso Express — from 163.9p"
+    },
+    {
+      "name": "MFG Morrisons Tewkesbury",
+      "address": "ASHCHURCH ROAD, GL20 5QZ",
+      "postcode": "GL20 5QZ",
+      "lat": 51.994062,
+      "lon": -2.147749,
+      "distance_miles": 7.21,
+      "is_supermarket": true,
+      "as_of": "2026-09-06",
+      "stale": false,
+      "cells": [
+        {
+          "display": "165.9p",
+          "val": "165.9",
+          "cheapest": false
+        },
+        {
+          "display": "175.9p",
+          "val": "175.9",
+          "cheapest": false
+        },
+        {
+          "display": "185.9p",
+          "val": "185.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "MFG Morrisons Tewkesbury — from 165.9p"
+    },
+    {
+      "name": "MFG London Road",
+      "address": "17 LONDON ROAD, GL1 3HB",
+      "postcode": "GL1 3HB",
+      "lat": 51.867442,
+      "lon": -2.239852,
+      "distance_miles": 7.24,
+      "is_supermarket": false,
+      "as_of": "2026-09-04",
+      "stale": false,
+      "cells": [
+        {
+          "display": "159.9p",
+          "val": "159.9",
+          "cheapest": false
+        },
+        {
+          "display": "179.9p",
+          "val": "179.9",
+          "cheapest": false
+        },
+        {
+          "display": "181.9p",
+          "val": "181.9",
+          "cheapest": false
+        },
+        {
+          "display": "199.9p",
+          "val": "199.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "MFG London Road — from 159.9p"
+    },
+    {
+      "name": "MFG Teddington Hands",
+      "address": "A435-A438 ROUNDABOUT, GL20 8NE",
+      "postcode": "GL20 8NE",
+      "lat": 52.00315,
+      "lon": -2.054593,
+      "distance_miles": 7.26,
+      "is_supermarket": false,
+      "as_of": "2026-09-04",
+      "stale": false,
+      "cells": [
+        {
+          "display": "165.9p",
+          "val": "165.9",
+          "cheapest": false
+        },
+        {
+          "display": "175.9p",
+          "val": "175.9",
+          "cheapest": false
+        },
+        {
+          "display": "185.9p",
+          "val": "185.9",
+          "cheapest": false
+        },
+        {
+          "display": "195.9p",
+          "val": "195.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "MFG Teddington Hands — from 165.9p"
+    },
+    {
+      "name": "Perry & Jordan Gloucester Ltd",
+      "address": "PERRY & JORDAN LTD, GL1 2SQ",
+      "postcode": "GL1 2SQ",
+      "lat": 51.870953,
+      "lon": -2.246388,
+      "distance_miles": 7.44,
+      "is_supermarket": false,
+      "as_of": "2026-08-13",
+      "stale": true,
+      "cells": [
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "162.9p",
+          "val": "162.9",
+          "cheapest": true
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "182.9p",
+          "val": "182.9",
+          "cheapest": true
+        }
+      ],
+      "popup": "Perry & Jordan Gloucester Ltd — from 162.9p"
+    },
+    {
+      "name": "Gloucester Superstore - Petrol Filling Station",
+      "address": "ST OSWALDS ROAD, GL1 2SG",
+      "postcode": "GL1 2SG",
+      "lat": 51.87138,
+      "lon": -2.24956,
+      "distance_miles": 7.56,
+      "is_supermarket": true,
+      "as_of": "2026-09-04",
+      "stale": false,
+      "cells": [
+        {
+          "display": "155.9p",
+          "val": "155.9",
+          "cheapest": false
+        },
+        {
+          "display": "165.9p",
+          "val": "165.9",
+          "cheapest": false
+        },
+        {
+          "display": "176.9p",
+          "val": "176.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Gloucester Superstore - Petrol Filling Station — from 155.9p"
+    },
+    {
+      "name": "TGC - Tewkesbury",
+      "address": "MITTON MANOR GARAGE, GL20 5DA",
+      "postcode": "GL20 5DA",
+      "lat": 51.998867,
+      "lon": -2.151887,
+      "distance_miles": 7.58,
+      "is_supermarket": false,
+      "as_of": "2026-09-04",
+      "stale": false,
+      "cells": [
+        {
+          "display": "169.9p",
+          "val": "169.9",
+          "cheapest": false
+        },
+        {
+          "display": "190.9p",
+          "val": "190.9",
+          "cheapest": false
+        },
+        {
+          "display": "189.9p",
+          "val": "189.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "TGC - Tewkesbury — from 169.9p"
+    },
+    {
+      "name": "Westgate Services",
+      "address": "WESTGATE GARAGE, GL1 2RN",
+      "postcode": "GL1 2RN",
+      "lat": 51.868964,
+      "lon": -2.255629,
+      "distance_miles": 7.85,
+      "is_supermarket": false,
+      "as_of": "2026-09-07",
+      "stale": false,
+      "cells": [
+        {
+          "display": "159.9p",
+          "val": "159.9",
+          "cheapest": false
+        },
+        {
+          "display": "179.9p",
+          "val": "179.9",
+          "cheapest": false
+        },
+        {
+          "display": "180.9p",
+          "val": "180.9",
+          "cheapest": false
+        },
+        {
+          "display": "200.9p",
+          "val": "200.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Westgate Services — from 159.9p"
+    },
+    {
+      "name": "Sainsburys Gloucester Quays",
+      "address": "ST. ANN WAY, GL2 5SA",
+      "postcode": "GL2 5SA",
+      "lat": 51.85883,
+      "lon": -2.25873,
+      "distance_miles": 8.19,
+      "is_supermarket": true,
+      "as_of": "2026-09-06",
+      "stale": false,
+      "cells": [
+        {
+          "display": "153.9p",
+          "val": "153.9",
+          "cheapest": true
+        },
+        {
+          "display": "165.9p",
+          "val": "165.9",
+          "cheapest": false
+        },
+        {
+          "display": "176.9p",
+          "val": "176.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Sainsburys Gloucester Quays — from 153.9p"
+    },
+    {
+      "name": "MFG Centurion",
+      "address": "A417 GLOUCESTER ROAD, GL7 7JR",
+      "postcode": "GL7 7JR",
+      "lat": 51.783056,
+      "lon": -2.036478,
+      "distance_miles": 8.2,
+      "is_supermarket": false,
+      "as_of": "2026-09-04",
+      "stale": false,
+      "cells": [
+        {
+          "display": "167.9p",
+          "val": "167.9",
+          "cheapest": false
+        },
+        {
+          "display": "179.9p",
+          "val": "179.9",
+          "cheapest": false
+        },
+        {
+          "display": "189.9p",
+          "val": "189.9",
+          "cheapest": false
+        },
+        {
+          "display": "199.9p",
+          "val": "199.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "MFG Centurion — from 167.9p"
+    },
+    {
+      "name": "Gloucester Services Southbound",
+      "address": "GLOUCESTER SERVICES, GL4 0WW",
+      "postcode": "GL4 0WW",
+      "lat": 51.819472,
+      "lon": -2.224759,
+      "distance_miles": 8.33,
+      "is_supermarket": false,
+      "as_of": "2026-09-04",
+      "stale": false,
+      "cells": [
+        {
+          "display": "185.9p",
+          "val": "185.9",
+          "cheapest": false
+        },
+        {
+          "display": "205.9p",
+          "val": "205.9",
+          "cheapest": false
+        },
+        {
+          "display": "204.9p",
+          "val": "204.9",
+          "cheapest": false
+        },
+        {
+          "display": "224.9p",
+          "val": "224.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Gloucester Services Southbound — from 185.9p"
+    },
+    {
+      "name": "Bristol Road",
+      "address": "250, GL1 5TA",
+      "postcode": "GL1 5TA",
+      "lat": 51.850752,
+      "lon": -2.258066,
+      "distance_miles": 8.37,
+      "is_supermarket": false,
+      "as_of": "2026-08-27",
+      "stale": true,
+      "cells": [
+        {
+          "display": "154.9p",
+          "val": "154.9",
+          "cheapest": false
+        },
+        {
+          "display": "183.9p",
+          "val": "183.9",
+          "cheapest": false
+        },
+        {
+          "display": "178.9p",
+          "val": "178.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Bristol Road — from 154.9p"
+    },
+    {
+      "name": "Ledbury Road Services",
+      "address": "Ledbury Road, GL20 6HP",
+      "postcode": "GL20 6HP",
+      "lat": 52.00177,
+      "lon": -2.18577,
+      "distance_miles": 8.45,
+      "is_supermarket": false,
+      "as_of": "2026-09-07",
+      "stale": false,
+      "cells": [
+        {
+          "display": "165.0p",
+          "val": "165.0",
+          "cheapest": false
+        },
+        {
+          "display": "179.0p",
+          "val": "179.0",
+          "cheapest": false
+        },
+        {
+          "display": "186.0p",
+          "val": "186.0",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Ledbury Road Services — from 165.0p"
+    },
+    {
+      "name": "Gloucester Services Northbound",
+      "address": "Between Junctions 12 and 11A, GL4 0DN",
+      "postcode": "GL4 0DN",
+      "lat": 51.818888,
+      "lon": -2.228332,
+      "distance_miles": 8.47,
+      "is_supermarket": false,
+      "as_of": "2026-09-04",
+      "stale": false,
+      "cells": [
+        {
+          "display": "185.9p",
+          "val": "185.9",
+          "cheapest": false
+        },
+        {
+          "display": "205.9p",
+          "val": "205.9",
+          "cheapest": false
+        },
+        {
+          "display": "204.9p",
+          "val": "204.9",
+          "cheapest": false
+        },
+        {
+          "display": "224.9p",
+          "val": "224.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Gloucester Services Northbound — from 185.9p"
+    },
+    {
+      "name": "ASDA Tuffley Express Petrol",
+      "address": "STROUD ROAD, GL4 0DA",
+      "postcode": "GL4 0DA",
+      "lat": 51.831,
+      "lon": -2.245,
+      "distance_miles": 8.53,
+      "is_supermarket": false,
+      "as_of": "2026-09-07",
+      "stale": false,
+      "cells": [
+        {
+          "display": "164.9p",
+          "val": "164.9",
+          "cheapest": false
+        },
+        {
+          "display": "183.9p",
+          "val": "183.9",
+          "cheapest": false
+        },
+        {
+          "display": "186.9p",
+          "val": "186.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "ASDA Tuffley Express Petrol — from 164.9p"
+    },
+    {
+      "name": "MFG Sparrows Wharf",
+      "address": "364 BRISTOL ROAD (A430), GL2 5DH",
+      "postcode": "GL2 5DH",
+      "lat": 51.842135,
+      "lon": -2.266808,
+      "distance_miles": 8.96,
+      "is_supermarket": false,
+      "as_of": "2026-09-04",
+      "stale": false,
+      "cells": [
+        {
+          "display": "161.9p",
+          "val": "161.9",
+          "cheapest": false
+        },
+        {
+          "display": "179.9p",
+          "val": "179.9",
+          "cheapest": false
+        },
+        {
+          "display": "184.9p",
+          "val": "184.9",
+          "cheapest": false
+        },
+        {
+          "display": "199.9p",
+          "val": "199.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "MFG Sparrows Wharf — from 161.9p"
+    },
+    {
+      "name": "Holbrook Garage",
+      "address": "HOLBROOK GARAGE, GL6 7BX",
+      "postcode": "GL6 7BX",
+      "lat": 51.765495,
+      "lon": -2.138323,
+      "distance_miles": 9.58,
+      "is_supermarket": false,
+      "as_of": "2026-09-07",
+      "stale": false,
+      "cells": [
+        {
+          "display": "165.9p",
+          "val": "165.9",
+          "cheapest": false
+        },
+        {
+          "display": "181.9p",
+          "val": "181.9",
+          "cheapest": false
+        },
+        {
+          "display": "189.9p",
+          "val": "189.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Holbrook Garage — from 165.9p"
+    },
+    {
+      "name": "Cross Hands Garage Ltd",
+      "address": "CROSSHANDS GARAGE, GL19 3BU",
+      "postcode": "GL19 3BU",
+      "lat": 51.937562,
+      "lon": -2.295359,
+      "distance_miles": 9.64,
+      "is_supermarket": false,
+      "as_of": "2026-09-04",
+      "stale": false,
+      "cells": [
+        {
+          "display": "169.9p",
+          "val": "169.9",
+          "cheapest": false
+        },
+        {
+          "display": "179.9p",
+          "val": "179.9",
+          "cheapest": false
+        },
+        {
+          "display": "189.9p",
+          "val": "189.9",
+          "cheapest": false
+        },
+        {
+          "display": "196.9p",
+          "val": "196.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Cross Hands Garage Ltd — from 169.9p"
+    },
+    {
+      "name": "TGC - Quedgeley",
+      "address": "121 BRISTOL ROAD, GL2 4NB",
+      "postcode": "GL2 4NB",
+      "lat": 51.830325,
+      "lon": -2.27611,
+      "distance_miles": 9.69,
+      "is_supermarket": false,
+      "as_of": "2026-09-04",
+      "stale": false,
+      "cells": [
+        {
+          "display": "169.9p",
+          "val": "169.9",
+          "cheapest": false
+        },
+        {
+          "display": "190.9p",
+          "val": "190.9",
+          "cheapest": false
+        },
+        {
+          "display": "189.9p",
+          "val": "189.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "TGC - Quedgeley — from 169.9p"
+    },
+    {
+      "name": "ASDA Quedgeley Supermarket",
+      "address": "NAAS LANE LINK ROAD, KINGSWAY, GL2 2SN",
+      "postcode": "GL2 2SN",
+      "lat": 51.822004,
+      "lon": -2.273815,
+      "distance_miles": 9.91,
+      "is_supermarket": true,
+      "as_of": "2026-09-05",
+      "stale": false,
+      "cells": [
+        {
+          "display": "155.7p",
+          "val": "155.7",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "176.7p",
+          "val": "176.7",
+          "cheapest": true
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "ASDA Quedgeley Supermarket — from 155.7p"
+    },
+    {
+      "name": "Gloucester Quedgeley Extra - Petrol Filling Station",
+      "address": "BRISTOL ROAD, GL2 4PF",
+      "postcode": "GL2 4PF",
+      "lat": 51.82705,
+      "lon": -2.27971,
+      "distance_miles": 9.94,
+      "is_supermarket": true,
+      "as_of": "2026-09-04",
+      "stale": false,
+      "cells": [
+        {
+          "display": "155.9p",
+          "val": "155.9",
+          "cheapest": false
+        },
+        {
+          "display": "165.9p",
+          "val": "165.9",
+          "cheapest": false
+        },
+        {
+          "display": "176.9p",
+          "val": "176.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Gloucester Quedgeley Extra - Petrol Filling Station — from 155.9p"
+    },
+    {
+      "name": "Churcham Garage",
+      "address": "CHURCHAM GARAGE, GL2 8AA",
+      "postcode": "GL2 8AA",
+      "lat": 51.868555,
+      "lon": -2.3212,
+      "distance_miles": 10.58,
+      "is_supermarket": true,
+      "as_of": "2026-08-23",
+      "stale": true,
+      "cells": [
+        {
+          "display": "159.9p",
+          "val": "159.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "178.9p",
+          "val": "178.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Churcham Garage — from 159.9p"
+    },
+    {
+      "name": "Hardwicke SF Connect",
+      "address": "BRISTOL ROAD, GL2 2RQ",
+      "postcode": "GL2 2RQ",
+      "lat": 51.805374,
+      "lon": -2.290702,
+      "distance_miles": 11.15,
+      "is_supermarket": false,
+      "as_of": "2026-09-05",
+      "stale": false,
+      "cells": [
+        {
+          "display": "161.9p",
+          "val": "161.9",
+          "cheapest": false
+        },
+        {
+          "display": "182.9p",
+          "val": "182.9",
+          "cheapest": false
+        },
+        {
+          "display": "182.9p",
+          "val": "182.9",
+          "cheapest": false
+        },
+        {
+          "display": "203.9p",
+          "val": "203.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Hardwicke SF Connect — from 161.9p"
+    },
+    {
+      "name": "Strensham Mwsa Connect",
+      "address": "M5 EASTBOUND J7/8, WR8 9LJ",
+      "postcode": "WR8 9LJ",
+      "lat": 52.05709,
+      "lon": -2.14004,
+      "distance_miles": 11.24,
+      "is_supermarket": false,
+      "as_of": "2026-09-04",
+      "stale": false,
+      "cells": [
+        {
+          "display": "185.9p",
+          "val": "185.9",
+          "cheapest": false
+        },
+        {
+          "display": "206.9p",
+          "val": "206.9",
+          "cheapest": false
+        },
+        {
+          "display": "204.9p",
+          "val": "204.9",
+          "cheapest": false
+        },
+        {
+          "display": "225.9p",
+          "val": "225.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Strensham Mwsa Connect — from 185.9p"
+    },
+    {
+      "name": "Highleadon Filling Station Limited",
+      "address": "HIGHLEADON FILLING STATION LTD, GL18 1HJ",
+      "postcode": "GL18 1HJ",
+      "lat": 51.910223,
+      "lon": -2.342323,
+      "distance_miles": 11.29,
+      "is_supermarket": false,
+      "as_of": "2026-08-17",
+      "stale": true,
+      "cells": [
+        {
+          "display": "159.9p",
+          "val": "159.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "183.9p",
+          "val": "183.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Highleadon Filling Station Limited — from 159.9p"
+    },
+    {
+      "name": "Fourways Garage Chalford Ltd",
+      "address": "FOURWAYS GARAGE, GL6 8BD",
+      "postcode": "GL6 8BD",
+      "lat": 51.733106,
+      "lon": -2.155368,
+      "distance_miles": 11.93,
+      "is_supermarket": false,
+      "as_of": "2026-08-27",
+      "stale": true,
+      "cells": [
+        {
+          "display": "163.9p",
+          "val": "163.9",
+          "cheapest": false
+        },
+        {
+          "display": "175.9p",
+          "val": "175.9",
+          "cheapest": false
+        },
+        {
+          "display": "186.9p",
+          "val": "186.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Fourways Garage Chalford Ltd — from 163.9p"
+    },
+    {
+      "name": "ASDA Strensham Express Petrol",
+      "address": "JUNCTION 8, M5, WR8 0BZ",
+      "postcode": "WR8 0BZ",
+      "lat": 52.064812,
+      "lon": -2.157014,
+      "distance_miles": 11.94,
+      "is_supermarket": false,
+      "as_of": "2026-09-07",
+      "stale": false,
+      "cells": [
+        {
+          "display": "189.9p",
+          "val": "189.9",
+          "cheapest": false
+        },
+        {
+          "display": "208.9p",
+          "val": "208.9",
+          "cheapest": false
+        },
+        {
+          "display": "199.9p",
+          "val": "199.9",
+          "cheapest": false
+        },
+        {
+          "display": "218.9p",
+          "val": "218.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "ASDA Strensham Express Petrol — from 189.9p"
+    },
+    {
+      "name": "Stroud Superstore - Petrol Filling Station",
+      "address": "TESCO STORES LTD, GL5 4AG",
+      "postcode": "GL5 4AG",
+      "lat": 51.74701,
+      "lon": -2.22404,
+      "distance_miles": 12.21,
+      "is_supermarket": true,
+      "as_of": "2026-09-02",
+      "stale": false,
+      "cells": [
+        {
+          "display": "160.9p",
+          "val": "160.9",
+          "cheapest": false
+        },
+        {
+          "display": "171.9p",
+          "val": "171.9",
+          "cheapest": false
+        },
+        {
+          "display": "181.9p",
+          "val": "181.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Stroud Superstore - Petrol Filling Station — from 160.9p"
+    },
+    {
+      "name": "Rontec Stroud",
+      "address": "LONDON ROAD, GL5 2AX",
+      "postcode": "GL5 2AX",
+      "lat": 51.74019,
+      "lon": -2.21042,
+      "distance_miles": 12.34,
+      "is_supermarket": false,
+      "as_of": "2026-09-07",
+      "stale": false,
+      "cells": [
+        {
+          "display": "169.9p",
+          "val": "169.9",
+          "cheapest": false
+        },
+        {
+          "display": "188.9p",
+          "val": "188.9",
+          "cheapest": false
+        },
+        {
+          "display": "191.9p",
+          "val": "191.9",
+          "cheapest": false
+        },
+        {
+          "display": "210.9p",
+          "val": "210.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Rontec Stroud — from 169.9p"
+    },
+    {
+      "name": "Vale",
+      "address": "CHELTENHAM ROAD, WR11 7QP",
+      "postcode": "WR11 7QP",
+      "lat": 52.06721,
+      "lon": -1.95472,
+      "distance_miles": 12.75,
+      "is_supermarket": false,
+      "as_of": "2026-09-07",
+      "stale": false,
+      "cells": [
+        {
+          "display": "166.9p",
+          "val": "166.9",
+          "cheapest": false
+        },
+        {
+          "display": "179.9p",
+          "val": "179.9",
+          "cheapest": false
+        },
+        {
+          "display": "188.9p",
+          "val": "188.9",
+          "cheapest": false
+        },
+        {
+          "display": "199.9p",
+          "val": "199.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Vale — from 166.9p"
+    },
+    {
+      "name": "Abbey Way Services",
+      "address": "Abbey Way, GL7 2DR",
+      "postcode": "GL7 2DR",
+      "lat": 51.72311,
+      "lon": -1.97326,
+      "distance_miles": 12.95,
+      "is_supermarket": true,
+      "as_of": "2026-08-20",
+      "stale": true,
+      "cells": [
+        {
+          "display": "161.9p",
+          "val": "161.9",
+          "cheapest": false
+        },
+        {
+          "display": "175.9p",
+          "val": "175.9",
+          "cheapest": false
+        },
+        {
+          "display": "183.9p",
+          "val": "183.9",
+          "cheapest": false
+        },
+        {
+          "display": "197.9p",
+          "val": "197.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Abbey Way Services — from 161.9p"
+    },
+    {
+      "name": "Warners Murco Service Staion",
+      "address": "WARNERS SUPERMARKET, WR8 0HU",
+      "postcode": "WR8 0HU",
+      "lat": 52.065242,
+      "lon": -2.220627,
+      "distance_miles": 12.99,
+      "is_supermarket": true,
+      "as_of": "2026-09-07",
+      "stale": false,
+      "cells": [
+        {
+          "display": "164.9p",
+          "val": "164.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "184.9p",
+          "val": "184.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Warners Murco Service Staion — from 164.9p"
+    },
+    {
+      "name": "MFG Dudbridge",
+      "address": "DUDBRIDGE ROAD, GL5 3HF",
+      "postcode": "GL5 3HF",
+      "lat": 51.739413,
+      "lon": -2.239332,
+      "distance_miles": 13.0,
+      "is_supermarket": false,
+      "as_of": "2026-09-04",
+      "stale": false,
+      "cells": [
+        {
+          "display": "167.9p",
+          "val": "167.9",
+          "cheapest": false
+        },
+        {
+          "display": "179.9p",
+          "val": "179.9",
+          "cheapest": false
+        },
+        {
+          "display": "187.9p",
+          "val": "187.9",
+          "cheapest": false
+        },
+        {
+          "display": "199.9p",
+          "val": "199.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "MFG Dudbridge — from 167.9p"
+    },
+    {
+      "name": "Station Garage Stores Ltd",
+      "address": "Station Garage Stores Ltd. , WR12 7DE",
+      "postcode": "WR12 7DE",
+      "lat": 52.04232,
+      "lon": -1.87252,
+      "distance_miles": 13.21,
+      "is_supermarket": false,
+      "as_of": "2026-09-06",
+      "stale": false,
+      "cells": [
+        {
+          "display": "166.9p",
+          "val": "166.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "188.9p",
+          "val": "188.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Station Garage Stores Ltd — from 166.9p"
+    },
+    {
+      "name": "Shell Cirencester",
+      "address": "BURFORD ROAD, GL7 5DS",
+      "postcode": "GL7 5DS",
+      "lat": 51.723751,
+      "lon": -1.94704,
+      "distance_miles": 13.34,
+      "is_supermarket": false,
+      "as_of": "2026-09-07",
+      "stale": false,
+      "cells": [
+        {
+          "display": "171.9p",
+          "val": "171.9",
+          "cheapest": false
+        },
+        {
+          "display": "194.9p",
+          "val": "194.9",
+          "cheapest": false
+        },
+        {
+          "display": "192.9p",
+          "val": "192.9",
+          "cheapest": false
+        },
+        {
+          "display": "214.9p",
+          "val": "214.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Shell Cirencester — from 171.9p"
+    },
+    {
+      "name": "Burford Road Filling Station",
+      "address": "BURFORD ROAD FILLING STATION, GL7 5DS",
+      "postcode": "GL7 5DS",
+      "lat": 51.720279,
+      "lon": -1.953484,
+      "distance_miles": 13.45,
+      "is_supermarket": false,
+      "as_of": "2026-09-07",
+      "stale": false,
+      "cells": [
+        {
+          "display": "166.9p",
+          "val": "166.9",
+          "cheapest": false
+        },
+        {
+          "display": "178.9p",
+          "val": "178.9",
+          "cheapest": false
+        },
+        {
+          "display": "187.9p",
+          "val": "187.9",
+          "cheapest": false
+        },
+        {
+          "display": "199.9p",
+          "val": "199.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Burford Road Filling Station — from 166.9p"
+    },
+    {
+      "name": "Bridge Service Station",
+      "address": "BRIDGE SERVICE STATION, GL10 2PB",
+      "postcode": "GL10 2PB",
+      "lat": 51.750057,
+      "lon": -2.283522,
+      "distance_miles": 13.53,
+      "is_supermarket": false,
+      "as_of": "2026-09-07",
+      "stale": false,
+      "cells": [
+        {
+          "display": "163.9p",
+          "val": "163.9",
+          "cheapest": false
+        },
+        {
+          "display": "173.9p",
+          "val": "173.9",
+          "cheapest": false
+        },
+        {
+          "display": "184.9p",
+          "val": "184.9",
+          "cheapest": false
+        },
+        {
+          "display": "194.9p",
+          "val": "194.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Bridge Service Station — from 163.9p"
+    },
+    {
+      "name": "Newent Fuel Express Automat",
+      "address": "GLOUCESTER ROAD, GL18 1HP",
+      "postcode": "GL18 1HP",
+      "lat": 51.930997,
+      "lon": -2.392093,
+      "distance_miles": 13.57,
+      "is_supermarket": false,
+      "as_of": "2026-09-07",
+      "stale": false,
+      "cells": [
+        {
+          "display": "163.7p",
+          "val": "163.7",
+          "cheapest": false
+        },
+        {
+          "display": "181.7p",
+          "val": "181.7",
+          "cheapest": false
+        },
+        {
+          "display": "186.7p",
+          "val": "186.7",
+          "cheapest": false
+        },
+        {
+          "display": "204.7p",
+          "val": "204.7",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Newent Fuel Express Automat — from 163.7p"
+    },
+    {
+      "name": "MFG Morrisons Evesham",
+      "address": "CHARITY CRESCENT, WR11 2UT",
+      "postcode": "WR11 2UT",
+      "lat": 52.076929,
+      "lon": -1.938215,
+      "distance_miles": 13.66,
+      "is_supermarket": true,
+      "as_of": "2026-09-06",
+      "stale": false,
+      "cells": [
+        {
+          "display": "165.9p",
+          "val": "165.9",
+          "cheapest": false
+        },
+        {
+          "display": "175.9p",
+          "val": "175.9",
+          "cheapest": false
+        },
+        {
+          "display": "186.9p",
+          "val": "186.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "MFG Morrisons Evesham — from 165.9p"
+    },
+    {
+      "name": "Huntley Services",
+      "address": "GENERAL GARAGE, GL19 3EA",
+      "postcode": "GL19 3EA",
+      "lat": 51.871034,
+      "lon": -2.397342,
+      "distance_miles": 13.76,
+      "is_supermarket": false,
+      "as_of": "2026-09-04",
+      "stale": false,
+      "cells": [
+        {
+          "display": "161.9p",
+          "val": "161.9",
+          "cheapest": false
+        },
+        {
+          "display": "181.9p",
+          "val": "181.9",
+          "cheapest": false
+        },
+        {
+          "display": "180.9p",
+          "val": "180.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Huntley Services — from 161.9p"
+    },
+    {
+      "name": "Evesham Esso Express",
+      "address": "47 CHELTENHAM RD, WR11 1LE",
+      "postcode": "WR11 1LE",
+      "lat": 52.08265,
+      "lon": -1.9505,
+      "distance_miles": 13.8,
+      "is_supermarket": false,
+      "as_of": "2026-09-07",
+      "stale": false,
+      "cells": [
+        {
+          "display": "166.9p",
+          "val": "166.9",
+          "cheapest": false
+        },
+        {
+          "display": "178.9p",
+          "val": "178.9",
+          "cheapest": false
+        },
+        {
+          "display": "187.9p",
+          "val": "187.9",
+          "cheapest": false
+        },
+        {
+          "display": "199.9p",
+          "val": "199.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Evesham Esso Express — from 166.9p"
+    },
+    {
+      "name": "TGC - Bourton",
+      "address": "STATION ROAD, GL54 2EP",
+      "postcode": "GL54 2EP",
+      "lat": 51.885982,
+      "lon": -1.754862,
+      "distance_miles": 13.81,
+      "is_supermarket": false,
+      "as_of": "2026-09-04",
+      "stale": false,
+      "cells": [
+        {
+          "display": "167.9p",
+          "val": "167.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "189.9p",
+          "val": "189.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "TGC - Bourton — from 167.9p"
+    },
+    {
+      "name": "Chaxhill Service Station",
+      "address": "CHAXHILL SERVICE STATION, GL14 1QW",
+      "postcode": "GL14 1QW",
+      "lat": 51.826355,
+      "lon": -2.381872,
+      "distance_miles": 13.9,
+      "is_supermarket": true,
+      "as_of": "2026-09-04",
+      "stale": false,
+      "cells": [
+        {
+          "display": "159.9p",
+          "val": "159.9",
+          "cheapest": false
+        },
+        {
+          "display": "179.9p",
+          "val": "179.9",
+          "cheapest": false
+        },
+        {
+          "display": "180.9p",
+          "val": "180.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Chaxhill Service Station — from 159.9p"
+    },
+    {
+      "name": "MFG Fosseway",
+      "address": "LOWER SLAUGHTER, GL54 2EY",
+      "postcode": "GL54 2EY",
+      "lat": 51.90012,
+      "lon": -1.749817,
+      "distance_miles": 13.99,
+      "is_supermarket": false,
+      "as_of": "2026-09-04",
+      "stale": false,
+      "cells": [
+        {
+          "display": "165.9p",
+          "val": "165.9",
+          "cheapest": false
+        },
+        {
+          "display": "175.9p",
+          "val": "175.9",
+          "cheapest": false
+        },
+        {
+          "display": "187.9p",
+          "val": "187.9",
+          "cheapest": false
+        },
+        {
+          "display": "197.9p",
+          "val": "197.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "MFG Fosseway — from 165.9p"
+    },
+    {
+      "name": "MFG New Quarry",
+      "address": "CHESTERTON LANE, GL7 1YD",
+      "postcode": "GL7 1YD",
+      "lat": 51.707567,
+      "lon": -1.962595,
+      "distance_miles": 14.12,
+      "is_supermarket": false,
+      "as_of": "2026-09-04",
+      "stale": false,
+      "cells": [
+        {
+          "display": "166.9p",
+          "val": "166.9",
+          "cheapest": false
+        },
+        {
+          "display": "179.9p",
+          "val": "179.9",
+          "cheapest": false
+        },
+        {
+          "display": "187.9p",
+          "val": "187.9",
+          "cheapest": false
+        },
+        {
+          "display": "199.9p",
+          "val": "199.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "MFG New Quarry — from 166.9p"
+    },
+    {
+      "name": "Shell Little Waitrose Oldbury",
+      "address": "WESTEND ROUNDABOUT, GL10 3SJ",
+      "postcode": "GL10 3SJ",
+      "lat": 51.75499,
+      "lon": -2.313561,
+      "distance_miles": 14.15,
+      "is_supermarket": false,
+      "as_of": "2026-09-07",
+      "stale": false,
+      "cells": [
+        {
+          "display": "172.9p",
+          "val": "172.9",
+          "cheapest": false
+        },
+        {
+          "display": "194.9p",
+          "val": "194.9",
+          "cheapest": false
+        },
+        {
+          "display": "192.9p",
+          "val": "192.9",
+          "cheapest": false
+        },
+        {
+          "display": "214.9p",
+          "val": "214.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Shell Little Waitrose Oldbury — from 172.9p"
+    },
+    {
+      "name": "Troopers Lodge Filling Station",
+      "address": "TROOPERS LODGE SERVICE STATION, GL56 9TE",
+      "postcode": "GL56 9TE",
+      "lat": 51.997493,
+      "lon": -1.783748,
+      "distance_miles": 14.26,
+      "is_supermarket": true,
+      "as_of": "2026-08-17",
+      "stale": true,
+      "cells": [
+        {
+          "display": "159.9p",
+          "val": "159.9",
+          "cheapest": false
+        },
+        {
+          "display": "199.9p",
+          "val": "199.9",
+          "cheapest": false
+        },
+        {
+          "display": "185.9p",
+          "val": "185.9",
+          "cheapest": false
+        },
+        {
+          "display": "199.9p",
+          "val": "199.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Troopers Lodge Filling Station — from 159.9p"
+    },
+    {
+      "name": "Cirencester Extra - Petrol Filling Station",
+      "address": "KINGS MEADOW, GL7 1NP",
+      "postcode": "GL7 1NP",
+      "lat": 51.70589,
+      "lon": -1.95195,
+      "distance_miles": 14.39,
+      "is_supermarket": true,
+      "as_of": "2026-09-02",
+      "stale": false,
+      "cells": [
+        {
+          "display": "161.9p",
+          "val": "161.9",
+          "cheapest": false
+        },
+        {
+          "display": "172.9p",
+          "val": "172.9",
+          "cheapest": false
+        },
+        {
+          "display": "183.9p",
+          "val": "183.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Cirencester Extra - Petrol Filling Station — from 161.9p"
+    },
+    {
+      "name": "Ross Road Garage",
+      "address": "ROSS ROAD GARAGE, GL19 3EX",
+      "postcode": "GL19 3EX",
+      "lat": 51.872313,
+      "lon": -2.413269,
+      "distance_miles": 14.42,
+      "is_supermarket": true,
+      "as_of": "2026-09-04",
+      "stale": false,
+      "cells": [
+        {
+          "display": "161.9p",
+          "val": "161.9",
+          "cheapest": false
+        },
+        {
+          "display": "180.9p",
+          "val": "180.9",
+          "cheapest": false
+        },
+        {
+          "display": "180.9p",
+          "val": "180.9",
+          "cheapest": false
+        },
+        {
+          "display": "200.9p",
+          "val": "200.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Ross Road Garage — from 161.9p"
+    },
+    {
+      "name": "H J Taylor",
+      "address": "h j taylor, WR127PL",
+      "postcode": "WR127PL",
+      "lat": 52.053781,
+      "lon": -1.847089,
+      "distance_miles": 14.52,
+      "is_supermarket": false,
+      "as_of": "2026-08-24",
+      "stale": true,
+      "cells": [
+        {
+          "display": "166.9p",
+          "val": "166.9",
+          "cheapest": false
+        },
+        {
+          "display": "175.9p",
+          "val": "175.9",
+          "cheapest": false
+        },
+        {
+          "display": "194.9p",
+          "val": "194.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "H J Taylor — from 166.9p"
+    },
+    {
+      "name": "Cox's Cars Ltd",
+      "address": "COXS CARS LTD, WR10 1HR",
+      "postcode": "WR10 1HR",
+      "lat": 52.110213,
+      "lon": -2.086019,
+      "distance_miles": 14.6,
+      "is_supermarket": false,
+      "as_of": "2026-09-07",
+      "stale": false,
+      "cells": [
+        {
+          "display": "163.9p",
+          "val": "163.9",
+          "cheapest": false
+        },
+        {
+          "display": "183.9p",
+          "val": "183.9",
+          "cheapest": false
+        },
+        {
+          "display": "184.9p",
+          "val": "184.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Cox's Cars Ltd — from 163.9p"
+    },
+    {
+      "name": "Fromebridge Service Station",
+      "address": "FROMEBRIDGE SERVICE STATION, GL2 7PG",
+      "postcode": "GL2 7PG",
+      "lat": 51.758773,
+      "lon": -2.336518,
+      "distance_miles": 14.69,
+      "is_supermarket": false,
+      "as_of": "2026-09-07",
+      "stale": false,
+      "cells": [
+        {
+          "display": "163.9p",
+          "val": "163.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "184.9p",
+          "val": "184.9",
+          "cheapest": false
+        },
+        {
+          "display": "194.9p",
+          "val": "194.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Fromebridge Service Station — from 163.9p"
+    },
+    {
+      "name": "BP Threesprings Service Station",
+      "address": "B P GARAGE, WR10 1HH",
+      "postcode": "WR10 1HH",
+      "lat": 52.11291,
+      "lon": -2.083965,
+      "distance_miles": 14.78,
+      "is_supermarket": false,
+      "as_of": "2026-09-06",
+      "stale": false,
+      "cells": [
+        {
+          "display": "163.9p",
+          "val": "163.9",
+          "cheapest": false
+        },
+        {
+          "display": "183.9p",
+          "val": "183.9",
+          "cheapest": false
+        },
+        {
+          "display": "185.9p",
+          "val": "185.9",
+          "cheapest": false
+        },
+        {
+          "display": "205.9p",
+          "val": "205.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "BP Threesprings Service Station — from 163.9p"
+    },
+    {
+      "name": "Evesham Worcester Rd Superstore - Petrol Filling Station",
+      "address": "TESCO STORES LTD, WR11 4XF",
+      "postcode": "WR11 4XF",
+      "lat": 52.10191,
+      "lon": -1.95165,
+      "distance_miles": 15.01,
+      "is_supermarket": true,
+      "as_of": "2026-09-04",
+      "stale": false,
+      "cells": [
+        {
+          "display": "166.9p",
+          "val": "166.9",
+          "cheapest": false
+        },
+        {
+          "display": "176.9p",
+          "val": "176.9",
+          "cheapest": false
+        },
+        {
+          "display": "187.9p",
+          "val": "187.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Evesham Worcester Rd Superstore - Petrol Filling Station — from 166.9p"
+    },
+    {
+      "name": "Shell Nailsworth",
+      "address": "STROUD ROAD, GL6 0BE",
+      "postcode": "GL6 0BE",
+      "lat": 51.699796,
+      "lon": -2.223314,
+      "distance_miles": 15.1,
+      "is_supermarket": false,
+      "as_of": "2026-09-07",
+      "stale": false,
+      "cells": [
+        {
+          "display": "173.9p",
+          "val": "173.9",
+          "cheapest": false
+        },
+        {
+          "display": "194.9p",
+          "val": "194.9",
+          "cheapest": false
+        },
+        {
+          "display": "194.9p",
+          "val": "194.9",
+          "cheapest": false
+        },
+        {
+          "display": "214.9p",
+          "val": "214.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Shell Nailsworth — from 173.9p"
+    },
+    {
+      "name": "Station Road SF Connect",
+      "address": "STATION ROAD, GL54 1JU",
+      "postcode": "GL54 1JU",
+      "lat": 51.927998,
+      "lon": -1.725595,
+      "distance_miles": 15.15,
+      "is_supermarket": false,
+      "as_of": "2026-09-05",
+      "stale": false,
+      "cells": [
+        {
+          "display": "165.9p",
+          "val": "165.9",
+          "cheapest": false
+        },
+        {
+          "display": "186.9p",
+          "val": "186.9",
+          "cheapest": false
+        },
+        {
+          "display": "187.9p",
+          "val": "187.9",
+          "cheapest": false
+        },
+        {
+          "display": "208.9p",
+          "val": "208.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Station Road SF Connect — from 165.9p"
+    },
+    {
+      "name": "Quarry",
+      "address": "BOURTON ON THE HILL, GL56 9AJ",
+      "postcode": "GL56 9AJ",
+      "lat": 51.99224,
+      "lon": -1.75526,
+      "distance_miles": 15.18,
+      "is_supermarket": false,
+      "as_of": "2026-09-07",
+      "stale": false,
+      "cells": [
+        {
+          "display": "166.9p",
+          "val": "166.9",
+          "cheapest": false
+        },
+        {
+          "display": "165.9p",
+          "val": "165.9",
+          "cheapest": false
+        },
+        {
+          "display": "189.9p",
+          "val": "189.9",
+          "cheapest": false
+        },
+        {
+          "display": "199.9p",
+          "val": "199.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Quarry — from 165.9p"
+    },
+    {
+      "name": "ASDA Evesham Express Petrol",
+      "address": "A46 EVESHAM BYPASS, WR11 4TP",
+      "postcode": "WR11 4TP",
+      "lat": 52.113381,
+      "lon": -1.939471,
+      "distance_miles": 15.94,
+      "is_supermarket": false,
+      "as_of": "2026-09-07",
+      "stale": false,
+      "cells": [
+        {
+          "display": "168.9p",
+          "val": "168.9",
+          "cheapest": false
+        },
+        {
+          "display": "186.9p",
+          "val": "186.9",
+          "cheapest": false
+        },
+        {
+          "display": "189.9p",
+          "val": "189.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "ASDA Evesham Express Petrol — from 168.9p"
+    },
+    {
+      "name": "MFG Elton",
+      "address": "ELTON CORNER, GL14 1JQ",
+      "postcode": "GL14 1JQ",
+      "lat": 51.822808,
+      "lon": -2.431108,
+      "distance_miles": 15.96,
+      "is_supermarket": false,
+      "as_of": "2026-09-05",
+      "stale": false,
+      "cells": [
+        {
+          "display": "163.9p",
+          "val": "163.9",
+          "cheapest": false
+        },
+        {
+          "display": "175.9p",
+          "val": "175.9",
+          "cheapest": false
+        },
+        {
+          "display": "183.9p",
+          "val": "183.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "MFG Elton — from 163.9p"
+    },
+    {
+      "name": "ASDA Pinvin Express Petrol",
+      "address": "ABBEY VIEW, B4083, WR10 2DT",
+      "postcode": "WR10 2DT",
+      "lat": 52.130427,
+      "lon": -2.062793,
+      "distance_miles": 16.0,
+      "is_supermarket": false,
+      "as_of": "2026-09-07",
+      "stale": false,
+      "cells": [
+        {
+          "display": "167.9p",
+          "val": "167.9",
+          "cheapest": false
+        },
+        {
+          "display": "186.9p",
+          "val": "186.9",
+          "cheapest": false
+        },
+        {
+          "display": "189.9p",
+          "val": "189.9",
+          "cheapest": false
+        },
+        {
+          "display": "208.9p",
+          "val": "208.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "ASDA Pinvin Express Petrol — from 167.9p"
+    },
+    {
+      "name": "PJ Nicholls Ltd Pershore",
+      "address": "ORCHARD VIEW, WR10 2DJ",
+      "postcode": "WR10 2DJ",
+      "lat": 52.132685,
+      "lon": -2.072633,
+      "distance_miles": 16.15,
+      "is_supermarket": false,
+      "as_of": "2026-09-07",
+      "stale": false,
+      "cells": [
+        {
+          "display": "165.9p",
+          "val": "165.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "186.9p",
+          "val": "186.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "PJ Nicholls Ltd Pershore — from 165.9p"
+    },
+    {
+      "name": "PJ Nicholls Ltd Ledbury",
+      "address": "PARKWAY GARAGE, HR8 2JD",
+      "postcode": "HR8 2JD",
+      "lat": 52.016637,
+      "lon": -2.411897,
+      "distance_miles": 16.38,
+      "is_supermarket": false,
+      "as_of": "2026-09-05",
+      "stale": false,
+      "cells": [
+        {
+          "display": "169.9p",
+          "val": "169.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "189.9p",
+          "val": "189.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "PJ Nicholls Ltd Ledbury — from 169.9p"
+    },
+    {
+      "name": "Daniels Petroleum Ltd",
+      "address": "EVOLVING VISIONS, WR14 4HD",
+      "postcode": "WR14 4HD",
+      "lat": 52.077007,
+      "lon": -2.33272,
+      "distance_miles": 16.39,
+      "is_supermarket": false,
+      "as_of": "2026-09-07",
+      "stale": false,
+      "cells": [
+        {
+          "display": "167.9p",
+          "val": "167.9",
+          "cheapest": false
+        },
+        {
+          "display": "176.9p",
+          "val": "176.9",
+          "cheapest": false
+        },
+        {
+          "display": "187.9p",
+          "val": "187.9",
+          "cheapest": false
+        },
+        {
+          "display": "204.9p",
+          "val": "204.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Daniels Petroleum Ltd — from 167.9p"
+    },
+    {
+      "name": "ASDA Marsh Express Petrol",
+      "address": "STOW ROAD, GL56 0DS",
+      "postcode": "GL56 0DS",
+      "lat": 51.983554,
+      "lon": -1.705957,
+      "distance_miles": 16.89,
+      "is_supermarket": false,
+      "as_of": "2026-09-07",
+      "stale": false,
+      "cells": [
+        {
+          "display": "167.9p",
+          "val": "167.9",
+          "cheapest": false
+        },
+        {
+          "display": "186.9p",
+          "val": "186.9",
+          "cheapest": false
+        },
+        {
+          "display": "189.9p",
+          "val": "189.9",
+          "cheapest": false
+        },
+        {
+          "display": "208.9p",
+          "val": "208.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "ASDA Marsh Express Petrol — from 167.9p"
+    },
+    {
+      "name": "The Barrington Filling Station",
+      "address": "BARRINGTON FILLING STATION, OX18 4TN",
+      "postcode": "OX18 4TN",
+      "lat": 51.807032,
+      "lon": -1.704176,
+      "distance_miles": 17.17,
+      "is_supermarket": false,
+      "as_of": "2026-09-03",
+      "stale": false,
+      "cells": [
+        {
+          "display": "161.9p",
+          "val": "161.9",
+          "cheapest": false
+        },
+        {
+          "display": "169.9p",
+          "val": "169.9",
+          "cheapest": false
+        },
+        {
+          "display": "182.9p",
+          "val": "182.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "The Barrington Filling Station — from 161.9p"
+    },
+    {
+      "name": "Lea Garage",
+      "address": "LEA STORES, HR9 7JZ",
+      "postcode": "HR9 7JZ",
+      "lat": 51.893498,
+      "lon": -2.492738,
+      "distance_miles": 17.69,
+      "is_supermarket": false,
+      "as_of": "2026-08-24",
+      "stale": true,
+      "cells": [
+        {
+          "display": "159.9p",
+          "val": "159.9",
+          "cheapest": false
+        },
+        {
+          "display": "179.9p",
+          "val": "179.9",
+          "cheapest": false
+        },
+        {
+          "display": "182.9p",
+          "val": "182.9",
+          "cheapest": false
+        },
+        {
+          "display": "202.9p",
+          "val": "202.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Lea Garage — from 159.9p"
+    },
+    {
+      "name": "Mitcheldean Fuel Express Automat",
+      "address": "NEW ROAD, GL17 0BX",
+      "postcode": "GL17 0BX",
+      "lat": 51.861395,
+      "lon": -2.488478,
+      "distance_miles": 17.7,
+      "is_supermarket": false,
+      "as_of": "2026-09-07",
+      "stale": false,
+      "cells": [
+        {
+          "display": "169.7p",
+          "val": "169.7",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "191.7p",
+          "val": "191.7",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Mitcheldean Fuel Express Automat — from 169.7p"
+    },
+    {
+      "name": "TGC - Ledbury",
+      "address": "THE HOMEND, HR8 1BS",
+      "postcode": "HR8 1BS",
+      "lat": 52.041582,
+      "lon": -2.424862,
+      "distance_miles": 17.75,
+      "is_supermarket": false,
+      "as_of": "2026-09-04",
+      "stale": false,
+      "cells": [
+        {
+          "display": "169.9p",
+          "val": "169.9",
+          "cheapest": false
+        },
+        {
+          "display": "190.9p",
+          "val": "190.9",
+          "cheapest": false
+        },
+        {
+          "display": "189.9p",
+          "val": "189.9",
+          "cheapest": false
+        },
+        {
+          "display": "210.9p",
+          "val": "210.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "TGC - Ledbury — from 169.9p"
+    },
+    {
+      "name": "Millwood Motor Company Ltd",
+      "address": "Mill  Garage, GL11 5DH",
+      "postcode": "GL11 5DH",
+      "lat": 51.7097,
+      "lon": -2.36554,
+      "distance_miles": 17.94,
+      "is_supermarket": false,
+      "as_of": "2026-09-07",
+      "stale": false,
+      "cells": [
+        {
+          "display": "165.9p",
+          "val": "165.9",
+          "cheapest": false
+        },
+        {
+          "display": "190.9p",
+          "val": "190.9",
+          "cheapest": false
+        },
+        {
+          "display": "189.9p",
+          "val": "189.9",
+          "cheapest": false
+        },
+        {
+          "display": "214.9p",
+          "val": "214.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Millwood Motor Company Ltd — from 165.9p"
+    },
+    {
+      "name": "PJ Nicholls Ltd Malvern",
+      "address": "262-264 Pickersleigh Road, WR14 2QZ",
+      "postcode": "WR14 2QZ",
+      "lat": 52.115518,
+      "lon": -2.311248,
+      "distance_miles": 17.95,
+      "is_supermarket": false,
+      "as_of": "2026-09-05",
+      "stale": false,
+      "cells": [
+        {
+          "display": "167.9p",
+          "val": "167.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "187.9p",
+          "val": "187.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "PJ Nicholls Ltd Malvern — from 167.9p"
+    },
+    {
+      "name": "Tetbury Superstore - Petrol Filling Station",
+      "address": "PRIORY RD INDUSTRIAL ESTATE, GL8 8HZ",
+      "postcode": "GL8 8HZ",
+      "lat": 51.64248,
+      "lon": -2.15632,
+      "distance_miles": 18.04,
+      "is_supermarket": true,
+      "as_of": "2026-09-04",
+      "stale": false,
+      "cells": [
+        {
+          "display": "165.9p",
+          "val": "165.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "187.9p",
+          "val": "187.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Tetbury Superstore - Petrol Filling Station — from 165.9p"
+    },
+    {
+      "name": "MFG Morrisons Malvern",
+      "address": "ROMAN WAY, WR14 1PZ",
+      "postcode": "WR14 1PZ",
+      "lat": 52.131735,
+      "lon": -2.302784,
+      "distance_miles": 18.71,
+      "is_supermarket": true,
+      "as_of": "2026-09-06",
+      "stale": false,
+      "cells": [
+        {
+          "display": "167.9p",
+          "val": "167.9",
+          "cheapest": false
+        },
+        {
+          "display": "177.9p",
+          "val": "177.9",
+          "cheapest": false
+        },
+        {
+          "display": "187.9p",
+          "val": "187.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "MFG Morrisons Malvern — from 167.9p"
+    },
+    {
+      "name": "EG Cinderford PFS",
+      "address": "133 HIGH STREET, GL14 2TD",
+      "postcode": "GL14 2TD",
+      "lat": 51.829076,
+      "lon": -2.502423,
+      "distance_miles": 18.74,
+      "is_supermarket": false,
+      "as_of": "2026-09-04",
+      "stale": false,
+      "cells": [
+        {
+          "display": "168.9p",
+          "val": "168.9",
+          "cheapest": false
+        },
+        {
+          "display": "188.9p",
+          "val": "188.9",
+          "cheapest": false
+        },
+        {
+          "display": "189.9p",
+          "val": "189.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "EG Cinderford PFS — from 168.9p"
+    },
+    {
+      "name": "TGC - Malvern",
+      "address": "214-216 WORCESTER ROAD, WR14 1AG",
+      "postcode": "WR14 1AG",
+      "lat": 52.129616,
+      "lon": -2.31042,
+      "distance_miles": 18.75,
+      "is_supermarket": false,
+      "as_of": "2026-09-07",
+      "stale": false,
+      "cells": [
+        {
+          "display": "169.9p",
+          "val": "169.9",
+          "cheapest": false
+        },
+        {
+          "display": "190.9p",
+          "val": "190.9",
+          "cheapest": false
+        },
+        {
+          "display": "189.9p",
+          "val": "189.9",
+          "cheapest": false
+        },
+        {
+          "display": "210.9p",
+          "val": "210.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "TGC - Malvern — from 169.9p"
+    },
+    {
+      "name": "TGC - Sunny Lodge",
+      "address": "285 WORCESTER ROAD, WR14 1AB",
+      "postcode": "WR14 1AB",
+      "lat": 52.128873,
+      "lon": -2.313778,
+      "distance_miles": 18.78,
+      "is_supermarket": false,
+      "as_of": "2026-09-07",
+      "stale": false,
+      "cells": [
+        {
+          "display": "169.9p",
+          "val": "169.9",
+          "cheapest": false
+        },
+        {
+          "display": "190.9p",
+          "val": "190.9",
+          "cheapest": false
+        },
+        {
+          "display": "189.9p",
+          "val": "189.9",
+          "cheapest": false
+        },
+        {
+          "display": "210.9p",
+          "val": "210.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "TGC - Sunny Lodge — from 169.9p"
+    },
+    {
+      "name": "Cinderford",
+      "address": "STEAM MILLS ROAD, GL14 3HY",
+      "postcode": "GL14 3HY",
+      "lat": 51.830798,
+      "lon": -2.5067,
+      "distance_miles": 18.89,
+      "is_supermarket": false,
+      "as_of": "2026-09-07",
+      "stale": false,
+      "cells": [
+        {
+          "display": "169.9p",
+          "val": "169.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "189.9p",
+          "val": "189.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Cinderford — from 169.9p"
+    },
+    {
+      "name": "Overbrook Service Station",
+      "address": "OVERBROOK GARAGE, DRYBROOK ROAD, DRYBROOK, GL17 9JA",
+      "postcode": "GL17 9JA",
+      "lat": 51.853856,
+      "lon": -2.517167,
+      "distance_miles": 18.99,
+      "is_supermarket": true,
+      "as_of": "2026-09-07",
+      "stale": false,
+      "cells": [
+        {
+          "display": "163.7p",
+          "val": "163.7",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "183.7p",
+          "val": "183.7",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Overbrook Service Station — from 163.7p"
+    },
+    {
+      "name": "Clerkenleap Service Station",
+      "address": "Clerkenleap Service Station, WR5 3HR",
+      "postcode": "WR5 3HR",
+      "lat": 52.161107,
+      "lon": -2.216415,
+      "distance_miles": 19.04,
+      "is_supermarket": false,
+      "as_of": "2026-09-07",
+      "stale": false,
+      "cells": [
+        {
+          "display": "166.9p",
+          "val": "166.9",
+          "cheapest": false
+        },
+        {
+          "display": "186.9p",
+          "val": "186.9",
+          "cheapest": false
+        },
+        {
+          "display": "186.9p",
+          "val": "186.9",
+          "cheapest": false
+        },
+        {
+          "display": "206.9p",
+          "val": "206.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Clerkenleap Service Station — from 166.9p"
+    },
+    {
+      "name": "Wild Goose Garage",
+      "address": "WILD GOOSE SERVICE STATION, GL11 4BJ",
+      "postcode": "GL11 4BJ",
+      "lat": 51.683832,
+      "lon": -2.357962,
+      "distance_miles": 19.08,
+      "is_supermarket": false,
+      "as_of": "2026-09-07",
+      "stale": false,
+      "cells": [
+        {
+          "display": "163.9p",
+          "val": "163.9",
+          "cheapest": false
+        },
+        {
+          "display": "173.9p",
+          "val": "173.9",
+          "cheapest": false
+        },
+        {
+          "display": "184.9p",
+          "val": "184.9",
+          "cheapest": false
+        },
+        {
+          "display": "194.9p",
+          "val": "194.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Wild Goose Garage — from 163.9p"
+    },
+    {
+      "name": "MFG Fairford",
+      "address": "LONDON ROAD, GL7 4DS",
+      "postcode": "GL7 4DS",
+      "lat": 51.704545,
+      "lon": -1.749113,
+      "distance_miles": 19.44,
+      "is_supermarket": false,
+      "as_of": "2026-09-06",
+      "stale": false,
+      "cells": [
+        {
+          "display": "169.9p",
+          "val": "169.9",
+          "cheapest": false
+        },
+        {
+          "display": "179.9p",
+          "val": "179.9",
+          "cheapest": false
+        },
+        {
+          "display": "189.9p",
+          "val": "189.9",
+          "cheapest": false
+        },
+        {
+          "display": "199.9p",
+          "val": "199.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "MFG Fairford — from 169.9p"
+    },
+    {
+      "name": "Worcester Superstore - Petrol Filling Station",
+      "address": "ST PETERS DR, WR5 3SW",
+      "postcode": "WR5 3SW",
+      "lat": 52.17115,
+      "lon": -2.20481,
+      "distance_miles": 19.56,
+      "is_supermarket": true,
+      "as_of": "2026-09-04",
+      "stale": false,
+      "cells": [
+        {
+          "display": "164.9p",
+          "val": "164.9",
+          "cheapest": false
+        },
+        {
+          "display": "174.9p",
+          "val": "174.9",
+          "cheapest": false
+        },
+        {
+          "display": "184.9p",
+          "val": "184.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Worcester Superstore - Petrol Filling Station — from 164.9p"
+    },
+    {
+      "name": "Powick Service Station",
+      "address": "39 Worcester Rd, WR24QS",
+      "postcode": "WR24QS",
+      "lat": 52.163258,
+      "lon": -2.245994,
+      "distance_miles": 19.61,
+      "is_supermarket": false,
+      "as_of": "2026-09-07",
+      "stale": false,
+      "cells": [
+        {
+          "display": "164.9p",
+          "val": "164.9",
+          "cheapest": false
+        },
+        {
+          "display": "173.9p",
+          "val": "173.9",
+          "cheapest": false
+        },
+        {
+          "display": "185.9p",
+          "val": "185.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "Powick Service Station — from 164.9p"
+    }
+  ]
+}

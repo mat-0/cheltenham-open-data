@@ -3,11 +3,14 @@
   "@context": "https://schema.org",
   "@type": "Dataset",
   "name": "Cheltenham & Gloucestershire Fuel Prices",
-  "description": "{{ page.seo }}",
+  "description": "Daily petrol and diesel prices for 100+ forecourts within 20 miles of Cheltenham, sourced from the official GOV.UK fuel price scheme.",
   "url": "{{ page.url | absolute_url }}",
-  "license": "https://www.gov.uk/check-fuel-prices",
+  "dateModified": "{{ site.data['fuel-prices'].updated_iso }}",
   "isAccessibleForFree": true,
-  "creator": { "@type": "Organization", "name": "{{ site.title }}", "url": "{{ site.url }}" }
+  "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "creator": { "@type": "Organization", "name": "{{ site.title }}", "url": "{{ site.url }}" },
+  "spatialCoverage": { "@type": "Place", "name": "Cheltenham & Gloucestershire, UK" },
+  "variableMeasured": ["Unleaded (E10)", "Premium unleaded (E5)", "Diesel (B7)", "Premium diesel"]
 }
 </script>
 <script type="application/ld+json">
@@ -17,7 +20,7 @@
   "mainEntity": [
     { "@type": "Question", "name": "How often are fuel prices updated?", "acceptedAnswer": {"@type": "Answer", "text": "Prices are refreshed daily from the GOV.UK fuel price API."} },
     { "@type": "Question", "name": "Where does this data come from?", "acceptedAnswer": {"@type": "Answer", "text": "Data is sourced directly from the UK government's official fuel price disclosure scheme."} },
-    { "@type": "Question", "name": "Why isn't my local station listed?", "acceptedAnswer": {"@type": "Answer", "text": "Only stations that have reported a price change in the last 60 days are shown."} }
+    { "@type": "Question", "name": "Why isn't my local station listed?", "acceptedAnswer": {"@type": "Answer", "text": "Only stations that have reported a price change in the last 25 days are shown."} }
   ]
 }
 </script>
