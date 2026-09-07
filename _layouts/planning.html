@@ -1,45 +1,98 @@
 {% include header.html %}
+{% assign planning = site.data["planning-applications"] %}
 <div class="{{page.type}} herobar">
-    <header class="{{page.type}} header">
-        <h1>{{page.title}}</h1>
-        <p>{{page.description}}</p>
-    </header>
-    {% include sponsor.html %}
+    <div class="{{page.type}}">
+        <header class="{{page.type}} header">
+            <h1>{{page.title}}</h1>
+            <p>{{page.description}}</p>
+            <ul class="meta">
+                <li>Tracking {{ planning.total }} applications</li>
+                <li>As of {{ planning.updated }}</li>
+            </ul>
+        </header>
+        {% include sponsor.html %}
 
-    {{ content }}
+        {{ content }}
+        <h2>Recent applications</h2>
+        <div class="scroll">
+            <table class="planning-table" data-sortable>
+                <thead>
+                    <tr>
+                        <th>Received</th>
+                        <th>Application</th>
+                        <th>Location</th>
+                        <th class="postcode">Postcode</th>
+                        <th class="number">Units</th>
+                        <th>Status</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for application in planning.applications %}
+                    <tr>
+                        <td class="date" data-value="{{ application.received_date }}">{{ application.received_date }}
+                        </td>
+                        <td>{{ application.description }}</td>
+                        <td>{{ application.address }}</td>
+                        <td class="postcode">{{ application.postcode }}</td>
+                        <td class="number" data-value="{{ application.units | default: 0 }}">
+                            {{ application.units | default: "-" }}
+                        </td>
+                        <td>{% if application.url %}<a href="{{ application.url }}" target="_blank"
+                                rel="noopener">{{ application.status }}</a>{% else %}{{ application.status }}{% endif %}
+                        </td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
 
-    <div class="scroll">
-        <table id="planning-table" class="planning-table" data-sortable>
-            <thead>
-                <tr>
-                    <th>Date</th>
-                    <th>Application</th>
-                    <th>Location</th>
-                    <th class="postcode">Postcode</th>
-                    <th class="number">Units</th>
-                    <th>Status</th>
-                </tr>
-            </thead>
-            <tbody>
-                {% for application in site.data["planning-applications"] %}
-                <tr>
-                    <td class="date" data-value="{{ application.received_date }}">{{ application.received_date }}</td>
-                    <td>{% if application.url %}<a href="{{ application.url }}" target="_blank"
-                            rel="noopener">{{ application.description }}</a>{% else %}{{ application.description }}{%
-                        endif %}</td>
-                    <td>{{ application.address }}</td>
-                    <td class="postcode">{{ application.postcode }}</td>
-                    <td class="number" data-value="{{ application.units | default: 0 }}">
-                        {{ application.units | default: "-" }}
-                    </td>
-                    <td>{{ application.status }}</td>
-                </tr>
-                {% endfor %}
-            </tbody>
-        </table>
+        {% if planning.decided and planning.decided.size > 0 %}
+        <h2>Recently decided</h2>
+        <div class="scroll">
+            <table class="planning-table" data-sortable>
+                <thead>
+                    <tr>
+                        <th>Decided</th>
+                        <th>Application</th>
+                        <th>Location</th>
+                        <th class="postcode">Postcode</th>
+                        <th class="number">Units</th>
+                        <th>Decision</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for application in planning.decided %}
+                    <tr>
+                        <td class="date" data-value="{{ application.decided_date }}">{{ application.decided_date }}</td>
+                        <td>{{ application.description }}</td>
+                        <td>{{ application.address }}</td>
+                        <td class="postcode">{{ application.postcode }}</td>
+                        <td class="number" data-value="{{ application.units | default: 0 }}">
+                            {{ application.units | default: "-" }}
+                        </td>
+                        <td>{% if application.url %}<a href="{{ application.url }}" target="_blank"
+                                rel="noopener">{{ application.status }}</a>{% else %}{{ application.status }}{% endif %}
+                        </td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+        {% endif %}
+
+
+        <h2>Understanding the references</h2>
+
+        <p>An application reference beginning with a two-digit year (for example 26/00415/FUL) shows the year it was
+            submitted.
+            <b>FUL</b> is a full application; <b>OUT</b> is an outline application, where only the principle
+            of development is agreed and the detail is reserved for later. Click any <b>Status</b> to open the full
+            record on the council's portal.
+        </p>
+
+        <p><small>Data sourced from <a href="https://publicaccess.cheltenham.gov.uk/online-applications/">Cheltenham
+                    Borough Council's Planning Portal</a>. Provided for general information — always check the portal
+                for the definitive record.</small></p>
     </div>
-
-    <p><a href="https://publicaccess.cheltenham.gov.uk/online-applications/">Cheltenham Borough Council Planning
-            Portal</a></p>
-
-    {% include footer.html %}
+</div>
+{% include footer.html %}

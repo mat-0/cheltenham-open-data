@@ -1,18 +1,17 @@
 ---
 layout: planning
 title: "Cheltenham Planning Applications"
-seo: "Is cheltenham expensive area to live, check out the average house prices in the area"
+seo: "Track recent planning applications submitted to Cheltenham Borough Council — new homes, conversions, extensions and commercial schemes, updated daily."
 permalink: /cheltenham-planning-applications
-description: "Data from Land Registry and ONS updated in July 2026."
+description: "Recent planning applications submitted to Cheltenham Borough Council, updated daily from the council's PublicAccess portal."
 type: "house"
+schema_include: planschema
 ---
 
-<!-- planning_body starts -->
-As of 07 September 2026, this page tracks 21 planning applications submitted to Cheltenham Borough Council between 2026-08-25 and 2026-09-04, covering new housing developments, conversions to flats, and larger commercial schemes.
+{% assign planning = site.data["planning-applications"] %}
 
-Of these, 15 are pending consideration and 6 have reached a decision (approved, refused, or otherwise determined). Status is updated automatically as applications progress through the council's PublicAccess planning portal.
+## What's being planned in Cheltenham
 
-An application reference beginning with a two-digit year (for example 26/00415/FUL) indicates the year it was submitted. FUL denotes a full planning application; OUT denotes an outline application, where only the principle of development is agreed at this stage and detailed matters are reserved for later approval.
+This page tracks the {{ planning.received_count }} applications Cheltenham Borough Council has received in the last {{ planning.lookback_days }} days with {{ planning.pending }} still awaiting a decision and {{ planning.decided_count }} already determined. Applications range from single-home extensions to major housing schemes, as well as managing trees, lots and lots of trees.
 
-This data is sourced directly from Cheltenham Borough Council's PublicAccess planning portal and refreshed regularly. It is provided for general information; for the definitive and most current record on any application, consult the council's planning portal directly.
-<!-- planning_body ends -->
+Data is refreshed daily from the council's PublicAccess portal. Sort by any column, or open an application's status to read the full case file.

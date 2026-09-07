@@ -2,40 +2,36 @@
 planning.py
 
 Fetches recent planning applications from Cheltenham Borough Council's
-PublicAccess (Idox) portal, merges them into a running JSON store, and
-writes fixed-template SEO prose into the markdown page between the
-"planning_body" markers.
+PublicAccess (Idox) portal by BOTH received date and decision date, merges
+them into a running JSON store, and writes a render-ready data file.
 
-Run: hourly via GitHub Actions.
-
-Data source:
-    https://publicaccess.cheltenham.gov.uk/online-applications/
-    (Idox PublicAccess system - standard across most UK councils)
+Run:
+    python planning.py          # hourly: current month, both date types
+    python planning.py --deep   # backfill: walk MONTHS_DEEP months
 
 Output:
-    /_data/planning-applications.json         <- Jekyll data and table data
-    /_pages/cheltenham-planning-applications.md  <- prose updated in place
+    /_data/planning-applications.json
+        { meta..., applications: [...], decided: [...] }
 
-NOTE ON SELECTORS:
-    Idox PublicAccess sites are template-driven but selector/markup details
-    can vary slightly council-to-council and can change on portal upgrades.
-    The parsing constants are isolated in CONFIG below. If the council
-    changes their portal, run with DEBUG=True and inspect
-    debug_last_response.html to re-check selectors.
+NOTES ON SELECTORS:
+    Two spots depend on the exact Idox markup and should be confirmed with a
+    DEBUG=True run before trusting the decided table:
+      1. the date-type radio value for "Decided" (see set_date_type)
+      2. the decision-date label in result items (see parse_result_item)
+    Both are handled defensively, but verify against debug HTML.
 """
 
 import re
 import json
 import time
 import logging
+import argparse
 from pathlib import Path
 from datetime import datetime, timedelta
 from urllib.parse import urljoin
 
 import requests
 from bs4 import BeautifulSoup
-
-import helper
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 log = logging.getLogger("planning")
@@ -45,63 +41,101 @@ log = logging.getLogger("planning")
 # ---------------------------------------------------------------------------
 
 BASE_URL = "https://publicaccess.cheltenham.gov.uk/online-applications"
-MONTHLY_LIST_URL = f"{BASE_URL}/search.do?action=weeklyList&searchType=Application"
+MONTHLY_LIST_URL = f"{BASE_URL}/search.do?action=monthlyList&searchType=Application"
 
-LOOKBACK_DAYS = 60
-# Drop records older than this from the JSON store each run.
-RETENTION_DAYS = 60  # ~6 months
+# How many months of the list to walk. Hourly runs only need the current
+# month (the merge keeps history); --deep backfills further.
+MONTHS_NORMAL = 1
+MONTHS_DEEP = 3
+
+# Keep/show a record if its received OR decision date is within this window.
+RETENTION_DAYS = 90
+
 DATA_DIR = Path("_data")
 DATA_FILE = DATA_DIR / "planning-applications.json"
-PAGES_DIR = Path("_pages")
-MARKDOWN_FILE = PAGES_DIR / "planning.md"
-MARKER = "planning_body"
 
 REQUEST_HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
 }
 
-REQUEST_DELAY_SECONDS = 1.5  # be polite between page requests
-MAX_PAGES = 10  # safety cap on pagination
+REQUEST_DELAY_SECONDS = 1.5
+MAX_PAGES = 10
 
-DEBUG = False
+# Status text that counts as a reached decision (drives the decided table).
+DECISION_TERMS = (
+    "allow", "approv", "grant", "permit", "refus", "object",
+    "withdraw", "dismiss", "decid", "split",
+)
+
+TODAY = datetime.now().strftime("%Y-%m-%d")
+
+DEBUG = True
 
 
 # ---------------------------------------------------------------------------
-# FETCHING
+# FORM DISCOVERY
 # ---------------------------------------------------------------------------
 
-def discover_form(html, base_url):
+def _radio_label(form, inp):
+    """Best-effort human label for a radio input."""
+    iid = inp.get("id")
+    if iid:
+        lab = form.find("label", attrs={"for": iid})
+        if lab:
+            return lab.get_text(" ", strip=True).lower()
+    parent = inp.find_parent(["label", "li", "div", "span"])
+    return parent.get_text(" ", strip=True).lower() if parent else ""
+
+
+def set_date_type(form, fields, date_type):
     """
-    Parse the monthly list search form: CSRF token, action URL, the select
-    field listing months, and the radio group choosing received/validated/
-    decided. Done dynamically rather than hardcoding field names, since
-    Idox portals vary and we've already been burned guessing them.
+    Point the date-type radio group at received / validated / decided.
+    Matches on radio value or nearby label text rather than hardcoding the
+    field name, since Idox varies. Leaves other radio groups untouched.
+    """
+    keyword = {"received": "receiv", "validated": "valid", "decided": "decid"}[date_type]
+    for inp in form.find_all("input", attrs={"type": "radio"}):
+        name = inp.get("name")
+        value = (inp.get("value") or "")
+        if not name:
+            continue
+        haystack = f"{value} {_radio_label(form, inp)}".lower()
+        if keyword in haystack:
+            fields[name] = value
+            log.info("Date-type '%s' -> %s=%s", date_type, name, value)
+            return True
+    log.warning("Could not find a '%s' radio option; using form default", date_type)
+    return False
+
+
+def discover_form(html, base_url, date_type):
+    """
+    Parse the list search form for a given date type. Returns the action URL,
+    the base field dict, the month field name, and the month option values
+    (newest-first) so the caller can walk back multiple months.
     """
     soup = BeautifulSoup(html, "html.parser")
     forms = soup.find_all("form")
 
+    months = ("jan", "feb", "mar", "apr", "may", "jun",
+              "jul", "aug", "sep", "oct", "nov", "dec")
+
     form = None
     for f in forms:
-        select_names = " ".join((s.get("name") or "") for s in f.find_all("select"))
         option_text = " ".join(
             o.get_text(strip=True) for s in f.find_all("select") for o in s.find_all("option")
         ).lower()
-        if any(m in option_text for m in ("jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec")):
+        if any(m in option_text for m in months):
             form = f
             break
-
     if form is None:
         form = forms[0] if forms else None
-
     if not form:
-        raise RuntimeError("Could not find monthly list search form on page")
+        raise RuntimeError("Could not find list search form on page")
 
-    action = form.get("action")
-    action_url = urljoin(base_url + "/", action)
+    action_url = urljoin(base_url + "/", form.get("action"))
 
     fields = {}
-    all_selects_debug = []
-
     for inp in form.find_all("input"):
         itype = (inp.get("type") or "text").lower()
         name = inp.get("name")
@@ -109,90 +143,61 @@ def discover_form(html, base_url):
             continue
         if itype == "hidden":
             fields[name] = inp.get("value", "")
-        elif itype == "radio":
-            if inp.has_attr("checked"):
-                fields[name] = inp.get("value")
+        elif itype == "radio" and inp.has_attr("checked"):
+            fields[name] = inp.get("value")
 
-    month_select = None
-    for select in form.find_all("select"):
-        options = select.find_all("option")
-        option_texts = " ".join(o.get_text(strip=True) for o in options).lower()
-        all_selects_debug.append((select.get("name"), [o.get_text(strip=True) for o in options][:5]))
-        if any(m in option_texts for m in ("jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec")):
-            month_select = select
-
-    log.info("All <select> fields found on form: %s", all_selects_debug)
-
-    # For every select field, submit whichever option is marked selected,
-    # falling back to the first option. Covers parish/ward filters as well
-    # as the month field, without hardcoding field names.
+    # Non-month selects: submit their selected (or first) option.
+    month_field = None
+    month_values = []
     for select in form.find_all("select"):
         name = select.get("name")
-        if not name:
-            continue
         options = select.find_all("option")
-        if not options:
+        if not name or not options:
             continue
-        chosen = next((o for o in options if o.has_attr("selected")), None)
-        if chosen is None and select is month_select:
-            chosen = options[0]  # most recent month, since options are newest-first
-        elif chosen is None:
-            chosen = options[0]
-        fields[name] = chosen.get("value", "")
+        option_texts = " ".join(o.get_text(strip=True) for o in options).lower()
+        if any(m in option_texts for m in months):
+            month_field = name
+            month_values = [o.get("value", "") for o in options]  # newest-first
+            fields[name] = month_values[0] if month_values else ""
+        else:
+            chosen = next((o for o in options if o.has_attr("selected")), options[0])
+            fields[name] = chosen.get("value", "")
 
-    if month_select is None:
-        log.warning("No month <select> field detected - search may fail or return wrong period")
+    set_date_type(form, fields, date_type)
 
-    return action_url, fields
+    if month_field is None:
+        log.warning("No month <select> detected - search may return the wrong period")
+
+    return action_url, fields, month_field, month_values
 
 
-def fetch_monthly_list_page(session, action_url, fields, page_number):
+# ---------------------------------------------------------------------------
+# FETCHING
+# ---------------------------------------------------------------------------
+
+def fetch_page(session, action_url, fields, page_number):
     fields = dict(fields)
     if page_number > 1:
         fields["searchCriteria.page"] = page_number
-
     resp = session.post(action_url, data=fields, timeout=30)
-    log.info("POST %s -> status %s, %s bytes", resp.url, resp.status_code, len(resp.text))
+    log.info("POST %s -> %s, %s bytes", resp.url, resp.status_code, len(resp.text))
     resp.raise_for_status()
-
     if DEBUG:
-        Path(f"debug_monthly_response_page{page_number}.html").write_text(resp.text, encoding="utf-8")
-        log.info("Wrote debug_monthly_response_page%s.html (%s bytes)", page_number, len(resp.text))
-
+        Path(f"debug_{fields.get('searchCriteria.page', 1)}.html").write_text(resp.text, encoding="utf-8")
     return resp.text
 
 
 def parse_results_page(html):
-    """
-    Parse one page of PublicAccess search results.
-
-    Idox results pages list applications as <li class="searchresult"> blocks,
-    each containing a reference, address, description and status. Exact
-    class names have shifted between Idox versions - selectors below try the
-    common current pattern first and fall back to a looser search if needed.
-    """
     soup = BeautifulSoup(html, "html.parser")
-    items = soup.select("li.searchresult")
-
-    if not items:
-        # Fallback for older/alternate Idox templates
-        items = soup.select("ul#searchresults li")
+    items = soup.select("li.searchresult") or soup.select("ul#searchresults li")
 
     if DEBUG and items:
-        log.info("--- RAW TEXT OF FIRST RESULT ITEM ---")
-        log.info(" ".join(items[0].get_text(separator=" ").split()))
-        log.info("--- RAW HTML OF FIRST RESULT ITEM ---")
+        log.info("--- RAW FIRST RESULT ITEM ---")
         log.info(str(items[0])[:2000])
-        log.info("--- END DEBUG ---")
+        log.info("--- END ---")
 
-    records = []
-    for item in items:
-        record = parse_result_item(item)
-        if record:
-            records.append(record)
-
+    records = [r for r in (parse_result_item(i) for i in items) if r]
     has_next = bool(soup.select_one("a.next, a[title='Next']"))
-    log.info("has_next detected: %s (found selector match: %s)", has_next, soup.select_one("a.next, a[title='Next']"))
     return records, has_next
 
 
@@ -209,40 +214,40 @@ def parse_result_item(item):
 
     ref_match = re.search(r"Ref\.?\s*No:?\s*([A-Z0-9/]+)", full_text, re.IGNORECASE)
     ref = ref_match.group(1) if ref_match else None
+    if not ref:
+        return None
 
     received_match = re.search(
-        r"Received:\s*(?:\w{3}\s+)?(\d{1,2}\s+\w{3,9}\s+\d{4})", full_text, re.IGNORECASE
-    )
+        r"Received:\s*(?:\w{3}\s+)?(\d{1,2}\s+\w{3,9}\s+\d{4})", full_text, re.IGNORECASE)
     received_date = parse_date(received_match.group(1)) if received_match else None
+
+    # Decision date label varies: "Decision:", "Decided:", "Decision Issued:".
+    decided_match = re.search(
+        r"(?:Decision(?:\s+Issued)?|Decided):\s*(?:\w{3}\s+)?(\d{1,2}\s+\w{3,9}\s+\d{4})",
+        full_text, re.IGNORECASE)
+    decided_date = parse_date(decided_match.group(1)) if decided_match else None
 
     status_el = item.select_one(".badge-status .value")
     status = status_el.get_text(strip=True) if status_el else "Unknown"
 
     description = link.get_text(strip=True)
 
-    address = None
     addr_el = item.select_one(".address, .location")
     if addr_el:
         address = addr_el.get_text(strip=True)
     else:
-        # crude fallback: text after description, before "Ref"
         after = full_text.split(description, 1)[-1]
         address = after.split("Ref")[0].strip(" -\u2013")
-
-    postcode = extract_postcode(address or "")
-    units = extract_units(description)
-
-    if not ref:
-        return None
 
     return {
         "ref": ref,
         "description": description,
         "address": address,
-        "postcode": postcode,
-        "units": units,
+        "postcode": extract_postcode(address or ""),
+        "units": extract_units(description),
         "status": status,
         "received_date": received_date,
+        "decided_date": decided_date,
         "url": detail_url,
     }
 
@@ -258,197 +263,172 @@ def parse_date(text):
 
 
 def extract_postcode(text):
-    match = re.search(r"[A-Z]{1,2}\d[A-Z\d]?\s*\d[A-Z]{2}", text.upper())
-    return match.group(0) if match else None
+    m = re.search(r"[A-Z]{1,2}\d[A-Z\d]?\s*\d[A-Z]{2}", text.upper())
+    return m.group(0) if m else None
 
 
 def extract_units(description):
-    """
-    Best-effort unit count from free-text description, e.g.
-    '2no. dwellings' -> 2, 'erection of 60 dwellings' -> 60.
-    Returns None when no confident count is found.
-    """
-    match = re.search(r"(\d+)\s*(?:no\.?|x)?\s*(?:dwellings?|flats?|units?|apartments?)", description, re.IGNORECASE)
-    if match:
-        return int(match.group(1))
+    m = re.search(r"(\d+)\s*(?:no\.?|x)?\s*(?:dwellings?|flats?|units?|apartments?)",
+                  description, re.IGNORECASE)
+    if m:
+        return int(m.group(1))
     if re.search(r"\bdwelling\b", description, re.IGNORECASE) and "dwellings" not in description.lower():
         return 1
     return None
 
 
-def fetch_recent_applications():
+def fetch_by_date_type(session, form_html, date_type, months):
+    action_url, fields, month_field, month_values = discover_form(form_html, BASE_URL, date_type)
+
+    collected = []
+    seen = set()
+    walk = month_values[:months] if (month_field and month_values) else [None]
+
+    for mv in walk:
+        if month_field and mv is not None:
+            fields[month_field] = mv
+        page = 1
+        while page <= MAX_PAGES:
+            try:
+                html = fetch_page(session, action_url, fields, page)
+            except requests.RequestException as exc:
+                log.error("Request failed (%s, month=%s, page=%s): %s", date_type, mv, page, exc)
+                break
+            records, has_next = parse_results_page(html)
+            fresh = [r for r in records if r["ref"] not in seen]
+            log.info("%s month=%s page=%s: %s records (%s new)", date_type, mv, page, len(records), len(fresh))
+            if not fresh:
+                break
+            for r in fresh:
+                # If the decided search found it but the list didn't expose a
+                # decision date, floor it to today so retention keeps it and
+                # the decided table can still surface it.
+                if date_type == "decided" and not r["decided_date"]:
+                    r["decided_date"] = TODAY
+                seen.add(r["ref"])
+            collected.extend(fresh)
+            if not has_next:
+                break
+            page += 1
+            time.sleep(REQUEST_DELAY_SECONDS)
+
+    return collected
+
+
+def fetch_all(months):
     session = requests.Session()
     session.headers.update(REQUEST_HEADERS)
 
-    log.info("Loading monthly list search form: %s", MONTHLY_LIST_URL)
+    log.info("Loading list search form: %s", MONTHLY_LIST_URL)
     form_resp = session.get(MONTHLY_LIST_URL, timeout=30)
-    log.info("Form page -> status %s, %s bytes", form_resp.status_code, len(form_resp.text))
+    form_resp.raise_for_status()
     if DEBUG:
         Path("debug_form_page.html").write_text(form_resp.text, encoding="utf-8")
 
-    action_url, fields = discover_form(form_resp.text, BASE_URL)
-    log.info("Discovered form action: %s", action_url)
-    log.info("Discovered fields: %s", fields)
-
     all_records = []
-    seen_refs = set()
-    page = 1
-    while page <= MAX_PAGES:
-        log.info("Fetching monthly list results page %s", page)
-        try:
-            html = fetch_monthly_list_page(session, action_url, fields, page)
-        except requests.RequestException as exc:
-            log.error("Request failed on page %s: %s", page, exc)
-            break
-
-        records, has_next = parse_results_page(html)
-        new_records = [r for r in records if r["ref"] not in seen_refs]
-        log.info("Parsed %s records on page %s (%s new)", len(records), page, len(new_records))
-
-        if not new_records:
-            log.info("No new records on page %s - stopping pagination", page)
-            break
-
-        for r in new_records:
-            seen_refs.add(r["ref"])
-        all_records.extend(new_records)
-
-        if not has_next:
-            break
-
-        page += 1
-        time.sleep(REQUEST_DELAY_SECONDS)
-
+    # Received first, then decided so decision status/date win on merge.
+    for date_type in ("received", "decided"):
+        all_records.extend(fetch_by_date_type(session, form_resp.text, date_type, months))
     return all_records
 
 
 # ---------------------------------------------------------------------------
-# STORE (merge / dedupe / retention)
+# STORE
 # ---------------------------------------------------------------------------
 
 def load_existing():
     if not DATA_FILE.exists():
         return {}
     try:
-        records = json.loads(DATA_FILE.read_text(encoding="utf-8"))
-        return {r["ref"]: r for r in records}
+        data = json.loads(DATA_FILE.read_text(encoding="utf-8"))
+        if isinstance(data, dict):
+            recs = []
+            for key in ("applications", "decided"):
+                val = data.get(key)
+                if isinstance(val, list):
+                    recs.extend(val)
+        else:
+            recs = data  # legacy flat array
+        return {r["ref"]: r for r in recs if isinstance(r, dict) and r.get("ref")}
     except (json.JSONDecodeError, KeyError) as exc:
-        log.warning("Could not parse existing JSON store (%s); starting fresh", exc)
+        log.warning("Could not parse existing store (%s); starting fresh", exc)
         return {}
 
 
+
 def merge_records(existing, new_records):
-    for record in new_records:
-        ref = record["ref"]
+    """Field-wise merge: a non-empty new value wins, but we never blank an
+    existing value (so a decided-search hit can't wipe received_date)."""
+    for rec in new_records:
+        ref = rec["ref"]
         if ref in existing:
-            existing[ref].update(record)
+            for k, v in rec.items():
+                if v not in (None, "", []):
+                    existing[ref][k] = v
         else:
-            existing[ref] = record
+            existing[ref] = rec
     return existing
+
+
+def is_decision(status):
+    s = (status or "").lower()
+    return any(term in s for term in DECISION_TERMS)
+
+
+def best_date(r):
+    return r.get("decided_date") or r.get("received_date") or ""
 
 
 def apply_retention(records_by_ref):
     cutoff = (datetime.now() - timedelta(days=RETENTION_DAYS)).strftime("%Y-%m-%d")
-    kept = {
-        ref: r for ref, r in records_by_ref.items()
-        if not r.get("received_date") or r["received_date"] >= cutoff
-    }
+    kept = {}
+    for ref, r in records_by_ref.items():
+        rec_ok = (r.get("received_date") or "") >= cutoff
+        dec_ok = (r.get("decided_date") or "") >= cutoff
+        if rec_ok or dec_ok:
+            kept[ref] = r
     dropped = len(records_by_ref) - len(kept)
     if dropped:
-        log.info("Dropped %s records older than %s days", dropped, RETENTION_DAYS)
+        log.info("Dropped %s records outside the %s-day window", dropped, RETENTION_DAYS)
     return kept
 
 
-def save_store(records_by_ref):
+def build_payload(records_by_ref):
+    cutoff = (datetime.now() - timedelta(days=RETENTION_DAYS)).strftime("%Y-%m-%d")
+    records = list(records_by_ref.values())
+
+    applications = sorted(
+        (r for r in records if (r.get("received_date") or "") >= cutoff),
+        key=lambda r: r.get("received_date") or "", reverse=True)
+
+    decided = sorted(
+        (r for r in records if is_decision(r.get("status")) and best_date(r) >= cutoff),
+        key=best_date, reverse=True)
+
+    rec_dates = [r["received_date"] for r in applications if r.get("received_date")]
+    now = datetime.now()
+    pending = sum(1 for r in applications if not is_decision(r.get("status")))
+
+
+    return {
+        "updated": now.strftime("%d %B %Y"),
+        "updated_iso": now.strftime("%Y-%m-%dT%H:%M:%S"),
+        "lookback_days": RETENTION_DAYS,
+        "received_count": len(applications),
+        "pending": pending,
+        "decided_count": len(decided),
+        "date_from": min(rec_dates) if rec_dates else None,
+        "date_to": max(rec_dates) if rec_dates else None,
+        "applications": applications,
+        "decided": decided,
+    }
+
+
+def save_payload(payload):
     DATA_DIR.mkdir(parents=True, exist_ok=True)
-    records = sorted(
-        records_by_ref.values(),
-        key=lambda r: r.get("received_date") or "",
-        reverse=True,
-    )
-    DATA_FILE.write_text(json.dumps(records, indent=2), encoding="utf-8")
-    log.info("Saved %s records to %s", len(records), DATA_FILE)
-    return records
-
-
-# ---------------------------------------------------------------------------
-# PROSE (fixed templates, stats plugged in)
-# ---------------------------------------------------------------------------
-
-def build_prose(records):
-    total = len(records)
-    statuses = {}
-    for r in records:
-        status = (r.get("status") or "Unknown").strip()
-        statuses[status] = statuses.get(status, 0) + 1
-
-    pending = sum(v for k, v in statuses.items() if "pending" in k.lower())
-    decided = sum(
-        v for k, v in statuses.items()
-        if any(term in k.lower() for term in ("allow", "approv", "grant", "refus", "object", "permit", "withdraw"))
-    )
-    other = total - pending - decided
-
-    major_schemes = [r for r in records if (r.get("units") or 0) >= 10]
-
-    dates = [r["received_date"] for r in records if r.get("received_date")]
-    date_range = ""
-    if dates:
-        date_range = f"between {min(dates)} and {max(dates)}"
-
-    updated = datetime.now().strftime("%d %B %Y")
-
-    paragraphs = []
-
-    paragraphs.append(
-        f"As of {updated}, this page tracks {total} planning application"
-        f"{'s' if total != 1 else ''} submitted to Cheltenham Borough Council"
-        f"{' ' + date_range if date_range else ''}, covering new housing "
-        f"developments, conversions to flats, and larger commercial schemes."
-    )
-
-    paragraphs.append(
-        f"Of these, {pending} are pending consideration and {decided} have "
-        f"reached a decision (approved, refused, or otherwise determined). "
-        f"Status is updated automatically as applications progress through "
-        f"the council's PublicAccess planning portal."
-    )
-
-    if major_schemes:
-        paragraphs.append(
-            f"{len(major_schemes)} of the tracked applications involve 10 or "
-            f"more dwellings, representing the larger housing schemes "
-            f"currently working through the planning process in Cheltenham."
-        )
-
-    paragraphs.append(
-        "An application reference beginning with a two-digit year (for "
-        "example 26/00415/FUL) indicates the year it was submitted. FUL "
-        "denotes a full planning application; OUT denotes an outline "
-        "application, where only the principle of development is agreed at "
-        "this stage and detailed matters are reserved for later approval."
-    )
-
-    paragraphs.append(
-        "This data is sourced directly from Cheltenham Borough Council's "
-        "PublicAccess planning portal and refreshed regularly. It is "
-        "provided for general information; for the definitive and most "
-        "current record on any application, consult the council's planning "
-        "portal directly."
-    )
-
-    return "\n\n".join(paragraphs)
-
-
-def update_markdown(prose):
-    if not MARKDOWN_FILE.exists():
-        log.warning("%s not found; skipping prose update", MARKDOWN_FILE)
-        return
-
-    content = MARKDOWN_FILE.read_text(encoding="utf-8")
-    updated = helper.replace_chunk(content, MARKER, prose)
-    MARKDOWN_FILE.write_text(updated, encoding="utf-8")
-    log.info("Updated prose in %s", MARKDOWN_FILE)
+    DATA_FILE.write_text(json.dumps(payload, indent=2), encoding="utf-8")
+    log.info("Saved %s applications / %s decided to %s",
+             payload["received_count"], payload["decided_count"], DATA_FILE)
 
 
 # ---------------------------------------------------------------------------
@@ -456,17 +436,20 @@ def update_markdown(prose):
 # ---------------------------------------------------------------------------
 
 def main():
-    new_records = fetch_recent_applications()
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--deep", action="store_true", help="walk more months for backfill")
+    args = parser.parse_args()
+
+    months = MONTHS_DEEP if args.deep else MONTHS_NORMAL
+    new_records = fetch_all(months)
 
     if not new_records:
-        log.warning("No records fetched this run; leaving existing store untouched")
-    else:
-        existing = load_existing()
-        merged = merge_records(existing, new_records)
-        merged = apply_retention(merged)
-        saved = save_store(merged)
-        prose = build_prose(saved)
-        update_markdown(prose)
+        log.warning("No records fetched; leaving existing store untouched")
+        return
+
+    merged = merge_records(load_existing(), new_records)
+    merged = apply_retention(merged)
+    save_payload(build_payload(merged))
 
 
 if __name__ == "__main__":

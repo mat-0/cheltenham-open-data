@@ -1,0 +1,46 @@
+{% assign planning = site.data["planning-applications"] %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Cheltenham Planning Applications",
+  "description": "Recent planning applications submitted to Cheltenham Borough Council, including new homes, conversions, extensions and commercial schemes. Updated daily from the council's PublicAccess portal.",
+  "url": "{{ page.url | absolute_url }}",
+  "keywords": [
+    "planning applications",
+    "Cheltenham",
+    "Cheltenham Borough Council",
+    "development",
+    "housing"
+  ],
+  "creator": {
+    "@type": "Organization",
+    "name": "Cheltenham Open Data",
+    "url": "{{ '/' | absolute_url }}"
+  },
+  "sourceOrganization": {
+    "@type": "GovernmentOrganization",
+    "name": "Cheltenham Borough Council",
+    "url": "https://publicaccess.cheltenham.gov.uk/online-applications/"
+  },
+  "isBasedOn": "https://publicaccess.cheltenham.gov.uk/online-applications/",
+  "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "isAccessibleForFree": true,
+  "dateModified": "{{ planning.updated_iso }}"{% if planning.date_from and planning.date_to %},
+  "temporalCoverage": "{{ planning.date_from }}/{{ planning.date_to }}"{% endif %},
+  "variableMeasured": [
+    "Application reference",
+    "Description",
+    "Location",
+    "Postcode",
+    "Dwelling units",
+    "Status",
+    "Date received"
+  ],
+  "distribution": {
+    "@type": "DataDownload",
+    "encodingFormat": "text/html",
+    "contentUrl": "{{ page.url | absolute_url }}"
+  }
+}
+</script>
