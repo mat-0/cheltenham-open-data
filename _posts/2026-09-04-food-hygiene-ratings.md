@@ -4,6 +4,7 @@ title: Cheltenham Open Data Adds Food Hygiene Ratings
 type: news
 description: Food hygiene ratings for Cheltenham venues, sourced from the Food Standards Agency and updated regularly.
 seo: Food hygiene ratings for Cheltenham venues, including ratings, exemptions and businesses awaiting inspection.
+date: 2026-09-04 21:00
 ---
 
 Cheltenham Open Data has added [food hygiene ratings for Cheltenham venues](/cheltenham-food-standards), sourced from the Food Standards Agency's open data.

@@ -1,0 +1,344 @@
+[
+  {
+    "name": "81 The Prom",
+    "type": "Guest house",
+    "stars": null,
+    "address": "",
+    "postcode": "",
+    "lat": 51.8988295,
+    "lng": -2.0783629
+  },
+  {
+    "name": "Abbey Hotel",
+    "type": "Hotel",
+    "stars": null,
+    "address": "14-16 Bath Parade",
+    "postcode": "",
+    "lat": 51.8965727,
+    "lng": -2.0726699
+  },
+  {
+    "name": "Alice Guesthouse",
+    "type": "Guest house",
+    "stars": null,
+    "address": "141 Swindon Road",
+    "postcode": "",
+    "lat": 51.9072956,
+    "lng": -2.0833024
+  },
+  {
+    "name": "Badger Towers",
+    "type": "Guest house",
+    "stars": null,
+    "address": "133 Hales Road",
+    "postcode": "",
+    "lat": 51.899524,
+    "lng": -2.0561739
+  },
+  {
+    "name": "Beaumount House",
+    "type": "Hotel",
+    "stars": null,
+    "address": "56 Shurdington Road",
+    "postcode": "GL53 0JE",
+    "lat": 51.8850371,
+    "lng": -2.0847213
+  },
+  {
+    "name": "Brennan Guest House",
+    "type": "Guest house",
+    "stars": null,
+    "address": "21 St Lukes Road",
+    "postcode": "",
+    "lat": 51.894686,
+    "lng": -2.0735931
+  },
+  {
+    "name": "Burlington Guest House",
+    "type": "Guest house",
+    "stars": null,
+    "address": "418 Gloucester Road",
+    "postcode": "",
+    "lat": 51.8953788,
+    "lng": -2.110581
+  },
+  {
+    "name": "Central Hotel",
+    "type": "Hotel",
+    "stars": null,
+    "address": "7 Portland Street",
+    "postcode": "GL52 2NZ",
+    "lat": 51.9018839,
+    "lng": -2.0728858
+  },
+  {
+    "name": "Charlton Kings Hotel",
+    "type": "Hotel",
+    "stars": 3,
+    "address": "London Road",
+    "postcode": "GL52 6UU",
+    "lat": 51.8811339,
+    "lng": -2.0371677
+  },
+  {
+    "name": "Cheltenham Lawn",
+    "type": "Guest house",
+    "stars": null,
+    "address": "5 Pittville Lawn",
+    "postcode": "GL52 2BE",
+    "lat": 51.9044015,
+    "lng": -2.0692913
+  },
+  {
+    "name": "Citrus Hotel",
+    "type": "Hotel",
+    "stars": null,
+    "address": "Wellington Street",
+    "postcode": "GL50 1XZ",
+    "lat": 51.8981464,
+    "lng": -2.0733666
+  },
+  {
+    "name": "Clarence Court Hotel",
+    "type": "Hotel",
+    "stars": null,
+    "address": "45 Clarence Square",
+    "postcode": "GL50 4JR",
+    "lat": 51.9053078,
+    "lng": -2.0719228
+  },
+  {
+    "name": "Cotswold Grange Hotel",
+    "type": "Hotel",
+    "stars": null,
+    "address": "",
+    "postcode": "",
+    "lat": 51.9036873,
+    "lng": -2.0624648
+  },
+  {
+    "name": "Crescent Place",
+    "type": "Hotel",
+    "stars": null,
+    "address": "1a Crescent Place",
+    "postcode": "",
+    "lat": 51.9005656,
+    "lng": -2.0776612
+  },
+  {
+    "name": "Crossways Guest House",
+    "type": "Guest house",
+    "stars": null,
+    "address": "57 Bath Road",
+    "postcode": "",
+    "lat": 51.8961907,
+    "lng": -2.0748711
+  },
+  {
+    "name": "Curb Properties",
+    "type": "Guest house",
+    "stars": null,
+    "address": "",
+    "postcode": "",
+    "lat": 51.8985684,
+    "lng": -2.0983511
+  },
+  {
+    "name": "Detmore House",
+    "type": "Hotel",
+    "stars": null,
+    "address": "London Road",
+    "postcode": "GL52 6UT",
+    "lat": 51.8837442,
+    "lng": -2.0366252
+  },
+  {
+    "name": "DoubleTree by Hilton Cheltenham-Cotswolds",
+    "type": "Hotel",
+    "stars": 4,
+    "address": "Cirencester Road",
+    "postcode": "GL53 8EA",
+    "lat": 51.8748535,
+    "lng": -2.0535007
+  },
+  {
+    "name": "Ellenborough Park",
+    "type": "Hotel",
+    "stars": null,
+    "address": "Cheltenham Road",
+    "postcode": "GL52 3NJ",
+    "lat": 51.9261874,
+    "lng": -2.0415825
+  },
+  {
+    "name": "Ellenborough Park Hotel",
+    "type": "Hotel",
+    "stars": null,
+    "address": "",
+    "postcode": "GL52 3NJ",
+    "lat": 51.9266381,
+    "lng": -2.04169
+  },
+  {
+    "name": "George Hotel",
+    "type": "Hotel",
+    "stars": 3,
+    "address": "41-49 Saint Georges Road",
+    "postcode": "GL50 3DZ",
+    "lat": 51.8992683,
+    "lng": -2.0816212
+  },
+  {
+    "name": "Holiday Inn Express",
+    "type": "Hotel",
+    "stars": null,
+    "address": "Dunalley Street",
+    "postcode": "GL50 4AP",
+    "lat": 51.9044909,
+    "lng": -2.076547
+  },
+  {
+    "name": "Holmedale",
+    "type": "Guest house",
+    "stars": null,
+    "address": "Old Gloucester Road",
+    "postcode": "",
+    "lat": 51.9109239,
+    "lng": -2.1452345
+  },
+  {
+    "name": "Hope Orchard B&B",
+    "type": "Guest house",
+    "stars": null,
+    "address": "Gloucester Road",
+    "postcode": "GL51 0TF",
+    "lat": 51.9002516,
+    "lng": -2.1574703
+  },
+  {
+    "name": "Hotel du Vin & Bistro",
+    "type": "Hotel",
+    "stars": null,
+    "address": "Parabola Lane",
+    "postcode": "GL50 3AH",
+    "lat": 51.8984409,
+    "lng": -2.082664
+  },
+  {
+    "name": "Kingsmuir Hotel",
+    "type": "Hotel",
+    "stars": null,
+    "address": "Pittville Circus",
+    "postcode": "",
+    "lat": 51.9043986,
+    "lng": -2.0652169
+  },
+  {
+    "name": "Leonardo Hotels",
+    "type": "Hotel",
+    "stars": null,
+    "address": "",
+    "postcode": "GL51 0TS",
+    "lat": 51.8956925,
+    "lng": -2.1312995
+  },
+  {
+    "name": "Lypiatt House Hotel",
+    "type": "Hotel",
+    "stars": null,
+    "address": "Lypiatt Road",
+    "postcode": "GL50 2QW",
+    "lat": 51.8923655,
+    "lng": -2.0847019
+  },
+  {
+    "name": "Mercure Cheltenham Queen's Hotel",
+    "type": "Hotel",
+    "stars": null,
+    "address": "The Promenade",
+    "postcode": "GL50 1NN",
+    "lat": 51.8963407,
+    "lng": -2.0802537
+  },
+  {
+    "name": "No. 208 The High Street",
+    "type": "Guest house",
+    "stars": null,
+    "address": "",
+    "postcode": "",
+    "lat": 51.9016001,
+    "lng": -2.075851
+  },
+  {
+    "name": "No. 38 The Park",
+    "type": "Hotel",
+    "stars": null,
+    "address": "38 Evesham Road",
+    "postcode": "GL52 2AH",
+    "lat": 51.9060226,
+    "lng": -2.0704597
+  },
+  {
+    "name": "Premier Inn",
+    "type": "Hotel",
+    "stars": 3,
+    "address": "",
+    "postcode": "",
+    "lat": 51.9026993,
+    "lng": -2.0772894
+  },
+  {
+    "name": "Ramada by Wyndham Cheltenham",
+    "type": "Hotel",
+    "stars": null,
+    "address": "Gloucester Road",
+    "postcode": "GL51 0ST",
+    "lat": 51.9007116,
+    "lng": -2.1456518
+  },
+  {
+    "name": "The Battledown B&B",
+    "type": "Guest house",
+    "stars": null,
+    "address": "125 Hales Road",
+    "postcode": "",
+    "lat": 51.8990124,
+    "lng": -2.0570019
+  },
+  {
+    "name": "The Greenway Hotel and Spa",
+    "type": "Hotel",
+    "stars": null,
+    "address": "",
+    "postcode": "GL51 4UG",
+    "lat": 51.8589162,
+    "lng": -2.1178056
+  },
+  {
+    "name": "The Portland Guesthouse",
+    "type": "Guest house",
+    "stars": null,
+    "address": "51 Portland Street",
+    "postcode": "GL52 2NX",
+    "lat": 51.9038063,
+    "lng": -2.0712898
+  },
+  {
+    "name": "Travelodge",
+    "type": "Hotel",
+    "stars": null,
+    "address": "Hatherley Lane",
+    "postcode": "GL51 6TA",
+    "lat": 51.8940945,
+    "lng": -2.1284632
+  },
+  {
+    "name": "Upper Hill Farm B&B",
+    "type": "Guest house",
+    "stars": null,
+    "address": "",
+    "postcode": "",
+    "lat": 51.9166074,
+    "lng": -2.0071566
+  }
+]

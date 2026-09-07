@@ -4,6 +4,7 @@ title: Cheltenham Open Data Adds Crime Data by Neighbourhoods to the Site
 type: news
 description: Find monthly neighbourhood-level crime figures for Cheltenham, broken down by month and neighbourhood.
 seo: Monthly street-level crime figures by Cheltenham neighbourhood, with data going back to August 2023, pulled from the UK Police API.
+date: 2026-09-04 19:00
 ---
 
 Cheltenham Open Data has added a [crime data by neighbourhoods in cheltenham](/cheltenham-crime-data) to the site.

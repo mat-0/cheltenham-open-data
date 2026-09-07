@@ -27,11 +27,16 @@
         <p class="footer-legal">&copy; {{ site.time | date: '%Y' }}
             {% if site.copyright %}
             {{ site.copyright }}
+            <br />
+            {% else %}
+            {% endif %}
+            {% if site.disclaimer %}
+            {{ site.disclaimer }}
+            <br />
             {% else %}
             {% endif %}
             Site by <a rel="me" href="https://thechels.uk">thechels.uk</a>.
             &rarr; Build: {{ site.github.build_revision | slice: 0, 8 }}.
-
         </p>
 
         <div class="footer-theme-control">

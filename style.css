@@ -777,6 +777,8 @@ table[data-sortable] th.sort-desc::after {
     text-align: right;
 }
 
+.hotels-table .type
+.hotels-table .postcode
 .poi-table .category,
 .poi-table .postcode,
 .schools-table .postcode,

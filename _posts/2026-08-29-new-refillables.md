@@ -4,6 +4,7 @@ title: Cheltenham Open Data Adds Refillable Produce section to Recycling
 type: news
 description: "Quickly find local shops that sell plastic free and environmentally friendly products in Cheltenham"
 seo: "Quickly find local shops that sell plastic free and environmentally friendly products in Cheltenham"
+date: 2026-08-29 19:00
 ---
 
 ## Refillable and Plastic Free Shopping

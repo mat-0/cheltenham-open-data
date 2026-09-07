@@ -6,7 +6,8 @@ description: "Local Data for Local People in Cheltenham and Gloucestershire"
 author: "thechelsuk"
 url: https://cheltenham-od.uk
 icon: "/images/logo.png"
-copyright: "Cheltenham Open Data - All data is owned by the respective data providers. No liability is accepted for the accuracy of the data."
+copyright: "Cheltenham Open Data — site, content, code and compilation &copy; Cheltenham Open Data, all rights reserved."
+disclaimer: "Underlying data &copy; respective providers, used under licence. No liability accepted for data accuracy."
 encoding: UTF-8
 future: false
 repository: thechelsuk/uk.thechels.cod
@@ -167,7 +168,9 @@ navigation_header:
   - name: Cheltenham Third Spaces
     link: /cheltenham-third-spaces
     description: "Local third spaces and community hubs in Cheltenham."
-
+  - name: Cheltenham Places to Stay
+    link: /staying-in-cheltenham
+    description: "Local Hotels and Guest Houses in Cheltenham."
 footer_columns:
   - title: Pages
     links:
@@ -199,6 +202,8 @@ footer_columns:
         link: /cheltenham-news
       - name: Cheltenham Planning Applications
         link: /cheltenham-planning-applications
+      - name: Cheltenham Places to Stay
+        link: /staying-in-cheltenham
       - name: Cheltenham Points of Interest
         link: /cheltenham-points-of-interest
       - name: Cheltenham Post Office Locations

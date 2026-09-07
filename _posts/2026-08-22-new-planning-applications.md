@@ -4,6 +4,7 @@ title: Cheltenham Open Data Adds Planning Applications to Site
 type: news
 description: Quickly view recent planning applications submitted to Cheltenham Borough Council.
 seo: Quickly view and check recent planning application in the Cheltenham Area.
+date: 2026-08-22 16:00
 ---
 
 Cheltenham Open Data has added a [local list of Cheltenham's planning applications](/cheltenham-planning-applications).

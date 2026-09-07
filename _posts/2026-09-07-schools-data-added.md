@@ -4,6 +4,7 @@ title: Cheltenham Open Data Adds a Schools Directory to the Site
 type: news
 description: A complete, sortable list of schools across Cheltenham, broken down by phase and type.
 seo: A full directory of Cheltenham schools across GL50–GL54 — primary, secondary, grammar, independent and special — sourced from the DfE's Get Information about Schools register.
+date: 2026-09-07 02:00
 ---
 
 Cheltenham Open Data has added a [schools directory for Cheltenham](/cheltenham-schools) to the site.

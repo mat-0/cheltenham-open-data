@@ -25,6 +25,10 @@ Data is gathered and checked from public facing sources such as websites, RSS fe
 - Government data sourced from the Police, ONS, NHS, DEFRA, Land Registry is &copy; Crown copyright and database right 2026. Data is licensed under the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
 - Toilet Maps data is &copy; Creative Commons Attribution 4.0 International
 
+- Points of interest and hotel data is sourced from OpenStreetMap and licensed under the Open Data Commons Open Database License (ODbL)
+
+- School data comes from the Department for Education's Get Information about Schools (GIAS) register. Proposed, closed, nursery-only, higher-education and alternative-provision establishments are excluded. Public sector information licensed under the Open Government Licence v3.0 →
+
 ## Tech
 
 - The site is built using a static site generator so it is lightning quick on the client end as it's just HTML and CSS and a bit of JavaScript. Python and GitHub Actions provides the compute for most things, and a little is run on the developer's local machine. The pages are built and deployed to GitHub Pages and DNS and forms are managed by cloudflare and Cloudflare Workers.
