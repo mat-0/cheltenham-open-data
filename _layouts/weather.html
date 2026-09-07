@@ -61,165 +61,189 @@
             <h2>10-day Temperature Range (°C)</h2>
             <p>
                 <span class="wx-legend"><span class="wx-key wx-key-max"></span>High <span
-                        class="wx-key wx-key-min"></span>Low</span>
+                        class="wx-key wx-key-min"></span>Low <span class="wx-key wx-key-feels"></span>Feels like</span>
             </p>
-            {% assign axis_lo = lo | divided_by: 5.0 | floor | times: 5 %}
-            {% assign axis_hi = hi | divided_by: 5.0 | ceil | times: 5 %}
-            {% assign axis_span = axis_hi | minus: axis_lo %}
-            {% if axis_span == 0 %}{% assign axis_span = 5 %}{% endif %}
-            {% assign ticks = axis_span | divided_by: 5 %}
-            <figure class="wx-chart-wrap">
-                <svg class="wx-chart" viewBox="0 0 840 260" role="img"
-                    aria-label="Daily high and low temperatures in Celsius over the next 10 days">
-                    {% for i in (0..ticks) %}
-                    {% assign tval = i | times: 5 | plus: axis_lo %}
-                    {% assign gy = axis_hi | minus: tval | times: 210.0 | divided_by: axis_span | plus: 20 %}
-                    <line class="wx-grid-line" x1="40" y1="{{ gy }}" x2="830" y2="{{ gy }}" />
-                    <text class="wx-tick-label" x="34" y="{{ gy | plus: 3 }}" text-anchor="end">{{ tval }}°</text>
-                    {% endfor %}
-                    {% capture maxpts %}{% for day in days %}{% assign x = forloop.index0 | times: xstep | plus: 40 %}{%
-                    assign
-                    y = axis_hi | minus: day.max | times: 210.0 | divided_by: axis_span | plus: 20 %}{{ x }},{{ y }} {%
-                    endfor
-                    %}{% endcapture %}
-                    {% capture minpts %}{% for day in days %}{% assign x = forloop.index0 | times: xstep | plus: 40 %}{%
-                    assign
-                    y = axis_hi | minus: day.min | times: 210.0 | divided_by: axis_span | plus: 20 %}{{ x }},{{ y }} {%
-                    endfor
-                    %}{% endcapture %}
-                    <polyline class="wx-line wx-line-max" points="{{ maxpts }}" fill="none" />
-                    <polyline class="wx-line wx-line-min" points="{{ minpts }}" fill="none" />
-                    {% for day in days %}
-                    {% assign x = forloop.index0 | times: xstep | plus: 40 %}
-                    {% assign ymax = axis_hi | minus: day.max | times: 210.0 | divided_by: axis_span | plus: 20 %}
-                    {% assign ymin = axis_hi | minus: day.min | times: 210.0 | divided_by: axis_span | plus: 20 %}
-                    <text class="wx-pt-label" x="{{ x }}" y="{{ ymax | minus: 6 }}"
-                        text-anchor="middle">{{ day.max | round }}</text>
-                    <text class="wx-pt-label" x="{{ x }}" y="{{ ymin | plus: 12 }}"
-                        text-anchor="middle">{{ day.min | round }}</text>
-                    <text class="wx-x-label" x="{{ x }}" y="248" text-anchor="middle">{{ day.date | date: "%a" }}</text>
-                    {% endfor %}
-                </svg>
-            </figure>
+            {% assign flo = days | map: "feels_like" | sort | first %}
+            {% assign fhi = days | map: "feels_like" | sort | last %}
+            {% assign clo = lo %}{% if flo < clo %}{% assign clo=flo %}{% endif %} {% assign chi=hi %}{% if fhi> chi
+                %}{% assign chi = fhi %}{% endif %}
+                {% assign axis_lo = clo | divided_by: 5.0 | floor | times: 5 %}
+                {% assign axis_hi = chi | divided_by: 5.0 | ceil | times: 5 %}
+                {% assign axis_span = axis_hi | minus: axis_lo %}
+                {% if axis_span == 0 %}{% assign axis_span = 5 %}{% endif %}
+                {% assign ticks = axis_span | divided_by: 5 %}
+                <figure class="wx-chart-wrap">
+                    <svg class="wx-chart" viewBox="0 0 840 260" role="img"
+                        aria-label="Daily high, low and feels-like temperatures in Celsius over the next 10 days">
+                        {% for i in (0..ticks) %}
+                        {% assign tval = i | times: 5 | plus: axis_lo %}
+                        {% assign gy = axis_hi | minus: tval | times: 210.0 | divided_by: axis_span | plus: 20 %}
+                        <line class="wx-grid-line" x1="40" y1="{{ gy }}" x2="830" y2="{{ gy }}" />
+                        <text class="wx-tick-label" x="34" y="{{ gy | plus: 3 }}" text-anchor="end">{{ tval }}°</text>
+                        {% endfor %}
+                        {% capture maxpts %}{% for day in days %}{% assign x = forloop.index0 | times: xstep | plus: 40
+                        %}{%
+                        assign
+                        y = axis_hi | minus: day.max | times: 210.0 | divided_by: axis_span | plus: 20 %}{{ x }},{{ y }}
+                        {%
+                        endfor
+                        %}{% endcapture %}
+                        {% capture minpts %}{% for day in days %}{% assign x = forloop.index0 | times: xstep | plus: 40
+                        %}{%
+                        assign
+                        y = axis_hi | minus: day.min | times: 210.0 | divided_by: axis_span | plus: 20 %}{{ x }},{{ y }}
+                        {%
+                        endfor
+                        %}{% endcapture %}
+                        {% capture feelspts %}{% for day in days %}{% assign x = forloop.index0 | times: xstep | plus:
+                        40 %}{%
+                        assign
+                        y = axis_hi | minus: day.feels_like | times: 210.0 | divided_by: axis_span | plus: 20 %}{{ x
+                        }},{{ y }} {%
+                        endfor
+                        %}{% endcapture %}
+                        <polyline class="wx-line wx-line-max" points="{{ maxpts }}" fill="none" />
+                        <polyline class="wx-line wx-line-min" points="{{ minpts }}" fill="none" />
+                        <polyline class="wx-line wx-line-feels" points="{{ feelspts }}" fill="none" />
+                        {% for day in days %}
+                        {% assign x = forloop.index0 | times: xstep | plus: 40 %}
+                        {% assign ymax = axis_hi | minus: day.max | times: 210.0 | divided_by: axis_span | plus: 20 %}
+                        {% assign ymin = axis_hi | minus: day.min | times: 210.0 | divided_by: axis_span | plus: 20 %}
+                        <text class="wx-pt-label" x="{{ x }}" y="{{ ymax | minus: 6 }}"
+                            text-anchor="middle">{{ day.max | round }}</text>
+                        <text class="wx-pt-label" x="{{ x }}" y="{{ ymin | plus: 12 }}"
+                            text-anchor="middle">{{ day.min | round }}</text>
+                        <text class="wx-x-label" x="{{ x }}" y="248"
+                            text-anchor="middle">{{ day.date | date: "%a" }}</text>
+                        {% endfor %}
+                    </svg>
+                </figure>
 
-            <h2>10-day Chance of rain Forecast (%)</h2>
-            <figure class="wx-chart-wrap">
-                <svg class="wx-chart" viewBox="0 0 840 260" role="img"
-                    aria-label="Daily chance of rain over the next 10 days">
-                    {% for p in (0..2) %}
-                    {% assign val = p | times: 50 %}
-                    {% assign gy = 100 | minus: val | times: 210.0 | divided_by: 100 | plus: 20 %}
-                    <line class="wx-grid-line" x1="40" y1="{{ gy }}" x2="830" y2="{{ gy }}" />
-                    <text class="wx-tick-label" x="34" y="{{ gy | plus: 3 }}" text-anchor="end">{{ val }}</text>
-                    {% endfor %}
-                    {% assign bw = xstep | times: 0.5 %}
-                    {% assign halfbw = bw | divided_by: 2 %}
-                    {% for day in days %}
-                    {% assign x = forloop.index0 | times: xstep | plus: 40 %}
-                    {% assign val = day.pop | times: 100 %}
-                    {% assign by = 100 | minus: val | times: 210.0 | divided_by: 100 | plus: 20 %}
-                    {% assign bh = 230 | minus: by %}
-                    {% assign bx = x | minus: halfbw %}
-                    <rect class="wx-bar" x="{{ bx }}" y="{{ by }}" width="{{ bw }}" height="{{ bh }}" rx="2" />
-                    <text class="wx-x-label" x="{{ x }}" y="248" text-anchor="middle">{{ day.date | date: "%a" }}</text>
-                    {% endfor %}
-                </svg>
-            </figure>
+                <h2>10-day Chance of rain Forecast (%)</h2>
+                <figure class="wx-chart-wrap">
+                    <svg class="wx-chart" viewBox="0 0 840 260" role="img"
+                        aria-label="Daily chance of rain over the next 10 days">
+                        {% for p in (0..2) %}
+                        {% assign val = p | times: 50 %}
+                        {% assign gy = 100 | minus: val | times: 210.0 | divided_by: 100 | plus: 20 %}
+                        <line class="wx-grid-line" x1="40" y1="{{ gy }}" x2="830" y2="{{ gy }}" />
+                        <text class="wx-tick-label" x="34" y="{{ gy | plus: 3 }}" text-anchor="end">{{ val }}</text>
+                        {% endfor %}
+                        {% assign bw = xstep | times: 0.5 %}
+                        {% assign halfbw = bw | divided_by: 2 %}
+                        {% for day in days %}
+                        {% assign x = forloop.index0 | times: xstep | plus: 40 %}
+                        {% assign val = day.pop | times: 100 %}
+                        {% assign by = 100 | minus: val | times: 210.0 | divided_by: 100 | plus: 20 %}
+                        {% assign bh = 230 | minus: by %}
+                        {% assign bx = x | minus: halfbw %}
+                        <rect class="wx-bar" x="{{ bx }}" y="{{ by }}" width="{{ bw }}" height="{{ bh }}" rx="2" />
+                        <text class="wx-x-label" x="{{ x }}" y="248"
+                            text-anchor="middle">{{ day.date | date: "%a" }}</text>
+                        {% endfor %}
+                    </svg>
+                </figure>
 
-            <h2>10-day Wind Speed Forecast (m/s)</h2>
-            {% assign wmax = days | map: "wind" | sort | last %}
-            {% assign waxis = wmax | divided_by: 5.0 | ceil | times: 5 %}
-            {% if waxis == 0 %}{% assign waxis = 5 %}{% endif %}
-            {% assign wticks = waxis | divided_by: 5 %}
-            <figure class="wx-chart-wrap">
-                <svg class="wx-chart" viewBox="0 0 840 260" role="img"
-                    aria-label="Daily wind speed in metres per second over the next 10 days">
-                    {% for i in (0..wticks) %}
-                    {% assign wval = i | times: 5 %}
-                    {% assign gy = waxis | minus: wval | times: 210.0 | divided_by: waxis | plus: 20 %}
-                    <line class="wx-grid-line" x1="40" y1="{{ gy }}" x2="830" y2="{{ gy }}" />
-                    <text class="wx-tick-label" x="34" y="{{ gy | plus: 3 }}" text-anchor="end">{{ wval }}</text>
-                    {% endfor %}
-                    {% capture windpts %}{% for day in days %}{% assign x = forloop.index0 | times: xstep | plus: 40
-                    %}{% assign
-                    y = waxis | minus: day.wind | times: 210.0 | divided_by: waxis | plus: 20 %}{{ x }},{{ y }} {%
-                    endfor %}{%
-                    endcapture %}
-                    <polyline class="wx-line wx-line-wind" points="{{ windpts }}" fill="none" />
-                    {% for day in days %}
-                    {% assign x = forloop.index0 | times: xstep | plus: 40 %}
-                    {% assign y = waxis | minus: day.wind | times: 210.0 | divided_by: waxis | plus: 20 %}
-                    <circle class="wx-dot wx-dot-wind" cx="{{ x }}" cy="{{ y }}" r="2.5" />
-                    <text class="wx-x-label" x="{{ x }}" y="248" text-anchor="middle">{{ day.date | date: "%a" }}</text>
-                    {% endfor %}
-                </svg>
-            </figure>
+                <h2>10-day Wind Speed Forecast (m/s)</h2>
+                {% assign wmax = days | map: "wind" | sort | last %}
+                {% assign waxis = wmax | divided_by: 5.0 | ceil | times: 5 %}
+                {% if waxis == 0 %}{% assign waxis = 5 %}{% endif %}
+                {% assign wticks = waxis | divided_by: 5 %}
+                <figure class="wx-chart-wrap">
+                    <svg class="wx-chart" viewBox="0 0 840 260" role="img"
+                        aria-label="Daily wind speed in metres per second over the next 10 days">
+                        {% for i in (0..wticks) %}
+                        {% assign wval = i | times: 5 %}
+                        {% assign gy = waxis | minus: wval | times: 210.0 | divided_by: waxis | plus: 20 %}
+                        <line class="wx-grid-line" x1="40" y1="{{ gy }}" x2="830" y2="{{ gy }}" />
+                        <text class="wx-tick-label" x="34" y="{{ gy | plus: 3 }}" text-anchor="end">{{ wval }}</text>
+                        {% endfor %}
+                        {% capture windpts %}{% for day in days %}{% assign x = forloop.index0 | times: xstep | plus: 40
+                        %}{% assign
+                        y = waxis | minus: day.wind | times: 210.0 | divided_by: waxis | plus: 20 %}{{ x }},{{ y }} {%
+                        endfor %}{%
+                        endcapture %}
+                        <polyline class="wx-line wx-line-wind" points="{{ windpts }}" fill="none" />
+                        {% for day in days %}
+                        {% assign x = forloop.index0 | times: xstep | plus: 40 %}
+                        {% assign y = waxis | minus: day.wind | times: 210.0 | divided_by: waxis | plus: 20 %}
+                        <circle class="wx-dot wx-dot-wind" cx="{{ x }}" cy="{{ y }}" r="2.5" />
+                        <text class="wx-x-label" x="{{ x }}" y="248"
+                            text-anchor="middle">{{ day.date | date: "%a" }}</text>
+                        {% endfor %}
+                    </svg>
+                </figure>
 
-            <h2>10-day Daylight length Forecast</h2>
-            {% assign dmin = days | map: "daylight" | sort | first %}
-            {% assign dmax = days | map: "daylight" | sort | last %}
-            {% assign daxis_lo = dmin | divided_by: 30 | times: 30 %}
-            {% assign daxis_hi = dmax | plus: 29 | divided_by: 30 | times: 30 %}
-            {% assign dspan = daxis_hi | minus: daxis_lo %}
-            {% if dspan == 0 %}{% assign dspan = 30 %}{% endif %}
-            {% assign dticks = dspan | divided_by: 30 %}
-            <figure class="wx-chart-wrap">
-                <svg class="wx-chart" viewBox="0 0 840 260" role="img"
-                    aria-label="Hours of daylight over the next 10 days">
-                    {% for i in (0..dticks) %}
-                    {% assign tv = i | times: 30 | plus: daxis_lo %}
-                    {% assign gy = daxis_hi | minus: tv | times: 210.0 | divided_by: dspan | plus: 20 %}
-                    {% assign th = tv | divided_by: 60 %}
-                    {% assign tm = tv | modulo: 60 %}
-                    <line class="wx-grid-line" x1="40" y1="{{ gy }}" x2="830" y2="{{ gy }}" />
-                    <text class="wx-tick-label" x="34" y="{{ gy | plus: 3 }}" text-anchor="end">{{ th }}:{% if tm < 10
-                            %}0{% endif %}{{ tm }}</text>
-                            {% endfor %}
-                            {% capture daypts %}{% for day in days %}{% assign x = forloop.index0 | times: xstep | plus:
-                            40 %}{%
-                            assign y = daxis_hi | minus: day.daylight | times: 210.0 | divided_by: dspan | plus: 20 %}{{
-                            x }},{{
-                            y }} {% endfor %}{% endcapture %}
-                            <polyline class="wx-line wx-line-day" points="{{ daypts }}" fill="none" />
-                            {% for day in days %}
-                            {% assign x = forloop.index0 | times: xstep | plus: 40 %}
-                            {% assign y = daxis_hi | minus: day.daylight | times: 210.0 | divided_by: dspan | plus: 20
-                            %}
-                            <circle class="wx-dot wx-dot-day" cx="{{ x }}" cy="{{ y }}" r="2.5" />
-                            <text class="wx-pt-label" x="{{ x }}" y="{{ y | minus: 6 }}"
-                                text-anchor="middle">{{ day.daylight_str }}</text>
-                            <text class="wx-x-label" x="{{ x }}" y="248"
-                                text-anchor="middle">{{ day.date | date: "%a" }}</text>
-                            {% endfor %}
-                </svg>
-            </figure>
+                <h2>10-day Daylight length Forecast</h2>
+                {% assign dmin = days | map: "daylight" | sort | first %}
+                {% assign dmax = days | map: "daylight" | sort | last %}
+                {% assign daxis_lo = dmin | divided_by: 30 | times: 30 %}
+                {% assign daxis_hi = dmax | plus: 29 | divided_by: 30 | times: 30 %}
+                {% assign dspan = daxis_hi | minus: daxis_lo %}
+                {% if dspan == 0 %}{% assign dspan = 30 %}{% endif %}
+                {% assign dticks = dspan | divided_by: 30 %}
+                <figure class="wx-chart-wrap">
+                    <svg class="wx-chart" viewBox="0 0 840 260" role="img"
+                        aria-label="Hours of daylight over the next 10 days">
+                        {% for i in (0..dticks) %}
+                        {% assign tv = i | times: 30 | plus: daxis_lo %}
+                        {% assign gy = daxis_hi | minus: tv | times: 210.0 | divided_by: dspan | plus: 20 %}
+                        {% assign th = tv | divided_by: 60 %}
+                        {% assign tm = tv | modulo: 60 %}
+                        <line class="wx-grid-line" x1="40" y1="{{ gy }}" x2="830" y2="{{ gy }}" />
+                        <text class="wx-tick-label" x="34" y="{{ gy | plus: 3 }}" text-anchor="end">{{ th }}:{% if tm <
+                                10 %}0{% endif %}{{ tm }}</text>
+                                {% endfor %}
+                                {% capture daypts %}{% for day in days %}{% assign x = forloop.index0 | times: xstep |
+                                plus:
+                                40 %}{%
+                                assign y = daxis_hi | minus: day.daylight | times: 210.0 | divided_by: dspan | plus: 20
+                                %}{{
+                                x }},{{
+                                y }} {% endfor %}{% endcapture %}
+                                <polyline class="wx-line wx-line-day" points="{{ daypts }}" fill="none" />
+                                {% for day in days %}
+                                {% assign x = forloop.index0 | times: xstep | plus: 40 %}
+                                {% assign y = daxis_hi | minus: day.daylight | times: 210.0 | divided_by: dspan | plus:
+                                20
+                                %}
+                                <circle class="wx-dot wx-dot-day" cx="{{ x }}" cy="{{ y }}" r="2.5" />
+                                <text class="wx-pt-label" x="{{ x }}" y="{{ y | minus: 6 }}"
+                                    text-anchor="middle">{{ day.daylight_str }}</text>
+                                <text class="wx-x-label" x="{{ x }}" y="248"
+                                    text-anchor="middle">{{ day.date | date: "%a" }}</text>
+                                {% endfor %}
+                    </svg>
+                </figure>
 
-            <h2>10-day Humidity Forecast (%)</h2>
-            <figure class="wx-chart-wrap">
-                <svg class="wx-chart" viewBox="0 0 840 260" role="img"
-                    aria-label="Daily humidity over the next 10 days">
-                    {% for p in (0..2) %}
-                    {% assign val = p | times: 50 %}
-                    {% assign gy = 100 | minus: val | times: 210.0 | divided_by: 100 | plus: 20 %}
-                    <line class="wx-grid-line" x1="40" y1="{{ gy }}" x2="830" y2="{{ gy }}" />
-                    <text class="wx-tick-label" x="34" y="{{ gy | plus: 3 }}" text-anchor="end">{{ val }}</text>
-                    {% endfor %}
-                    {% capture humpts %}{% for day in days %}{% assign x = forloop.index0 | times: xstep | plus: 40 %}{%
-                    assign
-                    y = 100 | minus: day.humidity | times: 210.0 | divided_by: 100 | plus: 20 %}{{ x }},{{ y }} {%
-                    endfor %}{%
-                    endcapture %}
-                    <polyline class="wx-line wx-line-hum" points="{{ humpts }}" fill="none" />
-                    {% for day in days %}
-                    {% assign x = forloop.index0 | times: xstep | plus: 40 %}
-                    {% assign y = 100 | minus: day.humidity | times: 210.0 | divided_by: 100 | plus: 20 %}
-                    <circle class="wx-dot wx-dot-hum" cx="{{ x }}" cy="{{ y }}" r="2.5" />
-                    <text class="wx-pt-label" x="{{ x }}" y="{{ y | minus: 6 }}"
-                        text-anchor="middle">{{ day.humidity }}</text>
-                    <text class="wx-x-label" x="{{ x }}" y="248" text-anchor="middle">{{ day.date | date: "%a" }}</text>
-                    {% endfor %}
-                </svg>
-            </figure>
+                <h2>10-day Humidity Forecast (%)</h2>
+                <figure class="wx-chart-wrap">
+                    <svg class="wx-chart" viewBox="0 0 840 260" role="img"
+                        aria-label="Daily humidity over the next 10 days">
+                        {% for p in (0..2) %}
+                        {% assign val = p | times: 50 %}
+                        {% assign gy = 100 | minus: val | times: 210.0 | divided_by: 100 | plus: 20 %}
+                        <line class="wx-grid-line" x1="40" y1="{{ gy }}" x2="830" y2="{{ gy }}" />
+                        <text class="wx-tick-label" x="34" y="{{ gy | plus: 3 }}" text-anchor="end">{{ val }}</text>
+                        {% endfor %}
+                        {% capture humpts %}{% for day in days %}{% assign x = forloop.index0 | times: xstep | plus: 40
+                        %}{%
+                        assign
+                        y = 100 | minus: day.humidity | times: 210.0 | divided_by: 100 | plus: 20 %}{{ x }},{{ y }} {%
+                        endfor %}{%
+                        endcapture %}
+                        <polyline class="wx-line wx-line-hum" points="{{ humpts }}" fill="none" />
+                        {% for day in days %}
+                        {% assign x = forloop.index0 | times: xstep | plus: 40 %}
+                        {% assign y = 100 | minus: day.humidity | times: 210.0 | divided_by: 100 | plus: 20 %}
+                        <circle class="wx-dot wx-dot-hum" cx="{{ x }}" cy="{{ y }}" r="2.5" />
+                        <text class="wx-pt-label" x="{{ x }}" y="{{ y | minus: 6 }}"
+                            text-anchor="middle">{{ day.humidity }}</text>
+                        <text class="wx-x-label" x="{{ x }}" y="248"
+                            text-anchor="middle">{{ day.date | date: "%a" }}</text>
+                        {% endfor %}
+                    </svg>
+                </figure>
         </article>
 
         <style>
@@ -384,6 +408,10 @@
                 background: #4aa3df
             }
 
+            .wx-key-feels {
+                background: #8b5cf6
+            }
+
             .wx-chart-wrap {
                 margin: 0
             }
@@ -420,6 +448,11 @@
 
             .wx-line-min {
                 stroke: #4aa3df
+            }
+
+            .wx-line-feels {
+                stroke: #8b5cf6;
+                stroke-dasharray: 4 3
             }
 
             .wx-line-wind {

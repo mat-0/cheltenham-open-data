@@ -1,48 +1,41 @@
 # importing modules
 import json
-import os
 import pathlib
 import datetime
 import helper
-import requests
 
 if __name__ == "__main__":
     try:
         root = pathlib.Path(__file__).parent.parent.resolve()
 
-        APIKEY = os.getenv("OPEN_WEATHER_KEY") or ''
-        CITY = 'Cheltenham'
-        BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
-        url = f"{BASE_URL}?q={CITY}&appid={APIKEY}&units=metric"
+        # read the already-fetched forecast
+        weather_file = root / "_data" / "weather.json"
+        data = json.loads(weather_file.read_text())
 
-        response = requests.get(url)
-        response_dict = json.loads(response.text)
+        # pick today's record (match by date, fall back to first entry)
+        today_str = datetime.date.today().strftime("%Y-%m-%d")
+        today = next((d for d in data["days"] if d["date"] == today_str), data["days"][0])
 
-        if response_dict["cod"] != 200:
-            string_today = "- Weather data not available"
-        else:
-            output_date = datetime.date.today().strftime("%A, %d %B %Y")
+        output_date = datetime.date.today().strftime("%A, %d %B %Y")
 
-            day_temp = str(response_dict["main"]["temp"])
-            feels_like = str(response_dict["main"]["feels_like"])
-            day_desc = str(response_dict["weather"][0]["description"])
-            high_temp = str(response_dict["main"]["temp_max"])
-            low_temp = str(response_dict["main"]["temp_min"])
-            wind_speed = str(response_dict["wind"]["speed"])
-            visibility = str(response_dict["visibility"])
-            pressure = str(response_dict["main"]["pressure"])
-            humidity = str(response_dict["main"]["humidity"])
+        day_temp = str(today["day"])
+        feels_like = str(today["feels_like"])
+        day_desc = str(today["desc"])
+        high_temp = str(today["max"])
+        low_temp = str(today["min"])
+        wind_speed = str(today["wind"])
+        pressure = str(today["pressure"])
+        humidity = str(today["humidity"])
+        sunrise = str(today["sunrise"])   # already "HH:MM"
+        sunset = str(today["sunset"])     # already "HH:MM"
 
-            sunrise = datetime.datetime.fromtimestamp(response_dict["sys"]["sunrise"]).strftime("%H:%M")
-            sunset = datetime.datetime.fromtimestamp(response_dict["sys"]["sunset"]).strftime("%H:%M")
-
-            string_today = f"## On {output_date}\n\n"
-            string_today += f"- The average temperature today is {day_temp}˚C,\n"
-            string_today += f"- With highs of {high_temp}˚C and lows of {low_temp}˚C,\n"
-            string_today += f"- It may feel like {feels_like}˚C with {day_desc}\n"
-            string_today += f"- The wind speed is {wind_speed}m/s and visibility is {visibility}m\n"
-            string_today += f"- The pressure is {pressure}hPa and humidity is {humidity}%\n"
-            string_today += f"- The sun will rise at {sunrise} and set at {sunset}\n"
+        string_today = f"## On {output_date}\n\n"
+        string_today += f"- The average temperature today is {day_temp}˚C,\n"
+        string_today += f"- With highs of {high_temp}˚C and lows of {low_temp}˚C,\n"
+        string_today += f"- It may feel like {feels_like}˚C with {day_desc}\n"
+        string_today += f"- The wind speed is {wind_speed}m/s\n"
+        string_today += f"- The pressure is {pressure}hPa and humidity is {humidity}%\n"
+        string_today += f"- The sun will rise at {sunrise} and set at {sunset}\n"
 
         f = root / "index.md"
         m = f.open().read()
