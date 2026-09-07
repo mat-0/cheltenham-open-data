@@ -34,13 +34,6 @@ Quick guide: Platform 1 is typically for trains to Wales and the south (Bristol,
 - [Local Intelligence Hub](https://www.localintelligencehub.com/area/WMC23/Cheltenham#movement).
 - [Cheltenham Borough Council](https://www.cheltenham.gov.uk/)
 
-## Schools
-
-- [Check local school's catchment areas](https://schoolcatchmentchecker.co.uk/?loc=51.8994,-2.0783&zoom=12)
-- [Gloucester County Council Find a School](https://www.gloucestershire.gov.uk/education-and-learning/find-a-school)
-- [Dynamic Maps for Schools](https://gcc.dynamicmaps.co.uk/MapThatPublic/Default.aspx)
-- [Term Dates from Gloucestershire County Council](https://www.gloucestershire.gov.uk/education-and-learning/term-dates/)
-
 ## Cheltenham Sub-Reddit
 
 - [The Home of all things Cheltenham](https://www.reddit.com/r/cheltenham/)
@@ -65,7 +58,3 @@ Quick guide: Platform 1 is typically for trains to Wales and the south (Bristol,
 ## Office for National Statistics Page
 
 [ONS local statistics for Cheltenham - E07000078](https://www.ons.gov.uk/explore-local-statistics/areas/E07000078-cheltenham)
-
-## Electric Vehicle Charging Points
-
-- [Charge Finder Map](https://chargefinder.com/en/cheltenham/charging-station/7yergg)

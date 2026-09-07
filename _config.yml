@@ -188,6 +188,8 @@ footer_columns:
         link: /cheltenham-crime-data
       - name: Cheltenham Events
         link: /cheltenham-events
+      - name: Cheltenham EV Charging
+        link: /cheltenham-ev-charging
       - name: Cheltenham Fix My Street
         link: /cheltenham-fix-my-street
       - name: Cheltenham Flood Warnings
@@ -198,8 +200,6 @@ footer_columns:
         link: /cheltenham-food-standards
       - name: Cheltenham Fuel Prices
         link: /cheltenham-fuel-prices
-      - name: Cheltenham EV Charging
-        link: /cheltenham-ev-charging
       - name: Cheltenham GP and Pharmacies
         link: /cheltenham-gp-pharmacies
       - name: Cheltenham Helplines and Contacts

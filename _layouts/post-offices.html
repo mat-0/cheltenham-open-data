@@ -1,31 +1,72 @@
 {% include header.html %}
 <div class="{{page.type}} herobar">
-    <header class="{{page.type}} header">
-        <h1>{{page.title}}</h1>
-        <p>{{page.description}}</p>
-    </header>
+    <div class="{{page.type}}">
+        <header class="{{page.type}} header">
+            <h1>{{page.title}}</h1>
+            <p>{{page.description}}</p>
+        </header>
 
-    {{ content }}
+        {{ content }}
 
-    {% for po in site.data.post-offices %}
-    <h2>{{ po.name }}</h2>
-    <ul>
-        <li>
-            <a href="https://www.google.com/maps/search/?api=1&query={{ po.lat }},{{ po.lon }}" target="_blank"
-                rel="noopener">
-                {{ po.address }}
-            </a>
-        </li>
-        <li>
-            {% if po.osm_type == "node" %}
-            Location type: Single point (e.g. counter/branch)
-            {% elsif po.osm_type == "way" %}
-            Location type: Building/area
-            {% else %}
-            Location type: Unknown
-            {% endif %}
-        </li>
-    </ul>
-    {% endfor %}
+        <h2>Post office branches</h2>
 
-    {% include footer.html %}
+        <table class="post-office-table" data-sortable>
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Address</th>
+                    <th>Type</th>
+                    <th class="map">Map</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for po in site.data.post-offices %}
+                {% if po.osm_type == "node" %}
+                {% assign po_type = "Single point (counter/branch)" %}
+                {% elsif po.osm_type == "way" %}
+                {% assign po_type = "Building/area" %}
+                {% else %}
+                {% assign po_type = "Unknown" %}
+                {% endif %}
+                <tr>
+                    <td>{{ po.name }}</td>
+                    <td>{{ po.address }}</td>
+                    <td data-value="{{ po.osm_type }}">{{ po_type }}</td>
+                    <td class="map">{% include pin.html lat=po.lat lng=po.lon label=po.name %}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+
+        <h2>Good to know</h2>
+
+        <p>Opening hours and available services vary from branch to branch, and smaller Post Offices inside newsagents
+            or
+            convenience stores may keep different hours to the shop around them. Before a special trip — for a passport
+            Check
+            &amp; Send, travel money or bill payments — it's worth confirming the branch offers what you need and is
+            open. The
+            official <a href="https://www.postoffice.co.uk/branch-finder" target="_blank" rel="noopener">Post Office
+                branch
+                finder</a> lists live opening hours and the services at each branch.</p>
+
+        <p>Most branches also handle everyday banking. Personal and business customers of nearly all UK banks can
+            withdraw cash,
+            pay in cash and cheques, and check their balance at any Post Office counter — useful across Cheltenham as
+            high-street bank branches have closed.</p>
+
+
+        <p class="post-office-attribution"><small>
+                Contains data from <a href="https://www.openstreetmap.org/copyright" target="_blank"
+                    rel="noopener">OpenStreetMap</a>,
+                © OpenStreetMap contributors, available under the
+                <a href="https://opendatacommons.org/licenses/odbl/" target="_blank" rel="noopener">Open Database
+                    Licence
+                    (ODbL)</a>.
+                Opening hours and services can change — please confirm with the branch before travelling.
+            </small></p>
+
+    </div>
+</div>
+
+{% include footer.html %}

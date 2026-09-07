@@ -68,16 +68,7 @@
                         <td class="category">{{ p.category }}</td>
                         <td class="number">{{ p.distance }}</td>
                         <td class="postcode">{{ p.postcode | default: "—" }}</td>
-                        <td>
-                            <a href="{{ p.gmaps }}" title="View {{ p.name }} on Google Maps"
-                                aria-label="View {{ p.name }} on Google Maps" rel="noopener" target="_blank">
-                                <svg class="pin" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"
-                                    focusable="false">
-                                    <path fill="currentColor"
-                                        d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5A2.5 2.5 0 1 1 12 6.5a2.5 2.5 0 0 1 0 5z" />
-                                </svg>
-                            </a>
-                        </td>
+                        <td class="map">{% include pin.html lat=p.lat lng=p.lng label=p.name %}</td>
                     </tr>
                     {% endfor %}
                 </tbody>
