@@ -244,13 +244,15 @@ footer_columns:
       - name: Cheltenham Events (atom)
         link: /feeds/events.xml
       - heading: Meta
-      - name: Privacy
+      - name: Privacy Policy
+        link: /privacy
+      - name: Privacy.txt
         link: /.well-known/privacy.txt
-      - name: Security
+      - name: Security.txt
         link: /.well-known/security.txt
-      - name: Sitemap
+      - name: Sitemap.xml
         link: /sitemap.xml
-      - name: LLMS
+      - name: LLMs.txt
         link: /llms.txt
       - name: Follow on Bluesky
         link: "https://bsky.app/profile/cheltenham-od.uk"

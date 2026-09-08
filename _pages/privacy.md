@@ -1,6 +1,10 @@
 ---
-layout: empty
-permalink: /.well-known/privacy.txt
+layout: page
+title: Cheltenham Open Data Privacy Policy
+permalink: /privacy
+description: "How Cheltenham Open Data collects, uses, and protects your information. Cookie-free, GDPR-compliant analytics with transparent affiliate and classifieds disclosure."
+seo: "Privacy Policy — Cheltenham Open Data. Privacy-first, cookie-free analytics, GDPR compliant, and clear disclosure of affiliate links and classifieds referral tags."
+type: "cod"
 ---
 
 ## Privacy Policy
