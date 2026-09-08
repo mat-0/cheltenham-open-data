@@ -91,11 +91,43 @@ def parse_banks(html: str) -> list[dict]:
 
     return banks
 
+def title_case_address(text):
+    return " ".join(
+        word if re.match(r'^[A-Z0-9]+$', word) else word.capitalize()
+        for word in text.split()
+    )
+
+
+def smart_title(text: str) -> str:
+    """Title-case a name, handling messy source data sensibly.
+
+    - Words containing a digit (postcodes, unit codes like 'GL51') are
+      left completely untouched.
+    - If the whole name is SHOUTING, every other word gets re-cased.
+    - A short (<=3 letter) standalone all-caps word (e.g. 'HQ') is treated
+      as a deliberate acronym and left alone, UNLESS the whole name is
+      shouting (in which case there's no way to distinguish it from an
+      accidental caps-lock name, so it's re-cased along with everything
+      else).
+    """
+    is_shouting = text.isupper()
+    out = []
+    for word in text.split():
+        if re.search(r"\d", word):
+            out.append(word)
+        elif is_shouting:
+            out.append(word.capitalize())
+        elif word.isupper() and len(word) <= 3:
+            out.append(word)
+        else:
+            out.append(word[:1].upper() + word[1:] if word else word)
+    return " ".join(out)
+
 
 def to_markdown(banks: list[dict]) -> str:
     lines = []
     for bank in banks:
-        lines.append(f"### {bank['name']}")
+        lines.append(f"### {smart_title(bank['name'])}")
         lines.append("")
         lines.append(f"- {', '.join(bank['materials'])}")
         lines.append("")

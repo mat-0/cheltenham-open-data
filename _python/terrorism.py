@@ -66,7 +66,7 @@ if __name__ == "__main__":
                                  datetime.strptime(update, "%Y-%m-%d")).days
             desc = entry['summary']
 
-            level_class = level.split()[-1]
+            level_class = level.split()[-1].capitalize()
 
         string =  f'### {level_class}\n\n'
         string += f'- {level}\n'

@@ -323,6 +323,31 @@ def collect_readings():
 # ---------------------------------------------------------------------------
 # Rendering
 # ---------------------------------------------------------------------------
+def smart_title(text: str) -> str:
+    """Title-case a name, handling messy source data sensibly.
+
+    - Words containing a digit (postcodes, unit codes like 'GL51') are
+      left completely untouched.
+    - If the whole name is SHOUTING, every other word gets re-cased.
+    - A short (<=3 letter) standalone all-caps word (e.g. 'HQ') is treated
+      as a deliberate acronym and left alone, UNLESS the whole name is
+      shouting (in which case there's no way to distinguish it from an
+      accidental caps-lock name, so it's re-cased along with everything
+      else).
+    """
+    is_shouting = text.isupper()
+    out = []
+    for word in text.split():
+        if re.search(r"\d", word):
+            out.append(word)
+        elif is_shouting:
+            out.append(word.capitalize())
+        elif word.isupper() and len(word) <= 3:
+            out.append(word)
+        else:
+            out.append(word[:1].upper() + word[1:] if word else word)
+    return " ".join(out)
+
 
 def render_markdown(readings):
     generated = datetime.datetime.now(datetime.timezone.utc).strftime(
@@ -372,7 +397,7 @@ def render_markdown(readings):
     for station_name, station_readings in sorted(stations.items()):
         distance = station_readings[0].get("distance_km")
         distance_str = f" ({distance}km from Cheltenham centre)" if distance is not None else ""
-        lines.append(f"\n## {station_name}{distance_str}\n")
+        lines.append(f"\n## {smart_title(station_name)}{distance_str}\n")
         lines.append("\n| Pollutant | Reading | Band | Measured (UTC) |\n")
         lines.append("|---|---|---|---|\n")
         for r in sorted(station_readings, key=lambda x: x["pollutant_label"]):

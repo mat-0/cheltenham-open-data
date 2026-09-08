@@ -33,7 +33,7 @@ The main recycling centre for Cheltenham is located at Wingmoor Farm, half mile 
 ## Recycling Banks in Cheltenham
 
 <!-- recycling_banks starts -->
-### Bath Terrace car park, GL50 2AL
+### Bath Terrace Car Park, GL50 2AL
 
 - Glass, Paper, Cans, Textiles and shoes, Card, Mixed plastics
 
@@ -45,7 +45,7 @@ The main recycling centre for Cheltenham is located at Wingmoor Farm, half mile 
 
 - Textiles and shoes
 
-### Edinburgh Place car park, GL51 7SE
+### Edinburgh Place Car Park, GL51 7SE
 
 - Paper, Textiles and shoes, Card, Mixed plastics
 
@@ -53,11 +53,11 @@ The main recycling centre for Cheltenham is located at Wingmoor Farm, half mile 
 
 - Textiles and shoes
 
-### High Street car park, GL50 3HJ
+### High Street Car Park, GL50 3HJ
 
 - Textiles and shoes
 
-### London Road, Sixways car park, GL52 6YT
+### London Road, Sixways Car Park, GL52 6YT
 
 - Glass, Paper, Cans, Textiles and shoes, Card, Mixed plastics
 
@@ -65,7 +65,7 @@ The main recycling centre for Cheltenham is located at Wingmoor Farm, half mile 
 
 - Textiles and shoes, Card, Mixed plastics
 
-### St James Street car park, GL52 2SH
+### St James Street Car Park, GL52 2SH
 
 - Glass, Paper, Cans, Card, Mixed plastics
 
