@@ -1,7 +1,7 @@
 ---
 layout: advert
 type: single
-title: "Mltply - The Maths Chat Buddy for Kids"
+title: "Mltply - the Maths Chat Buddy for Kids"
 category: digital
 company: "thechelsuk"
 location: "Anywhere"
@@ -12,7 +12,7 @@ expires: 2027-02-19
 apply_url: https://apps.apple.com/gb/app/mltply/id6747147316
 apply_text: "View App Store"
 robots: noindex
-seo: "Mltply - The Maths Chat-like game for Kids on Apple iOS"
+seo: "Mltply - the Maths Chat-like game for Kids on Apple iOS"
 ---
 
 Mltply is a friendly maths chat buddy for kids, aged 6-8 and up. Buddy, a
@@ -20,7 +20,7 @@ cheerful maths robot, chats with your child and asks them a series of maths
 questions pitched to their level — turning practice into something that
 feels more like a conversation than a worksheet.
 
-## What it does
+## What It Does
 
 - Chats with kids and asks maths questions in a friendly, conversational way
 - Covers a range of operations, including squares and square roots
@@ -31,13 +31,13 @@ feels more like a conversation than a worksheet.
 - Tracks streaks of correct answers on a local scoreboard, so it's easy to
   see improvement over time
 
-## Why you'll like it
+## Why you'll like It
 
 - Simple, encouraging design built specifically for kids
 - Fully customisable to your child's level and preferred maths operations
 - No in-app purchases, no subscriptions, and no data ever leaves the device
 
-## Good for
+## Good For
 
 - Parents looking for a low-pressure way to practise maths at home
 - Kids who respond better to a chat-style format than traditional flashcards

@@ -59,7 +59,7 @@ A weekly drop-in an informal setting. Activities include crafts, colouring, jigs
 - [St Paul’s Walk, Cheltenham, GL50 4GG](https://maps.app.goo.gl/UQtXHvd5rHtQ5UCE9)
 - [Website](https://www.cheltenham.gov.uk/info/20005/)
 
-### Oakley Resource hub, Cheltenham
+### Oakley Resource Hub, Cheltenham
 
 - [Clyde Crescent, Cheltenham, GL52 5QL](https://maps.app.goo.gl/CxqweBrvV6NSejzJA)
 - [Website](https://www.cheltenham.gov.uk/info/20005/)

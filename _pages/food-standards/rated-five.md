@@ -8,7 +8,7 @@ food_rating: "5"
 type: "food"
 ---
 
-## Five-star food businesses
+## Five-star Food Businesses
 
 These businesses currently have a food hygiene rating of 5 in the Food Standards Agency data.
 

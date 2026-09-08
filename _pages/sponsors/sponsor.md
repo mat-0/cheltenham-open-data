@@ -7,7 +7,7 @@ permalink: /sponsor
 description: Reach local people right where they're already looking — tasteful, page-specific sponsorship on Cheltenham Open Data
 ---
 
-## Reach local people for your local business
+## Reach Local People for Your Local Business
 
 This is what your advert could look like
 
@@ -22,7 +22,7 @@ No pop-ups, no flashing banners. Just one tasteful "supported by" card on the
 page that fits your business — clearly marked, visible above the fold, and genuinely useful to the
 person reading it.
 
-## Why it works
+## Why It Works
 
 - It's local and trusted. People come here for reliable Cheltenham data, and
   your name sits alongside it.
@@ -32,21 +32,21 @@ person reading it.
 - It stays tasteful. One clean card per page — never clutter. Your brand is
   associated with a service people value, not an ad they scroll past.
 
-## Sponsorship tiers
+## Sponsorship Tiers
 
-### Founding — £50 / month (£150 for 3 months)
+### Founding — £50 / Month (£150 for 3 Months)
 
 The full Standard package at an early-bird price, locked for 12 months while the site is new. A clean "supported by" card — your logo, a line about what you do, and a link — on the page of your choice, subject to availability. Limited to the first 3 sponsors.
 
 - [Become a founding sponsor &rarr;](https://buy.stripe.com/14AdR94437mr1q78pE0Ny00)
 
-### Standard — £125 / month (£375 for 3 months)
+### Standard — £125 / Month (£375 for 3 Months)
 
 A clean "supported by" card on the available page of your choice: your logo, a line about what you do, and a link. Our standard rate once the founding places are gone.
 
 - [Sponsor a page &rarr;](https://buy.stripe.com/fZu5kDfML9uz5GnfS60Ny01)
 
-### Premium Editorial Boost — £75, one month, active sponsors only
+### Premium Editorial Boost — £75, One Month, Active Sponsors Only
 
 Available exclusively to current Founding and Standard sponsors. Adds one editorial post in our news & announcements for the month — ideal for a launch, promotion, or other one-off marketing moment. Just one boost slot per month across all sponsors, so it's first come, first served.
 
@@ -55,7 +55,7 @@ Available exclusively to current Founding and Standard sponsors. Adds one editor
 > See [current availability of the sponsorship slots](/sponsor/slots).
 > By sponsoring you agree to our a [sponsorship terms](/sponsor/terms).
 
-## Pages you can sponsor
+## Pages You Can Sponsor
 
 | Page | Ideal for |
 | --- | --- |
@@ -80,39 +80,39 @@ Available exclusively to current Founding and Standard sponsors. Adds one editor
 
 ## Frequently Asked Questions
 
-### What does a sponsorship look like?
+### What Does a Sponsorship Look Like?
 
 - A single tasteful card above the fold on a page — your logo, a short line and a link. Always
 clearly labelled as sponsored. No pop-ups, no auto-playing anything. Like the advert at the top of this page.
 
-### Is there a limit on the number of adverts per page?
+### Is There a Limit on the Number of Adverts per Page?
 
 - Yes, pages are Limited to a single advert per page. This reduces noise and clutter and puts your business front and center alongside the page content directly to the audience - a local and engaged person looking for relevant content.
 
-### Which pages will my advert appear on?
+### Which Pages Will My Advert Appear On?
 
 - Any of the data pages — planning applications, house prices, fuel prices, air
   quality, flood warnings and the rest. We keep community pages like food banks and helplines advert-free on principle, and we don't place adverts on utility pages such as our contact, about and privacy pages.
 - Subject to availability.
 
-### How do I pay?
+### How Do I Pay?
 
 - By card through Stripe, billed automatically each month. Three-month minimum, then cancel any time.
 
-### Can I change my card details or listing?
+### Can I Change My Card Details or Listing?
 
 - Yes. You can manage your own payment details through Stripe, and email me any
 time to update your wording or logo.
 
-### Will the link help my SEO?
+### Will the Link Help My SEO?
 
 - Sponsor links are marked `rel="sponsored"` in line with Google's guidance — it's
 the honest approach and keeps the site's standing healthy. You will however be visible to your target market audience above the fold on the page that matters.
 
-### How much traffic do you get?
+### How Much Traffic Do You Get?
 
 - The site is new and growing quickly. I'm happy to share current visitor numbers on request — just ask.
 
-## Get in touch
+## Get in Touch
 
 [Email via the contact form](/contact) and I'll send a quick mock-up of how your card would look on the page you're interested in.

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Moving to Cheltenham - A Local Data Guide
+title: Moving to Cheltenham - a Local Data Guide
 seo: "Thinking of moving to Cheltenham? A local guide to areas, house prices, schools, crime, healthcare and getting set up in Cheltenham, Gloucestershire - backed by open data."
 description: "A practical guide to moving to Cheltenham, Gloucestershire. House prices, schools, neighbourhoods, safety and local services, all backed by open data."
 type: "other"
@@ -11,14 +11,14 @@ permalink: /moving-to-cheltenham
 
 Cheltenham is a Regency spa town of around 116,000 people on the western edge of the Cotswolds in Gloucestershire, known for its architecture, its festivals, the racecourse, and a growing economy spanning education, tourism, cyber and tech, and the public sector. If you're thinking of moving here, this guide pulls together the local data you'll want — house prices, schools, neighbourhood safety, healthcare and day-to-day services — in one place.
 
-## Finding somewhere to live
+## Finding Somewhere to Live
 
 Cheltenham's housing ranges from Regency townhouses and Victorian terraces around Montpellier and Pittville to newer developments on the edges of town, spread across the GL50–GL53 postcode districts. Start with recent sold prices to gauge the market, and check what's being built or changed nearby before you commit to an area.
 
 - [Cheltenham house prices](/cheltenham-house-prices) — recent sold prices to benchmark areas and property types.
 - [Planning applications in Cheltenham](/cheltenham-planning-applications) — what's proposed or being built near a prospective home.
 
-## Comparing neighbourhoods
+## Comparing Neighbourhoods
 
 Different parts of town suit different priorities — proximity to schools, to the station, or to green space. Two datasets help you compare areas objectively rather than on impressions alone.
 
@@ -31,7 +31,7 @@ Cheltenham is well served for education, from state primaries and secondaries to
 
 - [Schools in Cheltenham](/cheltenham-schools) — every school across GL50–GL54 by phase and type, with official records for inspection reports and admissions.
 
-## Healthcare and essentials
+## Healthcare and Essentials
 
 Sorting the practical basics early makes a move smoother — registering with a GP, knowing your bin collection, and finding the nearest services.
 
@@ -39,7 +39,7 @@ Sorting the practical basics early makes a move smoother — registering with a 
 - [Recycling and bin collections](/cheltenham-recycling) — what goes where and when it's collected.
 - [Fuel prices in Cheltenham](/cheltenham-fuel-prices) — local forecourt prices if you'll be driving.
 
-## Getting to know the town
+## Getting to Know the Town
 
 Once you've arrived, the fun part — finding your way around and settling in.
 
@@ -47,7 +47,7 @@ Once you've arrived, the fun part — finding your way around and settling in.
 - [What's on in Cheltenham](/cheltenham-events) — local events and the town's festival calendar.
 - [Food hygiene ratings](/cheltenham-food-standards) — official ratings for local restaurants, cafés and takeaways.
 
-## Useful local contacts
+## Useful Local Contacts
 
 - [Report a local issue (Fix My Street)](/cheltenham-fix-my-street) — potholes, street lighting, fly-tipping and other council issues.
 - [Helpful contacts and reporting](/cheltenham-helpful-contacts-reports) — key local numbers and services.

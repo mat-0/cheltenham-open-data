@@ -24,7 +24,7 @@
 
         {% assign cats = pois | map: "category" | uniq | sort %}
 
-        <h2>By category ({{ pois.size }} places)</h2>
+        <h2>By Category ({{ pois.size }} Places)</h2>
         <div class="table-scroll">
             <table class="poi-table" data-sortable>
                 <thead>
@@ -47,7 +47,7 @@
 
 
         {% assign pois = site.data.points_of_interest %}
-        <h2>All points of interest ({{ pois.size }})</h2>
+        <h2>All Points of Interest ({{ pois.size }})</h2>
         <div class="table-scroll">
             <table class="poi-table" data-sortable>
                 <thead>

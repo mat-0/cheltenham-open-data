@@ -22,7 +22,7 @@ the location, photos, current status, and any response from the council.
 The list updates automatically as new reports come in, so what you see here
 reflects issues raised by local residents over the past few days.
 
-### How to report a problem in Cheltenham
+### How to Report a Problem in Cheltenham
 
 To report a new issue, visit [FixMyStreet](https://www.fixmystreet.com), enter
 a Cheltenham postcode or street name, and drop a pin on the map at the exact
@@ -30,14 +30,14 @@ location. Add a short description and a photo if you can — this helps the
 council identify and prioritise the work. FixMyStreet routes the report to the relevant
 authority automatically for you.
 
-### Checking the status of a report
+### Checking the Status of a Report
 
 Click any report in the list to open it on FixMyStreet. There you can follow
 progress, see whether the council has marked it as investigating, fixed, or
 closed, and read updates from other residents. Older reports drop off this page
 over time but remain permanently viewable on FixMyStreet itself.
 
-## Latest reports
+## Latest Reports
 
 <!-- fix_marker starts -->
 

@@ -7,7 +7,7 @@ permalink: /sponsor/slots
 description: Reach local people right where they're already looking — tasteful, page-specific sponsorship on Cheltenham Open Data and exclusive editorial post for a specific month
 ---
 
-## Sponsorship slots
+## Sponsorship Slots
 
 Editorial Boost slots are limited to one per month. Available slots are
 sold first come, first served — book early to guarantee your month.
@@ -22,6 +22,6 @@ sold first come, first served — book early to guarantee your month.
 Only Founding and Standard sponsors are eligible to book a slot. If you're
 not yet a sponsor, start with [standard](/sponsor) first.
 
-## Get in touch
+## Get in Touch
 
 [Email via the contact form](/contact) and I'll send a quick mock-up of how your card would look on the page you're interested in.

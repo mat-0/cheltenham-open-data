@@ -19,7 +19,7 @@ Tomoz is the beautifully simple app that helps you prepare for tomorrow by
 showing only what matters — your upcoming calendar events. No clutter, no
 confusion, just a clean view of what's ahead.
 
-## What it does
+## What It Does
 
 - Shows only tomorrow's events, so you can plan ahead without distraction
 - Export your schedule in CSV, JSON or Markdown — save to iCloud Drive, email a
@@ -29,14 +29,14 @@ confusion, just a clean view of what's ahead.
 - Siri Shortcuts and deep-link support — just ask Siri to "export my schedule
   from Tomoz"
 
-## Why you'll like it
+## Why you'll like It
 
 - Clean, distraction-free interface with smooth animations and no learning curve
 - Custom colour themes and tint colours, plus Light, Dark and System modes
 - Privacy first: your calendar data stays on your device — no cloud sync, no
   data collection
 
-## Good for
+## Good For
 
 - Busy professionals planning their next day
 - Students organising tomorrow's classes

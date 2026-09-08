@@ -8,7 +8,7 @@ food_rating: "Exempt"
 type: "food"
 ---
 
-## Exempt food businesses
+## Exempt Food Businesses
 
 These businesses are marked as exempt in the Food Standards Agency data and do not receive a standard food hygiene rating.
 

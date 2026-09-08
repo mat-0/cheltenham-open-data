@@ -7,7 +7,7 @@ description: "Food hygiene ratings for venues in Cheltenham, Gloucestershire."
 type: "food"
 ---
 
-## Cheltenham food hygiene ratings
+## Cheltenham Food Hygiene Ratings
 
 Food hygiene ratings for food businesses in Cheltenham, sourced from the [Food Standards Agency](https://ratings.food.gov.uk/) and updated regularly.
 

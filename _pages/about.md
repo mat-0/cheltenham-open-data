@@ -29,11 +29,11 @@ Data is gathered and checked from public facing sources such as websites, RSS fe
 
 - School data comes from the Department for Education's Get Information about Schools (GIAS) register. Proposed, closed, nursery-only, higher-education and alternative-provision establishments are excluded. Public sector information licensed under the Open Government Licence v3.0 →
 
-## Tech
+## Technolgy Stack
 
 - The site is built using a static site generator so it is lightning quick on the client end as it's just HTML and CSS and a bit of JavaScript. Python and GitHub Actions provides the compute for most things, and a little is run on the developer's local machine. The pages are built and deployed to GitHub Pages and DNS and forms are managed by cloudflare and Cloudflare Workers.
 
-## Website
+## Website Credentials
 
 > Only 0.05g of CO₂ is produced every time someone visits this website. This website appears to be running on sustainable energy
 
@@ -41,6 +41,6 @@ Data is gathered and checked from public facing sources such as websites, RSS fe
 
 [![Green Web Foundation badge](https://app.greenweb.org/api/v3/greencheckimage/cheltenham-od.uk?nocache=true)](https://www.thegreenwebfoundation.org/green-web-check/?url=cheltenham-od.uk)
 
-## Owner
+## Owner and Creator
 
 The site is [built by thechels.uk](https://thechels.uk), a resident of Cheltenham for over 20 years. If you would like a similar website, or have a data or a project I'd love to hear about it.

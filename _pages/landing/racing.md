@@ -11,7 +11,7 @@ festival_checkout: 2027-03-20
 
 ---
 
-## Where to stay for the Cheltenham Festival 2027
+## Where to Stay for the Cheltenham Festival 2027
 
 The Cheltenham Festival returns **Tuesday 16 to Friday 19 March 2027**, four days of championship jump racing culminating in the Gold Cup on the Friday. It's the busiest week in Cheltenham's calendar, and accommodation near the racecourse books up months ahead — so the earlier you sort a room, the better the choice and price.
 

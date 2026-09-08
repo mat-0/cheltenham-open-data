@@ -15,7 +15,7 @@ Finding a public toilet when you need one shouldn't be a scramble. Whether you'r
 
 Below is a full list of toilet locations in and around Cheltenham, with key features and direct map links to help you find the nearest one and plan your route.
 
-### What's listed for each toilet
+### What Is Listed for Each Toilet
 
 Listings are pulled from user-submitted data and include, where known:
 
@@ -25,10 +25,10 @@ Listings are pulled from user-submitted data and include, where known:
 - Opening hours and any charges
 - A direct link to the location on the map
 
-### Accessible and family-friendly facilities
+### Accessible and Family-friendly Facilities
 
 Not every toilet in Cheltenham is fully accessible, and some accessible cubicles require a RADAR key to open — these are marked clearly in the table below. Baby-changing facilities are similarly hit and miss outside the main shopping centres, so it's worth checking before you set off if that's a priority for your visit.
 
-### Keeping this list accurate
+### Keeping This List Accurate
 
 Public toilet provision changes more often than you'd expect — venues open and close, councils adjust opening hours, and facilities are sometimes removed altogether. This list reflects the most recent available data, but if you find a listing that's out of date, you can report it directly to the source so it gets corrected for everyone or [contact](/contact) us and we'll login to request a change.

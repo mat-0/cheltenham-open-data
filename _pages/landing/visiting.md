@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Visiting Cheltenham - A Local Data Guide
+title: Visiting Cheltenham - a Local Data Guide
 seo: "Planning a visit to Cheltenham? A local guide to where to stay, what to see, where to eat and how to get around - backed by open data."
 description: "A practical guide to visiting Cheltenham, Gloucestershire. Where to stay, things to do, eating out and getting around, all backed by open data."
 type: "other"
@@ -11,28 +11,28 @@ permalink: /visiting-cheltenham
 
 Cheltenham is a Regency spa town on the western edge of the Cotswolds, known for its architecture, its parks and gardens, and a festival calendar that runs most of the year — literature, jazz, science, music and, of course, the racing. Whether you're here for a day, a weekend or a festival, this guide pulls together the local data to help you plan.
 
-## Where to stay
+## Where to Stay
 
 From Regency townhouse hotels to budget stays near the centre, there's a room for most plans and budgets — book ahead around festival dates.
 
 - [Places to stay in Cheltenham](/staying-in-cheltenham) — compare hotels and accommodation across the town.
 - [Cheltenham Festival & Races: where to stay](/cheltenham-festival-accommodation) — hotels and guest houses with live availability for race week.
 
-## What to see and do
+## What to See and Do
 
 Pack the day with the things Cheltenham does best — history, green space and a full events calendar.
 
 - [Points of interest](/cheltenham-points-of-interest) — museums, historic sites, parks and blue plaques, each with a map link.
 - [What's on in Cheltenham](/cheltenham-events) — events and the town's year-round festival calendar.
 
-## Eating and drinking
+## Eating and Drinking
 
 The town is well served for food, from café culture to fine dining.
 
 - [Five-star food hygiene ratings](/cheltenham-food-standards/rated-five) — venues with top official ratings.
 - [Third spaces in Cheltenham](/cheltenham-third-spaces) — relaxed places to sit, work or wait between plans.
 
-## Getting around and practical bits
+## Getting Around and Practical Bits
 
 A little planning makes a visit smoother, especially on busy weekends.
 

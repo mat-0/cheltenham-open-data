@@ -16,12 +16,12 @@ seo: "Cheltenham Farmers Market runs January to November on the 2nd and last fri
 Cheltenham's Farmers Market brings local producers together for fresh food
 and produce straight from the source.
 
-## When it runs
+## When It Runs
 
 - January to November: the 2nd and last Friday of every month
 - December: the 2nd and 3rd Friday
 
-## Good for
+## Good For
 
 - Anyone wanting fresh, locally produced food
 - Supporting local farmers and producers

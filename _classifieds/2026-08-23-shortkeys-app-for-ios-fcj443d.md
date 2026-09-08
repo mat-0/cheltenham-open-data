@@ -19,7 +19,7 @@ ShortKeys is a text expansion app for iOS that turns short custom shortcuts
 into full text as you type — saving time on repetitive typing, from email
 addresses and phone numbers to whole paragraphs and code snippets.
 
-## What it does
+## What It Does
 
 - Adds a custom iOS keyboard so shortcuts expand automatically in any app,
   with haptic feedback and keyboard sounds
@@ -36,7 +36,7 @@ addresses and phone numbers to whole paragraphs and code snippets.
 - Export shortcuts in JSON format for backup or sharing
 - Light, dark, or system appearance modes with a customisable tint colour
 
-## Why you'll like it
+## Why you'll like It
 
 - Free plan covers up to 10 shortcuts — enough to try it properly before
   committing to anything
@@ -44,7 +44,7 @@ addresses and phone numbers to whole paragraphs and code snippets.
 - Privacy first: all data stored locally and synced only through your own
   iCloud account, with no data collected or accessed by the developer
 
-## Good for
+## Good For
 
 - Anyone who types the same things repeatedly — emails, addresses, phone
   numbers, boilerplate replies

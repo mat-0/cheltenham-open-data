@@ -19,7 +19,7 @@ Cybaa helps small and medium sized businesses monitor the security
 fundamentals of their domains, DNS, and websites — without needing a
 dedicated security team. It covers domain, DNS, certificate, email, and malicious-content signals in one place, with targeted checks for SPF, DMARC, MTA-STS, headers, WHOIS, and domain posture.
 
-## What it does
+## What It Does
 
 - Monitors domain, DNS, certificate, email, and malicious-content signals in one place
 - Runs targeted checks for SPF, DMARC, MTA-STS, security headers, WHOIS records, and overall domain posture
@@ -28,13 +28,13 @@ dedicated security team. It covers domain, DNS, certificate, email, and maliciou
 - Alerts you when domains are added or removed, and when SPF, DMARC or MTA-STS configuration changes
 - Offers an API layer so you can build domain infrastructure and security checks into your own systems
 
-## Why you'll like it
+## Why you'll like It
 
 - Built around the fundamentals, rather than trying to be an all-in-one security suite
 - Can be used as a monitoring product, a set of free security checks, or purely as an API
 - Actively developed, with recent updates covering TLS-RPT monitoring, DMARCbis validation, BIMI checks, subdomain discovery, and phishing and brand monitoring
 
-## Good for
+## Good For
 
 - Small and medium sized businesses without a dedicated security team
 - Anyone responsible for keeping DNS, email authentication, and certificates correctly configured

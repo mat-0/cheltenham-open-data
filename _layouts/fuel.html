@@ -16,7 +16,7 @@
 
         {% include sponsor.html %}
 
-        <h2>Headline prices</h2>
+        <h2>Headline Prices</h2>
         <ul>
             {% for h in fuel.headline %}
             <li>&rarr; {{ h.label }} @ {{ h.price }}p/L from {{ h.name }}{% if h.brand != "" %} ({{ h.brand }}){% endif
@@ -31,7 +31,7 @@
             </small></p>
         {% endif %}
 
-        <h2>Map of local forecourts</h2>
+        <h2>Map of Local Forecourts</h2>
         <div id="fuel-map" style="height: 600px; border-radius: 8px;"></div>
         <script id="fuel-map-data" type="application/json">
         [

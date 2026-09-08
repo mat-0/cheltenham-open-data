@@ -106,26 +106,26 @@ There are a number of local shops that offer refillable (bring your own containe
 
 ## Frequently Asked Questions
 
-### Can I recycle coffee pods?
+### Can I Recycle Coffee Pods?
 
 - Yes, these can be bagged up separately and collected kerbside.
 
-### Can I recycle a Tetra Pak carton?
+### Can I Recycle a Tetra Pak Carton?
 
 - Yes, as of 2026, you can place Tetra Pak cartons in with your plastics and can recycling box
 
-### Can I recycle medication blister packs?
+### Can I Recycle Medication Blister Packs?
 
-- Yes, you can recycle these at both Boots and SuperDrug, if you use the Boots Advantage Card you can take a photo and collect points for each pack recycled.
+- Yes, you can recycle these at both Boots and SuperDrug, if you use the Boots Advantage Card you can take a photo in the app and collect points for each pack recycled.
 
-### Can I recycle thin plastics?
+### Can I Recycle Thin Plastics?
 
-- Yes, thin/film plastics often found on ready meals can be bagged up recycled at some major supermarkets such as Tesco on Colletts Drive.
+- Yes, thin/film plastics often found on ready meals and crisp packets can be bagged up and recycled at some major supermarkets such as Tesco on Colletts Drive and Asda in Hatherley.
 
-### Can I recycle VHS tapes?
+### Can I Recycle VHS Tapes?
 
 - Yes, these can be taken to The Butterfly Garden, Bamfurlong Lane, Cheltenham, Gloucestershire, GL51 6SL to be recycled. The Butterfly Garden is a charity helping people of all ages with disabilities.
 
-### What do I do if a recycling bank is full?
+### What Do I Do If a Recycling Bank Is Full?
 
 - If a bank is full and needs emptying please let Cheltenham Borough Council know on 01242 262626.

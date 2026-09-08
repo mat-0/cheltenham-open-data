@@ -23,11 +23,11 @@ Cheltenham's public charging network has grown quickly, with points now spread a
 This page lists every public charging location we hold for the Cheltenham area, refreshed daily from open data. Use the map to find the nearest point, or sort the table by distance, power or connector type to match your car and how long you're staying.
 <!-- ev_charging ends -->
 
-## How to use this page
+## How to Use This Page
 
 The **map** plots every known charging location around Cheltenham — click a marker for the operator, the connectors on site and a directions link. The **connectors by type** table summarises how the network breaks down, which is useful if your car takes a specific plug. The **full list** gives every location sorted by distance from the town centre, with the postcode linking straight to Google Maps for directions.
 
-## Connector types explained
+## Connector Types Explained
 
 Most modern electric cars in the UK use one of three connectors:
 
@@ -37,7 +37,7 @@ Most modern electric cars in the UK use one of three connectors:
 
 If you're unsure which your car uses, check the charging port or your handbook before relying on a specific site.
 
-## Charging speeds
+## Charging Speeds
 
 Charge time depends far more on the charger's power than on the number of points:
 
@@ -46,10 +46,10 @@ Charge time depends far more on the charger's power than on the number of points
 - **Rapid (50 kW)** — a meaningful charge in 30–60 minutes, ideal while you shop or eat.
 - **Ultra-rapid (100 kW+)** — the fastest points, adding significant range in 15–30 minutes on a compatible car.
 
-## Costs and paying
+## Costs and Paying
 
 Public charging is usually paid per kWh, and prices vary by operator and speed — rapid and ultra-rapid points cost more per unit than slower AC charging. Most sites now accept contactless card payment, but many operators also offer cheaper rates through their own app or a roaming card that works across multiple networks. It's worth checking the operator before you arrive, especially for a longer or repeat visit.[Check out public toilet locations](/cheltenham-public-toilets) and [points of interest](/cheltenham-points-of-interest) whilst you wait.
 
-## A note on the data
+## A Note on the Data
 
 Locations are compiled from open data and refreshed automatically, but coverage and details such as connector counts, power ratings and pricing can change. Always check the operator's own app for live availability and current prices before you set off. If you spot a missing or incorrect location, let us know via the [contact page](/contact).

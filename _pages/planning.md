@@ -10,7 +10,7 @@ schema_include: planschema
 
 {% assign planning = site.data["planning-applications"] %}
 
-## What's being planned in Cheltenham
+## What Is Being Planned in Cheltenham
 
 This page tracks the {{ planning.received_count }} applications Cheltenham Borough Council has received in the last {{ planning.lookback_days }} days with {{ planning.pending }} still awaiting a decision and {{ planning.decided_count }} already determined. Applications range from single-home extensions to major housing schemes, as well as managing trees, lots and lots of trees.
 

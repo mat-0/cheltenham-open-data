@@ -12,7 +12,7 @@ Plain-English terms for sponsoring Cheltenham Open Data. If anything's unclear,
 
 _Last updated: August 2026._
 
-## What you get
+## What You Get
 
 - **Founding / Standard**: one "supported by" card on the page you choose — your
   logo, a short line about your business, and a link.
@@ -21,7 +21,7 @@ _Last updated: August 2026._
 - No more than two sponsor cards appear on any one page.
 - Your link is marked `rel="sponsored"`, in line with Google's guidance.
 
-## Billing and term
+## Billing and Term
 
 - Prices are per calendar month, paid in advance by card through Stripe.
 - There is a **minimum term of three months** from your start date.
@@ -38,7 +38,7 @@ _Last updated: August 2026._
   stays live until then.
 - Payments already made are not refunded for part-months.
 
-## Your advert content
+## Your Advert Content
 
 - You provide your logo and a short line of copy; I'll help size and format it.
 - I approve all content before it goes live, and may ask for changes.
@@ -56,22 +56,22 @@ _Last updated: August 2026._
 - Community pages (food banks, helplines) and utility pages (contact, about,
   privacy) carry no adverts.
 
-## Traffic and results
+## Traffic and Results
 
 - The site is new and growing. I'm happy to share current visitor numbers on
   request, but I can't guarantee any level of traffic, clicks or enquiries.
 
-## Editorial independence
+## Editorial Independence
 
 - Sponsorship never influences the data or the editorial content of the site.
   Adverts are always clearly labelled as sponsored.
 
-## Changes to these terms
+## Changes to These Terms
 
 - I may update these terms from time to time; the current version always lives
   on this page. Any change won't affect your founding-rate lock or your current
   paid month.
 
-## Contact
+## Get in Touch
 
 - Questions about sponsorship: [send me an email](/contact).

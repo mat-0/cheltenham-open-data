@@ -15,22 +15,22 @@ The map currently covers **29** charging locations, with **71** connectors from 
 
 ## FAQs
 
-### How many EV charging points are there in Cheltenham?
+### How Many EV Charging Points Are There in Cheltenham?
 
 - The page maps **29** public charging locations across Cheltenham, offering **71** connectors from **13** different operators, from town-centre car parks and supermarkets to hotels and park-and-ride sites.
 
-### What connector types are covered?
+### What Connector Types Are Covered?
 
 - All the common UK types: Type 2 for slow and fast AC charging, CCS and CHAdeMO for rapid DC charging, plus Tesla connectors and standard 3-pin points. A "connectors by type" table breaks down how the local network splits across each plug.
 
-### How fast can I charge?
+### How Fast Can I Charge?
 
 - Speeds range from slow 3–6 kW on-street points up to a 175 kW ultra-rapid site, with plenty of 7–50 kW fast and rapid chargers in between. Charge time depends far more on the charger's power than the number of points, so sort by max kW if you're in a hurry.
 
-### Where does the charging data come from?
+### Where Does the Charging Data Come From?
 
 - Locations are compiled from [Open Charge Map](https://openchargemap.org), a community-maintained global registry of charging points, licensed under [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Map tiles are © OpenStreetMap contributors.
 
-### How often is it updated?
+### How Often Is It Updated?
 
 - The list is refreshed daily. Coverage and details like connector counts and power ratings can change, so always check the operator's own app for live availability and current prices before setting off.

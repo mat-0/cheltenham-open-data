@@ -10,7 +10,7 @@ schema_type: stay22
 
 {% include sponsor.html %}
 
-## Where to stay in Cheltenham
+## Where to Stay in Cheltenham
 
 Looking for places to stay in Cheltenham? Whether you're visiting for the Cheltenham Festival at the racecourse, one of the town's literature, jazz or music festivals, or using it as a base to explore the [Cotswolds](/cheltenham-points-of-interest), Cheltenham has accommodation to suit every trip — from elegant Regency townhouse hotels around Montpellier and the Promenade to reliable budget and mid-range chains near the centre and the motorway.
 

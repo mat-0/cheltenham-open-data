@@ -18,20 +18,20 @@ robots: noindex
 We're a small independent coffee shop in the heart of Cheltenham looking for a
 friendly, reliable barista to join our team.
 
-## About the role
+## About The Role
 
 - Making and serving coffee and light food to a high standard
 - Keeping the shop clean, tidy and welcoming
 - Handling till and card payments
 - Weekday and occasional weekend shifts
 
-## About you
+## About You
 
 - Warm, chatty and happy on your feet all day
 - Some hospitality or café experience is a bonus, but we'll train the right person
 - Must be eligible to work in the UK
 
-## What we offer
+## What We Offer
 
 - £12.21/hour plus a share of tips
 - Free coffee and staff discount

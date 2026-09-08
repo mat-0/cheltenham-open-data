@@ -15,7 +15,7 @@ Cheltenham has a good spread of Post Office branches, from the main High Street 
 
 Below is a full list of Post Office locations in and around Cheltenham, with addresses and direct map links to help you find the nearest one and plan your route.
 
-### What you can do at a Cheltenham Post Office
+### What You Can Do at a Cheltenham Post Office
 
 Most branches offer core postal and banking services, though exact services vary by location — smaller branches inside newsagents or convenience stores may offer a reduced range compared to the main High Street office. Typical services include:
 

@@ -13,22 +13,22 @@ The page shows hotels and guest houses near Cheltenham Racecourse at Prestbury P
 
 ## FAQs
 
-### When is the Cheltenham Festival {{year}}?
+### When Is the Cheltenham Festival {{page.year}}?
 
 - The Festival runs Tuesday 16 to Friday 19 March 2027, four days of championship jump racing ending with the Gold Cup on the Friday.
 
-### Where should I stay for the Festival?
+### Where Should I Stay for the Festival?
 
 - The guide lists places to stay sorted by distance from the racecourse, so you can see what's closest to Prestbury Park. Staying central or on the north side of town makes race-day mornings easier, with shuttle and park-and-ride services running to the course.
 
-### When should I book?
+### When Should I Book?
 
 - As early as you can. Rooms near the racecourse are in high demand for race week and both availability and prices tighten as the Festival approaches, so booking well ahead gives you the best choice.
 
-### How does booking work?
+### How Does Booking Work?
 
 - The page shows live availability and links through to travel providers such as Booking.com to complete your reservation. It contains affiliate links, so we may earn a commission if you book through them — at no extra cost to you.
 
-### How do I get to the racecourse?
+### How Do I Get to the Racecourse?
 
 - Cheltenham Racecourse is at Prestbury Park, about two miles north of the town centre. During the Festival there are shuttle buses from the town and Cheltenham Spa railway station, plus park-and-ride services.

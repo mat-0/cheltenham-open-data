@@ -8,7 +8,7 @@ food_rating: "AwaitingInspection"
 type: "food"
 ---
 
-## Food businesses awaiting inspection
+## Food Businesses Awaiting Inspection
 
 These businesses are marked as awaiting inspection in the Food Standards Agency data and do not yet have a standard food hygiene rating.
 

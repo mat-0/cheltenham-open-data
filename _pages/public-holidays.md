@@ -15,6 +15,6 @@ Cheltenham and the rest of Gloucestershire follow the public holidays set for En
 
 The table below shows the next confirmed public holidays, taken directly from the official government schedule, so you always know what's coming up.
 
-### A note on Christmas and New Year
+### A Note on Christmas and New Year
 
 When Christmas Day, Boxing Day or New Year's Day fall on a weekend, the holiday is moved to the next working day. This is shown as a in the schedule below where Christmas and Boxing day are not assigned to the 25th and 26th respectively.

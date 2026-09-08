@@ -24,7 +24,7 @@
         {% assign venues = site.data["food-standards"] | where: "rating", page.food_rating %}
         {% else %}
         {% assign venues = nil %}
-        <h2>Ratings by type ({{ site.data["food-standards"].size }} venues)</h2>
+        <h2>Ratings by Type ({{ site.data["food-standards"].size }} Venues)</h2>
         <div class="table-scroll">
             <table class="food-standards-table" data-sortable>
                 <thead>
@@ -70,13 +70,13 @@
 
         {% if venues %}
         {% if page.food_rating == "Exempt" %}
-        <h2>Exempt venues ({{ venues.size }} venues)</h2>
+        <h2>Exempt Venues ({{ venues.size }} Venues)</h2>
         {% elsif page.food_rating == "AwaitingInspection" %}
-        <h2>Venues awaiting inspection ({{ venues.size }} venues)</h2>
+        <h2>Venues Awaiting Inspection ({{ venues.size }} Venues)</h2>
         {% elsif page.food_rating == "5" %}
-        <h2>Venues rated 5 ({{ venues.size }} venues)</h2>
+        <h2>Venues Rated 5 ({{ venues.size }} Venues)</h2>
         {% else %}
-        <h2>Venues rated 1 to 4 ({{ venues.size }} venues)</h2>
+        <h2>Venues Rated 1 to 4 ({{ venues.size }} Venues)</h2>
         {% endif %}
         <div class="table-scroll">
             <table class="food-standards-table" data-sortable>

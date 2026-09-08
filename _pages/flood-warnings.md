@@ -29,7 +29,7 @@ catchments across Gloucestershire, are the main sources of flood risk in the
 area. Risk is highest during prolonged or heavy rainfall, particularly in
 autumn and winter.
 
-### How to check your flood risk and stay informed
+### How to Check Your Flood Risk and Stay Informed
 
 - Check the live flood warning map and sign up for free flood warnings by
   phone, text, or email at [gov.uk/check-flood-risk](https://www.gov.uk/check-flood-risk).
@@ -40,7 +40,7 @@ autumn and winter.
 - Subscribe to this page's [RSS feed]({{feed_url}}) to receive Gloucestershire
   flood updates as they are published in your RSS/Feed reader or check this page.
 
-### Preparing for a flood
+### Preparing for a Flood
 
 If flooding is expected in your area, move valuables and electrical items
 upstairs or to a safe height, prepare a bag with essential documents and

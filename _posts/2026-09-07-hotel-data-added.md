@@ -13,22 +13,22 @@ The page pairs a live availability map with a list of well-known hotels in the t
 
 ## FAQs
 
-### Where should I stay in Cheltenham?
+### Where Should I Stay in Cheltenham?
 
 - It depends on your trip. The Montpellier and Promenade areas offer elegant Regency townhouse hotels close to the shops and restaurants, while there are reliable budget and mid-range options nearer the centre and the motorway. The map on the page shows what's available across the town so you can pick by area and price.
 
-### Where's best to stay for the Cheltenham Festival?
+### Where’s Best to Stay for the Cheltenham Festival?
 
 - Anywhere central or near the racecourse fills up fast during Festival week, so it's worth booking early. Use the map to find accommodation close to Prestbury Park, and compare prices before they rise closer to the dates.
 
-### Does Cheltenham Open Data sell rooms directly?
+### Does Cheltenham Open Data Sell Rooms Directly?
 
 - No. We list hotels and show a live availability map, but bookings are made with travel providers such as Booking.com, Expedia and others. The page contains affiliate links, so we may earn a commission if you book through them — at no extra cost to you.
 
-### Are these all the hotels in Cheltenham?
+### Are These All the Hotels in Cheltenham?
 
 - The list is a selection of well-known hotels in the town. The availability map alongside it shows a much wider range of hotels and rentals, including options that aren't in the list.
 
-### How up to date are the prices?
+### How up to Date Are the Prices?
 
 - Prices and availability are pulled live from the travel providers at the time you view the page, so they reflect current rates rather than a fixed figure saved on our site.

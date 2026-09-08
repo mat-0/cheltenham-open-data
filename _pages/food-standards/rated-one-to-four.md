@@ -8,7 +8,7 @@ food_rating: "rated-one-to-four"
 type: "food"
 ---
 
-## Food businesses rated 1 to 4
+## One to Four Star Food Businesses
 
 These businesses currently have a food hygiene rating from 1 to 4 in the Food Standards Agency data.
 
