@@ -51,6 +51,11 @@ Quick guide: Platform 1 is typically for trains to Wales and the south (Bristol,
 - Gas: 0800 111 999
 - NHS Direct: 0845 4647
 
+## Discounted and Free Food Offerings
+
+- [Olio - Your local go-to for free food (and more)](https://olioapp.com/en/)
+- [Too Good To Go](https://www.toogoodtogo.com/en-gb)
+
 ## Emergency Preparation
 
 [Get Prepared for Emergencies (Gov UK)](https://prepare.campaign.gov.uk/get-prepared-for-emergencies/)
