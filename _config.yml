@@ -265,6 +265,8 @@ footer_columns:
         link: /about
       - name: Guides
         link: /guides
+      - name: Press
+        link: /press
       - name: Contact
         link: /contact
       - name: Submit Classified Advert
