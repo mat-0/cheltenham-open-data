@@ -207,27 +207,32 @@ def fetch_data(url: str) -> list[dict]:
 
 ACRONYMS = {"WH", "BP", "ASDA", "GWSR", "UK"}
 
-def clean_name(raw):
-    """Title-case a station name, collapse stray whitespace, and keep known
-    brand acronyms and road numbers (A40, B4083, etc.) uppercase."""
-    out = []
-    for w in (raw or "").split():
-        up = w.upper()
-        if up in ACRONYMS or any(c.isdigit() for c in w):
-            out.append(up)                       # ASDA, MFG, A417, 80-86…
-        else:
-            out.append(w[:1].upper() + w[1:].lower())
-    return " ".join(out)
+def clean_name(name: str) -> str:
+    """Tidy a station name: collapse stray whitespace, title-case each word
+    (including words inside brackets, so '(summer Only)' -> '(Summer Only)'
+    and '(whaddon)' -> '(Whaddon)'), and keep known brand acronyms and road
+    numbers (A40, B4083, 80-86) upper-case — even wrapped in brackets like
+    '(GWSR)'.
 
-def tidy_name(name: str) -> str:
-    """Fix 'Waterstones- upper floor' -> 'Waterstones - upper floor'.
-
-    Only adds a space before a hyphen when a space already follows it —
-    that pattern means the hyphen is being used as a dash/separator, not
-    part of a double-barrelled name. Untouched: 'Stratford-upon-Avon'
-    (no spaces at all) and already-correct 'Foo - bar' (already has both).
+    Also fixes 'Waterstones- upper floor' -> 'Waterstones - upper floor': a
+    space is only added before a hyphen when a space already follows it, so the
+    hyphen is being used as a dash/separator. Untouched: 'Stratford-upon-Avon'
+    (no spaces) and already-correct 'Foo - bar' (already has both).
     """
-    return clean_name(re.sub(r"(?<! )- ", " - ", name))
+    def fix(w):
+        # Peel leading/trailing punctuation off the core word so brackets like
+        # '(GWSR)' don't hide an acronym or block title-casing.
+        lead, core, trail = re.match(r"(\W*)(.*?)(\W*)$", w).groups()
+        if core.upper() in ACRONYMS or any(c.isdigit() for c in core):
+            core = core.upper()
+        elif core:
+            core = core[:1].upper() + core[1:].lower()
+        return lead + core + trail
+
+    name = re.sub(r"(?<! )- ", " - ", name or "")
+    return " ".join(fix(w) for w in name.split())
+
+
 
 
 def google_maps_url(lat: float, lon: float) -> str:
@@ -240,7 +245,7 @@ def clean_record(rec: dict) -> dict:
     opening_times = parse_opening_times(rec.get("opening_times"))
     return {
         "id": rec["id"],
-        "name": tidy_name(rec["name"].strip()),
+        "name": clean_name(rec["name"].strip()),
         "latitude": lat,
         "longitude": lon,
         "maps_url": google_maps_url(lat, lon),

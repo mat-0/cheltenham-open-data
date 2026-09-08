@@ -173,7 +173,7 @@
   },
   {
     "id": "fd1feae66ad4d90f08728f23",
-    "name": "Cheltenham Racecourse Station (gwsr)",
+    "name": "Cheltenham Racecourse Station (GWSR)",
     "latitude": 51.924396677,
     "longitude": -2.067918777,
     "maps_url": "https://www.google.com/maps/search/?api=1&query=51.924396677,-2.067918777",
@@ -247,7 +247,7 @@
   },
   {
     "id": "acd37e997221d4210647dbf8",
-    "name": "Imperial Square (side Of Town Hall)",
+    "name": "Imperial Square (Side Of Town Hall)",
     "latitude": 51.897280767,
     "longitude": -2.077660561,
     "maps_url": "https://www.google.com/maps/search/?api=1&query=51.897280767,-2.077660561",
@@ -447,7 +447,7 @@
   },
   {
     "id": "17a512856d33a909ab4423b6",
-    "name": "Royal Well Road (opposite Bus Station)",
+    "name": "Royal Well Road (Opposite Bus Station)",
     "latitude": 51.899874265,
     "longitude": -2.077655196,
     "maps_url": "https://www.google.com/maps/search/?api=1&query=51.899874265,-2.077655196",
@@ -469,7 +469,7 @@
   },
   {
     "id": "b4db1963c633f0c4794ed326",
-    "name": "Sainsbury's Superstore - Cheltenham (tewskbury Rd)",
+    "name": "Sainsbury's Superstore - Cheltenham (Tewskbury Rd)",
     "latitude": 51.918146975,
     "longitude": -2.106542587,
     "maps_url": "https://www.google.com/maps/search/?api=1&query=51.918146975,-2.106542587",
@@ -499,7 +499,7 @@
   },
   {
     "id": "1bd3b134d9b5c71ae6687244",
-    "name": "Sainsbury's Superstore - Cheltenham (whaddon)",
+    "name": "Sainsbury's Superstore - Cheltenham (Whaddon)",
     "latitude": 51.90198437,
     "longitude": -2.048864365,
     "maps_url": "https://www.google.com/maps/search/?api=1&query=51.90198437,-2.048864365",
@@ -521,7 +521,7 @@
   },
   {
     "id": "3b0aa7f8c7cc6c573271f34f",
-    "name": "Sandford Park (summer Only)",
+    "name": "Sandford Park (Summer Only)",
     "latitude": 51.893573147,
     "longitude": -2.069141865,
     "maps_url": "https://www.google.com/maps/search/?api=1&query=51.893573147,-2.069141865",
