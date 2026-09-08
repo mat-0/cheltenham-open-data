@@ -1,6 +1,6 @@
 {
-  "updated": "7 September 2026 at 21:49",
-  "updated_iso": "2026-09-07",
+  "updated": "8 September 2026 at 10:44",
+  "updated_iso": "2026-09-08",
   "radius_miles": 20,
   "lookback_days": 25,
   "stale_days": 10,
@@ -14,9 +14,9 @@
   "headline": [
     {
       "label": "Unleaded",
-      "price": "153.9",
-      "name": "Sainsburys Gloucester Quays",
-      "brand": "Sainsburys"
+      "price": "154.9",
+      "name": "Bristol Road",
+      "brand": "Gulf"
     },
     {
       "label": "Prem Unleaded",
@@ -46,23 +46,23 @@
   "context": [
     {
       "label": "Unleaded",
-      "cheapest": 153.9,
-      "typical": 164.9
+      "cheapest": 154.9,
+      "typical": 165.9
     },
     {
       "label": "Prem Unleaded",
       "cheapest": 162.9,
-      "typical": 179.9
+      "typical": 185.9
     },
     {
       "label": "Diesel",
       "cheapest": 176.7,
-      "typical": 185.9
+      "typical": 186.9
     },
     {
       "label": "Prem Diesel",
       "cheapest": 189.9,
-      "typical": 203.9
+      "typical": 207.8
     },
     {
       "label": "B10",
@@ -79,12 +79,12 @@
       "lon": -2.085742,
       "distance_miles": 0.4,
       "is_supermarket": false,
-      "as_of": "2026-09-07",
+      "as_of": "2026-09-08",
       "stale": false,
       "cells": [
         {
-          "display": "161.9p",
-          "val": "161.9",
+          "display": "160.9p",
+          "val": "160.9",
           "cheapest": false
         },
         {
@@ -93,8 +93,8 @@
           "cheapest": false
         },
         {
-          "display": "182.9p",
-          "val": "182.9",
+          "display": "181.9p",
+          "val": "181.9",
           "cheapest": false
         },
         {
@@ -108,7 +108,7 @@
           "cheapest": false
         }
       ],
-      "popup": "Shell Waitrose Cheltenham — from 161.9p"
+      "popup": "Shell Waitrose Cheltenham — from 160.9p"
     },
     {
       "name": "Cheltenham Superstore - Petrol Filling Station",
@@ -157,17 +157,17 @@
       "lon": -2.090225,
       "distance_miles": 0.65,
       "is_supermarket": false,
-      "as_of": "2026-09-07",
+      "as_of": "2026-09-08",
       "stale": false,
       "cells": [
         {
-          "display": "160.9p",
-          "val": "160.9",
+          "display": "161.9p",
+          "val": "161.9",
           "cheapest": false
         },
         {
-          "display": "180.9p",
-          "val": "180.9",
+          "display": "181.9p",
+          "val": "181.9",
           "cheapest": false
         },
         {
@@ -186,7 +186,7 @@
           "cheapest": false
         }
       ],
-      "popup": "Cheltenham Service Station — from 160.9p"
+      "popup": "Cheltenham Service Station — from 161.9p"
     },
     {
       "name": "Prestbury Road SF Connect",
@@ -391,27 +391,27 @@
       "lon": -2.100541,
       "distance_miles": 1.32,
       "is_supermarket": false,
-      "as_of": "2026-09-06",
+      "as_of": "2026-09-07",
       "stale": false,
       "cells": [
         {
-          "display": "163.9p",
-          "val": "163.9",
+          "display": "165.9p",
+          "val": "165.9",
           "cheapest": false
         },
         {
-          "display": "179.9p",
-          "val": "179.9",
+          "display": "189.9p",
+          "val": "189.9",
           "cheapest": false
         },
         {
-          "display": "183.9p",
-          "val": "183.9",
+          "display": "185.9p",
+          "val": "185.9",
           "cheapest": false
         },
         {
-          "display": "199.9p",
-          "val": "199.9",
+          "display": "209.9p",
+          "val": "209.9",
           "cheapest": false
         },
         {
@@ -420,7 +420,7 @@
           "cheapest": false
         }
       ],
-      "popup": "MFG Arle — from 163.9p"
+      "popup": "MFG Arle — from 165.9p"
     },
     {
       "name": "MFG Bouncers Lane",
@@ -430,7 +430,7 @@
       "lon": -2.046503,
       "distance_miles": 1.54,
       "is_supermarket": false,
-      "as_of": "2026-09-05",
+      "as_of": "2026-09-07",
       "stale": false,
       "cells": [
         {
@@ -439,18 +439,18 @@
           "cheapest": false
         },
         {
-          "display": "175.9p",
-          "val": "175.9",
+          "display": "185.9p",
+          "val": "185.9",
           "cheapest": false
         },
         {
-          "display": "181.9p",
-          "val": "181.9",
+          "display": "182.9p",
+          "val": "182.9",
           "cheapest": false
         },
         {
-          "display": "195.9p",
-          "val": "195.9",
+          "display": "199.9p",
+          "val": "199.9",
           "cheapest": false
         },
         {
@@ -547,17 +547,17 @@
       "lon": -2.107124,
       "distance_miles": 1.76,
       "is_supermarket": true,
-      "as_of": "2026-09-06",
+      "as_of": "2026-09-07",
       "stale": false,
       "cells": [
         {
-          "display": "159.9p",
-          "val": "159.9",
+          "display": "160.9p",
+          "val": "160.9",
           "cheapest": false
         },
         {
-          "display": "175.9p",
-          "val": "175.9",
+          "display": "185.9p",
+          "val": "185.9",
           "cheapest": false
         },
         {
@@ -576,7 +576,7 @@
           "cheapest": false
         }
       ],
-      "popup": "MFG Morrisons Up Hatherley — from 159.9p"
+      "popup": "MFG Morrisons Up Hatherley — from 160.9p"
     },
     {
       "name": "East End Services",
@@ -586,17 +586,17 @@
       "lon": -2.038709,
       "distance_miles": 2.04,
       "is_supermarket": false,
-      "as_of": "2026-09-07",
+      "as_of": "2026-09-08",
       "stale": false,
       "cells": [
         {
-          "display": "163.9p",
-          "val": "163.9",
+          "display": "164.9p",
+          "val": "164.9",
           "cheapest": false
         },
         {
-          "display": "183.9p",
-          "val": "183.9",
+          "display": "184.9p",
+          "val": "184.9",
           "cheapest": false
         },
         {
@@ -615,7 +615,7 @@
           "cheapest": false
         }
       ],
-      "popup": "East End Services — from 163.9p"
+      "popup": "East End Services — from 164.9p"
     },
     {
       "name": "ASDA Cheltenham",
@@ -781,27 +781,27 @@
       "lon": -1.963483,
       "distance_miles": 5.28,
       "is_supermarket": false,
-      "as_of": "2026-09-04",
+      "as_of": "2026-09-07",
       "stale": false,
       "cells": [
         {
-          "display": "165.9p",
-          "val": "165.9",
+          "display": "166.9p",
+          "val": "166.9",
           "cheapest": false
         },
         {
-          "display": "179.9p",
-          "val": "179.9",
+          "display": "189.9p",
+          "val": "189.9",
           "cheapest": false
         },
         {
-          "display": "187.9p",
-          "val": "187.9",
+          "display": "189.9p",
+          "val": "189.9",
           "cheapest": false
         },
         {
-          "display": "199.9p",
-          "val": "199.9",
+          "display": "209.9p",
+          "val": "209.9",
           "cheapest": false
         },
         {
@@ -810,7 +810,7 @@
           "cheapest": false
         }
       ],
-      "popup": "MFG Andoversford — from 165.9p"
+      "popup": "MFG Andoversford — from 166.9p"
     },
     {
       "name": "Gloucester Brockworth Extra - Petrol Filling Station",
@@ -859,27 +859,27 @@
       "lon": -2.1866,
       "distance_miles": 5.54,
       "is_supermarket": false,
-      "as_of": "2026-09-04",
+      "as_of": "2026-09-07",
       "stale": false,
       "cells": [
         {
-          "display": "162.9p",
-          "val": "162.9",
+          "display": "164.9p",
+          "val": "164.9",
           "cheapest": false
         },
         {
-          "display": "179.9p",
-          "val": "179.9",
+          "display": "189.9p",
+          "val": "189.9",
           "cheapest": false
         },
         {
-          "display": "182.9p",
-          "val": "182.9",
+          "display": "184.9p",
+          "val": "184.9",
           "cheapest": false
         },
         {
-          "display": "199.9p",
-          "val": "199.9",
+          "display": "209.9p",
+          "val": "209.9",
           "cheapest": false
         },
         {
@@ -888,7 +888,7 @@
           "cheapest": false
         }
       ],
-      "popup": "MFG Hucclecote — from 162.9p"
+      "popup": "MFG Hucclecote — from 164.9p"
     },
     {
       "name": "Sainsburys Barnwood",
@@ -898,17 +898,17 @@
       "lon": -2.19982,
       "distance_miles": 5.71,
       "is_supermarket": true,
-      "as_of": "2026-09-05",
+      "as_of": "2026-09-07",
       "stale": false,
       "cells": [
         {
-          "display": "155.9p",
-          "val": "155.9",
+          "display": "157.9p",
+          "val": "157.9",
           "cheapest": false
         },
         {
-          "display": "167.9p",
-          "val": "167.9",
+          "display": "169.9p",
+          "val": "169.9",
           "cheapest": false
         },
         {
@@ -927,7 +927,7 @@
           "cheapest": false
         }
       ],
-      "popup": "Sainsburys Barnwood — from 155.9p"
+      "popup": "Sainsburys Barnwood — from 157.9p"
     },
     {
       "name": "MFG Longlevens",
@@ -937,27 +937,27 @@
       "lon": -2.211043,
       "distance_miles": 5.93,
       "is_supermarket": false,
-      "as_of": "2026-09-04",
+      "as_of": "2026-09-07",
       "stale": false,
       "cells": [
         {
-          "display": "164.9p",
-          "val": "164.9",
+          "display": "166.9p",
+          "val": "166.9",
           "cheapest": false
         },
         {
-          "display": "179.9p",
-          "val": "179.9",
+          "display": "189.9p",
+          "val": "189.9",
           "cheapest": false
         },
         {
-          "display": "185.9p",
-          "val": "185.9",
+          "display": "187.9p",
+          "val": "187.9",
           "cheapest": false
         },
         {
-          "display": "199.9p",
-          "val": "199.9",
+          "display": "209.9p",
+          "val": "209.9",
           "cheapest": false
         },
         {
@@ -966,7 +966,7 @@
           "cheapest": false
         }
       ],
-      "popup": "MFG Longlevens — from 164.9p"
+      "popup": "MFG Longlevens — from 166.9p"
     },
     {
       "name": "Barnwood SF Connect",
@@ -1015,12 +1015,12 @@
       "lon": -2.229941,
       "distance_miles": 6.48,
       "is_supermarket": false,
-      "as_of": "2026-09-07",
+      "as_of": "2026-09-08",
       "stale": false,
       "cells": [
         {
-          "display": "164.9p",
-          "val": "164.9",
+          "display": "166.9p",
+          "val": "166.9",
           "cheapest": false
         },
         {
@@ -1029,8 +1029,8 @@
           "cheapest": false
         },
         {
-          "display": "185.9p",
-          "val": "185.9",
+          "display": "186.9p",
+          "val": "186.9",
           "cheapest": false
         },
         {
@@ -1044,7 +1044,7 @@
           "cheapest": false
         }
       ],
-      "popup": "Ascona Twigworth Service Station — from 164.9p"
+      "popup": "Ascona Twigworth Service Station — from 166.9p"
     },
     {
       "name": "Churn Valley Service Station",
@@ -1093,12 +1093,12 @@
       "lon": -2.231017,
       "distance_miles": 6.64,
       "is_supermarket": false,
-      "as_of": "2026-09-07",
+      "as_of": "2026-09-08",
       "stale": false,
       "cells": [
         {
-          "display": "164.9p",
-          "val": "164.9",
+          "display": "166.9p",
+          "val": "166.9",
           "cheapest": false
         },
         {
@@ -1107,8 +1107,8 @@
           "cheapest": false
         },
         {
-          "display": "185.9p",
-          "val": "185.9",
+          "display": "186.9p",
+          "val": "186.9",
           "cheapest": false
         },
         {
@@ -1122,7 +1122,7 @@
           "cheapest": false
         }
       ],
-      "popup": "Ascona Parklands Service Station — from 164.9p"
+      "popup": "Ascona Parklands Service Station — from 166.9p"
     },
     {
       "name": "MFG Morrisons Gloucester Metz Way",
@@ -1132,7 +1132,7 @@
       "lon": -2.224617,
       "distance_miles": 6.8,
       "is_supermarket": true,
-      "as_of": "2026-09-06",
+      "as_of": "2026-09-07",
       "stale": false,
       "cells": [
         {
@@ -1141,8 +1141,8 @@
           "cheapest": false
         },
         {
-          "display": "175.9p",
-          "val": "175.9",
+          "display": "185.9p",
+          "val": "185.9",
           "cheapest": false
         },
         {
@@ -1171,12 +1171,12 @@
       "lon": -1.956052,
       "distance_miles": 6.83,
       "is_supermarket": false,
-      "as_of": "2026-09-07",
+      "as_of": "2026-09-08",
       "stale": false,
       "cells": [
         {
-          "display": "164.7p",
-          "val": "164.7",
+          "display": "168.7p",
+          "val": "168.7",
           "cheapest": false
         },
         {
@@ -1185,8 +1185,8 @@
           "cheapest": false
         },
         {
-          "display": "184.7p",
-          "val": "184.7",
+          "display": "189.7p",
+          "val": "189.7",
           "cheapest": false
         },
         {
@@ -1200,7 +1200,7 @@
           "cheapest": false
         }
       ],
-      "popup": "Winchcombe Fuel Express Automat — from 164.7p"
+      "popup": "Winchcombe Fuel Express Automat — from 168.7p"
     },
     {
       "name": "Lemar Service Station",
@@ -1210,12 +1210,12 @@
       "lon": -2.227994,
       "distance_miles": 6.84,
       "is_supermarket": true,
-      "as_of": "2026-09-05",
+      "as_of": "2026-09-07",
       "stale": false,
       "cells": [
         {
-          "display": "155.9p",
-          "val": "155.9",
+          "display": "158.9p",
+          "val": "158.9",
           "cheapest": false
         },
         {
@@ -1224,8 +1224,8 @@
           "cheapest": false
         },
         {
-          "display": "176.9p",
-          "val": "176.9",
+          "display": "179.9p",
+          "val": "179.9",
           "cheapest": false
         },
         {
@@ -1239,7 +1239,7 @@
           "cheapest": false
         }
       ],
-      "popup": "Lemar Service Station — from 155.9p"
+      "popup": "Lemar Service Station — from 158.9p"
     },
     {
       "name": "Ashchurch SF Connect",
@@ -1249,7 +1249,7 @@
       "lon": -2.1161,
       "distance_miles": 6.94,
       "is_supermarket": false,
-      "as_of": "2026-09-07",
+      "as_of": "2026-09-08",
       "stale": false,
       "cells": [
         {
@@ -1263,13 +1263,13 @@
           "cheapest": false
         },
         {
-          "display": "188.9p",
-          "val": "188.9",
+          "display": "189.9p",
+          "val": "189.9",
           "cheapest": false
         },
         {
-          "display": "209.9p",
-          "val": "209.9",
+          "display": "210.9p",
+          "val": "210.9",
           "cheapest": false
         },
         {
@@ -1288,27 +1288,27 @@
       "lon": -2.217732,
       "distance_miles": 7.13,
       "is_supermarket": false,
-      "as_of": "2026-09-04",
+      "as_of": "2026-09-07",
       "stale": false,
       "cells": [
         {
-          "display": "162.9p",
-          "val": "162.9",
+          "display": "164.9p",
+          "val": "164.9",
           "cheapest": false
         },
         {
-          "display": "179.9p",
-          "val": "179.9",
+          "display": "189.9p",
+          "val": "189.9",
           "cheapest": false
         },
         {
-          "display": "184.9p",
-          "val": "184.9",
+          "display": "186.9p",
+          "val": "186.9",
           "cheapest": false
         },
         {
-          "display": "199.9p",
-          "val": "199.9",
+          "display": "209.9p",
+          "val": "209.9",
           "cheapest": false
         },
         {
@@ -1317,7 +1317,7 @@
           "cheapest": false
         }
       ],
-      "popup": "MFG Matson — from 162.9p"
+      "popup": "MFG Matson — from 164.9p"
     },
     {
       "name": "ASDA Gloucester Supercentre",
@@ -1366,7 +1366,7 @@
       "lon": -2.138245,
       "distance_miles": 7.15,
       "is_supermarket": false,
-      "as_of": "2026-09-07",
+      "as_of": "2026-09-08",
       "stale": false,
       "cells": [
         {
@@ -1375,13 +1375,13 @@
           "cheapest": false
         },
         {
-          "display": "190.9p",
-          "val": "190.9",
+          "display": "195.9p",
+          "val": "195.9",
           "cheapest": false
         },
         {
-          "display": "187.9p",
-          "val": "187.9",
+          "display": "188.9p",
+          "val": "188.9",
           "cheapest": false
         },
         {
@@ -1444,7 +1444,7 @@
       "lon": -2.147749,
       "distance_miles": 7.21,
       "is_supermarket": true,
-      "as_of": "2026-09-06",
+      "as_of": "2026-09-07",
       "stale": false,
       "cells": [
         {
@@ -1453,13 +1453,13 @@
           "cheapest": false
         },
         {
-          "display": "175.9p",
-          "val": "175.9",
+          "display": "185.9p",
+          "val": "185.9",
           "cheapest": false
         },
         {
-          "display": "185.9p",
-          "val": "185.9",
+          "display": "186.9p",
+          "val": "186.9",
           "cheapest": false
         },
         {
@@ -1483,7 +1483,7 @@
       "lon": -2.239852,
       "distance_miles": 7.24,
       "is_supermarket": false,
-      "as_of": "2026-09-04",
+      "as_of": "2026-09-07",
       "stale": false,
       "cells": [
         {
@@ -1492,8 +1492,8 @@
           "cheapest": false
         },
         {
-          "display": "179.9p",
-          "val": "179.9",
+          "display": "189.9p",
+          "val": "189.9",
           "cheapest": false
         },
         {
@@ -1502,8 +1502,8 @@
           "cheapest": false
         },
         {
-          "display": "199.9p",
-          "val": "199.9",
+          "display": "209.9p",
+          "val": "209.9",
           "cheapest": false
         },
         {
@@ -1522,17 +1522,12 @@
       "lon": -2.054593,
       "distance_miles": 7.26,
       "is_supermarket": false,
-      "as_of": "2026-09-04",
+      "as_of": "2026-09-07",
       "stale": false,
       "cells": [
         {
-          "display": "165.9p",
-          "val": "165.9",
-          "cheapest": false
-        },
-        {
-          "display": "175.9p",
-          "val": "175.9",
+          "display": "167.9p",
+          "val": "167.9",
           "cheapest": false
         },
         {
@@ -1541,8 +1536,13 @@
           "cheapest": false
         },
         {
-          "display": "195.9p",
-          "val": "195.9",
+          "display": "187.9p",
+          "val": "187.9",
+          "cheapest": false
+        },
+        {
+          "display": "199.9p",
+          "val": "199.9",
           "cheapest": false
         },
         {
@@ -1551,7 +1551,7 @@
           "cheapest": false
         }
       ],
-      "popup": "MFG Teddington Hands — from 165.9p"
+      "popup": "MFG Teddington Hands — from 167.9p"
     },
     {
       "name": "Perry & Jordan Gloucester Ltd",
@@ -1717,17 +1717,17 @@
       "lon": -2.25873,
       "distance_miles": 8.19,
       "is_supermarket": true,
-      "as_of": "2026-09-06",
+      "as_of": "2026-09-07",
       "stale": false,
       "cells": [
         {
-          "display": "153.9p",
-          "val": "153.9",
-          "cheapest": true
+          "display": "155.9p",
+          "val": "155.9",
+          "cheapest": false
         },
         {
-          "display": "165.9p",
-          "val": "165.9",
+          "display": "167.9p",
+          "val": "167.9",
           "cheapest": false
         },
         {
@@ -1746,7 +1746,7 @@
           "cheapest": false
         }
       ],
-      "popup": "Sainsburys Gloucester Quays — from 153.9p"
+      "popup": "Sainsburys Gloucester Quays — from 155.9p"
     },
     {
       "name": "MFG Centurion",
@@ -1756,17 +1756,12 @@
       "lon": -2.036478,
       "distance_miles": 8.2,
       "is_supermarket": false,
-      "as_of": "2026-09-04",
+      "as_of": "2026-09-07",
       "stale": false,
       "cells": [
         {
-          "display": "167.9p",
-          "val": "167.9",
-          "cheapest": false
-        },
-        {
-          "display": "179.9p",
-          "val": "179.9",
+          "display": "169.9p",
+          "val": "169.9",
           "cheapest": false
         },
         {
@@ -1775,8 +1770,13 @@
           "cheapest": false
         },
         {
-          "display": "199.9p",
-          "val": "199.9",
+          "display": "189.9p",
+          "val": "189.9",
+          "cheapest": false
+        },
+        {
+          "display": "209.9p",
+          "val": "209.9",
           "cheapest": false
         },
         {
@@ -1785,7 +1785,7 @@
           "cheapest": false
         }
       ],
-      "popup": "MFG Centurion — from 167.9p"
+      "popup": "MFG Centurion — from 169.9p"
     },
     {
       "name": "Gloucester Services Southbound",
@@ -1840,7 +1840,7 @@
         {
           "display": "154.9p",
           "val": "154.9",
-          "cheapest": false
+          "cheapest": true
         },
         {
           "display": "183.9p",
@@ -1990,7 +1990,7 @@
       "lon": -2.266808,
       "distance_miles": 8.96,
       "is_supermarket": false,
-      "as_of": "2026-09-04",
+      "as_of": "2026-09-07",
       "stale": false,
       "cells": [
         {
@@ -1999,8 +1999,8 @@
           "cheapest": false
         },
         {
-          "display": "179.9p",
-          "val": "179.9",
+          "display": "189.9p",
+          "val": "189.9",
           "cheapest": false
         },
         {
@@ -2009,8 +2009,8 @@
           "cheapest": false
         },
         {
-          "display": "199.9p",
-          "val": "199.9",
+          "display": "209.9p",
+          "val": "209.9",
           "cheapest": false
         },
         {
@@ -2653,27 +2653,27 @@
       "lon": -2.239332,
       "distance_miles": 13.0,
       "is_supermarket": false,
-      "as_of": "2026-09-04",
+      "as_of": "2026-09-07",
       "stale": false,
       "cells": [
         {
-          "display": "167.9p",
-          "val": "167.9",
+          "display": "169.9p",
+          "val": "169.9",
           "cheapest": false
         },
         {
-          "display": "179.9p",
-          "val": "179.9",
+          "display": "189.9p",
+          "val": "189.9",
           "cheapest": false
         },
         {
-          "display": "187.9p",
-          "val": "187.9",
+          "display": "189.9p",
+          "val": "189.9",
           "cheapest": false
         },
         {
-          "display": "199.9p",
-          "val": "199.9",
+          "display": "209.9p",
+          "val": "209.9",
           "cheapest": false
         },
         {
@@ -2682,7 +2682,7 @@
           "cheapest": false
         }
       ],
-      "popup": "MFG Dudbridge — from 167.9p"
+      "popup": "MFG Dudbridge — from 169.9p"
     },
     {
       "name": "Station Garage Stores Ltd",
@@ -2848,27 +2848,27 @@
       "lon": -2.392093,
       "distance_miles": 13.57,
       "is_supermarket": false,
-      "as_of": "2026-09-07",
+      "as_of": "2026-09-08",
       "stale": false,
       "cells": [
         {
-          "display": "163.7p",
-          "val": "163.7",
+          "display": "167.7p",
+          "val": "167.7",
           "cheapest": false
         },
         {
-          "display": "181.7p",
-          "val": "181.7",
+          "display": "185.7p",
+          "val": "185.7",
           "cheapest": false
         },
         {
-          "display": "186.7p",
-          "val": "186.7",
+          "display": "189.7p",
+          "val": "189.7",
           "cheapest": false
         },
         {
-          "display": "204.7p",
-          "val": "204.7",
+          "display": "207.7p",
+          "val": "207.7",
           "cheapest": false
         },
         {
@@ -2877,7 +2877,7 @@
           "cheapest": false
         }
       ],
-      "popup": "Newent Fuel Express Automat — from 163.7p"
+      "popup": "Newent Fuel Express Automat — from 167.7p"
     },
     {
       "name": "MFG Morrisons Evesham",
@@ -2887,22 +2887,22 @@
       "lon": -1.938215,
       "distance_miles": 13.66,
       "is_supermarket": true,
-      "as_of": "2026-09-06",
+      "as_of": "2026-09-08",
       "stale": false,
       "cells": [
         {
-          "display": "165.9p",
-          "val": "165.9",
+          "display": "166.9p",
+          "val": "166.9",
           "cheapest": false
         },
         {
-          "display": "175.9p",
-          "val": "175.9",
+          "display": "185.9p",
+          "val": "185.9",
           "cheapest": false
         },
         {
-          "display": "186.9p",
-          "val": "186.9",
+          "display": "187.9p",
+          "val": "187.9",
           "cheapest": false
         },
         {
@@ -2916,7 +2916,7 @@
           "cheapest": false
         }
       ],
-      "popup": "MFG Morrisons Evesham — from 165.9p"
+      "popup": "MFG Morrisons Evesham — from 166.9p"
     },
     {
       "name": "Huntley Services",
@@ -3082,61 +3082,22 @@
       "lon": -1.749817,
       "distance_miles": 13.99,
       "is_supermarket": false,
-      "as_of": "2026-09-04",
+      "as_of": "2026-09-07",
       "stale": false,
       "cells": [
         {
-          "display": "165.9p",
-          "val": "165.9",
+          "display": "167.9p",
+          "val": "167.9",
           "cheapest": false
         },
         {
-          "display": "175.9p",
-          "val": "175.9",
+          "display": "185.9p",
+          "val": "185.9",
           "cheapest": false
         },
         {
-          "display": "187.9p",
-          "val": "187.9",
-          "cheapest": false
-        },
-        {
-          "display": "197.9p",
-          "val": "197.9",
-          "cheapest": false
-        },
-        {
-          "display": "–",
-          "val": "9999",
-          "cheapest": false
-        }
-      ],
-      "popup": "MFG Fosseway — from 165.9p"
-    },
-    {
-      "name": "MFG New Quarry",
-      "address": "CHESTERTON LANE, GL7 1YD",
-      "postcode": "GL7 1YD",
-      "lat": 51.707567,
-      "lon": -1.962595,
-      "distance_miles": 14.12,
-      "is_supermarket": false,
-      "as_of": "2026-09-04",
-      "stale": false,
-      "cells": [
-        {
-          "display": "166.9p",
-          "val": "166.9",
-          "cheapest": false
-        },
-        {
-          "display": "179.9p",
-          "val": "179.9",
-          "cheapest": false
-        },
-        {
-          "display": "187.9p",
-          "val": "187.9",
+          "display": "189.9p",
+          "val": "189.9",
           "cheapest": false
         },
         {
@@ -3150,7 +3111,46 @@
           "cheapest": false
         }
       ],
-      "popup": "MFG New Quarry — from 166.9p"
+      "popup": "MFG Fosseway — from 167.9p"
+    },
+    {
+      "name": "MFG New Quarry",
+      "address": "CHESTERTON LANE, GL7 1YD",
+      "postcode": "GL7 1YD",
+      "lat": 51.707567,
+      "lon": -1.962595,
+      "distance_miles": 14.12,
+      "is_supermarket": false,
+      "as_of": "2026-09-07",
+      "stale": false,
+      "cells": [
+        {
+          "display": "167.9p",
+          "val": "167.9",
+          "cheapest": false
+        },
+        {
+          "display": "189.9p",
+          "val": "189.9",
+          "cheapest": false
+        },
+        {
+          "display": "189.9p",
+          "val": "189.9",
+          "cheapest": false
+        },
+        {
+          "display": "209.9p",
+          "val": "209.9",
+          "cheapest": false
+        },
+        {
+          "display": "–",
+          "val": "9999",
+          "cheapest": false
+        }
+      ],
+      "popup": "MFG New Quarry — from 167.9p"
     },
     {
       "name": "Shell Little Waitrose Oldbury",
@@ -3355,22 +3355,22 @@
       "lon": -2.086019,
       "distance_miles": 14.6,
       "is_supermarket": false,
-      "as_of": "2026-09-07",
+      "as_of": "2026-09-08",
       "stale": false,
       "cells": [
         {
-          "display": "163.9p",
-          "val": "163.9",
+          "display": "165.9p",
+          "val": "165.9",
           "cheapest": false
         },
         {
-          "display": "183.9p",
-          "val": "183.9",
+          "display": "185.9p",
+          "val": "185.9",
           "cheapest": false
         },
         {
-          "display": "184.9p",
-          "val": "184.9",
+          "display": "186.9p",
+          "val": "186.9",
           "cheapest": false
         },
         {
@@ -3384,7 +3384,7 @@
           "cheapest": false
         }
       ],
-      "popup": "Cox's Cars Ltd — from 163.9p"
+      "popup": "Cox's Cars Ltd — from 165.9p"
     },
     {
       "name": "Fromebridge Service Station",
@@ -3433,17 +3433,12 @@
       "lon": -2.083965,
       "distance_miles": 14.78,
       "is_supermarket": false,
-      "as_of": "2026-09-06",
+      "as_of": "2026-09-07",
       "stale": false,
       "cells": [
         {
-          "display": "163.9p",
-          "val": "163.9",
-          "cheapest": false
-        },
-        {
-          "display": "183.9p",
-          "val": "183.9",
+          "display": "165.9p",
+          "val": "165.9",
           "cheapest": false
         },
         {
@@ -3452,8 +3447,13 @@
           "cheapest": false
         },
         {
-          "display": "205.9p",
-          "val": "205.9",
+          "display": "186.9p",
+          "val": "186.9",
+          "cheapest": false
+        },
+        {
+          "display": "206.9p",
+          "val": "206.9",
           "cheapest": false
         },
         {
@@ -3462,7 +3462,7 @@
           "cheapest": false
         }
       ],
-      "popup": "BP Threesprings Service Station — from 163.9p"
+      "popup": "BP Threesprings Service Station — from 165.9p"
     },
     {
       "name": "Evesham Worcester Rd Superstore - Petrol Filling Station",
@@ -3550,27 +3550,27 @@
       "lon": -1.725595,
       "distance_miles": 15.15,
       "is_supermarket": false,
-      "as_of": "2026-09-05",
+      "as_of": "2026-09-08",
       "stale": false,
       "cells": [
         {
-          "display": "165.9p",
-          "val": "165.9",
+          "display": "167.9p",
+          "val": "167.9",
           "cheapest": false
         },
         {
-          "display": "186.9p",
-          "val": "186.9",
+          "display": "188.9p",
+          "val": "188.9",
           "cheapest": false
         },
         {
-          "display": "187.9p",
-          "val": "187.9",
+          "display": "189.9p",
+          "val": "189.9",
           "cheapest": false
         },
         {
-          "display": "208.9p",
-          "val": "208.9",
+          "display": "210.9p",
+          "val": "210.9",
           "cheapest": false
         },
         {
@@ -3579,7 +3579,7 @@
           "cheapest": false
         }
       ],
-      "popup": "Station Road SF Connect — from 165.9p"
+      "popup": "Station Road SF Connect — from 167.9p"
     },
     {
       "name": "Quarry",
@@ -3667,7 +3667,7 @@
       "lon": -2.431108,
       "distance_miles": 15.96,
       "is_supermarket": false,
-      "as_of": "2026-09-05",
+      "as_of": "2026-09-08",
       "stale": false,
       "cells": [
         {
@@ -3676,8 +3676,8 @@
           "cheapest": false
         },
         {
-          "display": "175.9p",
-          "val": "175.9",
+          "display": "185.9p",
+          "val": "185.9",
           "cheapest": false
         },
         {
@@ -3940,27 +3940,27 @@
       "lon": -2.492738,
       "distance_miles": 17.69,
       "is_supermarket": false,
-      "as_of": "2026-08-24",
-      "stale": true,
+      "as_of": "2026-09-07",
+      "stale": false,
       "cells": [
         {
-          "display": "159.9p",
-          "val": "159.9",
+          "display": "166.9p",
+          "val": "166.9",
           "cheapest": false
         },
         {
-          "display": "179.9p",
-          "val": "179.9",
+          "display": "186.9p",
+          "val": "186.9",
           "cheapest": false
         },
         {
-          "display": "182.9p",
-          "val": "182.9",
+          "display": "187.9p",
+          "val": "187.9",
           "cheapest": false
         },
         {
-          "display": "202.9p",
-          "val": "202.9",
+          "display": "207.9p",
+          "val": "207.9",
           "cheapest": false
         },
         {
@@ -3969,7 +3969,7 @@
           "cheapest": false
         }
       ],
-      "popup": "Lea Garage — from 159.9p"
+      "popup": "Lea Garage — from 166.9p"
     },
     {
       "name": "Mitcheldean Fuel Express Automat",
@@ -4096,12 +4096,12 @@
       "lon": -2.311248,
       "distance_miles": 17.95,
       "is_supermarket": false,
-      "as_of": "2026-09-05",
+      "as_of": "2026-09-08",
       "stale": false,
       "cells": [
         {
-          "display": "167.9p",
-          "val": "167.9",
+          "display": "169.9p",
+          "val": "169.9",
           "cheapest": false
         },
         {
@@ -4110,8 +4110,8 @@
           "cheapest": false
         },
         {
-          "display": "187.9p",
-          "val": "187.9",
+          "display": "189.9p",
+          "val": "189.9",
           "cheapest": false
         },
         {
@@ -4125,7 +4125,7 @@
           "cheapest": false
         }
       ],
-      "popup": "PJ Nicholls Ltd Malvern — from 167.9p"
+      "popup": "PJ Nicholls Ltd Malvern — from 169.9p"
     },
     {
       "name": "Tetbury Superstore - Petrol Filling Station",
@@ -4174,7 +4174,7 @@
       "lon": -2.302784,
       "distance_miles": 18.71,
       "is_supermarket": true,
-      "as_of": "2026-09-06",
+      "as_of": "2026-09-07",
       "stale": false,
       "cells": [
         {
@@ -4183,8 +4183,8 @@
           "cheapest": false
         },
         {
-          "display": "177.9p",
-          "val": "177.9",
+          "display": "185.9p",
+          "val": "185.9",
           "cheapest": false
         },
         {
@@ -4486,7 +4486,7 @@
       "lon": -1.749113,
       "distance_miles": 19.44,
       "is_supermarket": false,
-      "as_of": "2026-09-06",
+      "as_of": "2026-09-07",
       "stale": false,
       "cells": [
         {
@@ -4495,8 +4495,8 @@
           "cheapest": false
         },
         {
-          "display": "179.9p",
-          "val": "179.9",
+          "display": "189.9p",
+          "val": "189.9",
           "cheapest": false
         },
         {
@@ -4505,8 +4505,8 @@
           "cheapest": false
         },
         {
-          "display": "199.9p",
-          "val": "199.9",
+          "display": "209.9p",
+          "val": "209.9",
           "cheapest": false
         },
         {

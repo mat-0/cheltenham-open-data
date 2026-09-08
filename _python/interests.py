@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Fetch OSM points of interest (incl. plaques) near Cheltenham via Overpass,
 write _data/points_of_interest.json as a distance-sorted array."""
+import re
 import json
 import os
 import math
@@ -71,6 +72,13 @@ def build_query():
             clauses.append(f"{kind}(around:{RADIUS_M},{LAT},{LNG}){selector};")
     return f"[out:json][timeout:90];({''.join(clauses)});out center tags;"
 
+def normalize_url(url: str) -> str:
+    url = url.strip()
+    if not url:
+        return ""
+    if not re.match(r'^https?://', url, re.IGNORECASE):
+        url = "https://" + url
+    return url
 
 def main():
     resp = requests.post(OVERPASS, data={"data": build_query()},
@@ -94,7 +102,7 @@ def main():
             "category":    classify(tags),
             "distance":    haversine_miles(LAT, LNG, lat, lon),
             "postcode":    tags.get("addr:postcode", ""),
-            "website":     tags.get("website") or tags.get("contact:website", ""),
+            "website": normalize_url(tags.get("website") or tags.get("contact:website", "")),
             "wikipedia":   wiki_url(tags),
             "gmaps":       f"https://www.google.com/maps/search/?api=1&query={lat},{lon}",
             "inscription": tags.get("inscription", ""),

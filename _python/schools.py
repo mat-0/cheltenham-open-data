@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 """Filter GIAS schools to Cheltenham postcode districts, write _data/schools.json."""
-import csv, json, os
+import re
+import csv
+import json
+import os
 
 HERE = os.path.dirname(os.path.abspath(__file__))          # _python/
 SRC  = os.path.join(HERE, "..", "_data-sources", "edubasealldata.csv")
@@ -15,6 +18,14 @@ def district(postcode: str) -> str:
 def address(row) -> str:
     parts = [row.get(k, "").strip() for k in ("Street", "Locality", "Address3", "Town")]
     return ", ".join(p for p in parts if p)
+
+def normalize_url(url: str) -> str:
+    url = url.strip()
+    if not url:
+        return ""
+    if not re.match(r'^https?://', url, re.IGNORECASE):
+        url = "https://" + url
+    return url
 
 schools = []
 with open(SRC, encoding="latin-1", newline="") as f:
@@ -32,7 +43,7 @@ with open(SRC, encoding="latin-1", newline="") as f:
             "address":              address(row),
             "postcode":             row["Postcode"].strip(),
             "district":             district(row["Postcode"]),
-            "website":              row.get("SchoolWebsite", "").strip(),
+            "website":              normalize_url(row.get("SchoolWebsite", "").strip()),
             "urn_url": f"https://get-information-schools.service.gov.uk/Establishments/Establishment/Details/{urn}",
         })
 

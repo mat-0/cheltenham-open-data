@@ -43,12 +43,14 @@ jobs:
 
             - name: Processing Python Scripts
               run: |-
+                  python '_python/forecast.py'
                   python '_python/flood.py'
                   python '_python/foodbank.py'
                   python '_python/terrorism.py'
                   python '_python/pharmacy.py'
                   python '_python/post-office.py'
                   python '_python/toilets.py'
+                  python '_python/weather.py'
 
             - name: Commit and push if changed
               id: commit

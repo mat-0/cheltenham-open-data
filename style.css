@@ -274,8 +274,7 @@ ul ul,
 ol ol,
 ol ul,
 ul ol {
-    margin-top: 0.6em;
-    margin-bottom: 0.6em;
+    margin: 0.6em;
 }
 
 ol li::marker {
@@ -284,6 +283,11 @@ ol li::marker {
 
 ul li::marker {
     color: var(--accent);
+}
+
+li.posts,
+li.events {
+    margin: 1em;
 }
 
 a {
