@@ -244,6 +244,8 @@ footer_columns:
       - name: Cheltenham Events (atom)
         link: /feeds/events.xml
       - heading: Meta
+      - name: Terms &copy; Conditions
+        link: /terms
       - name: Privacy Policy
         link: /privacy
       - name: Privacy.txt
