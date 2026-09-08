@@ -6,8 +6,18 @@ import os
 import sys
 from datetime import datetime, time, timezone
 from urllib.parse import urlparse, parse_qs, urlencode, urlunparse
-
+import pathlib
 import requests
+
+
+# Load .env file for local development if present
+_env_file = pathlib.Path(__file__).parent.parent / ".env"
+if _env_file.exists():
+    for _line in _env_file.read_text().splitlines():
+        _line = _line.strip()
+        if _line and not _line.startswith("#") and "=" in _line:
+            _k, _v = _line.split("=", 1)
+            os.environ.setdefault(_k.strip(), _v.strip())
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 OUT  = os.path.join(HERE, "..", "_data", "weather.json")
