@@ -31,7 +31,7 @@
   },
   {
     "id": "64be5d71d6000144cd217ec2",
-    "name": "Bath Terrace car park",
+    "name": "Bath Terrace Car Park",
     "latitude": 51.8899619,
     "longitude": -2.07937416,
     "maps_url": "https://www.google.com/maps/search/?api=1&query=51.8899619,-2.07937416",
@@ -143,7 +143,7 @@
   },
   {
     "id": "b2fafe211b9d1ac99179f3f4",
-    "name": "Cheltenham race course",
+    "name": "Cheltenham Race Course",
     "latitude": 51.91977979,
     "longitude": -2.067865133,
     "maps_url": "https://www.google.com/maps/search/?api=1&query=51.91977979,-2.067865133",
@@ -173,7 +173,7 @@
   },
   {
     "id": "fd1feae66ad4d90f08728f23",
-    "name": "Cheltenham Racecourse Station (GWSR)",
+    "name": "Cheltenham Racecourse Station (gwsr)",
     "latitude": 51.924396677,
     "longitude": -2.067918777,
     "maps_url": "https://www.google.com/maps/search/?api=1&query=51.924396677,-2.067918777",
@@ -247,7 +247,7 @@
   },
   {
     "id": "acd37e997221d4210647dbf8",
-    "name": "Imperial Square (side of Town Hall)",
+    "name": "Imperial Square (side Of Town Hall)",
     "latitude": 51.897280767,
     "longitude": -2.077660561,
     "maps_url": "https://www.google.com/maps/search/?api=1&query=51.897280767,-2.077660561",
@@ -321,7 +321,7 @@
   },
   {
     "id": "2ba1639e492bde792f7d9223",
-    "name": "Marks and Spencers - Cheltenham",
+    "name": "Marks And Spencers - Cheltenham",
     "latitude": 51.900873888,
     "longitude": -2.073401213,
     "maps_url": "https://www.google.com/maps/search/?api=1&query=51.900873888,-2.073401213",
@@ -447,7 +447,7 @@
   },
   {
     "id": "17a512856d33a909ab4423b6",
-    "name": "Royal Well Road (Opposite Bus Station)",
+    "name": "Royal Well Road (opposite Bus Station)",
     "latitude": 51.899874265,
     "longitude": -2.077655196,
     "maps_url": "https://www.google.com/maps/search/?api=1&query=51.899874265,-2.077655196",
@@ -469,7 +469,7 @@
   },
   {
     "id": "b4db1963c633f0c4794ed326",
-    "name": "Sainsbury's Superstore - Cheltenham (Tewskbury Rd)",
+    "name": "Sainsbury's Superstore - Cheltenham (tewskbury Rd)",
     "latitude": 51.918146975,
     "longitude": -2.106542587,
     "maps_url": "https://www.google.com/maps/search/?api=1&query=51.918146975,-2.106542587",
@@ -499,7 +499,7 @@
   },
   {
     "id": "1bd3b134d9b5c71ae6687244",
-    "name": "Sainsbury's Superstore - Cheltenham (Whaddon)",
+    "name": "Sainsbury's Superstore - Cheltenham (whaddon)",
     "latitude": 51.90198437,
     "longitude": -2.048864365,
     "maps_url": "https://www.google.com/maps/search/?api=1&query=51.90198437,-2.048864365",
@@ -521,7 +521,7 @@
   },
   {
     "id": "3b0aa7f8c7cc6c573271f34f",
-    "name": "Sandford Park (summer only)",
+    "name": "Sandford Park (summer Only)",
     "latitude": 51.893573147,
     "longitude": -2.069141865,
     "maps_url": "https://www.google.com/maps/search/?api=1&query=51.893573147,-2.069141865",
@@ -661,7 +661,7 @@
   },
   {
     "id": "0f71d04bc9a4d2b740b223a8",
-    "name": "Waterstones - upper floor",
+    "name": "Waterstones - Upper Floor",
     "latitude": 51.900122645,
     "longitude": -2.076407919,
     "maps_url": "https://www.google.com/maps/search/?api=1&query=51.900122645,-2.076407919",

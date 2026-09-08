@@ -106,13 +106,25 @@ There are a number of local shops that offer refillable (bring your own containe
 
 ## Frequently Asked Questions
 
+### Can I Recycle Batteries?
+
+- Yes, many suppermarkets and shops selling batteries have bins for recycling including Lidl on Tewkesbury Road, and ASDA in Hatherley.
+
 ### Can I Recycle Coffee Pods?
 
-- Yes, these can be bagged up separately and collected kerbside.
+- Yes, these can be put in specifc podback bags and collected kerbside.
 
 ### Can I Recycle a Tetra Pak Carton?
 
 - Yes, as of 2026, you can place Tetra Pak cartons in with your plastics and can recycling box
+
+### Can I Recycle Packs for Contact lenses
+
+- Yes, These can be recycled at Boots Opticians in the town centre.
+
+### Can I Recycle Empty Beauty Products
+
+- Yes, if you use the Boots Advantage Card you can take a photo in the app and collect points for each item recycled using their scan2recycle scheme.
 
 ### Can I Recycle Medication Blister Packs?
 

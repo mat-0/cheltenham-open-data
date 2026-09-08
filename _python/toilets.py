@@ -205,6 +205,19 @@ def fetch_data(url: str) -> list[dict]:
     resp.raise_for_status()
     return resp.json()
 
+ACRONYMS = {"WH", "BP", "ASDA", "GWSR", "UK"}
+
+def clean_name(raw):
+    """Title-case a station name, collapse stray whitespace, and keep known
+    brand acronyms and road numbers (A40, B4083, etc.) uppercase."""
+    out = []
+    for w in (raw or "").split():
+        up = w.upper()
+        if up in ACRONYMS or any(c.isdigit() for c in w):
+            out.append(up)                       # ASDA, MFG, A417, 80-86…
+        else:
+            out.append(w[:1].upper() + w[1:].lower())
+    return " ".join(out)
 
 def tidy_name(name: str) -> str:
     """Fix 'Waterstones- upper floor' -> 'Waterstones - upper floor'.
@@ -214,7 +227,7 @@ def tidy_name(name: str) -> str:
     part of a double-barrelled name. Untouched: 'Stratford-upon-Avon'
     (no spaces at all) and already-correct 'Foo - bar' (already has both).
     """
-    return re.sub(r"(?<! )- ", " - ", name)
+    return clean_name(re.sub(r"(?<! )- ", " - ", name))
 
 
 def google_maps_url(lat: float, lon: float) -> str:
