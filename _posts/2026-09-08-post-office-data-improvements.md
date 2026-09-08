@@ -7,7 +7,7 @@ seo: Find Cheltenham's nearest post office with map and table of addresses.
 date: 2026-09-08 07:00
 ---
 
-Cheltenham Open Data has expanded the [post office locations page](/cheltenham-post-offices).
+Cheltenham Open Data has expanded the [post office locations page](/cheltenham-post-office-locations).
 
 Pulling OpenStreeMap data, the page now shows a tables of all post offices in the area, as well as a map showing the locations.
 
