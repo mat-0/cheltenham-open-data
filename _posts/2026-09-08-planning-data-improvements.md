@@ -15,11 +15,11 @@ The page covers roughly the last **90 days** of activity.
 
 ## FAQs
 
-### What does the planning page show?
+### What Does the Planning Page Show?
 
 - Two tables: applications recently received by Cheltenham Borough Council, and applications recently decided. Both are sortable by date, location, postcode and status, and each row links through to the full record on the council's portal.
 
-### How far back does it go?
+### How Far Back Does It Go?
 
 - The page keeps roughly the last 90 days of activity, covering everything from tree works and householder extensions to larger housing and commercial schemes.
 
@@ -31,6 +31,6 @@ The page covers roughly the last **90 days** of activity.
 
 - The list is refreshed daily as new applications are submitted and decisions are published.
 
-### What do the reference codes mean?
+### What Do the Reference Codes Mean?
 
 - A reference beginning with a two-digit year (for example 26/00415/FUL) shows the year of submission. FUL is a full application; OUT is an outline application, where only the principle of development is agreed and the detail is reserved for later.

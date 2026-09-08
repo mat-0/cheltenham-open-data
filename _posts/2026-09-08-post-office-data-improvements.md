@@ -13,23 +13,23 @@ Pulling OpenStreeMap data, the page now shows a tables of all post offices in th
 
 ## FAQs
 
-### What does the planning page show?
+### What Does the Post Office Page Show?
 
 - A table. showing each post office name, address, type and a link to Google Maps.
 
-### Where does the planning data come from?
+### Where Does the Post Office Data Come From?
 
 - Directly from OpenStreeMap available under the [Open Database Licence (ODbL)](https://opendatacommons.org/licenses/odbl/)
 
-### How often is it updated?
+### How Often Is It Updated?
 
 - The list is refreshed daily to ensure data is accruate and timely, post offices don't tend to change often.
 
-### What do the type codes mean?
+### What Do the Type Codes Mean?
 
 - This is a value their determines whether this is a counter style branch or a dedicated building unit or area. It's an exercise for the reader to determine the true difference between the dedicate area upstairs in WH Smith's vs half a newsagents on Bath Road, for exmple.
 
-### What can you do in a Post Office
+### What Can You Do in a Post Office
 
 - Most branches offer core postal and banking services, though exact services vary by location — smaller branches inside newsagents or convenience stores may offer a reduced range compared to the main High Street office. Typical services include:
   - Sending letters and parcels, first and second class post

@@ -118,7 +118,7 @@ There are a number of local shops that offer refillable (bring your own containe
 
 - Yes, as of 2026, you can place Tetra Pak cartons in with your plastics and can recycling box
 
-### Can I Recycle Packs for Contact lenses
+### Can I Recycle Packs for Contact Lenses
 
 - Yes, These can be recycled at Boots Opticians in the town centre.
 
